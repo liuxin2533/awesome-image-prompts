@@ -1,0 +1,23 @@
+# 忽略上游仓库（仅本地使用）
+upstream/
+
+# Node modules
+node_modules/
+
+# 日志
+*.log
+npm-debug.log*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+.cache/
