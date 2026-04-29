@@ -1,10 +1,10 @@
 <div align="center">
 
-# Awesome Image Prompts
+# 优质图像提示词合集
 
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/简体中文-Click%20to%20View-lightgrey)](README_zh-CN.md)
+[![English](https://img.shields.io/badge/English-Click%20to%20View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/简体中文-Current-brightgreen)](README_zh-CN.md)
 
-A curated collection of high-quality image generation prompts from various open-source projects.
+来自多个开源项目的优质图像生成提示词精选合集
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://gptimages.dev)
@@ -15,43 +15,43 @@ A curated collection of high-quality image generation prompts from various open-
 ---
 
 
-## 🍌 Introduction
+## 🍌 项目介绍
 
-Welcome to the **Awesome Image Prompts** repository! 🤗
+欢迎来到 **Awesome Image Prompts** 仓库！🤗
 
-This repository curates high-quality image generation prompts from various open-source projects, providing a unified collection for AI image generation enthusiasts.
+本仓库汇集了来自多个开源项目的高质量图像生成提示词，为 AI 图像生成爱好者提供统一的知识库。
 
-**Features:**
-- Unified data format across multiple sources
-- Multi-language support
-- Categorized prompts for easy discovery
-- High-quality examples with images
+**特点：**
+- 统一的数据格式
+- 多语言支持
+- 分类清晰，便于探索
+- 高质量示例图片
 
-If you find this useful, consider giving it a star. ⭐
+如果你觉得有用，请给个 Star。⭐
 
 > [!NOTE]
-> This repository is auto-generated and updated daily via GitHub Actions.
+> 本仓库通过 GitHub Actions 每日自动同步更新。
 
-[👉 Visit Website](https://gptimages.dev)
+[👉 访问网站](https://gptimages.dev)
 
 
-## 📰 News
+## 📰 更新日志
 
-- **April 29, 2026:** Added 427 cases (7 Portrait & Photography, 6 portrait, 216 Poster & Illustration, 12 poster, 40 UI & Social Media, 4 ui, 26 Comparison & Community, 41 Infographic, 18 Illustration, 10 Architecture, 10 Character Design, 15 Photography, 11 E-commerce, 11 Brand & Logo)
-- **April 28, 2026:** Added 8 cases (2 Portrait & Photography, 6 Poster & Illustration)
-- **April 27, 2026:** Added 125 cases (61 Poster & Illustration, 32 UI & Social Media, 20 Portrait & Photography, 4 Character Design, 6 Comparison & Community, 2 Comic, 1 Poster)
-- **April 26, 2026:** Added 91 cases (28 Portrait, 2 Photography, 2 Cinematic, 11 Anime, 2 3D Render, 1 Cyberpunk, 1 Ink, 18 Social Media, 9 Poster, 17 Infographic, 1 Isometric, 1 Minimalism, 5 YouTube Thumbnail, 16 Comic, 14 Product Marketing, 3 E-commerce)
-- **April 25, 2026:** Added 8 cases (2 YouTube Thumbnail, 1 Cinematic, 6 E-commerce, 1 Photography, 1 Ink, 1 Minimalism)
-- **April 24, 2026:** Added 8 cases (1 YouTube Thumbnail, 1 Anime, 7 E-commerce)
-- **April 23, 2026:** Added 11 cases (11 YouTube Thumbnail, 6 Anime, 2 Poster, 2 Cyberpunk, 1 Illustration, 1 Ink)
+- **2026年4月29日:** 新增 427 条 (7 Portrait & Photography, 6 portrait, 216 Poster & Illustration, 12 poster, 40 UI & Social Media, 4 ui, 26 Comparison & Community, 41 Infographic, 18 Illustration, 10 Architecture, 10 Character Design, 15 Photography, 11 E-commerce, 11 Brand & Logo)
+- **2026年4月28日:** 新增 8 条 (2 Portrait & Photography, 6 Poster & Illustration)
+- **2026年4月27日:** 新增 125 条 (61 Poster & Illustration, 32 UI & Social Media, 20 Portrait & Photography, 4 Character Design, 6 Comparison & Community, 2 Comic, 1 Poster)
+- **2026年4月26日:** 新增 91 条 (28 Portrait, 2 Photography, 2 Cinematic, 11 Anime, 2 3D Render, 1 Cyberpunk, 1 Ink, 18 Social Media, 9 Poster, 17 Infographic, 1 Isometric, 1 Minimalism, 5 YouTube Thumbnail, 16 Comic, 14 Product Marketing, 3 E-commerce)
+- **2026年4月25日:** 新增 8 条 (2 YouTube Thumbnail, 1 Cinematic, 6 E-commerce, 1 Photography, 1 Ink, 1 Minimalism)
+- **2026年4月24日:** 新增 8 条 (1 YouTube Thumbnail, 1 Anime, 7 E-commerce)
+- **2026年4月23日:** 新增 11 条 (11 YouTube Thumbnail, 6 Anime, 2 Poster, 2 Cyberpunk, 1 Illustration, 1 Ink)
 
-> Data sources: EvoLinkAI/awesome-gpt-image-2-prompts, freestylefly/awesome-gpt-image-2, YouMind-OpenLab/awesome-gpt-image-2
+> 数据来源: EvoLinkAI/awesome-gpt-image-2-prompts, freestylefly/awesome-gpt-image-2, YouMind-OpenLab/awesome-gpt-image-2
 
-## 📑 Menu
+## 📑 目录
 
-- [🍌 Introduction](#-introduction)
-- [📰 News](#-news)
-- [📑 Menu](#-menu)
+- [🍌 项目介绍](#-项目介绍)
+- [📰 更新日志](#-更新日志)
+- [📑 目录](#-目录)
 
 - [Poster & Illustration](docs/poster-illustration.md) (321)
 - [UI & Social Media](docs/ui-social-media.md) (91)
@@ -82,20 +82,20 @@ If you find this useful, consider giving it a star. ⭐
 - [General](docs/general.md) (1)
 - [Isometric](docs/isometric.md) (1)
 
-## 📊 Statistics
+## 📊 统计信息
 
-| Metric | Value |
+| 指标 | 数值 |
 |--------|-------|
-| Total Prompts | 781 |
-| Categories | 28 |
-| Authors | 302 |
-| Data Sources | 3 |
+| 提示词总数 | 781 |
+| 分类数量 | 28 |
+| 作者数量 | 302 |
+| 数据来源 | 3 |
 
 ---
 
 ## Anime
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Anime 1: [Anime Martial Arts Battle Illustration](https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0) (by [@たねもみ 2.0 / Tanemomi Ver2.0](https://x.com/Tanemomi_Ver2))
 
@@ -109,13 +109,13 @@ If you find this useful, consider giving it a star. ⭐
 An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="ch...
 ```
 
-[Original](https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0)
+[原始来源](https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0)
 
 ---
 
 ## Architecture
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Architecture 1: [建筑空间场景图](https://github.com/freestylefly/awesome-gpt-image-2) (by [@Unknown](#))
 
@@ -129,7 +129,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 A vintage 35mm film photograph of a {argument name="subject description" default="young Asian woman"} with {argument name="hair style" default="long dark wavy hair and wispy bangs"}. She is wearing a {argument name="clothing" default="white ribbed tank top and a loose beige knit cardigan slipping of...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -145,7 +145,7 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 A highly detailed, realistic photograph of a young East Asian woman sitting in a cluttered backstage dressing room, getting ready for a cosplay event. She has {argument name="hair color" default="vibrant short red"} hair styled in a bob with bangs and is wearing an elaborate fantasy warrior costume ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -169,7 +169,7 @@ A highly detailed, realistic photograph of a young East Asian woman sitting in a
         "subject": "A couple holding hands on a white sand beach, looking out at turquoi...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -185,7 +185,7 @@ A highly detailed, realistic photograph of a young East Asian woman sitting in a
 A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argument name="atmosphere" default="dark fantasy"} aesthetic. In the center, a single figure wearing a {argument name="clothing" default="long white robe"} kneels on a highly reflective stone floor, facing an ornate golden a...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -201,7 +201,7 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 A vintage, late 90s amateur flash photograph of a young man repairing an arcade machine. He is kneeling on a dark, patterned arcade carpet, looking back over his shoulder directly at the camera with a neutral expression. He wears a dark short-sleeved t-shirt, baggy blue jeans, chunky white sneakers,...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -217,7 +217,7 @@ A vintage, late 90s amateur flash photograph of a young man repairing an arcade 
 A dynamic anime illustration of a girl with spiky {argument name="hair color" default="blonde"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name="outfit style" default="dark purple and black magical uniform with gold trim and diamond gems"}. She is in an intens...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -243,7 +243,7 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
       "scene": "Futur...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -265,7 +265,7 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
       "outfit": "{argument name=\"shirt color\" default=\"grey\"} long-sleeve shirt, dark grey ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -285,7 +285,7 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
     "children": "2 children in center foreground facing the restaurant: a boy wi...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -309,13 +309,13 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
     "vi...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
 ## Brand & Logo
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Brand & Logo 1: [品牌徽标设计图](https://github.com/freestylefly/awesome-gpt-image-2) (by [@Unknown](#))
 
@@ -329,7 +329,7 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name="ball color" default="green"} basketball featuring a large white {argument name="logo design" default="Op...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -350,7 +350,7 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
     "outfit": "white collared shirt, black tie with silver accents, black jacket, black beret with ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -371,7 +371,7 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
     "...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -391,7 +391,7 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
   "color_palette": ["white", "{argument name=\"primary color\" default=\"teal\"}", "light blue"],...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -407,7 +407,7 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
 A photorealistic amateur photograph of a custom building block set resting on a light wood grain table in a living room. In the background stands a large product box with a red logo reading "{argument name="brand name" default="BRICKLY"} BUILDING SETS". The box features text reading "8+", "540 PCS",...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -423,7 +423,7 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 A bright, summery commercial product photography shot featuring a refreshing beverage on a weathered wooden table. In the sharp foreground, there is 1 tall glass filled with a golden, bubbly iced drink garnished with 1 lemon slice and a sprig of rosemary, sitting next to 1 silver aluminum can covere...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -439,7 +439,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 Generate a set of icons for {argument name="device" default="vintage electronic equipment"} in {argument name="style" default="retro skeuomorphic style"}, including icon names in the image.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -465,7 +465,7 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 第8行：头...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -493,7 +493,7 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -509,7 +509,7 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -549,13 +549,13 @@ Cinematic fitness campaign, oversized dumbbell placed diagonally like a statemen
 然后告诉我，如果这是你的品...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
 ## Character Design
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Character Design 1: [Anime Snapshot Conversion](https://x.com/Thereallo1026/status/2044241997163311569) (by [@Thereallo1026](https://x.com/Thereallo1026))
 
@@ -569,7 +569,7 @@ Cinematic fitness campaign, oversized dumbbell placed diagonally like a statemen
 Show me the attached image as a snapshot from an actual anime
 ```
 
-[Original](https://x.com/Thereallo1026/status/2044241997163311569)
+[原始来源](https://x.com/Thereallo1026/status/2044241997163311569)
 
 ---
 
@@ -589,7 +589,7 @@ Show me the attached image as a snapshot from an actual anime
 ・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格
 ```
 
-[Original](https://x.com/iamrednightS/status/2045075682837836265)
+[原始来源](https://x.com/iamrednightS/status/2045075682837836265)
 
 ---
 
@@ -615,7 +615,7 @@ Show me the attached image as a snapshot from an actual anime
 キャッチコピー:"「ここにセリフ」"
 ```
 
-[Original](https://x.com/09lyco/status/2045281845391323175)
+[原始来源](https://x.com/09lyco/status/2045281845391323175)
 
 ---
 
@@ -638,7 +638,7 @@ Show me the attached image as a snapshot from an actual anime
 高解像度、プロのコンセプトアートスタイル
 ```
 
-[Original](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
+[原始来源](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
 
 ---
 
@@ -654,7 +654,7 @@ Show me the attached image as a snapshot from an actual anime
 A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the j...
 ```
 
-[Original](https://x.com/old_pgmrs_will/status/2046144801071079612)
+[原始来源](https://x.com/old_pgmrs_will/status/2046144801071079612)
 
 ---
 
@@ -670,7 +670,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片,每张卡牌上写上对应的中文名,每行4个,宽高比16:9。
 ```
 
-[Original](https://x.com/songguoxiansen/status/2046476566537080849)
+[原始来源](https://x.com/songguoxiansen/status/2046476566537080849)
 
 ---
 
@@ -698,7 +698,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 - 顔は写実的ではなく、カオスの...
 ```
 
-[Original](https://x.com/loglogrog/status/2046448773162033240)
+[原始来源](https://x.com/loglogrog/status/2046448773162033240)
 
 ---
 
@@ -714,7 +714,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="ch...
 ```
 
-[Original](https://x.com/Tanemomi_Ver2/status/2046063806846214265)
+[原始来源](https://x.com/Tanemomi_Ver2/status/2046063806846214265)
 
 ---
 
@@ -730,7 +730,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 {argument name="game" default="gta 6"} in {argument name="location" default="Bangalore’s market flower"} in India
 ```
 
-[Original](https://x.com/ismajc/status/2048174302164394493)
+[原始来源](https://x.com/ismajc/status/2048174302164394493)
 
 ---
 
@@ -746,7 +746,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 {argument name="game" default="GTA 6"} in {argument name="bar name" default="La Jetée Bar"} (that pays homage to Chris Marker) in {argument name="location" default="Shinjuku, Tokyo"}
 ```
 
-[Original](https://x.com/ismajc/status/2048166630933282995)
+[原始来源](https://x.com/ismajc/status/2048166630933282995)
 
 ---
 
@@ -763,7 +763,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 {argument name="character" default="Eleanor"}
 ```
 
-[Original](https://x.com/yume00112211/status/2048309139013853421)
+[原始来源](https://x.com/yume00112211/status/2048309139013853421)
 
 ---
 
@@ -784,7 +784,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
     "outfit": "{argument name=\"outfit\" default=\"black and white maid uniform wit...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -808,7 +808,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
         "visual": "man in white shirt and dark pants sitti...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -824,7 +824,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 Create {argument name="items" default="fan goods"} for a standard {argument name="character type" default="Vtuber"} in {argument name="style" default="live-action"}
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -840,7 +840,7 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 {argument name="voice" default="chatgpt voice"} if it were a character
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -867,7 +867,7 @@ Adding prompts according to your preferences will make it more colorful and rich
 ・Ric...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -887,7 +887,7 @@ Adding prompts according to your preferences will make it more colorful and rich
 Please generate a key character relationship diagram for "XXX".
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -916,7 +916,7 @@ Please generate a key character relationship diagram for "XXX".
 体重:...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -936,7 +936,7 @@ Please generate a key character relationship diagram for "XXX".
 I borrowed it and tried making a character sheet using the rumored GPT-Image-2 Awesome(๑°ㅁ°๑)‼✧ It seems like it would turn out even better if I gave it various more instr...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -961,7 +961,7 @@ Based on this character and background, please create a character reference shee
 ・Includes three-view drawings: fron...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -987,13 +987,13 @@ face and clothes,
 visible leaf veins and textures...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
 ## Comic
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Comic 1: [Comic / Storyboard - Dark Fantasy Inner Monster Poster](https://x.com/miyabigoshima/status/2048999501235663327#reversed-0) (by [@五島 雅｜Goshima Production](https://x.com/miyabigoshima))
 
@@ -1007,7 +1007,7 @@ visible leaf veins and textures...
 A dark fantasy gothic poster in a vertical composition, painted in a highly detailed anime-inspired style with dramatic lighting and rich texture. At the center is a beautiful young woman with long straight {argument name="hair color" default="silver-white"} hair, pale skin, and an elegant, calm but...
 ```
 
-[Original](https://x.com/miyabigoshima/status/2048999501235663327#reversed-0)
+[原始来源](https://x.com/miyabigoshima/status/2048999501235663327#reversed-0)
 
 ---
 
@@ -1023,7 +1023,7 @@ A dark fantasy gothic poster in a vertical composition, painted in a highly deta
 Create a soft, elegant Japanese lifestyle magazine editorial page in a warm botanical watercolor style, formatted as a full-page A4 portrait layout with a cream paper background, thin beige border, muted sage-green accents, and a refined nature-themed design. The page is a single cohesive magazine s...
 ```
 
-[Original](https://x.com/Kazuch75240438/status/2048930195500081342#reversed-0)
+[原始来源](https://x.com/Kazuch75240438/status/2048930195500081342#reversed-0)
 
 ---
 
@@ -1039,7 +1039,7 @@ Create a soft, elegant Japanese lifestyle magazine editorial page in a warm bota
 A full-body fantasy anime-style illustration of a glamorous young idol-like woman performing on an ornate gilded stage inside a grand baroque palace hall. She stands in a dramatic low-angle pose on a carved gold balcony or platform, one leg forward and slightly crossed, with her left arm thrust towa...
 ```
 
-[Original](https://x.com/nanakakayell/status/2048897588326445290#reversed-0)
+[原始来源](https://x.com/nanakakayell/status/2048897588326445290#reversed-0)
 
 ---
 
@@ -1055,7 +1055,7 @@ A full-body fantasy anime-style illustration of a glamorous young idol-like woma
 A whimsical anime fairytale illustration of {argument name="character name" default="Rapunzel"} leaning out from a high stone tower window, viewed from outside at a slightly elevated angle. She wears a soft lavender medieval-inspired princess dress with puff sleeves, white lace trim, and a fitted bo...
 ```
 
-[Original](https://x.com/masukarasulove/status/2048888925352288465#reversed-0)
+[原始来源](https://x.com/masukarasulove/status/2048888925352288465#reversed-0)
 
 ---
 
@@ -1071,7 +1071,7 @@ A whimsical anime fairytale illustration of {argument name="character name" defa
 {"type":"9-panel anime comic strip","style":"dynamic manga-inspired anime illustration with warm cinematic lighting, painterly detail, bold motion lines, expressive poses, and white caption boxes with thick black outlines","subject":{"character":"{argument name=\"character name\" default=\"Honey Cha...
 ```
 
-[Original](https://x.com/HoneyAnimeX07/status/2048885514678206662#reversed-0)
+[原始来源](https://x.com/HoneyAnimeX07/status/2048885514678206662#reversed-0)
 
 ---
 
@@ -1087,7 +1087,7 @@ A whimsical anime fairytale illustration of {argument name="character name" defa
 {"type":"character design mechanics sheet","style":"cute storybook concept art, polished digital illustration mixed with rough pencil ideation, clean light gray paper background, soft shadows, subtle sparkles on successful transformations","subject":{"species":"small fluffy horned monster","name":"{...
 ```
 
-[Original](https://x.com/Design4p0/status/2048876977717686631#reversed-0)
+[原始来源](https://x.com/Design4p0/status/2048876977717686631#reversed-0)
 
 ---
 
@@ -1103,7 +1103,7 @@ A whimsical anime fairytale illustration of {argument name="character name" defa
 {"type":"cinematic tokusatsu storyboard contact sheet","genre":"superheroine in peril","style":"live-action Japanese tokusatsu stills, gritty practical-effects look, dark industrial warehouse atmosphere, realistic costumes and creature suit, dramatic low-key lighting, smoke, sparks, filmic contrast"...
 ```
 
-[Original](https://x.com/sub55623giya/status/2048871306167513591#reversed-0)
+[原始来源](https://x.com/sub55623giya/status/2048871306167513591#reversed-0)
 
 ---
 
@@ -1122,7 +1122,7 @@ A whimsical anime fairytale illustration of {argument name="character name" defa
   "layout...
 ```
 
-[Original](https://x.com/egeberkina/status/2048862692937494809)
+[原始来源](https://x.com/egeberkina/status/2048862692937494809)
 
 ---
 
@@ -1138,7 +1138,7 @@ A whimsical anime fairytale illustration of {argument name="character name" defa
 A heartwarming stylized 3D animated forest village scene at golden hour, showing 2 adorable insect characters meeting on a cobblestone path between tiny mushroom-roof cottages. In the left foreground, a cute {argument name="main insect type" default="ladybug"} crouches low with an oversized glossy b...
 ```
 
-[Original](https://x.com/KennethRow73543/status/2048842808887284227#reversed-0)
+[原始来源](https://x.com/KennethRow73543/status/2048842808887284227#reversed-0)
 
 ---
 
@@ -1154,7 +1154,7 @@ A heartwarming stylized 3D animated forest village scene at golden hour, showing
 Transform the uploaded image into cinematic 3-frame sequential film stills (horizontal frames stacked vertically), full bleed edge-to-edge. Each frame should show a different moment from the same scene, with clear progression. Vary the composition, camera angle, and distances to create a sense of mo...
 ```
 
-[Original](https://x.com/harboriis/status/2048791077587759547)
+[原始来源](https://x.com/harboriis/status/2048791077587759547)
 
 ---
 
@@ -1170,7 +1170,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 A dramatic Japanese light-novel cover illustration in high-detail anime fantasy style, square composition, showing a heroic ensemble posed for battle in a ruined mountain pass at sunset with cherry blossoms blowing through the air. The scene centers on {argument name="hero title" default="Momotaro"}...
 ```
 
-[Original](https://x.com/hyzatu/status/2048784433076195518#reversed-3)
+[原始来源](https://x.com/hyzatu/status/2048784433076195518#reversed-3)
 
 ---
 
@@ -1186,7 +1186,7 @@ A dramatic Japanese light-novel cover illustration in high-detail anime fantasy 
 Create a dramatic Japanese light-novel cover illustration for a fantasy mecha isekai story. Vertical poster composition with a huge heroic humanoid robot dominating the center foreground, viewed from a slightly low angle to make it monumental. The robot is sleek and ornate, with white and silver arm...
 ```
 
-[Original](https://x.com/hyzatu/status/2048784433076195518#reversed-1)
+[原始来源](https://x.com/hyzatu/status/2048784433076195518#reversed-1)
 
 ---
 
@@ -1202,7 +1202,7 @@ Create a dramatic Japanese light-novel cover illustration for a fantasy mecha is
 A cinematic anime-style vertical book-cover illustration for a romantic comedy light novel with slight fantasy atmosphere, split by a thin apartment wall down the center. On the left side, a warm, cozy kitchen glows in amber light from a hanging pendant lamp. A {argument name="female character name"...
 ```
 
-[Original](https://x.com/hyzatu/status/2048784433076195518#reversed-0)
+[原始来源](https://x.com/hyzatu/status/2048784433076195518#reversed-0)
 
 ---
 
@@ -1218,7 +1218,7 @@ A cinematic anime-style vertical book-cover illustration for a romantic comedy l
 A dramatic dark fantasy light-novel cover illustration in a square format, featuring a fierce female warrior centered in a dynamic lunging pose inside a dim, ruined, cathedral-like or industrial gothic interior with a smoky blurred background and warm floating embers. She has long silver-white hair ...
 ```
 
-[Original](https://x.com/hyzatu/status/2048784433076195518#reversed-2)
+[原始来源](https://x.com/hyzatu/status/2048784433076195518#reversed-2)
 
 ---
 
@@ -1234,7 +1234,7 @@ A dramatic dark fantasy light-novel cover illustration in a square format, featu
 A two-page black-and-white manga spread set in a nighttime high school band rehearsal studio, drawn in polished modern shonen/seinen manga style with detailed screentones, dramatic lighting, expressive speed lines, and glossy instrument rendering. The scene shows 4 visible band members in school uni...
 ```
 
-[Original](https://x.com/yume00112211/status/2048781121291432359#reversed-3)
+[原始来源](https://x.com/yume00112211/status/2048781121291432359#reversed-3)
 
 ---
 
@@ -1250,7 +1250,7 @@ A two-page black-and-white manga spread set in a nighttime high school band rehe
 {"type":"black-and-white manga two-page spread","genre":"quiet emotional school music drama","reading_direction":"right-to-left Japanese manga layout","print_style":"clean manga page composition with gutters, panel borders, screentone shading, detailed line art, soft night lighting, no color","setti...
 ```
 
-[Original](https://x.com/yume00112211/status/2048781121291432359#reversed-0)
+[原始来源](https://x.com/yume00112211/status/2048781121291432359#reversed-0)
 
 ---
 
@@ -1266,7 +1266,7 @@ A two-page black-and-white manga spread set in a nighttime high school band rehe
 {"type":"black-and-white manga two-page spread","style":{"medium":"monochrome manga screentone illustration","genre":"slice-of-life school music club drama","mood":"surprised reunion at night, quiet tension with comedic shock","reading":"Japanese manga layout, right-to-left feel","rendering":"clean ...
 ```
 
-[Original](https://x.com/yume00112211/status/2048781121291432359#reversed-2)
+[原始来源](https://x.com/yume00112211/status/2048781121291432359#reversed-2)
 
 ---
 
@@ -1282,13 +1282,13 @@ A two-page black-and-white manga spread set in a nighttime high school band rehe
 A black-and-white manga page spread with 5 panels on a clean white background and thin black gutters, drawn in highly detailed modern seinen/shoujo hybrid line art with soft screentones, reflective highlights, and a quiet melancholic mood. The setting is a nighttime music studio classroom with large...
 ```
 
-[Original](https://x.com/yume00112211/status/2048780858505748864#reversed-3)
+[原始来源](https://x.com/yume00112211/status/2048780858505748864#reversed-3)
 
 ---
 
 ## Comparison & Community
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Comparison & Community 1: [Wooden Bookshelf Prompt Test](https://x.com/chetaslua/status/2044331451077013749) (by [@chetaslua](https://x.com/chetaslua))
 
@@ -1302,7 +1302,7 @@ A black-and-white manga page spread with 5 panels on a clean white background an
 A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
 ```
 
-[Original](https://x.com/chetaslua/status/2044331451077013749)
+[原始来源](https://x.com/chetaslua/status/2044331451077013749)
 
 ---
 
@@ -1324,7 +1324,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 第三屏：眼眸中带着金黄红相间的美瞳，睫毛饰以橙红枫叶，脸颊散落金红秋叶，橙蝶...
 ```
 
-[Original](https://x.com/liyue_ai/status/2045000106919997637)
+[原始来源](https://x.com/liyue_ai/status/2045000106919997637)
 
 ---
 
@@ -1340,7 +1340,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。
 ```
 
-[Original](https://x.com/saskr_13/status/2044744396932079934)
+[原始来源](https://x.com/saskr_13/status/2044744396932079934)
 
 ---
 
@@ -1356,7 +1356,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的...
 ```
 
-[Original](https://x.com/MrLarus/status/2045418028733538620)
+[原始来源](https://x.com/MrLarus/status/2045418028733538620)
 
 ---
 
@@ -1372,7 +1372,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
 ```
 
-[Original](https://x.com/MANISH1027512/status/2045743158860878312)
+[原始来源](https://x.com/MANISH1027512/status/2045743158860878312)
 
 ---
 
@@ -1388,7 +1388,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 counter strike in game screenshot, mixed with Terraria
 ```
 
-[Original](https://x.com/yssrski/status/2046410519595348397)
+[原始来源](https://x.com/yssrski/status/2046410519595348397)
 
 ---
 
@@ -1404,7 +1404,7 @@ counter strike in game screenshot, mixed with Terraria
 戦前日本の怪しげな研究所を探検しているマイクラのスクリーンショット画像を作成して
 ```
 
-[Original](https://x.com/RitaStar1128/status/2046406024303976904)
+[原始来源](https://x.com/RitaStar1128/status/2046406024303976904)
 
 ---
 
@@ -1420,7 +1420,7 @@ counter strike in game screenshot, mixed with Terraria
 帮我生成xxxx真迹图片
 ```
 
-[Original](https://x.com/MrLarus/status/2046201836525302032)
+[原始来源](https://x.com/MrLarus/status/2046201836525302032)
 
 ---
 
@@ -1439,7 +1439,7 @@ counter strike in game screenshot, mixed with Terraria
 4、帮我截一张上传图片的抖音首页的女网红图
 ```
 
-[Original](https://x.com/joshesye/status/2046493442428039212)
+[原始来源](https://x.com/joshesye/status/2046493442428039212)
 
 ---
 
@@ -1455,7 +1455,7 @@ counter strike in game screenshot, mixed with Terraria
 an ingame screenshot of rust
 ```
 
-[Original](https://x.com/FixlationAI/status/2046272578705068476)
+[原始来源](https://x.com/FixlationAI/status/2046272578705068476)
 
 ---
 
@@ -1473,7 +1473,7 @@ generate image: Selfie of Sam Altman riding a bear
 Edit prompt: Remove the background make it transparent
 ```
 
-[Original](https://x.com/JustinGorya/status/2046510831832006970)
+[原始来源](https://x.com/JustinGorya/status/2046510831832006970)
 
 ---
 
@@ -1489,7 +1489,7 @@ Edit prompt: Remove the background make it transparent
 AmongUsの精密な実際のゲーム画像を生成して
 ```
 
-[Original](https://x.com/ReYYYYoking/status/2046502217843376292)
+[原始来源](https://x.com/ReYYYYoking/status/2046502217843376292)
 
 ---
 
@@ -1505,7 +1505,7 @@ AmongUsの精密な実際のゲーム画像を生成して
 在计算机博物馆里,一个程序员在展厅中央,正在演示C语言编程,很多参观者在围观,屏幕上的代码清晰可见。旁边的牌子写着:古法编程,现场表演。2D卡通画风,16:9
 ```
 
-[Original](https://x.com/XiaohuiAI666/status/2046515319947354603)
+[原始来源](https://x.com/XiaohuiAI666/status/2046515319947354603)
 
 ---
 
@@ -1521,7 +1521,7 @@ AmongUsの精密な実際のゲーム画像を生成して
 A dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions
 ```
 
-[Original](https://x.com/workingclassbud/status/2046506783850815703)
+[原始来源](https://x.com/workingclassbud/status/2046506783850815703)
 
 ---
 
@@ -1537,7 +1537,7 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図
 ```
 
-[Original](https://x.com/16kthir0GRXgNqn/status/2046507362266259832)
+[原始来源](https://x.com/16kthir0GRXgNqn/status/2046507362266259832)
 
 ---
 
@@ -1553,7 +1553,7 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 Based on the video content and this current frame, use GPT to generate a YouTube thumbnail that fits the video. You can reference the style of the image I gave you, but replace the logo on the right side of AE with theChatCut logo. I'll attach the logo for you.
 ```
 
-[Original](https://x.com/chatcutapp/status/2047228386117128475)
+[原始来源](https://x.com/chatcutapp/status/2047228386117128475)
 
 ---
 
@@ -1569,7 +1569,7 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 Generate an image of the most significant event of 2020
 ```
 
-[Original](https://x.com/Rufus87078959/status/2047211900769878234)
+[原始来源](https://x.com/Rufus87078959/status/2047211900769878234)
 
 ---
 
@@ -1585,7 +1585,7 @@ Generate an image of the most significant event of 2020
 Edit this image so that total amount changes to 244.5 baht. You can change the quantity of each of the stacks of coins until we hit the target total.
 ```
 
-[Original](https://x.com/elliscrosby/status/2047211507596071235)
+[原始来源](https://x.com/elliscrosby/status/2047211507596071235)
 
 ---
 
@@ -1601,7 +1601,7 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 Generate an image of the most significant event of 2001
 ```
 
-[Original](https://x.com/Rufus87078959/status/2047210051216011682)
+[原始来源](https://x.com/Rufus87078959/status/2047210051216011682)
 
 ---
 
@@ -1617,7 +1617,7 @@ Generate an image of the most significant event of 2001
 Research LIME Drug Design and make a detailed infographic about it
 ```
 
-[Original](https://x.com/WillSpagnoli/status/2047172976463040851)
+[原始来源](https://x.com/WillSpagnoli/status/2047172976463040851)
 
 ---
 
@@ -1633,7 +1633,7 @@ Research LIME Drug Design and make a detailed infographic about it
 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
 ```
 
-[Original](https://x.com/laogeai/status/2047228458351120625)
+[原始来源](https://x.com/laogeai/status/2047228458351120625)
 
 ---
 
@@ -1649,7 +1649,7 @@ Research LIME Drug Design and make a detailed infographic about it
 社交App匹配成功界面，两个用户资料卡碰撞爱心特效
 ```
 
-[Original](https://x.com/songguoxiansen/status/2047220490486612450)
+[原始来源](https://x.com/songguoxiansen/status/2047220490486612450)
 
 ---
 
@@ -1665,7 +1665,7 @@ Research LIME Drug Design and make a detailed infographic about it
 吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比
 ```
 
-[Original](https://x.com/songguoxiansen/status/2047198090009190441)
+[原始来源](https://x.com/songguoxiansen/status/2047198090009190441)
 
 ---
 
@@ -1681,7 +1681,7 @@ Research LIME Drug Design and make a detailed infographic about it
 玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风
 ```
 
-[Original](https://x.com/songguoxiansen/status/2047196508270084104)
+[原始来源](https://x.com/songguoxiansen/status/2047196508270084104)
 
 ---
 
@@ -1712,7 +1712,7 @@ Research LIME Drug Design and make a detailed infographic about it
 水面清澈极简平...
 ```
 
-[Original](https://x.com/liyue_ai/status/2047180347448914195)
+[原始来源](https://x.com/liyue_ai/status/2047180347448914195)
 
 ---
 
@@ -1728,7 +1728,7 @@ Research LIME Drug Design and make a detailed infographic about it
 苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人
 ```
 
-[Original](https://x.com/nidiedeba/status/2047147223281270878)
+[原始来源](https://x.com/nidiedeba/status/2047147223281270878)
 
 ---
 
@@ -1744,7 +1744,7 @@ Research LIME Drug Design and make a detailed infographic about it
 结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧
 ```
 
-[Original](https://x.com/Aurora_62340/status/2047139992355680530)
+[原始来源](https://x.com/Aurora_62340/status/2047139992355680530)
 
 ---
 
@@ -1762,7 +1762,7 @@ Research LIME Drug Design and make a detailed infographic about it
 能免费试一次 ⬇️
 ```
 
-[Original](https://x.com/AntCaveClub/status/2047136306485133428)
+[原始来源](https://x.com/AntCaveClub/status/2047136306485133428)
 
 ---
 
@@ -1778,7 +1778,7 @@ Research LIME Drug Design and make a detailed infographic about it
 中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺
 ```
 
-[Original](https://x.com/songguoxiansen/status/2047129703702802811)
+[原始来源](https://x.com/songguoxiansen/status/2047129703702802811)
 
 ---
 
@@ -1794,7 +1794,7 @@ Research LIME Drug Design and make a detailed infographic about it
 9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披宽袖玄色长袍，衣袍和长袖被风吹得剧烈飘扬翻飞，紧身劲装勾勒身材，腰束软剑带，足踏长靴，右手持一把古剑，剑身散发幽蓝剑气光芒，动态姿势：身体微侧回眸，衣袂猎猎，背景为月夜雨雾笼罩的竹林古道，巨大明月高悬，石板小径，古灯笼，薄雾雨丝，戏剧性冷月光与蓝光剑气结合，湿身水光效果，超强动态感，细腻布料褶皱、头发丝飘动、真实水珠反光，电影级光影，8k，masterpiece, best quality, ultra realis...
 ```
 
-[Original](https://x.com/CoderDaMing/status/2047127585256358221)
+[原始来源](https://x.com/CoderDaMing/status/2047127585256358221)
 
 ---
 
@@ -1810,7 +1810,7 @@ Research LIME Drug Design and make a detailed infographic about it
 根据佛经对观音菩萨的形象描述，原原本本的还原一张真实的观音菩萨形象照片，皮肤与衣服接近真实，画质iPhone 15 pro
 ```
 
-[Original](https://x.com/Zhaoge01/status/2047123570485260753)
+[原始来源](https://x.com/Zhaoge01/status/2047123570485260753)
 
 ---
 
@@ -1826,7 +1826,7 @@ Research LIME Drug Design and make a detailed infographic about it
 唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷
 ```
 
-[Original](https://x.com/songguoxiansen/status/2047122441454096527)
+[原始来源](https://x.com/songguoxiansen/status/2047122441454096527)
 
 ---
 
@@ -1842,7 +1842,7 @@ Research LIME Drug Design and make a detailed infographic about it
 根据真实历史对杨玉环的形象描述，生成一张杨贵妃真实照片，画质为iPhone 15 pro
 ```
 
-[Original](https://x.com/Zhaoge01/status/2047110776897638568)
+[原始来源](https://x.com/Zhaoge01/status/2047110776897638568)
 
 ---
 
@@ -1858,7 +1858,7 @@ Research LIME Drug Design and make a detailed infographic about it
 参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的窗户里也有各式各样的人物，学习的学生，吵架的夫妻，玩游戏的宅男，以及更多的发挥细节。讽刺现实拥挤中的无聊，都市繁华下的孤独，无意义的人生中又有一种病态的美感。画面要有极高的审美价值 ，不能因为拼内容而损失美和协调感，比例是9:16
 ```
 
-[Original](https://x.com/Tresmort/status/2047105322863460496)
+[原始来源](https://x.com/Tresmort/status/2047105322863460496)
 
 ---
 
@@ -1874,7 +1874,7 @@ Research LIME Drug Design and make a detailed infographic about it
 狐妖小红娘涂山雅雅写真大片，粉色九尾狐裘紧身裙，媚眼如丝，红唇微张，极致妖媚
 ```
 
-[Original](https://x.com/sdjn_wgc/status/2046981757325475954)
+[原始来源](https://x.com/sdjn_wgc/status/2046981757325475954)
 
 ---
 
@@ -1890,7 +1890,7 @@ Research LIME Drug Design and make a detailed infographic about it
 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
 ```
 
-[Original](https://x.com/LVWANGJI_0327/status/2046974302227206525)
+[原始来源](https://x.com/LVWANGJI_0327/status/2046974302227206525)
 
 ---
 
@@ -1916,7 +1916,7 @@ Research LIME Drug Design and make a detailed infographic about it
 风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格
 ```
 
-[Original](https://x.com/liyue_ai/status/2046962895775580442)
+[原始来源](https://x.com/liyue_ai/status/2046962895775580442)
 
 ---
 
@@ -1937,7 +1937,7 @@ Research LIME Drug Design and make a detailed infographic about it
 发型为...
 ```
 
-[Original](https://x.com/zhiyangzhu22222/status/2046952985562062888)
+[原始来源](https://x.com/zhiyangzhu22222/status/2046952985562062888)
 
 ---
 
@@ -1955,7 +1955,7 @@ Research LIME Drug Design and make a detailed infographic about it
 图片2：霸天虎全员列阵外星战舰甲板，威震天坐于王座俯视全军
 ```
 
-[Original](https://x.com/songguoxiansen/status/2046952548469530716)
+[原始来源](https://x.com/songguoxiansen/status/2046952548469530716)
 
 ---
 
@@ -1983,7 +1983,7 @@ Research LIME Drug Design and make a detailed infographic about it
 画面包含以下标注，每处标注...
 ```
 
-[Original](https://x.com/GeekCatX/status/2046939656244318676)
+[原始来源](https://x.com/GeekCatX/status/2046939656244318676)
 
 ---
 
@@ -2002,7 +2002,7 @@ Research LIME Drug Design and make a detailed infographic about it
 GPT Image-2で生成したやつ→
 ```
 
-[Original](https://x.com/MajaDesignJP/status/2047235632934928765)
+[原始来源](https://x.com/MajaDesignJP/status/2047235632934928765)
 
 ---
 
@@ -2018,7 +2018,7 @@ GPT Image-2で生成したやつ→
 A side-by-side comparison graphic on a black background demonstrating a camera-angle change in the same restaurant scene. At the top, large white sans-serif text reads: "Show me the POV from someone standing behind the bar looking out over this crowded restaurant. Change NOTHING in the scene other t...
 ```
 
-[Original](https://x.com/chesnyfcb/status/2047714457774637213)
+[原始来源](https://x.com/chesnyfcb/status/2047714457774637213)
 
 ---
 
@@ -2034,7 +2034,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 {"type":"comparison graphic","style":"anime cinematic demonstration image on a black presentation background","canvas":{"aspect_ratio":"4:3","background":"solid black"},"text_elements":[{"text":"{argument name=\"headline text\" default=\"Move the camera POV to be at ground level in the crowd.\"}","p...
 ```
 
-[Original](https://x.com/chesnyfcb/status/2047714457774637213)
+[原始来源](https://x.com/chesnyfcb/status/2047714457774637213)
 
 ---
 
@@ -2050,7 +2050,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk style, 16:9 landscape. Use a dark tech-city background with faint skyscrapers, digital grid lines, glowing particles, and high-contrast blue, pink, and gold lighting. In the exact center, place a young woman from the waist u...
 ```
 
-[Original](https://x.com/MoveHiro1219/status/2047698611665096732)
+[原始来源](https://x.com/MoveHiro1219/status/2047698611665096732)
 
 ---
 
@@ -2066,7 +2066,7 @@ Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk styl
 A futuristic Japanese tech comparison poster in a dark cyberpunk control-room setting, wide 16:9 composition. Large distressed white Japanese headline text at the upper left reading "三つ巴", with a bold gold subtitle directly below reading "それぞれの武器". Across the center-left are 3 glowing holographic co...
 ```
 
-[Original](https://x.com/MoveHiro1219/status/2047698611665096732)
+[原始来源](https://x.com/MoveHiro1219/status/2047698611665096732)
 
 ---
 
@@ -2082,7 +2082,7 @@ A futuristic Japanese tech comparison poster in a dark cyberpunk control-room se
 A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen, high contrast, dramatic tech-news style. Use a dark futuristic control-room background filled with 3 glowing holographic dashboard screens and blue cyber interface elements around the edges. On the left and center, plac...
 ```
 
-[Original](https://x.com/MoveHiro1219/status/2047698611665096732)
+[原始来源](https://x.com/MoveHiro1219/status/2047698611665096732)
 
 ---
 
@@ -2098,13 +2098,13 @@ A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen,
 Create a hyper-detailed comedic Japanese arcade fighting game screenshot styled like a versus battle scene, using a real-world photo aesthetic with game UI overlaid on top. The scene shows an intense mock battle between two groups of theme-park fans competing for the front row at an outdoor show pla...
 ```
 
-[Original](https://x.com/mikko_20100518/status/2047514897404354598)
+[原始来源](https://x.com/mikko_20100518/status/2047514897404354598)
 
 ---
 
 ## E-commerce
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### E-commerce 1: [电商商品展示设计](https://github.com/freestylefly/awesome-gpt-image-2) (by [@Unknown](#))
 
@@ -2118,7 +2118,7 @@ Create a hyper-detailed comedic Japanese arcade fighting game screenshot styled 
 A 3D render of a cute kawaii {argument name="subject" default="cloud"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2139,7 +2139,7 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
     "appearance": "anime girl with {argument name=\"hair color\" default=\"light purple\"} ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2160,7 +2160,7 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
   "character": "{argum...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2182,7 +2182,7 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
  ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2203,7 +2203,7 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2223,7 +2223,7 @@ Please redesign this product advertisement from the perspective of a professiona
 Summer women's dress e-commerce detail image
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2243,7 +2243,7 @@ Summer women's dress e-commerce detail image
 Fully automatic coffee machine e-commerce detail image
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2263,7 +2263,7 @@ AI智能眼镜电商详情图
 AI smart glasses e-commerce detail image
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2283,7 +2283,7 @@ AI smart glasses e-commerce detail image
 Fitness protein powder e-commerce detail image
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2303,7 +2303,7 @@ Fitness protein powder e-commerce detail image
 Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2333,7 +2333,7 @@ Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using 
     "typogr...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2353,7 +2353,7 @@ Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using 
     "background": "left side shows a screen with '{argument name=\"left background logo...
 ```
 
-[Original](https://x.com/sjbbxhz/status/2045684734714380687#reversed-0)
+[原始来源](https://x.com/sjbbxhz/status/2045684734714380687#reversed-0)
 
 ---
 
@@ -2369,7 +2369,7 @@ Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using 
 Create a hyper-realistic commercial product splash shot of a large white plastic whey protein tub labeled {argument name="brand name" default="PUREZZA"} and {argument name="product name" default="WHEYPRO"}, floating slightly above a glass filled with thick chocolate protein shake. The tub is centere...
 ```
 
-[Original](https://x.com/CaudilloGalaico/status/2048741931962819045#reversed-0)
+[原始来源](https://x.com/CaudilloGalaico/status/2048741931962819045#reversed-0)
 
 ---
 
@@ -2385,7 +2385,7 @@ Create a hyper-realistic commercial product splash shot of a large white plastic
 Using REFERENCE_0, extract only the outfit and turn it into a clean fashion magazine product showcase on a light warm-beige background. Remove the person entirely and display the clothing as separate laid-flat items: 1 cropped short-sleeve top centered near the top and 1 pair of shorts centered belo...
 ```
 
-[Original](https://x.com/aichof21/status/2048724140992205158#reversed-1)
+[原始来源](https://x.com/aichof21/status/2048724140992205158#reversed-1)
 
 ---
 
@@ -2401,7 +2401,7 @@ Using REFERENCE_0, extract only the outfit and turn it into a clean fashion maga
 Using the provided reference image, turn this casual phone snapshot of the drink into a polished professional beverage photo while keeping the same cup, soda, straw, outdoor theme-park setting, and general composition. Reframe and clean it up so the drink is the clear hero subject, make the cup shar...
 ```
 
-[Original](https://x.com/abxxai/status/2048345290043015628#reversed-0)
+[原始来源](https://x.com/abxxai/status/2048345290043015628#reversed-0)
 
 ---
 
@@ -2417,7 +2417,7 @@ Using the provided reference image, turn this casual phone snapshot of the drink
 Generate a tech accessory ad for {argument name="accessory" default="[ACCESSORY]"}, floating product render, magnetic alignment, smooth gradients, sharp spec cards, clean sans-serif typography, Apple-level minimalism, premium digital product launch aesthetic.
 ```
 
-[Original](https://x.com/Dheepanratnam/status/2048341738683584821)
+[原始来源](https://x.com/Dheepanratnam/status/2048341738683584821)
 
 ---
 
@@ -2433,7 +2433,7 @@ Generate a tech accessory ad for {argument name="accessory" default="[ACCESSORY]
 Create a jewelry advertisement for {argument name="jewelry piece" default="[JEWELRY PIECE]"}, macro sparkle, velvet surface, warm gold light, romantic shadow play, minimal headline, luxury boutique feel, ultra-detailed gem reflections, premium editorial composition.
 ```
 
-[Original](https://x.com/Dheepanratnam/status/2048341734728331424)
+[原始来源](https://x.com/Dheepanratnam/status/2048341734728331424)
 
 ---
 
@@ -2449,7 +2449,7 @@ Create a jewelry advertisement for {argument name="jewelry piece" default="[JEWE
 Create a product creative for '{argument name="brand name" default="Over.X"},' a {argument name="product type" default="hair restoration shampoo"}, featuring a {argument name="model" default="cute woman"}
 ```
 
-[Original](https://x.com/boostkun/status/2048250748559892771)
+[原始来源](https://x.com/boostkun/status/2048250748559892771)
 
 ---
 
@@ -2465,7 +2465,7 @@ Create a product creative for '{argument name="brand name" default="Over.X"},' a
 This image is an empty plate from {argument name="restaurant" default="Yoshinoya"}. Turn it into a professional-looking promotional photo with delicious {argument name="food items" default="beef bowls and miso soup"} lined up. You can change the composition.
 ```
 
-[Original](https://x.com/ksk_19960308/status/2048215787891212495)
+[原始来源](https://x.com/ksk_19960308/status/2048215787891212495)
 
 ---
 
@@ -2483,7 +2483,7 @@ Silk shawl with 'Court Ladies Wearing Floral Headdresses' pattern from the Tang 
 Song Dynasty Ru-ware sky-blue glazed ...
 ```
 
-[Original](https://x.com/XiaoKooeye/status/2048210401809314173)
+[原始来源](https://x.com/XiaoKooeye/status/2048210401809314173)
 
 ---
 
@@ -2499,7 +2499,7 @@ Song Dynasty Ru-ware sky-blue glazed ...
 A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour marker...
 ```
 
-[Original](https://x.com/AlwaveNazca/status/2048147643809865950#reversed-1)
+[原始来源](https://x.com/AlwaveNazca/status/2048147643809865950#reversed-1)
 
 ---
 
@@ -2515,7 +2515,7 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 A high-end editorial product photograph of a single luxury perfume bottle centered in a warm earthy still-life scene. The product is a clear rectangular glass bottle filled with golden amber liquid, topped with a glossy rounded black cap, with a clean white front label that reads "BYREDO", "BAL D’AF...
 ```
 
-[Original](https://x.com/Salmaaboukarr/status/2048103506125463983#reversed-1)
+[原始来源](https://x.com/Salmaaboukarr/status/2048103506125463983#reversed-1)
 
 ---
 
@@ -2531,7 +2531,7 @@ A high-end editorial product photograph of a single luxury perfume bottle center
 A luxurious editorial product photograph of a single perfume bottle nestled into dense, plush faux fur in rich golden caramel and honey-brown tones. Center the composition on one clear oval glass bottle filled with warm amber liquid, with a glossy rounded black cap and a clean white rectangular labe...
 ```
 
-[Original](https://x.com/Salmaaboukarr/status/2048103506125463983#reversed-0)
+[原始来源](https://x.com/Salmaaboukarr/status/2048103506125463983#reversed-0)
 
 ---
 
@@ -2547,7 +2547,7 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled "LUXEVEIL Skin Science – Radiance Nourishing Body Lotion" in cream/beige with a polished gold pump top, placed on a circular platform. Tiny figurine construction workers dressed in ye...
 ```
 
-[Original](https://x.com/Strength04_X/status/2048074514278563949)
+[原始来源](https://x.com/Strength04_X/status/2048074514278563949)
 
 ---
 
@@ -2565,7 +2565,7 @@ A scarf inspired by 'A Thousand Li of Rivers and Mountains', surrounded by Wang 
 A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with peony and butterfly patterns in the style of imperial kilns.
 ```
 
-[Original](https://x.com/songguoxiansen/status/2048046906585280977)
+[原始来源](https://x.com/songguoxiansen/status/2048046906585280977)
 
 ---
 
@@ -2581,7 +2581,7 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 A high-end enthusiast ATX gaming motherboard product photo on a dark studio background, shown in a three-quarter top-down perspective angled from the lower left toward the upper right. The board is mostly matte black and gunmetal with sharp geometric armor plates, brushed metal textures, and subtle ...
 ```
 
-[Original](https://x.com/rojassartorio/status/2048019666816163867#reversed-0)
+[原始来源](https://x.com/rojassartorio/status/2048019666816163867#reversed-0)
 
 ---
 
@@ -2597,13 +2597,13 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 {"type":"Chinese e-commerce product marketing board","product":{"category":"instant grain powder drink","brand":"五谷磨房","name":"核桃芝麻黑豆粉","packaging":"matte black retail box with gold Chinese typography and a large swirling bowl graphic on the front, plus individual black sachets inside","net weight":...
 ```
 
-[Original](https://x.com/WooGabriel76263/status/2047988112094101770#reversed-0)
+[原始来源](https://x.com/WooGabriel76263/status/2047988112094101770#reversed-0)
 
 ---
 
 ## General
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### General 1: [Momotaro Explainer Slide in Hybrid Style](https://x.com/yammamon/status/2045778624092254603) (by [@やまもん](https://x.com/yammamon))
 
@@ -2617,13 +2617,13 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
 ```
 
-[Original](https://x.com/yammamon/status/2045778624092254603)
+[原始来源](https://x.com/yammamon/status/2045778624092254603)
 
 ---
 
 ## Illustration
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Illustration 1: [插画艺术创作图](https://github.com/freestylefly/awesome-gpt-image-2) (by [@yi\_xiao\_jiu](#))
 
@@ -2639,7 +2639,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 【日系唯美奇幻风格说明】该风格以高饱和...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2655,7 +2655,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="ch...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2675,7 +2675,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
   "common_theme": "...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2696,7 +2696,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
     "background": "{argument name=\"back...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2712,7 +2712,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 { "type": "VTuber profile sheet", "theme": "{argument name=\"color theme\" default=\"purple and white\"}, elegant, lace, ribbon motifs", "character": { "name": "{argument name=\"character name\" default=\"紫咲リリー\"}", "archetype": "{argument name=\"character archetype\" default=\"elegant ojousama\"}",...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2733,7 +2733,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
     "gri...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2752,7 +2752,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
   "design_style": "soft, approachable, bright lighting, featuring {argument name=\"color palette\" default=\"soft green, white, ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2773,7 +2773,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
     "outfit": "pink kimono combined with a white frilly maid a...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2794,7 +2794,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
     "appearance": "anime girl, {argument name=\"hair color\" default=\"pastel pink\"} long wavy hair, large grey eyes, blush,...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2810,7 +2810,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 A high-energy VTuber thumbnail illustration of a smiling anime girl with {argument name="hair color" default="bright blue"} hair in a high ponytail wearing a white shirt. The background is an explosive burst of rainbow light rays and golden sparkles. A golden retro microphone sits in the bottom left...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2826,7 +2826,7 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 A highly detailed anime illustration of a fierce female warrior with long flowing {argument name="hair color" default="black"} hair and piercing {argument name="eye color" default="blue"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name="outfit color" default="blue and w...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2846,7 +2846,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
     "subject_1": "{argument name=\"main character\" default=\"Sam Altman\"}, curly hair, casual swea...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2866,7 +2866,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
     "appearance": "young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\"main color\" default=\"red\"} chest plate and guards, {argume...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2882,7 +2882,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
 An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2898,7 +2898,7 @@ An anime-style light novel cover illustration featuring two characters in an int
 A watercolor illustration of a children's picture book cover. The main subject is a {argument name="character appearance" default="cute furry kemonomimi girl with short green hair, cat ears, and green eyes"}. She is {argument name="action" default="smiling happily while holding up her middle finger"...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2915,7 +2915,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 （国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2936,7 +2936,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 然后构建一个以"Western Art Development"为主题的等距"演进博物馆"，每个展馆区域代表一个演进阶段，空间推进即代表时间演变。采用标准等距视角（2:1），丰富的层次深度与流畅过渡。每个阶段分配3-5个...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2962,7 +2962,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 Creative artistic typogr...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -2983,13 +2983,13 @@ Creative artistic typogr...
     "ma...
 ```
 
-[Original](https://x.com/mm_zzm44854/status/2045861258520568230#reversed-1)
+[原始来源](https://x.com/mm_zzm44854/status/2045861258520568230#reversed-1)
 
 ---
 
 ## Infographic
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Infographic 1: [信息图可视化设计](https://github.com/freestylefly/awesome-gpt-image-2) (by [@insight\_express](#))
 
@@ -3003,7 +3003,7 @@ Creative artistic typogr...
 Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Metabolism Atlas". Smart city from sky to bedrock: skyscrapers, streets, subway, utility tunnels, water/sewage/gas/heating pipes, fiber, data center, flood tanks, aquifers, geothermal wells, bedrock. Color-coded flows for power/water/data...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3019,7 +3019,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 A realistic photo of a Chinese high school math exam paper, printed inblack and white on slightly gray paper, titled “数学试卷”, with multiplechoice questions and math formulas, including a small 3D geometrycube diagram. The paper is photographed casually with asmartphone, slightly tilted, with uneven l...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3035,7 +3035,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 视觉设计规格描述：画幅比 9:16（竖版手机信息图）；背景纹理为具有呼吸感的米色手工纸（Handmade Washi Paper），带微小纤维纹理，边角有轻微水渍晕染；配色方案为熟番茄红（#E23A28）、初榨橄榄油金黄（#F2C94C）、嫩草绿（#6FCF97）、碳黑墨线；排版逻辑为顶端大标题、中间 Z 字形流线、底部全景成品、留白艺术化处理。食谱内容策划：1）顶部标题《番茄炒蛋：国民灵魂料理》，手绘书法体，侧边盖红色“厨师推荐”微型印章。2）步骤区块（Z 动线排版）：步骤1 挑选与备菜（左上）：三个番茄、四枚土鸡蛋、一簇葱花；说明：番茄切小块，鸡蛋打散均匀；厨师秘技：番茄去皮后切块，汁水更...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3056,7 +3056,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
   ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3072,7 +3072,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3088,7 +3088,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3107,7 +3107,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
   "style"...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3129,7 +3129,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
     "slogan_en": "{argument name=\"english slogan\" d...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3145,7 +3145,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 Help me create a detailed production flowchart for the dish {argument name="dish name" default="Fried Pork with Chili"}, in a realistic style, suitable for Xiaohongshu image-text proportions.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3161,7 +3161,7 @@ Help me create a detailed production flowchart for the dish {argument name="dish
 {"type":"infographic poster","style":"cute flat vector illustration, cozy, warm, soft shading, {argument name=\"color palette\" default=\"pastel Morandi colors, soft pinks, purples, and warm tones\"}","character":"{argument name=\"character description\" default=\"young woman with shoulder-length br...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3178,7 +3178,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
 ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3199,7 +3199,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
     "aesthetic": "elegant editorial, technical fashion illustration, highly det...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3219,7 +3219,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
   "language": "{argume...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3240,7 +3240,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
     "title_en": "{argument name=\"english title\" default=\"TH...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3261,7 +3261,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
     "title_en": "{argument name=\"english title\" default=\"TH...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3283,7 +3283,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
   }...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3305,7 +3305,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
       "从光，到数据 | FROM PHOTONS TO FILES",...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3324,7 +3324,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
   "style": "vintage botanical illustration mixed with modern infographic design, highly detailed, {argument name=\"color palette\" default=\"earthy gr...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3344,7 +3344,7 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
     "title": "{argument name=\"chinese city n...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3362,7 +3362,7 @@ Please generate a high-quality vertical "Popular Science Encyclopedia Image" bas
 This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, infor...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3380,7 +3380,7 @@ Please generate a high-quality vertical "Popular Science Encyclopedia Image" bas
 This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, infor...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3398,7 +3398,7 @@ Please generate a high-quality vertical "Popular Science Encyclopedia Image" bas
 This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, infor...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3416,7 +3416,7 @@ Please generate a high-quality vertical "Popular Science Encyclopedia Image" bas
 This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, infor...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3438,7 +3438,7 @@ This image is not a regular poster or a simple illustration, but a modular popul
       "{argument name=\"first component group\" default...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3460,7 +3460,7 @@ This image is not a regular poster or a simple illustration, but a modular popul
     "title": "{argument name...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3476,7 +3476,7 @@ This image is not a regular poster or a simple illustration, but a modular popul
 Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic f...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3492,7 +3492,7 @@ Please generate a high-design character relationship map poster based on {argume
 Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic f...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3508,7 +3508,7 @@ Please generate a high-design character relationship map poster based on {argume
 Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic f...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3524,7 +3524,7 @@ Please generate a high-design character relationship map poster based on {argume
 Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic f...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3542,7 +3542,7 @@ GPT-Image-2 prompt: please automatically generate a top-tier concept poster / in
 Require the AI to automatically derive and uniformly design the entire following visual system bas...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3560,7 +3560,7 @@ GPT-Image-2 prompt: please automatically generate a top-tier concept poster / in
 Require the AI to automatically derive and uniformly design the entire following visual system bas...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3578,7 +3578,7 @@ GPT-Image-2 prompt: please automatically generate a top-tier concept poster / in
 Require the AI to automatically derive and uniformly design the entire following visual system bas...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3594,7 +3594,7 @@ Require the AI to automatically derive and uniformly design the entire following
 Search the web for {argument name="performance description" default="this week’s standout individual performance in Champion’s League"}, using exact stats and game summary, {argument name="colors" default="bold team colors"}, legible score breakdown, and generate a {argument name="card type" default...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3610,7 +3610,7 @@ Search the web for {argument name="performance description" default="this week�
 Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with each card featuring its corresponding Chinese name, 4 cards per row, in a 16:9 aspect ratio.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3630,7 +3630,7 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 create an image with 10x10 grid of objects that have the names starting with letter a.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3653,7 +3653,7 @@ create an image with 10x10 grid of objects that have the names starting with let
 2）如果【训练主题】是某个动作或技能目标（例如：引体向上、俯卧撑、双杠臂屈伸、深蹲等），请输出一张“动...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3680,7 +3680,7 @@ create an image with 10x10 grid of objects that have the names starting with let
 Based on this character and background, please create a character sheet lik...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3705,7 +3705,7 @@ Based on this character and background, please create a character sheet lik...
 - 左侧：结构拆解区，中文引线标注...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3721,7 +3721,7 @@ Based on this character and background, please create a character sheet lik...
 Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lect...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3752,7 +3752,7 @@ YSL：
 黑金...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3773,7 +3773,7 @@ TOP TITLE:
 "HAIRSTYLE ANALYSIS - Long Hair Edit...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -3792,7 +3792,7 @@ TOP TITLE:
   "style": {...
 ```
 
-[Original](https://x.com/GeekCatX/status/2045792240044511277#reversed-1)
+[原始来源](https://x.com/GeekCatX/status/2045792240044511277#reversed-1)
 
 ---
 
@@ -3808,7 +3808,7 @@ TOP TITLE:
 A clean 2x2 conceptual entity model infographic on a soft light background, showing four separate floating isometric diorama tiles that personify branches of {argument name="theme" default="science"} in a polished 3D illustration style with pastel gradients, glossy materials, soft ambient lighting, ...
 ```
 
-[Original](https://x.com/TWnese/status/2048906317973360886#reversed-1)
+[原始来源](https://x.com/TWnese/status/2048906317973360886#reversed-1)
 
 ---
 
@@ -3824,7 +3824,7 @@ A clean 2x2 conceptual entity model infographic on a soft light background, show
 {"type":"four-panel educational science concept poster","style":"cinematic 3D infographic illustration, premium educational poster, highly detailed floating diorama islands, realistic materials, soft studio lighting, clean modern typography, subtle scientific HUD icons and callout lines","theme":"Sc...
 ```
 
-[Original](https://x.com/TWnese/status/2048906317973360886#reversed-0)
+[原始来源](https://x.com/TWnese/status/2048906317973360886#reversed-0)
 
 ---
 
@@ -3840,7 +3840,7 @@ A clean 2x2 conceptual entity model infographic on a soft light background, show
 {"type":"educational worksheet poster","topic":"cooking English fill-in-the-blank worksheet for Japanese learners","style":"bright cute anime classroom handout, clean vertical poster, friendly study-material design, soft cream grid-paper background, colorful sticker-like decorations, crisp printable...
 ```
 
-[Original](https://x.com/TK2Works/status/2048887781976580382#reversed-2)
+[原始来源](https://x.com/TK2Works/status/2048887781976580382#reversed-2)
 
 ---
 
@@ -3856,7 +3856,7 @@ A clean 2x2 conceptual entity model infographic on a soft light background, show
 {"type":"bilingual English learning worksheet poster","style":"clean educational infographic with anime character mascot, bright pastel stationery theme, white graph-paper background, rounded shapes, glossy headline lettering, print-friendly vertical A4 layout","topic":"business English fill-in-the-...
 ```
 
-[Original](https://x.com/TK2Works/status/2048887781976580382#reversed-0)
+[原始来源](https://x.com/TK2Works/status/2048887781976580382#reversed-0)
 
 ---
 
@@ -3872,7 +3872,7 @@ A clean 2x2 conceptual entity model infographic on a soft light background, show
 {"type":"pastel anime personality infographic poster","topic":"ユーザー像インフォグラフィック","theme":"a gentle, introverted, thoughtful person represented as a cozy black-haired cat-eared anime boy in a lavender room","style":{"aesthetic":"soft pastel lavender and gray, clean Japanese infographic design, delicat...
 ```
 
-[Original](https://x.com/mksb911/status/2048878987204784454#reversed-0)
+[原始来源](https://x.com/mksb911/status/2048878987204784454#reversed-0)
 
 ---
 
@@ -3888,7 +3888,7 @@ A clean 2x2 conceptual entity model infographic on a soft light background, show
 {"type":"LEGO-style instruction poster and toy box mockup","subject":{"theme":"solitary adult sitting on a playground swing","product_name":"{argument name=\"set name\" default=\"PABLO ESCOBAR\"}","subtitle":"{argument name=\"subtitle text\" default=\"THINKING ALONE\"}","age_mark":"18+","set_number"...
 ```
 
-[Original](https://x.com/ecommartinez/status/2048855384111427765#reversed-2)
+[原始来源](https://x.com/ecommartinez/status/2048855384111427765#reversed-2)
 
 ---
 
@@ -3904,7 +3904,7 @@ A clean 2x2 conceptual entity model infographic on a soft light background, show
 {"type":"LEGO parts list infographic page","subject":"clean printed inventory sheet for a custom LEGO build","style":"minimalist instruction-manual graphic, flat white background, crisp black sans-serif typography, subtle light gray row dividers, editorial layout","page":{"orientation":"portrait","b...
 ```
 
-[Original](https://x.com/ecommartinez/status/2048855384111427765#reversed-1)
+[原始来源](https://x.com/ecommartinez/status/2048855384111427765#reversed-1)
 
 ---
 
@@ -3920,7 +3920,7 @@ A clean 2x2 conceptual entity model infographic on a soft light background, show
 Create a 3D Insane detailed exploded assembly drawing of {argument name="subject" default="[subject or object]"}
 ```
 
-[Original](https://x.com/Ankit_patel211/status/2048834306379075759)
+[原始来源](https://x.com/Ankit_patel211/status/2048834306379075759)
 
 ---
 
@@ -3936,7 +3936,7 @@ Create a 3D Insane detailed exploded assembly drawing of {argument name="subject
 {"type":"educational infographic","subject":"periodic table of the elements in Japanese","style":"clean flat textbook poster, crisp vector lines, white background, black text, minimalist scientific layout","language":"Japanese","canvas":{"orientation":"landscape","aspect_ratio":"16:9","background":"...
 ```
 
-[Original](https://x.com/Periodic_apt/status/2048794845968506887#reversed-0)
+[原始来源](https://x.com/Periodic_apt/status/2048794845968506887#reversed-0)
 
 ---
 
@@ -3953,7 +3953,7 @@ Ultra-clean automotive poster featuring the exact same car as the photo that wil
 The car is presented in a front three-qua...
 ```
 
-[Original](https://x.com/Goodmanprotocol/status/2048784189550637505)
+[原始来源](https://x.com/Goodmanprotocol/status/2048784189550637505)
 
 ---
 
@@ -3973,7 +3973,7 @@ Each panel shows the same dancer in a different pose
 Full-body, centered ...
 ```
 
-[Original](https://x.com/Ciri_ai/status/2048783811606147492)
+[原始来源](https://x.com/Ciri_ai/status/2048783811606147492)
 
 ---
 
@@ -3991,7 +3991,7 @@ Full-body, centered ...
   "style": "{argument name="report style" default="Japanese professional diagnosis document style"}, warm cream background, rose pink title bars, fine line borders, mix of Serif and Sans-serif fonts, medical report layout feel, so...
 ```
 
-[Original](https://x.com/johnAGI168/status/2048774130837639505)
+[原始来源](https://x.com/johnAGI168/status/2048774130837639505)
 
 ---
 
@@ -4012,7 +4012,7 @@ Create a refined two-panel layout:
 Left panel: place the uploaded real palm pho...
 ```
 
-[Original](https://x.com/ai_2tonghee/status/2048765643332465010)
+[原始来源](https://x.com/ai_2tonghee/status/2048765643332465010)
 
 ---
 
@@ -4028,7 +4028,7 @@ Left panel: place the uploaded real palm pho...
 {"type":"vertical technology infographic poster","topic":"evolution of mobile communications from 1G to 6G","language":"Chinese","style":"clean futuristic corporate infographic, white and pale blue gradient background, glossy 3D isometric platforms, blue-gray color palette, thin curved timeline, mod...
 ```
 
-[Original](https://x.com/bobo99_eth/status/2048764845957505489#reversed-0)
+[原始来源](https://x.com/bobo99_eth/status/2048764845957505489#reversed-0)
 
 ---
 
@@ -4044,7 +4044,7 @@ Left panel: place the uploaded real palm pho...
 Based on this photo, create a clean, minimal, and luxurious facial beauty report. Use a design based on {argument name="color scheme" default="black on white"}, incorporating thin lines, rounded-corner cards, and luxury aesthetics. Include simple facial outline illustrations, candid attractiveness a...
 ```
 
-[Original](https://x.com/so_ainsight/status/2048757283384172848)
+[原始来源](https://x.com/so_ainsight/status/2048757283384172848)
 
 ---
 
@@ -4062,13 +4062,13 @@ Composition & Framing
 Full-body shot of a young woman (match face and identity exactly to the provided reference image — a...
 ```
 
-[Original](https://x.com/john_my07/status/2048641686994407474)
+[原始来源](https://x.com/john_my07/status/2048641686994407474)
 
 ---
 
 ## Photography
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Photography 1: [写实摄影风格创作](https://github.com/freestylefly/awesome-gpt-image-2) (by [@Unknown](#))
 
@@ -4086,7 +4086,7 @@ Full-body shot of a young woman (match face and identity exactly to the provided
   "layout":...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4102,7 +4102,7 @@ Full-body shot of a young woman (match face and identity exactly to the provided
 Express [{argument name="subject" default="a powerful AI builder"}] in a graffiti sketch style, presenting an overall visual effect of rapid sketching, free transformation, improvised hand-drawing, and draft-like qualities. Lines are casual, exaggerated, varied in thickness, slightly messy but rhyth...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4118,7 +4118,7 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name="hair color" default="ash-blonde"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wear...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4134,7 +4134,7 @@ A highly detailed, photorealistic anime-style portrait of a young woman crouchin
 A {argument name="photography style" default="photorealistic portrait with shallow depth of field and soft bokeh"} of a {argument name="subject" default="young Japanese woman"} looking back over her shoulder at the camera with a {argument name="expression" default="gentle smile"}. She is wearing a {...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4150,7 +4150,7 @@ A {argument name="photography style" default="photorealistic portrait with shall
 Express {argument name="subject" default="a powerful AI builder"} in a graffiti sketch style, presenting an overall visual effect of quick outlines, free deformation, improvised hand-drawing, and draft-like sketches. The lines are casual, exaggerated, varying in thickness, and slightly messy but rhy...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4166,7 +4166,7 @@ Express {argument name="subject" default="a powerful AI builder"} in a graffiti 
 A striking black and white close-up portrait of a {argument name="subject description" default="handsome young Asian man"} with {argument name="hair style" default="messy wet hair sticking to his forehead"}. His face and neck are glistening, covered in highly detailed {argument name="skin texture de...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4182,7 +4182,7 @@ A striking black and white close-up portrait of a {argument name="subject descri
 A realistic photograph of a whiteboard with a highly detailed {argument name="marker color" default="green"} dry-erase marker drawing of {argument name="subject" default="a samurai with a messy topknot and facial hair, hands clasped in prayer"}. The character is drawn in a {argument name="art style"...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4198,7 +4198,7 @@ A realistic photograph of a whiteboard with a highly detailed {argument name="ma
 A candid, realistic photograph of a young {argument name="subject aesthetic" default="goth"} woman with pale skin, long straight black hair with bangs, heavy black eyeliner, and black lipstick. She has a {argument name="expression" default="deadpan"} expression, looking directly at the camera while ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4220,7 +4220,7 @@ A candid, realistic photograph of a young {argument name="subject aesthetic" def
       {"label": "4f ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4241,7 +4241,7 @@ A candid, realistic photograph of a young {argument name="subject aesthetic" def
     "appearance": "anime girl, long {argument name=\"hair color\" default=...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4257,7 +4257,7 @@ A candid, realistic photograph of a young {argument name="subject aesthetic" def
 A photorealistic, high-resolution commercial photograph of a {argument name="car model and color" default="bright blue Alpine A110 R sports car"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4282,7 +4282,7 @@ A photorealistic, high-resolution commercial photograph of a {argument name="car
 从这种柔和模糊的现实之中，爆发出丰富的传统水墨插画，并环...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4311,7 +4311,7 @@ A photorealistic, high-resolution commercial photograph of a {argument name="car
   ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4331,7 +4331,7 @@ A photorealistic, high-resolution commercial photograph of a {argument name="car
 Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fab...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -4349,13 +4349,13 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
   "prompt": "超写实，一位留着深色短卷发、修剪整齐的胡须和黑色方形眼镜的年轻男子的鲜艳逼真渲染，身穿深色纹理高领毛衣和牛仔裤。他奔跑到一半被捕捉下来，姿态充满动感，向前突破，充满戏剧性地从一个破碎的漫画分镜框中显现——一条腿和一只手臂冲入现实世界，而身体的其余部分仍留在漫画框内。他的表情充满活力和喜悦，拥有锐利的面部细节，自然的皮肤纹理，以及具有高对比度和深度的戏剧性电影灯光。\n\n背景：一个非常详细的黑白漫画布局，充满了幽默、夸张的且与他直接互动的反应场景。周围的漫画人物表现出震惊和喜剧的表情，配有粗体的对话气泡和速度线。漫画分镜采用经典的高对比度水墨风格绘制...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
 ## Portrait
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Portrait 1: [Profile / Avatar - Signed Marker Portrait on Shikishi](https://x.com/MireilleDartois/status/2048894364479565869#reversed-0) (by [@ダルトワ★TV](https://x.com/MireilleDartois))
 
@@ -4369,7 +4369,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 A lively hand-drawn fashion portrait in a changed illustration style, made to look like a signed fan-art sketch drawn with markers on a square white shikishi board with a thin gold border. Show a stylish young woman from about the waist up, leaning slightly forward with one elbow resting up near her...
 ```
 
-[Original](https://x.com/MireilleDartois/status/2048894364479565869#reversed-0)
+[原始来源](https://x.com/MireilleDartois/status/2048894364479565869#reversed-0)
 
 ---
 
@@ -4396,7 +4396,7 @@ A lively hand-drawn fashion portrait in a changed illustration style, made to lo
     "angle": "...
 ```
 
-[Original](https://x.com/craftian_keskin/status/2048848908999135645)
+[原始来源](https://x.com/craftian_keskin/status/2048848908999135645)
 
 ---
 
@@ -4412,7 +4412,7 @@ A lively hand-drawn fashion portrait in a changed illustration style, made to lo
 A highly detailed anime fantasy portrait of {argument name="character name" default="an elegant blue-haired fantasy woman"}, shown from the back in a three-quarter pose, turning her head over her shoulder to look at the viewer with calm violet eyes and a soft, slightly distant expression. She has ve...
 ```
 
-[Original](https://x.com/lchngjin91/status/2048836910676926484#reversed-0)
+[原始来源](https://x.com/lchngjin91/status/2048836910676926484#reversed-0)
 
 ---
 
@@ -4428,7 +4428,7 @@ A highly detailed anime fantasy portrait of {argument name="character name" defa
 A stunning black and white studio portrait of {argument name="subject" default="uploaded person"}. Eye-level medium shot, framed from the waist up. The subject is standing with his arms casually but firmly crossed over his chest. He is looking downward and slightly off-camera to the left with a calm...
 ```
 
-[Original](https://x.com/ChillaiKalan__/status/2048828505497198838)
+[原始来源](https://x.com/ChillaiKalan__/status/2048828505497198838)
 
 ---
 
@@ -4444,7 +4444,7 @@ A stunning black and white studio portrait of {argument name="subject" default="
 A realistic organic smartphone selfie of a {argument name="subject age" default="middle-aged"} woman sitting outdoors on a porch or patio in warm late-afternoon golden-hour sunlight, framed from the chest up in a casual slightly imperfect front-facing composition. She has shoulder-length softly wavy...
 ```
 
-[Original](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-3)
+[原始来源](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-3)
 
 ---
 
@@ -4460,7 +4460,7 @@ A realistic organic smartphone selfie of a {argument name="subject age" default=
 A realistic organic selfie of a {argument name="subject age" default="middle-aged"} woman sitting on a house porch during golden hour, photographed at arm’s length with a casual smartphone front camera. She has {argument name="hair color" default="auburn brown"} shoulder-length softly wavy hair with...
 ```
 
-[Original](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-2)
+[原始来源](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-2)
 
 ---
 
@@ -4476,7 +4476,7 @@ A realistic organic selfie of a {argument name="subject age" default="middle-age
 A realistic casual indoor selfie of a {argument name="person" default="adult woman"} taken at arm’s length on a smartphone, framed from mid-chest up in a square composition. She has shoulder-length, slightly messy wavy {argument name="hair color" default="auburn red"} hair with natural volume and so...
 ```
 
-[Original](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-0)
+[原始来源](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-0)
 
 ---
 
@@ -4492,7 +4492,7 @@ A realistic casual indoor selfie of a {argument name="person" default="adult wom
 A realistic, casual outdoor smartphone selfie of a {argument name="subject age" default="middle-aged woman"} from the chest up, framed slightly off-center and shot at arm’s length on a phone camera. She has voluminous shoulder-length wavy hair in a warm {argument name="hair color" default="auburn re...
 ```
 
-[Original](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-1)
+[原始来源](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-1)
 
 ---
 
@@ -4508,7 +4508,7 @@ A realistic, casual outdoor smartphone selfie of a {argument name="subject age" 
 create a hyper-realistic 3D render of a transparent {argument name="platform" default="twitter"} profile card, designed like a futuristic glass ID badge held gently between two fingers. The card should be rectangular with rounded corners, made of clear glossy glass or acrylic, with glowing neon edge...
 ```
 
-[Original](https://x.com/MrDasOnX/status/2048804504569823622)
+[原始来源](https://x.com/MrDasOnX/status/2048804504569823622)
 
 ---
 
@@ -4524,7 +4524,7 @@ create a hyper-realistic 3D render of a transparent {argument name="platform" de
 A surreal medium-format portrait of a woman standing on a narrow garden path surrounded by extremely dense foliage, photographed in a dreamlike false-color film look. She wears a plain bright saturated {argument name="shirt color" default="red"} crew-neck T-shirt and dark black fitted pants, with sh...
 ```
 
-[Original](https://x.com/commanderdgr8/status/2048773662858445254#reversed-0)
+[原始来源](https://x.com/commanderdgr8/status/2048773662858445254#reversed-0)
 
 ---
 
@@ -4540,7 +4540,7 @@ A surreal medium-format portrait of a woman standing on a narrow garden path sur
 A photorealistic vertical beach portrait of a young woman kneeling on pale sand while building sandcastles, shot in bright natural midday sunlight with a shallow depth of field. She has long dark brown hair tied in a high ponytail, a slim figure, and wears a short deep-blue sundress with thin spaghe...
 ```
 
-[Original](https://x.com/Asan0_Misaki/status/2048763339329900747#reversed-0)
+[原始来源](https://x.com/Asan0_Misaki/status/2048763339329900747#reversed-0)
 
 ---
 
@@ -4556,7 +4556,7 @@ A photorealistic vertical beach portrait of a young woman kneeling on pale sand 
 A polished anime-style illustration of a young shrine maiden named {argument name="character name" default="音慰"} standing inside a traditional Japanese shrine amulet office, shown from about thigh-up behind a wooden counter. She has long, straight {argument name="hair color" default="black"} hair wi...
 ```
 
-[Original](https://x.com/Mar35x/status/2048760631311184325#reversed-1)
+[原始来源](https://x.com/Mar35x/status/2048760631311184325#reversed-1)
 
 ---
 
@@ -4572,7 +4572,7 @@ A polished anime-style illustration of a young shrine maiden named {argument nam
 {argument name="subject" default="A photo portrait of a Tudor-style young nobleman"}. Pale blond hair, androgynous features, a quiet gaze. {argument name="clothing" default="Black feathered hat, jewel-embroidered black outfit, white lace collar, fur-trimmed cloak"}. {argument name="location" default...
 ```
 
-[Original](https://x.com/QrLcuAsc2COtX2h/status/2048758567688421521)
+[原始来源](https://x.com/QrLcuAsc2COtX2h/status/2048758567688421521)
 
 ---
 
@@ -4588,7 +4588,7 @@ A polished anime-style illustration of a young shrine maiden named {argument nam
 A candid nighttime balcony selfie of a young woman shot from a slightly high handheld phone angle, with the face mostly obscured by shadow and framing, emphasizing the outfit and mood rather than facial detail. She has {argument name="hair color" default="dark brown"} long loose wavy hair falling ov...
 ```
 
-[Original](https://x.com/zitoIA/status/2048748755730509985#reversed-1)
+[原始来源](https://x.com/zitoIA/status/2048748755730509985#reversed-1)
 
 ---
 
@@ -4604,7 +4604,7 @@ A candid nighttime balcony selfie of a young woman shot from a slightly high han
 A cute anime-style {argument name="character type" default="Japanese schoolgirl"} drawn as a hand-made oil pastel illustration on textured paper, bust-up portrait, centered composition. She has {argument name="hair color" default="dark brown"} hair in 2 low twin ponytails with soft waves and a cente...
 ```
 
-[Original](https://x.com/MireilleDartois/status/2048739113558573201#reversed-3)
+[原始来源](https://x.com/MireilleDartois/status/2048739113558573201#reversed-3)
 
 ---
 
@@ -4620,7 +4620,7 @@ A cute anime-style {argument name="character type" default="Japanese schoolgirl"
 A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil pastel illustration on textured off-white paper. She has long straight {argument name="hair color" default="deep purple with lighter lavender ends"} hair, large pointed orange cat ears on top of her head, and a striped or...
 ```
 
-[Original](https://x.com/MireilleDartois/status/2048739113558573201#reversed-0)
+[原始来源](https://x.com/MireilleDartois/status/2048739113558573201#reversed-0)
 
 ---
 
@@ -4636,7 +4636,7 @@ A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil p
 A Pixar-style 3D character portrait of a {argument name="subject description" default="young person with delicate skin, large and agile blue eyes, soft facial features, and transparent round-frame glasses"}. Featuring a {argument name="hair style" default="modern short hairstyle"}, wearing a {argume...
 ```
 
-[Original](https://x.com/Zahor24552439/status/2048738238307983774)
+[原始来源](https://x.com/Zahor24552439/status/2048738238307983774)
 
 ---
 
@@ -4652,7 +4652,7 @@ A Pixar-style 3D character portrait of a {argument name="subject description" de
 A cinematic night street portrait of a young woman standing in a bustling city illuminated by neon lights. She has long slightly messy dark hair with soft bangs, wearing a {argument name="clothing" default="black leather jacket"}. She turns her head toward the camera with a calm, slightly intense ex...
 ```
 
-[Original](https://x.com/Taaruk_/status/2048713970891239636)
+[原始来源](https://x.com/Taaruk_/status/2048713970891239636)
 
 ---
 
@@ -4668,7 +4668,7 @@ A cinematic night street portrait of a young woman standing in a bustling city i
 Using the provided reference image as the base for the man, transform it into a realistic casual smartphone photo collage showing him as if he has a girlfriend. Keep his identity, hairstyle, age, white sweatshirt, and candid non-model look consistent, but place him together with a young woman across...
 ```
 
-[Original](https://x.com/kei_elitematch/status/2048687163056001320#reversed-1)
+[原始来源](https://x.com/kei_elitematch/status/2048687163056001320#reversed-1)
 
 ---
 
@@ -4684,7 +4684,7 @@ Using the provided reference image as the base for the man, transform it into a 
 A polished studio head-and-shoulders LinkedIn profile portrait of a {argument name="subject gender" default="man"} centered in frame, facing straight toward the camera with a neutral, confident expression, cropped from the upper chest to just above the head. He has short {argument name="hair color" ...
 ```
 
-[Original](https://x.com/semihdev/status/2048677307993210889#reversed-0)
+[原始来源](https://x.com/semihdev/status/2048677307993210889#reversed-0)
 
 ---
 
@@ -4700,7 +4700,7 @@ A polished studio head-and-shoulders LinkedIn profile portrait of a {argument na
 A realistic overhead photo of a childlike crayon drawing on a slightly wrinkled white sheet of paper placed on a wooden tabletop. The drawing shows a simple portrait of {argument name="character" default="Donald Trump"} in a naive elementary-school style, with messy yellow crayon hair, peach-colored...
 ```
 
-[Original](https://x.com/MireilleDartois/status/2048903124518347213#reversed-0)
+[原始来源](https://x.com/MireilleDartois/status/2048903124518347213#reversed-0)
 
 ---
 
@@ -4716,7 +4716,7 @@ A realistic overhead photo of a childlike crayon drawing on a slightly wrinkled 
 A candid smartphone photo of a young East Asian woman sitting at a small table inside a casual Taiwanese breakfast shop, medium shot in vertical 9:16 composition. She has shoulder-length straight dark brown to black hair with a side part and is wearing a fitted ribbed camisole in {argument name="top...
 ```
 
-[Original](https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-3)
+[原始来源](https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-3)
 
 ---
 
@@ -4732,7 +4732,7 @@ A candid smartphone photo of a young East Asian woman sitting at a small table i
 A candid street-side cafe photo of a young East Asian woman seated at a small round table inside a modest Taiwanese breakfast shop, shot in bright natural daylight with realistic smartphone-camera styling. She has long dark brown to black wavy hair draped over her shoulders and back, a slim curvy fi...
 ```
 
-[Original](https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-2)
+[原始来源](https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-2)
 
 ---
 
@@ -4748,7 +4748,7 @@ A candid street-side cafe photo of a young East Asian woman seated at a small ro
 A candid street-food cafe photo in a narrow old Taiwanese breakfast shop, shot in a realistic smartphone-photo style with soft natural daylight and a slightly warm documentary look. A young East Asian woman with {argument name="hair color" default="black"} shoulder-length straight hair sits on a sma...
 ```
 
-[Original](https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-1)
+[原始来源](https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-1)
 
 ---
 
@@ -4764,7 +4764,7 @@ A candid street-food cafe photo in a narrow old Taiwanese breakfast shop, shot i
 A candid smartphone photo of a young East Asian woman seated at a small round table inside a busy old-fashioned Taiwanese breakfast shop. She is the main subject, framed from mid-thigh upward, facing the camera in a casual seated pose. Her face is intentionally obscured with a soft rectangular blur....
 ```
 
-[Original](https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-0)
+[原始来源](https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-0)
 
 ---
 
@@ -4780,7 +4780,7 @@ A candid smartphone photo of a young East Asian woman seated at a small round ta
 A high-fashion studio portrait of a seated woman in an ethereal bridal look against a seamless light gray background, framed vertically from headpiece to the trailing ends of her hair. She wears a flowing sleeveless white gown with a high gathered neckline, sheer pleated chiffon over the bodice, del...
 ```
 
-[Original](https://x.com/i4LMU/status/2048792437032681929#reversed-1)
+[原始来源](https://x.com/i4LMU/status/2048792437032681929#reversed-1)
 
 ---
 
@@ -4796,7 +4796,7 @@ A high-fashion studio portrait of a seated woman in an ethereal bridal look agai
 A high-fashion studio portrait of a young woman reclining sideways on the floor against a seamless light gray background, cropped from about the hat down to the hands, with the face intentionally obscured by a soft rectangular blur. She wears an elegant white dress with sheer ruched fabric, sculpted...
 ```
 
-[Original](https://x.com/i4LMU/status/2048792437032681929#reversed-0)
+[原始来源](https://x.com/i4LMU/status/2048792437032681929#reversed-0)
 
 ---
 
@@ -4812,13 +4812,13 @@ A high-fashion studio portrait of a young woman reclining sideways on the floor 
 A young woman with {argument name="hair color" default="long red hair"} sitting on a towel at a {argument name="location" default="sunny beach"}. She is wearing a {argument name="outfit" default="fitted beige tank top and light blue denim shorts with a brown belt"}. She holds sunglasses in one hand ...
 ```
 
-[Original](https://x.com/mizq06/status/2048790504817737741)
+[原始来源](https://x.com/mizq06/status/2048790504817737741)
 
 ---
 
 ## Portrait & Photography
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Portrait & Photography 1: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
 
@@ -4832,7 +4832,7 @@ A young woman with {argument name="hair color" default="long red hair"} sitting 
 35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refine...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2045167461147042202)
+[原始来源](https://x.com/BubbleBrain/status/2045167461147042202)
 
 ---
 
@@ -4848,7 +4848,7 @@ A young woman with {argument name="hair color" default="long red hair"} sitting 
 Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
 ```
 
-[Original](https://x.com/iam_miharbi/status/2045151354679665101)
+[原始来源](https://x.com/iam_miharbi/status/2045151354679665101)
 
 ---
 
@@ -4864,7 +4864,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2045092449803284923)
+[原始来源](https://x.com/BubbleBrain/status/2045092449803284923)
 
 ---
 
@@ -4880,7 +4880,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle P...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2045052982728016131)
+[原始来源](https://x.com/BubbleBrain/status/2045052982728016131)
 
 ---
 
@@ -4896,7 +4896,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft na...
 ```
 
-[Original](https://x.com/Shinning1010/status/2045002808903020962)
+[原始来源](https://x.com/Shinning1010/status/2045002808903020962)
 
 ---
 
@@ -4912,7 +4912,7 @@ A stunning 18-year-old Chinese girl with a youthful, pure face and realistic ski
 Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights, minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly close...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2046115431144902732)
+[原始来源](https://x.com/BubbleBrain/status/2046115431144902732)
 
 ---
 
@@ -4928,7 +4928,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photog...
 ```
 
-[Original](https://x.com/patrickassale/status/2044581766309060765)
+[原始来源](https://x.com/patrickassale/status/2044581766309060765)
 
 ---
 
@@ -4944,7 +4944,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，...
 ```
 
-[Original](https://x.com/Zoulinshen/status/2045082518089810073)
+[原始来源](https://x.com/Zoulinshen/status/2045082518089810073)
 
 ---
 
@@ -4960,7 +4960,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自��裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上...
 ```
 
-[Original](https://x.com/Tz_2022/status/2045892003775361198)
+[原始来源](https://x.com/Tz_2022/status/2045892003775361198)
 
 ---
 
@@ -4976,7 +4976,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 "Sam Altman on a skateboard at a skatepark with no people."
 ```
 
-[Original](https://x.com/Malek1173989/status/2045836887684694395)
+[原始来源](https://x.com/Malek1173989/status/2045836887684694395)
 
 ---
 
@@ -4992,7 +4992,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 9:16 vertical, Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling, soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources
 ```
 
-[Original](https://x.com/BubbleBrain/status/2046268941941850575)
+[原始来源](https://x.com/BubbleBrain/status/2046268941941850575)
 
 ---
 
@@ -5008,7 +5008,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young Korean female idol, soft innocent look
 ```
 
-[Original](https://x.com/BubbleBrain/status/2046190539213885806)
+[原始来源](https://x.com/BubbleBrain/status/2046190539213885806)
 
 ---
 
@@ -5024,7 +5024,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin textu...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2046151898621993364)
+[原始来源](https://x.com/BubbleBrain/status/2046151898621993364)
 
 ---
 
@@ -5040,7 +5040,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered unde...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2046434670724907395)
+[原始来源](https://x.com/BubbleBrain/status/2046434670724907395)
 
 ---
 
@@ -5056,7 +5056,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 9:16 vertical — Japanese Fuji film style portrait, single subject  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette  bright natural daylight, diffused sunligh...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2046483268019884384)
+[原始来源](https://x.com/BubbleBrain/status/2046483268019884384)
 
 ---
 
@@ -5072,7 +5072,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 9:16 vertical — Korean idol portrait photography, single subject  soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks  minimal indoor setting near window, white curtains, clean light-toned background  young Korean female idol, n...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2046518189509734903)
+[原始来源](https://x.com/BubbleBrain/status/2046518189509734903)
 
 ---
 
@@ -5088,7 +5088,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation  bright natural daylight, diffused sunlight through wi...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2046502288102170757)
+[原始来源](https://x.com/BubbleBrain/status/2046502288102170757)
 
 ---
 
@@ -5104,7 +5104,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 根据你对我的认知 给我生成一个“你认识的我”的 图片
 ```
 
-[Original](https://x.com/80vul/status/2046218165961753047)
+[原始来源](https://x.com/80vul/status/2046218165961753047)
 
 ---
 
@@ -5121,7 +5121,7 @@ Create the most realistic front page design of a vintage newspaper featuring the
 The main photo should be prominently placed in the center, framed, like the image in the tit...
 ```
 
-[Original](https://x.com/Naiknelofar788/status/2047207812800147647)
+[原始来源](https://x.com/Naiknelofar788/status/2047207812800147647)
 
 ---
 
@@ -5137,7 +5137,7 @@ The main photo should be prominently placed in the center, framed, like the imag
 Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise ...
 ```
 
-[Original](https://x.com/andis13/status/2047204384811921764)
+[原始来源](https://x.com/andis13/status/2047204384811921764)
 
 ---
 
@@ -5159,7 +5159,7 @@ upload your product image and prompt:
 using ...
 ```
 
-[Original](https://x.com/pavellaslov/status/2047182214304055339)
+[原始来源](https://x.com/pavellaslov/status/2047182214304055339)
 
 ---
 
@@ -5175,7 +5175,7 @@ using ...
 CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding CALMING GREEN TEA -- 7 Days to Soothed Skin, pastel green background with botanical graphic accents, three min...
 ```
 
-[Original](https://x.com/ZaraIrahh/status/2047180061657452601)
+[原始来源](https://x.com/ZaraIrahh/status/2047180061657452601)
 
 ---
 
@@ -5191,7 +5191,7 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy waffle cone, styled with a clean, modern premium aesthetic. The soft serve is a vibrant natural pink, thick and creamy, sculpted into a smooth swirl with a softly curled peak, lightly topped with delicate straw...
 ```
 
-[Original](https://x.com/ZaraIrahh/status/2047179916161212542)
+[原始来源](https://x.com/ZaraIrahh/status/2047179916161212542)
 
 ---
 
@@ -5207,7 +5207,7 @@ Ultra-realistic product photography of a rich strawberry soft-serve ice cream in
 A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, anal...
 ```
 
-[Original](https://x.com/ZaraIrahh/status/2047179669011616172)
+[原始来源](https://x.com/ZaraIrahh/status/2047179669011616172)
 
 ---
 
@@ -5223,7 +5223,7 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim skinny body, lean physique, narrow shoulders and waist, standing confidently in front of a blue 2017 Ford Mustang GT Convertible with a bold red soft top roof, captured from a high-angle aerial perspective exa...
 ```
 
-[Original](https://x.com/harboriis/status/2047175250761433416)
+[原始来源](https://x.com/harboriis/status/2047175250761433416)
 
 ---
 
@@ -5239,7 +5239,7 @@ Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man w
 A restored vintage family snapshot, photographed indoors in soft natural light, showing a {argument name="adult subject" default="young mother"} seated and holding a {argument name="child subject" default="toddler"} on her lap in a close, centered waist-up portrait. The adult has short softly curled...
 ```
 
-[Original](https://x.com/gdb/status/2048184797374325031)
+[原始来源](https://x.com/gdb/status/2048184797374325031)
 
 ---
 
@@ -5255,7 +5255,7 @@ A restored vintage family snapshot, photographed indoors in soft natural light, 
 A heavily damaged old family snapshot in faded black and white with a slight sepia cast, shown as a worn physical photograph scanned straight-on. The image depicts a seated woman holding a small child on her lap indoors, both centered in a simple portrait composition. The woman has short dark wavy h...
 ```
 
-[Original](https://x.com/gdb/status/2048184797374325031)
+[原始来源](https://x.com/gdb/status/2048184797374325031)
 
 ---
 
@@ -5271,7 +5271,7 @@ A heavily damaged old family snapshot in faded black and white with a slight sep
 A black-and-white hand-drawn family portrait in the style of detailed pen-and-ink crosshatching on textured white paper, showing 4 people seated closely together in a casual candid composition. On the left, an adult man in a dark baseball cap worn backward and a dark T-shirt leans into the frame, wi...
 ```
 
-[Original](https://x.com/gdb/status/2048184698195870102)
+[原始来源](https://x.com/gdb/status/2048184698195870102)
 
 ---
 
@@ -5287,7 +5287,7 @@ A black-and-white hand-drawn family portrait in the style of detailed pen-and-in
 A centered black-and-white vintage engraved portrait of a bearded man wearing a hooded sweatshirt with the hood up and a backward snapback cap visible under the hood. Show only the upper torso and head against a plain off-white paper background with subtle texture. Render the image in detailed pen-a...
 ```
 
-[Original](https://x.com/gdb/status/2048184698195870102)
+[原始来源](https://x.com/gdb/status/2048184698195870102)
 
 ---
 
@@ -5303,7 +5303,7 @@ A centered black-and-white vintage engraved portrait of a bearded man wearing a 
 A cinematic soft-focus portrait of a woman from behind and slightly in profile, framed from the upper torso up in a vertical composition. She has {argument name="hair color" default="dark brown"} hair styled in a loose messy updo with wispy strands catching the light. Her face is mostly hidden by he...
 ```
 
-[Original](https://x.com/ToroJushiAi/status/2048139425465467248)
+[原始来源](https://x.com/ToroJushiAi/status/2048139425465467248)
 
 ---
 
@@ -5319,7 +5319,7 @@ A cinematic soft-focus portrait of a woman from behind and slightly in profile, 
 High-quality 3D CGI render of {argument name="character" default="[character]"} in a charming cartoon style, portrait composition showing head and shoulders. Highly stylized caricature with exaggerated, expressive features that are both playful and humorous. Smooth, polished rendering with clean mat...
 ```
 
-[Original](https://x.com/Inshrah_ali_/status/2048121503367995753)
+[原始来源](https://x.com/Inshrah_ali_/status/2048121503367995753)
 
 ---
 
@@ -5335,7 +5335,7 @@ High-quality 3D CGI render of {argument name="character" default="[character]"} 
 Vertical 2:3 format. {argument name="subject" default="Young woman"} hair in messy updo sits on modern wooden staircase. wears {argument name="dress" default="shimmering Silver halter dress sequin dress"}. matching with silver high-heeled sandals. legs crossed. Silver heart earrings. One fuchsia bra...
 ```
 
-[Original](https://x.com/XSydneyFan/status/2048114180906217566)
+[原始来源](https://x.com/XSydneyFan/status/2048114180906217566)
 
 ---
 
@@ -5351,7 +5351,7 @@ Vertical 2:3 format. {argument name="subject" default="Young woman"} hair in mes
 Using REFERENCE_0 as the subject base, transform the casual desert snapshot into a full-body luxury fashion studio portrait. Replace the denim jacket, tank top, and shorts with a fitted strapless mini cocktail dress in {argument name="dress color" default="powder blue"} with ornate silver floral emb...
 ```
 
-[Original](https://x.com/Abdullah__Ai7/status/2048083022315159595)
+[原始来源](https://x.com/Abdullah__Ai7/status/2048083022315159595)
 
 ---
 
@@ -5367,7 +5367,7 @@ Using REFERENCE_0 as the subject base, transform the casual desert snapshot into
 A polished anime-style portrait of {argument name="character" default="a blonde female VTuber-inspired maid"} seated indoors in a cozy sunlit cafe, framed from upper thighs to head in a slightly high, intimate angle. She has short to medium-length tousled {argument name="hair color" default="golden ...
 ```
 
-[Original](https://x.com/yume00112211/status/2048072808606089230)
+[原始来源](https://x.com/yume00112211/status/2048072808606089230)
 
 ---
 
@@ -5383,7 +5383,7 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 {argument name="subject" default="Dreamy Oriental female portrait"}, adult female, close-up portrait, exquisite facial features, fair and translucent skin, delicate but clean skin texture, emerald green eyes, soft and charming gaze, brown wavy hair falling naturally; {argument name="accessories" def...
 ```
 
-[Original](https://x.com/liyue_ai/status/2048046253842559183)
+[原始来源](https://x.com/liyue_ai/status/2048046253842559183)
 
 ---
 
@@ -5399,7 +5399,7 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 Create a minimalist black-and-white vector avatar logo of a mythic anime woman shown in elegant side profile facing right, cropped from the chest up on a plain white background. Give her long flowing {argument name="hair color" default="black"} hair with bold white highlight streaks and smooth graph...
 ```
 
-[Original](https://x.com/jiajia232016/status/2048044100793032976)
+[原始来源](https://x.com/jiajia232016/status/2048044100793032976)
 
 ---
 
@@ -5415,7 +5415,7 @@ Create a minimalist black-and-white vector avatar logo of a mythic anime woman s
 A highly detailed anime-style full-body character portrait of {argument name="character name" default="Hermes"}, a delicate futuristic girl sitting curled up with her knees hugged to her chest, gazing softly at the viewer with a calm, slightly melancholic expression. She has extremely long {argument...
 ```
 
-[Original](https://x.com/libearal/status/2048026376645861799)
+[原始来源](https://x.com/libearal/status/2048026376645861799)
 
 ---
 
@@ -5431,7 +5431,7 @@ A highly detailed anime-style full-body character portrait of {argument name="ch
 A delicate vertical anime portrait of a dreamy young woman in an ethereal pastel lavender palette, shown from about mid-thigh up against a soft decorative background of pale swirling lines, floating petals, tiny stars, and subtle sparkles. She has extremely long, voluminous silver-lilac hair styled ...
 ```
 
-[Original](https://x.com/libearal/status/2048026376645861799)
+[原始来源](https://x.com/libearal/status/2048026376645861799)
 
 ---
 
@@ -5447,7 +5447,7 @@ A delicate vertical anime portrait of a dreamy young woman in an ethereal pastel
 A dreamy anime portrait of {argument name="character name" default="Kotori"}, a delicate virtual girl seated on the floor in a curled-up pose with both knees pulled close to her chest and her arms wrapped gently around them, looking directly at the viewer with a soft, quiet, slightly melancholy expr...
 ```
 
-[Original](https://x.com/libearal/status/2048026376645861799)
+[原始来源](https://x.com/libearal/status/2048026376645861799)
 
 ---
 
@@ -5463,7 +5463,7 @@ A dreamy anime portrait of {argument name="character name" default="Kotori"}, a 
 A dreamy anime-style portrait of a gentle virtual assistant girl named {argument name="character name" default="Misha"}, sitting curled up indoors in a cozy futuristic bedroom filled with translucent holographic memory screens. She has very long silvery white hair with a faint lavender tint, styled ...
 ```
 
-[Original](https://x.com/libearal/status/2048026376645861799)
+[原始来源](https://x.com/libearal/status/2048026376645861799)
 
 ---
 
@@ -5479,7 +5479,7 @@ A dreamy anime-style portrait of a gentle virtual assistant girl named {argument
 A dramatic, high-contrast studio portrait of a {argument name="subject gender" default="male"} athlete or model in the visual style of a premium sports drink advertisement, centered and facing straight toward the camera in a tight head-and-shoulders crop. The subject has {argument name="hair style" ...
 ```
 
-[Original](https://x.com/jeremydevz/status/2048026214812561683)
+[原始来源](https://x.com/jeremydevz/status/2048026214812561683)
 
 ---
 
@@ -5495,7 +5495,7 @@ A dramatic, high-contrast studio portrait of a {argument name="subject gender" d
 A {argument name="style" default="photobook-style portrait"} of a {argument name="character" default="gentle woman with glasses"}
 ```
 
-[Original](https://x.com/megane_onesan/status/2047989490153926848)
+[原始来源](https://x.com/megane_onesan/status/2047989490153926848)
 
 ---
 
@@ -5511,7 +5511,7 @@ A {argument name="style" default="photobook-style portrait"} of a {argument name
 A dreamy surreal portrait of a {argument name="subject" default="young woman"} standing underwater or in a liquid-like ethereal space, shown from about mid-thigh up, wearing a flowing sleeveless white dress that appears to dissolve into translucent water and shimmering fragments. Her long {argument ...
 ```
 
-[Original](https://x.com/kotobukigraphic/status/2047967522453123255)
+[原始来源](https://x.com/kotobukigraphic/status/2047967522453123255)
 
 ---
 
@@ -5527,7 +5527,7 @@ A dreamy surreal portrait of a {argument name="subject" default="young woman"} s
 A candid, photorealistic Japanese high school classroom scene in vertical smartphone-photo framing. Three schoolgirls wearing matching traditional navy blue sailor uniforms are the main focus in the foreground. The central standing girl has extremely long, straight, glossy black hair that falls well...
 ```
 
-[Original](https://x.com/Hair_Hair55/status/2047963832732221723)
+[原始来源](https://x.com/Hair_Hair55/status/2047963832732221723)
 
 ---
 
@@ -5543,7 +5543,7 @@ A candid, photorealistic Japanese high school classroom scene in vertical smartp
 A soft anime-style bedroom portrait of {argument name="character name" default="Nekomata Okayu"}, shown from the chest up sitting on a bed at night, centered in the frame. She has short fluffy {argument name="hair color" default="lavender"} hair with layered bangs partially covering one eye, large c...
 ```
 
-[Original](https://x.com/yume00112211/status/2047951384734228617)
+[原始来源](https://x.com/yume00112211/status/2047951384734228617)
 
 ---
 
@@ -5561,7 +5561,7 @@ Photorealistic high-quality studio photo of a modern digital art workspace, show
 In the foreground, a highly realistic collectible figurine of [Character Name / Character Identity] is placed on a round wooden display stand. T...
 ```
 
-[Original](https://x.com/Shinning1010/status/2049068188399227174)
+[原始来源](https://x.com/Shinning1010/status/2049068188399227174)
 
 ---
 
@@ -5583,13 +5583,13 @@ reflecting on the ground. Neon tube lights overhead. Red jacket, tan corduroy
 pants. Moody, dark, atmospheric street photography.
 ```
 
-[Original](https://x.com/harboriis/status/2049081194156020046)
+[原始来源](https://x.com/harboriis/status/2049081194156020046)
 
 ---
 
 ## Poster
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Poster 1: [VR Headset Exploded View Poster](https://x.com/wory37303852/status/2045925660401795478#reversed-0) (by [@wory＠ホッピング中](https://x.com/wory37303852))
 
@@ -5609,13 +5609,13 @@ pants. Moody, dark, atmospheric street photography.
     "logo": "∞ {argument name=\"pro...
 ```
 
-[Original](https://x.com/wory37303852/status/2045925660401795478#reversed-0)
+[原始来源](https://x.com/wory37303852/status/2045925660401795478#reversed-0)
 
 ---
 
 ## Poster & Illustration
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Poster & Illustration 1: [E-commerce Main Image - Luxury Amber Perfume Ad](https://x.com/Polanco_IA/status/2047689647967609037) (by [@Polanco_IA](https://x.com/Polanco_IA))
 
@@ -5629,7 +5629,7 @@ pants. Moody, dark, atmospheric street photography.
 A luxurious cinematic product photograph of a classic rectangular perfume bottle inspired by {argument name="brand label" default="N°5 CHANEL PARIS PARFUM"}, placed upright on a glossy black marble surface with white veining. The bottle is centered slightly to the right, made of clear faceted glass ...
 ```
 
-[Original](https://x.com/Polanco_IA/status/2047689647967609037)
+[原始来源](https://x.com/Polanco_IA/status/2047689647967609037)
 
 ---
 
@@ -5645,7 +5645,7 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 A soft {argument name="bottle color" default="cream-colored"} bottle with a {argument name="pump color" default="pastel yellow"} pump stands on a matte podium, surrounded by silky foam and {argument name="flowers" default="chamomile blossoms"}. The background is a pale yellow gradient with subtle bu...
 ```
 
-[Original](https://x.com/Strength04_X/status/2047636636847231222)
+[原始来源](https://x.com/Strength04_X/status/2047636636847231222)
 
 ---
 
@@ -5661,7 +5661,7 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 Create a vibrant tropical commercial poster for a citrus soda bottle, in a bright summer advertising style. Show a single large plastic bottle of {argument name="product name" default="Soda"} centered slightly to the right, tilted a little left, with a yellow cap and transparent bottle covered in co...
 ```
 
-[Original](https://x.com/edimakorfr/status/2047635133466124726)
+[原始来源](https://x.com/edimakorfr/status/2047635133466124726)
 
 ---
 
@@ -5679,7 +5679,7 @@ Core Subject: [{argument name="reference" default="use the uploaded image"}, kee
 Layout & Composition: A {argument name="presentation type" default="professional industrial design presentation sheet"}. The image should be organized into a clean gr...
 ```
 
-[Original](https://x.com/ShamsAmin56/status/2047627860752621647)
+[原始来源](https://x.com/ShamsAmin56/status/2047627860752621647)
 
 ---
 
@@ -5695,7 +5695,7 @@ Layout & Composition: A {argument name="presentation type" default="professional
 A warm, editorial-style lifestyle product photo shot indoors from a low close-up angle, focused on a woman's lower legs and feet as she tries on 1 pair of black leather backless loafers with tan faux-fur lining. One loafer is worn on the right foot and the left foot is bare, hovering just above the ...
 ```
 
-[Original](https://x.com/dynamicwangs/status/2047580984342925545)
+[原始来源](https://x.com/dynamicwangs/status/2047580984342925545)
 
 ---
 
@@ -5711,7 +5711,7 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 A luxury e-commerce advertising photo of a premium perfume bottle on a polished gray-and-white marble vanity, shot in a warm cinematic studio style with soft golden lighting, shallow depth of field, and elegant reflections. The composition is square and high-end, with the perfume bottle centered sli...
 ```
 
-[Original](https://x.com/MiguelMaestroIA/status/2047555836252151831)
+[原始来源](https://x.com/MiguelMaestroIA/status/2047555836252151831)
 
 ---
 
@@ -5727,7 +5727,7 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled "LUXEVEIL Skin Science – Radiance Nourishing Body Lotion" in cream/beige with a polished gold pump top, placed on a circular platform. Tiny figurine construction workers dressed in ye...
 ```
 
-[Original](https://x.com/Strength04_X/status/2048074514278563949)
+[原始来源](https://x.com/Strength04_X/status/2048074514278563949)
 
 ---
 
@@ -5745,7 +5745,7 @@ A scarf inspired by 'A Thousand Li of Rivers and Mountains', surrounded by Wang 
 A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with peony and butterfly patterns in the style of imperial kilns.
 ```
 
-[Original](https://x.com/songguoxiansen/status/2048046906585280977)
+[原始来源](https://x.com/songguoxiansen/status/2048046906585280977)
 
 ---
 
@@ -5761,7 +5761,7 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 A high-end enthusiast ATX gaming motherboard product photo on a dark studio background, shown in a three-quarter top-down perspective angled from the lower left toward the upper right. The board is mostly matte black and gunmetal with sharp geometric armor plates, brushed metal textures, and subtle ...
 ```
 
-[Original](https://x.com/rojassartorio/status/2048019666816163867)
+[原始来源](https://x.com/rojassartorio/status/2048019666816163867)
 
 ---
 
@@ -5777,7 +5777,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 {"type":"Chinese e-commerce product marketing board","product":{"category":"instant grain powder drink","brand":"五谷磨房","name":"核桃芝麻黑豆粉","packaging":"matte black retail box with gold Chinese typography and a large swirling bowl graphic on the front, plus individual black sachets inside","net weight":...
 ```
 
-[Original](https://x.com/WooGabriel76263/status/2047988112094101770)
+[原始来源](https://x.com/WooGabriel76263/status/2047988112094101770)
 
 ---
 
@@ -5794,7 +5794,7 @@ High-impact e-commerce infographic for "{argument name="product" default="Apple 
 Foreground: An extreme close-up of a hand holding an open glossy white wireless earbud charging case toward the camera. Inside the case are two sleek white earbuds with black speaker accen...
 ```
 
-[Original](https://x.com/SPEEDAI07/status/2047981795552153860)
+[原始来源](https://x.com/SPEEDAI07/status/2047981795552153860)
 
 ---
 
@@ -5810,7 +5810,7 @@ Foreground: An extreme close-up of a hand holding an open glossy white wireless 
 A premium eco-conscious fashion advertisement, shot as a refined editorial product photo. A single off-white or natural cream crew-neck T-shirt hangs on a smooth wooden hanger with a black metal hook, placed against a lush wall of dense green leaves and climbing vines. The hanger has a small minimal...
 ```
 
-[Original](https://x.com/Diplomeme/status/2047957339974828092)
+[原始来源](https://x.com/Diplomeme/status/2047957339974828092)
 
 ---
 
@@ -5826,7 +5826,7 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 An image in a {argument name="reference style" default="similar style"}, a product image for {argument name="product" default="lipstick"}, requiring color coordination and a grand aesthetic in a {argument name="style" default="poster style"}, with language changed to Simplified Chinese.
 ```
 
-[Original](https://x.com/Adam38363368936/status/2047917266361360682)
+[原始来源](https://x.com/Adam38363368936/status/2047917266361360682)
 
 ---
 
@@ -5848,7 +5848,7 @@ Lighting: soft diffused, premium Apple-style.
 Typograp...
 ```
 
-[Original](https://x.com/Strength04_X/status/2047917220165231011)
+[原始来源](https://x.com/Strength04_X/status/2047917220165231011)
 
 ---
 
@@ -5864,7 +5864,7 @@ Typograp...
 A high-end studio advertising poster for {argument name="brand name" default="crocs"}, in a monochrome pastel blue and white color palette, with a glossy reflective floor and a soft sky-blue backdrop. The background is dominated by the word {argument name="headline text" default="CROCS"} in gigantic...
 ```
 
-[Original](https://x.com/SPEEDAI07/status/2047907058079650035)
+[原始来源](https://x.com/SPEEDAI07/status/2047907058079650035)
 
 ---
 
@@ -5880,7 +5880,7 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name="video duration" default="15-second"} ad in a {argument name="aspect ratio" default="9:16"} vertical format, presented as a 9-panel grid. Keep the same b...
 ```
 
-[Original](https://x.com/Magncsans/status/2047876253898903594)
+[原始来源](https://x.com/Magncsans/status/2047876253898903594)
 
 ---
 
@@ -5903,7 +5903,7 @@ Using the provided reference image, transform the single casual product photo in
     "description": "anime girl ...
 ```
 
-[Original](https://x.com/chi_vc_/status/2046061073720369228)
+[原始来源](https://x.com/chi_vc_/status/2046061073720369228)
 
 ---
 
@@ -5924,7 +5924,7 @@ Using the provided reference image, transform the single casual product photo in
     "top_right_tag": "VI...
 ```
 
-[Original](https://x.com/IndieDevHailey/status/2044974254769463312)
+[原始来源](https://x.com/IndieDevHailey/status/2044974254769463312)
 
 ---
 
@@ -5945,7 +5945,7 @@ Using the provided reference image, transform the single casual product photo in
     "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argu...
 ```
 
-[Original](https://x.com/Colin_Leeee/status/2044802802149650631)
+[原始来源](https://x.com/Colin_Leeee/status/2044802802149650631)
 
 ---
 
@@ -5965,7 +5965,7 @@ Flyer characteristics (following the grammar of real delivery flyers):
 - Large text at the top: "Delivery Available!...
 ```
 
-[Original](https://x.com/xc5_/status/2048310696686014935)
+[原始来源](https://x.com/xc5_/status/2048310696686014935)
 
 ---
 
@@ -5981,7 +5981,7 @@ Flyer characteristics (following the grammar of real delivery flyers):
 {"type":"pastel lifestyle poster / character room-goods feature sheet","theme":"soft dreamy lavender jellyfish aesthetic","style":"Japanese cute editorial graphic, airy white background, pastel lilac palette, delicate handwritten notes, sparkles and tiny doodles, soft product photography mixed with ...
 ```
 
-[Original](https://x.com/Ayu_AI_0912/status/2048309565817766139)
+[原始来源](https://x.com/Ayu_AI_0912/status/2048309565817766139)
 
 ---
 
@@ -5997,7 +5997,7 @@ Flyer characteristics (following the grammar of real delivery flyers):
 Epic 3D scene: a weathered seed packet lying open on a potting bench, its promise erupting into the garden it describes. The illustration on the front becomes real. {argument name="plant type" default="[PLANT / FLOWER]"} growing at full scale from the paper, roots visible through the packet's base p...
 ```
 
-[Original](https://x.com/AllaAisling/status/2048156345518768190)
+[原始来源](https://x.com/AllaAisling/status/2048156345518768190)
 
 ---
 
@@ -6013,7 +6013,7 @@ Epic 3D scene: a weathered seed packet lying open on a potting bench, its promis
 A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour marker...
 ```
 
-[Original](https://x.com/AlwaveNazca/status/2048147643809865950)
+[原始来源](https://x.com/AlwaveNazca/status/2048147643809865950)
 
 ---
 
@@ -6029,7 +6029,7 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 A high-energy vertical Nike fashion campaign poster featuring a single athletic young woman mid-jump against a futuristic neon studio background. She is captured in a dynamic airborne pose with one knee bent up, the other leg folded back, one arm extended outward and the other bent near her chest, c...
 ```
 
-[Original](https://x.com/AlwaveNazca/status/2048147643809865950)
+[原始来源](https://x.com/AlwaveNazca/status/2048147643809865950)
 
 ---
 
@@ -6045,7 +6045,7 @@ A high-energy vertical Nike fashion campaign poster featuring a single athletic 
 Create a bold streetwear poster advertisement for {argument name="brand name" default="NESS STUDIO"} featuring a young adult model seated casually on the ground in a low-angle fashion pose, one knee raised and one leg extended toward the camera so the sneaker in front appears oversized and dominant....
 ```
 
-[Original](https://x.com/AlwaveNazca/status/2048147643809865950)
+[原始来源](https://x.com/AlwaveNazca/status/2048147643809865950)
 
 ---
 
@@ -6061,7 +6061,7 @@ Create a bold streetwear poster advertisement for {argument name="brand name" de
 A clean editorial fashion advertisement poster on a pale powder-blue studio background with a glossy reflective floor. The composition is vertical and minimal, dominated by oversized bold white condensed sans-serif typography in the background reading “OSAKA SIX:” on the top line and “006 REMAINS” b...
 ```
 
-[Original](https://x.com/_LaurentB/status/2048126606313464040)
+[原始来源](https://x.com/_LaurentB/status/2048126606313464040)
 
 ---
 
@@ -6077,7 +6077,7 @@ A clean editorial fashion advertisement poster on a pale powder-blue studio back
 A high-end editorial product photograph of a single luxury perfume bottle centered in a warm earthy still-life scene. The product is a clear rectangular glass bottle filled with golden amber liquid, topped with a glossy rounded black cap, with a clean white front label that reads "BYREDO", "BAL D’AF...
 ```
 
-[Original](https://x.com/Salmaaboukarr/status/2048103506125463983)
+[原始来源](https://x.com/Salmaaboukarr/status/2048103506125463983)
 
 ---
 
@@ -6093,7 +6093,7 @@ A high-end editorial product photograph of a single luxury perfume bottle center
 A luxurious editorial product photograph of a single perfume bottle nestled into dense, plush faux fur in rich golden caramel and honey-brown tones. Center the composition on one clear oval glass bottle filled with warm amber liquid, with a glossy rounded black cap and a clean white rectangular labe...
 ```
 
-[Original](https://x.com/Salmaaboukarr/status/2048103506125463983)
+[原始来源](https://x.com/Salmaaboukarr/status/2048103506125463983)
 
 ---
 
@@ -6109,7 +6109,7 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 A hyper-detailed cinematic isometric miniature city model of {argument name="landmark tower" default="Burj Khalifa"} rising dramatically from the center of a square architectural master-plan board, presented like a luxury urban planning maquette on a black background. The composition shows one domin...
 ```
 
-[Original](https://x.com/silentempiredev/status/2048086378383384773)
+[原始来源](https://x.com/silentempiredev/status/2048086378383384773)
 
 ---
 
@@ -6125,7 +6125,7 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 High-impact parody e-commerce infographic for “{argument name="product" default="Four Loko"}” malt beverage. Foreground: An extreme close-up of a rough, weathered hand holding a tall, brightly colored can of {argument name="product" default="Four Loko"} toward the camera. The can is slightly cold wi...
 ```
 
-[Original](https://x.com/tonysimons_/status/2048057490940596595)
+[原始来源](https://x.com/tonysimons_/status/2048057490940596595)
 
 ---
 
@@ -6147,7 +6147,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
     "logo": "∞ {argument name=\"pro...
 ```
 
-[Original](https://x.com/wory37303852/status/2045925660401795478)
+[原始来源](https://x.com/wory37303852/status/2045925660401795478)
 
 ---
 
@@ -6163,7 +6163,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective wate...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2045358053831172358)
+[原始来源](https://x.com/BubbleBrain/status/2045358053831172358)
 
 ---
 
@@ -6179,7 +6179,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft ...
 ```
 
-[Original](https://x.com/WolfRiccardo/status/2044562722491121718)
+[原始来源](https://x.com/WolfRiccardo/status/2044562722491121718)
 
 ---
 
@@ -6195,7 +6195,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的...
 ```
 
-[Original](https://x.com/Panda20230902/status/2045396918965285111)
+[原始来源](https://x.com/Panda20230902/status/2045396918965285111)
 
 ---
 
@@ -6219,7 +6219,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 下...
 ```
 
-[Original](https://x.com/liyue_ai/status/2045368305079447853)
+[原始来源](https://x.com/liyue_ai/status/2045368305079447853)
 
 ---
 
@@ -6240,7 +6240,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 20...
 ```
 
-[Original](https://x.com/liyue_ai/status/2045332620352119274)
+[原始来源](https://x.com/liyue_ai/status/2045332620352119274)
 
 ---
 
@@ -6256,7 +6256,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随...
 ```
 
-[Original](https://x.com/blanplan/status/2045190582453350748)
+[原始来源](https://x.com/blanplan/status/2045190582453350748)
 
 ---
 
@@ -6272,7 +6272,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 曼荼羅の近未来SF版を描いて
 ```
 
-[Original](https://x.com/4WEB1/status/2045390207072256179)
+[原始来源](https://x.com/4WEB1/status/2045390207072256179)
 
 ---
 
@@ -6288,7 +6288,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて
 ```
 
-[Original](https://x.com/lilimliliychan/status/2045114760937804187)
+[原始来源](https://x.com/lilimliliychan/status/2045114760937804187)
 
 ---
 
@@ -6307,7 +6307,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる
 ```
 
-[Original](https://x.com/llllegend0620/status/2045963764466688065)
+[原始来源](https://x.com/llllegend0620/status/2045963764466688065)
 
 ---
 
@@ -6323,7 +6323,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16
 ```
 
-[Original](https://x.com/liyue_ai/status/2045875219307655337)
+[原始来源](https://x.com/liyue_ai/status/2045875219307655337)
 
 ---
 
@@ -6339,7 +6339,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 纯黑深邃底色，一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端，构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟，内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列，前景有白鹤与湖面，远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀，东方美学与现代意象交融，8K 超高清渲染，比例 9:16。
 ```
 
-[Original](https://x.com/liyue_ai/status/2045873940883808523)
+[原始来源](https://x.com/liyue_ai/status/2045873940883808523)
 
 ---
 
@@ -6355,7 +6355,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 广东省城市足球超级联赛（粤超）邀请函海报设计，比例 9:16。S 型流动构图，以发光足球和动态能量流贯穿画面，沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格，中国红主视觉，青蓝辅助，金色高光，带完整中文排版与电影级光影。
 ```
 
-[Original](https://x.com/liyue_ai/status/2045772039521542202)
+[原始来源](https://x.com/liyue_ai/status/2045772039521542202)
 
 ---
 
@@ -6371,7 +6371,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。
 ```
 
-[Original](https://x.com/grok/status/2046012437086818395)
+[原始来源](https://x.com/grok/status/2046012437086818395)
 
 ---
 
@@ -6387,7 +6387,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 收藏版��诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。
 ```
 
-[Original](https://x.com/Ghhhh3owi/status/2045803217251102897)
+[原始来源](https://x.com/Ghhhh3owi/status/2045803217251102897)
 
 ---
 
@@ -6408,7 +6408,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 20...
 ```
 
-[Original](https://x.com/alanlovelq/status/2045484598487060917)
+[原始来源](https://x.com/alanlovelq/status/2045484598487060917)
 
 ---
 
@@ -6424,7 +6424,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 Generate a high-quality vertical science popularization encyclopedia image based on [Theme].
 ```
 
-[Original](https://x.com/pfanis/status/2046413660147314714)
+[原始来源](https://x.com/pfanis/status/2046413660147314714)
 
 ---
 
@@ -6440,7 +6440,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 以中国连环画（小人书）的风格帮我绘制大闹天空
 ```
 
-[Original](https://x.com/overseas58/status/2046271877577097376)
+[原始来源](https://x.com/overseas58/status/2046271877577097376)
 
 ---
 
@@ -6456,7 +6456,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 请根据【主题】生成一张高设计感的人物关系图海报。
 ```
 
-[Original](https://x.com/MrLarus/status/2046263153546174935)
+[原始来源](https://x.com/MrLarus/status/2046263153546174935)
 
 ---
 
@@ -6472,7 +6472,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 新中式水墨山水海报，竖版9:16构图，东方极简美学风格，大面积留白，主题是春岚一叶红。
 ```
 
-[Original](https://x.com/liyue_ai/status/2046215276249993720)
+[原始来源](https://x.com/liyue_ai/status/2046215276249993720)
 
 ---
 
@@ -6488,7 +6488,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 以涂鸦速写风表现【一个厉害的AI builder】。
 ```
 
-[Original](https://x.com/opc_8838/status/2046162334440448339)
+[原始来源](https://x.com/opc_8838/status/2046162334440448339)
 
 ---
 
@@ -6504,7 +6504,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 『神層37区 特級執行官 神巫サバト』この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して
 ```
 
-[Original](https://x.com/tebasaki3D/status/2046371076402503709)
+[原始来源](https://x.com/tebasaki3D/status/2046371076402503709)
 
 ---
 
@@ -6533,7 +6533,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建...
 ```
 
-[Original](https://x.com/MrLarus/status/2046231542817497392)
+[原始来源](https://x.com/MrLarus/status/2046231542817497392)
 
 ---
 
@@ -6549,7 +6549,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 架空のアニメ映画のポスターをGPT image2で作成。
 ```
 
-[Original](https://x.com/seiiiiiiiiiiru/status/2046509734954741780)
+[原始来源](https://x.com/seiiiiiiiiiiru/status/2046509734954741780)
 
 ---
 
@@ -6566,7 +6566,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 今のトレンド、ターゲットに合わせた洗練されたデザインで。
 ```
 
-[Original](https://x.com/genel_ai/status/2046498264774791514)
+[原始来源](https://x.com/genel_ai/status/2046498264774791514)
 
 ---
 
@@ -6586,7 +6586,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ...
 ```
 
-[Original](https://x.com/liyue_ai/status/2046243132774494607)
+[原始来源](https://x.com/liyue_ai/status/2046243132774494607)
 
 ---
 
@@ -6602,7 +6602,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 Create a Science fiction movie poster
 ```
 
-[Original](https://x.com/underwoodxie96/status/2046514205529088501)
+[原始来源](https://x.com/underwoodxie96/status/2046514205529088501)
 
 ---
 
@@ -6618,7 +6618,7 @@ Create a Science fiction movie poster
 少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように
 ```
 
-[Original](https://x.com/genel_ai/status/2046501692246470871)
+[原始来源](https://x.com/genel_ai/status/2046501692246470871)
 
 ---
 
@@ -6634,7 +6634,7 @@ Create a Science fiction movie poster
 生成一张手写中/西医药方图
 ```
 
-[Original](https://x.com/MrLarus/status/2046514998965371144)
+[原始来源](https://x.com/MrLarus/status/2046514998965371144)
 
 ---
 
@@ -6652,7 +6652,7 @@ A refined 2026 Silicon Valley city promotional poster with a futuristic yet eleg
 Double exposure composition, preserving an S-shaped sense of flowing movement. On a pure white textured background, in the lower-right corner, a miniature figure dressed in sleek modern techwear is relea...
 ```
 
-[Original](https://x.com/carsonyungos/status/2046523198116889064)
+[原始来源](https://x.com/carsonyungos/status/2046523198116889064)
 
 ---
 
@@ -6668,7 +6668,7 @@ Double exposure composition, preserving an S-shaped sense of flowing movement. O
 『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』
 ```
 
-[Original](https://x.com/weel_corp/status/2046514558064586782)
+[原始来源](https://x.com/weel_corp/status/2046514558064586782)
 
 ---
 
@@ -6694,7 +6694,7 @@ Double exposure composition, preserving an S-shaped sense of flowing movement. O
 - 象征元素(自动判断更适合骷髅、徽记...
 ```
 
-[Original](https://x.com/A9Quant/status/2046224777208361126)
+[原始来源](https://x.com/A9Quant/status/2046224777208361126)
 
 ---
 
@@ -6710,7 +6710,7 @@ Double exposure composition, preserving an S-shaped sense of flowing movement. O
 ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
 ```
 
-[Original](https://x.com/ck_igarashi/status/2046528889124728993)
+[原始来源](https://x.com/ck_igarashi/status/2046528889124728993)
 
 ---
 
@@ -6726,7 +6726,7 @@ Double exposure composition, preserving an S-shaped sense of flowing movement. O
 Old money Hamptons editorial, tall blonde woman late 20s, serene elegant expression, wearing cream cashmere cable sweater, pleated beige tennis skirt, pearl earrings, Hermès silk scarf, leather flats, Slim Aarons photography style, medium format film photography, sitting on a white wooden porch of a...
 ```
 
-[Original](https://x.com/anacoding/status/2046904999045628114)
+[原始来源](https://x.com/anacoding/status/2046904999045628114)
 
 ---
 
@@ -6742,7 +6742,7 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.
 ```
 
-[Original](https://x.com/iaPulse_/status/2046903739429097660)
+[原始来源](https://x.com/iaPulse_/status/2046903739429097660)
 
 ---
 
@@ -6758,7 +6758,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 360 equirectangular image of Istiklal Street, Istanbul in 1900
 ```
 
-[Original](https://x.com/ai_gezgini/status/2046903631509705030)
+[原始来源](https://x.com/ai_gezgini/status/2046903631509705030)
 
 ---
 
@@ -6787,7 +6787,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建...
 ```
 
-[Original](https://x.com/alanlovelq/status/2046378199681257920)
+[原始来源](https://x.com/alanlovelq/status/2046378199681257920)
 
 ---
 
@@ -6803,7 +6803,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例
 ```
 
-[Original](https://x.com/Kurt_Rousey466/status/2046267707881029934)
+[原始来源](https://x.com/Kurt_Rousey466/status/2046267707881029934)
 
 ---
 
@@ -6840,7 +6840,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 超写实 3...
 ```
 
-[Original](https://x.com/A9Quant/status/2046228485841334559)
+[原始来源](https://x.com/A9Quant/status/2046228485841334559)
 
 ---
 
@@ -6856,7 +6856,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, striding through a city crosswalk. She wears an oversized, matte chocolate-brown leather jacket paired with a free-flowing black skirt and sleek knee-high black boots, conveying a sense of high fashion street style....
 ```
 
-[Original](https://x.com/AIwithSarah_/status/2047234995627172229)
+[原始来源](https://x.com/AIwithSarah_/status/2047234995627172229)
 
 ---
 
@@ -6876,7 +6876,7 @@ illustration and tropical branding. The can is slightly tilted,
 planted in a small mound of fine g...
 ```
 
-[Original](https://x.com/meng_dagg695/status/2047227172486824002)
+[原始来源](https://x.com/meng_dagg695/status/2047227172486824002)
 
 ---
 
@@ -6894,7 +6894,7 @@ planted in a small mound of fine g...
 Online 360° Panorama Viewer VR
 ```
 
-[Original](https://x.com/rs_elwood/status/2047192228758692036)
+[原始来源](https://x.com/rs_elwood/status/2047192228758692036)
 
 ---
 
@@ -6910,7 +6910,7 @@ Online 360° Panorama Viewer VR
 Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large negative space.Calm, thoughtful, slightly op...
 ```
 
-[Original](https://x.com/dotey/status/2047174895293849972)
+[原始来源](https://x.com/dotey/status/2047174895293849972)
 
 ---
 
@@ -6930,7 +6930,7 @@ Aspect Ratio: 9:16 Vertical
 The subject is an adult female whose facial features and bone structure must 100% perfectly match the provided FACE_REF image. Eye spacing, nose bridge, jawline, and cheekbone structure must be exact; no identity drift is allowed...
 ```
 
-[Original](https://x.com/GeekCatX/status/2047220831491858766)
+[原始来源](https://x.com/GeekCatX/status/2047220831491858766)
 
 ---
 
@@ -6946,7 +6946,7 @@ The subject is an adult female whose facial features and bone structure must 100
 帮我生成一个介绍杭州西湖的海报
 ```
 
-[Original](https://x.com/BNBOKBt5/status/2047210189741605082)
+[原始来源](https://x.com/BNBOKBt5/status/2047210189741605082)
 
 ---
 
@@ -6964,7 +6964,7 @@ The subject is an adult female whose facial features and bone structure must 100
 图片2：东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血
 ```
 
-[Original](https://x.com/songguoxiansen/status/2047204566559756707)
+[原始来源](https://x.com/songguoxiansen/status/2047204566559756707)
 
 ---
 
@@ -6982,7 +6982,7 @@ The subject is an adult female whose facial features and bone structure must 100
 图片2：杜蕾斯吉祥物×猪八戒，八戒害羞脸红遮面，文案取经路上要安全
 ```
 
-[Original](https://x.com/songguoxiansen/status/2047201597697245252)
+[原始来源](https://x.com/songguoxiansen/status/2047201597697245252)
 
 ---
 
@@ -7000,7 +7000,7 @@ The subject is an adult female whose facial features and bone structure must 100
 4.23早上测试成功
 ```
 
-[Original](https://x.com/cj858cjsoul/status/2047103956535697822)
+[原始来源](https://x.com/cj858cjsoul/status/2047103956535697822)
 
 ---
 
@@ -7016,7 +7016,7 @@ The subject is an adult female whose facial features and bone structure must 100
 生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质
 ```
 
-[Original](https://x.com/caiziboshi/status/2047091751731519744)
+[原始来源](https://x.com/caiziboshi/status/2047091751731519744)
 
 ---
 
@@ -7032,7 +7032,7 @@ The subject is an adult female whose facial features and bone structure must 100
 generate an image of a racing car poster with its spec and pricing
 ```
 
-[Original](https://x.com/verysmallwoods/status/2047033599229137126)
+[原始来源](https://x.com/verysmallwoods/status/2047033599229137126)
 
 ---
 
@@ -7050,7 +7050,7 @@ generate an image of a racing car poster with its spec and pricing
 左边是 GPT-image-2 右边是
 ```
 
-[Original](https://x.com/chenenpei/status/2046985783715025135)
+[原始来源](https://x.com/chenenpei/status/2046985783715025135)
 
 ---
 
@@ -7071,7 +7071,7 @@ generate an image of a racing car poster with its spec and pricing
     "ma...
 ```
 
-[Original](https://x.com/mm_zzm44854/status/2045861258520568230)
+[原始来源](https://x.com/mm_zzm44854/status/2045861258520568230)
 
 ---
 
@@ -7090,7 +7090,7 @@ generate an image of a racing car poster with its spec and pricing
   "style": {...
 ```
 
-[Original](https://x.com/GeekCatX/status/2045792240044511277)
+[原始来源](https://x.com/GeekCatX/status/2045792240044511277)
 
 ---
 
@@ -7106,7 +7106,7 @@ generate an image of a racing car poster with its spec and pricing
 {"type":"biomimetic aerospace concept poster","subject":{"vehicle":"futuristic aircraft concept","name":"{argument name=\"vehicle name\" default=\"SKYRAY\"}","inspiration":"{argument name=\"animal inspiration\" default=\"stingray\"}","design":"blended-wing-body aircraft shaped like a manta ray or st...
 ```
 
-[Original](https://x.com/_simonsmith/status/2048172203946996041)
+[原始来源](https://x.com/_simonsmith/status/2048172203946996041)
 
 ---
 
@@ -7122,7 +7122,7 @@ generate an image of a racing car poster with its spec and pricing
 A highly detailed vertical Taoist esoteric infographic poster in the style of an ancient Chinese religious scroll, printed on aged beige rice paper with fine ornamental borders, inked calligraphy, faded stains, and classical diagram annotations. At the top center, large black brush-calligraphy title...
 ```
 
-[Original](https://x.com/leyu37829/status/2048125950681075833)
+[原始来源](https://x.com/leyu37829/status/2048125950681075833)
 
 ---
 
@@ -7138,7 +7138,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 {"type":"vintage editorial infographic poster","subject":"Claude Shannon and information theory","style":{"era":"1940s Bell Labs archival poster","look":"aged cream paper, blueprint drafting grid, thin ink linework, muted navy and charcoal printing, subtle stains and paper wear, technical illustrati...
 ```
 
-[Original](https://x.com/mob_17/status/2048118645017219381)
+[原始来源](https://x.com/mob_17/status/2048118645017219381)
 
 ---
 
@@ -7154,7 +7154,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 Create a vintage editorial poster on aged rice paper celebrating {argument name="artist name" default="CHEN UEN"}, designed like a museum infographic mixed with Chinese ink wash illustration and calligraphy. The format is a single vertically oriented poster with a weathered parchment background, ink...
 ```
 
-[Original](https://x.com/mob_17/status/2048118645017219381)
+[原始来源](https://x.com/mob_17/status/2048118645017219381)
 
 ---
 
@@ -7170,7 +7170,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 {"type":"Chinese zodiac-style character infographic poster","subject":"twelve zodiac character list, water signs edition","language":"Traditional Chinese","format":"vertical poster","style":{"overall":"elegant anime-inspired character catalog with editorial infographic layout","rendering":"soft poli...
 ```
 
-[Original](https://x.com/komorimedia/status/2048114825398731143)
+[原始来源](https://x.com/komorimedia/status/2048114825398731143)
 
 ---
 
@@ -7186,7 +7186,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 {"type":"vintage zodiac character infographic poster","theme":"earth signs only","language":"Traditional Chinese","style":{"overall":"elegant editorial infographic with soft anime-inspired live-action portrait compositing","palette":"warm beige, cream, taupe, olive-gray, muted brown, antique gold","...
 ```
 
-[Original](https://x.com/komorimedia/status/2048114825398731143)
+[原始来源](https://x.com/komorimedia/status/2048114825398731143)
 
 ---
 
@@ -7202,7 +7202,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 A polished vertical infographic poster in elegant East Asian editorial style, themed around the fire signs of the zodiac using one consistent female character reimagined in three different costumes. Cream parchment background with thin ornamental borders, small corner flourishes, tiny sparkles, and ...
 ```
 
-[Original](https://x.com/komorimedia/status/2048114825398731143)
+[原始来源](https://x.com/komorimedia/status/2048114825398731143)
 
 ---
 
@@ -7218,7 +7218,7 @@ A polished vertical infographic poster in elegant East Asian editorial style, th
 {"type":"Chinese zodiac-themed character infographic poster","format":"vertical poster","aspect_ratio":"3:4","style":"clean pastel editorial infographic with anime-inspired fashion photography, soft magical accents, elegant horoscope design, premium magazine layout","background":{"color":"warm ivory...
 ```
 
-[Original](https://x.com/komorimedia/status/2048114825398731143)
+[原始来源](https://x.com/komorimedia/status/2048114825398731143)
 
 ---
 
@@ -7234,7 +7234,7 @@ A polished vertical infographic poster in elegant East Asian editorial style, th
 Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate focused on the ceremonial hat. Use REFERENCE_0 as the historical Tibetan context and silhouette reference, and REFERENCE_1 as the color, material, and ornament reference for the hat. Isolate and reconstruct the hat as a mus...
 ```
 
-[Original](https://x.com/degewa/status/2048104569037783226)
+[原始来源](https://x.com/degewa/status/2048104569037783226)
 
 ---
 
@@ -7250,7 +7250,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 {"type":"luxury vintage guitar comparison infographic poster","subject":"a highly detailed, vertically oriented PRS electric guitar lineup chart designed like a premium museum poster or collector's reference board","style":"ornate, dark, glossy, high-contrast, gold-foil typography, elegant wood-and-...
 ```
 
-[Original](https://x.com/GlennHasABeard/status/2048087784141857235)
+[原始来源](https://x.com/GlennHasABeard/status/2048087784141857235)
 
 ---
 
@@ -7266,7 +7266,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 Create a vintage illustrated travel poster in traditional Chinese for {argument name="destination name" default="阿里山國家風景區"}, designed as a one-day itinerary infographic with a split vertical layout. The left panel is a parchment-textured itinerary card in warm beige with ornate gold Art Nouveau bord...
 ```
 
-[Original](https://x.com/TWnese/status/2048077204786212887)
+[原始来源](https://x.com/TWnese/status/2048077204786212887)
 
 ---
 
@@ -7288,7 +7288,7 @@ white background, comic-style cell grid layout, technical diagram aesthetic
 numbered cells from 1 t...
 ```
 
-[Original](https://x.com/Ciri_ai/status/2048074587955658848)
+[原始来源](https://x.com/Ciri_ai/status/2048074587955658848)
 
 ---
 
@@ -7304,7 +7304,7 @@ numbered cells from 1 t...
 Using the provided reference photo, recreate the same museum facade and frontal composition as a polished theatrical anime background illustration. Keep the architecture, signage, 3 flagpoles, broad steps, and overall layout consistent, but convert the image from realistic photography into a highly ...
 ```
 
-[Original](https://x.com/Dakiny/status/2048175219966394695)
+[原始来源](https://x.com/Dakiny/status/2048175219966394695)
 
 ---
 
@@ -7320,7 +7320,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 {"type":"pose reference sheet","subject":{"theme":"hip-hop dance and combat-ready movement chart","character":{"count":1,"gender_presentation":"female","age_appearance":"young adult","body_type":"fit athletic dancer","skin_tone":"light tan","hair":{"color":"black","style":"high ponytail with loose s...
 ```
 
-[Original](https://x.com/ExquisitMe/status/2048143577264402629)
+[原始来源](https://x.com/ExquisitMe/status/2048143577264402629)
 
 ---
 
@@ -7336,7 +7336,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 {"type":"dance pose reference sheet","style":"clean studio pose chart, photoreal fitness-dance reference, white seamless background, sharp full-body photography, soft even lighting, minimal shadows, thin black grid lines separating panels","subject":{"count":1,"person":{"gender_presentation":"female...
 ```
 
-[Original](https://x.com/ExquisitMe/status/2048143577264402629)
+[原始来源](https://x.com/ExquisitMe/status/2048143577264402629)
 
 ---
 
@@ -7352,7 +7352,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 {"type":"pose reference sheet","subject":{"count":1,"description":"a fit young woman dancer shown repeatedly in a clean studio reference layout","appearance":{"gender":"female","age":"young adult","build":"athletic, toned midriff","skin tone":"light to medium tan","hair":{"color":"dark brown","style...
 ```
 
-[Original](https://x.com/ExquisitMe/status/2048143577264402629)
+[原始来源](https://x.com/ExquisitMe/status/2048143577264402629)
 
 ---
 
@@ -7368,7 +7368,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 {"type":"pose reference sheet","subject":{"category":"female dancer fitness model","age_appearance":"young adult","build":"slim athletic","hair":{"color":"dark brown","style":"high ponytail"},"outfit":{"top":"light gray or white sports bra crop top","bottom":"baggy light gray sweatpants","shoes":"wh...
 ```
 
-[Original](https://x.com/ExquisitMe/status/2048143577264402629)
+[原始来源](https://x.com/ExquisitMe/status/2048143577264402629)
 
 ---
 
@@ -7384,7 +7384,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 {"type":"cinematic sci-fi storyboard contact sheet","subject":{"primary":"a small futuristic spacecraft descending into a massive gas giant storm system","secondary":"an enormous leviathan-like silhouette hidden within the clouds","mood":"oppressive, catastrophic, awe-struck, high tension, cosmic dr...
 ```
 
-[Original](https://x.com/xRahultripathi/status/2048140775356354892)
+[原始来源](https://x.com/xRahultripathi/status/2048140775356354892)
 
 ---
 
@@ -7400,7 +7400,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 A {argument name="painting style" default="baroque oil painting"} comes to life — its painted figures climbing out of the gilded frame into a {argument name="setting" default="modern white gallery"}, half their bodies still in flat 2D paint, half fully volumetric 3D humans, brushstrokes visible on t...
 ```
 
-[Original](https://x.com/JohnnyWang8802/status/2048129335853559824)
+[原始来源](https://x.com/JohnnyWang8802/status/2048129335853559824)
 
 ---
 
@@ -7416,7 +7416,7 @@ A {argument name="painting style" default="baroque oil painting"} comes to life 
 A cinematic, ultra-realistic night scene of a {argument name="artist" default="young male street artist"} painting a large-scale {argument name="mural subject" default="mural of a woman’s face"} in a {argument name="setting" default="narrow urban alley"}. The camera angle is slightly low, creating a...
 ```
 
-[Original](https://x.com/Professor_134/status/2048066672398102896)
+[原始来源](https://x.com/Professor_134/status/2048066672398102896)
 
 ---
 
@@ -7432,7 +7432,7 @@ A cinematic, ultra-realistic night scene of a {argument name="artist" default="y
 Using the provided reference image, transform the top-down RPG town map into a polished anime-style event illustration from a human eye-level perspective. Keep the same village location and layout cues: the central stone well, the path network, the hedges, the wooden houses, and the narrow water can...
 ```
 
-[Original](https://x.com/ArtwlDesign/status/2048054726768709769)
+[原始来源](https://x.com/ArtwlDesign/status/2048054726768709769)
 
 ---
 
@@ -7448,7 +7448,7 @@ Using the provided reference image, transform the top-down RPG town map into a p
 A full-body anime girl character design on a plain white background, centered and floating slightly, drawn in a soft minimalist pastel style with very thin gray linework and delicate flat colors. She has a petite youthful build and a cute, gentle silhouette, with special emphasis on a soft rounded f...
 ```
 
-[Original](https://x.com/hoshi122221/status/2048025730425196801)
+[原始来源](https://x.com/hoshi122221/status/2048025730425196801)
 
 ---
 
@@ -7464,7 +7464,7 @@ A full-body anime girl character design on a plain white background, centered an
 A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-style scramble crossing on a bright clear day, viewed at street level with a wide cinematic composition. The city blends modern realism with mythic fantasy: dense high-rise buildings covered in giant billboards, a red broad...
 ```
 
-[Original](https://x.com/Ray_CROWN0/status/2048024227664494775)
+[原始来源](https://x.com/Ray_CROWN0/status/2048024227664494775)
 
 ---
 
@@ -7480,7 +7480,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 {"type":"Japanese infographic","style":"simple, easy-to-understand flat vector diagram, clean white background, rounded light-gray outer frame, minimal pastel color palette, presentation-slide design, clear hierarchy, lots of whitespace, modern sans-serif Japanese typography","canvas":{"aspect_ratio...
 ```
 
-[Original](https://x.com/sarinaashapi/status/2048307780864606708)
+[原始来源](https://x.com/sarinaashapi/status/2048307780864606708)
 
 ---
 
@@ -7496,7 +7496,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 Create a soft editorial lifestyle poster for {argument name="event date" default="4.26"} celebrating Japanese bath culture, designed like a refined magazine feature page in portrait orientation. The layout is split into two main columns with a pale cream and warm gray background, thin divider lines,...
 ```
 
-[Original](https://x.com/Kazuch75240438/status/2048205418238030327)
+[原始来源](https://x.com/Kazuch75240438/status/2048205418238030327)
 
 ---
 
@@ -7512,7 +7512,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 {"type":"Japanese sci-fi armor dressing-process infographic","style":"cinematic live-action tokusatsu-inspired promotional board, realistic industrial lighting, polished metal surfaces, sharp photographic detail","theme":"manual pre-battle suit-up sequence for a female hero in a red, silver, black, ...
 ```
 
-[Original](https://x.com/yy7482933910896/status/2048192904922075161)
+[原始来源](https://x.com/yy7482933910896/status/2048192904922075161)
 
 ---
 
@@ -7528,7 +7528,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 A dreamy anime-style full-body illustration of a fashionable young woman standing in the middle of the Shibuya scramble crossing in Tokyo on a bright clear day, with the iconic cylindrical SHIBUYA 109 building centered in the background and recognizable commercial billboards surrounding it, includin...
 ```
 
-[Original](https://x.com/terunari/status/2048308270914490666)
+[原始来源](https://x.com/terunari/status/2048308270914490666)
 
 ---
 
@@ -7544,7 +7544,7 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 A cinematic wide aerial view of a tropical coastal city at sunset during a violent storm, split dramatically between dark storm clouds on the left and blazing golden sunlight on the right. In the foreground, a small single-engine light airplane with a high wing and visible tail is parked or perched ...
 ```
 
-[Original](https://x.com/Gerry/status/2048303505702629537)
+[原始来源](https://x.com/Gerry/status/2048303505702629537)
 
 ---
 
@@ -7563,7 +7563,7 @@ Top-left panel:
 Athletic male model in a bright blue insulated winte...
 ```
 
-[Original](https://x.com/SPEEDAI07/status/2049081198211736062)
+[原始来源](https://x.com/SPEEDAI07/status/2049081198211736062)
 
 ---
 
@@ -7581,7 +7581,7 @@ Ultra-realistic satellite view from space, a clean modern editorial layout of 9 
 Panel 1 (...
 ```
 
-[Original](https://x.com/madpencil_/status/2049080259476349218)
+[原始来源](https://x.com/madpencil_/status/2049080259476349218)
 
 ---
 
@@ -7597,7 +7597,7 @@ Panel 1 (...
 A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visibl...
 ```
 
-[Original](https://x.com/Strength04_X/status/2049082049995362785)
+[原始来源](https://x.com/Strength04_X/status/2049082049995362785)
 
 ---
 
@@ -7618,7 +7618,7 @@ A high-end café-style product photograph of a transparent glass filled with ice
     "fit": "Bodycon / slim fit with side ruching and a subtl...
 ```
 
-[Original](https://x.com/cellinlab/status/2049073530738754042)
+[原始来源](https://x.com/cellinlab/status/2049073530738754042)
 
 ---
 
@@ -7635,7 +7635,7 @@ Ultra-realistic high-fashion magazine cover, black and white cinematic portrait 
 The model is posing slightly tilted fo...
 ```
 
-[Original](https://x.com/sha_zdiii/status/2049088961008848905)
+[原始来源](https://x.com/sha_zdiii/status/2049088961008848905)
 
 ---
 
@@ -7651,7 +7651,7 @@ The model is posing slightly tilted fo...
 Use the character in image 1 as the main subject. Create a vertical poster ad in American fast food diner style. Low angle, wide lens. Red / yellow / white palette with ketchup splashes, melting cheese graphics, comic burst shapes, retro diner typography, and bold fast food poster collage aesthetic.
 ```
 
-[Original](https://x.com/LoovaAI/status/2049085173015425354)
+[原始来源](https://x.com/LoovaAI/status/2049085173015425354)
 
 ---
 
@@ -7667,7 +7667,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 生成一张「足球主题电影海报」风格的高清写真海报：国际米兰后卫巴斯托尼站在圣西罗球场中央激情庆祝，双手高举并披着波黑国旗，神情热血、坚定、自信，现场灯光璀璨，球场看台座无虚席，背景有蓝黑色烟雾、聚光灯、飘扬的旗帜和飞舞的纸屑，营造欧冠之夜般的史诗氛围。人物为画面核心，半身到全身构图，突出脸部细节、肌肉张力与球衣质感。整体风格写实、震撼、富有戏剧性，海报级构图，电影感光影，高对比度，超清细节，8K，专业体育摄影，极具视觉冲击力。五根手指。
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7683,7 +7683,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 特朗普在抖音直播间卖老干妈，手里举着「老干妈风味」新品，背景还是 SpaceX 那种科技感，左下角弹幕飘着「特斯拉车主：求上链接」。
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7699,7 +7699,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 根据【XXX主题】自动生成一张收藏版史诗叙事海报：巨大优雅的人物侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围。整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光式联想，但更偏电影海报与梦幻水彩插画融合风格；柔和空气透视，���雾化过渡，纸张颗粒，边缘飞白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感强。风格、色彩、场景、材质全部根据主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。画面中需自然加入专属签名“WHY”，作为海报设...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7725,7 +7725,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 基础档案、分类信息、外观特征、习性生态、形成机制或结构组成、生长或使用条...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7741,7 +7741,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 2026中国城市系列宣传海报，主题为【北京】。现代、多彩、���亮通透的国潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰需结合北京地域文化定制。红绸延展为城市长卷，融合天坛、长城、鸟巢、喇叭沟门原始森林公园、什刹海、京味相声。左侧排版SPRING 2026、竖排Beijing和小印章“北京”。要求统一系列感，但不能雷同，细节丰富，城市辨识度强。文字清晰且精美布局，高端图形设计。
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7757,7 +7757,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 生成八十年代宣传画，标语“热烈庆祝GPT-Image-2全量开放”，人物包含Sam Altman、Dario Amodei、Elon Musk，Dario Amodei 带上红领巾
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7773,7 +7773,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 一张手绘风格的城市美食地图，以台州为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注���江、路桥、黄岩等区域和灵江、台州湾等水系地标，不追求精确比例而是追求可爱的水彩手绘感。地图上分布着12个美食地点的精致手绘小插画：1. 椒江老粮坊的蛋清羊尾（金黄蓬松的蛋泡甜点撒着糖粉，筷子夹起拉丝）2. 临海紫阳古街的食饼筒（一个饱满的麦饼卷切开露出肉丝、蛋皮、米面等丰富馅料）3. 三门的青蟹（一只肥硕的青壳大蟹张着大钳子，旁边一小碟姜醋）4. 温岭石塘渔港的海鲜面（粗瓷大碗浓白鱼汤面铺满虾、蛏子、小黄鱼）5. 路桥的糟羹（一锅稠厚的五彩羹，芥菜、冬笋、香干、牡蛎粒粒可见）6. 玉环坎门的炊圆（三四个白...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7789,7 +7789,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 生成一张海报图片，图片人物是一个19岁的中国少女，黑色直长发，很开心的在夜宵摊上喝啤酒吃小龙虾。海报上用芥末黄色艺术字写着，趁年轻，激爽才够味！
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7805,7 +7805,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 生成高完成度史诗感艺术海报，双重曝光构图，米白色背景，球队：xxxx队，xxx的大剪影占据主体，剪影内部融合xx、xx、xx、xx以及xx等元素。整体以xx、土褐、为主，压抑、决绝、宿命感极强，元素不要冗杂，要有留白，印刷颗粒质感，元素不要有太锐的细节，但是要有史诗质感，像正式院线动画电影海报，竖版。图片中若出现文字则以细体字为主
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7821,7 +7821,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfies at the {argument name="event" default="Shanghai Comic Con"}
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7837,7 +7837,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 create a minecraft skin inspired by {argument name="reference" default="my look"}
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7853,7 +7853,7 @@ create a minecraft skin inspired by {argument name="reference" default="my look"
 Using REFERENCE_0, transform the subject's appearance to a {argument name="style" default="trad goth"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name="hair color" default="black"} with {argument name="hair style" default="choppy bangs...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7869,7 +7869,7 @@ Using REFERENCE_0, transform the subject's appearance to a {argument name="style
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7885,7 +7885,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7901,7 +7901,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7917,7 +7917,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7933,7 +7933,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 Generate avatars of various emperors from the {argument name="dynasty" default="Ming Dynasty"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7949,7 +7949,7 @@ Generate avatars of various emperors from the {argument name="dynasty" default="
 Flat illustration, high-end oriental fantasy style city poster design, vertical 9:16 composition. The layout uses a diagonal + S-shaped flow extending from the bottom left to top right. The background is deep black grading down to intense dark red, creating strong warm-cool contrast and spatial dept...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7970,7 +7970,7 @@ Flat illustration, high-end oriental fantasy style city poster design, vertical 
     { "id": "char2", "description":...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -7994,7 +7994,7 @@ Flat illustration, high-end oriental fantasy style city poster design, vertical 
       "style": "flat v...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8019,7 +8019,7 @@ Flat illustration, high-end oriental fantasy style city poster design, vertical 
         "sty...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8035,7 +8035,7 @@ Flat illustration, high-end oriental fantasy style city poster design, vertical 
 {"type": "2x2 grid of promotional banner ads", "theme": "{argument name=\"course theme\" default=\"Social Media Content Creation School\"}", "panels": [{"position": "top-left", "color_palette": "light blue and pink pastel gradient", "subject": "young woman smiling, resting chin on hand, smartphone a...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8061,7 +8061,7 @@ This is a white-line rough mannequin conversion.
 Extract and visualize...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8087,7 +8087,7 @@ This is a white-line rough mannequin conversion.
 Extract and visualize...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8113,7 +8113,7 @@ This is a white-line rough mannequin conversion.
 Extract and visualize...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8135,7 +8135,7 @@ Extract and visualize...
     "outfit": "black top with harness straps, black...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8151,7 +8151,7 @@ Extract and visualize...
 Create a high-quality Japanese {argument name="thumbnail type" default="webinar thumbnail"}. {argument name="aspect ratio" default="16:9 widescreen"}. There is a lot of text, but the main copy stands out clearly.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8172,7 +8172,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
     "props": "condenser microphone with pop filter and purpl...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8193,7 +8193,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
     "appearance"...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8209,7 +8209,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 {argument name="subject" default="A beautiful internet celebrity"} is live-streaming a {argument name="activity" default="game"}.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8225,7 +8225,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 {argument name="subject" default="A beautiful internet celebrity"} is live-streaming a {argument name="activity" default="game"}.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8245,7 +8245,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
   "character": "{argument name=\"character appearance\" default=\"anime girl with blonde hair, tiara, cape, white dr...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8261,7 +8261,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name="patient character" default="sad anthropomorphic avocado half missing its pit"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8277,7 +8277,7 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
 A high-contrast, black-and-white illustration of an elderly man in a sharp suit, drawing a katana. The man has slicked-back white hair, deep wrinkles, and an intense, focused expression, looking down at the blade. He wears a dark suit, white shirt, and dark tie. His hands are prominently featured in...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8298,7 +8298,7 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
     "visual": "A man, a woman, and a dog stand...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8321,7 +8321,7 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
       "visuals": "A Japanese salaryman sitting on a crowded train looking nervous, flanked by two aliens in business attire: a green frog-like alien look...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8337,7 +8337,7 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name="main character outfit" default="American flag t-shirt and denim shorts"}, holding tongs with a slice of smoked meat t...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8357,7 +8357,7 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
     "structure": "2x2 grid...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8379,7 +8379,7 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
       "subjects": "4...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8395,7 +8395,7 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 {"type": "promotional advertisement poster for a bottled green tea beverage", "product": {"type": "clear plastic PET bottle filled with yellow-green tea", "label": "white label with green typography, featuring the product name '{argument name=\"product name\" default=\"清風茶\"}', subtitle '緑茶 Seifucha...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8411,7 +8411,7 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name="brand name" default="LUMIÉRE"} and {argument name="product type" default="MOISTURE RICH CREAM"} with "AGI...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8427,7 +8427,7 @@ A luxurious cosmetic product advertisement featuring a single elegant glass jar 
 A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8443,7 +8443,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8459,7 +8459,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8475,7 +8475,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8491,7 +8491,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name="main headline" defau...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8511,7 +8511,7 @@ Using REFERENCE_0 as the base style and preserving the central chicken illustrat
 Li Bai dancing under the moon during a Douyin livestream
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8528,7 +8528,7 @@ Li Bai dancing under the moon during a Douyin livestream
 一张9:16竖屏的抖音直播截图，太空直播风格。特朗普穿着NASA风格的白色宇航服，头盔面罩半开，露出他标志性的金色头发和笑容。他漂浮在国际空间站的舱内进行直播，处于微重力失重状态，身体微微悬浮。他双手举着一块固定在宇航服上的金属铭牌，铭牌上用NASA风格的印刷体写着"感谢松果先森送的大火箭"。身后圆形舷窗外可以看到蓝色的地球和深邃的太空。直播界面显示在线人数"地球+火星共888万"。弹幕区有人刷"真的在太空直播？""松果先森的火箭把你送上天了"。屏幕中央的火箭礼物特效与窗外太空中一枚正在发射的真实火箭遥相呼应，形成虚实结合的效果。舱内有各种精密仪器和控制面板，绿色和蓝色的指示灯闪烁...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8548,7 +8548,7 @@ Li Bai dancing under the moon during a Douyin livestream
 a stunning beauty with a cool, aloof atmosphere, delicate facial f...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8568,7 +8568,7 @@ a stunning beauty with a cool, aloof atmosphere, delicate facial f...
 Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8588,7 +8588,7 @@ Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the c
 WeChat Moments of the Xuanwu Gate Incident
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8608,7 +8608,7 @@ WeChat Moments of the Xuanwu Gate Incident
 Generate an image of a handwritten traditional Chinese medicine or Western medicine prescription
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8628,7 +8628,7 @@ Generate an image of a handwritten traditional Chinese medicine or Western medic
 Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowi...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8651,7 +8651,7 @@ Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". D
 [Eng...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8677,7 +8677,7 @@ Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". D
 A finely detailed Gongbi painting of a noble Tang Dynasty lady taking a strol...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8705,7 +8705,7 @@ AI PRESENTATION PLATFORM
 Body copy (small elegant text): ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8725,7 +8725,7 @@ Body copy (small elegant text): ...
 Su Shi's first day of exile Xiaohongshu screenshot
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8745,7 +8745,7 @@ Su Shi's first day of exile Xiaohongshu screenshot
 Generate a set of Amazon A+= detail images
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8762,7 +8762,7 @@ Generate a set of Amazon A+= detail images
 （Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8782,7 +8782,7 @@ Generate a set of Amazon A+= detail images
 A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The proje...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8802,7 +8802,7 @@ A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing
 2000s Japanese TV drama comedy scene aimed at middle school students
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8822,7 +8822,7 @@ A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing
 Du Fu posting on WeChat Moments complaining about his roof being blown away by the wind
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8842,7 +8842,7 @@ Du Fu posting on WeChat Moments complaining about his roof being blown away by t
 Wu Zetian taking a selfie, registering and posting on Weibo.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8859,7 +8859,7 @@ Wu Zetian taking a selfie, registering and posting on Weibo.
 9:16 竖版 — 杂志人像，单一主体  柔和的黑色迷雾滤镜，微妙的薄雾，柔和的高光泛光，柔和的色调  极简的室内空间，干净的背景，轻微的纹理  年轻韩国女性，淡妆，自然的皮肤纹理  服装：贴身的罗纹针织上衣或柔软的吊带背心叠穿在宽松衬衫下，搭配高腰短裤或裙子；面料轻微贴合身体曲线，柔软自然，无暴露元素  头发：略显凌乱，自然的蓬松度  姿势：坐在地板上，一条腿弯曲，另一条腿放松，身体微微倾斜，肩膀不对称，头部倾斜  构图：主体略微偏离中心，存在留白  表情：平静，略显疏离，自然的嘴唇  光线：柔和的侧光，温和的阴影衰减  氛围：低调，安静，通过自然的身体线条展现微妙的性感，放松且...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8879,7 +8879,7 @@ Wu Zetian taking a selfie, registering and posting on Weibo.
 In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8899,7 +8899,7 @@ In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Me
 Create a Science fiction movie poster
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8926,7 +8926,7 @@ A highly detailed Gongbi painting of the Bodhisattva "Guanyin of a Thousand Hand
 ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8956,7 +8956,7 @@ A highly detailed Gongbi painting of the Bodhisattva "Guanyin of a Thousand Hand
 错综复杂的细节，复杂...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -8976,7 +8976,7 @@ A highly detailed Gongbi painting of the Bodhisattva "Guanyin of a Thousand Hand
 Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9004,7 +9004,7 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
     "服装": "浅蓝色紧身弹力棉上衣，极深超宽 ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9024,7 +9024,7 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 Generate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xi...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9044,7 +9044,7 @@ Generate a screenshot of a Douyin live stream featuring a beautiful woman live s
 An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible handwriting, containing realistic and reasonable diagnosis, drug names, dosages, with a doctor's signature and department stamp in the bottom right ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9064,7 +9064,7 @@ An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible ha
 Generate high-quality beautiful girl (otaku must-have)
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9084,7 +9084,7 @@ Generate high-quality beautiful girl (otaku must-have)
 Troll perspective copywriting + GPT Image 2
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9104,7 +9104,7 @@ Troll perspective copywriting + GPT Image 2
 Generate an animation storyboard generator
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9124,7 +9124,7 @@ Generate an animation storyboard generator
 Generate an ancient imperial palace × express delivery station
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9144,7 +9144,7 @@ Generate an ancient imperial palace × express delivery station
 Generate a game introduction screen for Black Myth: Pan Jinlian, the character is extremely charming.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9176,7 +9176,7 @@ Generate a game introduction screen for Black Myth: Pan Jinlian, the character i
 ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9196,7 +9196,7 @@ Generate a game introduction screen for Black Myth: Pan Jinlian, the character i
 Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9216,7 +9216,7 @@ Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 Cute explanation of the large language model training process
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9236,7 +9236,7 @@ Cute explanation of the large language model training process
 Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9256,7 +9256,7 @@ Generate an architectural exploded view of the Temple of Heaven, with detailed a
 Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9276,7 +9276,7 @@ Task: Generate a highly detailed, extremely intricate, and visually stunning "Un
 Subject Mat...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9296,7 +9296,7 @@ Subject Mat...
 Use the patterns in the attached image, crafted by professional designers to create 4 fashion items, using different color schemes and layout designs, accompanied by o...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9320,7 +9320,7 @@ Use the patterns in the attached image, crafted by professional designers to cre
 位于画面视觉中心（C 位）的主体形象，需具备极致的写实感与动态张力。营造强烈的空间纵深感，让人物、植物或动物仿佛突破画框，从平面纸张中跃出、冲向观...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9337,7 +9337,7 @@ Use the patterns in the attached image, crafted by professional designers to cre
 9:16 竖版 — 一个 3x3 网格拼贴（九张图片）形成一系列韩国偶像肖像摄影。每一帧都呈现同一位年轻的韩国女性偶像，在所有九张镜头中保持 100% 一致的面部特征、比例、发型和身份。自然、超逼真的皮肤纹理，无修图，无磨皮。干净的偶像风格极简妆容，柔和的光泽，微妙的瑕疵。发型：长发、蓬松的黑发，微乱，在所有帧中保持一致（自然松散的垂落，轻微的动感）。服装：连贯的韩国偶像摄影造型 — 白色衬衫 + 短款下装（或简单的中性色调服装），青春、干净、略带休闲但有造型感。所有帧中穿着相同的服装。场景：极简的工作室或简单的室内环境（白墙，柔和的窗光，干净的背景）。聚焦于主体，而不是环境。光照...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9356,7 +9356,7 @@ Use the patterns in the attached image, crafted by professional designers to cre
 金色流光中逐层浮现广州城市地标建筑群：广州塔为视觉核心，比例突出，周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素，建筑采用“精细线描 + 金色发光体块”表现，轮廓清晰、细节丰富，在金色光晕映衬下仿佛悬浮于虚空，形成超现实空间层次，远景轻微雾化...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9376,7 +9376,7 @@ Use the patterns in the attached image, crafted by professional designers to cre
 Analog 35mm film photogra...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9406,7 +9406,7 @@ Analog 35mm film photogra...
 基础档案、分类信息、外观特征、习性/生态、形成机制/...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9430,7 +9430,7 @@ Analog 35mm film photogra...
 中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9449,7 +9449,7 @@ Analog 35mm film photogra...
 背景是黄昏时分广袤的废...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9469,7 +9469,7 @@ Analog 35mm film photogra...
 Help me generate xxxx authentic picture
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9489,7 +9489,7 @@ Help me generate xxxx authentic picture
 Based on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9509,7 +9509,7 @@ Based on the style of the uploaded image, generate portraits of the emperors of 
 A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chenfeng broadcasting live, Hu Chenfeng has a happy expression, holding a sign in his hand, the sign says "Boss Austin ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9529,7 +9529,7 @@ A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chen
 Generate an advertising image that perfectly matches this image. There should be a lot of information.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9551,7 +9551,7 @@ Generate an advertising image that perfectly matches this image. There should be
 燕子下方，沿墨线曲线错落分布广州的各种风景名胜：白云山、陈家祠、双子塔、广州塔、猎德大桥、海珠塔依次浮现；主色调青绿与淡金，建筑细节清晰，琉璃瓦、飞檐翘角、石阶回廊；木棉花簇...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9579,7 +9579,7 @@ Generate an advertising image that perfectly matches this image. There should be
 辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9599,7 +9599,7 @@ Generate an advertising image that perfectly matches this image. There should be
 Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy copy image, requiring the image background to match the artistic conception of "Lantingji Xu", the background image can use a mask, the ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9619,7 +9619,7 @@ Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy c
 Generate an oil painting of Mona Lisa drinking cola.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9639,7 +9639,7 @@ Generate an oil painting of Mona Lisa drinking cola.
 Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9662,7 +9662,7 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 整张图必...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9687,7 +9687,7 @@ S型流动构图，画面从下方向上延展，一条由足球运动轨迹形�
 风格：现代国潮高级海报，极简风格但富有设计感，...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9707,7 +9707,7 @@ S型流动构图，画面从下方向上延展，一条由足球运动轨迹形�
 Image generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name="Summer Citrus SODA", Shape=500ml PET bottle, Design and generate image sp...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9729,7 +9729,7 @@ Image generation: Product advertising photo, Seasonal product suitable for summe
 A surrealist digital illustration style, adopting a low-angle upward perspective. The picture depicts a giant colorful koi swimming in a...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9749,7 +9749,7 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9766,7 +9766,7 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 35毫米彩色胶片摄影，带有强烈的机顶直射闪光灯，皮肤和衣物上有镜面高光，眼睛里有强烈的眼神光，高对比度闪光灯照明，真实的胶片颗粒和色彩偏移，高级时尚清新纯真篮球场编辑风格，亲密的第一人称低角度仰视POV镜头，二十出头的性感中国女性偶像，具有超写实的精致细腻的中国特征，诱人的杏仁形狐狸眼，带有自然双眼皮，高鼻梁，小巧锋利的V型下颌线，无瑕逼真的瓷白肌肤，带有冷象牙色底调和可见的闪光镜面高光，细腻精致的皮肤纹理，带有微妙的毛孔微距细节和闪光灯下的自然水光感，清新自然的运动妆容，带有柔和的水光感，脸颊上有微妙的自然红晕，自然粉唇微张，鼻子和脸颊上有微妙的自然雀斑，深棕色长发扎成高高的俏皮...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9786,7 +9786,7 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 Generate a series of design drafts for Gongbi painting bookmarks.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9806,7 +9806,7 @@ Generate a series of design drafts for Gongbi painting bookmarks.
 Design a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9826,7 +9826,7 @@ Design a set of promotional materials for a Durex and Chayan Yuese co-branding c
 Design a set of seal carving stamps for "Elon Musk"
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9846,7 +9846,7 @@ Design a set of seal carving stamps for "Elon Musk"
 Design a Shanghai postcard in black line art style.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9866,7 +9866,7 @@ Design a Shanghai postcard in black line art style.
 Generate a set of iconfont for a sports app
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9886,7 +9886,7 @@ Generate a set of iconfont for a sports app
 Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9906,7 +9906,7 @@ Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, 
 Generate a screenshot of a TikTok live stream, a beautiful woman is live streaming, the beautiful woman is holding a sign in her hand, on which it says: Thank you Brother Xingzhe for the big rocket!
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9926,7 +9926,7 @@ Generate a screenshot of a TikTok live stream, a beautiful woman is live streami
 Design a postcard co-branded by The Little Prince and SpaceX
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9946,7 +9946,7 @@ Design a postcard co-branded by The Little Prince and SpaceX
 Generate a single-day calendar for The Garden of Words on April 19, 2026
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9966,7 +9966,7 @@ Generate a single-day calendar for The Garden of Words on April 19, 2026
 Generate a series of hand-held sign designs for May Day Labor Day
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -9986,7 +9986,7 @@ Generate a series of hand-held sign designs for May Day Labor Day
 Generate a poster for the Guyu solar term in 2026
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10006,7 +10006,7 @@ Generate a poster for the Guyu solar term in 2026
 Design a poster with the theme of "running towards the mountains and seas" in a film photography style
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10026,7 +10026,7 @@ Design a poster with the theme of "running towards the mountains and seas" in a 
 Mobile vertical screen interface, short video live streaming platform style, a young Asian female streamer selling goods through live streaming at home, the streamer is wearing tight yoga pants and a ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10046,7 +10046,7 @@ Mobile vertical screen interface, short video live streaming platform style, a y
 Generate a screenshot of a Douyin livestream, inside there is a beautiful woman livestreaming
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10066,7 +10066,7 @@ Generate a screenshot of a Douyin livestream, inside there is a beautiful woman 
 Generate a screenshot of a Douyin live stream, featuring a beautiful woman wearing traditional Chinese clothing selling goods during the live broadcast.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10086,7 +10086,7 @@ Generate a screenshot of a Douyin live stream, featuring a beautiful woman weari
 Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone size
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10106,7 +10106,7 @@ Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone s
 Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl there is online loan, iPhone size
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10126,7 +10126,7 @@ Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl ther
 Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10146,7 +10146,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 Generate four fictional Japanese advertisement images, covering different types arranged side by side. Trendy design created by professional designers. Aspect ratio 1:1
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10166,7 +10166,7 @@ Generate four fictional Japanese advertisement images, covering different types 
 Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal no...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10185,7 +10185,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 [En...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10205,7 +10205,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 Please create an X page of King Taejo Yi Seong-gye (right before carrying out the Wihwa Island Retreat - containing posts where he and General Choi Yeong are dissing each other).
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10225,7 +10225,7 @@ Please create an X page of King Taejo Yi Seong-gye (right before carrying out th
 Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly people should not blindly urge marriage, iPhone size
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10241,7 +10241,7 @@ Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly
 35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10261,7 +10261,7 @@ Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly
 Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition,...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10278,7 +10278,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10295,7 +10295,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 “一张采用分层蒙太奇构图的电影海报。背景为日落时分的海滨小镇，平静的海面倒映着耀眼的日光眩光，薄雾笼罩的天空中有远处飞鸟，沿海公路旁立着电线杆剪影。左侧中景处，一位身着深灰色外套、留着深色卷发的中年男子站在混凝土海堤边，神情忧郁地低头凝视，被傍晚的阳光逆光勾勒轮廓。右侧前景主体为一张大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白色条纹的深色水手校服，湿润的黑发贴在脸颊，柔和漫射光线下，一滴泪珠从她脸颊滑落。画面下方中央前景处，一只柴犬抬头朝右侧望去，红棕色毛发被温暖的轮廓光点亮。画面最底端为一条横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向海面、女孩与男子...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10317,7 +10317,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10337,7 +10337,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 Modern pencil illustration of Vintage travel poster illustr...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10361,7 +10361,7 @@ Modern pencil illustration of Vintage travel poster illustr...
 画作边缘采用撕纸效果，营造出...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10378,7 +10378,7 @@ Modern pencil illustration of Vintage travel poster illustr...
 以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10406,7 +10406,7 @@ Modern pencil illustration of Vintage travel poster illustr...
 I had ChatGPT create images, and when I had it create them again today, it might be GPT image 2, and it seems like the quality has c...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10423,7 +10423,7 @@ I had ChatGPT create images, and when I had it create them again today, it might
 生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10445,7 +10445,7 @@ that "Think of a poster when the little devil Lilim Lily-chan was a Super Famico
 this quality without any detailed explanation spells is amazing!
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10465,7 +10465,7 @@ this quality without any detailed explanation spells is amazing!
 A stunning 18-year-old C...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10485,7 +10485,7 @@ A stunning 18-year-old C...
 Show me the attached image as a snapshot from an actual anime
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10509,7 +10509,7 @@ Show me the attached image as a snapshot from an actual anime
 Paper...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10529,7 +10529,7 @@ Paper...
 Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10549,7 +10549,7 @@ Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 Design a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and cha...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10569,7 +10569,7 @@ Design a set of game cards for ancient Chinese poets, classified by SSR SR R gra
 Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. Place a realistic, highly detailed modern cute Japanese woman. Make full use of sparkling, three-dimensi...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10589,7 +10589,7 @@ Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. 
 Create a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10609,7 +10609,7 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 Generate a campus daily newspaper, theme AI education
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10629,7 +10629,7 @@ Generate a campus daily newspaper, theme AI education
 Generate a Teochew restaurant menu image.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10649,7 +10649,7 @@ Generate a Teochew restaurant menu image.
 Generate an old almanac for April 18, 2026
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10671,7 +10671,7 @@ Generate an old almanac for April 18, 2026
 Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten family recipe; the model searches for accurate modern measurements/nutrition, then generates a...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10688,7 +10688,7 @@ Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten fam
 一张引人注目的2026年春季波士顿城市海报，具有优雅的庆典氛围和大胆的当代设计。在干净的米白色纹理背景上，带有大面积的留白，一个微型的单人赛艇手在图像右下角一条狭窄的反光水带上划行。船桨划出的尾波以动态的书法曲线向上扫过，逐渐变成查尔斯河，然后再变成一幅梦幻般的手绘波士顿全景。在这个流动的河流形状的构图中包含着标志性的波士顿元素：后湾天际线、灯塔山红砖联排别墅、橡树街、波士顿公共花园、天鹅船、扎基姆桥、芬威球场启发的细节、历史悠久的砖砌建筑、港口渡轮，以及这座城市的水滨氛围。柔和的晨雾，金色的春季光线，深红和金色的微妙节日点缀，丰富的细节，层次分明的深度，精致的城市海报美学，清新而...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10709,7 +10709,7 @@ Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten fam
 背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10730,7 +10730,7 @@ Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten fam
 Generate image: The full text of Chu Shi Biao handwritten on a classroom blackboard, realistic chalk handwriting, taken with an iPhone in real life on a sunny day
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10760,7 +10760,7 @@ product details,
 functions and usage scenarios
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10780,7 +10780,7 @@ functions and usage scenarios
 A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and ar...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10800,7 +10800,7 @@ A nine-grid image showing the same group of objects designed by nine contemporar
 Generate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10823,7 +10823,7 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10840,7 +10840,7 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 35毫米胶片摄影，带有刺眼的便利店荧光灯照明，混合着外面色彩斑斓的霓虹灯牌，真实的胶片颗粒，高对比度，轻微的偏色，电影感街头编辑风格，亲密的中景镜头，20岁出头性感的华人女性偶像，拥有超逼真精致细腻的东方五官，诱人的杏眼狐眼搭配天然双眼皮，高鼻梁，小巧尖锐的V型下颌线，无瑕的瓷白肌肤带有冷象牙底色以及来自荧光灯的可见高光，细腻的皮肤纹理和微小毛孔，自然清透妆容带有脸颊上的柔和红晕，水润自然的粉唇微张，鼻子和脸颊上散布着微妙的自然雀斑，深棕色的长发扎成凌乱的高马尾，许多松散的发丝垂在脸庞和颈部周围，穿着一件超大号的白衬衫作为唯一的上衣，顶部敞开露出深邃乳沟并在腰部宽松打结，搭配一条极...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10862,7 +10862,7 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10882,7 +10882,7 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is xxx live streaming, xxx is holding a sign in their hand, the sign says xxxx.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10906,7 +10906,7 @@ Horizontal triptych of a woman in a lavender field at sunrise.
 Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender for...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10929,7 +10929,7 @@ Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender
   "prompt": "Three ultra-dyna...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10948,7 +10948,7 @@ Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender
   "negative_prompt": "模糊，低分辨率，扭曲的面部，多���的肢体，过饱...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10967,7 +10967,7 @@ Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender
 在他们身后，一道高耸而充满戏剧性的瀑布顺着覆盖着茂密绿色植被和薄雾的陡峭丛林悬崖倾泻而下。场景中栖息着多只恐龙：几只迅猛龙在河岸边潜行，小型食草动物在背景中奔跑，飞翔的翼龙在头...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -10992,7 +10992,7 @@ Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender
 Photorealistic bo...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11009,7 +11009,7 @@ Photorealistic bo...
 超写实高端时尚商业广告大片，使用上传的模特照片作为严格的身份参考。保留精确的面部特征、比例和自然皮肤纹理——无修图，无变形。场景：珊瑚色单色工作室盒，配有光泽反光棋盘格或极简抛光地板。拥有柔和光线渐变的干净几何墙壁。产品：产品放置在前景中心超大位置，因广角透视而占据画面主导地位。包装超清晰，文字完全可读，具有逼真的反射和材质纹理。较小的产品单元可对称放置在背景中。模特姿势：站在产品后方，微蹲或前倾，一只手伸向镜头以创造深度感。强烈自信的表情，时尚态度。相机：低角度 24-35mm 镜头感，戏剧性透视畸变，对产品和模特都进行深焦处理。灯光：明亮的商业影棚灯光，柔和阴影，包装上有光泽高...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11026,7 +11026,7 @@ Photorealistic bo...
 一个充满趣味的高级时装T台场景，主角是一位自信的女性，正走在奢华时装秀的T台上，身穿一件完全由鸟类制成的非凡高级定制礼服。数百只优雅、色彩鲜艳的鸟类构成了飘逸的雕塑感礼服形状，像活着的羽毛一样层叠，翅膀微微张开，营造出布料和运动的错觉。一些鸟儿在她周围轻轻升入空中，捕捉于飞行瞬间，增添了神奇、超现实的运动感。鸟儿们展现出丰富多样的色彩——彩虹般的蓝色、光芒四射的红色、金黄色和柔和的白色——拥有错综复杂的羽毛细节和自然纹理。她在迈步间摆出姿势，带着快乐、自信的表情，富有表现力的眼睛，以及精致的T台妆容。戏剧性的舞台灯光配以发光的高光，黑暗模糊的观众背景，电影级的景深，奇幻现实主义，超...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11046,7 +11046,7 @@ Photorealistic bo...
 A dr...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11071,7 +11071,7 @@ A dr...
 妆容醒目却...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11091,7 +11091,7 @@ A dr...
 Professional photo, a guy, a 30-year-old Russian model (reference image), ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11111,7 +11111,7 @@ Professional photo, a guy, a 30-year-old Russian model (reference image), ...
 A stylish young woman sitting on the front edge of an old vintage bus, wearing a long red tren...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11131,7 +11131,7 @@ A stylish young woman sitting on the front edge of an old vintage bus, wearing a
 A stylized 3D cartoon portrait of a young man with short brown hair and expressive green eyes, smiling warmly. He is wearing...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11160,7 +11160,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
   ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11187,7 +11187,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
       ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11215,7 +11215,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
     "alter_gender"...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11235,7 +11235,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 A ci...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11251,7 +11251,7 @@ A ci...
 生成一张直播间的图片，直播间氛围是月下美女跳舞的画面，直播间有很多人评论
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11267,7 +11267,7 @@ A ci...
 生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11283,7 +11283,7 @@ A ci...
 帮这个产品生成宣传图
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11299,7 +11299,7 @@ A ci...
 生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11315,7 +11315,7 @@ A ci...
 帮我生成一张 RAG 技术的详细讲解图
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11331,7 +11331,7 @@ A ci...
 原文未公开，重点展示 GPT-Image2 在高仿社交截图与中文排版场景中的能力。
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11347,7 +11347,7 @@ A ci...
 原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11363,7 +11363,7 @@ A ci...
 帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11379,7 +11379,7 @@ A ci...
 帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11404,7 +11404,7 @@ A ci...
 4. 不使用传统信息图的卡片、圆角框、复杂底纹、淡黄色纸张质...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11420,7 +11420,7 @@ A ci...
 异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11441,7 +11441,7 @@ PHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes
 Swap: [I...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11457,7 +11457,7 @@ Swap: [I...
 Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portrait of a confident woman with soft rose-gold hair and natural airy bangs, slightly wind-blown for movement. She is wearing a luxury summer outfit: a structured lightweight linen or silk jacket in warm golden-yellow tones...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11473,7 +11473,7 @@ Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portr
 Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography w...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11489,7 +11489,7 @@ Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern street
 Create a vertical poster composition on aged cream paper with a handmade analog feel. Use rough ripped paper edges, layered magazine cutouts, photocopy grain, halftone texture, ink bleed, and slightly imperfect screen-print registration. Keep the subject as the main black-and-white photographic port...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11505,7 +11505,7 @@ Create a vertical poster composition on aged cream paper with a handmade analog 
 精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11525,7 +11525,7 @@ Monochrome grayscale illustration, 3D-rendered character, clean instructional re
 4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbe...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11541,7 +11541,7 @@ Monochrome grayscale illustration, 3D-rendered character, clean instructional re
 Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11557,7 +11557,7 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11579,7 +11579,7 @@ Main photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose).
 Doodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11595,7 +11595,7 @@ Doodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm color
 竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11617,7 +11617,7 @@ Single poster only. No moodboard, grid, presentation board, mockup, captions, pr
 The title “[INPUT_TEXT]” must be the dominant visual structure of the poster: hu...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11635,7 +11635,7 @@ Ultra-realistic conceptual portrait of a young woman with long wavy hair and sof
 ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11651,7 +11651,7 @@ Ultra-realistic conceptual portrait of a young woman with long wavy hair and sof
 A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round gla...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11667,7 +11667,7 @@ A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquo
 A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold met...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11686,7 +11686,7 @@ STRUCTURE:
 Top-heavy hierarchical layout. The upper half features a large, highly recognizable silhouette of [SUBJECT]'s head / face...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -11702,13 +11702,13 @@ Top-heavy hierarchical layout. The upper half features a large, highly recogniza
 Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
 ## Product Marketing
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Product Marketing 1: [Product Marketing - Luxury Vitamin C Serum Product Shot](https://x.com/MatiasSchrank/status/2048891860999983249#reversed-0) (by [@Matías Schrank](https://x.com/MatiasSchrank))
 
@@ -11722,7 +11722,7 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 A high-end commercial skincare product photo on a light marble bathroom counter, centered on a clear glass dropper bottle filled with warm amber-orange serum. The bottle is covered in realistic condensation droplets and has a white rubber pipette top with a shiny metallic gold collar. The front labe...
 ```
 
-[Original](https://x.com/MatiasSchrank/status/2048891860999983249#reversed-0)
+[原始来源](https://x.com/MatiasSchrank/status/2048891860999983249#reversed-0)
 
 ---
 
@@ -11738,7 +11738,7 @@ A high-end commercial skincare product photo on a light marble bathroom counter,
 Create a polished vertical real-estate promotional flyer in a clean, modern social-media ad style, 4:5 poster composition. Use a bright daytime outdoor theme with a pale blue sky, soft clouds, and leafy green tree branches framing the top left and top right corners. The layout should feel like a pre...
 ```
 
-[Original](https://x.com/ba_awoyemi/status/2048884160303857880#reversed-2)
+[原始来源](https://x.com/ba_awoyemi/status/2048884160303857880#reversed-2)
 
 ---
 
@@ -11754,7 +11754,7 @@ Create a polished vertical real-estate promotional flyer in a clean, modern soci
 A surreal high-fashion editorial photograph on an empty roadside in a bleak Icelandic-looking landscape under a flat gray overcast sky. Center the composition on a small brutalist concrete bus stop shelter with stained weathered walls and a simple bench inside, and place 1 slender adult man inside t...
 ```
 
-[Original](https://x.com/HBCoop_/status/2048877393138372846#reversed-0)
+[原始来源](https://x.com/HBCoop_/status/2048877393138372846#reversed-0)
 
 ---
 
@@ -11770,7 +11770,7 @@ A surreal high-fashion editorial photograph on an empty roadside in a bleak Icel
 A hyper-dynamic anime illustration of a neon cyber idol catgirl thrusting a soda bottle toward the viewer in extreme foreshortened perspective, with the bottle dominating the foreground and the character filling the background. She has {argument name="hair color" default="long lavender-to-cyan gradi...
 ```
 
-[Original](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-2)
+[原始来源](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-2)
 
 ---
 
@@ -11786,7 +11786,7 @@ A hyper-dynamic anime illustration of a neon cyber idol catgirl thrusting a soda
 A hyper-dynamic anime cyberpop illustration of a cat-eared girl thrusting a soda bottle toward the camera in an extreme close-up, with strong fisheye perspective and dramatic foreshortening. The bottle dominates the foreground in her hand, label clearly reading "CAT NYAN SODA" with smaller Japanese-...
 ```
 
-[Original](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-1)
+[原始来源](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-1)
 
 ---
 
@@ -11802,7 +11802,7 @@ A hyper-dynamic anime cyberpop illustration of a cat-eared girl thrusting a soda
 A dynamic anime cyberpop illustration of a {argument name="character type" default="cat-eared anime girl"} in an extreme close-up, low-angle foreshortened pose, thrusting a glass soda bottle directly toward the viewer so the bottle and hand dominate the foreground. The scene is drenched in explosive...
 ```
 
-[Original](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-0)
+[原始来源](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-0)
 
 ---
 
@@ -11818,7 +11818,7 @@ A dynamic anime cyberpop illustration of a {argument name="character type" defau
 A polished children's pop-up book advertisement on a dark studio background, featuring an open hardcover book with thick white pages and a teal-green cover lying on a tabletop. From the center fold, a highly detailed white paper origami T-rex bursts upward in a dynamic roaring pose, mouth wide open ...
 ```
 
-[Original](https://x.com/Gdgtify/status/2048870299894939916#reversed-1)
+[原始来源](https://x.com/Gdgtify/status/2048870299894939916#reversed-1)
 
 ---
 
@@ -11834,7 +11834,7 @@ A polished children's pop-up book advertisement on a dark studio background, fea
 A cinematic studio photograph of an open {argument name="book type" default="pop-up book"} on a clean white surface, viewed from a low front angle, with a dramatic {argument name="main subject" default="T-rex"} made entirely of intricate white origami and laser-cut paper bursting upward from the cen...
 ```
 
-[Original](https://x.com/Gdgtify/status/2048870299894939916#reversed-0)
+[原始来源](https://x.com/Gdgtify/status/2048870299894939916#reversed-0)
 
 ---
 
@@ -11850,7 +11850,7 @@ A cinematic studio photograph of an open {argument name="book type" default="pop
 {"type":"toy building set product box mockup","branding":{"style":"premium LEGO-style packaging parody","logo":"classic red square toy brick logo at top left","series_badges":[{"text":"MINI SET","position":"top right"},{"text":"COLLECTIBLE DISPLAY MODEL","position":"bottom right"}]},"box":{"orientat...
 ```
 
-[Original](https://x.com/ecommartinez/status/2048855384111427765#reversed-0)
+[原始来源](https://x.com/ecommartinez/status/2048855384111427765#reversed-0)
 
 ---
 
@@ -11866,7 +11866,7 @@ A cinematic studio photograph of an open {argument name="book type" default="pop
 A high-end editorial product poster in a minimalist studio, featuring an oversized translucent pink glass bong standing on the right side of the frame, nearly as tall as the composition, with a round water chamber half-filled with pale pink liquid, a long vertical neck releasing soft white smoke fro...
 ```
 
-[Original](https://x.com/ArcaArtificial/status/2048841835171156334#reversed-0)
+[原始来源](https://x.com/ArcaArtificial/status/2048841835171156334#reversed-0)
 
 ---
 
@@ -11882,7 +11882,7 @@ A high-end editorial product poster in a minimalist studio, featuring an oversiz
 A visual design proposal board for a dessert brand in a {argument name="brand style" default="youthful IP style"}, with a horizontal layout and clear modular structure. The main visual features a {argument name="main character" default="cartoon IP (cake elf/dessert character)"} in the center. The ri...
 ```
 
-[Original](https://x.com/_AIBOZ_/status/2048809162600255653)
+[原始来源](https://x.com/_AIBOZ_/status/2048809162600255653)
 
 ---
 
@@ -11898,7 +11898,7 @@ A visual design proposal board for a dessert brand in a {argument name="brand st
 {"type":"artisan culinary collectible packaging photograph","format":"4:5 vertical","style":"premium clear acrylic display box, Michelin-star food styling meets luxury toy packaging, warm museum-lit food photography, ultra-detailed miniature diorama, polished brass accents, cream navy and burgundy v...
 ```
 
-[Original](https://x.com/Gdgtify/status/2048800842191700194#reversed-1)
+[原始来源](https://x.com/Gdgtify/status/2048800842191700194#reversed-1)
 
 ---
 
@@ -11914,7 +11914,7 @@ A visual design proposal board for a dessert brand in a {argument name="brand st
 A premium artisan food photography image of a clear acrylic collector box displayed on a rustic wooden table, shot in a clean 4:5 product style with soft natural light and shallow depth of field. The box contains a miniature kitchen diorama dedicated to {argument name="dish name" default="Eggs Bened...
 ```
 
-[Original](https://x.com/Gdgtify/status/2048800842191700194#reversed-0)
+[原始来源](https://x.com/Gdgtify/status/2048800842191700194#reversed-0)
 
 ---
 
@@ -11930,13 +11930,13 @@ A premium artisan food photography image of a clear acrylic collector box displa
 A sleek {argument name="product color" default="white"} {argument name="product" default="sunscreen lotion tube"} stands upright on a {argument name="setting" default="sunlit rock by the sea"}. Light reflects off the gentle blue waves behind it, while fine droplets sparkle on the surface of the tube...
 ```
 
-[Original](https://x.com/Strength04_X/status/2048792190948938130)
+[原始来源](https://x.com/Strength04_X/status/2048792190948938130)
 
 ---
 
 ## Social Media
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### Social Media 1: [Social Media Post - TV Interview Scene with Captions](https://x.com/kai_tetu/status/2048907847841481134) (by [@kai](https://x.com/kai_tetu))
 
@@ -11950,7 +11950,7 @@ A sleek {argument name="product color" default="white"} {argument name="product"
 {argument name="aspect ratio" default="16:9 landscape"}. {argument name="model" default="A model girl"} is being asked by an entertainment reporter about {argument name="interview topic" default="a romantic relationship with another male celebrity"}. During a TV interview, a caption saying "{argumen...
 ```
 
-[Original](https://x.com/kai_tetu/status/2048907847841481134)
+[原始来源](https://x.com/kai_tetu/status/2048907847841481134)
 
 ---
 
@@ -11966,7 +11966,7 @@ A sleek {argument name="product color" default="white"} {argument name="product"
 A warm, cozy Japanese home evening scene photographed in a natural lifestyle style. In the foreground, a right hand holds up a tall clear pint glass of golden beer with a thick creamy white foam head, positioned slightly right of center as if making a solo toast. In the softly blurred background, a ...
 ```
 
-[Original](https://x.com/akira_papa_IT/status/2048899628180078992#reversed-3)
+[原始来源](https://x.com/akira_papa_IT/status/2048899628180078992#reversed-3)
 
 ---
 
@@ -11982,7 +11982,7 @@ A warm, cozy Japanese home evening scene photographed in a natural lifestyle sty
 A dreamy minimalist square image of a single iridescent soap bubble floating in the center against a deep blue soft-focus background, with bright natural sunlight pouring from the upper left and creating delicate lens flare, circular bokeh, and glowing highlights. The main bubble is sharply rendered...
 ```
 
-[Original](https://x.com/akira_papa_IT/status/2048899628180078992#reversed-0)
+[原始来源](https://x.com/akira_papa_IT/status/2048899628180078992#reversed-0)
 
 ---
 
@@ -11998,7 +11998,7 @@ A dreamy minimalist square image of a single iridescent soap bubble floating in 
 A warm, shallow-depth-of-field autumn photograph of multiple fallen maple leaves scattered across dark asphalt pavement in bright golden sunlight. The leaves are mostly yellow, orange, and amber, with one prominent vivid orange leaf in the left foreground and several yellow leaves stretching diagona...
 ```
 
-[Original](https://x.com/akira_papa_IT/status/2048899628180078992#reversed-1)
+[原始来源](https://x.com/akira_papa_IT/status/2048899628180078992#reversed-1)
 
 ---
 
@@ -12014,7 +12014,7 @@ A warm, shallow-depth-of-field autumn photograph of multiple fallen maple leaves
 A moody square winter photograph looking straight up at an overcast gray-blue sky during active snowfall, framed on all sides by tall leafless trees with dark bare branches reaching inward from the edges to create a circular canopy. Snowflakes of many sizes are falling across the entire image, with ...
 ```
 
-[Original](https://x.com/akira_papa_IT/status/2048899628180078992#reversed-2)
+[原始来源](https://x.com/akira_papa_IT/status/2048899628180078992#reversed-2)
 
 ---
 
@@ -12030,7 +12030,7 @@ A moody square winter photograph looking straight up at an overcast gray-blue sk
 A bright anime-style fantasy travel scene in front of Niseko View Plaza in Hokkaido, with a clear blue sky, scattered white clouds, and a huge snow-capped mountain rising in the background. The setting is a roadside plaza parking area with a modern black-and-wood station building on the left, visibl...
 ```
 
-[Original](https://x.com/terunari/status/2048871017519698227#reversed-0)
+[原始来源](https://x.com/terunari/status/2048871017519698227#reversed-0)
 
 ---
 
@@ -12046,7 +12046,7 @@ A bright anime-style fantasy travel scene in front of Niseko View Plaza in Hokka
 A highly detailed anime fantasy illustration of a tall elegant woman resembling an ice sorceress or qilin-inspired warrior, shown in a full-body three-quarter back view with her head turned slightly away, standing in a luminous snowy mountain landscape filled with soft pink cherry blossoms. She has ...
 ```
 
-[Original](https://x.com/lchngjin91/status/2048836910676926484#reversed-2)
+[原始来源](https://x.com/lchngjin91/status/2048836910676926484#reversed-2)
 
 ---
 
@@ -12062,7 +12062,7 @@ A highly detailed anime fantasy illustration of a tall elegant woman resembling 
 A dramatic Brazilian political campaign poster in a square social-media format, hyper-stylized and cinematic, with a dark blue and black color grade, intense contrast, gritty textures, and heroic propaganda-poster composition. On the right half, a middle-aged man wearing a bright royal-blue polo shi...
 ```
 
-[Original](https://x.com/virto_exe/status/2048826970012541284#reversed-0)
+[原始来源](https://x.com/virto_exe/status/2048826970012541284#reversed-0)
 
 ---
 
@@ -12078,7 +12078,7 @@ A dramatic Brazilian political campaign poster in a square social-media format, 
 {"type":"Arabic typography infographic poster","style":"clean modern social-media infographic, soft light gray background, rounded white cards with subtle shadows, bold colorful headers, polished vector design, high readability","canvas":{"aspect_ratio":"1:1","composition":"centered poster with titl...
 ```
 
-[Original](https://x.com/ksa8Turky/status/2048796815365906648#reversed-0)
+[原始来源](https://x.com/ksa8Turky/status/2048796815365906648#reversed-0)
 
 ---
 
@@ -12094,13 +12094,13 @@ A dramatic Brazilian political campaign poster in a square social-media format, 
 high contrast street silhouette, strong directional sunlight from doorway, deep shadow foreground, bright overexposed exterior, {argument name="action" default="subject walking through doorway"}, full body silhouette, clear outline, minimal detail, cinematic composition, urban street photography sty...
 ```
 
-[Original](https://x.com/BubbleBrain/status/2048789777605128292)
+[原始来源](https://x.com/BubbleBrain/status/2048789777605128292)
 
 ---
 
 ## UI & Social Media
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### UI & Social Media 1: [E-commerce Live Stream UI Mockup](https://x.com/sjbbxhz/status/2045684734714380687) (by [@sjbbxhz](https://x.com/sjbbxhz))
 
@@ -12118,7 +12118,7 @@ high contrast street silhouette, strong directional sunlight from doorway, deep 
     "background": "left side shows a screen with '{argument name=\"left background logo...
 ```
 
-[Original](https://x.com/sjbbxhz/status/2045684734714380687)
+[原始来源](https://x.com/sjbbxhz/status/2045684734714380687)
 
 ---
 
@@ -12142,7 +12142,7 @@ high contrast street silhouette, strong directional sunlight from doorway, deep 
         "subject": "A couple holding hands on a white sand beach, looking out at turquoise ocean...
 ```
 
-[Original](https://x.com/makaneko_AI/status/2045764016858087720)
+[原始来源](https://x.com/makaneko_AI/status/2045764016858087720)
 
 ---
 
@@ -12158,7 +12158,7 @@ high contrast street silhouette, strong directional sunlight from doorway, deep 
 用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
 ```
 
-[Original](https://x.com/austinit/status/2044968740782272596)
+[原始来源](https://x.com/austinit/status/2044968740782272596)
 
 ---
 
@@ -12174,7 +12174,7 @@ high contrast street silhouette, strong directional sunlight from doorway, deep 
 Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
 ```
 
-[Original](https://x.com/patrickassale/status/2044687244368441742)
+[原始来源](https://x.com/patrickassale/status/2044687244368441742)
 
 ---
 
@@ -12190,7 +12190,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. C...
 ```
 
-[Original](https://x.com/patrickassale/status/2044569086013718958)
+[原始来源](https://x.com/patrickassale/status/2044569086013718958)
 
 ---
 
@@ -12206,7 +12206,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 "宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作
 ```
 
-[Original](https://x.com/Panda20230902/status/2045385588065313057)
+[原始来源](https://x.com/Panda20230902/status/2045385588065313057)
 
 ---
 
@@ -12225,7 +12225,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 4、生成快手内容截图：主题：直播离婚预告，iPhone尺寸
 ```
 
-[Original](https://x.com/MrLarus/status/2045373105041007013)
+[原始来源](https://x.com/MrLarus/status/2045373105041007013)
 
 ---
 
@@ -12241,7 +12241,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！
 ```
 
-[Original](https://x.com/alanblogsooo/status/2044784762594918516)
+[原始来源](https://x.com/alanblogsooo/status/2044784762594918516)
 
 ---
 
@@ -12257,7 +12257,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
 ```
 
-[Original](https://x.com/SKA_Neotype/status/2044637900978217334)
+[原始来源](https://x.com/SKA_Neotype/status/2044637900978217334)
 
 ---
 
@@ -12273,7 +12273,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。
 ```
 
-[Original](https://x.com/stark_nico99/status/2045836554451706125)
+[原始来源](https://x.com/stark_nico99/status/2045836554451706125)
 
 ---
 
@@ -12289,7 +12289,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して
 ```
 
-[Original](https://x.com/yammamon/status/2045778624092254603)
+[原始来源](https://x.com/yammamon/status/2045778624092254603)
 
 ---
 
@@ -12314,7 +12314,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 - ...
 ```
 
-[Original](https://x.com/MrLarus/status/2045504669401653414)
+[原始来源](https://x.com/MrLarus/status/2045504669401653414)
 
 ---
 
@@ -12332,7 +12332,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 助言を重点的に高品質な占い鑑定書にまとめること。
 ```
 
-[Original](https://x.com/agi_aibusi/status/2046530764871696750)
+[原始来源](https://x.com/agi_aibusi/status/2046530764871696750)
 
 ---
 
@@ -12348,7 +12348,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 生成一张【字体】书法临摹字帖
 ```
 
-[Original](https://x.com/MrLarus/status/2046510310253539764)
+[原始来源](https://x.com/MrLarus/status/2046510310253539764)
 
 ---
 
@@ -12364,7 +12364,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
 ```
 
-[Original](https://x.com/loglogrog/status/2046437230127034774)
+[原始来源](https://x.com/loglogrog/status/2046437230127034774)
 
 ---
 
@@ -12380,7 +12380,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 日本のソシャゲのガチャ画面を生成して、
 ```
 
-[Original](https://x.com/the_wheel_2024/status/2046519658166317160)
+[原始来源](https://x.com/the_wheel_2024/status/2046519658166317160)
 
 ---
 
@@ -12396,7 +12396,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 A 9:16 vertical version, high-detail realistic style Chinese TikTok live screenshot, Elon Musk is talking to the mobile phone camera in the live broadcast room, excited, smiling, and the live atmosphere is warm and real. He held a white handwritten sign in one hand, which clearly said: "Thank you Sh...
 ```
 
-[Original](https://x.com/Shinning1010/status/2046501587762188535)
+[原始来源](https://x.com/Shinning1010/status/2046501587762188535)
 
 ---
 
@@ -12412,7 +12412,7 @@ A 9:16 vertical version, high-detail realistic style Chinese TikTok live screens
 9:16 的图片比例,生成一张抖音直播的截图,里面是 刘亦菲 在直播,刘亦菲 手里拿着牌子,牌子里写着 今晚直播,欢迎来参亦菲畅聊!
 ```
 
-[Original](https://x.com/kylegeeks/status/2046479783765397629)
+[原始来源](https://x.com/kylegeeks/status/2046479783765397629)
 
 ---
 
@@ -12428,7 +12428,7 @@ A 9:16 vertical version, high-detail realistic style Chinese TikTok live screens
 用未来都市风格生成UI设计系统,灵感来自赛博朋克城市夜景,包含霓虹灯、玻璃建筑反射、高对比光影,配色以紫色、蓝色、粉色霓虹为主,设计网页Dashboard、移动端界面、卡片、按钮、控件等,视觉炫酷、层次丰富、科技感极强
 ```
 
-[Original](https://x.com/AZLnfvp/status/2046468976092533180)
+[原始来源](https://x.com/AZLnfvp/status/2046468976092533180)
 
 ---
 
@@ -12447,7 +12447,7 @@ A 9:16 vertical version, high-detail realistic style Chinese TikTok live screens
 4、生成图片: T-800机器人的淘宝商品详情页,展示: 机器人的正面侧面背面三视图, 产品价格, 产品细节, 功能和使用场景等
 ```
 
-[Original](https://x.com/alanlovelq/status/2046048929490612464)
+[原始来源](https://x.com/alanlovelq/status/2046048929490612464)
 
 ---
 
@@ -12465,7 +12465,7 @@ A 9:16 vertical version, high-detail realistic style Chinese TikTok live screens
 ゲーム開発の技術に関して、工数ベースでどこにパワーかかるかの分析資料といかに量産が大事かについての説明とかのパワポ画も作って
 ```
 
-[Original](https://x.com/ailovedirector/status/2046905387274891296)
+[原始来源](https://x.com/ailovedirector/status/2046905387274891296)
 
 ---
 
@@ -12481,7 +12481,7 @@ A 9:16 vertical version, high-detail realistic style Chinese TikTok live screens
 based on the generated character help me generate a screenshot of screenshot of an pvp game themed around *zelda: wind breaker*
 ```
 
-[Original](https://x.com/khaiinit/status/2047219694130827273)
+[原始来源](https://x.com/khaiinit/status/2047219694130827273)
 
 ---
 
@@ -12497,7 +12497,7 @@ based on the generated character help me generate a screenshot of screenshot of 
 Create a landing page using this image as a reference for style and color grading.
 ```
 
-[Original](https://x.com/D_studioproject/status/2047212826264211540)
+[原始来源](https://x.com/D_studioproject/status/2047212826264211540)
 
 ---
 
@@ -12513,7 +12513,7 @@ Create a landing page using this image as a reference for style and color gradin
 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案OMG买它
 ```
 
-[Original](https://x.com/songguoxiansen/status/2047207826913972518)
+[原始来源](https://x.com/songguoxiansen/status/2047207826913972518)
 
 ---
 
@@ -12529,7 +12529,7 @@ Create a landing page using this image as a reference for style and color gradin
 A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediterranean-inspired bedroom. A stylish young woman with {argument name="hair color" default="dark brown"} hair in a messy curly updo sits at a marble vanity, leaning forward with one arm folded and the other hand applying li...
 ```
 
-[Original](https://x.com/S0N_IA_/status/2047414367243657296)
+[原始来源](https://x.com/S0N_IA_/status/2047414367243657296)
 
 ---
 
@@ -12545,7 +12545,7 @@ A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediter
 A cinematic photorealistic action scene in a rainy downtown city street canyon, showing {argument name="main subject" default="a dark-haired man in his 30s"} sprinting directly toward the camera in the center foreground with a tense survival expression, wearing a soaked dark jacket, dark shirt, and ...
 ```
 
-[Original](https://x.com/Gugombly/status/2047310862428303636)
+[原始来源](https://x.com/Gugombly/status/2047310862428303636)
 
 ---
 
@@ -12561,7 +12561,7 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a wide 16:9 composition, with a neon purple and pink streamer room. Center the scene on a cute catgirl VTuber sitting at a desk, shown from the waist up, leaning forward energetically with one hand on a computer mouse and ...
 ```
 
-[Original](https://x.com/rerxmsz06/status/2047261622121705782)
+[原始来源](https://x.com/rerxmsz06/status/2047261622121705782)
 
 ---
 
@@ -12577,7 +12577,7 @@ A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a 
 A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bedroom at night, seated close to the viewer with her knees pulled up and a black 3Dio-style binaural microphone centered in front of her. She has {argument name="hair color" default="deep violet"} hair in a loose messy upd...
 ```
 
-[Original](https://x.com/Shion_yamabuki/status/2047232198382964969)
+[原始来源](https://x.com/Shion_yamabuki/status/2047232198382964969)
 
 ---
 
@@ -12593,7 +12593,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 {argument name="celebrity" default="selena gomez"} started a surprise {argument name="platform" default="youtube"} livestream.
 ```
 
-[Original](https://x.com/SelenaGmzIN/status/2047185882009198865)
+[原始来源](https://x.com/SelenaGmzIN/status/2047185882009198865)
 
 ---
 
@@ -12609,7 +12609,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 A highly polished anime banner illustration in a warm golden classroom-literature-club setting, wide cinematic composition. On the left half, a large elegant glowing script title reads {argument name="headline text" default="Monika"} in oversized calligraphy, colored white and pale green with a soft...
 ```
 
-[Original](https://x.com/mirochill/status/2047639852485620070)
+[原始来源](https://x.com/mirochill/status/2047639852485620070)
 
 ---
 
@@ -12625,7 +12625,7 @@ A highly polished anime banner illustration in a warm golden classroom-literatur
 A polished anime-style banner illustration in a dreamy violet palette, wide cinematic composition, showing a quiet literary room at twilight. On the right side, a beautiful teenage anime girl named {argument name="character name" default="Yuri"} sits at a wooden desk beside a large window with purpl...
 ```
 
-[Original](https://x.com/mirochill/status/2047639852485620070)
+[原始来源](https://x.com/mirochill/status/2047639852485620070)
 
 ---
 
@@ -12641,7 +12641,7 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 A glossy pastel pink anime banner in a wide cinematic layout, themed around cute romance and sweets. Place a confident teenage anime girl on the right side, shown from about thigh-up, with short fluffy bob hair in {argument name="hair color" default="soft pink"}, large pink-magenta eyes, a small gen...
 ```
 
-[Original](https://x.com/mirochill/status/2047639852485620070)
+[原始来源](https://x.com/mirochill/status/2047639852485620070)
 
 ---
 
@@ -12657,7 +12657,7 @@ A glossy pastel pink anime banner in a wide cinematic layout, themed around cute
 A wide anime banner illustration of {argument name="character name" default="Sayori"} in a bright dreamy classroom, rendered in a polished, high-end visual novel style with soft painterly lighting, warm pastel colors, and sparkling atmosphere. Show a cheerful teenage schoolgirl with short fluffy cor...
 ```
 
-[Original](https://x.com/mirochill/status/2047639852485620070)
+[原始来源](https://x.com/mirochill/status/2047639852485620070)
 
 ---
 
@@ -12673,7 +12673,7 @@ A wide anime banner illustration of {argument name="character name" default="Say
 A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a dense futuristic city at night, viewed from a slightly elevated angle. The main subject is a petite young witch girl with pale skin, short icy blue bobbed hair, pointed elf-like ears, and glowing red eyes, wearing a sly c...
 ```
 
-[Original](https://x.com/Eris_Create_Lab/status/2047537707904274795)
+[原始来源](https://x.com/Eris_Create_Lab/status/2047537707904274795)
 
 ---
 
@@ -12689,7 +12689,7 @@ A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a d
 A cinematic anime movie poster for a fictional film titled {argument name="headline text" default="EL VIAJE DE LA LUNA DE PLATA"}, in polished modern Japanese animation style with a natural, less over-detailed look. Center a teenage anime girl from mid-thigh up, facing forward, with a short silver b...
 ```
 
-[Original](https://x.com/Design4p0/status/2047531978346398002)
+[原始来源](https://x.com/Design4p0/status/2047531978346398002)
 
 ---
 
@@ -12705,7 +12705,7 @@ A cinematic anime movie poster for a fictional film titled {argument name="headl
 Create a dramatic Japanese anime-style promotional thumbnail poster for an event, vertical 4:5 composition, ultra-detailed, cinematic, neon-lit, high contrast, designed like a social media announcement image. The main subject is a beautiful anime girl centered slightly right, shown from the waist up...
 ```
 
-[Original](https://x.com/sorane_aimusic/status/2047507066697507134)
+[原始来源](https://x.com/sorane_aimusic/status/2047507066697507134)
 
 ---
 
@@ -12721,7 +12721,7 @@ Create a dramatic Japanese anime-style promotional thumbnail poster for an event
 A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown branch in the middle of dense rainforest foliage. The entire image is rendered as a tight grid of tiny square tiles with visible black outlines, creating a stained-glass or LED-screen effect. The bird is shown in side pro...
 ```
 
-[Original](https://x.com/erikmackinnon/status/2048190288179675290)
+[原始来源](https://x.com/erikmackinnon/status/2048190288179675290)
 
 ---
 
@@ -12737,7 +12737,7 @@ A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown b
 A cinematic vertical photo of a hand holding up a large balloon wine glass filled with a sparkling golden-yellow citrus cocktail in a lush indoor greenhouse bar. The drink is backlit by warm late-afternoon sunlight, making it glow translucent amber. Inside the glass there is 1 visible citrus wedge, ...
 ```
 
-[Original](https://x.com/FernandesK47117/status/2048183925294371147)
+[原始来源](https://x.com/FernandesK47117/status/2048183925294371147)
 
 ---
 
@@ -12753,7 +12753,7 @@ A cinematic vertical photo of a hand holding up a large balloon wine glass fille
 Create a {argument name="grid layout" default="4x3"} borderless grid where each panel is an independent image of the {argument name="subject" default="a young woman"}. Maintain strong subject consistency across all panels, with consistent color and lighting. Depict {argument name="theme" default="ch...
 ```
 
-[Original](https://x.com/aimikoda/status/2048183782876778821)
+[原始来源](https://x.com/aimikoda/status/2048183782876778821)
 
 ---
 
@@ -12769,7 +12769,7 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 Create a highly realistic image of a handwritten letter containing a ({argument name="message" default="message or reflection carrying meanings of affection and loyalty to my account followers"}) on lined paper, with very touching words written in liquid ink pen
 ```
 
-[Original](https://x.com/mosthssan/status/2048160477658980711)
+[原始来源](https://x.com/mosthssan/status/2048160477658980711)
 
 ---
 
@@ -12785,7 +12785,7 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 A dramatic anime concert illustration seen from behind the performers onstage, showing 4 teenage girls standing shoulder to shoulder at the front of a huge indoor arena, arms around each other in a triumphant post-performance moment. The camera is positioned slightly behind and below them, facing ou...
 ```
 
-[Original](https://x.com/SDAI1807097011/status/2048127178592915583)
+[原始来源](https://x.com/SDAI1807097011/status/2048127178592915583)
 
 ---
 
@@ -12801,7 +12801,7 @@ A dramatic anime concert illustration seen from behind the performers onstage, s
 A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real adult man and an anime-style young woman companion posed together as if in casual date photos. The man has short dark hair, light skin, an average build, and wears a plain dark navy or black long-sleeve shirt; his face is...
 ```
 
-[Original](https://x.com/AIillust_studio/status/2048099186214900130)
+[原始来源](https://x.com/AIillust_studio/status/2048099186214900130)
 
 ---
 
@@ -12817,7 +12817,7 @@ A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real a
 A stylish young woman with {argument name="hair style" default="long wavy blonde hair"}, defined cheekbones, and a confident expression, wearing black sunglasses and a {argument name="clothing" default="thick white puffer jacket"} over a fitted black top, standing confidently in front of a {argument...
 ```
 
-[Original](https://x.com/Just_sharon7/status/2048095904138485962)
+[原始来源](https://x.com/Just_sharon7/status/2048095904138485962)
 
 ---
 
@@ -12833,7 +12833,7 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 A cozy anime-style interior of a traditional Japanese soba restaurant, viewed from table height in a booth, with two young women seated across the near corners of a rectangular wooden table and facing the viewer in a casual dining snapshot. The left woman has long straight pastel {argument name="hai...
 ```
 
-[Original](https://x.com/AIMAG31G/status/2048089673621516547)
+[原始来源](https://x.com/AIMAG31G/status/2048089673621516547)
 
 ---
 
@@ -12849,7 +12849,7 @@ A cozy anime-style interior of a traditional Japanese soba restaurant, viewed fr
 A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertical composition. Show a lone female android-like warrior from behind, centered slightly low in frame, kneeling or sitting back on her heels on a reflective stone floor. She has extremely long flowing {argument name="hair ...
 ```
 
-[Original](https://x.com/yanagihara_0805/status/2048085829713842405)
+[原始来源](https://x.com/yanagihara_0805/status/2048085829713842405)
 
 ---
 
@@ -12865,7 +12865,7 @@ A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertic
 Based on the shape of the {argument name="subject" default="clouds"} in the image, identify what object, animal, or person they most resemble. Do not change the original image; instead, draw that object, animal, or person over the original image in a {argument name="art style" default="doodle"} styl...
 ```
 
-[Original](https://x.com/Gorden_Sun/status/2048080137149899133)
+[原始来源](https://x.com/Gorden_Sun/status/2048080137149899133)
 
 ---
 
@@ -12881,7 +12881,7 @@ Based on the shape of the {argument name="subject" default="clouds"} in the imag
 A cinematic anime-style illustration of a quiet rural Japanese train station in early summer, filled with travel nostalgia and bright midday light. In the foreground, one high school girl stands alone on the platform near the left side of the frame, facing slightly toward the viewer with a shy, gent...
 ```
 
-[Original](https://x.com/m_Raiko_AIart/status/2048069313387737222)
+[原始来源](https://x.com/m_Raiko_AIart/status/2048069313387737222)
 
 ---
 
@@ -12897,7 +12897,7 @@ A cinematic anime-style illustration of a quiet rural Japanese train station in 
 A candid indoor restaurant photo in a realistic anime-inspired style, showing two young women seated at a small worn wooden table inside a cozy Japanese izakaya with vertical wood-paneled walls and a clear plastic tent-like curtain on the right side. The camera is slightly above table height and ang...
 ```
 
-[Original](https://x.com/sub_raw_jin/status/2048066779835220392)
+[原始来源](https://x.com/sub_raw_jin/status/2048066779835220392)
 
 ---
 
@@ -12913,7 +12913,7 @@ A candid indoor restaurant photo in a realistic anime-inspired style, showing tw
 A cozy winter camping scene inside a large beige canvas tent, rendered as a semi-realistic anime illustration with natural lighting and realistic environmental detail. Show exactly 2 seated young women around a compact kerosene heater used as a camp table, with a large black metal pot resting on top...
 ```
 
-[Original](https://x.com/sub_raw_jin/status/2048066779835220392)
+[原始来源](https://x.com/sub_raw_jin/status/2048066779835220392)
 
 ---
 
@@ -12929,7 +12929,7 @@ A cozy winter camping scene inside a large beige canvas tent, rendered as a semi
 Create a 4:5 vertical social poster in ultra high resolution, 8K print quality sharpness. Use the {argument name="car model" default="BMW car"} from the reference image as the main subject and use the background structure/composition from the reference image, but transform it into a BMW themed desig...
 ```
 
-[Original](https://x.com/harboriis/status/2048063332624843046)
+[原始来源](https://x.com/harboriis/status/2048063332624843046)
 
 ---
 
@@ -12945,7 +12945,7 @@ Create a 4:5 vertical social poster in ultra high resolution, 8K print quality s
 A hyper-realistic cinematic street-food advertisement poster for {argument name="brand name" default="Licious"} frozen {argument name="product name" default="Chicken Momos"}, shot in a dark premium studio with dramatic moody lighting, deep navy-black background, glossy black tabletop, and high contr...
 ```
 
-[Original](https://x.com/Diplomeme/status/2048060325925470358)
+[原始来源](https://x.com/Diplomeme/status/2048060325925470358)
 
 ---
 
@@ -12961,7 +12961,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 {"type":"16-photo nostalgic contact sheet collage","style":"dreamy film photography, soft blur, slightly underexposed, candid youthful romance, flash snapshots mixed with ambient dusk light, subtle grain, sentimental and bittersweet mood","subject":{"people_count":2,"relationship":"young couple or f...
 ```
 
-[Original](https://x.com/zenkaiAI/status/2048051889460437351)
+[原始来源](https://x.com/zenkaiAI/status/2048051889460437351)
 
 ---
 
@@ -12977,7 +12977,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 A bright, polished anime-style promotional thumbnail with a summer romance atmosphere. The composition is split visually, with large typography on the left and two handsome young men on the right. On the left side, place layered translucent white panels with soft glow and sparkles over a sky-blue ba...
 ```
 
-[Original](https://x.com/himukai_an/status/2047981800535085555)
+[原始来源](https://x.com/himukai_an/status/2047981800535085555)
 
 ---
 
@@ -12993,7 +12993,7 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 A cinematic anime-inspired digital illustration set at night inside a cozy artist's room with large window panes and a warm city glow outside. On the left, a young male artist with {argument name="hair color" default="dark brown"} messy hair sits at a cluttered desk in side profile, leaning forward ...
 ```
 
-[Original](https://x.com/almimeister/status/2048309710118687101)
+[原始来源](https://x.com/almimeister/status/2048309710118687101)
 
 ---
 
@@ -13017,7 +13017,7 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
  副标题： 「A b...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13033,7 +13033,7 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
 生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演上传图片中的二次元角色。人物为写实风格，但五官略带动漫感，���肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13055,7 +13055,7 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
     "logo": "∞ {argument name...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13075,7 +13075,7 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
     "background": "left side shows a screen with '{argument name=\"left background ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13091,7 +13091,7 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
 A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13107,7 +13107,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13132,7 +13132,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
       "avatar": "portrait of a Chinese emperor...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13148,7 +13148,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 A highly detailed, realistic first-person video game screenshot of a next-generation voxel-based world. At the top center, a large, bold 3D logo reads "{argument name="game title" default="MINECRAFT 2"}". The scene features a {argument name="environment" default="lush, blocky landscape with a river,...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13164,7 +13164,7 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
 An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name="hair color" default="pink with light blue inner highlights"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13184,7 +13184,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
     "description": "{argument name=\"subject description\" default=\...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13205,7 +13205,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
     "description": "{argument name=\"subject description\" default=\"Seri...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13221,7 +13221,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 {argument name="pianist" default="Vladimir Horowitz"} performs a {argument name="event" default="live piano recital"} streamed on {argument name="platform" default="YouTube"}
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13246,7 +13246,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
       "{argument name=\"female guest\" default=\"Sydney Sweeney\"} in white cardi...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13267,7 +13267,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
     "expression": "{argument name=\"e...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13283,7 +13283,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 {"type": "YouTube desktop dark mode UI mockup", "header": {"logo": "YouTube", "search_bar": "Search", "icons_count": 5, "icons": ["search", "mic", "create", "notifications", "profile"]}, "video_player": {"top_left_badge": "LIVE", "left_side": {"subject": "{argument name=\"presenter description\" def...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13299,7 +13299,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 Thumbnail for a YouTube unboxing video, a video of {argument name="topic" default="opening all overdue bills"}, {argument name="quantity" default="100 in a row"}
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13315,7 +13315,7 @@ Thumbnail for a YouTube unboxing video, a video of {argument name="topic" defaul
 A YouTube thumbnail-style collage for a {argument name="overall mood" default="dark, dramatic, true crime investigation"}. In the center is a highly detailed, close-up portrait of an {argument name="central figure" default="older man with grey hair and deep wrinkles resembling Jeffrey Epstein"}, wea...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13338,7 +13338,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "description": "anim...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13359,7 +13359,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "top_right_tag"...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13380,7 +13380,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13404,7 +13404,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "subtitle": "{argument name=\"brand chinese name\" default=\"...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13426,7 +13426,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
       "logo": "left-aligned brand name...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13447,7 +13447,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "logo": "{argument name=\"brand name\" default=\"NEX SKI...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13467,7 +13467,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "logo": "{argument name=\"brand name\" ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13492,7 +13492,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
  ...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13515,7 +13515,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
       "visuals": "Asian woman touching cheek, floating water droplets, white pum...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13536,7 +13536,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "action": "holding a black product box in one hand and pointing at it with t...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13555,7 +13555,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "description": "young Asian woman, long wavy dark hair, wearing a white short-sleeve polo shirt and white pleated tennis skirt, holding a white tennis racket over her right shoulder, looking directly at the camera with a so...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13574,7 +13574,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "description": "photorealistic young Asian woman, sweaty glowing skin, long dark wavy hair, wearing a white short-sleeve polo shirt and white pleated tennis skirt, holding a white tennis racket over her right shoulder, looking dire...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13595,7 +13595,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "clothing": "grey tank top with graphic '{argument name=\"shirt graphic\" default=\"LEONIDA MARINE CENTER\"}', camouflage c...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13615,7 +13615,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark color scheme.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13635,7 +13635,7 @@ Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark
 Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13655,7 +13655,7 @@ Generate a UI design system for me in xx style, including web pages, mobile, car
 Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13675,7 +13675,7 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
 Render a professional iOS APP homepage UI image, the theme is AI Video Generator, English interface. Professional-level design, professional style, dark theme.
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13695,7 +13695,7 @@ Render a professional iOS APP homepage UI image, the theme is AI Video Generator
 Generate a TikTok live stream interface, the content is a beautiful woman live streaming
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13715,7 +13715,7 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok live stream room
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
@@ -13733,13 +13733,13 @@ Instagram Frame (UI Accuracy – Critical)
 Authentic...
 ```
 
-[Original](https://github.com/freestylefly/awesome-gpt-image-2)
+[原始来源](https://github.com/freestylefly/awesome-gpt-image-2)
 
 ---
 
 ## YouTube Thumbnail
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### YouTube Thumbnail 1: [YouTube Thumbnail - Astronaut on a Red Desert World](https://x.com/TikFilmer/status/2048788047521829143#reversed-3) (by [@TikFilmer](https://x.com/TikFilmer))
 
@@ -13753,7 +13753,7 @@ Authentic...
 A cinematic wide shot of a lone astronaut standing on a rocky ledge and facing away from the camera, looking out across an immense red desert plain on a Mars-like planet. The astronaut is centered in the lower middle of the frame, wearing a realistic white EVA spacesuit with subtle gray panels, a li...
 ```
 
-[Original](https://x.com/TikFilmer/status/2048788047521829143#reversed-3)
+[原始来源](https://x.com/TikFilmer/status/2048788047521829143#reversed-3)
 
 ---
 
@@ -13769,7 +13769,7 @@ A cinematic wide shot of a lone astronaut standing on a rocky ledge and facing a
 {"type":"Japanese YouTube thumbnail","style":"high-impact flashy growth-marketing thumbnail, dramatic, glossy, fiery, attention-grabbing","canvas":{"aspect_ratio":"16:9","background":"black with orange fire sparks, glowing particles, light streaks, and lens flare"},"headline":{"top_text":"{argument ...
 ```
 
-[Original](https://x.com/emi_aifuku/status/2048761642872348947#reversed-1)
+[原始来源](https://x.com/emi_aifuku/status/2048761642872348947#reversed-1)
 
 ---
 
@@ -13785,7 +13785,7 @@ A cinematic wide shot of a lone astronaut standing on a rocky ledge and facing a
 Create a flashy Japanese YouTube thumbnail in a luxurious black-and-gold money-making style, packed with dramatic visual impact and designed to feel viral, celebratory, and high-value. Use a dark black background filled with intense golden light bursts, glitter particles, sparkles, lens flares, and ...
 ```
 
-[Original](https://x.com/emi_aifuku/status/2048761642872348947#reversed-2)
+[原始来源](https://x.com/emi_aifuku/status/2048761642872348947#reversed-2)
 
 ---
 
@@ -13801,7 +13801,7 @@ Create a flashy Japanese YouTube thumbnail in a luxurious black-and-gold money-m
 Create a flashy Japanese YouTube thumbnail in a dark futuristic cyber-tech style, 16:9 landscape composition, with a deep navy-to-black background filled with glowing blue circuit-board patterns, connected network nodes, tiny digital squares, and electric energy lines. At the top center, place a sma...
 ```
 
-[Original](https://x.com/emi_aifuku/status/2048761642872348947#reversed-0)
+[原始来源](https://x.com/emi_aifuku/status/2048761642872348947#reversed-0)
 
 ---
 
@@ -13821,7 +13821,7 @@ Screen Composition:
 Main Video: An extreme close-up of {argument name="food item" default="soy sauce ramen"} from {argument name="restaurant name" default="Mona H...
 ```
 
-[Original](https://x.com/xc5_/status/2048681792341958807)
+[原始来源](https://x.com/xc5_/status/2048681792341958807)
 
 ---
 
@@ -13837,7 +13837,7 @@ Main Video: An extreme close-up of {argument name="food item" default="soy sauce
 {argument name="character" default="Pan Jinlian"} posting a beauty tutorial on {argument name="platform" default="Bilibili"} titled "{argument name="topic" default="How to Conceal Blemishes Using Ancient Methods"}," with bullet comments saying "Sister-in-law's technique is amazing!"
 ```
 
-[Original](https://x.com/Mrpinecone888/status/2048398131969286552)
+[原始来源](https://x.com/Mrpinecone888/status/2048398131969286552)
 
 ---
 
@@ -13853,7 +13853,7 @@ Main Video: An extreme close-up of {argument name="food item" default="soy sauce
 A dramatic cinematic action shot of a {argument name="child" default="12-year-old boy"} with messy dark hair powerfully kicking a soccer ball on a {argument name="setting" default="green grass stadium field"} at golden hour sunset. The soccer ball is massively oversized and zoomed-in in the foregrou...
 ```
 
-[Original](https://x.com/ShamiWeb3/status/2048287581868302683)
+[原始来源](https://x.com/ShamiWeb3/status/2048287581868302683)
 
 ---
 
@@ -13869,7 +13869,7 @@ A dramatic cinematic action shot of a {argument name="child" default="12-year-ol
 A bright, polished anime-style promotional thumbnail with a summer romance atmosphere. The composition is split visually, with large typography on the left and two handsome young men on the right. On the left side, place layered translucent white panels with soft glow and sparkles over a sky-blue ba...
 ```
 
-[Original](https://x.com/himukai_an/status/2047981800535085555#reversed-0)
+[原始来源](https://x.com/himukai_an/status/2047981800535085555#reversed-0)
 
 ---
 
@@ -13885,7 +13885,7 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 A side-by-side comparison graphic on a black background demonstrating a camera-angle change in the same restaurant scene. At the top, large white sans-serif text reads: "Show me the POV from someone standing behind the bar looking out over this crowded restaurant. Change NOTHING in the scene other t...
 ```
 
-[Original](https://x.com/chesnyfcb/status/2047714457774637213#reversed-1)
+[原始来源](https://x.com/chesnyfcb/status/2047714457774637213#reversed-1)
 
 ---
 
@@ -13901,7 +13901,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 {"type":"comparison graphic","style":"anime cinematic demonstration image on a black presentation background","canvas":{"aspect_ratio":"4:3","background":"solid black"},"text_elements":[{"text":"{argument name=\"headline text\" default=\"Move the camera POV to be at ground level in the crowd.\"}","p...
 ```
 
-[Original](https://x.com/chesnyfcb/status/2047714457774637213#reversed-0)
+[原始来源](https://x.com/chesnyfcb/status/2047714457774637213#reversed-0)
 
 ---
 
@@ -13917,7 +13917,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk style, 16:9 landscape. Use a dark tech-city background with faint skyscrapers, digital grid lines, glowing particles, and high-contrast blue, pink, and gold lighting. In the exact center, place a young woman from the waist u...
 ```
 
-[Original](https://x.com/MoveHiro1219/status/2047698611665096732#reversed-3)
+[原始来源](https://x.com/MoveHiro1219/status/2047698611665096732#reversed-3)
 
 ---
 
@@ -13933,7 +13933,7 @@ Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk styl
 A futuristic Japanese tech comparison poster in a dark cyberpunk control-room setting, wide 16:9 composition. Large distressed white Japanese headline text at the upper left reading "三つ巴", with a bold gold subtitle directly below reading "それぞれの武器". Across the center-left are 3 glowing holographic co...
 ```
 
-[Original](https://x.com/MoveHiro1219/status/2047698611665096732#reversed-1)
+[原始来源](https://x.com/MoveHiro1219/status/2047698611665096732#reversed-1)
 
 ---
 
@@ -13949,7 +13949,7 @@ A futuristic Japanese tech comparison poster in a dark cyberpunk control-room se
 A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen, high contrast, dramatic tech-news style. Use a dark futuristic control-room background filled with 3 glowing holographic dashboard screens and blue cyber interface elements around the edges. On the left and center, plac...
 ```
 
-[Original](https://x.com/MoveHiro1219/status/2047698611665096732#reversed-0)
+[原始来源](https://x.com/MoveHiro1219/status/2047698611665096732#reversed-0)
 
 ---
 
@@ -13965,7 +13965,7 @@ A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen,
 A highly polished anime banner illustration in a warm golden classroom-literature-club setting, wide cinematic composition. On the left half, a large elegant glowing script title reads {argument name="headline text" default="Monika"} in oversized calligraphy, colored white and pale green with a soft...
 ```
 
-[Original](https://x.com/mirochill/status/2047639852485620070#reversed-3)
+[原始来源](https://x.com/mirochill/status/2047639852485620070#reversed-3)
 
 ---
 
@@ -13981,7 +13981,7 @@ A highly polished anime banner illustration in a warm golden classroom-literatur
 A polished anime-style banner illustration in a dreamy violet palette, wide cinematic composition, showing a quiet literary room at twilight. On the right side, a beautiful teenage anime girl named {argument name="character name" default="Yuri"} sits at a wooden desk beside a large window with purpl...
 ```
 
-[Original](https://x.com/mirochill/status/2047639852485620070#reversed-2)
+[原始来源](https://x.com/mirochill/status/2047639852485620070#reversed-2)
 
 ---
 
@@ -13997,7 +13997,7 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 A glossy pastel pink anime banner in a wide cinematic layout, themed around cute romance and sweets. Place a confident teenage anime girl on the right side, shown from about thigh-up, with short fluffy bob hair in {argument name="hair color" default="soft pink"}, large pink-magenta eyes, a small gen...
 ```
 
-[Original](https://x.com/mirochill/status/2047639852485620070#reversed-0)
+[原始来源](https://x.com/mirochill/status/2047639852485620070#reversed-0)
 
 ---
 
@@ -14013,7 +14013,7 @@ A glossy pastel pink anime banner in a wide cinematic layout, themed around cute
 A wide anime banner illustration of {argument name="character name" default="Sayori"} in a bright dreamy classroom, rendered in a polished, high-end visual novel style with soft painterly lighting, warm pastel colors, and sparkling atmosphere. Show a cheerful teenage schoolgirl with short fluffy cor...
 ```
 
-[Original](https://x.com/mirochill/status/2047639852485620070#reversed-1)
+[原始来源](https://x.com/mirochill/status/2047639852485620070#reversed-1)
 
 ---
 
@@ -14029,7 +14029,7 @@ A wide anime banner illustration of {argument name="character name" default="Say
 A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a dense futuristic city at night, viewed from a slightly elevated angle. The main subject is a petite young witch girl with pale skin, short icy blue bobbed hair, pointed elf-like ears, and glowing red eyes, wearing a sly c...
 ```
 
-[Original](https://x.com/Eris_Create_Lab/status/2047537707904274795#reversed-1)
+[原始来源](https://x.com/Eris_Create_Lab/status/2047537707904274795#reversed-1)
 
 ---
 
@@ -14045,13 +14045,13 @@ A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a d
 A cinematic anime movie poster for a fictional film titled {argument name="headline text" default="EL VIAJE DE LA LUNA DE PLATA"}, in polished modern Japanese animation style with a natural, less over-detailed look. Center a teenage anime girl from mid-thigh up, facing forward, with a short silver b...
 ```
 
-[Original](https://x.com/Design4p0/status/2047531978346398002#reversed-0)
+[原始来源](https://x.com/Design4p0/status/2047531978346398002#reversed-0)
 
 ---
 
 ## portrait
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### portrait 1: [Candid Bedroom Selfie Photorealistic Portrait](https://x.com/charliejhills/status/2047969988368314526) (by [@charliejhills](https://x.com/charliejhills))
 
@@ -14065,7 +14065,7 @@ A cinematic anime movie poster for a fictional film titled {argument name="headl
 Candid selfie of a young woman with shoulder-length honey-blonde hair with lighter highlights, green-grey eyes, rosy cheeks, and a natural no-makeup makeup look. She is wearing a light grey hoodie and looking slightly off-camera with a relaxed expression. Background shows a cosy bedroom with warm fa...
 ```
 
-[Original](https://x.com/charliejhills/status/2047969988368314526)
+[原始来源](https://x.com/charliejhills/status/2047969988368314526)
 
 ---
 
@@ -14081,7 +14081,7 @@ Candid selfie of a young woman with shoulder-length honey-blonde hair with light
 A candid, magazine-cover quality documentary photograph of a young musician with curly hair, casually carrying a worn guitar case, stepping out of a classic downtown bodega at 11 PM. The lighting features a complex mixed color temperature: a bright neon "OPEN" sign casts an intense, warm red glow ac...
 ```
 
-[Original](https://x.com/commanderdgr8/status/2047934886124867684)
+[原始来源](https://x.com/commanderdgr8/status/2047934886124867684)
 
 ---
 
@@ -14097,7 +14097,7 @@ A candid, magazine-cover quality documentary photograph of a young musician with
 Create a photorealistic travel-documentary image of a small sweet-shop storefront in Old Delhi at midday. A painted shop signboard above the door reads "मिठाई की दुकान" in large bold yellow hand-painted Devanagari on a deep red background, with "SWEET SHOP" in smaller roman letters beneath. Realisti...
 ```
 
-[Original](https://x.com/commanderdgr8/status/2047889839123521635)
+[原始来源](https://x.com/commanderdgr8/status/2047889839123521635)
 
 ---
 
@@ -14113,7 +14113,7 @@ Create a photorealistic travel-documentary image of a small sweet-shop storefron
 A cinematic side-profile portrait of a rugged man with a tied-back bun and full beard, wearing round dark sunglasses and a textured leather jacket. His skin is detailed and slightly weathered. The background is a futuristic sci-fi interface filled with glowing orange and red data streams, star maps,...
 ```
 
-[Original](https://x.com/iamsofiaijaz/status/2047882171336253928)
+[原始来源](https://x.com/iamsofiaijaz/status/2047882171336253928)
 
 ---
 
@@ -14137,7 +14137,7 @@ Expression: thoughtful, slightly shy, natural.
 Minimal makeup, natural s...
 ```
 
-[Original](https://x.com/ChillaiKalan__/status/2047862141894681076)
+[原始来源](https://x.com/ChillaiKalan__/status/2047862141894681076)
 
 ---
 
@@ -14155,13 +14155,13 @@ Negative:
 good drawing, nice lines, ...
 ```
 
-[Original](https://x.com/akakageAI/status/2047812983389356276)
+[原始来源](https://x.com/akakageAI/status/2047812983389356276)
 
 ---
 
 ## poster
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### poster 1: [Luxury Sportswear Basketball Athlete Campaign Poster](https://x.com/Shorelyn_/status/2047949711181832558) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
@@ -14175,7 +14175,7 @@ good drawing, nice lines, ...
 Create a premium luxury sportswear campaign poster featuring a confident female athlete in a modern studio environment. Full body pose with strong fashion attitude, standing tall while holding a basketball at her side, chin raised slightly, direct powerful expression. Athletic toned physique, sleek ...
 ```
 
-[Original](https://x.com/Shorelyn_/status/2047949711181832558)
+[原始来源](https://x.com/Shorelyn_/status/2047949711181832558)
 
 ---
 
@@ -14191,7 +14191,7 @@ Create a premium luxury sportswear campaign poster featuring a confident female 
 Create a premium streetwear fashion campaign poster inspired by modern Asian apparel advertising. Full body portrait of a stylish young male model standing confidently with legs crossed at the ankles, hands inside jacket pockets, head turned slightly upward and sideways with a calm thoughtful expres...
 ```
 
-[Original](https://x.com/harboriis/status/2047921293123895520)
+[原始来源](https://x.com/harboriis/status/2047921293123895520)
 
 ---
 
@@ -14207,7 +14207,7 @@ Create a premium streetwear fashion campaign poster inspired by modern Asian app
 Create an epic poster showcasing the most iconic moments of [Insert Name]'s career. Cinematic style, lens flare. Portrait orientation. A1 poster size. aspect ratio 4:5 https://t.co/L9OHPKUNRp
 ```
 
-[Original](https://x.com/Goodmanprotocol/status/2047900470921040270)
+[原始来源](https://x.com/Goodmanprotocol/status/2047900470921040270)
 
 ---
 
@@ -14223,7 +14223,7 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
 Avant-garde sports fashion advertisement, oversized basketball posed like a monumental sculpture, female athlete reclining across the ball’s curved surface as if modern furniture, giant word “ELEVATE” in bold typography behind, burnt orange studio backdrop, glossy reflective floor, luxury athletic e...
 ```
 
-[Original](https://x.com/AIwithkhan/status/2047886964037398989)
+[原始来源](https://x.com/AIwithkhan/status/2047886964037398989)
 
 ---
 
@@ -14239,7 +14239,7 @@ Avant-garde sports fashion advertisement, oversized basketball posed like a monu
 Avant-garde sports fashion advertisement, oversized tennis racket positioned like monumental sculpture, female athlete seated casually on the strings as if a suspended lounge, giant word “PRECISION” in bold typography behind, crisp white studio backdrop, reflective court-like floor, luxury sportswea...
 ```
 
-[Original](https://x.com/AIwithSynthia/status/2047884609321619831)
+[原始来源](https://x.com/AIwithSynthia/status/2047884609321619831)
 
 ---
 
@@ -14256,7 +14256,7 @@ Un póster publicitario surrealista de alta costura para Aguardiente Amarillo. L
 El foco central es una botella de Aguardiente Amarillo de tamaño descomunal y gigante, colocada en ángulo ...
 ```
 
-[Original](https://x.com/hmontilla_/status/2047884126343032995)
+[原始来源](https://x.com/hmontilla_/status/2047884126343032995)
 
 ---
 
@@ -14273,7 +14273,7 @@ Create a premium food preparation poster for
  [ DISH NAME ], with a beautiful hero dish, warm natural lighting, cream background, elegant step-by-step recipe layout, ingredients, cooking process, premium food photography, refined English typography, luxury restaurant advertisement style, clean desig...
 ```
 
-[Original](https://x.com/Preda2005/status/2047883394152088004)
+[原始来源](https://x.com/Preda2005/status/2047883394152088004)
 
 ---
 
@@ -14289,7 +14289,7 @@ Create a premium food preparation poster for
 Create a high fashion editorial magazine cover inspired by luxury fashion publications. Use the reference image of the male subject. Black and white portrait photography with a clean off white studio background. Subject is posed confidently from a low angle, looking slightly upward, sharp jawline, s...
 ```
 
-[Original](https://x.com/iamrealsnow/status/2047883187527856345)
+[原始来源](https://x.com/iamrealsnow/status/2047883187527856345)
 
 ---
 
@@ -14305,7 +14305,7 @@ Create a high fashion editorial magazine cover inspired by luxury fashion public
 A high-fashion surrealist poster for Rolex. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex.
 ```
 
-[Original](https://x.com/Sheldon056/status/2047873913049538927)
+[原始来源](https://x.com/Sheldon056/status/2047873913049538927)
 
 ---
 
@@ -14321,7 +14321,7 @@ A high-fashion surrealist poster for Rolex. A deep emerald green minimalist stud
 symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2
 ```
 
-[Original](https://x.com/dotey/status/2047803054422901046)
+[原始来源](https://x.com/dotey/status/2047803054422901046)
 
 ---
 
@@ -14338,7 +14338,7 @@ Create a hyper-realistic fashion poster for “SPLASH” featuring the same girl
 Background has massiv...
 ```
 
-[Original](https://x.com/miratechtool/status/2047780974709346606)
+[原始来源](https://x.com/miratechtool/status/2047780974709346606)
 
 ---
 
@@ -14354,13 +14354,13 @@ Background has massiv...
 Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a guitarist in jeans casually seated on the a button as if furniture, giant word "Plism Art" behind in bold white typography, powder pastel studio background, reflective floor, luxury eyewear campaign aesthetic, ultra-cle...
 ```
 
-[Original](https://x.com/QamarRiaz1/status/2047777016733110722)
+[原始来源](https://x.com/QamarRiaz1/status/2047777016733110722)
 
 ---
 
 ## ui
 
-[Back to Menu](#-menu)
+[返回目录](#-目录)
 
 ### ui 1: [Apple Pods Pro 3 Headphone E-Commerce Infographic](https://x.com/meng_dagg695/status/2047935217231663186) (by [@meng_dagg695](https://x.com/meng_dagg695))
 
@@ -14381,7 +14381,7 @@ at a slight angle. The headphone features:
 - Glossy white ear cushio...
 ```
 
-[Original](https://x.com/meng_dagg695/status/2047935217231663186)
+[原始来源](https://x.com/meng_dagg695/status/2047935217231663186)
 
 ---
 
@@ -14397,7 +14397,7 @@ at a slight angle. The headphone features:
 High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
 ```
 
-[Original](https://x.com/rovvmut_/status/2047912710365761828)
+[原始来源](https://x.com/rovvmut_/status/2047912710365761828)
 
 ---
 
@@ -14413,7 +14413,7 @@ High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
 A high-resolution commercial marketing photograph features a young woman with sleek dark hair and a pink ribbed top in a neutral grey studio setting, centered behind a glossy Ellie Beauty spray bottle held prominently in the foreground. The composition is energized by vibrant, lime-green graphic "sw...
 ```
 
-[Original](https://x.com/AIwithSarah_/status/2047904483359760677)
+[原始来源](https://x.com/AIwithSarah_/status/2047904483359760677)
 
 ---
 
@@ -14429,21 +14429,21 @@ A high-resolution commercial marketing photograph features a young woman with sl
 generate screenshots from a AAA video game based off what The Sims Castaways sequel could look like. https://t.co/aL7hMdUYvj
 ```
 
-[Original](https://x.com/ChiefMonkeyMike/status/2047828814580138156)
+[原始来源](https://x.com/ChiefMonkeyMike/status/2047828814580138156)
 
 ---
 
 
-## 🙏 Acknowledgments
+## 🙏 致谢
 
-This project wouldn't be possible without the amazing work from:
+本项目离不开以下优秀仓库的支持：
 - [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-## 📄 License
+## 📄 许可证
 
-This project is licensed under [CC BY 4.0](LICENSE).
+本项目采用 [CC BY 4.0](LICENSE) 许可证。
 
 ---
-*Generated on 2026-04-29T11:21:37.184Z*
+*最后更新: 2026-04-29T11:21:37.190Z*

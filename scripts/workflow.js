@@ -28,6 +28,12 @@ const SCRAPERS = [
   { name: 'youmind', scraper: 'youmind.js' }
 ];
 
+// 需要生成多语言 README 的脚本
+const I18N_SCRIPTS = [
+  { name: 'translate-categories', script: 'translate-categories.js' },
+  { name: 'generate-readme-i18n', script: 'generate-readme-i18n.js' }
+];
+
 // 配置
 const CONFIG = {
   title: 'Awesome Image Prompts',
@@ -442,11 +448,19 @@ async function main() {
     // 步骤 3: 提取分类
     const allCategories = extractCategories(allPrompts);
 
-    // 步骤 4: 生成 README
+    // 步骤 4: 生成 README（英文单语言版本）
     generateReadme(allPrompts, allCategories);
 
     // 步骤 5: 生成分类子文件
     generateCategoryDocs(allPrompts, allCategories);
+
+    // 步骤 6: 翻译分类（如果配置了 API Key）
+    if (process.env.DEEPSEEK_API_KEY) {
+      await runI18nScript('translate-categories');
+    }
+
+    // 步骤 7: 生成多语言 README
+    runI18nScript('generate-readme-i18n');
 
     const duration = ((Date.now() - startTime) / 1000).toFixed(2);
 
@@ -457,6 +471,26 @@ async function main() {
   } catch (error) {
     console.error('\n❌ 工作流失败:', error);
     process.exit(1);
+  }
+}
+
+// 运行 i18n 脚本
+function runI18nScript(name) {
+  const scriptConfig = I18N_SCRIPTS.find(s => s.name === name);
+  if (!scriptConfig) return;
+
+  const scriptPath = path.join(__dirname, scriptConfig.script);
+  console.log(`\n========== 运行 ${name} ==========\n`);
+
+  try {
+    execSync(`node "${scriptPath}"`, {
+      cwd: PROJECT_ROOT,
+      stdio: 'inherit',
+      env: { ...process.env }
+    });
+    console.log(`  ✅ ${name} 完成`);
+  } catch (error) {
+    console.error(`  ❌ ${name} 失败`);
   }
 }
 

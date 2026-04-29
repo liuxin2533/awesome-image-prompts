@@ -1,8 +1,8 @@
 # Brand & Logo
 
-Total: 11 prompts
+共: 11 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

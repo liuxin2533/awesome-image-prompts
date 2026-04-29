@@ -1,8 +1,8 @@
 # ui
 
-Total: 4 prompts
+共: 4 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

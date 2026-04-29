@@ -1,8 +1,8 @@
 # Photography
 
-Total: 15 prompts
+共: 15 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

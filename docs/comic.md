@@ -1,8 +1,8 @@
 # Comic
 
-Total: 18 prompts
+共: 18 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

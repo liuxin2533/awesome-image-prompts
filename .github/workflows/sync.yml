@@ -8,10 +8,10 @@ on:
   # 支持手动触发
   workflow_dispatch:
 
-  # 当推送到 main 分支时也可以触发
+  # 当推送到 master 分支时也可以触发
   push:
     branches:
-      - main
+      - master
     paths:
       - 'scripts/**'
       - '.github/workflows/sync.yml'
@@ -47,13 +47,12 @@ jobs:
             echo "has_changes=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Create commit and PR
+      - name: Create commit
         if: steps.changed.outputs.has_changes == 'true'
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          # 创建提交
           git add .
           git commit -m "chore: sync upstream data $(date +'%Y-%m-%d %H:%M')
 
@@ -62,7 +61,7 @@ jobs:
       - name: Push changes
         if: steps.changed.outputs.has_changes == 'true'
         run: |
-          git push origin main
+          git push origin ${{ github.ref_name }}
 
   # 可选：翻译分类（需要配置 DEEPSEEK_API_KEY）
   translate:

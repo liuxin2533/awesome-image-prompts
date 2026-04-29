@@ -1,8 +1,8 @@
 # E-commerce
 
-Total: 27 prompts
+共: 27 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

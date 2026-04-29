@@ -1,8 +1,8 @@
 # Character Design
 
-Total: 21 prompts
+共: 21 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

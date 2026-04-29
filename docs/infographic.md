@@ -1,8 +1,8 @@
 # Infographic
 
-Total: 58 prompts
+共: 58 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

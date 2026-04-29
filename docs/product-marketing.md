@@ -1,8 +1,8 @@
 # Product Marketing
 
-Total: 14 prompts
+共: 14 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

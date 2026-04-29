@@ -1,8 +1,8 @@
 # Comparison & Community
 
-Total: 47 prompts
+共: 47 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 
@@ -324,7 +324,7 @@ By @Aurora_62340 | [Source](https://x.com/Aurora_62340/status/204713999235568053
 By @AntCaveClub | [Source](https://x.com/AntCaveClub/status/2047136306485133428)
 
 ```
-地铁上低头看手��的美丽女人，偷拍照片。
+地铁上低头看手机的美丽女人，偷拍照片。
 
 能免费试一次 ⬇️
 ```

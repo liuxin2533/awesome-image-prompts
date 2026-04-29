@@ -1,8 +1,8 @@
 # UI & Social Media
 
-Total: 91 prompts
+共: 91 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 

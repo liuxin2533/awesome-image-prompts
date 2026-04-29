@@ -1,8 +1,8 @@
 # Portrait & Photography
 
-Total: 47 prompts
+共: 47 条提示词
 
-[Back to README](../README.md)
+[返回 README](../README_zh-CN.md)
 
 ---
 
