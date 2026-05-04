@@ -4,7 +4,7 @@ const fs = require('node:fs');
 const os = require('node:os');
 const path = require('node:path');
 
-const { mirrorMissingAssets } = require('../../scripts/ingestion/assets');
+const { mirrorMissingAssets, parseArgs } = require('../../scripts/ingestion/assets');
 
 function writeJson(filePath, data) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
@@ -122,4 +122,34 @@ test('mirrorMissingAssets can target one prompt asset by prompt id and asset id'
   assert.deepEqual(fetched, ['https://example.com/second.jpg']);
   assert.equal(fs.existsSync(path.join(projectRoot, first.prompts[0].assets[0].localPath)), false);
   assert.equal(fs.readFileSync(path.join(projectRoot, secondPrompt.assets[0].localPath), 'utf-8'), 'second-image');
+});
+
+test('mirrorMissingAssets does not overwrite the latest validation report', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'assets-report-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), datasetFixture());
+  writeJson(path.join(projectRoot, 'data/reports/latest.json'), {
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    summary: { error: 0, warning: 7, info: 0 },
+    issues: [{ severity: 'warning', code: 'asset_not_cached' }]
+  });
+
+  await mirrorMissingAssets({
+    projectRoot,
+    fetchAsset: async () => ({
+      bytes: Buffer.from('image-bytes'),
+      contentType: 'image/jpeg'
+    })
+  });
+
+  const latestReport = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/reports/latest.json'), 'utf-8'));
+  assert.equal(latestReport.summary.warning, 7);
+  assert.equal(latestReport.issues[0].code, 'asset_not_cached');
+});
+
+test('assets parseArgs accepts targeted refresh report flags', () => {
+  const args = parseArgs(['--missing', '--prompt-id', 'prompt_one', '--asset-id', 'asset_1', '--refresh-report']);
+
+  assert.equal(args.promptId, 'prompt_one');
+  assert.equal(args.assetId, 'asset_1');
+  assert.equal(args.refreshReport, true);
 });

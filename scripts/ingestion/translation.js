@@ -5,6 +5,7 @@ const { Report } = require('./core/report');
 const { normalizeLanguageCode, slugify, contentHash } = require('./core/text');
 const { readJson, writeDerivedData } = require('./core/persist');
 const { loadProjectEnv } = require('../workbench/config');
+const { refreshCurrentReport } = require('./report-current');
 
 const FIELD_NAMES = ['promptText', 'title', 'description', 'categories', 'tags'];
 
@@ -220,7 +221,7 @@ async function translateMissing(options = {}) {
   });
 
   if (!dryRun && !options.dataset) {
-    writeDerivedData(projectRoot, dataset, report);
+    writeDerivedData(projectRoot, dataset);
   }
 
   if (options.strict && failedCount > 0) {
@@ -241,7 +242,8 @@ function parseArgs(argv) {
     dryRun: false,
     missingOnly: true,
     strict: false,
-    limit: Infinity
+    limit: Infinity,
+    refreshReport: false
   };
 
   const rest = [...argv];
@@ -267,6 +269,8 @@ function parseArgs(argv) {
       args.promptId = rest[++i];
     } else if (arg === '--field-path') {
       args.fieldPath = rest[++i];
+    } else if (arg === '--refresh-report') {
+      args.refreshReport = true;
     }
   }
 
@@ -277,6 +281,11 @@ async function main(argv = process.argv.slice(2)) {
   const args = parseArgs(argv);
   const result = await translateMissing(args);
   console.log(`Translation tasks: ${result.taskCount}; translated: ${result.translatedCount}; failed: ${result.failedCount}.`);
+  if (args.refreshReport) {
+    const refreshed = refreshCurrentReport({ projectRoot: args.projectRoot });
+    const summary = refreshed.report.toJSON().summary;
+    console.log(`Report refreshed: ${summary.error} error(s), ${summary.warning} warning(s), ${summary.info} info.`);
+  }
 }
 
 if (require.main === module) {

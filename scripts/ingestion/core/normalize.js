@@ -173,5 +173,6 @@ function normalizeRawRecord(raw, options = {}) {
 module.exports = {
   normalizeRawRecord,
   normalizeAsset,
+  emitMissingTranslationIssues,
   localizedValue
 };

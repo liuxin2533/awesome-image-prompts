@@ -7,6 +7,7 @@
     "validate": "node scripts/ingestion/cli.js validate",
     "translate": "node scripts/ingestion/translation.js translate",
     "assets:mirror": "node scripts/ingestion/assets.js mirror",
+    "report:refresh": "node scripts/ingestion/report-current.js",
     "catalog:export": "node scripts/catalog/export.js",
     "readme:generate": "node scripts/readme/generate.js",
     "workbench": "node scripts/workbench/server.js",

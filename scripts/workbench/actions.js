@@ -56,17 +56,21 @@ function buildActionCommand(type, body = {}, options = {}) {
     if (!SUPPORTED_TRANSLATION_LANGUAGES.has(language)) {
       throw new Error(`Unsupported language: ${language}`);
     }
-    const args = ['translate', '--', '--missing', '--lang', language];
+    const args = ['translate', '--', '--missing', '--lang', language, '--refresh-report'];
     const limit = normalizeLimit(body.limit);
     if (limit) args.push('--limit', limit);
     return createPackageScriptCommand(args, options);
   }
 
   if (type === 'mirror-assets') {
-    const args = ['assets:mirror', '--', '--missing'];
+    const args = ['assets:mirror', '--', '--missing', '--refresh-report'];
     const limit = normalizeLimit(body.limit);
     if (limit) args.push('--limit', limit);
     return createPackageScriptCommand(args, options);
+  }
+
+  if (type === 'refresh-report') {
+    return createPackageScriptCommand(['report:refresh'], options);
   }
 
   if (type === 'workflow') {
@@ -113,6 +117,7 @@ function buildIssueActionCommand(issue = {}, options = {}) {
       '--missing',
       '--lang',
       language,
+      '--refresh-report',
       '--prompt-id',
       issue.promptId,
       '--field-path',
@@ -127,6 +132,7 @@ function buildIssueActionCommand(issue = {}, options = {}) {
       'assets:mirror',
       '--',
       '--missing',
+      '--refresh-report',
       '--prompt-id',
       issue.promptId,
       '--asset-id',

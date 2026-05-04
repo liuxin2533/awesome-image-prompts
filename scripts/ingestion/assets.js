@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const { Report } = require('./core/report');
 const { ensureDir, readJson, writeDerivedData } = require('./core/persist');
+const { refreshCurrentReport } = require('./report-current');
 
 function defaultProjectRoot() {
   return path.join(__dirname, '..', '..');
@@ -125,7 +126,7 @@ async function mirrorMissingAssets(options = {}) {
   });
 
   if (!dryRun && !options.dataset) {
-    writeDerivedData(projectRoot, dataset, report);
+    writeDerivedData(projectRoot, dataset);
   }
 
   if (strict && failedCount > 0) {
@@ -144,7 +145,8 @@ function parseArgs(argv) {
     dryRun: false,
     strict: false,
     missing: true,
-    limit: Infinity
+    limit: Infinity,
+    refreshReport: false
   };
   const rest = [...argv];
   if (rest[0] && !rest[0].startsWith('-')) rest.shift();
@@ -167,6 +169,8 @@ function parseArgs(argv) {
       args.promptId = rest[++i];
     } else if (arg === '--asset-id') {
       args.assetId = rest[++i];
+    } else if (arg === '--refresh-report') {
+      args.refreshReport = true;
     }
   }
 
@@ -177,6 +181,11 @@ async function main(argv = process.argv.slice(2)) {
   const args = parseArgs(argv);
   const result = await mirrorMissingAssets(args);
   console.log(`Asset tasks: ${result.candidateCount}; cached: ${result.cachedCount}; failed: ${result.failedCount}; skipped: ${result.skippedCount}.`);
+  if (args.refreshReport) {
+    const refreshed = refreshCurrentReport({ projectRoot: args.projectRoot });
+    const summary = refreshed.report.toJSON().summary;
+    console.log(`Report refreshed: ${summary.error} error(s), ${summary.warning} warning(s), ${summary.info} info.`);
+  }
 }
 
 if (require.main === module) {

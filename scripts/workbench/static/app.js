@@ -147,7 +147,7 @@ async function pollAction(id) {
   ].join('\n');
   if (record.status === 'running') {
     setTimeout(() => pollAction(id).catch(showError), 1200);
-  } else if (record.type === 'workflow' && record.status === 'succeeded') {
+  } else if (record.status === 'succeeded') {
     await loadReport();
   }
 }

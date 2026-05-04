@@ -6,6 +6,7 @@ require('./ingestion/merge.test');
 require('./ingestion/cli.test');
 require('./ingestion/translation.test');
 require('./ingestion/assets.test');
+require('./ingestion/report-current.test');
 require('./catalog/collections.test');
 require('./catalog/export.test');
 require('./catalog/workflow.test');

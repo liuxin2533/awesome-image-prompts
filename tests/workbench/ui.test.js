@@ -11,6 +11,7 @@ test('workbench static UI explains operations in Chinese while keeping warning a
 
   assert.match(html, /提示词目录工作台/);
   assert.match(html, /修正所选问题/);
+  assert.match(html, /刷新当前报告/);
   assert.match(html, /操作说明/);
   assert.match(app, /全部 severity/);
   assert.match(app, /单条修正/);

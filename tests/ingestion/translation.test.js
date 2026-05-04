@@ -143,13 +143,42 @@ test('translateMissing can target one prompt field by prompt id and field path',
   assert.equal(dataset.prompts[1].title.translations['zh-CN'].value, '第二个标题');
 });
 
+test('translateMissing does not overwrite the latest validation report', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-report-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+  writeJson(path.join(projectRoot, 'data/reports/latest.json'), {
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    summary: { error: 0, warning: 12, info: 0 },
+    issues: [{ severity: 'warning', code: 'existing_validation_issue' }]
+  });
+
+  await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    fields: ['title'],
+    provider: async () => '海报'
+  });
+
+  const latestReport = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/reports/latest.json'), 'utf-8'));
+  assert.equal(latestReport.summary.warning, 12);
+  assert.equal(latestReport.issues[0].code, 'existing_validation_issue');
+});
+
 test('translation parseArgs accepts report resolution command flags', () => {
-  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12']);
+  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--refresh-report']);
 
   assert.equal(args.missingOnly, true);
   assert.deepEqual(args.languages, ['zh-CN']);
   assert.deepEqual(args.fields, ['title', 'tags']);
   assert.equal(args.limit, 12);
+  assert.equal(args.refreshReport, true);
 });
 
 test('createZhipuProvider sends OpenAI-compatible chat completions to Zhipu', async () => {
