@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2026-05-04",
-  "generatedAt": "2026-05-04T17:12:57.008Z",
+  "generatedAt": "2026-05-04T17:17:47.319Z",
   "categories": [
     {
       "id": "category_e2faefc55d",
@@ -33,13 +33,6 @@
     {
       "id": "4-4",
       "value": "4×4 动作分解参考表",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "90",
-      "value": "90 年代公寓场景参考板",
       "language": "zh-CN",
       "source": "derived",
       "sourceKey": "freestylefly"
@@ -96,13 +89,6 @@
     {
       "id": "category_8ee47eaa4f",
       "value": "不知火舞的小红书主页",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_c1a9723ced",
-      "value": "彩色潦草小狗线条风格重绘",
       "language": "zh-CN",
       "source": "derived",
       "sourceKey": "freestylefly"
@@ -215,20 +201,6 @@
     {
       "id": "category_da5825ca8f",
       "value": "春日禅意水墨群山海报",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_5a7da8961a",
-      "value": "春日花田三联竖版写真拼贴",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "logo",
-      "value": "磁场铁粉 Logo 物理成像",
       "language": "zh-CN",
       "source": "derived",
       "sourceKey": "freestylefly"
@@ -388,20 +360,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "3d",
-      "value": "高端 3D 收藏玩具头像",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_64e34a19d5",
-      "value": "高端肉类海鲜品牌英雄图",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "category_bf414f47a0",
       "value": "个人网页视觉设计",
       "language": "zh-CN",
@@ -430,13 +388,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "category_5cf3032813",
-      "value": "古希腊三哲时间轴城市图",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "category_e865be9232",
       "value": "关键人物关系图谱",
       "language": "zh-CN",
@@ -453,13 +404,6 @@
     {
       "id": "category_70023ec343",
       "value": "官方角色设定资料卡",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_686c89afaa",
-      "value": "冠状病毒尺度缩放科学信息图",
       "language": "zh-CN",
       "source": "derived",
       "sourceKey": "freestylefly"
@@ -759,29 +703,8 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "2d",
-      "value": "咖啡馆写实照片与 2D 涂鸦叠加",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "category_0193cb2c92",
       "value": "科普百科图",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_aa36566424",
-      "value": "科学家收藏级玩具发布板",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_6b5d1907c1",
-      "value": "可爱角色设定表",
       "language": "zh-CN",
       "source": "derived",
       "sourceKey": "freestylefly"
@@ -906,20 +829,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "category_8e610d40fe",
-      "value": "明洞旅游区域地图",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_f3d51c5ff9",
-      "value": "抹茶品牌触点系统视觉板",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "category_25397da905",
       "value": "鸟群织就的梦幻高定时装秀",
       "language": "zh-CN",
@@ -962,13 +871,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "category_2d47197412",
-      "value": "品牌人格漫画信息图",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "category_abe5286e8e",
       "value": "品牌视觉识别图",
       "language": "zh-CN",
@@ -983,13 +885,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "category_2251b0308c",
-      "value": "泼洒抹茶街头手机照片",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "category_5fb09969c0",
       "value": "千手观音化身打工人",
       "language": "zh-CN",
@@ -999,13 +894,6 @@
     {
       "id": "category_be9fdb4089",
       "value": "千禧年日系校园喜剧场景",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_5740f13392",
-      "value": "青岛啤酒灵感女装系列",
       "language": "zh-CN",
       "source": "derived",
       "sourceKey": "freestylefly"
@@ -1102,13 +990,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "category_615c7dd3fa",
-      "value": "奢华个人色彩档案信息图",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "category_805f8367cd",
       "value": "奢华魅力黑人女性海滨摄影",
       "language": "zh-CN",
@@ -1146,13 +1027,6 @@
     {
       "id": "category_e3d3ba7c79",
       "value": "十二黄金圣斗士卡牌合集",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_0d6e88f6eb",
-      "value": "十国传统服饰时尚拼贴",
       "language": "zh-CN",
       "source": "derived",
       "sourceKey": "freestylefly"
@@ -1438,13 +1312,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "category_3ebeeaf22f",
-      "value": "印度餐厅菜单改造宣传图",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "category_369832755f",
       "value": "应用界面样机图",
       "language": "zh-CN",
@@ -1454,13 +1321,6 @@
     {
       "id": "category_76111a1725",
       "value": "英雄联盟特朗普中路对决哈梅内伊",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "category_d9cdc2f534",
-      "value": "樱花咖啡户外人像",
       "language": "zh-CN",
       "source": "derived",
       "sourceKey": "freestylefly"
@@ -1655,20 +1515,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "ad-creative-cases",
-      "value": "Ad Creative Cases",
-      "language": "en",
-      "source": "upstream",
-      "sourceKey": "evolink"
-    },
-    {
-      "id": "ai-iphone",
-      "value": "AI 日常生活 iPhone 抓拍",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "ai",
       "value": "AI 眼镜爆炸拆解图",
       "language": "zh-CN",
@@ -1713,20 +1559,6 @@
     {
       "id": "comparison-community-examples",
       "value": "Comparison & Community Examples",
-      "language": "en",
-      "source": "upstream",
-      "sourceKey": "evolink"
-    },
-    {
-      "id": "crumple-chair",
-      "value": "Crumple Chair 概念沙发研发板",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
-      "id": "e-commerce-cases",
-      "value": "E-commerce Cases",
       "language": "en",
       "source": "upstream",
       "sourceKey": "evolink"
@@ -1781,6 +1613,13 @@
       "sourceKey": "freestylefly"
     },
     {
+      "id": "portrait",
+      "value": "portrait",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    },
+    {
       "id": "portrait-photography-cases",
       "value": "Portrait & Photography Cases",
       "language": "en",
@@ -1823,13 +1662,6 @@
       "sourceKey": "freestylefly"
     },
     {
-      "id": "scrapbook",
-      "value": "Scrapbook 真人图与迷你分身",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
-    },
-    {
       "id": "social-media-post",
       "value": "Social Media Post",
       "language": "en",
@@ -1837,18 +1669,18 @@
       "sourceKey": "youmind"
     },
     {
-      "id": "ui-social-media-mockup-cases",
-      "value": "UI & Social Media Mockup Cases",
+      "id": "ui",
+      "value": "ui",
       "language": "en",
       "source": "upstream",
       "sourceKey": "evolink"
     },
     {
-      "id": "velora",
-      "value": "VELORA 奢华香水广告海报",
-      "language": "zh-CN",
-      "source": "derived",
-      "sourceKey": "freestylefly"
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
     },
     {
       "id": "vr-headset-exploded-view-poster",
