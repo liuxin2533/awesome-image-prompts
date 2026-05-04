@@ -243,7 +243,8 @@ function parseArgs(argv) {
     missingOnly: true,
     strict: false,
     limit: Infinity,
-    refreshReport: false
+    refreshReport: false,
+    targetLanguages: []
   };
 
   const rest = [...argv];
@@ -271,6 +272,8 @@ function parseArgs(argv) {
       args.fieldPath = rest[++i];
     } else if (arg === '--refresh-report') {
       args.refreshReport = true;
+    } else if (arg === '--target-languages' || arg === '--target-langs' || arg === '--langs') {
+      args.targetLanguages = parseList(rest[++i]);
     }
   }
 
@@ -282,7 +285,7 @@ async function main(argv = process.argv.slice(2)) {
   const result = await translateMissing(args);
   console.log(`Translation tasks: ${result.taskCount}; translated: ${result.translatedCount}; failed: ${result.failedCount}.`);
   if (args.refreshReport) {
-    const refreshed = refreshCurrentReport({ projectRoot: args.projectRoot });
+    const refreshed = refreshCurrentReport({ projectRoot: args.projectRoot, targetLanguages: args.targetLanguages });
     const summary = refreshed.report.toJSON().summary;
     console.log(`Report refreshed: ${summary.error} error(s), ${summary.warning} warning(s), ${summary.info} info.`);
   }

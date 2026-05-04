@@ -125,6 +125,6 @@ test('workbench server runs a single report issue by index', async () => {
     assert.equal(accepted.status, 202);
     const action = await accepted.json();
     assert.equal(action.type, 'issue');
-    assert.deepEqual(action.args, ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--prompt-id', 'prompt_single', '--field-path', 'title.translations.zh-CN']);
+    assert.deepEqual(action.args, ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--target-languages', 'en,zh-CN', '--prompt-id', 'prompt_single', '--field-path', 'title.translations.zh-CN']);
   });
 });

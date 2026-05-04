@@ -147,9 +147,10 @@ test('mirrorMissingAssets does not overwrite the latest validation report', asyn
 });
 
 test('assets parseArgs accepts targeted refresh report flags', () => {
-  const args = parseArgs(['--missing', '--prompt-id', 'prompt_one', '--asset-id', 'asset_1', '--refresh-report']);
+  const args = parseArgs(['--missing', '--prompt-id', 'prompt_one', '--asset-id', 'asset_1', '--refresh-report', '--target-languages', 'en,zh-CN']);
 
   assert.equal(args.promptId, 'prompt_one');
   assert.equal(args.assetId, 'asset_1');
   assert.equal(args.refreshReport, true);
+  assert.deepEqual(args.targetLanguages, ['en', 'zh-CN']);
 });

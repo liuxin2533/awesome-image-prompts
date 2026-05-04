@@ -172,13 +172,14 @@ test('translateMissing does not overwrite the latest validation report', async (
 });
 
 test('translation parseArgs accepts report resolution command flags', () => {
-  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--refresh-report']);
+  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--refresh-report', '--target-languages', 'en,zh-CN']);
 
   assert.equal(args.missingOnly, true);
   assert.deepEqual(args.languages, ['zh-CN']);
   assert.deepEqual(args.fields, ['title', 'tags']);
   assert.equal(args.limit, 12);
   assert.equal(args.refreshReport, true);
+  assert.deepEqual(args.targetLanguages, ['en', 'zh-CN']);
 });
 
 test('createZhipuProvider sends OpenAI-compatible chat completions to Zhipu', async () => {

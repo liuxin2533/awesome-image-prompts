@@ -16,19 +16,19 @@ test('buildActionCommand only creates whitelisted maintenance commands', () => {
 
   assert.deepEqual(buildActionCommand('translate', { language: 'zh-CN', limit: 12 }, options), {
     command: 'pnpm',
-    args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--limit', '12']
+    args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--target-languages', 'en,zh-CN', '--limit', '12']
   });
   assert.deepEqual(buildActionCommand('translate', { language: 'en' }, options), {
     command: 'pnpm',
-    args: ['translate', '--', '--missing', '--lang', 'en', '--refresh-report']
+    args: ['translate', '--', '--missing', '--lang', 'en', '--refresh-report', '--target-languages', 'en,zh-CN']
   });
   assert.deepEqual(buildActionCommand('mirror-assets', { limit: 5 }, options), {
     command: 'pnpm',
-    args: ['assets:mirror', '--', '--missing', '--refresh-report', '--limit', '5']
+    args: ['assets:mirror', '--', '--missing', '--refresh-report', '--target-languages', 'en,zh-CN', '--limit', '5']
   });
   assert.deepEqual(buildActionCommand('refresh-report', {}, options), {
     command: 'pnpm',
-    args: ['report:refresh']
+    args: ['report:refresh', '--', '--target-languages', 'en,zh-CN']
   });
   assert.deepEqual(buildActionCommand('workflow', {}, options), {
     command: 'pnpm',
@@ -52,7 +52,7 @@ test('buildIssueActionCommand creates single-issue translation and asset command
     resolutionCommand: 'pnpm translate -- --missing --lang zh-CN'
   }, options), {
     command: 'pnpm',
-    args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--prompt-id', 'prompt_one', '--field-path', 'title.translations.zh-CN']
+    args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--target-languages', 'en,zh-CN', '--prompt-id', 'prompt_one', '--field-path', 'title.translations.zh-CN']
   });
 
   assert.deepEqual(buildIssueActionCommand({
@@ -61,7 +61,7 @@ test('buildIssueActionCommand creates single-issue translation and asset command
     fieldPath: 'assets.asset_123.localPath'
   }, options), {
     command: 'pnpm',
-    args: ['assets:mirror', '--', '--missing', '--refresh-report', '--prompt-id', 'prompt_two', '--asset-id', 'asset_123']
+    args: ['assets:mirror', '--', '--missing', '--refresh-report', '--target-languages', 'en,zh-CN', '--prompt-id', 'prompt_two', '--asset-id', 'asset_123']
   });
 });
 

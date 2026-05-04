@@ -4,6 +4,11 @@ const path = require('path');
 const { defaultProjectRoot } = require('./config');
 
 const SUPPORTED_TRANSLATION_LANGUAGES = new Set(['en', 'zh-CN']);
+const WORKBENCH_REPORT_LANGUAGES = ['en', 'zh-CN'];
+
+function reportLanguageArgs() {
+  return ['--target-languages', WORKBENCH_REPORT_LANGUAGES.join(',')];
+}
 
 function normalizeLimit(value) {
   if (value === undefined || value === null || value === '') return null;
@@ -56,21 +61,21 @@ function buildActionCommand(type, body = {}, options = {}) {
     if (!SUPPORTED_TRANSLATION_LANGUAGES.has(language)) {
       throw new Error(`Unsupported language: ${language}`);
     }
-    const args = ['translate', '--', '--missing', '--lang', language, '--refresh-report'];
+    const args = ['translate', '--', '--missing', '--lang', language, '--refresh-report', ...reportLanguageArgs()];
     const limit = normalizeLimit(body.limit);
     if (limit) args.push('--limit', limit);
     return createPackageScriptCommand(args, options);
   }
 
   if (type === 'mirror-assets') {
-    const args = ['assets:mirror', '--', '--missing', '--refresh-report'];
+    const args = ['assets:mirror', '--', '--missing', '--refresh-report', ...reportLanguageArgs()];
     const limit = normalizeLimit(body.limit);
     if (limit) args.push('--limit', limit);
     return createPackageScriptCommand(args, options);
   }
 
   if (type === 'refresh-report') {
-    return createPackageScriptCommand(['report:refresh'], options);
+    return createPackageScriptCommand(['report:refresh', '--', ...reportLanguageArgs()], options);
   }
 
   if (type === 'workflow') {
@@ -118,6 +123,7 @@ function buildIssueActionCommand(issue = {}, options = {}) {
       '--lang',
       language,
       '--refresh-report',
+      ...reportLanguageArgs(),
       '--prompt-id',
       issue.promptId,
       '--field-path',
@@ -133,6 +139,7 @@ function buildIssueActionCommand(issue = {}, options = {}) {
       '--',
       '--missing',
       '--refresh-report',
+      ...reportLanguageArgs(),
       '--prompt-id',
       issue.promptId,
       '--asset-id',

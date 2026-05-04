@@ -18,7 +18,7 @@
 
 body {
   margin: 0;
-  min-width: 980px;
+  min-width: 1460px;
   background: var(--paper);
   color: var(--ink);
   font-family: "Segoe UI", Candara, Calibri, sans-serif;
@@ -68,14 +68,14 @@ label {
 }
 
 .shell {
-  padding: 18px;
+  width: 100%;
+  padding: 18px 24px;
 }
 
 .topbar,
 .metrics,
 .workspace {
-  max-width: 1500px;
-  margin: 0 auto;
+  width: 100%;
 }
 
 .topbar {
@@ -150,7 +150,7 @@ h2 {
 
 .workspace {
   display: grid;
-  grid-template-columns: 260px minmax(0, 1fr) 320px;
+  grid-template-columns: 260px minmax(520px, 1fr) 640px;
   gap: 12px;
   margin-top: 12px;
   align-items: start;
