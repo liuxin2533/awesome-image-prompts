@@ -1,22 +1,32 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const os = require('node:os');
+const path = require('node:path');
 
-const { buildActionCommand, buildIssueActionCommand, createActionRunner } = require('../../scripts/workbench/actions');
+const {
+  buildActionCommand,
+  buildIssueActionCommand,
+  createActionRunner,
+  createPackageScriptCommand
+} = require('../../scripts/workbench/actions');
 
 test('buildActionCommand only creates whitelisted maintenance commands', () => {
-  assert.deepEqual(buildActionCommand('translate', { language: 'zh-CN', limit: 12 }), {
+  const options = { platform: 'linux' };
+
+  assert.deepEqual(buildActionCommand('translate', { language: 'zh-CN', limit: 12 }, options), {
     command: 'pnpm',
     args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--limit', '12']
   });
-  assert.deepEqual(buildActionCommand('translate', { language: 'en' }), {
+  assert.deepEqual(buildActionCommand('translate', { language: 'en' }, options), {
     command: 'pnpm',
     args: ['translate', '--', '--missing', '--lang', 'en']
   });
-  assert.deepEqual(buildActionCommand('mirror-assets', { limit: 5 }), {
+  assert.deepEqual(buildActionCommand('mirror-assets', { limit: 5 }, options), {
     command: 'pnpm',
     args: ['assets:mirror', '--', '--missing', '--limit', '5']
   });
-  assert.deepEqual(buildActionCommand('workflow', {}), {
+  assert.deepEqual(buildActionCommand('workflow', {}, options), {
     command: 'pnpm',
     args: ['workflow', '--', '--mode', 'local', '--target-languages', 'en,zh-CN', '--catalog-languages', 'en,zh-CN', '--strict']
   });
@@ -29,12 +39,14 @@ test('buildActionCommand rejects unsupported actions, languages, and limits', ()
 });
 
 test('buildIssueActionCommand creates single-issue translation and asset commands', () => {
+  const options = { platform: 'linux' };
+
   assert.deepEqual(buildIssueActionCommand({
     code: 'missing_translation',
     promptId: 'prompt_one',
     fieldPath: 'title.translations.zh-CN',
     resolutionCommand: 'pnpm translate -- --missing --lang zh-CN'
-  }), {
+  }, options), {
     command: 'pnpm',
     args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--prompt-id', 'prompt_one', '--field-path', 'title.translations.zh-CN']
   });
@@ -43,9 +55,27 @@ test('buildIssueActionCommand creates single-issue translation and asset command
     code: 'asset_not_cached',
     promptId: 'prompt_two',
     fieldPath: 'assets.asset_123.localPath'
-  }), {
+  }, options), {
     command: 'pnpm',
     args: ['assets:mirror', '--', '--missing', '--prompt-id', 'prompt_two', '--asset-id', 'asset_123']
+  });
+});
+
+test('createPackageScriptCommand resolves pnpm to its Node CLI on Windows', () => {
+  const packageRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-pnpm-'));
+  const cliPath = path.join(packageRoot, 'node_modules', 'pnpm', 'bin', 'pnpm.cjs');
+  fs.mkdirSync(path.dirname(cliPath), { recursive: true });
+  fs.writeFileSync(path.join(packageRoot, 'pnpm.cmd'), '@echo off\n', 'utf-8');
+  fs.writeFileSync(cliPath, '#!/usr/bin/env node\n', 'utf-8');
+
+  assert.deepEqual(createPackageScriptCommand(['translate', '--', '--missing'], {
+    env: { Path: packageRoot },
+    execPath: 'C:\\node\\node.exe',
+    platform: 'win32'
+  }), {
+    command: 'C:\\node\\node.exe',
+    args: [cliPath, 'translate', '--', '--missing'],
+    displayArgs: ['translate', '--', '--missing']
   });
 });
 

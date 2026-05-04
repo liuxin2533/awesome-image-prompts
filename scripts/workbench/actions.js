@@ -1,4 +1,6 @@
 const { spawn } = require('child_process');
+const fs = require('fs');
+const path = require('path');
 const { defaultProjectRoot } = require('./config');
 
 const SUPPORTED_TRANSLATION_LANGUAGES = new Set(['en', 'zh-CN']);
@@ -12,9 +14,41 @@ function normalizeLimit(value) {
   return String(number);
 }
 
-function buildActionCommand(type, body = {}) {
+function pathValue(env = process.env) {
+  return env.Path || env.PATH || '';
+}
+
+function resolveWindowsPnpmCli(env = process.env) {
+  for (const directory of pathValue(env).split(path.delimiter).filter(Boolean)) {
+    const commandPath = path.join(directory, 'pnpm.cmd');
+    if (!fs.existsSync(commandPath)) continue;
+
+    const cliPath = path.join(directory, 'node_modules', 'pnpm', 'bin', 'pnpm.cjs');
+    if (fs.existsSync(cliPath)) return cliPath;
+  }
+
+  return null;
+}
+
+function createPackageScriptCommand(args, options = {}) {
+  const platform = options.platform || process.platform;
+  if (platform !== 'win32') return { command: 'pnpm', args };
+
+  const cliPath = resolveWindowsPnpmCli(options.env || process.env);
+  if (!cliPath) {
+    throw new Error('Unable to locate pnpm CLI. Make sure pnpm is installed and available on PATH.');
+  }
+
+  return {
+    command: options.execPath || process.execPath,
+    args: [cliPath, ...args],
+    displayArgs: args
+  };
+}
+
+function buildActionCommand(type, body = {}, options = {}) {
   if (type === 'issue') {
-    return buildIssueActionCommand(body.issue);
+    return buildIssueActionCommand(body.issue, options);
   }
 
   if (type === 'translate') {
@@ -25,21 +59,28 @@ function buildActionCommand(type, body = {}) {
     const args = ['translate', '--', '--missing', '--lang', language];
     const limit = normalizeLimit(body.limit);
     if (limit) args.push('--limit', limit);
-    return { command: 'pnpm', args };
+    return createPackageScriptCommand(args, options);
   }
 
   if (type === 'mirror-assets') {
     const args = ['assets:mirror', '--', '--missing'];
     const limit = normalizeLimit(body.limit);
     if (limit) args.push('--limit', limit);
-    return { command: 'pnpm', args };
+    return createPackageScriptCommand(args, options);
   }
 
   if (type === 'workflow') {
-    return {
-      command: 'pnpm',
-      args: ['workflow', '--', '--mode', 'local', '--target-languages', 'en,zh-CN', '--catalog-languages', 'en,zh-CN', '--strict']
-    };
+    return createPackageScriptCommand([
+      'workflow',
+      '--',
+      '--mode',
+      'local',
+      '--target-languages',
+      'en,zh-CN',
+      '--catalog-languages',
+      'en,zh-CN',
+      '--strict'
+    ], options);
   }
 
   throw new Error(`Unsupported action: ${type}`);
@@ -57,7 +98,7 @@ function assetIdFromFieldPath(fieldPath) {
   return match ? match[1] : null;
 }
 
-function buildIssueActionCommand(issue = {}) {
+function buildIssueActionCommand(issue = {}, options = {}) {
   if (!issue.promptId) throw new Error('Cannot fix a single issue without a prompt id.');
 
   if (issue.code === 'missing_translation') {
@@ -66,19 +107,31 @@ function buildIssueActionCommand(issue = {}) {
       throw new Error(`Unsupported language: ${language}`);
     }
     if (!issue.fieldPath) throw new Error('Cannot fix a translation issue without a field path.');
-    return {
-      command: 'pnpm',
-      args: ['translate', '--', '--missing', '--lang', language, '--prompt-id', issue.promptId, '--field-path', issue.fieldPath]
-    };
+    return createPackageScriptCommand([
+      'translate',
+      '--',
+      '--missing',
+      '--lang',
+      language,
+      '--prompt-id',
+      issue.promptId,
+      '--field-path',
+      issue.fieldPath
+    ], options);
   }
 
   if (issue.code === 'asset_not_cached') {
     const assetId = assetIdFromFieldPath(issue.fieldPath);
     if (!assetId) throw new Error('Cannot fix an asset issue without an asset id.');
-    return {
-      command: 'pnpm',
-      args: ['assets:mirror', '--', '--missing', '--prompt-id', issue.promptId, '--asset-id', assetId]
-    };
+    return createPackageScriptCommand([
+      'assets:mirror',
+      '--',
+      '--missing',
+      '--prompt-id',
+      issue.promptId,
+      '--asset-id',
+      assetId
+    ], options);
   }
 
   throw new Error(`No automatic fix is available for ${issue.code || 'this issue'}.`);
@@ -133,7 +186,7 @@ function createActionRunner(options = {}) {
       id,
       type,
       command: commandSpec.command,
-      args: commandSpec.args,
+      args: commandSpec.displayArgs || commandSpec.args,
       status: 'running',
       startedAt: new Date().toISOString(),
       finishedAt: null,
@@ -187,6 +240,7 @@ function createActionRunner(options = {}) {
 module.exports = {
   buildActionCommand,
   buildIssueActionCommand,
+  createPackageScriptCommand,
   createActionRunner,
   runSpawnedCommand
 };
