@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "2026-05-04",
+  "generatedAt": "2026-05-04T14:49:54.324Z",
+  "defaultLanguage": "en",
+  "languages": [
+    "en",
+    "zh-CN"
+  ],
+  "totalCount": 731,
+  "sourceCount": {
+    "EvoLinkAI/awesome-gpt-image-2-prompts": 303,
+    "YouMind-OpenLab/awesome-gpt-image-2": 126,
+    "freestylefly/awesome-gpt-image-2": 358
+  },
+  "files": {
+    "prompts": {
+      "en": "prompts.en.json",
+      "zh-CN": "prompts.zh-CN.json"
+    },
+    "search": {
+      "en": "search.en.json",
+      "zh-CN": "search.zh-CN.json"
+    },
+    "taxonomy": "taxonomy.json"
+  }
+}

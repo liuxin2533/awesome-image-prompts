@@ -1,0 +1,12 @@
+require('./ingestion/text.test');
+require('./ingestion/schema.test');
+require('./ingestion/markdown.test');
+require('./ingestion/sources.test');
+require('./ingestion/merge.test');
+require('./ingestion/cli.test');
+require('./ingestion/translation.test');
+require('./ingestion/assets.test');
+require('./catalog/collections.test');
+require('./catalog/export.test');
+require('./catalog/workflow.test');
+require('./readme/generate.test');

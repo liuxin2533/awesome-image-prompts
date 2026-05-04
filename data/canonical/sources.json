@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "2026-05-04",
+  "generatedAt": "2026-05-04T14:49:53.995Z",
+  "sources": [
+    {
+      "key": "evolink",
+      "name": "EvoLinkAI",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "count": 299
+    },
+    {
+      "key": "freestylefly",
+      "name": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "count": 338
+    },
+    {
+      "key": "youmind",
+      "name": "YouMind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "count": 126
+    }
+  ]
+}
