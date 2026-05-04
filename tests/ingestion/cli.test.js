@@ -11,7 +11,7 @@ function write(filePath, content) {
   fs.writeFileSync(filePath, content, 'utf-8');
 }
 
-test('runIngest writes canonical data, reports, and compatibility prompts', async () => {
+test('runIngest writes canonical data and reports only', async () => {
   const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'awesome-image-prompts-'));
 
   write(path.join(projectRoot, 'upstream/evolink/README.md'), [
@@ -66,10 +66,14 @@ test('runIngest writes canonical data, reports, and compatibility prompts', asyn
   assert.equal(result.dataset.totalCount, 2);
   assert.equal(result.dataset.prompts.find(prompt => prompt.promptText.original.value === 'Same Prompt').sources.length, 2);
   assert.equal(fs.existsSync(path.join(projectRoot, 'data/canonical/prompts.json')), true);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/canonical/categories.json')), true);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/canonical/assets.json')), true);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/canonical/sources.json')), true);
   assert.equal(fs.existsSync(path.join(projectRoot, 'data/reports/latest.md')), true);
   assert.equal(result.report.issues.some(issue => issue.code === 'asset_not_cached'), true);
-
-  const compatibility = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/prompts.json'), 'utf-8'));
-  assert.equal(compatibility.totalCount, 2);
-  assert.equal(compatibility.data[0].sourceReferences.length >= 1, true);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/prompts.json')), false);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/categories.json')), false);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/evolink.json')), false);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/freestylefly.json')), false);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/youmind.json')), false);
 });

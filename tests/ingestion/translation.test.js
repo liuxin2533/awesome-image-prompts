@@ -76,6 +76,8 @@ test('translateMissing fills missing field, category, and tag translations with 
   assert.equal(prompt.description.translations['zh-CN'].value, '[zh-CN] A poster prompt');
   assert.equal(prompt.categories.some(category => category.language === 'zh-CN' && category.source === 'ai' && category.translationOf === 'poster'), true);
   assert.equal(prompt.tags.some(tag => tag.language === 'zh-CN' && tag.source === 'ai' && tag.translationOf === 'cinematic'), true);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/prompts.json')), false);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/categories.json')), false);
 });
 
 test('translateMissing skips existing upstream translations unless force is true', async () => {

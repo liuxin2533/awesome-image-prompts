@@ -50,58 +50,6 @@ function buildAssets(prompts) {
   return (prompts || []).flatMap(prompt => (prompt.assets || []).map(asset => ({ ...asset, promptId: prompt.id })));
 }
 
-function toCompatibilityPrompt(prompt) {
-  const firstSource = prompt.sources?.[0] || {};
-  const firstAsset = prompt.assets?.[0] || {};
-
-  return {
-    id: prompt.id,
-    title: prompt.title?.original?.value || 'Untitled',
-    titleTranslations: Object.fromEntries(
-      Object.entries(prompt.title?.translations || {}).map(([language, value]) => [language, value.value])
-    ),
-    originalText: prompt.promptText?.original?.value || '',
-    textTranslations: Object.fromEntries(
-      Object.entries(prompt.promptText?.translations || {}).map(([language, value]) => [language, value.value])
-    ),
-    description: prompt.description?.original?.value || '',
-    descriptionTranslations: Object.fromEntries(
-      Object.entries(prompt.description?.translations || {}).map(([language, value]) => [language, value.value])
-    ),
-    categories: (prompt.categories || []).map(category => category.value),
-    categoryTranslations: {},
-    tags: (prompt.tags || []).map(tag => tag.value),
-    tagTranslations: {},
-    source: {
-      repo: firstSource.repo,
-      url: firstSource.url,
-      originalId: firstSource.originalId
-    },
-    sourceReferences: prompt.sources || [],
-    author: firstSource.authors?.[0]?.name || 'Unknown',
-    authorUrl: firstSource.authors?.[0]?.url || null,
-    imageUrl: firstAsset.upstreamUrl || null,
-    localImagePaths: (prompt.assets || []).map(asset => asset.localPath),
-    assets: prompt.assets || [],
-    extraFields: {
-      canonicalId: prompt.id,
-      sourceCount: (prompt.sources || []).length,
-      contentHash: prompt.contentHash
-    },
-    addedAt: prompt.addedAt,
-    updatedAt: prompt.updatedAt
-  };
-}
-
-function buildCompatibilityDataset(prompts) {
-  return {
-    generatedAt: new Date().toISOString(),
-    totalCount: (prompts || []).length,
-    sourceCount: sourceCount(prompts || []),
-    data: (prompts || []).map(toCompatibilityPrompt)
-  };
-}
-
 function refreshDatasetMetadata(dataset) {
   dataset.generatedAt = new Date().toISOString();
   dataset.totalCount = dataset.prompts.length;
@@ -113,9 +61,8 @@ function refreshDatasetMetadata(dataset) {
 function writeDerivedData(projectRoot, dataset, report = null) {
   refreshDatasetMetadata(dataset);
 
-  const dataDir = path.join(projectRoot, 'data');
-  const canonicalDir = path.join(dataDir, 'canonical');
-  const reportsDir = path.join(dataDir, 'reports');
+  const canonicalDir = path.join(projectRoot, 'data', 'canonical');
+  const reportsDir = path.join(projectRoot, 'data', 'reports');
   const categories = buildCategories(dataset.prompts);
 
   writeJson(path.join(canonicalDir, 'prompts.json'), dataset);
@@ -128,13 +75,6 @@ function writeDerivedData(projectRoot, dataset, report = null) {
     schemaVersion: dataset.schemaVersion,
     generatedAt: dataset.generatedAt,
     assets: buildAssets(dataset.prompts)
-  });
-
-  writeJson(path.join(dataDir, 'prompts.json'), buildCompatibilityDataset(dataset.prompts));
-  writeJson(path.join(dataDir, 'categories.json'), {
-    categories: categories.map(category => category.value),
-    categoryTranslations: {},
-    lastUpdated: dataset.generatedAt
   });
 
   if (report) {
@@ -152,8 +92,6 @@ module.exports = {
   languageSet,
   buildCategories,
   buildAssets,
-  buildCompatibilityDataset,
   refreshDatasetMetadata,
   writeDerivedData
 };
-

@@ -73,62 +73,9 @@ function buildAssets(prompts) {
   return prompts.flatMap(prompt => (prompt.assets || []).map(asset => ({ ...asset, promptId: prompt.id })));
 }
 
-function toCompatibilityPrompt(prompt) {
-  const firstSource = prompt.sources[0] || {};
-  const firstAsset = prompt.assets[0] || {};
-
-  return {
-    id: prompt.id,
-    title: prompt.title.original?.value || 'Untitled',
-    titleTranslations: Object.fromEntries(
-      Object.entries(prompt.title.translations || {}).map(([language, value]) => [language, value.value])
-    ),
-    originalText: prompt.promptText.original?.value || '',
-    textTranslations: Object.fromEntries(
-      Object.entries(prompt.promptText.translations || {}).map(([language, value]) => [language, value.value])
-    ),
-    description: prompt.description.original?.value || '',
-    descriptionTranslations: Object.fromEntries(
-      Object.entries(prompt.description.translations || {}).map(([language, value]) => [language, value.value])
-    ),
-    categories: (prompt.categories || []).map(category => category.value),
-    categoryTranslations: {},
-    tags: (prompt.tags || []).map(tag => tag.value),
-    tagTranslations: {},
-    source: {
-      repo: firstSource.repo,
-      url: firstSource.url,
-      originalId: firstSource.originalId
-    },
-    sourceReferences: prompt.sources,
-    author: firstSource.authors?.[0]?.name || 'Unknown',
-    authorUrl: firstSource.authors?.[0]?.url || null,
-    imageUrl: firstAsset.upstreamUrl || null,
-    localImagePaths: (prompt.assets || []).map(asset => asset.localPath),
-    assets: prompt.assets,
-    extraFields: {
-      canonicalId: prompt.id,
-      sourceCount: (prompt.sources || []).length,
-      contentHash: prompt.contentHash
-    },
-    addedAt: prompt.addedAt,
-    updatedAt: prompt.updatedAt
-  };
-}
-
-function buildCompatibilityDataset(prompts) {
-  return {
-    generatedAt: new Date().toISOString(),
-    totalCount: prompts.length,
-    sourceCount: sourceCount(prompts),
-    data: prompts.map(toCompatibilityPrompt)
-  };
-}
-
 function writeOutputs(projectRoot, dataset, sourceDatasets, report) {
-  const dataDir = path.join(projectRoot, 'data');
-  const canonicalDir = path.join(dataDir, 'canonical');
-  const reportsDir = path.join(dataDir, 'reports');
+  const canonicalDir = path.join(projectRoot, 'data', 'canonical');
+  const reportsDir = path.join(projectRoot, 'data', 'reports');
 
   writeJson(path.join(canonicalDir, 'prompts.json'), dataset);
   writeJson(path.join(canonicalDir, 'sources.json'), {
@@ -151,23 +98,6 @@ function writeOutputs(projectRoot, dataset, sourceDatasets, report) {
     generatedAt: dataset.generatedAt,
     assets: buildAssets(dataset.prompts)
   });
-
-  const compatibilityDataset = buildCompatibilityDataset(dataset.prompts);
-  writeJson(path.join(dataDir, 'prompts.json'), compatibilityDataset);
-  writeJson(path.join(dataDir, 'categories.json'), {
-    categories: buildCategories(dataset.prompts).map(category => category.value),
-    categoryTranslations: {},
-    lastUpdated: dataset.generatedAt
-  });
-
-  for (const [sourceKey, prompts] of Object.entries(sourceDatasets)) {
-    writeJson(path.join(dataDir, `${sourceKey}.json`), {
-      source: SOURCES[sourceKey]?.config.repo || sourceKey,
-      generatedAt: dataset.generatedAt,
-      count: prompts.length,
-      data: prompts.map(toCompatibilityPrompt)
-    });
-  }
 
   writeJson(path.join(reportsDir, 'latest.json'), report.toJSON());
   ensureDir(reportsDir);

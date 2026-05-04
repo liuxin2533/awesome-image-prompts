@@ -74,6 +74,8 @@ test('mirrorMissingAssets downloads pending assets and updates canonical status'
 
   const assets = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/canonical/assets.json'), 'utf-8'));
   assert.equal(assets.assets[0].status, 'cached');
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/prompts.json')), false);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/categories.json')), false);
 });
 
 test('mirrorMissingAssets records failed downloads without aborting tolerant runs', async () => {
