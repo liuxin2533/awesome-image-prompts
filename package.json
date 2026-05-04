@@ -9,6 +9,7 @@
     "assets:mirror": "node scripts/ingestion/assets.js mirror",
     "catalog:export": "node scripts/catalog/export.js",
     "readme:generate": "node scripts/readme/generate.js",
+    "workbench": "node scripts/workbench/server.js",
     "test": "node tests/run-ingestion-tests.js",
     "scrape": "node scripts/ingestion/cli.js ingest",
     "scrape:all": "node scripts/ingestion/cli.js ingest",

@@ -4,6 +4,7 @@ const path = require('path');
 const { Report } = require('./core/report');
 const { normalizeLanguageCode, slugify, contentHash } = require('./core/text');
 const { readJson, writeDerivedData } = require('./core/persist');
+const { loadProjectEnv } = require('../workbench/config');
 
 const FIELD_NAMES = ['promptText', 'title', 'description', 'categories', 'tags'];
 
@@ -114,17 +115,19 @@ function applyTranslation(task, translatedText) {
   return true;
 }
 
-function createDeepSeekProvider(options = {}) {
-  const apiKey = options.apiKey || process.env.DEEPSEEK_API_KEY || process.env.AI_TRANSLATION_API_KEY;
-  const model = options.model || process.env.DEEPSEEK_MODEL || process.env.AI_TRANSLATION_MODEL || 'deepseek-chat';
-  const baseUrl = (options.baseUrl || process.env.DEEPSEEK_BASE_URL || process.env.AI_TRANSLATION_BASE_URL || 'https://api.deepseek.com').replace(/\/$/, '');
+function createZhipuProvider(options = {}) {
+  const env = options.env || process.env;
+  const fetchImpl = options.fetch || fetch;
+  const apiKey = options.apiKey || env.ZHIPUAI_API_KEY || env.AI_TRANSLATION_API_KEY;
+  const model = options.model || env.ZHIPUAI_MODEL || env.AI_TRANSLATION_MODEL || 'glm-4.5-flash';
+  const baseUrl = (options.baseUrl || env.ZHIPUAI_BASE_URL || env.AI_TRANSLATION_BASE_URL || 'https://open.bigmodel.cn/api/paas/v4').replace(/\/$/, '');
 
   if (!apiKey) {
-    throw new Error('Missing DEEPSEEK_API_KEY or AI_TRANSLATION_API_KEY for translation.');
+    throw new Error('Missing ZHIPUAI_API_KEY or AI_TRANSLATION_API_KEY for translation.');
   }
 
-  return async function deepSeekProvider(request) {
-    const response = await fetch(`${baseUrl}/chat/completions`, {
+  return async function zhipuProvider(request) {
+    const response = await fetchImpl(`${baseUrl}/chat/completions`, {
       method: 'POST',
       headers: {
         'content-type': 'application/json',
@@ -133,6 +136,7 @@ function createDeepSeekProvider(options = {}) {
       body: JSON.stringify({
         model,
         temperature: 0.2,
+        stream: false,
         messages: [
           {
             role: 'system',
@@ -159,6 +163,10 @@ function createDeepSeekProvider(options = {}) {
   };
 }
 
+function createDeepSeekProvider(options = {}) {
+  return createZhipuProvider(options);
+}
+
 async function translateMissing(options = {}) {
   const projectRoot = options.projectRoot || defaultProjectRoot();
   const datasetPath = path.join(projectRoot, 'data', 'canonical', 'prompts.json');
@@ -168,7 +176,8 @@ async function translateMissing(options = {}) {
   const report = options.report || new Report();
   const limit = Number.isFinite(options.limit) ? options.limit : Infinity;
   const dryRun = Boolean(options.dryRun);
-  const provider = options.provider || (dryRun ? async () => '' : createDeepSeekProvider(options.providerOptions));
+  if (!dryRun && !options.provider) loadProjectEnv(projectRoot);
+  const provider = options.provider || (dryRun ? async () => '' : createZhipuProvider(options.providerOptions));
 
   const tasks = buildTasks(dataset, languages, fields).slice(0, limit);
   let translatedCount = 0;
@@ -273,6 +282,7 @@ module.exports = {
   FIELD_NAMES,
   buildTasks,
   translateMissing,
+  createZhipuProvider,
   createDeepSeekProvider,
   parseArgs,
   main

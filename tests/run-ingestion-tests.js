@@ -10,3 +10,7 @@ require('./catalog/collections.test');
 require('./catalog/export.test');
 require('./catalog/workflow.test');
 require('./readme/generate.test');
+require('./workbench/config.test');
+require('./workbench/report.test');
+require('./workbench/actions.test');
+require('./workbench/server.test');

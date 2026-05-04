@@ -4,7 +4,8 @@ const fs = require('node:fs');
 const os = require('node:os');
 const path = require('node:path');
 
-const { parseArgs, translateMissing } = require('../../scripts/ingestion/translation');
+const { createZhipuProvider, parseArgs, translateMissing } = require('../../scripts/ingestion/translation');
+const { loadProjectEnv } = require('../../scripts/workbench/config');
 
 function writeJson(filePath, data) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
@@ -109,4 +110,74 @@ test('translation parseArgs accepts report resolution command flags', () => {
   assert.deepEqual(args.languages, ['zh-CN']);
   assert.deepEqual(args.fields, ['title', 'tags']);
   assert.equal(args.limit, 12);
+});
+
+test('createZhipuProvider sends OpenAI-compatible chat completions to Zhipu', async () => {
+  const calls = [];
+  const provider = createZhipuProvider({
+    env: {
+      ZHIPUAI_API_KEY: 'zhipu-secret',
+      ZHIPUAI_BASE_URL: 'https://zhipu.local/api/paas/v4',
+      ZHIPUAI_MODEL: 'glm-test'
+    },
+    fetch: async (url, init) => {
+      calls.push({ url, init, body: JSON.parse(init.body) });
+      return {
+        ok: true,
+        json: async () => ({ choices: [{ message: { content: '  translated text  ' } }] })
+      };
+    }
+  });
+
+  const translated = await provider({
+    sourceLanguage: 'en',
+    targetLanguage: 'zh-CN',
+    fieldPath: 'title.translations.zh-CN',
+    text: 'Poster prompt'
+  });
+
+  assert.equal(translated, 'translated text');
+  assert.equal(calls[0].url, 'https://zhipu.local/api/paas/v4/chat/completions');
+  assert.equal(calls[0].init.headers.authorization, 'Bearer zhipu-secret');
+  assert.equal(calls[0].body.model, 'glm-test');
+  assert.equal(calls[0].body.stream, false);
+  assert.equal(calls[0].body.messages[0].role, 'system');
+  assert.match(calls[0].body.messages[1].content, /Translate from en to zh-CN/);
+});
+
+test('createZhipuProvider falls back to generic AI translation settings', async () => {
+  const provider = createZhipuProvider({
+    env: {
+      AI_TRANSLATION_API_KEY: 'fallback-secret',
+      AI_TRANSLATION_BASE_URL: 'https://fallback.local/v4',
+      AI_TRANSLATION_MODEL: 'fallback-model'
+    },
+    fetch: async (url, init) => {
+      assert.equal(url, 'https://fallback.local/v4/chat/completions');
+      assert.equal(init.headers.authorization, 'Bearer fallback-secret');
+      assert.equal(JSON.parse(init.body).model, 'fallback-model');
+      return {
+        ok: true,
+        json: async () => ({ choices: [{ message: { content: 'Fallback result' } }] })
+      };
+    }
+  });
+
+  assert.equal(await provider({ sourceLanguage: 'en', targetLanguage: 'zh-CN', fieldPath: 'title', text: 'Poster' }), 'Fallback result');
+});
+
+test('loadProjectEnv reads local .env without overwriting existing process values', () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'zhipu-env-'));
+  fs.writeFileSync(path.join(projectRoot, '.env'), [
+    'ZHIPUAI_API_KEY=from-file',
+    'ZHIPUAI_MODEL=glm-from-file',
+    'AI_TRANSLATION_MODEL=generic-from-file'
+  ].join('\n'), 'utf-8');
+
+  const env = { ZHIPUAI_API_KEY: 'from-process' };
+  loadProjectEnv(projectRoot, env);
+
+  assert.equal(env.ZHIPUAI_API_KEY, 'from-process');
+  assert.equal(env.ZHIPUAI_MODEL, 'glm-from-file');
+  assert.equal(env.AI_TRANSLATION_MODEL, 'generic-from-file');
 });

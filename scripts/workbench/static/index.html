@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Prompt Catalog Workbench</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Local operations</p>
+          <h1>Prompt Catalog Workbench</h1>
+        </div>
+        <button id="refresh" type="button">Refresh</button>
+      </header>
+
+      <section class="metrics" aria-label="Report summary">
+        <div class="metric error"><span>Errors</span><strong id="metric-errors">0</strong></div>
+        <div class="metric warning"><span>Warnings</span><strong id="metric-warnings">0</strong></div>
+        <div class="metric info"><span>Info</span><strong id="metric-info">0</strong></div>
+        <div class="metric"><span>Generated</span><strong id="metric-generated">-</strong></div>
+      </section>
+
+      <section class="workspace">
+        <aside class="panel controls">
+          <h2>Filters</h2>
+          <label>
+            Search
+            <input id="filter-text" type="search" placeholder="prompt, field, message">
+          </label>
+          <label>
+            Severity
+            <select id="filter-severity"></select>
+          </label>
+          <label>
+            Code
+            <select id="filter-code"></select>
+          </label>
+          <label>
+            Resolution
+            <select id="filter-resolution"></select>
+          </label>
+
+          <h2>AI config</h2>
+          <label>
+            API key
+            <input id="ai-key" type="password" autocomplete="off" placeholder="ZHIPUAI_API_KEY">
+          </label>
+          <label>
+            Base URL
+            <input id="ai-base-url" type="url">
+          </label>
+          <label>
+            Model
+            <input id="ai-model" type="text">
+          </label>
+          <div class="button-row">
+            <button id="save-config" type="button">Save</button>
+            <button id="test-config" type="button">Test</button>
+          </div>
+          <p id="config-status" class="muted">Loading config...</p>
+        </aside>
+
+        <section class="panel issue-panel">
+          <div class="panel-head">
+            <h2>Issues</h2>
+            <span id="issue-count" class="muted">0 shown</span>
+          </div>
+          <div class="issue-table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Severity</th>
+                  <th>Code</th>
+                  <th>Prompt</th>
+                  <th>Field</th>
+                  <th>Message</th>
+                </tr>
+              </thead>
+              <tbody id="issues"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <aside class="panel actions">
+          <h2>Actions</h2>
+          <label>
+            Limit
+            <input id="action-limit" type="number" min="1" step="1" placeholder="optional">
+          </label>
+          <button data-action="translate" data-language="zh-CN" type="button">Translate zh-CN</button>
+          <button data-action="translate" data-language="en" type="button">Translate en</button>
+          <button data-action="mirror-assets" type="button">Mirror assets</button>
+          <button data-action="workflow" type="button">Run workflow</button>
+
+          <h2>Detail</h2>
+          <pre id="issue-detail">Select an issue.</pre>
+
+          <h2>Run log</h2>
+          <pre id="run-log">No action has run in this session.</pre>
+        </aside>
+      </section>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>
