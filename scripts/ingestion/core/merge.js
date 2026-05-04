@@ -1,13 +1,19 @@
 const { uniqueBy } = require('./text');
 
+function comparableText(value) {
+  return String(value || '').replace(/\r\n/g, '\n').replace(/\r/g, '\n').trim();
+}
+
 function mergeLocalizedField(target, incoming) {
   if (!target.original?.value && incoming.original?.value) {
     target.original = incoming.original;
   }
 
+  const originalText = comparableText(target.original?.value);
   target.translations = target.translations || {};
   for (const [language, value] of Object.entries(incoming.translations || {})) {
     if (!target.translations[language]?.value && value?.value) {
+      if (originalText && comparableText(value.value) === originalText) continue;
       target.translations[language] = value;
     }
   }
@@ -70,4 +76,3 @@ function mergePrompts(prompts) {
 }
 
 module.exports = { mergePrompts };
-

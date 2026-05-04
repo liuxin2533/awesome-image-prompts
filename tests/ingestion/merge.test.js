@@ -69,6 +69,44 @@ test('normalizeRawRecord preserves upstream translations and marks missing targe
   assert.equal(report.issues.some(issue => issue.code === 'missing_translation' && issue.fieldPath === 'promptText.translations.ja-JP'), true);
 });
 
+test('normalizeRawRecord ignores upstream translations that repeat the original text', () => {
+  const report = new Report();
+  const prompt = normalizeRawRecord(rawRecord('evolink', 'Prompt', {
+    localized: {
+      en: { title: 'English title', description: 'English description', promptText: 'Prompt' },
+      'zh-CN': { title: 'English title', description: 'English description', promptText: 'Prompt' },
+      de: { title: 'Deutscher Titel', description: 'Deutsche Beschreibung', promptText: 'Aufforderung' }
+    }
+  }), { targetLanguages: ['en', 'zh-CN', 'de'], report });
+
+  assert.equal(prompt.promptText.translations['zh-CN'], undefined);
+  assert.equal(prompt.title.translations['zh-CN'], undefined);
+  assert.equal(prompt.description.translations['zh-CN'], undefined);
+  assert.equal(prompt.promptText.translations.de.value, 'Aufforderung');
+  assert.equal(prompt.title.translations.de.value, 'Deutscher Titel');
+  assert.equal(report.issues.some(issue => issue.code === 'missing_translation' && issue.fieldPath === 'promptText.translations.zh-CN'), true);
+});
+
+test('mergePrompts ignores translations that repeat the merged original text', () => {
+  const first = normalizeRawRecord(rawRecord('a', 'Prompt', {
+    localized: {
+      en: { title: 'Shared English Title', description: 'English description', promptText: 'Prompt' }
+    }
+  }));
+  const second = normalizeRawRecord(rawRecord('b', 'prompt', {
+    localized: {
+      en: { title: 'Other English Title', description: 'Other description', promptText: 'prompt' },
+      de: { title: 'Shared English Title', description: 'Andere Beschreibung', promptText: 'Aufforderung' }
+    }
+  }));
+
+  const [merged] = mergePrompts([first, second]);
+
+  assert.equal(merged.title.translations.de, undefined);
+  assert.equal(merged.promptText.translations.de.value, 'Aufforderung');
+  assert.equal(merged.description.translations.de.value, 'Andere Beschreibung');
+});
+
 test('Report serializes human and machine readable actionable issues', () => {
   const report = new Report();
   report.warn({
@@ -83,4 +121,3 @@ test('Report serializes human and machine readable actionable issues', () => {
   assert.equal(report.toJSON().summary.warning, 1);
   assert.match(report.toMarkdown(), /pnpm assets:mirror --missing/);
 });
-

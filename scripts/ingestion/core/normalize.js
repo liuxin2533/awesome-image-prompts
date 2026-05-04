@@ -16,6 +16,10 @@ function localizedValue(language, value, source = 'upstream') {
   };
 }
 
+function comparableText(value) {
+  return String(value || '').replace(/\r\n/g, '\n').replace(/\r/g, '\n').trim();
+}
+
 function pickPrimaryLanguage(localized, preferred) {
   const normalized = {};
   for (const [language, value] of Object.entries(localized || {})) {
@@ -31,12 +35,14 @@ function pickPrimaryLanguage(localized, preferred) {
 function fieldFromLocalized(localized, fieldName, primaryLanguage) {
   const originalSource = localized[primaryLanguage] || {};
   const originalValue = originalSource[fieldName] ? localizedValue(primaryLanguage, originalSource[fieldName], 'upstream') : null;
+  const originalText = comparableText(originalValue?.value);
   const translations = {};
 
   for (const [language, values] of Object.entries(localized)) {
     const normalizedLanguage = normalizeLanguageCode(language);
     if (normalizedLanguage === primaryLanguage) continue;
     if (!values?.[fieldName]) continue;
+    if (originalText && comparableText(values[fieldName]) === originalText) continue;
     translations[normalizedLanguage] = localizedValue(normalizedLanguage, values[fieldName], 'upstream');
   }
 
