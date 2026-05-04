@@ -33,3 +33,13 @@ test('writeAiConfig preserves unrelated .env keys and readAiConfig masks the key
   assert.equal(config.apiKey, undefined);
   assert.equal(config.model, 'glm-4.5-flash');
 });
+
+test('publish workflow uses Zhipu secrets instead of legacy provider names', () => {
+  const workflow = fs.readFileSync(path.join(__dirname, '..', '..', '.github', 'workflows', 'publish.yml'), 'utf-8');
+  const legacyProviderPattern = new RegExp(['DEEP', 'SEEK'].join(''), 'i');
+
+  assert.match(workflow, /ZHIPUAI_API_KEY/);
+  assert.match(workflow, /ZHIPUAI_BASE_URL/);
+  assert.match(workflow, /ZHIPUAI_MODEL/);
+  assert.doesNotMatch(workflow, legacyProviderPattern);
+});

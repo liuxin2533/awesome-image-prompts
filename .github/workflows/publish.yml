@@ -68,7 +68,9 @@ jobs:
       TRANSLATION_LANGUAGES: ${{ github.event.inputs.translation_languages || 'zh-CN' }}
       MIRROR_ASSETS: ${{ github.event.inputs.mirror_assets || 'false' }}
       STRICT: ${{ github.event.inputs.strict || 'true' }}
-      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      ZHIPUAI_API_KEY: ${{ secrets.ZHIPUAI_API_KEY }}
+      ZHIPUAI_BASE_URL: ${{ secrets.ZHIPUAI_BASE_URL }}
+      ZHIPUAI_MODEL: ${{ secrets.ZHIPUAI_MODEL }}
       AI_TRANSLATION_API_KEY: ${{ secrets.AI_TRANSLATION_API_KEY }}
       AI_TRANSLATION_BASE_URL: ${{ secrets.AI_TRANSLATION_BASE_URL }}
       AI_TRANSLATION_MODEL: ${{ secrets.AI_TRANSLATION_MODEL }}

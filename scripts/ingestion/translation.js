@@ -166,10 +166,6 @@ function createZhipuProvider(options = {}) {
   };
 }
 
-function createDeepSeekProvider(options = {}) {
-  return createZhipuProvider(options);
-}
-
 async function translateMissing(options = {}) {
   const projectRoot = options.projectRoot || defaultProjectRoot();
   const datasetPath = path.join(projectRoot, 'data', 'canonical', 'prompts.json');
@@ -304,7 +300,6 @@ module.exports = {
   buildTasks,
   translateMissing,
   createZhipuProvider,
-  createDeepSeekProvider,
   parseArgs,
   main
 };
