@@ -83,6 +83,14 @@ function createWorkbenchServer(options = {}) {
       if (request.method === 'POST' && url.pathname.startsWith('/api/actions/')) {
         const type = url.pathname.slice('/api/actions/'.length);
         const body = await readJsonBody(request);
+        if (type === 'issue') {
+          const report = readReport(projectRoot);
+          if (!Number.isInteger(body.index) || body.index < 0 || body.index >= report.issues.length) {
+            return sendJson(response, 400, { error: 'Issue index is invalid.' });
+          }
+          const record = runner.start('issue', { issue: report.issues[body.index] });
+          return sendJson(response, 202, record);
+        }
         const record = runner.start(type, body);
         return sendJson(response, 202, record);
       }

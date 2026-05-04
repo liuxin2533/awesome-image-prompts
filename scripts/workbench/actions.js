@@ -13,6 +13,10 @@ function normalizeLimit(value) {
 }
 
 function buildActionCommand(type, body = {}) {
+  if (type === 'issue') {
+    return buildIssueActionCommand(body.issue);
+  }
+
   if (type === 'translate') {
     const language = body.language;
     if (!SUPPORTED_TRANSLATION_LANGUAGES.has(language)) {
@@ -39,6 +43,45 @@ function buildActionCommand(type, body = {}) {
   }
 
   throw new Error(`Unsupported action: ${type}`);
+}
+
+function inferTranslationLanguage(issue) {
+  const commandMatch = String(issue?.resolutionCommand || '').match(/--lang\s+([^\s]+)/);
+  if (commandMatch) return commandMatch[1];
+  const fieldMatch = String(issue?.fieldPath || '').match(/(?:^|\.)(zh-CN|en)(?:$|\.)/);
+  return fieldMatch ? fieldMatch[1] : null;
+}
+
+function assetIdFromFieldPath(fieldPath) {
+  const match = String(fieldPath || '').match(/^assets\.([^.]+)\.localPath$/);
+  return match ? match[1] : null;
+}
+
+function buildIssueActionCommand(issue = {}) {
+  if (!issue.promptId) throw new Error('Cannot fix a single issue without a prompt id.');
+
+  if (issue.code === 'missing_translation') {
+    const language = inferTranslationLanguage(issue);
+    if (!SUPPORTED_TRANSLATION_LANGUAGES.has(language)) {
+      throw new Error(`Unsupported language: ${language}`);
+    }
+    if (!issue.fieldPath) throw new Error('Cannot fix a translation issue without a field path.');
+    return {
+      command: 'pnpm',
+      args: ['translate', '--', '--missing', '--lang', language, '--prompt-id', issue.promptId, '--field-path', issue.fieldPath]
+    };
+  }
+
+  if (issue.code === 'asset_not_cached') {
+    const assetId = assetIdFromFieldPath(issue.fieldPath);
+    if (!assetId) throw new Error('Cannot fix an asset issue without an asset id.');
+    return {
+      command: 'pnpm',
+      args: ['assets:mirror', '--', '--missing', '--prompt-id', issue.promptId, '--asset-id', assetId]
+    };
+  }
+
+  throw new Error(`No automatic fix is available for ${issue.code || 'this issue'}.`);
 }
 
 function appendBoundedLog(record, line, maxLogLines) {
@@ -143,6 +186,7 @@ function createActionRunner(options = {}) {
 
 module.exports = {
   buildActionCommand,
+  buildIssueActionCommand,
   createActionRunner,
   runSpawnedCommand
 };

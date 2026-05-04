@@ -27,7 +27,9 @@ function assetCandidates(dataset, options = {}) {
   const candidates = [];
 
   for (const prompt of dataset.prompts || []) {
+    if (options.promptId && prompt.id !== options.promptId) continue;
     for (const asset of prompt.assets || []) {
+      if (options.assetId && asset.id !== options.assetId) continue;
       if (!asset.upstreamUrl) continue;
       if (onlyMissing && asset.status === 'cached' && !force) continue;
       candidates.push({ prompt, asset });
@@ -56,7 +58,12 @@ async function mirrorMissingAssets(options = {}) {
   const dryRun = Boolean(options.dryRun);
   const strict = Boolean(options.strict);
   const limit = Number.isFinite(options.limit) ? options.limit : Infinity;
-  const candidates = assetCandidates(dataset, { force, missing: options.missing }).slice(0, limit);
+  const candidates = assetCandidates(dataset, {
+    force,
+    missing: options.missing,
+    promptId: options.promptId,
+    assetId: options.assetId
+  }).slice(0, limit);
 
   let cachedCount = 0;
   let skippedCount = 0;
@@ -156,6 +163,10 @@ function parseArgs(argv) {
       args.missing = false;
     } else if (arg === '--limit') {
       args.limit = Number(rest[++i]);
+    } else if (arg === '--prompt-id') {
+      args.promptId = rest[++i];
+    } else if (arg === '--asset-id') {
+      args.assetId = rest[++i];
     }
   }
 
@@ -183,4 +194,3 @@ module.exports = {
   parseArgs,
   main
 };
-

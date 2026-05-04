@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 
-const { buildActionCommand, createActionRunner } = require('../../scripts/workbench/actions');
+const { buildActionCommand, buildIssueActionCommand, createActionRunner } = require('../../scripts/workbench/actions');
 
 test('buildActionCommand only creates whitelisted maintenance commands', () => {
   assert.deepEqual(buildActionCommand('translate', { language: 'zh-CN', limit: 12 }), {
@@ -26,6 +26,33 @@ test('buildActionCommand rejects unsupported actions, languages, and limits', ()
   assert.throws(() => buildActionCommand('shell', { command: 'git status' }), /Unsupported action/);
   assert.throws(() => buildActionCommand('translate', { language: 'fr' }), /Unsupported language/);
   assert.throws(() => buildActionCommand('translate', { language: 'en', limit: 0 }), /positive integer/);
+});
+
+test('buildIssueActionCommand creates single-issue translation and asset commands', () => {
+  assert.deepEqual(buildIssueActionCommand({
+    code: 'missing_translation',
+    promptId: 'prompt_one',
+    fieldPath: 'title.translations.zh-CN',
+    resolutionCommand: 'pnpm translate -- --missing --lang zh-CN'
+  }), {
+    command: 'pnpm',
+    args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--prompt-id', 'prompt_one', '--field-path', 'title.translations.zh-CN']
+  });
+
+  assert.deepEqual(buildIssueActionCommand({
+    code: 'asset_not_cached',
+    promptId: 'prompt_two',
+    fieldPath: 'assets.asset_123.localPath'
+  }), {
+    command: 'pnpm',
+    args: ['assets:mirror', '--', '--missing', '--prompt-id', 'prompt_two', '--asset-id', 'asset_123']
+  });
+});
+
+test('buildIssueActionCommand rejects unsupported issue types and missing identifiers', () => {
+  assert.throws(() => buildIssueActionCommand({ code: 'invalid_prompt', promptId: 'prompt_one' }), /No automatic fix/);
+  assert.throws(() => buildIssueActionCommand({ code: 'missing_translation', fieldPath: 'title.translations.zh-CN' }), /prompt id/);
+  assert.throws(() => buildIssueActionCommand({ code: 'asset_not_cached', promptId: 'prompt_one', fieldPath: 'assets.localPath' }), /asset id/);
 });
 
 test('createActionRunner serializes action execution and keeps bounded logs', async () => {

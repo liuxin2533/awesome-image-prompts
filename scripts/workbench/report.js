@@ -55,6 +55,8 @@ function summarizeReport(report) {
     }
   }
 
+  const indexedIssues = issues.map((issue, index) => ({ index, ...issue }));
+
   return {
     generatedAt: report?.generatedAt || null,
     summary,
@@ -70,7 +72,7 @@ function summarizeReport(report) {
       codes: sortedKeys(codes),
       resolutionCommands: sortedKeys(byResolutionCommand).filter(Boolean)
     },
-    issues
+    issues: indexedIssues
   };
 }
 

@@ -1,34 +1,34 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Prompt Catalog Workbench</title>
+    <title>提示词目录工作台</title>
     <link rel="stylesheet" href="/styles.css">
   </head>
   <body>
     <main class="shell">
       <header class="topbar">
         <div>
-          <p class="eyebrow">Local operations</p>
-          <h1>Prompt Catalog Workbench</h1>
+          <p class="eyebrow">本地维护工具</p>
+          <h1>提示词目录工作台</h1>
         </div>
-        <button id="refresh" type="button">Refresh</button>
+        <button id="refresh" type="button">刷新报告</button>
       </header>
 
-      <section class="metrics" aria-label="Report summary">
+      <section class="metrics" aria-label="报告摘要">
         <div class="metric error"><span>Errors</span><strong id="metric-errors">0</strong></div>
         <div class="metric warning"><span>Warnings</span><strong id="metric-warnings">0</strong></div>
         <div class="metric info"><span>Info</span><strong id="metric-info">0</strong></div>
-        <div class="metric"><span>Generated</span><strong id="metric-generated">-</strong></div>
+        <div class="metric"><span>生成时间</span><strong id="metric-generated">-</strong></div>
       </section>
 
       <section class="workspace">
         <aside class="panel controls">
-          <h2>Filters</h2>
+          <h2>筛选问题</h2>
           <label>
-            Search
-            <input id="filter-text" type="search" placeholder="prompt, field, message">
+            搜索
+            <input id="filter-text" type="search" placeholder="prompt、字段、消息">
           </label>
           <label>
             Severity
@@ -39,34 +39,34 @@
             <select id="filter-code"></select>
           </label>
           <label>
-            Resolution
+            处理命令
             <select id="filter-resolution"></select>
           </label>
 
-          <h2>AI config</h2>
+          <h2>智谱 AI 配置</h2>
           <label>
-            API key
+            API Key
             <input id="ai-key" type="password" autocomplete="off" placeholder="ZHIPUAI_API_KEY">
           </label>
           <label>
-            Base URL
+            接口地址
             <input id="ai-base-url" type="url">
           </label>
           <label>
-            Model
+            模型
             <input id="ai-model" type="text">
           </label>
           <div class="button-row">
-            <button id="save-config" type="button">Save</button>
-            <button id="test-config" type="button">Test</button>
+            <button id="save-config" type="button">保存配置</button>
+            <button id="test-config" type="button">测试连接</button>
           </div>
-          <p id="config-status" class="muted">Loading config...</p>
+          <p id="config-status" class="muted">正在读取配置...</p>
         </aside>
 
         <section class="panel issue-panel">
           <div class="panel-head">
-            <h2>Issues</h2>
-            <span id="issue-count" class="muted">0 shown</span>
+            <h2>问题列表</h2>
+            <span id="issue-count" class="muted">显示 0 条</span>
           </div>
           <div class="issue-table-wrap">
             <table>
@@ -75,8 +75,9 @@
                   <th>Severity</th>
                   <th>Code</th>
                   <th>Prompt</th>
-                  <th>Field</th>
-                  <th>Message</th>
+                  <th>字段</th>
+                  <th>说明</th>
+                  <th>操作</th>
                 </tr>
               </thead>
               <tbody id="issues"></tbody>
@@ -85,21 +86,25 @@
         </section>
 
         <aside class="panel actions">
-          <h2>Actions</h2>
+          <h2>批量操作</h2>
           <label>
-            Limit
-            <input id="action-limit" type="number" min="1" step="1" placeholder="optional">
+            限制数量
+            <input id="action-limit" type="number" min="1" step="1" placeholder="可选">
           </label>
-          <button data-action="translate" data-language="zh-CN" type="button">Translate zh-CN</button>
-          <button data-action="translate" data-language="en" type="button">Translate en</button>
-          <button data-action="mirror-assets" type="button">Mirror assets</button>
-          <button data-action="workflow" type="button">Run workflow</button>
+          <button data-action="translate" data-language="zh-CN" type="button">补齐 zh-CN 翻译</button>
+          <button data-action="translate" data-language="en" type="button">补齐 en 翻译</button>
+          <button data-action="mirror-assets" type="button">镜像缺失资源</button>
+          <button data-action="workflow" type="button">重跑发布流程</button>
 
-          <h2>Detail</h2>
-          <pre id="issue-detail">Select an issue.</pre>
+          <h2>操作说明</h2>
+          <p class="muted">批量按钮会按当前队列执行白名单命令；单条按钮只修正该行对应的 prompt 字段或资源。</p>
 
-          <h2>Run log</h2>
-          <pre id="run-log">No action has run in this session.</pre>
+          <h2>问题详情</h2>
+          <button id="fix-selected" type="button" disabled>修正所选问题</button>
+          <pre id="issue-detail">请选择一条问题。</pre>
+
+          <h2>运行日志</h2>
+          <pre id="run-log">本次会话还没有执行操作。</pre>
         </aside>
       </section>
     </main>

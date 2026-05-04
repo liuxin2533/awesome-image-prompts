@@ -43,6 +43,13 @@ button:hover {
   border-color: var(--accent);
 }
 
+button:disabled {
+  border-color: var(--line);
+  background: #d8d1c5;
+  color: #81786b;
+  cursor: not-allowed;
+}
+
 input,
 select {
   width: 100%;
@@ -237,6 +244,16 @@ th:nth-child(3) {
 td:nth-child(4),
 th:nth-child(4) {
   width: 220px;
+}
+
+td:nth-child(6),
+th:nth-child(6) {
+  width: 92px;
+}
+
+.row-fix {
+  width: 100%;
+  min-height: 30px;
 }
 
 pre {

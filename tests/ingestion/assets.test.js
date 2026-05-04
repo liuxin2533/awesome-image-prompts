@@ -93,3 +93,33 @@ test('mirrorMissingAssets records failed downloads without aborting tolerant run
   assert.match(dataset.prompts[0].assets[0].error, /network unavailable/);
 });
 
+test('mirrorMissingAssets can target one prompt asset by prompt id and asset id', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'assets-one-'));
+  const first = datasetFixture();
+  const secondPrompt = JSON.parse(JSON.stringify(first.prompts[0]));
+  secondPrompt.id = 'prompt_cccccccccccccccccccc';
+  secondPrompt.assets[0].id = 'asset_2';
+  secondPrompt.assets[0].upstreamUrl = 'https://example.com/second.jpg';
+  secondPrompt.assets[0].localPath = 'public/assets/prompt_cccccccccccccccccccc/second.jpg';
+  first.prompts.push(secondPrompt);
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), first);
+
+  const fetched = [];
+  const result = await mirrorMissingAssets({
+    projectRoot,
+    promptId: secondPrompt.id,
+    assetId: 'asset_2',
+    fetchAsset: async url => {
+      fetched.push(url);
+      return {
+        bytes: Buffer.from('second-image'),
+        contentType: 'image/jpeg'
+      };
+    }
+  });
+
+  assert.equal(result.candidateCount, 1);
+  assert.deepEqual(fetched, ['https://example.com/second.jpg']);
+  assert.equal(fs.existsSync(path.join(projectRoot, first.prompts[0].assets[0].localPath)), false);
+  assert.equal(fs.readFileSync(path.join(projectRoot, secondPrompt.assets[0].localPath), 'utf-8'), 'second-image');
+});

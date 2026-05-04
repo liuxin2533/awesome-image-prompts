@@ -90,3 +90,41 @@ test('workbench server saves AI config and rejects unsupported actions', async (
     assert.equal(action.args.includes('en'), true);
   });
 });
+
+test('workbench server runs a single report issue by index', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-server-issue-'));
+  writeJson(path.join(projectRoot, 'data/reports/latest.json'), {
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    issues: [
+      {
+        severity: 'warning',
+        code: 'missing_translation',
+        message: 'title missing zh-CN translation',
+        promptId: 'prompt_single',
+        fieldPath: 'title.translations.zh-CN',
+        resolutionCommand: 'pnpm translate -- --missing --lang zh-CN'
+      }
+    ]
+  });
+
+  const commands = [];
+  const runner = createActionRunner({
+    projectRoot,
+    runCommand: async commandSpec => {
+      commands.push(commandSpec);
+      return { exitCode: 0 };
+    }
+  });
+
+  await withServer({ projectRoot, runner }, async baseUrl => {
+    const accepted = await fetch(`${baseUrl}/api/actions/issue`, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ index: 0 })
+    });
+    assert.equal(accepted.status, 202);
+    const action = await accepted.json();
+    assert.equal(action.type, 'issue');
+    assert.deepEqual(action.args, ['translate', '--', '--missing', '--lang', 'zh-CN', '--prompt-id', 'prompt_single', '--field-path', 'title.translations.zh-CN']);
+  });
+});

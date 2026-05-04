@@ -7,6 +7,16 @@ const state = {
 
 const $ = selector => document.querySelector(selector);
 
+function escapeHtml(value) {
+  return String(value ?? '').replace(/[&<>"']/g, character => ({
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    '"': '&quot;',
+    "'": '&#39;'
+  })[character]);
+}
+
 async function requestJson(url, options) {
   const response = await fetch(url, options);
   const payload = await response.json();
@@ -18,6 +28,16 @@ function setOptions(select, values, label) {
   select.innerHTML = '';
   select.append(new Option(label, ''));
   for (const value of values || []) select.append(new Option(value, value));
+}
+
+function canAutoFix(issue) {
+  return issue.code === 'missing_translation' || issue.code === 'asset_not_cached';
+}
+
+function actionMeaning(issue) {
+  if (issue.code === 'missing_translation') return '用智谱 AI 只补齐这一条缺失翻译。';
+  if (issue.code === 'asset_not_cached') return '只下载并缓存这一条资源。';
+  return '这类问题需要人工处理，当前没有自动修正。';
 }
 
 function renderMetrics(report) {
@@ -54,30 +74,38 @@ function renderIssues() {
     const row = document.createElement('tr');
     row.className = state.selectedIssue === issue ? 'selected' : '';
     row.innerHTML = `
-      <td>${issue.severity || ''}</td>
-      <td>${issue.code || ''}</td>
-      <td>${issue.promptId || ''}</td>
-      <td>${issue.fieldPath || ''}</td>
-      <td>${issue.message || ''}</td>
+      <td>${escapeHtml(issue.severity || '')}</td>
+      <td>${escapeHtml(issue.code || '')}</td>
+      <td>${escapeHtml(issue.promptId || '')}</td>
+      <td>${escapeHtml(issue.fieldPath || '')}</td>
+      <td>${escapeHtml(issue.message || '')}</td>
+      <td><button class="row-fix" type="button" ${canAutoFix(issue) ? '' : 'disabled'}>单条修正</button></td>
     `;
-    row.addEventListener('click', () => {
+    const selectIssue = () => {
       state.selectedIssue = issue;
-      $('#issue-detail').textContent = JSON.stringify(issue, null, 2);
+      $('#issue-detail').textContent = `${actionMeaning(issue)}\n\n${JSON.stringify(issue, null, 2)}`;
+      $('#fix-selected').disabled = !canAutoFix(issue);
       renderIssues();
+    };
+    row.addEventListener('click', selectIssue);
+    row.querySelector('.row-fix').addEventListener('click', event => {
+      event.stopPropagation();
+      selectIssue();
+      fixIssue(issue).catch(showError);
     });
     tbody.append(row);
   }
 
-  $('#issue-count').textContent = `${shown.length} shown`;
+  $('#issue-count').textContent = `显示 ${shown.length} 条`;
 }
 
 async function loadReport() {
   state.report = await requestJson('/api/report');
   state.issues = state.report.issues || [];
   renderMetrics(state.report);
-  setOptions($('#filter-severity'), state.report.filters.severities, 'All severities');
-  setOptions($('#filter-code'), state.report.filters.codes, 'All codes');
-  setOptions($('#filter-resolution'), state.report.filters.resolutionCommands, 'All commands');
+  setOptions($('#filter-severity'), state.report.filters.severities, '全部 severity');
+  setOptions($('#filter-code'), state.report.filters.codes, '全部 code');
+  setOptions($('#filter-resolution'), state.report.filters.resolutionCommands, '全部处理命令');
   renderIssues();
 }
 
@@ -85,7 +113,7 @@ async function loadConfig() {
   const config = await requestJson('/api/config');
   $('#ai-base-url').value = config.baseUrl;
   $('#ai-model').value = config.model;
-  $('#config-status').textContent = config.hasApiKey ? `Key configured: ${config.maskedApiKey}` : 'No API key configured.';
+  $('#config-status').textContent = config.hasApiKey ? `已配置 Key：${config.maskedApiKey}` : '还没有配置 API Key。';
 }
 
 async function saveConfig() {
@@ -101,19 +129,19 @@ async function saveConfig() {
     body: JSON.stringify(payload)
   });
   $('#ai-key').value = '';
-  $('#config-status').textContent = config.hasApiKey ? `Saved: ${config.maskedApiKey}` : 'Config saved without an API key.';
+  $('#config-status').textContent = config.hasApiKey ? `已保存：${config.maskedApiKey}` : '已保存配置，但还没有 API Key。';
 }
 
 async function testConfig() {
-  $('#config-status').textContent = 'Testing Zhipu connection...';
+  $('#config-status').textContent = '正在测试智谱连接...';
   const result = await requestJson('/api/config/test', { method: 'POST' });
-  $('#config-status').textContent = result.ok ? `Connection OK: ${result.model}` : 'Connection test failed.';
+  $('#config-status').textContent = result.ok ? `连接正常：${result.model}` : '连接测试失败。';
 }
 
 async function pollAction(id) {
   const record = await requestJson(`/api/actions/${id}`);
   $('#run-log').textContent = [
-    `${record.type} ${record.status}${record.exitCode === null ? '' : ` (exit ${record.exitCode})`}`,
+    `操作：${record.type}，状态：${record.status}${record.exitCode === null ? '' : `，退出码：${record.exitCode}`}`,
     '',
     ...(record.logs || [])
   ].join('\n');
@@ -139,6 +167,20 @@ async function startAction(button) {
   await pollAction(record.id);
 }
 
+async function fixIssue(issue) {
+  if (!canAutoFix(issue)) {
+    throw new Error('这类问题暂时没有自动修正操作。');
+  }
+  const record = await requestJson('/api/actions/issue', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ index: issue.index })
+  });
+  state.currentActionId = record.id;
+  $('#run-log').textContent = `已开始单条修正：${issue.code}`;
+  await pollAction(record.id);
+}
+
 function showError(error) {
   $('#run-log').textContent = error.message;
 }
@@ -150,6 +192,9 @@ async function init() {
   $('#refresh').addEventListener('click', () => loadReport().catch(showError));
   $('#save-config').addEventListener('click', () => saveConfig().catch(showError));
   $('#test-config').addEventListener('click', () => testConfig().catch(showError));
+  $('#fix-selected').addEventListener('click', () => {
+    if (state.selectedIssue) fixIssue(state.selectedIssue).catch(showError);
+  });
   for (const button of document.querySelectorAll('[data-action]')) {
     button.addEventListener('click', () => startAction(button).catch(showError));
   }

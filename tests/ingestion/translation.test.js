@@ -103,6 +103,46 @@ test('translateMissing skips existing upstream translations unless force is true
   assert.equal(dataset.prompts[0].title.translations['zh-CN'].source, 'upstream');
 });
 
+test('translateMissing can target one prompt field by prompt id and field path', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-one-'));
+  const first = promptFixture();
+  const second = promptFixture();
+  second.id = 'prompt_bbbbbbbbbbbbbbbbbbbb';
+  second.contentHash = 'b'.repeat(64);
+  second.dedupeKey = 'make another poster';
+  second.title.original.value = 'Second poster';
+
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 2,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [first, second]
+  });
+
+  const calls = [];
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    promptId: second.id,
+    fieldPath: 'title.translations.zh-CN',
+    provider: async request => {
+      calls.push(request);
+      return '第二个标题';
+    }
+  });
+
+  assert.equal(result.taskCount, 1);
+  assert.equal(result.translatedCount, 1);
+  assert.equal(calls[0].promptId, second.id);
+  assert.equal(calls[0].fieldPath, 'title.translations.zh-CN');
+
+  const dataset = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/canonical/prompts.json'), 'utf-8'));
+  assert.equal(dataset.prompts[0].title.translations['zh-CN'], undefined);
+  assert.equal(dataset.prompts[1].title.translations['zh-CN'].value, '第二个标题');
+});
+
 test('translation parseArgs accepts report resolution command flags', () => {
   const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12']);
 

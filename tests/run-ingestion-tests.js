@@ -14,3 +14,4 @@ require('./workbench/config.test');
 require('./workbench/report.test');
 require('./workbench/actions.test');
 require('./workbench/server.test');
+require('./workbench/ui.test');

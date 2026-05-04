@@ -73,19 +73,21 @@ function taxonomyTranslationTasks(prompt, language, fields) {
   return tasks;
 }
 
-function buildTasks(dataset, languages, fields) {
+function buildTasks(dataset, languages, fields, filters = {}) {
   const normalizedLanguages = languages.map(normalizeLanguageCode);
   const normalizedFields = fields && fields.length ? fields : FIELD_NAMES;
   const tasks = [];
 
   for (const prompt of dataset.prompts || []) {
+    if (filters.promptId && prompt.id !== filters.promptId) continue;
     for (const language of normalizedLanguages) {
       tasks.push(...fieldTranslationTasks(prompt, language, normalizedFields));
       tasks.push(...taxonomyTranslationTasks(prompt, language, normalizedFields));
     }
   }
 
-  return tasks;
+  if (!filters.fieldPath) return tasks;
+  return tasks.filter(task => task.fieldPath === filters.fieldPath);
 }
 
 function applyTranslation(task, translatedText) {
@@ -179,7 +181,10 @@ async function translateMissing(options = {}) {
   if (!dryRun && !options.provider) loadProjectEnv(projectRoot);
   const provider = options.provider || (dryRun ? async () => '' : createZhipuProvider(options.providerOptions));
 
-  const tasks = buildTasks(dataset, languages, fields).slice(0, limit);
+  const tasks = buildTasks(dataset, languages, fields, {
+    promptId: options.promptId,
+    fieldPath: options.fieldPath
+  }).slice(0, limit);
   let translatedCount = 0;
   let failedCount = 0;
 
@@ -258,6 +263,10 @@ function parseArgs(argv) {
       args.strict = true;
     } else if (arg === '--limit') {
       args.limit = Number(rest[++i]);
+    } else if (arg === '--prompt-id') {
+      args.promptId = rest[++i];
+    } else if (arg === '--field-path') {
+      args.fieldPath = rest[++i];
     }
   }
 
