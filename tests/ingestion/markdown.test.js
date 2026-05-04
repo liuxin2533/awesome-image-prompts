@@ -49,7 +49,19 @@ test('image and link helpers parse Markdown and HTML forms', () => {
   assert.equal(extractMarkdownLinks(markdown)[0].href, 'https://example.com/a');
 });
 
+test('extractMarkdownImages supports escaped brackets and multiline alt text', () => {
+  const imageMarkdown = [
+    '![\\[CORE TASK\\]',
+    'Transform the provided input image](../data/images/case78.jpg)'
+  ].join('\n');
+
+  const images = extractMarkdownImages(imageMarkdown);
+
+  assert.equal(images.length, 1);
+  assert.equal(images[0].alt, '[CORE TASK]\nTransform the provided input image');
+  assert.equal(images[0].src, '../data/images/case78.jpg');
+});
+
 test('lineForIndex returns one-based line numbers', () => {
   assert.equal(lineForIndex(markdown, markdown.indexOf('Case 2')), 12);
 });
-

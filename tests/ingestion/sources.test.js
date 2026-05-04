@@ -91,6 +91,85 @@ test('parseFreestylefly splits labeled Chinese and English prompt sections', () 
   );
 });
 
+test('parseFreestylefly keeps structured bracket headings when they are not language labels', () => {
+  const content = [
+    '### 例 78：图像生成案例图',
+    '',
+    '![\\[CORE TASK\\]',
+    'Transform the provided input image](../data/images/case78.jpg)',
+    '',
+    '**来源：** [@maker](https://x.com/maker)',
+    '',
+    '**提示词：**',
+    '```text',
+    '[CORE TASK]',
+    'Transform the provided input image into a pose-and-light analysis sheet.',
+    '',
+    '[NEGATIVE]',
+    'Do not create a finished character illustration.',
+    '```'
+  ].join('\n');
+
+  const records = parseFreestylefly({ files: [{ path: 'docs/gallery-part-1.md', content }] });
+
+  assert.equal(records.length, 1);
+  assert.equal(records[0].localized.en, undefined);
+  assert.match(records[0].localized['zh-CN'].promptText, /^\[CORE TASK\]/);
+  assert.equal(records[0].assets.length, 1);
+  assert.equal(records[0].assets[0].upstreamPath, '../data/images/case78.jpg');
+});
+
+test('parseFreestylefly does not split a single language label without a paired translation', () => {
+  const content = [
+    '### 例 999：单语言英文标签提示词',
+    '',
+    '![单语言英文标签提示词](../data/images/case999.jpg)',
+    '',
+    '**来源：** maker',
+    '',
+    '**提示词：**',
+    '```text',
+    '[English]',
+    'Only one labeled section exists.',
+    '```'
+  ].join('\n');
+
+  const records = parseFreestylefly({ files: [{ path: 'docs/gallery-part-2.md', content }] });
+
+  assert.equal(records.length, 1);
+  assert.equal(records[0].localized.en, undefined);
+  assert.equal(records[0].localized['zh-CN'].promptText, '[English]\nOnly one labeled section exists.');
+});
+
+test('parseFreestylefly preserves language-specific placeholders around bilingual labels', () => {
+  const content = [
+    '### 例 297：手写食谱变身杂志级跨页',
+    '',
+    '![手写食谱变身杂志级跨页](../data/images/case297.jpg)',
+    '',
+    '**来源：** maker',
+    '',
+    '**提示词：**',
+    '```text',
+    '[中文]',
+    '手写食谱生成专业食谱页面。',
+    '',
+    '[INSERT_RECIPE_LINK]',
+    '',
+    '[English]',
+    'Generate a professional cookbook page from a handwritten recipe.',
+    '',
+    '[INSERT_RECIPE_LINK]',
+    '```'
+  ].join('\n');
+
+  const records = parseFreestylefly({ files: [{ path: 'docs/gallery-part-2.md', content }] });
+
+  assert.match(records[0].localized['zh-CN'].promptText, /\[INSERT_RECIPE_LINK\]$/);
+  assert.match(records[0].localized.en.promptText, /\[INSERT_RECIPE_LINK\]$/);
+  assert.doesNotMatch(records[0].localized['zh-CN'].promptText, /\[English\]/);
+});
+
 test('parseYouMind aligns language variants by source URL and does not collapse repeated No headings', () => {
   const en = [
     '## Featured Prompts',

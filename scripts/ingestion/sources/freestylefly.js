@@ -80,7 +80,8 @@ function splitLabeledPromptText(promptText) {
     }
   }
 
-  return Object.keys(sections).length ? sections : null;
+  if (!sections['zh-CN'] || !sections.en) return null;
+  return sections;
 }
 
 function buildLocalizedPrompt(title, promptText) {

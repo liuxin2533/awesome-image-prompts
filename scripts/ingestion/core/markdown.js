@@ -62,10 +62,17 @@ function extractFencedCodeAfterLabel(markdown, labels) {
 
 function extractMarkdownImages(markdown) {
   const images = [];
-  const regex = /!\[([^\]]*)\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g;
+  const regex = /!\[((?:\\[\s\S]|[^\]\\])*)\]\(\s*(<[^>\r\n]+>|[^)\s]+)(?:\s+"[^"]*")?\s*\)/g;
   let match;
   while ((match = regex.exec(String(markdown || '')))) {
-    images.push({ alt: match[1], src: match[2], index: match.index });
+    const src = match[2].startsWith('<') && match[2].endsWith('>')
+      ? match[2].slice(1, -1)
+      : match[2];
+    images.push({
+      alt: match[1].replace(/\\([\\[\]])/g, '$1'),
+      src,
+      index: match.index
+    });
   }
   return images;
 }
