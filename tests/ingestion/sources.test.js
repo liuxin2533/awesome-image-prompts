@@ -60,6 +60,37 @@ test('parseFreestylefly extracts Chinese gallery cases and derived categories', 
   assert.equal(records[0].references[0].authors[0].name, 'maker');
 });
 
+test('parseFreestylefly splits labeled Chinese and English prompt sections', () => {
+  const content = [
+    '### 例 213：金瓶梅古风开放世界游戏截图',
+    '',
+    '![金瓶梅古风开放世界游戏截图](../data/images/case213.jpg)',
+    '',
+    '**来源：** op7418',
+    '',
+    '**提示词：**',
+    '```text',
+    '[中文]',
+    '帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图',
+    '',
+    '[English]',
+    'Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.',
+    '```'
+  ].join('\n');
+
+  const records = parseFreestylefly({ files: [{ path: 'docs/gallery-part-2.md', content }] });
+
+  assert.equal(records.length, 1);
+  assert.equal(
+    records[0].localized['zh-CN'].promptText,
+    '帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图'
+  );
+  assert.equal(
+    records[0].localized.en.promptText,
+    'Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.'
+  );
+});
+
 test('parseYouMind aligns language variants by source URL and does not collapse repeated No headings', () => {
   const en = [
     '## Featured Prompts',
@@ -118,4 +149,3 @@ test('parseYouMind aligns language variants by source URL and does not collapse 
   assert.equal(records[1].localized.en.title, 'All One');
   assert.equal(records[1].localized['zh-CN'].promptText, '全部提示词');
 });
-

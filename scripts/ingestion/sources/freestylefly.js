@@ -54,6 +54,60 @@ function derivedCategories(title) {
   }];
 }
 
+function languageFromPromptLabel(label) {
+  const normalized = String(label || '').trim().toLowerCase();
+  if (normalized === '中文' || normalized === 'chinese') return 'zh-CN';
+  if (normalized === '英文' || normalized === 'english') return 'en';
+  return null;
+}
+
+function splitLabeledPromptText(promptText) {
+  const text = String(promptText || '').replace(/\r\n/g, '\n').replace(/\r/g, '\n').trim();
+  const labelPattern = /^[ \t]*\[(中文|Chinese|英文|English)\][ \t]*$/gim;
+  const matches = [...text.matchAll(labelPattern)];
+  if (!matches.length) return null;
+  if (text.slice(0, matches[0].index).trim()) return null;
+
+  const sections = {};
+  for (let index = 0; index < matches.length; index += 1) {
+    const match = matches[index];
+    const language = languageFromPromptLabel(match[1]);
+    const start = match.index + match[0].length;
+    const end = matches[index + 1]?.index ?? text.length;
+    const value = text.slice(start, end).trim();
+    if (language && value && !sections[language]) {
+      sections[language] = value;
+    }
+  }
+
+  return Object.keys(sections).length ? sections : null;
+}
+
+function buildLocalizedPrompt(title, promptText) {
+  const splitPrompt = splitLabeledPromptText(promptText);
+  if (!splitPrompt) {
+    return {
+      'zh-CN': {
+        title,
+        promptText
+      }
+    };
+  }
+
+  const localized = {};
+  for (const [language, value] of Object.entries(splitPrompt)) {
+    localized[language] = { promptText: value };
+  }
+
+  if (localized['zh-CN']) {
+    localized['zh-CN'].title = title;
+  } else {
+    localized['zh-CN'] = { title, promptText };
+  }
+
+  return localized;
+}
+
 function parseFreestylefly({ files }) {
   const records = [];
 
@@ -76,12 +130,7 @@ function parseFreestylefly({ files }) {
         repo: CONFIG.repo,
         originalId: `case-${caseNumber}`,
         primaryLanguage: 'zh-CN',
-        localized: {
-          'zh-CN': {
-            title,
-            promptText: promptFence.code
-          }
-        },
+        localized: buildLocalizedPrompt(title, promptFence.code),
         sourceCategories: derivedCategories(title),
         tags: [],
         references: [{
@@ -138,4 +187,3 @@ module.exports = {
   parseFreestylefly,
   load
 };
-
