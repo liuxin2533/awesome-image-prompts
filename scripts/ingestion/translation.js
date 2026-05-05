@@ -8,6 +8,9 @@ const { loadProjectEnv } = require('../workbench/config');
 const { refreshCurrentReport } = require('./report-current');
 
 const FIELD_NAMES = ['promptText', 'title', 'description', 'categories', 'tags'];
+const DEFAULT_REAL_PROVIDER_DELAY_MS = 300;
+const DEFAULT_REAL_PROVIDER_RETRIES = 3;
+const DEFAULT_RETRY_BASE_DELAY_MS = 1000;
 
 function defaultProjectRoot() {
   return path.join(__dirname, '..', '..');
@@ -118,6 +121,45 @@ function applyTranslation(task, translatedText) {
   return true;
 }
 
+function parseNonNegativeInteger(value, fallback) {
+  if (value === undefined || value === null || value === '') return fallback;
+  const number = Number(value);
+  return Number.isInteger(number) && number >= 0 ? number : fallback;
+}
+
+function defaultSleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function shouldRetryTranslation(error) {
+  const status = Number(error?.status);
+  if (status === 429) return true;
+  if (status >= 500 && status <= 599) return true;
+  return !Number.isInteger(status);
+}
+
+async function translateWithRetry(task, provider, options) {
+  let lastError = null;
+
+  for (let attempt = 0; attempt <= options.retries; attempt++) {
+    try {
+      return await provider({
+        promptId: task.prompt.id,
+        fieldPath: task.fieldPath,
+        sourceLanguage: task.sourceLanguage,
+        targetLanguage: task.targetLanguage,
+        text: task.text
+      });
+    } catch (error) {
+      lastError = error;
+      if (attempt >= options.retries || !shouldRetryTranslation(error)) break;
+      await options.sleep(options.retryBaseDelayMs * (2 ** attempt));
+    }
+  }
+
+  throw lastError;
+}
+
 function createZhipuProvider(options = {}) {
   const env = options.env || process.env;
   const fetchImpl = options.fetch || fetch;
@@ -158,7 +200,9 @@ function createZhipuProvider(options = {}) {
     });
 
     if (!response.ok) {
-      throw new Error(`Translation API failed with ${response.status}: ${await response.text()}`);
+      const error = new Error(`Translation API failed with ${response.status}: ${await response.text()}`);
+      error.status = response.status;
+      throw error;
     }
 
     const data = await response.json();
@@ -176,6 +220,12 @@ async function translateMissing(options = {}) {
   const limit = Number.isFinite(options.limit) ? options.limit : Infinity;
   const dryRun = Boolean(options.dryRun);
   if (!dryRun && !options.provider) loadProjectEnv(projectRoot);
+  const env = options.env || process.env;
+  const usesRealProvider = !dryRun && !options.provider;
+  const delayMs = parseNonNegativeInteger(options.delayMs ?? env.TRANSLATION_DELAY_MS, usesRealProvider ? DEFAULT_REAL_PROVIDER_DELAY_MS : 0);
+  const retries = parseNonNegativeInteger(options.retries ?? env.TRANSLATION_RETRIES, usesRealProvider ? DEFAULT_REAL_PROVIDER_RETRIES : 0);
+  const retryBaseDelayMs = parseNonNegativeInteger(options.retryBaseDelayMs ?? env.TRANSLATION_RETRY_BASE_DELAY_MS, DEFAULT_RETRY_BASE_DELAY_MS);
+  const sleep = options.sleep || defaultSleep;
   const provider = options.provider || (dryRun ? async () => '' : createZhipuProvider(options.providerOptions));
 
   const tasks = buildTasks(dataset, languages, fields, {
@@ -188,14 +238,9 @@ async function translateMissing(options = {}) {
   for (const task of tasks) {
     try {
       if (!dryRun) {
-        const translated = await provider({
-          promptId: task.prompt.id,
-          fieldPath: task.fieldPath,
-          sourceLanguage: task.sourceLanguage,
-          targetLanguage: task.targetLanguage,
-          text: task.text
-        });
+        const translated = await translateWithRetry(task, provider, { retries, retryBaseDelayMs, sleep });
         if (applyTranslation(task, translated)) translatedCount++;
+        if (delayMs > 0 && task !== tasks[tasks.length - 1]) await sleep(delayMs);
       }
     } catch (error) {
       failedCount++;
@@ -239,6 +284,9 @@ function parseArgs(argv) {
     missingOnly: true,
     strict: false,
     limit: Infinity,
+    delayMs: undefined,
+    retries: undefined,
+    retryBaseDelayMs: undefined,
     refreshReport: false,
     targetLanguages: []
   };
@@ -262,6 +310,12 @@ function parseArgs(argv) {
       args.strict = true;
     } else if (arg === '--limit') {
       args.limit = Number(rest[++i]);
+    } else if (arg === '--delay-ms') {
+      args.delayMs = Number(rest[++i]);
+    } else if (arg === '--retries') {
+      args.retries = Number(rest[++i]);
+    } else if (arg === '--retry-base-delay-ms') {
+      args.retryBaseDelayMs = Number(rest[++i]);
     } else if (arg === '--prompt-id') {
       args.promptId = rest[++i];
     } else if (arg === '--field-path') {

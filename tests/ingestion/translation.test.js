@@ -173,13 +173,128 @@ test('translateMissing does not overwrite the latest validation report', async (
   assert.equal(latestReport.issues[0].code, 'existing_validation_issue');
 });
 
+test('translateMissing retries transient provider failures and waits between requests', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-retry-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  const attempts = [];
+  const sleeps = [];
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    fields: ['title', 'description'],
+    retries: 2,
+    retryBaseDelayMs: 50,
+    delayMs: 25,
+    sleep: async ms => sleeps.push(ms),
+    provider: async request => {
+      attempts.push(request.fieldPath);
+      if (request.fieldPath === 'title.translations.zh-CN' && attempts.filter(item => item === request.fieldPath).length < 3) {
+        const error = new Error('rate limited');
+        error.status = 429;
+        throw error;
+      }
+      return `[${request.targetLanguage}] ${request.text}`;
+    }
+  });
+
+  assert.equal(result.translatedCount, 2);
+  assert.equal(result.failedCount, 0);
+  assert.deepEqual(attempts, [
+    'title.translations.zh-CN',
+    'title.translations.zh-CN',
+    'title.translations.zh-CN',
+    'description.translations.zh-CN'
+  ]);
+  assert.deepEqual(sleeps, [50, 100, 25]);
+});
+
+test('translateMissing reads retry and throttle settings from the provided environment', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-env-rate-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  const sleeps = [];
+  let attempts = 0;
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    fields: ['title', 'description'],
+    env: {
+      TRANSLATION_DELAY_MS: '7',
+      TRANSLATION_RETRIES: '1',
+      TRANSLATION_RETRY_BASE_DELAY_MS: '11'
+    },
+    sleep: async ms => sleeps.push(ms),
+    provider: async request => {
+      attempts++;
+      if (request.fieldPath === 'title.translations.zh-CN' && attempts === 1) {
+        const error = new Error('server busy');
+        error.status = 500;
+        throw error;
+      }
+      return `[${request.targetLanguage}] ${request.text}`;
+    }
+  });
+
+  assert.equal(result.translatedCount, 2);
+  assert.deepEqual(sleeps, [11, 7]);
+});
+
+test('translateMissing does not retry authentication failures', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-auth-fail-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  let attempts = 0;
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    fields: ['title'],
+    retries: 3,
+    delayMs: 0,
+    provider: async () => {
+      attempts++;
+      const error = new Error('unauthorized');
+      error.status = 401;
+      throw error;
+    }
+  });
+
+  assert.equal(attempts, 1);
+  assert.equal(result.translatedCount, 0);
+  assert.equal(result.failedCount, 1);
+});
+
 test('translation parseArgs accepts report resolution command flags', () => {
-  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--refresh-report', '--target-languages', 'en,zh-CN']);
+  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--delay-ms', '250', '--retries', '4', '--retry-base-delay-ms', '500', '--refresh-report', '--target-languages', 'en,zh-CN']);
 
   assert.equal(args.missingOnly, true);
   assert.deepEqual(args.languages, ['zh-CN']);
   assert.deepEqual(args.fields, ['title', 'tags']);
   assert.equal(args.limit, 12);
+  assert.equal(args.delayMs, 250);
+  assert.equal(args.retries, 4);
+  assert.equal(args.retryBaseDelayMs, 500);
   assert.equal(args.refreshReport, true);
   assert.deepEqual(args.targetLanguages, ['en', 'zh-CN']);
 });
