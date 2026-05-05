@@ -77,6 +77,7 @@ test('refreshCurrentReport validates current canonical data without re-ingesting
 
   assert.equal(report.summary.error, 0);
   assert.equal(report.issues.some(issue => issue.code === 'missing_translation' && issue.promptId === 'prompt_aaaaaaaaaaaaaaaaaaaa'), true);
+  assert.equal(report.issues.some(issue => issue.fieldPath === 'categories.poster-zh-cn.en'), false);
   assert.equal(report.issues.some(issue => issue.code === 'asset_not_cached' && issue.promptId === 'prompt_bbbbbbbbbbbbbbbbbbbb'), true);
 
   const written = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/reports/latest.json'), 'utf-8'));

@@ -5,6 +5,7 @@ const { defaultProjectRoot } = require('./config');
 
 const SUPPORTED_TRANSLATION_LANGUAGES = new Set(['en', 'zh-CN']);
 const WORKBENCH_REPORT_LANGUAGES = ['en', 'zh-CN'];
+const WORKBENCH_TRANSLATION_CONCURRENCY = 2;
 
 function reportLanguageArgs() {
   return ['--target-languages', WORKBENCH_REPORT_LANGUAGES.join(',')];
@@ -61,7 +62,17 @@ function buildActionCommand(type, body = {}, options = {}) {
     if (!SUPPORTED_TRANSLATION_LANGUAGES.has(language)) {
       throw new Error(`Unsupported language: ${language}`);
     }
-    const args = ['translate', '--', '--missing', '--lang', language, '--refresh-report', ...reportLanguageArgs()];
+    const args = [
+      'translate',
+      '--',
+      '--missing',
+      '--lang',
+      language,
+      '--refresh-report',
+      ...reportLanguageArgs(),
+      '--concurrency',
+      String(WORKBENCH_TRANSLATION_CONCURRENCY)
+    ];
     const limit = normalizeLimit(body.limit);
     if (limit) args.push('--limit', limit);
     return createPackageScriptCommand(args, options);
@@ -163,6 +174,99 @@ function publicRecord(record) {
   return { ...rest, logs: [...rest.logs] };
 }
 
+function packageScriptArgs(commandSpec) {
+  const args = commandSpec.displayArgs || commandSpec.args || [];
+  if (String(args[0] || '').endsWith('pnpm.cjs')) return args.slice(1);
+  return args;
+}
+
+function projectOptions(args, commandSpec) {
+  if (!commandSpec.cwd) return args;
+  return { ...args, projectRoot: commandSpec.cwd };
+}
+
+function logReportRefresh(onLog, summary) {
+  onLog(`Report refreshed: ${summary.error} error(s), ${summary.warning} warning(s), ${summary.info} info.`);
+}
+
+function formatTranslationProgress(event) {
+  const prefix = `[${event.index}/${event.total}]`;
+  const field = `${event.fieldPath} (${event.promptId})`;
+  if (event.type === 'start') return `${prefix} 开始 ${field}`;
+  if (event.type === 'success') return `${prefix} 完成 ${field}`;
+  if (event.type === 'failure') return `${prefix} 失败 ${field}: ${event.error}`;
+  return `${prefix} ${field}`;
+}
+
+async function runPackageScriptInProcess(commandSpec, onLog) {
+  const args = packageScriptArgs(commandSpec);
+  const scriptName = args[0];
+
+  if (scriptName === 'translate') {
+    const { parseArgs, translateMissing } = require('../ingestion/translation');
+    const { refreshCurrentReport } = require('../ingestion/report-current');
+    const parsed = projectOptions(parseArgs(args), commandSpec);
+    parsed.onProgress = event => onLog(formatTranslationProgress(event));
+    const result = await translateMissing(parsed);
+    onLog(`Translation tasks: ${result.taskCount}; translated: ${result.translatedCount}; failed: ${result.failedCount}.`);
+    if (parsed.refreshReport) {
+      const refreshed = refreshCurrentReport({
+        projectRoot: parsed.projectRoot,
+        targetLanguages: parsed.targetLanguages
+      });
+      logReportRefresh(onLog, refreshed.report.toJSON().summary);
+    }
+    return { exitCode: 0 };
+  }
+
+  if (scriptName === 'assets:mirror') {
+    const { parseArgs, mirrorMissingAssets } = require('../ingestion/assets');
+    const { refreshCurrentReport } = require('../ingestion/report-current');
+    const parsed = projectOptions(parseArgs(args), commandSpec);
+    const result = await mirrorMissingAssets(parsed);
+    onLog(`Asset tasks: ${result.candidateCount}; cached: ${result.cachedCount}; failed: ${result.failedCount}; skipped: ${result.skippedCount}.`);
+    if (parsed.refreshReport) {
+      const refreshed = refreshCurrentReport({
+        projectRoot: parsed.projectRoot,
+        targetLanguages: parsed.targetLanguages
+      });
+      logReportRefresh(onLog, refreshed.report.toJSON().summary);
+    }
+    return { exitCode: 0 };
+  }
+
+  if (scriptName === 'report:refresh') {
+    const { parseArgs, refreshCurrentReport } = require('../ingestion/report-current');
+    const parsed = projectOptions(parseArgs(args), commandSpec);
+    const result = refreshCurrentReport({
+      projectRoot: parsed.projectRoot,
+      targetLanguages: parsed.targetLanguages
+    });
+    logReportRefresh(onLog, result.report.toJSON().summary);
+    return { exitCode: parsed.strict && result.report.hasErrors ? 1 : 0 };
+  }
+
+  if (scriptName === 'workflow') {
+    const { parseArgs, runWorkflow } = require('../workflow');
+    const parsed = projectOptions(parseArgs(args), commandSpec);
+    const result = await runWorkflow(parsed);
+    const summary = result.ingest.report?.toJSON?.().summary || {};
+    onLog(`Ingested ${result.ingest.dataset.totalCount} prompt(s).`);
+    onLog(`Report: ${summary.error || 0} error(s), ${summary.warning || 0} warning(s), ${summary.info || 0} info.`);
+    if (result.translation) {
+      onLog(`Translation: ${result.translation.translatedCount} translated, ${result.translation.failedCount} failed.`);
+    }
+    if (result.assets) {
+      onLog(`Assets: ${result.assets.cachedCount} cached, ${result.assets.failedCount} failed.`);
+    }
+    onLog(`Catalog export: ${result.catalog.manifest.totalCount} prompt(s), ${result.catalog.manifest.languages.join(', ')}.`);
+    onLog(`README: ${result.readmes.files.join(', ')}.`);
+    return { exitCode: 0 };
+  }
+
+  throw new Error(`Unsupported package script: ${scriptName || '(missing)'}.`);
+}
+
 function runSpawnedCommand(commandSpec, onLog) {
   return new Promise((resolve, reject) => {
     const child = spawn(commandSpec.command, commandSpec.args, {
@@ -180,7 +284,7 @@ function runSpawnedCommand(commandSpec, onLog) {
 
 function createActionRunner(options = {}) {
   const projectRoot = options.projectRoot || defaultProjectRoot();
-  const runCommand = options.runCommand || runSpawnedCommand;
+  const runCommand = options.runCommand || runPackageScriptInProcess;
   const maxLogLines = options.maxLogLines || 200;
   const records = new Map();
   let runningId = null;
@@ -255,5 +359,6 @@ module.exports = {
   buildIssueActionCommand,
   createPackageScriptCommand,
   createActionRunner,
+  runPackageScriptInProcess,
   runSpawnedCommand
 };

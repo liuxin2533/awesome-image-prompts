@@ -122,6 +122,7 @@ function emitMissingTranslationIssues(prompt, targetLanguages, report) {
     for (const [fieldName, items] of [['categories', prompt.categories], ['tags', prompt.tags]]) {
       for (const item of items || []) {
         if (!item?.value || item.language === target) continue;
+        if (item.translationOf) continue;
         const exists = (items || []).some(candidate => candidate.language === target && candidate.translationOf === item.id);
         if (exists) continue;
         report.warn({

@@ -18,6 +18,7 @@ test('workbench static UI explains operations in Chinese while keeping warning a
   assert.match(styles, /640px/);
   assert.match(app, /全部 severity/);
   assert.match(app, /单条修正/);
+  assert.match(app, /scrollTop/);
   assert.match(app, /warning/);
   assert.match(app, /error/);
 });

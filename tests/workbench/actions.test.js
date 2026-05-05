@@ -8,19 +8,54 @@ const {
   buildActionCommand,
   buildIssueActionCommand,
   createActionRunner,
-  createPackageScriptCommand
+  createPackageScriptCommand,
+  runPackageScriptInProcess
 } = require('../../scripts/workbench/actions');
+
+function writeJson(filePath, data) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, 'utf-8');
+}
+
+function promptFixture() {
+  return {
+    id: 'prompt_aaaaaaaaaaaaaaaaaaaa',
+    contentHash: 'a'.repeat(64),
+    dedupeKey: 'make a poster',
+    promptText: {
+      original: { language: 'en', value: 'Make a poster', source: 'upstream' },
+      translations: {}
+    },
+    title: {
+      original: { language: 'en', value: 'Poster', source: 'upstream' },
+      translations: {}
+    },
+    description: {
+      original: { language: 'en', value: 'A poster prompt', source: 'upstream' },
+      translations: {}
+    },
+    categories: [
+      { id: 'poster', value: 'Poster', language: 'en', source: 'upstream', sourceKey: 'fixture' }
+    ],
+    tags: [],
+    sources: [{ sourceKey: 'fixture', repo: 'fixture/repo', url: null, originalId: null, authors: [], locations: [] }],
+    assets: [],
+    curation: { overrides: [] },
+    addedAt: null,
+    updatedAt: '2026-05-04T00:00:00.000Z'
+  };
+}
 
 test('buildActionCommand only creates whitelisted maintenance commands', () => {
   const options = { platform: 'linux' };
 
   assert.deepEqual(buildActionCommand('translate', { language: 'zh-CN', limit: 12 }, options), {
     command: 'pnpm',
-    args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--target-languages', 'en,zh-CN', '--limit', '12']
+    args: ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--target-languages', 'en,zh-CN', '--concurrency', '2', '--limit', '12']
   });
   assert.deepEqual(buildActionCommand('translate', { language: 'en' }, options), {
     command: 'pnpm',
-    args: ['translate', '--', '--missing', '--lang', 'en', '--refresh-report', '--target-languages', 'en,zh-CN']
+    args: ['translate', '--', '--missing', '--lang', 'en', '--refresh-report', '--target-languages', 'en,zh-CN', '--concurrency', '2']
   });
   assert.deepEqual(buildActionCommand('mirror-assets', { limit: 5 }, options), {
     command: 'pnpm',
@@ -81,6 +116,50 @@ test('createPackageScriptCommand resolves pnpm to its Node CLI on Windows', () =
     args: [cliPath, 'translate', '--', '--missing'],
     displayArgs: ['translate', '--', '--missing']
   });
+});
+
+test('runPackageScriptInProcess refreshes reports without spawning child processes', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-action-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en', 'zh-CN'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  const logs = [];
+  const result = await runPackageScriptInProcess({
+    cwd: projectRoot,
+    displayArgs: ['report:refresh', '--', '--target-languages', 'en,zh-CN']
+  }, line => logs.push(line));
+
+  assert.equal(result.exitCode, 0);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/reports/latest.json')), true);
+  assert.equal(logs.some(line => line.includes('Report refreshed:')), true);
+});
+
+test('runPackageScriptInProcess streams translation progress logs', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-translate-progress-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en', 'zh-CN'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  const logs = [];
+  const result = await runPackageScriptInProcess({
+    cwd: projectRoot,
+    displayArgs: ['translate', '--', '--missing', '--lang', 'zh-CN', '--field', 'title', '--dry-run']
+  }, line => logs.push(line));
+
+  assert.equal(result.exitCode, 0);
+  assert.equal(logs.some(line => line.includes('[1/1] 开始 title.translations.zh-CN')), true);
+  assert.equal(logs.some(line => line.includes('[1/1] 完成 title.translations.zh-CN')), true);
 });
 
 test('buildIssueActionCommand rejects unsupported issue types and missing identifiers', () => {

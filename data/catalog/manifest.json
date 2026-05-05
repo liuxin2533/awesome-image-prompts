@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2026-05-04",
-  "generatedAt": "2026-05-04T14:49:54.324Z",
+  "generatedAt": "2026-05-05T17:23:04.356Z",
   "defaultLanguage": "en",
   "languages": [
     "en",
     "zh-CN"
   ],
-  "totalCount": 731,
+  "totalCount": 723,
   "sourceCount": {
     "EvoLinkAI/awesome-gpt-image-2-prompts": 303,
     "YouMind-OpenLab/awesome-gpt-image-2": 126,

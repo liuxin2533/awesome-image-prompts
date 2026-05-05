@@ -140,13 +140,15 @@ async function testConfig() {
 
 async function pollAction(id) {
   const record = await requestJson(`/api/actions/${id}`);
-  $('#run-log').textContent = [
+  const log = $('#run-log');
+  log.textContent = [
     `操作：${record.type}，状态：${record.status}${record.exitCode === null ? '' : `，退出码：${record.exitCode}`}`,
     '',
     ...(record.logs || [])
   ].join('\n');
+  log.scrollTop = log.scrollHeight;
   if (record.status === 'running') {
-    setTimeout(() => pollAction(id).catch(showError), 1200);
+    setTimeout(() => pollAction(id).catch(showError), 500);
   } else if (record.status === 'succeeded') {
     await loadReport();
   }

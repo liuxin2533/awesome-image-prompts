@@ -105,6 +105,48 @@ test('translateMissing skips existing upstream translations unless force is true
   assert.equal(dataset.prompts[0].title.translations['zh-CN'].source, 'upstream');
 });
 
+test('translateMissing does not back-translate generated taxonomy translations', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-taxonomy-chain-'));
+  const prompt = promptFixture();
+  prompt.categories.push({
+    id: 'poster-zh-cn',
+    value: '海报',
+    language: 'zh-CN',
+    source: 'ai',
+    translationOf: 'poster'
+  });
+  prompt.tags.push({
+    id: 'cinematic-zh-cn',
+    value: '电影感',
+    language: 'zh-CN',
+    source: 'ai',
+    translationOf: 'cinematic'
+  });
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en', 'zh-CN'],
+    sourceCount: {},
+    prompts: [prompt]
+  });
+
+  const calls = [];
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['en'],
+    fields: ['categories', 'tags'],
+    provider: async request => {
+      calls.push(request);
+      return `back translated ${request.text}`;
+    }
+  });
+
+  assert.equal(result.taskCount, 0);
+  assert.equal(result.translatedCount, 0);
+  assert.equal(calls.length, 0);
+});
+
 test('translateMissing can target one prompt field by prompt id and field path', async () => {
   const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-one-'));
   const first = promptFixture();
@@ -254,6 +296,64 @@ test('translateMissing reads retry and throttle settings from the provided envir
   assert.deepEqual(sleeps, [11, 7]);
 });
 
+test('translateMissing runs translation tasks with configured concurrency', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-concurrency-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  let active = 0;
+  let maxActive = 0;
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    concurrency: 3,
+    delayMs: 0,
+    provider: async request => {
+      active++;
+      maxActive = Math.max(maxActive, active);
+      await new Promise(resolve => setTimeout(resolve, 10));
+      active--;
+      return `[${request.targetLanguage}] ${request.text}`;
+    }
+  });
+
+  assert.equal(result.translatedCount, 5);
+  assert.equal(maxActive, 3);
+});
+
+test('translateMissing emits per-task progress events', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-progress-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  const events = [];
+  await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    fields: ['title'],
+    provider: async request => `[${request.targetLanguage}] ${request.text}`,
+    onProgress: event => events.push(event)
+  });
+
+  assert.deepEqual(events.map(event => event.type), ['start', 'success']);
+  assert.equal(events[0].index, 1);
+  assert.equal(events[0].total, 1);
+  assert.equal(events[0].fieldPath, 'title.translations.zh-CN');
+  assert.equal(events[1].translatedCount, 1);
+});
+
 test('translateMissing does not retry authentication failures', async () => {
   const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-auth-fail-'));
   writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
@@ -286,7 +386,7 @@ test('translateMissing does not retry authentication failures', async () => {
 });
 
 test('translation parseArgs accepts report resolution command flags', () => {
-  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--delay-ms', '250', '--retries', '4', '--retry-base-delay-ms', '500', '--refresh-report', '--target-languages', 'en,zh-CN']);
+  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--delay-ms', '250', '--retries', '4', '--retry-base-delay-ms', '500', '--concurrency', '3', '--refresh-report', '--target-languages', 'en,zh-CN']);
 
   assert.equal(args.missingOnly, true);
   assert.deepEqual(args.languages, ['zh-CN']);
@@ -295,6 +395,7 @@ test('translation parseArgs accepts report resolution command flags', () => {
   assert.equal(args.delayMs, 250);
   assert.equal(args.retries, 4);
   assert.equal(args.retryBaseDelayMs, 500);
+  assert.equal(args.concurrency, 3);
   assert.equal(args.refreshReport, true);
   assert.deepEqual(args.targetLanguages, ['en', 'zh-CN']);
 });

@@ -43,3 +43,11 @@ test('publish workflow uses Zhipu secrets instead of legacy provider names', () 
   assert.match(workflow, /ZHIPUAI_MODEL/);
   assert.doesNotMatch(workflow, legacyProviderPattern);
 });
+
+test('publish workflow does not run automatically on schedule or push', () => {
+  const workflow = fs.readFileSync(path.join(__dirname, '..', '..', '.github', 'workflows', 'publish.yml'), 'utf-8');
+
+  assert.match(workflow, /workflow_dispatch:/);
+  assert.doesNotMatch(workflow, /^\s*schedule:/m);
+  assert.doesNotMatch(workflow, /^\s*push:/m);
+});

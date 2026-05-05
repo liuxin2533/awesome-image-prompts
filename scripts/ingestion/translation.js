@@ -10,6 +10,7 @@ const { refreshCurrentReport } = require('./report-current');
 const FIELD_NAMES = ['promptText', 'title', 'description', 'categories', 'tags'];
 const DEFAULT_REAL_PROVIDER_DELAY_MS = 300;
 const DEFAULT_REAL_PROVIDER_RETRIES = 3;
+const DEFAULT_REAL_PROVIDER_CONCURRENCY = 2;
 const DEFAULT_RETRY_BASE_DELAY_MS = 1000;
 
 function defaultProjectRoot() {
@@ -57,6 +58,7 @@ function taxonomyTranslationTasks(prompt, language, fields) {
     if (!fields.includes(fieldName)) continue;
     for (const item of prompt[fieldName] || []) {
       if (!item.value || item.language === language) continue;
+      if (item.translationOf) continue;
       const exists = (prompt[fieldName] || []).some(candidate =>
         candidate.language === language && candidate.translationOf === item.id
       );
@@ -125,6 +127,12 @@ function parseNonNegativeInteger(value, fallback) {
   if (value === undefined || value === null || value === '') return fallback;
   const number = Number(value);
   return Number.isInteger(number) && number >= 0 ? number : fallback;
+}
+
+function parsePositiveInteger(value, fallback) {
+  if (value === undefined || value === null || value === '') return fallback;
+  const number = Number(value);
+  return Number.isInteger(number) && number > 0 ? number : fallback;
 }
 
 function defaultSleep(ms) {
@@ -225,8 +233,10 @@ async function translateMissing(options = {}) {
   const delayMs = parseNonNegativeInteger(options.delayMs ?? env.TRANSLATION_DELAY_MS, usesRealProvider ? DEFAULT_REAL_PROVIDER_DELAY_MS : 0);
   const retries = parseNonNegativeInteger(options.retries ?? env.TRANSLATION_RETRIES, usesRealProvider ? DEFAULT_REAL_PROVIDER_RETRIES : 0);
   const retryBaseDelayMs = parseNonNegativeInteger(options.retryBaseDelayMs ?? env.TRANSLATION_RETRY_BASE_DELAY_MS, DEFAULT_RETRY_BASE_DELAY_MS);
+  const concurrency = parsePositiveInteger(options.concurrency ?? env.TRANSLATION_CONCURRENCY, usesRealProvider ? DEFAULT_REAL_PROVIDER_CONCURRENCY : 1);
   const sleep = options.sleep || defaultSleep;
   const provider = options.provider || (dryRun ? async () => '' : createZhipuProvider(options.providerOptions));
+  const onProgress = typeof options.onProgress === 'function' ? options.onProgress : () => {};
 
   const tasks = buildTasks(dataset, languages, fields, {
     promptId: options.promptId,
@@ -234,14 +244,25 @@ async function translateMissing(options = {}) {
   }).slice(0, limit);
   let translatedCount = 0;
   let failedCount = 0;
+  let nextTaskIndex = 0;
 
-  for (const task of tasks) {
+  async function runTask(task, index) {
+    const progress = {
+      index: index + 1,
+      total: tasks.length,
+      promptId: task.prompt.id,
+      fieldPath: task.fieldPath,
+      targetLanguage: task.targetLanguage
+    };
+    onProgress({ type: 'start', ...progress, translatedCount, failedCount });
+
     try {
       if (!dryRun) {
         const translated = await translateWithRetry(task, provider, { retries, retryBaseDelayMs, sleep });
         if (applyTranslation(task, translated)) translatedCount++;
-        if (delayMs > 0 && task !== tasks[tasks.length - 1]) await sleep(delayMs);
+        if (delayMs > 0 && index < tasks.length - 1) await sleep(delayMs);
       }
+      onProgress({ type: 'success', ...progress, translatedCount, failedCount });
     } catch (error) {
       failedCount++;
       report.warn({
@@ -252,8 +273,18 @@ async function translateMissing(options = {}) {
         suggestedAction: 'Check translation provider credentials, rate limits, or retry this field.',
         resolutionCommand: `pnpm translate -- --missing --lang ${task.targetLanguage}`
       });
+      onProgress({ type: 'failure', ...progress, translatedCount, failedCount, error: error.message });
     }
   }
+
+  async function runWorker() {
+    while (nextTaskIndex < tasks.length) {
+      const index = nextTaskIndex++;
+      await runTask(tasks[index], index);
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, runWorker));
 
   report.info({
     code: 'translation_completed',
@@ -287,6 +318,7 @@ function parseArgs(argv) {
     delayMs: undefined,
     retries: undefined,
     retryBaseDelayMs: undefined,
+    concurrency: undefined,
     refreshReport: false,
     targetLanguages: []
   };
@@ -316,6 +348,8 @@ function parseArgs(argv) {
       args.retries = Number(rest[++i]);
     } else if (arg === '--retry-base-delay-ms') {
       args.retryBaseDelayMs = Number(rest[++i]);
+    } else if (arg === '--concurrency') {
+      args.concurrency = Number(rest[++i]);
     } else if (arg === '--prompt-id') {
       args.promptId = rest[++i];
     } else if (arg === '--field-path') {
