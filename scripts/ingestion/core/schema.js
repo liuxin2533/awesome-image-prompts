@@ -46,7 +46,7 @@ function validatePrompt(prompt) {
     }));
   }
 
-  if (!/^[a-f0-9]{64}$/.test(prompt.contentHash || '')) {
+  if (Object.hasOwn(prompt, 'contentHash') && !/^[a-f0-9]{64}$/.test(prompt.contentHash || '')) {
     issues.push(issue({
       code: 'invalid_content_hash',
       message: 'contentHash must be a sha256 hex digest.',
@@ -152,4 +152,3 @@ module.exports = {
   validateDataset,
   assertDataset
 };
-

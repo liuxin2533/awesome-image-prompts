@@ -3,6 +3,7 @@ require('./ingestion/schema.test');
 require('./ingestion/markdown.test');
 require('./ingestion/sources.test');
 require('./ingestion/merge.test');
+require('./ingestion/persist.test');
 require('./ingestion/cli.test');
 require('./ingestion/translation.test');
 require('./ingestion/assets.test');

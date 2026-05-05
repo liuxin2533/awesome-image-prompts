@@ -66,6 +66,15 @@ test('runIngest writes canonical data and reports only', async () => {
   assert.equal(result.dataset.totalCount, 2);
   assert.equal(result.dataset.prompts.find(prompt => prompt.promptText.original.value === 'Same Prompt').sources.length, 2);
   assert.equal(fs.existsSync(path.join(projectRoot, 'data/canonical/prompts.json')), true);
+  const canonical = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/canonical/prompts.json'), 'utf-8'));
+  const prompt = canonical.prompts.find(item => item.promptText.original.value === 'Same Prompt');
+  assert.equal(Object.hasOwn(prompt, 'dedupeKey'), false);
+  assert.equal(Object.hasOwn(prompt, 'contentHash'), false);
+  assert.equal(Object.hasOwn(prompt, 'updatedAt'), false);
+  assert.equal(Object.hasOwn(prompt, 'tags'), false);
+  assert.equal(Object.hasOwn(prompt, 'curation'), false);
+  assert.equal(prompt.assets.some(asset => Object.hasOwn(asset, 'sourceKey')), false);
+  assert.equal(Object.hasOwn(result.dataset.prompts[0], 'dedupeKey'), true);
   assert.equal(fs.existsSync(path.join(projectRoot, 'data/canonical/categories.json')), true);
   assert.equal(fs.existsSync(path.join(projectRoot, 'data/canonical/assets.json')), true);
   assert.equal(fs.existsSync(path.join(projectRoot, 'data/canonical/sources.json')), true);

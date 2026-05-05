@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const { normalizeRawRecord } = require('./core/normalize');
 const { mergePrompts } = require('./core/merge');
+const { compactCanonicalDataset } = require('./core/persist');
 const { Report } = require('./core/report');
 const { validateDataset } = require('./core/schema');
 const { uniqueBy } = require('./core/text');
@@ -76,11 +77,12 @@ function buildAssets(prompts) {
 function writeOutputs(projectRoot, dataset, sourceDatasets, report) {
   const canonicalDir = path.join(projectRoot, 'data', 'canonical');
   const reportsDir = path.join(projectRoot, 'data', 'reports');
+  const outputDataset = compactCanonicalDataset(dataset);
 
-  writeJson(path.join(canonicalDir, 'prompts.json'), dataset);
+  writeJson(path.join(canonicalDir, 'prompts.json'), outputDataset);
   writeJson(path.join(canonicalDir, 'sources.json'), {
     schemaVersion: SCHEMA_VERSION,
-    generatedAt: dataset.generatedAt,
+    generatedAt: outputDataset.generatedAt,
     sources: Object.values(SOURCES).map(source => ({
       key: source.config.sourceKey,
       name: source.config.name,
@@ -90,13 +92,13 @@ function writeOutputs(projectRoot, dataset, sourceDatasets, report) {
   });
   writeJson(path.join(canonicalDir, 'categories.json'), {
     schemaVersion: SCHEMA_VERSION,
-    generatedAt: dataset.generatedAt,
-    categories: buildCategories(dataset.prompts)
+    generatedAt: outputDataset.generatedAt,
+    categories: buildCategories(outputDataset.prompts)
   });
   writeJson(path.join(canonicalDir, 'assets.json'), {
     schemaVersion: SCHEMA_VERSION,
-    generatedAt: dataset.generatedAt,
-    assets: buildAssets(dataset.prompts)
+    generatedAt: outputDataset.generatedAt,
+    assets: buildAssets(outputDataset.prompts)
   });
 
   writeJson(path.join(reportsDir, 'latest.json'), report.toJSON());

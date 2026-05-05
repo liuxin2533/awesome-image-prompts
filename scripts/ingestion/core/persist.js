@@ -50,6 +50,36 @@ function buildAssets(prompts) {
   return (prompts || []).flatMap(prompt => (prompt.assets || []).map(asset => ({ ...asset, promptId: prompt.id })));
 }
 
+function compactAsset(asset) {
+  const compacted = { ...(asset || {}) };
+  if (compacted.sourceKey === null || compacted.sourceKey === undefined) delete compacted.sourceKey;
+  return compacted;
+}
+
+function compactPrompt(prompt) {
+  const compacted = {
+    ...(prompt || {}),
+    assets: (prompt.assets || []).map(compactAsset)
+  };
+
+  delete compacted.contentHash;
+  delete compacted.dedupeKey;
+  delete compacted.updatedAt;
+
+  if (compacted.addedAt === null || compacted.addedAt === undefined) delete compacted.addedAt;
+  if (Array.isArray(compacted.tags) && compacted.tags.length === 0) delete compacted.tags;
+  if (Array.isArray(compacted.curation?.overrides) && compacted.curation.overrides.length === 0) delete compacted.curation;
+
+  return compacted;
+}
+
+function compactCanonicalDataset(dataset) {
+  return {
+    ...(dataset || {}),
+    prompts: (dataset.prompts || []).map(compactPrompt)
+  };
+}
+
 function refreshDatasetMetadata(dataset) {
   dataset.generatedAt = new Date().toISOString();
   dataset.totalCount = dataset.prompts.length;
@@ -60,21 +90,22 @@ function refreshDatasetMetadata(dataset) {
 
 function writeDerivedData(projectRoot, dataset, report = null) {
   refreshDatasetMetadata(dataset);
+  const outputDataset = compactCanonicalDataset(dataset);
 
   const canonicalDir = path.join(projectRoot, 'data', 'canonical');
   const reportsDir = path.join(projectRoot, 'data', 'reports');
-  const categories = buildCategories(dataset.prompts);
+  const categories = buildCategories(outputDataset.prompts);
 
-  writeJson(path.join(canonicalDir, 'prompts.json'), dataset);
+  writeJson(path.join(canonicalDir, 'prompts.json'), outputDataset);
   writeJson(path.join(canonicalDir, 'categories.json'), {
-    schemaVersion: dataset.schemaVersion,
-    generatedAt: dataset.generatedAt,
+    schemaVersion: outputDataset.schemaVersion,
+    generatedAt: outputDataset.generatedAt,
     categories
   });
   writeJson(path.join(canonicalDir, 'assets.json'), {
-    schemaVersion: dataset.schemaVersion,
-    generatedAt: dataset.generatedAt,
-    assets: buildAssets(dataset.prompts)
+    schemaVersion: outputDataset.schemaVersion,
+    generatedAt: outputDataset.generatedAt,
+    assets: buildAssets(outputDataset.prompts)
   });
 
   if (report) {
@@ -92,6 +123,7 @@ module.exports = {
   languageSet,
   buildCategories,
   buildAssets,
+  compactCanonicalDataset,
   refreshDatasetMetadata,
   writeDerivedData
 };

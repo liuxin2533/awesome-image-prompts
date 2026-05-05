@@ -56,6 +56,19 @@ test('validatePrompt accepts a complete canonical prompt', () => {
   assert.deepEqual(validatePrompt(validPrompt()), []);
 });
 
+test('validatePrompt accepts compact canonical prompts without internal optional fields', () => {
+  const prompt = validPrompt();
+  delete prompt.contentHash;
+  delete prompt.dedupeKey;
+  delete prompt.tags;
+  delete prompt.curation;
+  delete prompt.addedAt;
+  delete prompt.updatedAt;
+  delete prompt.assets[0].sourceKey;
+
+  assert.deepEqual(validatePrompt(prompt), []);
+});
+
 test('validatePrompt reports actionable missing critical fields', () => {
   const issues = validatePrompt(validPrompt({ promptText: { original: { language: 'en', value: '', source: 'upstream' }, translations: {} } }));
   assert.equal(issues.length, 1);
@@ -71,4 +84,3 @@ test('validateDataset detects duplicate stable ids', () => {
   assert.equal(issues.length, 1);
   assert.equal(issues[0].code, 'duplicate_prompt_id');
 });
-
