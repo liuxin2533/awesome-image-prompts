@@ -2,8 +2,10 @@
 
 [Back to README](../README.md)
 
+This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](https://gptimages.dev).
+
 - Total prompts: 39
-- Generated: 2026-05-04T14:49:54.225Z
+- Generated: 2026-05-05T17:36:14.688Z
 
 ## Prompts
 
@@ -11,7 +13,7 @@
 
 ### 1. E-commerce Live Stream UI Mockup
 
-![E-commerce Live Stream UI Mockup](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" alt="E-commerce Live Stream UI Mockup" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sjbbxhz/status/2045684734714380687)
@@ -72,7 +74,7 @@
 
 ### 2. Neon AI Thumbnail Comparison
 
-![Neon AI Thumbnail Comparison](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case72/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case72/output.jpg" alt="Neon AI Thumbnail Comparison" width="480">
 
 A bold cyberpunk comparison thumbnail showing a shift from Nano Banana image generation to GPT Image 2 with practical marketing output examples, ideal for YouTube or social media promos.
 
@@ -89,7 +91,7 @@ Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk styl
 
 ### 3. Product Marketing - Origami Pop-Up T-Rex Book Ad
 
-![Product Marketing - Origami Pop-Up T-Rex Book Ad](https://cms-assets.youmind.com/media/1777367287481_qb2uv8_HGt_lR9a0AEsJQK.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367287481_qb2uv8_HGt_lR9a0AEsJQK.jpg" alt="Product Marketing - Origami Pop-Up T-Rex Book Ad" width="480">
 
 This prompt generates a cinematic product-style image of a glowing paper-engineered T-rex emerging from an open pop-up book, ideal for children's publishing or imaginative advertising visuals.
 
@@ -106,7 +108,7 @@ A cinematic studio photograph of an open {argument name="book type" default="pop
 
 ### 4. Product Marketing - Luxury Sunscreen Product Shot
 
-![Product Marketing - Luxury Sunscreen Product Shot](https://cms-assets.youmind.com/media/1777367265344_yjh0ve_HG7FkohaQAA_Vak.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367265344_yjh0ve_HG7FkohaQAA_Vak.jpg" alt="Product Marketing - Luxury Sunscreen Product Shot" width="480">
 
 A minimalist, high-definition stock photo prompt for luxury skincare branding set against a coastal backdrop.
 
@@ -123,7 +125,7 @@ A sleek {argument name="product color" default="white"} {argument name="product"
 
 ### 5. Product Marketing - Dessert Brand Visual Identity Proposal Board
 
-![Product Marketing - Dessert Brand Visual Identity Proposal Board](https://cms-assets.youmind.com/media/1777367275974_walnre_HG7TRFQa4AADpis.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367275974_walnre_HG7TRFQa4AADpis.jpg" alt="Product Marketing - Dessert Brand Visual Identity Proposal Board" width="480">
 
 A comprehensive prompt for a branding proposal board, featuring character design, store interior concepts, and packaging materials in a soft, 3D-illustrated style.
 
@@ -140,7 +142,7 @@ A visual design proposal board for a dessert brand in a {argument name="brand st
 
 ### 6. E-commerce Main Image - Protein Powder Splash Hero Shot
 
-![E-commerce Main Image - Protein Powder Splash Hero Shot](https://cms-assets.youmind.com/media/1777367354583_3s0x55_HG6X64TacAAC4ug.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367354583_3s0x55_HG6X64TacAAC4ug.jpg" alt="E-commerce Main Image - Protein Powder Splash Hero Shot" width="480">
 
 This prompt generates a dramatic premium supplement product advertisement with a floating whey tub, chocolate splash, and flying cookies for ecommerce or fitness brand web assets.
 
@@ -157,7 +159,7 @@ Create a hyper-realistic commercial product splash shot of a large white plastic
 
 ### 7. Product Marketing - Surreal Orange Puffer Bus Stop Editorial
 
-![Product Marketing - Surreal Orange Puffer Bus Stop Editorial](https://cms-assets.youmind.com/media/1777367357656_q04nws_HG8THtHXwAAAM06.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367357656_q04nws_HG8THtHXwAAAM06.jpg" alt="Product Marketing - Surreal Orange Puffer Bus Stop Editorial" width="480">
 
 A cinematic fashion editorial image of a man in a concrete bus stop sheltered by a giant orange puffer jacket, ideal for luxury campaign or conceptual style imagery.
 
@@ -174,7 +176,7 @@ A surreal high-fashion editorial photograph on an empty roadside in a bleak Icel
 
 ### 8. Product Marketing - Luxury Eggs Benedict Diorama Box
 
-![Product Marketing - Luxury Eggs Benedict Diorama Box](https://cms-assets.youmind.com/media/1777367289467_oaehjg_HGt9OZVXIAA6x5u.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367289467_oaehjg_HGt9OZVXIAA6x5u.jpg" alt="Product Marketing - Luxury Eggs Benedict Diorama Box" width="480">
 
 This prompt generates a premium artisan food-photography image of Eggs Benedict presented as a collectible acrylic box with a miniature inventor kitchen scene, labeled ingredients, tools, and origin details.
 
@@ -191,7 +193,7 @@ This prompt generates a premium artisan food-photography image of Eggs Benedict 
 
 ### 9. Product Marketing - Luxury Vitamin C Serum Product Shot
 
-![Product Marketing - Luxury Vitamin C Serum Product Shot](https://cms-assets.youmind.com/media/1777367355647_b7jlob_HG8gRiabQAA9UAM.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367355647_b7jlob_HG8gRiabQAA9UAM.jpg" alt="Product Marketing - Luxury Vitamin C Serum Product Shot" width="480">
 
 This prompt generates a premium photorealistic skincare product image for e-commerce, beauty ads, and luxury wellness branding.
 
@@ -208,7 +210,7 @@ A high-end commercial skincare product photo on a light marble bathroom counter,
 
 ### 10. Product Marketing - Eggs Benedict Miniature Acrylic Box
 
-![Product Marketing - Eggs Benedict Miniature Acrylic Box](https://cms-assets.youmind.com/media/1777367289190_jjaiwm_HGt9OaDbgAAMPlk.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367289190_jjaiwm_HGt9OaDbgAAMPlk.jpg" alt="Product Marketing - Eggs Benedict Miniature Acrylic Box" width="480">
 
 This prompt generates a premium product-style photo of an acrylic boxed miniature kitchen diorama for Eggs Benedict, ideal for culinary concept art, packaging mockups, or collectible food-themed visuals.
 
@@ -225,7 +227,7 @@ A premium artisan food photography image of a clear acrylic collector box displa
 
 ### 11. Product Marketing - Brick Mini Set Box Mockup
 
-![Product Marketing - Brick Mini Set Box Mockup](https://cms-assets.youmind.com/media/1777367351712_0dlbya_HG7_HBnbsAAorib.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367351712_0dlbya_HG7_HBnbsAAorib.jpg" alt="Product Marketing - Brick Mini Set Box Mockup" width="480">
 
 A realistic parody toy-building-set package showing a brick-built swing diorama, suitable for generating collectible box art and novelty construction set concepts.
 
@@ -242,7 +244,7 @@ A realistic parody toy-building-set package showing a brick-built swing diorama,
 
 ### 12. E-commerce Main Image - Fashion Editorial Outfit Breakdown
 
-![E-commerce Main Image - Fashion Editorial Outfit Breakdown](https://cms-assets.youmind.com/media/1777367302271_29g2d9_HG6HvvhawAAzJb-.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367302271_29g2d9_HG6HvvhawAAzJb-.jpg" alt="E-commerce Main Image - Fashion Editorial Outfit Breakdown" width="480">
 
 This prompt turns a reference outfit photo into a polished magazine-style apparel layout for product presentation and catalog mockups.
 
@@ -259,7 +261,7 @@ Using REFERENCE_0, extract only the outfit and turn it into a clean fashion maga
 
 ### 13. Product Marketing - Origami Dinosaur Pop-Up Book Ad
 
-![Product Marketing - Origami Dinosaur Pop-Up Book Ad](https://cms-assets.youmind.com/media/1777367288215_rreo9l_HGt_mBOaYAAmqSC.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367288215_rreo9l_HGt_mBOaYAAmqSC.jpg" alt="Product Marketing - Origami Dinosaur Pop-Up Book Ad" width="480">
 
 This prompt generates a cinematic children's advertisement image of a paper T-rex bursting from a pop-up book, ideal for toy, book, or educational product marketing.
 
@@ -276,7 +278,7 @@ A polished children's pop-up book advertisement on a dark studio background, fea
 
 ### 14. E-commerce Main Image - Premium Wireless Earbud E-commerce Infographic
 
-![E-commerce Main Image - Premium Wireless Earbud E-commerce Infographic](https://cms-assets.youmind.com/media/1777367256566_a0j742_HG48wa1acAAbO6y.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367256566_a0j742_HG48wa1acAAbO6y.jpg" alt="E-commerce Main Image - Premium Wireless Earbud E-commerce Infographic" width="480">
 
 A comprehensive marketing infographic prompt for true wireless earbuds, featuring a professional fashion campaign aesthetic and detailed typographic layout.
 
@@ -351,7 +353,7 @@ Balanced composition with strong negative space
 
 ### 15. E-commerce Main Image - Food Image Professional Retouching Prompt
 
-![E-commerce Main Image - Food Image Professional Retouching Prompt](https://cms-assets.youmind.com/media/1777280784144_jbzqq2_HGy5ZsBbwAAxbRx.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280784144_jbzqq2_HGy5ZsBbwAAxbRx.jpg" alt="E-commerce Main Image - Food Image Professional Retouching Prompt" width="480">
 
 A prompt that takes a photo of an empty or used plate and instructs GPT-Image-2 to recreate it as a professional marketing photo for a restaurant menu.
 
@@ -368,7 +370,7 @@ This image is an empty plate from {argument name="restaurant" default="Yoshinoya
 
 ### 16. E-commerce Main Image - Luxury Jewelry Advertisement
 
-![E-commerce Main Image - Luxury Jewelry Advertisement](https://cms-assets.youmind.com/media/1777280764503_pzbufz_HG0qIsOaMAAPmCd.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280764503_pzbufz_HG0qIsOaMAAPmCd.jpg" alt="E-commerce Main Image - Luxury Jewelry Advertisement" width="480">
 
 A prompt for generating high-end jewelry advertisements with macro details, warm gold lighting, and romantic shadow play for a boutique aesthetic.
 
@@ -385,7 +387,7 @@ Create a jewelry advertisement for {argument name="jewelry piece" default="[JEWE
 
 ### 17. E-commerce Main Image - Professional Drink Photo Enhancement
 
-![E-commerce Main Image - Professional Drink Photo Enhancement](https://cms-assets.youmind.com/media/1777280788253_wiqap8_HG0vLkbaIAA30oz.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280788253_wiqap8_HG0vLkbaIAA30oz.jpg" alt="E-commerce Main Image - Professional Drink Photo Enhancement" width="480">
 
 This prompt transforms a casual reference photo of a beverage into a polished, ad-like product shot for social media, menus, or promotional use.
 
@@ -402,7 +404,7 @@ Using the provided reference image, turn this casual phone snapshot of the drink
 
 ### 18. E-commerce Main Image - Chinese Traditional Luxury Product Design
 
-![E-commerce Main Image - Chinese Traditional Luxury Product Design](https://cms-assets.youmind.com/media/1777280771677_7lq50r_HGy0ak5bIAABTD6.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280771677_7lq50r_HGy0ak5bIAABTD6.jpg" alt="E-commerce Main Image - Chinese Traditional Luxury Product Design" width="480">
 
 Two prompts for high-end product design: a Tang Dynasty inspired silk shawl and a Song Dynasty style Ru-ware tea set.
 
@@ -421,7 +423,7 @@ Song Dynasty Ru-ware sky-blue glazed tea set, delicate ice-crackle glaze, 'blue 
 
 ### 19. E-commerce Main Image - Minimalist Tech Accessory Advertisement
 
-![E-commerce Main Image - Minimalist Tech Accessory Advertisement](https://cms-assets.youmind.com/media/1777280765015_4megwd_HG0qLMab0AA1zo3.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280765015_4megwd_HG0qLMab0AA1zo3.jpg" alt="E-commerce Main Image - Minimalist Tech Accessory Advertisement" width="480">
 
 A professional tech marketing prompt focused on minimalist Apple-style floating renders and clean typography.
 
@@ -438,7 +440,7 @@ Generate a tech accessory ad for {argument name="accessory" default="[ACCESSORY]
 
 ### 20. E-commerce Main Image - Shampoo Product Creative Prompt
 
-![E-commerce Main Image - Shampoo Product Creative Prompt](https://cms-assets.youmind.com/media/1777280781741_r5q47s_HGzZMdQXUAAlzgT.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280781741_r5q47s_HGzZMdQXUAAlzgT.jpg" alt="E-commerce Main Image - Shampoo Product Creative Prompt" width="480">
 
 A simple prompt for generating product creative for a hair restoration shampoo featuring a female model.
 
@@ -453,11 +455,11 @@ Create a product creative for '{argument name="brand name" default="Over.X"},' a
 
 <a id="prompt-03eba2b3c22f3862ee30"></a>
 
-### 21. 电商商品展示设计
+### 21. E-commerce Product Display Design
 
-![电商商品展示设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case157.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case157.jpg" alt="E-commerce Product Display Design" width="480">
 
-- **Categories:** 电商商品展示设计
+- **Categories:** E-commerce product display design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-157)
 
 **Prompt:**
@@ -524,13 +526,29 @@ Create a product creative for '{argument name="brand name" default="Over.X"},' a
 }
 ```
 
+<a id="prompt-086d85ce26c3e47af741"></a>
+
+### 22. E-commerce product display image
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case192.jpg" alt="E-commerce product display image" width="480">
+
+- **Categories:** E-commerce product showcase images
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-192)
+
+**Prompt:**
+
+```text
+AI smart glasses e-commerce detail image
+```
+
 <a id="prompt-0a8c22cf595190b7f360"></a>
 
-### 22. 电商商品展示设计
+### 23. E-commerce product display design
 
-![电商商品展示设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case33.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case33.jpg" alt="E-commerce product display design" width="480">
 
-- **Categories:** 电商商品展示设计
+- **Categories:** categories.category_c8e9dff7f8.en
+E-commerce product display design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-33)
 
 **Prompt:**
@@ -541,9 +559,9 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 
 <a id="prompt-10daa548f13289b64857"></a>
 
-### 23. Apple Pods Pro 3 Earbuds E-Commerce Infographic
+### 24. Apple Pods Pro 3 Earbuds E-Commerce Infographic
 
-![Apple Pods Pro 3 Earbuds E-Commerce Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case45/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case45/output.jpg" alt="Apple Pods Pro 3 Earbuds E-Commerce Infographic" width="480">
 
 - **Categories:** ui
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/rovvmut_/status/2047912710365761828)
@@ -554,179 +572,89 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
 ```
 
-<a id="prompt-14eb819629f22872506a"></a>
-
-### 24. 终结者机器人淘宝详情页
-
-![终结者机器人淘宝详情页](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case301.jpg)
-
-- **Categories:** 终结者机器人淘宝详情页
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-301)
-
-**Prompt:**
-
-```text
-[中文]
-生成图片:
-T-800机器人的淘宝商品详情页，展示:
-机器人的正面侧面背面三视图，
-产品价格，
-产品细节，
-功能和使用场景等
-
-[English]
-Generate image:
-Taobao product detail page of a T-800 robot, showing:
-front, side, and back three-view drawings of the robot,
-product price,
-product details,
-functions and usage scenarios
-```
-
-<a id="prompt-18448df08cb5a9461118"></a>
-
-### 25. 电商商品展示图
-
-![电商商品展示图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case192.jpg)
-
-- **Categories:** 电商商品展示图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-192)
-
-**Prompt:**
-
-```text
-[中文]
-AI智能眼镜电商详情图
-
-[English]
-AI smart glasses e-commerce detail image
-```
-
-<a id="prompt-18e4e983e388e468fb70"></a>
-
-### 26. 健身蛋白粉电商详情页
-
-![健身蛋白粉电商详情页](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case194.jpg)
-
-- **Categories:** 健身蛋白粉电商详情页
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-194)
-
-**Prompt:**
-
-```text
-[中文]
-健身蛋白粉电商详情图
-
-[English]
-Fitness protein powder e-commerce detail image
-```
-
-<a id="prompt-198f8cb2aac67d2ef743"></a>
-
-### 27. 清新夏日女装连衣裙电商展示
-
-![清新夏日女装连衣裙电商展示](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case189.jpg)
-
-- **Categories:** 清新夏日女装连衣裙电商展示
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-189)
-
-**Prompt:**
-
-```text
-[中文]
-夏季女裙电商详情图
-
-[English]
-Summer women's dress e-commerce detail image
-```
-
 <a id="prompt-1aaba994d7662ec62bb8"></a>
 
-### 28. 电商直播 UI 样机
+### 25. Live streaming interface design diagram
 
-![电商直播 UI 样机](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case21.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case21.jpg" alt="Live streaming interface design diagram" width="480">
 
 Generates a realistic social media live stream interface overlaying a portrait, featuring customizable chat messages, gift popups, and a product purchase card.
 
-- **Categories:** 直播界面设计图, E-commerce Live Stream UI Mockup
+- **Categories:** Livestream interface design, E-commerce Live Stream UI Mockup
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-21)
 
 **Prompt:**
 
 ```text
 {
-  "type": "直播 UI 样机",
+  "type": "live stream UI mockup",
   "subject": {
-    "description": "{argument name=\"host name\" default=\"Elon Musk\"} 的肖像，面带微笑，身穿印有白色技术示意图的黑色 T 恤",
-    "background": "左侧显示带有 '{argument name=\"left background logo\" default=\"SPACEX\"}' 文字的屏幕，右侧显示红色的 '{argument name=\"right background logo\" default=\"Tesla T logo\"}' 和一辆深色汽车"
+    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic",
+    "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car"
   },
   "ui_overlay": {
     "top_header": {
-      "host_info": "头像，名称 '{argument name=\"host name\" default=\"Elon Musk\"}'，副标题 '55.6万本场点赞'，红色 '关注' 按钮",
-      "rank_badge": "带有 '全站第1名' 的金币图标",
-      "viewer_stats": "3 个顶部观众头像，显示 '12.3w'、'8.6w'、'5.7w'，总计 '68.7万'，'X' 关闭按钮",
-      "right_links": "'更多直播 >'，'礼物展馆 0/24'（带有蓝色 '经典' 标签）"
+      "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '556,000 likes this stream', red 'Follow' button",
+      "rank_badge": "gold coin icon with '#1 on the platform'",
+      "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '687,000', 'X' close button",
+      "right_links": "'More Live Streams >', 'Gift Gallery 0/24' with blue 'Classic' tag"
     },
     "mid_left_gifts": {
       "count": 2,
       "items": [
-        "头像 '科技爱好者'，'送小心心'，爱心图标 x 1314",
-        "头像 '星辰大海'，'送火箭'，火箭图标 x 666"
+        "avatar 'Tech Enthusiast', 'Sent a small heart', heart icon x 1314",
+        "avatar 'Stars and Seas', 'Sent a rocket', rocket icon x 666"
       ]
     },
     "bottom_left_chat": {
-      "system_message": "37 级勋章 '宇宙漫游者 加入了直播间'",
+      "system_message": "level 37 badge 'Cosmic Wanderer joined the livestream'",
       "message_count": 7,
       "messages": [
-        "小火箭: 马斯克！未来可期！🚀",
-        "future: 特斯拉Model 2什么时候出？",
-        "星空梦想家: SpaceX今年能上火星吗？",
-        "AI探索者: Neuralink进展如何？",
-        "帅气的网友: 马总好！",
-        "Mars: 第一次来你的直播，超激动！",
-        "用户123: 讲讲AI吧，会取代人类吗？"
+        "Little Rocket: Musk! The future is bright! 🚀",
+        "future: When will the Tesla Model 2 be released?",
+        "Starry Dreamer: Can SpaceX go to Mars this year?",
+        "AI Explorer: How is Neuralink progressing?",
+        "Handsome Netizen: Hello Mr. Ma!",
+        "Mars: First time at your livestream, so excited!",
+        "User123: Tell us about AI, will it replace humans?"
       ]
     },
     "bottom_right_product_card": {
-      "hot_tag": "橙色 '热卖 x 1888'",
+      "hot_tag": "orange 'Hot Sale x 1888'",
       "image": "Tesla Cybertruck",
-      "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}",
+      "title": "{argument name=\"product name\" default=\"Tesla Cybertruck Electric Pickup\"}",
       "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}",
-      "button": "红色 '抢' 按钮",
-      "floating_animation": "半透明爱心沿右侧边缘向上浮动"
+      "button": "red 'Grab' button",
+      "floating_animation": "translucent hearts floating up the right edge"
     },
     "bottom_bar": {
-      "input_field": "'说点什么...'",
-      "icons": ["笑脸", "三个点", "购物车", "礼物盒", "分享"]
+      "input_field": "'Say something...'",
+      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
     }
   }
 }
 ```
 
-<a id="prompt-3df8b85db7b174d62e90"></a>
+<a id="prompt-2b49bd9d04ac93aebca2"></a>
 
-### 29. 美妆产品广告图
+### 26. 潮流视角重塑精致商品广告
 
-![美妆产品广告图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case264.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case181.jpg" alt="潮流视角重塑精致商品广告" width="480">
 
-- **Categories:** 美妆产品广告图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-264)
+- **Categories:** Trendy perspective reshaping exquisite product advertisements
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-181)
 
 **Prompt:**
 
 ```text
-[中文]
-为Z世代设计的可爱Y2K风格的平价化妆品广告图像。使用鲜艳的配色，包括荧光色。纵横比为3:4。
-
-[English]
-Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.
+Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.
 ```
 
 <a id="prompt-41f1dd8c3d6ad7f4f2bb"></a>
 
-### 30. Ultra-realistic product photography of a rich strawberry soft-serve ice cream...
+### 27. Ultra-realistic product photography of a rich strawberry soft-serve ice cream...
 
-![Ultra-realistic product photography of a rich strawberry soft-serve ice cream...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case79/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case79/output.jpg" alt="Ultra-realistic product photography of a rich strawberry soft-serve ice cream..." width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ZaraIrahh/status/2047179916161212542)
@@ -747,11 +675,71 @@ Lighting: soft natural daylight, warm highlights, shallow depth of field, high-e
 Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert branding.
 ```
 
+<a id="prompt-4e002a9cd8bb0d0290ba"></a>
+
+### 28. Beauty Product Ad Image
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case264.jpg" alt="Beauty Product Ad Image" width="480">
+
+- **Categories:** Beauty product ad images
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-264)
+
+**Prompt:**
+
+```text
+Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.
+```
+
+<a id="prompt-5d6d9a10114efa5433a6"></a>
+
+### 29. Fitness Protein Powder E-commerce Detail Page
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case194.jpg" alt="Fitness Protein Powder E-commerce Detail Page" width="480">
+
+- **Categories:** Fitness protein powder e-commerce detail page
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-194)
+
+**Prompt:**
+
+```text
+Fitness protein powder e-commerce detail image
+```
+
+<a id="prompt-6b1867ea2f785253e10a"></a>
+
+### 30. Fresh Summer Women's Dresses E-commerce Showcase
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case189.jpg" alt="Fresh Summer Women's Dresses E-commerce Showcase" width="480">
+
+- **Categories:** 清新夏日女装连衣裙电商展示
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-189)
+
+**Prompt:**
+
+```text
+Summer women's dress e-commerce detail image
+```
+
+<a id="prompt-7141bf2e126852561b9e"></a>
+
+### 31. 全自动咖啡机产品展示
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case190.jpg" alt="全自动咖啡机产品展示" width="480">
+
+- **Categories:** 全自动咖啡机产品展示
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-190)
+
+**Prompt:**
+
+```text
+Fully automatic coffee machine e-commerce detail image
+```
+
 <a id="prompt-7440c46718963b2ffac1"></a>
 
-### 31. Tomaten-E-Commerce-Produktbilderset
+### 32. 西红柿电子商务产品图片集
 
-![Tomaten-E-Commerce-Produktbilderset](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case117/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case117/output.jpg" alt="西红柿电子商务产品图片集" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Adam38363368936/status/2047165092253532461)
@@ -764,334 +752,46 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 使用地址
 ```
 
-<a id="prompt-7fdeb81cbd5d9901ff9e"></a>
+<a id="prompt-79f91b388325c95ccacf"></a>
 
-### 32. 电商商品展示设计
+### 33. 终结者机器人淘宝详情页
 
-![电商商品展示设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case313.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case301.jpg" alt="终结者机器人淘宝详情页" width="480">
 
-- **Categories:** 电商商品展示设计
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-313)
+- **Categories:** Terminator Robot Taobao Detail Page
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-301)
 
 **Prompt:**
 
 ```text
-[中文]
-{
-  "style": "超写实奢华化妆品产品摄影",
-  "composition": {
-    "color_scheme": "戏剧性的单色蓝紫色",
-    "resolution": "8K超高分辨率",
-    "depth": "电影级景深",
-    "aesthetic": "高端香氛护肤品广告风格"
-  },
-  "product": {
-    "type": "软管包装",
-    "finish": "缎面质感",
-    "color": "长春花蓝",
-    "label": "NUBELLA",
-    "typography": "优雅的银色字体",
-    "cap": "反光金属铬盖",
-    "position": "垂直居中"
-  },
-  "surroundings": {
-    "smoke": {
-      "type": "墨水般的旋涡云雾",
-      "colors": [
-        "薰衣草色",
-        "靛蓝色",
-        "冰蓝色"
-      ],
-      "texture": "柔软、翻腾",
-      "interaction": "环绕在产品周围"
-    },
-    "flowers": {
-      "primary": [
-        {
-          "color": "紫色",
-          "details": "错综复杂的花瓣细节",
-          "center": "鲜艳的黄色"
-        },
-        {
-          "color": "紫丁香色",
-          "details": "错综复杂的花瓣细节",
-          "center": "鲜艳的黄色"
-        }
-      ],
-      "secondary": {
-        "type": "细小的紫罗兰色花朵",
-        "purpose": "增加立体感"
-      }
-    }
-  },
-  "lighting": {
-    "direction": "来自左上方的柔和定向照明",
-    "effects": [
-      "突显软管的光滑曲度",
-      "为金属盖增添微妙的光泽",
-      "在烟雾中营造深度"
-    ]
-  },
-  "background": {
-    "blend": "无缝的冷色调蓝色和紫色调",
-    "enhancement": "空灵的花香美学"
-  },
-  "details": "花瓣和蒸汽的超精细纹理"
-}
-
-[English]
-{
-  "style": "Ultra-realistic luxury cosmetic product photography",
-  "composition": {
-    "color_scheme": "Dramatic monochromatic blue-violet",
-    "resolution": "8K ultra-high resolution",
-    "depth": "Cinematic depth",
-    "aesthetic": "High-end perfumed skincare advertising style"
-  },
-  "product": {
-    "type": "Squeeze tube",
-    "finish": "Satin-finish",
-    "color": "Periwinkle-blue",
-    "label": "NUBELLA",
-    "typography": "Elegant silver",
-    "cap": "Reflective metallic chrome",
-    "position": "Vertically centered"
-  },
-  "surroundings": {
-    "smoke": {
-      "type": "Ink-like swirling clouds",
-      "colors": [
-        "Lavender",
-        "Indigo",
-        "Icy blue"
-      ],
-      "texture": "Soft, billowing",
-      "interaction": "Wrapping around the product"
-    },
-    "flowers": {
-      "primary": [
-        {
-          "color": "Purple",
-          "details": "Intricate petal details",
-          "center": "Vibrant yellow"
-        },
-        {
-          "color": "Lilac",
-          "details": "Intricate petal details",
-          "center": "Vibrant yellow"
-        }
-      ],
-      "secondary": {
-        "type": "Tiny violet blossoms",
-        "purpose": "Added dimension"
-      }
-    }
-  },
-  "lighting": {
-    "direction": "Soft directional lighting from upper left",
-    "effects": [
-      "Highlights smooth curvature of the tube",
-      "Adds subtle sheen to metallic cap",
-      "Creates depth within smoke plumes"
-    ]
-  },
-  "background": {
-    "blend": "Seamless cool blue and purple tones",
-    "enhancement": "Ethereal floral fragrance aesthetic"
-  },
-  "details": "Hyper-detailed textures of petals and vapor"
-}
+Generate image:
+Taobao product detail page of a T-800 robot, showing:
+front, side, and back three-view drawings of the robot,
+product price,
+product details,
+functions and usage scenarios
 ```
 
-<a id="prompt-850732bc01de0ae54607"></a>
+<a id="prompt-83a151efa2fc315821af"></a>
 
-### 33. 全自动咖啡机产品展示
+### 34. Amazon detail page design
 
-![全自动咖啡机产品展示](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case190.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case178.jpg" alt="Amazon detail page design" width="480">
 
-- **Categories:** 全自动咖啡机产品展示
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-190)
-
-**Prompt:**
-
-```text
-[中文]
-全自动咖啡机电商详情图
-
-[English]
-Fully automatic coffee machine e-commerce detail image
-```
-
-<a id="prompt-9ab9c9927caa1fabe6f3"></a>
-
-### 34. 品牌口红推荐报告信息图
-
-![品牌口红推荐报告信息图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case353.jpg)
-
-- **Categories:** 品牌口红推荐报告信息图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-353)
+- **Categories:** Amazon product image design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-178)
 
 **Prompt:**
 
 ```text
-一、系统角色
-你是一个专业美妆顾问 + 人脸分析系统 + 品牌视觉设计系统。
-你的任务是：基于用户上传自拍与指定口红品牌，生成一张具有品牌调性的“口红推荐报告信息结构图”。
-
-二、输入参数
-用户图像：{用户自拍}
-品牌：{口红品牌，如 Dior / YSL / Armani / Chanel / TF}
-风格偏好（可选）：{通勤 / 温柔 / 气场 / 氛围感 / 显白优先}
-推荐数量：3–5
-
-三、品牌视觉层（新增核心模块）
-根据 {品牌} 自动构建视觉风格（Brand Visual Identity），提取品牌调性，例如：
-Dior：
-优雅、高级、法式、灰白 + 银色、柔光
-YSL：
-黑金、性感、强对比、时尚编辑感
-Armani：
-低饱和、雾面、克制、灰调高级感
-Chanel：
-极简黑白、高级、理性、结构清晰
-Tom Ford：
-深色、高对比、奢华、电影感
-
-视觉应用到海报：
-1. 主色调（背景微变化，不是大面积铺色）
-2. 强调色（用于色号标题/细线/小元素）
-3. 光影风格（柔光 / 强对比 / 冷调 / 暖调）
-4. 字体气质（优雅 / 现代 / 冷感 / 力量感）
-
-四、分析层
-对用户进行分析：
-- 肤色：冷 / 暖 / 中性（+ 明度）
-- 气质：清冷 / 温柔 / 明艳 / 干净 / 成熟
-- 唇部特征：薄 / 厚 / 唇色基础
-- 妆容状态：素颜 / 日常 / 精致
-输出一句总结：「更适合 {色系} + {饱和度} + {质地} 的口红方向」
-
-五、推荐层（增强差异）
-从 {品牌} 推荐 3–5 个色号：
-每个包含：
-- 色号名称（#999）
-- 色系（正红 / 豆沙 / 枫叶 / 奶茶 / 玫瑰）
-- 上脸效果（显白 / 提气色 / 氛围感 / 气场增强）
-- 场景（逛街 / 通勤 / 聚餐 / 约会 / 宴会）
-
-要求：每个色号“风格明确区分”（一个日常、一个气场、一个氛围感等）
-
-六、信息结构图
-生成竖版信息结构图
-整体风格：美妆时尚大片质感 + 结构化信息可视化排版 + 品牌视觉体系深度融合
-极简但不单调，高级但有视觉层次
-
-【整体布局】
-左上：用户输入区
-右上：分析结论
-中部：试色矩阵（核心）
-底部：总结
-
-## 1️⃣ 左上（用户区）
-用户自拍（真实质感）
-+ 小标题：「肤色分析」
-+ 一句话结论：「适合低饱和玫瑰调，避免高荧光色」
-
-极细品牌色线条（如 YSL 金线 / Dior 灰线）
-
-## 2️⃣ 中部（核心试色矩阵）
-这是视觉重点区域（占比60%以上）
-展示方式：将 3–5 个色号以“人脸试色对比”的形式排列：
-每一列 = 一个色号
-每个色号包含：
-- 小型人脸图（同一张脸，不同唇色）
-- 色号名称（如 #999）
-- 色系标签（如 Classic Red）
-- 一句话效果说明
-要求：所有人脸保持一致，仅唇色变化，真实试色效果（lip color try-on），肤质真实，不塑料，光影统一。
-排列方式：横向排布 或 网格排布（整齐但不死板）
-
-品牌增强点：
-- Dior：轻柔渐变背景 + 柔光阴影
-- YSL：更强对比 + 黑色细分割线
-- Armani：整体灰调统一，低对比
-- Chanel：严格对齐，极简黑白
-- TF：局部暗背景 + 高光强调
-
-## 3️⃣ 每个色号模块
-包含：
-色号名（突出）
-色系标签
-一句推荐语
-场景标签（逛街/通勤/聚餐/约会/宴会等）
-
-品牌化处理：
-- 用“品牌强调色”做：
-  - 色号标题
-  - 细分隔线
-  - 小icon
-（不是色块，而是“精致点缀”）
-
-## 4️⃣ 底部总结
-一段“有判断力的建议”，
-例如：「日常建议选择低饱和豆沙色提升气色，重要场合可使用正红增强气场」
-或：「你的肤色更适合柔和玫瑰调，避免高荧光色系」
-但不要完全引用以上2个例子的建议，根据用户实际肤色来建议。
-品牌增强：底部可加极淡品牌风格横线 / 极小品牌字样（非logo）
-
-七、UI设计
-- 不使用圆角卡片 UI
-- 不使用厚边框
-1. 引入“层级对比”：
-   - 主体亮
-   - 次要信息弱
-2. 使用“微对比”：
-   - 细线
-   - 灰度差
-   - 字重变化
-3. 加入“节奏感”：
-   - 疏密变化
-   - 模块呼吸
-4. 品牌点缀：
-   - 只用 5% 强调
-   - 不破坏极简结构
-
-八、图像质量
-真实皮肤质感
-唇色精准
-统一光影
-商业级美妆摄影
-8K
-
-———
-品牌：YSL
-```
-
-<a id="prompt-a589336c56dcfd14f58f"></a>
-
-### 35. 潮流视角重塑精致商品广告
-
-![潮流视角重塑精致商品广告](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case181.jpg)
-
-- **Categories:** 潮流视角重塑精致商品广告
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-181)
-
-**Prompt:**
-
-```text
-[中文]
-请以专业设计师的视角重新设计这个商品广告。
-采用当前的潮流趋势，针对目标受众的精致设计。
-
-[English]
-Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.
+Generate a set of Amazon A+= detail images
 ```
 
 <a id="prompt-a962cdb25c601b758109"></a>
 
-### 36. Beauty Product Commercial Marketing Photograph
+### 35. Beauty Product Commercial Marketing Photograph
 
-![Beauty Product Commercial Marketing Photograph](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case46/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case46/output.jpg" alt="Beauty Product Commercial Marketing Photograph" width="480">
 
 - **Categories:** ui
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIwithSarah_/status/2047904483359760677)
@@ -1104,9 +804,9 @@ A high-resolution commercial marketing photograph features a young woman with sl
 
 <a id="prompt-ba5786c33b3faa8cfb72"></a>
 
-### 37. Apple Pods Pro 3 Headphone E-Commerce Infographic
+### 36. Apple Pods Pro 3 Headphone E-Commerce Infographic
 
-![Apple Pods Pro 3 Headphone E-Commerce Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case44/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case44/output.jpg" alt="Apple Pods Pro 3 Headphone E-Commerce Infographic" width="480">
 
 - **Categories:** ui
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/meng_dagg695/status/2047935217231663186)
@@ -1208,11 +908,86 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
                 vibrant yet professional color grading
 ```
 
+<a id="prompt-cf592f43707b9b7d01fd"></a>
+
+### 37. E-commerce Product Display Design
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case313.jpg" alt="E-commerce Product Display Design" width="480">
+
+- **Categories:** E-commerce product display design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-313)
+
+**Prompt:**
+
+```text
+{
+  "style": "Ultra-realistic luxury cosmetic product photography",
+  "composition": {
+    "color_scheme": "Dramatic monochromatic blue-violet",
+    "resolution": "8K ultra-high resolution",
+    "depth": "Cinematic depth",
+    "aesthetic": "High-end perfumed skincare advertising style"
+  },
+  "product": {
+    "type": "Squeeze tube",
+    "finish": "Satin-finish",
+    "color": "Periwinkle-blue",
+    "label": "NUBELLA",
+    "typography": "Elegant silver",
+    "cap": "Reflective metallic chrome",
+    "position": "Vertically centered"
+  },
+  "surroundings": {
+    "smoke": {
+      "type": "Ink-like swirling clouds",
+      "colors": [
+        "Lavender",
+        "Indigo",
+        "Icy blue"
+      ],
+      "texture": "Soft, billowing",
+      "interaction": "Wrapping around the product"
+    },
+    "flowers": {
+      "primary": [
+        {
+          "color": "Purple",
+          "details": "Intricate petal details",
+          "center": "Vibrant yellow"
+        },
+        {
+          "color": "Lilac",
+          "details": "Intricate petal details",
+          "center": "Vibrant yellow"
+        }
+      ],
+      "secondary": {
+        "type": "Tiny violet blossoms",
+        "purpose": "Added dimension"
+      }
+    }
+  },
+  "lighting": {
+    "direction": "Soft directional lighting from upper left",
+    "effects": [
+      "Highlights smooth curvature of the tube",
+      "Adds subtle sheen to metallic cap",
+      "Creates depth within smoke plumes"
+    ]
+  },
+  "background": {
+    "blend": "Seamless cool blue and purple tones",
+    "enhancement": "Ethereal floral fragrance aesthetic"
+  },
+  "details": "Hyper-detailed textures of petals and vapor"
+}
+```
+
 <a id="prompt-e3e532edb4fa3b36be7d"></a>
 
-### 38. 电商商品展示设计
+### 38. E-commerce product display design
 
-![电商商品展示设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case141.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case141.jpg" alt="E-commerce product display design" width="480">
 
 - **Categories:** 电商商品展示设计
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-141)
@@ -1233,58 +1008,58 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
         "type": "large landscape banner",
         "position": "top left",
         "visuals": "character winking and holding a strawberry next to a large basket of strawberries",
-        "main_text": "{argument name=\"main headline\" default=\"いちごたっぷり\"}",
-        "sub_text": ["笑顔あふれる、甘〜いひととき♪", "とびきりおいしい！", "ひと粒で、しあわせ広がる♡", "あまっ♡", "旬のおいしさをお届け！"],
+        "main_text": "{argument name=\"main headline\" default=\"Full of strawberries\"}",
+        "sub_text": ["A moment full of smiles, sweet~♪", "Super delicious!", "With one berry, happiness spreads♡", "Sweet♡", "Delicious seasonal flavors delivered!"],
         "badges": {
           "count": 3,
-          "labels": ["あま〜くてジューシー！", "いろんなサイズを楽しめる♪", "新鮮朝採れ！"]
+          "labels": ["Sweet~ and Juicy!", "Enjoy various sizes♪", "Freshly picked in the morning!"]
         }
       },
       {
         "type": "vertical banner",
         "position": "right",
         "visuals": "character eating a strawberry with a pile of strawberries below",
-        "main_text": "いちごたっぷり",
-        "sub_text": ["旬のいちごをお届け！", "{argument name=\"secondary headline\" default=\"あま〜くて、ジューシー！\"}", "とろけるおいしさ〜♡"],
+        "main_text": "Full of strawberries",
+        "sub_text": ["Delivering seasonal strawberries!", "{argument name=\"secondary headline\" default=\"Sweet~ and Juicy!\"}", "Melting deliciousness~♡"],
         "badges": {
           "count": 3,
-          "labels": ["朝採れ新鮮！", "いろんなサイズを楽しめる♪", "甘くてジューシー！"]
+          "labels": ["Freshly picked in the morning!", "Enjoy various sizes♪", "Sweet and Juicy!"]
         }
       },
       {
         "type": "wide horizontal banner",
         "position": "middle",
         "visuals": "character with closed eyes eating a strawberry, flanked by strawberries",
-        "main_text": "いちごたっぷり！",
-        "sub_text": ["あまくて、ジューシーな幸せ♡", "旬の美味しさをお届けします！", "おいし〜っ♡"]
+        "main_text": "Full of strawberries!",
+        "sub_text": ["Sweet and Juicy happiness♡", "Delivering delicious seasonal flavors!", "Deliciouss~♡"]
       },
       {
         "type": "small square banner",
         "position": "bottom left",
         "visuals": "character smiling holding strawberry",
-        "text": ["いちごたっぷり", "あま〜くてジューシー！"]
+        "text": ["Full of strawberries", "Sweet~ and Juicy!"]
       },
       {
         "type": "small square banner",
         "position": "bottom mid-left",
         "visuals": "pile of strawberries with one cut in half",
-        "text": ["旬のいちご！", "あまくてとろけるおいしさ♡"]
+        "text": ["Seasonal strawberries!", "Sweet and melting deliciousness♡"]
       },
       {
         "type": "small horizontal banner",
         "position": "bottom mid-right",
         "visuals": "character holding strawberry",
-        "text": ["いちごたっぷり", "朝採れ新鮮！", "あまくてジューシー！"]
+        "text": ["Full of strawberries", "Freshly picked in the morning!", "Sweet and Juicy!"]
       },
       {
         "type": "circular icons",
         "position": "bottom right",
         "count": 4,
         "items": [
-          { "visual": "basket of strawberries", "label": "朝採れ新鮮！" },
-          { "visual": "half strawberry", "label": "あまくてジューシー！" },
-          { "visual": "whole strawberry", "label": "いろんなサイズ！" },
-          { "visual": "character face", "label": "とろけるおいしさ♡" }
+          { "visual": "basket of strawberries", "label": "Freshly picked in the morning!" },
+          { "visual": "half strawberry", "label": "Sweet and Juicy!" },
+          { "visual": "whole strawberry", "label": "Various sizes!" },
+          { "visual": "character face", "label": "Melting deliciousness♡" }
         ]
       }
     ]
@@ -1294,11 +1069,11 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 <a id="prompt-fc1d6617a8f48abf6700"></a>
 
-### 39. 电商商品展示设计
+### 39. E-commerce product display design
 
-![电商商品展示设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case125.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case125.jpg" alt="E-commerce product display design" width="480">
 
-- **Categories:** 电商商品展示设计
+- **Categories:** E-commerce product display design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-125)
 
 **Prompt:**
@@ -1308,7 +1083,7 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
   "type": "anime production layout sheet",
   "style": "traditional colored pencil genga, key animation drawing",
   "subject": {
-    "character": "{argument name=\"character name\" default=\"ナズナ 七草\"}",
+    "character": "{argument name=\"character name\" default=\"Nazuna Nanakusa\"}",
     "appearance": "anime girl with {argument name=\"hair color\" default=\"light purple\"} hair styled in twin braids and bangs, blue eyes, wearing a dark oversized coat",
     "pose_and_expression": "{argument name=\"expression\" default=\"smug with a small fang, resting chin on hand\"}"
   },
@@ -1316,14 +1091,14 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
   "layout": {
     "top_edge": "standard animation paper peg holes",
     "left_margin": {
-      "series_title": "{argument name=\"anime title\" default=\"よふかしのうた\"}",
+      "series_title": "{argument name=\"anime title\" default=\"Call of the Night\"}",
       "production_codes": ["#05 C.", "[A] (1)"],
-      "circled_note": "髪のハイライト 色トレスです"
+      "circled_note": "Hair highlight color trace"
     },
     "right_margin": {
       "red_box": "002.normal",
       "timing_layers": ["A (1)", "B (1) (2) (3)", "C (1) (2) END"],
-      "background_notes": ["BL 夜景", "BG 市街地夜景 色トレス"]
+      "background_notes": ["BG Night view", "BG Cityscape night view color trace"]
     }
   }
 }

@@ -2,8 +2,10 @@
 
 [Back to README](../README.md)
 
-- Total prompts: 43
-- Generated: 2026-05-04T14:49:54.225Z
+This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](https://gptimages.dev).
+
+- Total prompts: 47
+- Generated: 2026-05-05T17:36:14.688Z
 
 ## Prompts
 
@@ -11,7 +13,7 @@
 
 ### 1. Comic / Storyboard - Japanese Elephant Day Magazine Feature
 
-![Comic / Storyboard - Japanese Elephant Day Magazine Feature](https://cms-assets.youmind.com/media/1777367311943_pxvvcv_HGyzZAEaMAAxfWp.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367311943_pxvvcv_HGyzZAEaMAAxfWp.jpg" alt="Comic / Storyboard - Japanese Elephant Day Magazine Feature" width="480">
 
 This prompt generates a polished Japanese editorial-style magazine page about Elephant Day, ideal for seasonal feature graphics, lifestyle spreads, or educational zoo-themed art.
 
@@ -28,7 +30,7 @@ Create a soft, elegant Japanese lifestyle magazine editorial page in a warm bota
 
 ### 2. Infographic / Edu Visual - Minimalist facial beauty report
 
-![Infographic / Edu Visual - Minimalist facial beauty report](https://cms-assets.youmind.com/media/1777367278815_6bvtbg_HG6lzruaUAAqP7L.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367278815_6bvtbg_HG6lzruaUAAqP7L.jpg" alt="Infographic / Edu Visual - Minimalist facial beauty report" width="480">
 
 A professional prompt for generating a clean, high-end facial beauty analysis report with data-driven insights and a minimalist layout.
 
@@ -45,7 +47,7 @@ Based on this photo, create a clean, minimal, and luxurious facial beauty report
 
 ### 3. Infographic / Edu Visual - 3D Exploded Assembly Drawing
 
-![Infographic / Edu Visual - 3D Exploded Assembly Drawing](https://cms-assets.youmind.com/media/1777367268325_td7g6d_HG7r8UsawAAzN86.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367268325_td7g6d_HG7r8UsawAAzN86.jpg" alt="Infographic / Edu Visual - 3D Exploded Assembly Drawing" width="480">
 
 A prompt for generating detailed technical 3D exploded view drawings of any subject.
 
@@ -58,163 +60,13 @@ A prompt for generating detailed technical 3D exploded view drawings of any subj
 Create a 3D Insane detailed exploded assembly drawing of {argument name="subject" default="[subject or object]"}
 ```
 
-<a id="prompt-00246340503ba3666b75"></a>
-
-### 4. 绘制科学百科知识图谱
-
-![绘制科学百科知识图谱](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case218.jpg)
-
-- **Categories:** 绘制科学百科知识图谱
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-218)
-
-**Prompt:**
-
-```text
-[中文]
-角色：世界级科学百科插画师兼知识图谱架构师
-任务：以经典、无品牌标识（无任何 Logo）的科学百科风格，创作一幅细节极致丰富、结构极其精巧、视觉效果惊艳的「环球图解百科科学信息图」。
-题材选择：从【人物、植物、动物】中任选其一。
-具体对象：【例如：大王乌贼 / 列奥纳多・达・芬奇 / 红杉树】
-风格：采用复古泛黄米色纸张背景，绘制精细工整的科学插画；线条细腻精致，整体繁复专业、严谨考究。
-核心视觉要求
-主体逼真 3D 效果
-位于画面视觉中心（C 位）的主体形象，需具备极致的写实感与动态张力。营造强烈的空间纵深感，让人物、植物或动物仿佛突破画框，从平面纸张中跃出、冲向观者（效果类似变形 3D 或动态弹出效果，高精度写实呈现）。
-版式布局与留白设计
-主体位置：占据画面中心，周围刻意设置规划式留白，强化立体弹出效果，使其成为绝对视觉焦点。
-周边模块：根据所选题材，在画面四周（上下左右及四角）排布 6–8 个独立且规整有序的知识模块。整体呈现规整的信息密度感，而非杂乱堆砌。每个模块需带有清晰边框、标题栏与详尽丰富的内容。
-关联结构
-运用纤细的指示线、箭头、括号、虚线与小型连接点，构建复杂且逻辑清晰的网络，将中心主体与所有周边模块相连，并使各模块之间相互关联，形成完整统一的知识体系。
-文字与标注（硬性要求：必须为清晰中文）
-主标题：以醒目大气、笔法优美的中文书法字体呈现具体对象名称【例如：大王乌贼】。
-书法点缀：在主体画面与模块标题中，对关键术语使用工整美观的中文书法字体标注。
-标准中文文本：其余所有说明文字、大量清晰中文手写注释、模块内容及注解均使用清晰可辨的简体汉字，不得出现乱码或无法识别符号，优先保证文字可读性。
-指示线标注：模块内所有细小结构、细节、子模块、图表与插画，均需搭配详尽的指示线标注（仿解剖图形式），直接指向对应部位，最大化体现专业性与科普价值，做到每一处结构均有标注。
-分题材模块结构（参考示例）
-A. 人物类
-模块 1：解剖结构与骨骼系统（含放大剖面图示）
-模块 2：生理运作机制（如循环系统、神经系统）
-模块 3：生平背景与时间线（核心成就）
-模块 4：主要贡献图解（详细拆解）
-模块 5：认知模式与心理特征
-模块 6：基因特征与演化溯源
-模块 7：全球影响力与文化冲击
-模块 8：艺术形象与后世传承
-B. 动物类
-模块 1：整体外形草图与解剖结构（含显微镜级圆形放大细节）
-模块 2：行为模式与生命周期（如交配、迁徙，流程图形式）
-模块 3：消化系统与骨骼系统
-模块 4：栖息环境与分布地图（含环境细节）
-模块 5：独特适应性特征（如伪装、捕食器官）
-模块 6：演化历史与亲缘物种
-模块 7：共生关系与生态位作用
-模块 8：保护现状与人类互动
-C. 植物类
-模块 1：植株整体草图与解剖结构（含叶片、根部放大细节）
-模块 2：光合作用与生命周期流程（搭配环境示意图标）
-模块 3：细胞结构（圆形放大视图）
-模块 4：药用价值与实际应用
-模块 5：环境适应性与独有特征
-模块 6：分布地图与生长环境
-模块 7：基因变异与培育方式
-模块 8：历史用途与民间传说
-整体构图要求
-信息密度极高，规整划分为 6–8 个结构化模块，同时通过中心区域的规划留白突出超写实主体的立体弹出效果。风格硬核、专业、学术化，凭借动态 3D 主体实现极强视觉吸引力。
-无任何百科品牌标识（如 DK 等 Logo）。
-所有标注清晰可辨，所有手写注释工整可读。
-主标题采用中文书法字体。
-画面比例：3:4。
-【主题内容】
-
-[English]
-Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.
-
-Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style.
-
-Subject Matter: Choose one from [People, Plants, or Animals].
-
-Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].
-
-Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional.
-
-Key Visual Requirements:
-
-1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism).
-
-2.  Layout & Strategic White Space:
-    * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point.
-    * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content.
-
-3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.
-
-4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):
-    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"].
-    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.
-    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
-    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
-
-Subject-Specific Module Structure (Example for general reference):
-
-A. For Humans [People]:
-   - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections)
-   - Module 2: Physiological Processes (e.g., Circulatory/Nervous System)
-   - Module 3: Historical Context & Timeline (Key Achievements)
-   - Module 4: Major Contribution Diagram (Detailed breakdown)
-   - Module 5: Cognitive Process / Psychological Insight
-   - Module 6: Genetic Profile / Evolution
-   - Module 7: Global Influence & Cultural Impact
-   - Module 8: Cultural Representations / Legacy
-
-B. For Animals:
-   - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows)
-   - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style)
-   - Module 3: Digestive & Skeletal System
-   - Module 4: Habitats & Distribution Map (with environmental details)
-   - Module 5: Unique Adaptations (e.g., camouflage, hunting tools)
-   - Module 6: Evolutionary History & Relatives
-   - Module 7: Symbiotic Relationships / Ecosystem Role
-   - Module 8: Conservation Status & Human Interaction
-
-C. For Plants:
-   - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details)
-   - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment)
-   - Module 3: Cellular Structure (Magnified circular views)
-   - Module 4: Medicinal Properties / Practical Applications (as in original original prompt)
-   - Module 5: Environmental Adaptations / Unique Features
-   - Module 6: Distribution Map & Environmental Context
-   - Module 7: Genetic Variations & Cultivation
-   - Module 8: Historical Usage & Folklore
-
-Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.
-
-[主题内容]
-```
-
-<a id="prompt-037b9e96d5902c78e382"></a>
-
-### 5. 天坛古建拆解全图
-
-![天坛古建拆解全图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case211.jpg)
-
-- **Categories:** 天坛古建拆解全图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-211)
-
-**Prompt:**
-
-```text
-[中文]
-生成一个天坛的建筑拆解图，有详细的说明，中式美学风格
-
-[English]
-Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
-```
-
 <a id="prompt-03eded6bdca064268996"></a>
 
-### 6. 手机爆炸拆解图
+### 4. Mobile phone explosion disassembly diagram
 
-![手机爆炸拆解图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg" alt="Mobile phone explosion disassembly diagram" width="480">
 
-- **Categories:** 手机爆炸拆解图
+- **Categories:** Mobile phone explosion teardown diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-361)
 
 **Prompt:**
@@ -225,67 +77,83 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 
 <a id="prompt-0723d4ac8c12572d0293"></a>
 
-### 7. 手绘城市美食地图
+### 5. Infographic visualization design
 
-![手绘城市美食地图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case18.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case18.jpg" alt="Infographic visualization design" width="480">
 
 Generates a hand-drawn, watercolor-style tourist map featuring numbered local food specialties, landmarks, and a legend.
 
-- **Categories:** 信息图可视化设计, Illustrated City Food Map
+- **Categories:** Infographic visualization design, Illustrated City Food Map
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-18)
 
 **Prompt:**
 
 ```text
 {
-  "type": "手绘地图信息图",
-  "style": "{argument name=\"art style\" default=\"复古羊皮纸上的水彩墨水手绘插画\"}",
+  "type": "illustrated map infographic",
+  "style": "{argument name=\"art style\" default=\"watercolor and ink hand-drawn illustration on vintage parchment\"}",
   "title_section": {
-    "text": "{argument name=\"city name\" default=\"成都\"} {argument name=\"map title\" default=\"吃货暴走地图\"}",
-    "mascot": "戴着墨镜并竖起大拇指的卡通红辣椒"
+    "text": "{argument name=\"city name\" default=\"Chengdu\"} {argument name=\"map title\" default=\"Foodie's Walking Map\"}",
+    "mascot": "cartoon red chili pepper wearing sunglasses and giving a thumbs up"
   },
-  "border": "{argument name=\"border decoration\" default=\"绿叶与红辣椒藤蔓\"}",
+  "border": "{argument name=\"border decoration\" default=\"vine of green leaves and red chili peppers\"}",
   "layout": {
-    "background": "带有黄色道路、蓝色河流和绿色公园区域的纹理米色羊皮纸",
+    "background": "textured beige parchment paper with yellow roads, blue rivers, and green park areas",
     "sections": [
       {
-        "title": "地标建筑",
+        "title": "landmarks",
         "count": 6,
-        "illustrations": ["传统凉亭", "传统寺院", "带有攀爬熊猫的现代摩天大楼", "高耸的电视塔", "传统牌坊", "工业建筑"],
-        "labels": ["人民公园", "文殊院", "IFS", "339电视塔", "宽窄巷子", "东郊记忆"]
+        "illustrations": ["traditional pavilion", "traditional monastery", "modern skyscraper with climbing panda", "tall TV tower", "traditional gate", "industrial buildings"],
+        "labels": ["People's Park", "Wenshu Monastery", "IFS", "339 TV Tower", "Kuanzhai Alley", "Eastern Suburb Memory"]
       },
       {
-        "title": "美食地点",
+        "title": "food_spots",
         "count": 12,
-        "illustrations": ["麻婆豆腐", "红油水饺", "冷锅串串", "三大炮", "蛋烘糕", "九宫格火锅", "肥肠粉", "钵钵鸡", "冒菜", "盖碗茶", "冰粉", "兔头"],
-        "labels": ["1 陈麻婆豆腐", "2 钟水饺", "3 春熙路", "4 宽窄巷子·三大炮", "5 建设路·叶婆婆蛋烘糕", "6 玉林路·小龙坎火锅", "7 香香巷·肥肠粉", "8 武侯祠大街·钵钵鸡", "9 东郊记忆·冒椒火辣", "10 人民公园·鹤鸣茶社", "11 锦里古街·冰粉", "12 双流老妈兔头"]
+        "illustrations": ["mapo tofu", "dumplings in chili oil", "skewers in pot", "sticky rice balls", "egg baking cake", "nine-grid hotpot", "sweet potato noodles", "cold skewers", "spicy mixed dish", "covered tea bowl", "ice jelly dessert", "spicy rabbit heads"],
+        "labels": ["1 Chen Mapo Tofu", "2 Zhong Dumplings", "3 Chunxi Road", "4 Kuanzhai Alley·San Da Pao", "5 Jianshe Road·Ye Po Po Egg Cake", "6 Yulin Road·Xiaolongkan Hotpot", "7 Xiangxiang Alley·Intestine Noodles", "8 Wuhou Temple Street·Bobo Chicken", "9 Eastern Suburb Memory·Maojiao Huola", "10 People's Park·Heming Teahouse", "11 Jinli Ancient Street·Bingfen", "12 Shuangliu Rabbit Heads"]
       },
       {
-        "title": "图例",
-        "position": "右下角",
+        "title": "Legend",
+        "position": "bottom-right",
         "count": 5,
-        "items": ["红点", "绿色建筑", "绿树", "蓝线", "黄色双线"],
-        "labels": ["美食地点", "地标景点", "公园绿地", "河流湖泊", "主要道路"]
+        "items": ["red dot", "green house", "green tree", "blue line", "yellow double line"],
+        "labels": ["Food Spots", "Landmarks", "Parks and Green Spaces", "Rivers and Lakes", "Main Roads"]
       }
     ],
-    "centerpiece": "坐着吃竹子的大熊猫",
-    "bottom_right_extras": ["带有东南西北方向的复古罗盘", "带有红辣椒图标的免责声明：'温馨提示：吃辣需谨慎，肠胃要保护~'"]
+    "centerpiece": "giant panda sitting and eating bamboo",
+    "bottom_right_extras": ["vintage compass rose with N, S, E, W", "disclaimer text 'Friendly Reminder: Be careful with spicy food, protect your stomach~' with a red chili pepper icon"]
   }
 }
 ```
 
-<a id="prompt-109b11f6713742227150"></a>
+<a id="prompt-080461b8aaf5c868c761"></a>
 
-### 8. 信息图可视化设计
+### 6. Comprehensive Application Scene Image
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case67.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case145.jpg" alt="Comprehensive Application Scene Image" width="480">
 
-- **Categories:** 信息图可视化设计
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-67)
+- **Categories:** Comprehensive application scenario diagram
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-145)
 
 **Prompt:**
 
 ```text
+A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
+```
+
+<a id="prompt-109b11f6713742227150"></a>
+
+### 7. Infographic Visualization Design
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case67.jpg" alt="Infographic Visualization Design" width="480">
+
+- **Categories:** Infographic visualization design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-67)
+
+**Prompt:**
+
+````text
+```json
 {
   "type": "medical infographic poster",
   "style": "highly detailed anatomical illustrations, clean structured layout, scientific diagrammatic style",
@@ -294,41 +162,42 @@ Generates a hand-drawn, watercolor-style tourist map featuring numbered local fo
   "header": {
     "main_title": "{argument name=\"main title\" default=\"糖尿病诞生的因果链\"}",
     "english_title": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF DIABETES\"}",
-    "subtitle": "从胰岛素失灵，到高血糖，到全身损伤"
+    "subtitle": "From insulin failure, to high blood sugar, to systemic damage"
   },
   "layout": {
     "centerpiece": "{argument name=\"central subject\" default=\"transparent human body showing circulatory system and internal organs\"}",
     "sections_count": 14,
     "sections": [
-      { "id": "01", "title": "葡萄糖进入生命", "visuals": ["stomach and intestines"] },
-      { "id": "02", "title": "胰腺与胰岛素", "visuals": ["pancreas", "beta cell"] },
-      { "id": "03", "title": "正常胰岛素作用", "visuals": ["receptor signaling diagram", "muscle, liver, adipose icons"] },
-      { "id": "04", "title": "胰岛素抵抗: 2型通路开始", "visuals": ["receptor blockage diagram", "7 lifestyle icons"] },
-      { "id": "05", "title": "肝脏持续释放葡萄糖", "visuals": ["liver"] },
-      { "id": "06", "title": "β细胞衰竭: 代偿到失败", "visuals": ["beta-cell decline line chart"] },
-      { "id": "07", "title": "1型糖尿病分支", "visuals": ["autoimmune destruction diagram"] },
-      { "id": "08", "title": "高血糖与血液化学", "visuals": ["blood vessel with glucose", "glucose indicators table", "glucose variability chart"] },
-      { "id": "09", "title": "高血糖导致组织损伤", "visuals": ["4 pathways of damage diagrams"] },
-      { "id": "10", "title": "急性代谢后果", "visuals": ["7 symptom icons"] },
-      { "id": "11", "title": "微血管并发症", "visuals": ["eye", "kidney", "nerve cross-section"] },
-      { "id": "12", "title": "大血管并发症与组织损伤", "visuals": ["heart", "brain", "diabetic foot"] },
-      { "id": "13", "title": "器官系统长期代价", "visuals": ["text list"] },
-      { "id": "14", "title": "糖尿病是调控系统失灵", "visuals": ["metabolic control flowchart"] }
+      { "id": "01", "title": "Glucose enters the body", "visuals": ["stomach and intestines"] },
+      { "id": "02", "title": "Pancreas and Insulin", "visuals": ["pancreas", "beta cell"] },
+      { "id": "03", "title": "Normal Insulin Action", "visuals": ["receptor signaling diagram", "muscle, liver, adipose icons"] },
+      { "id": "04", "title": "Insulin Resistance: The Beginning of Type 2 Pathway", "visuals": ["receptor blockage diagram", "7 lifestyle icons"] },
+      { "id": "05", "title": "Liver Continuously Releasing Glucose", "visuals": ["liver"] },
+      { "id": "06", "title": "Beta Cell Failure: Compensation to Breakdown", "visuals": ["beta-cell decline line chart"] },
+      { "id": "07", "title": "Type 1 Diabetes Branch", "visuals": ["autoimmune destruction diagram"] },
+      { "id": "08", "title": "Hyperglycemia and Blood Chemistry", "visuals": ["blood vessel with glucose", "glucose indicators table", "glucose variability chart"] },
+      { "id": "09", "title": "Hyperglycemia Causes Tissue Damage", "visuals": ["4 pathways of damage diagrams"] },
+      { "id": "10", "title": "Acute Metabolic Consequences", "visuals": ["7 symptom icons"] },
+      { "id": "11", "title": "Microvascular Complications", "visuals": ["eye", "kidney", "nerve cross-section"] },
+      { "id": "12", "title": "Macrovascular Complications and Tissue Damage", "visuals": ["heart", "brain", "diabetic foot"] },
+      { "id": "13", "title": "Long-term Cost to Organ Systems", "visuals": ["text list"] },
+      { "id": "14", "title": "Diabetes is a Regulatory System Failure", "visuals": ["metabolic control flowchart"] }
     ],
     "footer": {
-      "core_message": "核心信息 CORE MESSAGE"
+      "core_message": "Core Message CORE MESSAGE"
     }
   }
 }
 ```
+````
 
 <a id="prompt-18ed91172bdc24cc76ff"></a>
 
-### 9. 信息图可视化设计
+### 8. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case82.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case82.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-82)
 
 **Prompt:**
@@ -379,130 +248,65 @@ Generates a hand-drawn, watercolor-style tourist map featuring numbered local fo
 }
 ```
 
-<a id="prompt-22604673f5a74fd22d49"></a>
+<a id="prompt-1a1dc173dbb7766329d6"></a>
 
-### 10. 信息图可视化设计
+### 9. Cover Layout Design Diagram
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case270.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case175.jpg" alt="Cover Layout Design Diagram" width="480">
 
-- **Categories:** 信息图可视化设计
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-270)
-
-**Prompt:**
-
-```text
-[中文]
-このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。
-・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加
-・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる
-・全体は整理されたレイアウト
-（白背景、図解風）
-・アスペクト比16：9 　←
-
-高解像度、プロのコンセプトアートスタイル
-
-[English]
-Based on this character and background, please create a character sheet like an official setting material.
-・Include front, side, and back 3-view drawings ・Add character expression variations
-・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view
-・Overall organized layout
-(White background, diagrammatic style)
-・Aspect ratio 16:9 　←
-High resolution, professional concept art style
-```
-
-<a id="prompt-23f399b4a1ec9e03f822"></a>
-
-### 11. 景德镇青花瓷全景解说图谱
-
-![景德镇青花瓷全景解说图谱](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case248.jpg)
-
-- **Categories:** 景德镇青花瓷全景解说图谱
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-248)
+- **Categories:** Cover layout design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-175)
 
 **Prompt:**
 
 ```text
-[中文]
-为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析
+Create a premium 4:3 presentation cover slide introducing Chronicle, the AI-native presentation platform from http://chroniclehq.com.
 
-[English]
-Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
-```
+Style:
+elegant, minimal, modern, premium startup aesthetic. Similar to high-end brand guideline covers (like Apple / Linear / Notion style). Soft gradient background with subtle depth, clean whitespace, refined typography, polished editorial layout.
 
-<a id="prompt-290d046224116aa92e7e"></a>
+Main title:
+CHRONICLE
 
-### 12. 信息图可视化设计
+Subtitle:
+AI PRESENTATION PLATFORM
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case171.jpg)
+Body copy (small elegant text):
+Turn raw ideas into polished, high-impact presentations.
+Start from notes, docs, links, or existing decks.
+Generate beautiful, on-brand slides with AI.
+Edit freely on a flexible canvas.
+Export to PPT, PDF, or publish as a website.
 
-- **Categories:** 信息图可视化设计
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-171)
+Feature highlights (small premium labels):
+STORY-FIRST
+ON-BRAND DESIGN
+AI EDITING
+FREEFORM CANVAS
+PPT EXPORT
+TEAM COLLABORATION
 
-**Prompt:**
+Bottom-right elegant logo text:
+chronicle
 
-```text
-[中文]
-创建一个包含 10x10 网格的图像，每个对象名称都以字母 a 开头。
+Visual feeling:
+business-class premium, strategy deck quality, consulting-grade presentation, slightly futuristic but highly professional.
 
-[English]
-create an image with 10x10 grid of objects that have the names starting with letter a.
-```
+Composition:
+clean editorial balance, asymmetrical layout, strong whitespace, presentation software hero shot feeling.
 
-<a id="prompt-2c2500989ef11284a036"></a>
+Aspect ratio:
+4:3
 
-### 13. 博物馆级中文拆解信息图鉴
-
-![博物馆级中文拆解信息图鉴](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case296.jpg)
-
-- **Categories:** 博物馆级中文拆解信息图鉴
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-296)
-
-**Prompt:**
-
-```text
-[中文]
-请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
-
-要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
-
-整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
-
-版式固定为：
-- 顶部：中文主标题 + 副标题 + 导语
-- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
-- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
-- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
-- 底部：穿着顺序 / 构成流程图 + 核心特征总结
-
-若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
-
-避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
-
-[English]
-Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject].
-
-The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information.
-
-The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible.
-
-The layout is fixed as:
-- Top: Chinese main title + subtitle + introduction
-- Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details
-- Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions
-- Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations
-- Bottom: Dressing order / composition flowchart + core feature summary
-
-If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere.
-
-Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
+Language:
+English only
 ```
 
 <a id="prompt-2cec2bf05920583b3c4d"></a>
 
-### 14. 信息图可视化设计
+### 10. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case112.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case112.jpg" alt="Infographic Visualization Design" width="480">
 
 - **Categories:** 信息图可视化设计
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-112)
@@ -513,13 +317,46 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with each card featuring its corresponding Chinese name, 4 cards per row, in a 16:9 aspect ratio.
 ```
 
+<a id="prompt-3289a1a721a10494e192"></a>
+
+### 11. Snack Brand Technology Breakdown Diagram
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case310.jpg" alt="Snack Brand Technology Breakdown Diagram" width="480">
+
+- **Categories:** Snack Brand Technology Breakdown Diagram
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-310)
+
+**Prompt:**
+
+```text
+Create a branded technical infographic of a [SNACK], combining a realistic photograph or photoreal render of the product with technical annotation overlays placed directly on top. Use black ink–style line drawings with strategic [BRAND COLOR] accents (architectural sketch look) on a pure white studio background, including:
+• Key component labels
+• Internal cross-section showing structure, layering, or internal design
+• Measurements, dimensions, and specifications
+• Material callouts with composition and quantities
+• Arrows indicating function for primary features and structural integrity
+• Simple schematic or sectional diagram showing key mechanical or design elements
+• Sustainability callouts
+Title placement: Inside a hand-drawn technical annotation box with accent border reading the product name in bold font, positioned in upper corner.
+Style & layout rules:
+• The realistic product remains clearly visible
+• Annotations feel sketched, technical, and architectural
+• Accents used for highlight (20-30% of linework), black for primary technical lines (70-80%)
+• Clean composition with balanced negative space
+• Educational, food-engineering vibe with premium branding
+• Include subtle brand logo mark in corner
+Visual style: Minimal technical illustration aesthetic, black linework with accents over realistic imagery, precise but slightly hand-drawn feel.
+Color palette: White background, black annotation lines/text, [BRAND COLOR] for accents and key callouts only.
+Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​​​​​​​​​​​​​​
+```
+
 <a id="prompt-49e5be3252883812c292"></a>
 
-### 15. 信息图可视化设计
+### 12. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case66.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case66.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-66)
 
 **Prompt:**
@@ -527,8 +364,8 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 ```text
 {
   "type": "fashion design process infographic",
-  "title": "{argument name=\"main title\" default=\"一件女装诞生的因果链 THE CAUSAL CHAIN OF A WOMEN'S GARMENT\"}",
-  "subtitle": "从纤维，到版型，到上身 FROM FIBER TO FIT",
+  "title": "{argument name=\"main title\" default=\"THE CAUSAL CHAIN OF A WOMEN'S GARMENT\"}",
+  "subtitle": "FROM FIBER TO FIT",
   "style": {
     "aesthetic": "elegant editorial, technical fashion illustration, highly detailed",
     "color_palette": "{argument name=\"color palette\" default=\"beige, cream, and neutral tones\"}"
@@ -598,18 +435,18 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
         "items": ["Material Foundation", "Aesthetic Judgment", "Structural Engineering", "Craft Realization", "Body Negotiation", "Team Collaboration", "Iterative Revision", "Final Garment"]
       }
     ],
-    "footer": "{argument name=\"footer text\" default=\"一件成衣，因无数判断而存在 A garment exists because of countless decisions.\"}"
+    "footer": "{argument name=\"footer text\" default=\"A garment exists because of countless decisions.\"}"
   }
 }
 ```
 
 <a id="prompt-53f8a3a774198179bb7f"></a>
 
-### 16. 信息图可视化设计
+### 13. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case68.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case68.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** categories.category_3a0407738e.en: Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-68)
 
 **Prompt:**
@@ -619,7 +456,7 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
   "type": "comprehensive medical infographic",
   "style": "highly detailed 3D medical illustration, clinical white background, clean typography",
   "header": {
-    "title_cn": "{argument name=\"main title\" default=\"痛风诞生的因果链\"}",
+    "title_cn": "{argument name=\"main title\" default=\"The Causal Chain of Gout\"}",
     "title_en": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF GOUT\"}",
     "subtitle": "Pain is not the beginning. Metabolic imbalance is.",
     "top_right_sequence": {
@@ -659,11 +496,11 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 
 <a id="prompt-594bbf183e6516e7eb77"></a>
 
-### 17. 信息图可视化设计
+### 14. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case83.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case83.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-83)
 
 **Prompt:**
@@ -676,30 +513,30 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
   "header": {
     "logo": "UEFA Champions League",
     "title": "{argument name=\"stage\" default=\"HALBFINALE\"}",
-    "subtitle": "DAS ZIEL: {argument name=\"location\" default=\"BUDAPEST 2026\"}",
+    "subtitle": "THE GOAL: {argument name=\"location\" default=\"BUDAPEST 2026\"}",
     "venue": "PUSKÁS ARÉNA"
   },
   "matchup": {
     "player_left": "{argument name=\"team 1 player\" default=\"Harry Kane\"} in red FC Bayern kit",
     "player_right": "{argument name=\"team 2 player\" default=\"Ousmane Dembélé\"} in blue PSG kit",
     "center_logos": "FC Bayern München and Paris Saint-Germain with VS",
-    "date_box": "calendar icon, MITTWOCH, {argument name=\"date\" default=\"06.05.2026\"}"
+    "date_box": "calendar icon, WEDNESDAY, {argument name=\"date\" default=\"06.05.2026\"}"
   },
   "facts_section": {
     "title": "FACTS",
     "count": 5,
     "items": [
-      "Trophy icon: DIE KÖNIGSKLASSE 2025/26",
-      "Bar chart icon: KANE IN TOPFORM",
-      "Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER",
-      "Two people icon: BISHER 14 DUELLE",
-      "Stadium icon: BUDAPEST RUFT"
+      "Trophy icon: THE ROYAL CLASS 2025/26",
+      "Bar chart icon: KANE IN TOP FORM",
+      "Lightning bolt icon: DEMBÉLÉ FLYING HIGH",
+      "Two people icon: 14 DUELLES SO FAR",
+      "Stadium icon: BUDAPEST CALLS"
     ]
   },
   "footer": {
     "trophy": "Champions League trophy on right",
     "stadium_image": "Puskás Aréna at night",
-    "tagline": "EIN TRAUM. EIN ZIEL. EIN TITEL.",
+    "tagline": "A DREAM. A GOAL. A TITLE.",
     "bottom_text": "ROAD TO BUDAPEST 2026"
   }
 }
@@ -707,9 +544,9 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 
 <a id="prompt-60c46e352e11a1a1a923"></a>
 
-### 18. 信息图可视化设计
+### 15. 信息图可视化设计
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case70.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case70.jpg" alt="信息图可视化设计" width="480">
 
 - **Categories:** 信息图可视化设计
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-70)
@@ -721,8 +558,8 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
   "type": "technical infographic",
   "subject": "{argument name=\"subject matter\" default=\"digital photography process\"}",
   "header": {
-    "title": "{argument name=\"main title\" default=\"一张照片诞生的因果链 THE CAUSAL CHAIN OF A PHOTOGRAPH\"}",
-    "subtitle": "从世界，到图像 FROM WORLD TO IMAGE"
+    "title": "{argument name=\"main title\" default=\"The Causal Chain of a Photograph's Birth THE CAUSAL CHAIN OF A PHOTOGRAPH\"}",
+    "subtitle": "From World to Image FROM WORLD TO IMAGE"
   },
   "centerpiece": {
     "description": "Exploded isometric view of a modern mirrorless camera",
@@ -764,7 +601,7 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
       ]
     },
     "right_column": {
-      "title": "八大模块 / 8 MODULES",
+      "title": "Eight Major Modules / 8 MODULES",
       "count": 8,
       "modules": [
         "1 ORIGIN OF LIGHT",
@@ -798,45 +635,56 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 }
 ```
 
+<a id="prompt-7fca47ff30867a025358"></a>
+
+### 16. 蒸汽朋克射手座解剖图谱
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case179.jpg" alt="蒸汽朋克射手座解剖图谱" width="480">
+
+- **Categories:** 蒸汽朋克射手座解剖图谱
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-179)
+
+**Prompt:**
+
+```text
+(Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
+```
+
 <a id="prompt-81f9751b520f667be71e"></a>
 
-### 19. AI 眼镜爆炸拆解图
+### 17. AI Glasses Exploded View Diagram
 
-![AI 眼镜爆炸拆解图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case333.png)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case333.png" alt="AI Glasses Exploded View Diagram" width="480">
 
-- **Categories:** AI 眼镜爆炸拆解图
+- **Categories:** AI glasses exploded view diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-333)
 
 **Prompt:**
 
 ```text
-生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
+Generate an exploded view of AI glasses, including the name of each component and several key selling points of this product.
 ```
 
-<a id="prompt-899b6ee1a857faba9c24"></a>
+<a id="prompt-85e78248c48804b9a886"></a>
 
-### 20. 人教版三年级语文课本内页
+### 18. Infographic visualization design
 
-![人教版三年级语文课本内页](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case303.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case171.jpg" alt="Infographic visualization design" width="480">
 
-- **Categories:** 人教版三年级语文课本内页
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-303)
+- **Categories:** Infographic visualization design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-171)
 
 **Prompt:**
 
 ```text
-[中文]
-生成人教版小学三年级语文课本的一页
-
-[English]
-Generate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook
+create an image with 10x10 grid of objects that have the names starting with letter a.
 ```
 
 <a id="prompt-8e4b293a9e4338d4f9b5"></a>
 
-### 21. 信息图可视化设计
+### 19. 信息图可视化设计
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case51.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case51.jpg" alt="信息图可视化设计" width="480">
 
 - **Categories:** 信息图可视化设计
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-51)
@@ -888,28 +736,43 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 }
 ```
 
+<a id="prompt-917df6ff31541b29e6da"></a>
+
+### 20. Comprehensive Application Scenario Diagram
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case108.jpg" alt="Comprehensive Application Scenario Diagram" width="480">
+
+- **Categories:** Comprehensive Application Scene Diagram
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-108)
+
+**Prompt:**
+
+```text
+{argument name="subject" default="A beautiful internet celebrity"} is live-streaming a {argument name="activity" default="game"}.
+```
+
 <a id="prompt-91c7e96d3cbe2aa1824b"></a>
 
-### 22. 信息图可视化设计
+### 21. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case13.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case13.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-13)
 
 **Prompt:**
 
 ```text
-A realistic photo of a Chinese high school math exam paper, printed inblack and white on slightly gray paper, titled “数学试卷”, with multiplechoice questions and math formulas, including a small 3D geometrycube diagram. The paper is photographed casually with asmartphone, slightly tilted, with uneven lighting, soft shadows, andminor blur. The text is in Chinese with a mix of bold title font andstandard serif body font. Realistic paper texture, exam layout,authentic classroom test sheet style.
+A realistic photo of a Chinese high school math exam paper, printed in black and white on slightly gray paper, titled "Mathematics Test Paper", with multiple choice questions and math formulas, including a small 3D geometry cube diagram. The paper is photographed casually with a smartphone, slightly tilted, with uneven lighting, soft shadows, and minor blur. The text is in Chinese with a mix of bold title font and standard serif body font. Realistic paper texture, exam layout, authentic classroom test sheet style.
 ```
 
 <a id="prompt-9362a5502faa5b48530d"></a>
 
-### 23. 信息图可视化设计
+### 22. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case65.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case65.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-65)
 
 **Prompt:**
@@ -937,131 +800,290 @@ Right: `60+ Spiritual Cultivation`: looking lightly at gain/loss; `35-55 Conduct
 Bottom Summary: `The balance between being in the world and being out of the world is high-level life wisdom.`
 ```
 
+<a id="prompt-9ab9c9927caa1fabe6f3"></a>
+
+### 23. Brand lipstick recommendation report infographic
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case353.jpg" alt="Brand lipstick recommendation report infographic" width="480">
+
+- **Categories:** categories.category_862f199c7c.en: Brand lipstick recommendation report infographic
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-353)
+
+**Prompt:**
+
+```text
+I. System Role
+You are a professional makeup consultant + facial analysis system + brand visual design system.
+Your task is: based on user's uploaded selfie and specified lipstick brand, generate a lipstick recommendation report information structure diagram with brand style.
+
+II. Input Parameters
+User Image: {User's selfie}
+Brand: {Lipstick brand, such as Dior / YSL / Armani / Chanel / TF}
+Style Preference (Optional): {Commuting / Gentle / Aura / Atmospheric / Brightening Priority}
+Recommendation Quantity: 3-5
+
+III. Brand Visual Layer (New Core Module)
+Automatically construct visual style (Brand Visual Identity) based on {Brand}, extracting brand style, for example:
+Dior:
+Elegant, high-end, French-style, gray-white + silver, soft light
+YSL:
+Black gold, sexy, strong contrast, fashion editorial feel
+Armani:
+Low saturation, matte, restrained, gray tone high-end feel
+Chanel:
+Minimalist black and white, high-end, rational, clear structure
+Tom Ford:
+Dark colors, high contrast, luxury, cinematic feel
+
+Apply to poster:
+1. Main color (background with slight variations, not large area color blocking)
+2. Accent color (used for shade titles/thin lines/small elements)
+3. Light and shadow style (soft light / strong contrast / cool tone / warm tone)
+4. Font style (elegant / modern / cool / powerful)
+
+IV. Analysis Layer
+Analyze the user:
+- Skin tone: Cool / Warm / Neutral (+ brightness)
+- Temperament: Cool / Gentle / Bright / Clean / Mature
+- Lip features: Thin / Thick / Natural lip color
+- Makeup status: Bare face / Daily / Elaborate
+Output a summary: "More suitable for {color family} + {saturation} + {texture} lipstick direction"
+
+V. Recommendation Layer (Enhanced Differentiation)
+Recommend 3-5 shades from {Brand}:
+Each includes:
+- Shade name (#999)
+- Color family (Red / Rosewood / Maple / Milk tea / Rose)
+- Effect on face (brightening / enhancing complexion / atmospheric / aura enhancement)
+- Scene (shopping / commuting / dinner / date / banquet)
+Requirement: Each shade has "clear style distinction" (one daily, one powerful, one atmospheric, etc.)
+
+VI. Information Structure Diagram
+Generate a vertical information structure diagram
+Overall style: Beauty fashion magazine quality + structured information visualization layout + deep integration of brand visual system
+Minimalist but not monotonous, high-end but with visual hierarchy
+
+[Overall Layout]
+Top left: User input area
+Top right: Analysis conclusion
+Middle: Try-on matrix (core)
+Bottom: Summary
+
+## 1️⃣ Top Left (User Area)
+User selfie (real texture)
++ Subtitle: "Skin Tone Analysis"
++ One-sentence conclusion: "Suitable for low-saturation rose tones, avoid high fluorescent colors"
+
+Ultra-thin brand color lines (such as YSL gold line / Dior gray line)
+
+## 2️⃣ Middle (Core Try-on Matrix)
+This is the visual focus area (occupying 60% or more)
+Display method: Arrange 3-5 shades in the form of "face try-on comparison":
+Each column = One shade
+Each shade includes:
+- Small face image (same face, different lip colors)
+- Shade name (such as #999)
+- Color family label (such as Classic Red)
+- One-sentence effect description
+Requirement: All faces remain consistent, only lip colors change, realistic try-on effect, real skin texture, not plastic, unified lighting.
+Arrangement: Horizontal layout or grid layout (neat but not rigid)
+
+Brand enhancement points:
+- Dior: Soft gradient background + soft shadow
+- YSL: Stronger contrast + black thin dividing lines
+- Armani: Overall unified gray tone, low contrast
+- Chanel: Strict alignment, minimalist black and white
+- TF: Partial dark background + highlight emphasis
+
+## 3️⃣ Each Shade Module
+Includes:
+Shade name (prominent)
+Color family label
+One-sentence recommendation
+Scene tag (shopping/commuting/dinner/date/banquet, etc.)
+
+Brand processing:
+- Use "brand accent color" for:
+  - Shade title
+  - Thin dividing lines
+  - Small icons
+(not color blocks, but "exquisite accents")
+
+## 4️⃣ Bottom Summary
+A "judgmental suggestion",
+for example: "For daily use, choose low-saturation rosewood shades to enhance complexion; for important occasions, use red to enhance aura"
+or: "Your skin tone is more suitable for soft rose tones, avoid high fluorescent color families"
+But don't completely copy the above two examples, suggest based on user's actual skin tone.
+Brand enhancement: Bottom can have extremely light brand style horizontal line / extremely small brand text (not logo)
+
+VII. UI Design
+- Do not use rounded card UI
+- Do not use thick borders
+1. Introduce "hierarchy contrast":
+   - Main body bright
+   - Secondary information weak
+2. Use "micro contrast":
+   - Thin lines
+   - Gray scale difference
+   - Font weight variation
+3. Add "rhythm":
+   - Density variation
+   - Module breathing space
+4. Brand accents:
+   - Only 5% emphasis
+   - Does not destroy minimalist structure
+
+VIII. Image Quality
+Real skin texture
+Accurate lip colors
+Unified lighting
+Commercial beauty photography
+8K
+
+———
+Brand: YSL
+```
+
 <a id="prompt-9c734ff52a305db02534"></a>
 
-### 24. 一张中文健身信息图
+### 24. A Chinese fitness infographic
 
-![一张中文健身信息图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case183.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case183.jpg" alt="A Chinese fitness infographic" width="480">
 
-- **Categories:** 一张中文健身信息图
+- **Categories:** A Chinese fitness infographic
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-183)
 
 **Prompt:**
 
 ```text
-请生成一张中文健身信息图，主题为：【xxx】。
+Please generate a Chinese fitness infographic with the theme: 【xxx】.
 
-要求这张图既专业又实用，适合普通成年人作为训练参考。默认对象为无严重伤病的健康成年人；如果没有额外说明，默认训练目标为“增肌 + 基础力量提升”，默认训练水平为“新手到中级之间”，默认训练场景为“普通健身房”，默认单次训练时长控制在 40–60 分钟内。
+The infographic should be both professional and practical, suitable for regular adults as a training reference. The default target audience is healthy adults without serious injuries; if no additional specifications are provided, the default training goal is "muscle building + basic strength improvement", the default training level is "beginner to intermediate", the default training scenario is "regular gym", and the default single training session duration should be controlled within 40-60 minutes.
 
-请根据【训练主题】自动判断输出类型：
+Please automatically determine the output type based on the 【Training Theme】:
 
-1）如果【训练主题】是某个肌群或身体部位（例如：胸肌、背阔肌、肱二头肌、腹肌、肩部、腿部等），请输出一张“该部位训练计划信息图”。
-2）如果【训练主题】是某个动作或技能目标（例如：引体向上、俯卧撑、双杠臂屈伸、深蹲等），请输出一张“动作解锁 / 进阶训练计划信息图”。
+1) If the 【Training Theme】 is a specific muscle group or body part (e.g., chest, lats, biceps, abs, shoulders, legs, etc.), please output a "Training Plan Infographic for that Body Part".
+2) If the 【Training Theme】 is a specific exercise or skill goal (e.g., pull-ups, push-ups, dips, squats, etc.), please output an "Exercise Unlocking/Progression Training Plan Infographic".
 
-整张图请采用清晰、现代、专业、易读的中文信息图风格，竖版排版，视觉简洁，重点突出，适合社交媒体分享或训练参考卡片。不要写成长篇大论，每个模块用简洁短句呈现，数字信息要醒目。
+The entire infographic should adopt a clear, modern, professional, and readable Chinese infographic style, with vertical layout, clean visuals, and prominent highlights. It should be suitable for social media sharing or as a training reference card. Avoid lengthy paragraphs; present each section with concise short sentences, and make numerical information stand out.
 
-这张信息图必须包含以下内容：
+This infographic must include the following content:
 
-【A. 标题区】
-- 主标题：直接写【训练主题】训练计划 / 解锁计划
-- 副标题：自动补充适用人群、目标、训练场景、建议时长
-例如：适合新手 / 增肌导向 / 健身房版 / 45分钟
+【A. Title Section】
+- Main Title: Directly write 【Training Theme】 Training Plan / Unlocking Plan
+- Subtitle: Automatically include target audience, goals, training scenario, and suggested duration
+Example: Suitable for beginners / Muscle building focused / Gym version / 45 minutes
 
-【B. 训练目标区】
-用简洁语言说明：
-- 这次训练主要针对什么
-- 主要目标是什么（增肌 / 力量 / 技能解锁 / 核心控制等）
-- 本次训练的重点刺激或能力提升方向
+【B. Training Goals Section】
+Explain in concise language:
+- What this training primarily targets
+- Main goals (muscle building / strength / skill unlocking / core control, etc.)
+- Key stimulation or capability improvement direction for this training
 
-【C. 热身区】
-给出 2–4 个热身建议，简洁列出即可，例如：
-- 动态活动
-- 目标肌群激活
-- 轻重量预热组
-每项可附一句说明
+【C. Warm-up Section】
+Provide 2-4 warm-up suggestions, listed concisely, for example:
+- Dynamic activities
+- Target muscle group activation
+- Light weight warm-up sets
+Each item can include a brief description
 
-【D. 主训练区】
-这是核心部分，请列出 4–6 个主要训练动作。
-每个动作都要包含以下信息：
-- 动作名称
-- 训练作用 / 针对部位
-- 组数 × 次数（或时间）
-- RIR 建议
-- 每组间休息时间
-- 动作关键要点（1–2 条）
-- 常见错误（1 条即可）
+【D. Main Training Section】
+This is the core section, please list 4-6 main training exercises.
+Each exercise must include the following information:
+- Exercise name
+- Training effect / Targeted area
+- Sets × Reps (or duration)
+- RIR recommendation
+- Rest time between sets
+- Key points of the exercise (1-2 points)
+- Common mistakes (1 point only)
 
-请确保动作安排合理：
-- 先复合动作，后孤立动作
-- 整体训练量适中
-- 新手不要安排过度极限训练
-- 主动作通常建议 RIR 1–3
-- 孤立动作可建议 RIR 0–2
-- 如果是腹肌或核心类动作，可用“秒数 / 次数”形式
-- 如果是技能类动作，请优先安排“前置能力动作 + 过渡动作 + 目标动作尝试”
+Ensure reasonable exercise arrangement:
+- Compound exercises first, then isolation exercises
+- Moderate overall training volume
+- Don't schedule overly intense training for beginners
+- Main exercises typically recommend RIR 1-3
+- Isolation exercises can suggest RIR 0-2
+- For abs or core exercises, use "seconds / reps" format
+- For skill-based exercises, prioritize "prerequisite ability exercises + transition exercises + target exercise attempts"
 
-【E. 进阶 / 解锁逻辑区】
-根据主题自动生成：
-- 如果是肌群训练：写“如何渐进超负荷”，例如达到次数上限后再加重量、优先保证动作标准等
-- 如果是动作解锁：写“分阶段进阶路径”，例如从悬垂、肩胛引体、离心训练、弹力带辅助，到标准动作完成
+【E. Progression/Unlocking Logic Section】
+Automatically generate based on theme:
+- For muscle group training: Write "How to progressively overload", e.g., increase weight after reaching rep limits, prioritize proper form, etc.
+- For exercise unlocking: Write "Phased progression path", e.g., from hanging, scapular pull-ups, eccentric training, resistance band assistance, to completing the standard exercise
 
-【F. 替代动作区】
-请给出 2–3 个替代动作，适用于以下情况：
-- 没有器械
-- 家庭训练
-- 当前能力不足
-- 某些动作做不了
+【F. Alternative Exercises Section】
+Please provide 2-3 alternative exercises suitable for the following situations:
+- No equipment available
+- Home training
+- Current ability is insufficient
+- Certain exercises cannot be performed
 
-【G. 执行提醒区】
-请给出 4–6 条简洁提醒，例如：
-- 动作标准优先于重量
-- 不要每组都练到力竭
-- 同肌群建议间隔 48–72 小时
-- 疼痛不等于正常发力
-- 睡眠不足时可适当减少训练量
+【G. Execution Reminders Section】
+Please provide 4-6 concise reminders, for example:
+- Proper form takes priority over weight
+- Don't train to failure on every set
+- Allow 48-72 hours between training the same muscle group
+- Pain doesn't equal normal exertion
+- When sleep-deprived, appropriately reduce training volume
 
-【H. 恢复建议区】
-简洁说明：
-- 训练后恢复重点
-- 蛋白质 / 睡眠 / 恢复间隔建议
-- 1 句风险提醒（如有明显疼痛应停止并评估）
+【H. Recovery Suggestions Section】
+Briefly explain:
+- Post-training recovery focus points
+- Protein / sleep / recovery interval recommendations
+- 1 risk reminder (if experiencing significant pain, stop and assess)
 
-【I. 视觉设计要求】
-- 整体为单页中文信息图
-- 竖版排版
-- 风格现代、清爽、专业、健身感强
-- 使用模块化卡片布局
-- 重点数字（组数、次数、RIR、休息）要醒目
-- 可加入简洁的人体肌群图标、哑铃、杠铃、引体向上等小图标
-- 颜色保持高级、干净、有运动感
-- 中文文字必须清晰、准确、易读
-- 避免过多装饰，强调实用性与执行性
+【I. Visual Design Requirements】
+- Overall as a single-page Chinese infographic
+- Vertical layout
+- Modern, clean, professional, and strong fitness-oriented style
+- Use modular card layout
+- Key numbers (sets, reps, RIR, rest) should be prominent
+- Can include simple human muscle group icons, dumbbells, barbells, pull-up icons, etc.
+- Colors should be premium, clean, and sporty
+- Chinese text must be clear, accurate, and readable
+- Avoid excessive decorations, emphasize practicality and executability
 
-请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。
+Please finally output as "a complete infographic content", not just regular paragraph text.
+```
+
+<a id="prompt-9d68cb6b56d8b7c33793"></a>
+
+### 25. Xi'an Hand-painted Watercolor City Map
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case331.png" alt="Xi'an Hand-painted Watercolor City Map" width="480">
+
+- **Categories:** Xi'an hand-drawn watercolor city map
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-331)
+
+**Prompt:**
+
+```text
+Generate a hand-drawn watercolor style "Xi'an" city map, including local specialty foods, landmark buildings, and city characteristics
 ```
 
 <a id="prompt-9dac7a63ae8de453ede8"></a>
 
-### 25. RAG 技术详解图
+### 26. RAG Technology Detailed Diagram
 
-![RAG 技术详解图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case334.png)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case334.png" alt="RAG Technology Detailed Diagram" width="480">
 
-- **Categories:** RAG 技术详解图
+- **Categories:** RAG Technology Detailed Diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-334)
 
 **Prompt:**
 
 ```text
-帮我生成一张 RAG 技术的详细讲解图
+Please generate a detailed explanation diagram of RAG technology
 ```
 
 <a id="prompt-a51584f34d9c29b86070"></a>
 
-### 26. 关系图谱信息图
+### 27. Relationship Graph Infographic
 
-![关系图谱信息图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case71.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case71.jpg" alt="Relationship Graph Infographic" width="480">
 
-- **Categories:** 关系图谱信息图
+- **Categories:** Relationship Graph Infographic
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-71)
 
 **Prompt:**
@@ -1158,11 +1180,11 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 <a id="prompt-a7af65b632694c554eba"></a>
 
-### 27. AP Calculus 学习表信息图
+### 28. AP Calculus Study Sheet Infographic
 
-![AP Calculus 学习表信息图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case341.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case341.jpg" alt="AP Calculus Study Sheet Infographic" width="480">
 
-- **Categories:** AP Calculus 学习表信息图
+- **Categories:** AP Calculus Study Sheet Infographic
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-341)
 
 **Prompt:**
@@ -1173,26 +1195,26 @@ Please create a mathematical visualization infographic about "[math concept / to
 
 <a id="prompt-a8bbb9f813545a9d6ffa"></a>
 
-### 28. 信息图可视化设计
+### 29. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case64.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case64.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** categories.category_3a0407738e.en: Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-64)
 
 **Prompt:**
 
 ```text
-{"type":"infographic poster","style":"cute flat vector illustration, cozy, warm, soft shading, {argument name=\"color palette\" default=\"pastel Morandi colors, soft pinks, purples, and warm tones\"}","character":"{argument name=\"character description\" default=\"young woman with shoulder-length brown hair wearing a pinkish-purple shirt\"}","layout":{"structure":"4 rows, 3 columns. Top row is a merged header. Rows 2-4 contain 9 individual panels.","header":{"title":"{argument name=\"main title\" default=\"情绪不好了？\"}","subtitle":"{argument name=\"subtitle\" default=\"8个让你瞬间变好的方法\"}","sub_subtitle":"写给焦虑的你，快来看看","visual":"character hugging herself, surrounded by yellow sparkles and hearts"},"grid_panels":[{"id":1,"title":"1. 深呼吸","text":"调节神经，缓解紧张情绪。","visual":"character with eyes closed, smiling, surrounded by clouds"},{"id":2,"title":"2. 去户外散步","text":"接触自然，让心静下来。","visual":"character walking outdoors among green trees and bushes"},{"id":3,"title":"3. 写情绪日记","text":"把烦恼写下，大脑会更轻松。","visual":"character sitting at a desk writing in a notebook with a pen, floating hearts"},{"id":4,"title":"4. 抱抱自己","text":"给予自己温暖和安慰。","visual":"character hugging herself with eyes closed, floating hearts"},{"id":5,"title":"5. 听听音乐","text":"让舒缓的旋律治愈心灵。","visual":"character wearing large white headphones, eyes closed, floating colorful music notes"},{"id":6,"title":"6. 找人倾诉","text":"分享你的烦恼，让压力释放。","visual":"character holding a smartphone, talking to another similar-looking girl, floating hearts"},{"id":7,"title":"7. 看看天空","text":"感受天空的辽阔，让心情变好。","visual":"character looking up at a blue sky with white clouds and sparkles"},{"id":8,"title":"8. 冥想","text":"专注于呼吸，找回内心的宁静。","visual":"an open notebook, a pen, and a pink flower on a desk"},{"id":9,"title":"none","text":"{argument name=\"footer text\" default=\"转发收藏，每天都要关爱自己！\"}","visual":"character sitting cross-legged in a meditation pose, eyes closed, with a glowing halo behind her head"}]}}
+{"type":"infographic poster","style":"cute flat vector illustration, cozy, warm, soft shading, {argument name=\"color palette\" default=\"pastel Morandi colors, soft pinks, purples, and warm tones\"}","character":"{argument name=\"character description\" default=\"young woman with shoulder-length brown hair wearing a pinkish-purple shirt\"}","layout":{"structure":"4 rows, 3 columns. Top row is a merged header. Rows 2-4 contain 9 individual panels.","header":{"title":"{argument name=\"main title\" default=\"Feeling down?\"}","subtitle":"{argument name=\"subtitle\" default=\"8 instant ways to feel better\"}","sub_subtitle":"For those feeling anxious, take a look","visual":"character hugging herself, surrounded by yellow sparkles and hearts"},"grid_panels":[{"id":1,"title":"1. Take deep breaths","text":"Regulate your nervous system, relieve tension.","visual":"character with eyes closed, smiling, surrounded by clouds"},{"id":2,"title":"2. Go for a walk outdoors","text":"Connect with nature, calm your mind.","visual":"character walking outdoors among green trees and bushes"},{"id":3,"title":"3. Write an emotion journal","text":"Write down your worries, your brain will feel lighter.","visual":"character sitting at a desk writing in a notebook with a pen, floating hearts"},{"id":4,"title":"4. Hug yourself","text":"Give yourself warmth and comfort.","visual":"character hugging herself with eyes closed, floating hearts"},{"id":5,"title":"5. Listen to music","text":"Let soothing melodies heal your soul.","visual":"character wearing large white headphones, eyes closed, floating colorful music notes"},{"id":6,"title":"6. Talk to someone","text":"Share your worries, release your stress.","visual":"character holding a smartphone, talking to another similar-looking girl, floating hearts"},{"id":7,"title":"7. Look at the sky","text":"Feel the vastness of the sky, improve your mood.","visual":"character looking up at a blue sky with white clouds and sparkles"},{"id":8,"title":"8. Meditate","text":"Focus on your breath, find inner peace.","visual":"an open notebook, a pen, and a pink flower on a desk"},{"id":9,"title":"none","text":"{argument name=\"footer text\" default=\"Share and save, remember to care for yourself every day!\"}","visual":"character sitting cross-legged in a meditation pose, eyes closed, with a glowing halo behind her head"}]}}
 ```
 
 <a id="prompt-a9a6d2ff0c2b9de26e77"></a>
 
-### 29. 信息图可视化设计
+### 30. Infographic visualization design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case88.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case88.jpg" alt="Infographic visualization design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-88)
 
 **Prompt:**
@@ -1252,105 +1274,39 @@ AI must automatically decide based on the [theme]:
 Naturally add the author signature in the bottom corner: @a9quant
 ```
 
-<a id="prompt-b0c09c1bd7cbf1b65f2f"></a>
+<a id="prompt-b86c3e97999fbbcbd487"></a>
 
-### 30. 绘制金瓶梅知识图谱
+### 31. Taizhou-themed Hand-drawn City Food Map
 
-![绘制金瓶梅知识图谱](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case214.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case11.jpg" alt="Taizhou-themed Hand-drawn City Food Map" width="480">
 
-- **Categories:** 绘制金瓶梅知识图谱
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-214)
-
-**Prompt:**
-
-```text
-Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.
-
-Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style.
-
-Subject Matter: Choose one from [People, Plants, or Animals].
-
-Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].
-
-Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional.
-
-Key Visual Requirements:
-
-1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism).
-
-2.  Layout & Strategic White Space:
-    * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point.
-    * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content.
-
-3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.
-
-4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):
-    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"].
-    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.
-    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
-    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
-
-Subject-Specific Module Structure (Example for general reference):
-
-A. For Humans [People]:
-   - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections)
-   - Module 2: Physiological Processes (e.g., Circulatory/Nervous System)
-   - Module 3: Historical Context & Timeline (Key Achievements)
-   - Module 4: Major Contribution Diagram (Detailed breakdown)
-   - Module 5: Cognitive Process / Psychological Insight
-   - Module 6: Genetic Profile / Evolution
-   - Module 7: Global Influence & Cultural Impact
-   - Module 8: Cultural Representations / Legacy
-
-B. For Animals:
-   - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows)
-   - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style)
-   - Module 3: Digestive & Skeletal System
-   - Module 4: Habitats & Distribution Map (with environmental details)
-   - Module 5: Unique Adaptations (e.g., camouflage, hunting tools)
-   - Module 6: Evolutionary History & Relatives
-   - Module 7: Symbiotic Relationships / Ecosystem Role
-   - Module 8: Conservation Status & Human Interaction
-
-C. For Plants:
-   - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details)
-   - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment)
-   - Module 3: Cellular Structure (Magnified circular views)
-   - Module 4: Medicinal Properties / Practical Applications (as in original original prompt)
-   - Module 5: Environmental Adaptations / Unique Features
-   - Module 6: Distribution Map & Environmental Context
-   - Module 7: Genetic Variations & Cultivation
-   - Module 8: Historical Usage & Folklore
-
-Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.
-
-主题内容：潘金莲
-```
-
-<a id="prompt-b206028f795f00426a23"></a>
-
-### 31. 关键人物关系图谱
-
-![关键人物关系图谱](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case241.jpg)
-
-- **Categories:** 关键人物关系图谱
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-241)
+- **Categories:** A hand-drawn style city food map featuring Taizhou
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-11)
 
 **Prompt:**
 
 ```text
-[中文]
-请你生成 《XXX》 的关键人物关系图。
+A hand-drawn style city food map themed on Taizhou. The base is a simplified hand-drawn city map from a bird's-eye view, marking areas like Jiaojiang, Luqiao, Huangyan and landmarks of water systems such as Lingjiang and Taizhou Bay, not pursuing precise proportions but rather a cute watercolor hand-drawn feel. The map features 12 exquisite hand-drawn small illustrations of food locations:
 
-[English]
-Please generate a key character relationship diagram for "XXX".
+1. Egg-white Sheep Tail from Jiaojiang Old Granary (golden fluffy egg foam dessert sprinkled with powdered sugar, pulling strings when picked up with chopsticks)
+2. Shi Bing Tong from Ziyang Ancient Street in Linhai (a full wheat pancake roll cut open to reveal rich fillings like shredded meat, egg skin, rice noodles)
+3. Green Crab from Sanmen (a fat green-shell crab with large pincles, next to a small dish of ginger vinegar)
+4. Seafood Noodles from Shitang Fishing Port in Wenling (a thick ceramic bowl with rich white fish soup noodles covered with shrimp, razor clams, and small yellow croakers)
+5. Zao Geng from Luqiao (a thick colorful porridge with visible particles of mustard greens, winter bamboo shoots, dried tofu, and oysters)
+6. Cui Yuan from Kanmen in Yuhuan (three or four plump glutinous rice balls in a steamer basket, next to a soy sauce dish dripping with sesame oil)
+7. Mai Xia from Huangyan (a clay pot with dough pieces and clams, green vegetables bubbling)
+8. Eight Great Bowls from Xianju (eight coarse ceramic bowls arranged in a circle - containing local chicken, stream fish, tofu skin)
+9. Jiao Bing Tong from Tiantai (several golden crispy thin rolls neatly arranged, revealing braised pork and bean paste fillings)
+10. Mai You Zhi from Linhai (thin cicada-wing-like pancakes on a bamboo plate rolled with minced meat, bean sprouts, and egg shreds)
+11. Qian Gao from Wenling (a thick rice cake with braised pork and youtiao fried in the middle, sizzling on an iron plate)
+12. Ginger Juice Egg from Jiaojiang (a blue and white bowl with amber ginger soup containing tender egg flakes, sprinkled with crushed walnuts). Each illustration occupies about 5% of the map area, with handwritten shop names and a recommendation phrase like "Grandma starts kneading dough at 4 AM" or "Locals swear by this pot". The map edges are decorated with hand-drawn vines, bayberry branches, and small seafood (shrimp, crab, shells) forming a border. In the bottom right corner, there's a hand-drawn compass (marking the "East China Sea" direction) and a legend. The top left corner title "Taizhou · Mountain and Sea Food Light Map" uses fat round hand-drawn art fonts, decorated with bayberries and small yellow croakers. The overall style is a watercolor + colored pencil mixed hand-drawn texture, with main colors of bayberry red, ginger yellow, sea blue, and emerald green, with a 1:1 aspect ratio.
 ```
 
 <a id="prompt-bce858ec6a43bb2811f3"></a>
 
 ### 32. 关系图谱信息图
 
-![关系图谱信息图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case74.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case74.jpg" alt="关系图谱信息图" width="480">
 
 - **Categories:** 关系图谱信息图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-74)
@@ -1378,28 +1334,58 @@ Light-colored clean background, soft color palette, light shadows, exquisite sma
 Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
 ```
 
+<a id="prompt-cb9fab3fc8ad65009650"></a>
+
+### 33. Comprehensive Application Scenario Diagram
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case97.jpg" alt="Comprehensive Application Scenario Diagram" width="480">
+
+- **Categories:** Comprehensive application scenario image
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-97)
+
+**Prompt:**
+
+```text
+Create a high-quality Japanese {argument name="thumbnail type" default="webinar thumbnail"}. {argument name="aspect ratio" default="16:9 widescreen"}. There is a lot of text, but the main copy stands out clearly.
+```
+
+<a id="prompt-d010ec1baf1d14c79fa0"></a>
+
+### 34. Comprehensive Application Scenario Image
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case25.jpg" alt="Comprehensive Application Scenario Image" width="480">
+
+- **Categories:** Comprehensive application scenario diagram
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-25)
+
+**Prompt:**
+
+```text
+create a minecraft skin inspired by {argument name="reference" default="my look"}
+```
+
 <a id="prompt-d1edee749ff85f9e72fa"></a>
 
-### 33. 信息图可视化设计
+### 35. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case102.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case102.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-102)
 
 **Prompt:**
 
 ```text
-Search the web for {argument name="performance description" default="this week’s standout individual performance in Champion’s League"}, using exact stats and game summary, {argument name="colors" default="bold team colors"}, legible score breakdown, and generate a {argument name="card type" default="Highlight card"}.
+Search the web for {argument name="performance description" default="this week's standout individual performance in Champion's League"}, using exact stats and game summary, {argument name="colors" default="bold team colors"}, legible score breakdown, and generate a {argument name="card type" default="Highlight card"}.
 ```
 
 <a id="prompt-d299054bd0faa987861a"></a>
 
-### 34. 信息图可视化设计
+### 36. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case72.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case72.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-72)
 
 **Prompt:**
@@ -1437,9 +1423,9 @@ Search the web for {argument name="performance description" default="this week�
 
 <a id="prompt-d365bafd87789b2607ab"></a>
 
-### 35. Research LIME Drug Design and make a detailed infographic about it
+### 37. Research LIME Drug Design and make a detailed infographic about it
 
-![Research LIME Drug Design and make a detailed infographic about it](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case83/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case83/output.jpg" alt="Research LIME Drug Design and make a detailed infographic about it" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/WillSpagnoli/status/2047172976463040851)
@@ -1452,24 +1438,68 @@ Research LIME Drug Design and make a detailed infographic about it
 
 <a id="prompt-d7fff21551be410d47a5"></a>
 
-### 36. 信息图可视化设计
+### 38. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case14.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case14.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-14)
 
 **Prompt:**
 
 ```text
-视觉设计规格描述：画幅比 9:16（竖版手机信息图）；背景纹理为具有呼吸感的米色手工纸（Handmade Washi Paper），带微小纤维纹理，边角有轻微水渍晕染；配色方案为熟番茄红（#E23A28）、初榨橄榄油金黄（#F2C94C）、嫩草绿（#6FCF97）、碳黑墨线；排版逻辑为顶端大标题、中间 Z 字形流线、底部全景成品、留白艺术化处理。食谱内容策划：1）顶部标题《番茄炒蛋：国民灵魂料理》，手绘书法体，侧边盖红色“厨师推荐”微型印章。2）步骤区块（Z 动线排版）：步骤1 挑选与备菜（左上）：三个番茄、四枚土鸡蛋、一簇葱花；说明：番茄切小块，鸡蛋打散均匀；厨师秘技：番茄去皮后切块，汁水更浓郁，口感更丝滑；心得：选熟透番茄，成功一半。步骤2 蛋液的魔法（右上）：手持筷子快速搅动蛋液，泛起气泡与动感线；说明：加少许盐和几滴温水；厨师秘技：加温水或白醋，鸡蛋更蓬松；心得：搅打充分，空气是蓬松秘密。步骤3 烈火蓬松蛋（左中）：铁锅中蛋液迅速膨胀如云朵，水彩表现热气；说明：油热下锅，快速划散，八成熟盛出；厨师秘技：油温高，烟起即入，瞬间锁水；心得：宁可稍嫩，不可过老。步骤4 番茄出浓汁（右中）：番茄翻滚，边缘半融化，亮红汤汁流淌；说明：煸炒至出汁，加少许糖和盐；厨师秘技：铲子轻压加速出汁，可加一勺番茄酱提色；心得：糖中和酸度、提鲜。步骤5 最后的合奏（左下）：鸡蛋回锅与番茄汁交织，撒葱花；说明：让鸡蛋吸饱番茄汁，关火装盘；厨师秘技：出锅前滴几滴芝麻油提香；心得：动作要快，保持鲜亮色泽。3）底部成品插图：青花边陶瓷深盘装满番茄炒蛋，红亮汁水包裹金黄大块鸡蛋，葱花点缀，水彩渲染半透明酱汁质感，边缘有袅袅热气；视觉感：看了就想立刻盛一碗大米饭。4）底部中央署名：[ 摄影师的厨房日记 · 2025 ]。
+Visual design specifications: Aspect ratio 9:16 (vertical phone infographic); background texture is beige handmade washi paper with a breathing feel, featuring fine fiber texture and slight water stain diffusion at the corners; color scheme includes ripe tomato red (#E23A28), extra virgin olive oil gold (#F2C94C), tender grass green (#6FCF97), and carbon black ink lines; layout logic features large title at the top, Z-shaped flow in the middle, panoramic finished product at the bottom, and artistic white space treatment.
+
+Recipe content planning: 1) Top title "Tomato and Egg Stir-fry: The Soul Dish of the Nation", in hand-drawn calligraphy style, with a small red "Chef's Recommendation" seal on the side. 2) Step sections (Z-shaped flow layout): Step 1 Selection and Preparation (top left): Three tomatoes, four free-range eggs, one bunch of green onions; Instructions: Dice tomatoes into small pieces, beat eggs evenly; Chef's tip: Peel tomatoes before dicing for richer juice and smoother texture; Insight: Choose fully ripe tomatoes, and you're halfway to success. Step 2 The Magic of Egg Mixture (top right): Rapidly beating egg mixture with chopsticks, creating bubbles and dynamic lines; Instructions: Add a pinch of salt and a few drops of warm water; Chef's tip: Adding warm water or white vinegar makes eggs fluffier; Insight: Beat thoroughly, as air is the secret to fluffiness. Step 3 High-Heat Fluffy Eggs (middle left): Egg mixture rapidly expanding like clouds in an iron wok, with watercolor effects showing steam; Instructions: Pour into hot oil, quickly scramble, and remove when 80% cooked; Chef's tip: Use high heat, add when smoke appears to instantly lock in moisture; Insight: Better slightly undercooked than overcooked. Step 4 Rich Tomato Juice (middle right): Tomatoes rolling with semi-melted edges and bright red juice flowing; Instructions: Stir-fry until juice releases, add a little sugar and salt; Chef's tip: Lightly press with spatula to speed up juice extraction, add a spoon of tomato paste for color; Insight: Sugar neutralizes acidity and enhances freshness. Step 5 The Final Harmony (bottom left): Eggs returned to the wok to intertwine with tomato juice, sprinkle with green onions; Instructions: Let eggs absorb tomato juice, turn off heat and plate; Chef's tip: Add a few drops of sesame oil before serving for aroma; Insight: Work quickly to maintain vibrant colors. 3) Bottom finished product illustration: Tomato and egg stir-fry served in a deep blue-and-white porcelain plate, bright red sauce enveloping golden chunks of eggs, garnished with green onions, watercolor rendering of translucent sauce texture, with wisps of steam at the edges; Visual appeal: Makes you want to immediately serve it with a bowl of rice. 4) Bottom center signature: [ The Photographer's Kitchen Diary · 2025 ].
+```
+
+<a id="prompt-d875a181e0d85a847895"></a>
+
+### 39. Brand Visual Identity Diagram
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case186.jpg" alt="Brand Visual Identity Diagram" width="480">
+
+- **Categories:** Brand Visual Identity Graphics
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-186)
+
+**Prompt:**
+
+```text
+Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pixel art style (16-bit or 32-bit sprite aesthetic, reminiscent of SNES/GBA-era JRPGs). Each item should appear in its own square tile with a short clear label underneath. Keep the grid neat on a white background. Make every item visually distinct and every label correctly spelled. Use crisp pixel edges, limited palette per sprite, and subtle dithering for shading.
+Use these row themes:
+Row 1: swords and blades
+Row 2: shields and armor
+Row 3: bows, crossbows, and ranged weapons
+Row 4: staves, wands, and magical foci
+Row 5: potions, elixirs, and flasks
+Row 6: scrolls, tomes, and spellbooks
+Row 7: rings, amulets, and enchanted trinkets
+Row 8: helmets, crowns, and headgear
+Row 9: keys, relics, and quest items
+Row 10: gems, runes, and crafting materials
+Show each tile as a centered item sprite on a clean background square, rendered as a classic inventory icon — the kind you'd see in a fantasy RPG menu. Keep the overall style consistent, cohesive, and reminiscent of beloved retro fantasy RPGs — charming, detailed, and instantly readable at small sizes.
+```
+
+<a id="prompt-d9b03e1696bc4440b9a1"></a>
+
+### 40. Comprehensive Application Scenario Diagram
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case37.jpg" alt="Comprehensive Application Scenario Diagram" width="480">
+
+- **Categories:** Comprehensive application scenario diagram
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-37)
+
+**Prompt:**
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
 
 <a id="prompt-dbfd8f0919949f6cb90c"></a>
 
-### 37. 关系图谱信息图
+### 41. 关系图谱信息图
 
-![关系图谱信息图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case84.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case84.jpg" alt="关系图谱信息图" width="480">
 
 - **Categories:** 关系图谱信息图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-84)
@@ -1500,9 +1530,9 @@ The final product should satisfy:
 
 <a id="prompt-e5a05d4d8a07c6c2c3d7"></a>
 
-### 38. 信息图可视化设计
+### 42. 信息图可视化设计
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case1.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case1.jpg" alt="信息图可视化设计" width="480">
 
 - **Categories:** 信息图可视化设计
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-1)
@@ -1515,11 +1545,11 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 <a id="prompt-e6e43a3687e3772cc4c4"></a>
 
-### 39. 信息图可视化设计
+### 43. Infographic visualization design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case73.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case73.jpg" alt="Infographic visualization design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-73)
 
 **Prompt:**
@@ -1529,51 +1559,51 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
   "type": "complex urban systems atlas infographic",
   "style": "{argument name=\"color palette\" default=\"dark background with glowing blue, gold, and purple accents\"}, highly detailed technical illustration, 3D isometric cutaway",
   "header": {
-    "title": "{argument name=\"chinese city name\" default=\"上海\"}城市系统剖面 {argument name=\"english city name\" default=\"SHANGHAI\"} URBAN SYSTEMS ATLAS",
+    "title": "{argument name=\"chinese city name\" default=\"上海\"}Urban Systems Profile {argument name=\"english city name\" default=\"SHANGHAI\"} URBAN SYSTEMS ATLAS",
     "subtitles": [
-      "地表之上，是城市；地表之下，是秩序 {argument name=\"english subtitle\" default=\"Beneath the skyline lies the machine.\"}",
-      "一座城市如何运转 How a Megacity Actually Works"
+      "Above ground is the city; below ground is order {argument name=\"english subtitle\" default=\"Beneath the skyline lies the machine.\"}",
+      "How a Megacity Actually Works"
     ]
   },
   "layout": {
-    "top_left": "Compass rose and city map labeled '上海市域位置 SHANGHAI LOCATION'",
-    "top_right": "Data table titled '城市数据 CITY DATA' with 7 rows of statistics",
+    "top_left": "Compass rose and city map labeled 'Shanghai City Location SHANGHAI LOCATION'",
+    "top_right": "Data table titled 'City Data CITY DATA' with 7 rows of statistics",
     "centerpiece": {
       "description": "{argument name=\"centerpiece style\" default=\"highly detailed 3D isometric cutaway render\"} of a megacity river landscape",
       "layers": [
-        "地面层 SURFACE",
-        "排水层 DRAINAGE LAYER",
-        "电力层 POWER LAYER",
-        "通信层 COMMUNICATION LAYER",
-        "轨道交通层 METRO LAYER",
-        "道路隧道层 ROAD TUNNEL LAYER",
-        "管廊综合层 UTILITY CORRIDOR LAYER"
+        "Surface Layer SURFACE",
+        "Drainage Layer DRAINAGE LAYER",
+        "Power Layer POWER LAYER",
+        "Communication Layer COMMUNICATION LAYER",
+        "Metro Rail Layer METRO LAYER",
+        "Road Tunnel Layer ROAD TUNNEL LAYER",
+        "Utility Corridor Layer UTILITY CORRIDOR LAYER"
       ]
     },
     "side_panels": [
-      { "id": "01", "title": "城市主骨架 URBAN SKELETON", "elements": "Map with 8 legend items" },
-      { "id": "02", "title": "排水与地下水网 DRAINAGE + STORMWATER", "elements": "Cross-section diagram '典型排水剖面 DRAINAGE SECTION' with 5 legend items" },
-      { "id": "03", "title": "电网与能源分配 POWER GRID + ENERGY", "elements": "Cross-section diagram '典型变电站剖面 SUBSTATION SECTION' with 6 legend items" },
-      { "id": "04", "title": "通信与网络骨干 TELECOM + INTERNET", "elements": "Cross-section diagram '数据中心剖面 DATA CENTER SECTION' with 6 legend items" },
-      { "id": "05", "title": "地铁与地下交通 METRO + SUBSURFACE MOBILITY", "elements": "Cross-section diagram '人民广场站剖面 PEOPLE'S SQUARE STATION' with 6 legend items" },
-      { "id": "06", "title": "道路、高架与循环 ROADS + ELEVATED MOBILITY", "elements": "Cross-section diagram '南浦大桥剖面 NANPU BRIDGE SECTION' with 6 legend items" },
-      { "id": "07", "title": "管廊与地下设施 UTILITY CORRIDORS + PLUMBING", "elements": "Cross-section diagram '综合管廊 UTILITY CORRIDOR' with 8 legend items" },
-      { "id": "08", "title": "城市流量与系统协同 URBAN FLOWS + COORDINATION", "elements": "Map diagram '城市运行指挥中心 CITY OPERATIONS CENTER' with 6 legend items" }
+      { "id": "01", "title": "Urban Main Framework URBAN SKELETON", "elements": "Map with 8 legend items" },
+      { "id": "02", "title": "Drainage and Groundwater Network DRAINAGE + STORMWATER", "elements": "Cross-section diagram 'Typical Drainage Profile DRAINAGE SECTION' with 5 legend items" },
+      { "id": "03", "title": "Power Grid and Energy Distribution POWER GRID + ENERGY", "elements": "Cross-section diagram 'Typical Substation Profile SUBSTATION SECTION' with 6 legend items" },
+      { "id": "04", "title": "Communication and Network Backbone TELECOM + INTERNET", "elements": "Cross-section diagram 'Data Center Profile DATA CENTER SECTION' with 6 legend items" },
+      { "id": "05", "title": "Metro and Underground Transportation METRO + SUBSURFACE MOBILITY", "elements": "Cross-section diagram 'People's Square Station Profile PEOPLE'S SQUARE STATION' with 6 legend items" },
+      { "id": "06", "title": "Roads, Elevated Roads and Circulation ROADS + ELEVATED MOBILITY", "elements": "Cross-section diagram 'Nanpu Bridge Profile NANPU BRIDGE SECTION' with 6 legend items" },
+      { "id": "07", "title": "Utility Corridors and Underground Facilities UTILITY CORRIDORS + PLUMBING", "elements": "Cross-section diagram 'Comprehensive Utility Corridor UTILITY CORRIDOR' with 8 legend items" },
+      { "id": "08", "title": "Urban Flows and System Coordination URBAN FLOWS + COORDINATION", "elements": "Map diagram 'City Operations Center CITY OPERATIONS CENTER' with 6 legend items" }
     ],
     "bottom_panels": {
       "system_logic": {
-        "title": "城市系统协同逻辑 SYSTEM COORDINATION LOGIC",
+        "title": "Urban System Coordination Logic SYSTEM COORDINATION LOGIC",
         "steps": 4,
-        "labels": ["感知层 SENSING LAYER", "网络层 NETWORK LAYER", "平台层 PLATFORM LAYER", "应用层 APPLICATION LAYER"]
+        "labels": ["Sensing Layer SENSING LAYER", "Network Layer NETWORK LAYER", "Platform Layer PLATFORM LAYER", "Application Layer APPLICATION LAYER"]
       },
       "city_brain": {
-        "title": "城市大脑 CITY BRAIN",
+        "title": "Urban Brain CITY BRAIN",
         "central_node": 1,
         "peripheral_nodes": 8
       },
       "references": {
-        "depth_scale": { "title": "深度与尺度 DEPTH & SCALE REFERENCE", "icons": 5 },
-        "map_scale": { "title": "比例尺 SCALE", "markers": 4 }
+        "depth_scale": { "title": "Depth and Scale DEPTH & SCALE REFERENCE", "icons": 5 },
+        "map_scale": { "title": "Scale SCALE", "markers": 4 }
       }
     }
   }
@@ -1582,11 +1612,11 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 <a id="prompt-ed41438a5e0a1e658085"></a>
 
-### 40. 信息图可视化设计
+### 44. Infographic Visualization Design
 
-![信息图可视化设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case55.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case55.jpg" alt="Infographic Visualization Design" width="480">
 
-- **Categories:** 信息图可视化设计
+- **Categories:** Infographic visualization design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-55)
 
 **Prompt:**
@@ -1597,11 +1627,11 @@ Help me create a detailed production flowchart for the dish {argument name="dish
 
 <a id="prompt-efa7d86df851921bfb61"></a>
 
-### 41. 长发造型分析信息图
+### 45. Long Hair Style Analysis Infographic
 
-![长发造型分析信息图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case360.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case360.jpg" alt="Long Hair Style Analysis Infographic" width="480">
 
-- **Categories:** 长发造型分析信息图
+- **Categories:** Long hairstyle analysis infographic
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-360)
 
 **Prompt:**
@@ -1652,76 +1682,38 @@ Consistent spacing and typography
 High resolution, 4K
 ```
 
-<a id="prompt-f63224c23bc330d97d4c"></a>
+<a id="prompt-f382c76c6d719c63b15d"></a>
 
-### 42. 零食品牌技术分解图
+### 46. People's Education Press Grade 3 Chinese Textbook Inner Page
 
-![零食品牌技术分解图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case310.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case303.jpg" alt="People's Education Press Grade 3 Chinese Textbook Inner Page" width="480">
 
-- **Categories:** 零食品牌技术分解图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-310)
+- **Categories:** Inner page of the third grade Chinese language textbook from People's Education Press
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-303)
 
 **Prompt:**
 
 ```text
-[中文]
-创建一个 [SNACK] 的品牌技术信息图，结合产品的真实照片或照片级真实渲染，并将技术注释覆盖层直接置于其上。在纯白摄影棚背景上使用带有策略性 [BRAND COLOR] 点缀的黑色墨水风格线条画（建筑草图外观），包括：
-• 关键组件标签
-• 显示结构、分层或内部设计的内部截面图
-• 测量数据、尺寸和规格
-• 带有成分和数量的材料标注
-• 指示主要功能和结构完整性的箭头
-• 显示关键机械或设计元素的简单示意图或剖面图
-• 可持续性标注
-标题位置：位于手绘技术注释框内，带有强调色边框，粗体字显示产品名称，置于上角。
-风格与布局规则：
-• 真实产品保持清晰可见
-• 注释具有素描感、技术感和建筑感
-• 强调色用于高光（占线条工作的 20-30%），黑色用于主要技术线条（70-80%）
-• 构图整洁，负空间平衡
-• 具有教育意义、食品工程氛围和高端品牌感
-• 在角落包含微妙的品牌标志
-视觉风格：极简技术插画美学，黑色线条在真实图像上带有点缀，精确但略带手绘感。
-调色板：白色背景，黑色注释线/文本，[BRAND COLOR] 仅用于点缀和关键标注。
-输出：1080×1080，超清晰，社交媒体动态优化，无水印。
-
-[English]
-Create a branded technical infographic of a [SNACK], combining a realistic photograph or photoreal render of the product with technical annotation overlays placed directly on top. Use black ink–style line drawings with strategic [BRAND COLOR] accents (architectural sketch look) on a pure white studio background, including:
-• Key component labels
-• Internal cross-section showing structure, layering, or internal design
-• Measurements, dimensions, and specifications
-• Material callouts with composition and quantities
-• Arrows indicating function for primary features and structural integrity
-• Simple schematic or sectional diagram showing key mechanical or design elements
-• Sustainability callouts
-Title placement: Inside a hand-drawn technical annotation box with accent border reading the product name in bold font, positioned in upper corner.
-Style & layout rules:
-• The realistic product remains clearly visible
-• Annotations feel sketched, technical, and architectural
-• Accents used for highlight (20-30% of linework), black for primary technical lines (70-80%)
-• Clean composition with balanced negative space
-• Educational, food-engineering vibe with premium branding
-• Include subtle brand logo mark in corner
-Visual style: Minimal technical illustration aesthetic, black linework with accents over realistic imagery, precise but slightly hand-drawn feel.
-Color palette: White background, black annotation lines/text, [BRAND COLOR] for accents and key callouts only.
-Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​​​​​​​​​​​​​​
+Generate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook
 ```
 
-<a id="prompt-fc627ec954ab4f8b1e23"></a>
+<a id="prompt-f88b7e499941ce7926d8"></a>
 
-### 43. 蒸汽朋克射手座解剖图谱
+### 47. Infographic visualization design
 
-![蒸汽朋克射手座解剖图谱](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case179.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case270.jpg" alt="Infographic visualization design" width="480">
 
-- **Categories:** 蒸汽朋克射手座解剖图谱
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-179)
+- **Categories:** Infographic visualization design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-270)
 
 **Prompt:**
 
 ```text
-[中文]
-（Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。
-
-[English]
-(Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
+Based on this character and background, please create a character sheet like an official setting material.
+・Include front, side, and back 3-view drawings ・Add character expression variations
+・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view
+・Overall organized layout
+(White background, diagrammatic style)
+・Aspect ratio 16:9 　←
+High resolution, professional concept art style
 ```

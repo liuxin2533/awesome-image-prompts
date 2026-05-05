@@ -5,21 +5,35 @@ const path = require('path');
 
 const { ensureDir, readJson } = require('../ingestion/core/persist');
 
+const SITE_URL = 'https://gptimages.dev';
+
 const LANGUAGE_FILES = {
   en: 'README.md',
   'zh-CN': 'README_zh-CN.md'
+};
+
+const LANGUAGE_NAMES = {
+  en: { en: 'English', 'zh-CN': '英文' },
+  'zh-CN': { en: 'Simplified Chinese', 'zh-CN': '简体中文' }
 };
 
 const LABELS = {
   en: {
     title: 'awesome-image-prompts',
     intro: 'A curated, normalized, multilingual catalog of high-quality GPT image prompts collected from open-source projects.',
+    tagline: 'Reusable GPT image prompt patterns, normalized for GitHub, JSON, and gptimages.dev.',
+    repositoryCopy: 'The Markdown files in this repository are generated from the standardized public catalog data, so the GitHub docs, JSON exports, and website experience stay aligned.',
+    website: 'Website',
+    websiteCopy: `Use [gptimages.dev](${SITE_URL}) to browse, search, filter, and copy these prompts. The site is built on this catalog and is the fastest way to explore prompt patterns by category, language, and source.`,
+    catalogSnapshot: 'Catalog Snapshot',
     generated: 'Generated',
     total: 'Total prompts',
-    languages: 'Public data',
+    languages: 'Languages',
+    publicData: 'Public data',
     contents: 'Collections',
     prompts: 'Prompts',
     featured: 'Featured Prompts',
+    featuredIntro: 'A compact sample from the catalog. Open any collection to read the complete prompt text.',
     category: 'Category',
     categories: 'Categories',
     tags: 'Tags',
@@ -30,18 +44,31 @@ const LABELS = {
     dataContract: 'Data Contract',
     upstreamSources: 'Upstream Sources',
     websiteData: 'Machine-readable catalog data is available under `data/catalog/`.',
-    fullCatalog: 'The full catalog is split into collection documents to keep this README readable.',
-    backToReadme: 'Back to README'
+    fullCatalog: 'Every prompt body is generated into the collection documents below. The root README stays compact while the split files keep the full catalog easy to navigate.',
+    collectionIntro: `This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](${SITE_URL}).`,
+    backToReadme: 'Back to README',
+    uncategorized: 'Uncategorized',
+    badgeWebsite: 'Website',
+    badgeDataset: 'Dataset',
+    badgePrompts: 'Prompts',
+    badgeLanguages: 'Languages'
   },
   'zh-CN': {
     title: 'awesome-image-prompts',
     intro: '一个从多个开源项目整理、标准化并支持多语言的高质量 GPT 图像提示词目录。',
+    tagline: '可复用的 GPT 图像提示词模式，统一生成 GitHub 文档、JSON 数据和 gptimages.dev 网站内容。',
+    repositoryCopy: '本仓库中的 Markdown 文档由标准化公开目录数据自动生成，确保 GitHub 文档、JSON 导出文件和网站体验保持一致。',
+    website: '网站',
+    websiteCopy: `你可以在 [gptimages.dev](${SITE_URL}) 浏览、搜索、筛选和复制这些提示词。网站基于本目录数据构建，更适合按分类、语言和来源快速查找可用的图像生成 prompt。`,
+    catalogSnapshot: '目录概览',
     generated: '生成时间',
     total: '提示词总数',
-    languages: '公开数据',
+    languages: '语言',
+    publicData: '公开数据',
     contents: '分类集合',
     prompts: '提示词',
     featured: '精选提示词',
+    featuredIntro: '这里展示一部分精选条目；打开任意分类文档即可查看完整提示词正文。',
     category: '分类',
     categories: '分类',
     tags: '标签',
@@ -52,8 +79,14 @@ const LABELS = {
     dataContract: '数据结构',
     upstreamSources: '上游来源',
     websiteData: '机器可读的公开目录数据位于 `data/catalog/`。',
-    fullCatalog: '完整提示词已按分类拆分到子文档，避免 README 过大。',
-    backToReadme: '返回 README'
+    fullCatalog: '每一条提示词正文都会生成到下面的分类文档中；根 README 保持简洁，拆分文件保留完整目录，方便浏览。',
+    collectionIntro: `本文档包含归入此分类的全部提示词。如需可视化浏览和快速复制，可以打开 [gptimages.dev](${SITE_URL})。`,
+    backToReadme: '返回 README',
+    uncategorized: '未分类',
+    badgeWebsite: '网站',
+    badgeDataset: '数据集',
+    badgePrompts: '提示词',
+    badgeLanguages: '语言'
   }
 };
 
@@ -112,6 +145,75 @@ const COLLECTIONS = [
 
 function labelsFor(language) {
   return LABELS[language] || LABELS.en;
+}
+
+function readmeFileName(language) {
+  return LANGUAGE_FILES[language] || `README_${language}.md`;
+}
+
+function languageName(language, displayLanguage = 'en') {
+  return LANGUAGE_NAMES[language]?.[displayLanguage] || LANGUAGE_NAMES[language]?.en || language;
+}
+
+function languageLinks(language, languages = Object.keys(LANGUAGE_FILES)) {
+  return languages
+    .map(item => `[${languageName(item, language)}](${readmeFileName(item)})`)
+    .join(' / ');
+}
+
+function badgeSegment(value) {
+  return String(value || '')
+    .trim()
+    .replace(/\s+/g, '_')
+    .replace(/-/g, '--');
+}
+
+function shield(label, message, color, href) {
+  const image = `https://img.shields.io/badge/${badgeSegment(label)}-${badgeSegment(message)}-${color}`;
+  return `[![${label}: ${message}](${image})](${href})`;
+}
+
+function sectionAnchor(title) {
+  return `#${String(title || '')
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, '-')}`;
+}
+
+function renderHeader(dataset, labels, language, languages) {
+  const total = dataset.totalCount || dataset.prompts?.length || 0;
+  const lines = [];
+
+  lines.push('<div align="center">');
+  lines.push('');
+  lines.push(`# ${labels.title}`);
+  lines.push('');
+  lines.push(labels.tagline);
+  lines.push('');
+  lines.push([
+    shield(labels.badgeWebsite, 'gptimages.dev', 'black', SITE_URL),
+    shield(labels.badgeDataset, 'JSON', 'orange', 'data/catalog/'),
+    shield(labels.badgePrompts, total, 'blue', sectionAnchor(labels.contents)),
+    shield(labels.badgeLanguages, languages.length, 'green', readmeFileName(language))
+  ].join(' '));
+  lines.push('');
+  lines.push(languageLinks(language, languages));
+  lines.push('');
+  lines.push('</div>');
+
+  return lines.join('\n');
+}
+
+function escapeAttribute(value) {
+  return String(value || '')
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+function renderPreviewImage(url, alt, width) {
+  return `<img src="${escapeAttribute(url)}" alt="${escapeAttribute(alt)}" width="${width}">`;
 }
 
 function collectionDefinition(slug) {
@@ -177,7 +279,7 @@ function categorySummary(prompts) {
 }
 
 function docsPath(language, slug) {
-  return language === 'zh-CN' ? `docs/zh-CN/${slug}.md` : `docs/${slug}.md`;
+  return language === 'en' ? `docs/${slug}.md` : `docs/${language}/${slug}.md`;
 }
 
 function docsFilePath(projectRoot, language, slug) {
@@ -188,14 +290,14 @@ function renderPrompt(prompt, index, labels, options = {}) {
   const lines = [];
   const title = prompt.title || `Prompt ${index + 1}`;
   const sourceUrl = firstSourceUrl(prompt);
-  const categories = (prompt.categories || []).join(', ') || 'Uncategorized';
+  const categories = (prompt.categories || []).join(', ') || labels.uncategorized;
   const tags = (prompt.tags || []).join(', ');
 
   lines.push(`${options.headingLevel || '###'} ${index + 1}. ${title}`);
   lines.push('');
 
   if (prompt.previewImage) {
-    lines.push(`![${title}](${prompt.previewImage})`);
+    lines.push(renderPreviewImage(prompt.previewImage, title, options.imageWidth || 480));
     lines.push('');
   }
 
@@ -224,15 +326,25 @@ function buildReadme(dataset, options = {}) {
   const language = options.language || dataset.language || 'en';
   const labels = labelsFor(language);
   const prompts = dataset.prompts || [];
+  const languages = options.languages?.length ? options.languages : dataset.languages || Object.keys(LANGUAGE_FILES);
   const lines = [];
 
-  lines.push(`# ${labels.title}`);
+  lines.push(renderHeader(dataset, labels, language, languages));
   lines.push('');
   lines.push(labels.intro);
   lines.push('');
+  lines.push(labels.repositoryCopy);
+  lines.push('');
+  lines.push(`## ${labels.website}`);
+  lines.push('');
+  lines.push(labels.websiteCopy);
+  lines.push('');
+  lines.push(`## ${labels.catalogSnapshot}`);
+  lines.push('');
   lines.push(`- ${labels.generated}: ${dataset.exportedAt || dataset.generatedAt || new Date().toISOString()}`);
   lines.push(`- ${labels.total}: ${dataset.totalCount || prompts.length}`);
-  lines.push(`- ${labels.languages}: ${labels.websiteData}`);
+  lines.push(`- ${labels.languages}: ${languageLinks(language, languages)}`);
+  lines.push(`- ${labels.publicData}: ${labels.websiteData}`);
   lines.push(`- ${labels.prompts}: ${labels.fullCatalog}`);
   lines.push('');
 
@@ -246,6 +358,8 @@ function buildReadme(dataset, options = {}) {
   lines.push('');
   lines.push(`## ${labels.featured}`);
   lines.push('');
+  lines.push(labels.featuredIntro);
+  lines.push('');
 
   prompts.slice(0, 12).forEach((prompt, index) => {
     lines.push(`<a id="${promptAnchor(prompt, index)}"></a>`);
@@ -253,14 +367,14 @@ function buildReadme(dataset, options = {}) {
     lines.push(`### ${index + 1}. ${prompt.title || `Prompt ${index + 1}`}`);
     lines.push('');
     if (prompt.previewImage) {
-      lines.push(`![${prompt.title || `Prompt ${index + 1}`}](${prompt.previewImage})`);
+      lines.push(renderPreviewImage(prompt.previewImage, prompt.title || `Prompt ${index + 1}`, 360));
       lines.push('');
     }
     if (prompt.description) {
       lines.push(prompt.description);
       lines.push('');
     }
-    lines.push(`- **${labels.categories}:** ${(prompt.categories || []).join(', ') || 'Uncategorized'}`);
+    lines.push(`- **${labels.categories}:** ${(prompt.categories || []).join(', ') || labels.uncategorized}`);
     lines.push(`- **${labels.source}:** ${firstSourceUrl(prompt) ? `[${sourceLabel(prompt)}](${firstSourceUrl(prompt)})` : sourceLabel(prompt)}`);
     lines.push(`- **${labels.prompt}:** [${labels.open}](${docsPath(language, collectionSlug(prompt))}#${promptAnchor(prompt, index)})`);
     lines.push('');
@@ -310,10 +424,13 @@ function buildCollectionDoc(dataset, slug, prompts, options = {}) {
   const language = options.language || dataset.language || 'en';
   const labels = labelsFor(language);
   const lines = [];
+  const readmePath = language === 'en' ? '../README.md' : `../../${readmeFileName(language)}`;
 
   lines.push(`# ${collectionTitle(slug, language)}`);
   lines.push('');
-  lines.push(`[${labels.backToReadme}](${language === 'zh-CN' ? '../../README_zh-CN.md' : '../README.md'})`);
+  lines.push(`[${labels.backToReadme}](${readmePath})`);
+  lines.push('');
+  lines.push(labels.collectionIntro);
   lines.push('');
   lines.push(`- ${labels.total}: ${prompts.length}`);
   lines.push(`- ${labels.generated}: ${dataset.exportedAt || dataset.generatedAt || new Date().toISOString()}`);
@@ -340,12 +457,11 @@ async function generateReadmes(options = {}) {
   const files = [];
 
   for (const language of languages) {
-    const fileName = LANGUAGE_FILES[language];
-    if (!fileName) continue;
+    const fileName = readmeFileName(language);
     const dataset = readDataset(projectRoot, language);
     const outputPath = path.join(projectRoot, fileName);
     ensureDir(path.dirname(outputPath));
-    fs.writeFileSync(outputPath, buildReadme(dataset, { language }), 'utf-8');
+    fs.writeFileSync(outputPath, buildReadme(dataset, { language, languages }), 'utf-8');
     files.push(fileName);
 
     for (const group of groupPrompts(dataset.prompts || [])) {

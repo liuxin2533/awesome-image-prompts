@@ -128,6 +128,22 @@ test('selectLocalizedValue prefers exact language and reports fallback metadata'
   });
 });
 
+test('selectLocalizedValue strips workbench field labels from AI output', () => {
+  const field = {
+    original: localized('en', 'Original title'),
+    translations: {
+      'zh-CN': localized('zh-CN', 'Field: title.translations.zh-CN\n\n中文标题', 'ai')
+    }
+  };
+
+  assert.deepEqual(selectLocalizedValue(field, 'zh-CN'), {
+    language: 'zh-CN',
+    value: '中文标题',
+    source: 'ai',
+    isFallback: false
+  });
+});
+
 test('selectLocalizedTaxonomy groups translations by canonical id', () => {
   const values = [
     { id: 'poster', value: 'Poster', language: 'en', source: 'upstream' },
@@ -136,6 +152,21 @@ test('selectLocalizedTaxonomy groups translations by canonical id', () => {
 
   assert.deepEqual(selectLocalizedTaxonomy(values, 'zh-CN'), ['海报']);
   assert.deepEqual(selectLocalizedTaxonomy(values, 'ja', ['en']), ['Poster']);
+});
+
+test('selectLocalizedTaxonomy strips workbench field labels from taxonomy values', () => {
+  const values = [
+    { id: 'poster', value: 'Poster', language: 'en', source: 'upstream' },
+    {
+      id: 'poster-zh-cn',
+      value: 'Field: categories.poster.zh-CN\n\n海报',
+      language: 'zh-CN',
+      source: 'ai',
+      translationOf: 'poster'
+    }
+  ];
+
+  assert.deepEqual(selectLocalizedTaxonomy(values, 'zh-CN'), ['海报']);
 });
 
 test('resolveAssetUrl uses cached local assets only after they are mirrored', () => {

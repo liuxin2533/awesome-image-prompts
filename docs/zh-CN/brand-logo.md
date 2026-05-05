@@ -2,8 +2,10 @@
 
 [返回 README](../../README_zh-CN.md)
 
+本文档包含归入此分类的全部提示词。如需可视化浏览和快速复制，可以打开 [gptimages.dev](https://gptimages.dev)。
+
 - 提示词总数: 9
-- 生成时间: 2026-05-04T14:49:54.268Z
+- 生成时间: 2026-05-05T17:36:14.729Z
 
 ## 提示词
 
@@ -11,7 +13,7 @@
 
 ### 1. 品牌视觉识别图
 
-![品牌视觉识别图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case115.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case115.jpg" alt="品牌视觉识别图" width="480">
 
 - **分类:** 品牌视觉识别图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-115)
@@ -92,7 +94,7 @@
 
 ### 2. 品牌徽标设计图
 
-![品牌徽标设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case150.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case150.jpg" alt="品牌徽标设计图" width="480">
 
 - **分类:** 品牌徽标设计图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-150)
@@ -107,7 +109,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 ### 3. Logo 与品牌身份系统提示词合集
 
-![Logo 与品牌身份系统提示词合集](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case354.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case354.jpg" alt="Logo 与品牌身份系统提示词合集" width="480">
 
 - **分类:** Logo 与品牌身份系统提示词合集
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-354)
@@ -247,7 +249,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 ### 4. 品牌视觉识别图
 
-![品牌视觉识别图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case95.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case95.jpg" alt="品牌视觉识别图" width="480">
 
 - **分类:** 品牌视觉识别图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-95)
@@ -288,7 +290,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 ### 5. 品牌徽标设计图
 
-![品牌徽标设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case143.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case143.jpg" alt="品牌徽标设计图" width="480">
 
 - **分类:** 品牌徽标设计图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-143)
@@ -303,7 +305,7 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 
 ### 6. 品牌视觉识别图
 
-![品牌视觉识别图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case136.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case136.jpg" alt="品牌视觉识别图" width="480">
 
 - **分类:** 品牌视觉识别图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-136)
@@ -354,11 +356,41 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 }
 ```
 
-<a id="prompt-8c6a11e32be77d8ea690"></a>
+<a id="prompt-c4bd9bf15bab0290f7ff"></a>
 
-### 7. 品牌视觉识别图
+### 7. 健身品牌力量 Campaign
 
-![品牌视觉识别图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case186.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case351.jpg" alt="健身品牌力量 Campaign" width="480">
+
+- **分类:** 健身品牌力量 Campaign
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-351)
+
+**提示词:**
+
+```text
+Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
+```
+
+<a id="prompt-cdea547323cd1ebc1523"></a>
+
+### 8. 品牌徽标设计图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case36.jpg" alt="品牌徽标设计图" width="480">
+
+- **分类:** 品牌徽标设计图
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-36)
+
+**提示词:**
+
+```text
+A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name="ball color" default="green"} basketball featuring a large white {argument name="logo design" default="OpenAI logo"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.
+```
+
+<a id="prompt-d875a181e0d85a847895"></a>
+
+### 9. 品牌视觉识别图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case186.jpg" alt="品牌视觉识别图" width="480">
 
 - **分类:** 品牌视觉识别图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-186)
@@ -366,7 +398,6 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 **提示词:**
 
 ```text
-[中文]
 创建一个包含100种不同奇幻RPG物品的10×10网格，以经典像素艺术风格渲染（16位或32位精灵图美学，让人联想到SNES/GBA时代的日式RPG）。每个物品应出现在其独立的方形瓷砖中，下方带有简短清晰的标签。在白色背景上保持网格整洁。使每个物品在视觉上都有所区分，并且每个标签拼写正确。使用清晰的像素边缘、每个精灵图有限的调色板，以及用于阴影的微妙抖动。
 使用这些行主题：
 第1行：剑与刀刃
@@ -380,49 +411,4 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 第9行：钥匙、遗物与任务物品
 第10行：宝石、符文与制作材料
 将每个瓷砖显示为干净背景方形上居中的物品精灵图，渲染为经典的库存图标——你在奇幻RPG菜单中会看到的那种。保持整体风格一致、连贯，并让人联想到备受喜爱的复古奇幻RPG——迷人、细节丰富，且在小尺寸下易于辨认。
-
-[English]
-Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pixel art style (16-bit or 32-bit sprite aesthetic, reminiscent of SNES/GBA-era JRPGs). Each item should appear in its own square tile with a short clear label underneath. Keep the grid neat on a white background. Make every item visually distinct and every label correctly spelled. Use crisp pixel edges, limited palette per sprite, and subtle dithering for shading.
-Use these row themes:
-Row 1: swords and blades
-Row 2: shields and armor
-Row 3: bows, crossbows, and ranged weapons
-Row 4: staves, wands, and magical foci
-Row 5: potions, elixirs, and flasks
-Row 6: scrolls, tomes, and spellbooks
-Row 7: rings, amulets, and enchanted trinkets
-Row 8: helmets, crowns, and headgear
-Row 9: keys, relics, and quest items
-Row 10: gems, runes, and crafting materials
-Show each tile as a centered item sprite on a clean background square, rendered as a classic inventory icon — the kind you'd see in a fantasy RPG menu. Keep the overall style consistent, cohesive, and reminiscent of beloved retro fantasy RPGs — charming, detailed, and instantly readable at small sizes.
-```
-
-<a id="prompt-c4bd9bf15bab0290f7ff"></a>
-
-### 8. 健身品牌力量 Campaign
-
-![健身品牌力量 Campaign](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case351.jpg)
-
-- **分类:** 健身品牌力量 Campaign
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-351)
-
-**提示词:**
-
-```text
-Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
-```
-
-<a id="prompt-cdea547323cd1ebc1523"></a>
-
-### 9. 品牌徽标设计图
-
-![品牌徽标设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case36.jpg)
-
-- **分类:** 品牌徽标设计图
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-36)
-
-**提示词:**
-
-```text
-A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name="ball color" default="green"} basketball featuring a large white {argument name="logo design" default="OpenAI logo"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.
 ```

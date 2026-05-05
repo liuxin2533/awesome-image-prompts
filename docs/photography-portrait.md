@@ -2,8 +2,10 @@
 
 [Back to README](../README.md)
 
-- Total prompts: 82
-- Generated: 2026-05-04T14:49:54.225Z
+This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](https://gptimages.dev).
+
+- Total prompts: 83
+- Generated: 2026-05-05T17:36:14.688Z
 
 ## Prompts
 
@@ -11,7 +13,7 @@
 
 ### 1. Rainy Bus Stop Portrait
 
-![Rainy Bus Stop Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case103/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case103/output.jpg" alt="Rainy Bus Stop Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/harboriis/status/2049081194156020046)
@@ -32,7 +34,7 @@ pants. Moody, dark, atmospheric street photography.
 
 ### 2. Collectible Figure Workspace Photo
 
-![Collectible Figure Workspace Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case102/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case102/output.jpg" alt="Collectible Figure Workspace Photo" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Shinning1010/status/2049068188399227174)
@@ -63,7 +65,7 @@ photorealistic, ultra detailed, cinematic studio lighting, realistic figurine, c
 
 ### 3. Monochrome Hermes-Inspired Avatar
 
-![Monochrome Hermes-Inspired Avatar](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case92/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case92/output.jpg" alt="Monochrome Hermes-Inspired Avatar" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/jiajia232016/status/2048044100793032976)
@@ -78,7 +80,7 @@ Create a minimalist black-and-white vector avatar logo of a mythic anime woman s
 
 ### 4. Dreamy Underwater Woman With Translucent Fish
 
-![Dreamy Underwater Woman With Translucent Fish](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case99/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case99/output.jpg" alt="Dreamy Underwater Woman With Translucent Fish" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/kotobukigraphic/status/2047967522453123255)
@@ -93,7 +95,7 @@ A dreamy surreal portrait of a {argument name="subject" default="young woman"} s
 
 ### 5. Damaged Vintage Mother and Child Photo
 
-![Damaged Vintage Mother and Child Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case83/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case83/output.jpg" alt="Damaged Vintage Mother and Child Photo" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/gdb/status/2048184797374325031)
@@ -108,7 +110,7 @@ A heavily damaged old family snapshot in faded black and white with a slight sep
 
 ### 6. Lavender AI Girl in Memory Space
 
-![Lavender AI Girl in Memory Space](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case95/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case95/output.jpg" alt="Lavender AI Girl in Memory Space" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/libearal/status/2048026376645861799)
@@ -123,7 +125,7 @@ A dreamy anime portrait of {argument name="character name" default="Kotori"}, a 
 
 ### 7. Luxury Studio Outfit Transformation
 
-![Luxury Studio Outfit Transformation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case89/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case89/output.jpg" alt="Luxury Studio Outfit Transformation" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Abdullah__Ai7/status/2048083022315159595)
@@ -138,7 +140,7 @@ Using REFERENCE_0 as the subject base, transform the casual desert snapshot into
 
 ### 8. Dreamy Backlit Editorial Portrait
 
-![Dreamy Backlit Editorial Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case86/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case86/output.jpg" alt="Dreamy Backlit Editorial Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ToroJushiAi/status/2048139425465467248)
@@ -153,7 +155,7 @@ A cinematic soft-focus portrait of a woman from behind and slightly in profile, 
 
 ### 9. Vintage Engraved Hoodie Portrait
 
-![Vintage Engraved Hoodie Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case85/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case85/output.jpg" alt="Vintage Engraved Hoodie Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/gdb/status/2048184698195870102)
@@ -168,7 +170,7 @@ A centered black-and-white vintage engraved portrait of a bearded man wearing a 
 
 ### 10. Blonde Maid in Warm Cafe
 
-![Blonde Maid in Warm Cafe](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case90/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case90/output.jpg" alt="Blonde Maid in Warm Cafe" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/yume00112211/status/2048072808606089230)
@@ -183,7 +185,7 @@ A polished anime-style portrait of {argument name="character" default="a blonde 
 
 ### 11. Japanese Classroom Long Hair Snapshot
 
-![Japanese Classroom Long Hair Snapshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case100/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case100/output.jpg" alt="Japanese Classroom Long Hair Snapshot" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Hair_Hair55/status/2047963832732221723)
@@ -198,7 +200,7 @@ A candid, photorealistic Japanese high school classroom scene in vertical smartp
 
 ### 12. 3D Cartoon Character Render
 
-![3D Cartoon Character Render](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case87/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case87/output.jpg" alt="3D Cartoon Character Render" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Inshrah_ali_/status/2048121503367995753)
@@ -213,7 +215,7 @@ High-quality 3D CGI render of {argument name="character" default="[character]"} 
 
 ### 13. Dreamy Oriental female portrait prompt
 
-![Dreamy Oriental female portrait prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case91/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case91/output.jpg" alt="Dreamy Oriental female portrait prompt" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2048046253842559183)
@@ -228,7 +230,7 @@ High-quality 3D CGI render of {argument name="character" default="[character]"} 
 
 ### 14. Cozy Catgirl Pajama Night Portrait
 
-![Cozy Catgirl Pajama Night Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case101/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case101/output.jpg" alt="Cozy Catgirl Pajama Night Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/yume00112211/status/2047951384734228617)
@@ -243,7 +245,7 @@ A soft anime-style bedroom portrait of {argument name="character name" default="
 
 ### 15. Dark Gatorade-Style Portrait
 
-![Dark Gatorade-Style Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case97/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case97/output.jpg" alt="Dark Gatorade-Style Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/jeremydevz/status/2048026214812561683)
@@ -258,7 +260,7 @@ A dramatic, high-contrast studio portrait of a {argument name="subject gender" d
 
 ### 16. Portrait of a Gentle Woman with Glasses
 
-![Portrait of a Gentle Woman with Glasses](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case98/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case98/output.jpg" alt="Portrait of a Gentle Woman with Glasses" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/megane_onesan/status/2047989490153926848)
@@ -273,7 +275,7 @@ A {argument name="style" default="photobook-style portrait"} of a {argument name
 
 ### 17. Restored Vintage Mother and Child Portrait
 
-![Restored Vintage Mother and Child Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case82/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case82/output.jpg" alt="Restored Vintage Mother and Child Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/gdb/status/2048184797374325031)
@@ -288,7 +290,7 @@ A restored vintage family snapshot, photographed indoors in soft natural light, 
 
 ### 18. Ink-Etched Family Portrait
 
-![Ink-Etched Family Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case84/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case84/output.jpg" alt="Ink-Etched Family Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/gdb/status/2048184698195870102)
@@ -303,7 +305,7 @@ A black-and-white hand-drawn family portrait in the style of detailed pen-and-in
 
 ### 19. Profile / Avatar - Casual Fashion Grid Photoshoot
 
-![Profile / Avatar - Casual Fashion Grid Photoshoot](https://cms-assets.youmind.com/media/1777367267771_teyn0r_HG74_nJaoAEM5oD.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367267771_teyn0r_HG74_nJaoAEM5oD.jpg" alt="Profile / Avatar - Casual Fashion Grid Photoshoot" width="480">
 
 A structured JSON prompt for a 4-photo collage of a casual fashion photoshoot with detailed subject and lighting parameters.
 
@@ -386,7 +388,7 @@ A structured JSON prompt for a 4-photo collage of a casual fashion photoshoot wi
 
 ### 20. Profile / Avatar - Realistic Golden Hour Porch Selfie
 
-![Profile / Avatar - Realistic Golden Hour Porch Selfie](https://cms-assets.youmind.com/media/1777367286229_s0vrfk_HG7f3shawAAHUWJ.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367286229_s0vrfk_HG7f3shawAAHUWJ.jpg" alt="Profile / Avatar - Realistic Golden Hour Porch Selfie" width="480">
 
 This prompt generates a candid, natural-looking smartphone selfie on a sunlit porch, useful for creating authentic organic portrait photos that do not look overly polished.
 
@@ -403,7 +405,7 @@ A realistic organic selfie of a {argument name="subject age" default="middle-age
 
 ### 21. Profile / Avatar - Cinematic Tudor Noble Portrait
 
-![Profile / Avatar - Cinematic Tudor Noble Portrait](https://cms-assets.youmind.com/media/1777367280503_qageo7_HG6nDzaakAA_JlR.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367280503_qageo7_HG6nDzaakAA_JlR.jpg" alt="Profile / Avatar - Cinematic Tudor Noble Portrait" width="480">
 
 A sophisticated prompt for a cinematic photo portrait of a Tudor-style young nobleman inside a Gothic cathedral with high-end lighting details.
 
@@ -420,7 +422,7 @@ A sophisticated prompt for a cinematic photo portrait of a Tudor-style young nob
 
 ### 22. Profile / Avatar - False-Color Garden Portrait
 
-![Profile / Avatar - False-Color Garden Portrait](https://cms-assets.youmind.com/media/1777367290173_4e95ft_HG6sE4iaYAAaXBM.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367290173_4e95ft_HG6sE4iaYAAaXBM.jpg" alt="Profile / Avatar - False-Color Garden Portrait" width="480">
 
 This prompt generates a surreal medium-format portrait of a woman in a vivid red shirt standing in a lush garden transformed into magenta and purple false-color film tones, ideal for cinematic editorial or experimental photography.
 
@@ -437,7 +439,7 @@ A surreal medium-format portrait of a woman standing on a narrow garden path sur
 
 ### 23. Profile / Avatar - Realistic Golden-Hour Porch Selfie
 
-![Profile / Avatar - Realistic Golden-Hour Porch Selfie](https://cms-assets.youmind.com/media/1777367287051_q0i782_HG7f3scbYAAigq7.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367287051_q0i782_HG7f3scbYAAigq7.jpg" alt="Profile / Avatar - Realistic Golden-Hour Porch Selfie" width="480">
 
 A natural-looking casual selfie prompt for generating an authentic organic smartphone portrait with warm sunlight and everyday realism.
 
@@ -454,7 +456,7 @@ A realistic organic smartphone selfie of a {argument name="subject age" default=
 
 ### 24. Profile / Avatar - Professional Dark-Background LinkedIn Portrait
 
-![Profile / Avatar - Professional Dark-Background LinkedIn Portrait](https://cms-assets.youmind.com/media/1777280787727_qjvj0c_HG5c1BRWsAAJCl_.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280787727_qjvj0c_HG5c1BRWsAAJCl_.jpg" alt="Profile / Avatar - Professional Dark-Background LinkedIn Portrait" width="480">
 
 This prompt generates a clean studio-style professional profile headshot commonly used for LinkedIn, corporate bios, and personal branding.
 
@@ -471,7 +473,7 @@ A polished studio head-and-shoulders LinkedIn profile portrait of a {argument na
 
 ### 25. Profile / Avatar - Cyberpunk Neon Portrait
 
-![Profile / Avatar - Cyberpunk Neon Portrait](https://cms-assets.youmind.com/media/1777367271042_7nclyu_HG5-cOFbgAA9-hL.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367271042_7nclyu_HG5-cOFbgAA9-hL.jpg" alt="Profile / Avatar - Cyberpunk Neon Portrait" width="480">
 
 A cinematic night portrait prompt featuring neon lighting and Tokyo cyberpunk aesthetics.
 
@@ -488,7 +490,7 @@ A cinematic night street portrait of a young woman standing in a bustling city i
 
 ### 26. Profile / Avatar - Monochrome Studio Portrait
 
-![Profile / Avatar - Monochrome Studio Portrait](https://cms-assets.youmind.com/media/1777367273368_hp9n0c_HG7mqKmb0AA1ecq.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367273368_hp9n0c_HG7mqKmb0AA1ecq.jpg" alt="Profile / Avatar - Monochrome Studio Portrait" width="480">
 
 A high-end commercial photography prompt for a monochrome portrait with a distinctive split-background and dramatic studio lighting.
 
@@ -505,7 +507,7 @@ A stunning black and white studio portrait of {argument name="subject" default="
 
 ### 27. Profile / Avatar - Fake Couple Photo Dump Collage
 
-![Profile / Avatar - Fake Couple Photo Dump Collage](https://cms-assets.youmind.com/media/1777367309247_q7gtvo_HG5mHbSa0AAZdHQ.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367309247_q7gtvo_HG5mHbSa0AAZdHQ.jpg" alt="Profile / Avatar - Fake Couple Photo Dump Collage" width="480">
 
 This prompt turns a single personal reference photo into a believable 16-image smartphone collage of candid couple memories, useful for 'what if' lifestyle edits and fake relationship photo dumps.
 
@@ -522,7 +524,7 @@ Using the provided reference image as the base for the man, transform it into a 
 
 ### 28. Profile / Avatar - Pixar Style 3D Character Portrait
 
-![Profile / Avatar - Pixar Style 3D Character Portrait](https://cms-assets.youmind.com/media/1777367275014_hzdgfd_HG6UkEOa4AA6hVG.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367275014_hzdgfd_HG6UkEOa4AA6hVG.jpg" alt="Profile / Avatar - Pixar Style 3D Character Portrait" width="480">
 
 A high-resolution, cinema-quality prompt for creating a cute 3D character portrait in the style of Pixar, featuring soft lighting and a gradient background.
 
@@ -539,7 +541,7 @@ A Pixar-style 3D character portrait of a {argument name="subject description" de
 
 ### 29. Profile / Avatar - Realistic Golden-Hour Indoor Selfie
 
-![Profile / Avatar - Realistic Golden-Hour Indoor Selfie](https://cms-assets.youmind.com/media/1777367285758_ymgstt_HG7f3skaQAA9vaa.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367285758_ymgstt_HG7f3skaQAA9vaa.jpg" alt="Profile / Avatar - Realistic Golden-Hour Indoor Selfie" width="480">
 
 A natural-looking smartphone selfie prompt for generating believable casual indoor portraits with warm sunset window light.
 
@@ -556,7 +558,7 @@ A realistic casual indoor selfie of a {argument name="person" default="adult wom
 
 ### 30. Convenience Store Neon Portrait
 
-![Convenience Store Neon Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case1/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case1/output.jpg" alt="Convenience Store Neon Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2045167461147042202)
@@ -571,7 +573,7 @@ A realistic casual indoor selfie of a {argument name="person" default="adult wom
 
 ### 31. Korean Idol 3x3 Collage Portrait
 
-![Korean Idol 3x3 Collage Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case13/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case13/output.jpg" alt="Korean Idol 3x3 Collage Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2046151898621993364)
@@ -586,7 +588,7 @@ A realistic casual indoor selfie of a {argument name="person" default="adult wom
 
 ### 32. 35mm Flash Editorial Portrait
 
-![35mm Flash Editorial Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case4/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case4/output.jpg" alt="35mm Flash Editorial Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2045052982728016131)
@@ -601,7 +603,7 @@ A realistic casual indoor selfie of a {argument name="person" default="adult wom
 
 ### 33. Mirror Selfie Bedroom Portrait
 
-![Mirror Selfie Bedroom Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case5/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case5/output.jpg" alt="Mirror Selfie Bedroom Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Shinning1010/status/2045002808903020962)
@@ -617,7 +619,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ### 34. Fujifilm Strawberry School Portrait
 
-![Fujifilm Strawberry School Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case15/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case15/output.jpg" alt="Fujifilm Strawberry School Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2046483268019884384)
@@ -632,7 +634,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ### 35. CCD Camera Flash Korean Idol
 
-![CCD Camera Flash Korean Idol](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case12/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case12/output.jpg" alt="CCD Camera Flash Korean Idol" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2046190539213885806)
@@ -647,7 +649,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 ### 36. Soft Black Mist Idol Portrait
 
-![Soft Black Mist Idol Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case16/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case16/output.jpg" alt="Soft Black Mist Idol Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2046518189509734903)
@@ -662,7 +664,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 ### 37. Soft Airy 35mm Portrait
 
-![Soft Airy 35mm Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case6/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case6/output.jpg" alt="Soft Airy 35mm Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2046115431144902732)
@@ -677,7 +679,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ### 38. Urban Turn-Back Street Portrait
 
-![Urban Turn-Back Street Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case9/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case9/output.jpg" alt="Urban Turn-Back Street Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Tz_2022/status/2045892003775361198)
@@ -692,7 +694,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ### 39. Korean Idol 3x3 Grid Portrait
 
-![Korean Idol 3x3 Grid Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case11/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case11/output.jpg" alt="Korean Idol 3x3 Grid Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2046268941941850575)
@@ -703,26 +705,11 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 9:16 vertical, Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling, soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources
 ```
 
-<a id="prompt-707aaf2ce2d52f081a5e"></a>
-
-### 40. 9:16 Cosplayer Portrait Screenshot
-
-![9:16 Cosplayer Portrait Screenshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case8/output.jpg)
-
-- **Categories:** Portrait & Photography Cases
-- **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Zoulinshen/status/2045082518089810073)
-
-**Prompt:**
-
-```text
-生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
-```
-
 <a id="prompt-7a963a7173b3f745ee3f"></a>
 
-### 41. Fujifilm Couple Portrait
+### 40. Fujifilm Couple Portrait
 
-![Fujifilm Couple Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case17/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case17/output.jpg" alt="Fujifilm Couple Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2046502288102170757)
@@ -735,9 +722,9 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 <a id="prompt-c91428be58f5f0c75389"></a>
 
-### 42. AI Self-Perception Portrait
+### 41. AI Self-Perception Portrait
 
-![AI Self-Perception Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case18/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case18/output.jpg" alt="AI Self-Perception Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/80vul/status/2046218165961753047)
@@ -750,9 +737,9 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 <a id="prompt-cfe14b789601da1c6012"></a>
 
-### 43. Luxury Glam Beauty Portrait
+### 42. Luxury Glam Beauty Portrait
 
-![Luxury Glam Beauty Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case7/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case7/output.jpg" alt="Luxury Glam Beauty Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/patrickassale/status/2044581766309060765)
@@ -765,11 +752,11 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 <a id="prompt-d08e3a5febcd08ca5df3"></a>
 
-### 44. Japanese Onsen Ryokan Portrait
+### 43. Japanese Onsen Ryokan Portrait
 
-![Japanese Onsen Ryokan Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case3/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case3/output.jpg" alt="Japanese Onsen Ryokan Portrait" width="480">
 
-- **Categories:** Portrait & Photography Cases, 日式温泉旅馆人像
+- **Categories:** Portrait & Photography Cases, Japanese hot spring inn portrait
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2045092449803284923)
 
 **Prompt:**
@@ -780,9 +767,9 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 <a id="prompt-db74359c6d49c6442a94"></a>
 
-### 45. Sam Altman Skatepark Snapshot
+### 44. Sam Altman Skatepark Snapshot
 
-![Sam Altman Skatepark Snapshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case10/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case10/output.jpg" alt="Sam Altman Skatepark Snapshot" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Malek1173989/status/2045836887684694395)
@@ -795,9 +782,9 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 <a id="prompt-df3bad6fff8f9723b9ef"></a>
 
-### 46. Soft Black Mist Editorial Portrait
+### 45. Soft Black Mist Editorial Portrait
 
-![Soft Black Mist Editorial Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case14/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case14/output.jpg" alt="Soft Black Mist Editorial Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2046434670724907395)
@@ -810,9 +797,9 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 <a id="prompt-f70e6a0e7972a0b130d7"></a>
 
-### 47. Cinematic Minimal Portrait
+### 46. Cinematic Minimal Portrait
 
-![Cinematic Minimal Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case2/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case2/output.jpg" alt="Cinematic Minimal Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/iam_miharbi/status/2045151354679665101)
@@ -825,9 +812,9 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 <a id="prompt-039f04bd1d9ab54a8bcd"></a>
 
-### 48. Realistic Guanyin Portrait from Buddhist Texts
+### 47. Realistic Guanyin Portrait from Buddhist Texts
 
-![Realistic Guanyin Portrait from Buddhist Texts](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case99/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case99/output.jpg" alt="Realistic Guanyin Portrait from Buddhist Texts" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Zhaoge01/status/2047123570485260753)
@@ -840,11 +827,11 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 <a id="prompt-072a7d64735d4f0985bf"></a>
 
-### 49. 写实摄影风格图
+### 48. Realistic photography style image
 
-![写实摄影风格图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case42.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case42.jpg" alt="Realistic photography style image" width="480">
 
-- **Categories:** 写实摄影风格图
+- **Categories:** categories.category_07d3a360f5.en: Realistic photography style image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-42)
 
 **Prompt:**
@@ -853,148 +840,13 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 Express {argument name="subject" default="a powerful AI builder"} in a graffiti sketch style, presenting an overall visual effect of quick outlines, free deformation, improvised hand-drawing, and draft-like sketches. The lines are casual, exaggerated, varying in thickness, and slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. The colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smears, brush marks, fly-white, and layering. Colors automatically adapt to the {argument name="theme" default="powerful AI builder"}, but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging effects, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamy textures. The background is mainly white space, maintaining a sense of simplicity, ease, unfinishedness, and design. Small amounts of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but they should not be too crowded or destroy the subject and the white space atmosphere. The content of the picture does not need to be written in advance; {argument name="character image" default="a powerful AI builder"} will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The overall style remains a unified graffiti sketch style and an exaggerated, generalized expression, avoiding complex realistic backgrounds and excessive detail. A special signature 'BlanPlan' should be naturally added as part of the picture, in a low-key but clear position such as the bottom left, bottom right, or near the title. The style should be unified with the overall layout, like an artist's signature or a design mark; the signature font should be exquisite, restrained, and high-end, not too large, and should not destroy the main composition or appear abrupt or cheap.
 ```
 
-<a id="prompt-0bdf865bab165be078a9"></a>
-
-### 50. 超写实海滩高角度手机自拍
-
-![超写实海滩高角度手机自拍](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case199.jpg)
-
-- **Categories:** 超写实海滩高角度手机自拍
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-199)
-
-**Prompt:**
-
-```text
-[中文]
-{
-  超写实iPhone 15 Pro前置摄像头自拍，一位成年女性在明亮的沙滩上，
-  从举臂高角度自拍视角拍摄。手机略微举在脸部上方，
-  营造出自然的前置摄像头几何形态，带有轻微的等效24mm广角畸变，
-  写实的面部比例，
-  以及智能手机的深景深。她向上抬起下巴，一只手遮挡刺眼的阳光，同时直视手机镜头。她的表情中性，
-  面无表情，
-  且略带疏离感，
-  眼睛大而专注，但在解剖学上具有真实的眼部尺寸和自然面部比例。\n\n她有着极浅的铂金色头发，梳成两条紧紧的辫子，
-  苍白的皮肤带有真实摄影的皮肤纹理，
-  可见的毛孔，
-  细微的绒毛，
-  淡淡的眼下纹理，
-  自然的唇部纹理，
-  以及柔和的阳光光泽，而不是磨皮后的完美无瑕。她的嘴唇是自然色调且略丰满，
-  她的鼻子小巧精致但很写实。她的指甲是鲜艳的蓝色。她穿着一件浅蓝色紧身弹力棉上衣，领口非常深且宽，以自然、
-  非风格化的方式露出突出的锁骨和上胸结构。\n\n背景是宽阔的海岸沙滩，在强烈的上午晚些时候的阳光下，
-  背景中有一条柔和模糊的地平线。光线明亮，
-  色温约5500K的高调海岸日光，
-  强烈的白色沙子反光从下方和脸部周围均匀地填充阴影。皮肤被直射阳光加上海滩宽阔柔和的反射补光照亮，
-  产生清脆但写实的高光，没有生硬的对比。明亮沙子的细小颗粒微妙地捕捉光线。整体图像应该感觉像是在强烈的海边光线下在户外拍摄的真正高曝光智能手机自拍。\n\n色彩渲染应该是柔和、
-  干净、
-  且现代的，
-  带有中性至柔和的色调，
-  写实的iPhone计算摄影，
-  略微提高的曝光，
-  受控的高光过渡，
-  自然的肤色，
-  没有电影级调色。优先考虑写实性、
-  物理准确性、
-  可信的解剖结构，
-  以及真实的智能手机图像表现，而不是美化风格化。", "negative_prompt": "动漫，
-  洋娃娃脸，
-  瓷器皮肤，
-  无毛孔皮肤，
-  塑料皮肤，
-  CGI，
-  3D渲染，
-  超现实眼睛，
-  过大的眼睛，
-  奇幻美，
-  磨皮精修，
-  浓妆，
-  魅力光，
-  戏剧性阴影，
-  胶片颗粒，
-  雪，
-  冬装，
-  黑色上衣，
-  红指甲，
-  保守领口，
-  影棚背景，
-  人造模糊，
-  扭曲的手，
-  变形的手指，
-  畸形的脸，
-  对称完美，
-  美颜滤镜，
-  惊悚的皮肤平滑" }
-
-[English]
-{
-  Ultra-realistic iPhone 15 Pro front-camera selfie of an adult woman on a bright beach,
-  photographed from a raised-arm high-angle selfie perspective. The phone is held slightly above her face,
-  creating natural front-camera geometry with mild 24mm equivalent wide-angle distortion,
-  realistic facial proportions,
-  and deep smartphone depth of field. She tilts her chin upward and looks directly toward the phone lens while shielding harsh sunlight with one hand. Her expression is neutral,
-  blank,
-  and slightly distant,
-  with wide attentive eyes but anatomically realistic eye size and natural facial proportions.\n\nShe has very light platinum-blonde hair styled in two tight braids,
-  pale skin with real photographic skin texture,
-  visible pores,
-  subtle peach fuzz,
-  faint under-eye texture,
-  natural lip texture,
-  and a soft sunlit sheen rather than airbrushed perfection. Her lips are naturally toned and slightly full,
-  her nose is small and refined but realistic. Her nails are vivid blue. She wears a light blue fitted stretch-cotton top with a very deep wide neckline that reveals pronounced collarbones and upper chest structure in a natural,
-  non-stylized way.\n\nThe setting is a wide coastal beach under strong late-morning sunlight,
-  with a softly blurred horizon line in the background. The lighting is bright,
-  high-key coastal daylight around 5500K,
-  with strong white sand bounce filling the shadows evenly from below and around the face. Skin is illuminated by direct sun plus broad soft reflected fill from the beach,
-  producing crisp but realistic highlights without harsh contrast. Fine grains of bright sand catch light subtly. The overall image should feel like a real high-exposure smartphone selfie taken outdoors in intense seaside light.\n\nColor rendering should be soft,
-  clean,
-  and modern,
-  with neutral-to-pastel tones,
-  realistic iPhone computational photography,
-  slightly elevated exposure,
-  controlled highlight rolloff,
-  natural skin color,
-  and no cinematic grading. Prioritize realism,
-  physical accuracy,
-  believable anatomy,
-  and true smartphone image behavior over beauty stylization.", "negative_prompt": "anime,
-  doll face,
-  porcelain skin,
-  poreless skin,
-  plastic skin,
-  CGI,
-  3D render,
-  surreal eyes,
-  oversized eyes,
-  fantasy beauty,
-  airbrushed retouching,
-  heavy makeup,
-  glamour lighting,
-  dramatic shadows,
-  film grain,
-  snow,
-  winter clothing,
-  black top,
-  red nails,
-  conservative neckline,
-  studio backdrop,
-  artificial blur,
-  warped hands,
-  deformed fingers,
-  malformed face,
-  symmetry perfection,
-  beauty filter,
-  uncanny skin smoothing" }
-```
-
 <a id="prompt-0f01f5f98dbdf453ddbc"></a>
 
-### 51. 鱼眼镜面复古咖啡馆人像
+### 49. Fisheye Lens Retro Café Portrait
 
-![鱼眼镜面复古咖啡馆人像](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case357.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case357.jpg" alt="Fisheye Lens Retro Café Portrait" width="480">
 
-- **Categories:** 鱼眼镜面复古咖啡馆人像
+- **Categories:** Fisheye mirror vintage café portrait
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-357)
 
 **Prompt:**
@@ -1005,9 +857,9 @@ A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquo
 
 <a id="prompt-12dcfef6602471577c6b"></a>
 
-### 52. analyze this photo and give me a detailed JSON prompt that recreates it. brea...
+### 50. analyze this photo and give me a detailed JSON prompt that recreates it. brea...
 
-![analyze this photo and give me a detailed JSON prompt that recreates it. brea...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case77/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case77/output.jpg" alt="analyze this photo and give me a detailed JSON prompt that recreates it. brea..." width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/pavellaslov/status/2047182214304055339)
@@ -1036,11 +888,11 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 
 <a id="prompt-1c784ac9e4c5c62e8dae"></a>
 
-### 53. 人像写实摄影图
+### 51. Realistic portrait photograph
 
-![人像写实摄影图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case31.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case31.jpg" alt="Realistic portrait photograph" width="480">
 
-- **Categories:** 人像写实摄影图
+- **Categories:** Realistic portrait photography image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-31)
 
 **Prompt:**
@@ -1051,9 +903,9 @@ A highly detailed, photorealistic anime-style portrait of a young woman crouchin
 
 <a id="prompt-1eb67f235351d15c8218"></a>
 
-### 54. Musician Leaving Bodega Night Cinematic Portrait
+### 52. Musician Leaving Bodega Night Cinematic Portrait
 
-![Musician Leaving Bodega Night Cinematic Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case27/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case27/output.jpg" alt="Musician Leaving Bodega Night Cinematic Portrait" width="480">
 
 - **Categories:** portrait
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/commanderdgr8/status/2047934886124867684)
@@ -1066,11 +918,11 @@ A candid, magazine-cover quality documentary photograph of a young musician with
 
 <a id="prompt-268b2fd7bd095da1946b"></a>
 
-### 55. 写实摄影风格创作
+### 53. Realistic Photography Style Creation
 
-![写实摄影风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case142.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case142.jpg" alt="Realistic Photography Style Creation" width="480">
 
-- **Categories:** 写实摄影风格创作
+- **Categories:** Realistic photography style creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-142)
 
 **Prompt:**
@@ -1116,11 +968,46 @@ A candid, magazine-cover quality documentary photograph of a young musician with
 }
 ```
 
+<a id="prompt-28bc6f4991be027872e1"></a>
+
+### 54. 超写实与水墨的梦幻融合
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case195.jpg" alt="超写实与水墨的梦幻融合" width="480">
+
+- **Categories:** 超写实与水墨的梦幻融合
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-195)
+
+**Prompt:**
+
+```text
+A dynamic mixed-media photograph blending hyper-realistic portraiture with traditional Chinese ink illustration.
+
+The central figure is a photorealistic young Asian woman with a soft, short wavy bob haircut. Her makeup is natural and minimal, with a calm and gentle expression. She stands with her back to the camera in an elegant S-curve posture, creating a graceful and flowing silhouette. She slightly turns her upper body to glance over her shoulder with a quiet, introspective mood.
+
+She wears a simple, form-fitting white long-sleeve outfit with clean lines and soft fabric, conveying purity and minimalism without revealing details.
+
+She is placed in a real-world indoor setting near a sunlit window. The background is heavily blurred with strong bokeh and shallow depth of field, creating a dreamy and atmospheric environment.
+
+From this soft blurred reality, a rich explosion of traditional ink illustrations emerges and surrounds her figure. The composition includes:
+
+- Majestic Tathagata Buddhas with radiant halos
+- Elegant Guanyin figures floating among clouds
+- Flowing Chinese ink dragons coiling through space
+- Schools of koi fish swimming in dynamic ink strokes
+
+These elements are rendered in black ink and cinnabar red tones, forming a dense, spiritual visual tapestry. The ink flows organically around her, partially overlapping and blending into her silhouette, creating a seamless fusion between reality and myth.
+
+No outlines or sticker effects. The integration is natural, fluid, and immersive.
+
+Style: cinematic photography, ultra-detailed, 8k, soft lighting, high contrast between reality and ink art, fine art composition, museum-level aesthetic
+Aspect ratio: 3:4
+```
+
 <a id="prompt-31c773bc5f8466081264"></a>
 
-### 56. Create the most realistic front page design of a vintage newspaper featuring ...
+### 55. Create the most realistic front page design of a vintage newspaper featuring ...
 
-![Create the most realistic front page design of a vintage newspaper featuring ...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case70/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case70/output.jpg" alt="Create the most realistic front page design of a vintage newspaper featuring ..." width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Naiknelofar788/status/2047207812800147647)
@@ -1148,11 +1035,26 @@ Aspect ratio: 4:5 or 1:1
 High-detail, ultra-realistic hybrid of editorial photography and print design.
 ```
 
+<a id="prompt-323961d0fc803e9bcffc"></a>
+
+### 56. 奢华魅力黑人女性海滨摄影
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case277.jpg" alt="奢华魅力黑人女性海滨摄影" width="480">
+
+- **Categories:** 奢华魅力黑人女性海滨摄影
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-277)
+
+**Prompt:**
+
+```text
+Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
+```
+
 <a id="prompt-34af3f761b4ac4cf22b8"></a>
 
 ### 57. Realistic Candid Bedroom Recording Portrait
 
-![Realistic Candid Bedroom Recording Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case30/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case30/output.jpg" alt="Realistic Candid Bedroom Recording Portrait" width="480">
 
 - **Categories:** portrait
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ChillaiKalan__/status/2047862141894681076)
@@ -1181,7 +1083,7 @@ Style: ultra-realistic, looks like a real phone recording, slightly grainy, not 
 
 ### 58. Su Daji Ancient-Style Glamour Portrait
 
-![Su Daji Ancient-Style Glamour Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case94/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case94/output.jpg" alt="Su Daji Ancient-Style Glamour Portrait" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/nidiedeba/status/2047147223281270878)
@@ -1194,11 +1096,11 @@ Style: ultra-realistic, looks like a real phone recording, slightly grainy, not 
 
 <a id="prompt-4b3780628d623c38b286"></a>
 
-### 59. 写实摄影风格图
+### 59. Realistic photography style image
 
-![写实摄影风格图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case52.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case52.jpg" alt="Realistic photography style image" width="480">
 
-- **Categories:** 写实摄影风格图
+- **Categories:** categories.category_07d3a360f5.en: Realistic photography style image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-52)
 
 **Prompt:**
@@ -1207,91 +1109,13 @@ Style: ultra-realistic, looks like a real phone recording, slightly grainy, not 
 A realistic photograph of a whiteboard with a highly detailed {argument name="marker color" default="green"} dry-erase marker drawing of {argument name="subject" default="a samurai with a messy topknot and facial hair, hands clasped in prayer"}. The character is drawn in a {argument name="art style" default="detailed manga sketch"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads "{argument name="text line 1" default="VAGABOND"}" with "{argument name="text line 2" default="MUSASHI"}" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.
 ```
 
-<a id="prompt-4efd80165b0e5913a066"></a>
-
-### 60. 超写实与水墨的梦幻融合
-
-![超写实与水墨的梦幻融合](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case195.jpg)
-
-- **Categories:** 超写实与水墨的梦幻融合
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-195)
-
-**Prompt:**
-
-```text
-[中文]
-一张动态的混合媒体摄影作品，将超写实肖像与传统的中国水墨插画相融合。
-
-中心人物是一位具有柔和短波波头短发造型的照片般逼真的年轻亚洲女性。她的妆容自然且极简，表情平静而温柔。她背对相机站立，姿态呈现出优雅的S型曲线，营造出优美流畅的剪影。她微微转动上半身，越过肩膀回眸，带着一种安静、内省的情绪。
-
-她穿着一件简约、修身的白色长袖服装，线条干净，面料柔软，传达出纯洁与极简主义，不显露细节。
-
-她被置于一个靠近阳光明媚窗户的真实世界室内环境中。背景被严重模糊，具有强烈的散景和浅景深，营造出梦幻且充满氛围的环境。
-
-从这种柔和模糊的现实之中，爆发出丰富的传统水墨插画，并环绕着她的身形。构图包括：
-
-- 带有耀眼光环的庄严如来佛像
-- 在云端漂浮的优雅观音像
-- 在空间中盘旋的流动中国水墨龙
-- 在动态的水墨笔触中游动的成群锦鲤
-
-这些元素以黑墨和朱红色调渲染，形成一幅密集的、具有精神力量的视觉织锦。水墨在她周围有机地流动，部分重叠并融入她的剪影之中，在现实与神话之间创造出无缝的融合。
-
-没有轮廓线或贴纸效果。融合是自然、流畅且沉浸式的。
-
-风格：电影级摄影，超精细，8k，柔光，现实与水墨艺术之间的高对比度，美术构图，博物馆级美学
-宽高比：3:4
-
-[English]
-A dynamic mixed-media photograph blending hyper-realistic portraiture with traditional Chinese ink illustration.
-
-The central figure is a photorealistic young Asian woman with a soft, short wavy bob haircut. Her makeup is natural and minimal, with a calm and gentle expression. She stands with her back to the camera in an elegant S-curve posture, creating a graceful and flowing silhouette. She slightly turns her upper body to glance over her shoulder with a quiet, introspective mood.
-
-She wears a simple, form-fitting white long-sleeve outfit with clean lines and soft fabric, conveying purity and minimalism without revealing details.
-
-She is placed in a real-world indoor setting near a sunlit window. The background is heavily blurred with strong bokeh and shallow depth of field, creating a dreamy and atmospheric environment.
-
-From this soft blurred reality, a rich explosion of traditional ink illustrations emerges and surrounds her figure. The composition includes:
-
-- Majestic Tathagata Buddhas with radiant halos
-- Elegant Guanyin figures floating among clouds
-- Flowing Chinese ink dragons coiling through space
-- Schools of koi fish swimming in dynamic ink strokes
-
-These elements are rendered in black ink and cinnabar red tones, forming a dense, spiritual visual tapestry. The ink flows organically around her, partially overlapping and blending into her silhouette, creating a seamless fusion between reality and myth.
-
-No outlines or sticker effects. The integration is natural, fluid, and immersive.
-
-Style: cinematic photography, ultra-detailed, 8k, soft lighting, high contrast between reality and ink art, fine art composition, museum-level aesthetic
-Aspect ratio: 3:4
-```
-
-<a id="prompt-50060eb8234c180eac9f"></a>
-
-### 61. 奢华魅力黑人女性海滨摄影
-
-![奢华魅力黑人女性海滨摄影](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case277.jpg)
-
-- **Categories:** 奢华魅力黑人女性海滨摄影
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-277)
-
-**Prompt:**
-
-```text
-[中文]
-奢华魅力美容肖像：, 美丽的黑人女性, 青春活力, 奶油香草色, 丝绸柔顺发, 红木色, 微妙的自信, 有质感的面料, 蓝宝石色, 极简珠宝, 海滨微风, 镜头光晕效果, 怀旧的, 电影镜头, 对称构图, 柔焦, 高级时尚摄影, 单色的, 水光质感, 神秘张力, 分层元素
-
-[English]
-Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
-```
-
 <a id="prompt-520781d4bd9d32d0949b"></a>
 
-### 62. 写实摄影风格创作
+### 60. Realistic Photography Style Creation
 
-![写实摄影风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case28.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case28.jpg" alt="Realistic Photography Style Creation" width="480">
 
-- **Categories:** 写实摄影风格创作
+- **Categories:** Realistic photography style creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-28)
 
 **Prompt:**
@@ -1326,38 +1150,54 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 }
 ```
 
-<a id="prompt-6107dc4008f39087761b"></a>
+<a id="prompt-5914f7afc7f4116e2b40"></a>
 
-### 63. 专业设计师打造角色写真集
+### 61. Creative character portrait composed of leaf collage
 
-![专业设计师打造角色写真集](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case212.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case309.jpg" alt="Creative character portrait composed of leaf collage" width="480">
 
-- **Categories:** 专业设计师打造角色写真集
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-212)
+- **Categories:** Character portrait composed of creative leaf collage
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-309)
 
 **Prompt:**
 
 ```text
-[中文]
-请用这个角色制作一本专业设计师打造的照片集。语言为日语。
+{
+  CHARACTER NAME
+} made entirely from natural leaves,
+creative leaf collage art,
+layered green and dry leaves forming body,
+face and clothes,
+visible leaf veins and textures,
+handcrafted botanical art style,
+clean white background,
+top-down flat lay composition,
+highly detailed,
+soft natural lighting,
+realistic leaf textures,
+8k
+```
 
-根据喜好加入提示词会让它更丰富多彩…
-・丰富的场景
-・信息量较多
+<a id="prompt-655b5e93165fb7d945d1"></a>
 
-[English]
-Please use this character to create a photo book crafted by a professional designer. The language should be Japanese.
+### 62. Korean Style Idol 9-Grid Photobook
 
-Adding prompts according to your preferences will make it more colorful and rich
-・Rich scenes
-・Large amount of information
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case219.jpg" alt="Korean Style Idol 9-Grid Photobook" width="480">
+
+- **Categories:** Korean idol 9-grid photo album
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-219)
+
+**Prompt:**
+
+```text
+9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
 ```
 
 <a id="prompt-685bb46be753067f5e6e"></a>
 
-### 64. Candid Bedroom Selfie Photorealistic Portrait
+### 63. Candid Bedroom Selfie Photorealistic Portrait
 
-![Candid Bedroom Selfie Photorealistic Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case26/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case26/output.jpg" alt="Candid Bedroom Selfie Photorealistic Portrait" width="480">
 
 - **Categories:** portrait
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/charliejhills/status/2047969988368314526)
@@ -1370,9 +1210,9 @@ Candid selfie of a young woman with shoulder-length honey-blonde hair with light
 
 <a id="prompt-6a34a72b5aa50932eb13"></a>
 
-### 65. 写实摄影风格创作
+### 64. Realistic photography style creation
 
-![写实摄影风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case154.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case154.jpg" alt="Realistic photography style creation" width="480">
 
 - **Categories:** 写实摄影风格创作
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-154)
@@ -1383,13 +1223,29 @@ Candid selfie of a young woman with shoulder-length honey-blonde hair with light
 A photorealistic, high-resolution commercial photograph of a {argument name="car model and color" default="bright blue Alpine A110 R sports car"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license plate reading "{argument name="license plate text" default="A110 R"}". Directly behind the car, dominating the background, is a {argument name="airplane model" default="white Airbus A320 commercial airliner"} with a blue tail. The hangar has a highly polished, reflective concrete floor that mirrors the car and plane. To the left, a sign on the metal wall reads "{argument name="hangar sign text" default="HANGAR 05 MAINTENANCE"}". The hangar doors are wide open, revealing a bright, overcast sky and a distant cityscape. The lighting is soft and cinematic, highlighting the sleek aerodynamic curves of both vehicles.
 ```
 
+<a id="prompt-7593e31f1e038e940e1d"></a>
+
+### 65. Korean-style minimalist atmospheric girl photography
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case187.jpg" alt="Korean-style minimalist atmospheric girl photography" width="480">
+
+- **Categories:** 韩系极简氛围感少女写真
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-187)
+
+**Prompt:**
+
+```text
+9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
+```
+
 <a id="prompt-865f19b33d2d1961124c"></a>
 
-### 66. 写实摄影风格图
+### 66. Realistic photography style image
 
-![写实摄影风格图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case30.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case30.jpg" alt="Realistic photography style image" width="480">
 
-- **Categories:** 写实摄影风格图
+- **Categories:** categories.category_07d3a360f5.en
+Realistic photography style image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-30)
 
 **Prompt:**
@@ -1402,7 +1258,7 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 
 ### 67. Eastern Fantasy Female Half-Portrait
 
-![Eastern Fantasy Female Half-Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case109/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case109/output.jpg" alt="Eastern Fantasy Female Half-Portrait" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2046962895775580442)
@@ -1423,34 +1279,11 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格
 ```
 
-<a id="prompt-8c3d753f1c3a797a28bc"></a>
-
-### 68. 冲破次元壁的写实漫画跑者
-
-![冲破次元壁的写实漫画跑者](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case316.jpg)
-
-- **Categories:** 冲破次元壁的写实漫画跑者
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-316)
-
-**Prompt:**
-
-```text
-[中文]
-{
-  "prompt": "超写实，一位留着深色短卷发、修剪整齐的胡须和黑色方形眼镜的年轻男子的鲜艳逼真渲染，身穿深色纹理高领毛衣和牛仔裤。他奔跑到一半被捕捉下来，姿态充满动感，向前突破，充满戏剧性地从一个破碎的漫画分镜框中显现——一条腿和一只手臂冲入现实世界，而身体的其余部分仍留在漫画框内。他的表情充满活力和喜悦，拥有锐利的面部细节，自然的皮肤纹理，以及具有高对比度和深度的戏剧性电影灯光。\n\n背景：一个非常详细的黑白漫画布局，充满了幽默、夸张的且与他直接互动的反应场景。周围的漫画人物表现出震惊和喜剧的表情，配有粗体的对话气泡和速度线。漫画分镜采用经典的高对比度水墨风格绘制，线条清晰，网点阴影。撕裂的纸张边缘和碎片增强了他冲破漫画世界的幻觉。全彩色的写实人物与单色的漫画环境形成强烈对比，创造出写实与漫画艺术之间的动态混合体。超精细，8k分辨率，清晰聚焦，戏剧性的阴影，电影级景深。"
-}
-
-[English]
-{
-  "prompt": "Ultra-realistic, vibrant photorealistic rendering of a young man with short curly dark hair, neatly trimmed beard, and black rectangular glasses, wearing a dark textured turtleneck sweater and jeans. He is captured mid-run in a dynamic, forward-breaking pose, dramatically emerging from a torn manga panel — one leg and one arm bursting into the real world while the rest of his body remains inside the comic frame. His expression is energetic and joyful, with sharp facial details, natural skin texture, and dramatic cinematic lighting with high contrast and depth. \n\nBackground: a highly detailed black-and-white manga layout filled with humorous, exaggerated reaction scenes that directly interact with him. The surrounding manga characters display shocked and comedic expressions, with bold speech bubbles and motion lines. The manga panels are illustrated in a classic high-contrast ink style with crisp linework and halftone shading. Torn paper edges and debris enhance the illusion of him breaking through the comic world. The fully colored, photorealistic figure contrasts strongly against the monochrome manga environment, creating a dynamic hybrid between reality and comic art. Ultra-detailed, 8k resolution, sharp focus, dramatic shadows, cinematic depth of field."
-}
-```
-
 <a id="prompt-8f33346cb5bbdc45ab3d"></a>
 
-### 69. Toddler Crayon Scribble Art Style Portrait
+### 68. Toddler Crayon Scribble Art Style Portrait
 
-![Toddler Crayon Scribble Art Style Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case31/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case31/output.jpg" alt="Toddler Crayon Scribble Art Style Portrait" width="480">
 
 - **Categories:** portrait
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/akakageAI/status/2047812983389356276)
@@ -1465,9 +1298,9 @@ good drawing, nice lines, clear shapes, neat, pretty, smooth, realistic, talente
 
 <a id="prompt-96a0d7498e7a57715931"></a>
 
-### 70. Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...
+### 69. Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...
 
-![Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case81/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case81/output.jpg" alt="Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma..." width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/harboriis/status/2047175250761433416)
@@ -1490,9 +1323,9 @@ face changed, different identity, beautified face, edited face, smooth plastic s
 
 <a id="prompt-a07beb65f35a58d9abef"></a>
 
-### 71. Old Delhi Sweet Shop Storefront Documentary Photo
+### 70. Old Delhi Sweet Shop Storefront Documentary Photo
 
-![Old Delhi Sweet Shop Storefront Documentary Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case28/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case28/output.jpg" alt="Old Delhi Sweet Shop Storefront Documentary Photo" width="480">
 
 - **Categories:** portrait
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/commanderdgr8/status/2047889839123521635)
@@ -1505,11 +1338,11 @@ Create a photorealistic travel-documentary image of a small sweet-shop storefron
 
 <a id="prompt-afbbe7817f01f6cb37a5"></a>
 
-### 72. 写实摄影风格创作
+### 71. Realistic photography style creation
 
-![写实摄影风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case56.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case56.jpg" alt="Realistic photography style creation" width="480">
 
-- **Categories:** 写实摄影风格创作
+- **Categories:** Realistic photography style creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-56)
 
 **Prompt:**
@@ -1518,13 +1351,48 @@ Create a photorealistic travel-documentary image of a small sweet-shop storefron
 A candid, realistic photograph of a young {argument name="subject aesthetic" default="goth"} woman with pale skin, long straight black hair with bangs, heavy black eyeliner, and black lipstick. She has a {argument name="expression" default="deadpan"} expression, looking directly at the camera while sitting on a children's coin-operated {argument name="ride type" default="unicorn"} ride. She is wearing a black lace-trimmed tank top, black arm warmers, layered necklaces including a choker, black lace tights, and chunky black platform boots with buckles. A large black shoulder bag hangs from her arm. The ride is a white unicorn with a pink mane, gold horn, and purple hooves, mounted on a purple base with a small sticker reading "{argument name="ride cost" default="50¢ PER RIDE"}". The setting is outside a store with a tan cinderblock wall. To the left is a glass door reflecting a person, a brown trash can, and a white sign with red text reading "{argument name="sign text" default="NO PARKING FIRE LANE"}". To the right is a blue vending machine. Overcast, natural daylight.
 ```
 
+<a id="prompt-b3f3135b23b2d9cd8f24"></a>
+
+### 72. Visually Stunning Deep Red Studio Wide Angle Beauty Photoshoot
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case317.jpg" alt="Visually Stunning Deep Red Studio Wide Angle Beauty Photoshoot" width="480">
+
+- **Categories:** Stunning deep red studio wide-angle beauty makeup photoshoot
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-317)
+
+**Prompt:**
+
+```text
+Photorealistic bold beauty campaign using uploaded model as exact identity reference. No facial changes, no smoothing.
+Scene: deep red saturated studio environment with high-contrast floor pattern or glossy surface.
+Product: the product held or positioned extremely close to the lens, appearing large due to perspective.
+Model pose: playful or confident smile, arm fully extended toward camera, fingers slightly distorted by wide lens. Strong eye contact through sunglasses or natural gaze.
+Camera: ultra-wide 20–28mm aesthetic, dynamic foreground exaggeration, shallow-to-medium depth of field.
+Lighting: punchy commercial lighting with defined highlights and reflections, crisp packaging edges, vibrant color grading. Hyper-detailed skin texture and fabric realism.
+```
+
+<a id="prompt-c1d971d3361c6405c0d7"></a>
+
+### 73. 胶片闪光灯下的球场少女
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case240.jpg" alt="胶片闪光灯下的球场少女" width="480">
+
+- **Categories:** A teenage girl on the court under photographic flash
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-240)
+
+**Prompt:**
+
+```text
+35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
+```
+
 <a id="prompt-c96a24b9f626636e01e2"></a>
 
-### 73. 人像写实摄影图
+### 74. Realistic Portrait Photography
 
-![人像写实摄影图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case35.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case35.jpg" alt="Realistic Portrait Photography" width="480">
 
-- **Categories:** 人像写实摄影图
+- **Categories:** Realistic portrait photography image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-35)
 
 **Prompt:**
@@ -1535,9 +1403,9 @@ A {argument name="photography style" default="photorealistic portrait with shall
 
 <a id="prompt-cd2bba739b658e74a52b"></a>
 
-### 74. Tushan Yaya Fantasy Glamour Portrait
+### 75. Tushan Yaya Fantasy Glamour Portrait
 
-![Tushan Yaya Fantasy Glamour Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case107/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case107/output.jpg" alt="Tushan Yaya Fantasy Glamour Portrait" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sdjn_wgc/status/2046981757325475954)
@@ -1550,9 +1418,9 @@ A {argument name="photography style" default="photorealistic portrait with shall
 
 <a id="prompt-cdc9ceec3117c3bdfc58"></a>
 
-### 75. CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...
+### 76. CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...
 
-![CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case78/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case78/output.jpg" alt="CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-..." width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ZaraIrahh/status/2047180061657452601)
@@ -1563,11 +1431,30 @@ A {argument name="photography style" default="photorealistic portrait with shall
 CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding CALMING GREEN TEA -- 7 Days to Soothed Skin, pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.
 ```
 
+<a id="prompt-cdf6b609281cd66ea777"></a>
+
+### 77. Professional designer creates character photo collection
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case212.jpg" alt="Professional designer creates character photo collection" width="480">
+
+- **Categories:** Professional designer creates character photo collection
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-212)
+
+**Prompt:**
+
+```text
+Please use this character to create a photo book crafted by a professional designer. The language should be Japanese.
+
+Adding prompts according to your preferences will make it more colorful and rich
+・Rich scenes
+・Large amount of information
+```
+
 <a id="prompt-da01f3094c6ad2484a4b"></a>
 
-### 76. Cyberpunk Sci-Fi Side Profile Portrait
+### 78. Cyberpunk Sci-Fi Side Profile Portrait
 
-![Cyberpunk Sci-Fi Side Profile Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case29/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case29/output.jpg" alt="Cyberpunk Sci-Fi Side Profile Portrait" width="480">
 
 - **Categories:** portrait
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/iamsofiaijaz/status/2047882171336253928)
@@ -1580,11 +1467,11 @@ A cinematic side-profile portrait of a rugged man with a tied-back bun and full 
 
 <a id="prompt-dc67172103c29409e7a4"></a>
 
-### 77. 人像写实摄影图
+### 79. 人像写实摄影图
 
-![人像写实摄影图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case45.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case45.jpg" alt="人像写实摄影图" width="480">
 
-- **Categories:** 人像写实摄影图
+- **Categories:** Realistic portrait photography image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-45)
 
 **Prompt:**
@@ -1593,51 +1480,13 @@ A cinematic side-profile portrait of a rugged man with a tied-back bun and full 
 A striking black and white close-up portrait of a {argument name="subject description" default="handsome young Asian man"} with {argument name="hair style" default="messy wet hair sticking to his forehead"}. His face and neck are glistening, covered in highly detailed {argument name="skin texture detail" default="water droplets and sweat"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name="background" default="pitch-black background"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.
 ```
 
-<a id="prompt-e778e6b62e2284a9d1ac"></a>
-
-### 78. 韩系极简氛围感少女写真
-
-![韩系极简氛围感少女写真](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case187.jpg)
-
-- **Categories:** 韩系极简氛围感少女写真
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-187)
-
-**Prompt:**
-
-```text
-[中文]
-9:16 竖版 — 杂志人像，单一主体  柔和的黑色迷雾滤镜，微妙的薄雾，柔和的高光泛光，柔和的色调  极简的室内空间，干净的背景，轻微的纹理  年轻韩国女性，淡妆，自然的皮肤纹理  服装：贴身的罗纹针织上衣或柔软的吊带背心叠穿在宽松衬衫下，搭配高腰短裤或裙子；面料轻微贴合身体曲线，柔软自然，无暴露元素  头发：略显凌乱，自然的蓬松度  姿势：坐在地板上，一条腿弯曲，另一条腿放松，身体微微倾斜，肩膀不对称，头部倾斜  构图：主体略微偏离中心，存在留白  表情：平静，略显疏离，自然的嘴唇  光线：柔和的侧光，温和的阴影衰减  氛围：低调，安静，通过自然的身体线条展现微妙的性感，放松且非摆拍  画质：细腻颗粒，轻微的柔和感，写实外观
-
-[English]
-9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
-```
-
-<a id="prompt-f014661e0c1473869e6e"></a>
-
-### 79. 韩系偶像九宫格写真集
-
-![韩系偶像九宫格写真集](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case219.jpg)
-
-- **Categories:** 韩系偶像九宫格写真集
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-219)
-
-**Prompt:**
-
-```text
-[中文]
-9:16 竖版 — 一个 3x3 网格拼贴（九张图片）形成一系列韩国偶像肖像摄影。每一帧都呈现同一位年轻的韩国女性偶像，在所有九张镜头中保持 100% 一致的面部特征、比例、发型和身份。自然、超逼真的皮肤纹理，无修图，无磨皮。干净的偶像风格极简妆容，柔和的光泽，微妙的瑕疵。发型：长发、蓬松的黑发，微乱，在所有帧中保持一致（自然松散的垂落，轻微的动感）。服装：连贯的韩国偶像摄影造型 — 白色衬衫 + 短款下装（或简单的中性色调服装），青春、干净、略带休闲但有造型感。所有帧中穿着相同的服装。场景：极简的工作室或简单的室内环境（白墙，柔和的窗光，干净的背景）。聚焦于主体，而不是环境。光照：柔和漫反射的自然光，温柔的高光，低对比度，略带通透感的色调，微妙的胶片般柔和感。相机风格：亲密的肖像摄影，略带手持感，微妙的瑕疵（轻微的颗粒感，动态帧中的轻微模糊，不完美的构图）。帧分解（3x3 网格）：顶行：- 左上：自然站立，视线略微偏向一侧，表情放松 - 中上：面对镜头，随意的中间动作（头发或身体轻微移动） - 右上：轻微的侧面角度，柔和的注视，自然的抓拍感 中间行：- 中左：微微向上看，柔和的沉思表情 - 正中：特写肖像，直接的眼神接触，温柔的偶像微笑 - 中右：身体微微转动，中间动作的抓拍帧 底行：- 左下：随意坐着或倚靠着，放松的姿势 - 中下：背部部分转向，越过肩膀看向镜头 - 右下：靠近画框站立，略带俏皮或柔和的表情 氛围：韩国偶像写真集 / 小卡美学，亲密、柔和、自然、日常的魅力。质量：超写实，8K 细节，微妙的模拟胶片颗粒感，自然的瑕疵，柔和梦幻的色调
-
-[English]
-9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
-```
-
 <a id="prompt-f12aa787972f7800a50d"></a>
 
-### 80. 写实摄影风格图
+### 80. Realistic photography style image
 
-![写实摄影风格图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case81.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case81.jpg" alt="Realistic photography style image" width="480">
 
-- **Categories:** 写实摄影风格图
+- **Categories:** Realistic photography style image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-81)
 
 **Prompt:**
@@ -1691,7 +1540,7 @@ A striking black and white close-up portrait of a {argument name="subject descri
 
 ### 81. Vertical Wuxia Heroine Portrait
 
-![Vertical Wuxia Heroine Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case98/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case98/output.jpg" alt="Vertical Wuxia Heroine Portrait" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/CoderDaMing/status/2047127585256358221)
@@ -1702,11 +1551,31 @@ A striking black and white close-up portrait of a {argument name="subject descri
 9:16 竖版，极致武侠风，绝美东方女侠，20岁出头，冷艳锐利丹凤眼，眉宇英气逼人，肤白如玉，长直黑发湿漉漉随狂风剧烈飞舞，几缕发丝贴在脸颊和颈侧，穿着湿透的深黑改良武侠劲装，外披宽袖玄色长袍，衣袍和长袖被风吹得剧烈飘扬翻飞，紧身劲装勾勒身材，腰束软剑带，足踏长靴，右手持一把古剑，剑身散发幽蓝剑气光芒，动态姿势：身体微侧回眸，衣袂猎猎，背景为月夜雨雾笼罩的竹林古道，巨大明月高悬，石板小径，古灯笼，薄雾雨丝，戏剧性冷月光与蓝光剑气结合，湿身水光效果，超强动态感，细腻布料褶皱、头发丝飘动、真实水珠反光，电影级光影，8k，masterpiece, best quality, ultra realistic, cinematic, dramatic atmosphere
 ```
 
+<a id="prompt-fc14662223fb26e07f31"></a>
+
+### 82. Coral minimalist studio fashion commercial photoshoot
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case318.jpg" alt="Coral minimalist studio fashion commercial photoshoot" width="480">
+
+- **Categories:** Coral color minimalist studio fashion commercial blockbuster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-318)
+
+**Prompt:**
+
+```text
+Ultra-realistic high-fashion commercial campaign using the uploaded model photo as strict identity reference. Preserve exact facial features, proportions and natural skin texture — no retouching, no reshaping.
+Scene: coral monochrome studio box with glossy reflective checker or minimal polished floor. Clean geometric walls with soft light gradients.
+Product: the product placed oversized in the center foreground, dominating the frame due to wide-angle perspective. The packaging is ultra-sharp, fully readable, realistic reflections and material texture. Smaller product units can be placed symmetrically in the background.
+Model pose: standing behind the product, slightly crouched or leaning forward, one hand reaching toward the camera to create depth. Strong confident expression, fashion attitude.
+Camera: low-angle 24–35mm lens look, dramatic perspective distortion, deep focus on both product and model.
+Lighting: bright commercial studio lighting, soft shadows, glossy highlights on packaging, high-end campaign finish. 4K–8K realism, no watermark, no embedded text.i ar 9:13
+```
+
 <a id="prompt-fe333c2f5b3830f92a85"></a>
 
-### 82. Vertical Artistic Portrait of a Young Eastern Woman
+### 83. Vertical Artistic Portrait of a Young Eastern Woman
 
-![Vertical Artistic Portrait of a Young Eastern Woman](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case110/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case110/output.jpg" alt="Vertical Artistic Portrait of a Young Eastern Woman" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/zhiyangzhu22222/status/2046952985562062888)

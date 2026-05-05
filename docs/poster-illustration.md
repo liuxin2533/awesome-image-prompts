@@ -2,8 +2,10 @@
 
 [Back to README](../README.md)
 
-- Total prompts: 256
-- Generated: 2026-05-04T14:49:54.225Z
+This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](https://gptimages.dev).
+
+- Total prompts: 259
+- Generated: 2026-05-05T17:36:14.688Z
 
 ## Prompts
 
@@ -11,7 +13,7 @@
 
 ### 1. Iced Coffee Product Infographic
 
-![Iced Coffee Product Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg" alt="Iced Coffee Product Infographic" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Strength04_X/status/2049082049995362785)
@@ -45,7 +47,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 ### 2. Outdoor Sportswear Grid Campaign
 
-![Outdoor Sportswear Grid Campaign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg" alt="Outdoor Sportswear Grid Campaign" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SPEEDAI07/status/2049081198211736062)
@@ -92,7 +94,7 @@ Aspect ratio: 1:1 (square collage)
 
 ### 3. Monochrome Fashion Cover
 
-![Monochrome Fashion Cover](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg" alt="Monochrome Fashion Cover" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sha_zdiii/status/2049088961008848905)
@@ -120,7 +122,7 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 
 ### 4. Topographic Letter Satellite Panels
 
-![Topographic Letter Satellite Panels](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" alt="Topographic Letter Satellite Panels" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/madpencil_/status/2049080259476349218)
@@ -147,7 +149,7 @@ top-down satellite perspective, NASA Earth observation style, hyper-detailed tex
 
 ### 5. Fashion Dress Collection Infographic
 
-![Fashion Dress Collection Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg" alt="Fashion Dress Collection Infographic" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/cellinlab/status/2049073530738754042)
@@ -189,7 +191,7 @@ top-down satellite perspective, NASA Earth observation style, hyper-detailed tex
 
 ### 6. Fast Food Character Poster
 
-![Fast Food Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg" alt="Fast Food Character Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/LoovaAI/status/2049085173015425354)
@@ -204,7 +206,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 
 ### 7. Comic / Storyboard - Dark Fantasy Inner Monster Poster
 
-![Comic / Storyboard - Dark Fantasy Inner Monster Poster](https://cms-assets.youmind.com/media/1777367345122_fkg2fn_HG-CL5fa8AA48W5.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367345122_fkg2fn_HG-CL5fa8AA48W5.jpg" alt="Comic / Storyboard - Dark Fantasy Inner Monster Poster" width="480">
 
 This prompt generates a dramatic gothic anime-style poster of a silver-haired woman and a blue-eyed eldritch monster, ideal for moody art campaigns, book-cover concepts, or social media design pieces.
 
@@ -221,7 +223,7 @@ A dark fantasy gothic poster in a vertical composition, painted in a highly deta
 
 ### 8. E-commerce Main Image - Skincare Product Studio Shot
 
-![E-commerce Main Image - Skincare Product Studio Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg" alt="E-commerce Main Image - Skincare Product Studio Shot" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Strength04_X/status/2047636636847231222)
@@ -236,7 +238,7 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 
 ### 9. BMW Performance Social Poster
 
-![BMW Performance Social Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case116/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case116/output.jpg" alt="BMW Performance Social Poster" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/harboriis/status/2048063332624843046)
@@ -251,7 +253,7 @@ Create a 4:5 vertical social poster in ultra high resolution, 8K print quality s
 
 ### 10. Anime VTuber Minecraft Stream Thumbnail
 
-![Anime VTuber Minecraft Stream Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case93/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case93/output.jpg" alt="Anime VTuber Minecraft Stream Thumbnail" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/rerxmsz06/status/2047261622121705782)
@@ -266,7 +268,7 @@ A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a 
 
 ### 11. E-commerce Main Image - Earbuds E-commerce Infographic
 
-![E-commerce Main Image - Earbuds E-commerce Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg" alt="E-commerce Main Image - Earbuds E-commerce Infographic" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SPEEDAI07/status/2047981795552153860)
@@ -302,7 +304,7 @@ Style: Ultra-realistic, commercial product photography, 8k resolution, sharp foc
 
 ### 12. E-commerce Main Image - 9-Panel Product TVC Storyboard
 
-![E-commerce Main Image - 9-Panel Product TVC Storyboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" alt="E-commerce Main Image - 9-Panel Product TVC Storyboard" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Magncsans/status/2047876253898903594)
@@ -317,11 +319,11 @@ Using the provided reference image, transform the single casual product photo in
 
 ### 13. VR Headset Exploded View Poster
 
-![VR Headset Exploded View Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg" alt="VR Headset Exploded View Poster" width="480">
 
 Generates a high-tech exploded view diagram of a VR headset with detailed component callouts and promotional text.
 
-- **Categories:** Poster & Illustration Cases, 界面交互设计图, VR Headset Exploded View Poster
+- **Categories:** Poster & Illustration Cases, Interface interaction design diagram, VR Headset Exploded View Poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/wory37303852/status/2045925660401795478)
 
 **Prompt:**
@@ -368,7 +370,7 @@ Generates a high-tech exploded view diagram of a VR headset with detailed compon
 
 ### 14. Parent-Child Miscommunication Infographic
 
-![Parent-Child Miscommunication Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" alt="Parent-Child Miscommunication Infographic" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sarinaashapi/status/2048307780864606708)
@@ -383,7 +385,7 @@ Generates a high-tech exploded view diagram of a VR headset with detailed compon
 
 ### 15. 16-Pose Dance Reference Sheet
 
-![16-Pose Dance Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case136/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case136/output.jpg" alt="16-Pose Dance Reference Sheet" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ExquisitMe/status/2048143577264402629)
@@ -398,9 +400,9 @@ Generates a high-tech exploded view diagram of a VR headset with detailed compon
 
 ### 16. 18-Panel Mascot Brand Identity Document
 
-![18-Panel Mascot Brand Identity Document](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case107/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case107/output.jpg" alt="18-Panel Mascot Brand Identity Document" width="480">
 
-- **Categories:** Poster & Illustration Cases, 界面交互设计图
+- **Categories:** Poster & Illustration Cases, Interface interaction design diagram
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Colin_Leeee/status/2044802802149650631)
 
 **Prompt:**
@@ -498,7 +500,7 @@ Generates a high-tech exploded view diagram of a VR headset with detailed compon
 
 ### 17. Ethnographic Plate for Tibetan Ceremonial Hat
 
-![Ethnographic Plate for Tibetan Ceremonial Hat](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case127/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case127/output.jpg" alt="Ethnographic Plate for Tibetan Ceremonial Hat" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/degewa/status/2048104569037783226)
@@ -513,7 +515,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 ### 18. Magical Seed Packet Diorama
 
-![Magical Seed Packet Diorama](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case143/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case143/output.jpg" alt="Magical Seed Packet Diorama" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AllaAisling/status/2048156345518768190)
@@ -535,7 +537,7 @@ Tilt-shift depth of field, greenhouse morning light, the packet as the garden it
 
 ### 19. E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad
 
-![E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg" alt="E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Diplomeme/status/2047957339974828092)
@@ -550,7 +552,7 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 
 ### 20. Anime Fantasy Travel Movie Poster
 
-![Anime Fantasy Travel Movie Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case101/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case101/output.jpg" alt="Anime Fantasy Travel Movie Poster" width="480">
 
 This prompt generates a polished vertical anime film poster with a central silver-haired girl, layered travel scenery, Spanish promotional text, and theatrical award-style graphics for cinematic concept art or mock movie campaigns.
 
@@ -567,11 +569,11 @@ A cinematic anime movie poster for a fictional film titled {argument name="headl
 
 ### 21. Anime Martial Arts Battle Illustration
 
-![Anime Martial Arts Battle Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case10/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case10/output.jpg" alt="Anime Martial Arts Battle Illustration" width="480">
 
 Generates a dynamic, high-impact anime illustration of two female characters fighting in a traditional dojo with elemental energy effects.
 
-- **Categories:** Character Design Cases, 插画艺术风格创作, Anime Martial Arts Battle Illustration
+- **Categories:** Character Design Cases, Illustration art style creation, Anime Martial Arts Battle Illustration
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Tanemomi_Ver2/status/2046063806846214265)
 
 **Prompt:**
@@ -584,7 +586,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 ### 22. Pastel AI Assistant Anime Portrait
 
-![Pastel AI Assistant Anime Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case96/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case96/output.jpg" alt="Pastel AI Assistant Anime Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/libearal/status/2048026376645861799)
@@ -599,7 +601,7 @@ A dreamy anime-style portrait of a gentle virtual assistant girl named {argument
 
 ### 23. E-commerce Main Image - Tropical Citrus Soda Ad Poster
 
-![E-commerce Main Image - Tropical Citrus Soda Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg" alt="E-commerce Main Image - Tropical Citrus Soda Ad Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/edimakorfr/status/2047635133466124726)
@@ -614,7 +616,7 @@ Create a vibrant tropical commercial poster for a citrus soda bottle, in a brigh
 
 ### 24. Taoist Three Souls Seven Po Poster
 
-![Taoist Three Souls Seven Po Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case120/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case120/output.jpg" alt="Taoist Three Souls Seven Po Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/leyu37829/status/2048125950681075833)
@@ -629,7 +631,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 
 ### 25. Surreal Baroque Painting Reality Fracture
 
-![Surreal Baroque Painting Reality Fracture](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case138/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case138/output.jpg" alt="Surreal Baroque Painting Reality Fracture" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/JohnnyWang8802/status/2048129335853559824)
@@ -644,7 +646,7 @@ A {argument name="painting style" default="baroque oil painting"} comes to life 
 
 ### 26. Anime BL Promo Thumbnail
 
-![Anime BL Promo Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case119/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case119/output.jpg" alt="Anime BL Promo Thumbnail" width="480">
 
 This prompt generates a glossy anime-style promotional banner with Japanese headline text and two stylish young men, suitable for blog thumbnails, social posts, or article headers.
 
@@ -661,7 +663,7 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 
 ### 27. Pastel Lavender Anime Girl Portrait
 
-![Pastel Lavender Anime Girl Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case94/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case94/output.jpg" alt="Pastel Lavender Anime Girl Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/libearal/status/2048026376645861799)
@@ -676,7 +678,7 @@ A delicate vertical anime portrait of a dreamy young woman in an ethereal pastel
 
 ### 28. Editorial Perfume Shot on Moss
 
-![Editorial Perfume Shot on Moss](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case148/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case148/output.jpg" alt="Editorial Perfume Shot on Moss" width="480">
 
 This prompt generates a warm, luxurious editorial product photo of a perfume bottle staged on driftwood and moss for fragrance advertising or premium brand visuals.
 
@@ -693,7 +695,7 @@ A high-end editorial product photograph of a single luxury perfume bottle center
 
 ### 29. Luxury Miniature Dubai City Model
 
-![Luxury Miniature Dubai City Model](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg" alt="Luxury Miniature Dubai City Model" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/silentempiredev/status/2048086378383384773)
@@ -708,7 +710,7 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 
 ### 30. E-commerce Main Image - Miniature Diorama Skincare Advertisement
 
-![E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" alt="E-commerce Main Image - Miniature Diorama Skincare Advertisement" width="480">
 
 A creative product advertisement featuring miniature construction workers 'building' a luxury skincare bottle in a tilt-shift diorama style.
 
@@ -725,7 +727,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 
 ### 31. Urban Fantasy Coexistence Crossing
 
-![Urban Fantasy Coexistence Crossing](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case142/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case142/output.jpg" alt="Urban Fantasy Coexistence Crossing" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Ray_CROWN0/status/2048024227664494775)
@@ -740,7 +742,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 
 ### 32. RPG Map to Anime Event Scene
 
-![RPG Map to Anime Event Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case140/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case140/output.jpg" alt="RPG Map to Anime Event Scene" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ArtwlDesign/status/2048054726768709769)
@@ -755,7 +757,7 @@ Using the provided reference image, transform the top-down RPG town map into a p
 
 ### 33. Soft Pastel Anime Girl Full Body
 
-![Soft Pastel Anime Girl Full Body](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case141/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case141/output.jpg" alt="Soft Pastel Anime Girl Full Body" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/hoshi122221/status/2048025730425196801)
@@ -770,7 +772,7 @@ A full-body anime girl character design on a plain white background, centered an
 
 ### 34. E-commerce Main Image - Industrial Design Presentation Sheet
 
-![E-commerce Main Image - Industrial Design Presentation Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg" alt="E-commerce Main Image - Industrial Design Presentation Sheet" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ShamsAmin56/status/2047627860752621647)
@@ -797,7 +799,7 @@ Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave design
 
 ### 35. E-commerce Main Image - Premium Gaming Motherboard Studio Shot
 
-![E-commerce Main Image - Premium Gaming Motherboard Studio Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg" alt="E-commerce Main Image - Premium Gaming Motherboard Studio Shot" width="480">
 
 This prompt generates a sleek, ultra-detailed studio product image of a high-end RGB gaming motherboard, ideal for tech advertising, hardware mockups, or product showcase visuals.
 
@@ -814,7 +816,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 ### 36. E-commerce Main Image - Premium Grain Powder Ad Board
 
-![E-commerce Main Image - Premium Grain Powder Ad Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg" alt="E-commerce Main Image - Premium Grain Powder Ad Board" width="480">
 
 This prompt generates a dark luxury Chinese e-commerce marketing board for a grain powder drink, suitable for product detail pages, main images, and ad storyboard presentations.
 
@@ -831,7 +833,7 @@ This prompt generates a dark luxury Chinese e-commerce marketing board for a gra
 
 ### 37. Japanese Chinese Food Delivery Flyer
 
-![Japanese Chinese Food Delivery Flyer](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg" alt="Japanese Chinese Food Delivery Flyer" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/xc5_/status/2048310696686014935)
@@ -860,7 +862,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 ### 38. E-commerce Main Image - Luxury Perfume Ad on Marble Vanity
 
-![E-commerce Main Image - Luxury Perfume Ad on Marble Vanity](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg" alt="E-commerce Main Image - Luxury Perfume Ad on Marble Vanity" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MiguelMaestroIA/status/2047555836252151831)
@@ -875,7 +877,7 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 
 ### 39. E-commerce Main Image - Traditional Chinese Art and Porcelain Vases
 
-![E-commerce Main Image - Traditional Chinese Art and Porcelain Vases](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg" alt="E-commerce Main Image - Traditional Chinese Art and Porcelain Vases" width="480">
 
 Detailed prompts for generating high-quality traditional Chinese cultural products including silk scarves and imperial porcelain.
 
@@ -894,7 +896,7 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 
 ### 40. Cyber Crystal Anime Girl Portrait
 
-![Cyber Crystal Anime Girl Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case93/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case93/output.jpg" alt="Cyber Crystal Anime Girl Portrait" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/libearal/status/2048026376645861799)
@@ -909,7 +911,7 @@ A highly detailed anime-style full-body character portrait of {argument name="ch
 
 ### 41. Air Sign Zodiac Character Poster
 
-![Air Sign Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case126/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case126/output.jpg" alt="Air Sign Zodiac Character Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/komorimedia/status/2048114825398731143)
@@ -924,7 +926,7 @@ A highly detailed anime-style full-body character portrait of {argument name="ch
 
 ### 42. Vintage PRS Guitar Lineage Poster
 
-![Vintage PRS Guitar Lineage Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case128/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case128/output.jpg" alt="Vintage PRS Guitar Lineage Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/GlennHasABeard/status/2048087784141857235)
@@ -939,11 +941,11 @@ A highly detailed anime-style full-body character portrait of {argument name="ch
 
 ### 43. 3D Stone Staircase Evolution Infographic
 
-![3D Stone Staircase Evolution Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case111/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case111/output.jpg" alt="3D Stone Staircase Evolution Infographic" width="480">
 
 Transforms a flat evolutionary timeline into a realistic 3D stone staircase infographic with detailed organism renders and structured side panels.
 
-- **Categories:** Poster & Illustration Cases, 信息图可视化设计, 3D Stone Staircase Evolution Infographic
+- **Categories:** Poster & Illustration Cases, categories.category_3a0407738e.en: Infographic visualization design, 3D Stone Staircase Evolution Infographic
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/GeekCatX/status/2045792240044511277)
 
 **Prompt:**
@@ -996,7 +998,7 @@ Transforms a flat evolutionary timeline into a realistic 3D stone staircase info
 
 ### 44. 16-Pose Dance Combat Reference Sheet
 
-![16-Pose Dance Combat Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case133/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case133/output.jpg" alt="16-Pose Dance Combat Reference Sheet" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ExquisitMe/status/2048143577264402629)
@@ -1011,7 +1013,7 @@ Transforms a flat evolutionary timeline into a realistic 3D stone staircase info
 
 ### 45. Fire Sign Zodiac Character Poster
 
-![Fire Sign Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case125/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case125/output.jpg" alt="Fire Sign Zodiac Character Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/komorimedia/status/2048114825398731143)
@@ -1036,7 +1038,7 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 
 ### 46. Ink-Wash Tribute Poster for Chen Uen
 
-![Ink-Wash Tribute Poster for Chen Uen](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case122/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case122/output.jpg" alt="Ink-Wash Tribute Poster for Chen Uen" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mob_17/status/2048118645017219381)
@@ -1051,7 +1053,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 ### 47. Stormy Tropical City With Rooftop Plane
 
-![Stormy Tropical City With Rooftop Plane](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case165/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case165/output.jpg" alt="Stormy Tropical City With Rooftop Plane" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Gerry/status/2048303505702629537)
@@ -1066,7 +1068,7 @@ A cinematic wide aerial view of a tropical coastal city at sunset during a viole
 
 ### 48. Neon Nike Lumina Ad Poster
 
-![Neon Nike Lumina Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case145/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case145/output.jpg" alt="Neon Nike Lumina Ad Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AlwaveNazca/status/2048147643809865950)
@@ -1081,7 +1083,7 @@ A high-energy vertical Nike fashion campaign poster featuring a single athletic 
 
 ### 49. Anime Music Bootcamp Promo Poster
 
-![Anime Music Bootcamp Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg" alt="Anime Music Bootcamp Promo Poster" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sorane_aimusic/status/2047507066697507134)
@@ -1096,7 +1098,7 @@ Create a dramatic Japanese anime-style promotional thumbnail poster for an event
 
 ### 50. Urban Alley Mural Artist
 
-![Urban Alley Mural Artist](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case139/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case139/output.jpg" alt="Urban Alley Mural Artist" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Professor_134/status/2048066672398102896)
@@ -1130,7 +1132,7 @@ Generate image using uploaded image as reference
 
 ### 51. Streetwear Sneaker Poster Ad
 
-![Streetwear Sneaker Poster Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case146/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case146/output.jpg" alt="Streetwear Sneaker Poster Ad" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AlwaveNazca/status/2048147643809865950)
@@ -1145,7 +1147,7 @@ Create a bold streetwear poster advertisement for {argument name="brand name" de
 
 ### 52. E-commerce Main Image - Pastel Blue Crocs Fashion Ad
 
-![E-commerce Main Image - Pastel Blue Crocs Fashion Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg" alt="E-commerce Main Image - Pastel Blue Crocs Fashion Ad" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SPEEDAI07/status/2047907058079650035)
@@ -1160,7 +1162,7 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 ### 53. Japanese Sci-Fi Suit-Up Process Board
 
-![Japanese Sci-Fi Suit-Up Process Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case163/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case163/output.jpg" alt="Japanese Sci-Fi Suit-Up Process Board" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/yy7482933910896/status/2048192904922075161)
@@ -1175,9 +1177,9 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 ### 54. Dark Mode Marketing Case Study UI
 
-![Dark Mode Marketing Case Study UI](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg" alt="Dark Mode Marketing Case Study UI" width="480">
 
-- **Categories:** Poster & Illustration Cases, 界面交互设计图
+- **Categories:** Poster & Illustration Cases, Interface Interaction Design Diagram
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/IndieDevHailey/status/2044974254769463312)
 
 **Prompt:**
@@ -1257,7 +1259,7 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 ### 55. Anime Friends Eating Soba
 
-![Anime Friends Eating Soba](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case110/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case110/output.jpg" alt="Anime Friends Eating Soba" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIMAG31G/status/2048089673621516547)
@@ -1272,7 +1274,7 @@ A cozy anime-style interior of a traditional Japanese soba restaurant, viewed fr
 
 ### 56. Illustrated City Food Map
 
-![Illustrated City Food Map](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case110/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case110/output.jpg" alt="Illustrated City Food Map" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mm_zzm44854/status/2045861258520568230)
@@ -1321,7 +1323,7 @@ A cozy anime-style interior of a traditional Japanese soba restaurant, viewed fr
 
 ### 57. Luxury Chronograph Watch Ad
 
-![Luxury Chronograph Watch Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case144/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case144/output.jpg" alt="Luxury Chronograph Watch Ad" width="480">
 
 A premium dark studio advertisement image featuring a branded motorsport-style chronograph watch and presentation box, ideal for luxury product marketing and watch campaign visuals.
 
@@ -1338,7 +1340,7 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 
 ### 58. E-commerce Main Image - Elegant Cosmetic Poster Prompt
 
-![E-commerce Main Image - Elegant Cosmetic Poster Prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg" alt="E-commerce Main Image - Elegant Cosmetic Poster Prompt" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Adam38363368936/status/2047917266361360682)
@@ -1353,7 +1355,7 @@ An image in a {argument name="reference style" default="similar style"}, a produ
 
 ### 59. Editorial Osaka Six Sweatshirt Ad
 
-![Editorial Osaka Six Sweatshirt Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case147/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case147/output.jpg" alt="Editorial Osaka Six Sweatshirt Ad" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/_LaurentB/status/2048126606313464040)
@@ -1368,7 +1370,7 @@ A clean editorial fashion advertisement poster on a pale powder-blue studio back
 
 ### 60. E-commerce Main Image - Luxury Amber Perfume Ad
 
-![E-commerce Main Image - Luxury Amber Perfume Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg" alt="E-commerce Main Image - Luxury Amber Perfume Ad" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Polanco_IA/status/2047689647967609037)
@@ -1383,7 +1385,7 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 
 ### 61. Anime Campers in a Winter Tent
 
-![Anime Campers in a Winter Tent](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case115/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case115/output.jpg" alt="Anime Campers in a Winter Tent" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sub_raw_jin/status/2048066779835220392)
@@ -1398,7 +1400,7 @@ A cozy winter camping scene inside a large beige canvas tent, rendered as a semi
 
 ### 62. Parody Luxury Product Advertisement
 
-![Parody Luxury Product Advertisement](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg" alt="Parody Luxury Product Advertisement" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/tonysimons_/status/2048057490940596595)
@@ -1413,7 +1415,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 ### 63. 16-Panel Dance Pose Reference Sheet
 
-![16-Panel Dance Pose Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case134/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case134/output.jpg" alt="16-Panel Dance Pose Reference Sheet" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ExquisitMe/status/2048143577264402629)
@@ -1428,7 +1430,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 ### 64. E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH
 
-![E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg" alt="E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Strength04_X/status/2047917220165231011)
@@ -1453,7 +1455,7 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 ### 65. Dance Movement Reference Sheet
 
-![Dance Movement Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case130/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case130/output.jpg" alt="Dance Movement Reference Sheet" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Ciri_ai/status/2048074587955658848)
@@ -1495,7 +1497,7 @@ no cluttered backgrounds
 
 ### 66. Earth Signs Zodiac Character Poster
 
-![Earth Signs Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case124/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case124/output.jpg" alt="Earth Signs Zodiac Character Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/komorimedia/status/2048114825398731143)
@@ -1510,7 +1512,7 @@ no cluttered backgrounds
 
 ### 67. Alishan One-Day Travel Poster
 
-![Alishan One-Day Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case129/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case129/output.jpg" alt="Alishan One-Day Travel Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/TWnese/status/2048077204786212887)
@@ -1525,7 +1527,7 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 ### 68. Pink Anime Natsuki Banner
 
-![Pink Anime Natsuki Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case98/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case98/output.jpg" alt="Pink Anime Natsuki Banner" width="480">
 
 This prompt generates a polished wide anime character banner with a pink romantic scrapbook aesthetic, ideal for thumbnails, headers, or stylized fan-themed branding.
 
@@ -1542,7 +1544,7 @@ A glossy pastel pink anime banner in a wide cinematic layout, themed around cute
 
 ### 69. Editorial Perfume Bottle in Golden Fur
 
-![Editorial Perfume Bottle in Golden Fur](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case149/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case149/output.jpg" alt="Editorial Perfume Bottle in Golden Fur" width="480">
 
 This prompt generates a high-end editorial beauty product shot of a perfume bottle surrounded by warm textured fur, ideal for luxury fragrance advertising and social media campaigns.
 
@@ -1559,7 +1561,7 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 
 ### 70. Anime Crowd POV Comparison
 
-![Anime Crowd POV Comparison](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case71/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case71/output.jpg" alt="Anime Crowd POV Comparison" width="480">
 
 A black-background comparison graphic showing a source anime crowd scene and a transformed ground-level point-of-view version, useful for demonstrating complex camera-angle changes.
 
@@ -1576,7 +1578,7 @@ A black-background comparison graphic showing a source anime crowd scene and a t
 
 ### 71. Cinematic Chicken Momos Ad Poster
 
-![Cinematic Chicken Momos Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg" alt="Cinematic Chicken Momos Ad Poster" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Diplomeme/status/2048060325925470358)
@@ -1591,7 +1593,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 ### 72. Vintage Claude Shannon Infographic Poster
 
-![Vintage Claude Shannon Infographic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case121/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case121/output.jpg" alt="Vintage Claude Shannon Infographic Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mob_17/status/2048118645017219381)
@@ -1606,7 +1608,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 ### 73. Dreamy Anime Sayori Banner
 
-![Dreamy Anime Sayori Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case99/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case99/output.jpg" alt="Dreamy Anime Sayori Banner" width="480">
 
 This prompt generates a polished anime-style character banner with a cheerful schoolgirl, scrapbook decorations, and large glowing name text, ideal for headers, thumbnails, or fan art branding.
 
@@ -1623,9 +1625,9 @@ A wide anime banner illustration of {argument name="character name" default="Say
 
 ### 74. Anime Character Brand Identity & Merch Board
 
-![Anime Character Brand Identity & Merch Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg" alt="Anime Character Brand Identity &amp; Merch Board" width="480">
 
-- **Categories:** Poster & Illustration Cases, 界面交互设计图
+- **Categories:** Poster & Illustration Cases, Interface interaction design diagram
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/chi_vc_/status/2046061073720369228)
 
 **Prompt:**
@@ -1686,7 +1688,7 @@ A wide anime banner illustration of {argument name="character name" default="Say
 
 ### 75. Purple Anime Yuri Banner
 
-![Purple Anime Yuri Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case97/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case97/output.jpg" alt="Purple Anime Yuri Banner" width="480">
 
 This prompt generates a stylish anime banner of a purple-haired schoolgirl in a literary twilight room with glowing title typography, ideal for thumbnails, headers, or character-themed social graphics.
 
@@ -1703,7 +1705,7 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 
 ### 76. Pastel Jellyfish Room Goods Poster
 
-![Pastel Jellyfish Room Goods Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg" alt="Pastel Jellyfish Room Goods Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Ayu_AI_0912/status/2048309565817766139)
@@ -1718,7 +1720,7 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 
 ### 77. Dreamy Shibuya Bubble Girl
 
-![Dreamy Shibuya Bubble Girl](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case164/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case164/output.jpg" alt="Dreamy Shibuya Bubble Girl" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/terunari/status/2048308270914490666)
@@ -1733,7 +1735,7 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 ### 78. 16-Panel Female Dance Pose Sheet
 
-![16-Panel Female Dance Pose Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case135/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case135/output.jpg" alt="16-Panel Female Dance Pose Sheet" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ExquisitMe/status/2048143577264402629)
@@ -1748,7 +1750,7 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 ### 79. E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo
 
-![E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg" alt="E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/dynamicwangs/status/2047580984342925545)
@@ -1763,7 +1765,7 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 
 ### 80. Gas Giant Descent Storyboard
 
-![Gas Giant Descent Storyboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case137/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case137/output.jpg" alt="Gas Giant Descent Storyboard" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/xRahultripathi/status/2048140775356354892)
@@ -1778,7 +1780,7 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 
 ### 81. Anime Band Finale at Budokan
 
-![Anime Band Finale at Budokan](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg" alt="Anime Band Finale at Budokan" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SDAI1807097011/status/2048127178592915583)
@@ -1793,7 +1795,7 @@ A dramatic anime concert illustration seen from behind the performers onstage, s
 
 ### 82. Anime Museum Background Conversion
 
-![Anime Museum Background Conversion](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case132/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case132/output.jpg" alt="Anime Museum Background Conversion" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Dakiny/status/2048175219966394695)
@@ -1808,7 +1810,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 ### 83. Anime Girl and Man Date Photo Collage
 
-![Anime Girl and Man Date Photo Collage](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case108/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case108/output.jpg" alt="Anime Girl and Man Date Photo Collage" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIillust_studio/status/2048099186214900130)
@@ -1823,7 +1825,7 @@ A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real a
 
 ### 84. Biomimetic Skyray Aircraft Poster
 
-![Biomimetic Skyray Aircraft Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case119/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case119/output.jpg" alt="Biomimetic Skyray Aircraft Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/_simonsmith/status/2048172203946996041)
@@ -1838,7 +1840,7 @@ A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real a
 
 ### 85. Cyberpunk AI Tools Comparison Poster
 
-![Cyberpunk AI Tools Comparison Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case73/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case73/output.jpg" alt="Cyberpunk AI Tools Comparison Poster" width="480">
 
 A dramatic sci-fi thumbnail-style graphic comparing Google, Claude, and OpenAI tools, ideal for tech videos, social posts, or presentation cover images.
 
@@ -1855,7 +1857,7 @@ A futuristic Japanese tech comparison poster in a dark cyberpunk control-room se
 
 ### 86. Cozy Anime ASMR Ear Massage Girl
 
-![Cozy Anime ASMR Ear Massage Girl](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case94/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case94/output.jpg" alt="Cozy Anime ASMR Ear Massage Girl" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Shion_yamabuki/status/2047232198382964969)
@@ -1870,7 +1872,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 ### 87. Cyberpunk 404 Witch Summoning
 
-![Cyberpunk 404 Witch Summoning](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case100/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case100/output.jpg" alt="Cyberpunk 404 Witch Summoning" width="480">
 
 This prompt generates a detailed anime cyberpunk witch illustration on a neon rooftop, ideal for dark fantasy key art, posters, or social media showcase images.
 
@@ -1887,7 +1889,7 @@ A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a d
 
 ### 88. Anime Characters in Real Izakaya Photo
 
-![Anime Characters in Real Izakaya Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case114/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case114/output.jpg" alt="Anime Characters in Real Izakaya Photo" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sub_raw_jin/status/2048066779835220392)
@@ -1902,7 +1904,7 @@ A candid indoor restaurant photo in a realistic anime-inspired style, showing tw
 
 ### 89. Good Bath Day Editorial Poster
 
-![Good Bath Day Editorial Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" alt="Good Bath Day Editorial Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Kazuch75240438/status/2048205418238030327)
@@ -1917,7 +1919,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 ### 90. Water Signs Zodiac Character Poster
 
-![Water Signs Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case123/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case123/output.jpg" alt="Water Signs Zodiac Character Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/komorimedia/status/2048114825398731143)
@@ -1932,7 +1934,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 ### 91. Monika Anime Banner Illustration
 
-![Monika Anime Banner Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case96/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case96/output.jpg" alt="Monika Anime Banner Illustration" width="480">
 
 This prompt generates a polished anime-style wide banner of a literature-club schoolgirl in a sunlit classroom, ideal for thumbnails, headers, and stylized fan-art branding.
 
@@ -1949,7 +1951,7 @@ A highly polished anime banner illustration in a warm golden classroom-literatur
 
 ### 92. Social Media Post - Blue Pen Campaign Poster
 
-![Social Media Post - Blue Pen Campaign Poster](https://cms-assets.youmind.com/media/1777367357213_w2pgi3_HG7lLOzbsAAJuJy.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367357213_w2pgi3_HG7lLOzbsAAJuJy.jpg" alt="Social Media Post - Blue Pen Campaign Poster" width="480">
 
 This prompt generates a dramatic meme-style political campaign poster for social media featuring a man holding a blue pen, bold Portuguese slogans, and Brazilian patriotic visual cues.
 
@@ -1966,7 +1968,7 @@ A dramatic Brazilian political campaign poster in a square social-media format, 
 
 ### 93. Comic / Storyboard - Epic Momotaro Fantasy Cover
 
-![Comic / Storyboard - Epic Momotaro Fantasy Cover](https://cms-assets.youmind.com/media/1777367339611_8yalzt_HG6-WwPakAA20ML.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367339611_8yalzt_HG6-WwPakAA20ML.jpg" alt="Comic / Storyboard - Epic Momotaro Fantasy Cover" width="480">
 
 This prompt generates a dramatic ensemble-style anime fantasy cover with seven battle-ready characters, Japanese promotional text, and a polished light-novel or webtoon key visual look.
 
@@ -1983,7 +1985,7 @@ A dramatic Japanese light-novel cover illustration in high-detail anime fantasy 
 
 ### 94. Infographic / Edu Visual - Japanese Color-Coded Periodic Table
 
-![Infographic / Edu Visual - Japanese Color-Coded Periodic Table](https://cms-assets.youmind.com/media/1777367336290_ix8dbu_HG7IDhJbAAANNlk.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367336290_ix8dbu_HG7IDhJbAAANNlk.jpg" alt="Infographic / Edu Visual - Japanese Color-Coded Periodic Table" width="480">
 
 A clean educational poster showing the full periodic table in Japanese with pastel color coding by block, suitable for textbooks, classroom visuals, and science reference graphics.
 
@@ -2000,7 +2002,7 @@ A clean educational poster showing the full periodic table in Japanese with past
 
 ### 95. Social Media Post - Arabic Font Types Infographic
 
-![Social Media Post - Arabic Font Types Infographic](https://cms-assets.youmind.com/media/1777367358617_z2hn2v_HG6FSQMaoAA_fq7.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367358617_z2hn2v_HG6FSQMaoAA_fq7.jpg" alt="Social Media Post - Arabic Font Types Infographic" width="480">
 
 A polished Arabic infographic poster showing six Arabic calligraphy and font styles with their uses, features, icons, and a bottom row explaining why font choice matters.
 
@@ -2017,7 +2019,7 @@ A polished Arabic infographic poster showing six Arabic calligraphy and font sty
 
 ### 96. Product Marketing - Luxury Dream Home Real Estate Flyer
 
-![Product Marketing - Luxury Dream Home Real Estate Flyer](https://cms-assets.youmind.com/media/1777367287417_h8xwnh_HG8ZQdBboAAHABV.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367287417_h8xwnh_HG8ZQdBboAAHABV.jpg" alt="Product Marketing - Luxury Dream Home Real Estate Flyer" width="480">
 
 A bold vertical real-estate ad poster promoting luxury homes and property investment, ideal for social media marketing or sales flyers.
 
@@ -2034,7 +2036,7 @@ Create a polished vertical real-estate promotional flyer in a clean, modern soci
 
 ### 97. Profile / Avatar - Signed Marker Portrait on Shikishi
 
-![Profile / Avatar - Signed Marker Portrait on Shikishi](https://cms-assets.youmind.com/media/1777367317129_2rohn0_HG8hIdab0AAwzdp.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367317129_2rohn0_HG8hIdab0AAwzdp.jpg" alt="Profile / Avatar - Signed Marker Portrait on Shikishi" width="480">
 
 This generates a lively signed marker-style portrait on a square shikishi board, useful for fan-art autographs, commemorative illustration posts, and personalized thank-you visuals.
 
@@ -2051,7 +2053,7 @@ A lively hand-drawn fashion portrait in a changed illustration style, made to lo
 
 ### 98. Infographic / Edu Visual - Anime Business English Worksheet
 
-![Infographic / Edu Visual - Anime Business English Worksheet](https://cms-assets.youmind.com/media/1777367315642_aaenzs_HG8cknKasAAXybs.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367315642_aaenzs_HG8cknKasAAXybs.jpg" alt="Infographic / Edu Visual - Anime Business English Worksheet" width="480">
 
 A colorful bilingual worksheet poster with 10 business English fill-in-the-blank questions and an anime mascot, ideal for social media educational posts or printable study sheets.
 
@@ -2068,7 +2070,7 @@ A colorful bilingual worksheet poster with 10 business English fill-in-the-blank
 
 ### 99. Infographic / Edu Visual - Automotive poster transformation prompt
 
-![Infographic / Edu Visual - Automotive poster transformation prompt](https://cms-assets.youmind.com/media/1777367258317_gqan9d_HG6-WeKaAAAYVTt.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367258317_gqan9d_HG6-WeKaAAAYVTt.jpg" alt="Infographic / Edu Visual - Automotive poster transformation prompt" width="480">
 
 A prompt for transforming a car photo into a professional minimalist advertising poster with drifting effects and technical specifications.
 
@@ -2094,7 +2096,7 @@ Entire poster is minimalist, editorial, high-key studio lighting with ultra-shar
 
 ### 100. Infographic / Edu Visual - Instructional dance poster prompt
 
-![Infographic / Edu Visual - Instructional dance poster prompt](https://cms-assets.youmind.com/media/1777367260864_gcyiix_HG698xdaQAAuy-6.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367260864_gcyiix_HG698xdaQAAuy-6.jpg" alt="Infographic / Edu Visual - Instructional dance poster prompt" width="480">
 
 Generates a 16-step grid-based instructional poster for dance sequences in a minimalist monochrome style.
 
@@ -2134,7 +2136,7 @@ Dynamic but clean, easy-to-follow instructional design
 
 ### 101. Infographic / Edu Visual - Japanese-Style Facial Analysis Diagnostic Poster
 
-![Infographic / Edu Visual - Japanese-Style Facial Analysis Diagnostic Poster](https://cms-assets.youmind.com/media/1777367282885_bplvv4_HG61BMTWQAAeK_D.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367282885_bplvv4_HG61BMTWQAAeK_D.jpg" alt="Infographic / Edu Visual - Japanese-Style Facial Analysis Diagnostic Poster" width="480">
 
 A complex structured prompt for generating a professional medical-style report poster that analyzes facial features based on physiognomy and psychology.
 
@@ -2271,7 +2273,7 @@ A complex structured prompt for generating a professional medical-style report p
 
 ### 102. Profile / Avatar - Oil Pastel Anime Catgirl
 
-![Profile / Avatar - Oil Pastel Anime Catgirl](https://cms-assets.youmind.com/media/1777367317158_w2m0tk_HG6T3x3bQAADPQa.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367317158_w2m0tk_HG6T3x3bQAADPQa.jpg" alt="Profile / Avatar - Oil Pastel Anime Catgirl" width="480">
 
 This prompt generates a cute full-body anime catgirl in a tiger-themed outfit rendered as a textured oil pastel crayon drawing, ideal for playful character art and stylized social posts.
 
@@ -2288,7 +2290,7 @@ A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil p
 
 ### 103. Comic / Storyboard - Anime Rapunzel Tower Scene
 
-![Comic / Storyboard - Anime Rapunzel Tower Scene](https://cms-assets.youmind.com/media/1777367348035_d0q7fw_HG8dbSAacAAV452.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367348035_d0q7fw_HG8dbSAacAAV452.jpg" alt="Comic / Storyboard - Anime Rapunzel Tower Scene" width="480">
 
 A polished fantasy anime illustration of a Rapunzel-like princess with an extremely long braid leaning from an ivy-covered tower above a scenic river valley, ideal for fairytale-themed character art or storybook visuals.
 
@@ -2305,7 +2307,7 @@ A whimsical anime fairytale illustration of {argument name="character name" defa
 
 ### 104. Infographic / Edu Visual - LEGO Mini Set Instruction Poster
 
-![Infographic / Edu Visual - LEGO Mini Set Instruction Poster](https://cms-assets.youmind.com/media/1777367352610_ueqrmt_HG7_HUUaIAAwdHb.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367352610_ueqrmt_HG7_HUUaIAAwdHb.jpg" alt="Infographic / Edu Visual - LEGO Mini Set Instruction Poster" width="480">
 
 A black-and-white LEGO-style box and instruction sheet showing a small swing-set display model with a seated minifigure, useful for parody toy packaging, novelty concept sets, or fake build manuals.
 
@@ -2322,7 +2324,7 @@ A black-and-white LEGO-style box and instruction sheet showing a small swing-set
 
 ### 105. Product Marketing - Luxury Editorial 4:20 Product Poster
 
-![Product Marketing - Luxury Editorial 4:20 Product Poster](https://cms-assets.youmind.com/media/1777367355926_4qmzfl_HG7yqeeaIAAoDOA.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367355926_4qmzfl_HG7yqeeaIAAoDOA.jpg" alt="Product Marketing - Luxury Editorial 4:20 Product Poster" width="480">
 
 This prompt generates a stylish studio ad image combining an oversized smoking product with fashion-editorial typography, ideal for cannabis lifestyle campaigns or conceptual product posters.
 
@@ -2339,7 +2341,7 @@ A high-end editorial product poster in a minimalist studio, featuring an oversiz
 
 ### 106. Social Media Post - Bubble Fox Friends Meet in Niseko
 
-![Social Media Post - Bubble Fox Friends Meet in Niseko](https://cms-assets.youmind.com/media/1777367322024_6jvsd1_HG8Mj2_aQAAqNxU.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367322024_6jvsd1_HG8Mj2_aQAAqNxU.jpg" alt="Social Media Post - Bubble Fox Friends Meet in Niseko" width="480">
 
 This prompt generates a detailed anime travel illustration of fox girls reuniting at Niseko View Plaza with iridescent soap bubbles and a dramatic mountain backdrop, ideal for scenic character art.
 
@@ -2356,7 +2358,7 @@ A bright anime-style fantasy travel scene in front of Niseko View Plaza in Hokka
 
 ### 107. Comic / Storyboard - Anime Split-Apartment Romance Cover
 
-![Comic / Storyboard - Anime Split-Apartment Romance Cover](https://cms-assets.youmind.com/media/1777367338248_ctvgpf_HG6-Pg5a8AAvrZJ.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367338248_ctvgpf_HG6-Pg5a8AAvrZJ.jpg" alt="Comic / Storyboard - Anime Split-Apartment Romance Cover" width="480">
 
 This prompt generates a polished anime-style Japanese light novel cover showing neighboring adults divided by a wall, ideal for romance-comedy or food-themed book promotion.
 
@@ -2373,7 +2375,7 @@ A cinematic anime-style vertical book-cover illustration for a romantic comedy l
 
 ### 108. Comic / Storyboard - Whimsical Ladybug and Bee Village Scene
 
-![Comic / Storyboard - Whimsical Ladybug and Bee Village Scene](https://cms-assets.youmind.com/media/1777367288527_536lmu_HG7zrZwbsAAa_Tt.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367288527_536lmu_HG7zrZwbsAAa_Tt.jpg" alt="Comic / Storyboard - Whimsical Ladybug and Bee Village Scene" width="480">
 
 This prompt generates a cinematic 3D animated-style image of two cute insects meeting in an enchanted woodland village, ideal for storybook art or family-friendly fantasy illustrations.
 
@@ -2390,7 +2392,7 @@ A heartwarming stylized 3D animated forest village scene at golden hour, showing
 
 ### 109. Infographic / Edu Visual - Mobile Communication Evolution Infographic
 
-![Infographic / Edu Visual - Mobile Communication Evolution Infographic](https://cms-assets.youmind.com/media/1777367294961_w7jzc7_HG6sQuHbcAAOCGb.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367294961_w7jzc7_HG6sQuHbcAAOCGb.jpg" alt="Infographic / Edu Visual - Mobile Communication Evolution Infographic" width="480">
 
 A polished Chinese-language vertical infographic poster showing the timeline from 1G to 6G, ideal for technology education, presentations, and telecom-themed visual explainers.
 
@@ -2407,7 +2409,7 @@ A polished Chinese-language vertical infographic poster showing the timeline fro
 
 ### 110. Infographic / Edu Visual - Pastel Anime User Persona Infographic
 
-![Infographic / Edu Visual - Pastel Anime User Persona Infographic](https://cms-assets.youmind.com/media/1777367322854_d2ii9g_HG8UlD9a4AAZZPt.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367322854_d2ii9g_HG8UlD9a4AAZZPt.jpg" alt="Infographic / Edu Visual - Pastel Anime User Persona Infographic" width="480">
 
 A vertically structured Japanese infographic poster showing a soft anime cat-eared avatar with multiple labeled personality sections, ideal for generating stylized self-image or user-persona visuals.
 
@@ -2424,7 +2426,7 @@ A vertically structured Japanese infographic poster showing a soft anime cat-ear
 
 ### 111. Social Media Post - Icy Fantasy Anime Woman in Blossom Snow
 
-![Social Media Post - Icy Fantasy Anime Woman in Blossom Snow](https://cms-assets.youmind.com/media/1777367299249_eowb8q_HG7uRRjbEAA7GaR.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367299249_eowb8q_HG7uRRjbEAA7GaR.jpg" alt="Social Media Post - Icy Fantasy Anime Woman in Blossom Snow" width="480">
 
 This prompt generates a polished vertical anime-style fantasy character illustration, ideal for character art, wallpaper, or magic-themed concept imagery.
 
@@ -2441,7 +2443,7 @@ A highly detailed anime fantasy illustration of a tall elegant woman resembling 
 
 ### 112. Comic / Storyboard - Epic Fantasy Mecha Light Novel Cover
 
-![Comic / Storyboard - Epic Fantasy Mecha Light Novel Cover](https://cms-assets.youmind.com/media/1777367338321_yoro6d_HG6-Pi0acAAl3W8.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367338321_yoro6d_HG6-Pi0acAAl3W8.jpg" alt="Comic / Storyboard - Epic Fantasy Mecha Light Novel Cover" width="480">
 
 This prompt generates a dramatic anime-style Japanese sci-fi fantasy cover featuring a towering angelic robot, two protagonists, and bold title typography for novels, games, or promotional key art.
 
@@ -2458,7 +2460,7 @@ Create a dramatic Japanese light-novel cover illustration for a fantasy mecha is
 
 ### 113. Infographic / Edu Visual - Kitchen English Fill-in Worksheet Poster
 
-![Infographic / Edu Visual - Kitchen English Fill-in Worksheet Poster](https://cms-assets.youmind.com/media/1777367315696_7zfbs4_HG8ckunaEAAK8Zi.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367315696_7zfbs4_HG8ckunaEAAK8Zi.jpg" alt="Infographic / Edu Visual - Kitchen English Fill-in Worksheet Poster" width="480">
 
 A colorful anime-style educational poster for Japanese learners featuring 10 cooking-related English fill-in-the-blank sentences with Japanese translations and a friendly tutor character.
 
@@ -2475,7 +2477,7 @@ A colorful anime-style educational poster for Japanese learners featuring 10 coo
 
 ### 114. Comic / Storyboard - Anime Schoolgirl Late Morning Comic
 
-![Comic / Storyboard - Anime Schoolgirl Late Morning Comic](https://cms-assets.youmind.com/media/1777367358560_mrej55_HG8adUBaIAAyYuj.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367358560_mrej55_HG8adUBaIAAyYuj.jpg" alt="Comic / Storyboard - Anime Schoolgirl Late Morning Comic" width="480">
 
 This prompt generates a 9-panel anime comic about a frantic schoolgirl racing to school and failing to beat the late policy, ideal for humorous storyboard or manga-style scenes.
 
@@ -2492,7 +2494,7 @@ This prompt generates a 9-panel anime comic about a frantic schoolgirl racing to
 
 ### 115. Infographic / Edu Visual - Four-Panel Science Concept Poster
 
-![Infographic / Edu Visual - Four-Panel Science Concept Poster](https://cms-assets.youmind.com/media/1777367300158_lsdbji_HG8strhasAAG98U.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367300158_lsdbji_HG8strhasAAG98U.jpg" alt="Infographic / Edu Visual - Four-Panel Science Concept Poster" width="480">
 
 A polished 3D educational infographic poster showing astronomy, biology, chemistry, and physics as separate floating dioramas, ideal for science concept art or academic visual design.
 
@@ -2509,7 +2511,7 @@ A polished 3D educational infographic poster showing astronomy, biology, chemist
 
 ### 116. Profile / Avatar - Shrine Maiden Offering an Omamori
 
-![Profile / Avatar - Shrine Maiden Offering an Omamori](https://cms-assets.youmind.com/media/1777367325615_2nck18_HG6o749b0AA-Mzf.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367325615_2nck18_HG6o749b0AA-Mzf.jpg" alt="Profile / Avatar - Shrine Maiden Offering an Omamori" width="480">
 
 This prompt generates a clean anime-style shrine scene featuring a miko presenting an omamori at a shrine counter, ideal for character art with culturally detailed background props.
 
@@ -2526,7 +2528,7 @@ A polished anime-style illustration of a young shrine maiden named {argument nam
 
 ### 117. Profile / Avatar - Cute Oil Pastel Schoolgirl Portrait
 
-![Profile / Avatar - Cute Oil Pastel Schoolgirl Portrait](https://cms-assets.youmind.com/media/1777367318637_zd2pgi_HG6VQpDboAAKvhH.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367318637_zd2pgi_HG6VQpDboAAKvhH.jpg" alt="Profile / Avatar - Cute Oil Pastel Schoolgirl Portrait" width="480">
 
 This prompt generates a nostalgic, adorable anime schoolgirl bust portrait in an oil pastel crayon style, useful for creating soft handmade character art with a playful censored-face composition.
 
@@ -2543,7 +2545,7 @@ A cute anime-style {argument name="character type" default="Japanese schoolgirl"
 
 ### 118. Profile / Avatar - Ethereal Blue-Haired Fantasy Portrait
 
-![Profile / Avatar - Ethereal Blue-Haired Fantasy Portrait](https://cms-assets.youmind.com/media/1777367299255_7e01qg_HG7uRRbbIAABIeT.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367299255_7e01qg_HG7uRRbbIAABIeT.jpg" alt="Profile / Avatar - Ethereal Blue-Haired Fantasy Portrait" width="480">
 
 This prompt generates a soft, luminous anime-style fantasy character portrait, ideal for creating elegant vertical key art or character illustrations with flowing hair and a dreamy spring atmosphere.
 
@@ -2560,7 +2562,7 @@ A highly detailed anime fantasy portrait of {argument name="character name" defa
 
 ### 119. Product Marketing - Neon Catgirl Soda Splash
 
-![Product Marketing - Neon Catgirl Soda Splash](https://cms-assets.youmind.com/media/1777367322936_1l1lfl_HG7JQ7ybwAALpdm.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367322936_1l1lfl_HG7JQ7ybwAALpdm.jpg" alt="Product Marketing - Neon Catgirl Soda Splash" width="480">
 
 A vivid cyber-anime promotional illustration of a cat-eared girl dramatically presenting a neon soda bottle, ideal for flashy beverage ads, social posts, or high-energy pop art visuals.
 
@@ -2577,7 +2579,7 @@ A dynamic anime cyberpop illustration of a {argument name="character type" defau
 
 ### 120. Product Marketing - Neon Catgirl Soda Ad
 
-![Product Marketing - Neon Catgirl Soda Ad](https://cms-assets.youmind.com/media/1777367322953_0u0h4v_HG7JQ8OaAAEEXgN.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367322953_0u0h4v_HG7JQ8OaAAEEXgN.jpg" alt="Product Marketing - Neon Catgirl Soda Ad" width="480">
 
 A vivid cyber-anime poster of a cat-eared girl presenting a bursting soda bottle, ideal for energetic drink branding or flashy social media key art.
 
@@ -2594,7 +2596,7 @@ A hyper-dynamic anime cyberpop illustration of a cat-eared girl thrusting a soda
 
 ### 121. Product Marketing - Neon Catgirl Soda Burst
 
-![Product Marketing - Neon Catgirl Soda Burst](https://cms-assets.youmind.com/media/1777367324229_9wwn5n_HG7JQ75bAAA_KuN.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367324229_9wwn5n_HG7JQ75bAAA_KuN.jpg" alt="Product Marketing - Neon Catgirl Soda Burst" width="480">
 
 This prompt generates a high-energy anime-style vertical poster of a cat-eared idol girl presenting a glowing soda bottle amid explosive neon splashes, ideal for ad-style key art or social media illustration.
 
@@ -2611,7 +2613,7 @@ A hyper-dynamic anime illustration of a neon cyber idol catgirl thrusting a soda
 
 ### 122. Comic / Storyboard - Baroque Fantasy Idol Performance
 
-![Comic / Storyboard - Baroque Fantasy Idol Performance](https://cms-assets.youmind.com/media/1777367329427_ar5dmd_HG8lfdrbcAAA2y6.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367329427_ar5dmd_HG8lfdrbcAAA2y6.jpg" alt="Comic / Storyboard - Baroque Fantasy Idol Performance" width="480">
 
 This prompt generates a dramatic full-body anime-style heroine in an ornate palace interior, ideal for high-end fantasy illustration, character key art, or elegant AI art showcases.
 
@@ -2628,7 +2630,7 @@ A full-body fantasy anime-style illustration of a glamorous young idol-like woma
 
 ### 123. 1900 Istiklal Street Panorama Prompt
 
-![1900 Istiklal Street Panorama Prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg" alt="1900 Istiklal Street Panorama Prompt" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ai_gezgini/status/2046903631509705030)
@@ -2643,7 +2645,7 @@ A full-body fantasy anime-style illustration of a glamorous young idol-like woma
 
 ### 124. Sony A7 Exploded View Breakdown Prompt
 
-![Sony A7 Exploded View Breakdown Prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case58/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case58/output.jpg" alt="Sony A7 Exploded View Breakdown Prompt" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/iaPulse_/status/2046903739429097660)
@@ -2658,7 +2660,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 
 ### 125. 6-Block Fashion Campaign Prompt Formula
 
-![6-Block Fashion Campaign Prompt Formula](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg" alt="6-Block Fashion Campaign Prompt Formula" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/anacoding/status/2046904999045628114)
@@ -2673,7 +2675,7 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 
 ### 126. Silicon Valley 2026 Promo Poster
 
-![Silicon Valley 2026 Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg" alt="Silicon Valley 2026 Promo Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/carsonyungos/status/2046523198116889064)
@@ -2698,7 +2700,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 ### 127. Character Visual Vertical Poster
 
-![Character Visual Vertical Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg" alt="Character Visual Vertical Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/tebasaki3D/status/2046371076402503709)
@@ -2713,7 +2715,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 ### 128. Dark Epic Concept Poster
 
-![Dark Epic Concept Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case50/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case50/output.jpg" alt="Dark Epic Concept Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/A9Quant/status/2046224777208361126)
@@ -2812,7 +2814,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 ### 129. Surreal Koi Nebula Illustration
 
-![Surreal Koi Nebula Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case11/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case11/output.jpg" alt="Surreal Koi Nebula Illustration" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045875219307655337)
@@ -2827,22 +2829,22 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 ### 130. Chengdu Food Map Illustration
 
-![Chengdu Food Map Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg" alt="Chengdu Food Map Illustration" width="480">
 
-- **Categories:** Poster & Illustration Cases
+- **Categories:** Poster & Illustration Cases, Chengdu Foodie's Hand-drawn Food Walking Map
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Panda20230902/status/2045396918965285111)
 
 **Prompt:**
 
 ```text
-一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
+A hand-drawn style city food map themed around Chengdu. The background is a bird's-eye view hand-drawn simplified city map, marking main roads and landmarks, not pursuing precise proportions but pursuing a cute hand-drawn feel. Distributed on the map are exquisite hand-drawn small illustrations of 12 food locations: Chuandu Chuanxiang skewers at Chunxi Road (a bunch of bamboo skewers with various ingredients emitting steam), Sandapao at Kuanzhai Alley (three glutinous rice balls flying towards a copper plate), Danhonggao at Jianshe Road (golden and crispy, being flipped), hotpot at Yulin Road (nine-grid pot rolling and bubbling), etc. Each illustration accounts for about 5% of the map area, with handwritten store names and a recommendation phrase "the one with a queue even at 2 AM" next to it. The edge of the map is decorated with hand-drawn vines and chili peppers to form a border. There is a hand-drawn compass and legend description in the bottom right corner. The title "Chengdu · Foodie Walking Map" in the top left corner uses chubby round hand-drawn artistic fonts decorated with chili peppers. The overall art style is a mixed hand-drawn texture of watercolor and colored pencils, with colors mainly in warm tones (chili red, ginger yellow, emerald green), image ratio 1:1.
 ```
 
 <a id="prompt-2afe1d6333408622e48c"></a>
 
 ### 131. Ink-Curve Guangzhou Aesthetics Poster
 
-![Ink-Curve Guangzhou Aesthetics Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case12/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case12/output.jpg" alt="Ink-Curve Guangzhou Aesthetics Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045873940883808523)
@@ -2857,22 +2859,22 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 ### 132. Handwritten Medical Prescription Sheet
 
-![Handwritten Medical Prescription Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg" alt="Handwritten Medical Prescription Sheet" width="480">
 
-- **Categories:** Poster & Illustration Cases
+- **Categories:** Poster & Illustration Cases, Handwritten Chinese and Western prescription images
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2046514998965371144)
 
 **Prompt:**
 
 ```text
-生成一张手写中/西医药方图
+Generate an image of a handwritten traditional Chinese medicine or Western medicine prescription
 ```
 
 <a id="prompt-3a86d0146c68e3ddc294"></a>
 
 ### 133. Chinese Minimalist S-Shaped Poster
 
-![Chinese Minimalist S-Shaped Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case4/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case4/output.jpg" alt="Chinese Minimalist S-Shaped Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045368305079447853)
@@ -2895,7 +2897,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 ### 134. Spring 2026 Guangzhou Promo Poster
 
-![Spring 2026 Guangzhou Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg" alt="Spring 2026 Guangzhou Promo Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/grok/status/2046012437086818395)
@@ -2910,7 +2912,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 ### 135. Dark-Fantasy Guangzhou City Poster
 
-![Dark-Fantasy Guangzhou City Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case42/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case42/output.jpg" alt="Dark-Fantasy Guangzhou City Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2046243132774494607)
@@ -2933,7 +2935,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 ### 136. Don Quijote Promo Pop Poster
 
-![Don Quijote Promo Pop Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg" alt="Don Quijote Promo Pop Poster" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/loglogrog/status/2046437230127034774)
@@ -2948,7 +2950,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 
 ### 137. Doodle Sketch AI Builder
 
-![Doodle Sketch AI Builder](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case7/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case7/output.jpg" alt="Doodle Sketch AI Builder" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/blanplan/status/2045190582453350748)
@@ -2963,7 +2965,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 
 ### 138. Vintage Amalfi Travel Poster
 
-![Vintage Amalfi Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case2/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case2/output.jpg" alt="Vintage Amalfi Travel Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/WolfRiccardo/status/2044562722491121718)
@@ -2978,7 +2980,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 139. Futuristic Mandala Illustration
 
-![Futuristic Mandala Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg" alt="Futuristic Mandala Illustration" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/4WEB1/status/2045390207072256179)
@@ -2993,7 +2995,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 140. Browser Game Ad Creative Poster
 
-![Browser Game Ad Creative Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg" alt="Browser Game Ad Creative Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/llllegend0620/status/2045963764466688065)
@@ -3007,11 +3009,26 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる
 ```
 
+<a id="prompt-707aaf2ce2d52f081a5e"></a>
+
+### 141. 9:16 Cosplayer Portrait Screenshot
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case8/output.jpg" alt="9:16 Cosplayer Portrait Screenshot" width="480">
+
+- **Categories:** Portrait & Photography Cases, Gentle healing-style anime mobile screenshot
+- **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Zoulinshen/status/2045082518089810073)
+
+**Prompt:**
+
+```text
+Generate a portrait mobile phone screenshot style image, with an overall aspect ratio close to 9:16. In the upper center of the frame is a real-life coser, playing a 2D anime character named (Character Name). The character is in a realistic style, but with facial features slightly showing an anime feel, delicate skin, slightly larger eyes, a gentle expression looking at the camera, sitting in an indoor casual scene, such as in front of a cafe or bar counter, with background props fitting the scene. At the very top of the image, add a mobile phone system status bar UI, including icons for time, battery, signal, and network, to make the whole image look like a mobile phone screenshot. At the bottom of the image, overlay a wide semi-transparent galgame style dialog box, place an anime or Q-version avatar corresponding to the character in the image on the left side of the dialog box; on the right side of the dialog box, typeset text: the first line displays the same character name as before in a larger font, the following one to two lines display a piece of Simplified Chinese dialogue suitable for this character's personality, in a gentle and healing style, automatically created by you. Then add an operation bar below the dialog box, imitating the galgame UI. The overall style is high-definition, rich in details, with soft lighting, and a natural fusion of 2D anime and real-life photography.
+```
+
 <a id="prompt-75a0838d28027fd63850"></a>
 
-### 141. AI Builder Doodle Sketch
+### 142. AI Builder Doodle Sketch
 
-![AI Builder Doodle Sketch](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case36/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case36/output.jpg" alt="AI Builder Doodle Sketch" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/opc_8838/status/2046162334440448339)
@@ -3024,9 +3041,9 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 <a id="prompt-7d33c5c25d5b9e6c8a51"></a>
 
-### 142. Refreshing Summer Udon Ad
+### 143. Refreshing Summer Udon Ad
 
-![Refreshing Summer Udon Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg" alt="Refreshing Summer Udon Ad" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/genel_ai/status/2046501692246470871)
@@ -3039,9 +3056,9 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 <a id="prompt-800a50f509e75184d8d3"></a>
 
-### 143. Japanese Supermarket Sale Flyer
+### 144. Japanese Supermarket Sale Flyer
 
-![Japanese Supermarket Sale Flyer](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg" alt="Japanese Supermarket Sale Flyer" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/weel_corp/status/2046514558064586782)
@@ -3054,9 +3071,9 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 <a id="prompt-87720e8d9824e5da5f81"></a>
 
-### 144. Science Encyclopedia Infographic
+### 145. Science Encyclopedia Infographic
 
-![Science Encyclopedia Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case39/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case39/output.jpg" alt="Science Encyclopedia Infographic" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2046231542817497392)
@@ -3087,9 +3104,9 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 <a id="prompt-8946304d2cefec014a2c"></a>
 
-### 145. Anime Snapshot Conversion
+### 146. Anime Snapshot Conversion
 
-![Anime Snapshot Conversion](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case1/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case1/output.jpg" alt="Anime Snapshot Conversion" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Thereallo1026/status/2044241997163311569)
@@ -3102,9 +3119,9 @@ Show me the attached image as a snapshot from an actual anime
 
 <a id="prompt-8b22189f36fbca0d0926"></a>
 
-### 146. Science Fiction Movie Poster
+### 147. Science Fiction Movie Poster
 
-![Science Fiction Movie Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg" alt="Science Fiction Movie Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/underwoodxie96/status/2046514205529088501)
@@ -3117,9 +3134,9 @@ Create a Science fiction movie poster
 
 <a id="prompt-9122ee5fc906255460a0"></a>
 
-### 147. Fictional Anime Movie Poster
+### 148. Fictional Anime Movie Poster
 
-![Fictional Anime Movie Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg" alt="Fictional Anime Movie Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/seiiiiiiiiiiru/status/2046509734954741780)
@@ -3132,9 +3149,9 @@ Create a Science fiction movie poster
 
 <a id="prompt-921e4044fe46da1539bf"></a>
 
-### 148. Cinematic Infographic Concept Poster
+### 149. Cinematic Infographic Concept Poster
 
-![Cinematic Infographic Concept Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case56/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case56/output.jpg" alt="Cinematic Infographic Concept Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/A9Quant/status/2046228485841334559)
@@ -3221,9 +3238,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-98be825d8d69df82c9e6"></a>
 
-### 149. Guangdong Super League Invitation Poster
+### 150. Guangdong Super League Invitation Poster
 
-![Guangdong Super League Invitation Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case13/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case13/output.jpg" alt="Guangdong Super League Invitation Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045772039521542202)
@@ -3236,9 +3253,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-99874cc312871af3ce1a"></a>
 
-### 150. New Chinese Ink Landscape Poster
+### 151. New Chinese Ink Landscape Poster
 
-![New Chinese Ink Landscape Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case35/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case35/output.jpg" alt="New Chinese Ink Landscape Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2046215276249993720)
@@ -3251,9 +3268,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-9e2623614a9ea92f7481"></a>
 
-### 151. Character Relationship Map Poster
+### 152. Character Relationship Map Poster
 
-![Character Relationship Map Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case34/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case34/output.jpg" alt="Character Relationship Map Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2046263153546174935)
@@ -3266,9 +3283,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-a3eba6947caa1afdd42e"></a>
 
-### 152. Epic Silhouette World Poster
+### 153. Epic Silhouette World Poster
 
-![Epic Silhouette World Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg" alt="Epic Silhouette World Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Ghhhh3owi/status/2045803217251102897)
@@ -3281,9 +3298,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-ae57daf77d212bf848a1"></a>
 
-### 153. Silhouette Universe Narrative Poster
+### 154. Silhouette Universe Narrative Poster
 
-![Silhouette Universe Narrative Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case23/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case23/output.jpg" alt="Silhouette Universe Narrative Poster" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2045418028733538620)
@@ -3306,9 +3323,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-b365a8f4661186ef29b4"></a>
 
-### 154. Chili Pork Cooking Flowchart
+### 155. Chili Pork Cooking Flowchart
 
-![Chili Pork Cooking Flowchart](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg" alt="Chili Pork Cooking Flowchart" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Kurt_Rousey466/status/2046267707881029934)
@@ -3321,9 +3338,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-c571141582dd5bd1953f"></a>
 
-### 155. Super Famicom Poster Style
+### 156. Super Famicom Poster Style
 
-![Super Famicom Poster Style](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg" alt="Super Famicom Poster Style" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/lilimliliychan/status/2045114760937804187)
@@ -3336,9 +3353,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-d0934e586eae2d6bc472"></a>
 
-### 156. Product Ad Redesign
+### 157. Product Ad Redesign
 
-![Product Ad Redesign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg" alt="Product Ad Redesign" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/genel_ai/status/2046498264774791514)
@@ -3352,9 +3369,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-d38151c02d8a29ab11d6"></a>
 
-### 157. 2026 Spring Guangzhou City Poster
+### 158. 2026 Spring Guangzhou City Poster
 
-![2026 Spring Guangzhou City Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg" alt="2026 Spring Guangzhou City Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045332620352119274)
@@ -3373,9 +3390,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-f1b9494efc615dff66f4"></a>
 
-### 158. Journey to the West Chinese Comic
+### 159. Journey to the West Chinese Comic
 
-![Journey to the West Chinese Comic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case33/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case33/output.jpg" alt="Journey to the West Chinese Comic" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/overseas58/status/2046271877577097376)
@@ -3388,9 +3405,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-f474ce040ba8f2bdf4e9"></a>
 
-### 159. Multi-Concept Battle Poster Set
+### 160. Multi-Concept Battle Poster Set
 
-![Multi-Concept Battle Poster Set](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg" alt="Multi-Concept Battle Poster Set" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/joshesye/status/2046493442428039212)
@@ -3406,9 +3423,9 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-fb641365ebb58683fb1d"></a>
 
-### 160. Boston Spring 2026 City Poster
+### 161. Boston Spring 2026 City Poster
 
-![Boston Spring 2026 City Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case1/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case1/output.jpg" alt="Boston Spring 2026 City Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2045358053831172358)
@@ -3421,9 +3438,9 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 <a id="prompt-fe8a8dd57f59f49934c5"></a>
 
-### 161. Science Encyclopedia Vertical Poster
+### 162. Science Encyclopedia Vertical Poster
 
-![Science Encyclopedia Vertical Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case32/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case32/output.jpg" alt="Science Encyclopedia Vertical Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/pfanis/status/2046413660147314714)
@@ -3436,9 +3453,9 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <a id="prompt-ffbf6da4fc99005717be"></a>
 
-### 162. Pilates Studio Ad Poster
+### 163. Pilates Studio Ad Poster
 
-![Pilates Studio Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg" alt="Pilates Studio Ad Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ck_igarashi/status/2046528889124728993)
@@ -3451,11 +3468,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <a id="prompt-023dde5beff70091cb4d"></a>
 
-### 163. 插画艺术创作图
+### 164. Artistic Illustration Creation
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case123.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case123.jpg" alt="Artistic Illustration Creation" width="480">
 
-- **Categories:** 插画艺术创作图
+- **Categories:** Artistic illustration creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-123)
 
 **Prompt:**
@@ -3464,55 +3481,55 @@ Generate a high-quality vertical science popularization encyclopedia image based
 {
   "type": "anime character reference sheet",
   "character": {
-    "name": "{argument name=\"character name\" default=\"真田大助\"}",
+    "name": "{argument name=\"character name\" default=\"Sanada Daisuke\"}",
     "appearance": "young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\"main color\" default=\"red\"} chest plate and guards, {argument name=\"secondary color\" default=\"navy blue\"} pleated hakama, white short cape"
   },
   "layout": {
     "header": {
-      "title": "{argument name=\"character name\" default=\"真田大助\"}",
-      "subtitle": "{argument name=\"character concept\" default=\"戦国時代を舞台にした物語の主人公。日英クォーターの若き武将。\"}",
-      "badge": "設定資料"
+      "title": "{argument name=\"character name\" default=\"Sanada Daisuke\"}",
+      "subtitle": "{argument name=\"character concept\" default=\"Protagonist of a story set in the Sengoku period. A young warrior of Japanese-British quarter descent.\"}",
+      "badge": "Character Reference Sheet"
     },
     "right_side": {
       "main_portrait": "large full-body standing pose, confident smile",
       "background_elements": {
         "emblem": "six-coin crest",
-        "quote": "{argument name=\"catchphrase\" default=\"この国を守る。その誇りと共に。\"}",
+        "quote": "{argument name=\"catchphrase\" default=\"I will protect this country. With its pride.\"}",
         "scenery": "monochrome Japanese castle with army banners at the bottom right"
       }
     },
     "sections": [
       {
-        "title": "プロフィール",
+        "title": "Profile",
         "position": "top-left",
         "content": "table with 6 rows and descriptive text"
       },
       {
-        "title": "三面図",
+        "title": "Three-View Drawing",
         "position": "mid-left",
         "count": 3,
-        "labels": ["正面", "側面", "背面"]
+        "labels": ["Front", "Side", "Back"]
       },
       {
-        "title": "表情差分",
+        "title": "Expression Variations",
         "position": "top-center",
         "count": 6,
-        "labels": ["通常", "微笑み", "真剣", "怒り", "驚き", "考え中"]
+        "labels": ["Normal", "Smile", "Serious", "Angry", "Surprised", "Thinking"]
       },
       {
-        "title": "衣装・装備詳細",
+        "title": "Costume & Equipment Details",
         "position": "bottom-left",
         "count": 9,
-        "labels": ["胸当て", "肩当て", "腕甲(籠手)", "脚甲(脛当て・膝当て)", "革靴", "白マント(短)", "帯", "袴/着物部分", "打刀"]
+        "labels": ["Chest Plate", "Shoulder Guards", "Arm Guards (Kote)", "Leg Guards (Sune-Ate & Knee Guards)", "Leather Boots", "White Short Cape", "Obi Belt", "Hakama/Kimono Part", "Uchigatana Sword"]
       },
       {
-        "title": "カラーパレット",
+        "title": "Color Palette",
         "position": "bottom-center",
         "count": 8,
-        "labels": ["真田赤", "濃紺", "金", "白", "茶", "茶褐色", "肌色", "銀"]
+        "labels": ["Sanada Red", "Deep Navy", "Gold", "White", "Brown", "Brownish", "Skin Color", "Silver"]
       },
       {
-        "title": "世界観",
+        "title": "Worldview",
         "position": "bottom-center-right",
         "content": "paragraph of text describing the setting"
       }
@@ -3523,24 +3540,24 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <a id="prompt-089c9c031fc9347f3632"></a>
 
-### 164. 主题海报版式设计
+### 165. Theme poster layout design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case5.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case5.jpg" alt="Theme poster layout design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-5)
 
 **Prompt:**
 
 ```text
-根据【XXX主题】自动生成一张收藏版史诗叙事海报：巨大优雅的人物侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围。整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光式联想，但更偏电影海报与梦幻水彩插画融合风格；柔和空气透视，轻雾化过渡，纸张颗粒，边缘飞白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感强。风格、色彩、场景、材质全部根据主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。画面中需自然加入专属签名“WHY”，作为海报设计的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像收藏版海报的作者落款或设计签章；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀廉价。
+Based on 【XXX theme】, automatically generate a collectible epic narrative poster: a large, elegant silhouette of a person's profile as the outer outline, with the interior automatically growing a complete world view, iconic scenes, character relationships, symbolic elements, key architecture, creatures, props, and atmosphere that best match the theme. The overall composition is not a regular collage, but an advanced silhouette-filled narrative synthesis with double-exposure-like associations, leaning more toward a fusion of movie poster and dreamy watercolor illustration style; soft aerial perspective, light misty transitions, paper grain, white edges and brush strokes, ample white space, restrained and sophisticated layout, quiet, grand, sacred, nostalgic, poetic, and strongly legendary. Style, color, scene, and materials all automatically adapt to the theme, all elements must be strongly bound to the theme, instantly recognizable, not cluttered, not forced collage, not templated backgrounds, not cheap fantasy assets. The image must naturally include the exclusive signature "WHY" as part of the poster design, placed discreetly but clearly, which can be in the bottom left, bottom right, or near the title, with a style that must be unified with the overall layout, like an autograph or designer's seal for a collectible poster; the signature font should be exquisite, restrained, and sophisticated, not too large, not disrupting the main composition, not appearing cheap or out of place.
 ```
 
 <a id="prompt-08bb05896b85f6491cc8"></a>
 
-### 165. Journey to the West Daughter Kingdom Poster
+### 166. Journey to the West Daughter Kingdom Poster
 
-![Journey to the West Daughter Kingdom Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg" alt="Journey to the West Daughter Kingdom Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/cj858cjsoul/status/2047103956535697822)
@@ -3555,120 +3572,120 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <a id="prompt-092e93ac374418b672f0"></a>
 
-### 166. Apple 风格自然科普海报
+### 167. Apple Style Natural Science Education Poster
 
-![Apple 风格自然科普海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case339.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case339.jpg" alt="Apple Style Natural Science Education Poster" width="480">
 
-- **Categories:** Apple 风格自然科普海报
+- **Categories:** Apple-style nature science poster
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-339)
 
 **Prompt:**
 
 ```text
-你是一个高端自然科普海报生成系统，目标是为稀有动物、昆虫、爬行动物、哺乳动物或其他小众生物生成 Apple keynote 风格的高级科普视觉海报。
+You are a high-end natural science educational poster generation system, aimed at creating premium educational visual posters in Apple Keynote style for rare animals, insects, reptiles, mammals, or other niche organisms.
 
-整体视觉方向：
-生成一张 9:16 竖版高级科普海报，画面采用极简、纯白、干净、现代、Apple 式产品发布海报语言。背景应为纯白或极浅灰白渐变，保持大量留白。整体设计应具备高级感、克制感、视觉冲击力和科学展示感。
+Overall Visual Direction:
+Generate a 9:16 vertical premium educational poster with a minimalist, pure white, clean, modern, Apple-style product launch poster aesthetic. The background should be pure white or a very light gray-white gradient, maintaining ample white space. The overall design should convey a sense of premium quality, restraint, visual impact, and scientific presentation.
 
-核心设计原则：
-1. 主体动物必须被极度放大，成为画面最强视觉中心。
-2. 主体应具有强烈立体感、真实质感、高清细节和柔和棚拍光影。
-3. 海报信息要少而准，避免拥挤。
-4. 不使用传统信息图的卡片、圆角框、复杂底纹、淡黄色纸张质感或装饰性边框。
-5. 底部信息区只使用四列极简 icon + 标题 + 短说明，通过细竖线分隔。
-6. 文字排版要像高端发布会视觉，标题巨大，副标题克制，正文小而清晰。
-7. 风格关键词：Apple-inspired, premium editorial, pure white background, hero subject, clean typography, minimal infographic, high-end science poster.
+Core Design Principles:
+1. The main animal subject must be extremely enlarged, becoming the strongest visual center of the composition.
+2. The subject should have strong three-dimensionality, realistic texture, high-definition details, and soft studio lighting.
+3. Poster information should be minimal yet precise, avoiding clutter.
+4. Do not use traditional infographic elements like cards, rounded corners, complex backgrounds, aged paper texture, or decorative borders.
+5. The bottom information section should only use four minimalist columns of icon + title + short description, separated by thin vertical lines.
+6. Typography should resemble premium launch visuals: huge headlines, restrained subtitles, and small yet clear body text.
+7. Style keywords: Apple-inspired, premium editorial, pure white background, hero subject, clean typography, minimal infographic, high-end science poster.
 
-画面结构：
-顶部左侧为标题区：
-中文大标题：{中文物种名}
-中文副标题：{一句有吸引力的物种定位}
-细短横线
-英文名：{英文物种名}
-分布信息：主要分布：{分布区域}
+Picture Structure:
+Top left section for title area:
+Chinese main title: {Chinese species name}
+Chinese subtitle: {An attractive species positioning}
+Thin horizontal line
+English name: {English species name}
+Distribution information: Main distribution: {Distribution area}
 
-中部与下中部为主体视觉：
-生成一个超高清、真实、具有强烈立体感的 {中文物种名}。
-主体应占据画面 50% 到 70% 的视觉面积。
-主体姿态应具有展示性、力量感或识别度。
-保持白色背景，不添加复杂自然环境。
-可以保留少量必要承托物，例如树枝、岩石、雪地、沙土或木皮，但必须简洁。
-主体要有真实阴影，使其像高级产品摄影一样立在画面中。
+Middle and lower middle sections for main visual:
+Generate an ultra-high-definition, realistic, strongly three-dimensional {Chinese species name}.
+The subject should occupy 50% to 70% of the visual area.
+The subject's posture should be display-oriented, powerful, or highly recognizable.
+Maintain a white background without adding complex natural environments.
+Minimal necessary supporting elements may be retained, such as branches, rocks, snow, sand, or wood veneer, but must be kept simple.
+The subject should have realistic shadows, making it appear as if standing in the frame like premium product photography.
 
-底部信息区：
-用四个极简信息栏目展示科普信息。
-每个栏目包含：
-一个细线 icon
-一个彩色小标题
-一段 1 到 3 行短文字
-栏目之间用极细浅灰竖线分隔。
-不使用卡片框，不使用圆角背景，不使用大面积色块。
+Bottom Information Area:
+Use four minimalist information sections to display educational content.
+Each section contains:
+A thin-line icon
+A colored small title
+1-3 lines of short text
+Sections are separated by very thin light gray vertical lines.
+Do not use card frames, rounded backgrounds, or large color blocks.
 
-四个信息栏目：
-栏目 1：
-标题：{重点特征1标题}
-说明：{重点特征1短说明}
+Four information sections:
+Section 1:
+Title: {Key Feature 1 Title}
+Description: {Key Feature 1 Short Description}
 
-栏目 2：
-标题：{重点特征2标题}
-说明：{重点特征2短说明}
+Section 2:
+Title: {Key Feature 2 Title}
+Description: {Key Feature 2 Short Description}
 
-栏目 3：
-标题：{重点特征3标题}
-说明：{重点特征3短说明}
+Section 3:
+Title: {Key Feature 3 Title}
+Description: {Key Feature 3 Short Description}
 
-栏目 4：
-标题：{重点特征4标题}
-说明：{重点特征4短说明}
+Section 4:
+Title: {Key Feature 4 Title}
+Description: {Key Feature 4 Short Description}
 
-底部总结句：
-在最底部居中放置一句灰色小字总结：
-{一句高级、克制、有记忆点的科普总结}
+Bottom Summary Sentence:
+Place a small gray summary sentence centered at the very bottom:
+{A premium, restrained, and memorable educational summary}
 
-字体与排版：
-中文标题使用大号黑色、高级、稳重、有力量感的字体。
-副标题使用灰色，中等字号，字距略宽。
-英文名使用小号灰色，简洁现代。
-正文使用清晰现代中文字体，保持可读。
-所有文字必须留有足够呼吸感。
+Typography and Layout:
+Chinese titles should use large, black, premium, stable, and powerful fonts.
+Subtitles should be gray, medium-sized, with slightly wider letter spacing.
+English names should be small, gray, simple and modern.
+Body text should use clear, modern Chinese fonts, maintaining readability.
+All text must have sufficient breathing room.
 
-色彩规范：
-背景：纯白、极浅灰、轻微柔光渐变。
-主标题：黑色或深石墨色。
-副标题与正文：中性灰。
-底部四个信息标题可使用低饱和强调色：
-暖棕、冷蓝、松石绿、紫色、橙色。
-颜色只用于 icon 和小标题，不要大面积铺色。
+Color Specifications:
+Background: Pure white, very light gray, or subtle soft light gradient.
+Main title: Black or dark graphite gray.
+Subtitles and body text: Neutral gray.
+The four bottom information titles may use low-saturation accent colors:
+Warm brown, cool blue, turquoise, purple, or orange.
+Colors should only be used for icons and small titles, not for large color blocks.
 
-图像质量：
-2K 高清质感，细节清晰，主体锐利，光影真实。
-主体纹理必须可信，例如毛发、鳞片、甲壳、皮肤褶皱、羽毛或斑纹。
-避免变形、错误肢体、错误解剖结构、模糊主体、低质贴图、塑料感、卡通感。
+Image Quality:
+2K high-definition quality with clear details, sharp subject, and realistic lighting and shadows.
+The subject's texture must be believable, such as fur, scales, shells, skin folds, feathers, or patterns.
+Avoid distortion, incorrect limbs, anatomical errors, blurry subjects, low-quality textures, plastic appearance, or cartoonish style.
 
-禁止项：
-不要使用淡黄色旧纸背景。
-不要使用复杂信息图网格。
-不要使用圆角卡片。
-不要使用厚边框。
-不要使用大面积装饰图形。
-不要添加无关 logo。
-不要添加多余小字。
-不要让主体太小。
-不要让文字压住主体。
-不要让底部信息区过度拥挤。
-不要出现儿童科普风、卡通风、低端展板风。
+Prohibitions:
+Do not use aged yellow paper backgrounds.
+Do not use complex infographic grids.
+Do not use rounded corner cards.
+Do not use thick borders.
+Do not use large decorative graphics.
+Do not add unrelated logos.
+Do not add unnecessary small text.
+Do not make the subject too small.
+Do not let text overlap the subject.
+Do not overcrowd the bottom information area.
+Avoid children's educational style, cartoon style, or low-quality exhibition board style.
 
-最终输出：
-生成一张 9:16 竖版、高级、干净、强视觉冲击的 Apple 风自然科普海报。
+Final Output:
+Generate a 9:16 vertical, premium, clean, and visually impactful Apple-style natural science educational poster.
 ```
 
 <a id="prompt-0fcc2926ceeceea598bf"></a>
 
-### 167. 主题海报版式设计
+### 168. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case96.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case96.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-96)
 
 **Prompt:**
@@ -3687,56 +3704,37 @@ Generate a high-quality vertical science popularization encyclopedia image based
     "main_title": {
       "position": "top left",
       "style": "large, bold, 3D, pink and black with white outlines",
-      "text": "{argument name=\"main title\" default=\"雑談配信\"}"
+      "text": "{argument name=\"main title\" default=\"Casual Chat Stream\"}"
     },
     "top_right_text": {
       "style": "casual handwritten style with a heart",
-      "text": "{argument name=\"top right text\" default=\"まったり話そ〜♡\"}"
+      "text": "{argument name=\"top right text\" default=\"Let's chat casually~♡\"}"
     },
     "bottom_left_banners": {
       "count": 3,
       "style": "glowing pill-shaped banners with heart icons on the left",
       "colors": ["pink", "yellow", "purple"],
       "labels": [
-        "{argument name=\"banner 1 text\" default=\"初見さん〇\"}",
-        "{argument name=\"banner 2 text\" default=\"ポイント回収〇\"}",
-        "{argument name=\"banner 3 text\" default=\"ROM〇\"}"
+        "{argument name=\"banner 1 text\" default=\"New viewers〇\"}",
+        "{argument name=\"banner 2 text\" default=\"Point collection〇\"}",
+        "{argument name=\"banner 3 text\" default=\"Room〇\"}"
       ]
     },
     "bottom_right_text": {
       "style": "casual handwritten style with a heart, yellow text with pink outline",
-      "text": "気軽にコメントしてねっ♡"
+      "text": "Feel free to comment~♡"
     }
   }
 }
 ```
 
-<a id="prompt-14e881dc993fbd77e575"></a>
-
-### 168. 2026谷雨节气唯美海报设计
-
-![2026谷雨节气唯美海报设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case253.jpg)
-
-- **Categories:** 2026谷雨节气唯美海报设计
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-253)
-
-**Prompt:**
-
-```text
-[中文]
-生成一张2026年谷雨节气的海报
-
-[English]
-Generate a poster for the Guyu solar term in 2026
-```
-
 <a id="prompt-1bd77d0330e68d0e3473"></a>
 
-### 169. 插画艺术创作图
+### 169. Artistic Illustration Creation
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case43.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case43.jpg" alt="Artistic Illustration Creation" width="480">
 
-- **Categories:** 插画艺术创作图
+- **Categories:** Illustration art creation image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-43)
 
 **Prompt:**
@@ -3770,7 +3768,7 @@ Generate a poster for the Guyu solar term in 2026
 
 ### 170. Royal Tramp Character Poster
 
-![Royal Tramp Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case104/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case104/output.jpg" alt="Royal Tramp Character Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/caiziboshi/status/2047091751731519744)
@@ -3785,7 +3783,7 @@ Generate a poster for the Guyu solar term in 2026
 
 ### 171. Charlie Chaplin Product Poster Redesign
 
-![Charlie Chaplin Product Poster Redesign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case106/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case106/output.jpg" alt="Charlie Chaplin Product Poster Redesign" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/chenenpei/status/2046985783715025135)
@@ -3802,7 +3800,7 @@ Generate a poster for the Guyu solar term in 2026
 
 ### 172. generate an image of a racing car poster with its spec and pricing
 
-![generate an image of a racing car poster with its spec and pricing](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg" alt="generate an image of a racing car poster with its spec and pricing" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/verysmallwoods/status/2047033599229137126)
@@ -3817,7 +3815,7 @@ generate an image of a racing car poster with its spec and pricing
 
 ### 173. Streetwear Fashion Campaign Asian Apparel Poster
 
-![Streetwear Fashion Campaign Asian Apparel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case71/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case71/output.jpg" alt="Streetwear Fashion Campaign Asian Apparel Poster" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/harboriis/status/2047921293123895520)
@@ -3836,109 +3834,63 @@ Graphic poster layout with giant bold condensed sans serif text reading “JEANS
 Composition should feel premium, trendy, clean, commercial, youthful, modern fashion ad campaign. Sharp focus, ultra realistic fabric texture, cinematic lighting, balanced negative space, sleek branding design, high resolution, vertical poster ratio.
 ```
 
-<a id="prompt-1f67853b2f69a3b05ea5"></a>
+<a id="prompt-1ff1b0660f4883bc4878"></a>
 
-### 174. 荒诞超现实女装大叔海报
+### 174. Character design illustration
 
-![荒诞超现实女装大叔海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case180.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case155.jpg" alt="Character design illustration" width="480">
 
-- **Categories:** 荒诞超现实女装大叔海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-180)
+- **Categories:** Character setting illustration
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-155)
 
 **Prompt:**
 
 ```text
-[中文]
-一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。
-
-[English]
-A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.
+Create {argument name="items" default="fan goods"} for a standard {argument name="character type" default="Vtuber"} in {argument name="style" default="live-action"}
 ```
 
-<a id="prompt-21f1ebcbbb021e3565b2"></a>
+<a id="prompt-23114e9a34a17617436d"></a>
 
-### 175. 极简国潮鎏金广州塔海报
+### 175. Little Devil Lilixiang Super Nintendo Game Poster
 
-![极简国潮鎏金广州塔海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case230.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case283.jpg" alt="Little Devil Lilixiang Super Nintendo Game Poster" width="480">
 
-- **Categories:** 极简国潮鎏金广州塔海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-230)
+- **Categories:** Little Demon Lilixiang Nintendo game poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-283)
 
 **Prompt:**
 
 ```text
-[中文]
-新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，
-
-整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，
-
-广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，
-传统与现代建筑自然融合，层次递进，远近虚实分明，
-
-风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，
-
-色彩方案（重点）：
-高饱和但克制 ，中国红、青蓝、鎏金为主色，
-辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，
-
-背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，
-
-细节：祥云与水纹具有轻微浮雕/烫金质感，
-局部加入微光粒子或流动光线，增强现代感，
-
-光影：柔和渐变光+局部高光，突出恢弘大气氛围，
-
-整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节
-
-[English]
-Neo-Chinese minimalist style high-end city poster, 9:16 vertical composition, with Guangzhou as the core theme, the center of the image is an abstract geometric Canton Tower, simple in shape but highly recognizable,
-
-The overall adopts an S-shaped flowing composition, extending from bottom to top, the Pearl River water system is designed as flowing water ripples fused with traditional auspicious cloud patterns, surrounding the entire image to form a visual dynamic line,
-
-Guangzhou landmark buildings are embellished in it in the way of "blank space + line drawing + local color blocks": Zhujiang New Town Twin Towers, Liede Bridge, Baiyun Mountain outline, Lingnan arcade houses,
-Traditional and modern architecture naturally blend, progressive layers, clear distinction between far and near, virtual and real,
-
-Style control: minimalist + high-end + Eastern artistic conception, not cluttered and not overly realistic,
-
-Color scheme (key point):
-High saturation but restrained, Chinese red, cyan blue, and gilded gold as the main colors,
-Supplemented by a small amount of warm gold highlight embellishments, forming a strong visual impact but not tacky,
-
-Background: large area of pure blank space or light Xuan paper texture, enhancing a sense of breathing and high-end feel,
-
-Details: auspicious clouds and water ripples have a slight relief/gold stamping texture,
-Locally add faint light particles or flowing light lines to enhance modernity,
-
-Light and shadow: soft gradient light + local highlights, highlighting a magnificent and grand atmosphere,
-
-Overall style: Guochao high-end illustration / brand poster-level texture / 8K / ultra-clear details
+that "Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game" with just a few images
+this quality without any detailed explanation spells is amazing!
 ```
 
 <a id="prompt-23ccb007f9351201bfa1"></a>
 
-### 176. 插画艺术创作图
+### 176. Artistic Illustration Creation
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case6.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case6.jpg" alt="Artistic Illustration Creation" width="480">
 
-- **Categories:** 插画艺术创作图
+- **Categories:** Artistic illustration creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-6)
 
 **Prompt:**
 
 ```text
-参考图是角色人设图，为参考图的少女绘制一副日系唯美奇幻风格插画。
-【构图】这是一个宏大的中景日系奇幻插画构图，画面中心是完全保留了完整细节的可爱少女，她站立在无边的、如镜面般平滑的水面中心。天空呈现出高饱和度的粉紫与深蓝交织，一条耀眼的蓝色巨型流星划破天际，配合着边缘发光的瑰丽层云。女孩处于背光状态，形成一个暗调但依然清晰可辨其服装和紫色明亮眼眸的剪影，被流星和星空的边缘光细腻勾勒，她微微仰头，一只手轻轻张开。下方的水面完美、对称地反射出整个壮丽的星空、流星、云彩，以及女孩清晰的倒影，点缀着微小的发光点，营造出天人合一、空灵静谧的唯美梦境意境。
-【日系唯美奇幻风格说明】该风格以高饱和度的粉紫冷暖色调交织出浩瀚星空，并辅以壮丽的流星与边缘发光的层云作为视觉奇观；画面巧妙利用“天空之镜”般的完美水面反射，将宏大的宇宙背景与孤独静立的人物剪影相融合，通过极具电影感的光影渲染与高对比度的表现手法，营造出一种空灵、静谧且带有超现实宿命感的梦境氛围。
-【要求】生成图片的比例9:16，分辨率 4k。
+This is a grand medium-shot Japanese-style fantasy illustration composition. At the center of the frame is a cute girl with complete details preserved, standing in the middle of an endless, mirror-smooth water surface. The sky displays a high-saturation blend of pink-purple and deep blue, with a dazzling blue giant meteor streaking across the sky, accompanied by gorgeous layered clouds with glowing edges. The girl is backlit, creating a silhouette that is dark yet still clearly shows her clothing and bright purple eyes, delicately outlined by the rim light from the meteor and starry sky. She slightly tilts her head upward, with one hand gently open. The water below perfectly and symmetrically reflects the entire magnificent starry sky, meteor, clouds, and the girl's clear reflection, dotted with small glowing points, creating a harmonious, ethereal, tranquil, and beautiful dreamlike atmosphere.
+
+This style uses high-saturation pink-purple warm and cool tones to weave a vast starry sky, complemented by magnificent meteors and glowing-edged layered clouds as visual spectacles. The composition cleverly utilizes the perfect water reflection like a "sky mirror" to blend the grand cosmic background with the lonely standing figure's silhouette, creating an ethereal, tranquil dreamlike atmosphere with a surreal sense of destiny through cinematic light and shadow rendering and high-contrast expression techniques.
+
+Generate an image with a 9:16 aspect ratio and 4K resolution.
 ```
 
 <a id="prompt-240ccca1365cc8678651"></a>
 
-### 177. 插画艺术创作图
+### 177. Artistic Illustration Creation
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case114.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case114.jpg" alt="Artistic Illustration Creation" width="480">
 
-- **Categories:** 插画艺术创作图
+- **Categories:** Illustration art creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-114)
 
 **Prompt:**
@@ -4018,11 +3970,52 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 }
 ```
 
+<a id="prompt-25c03357598f65b264c1"></a>
+
+### 178. Character Design Art
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case27.jpg" alt="Character Design Art" width="480">
+
+- **Categories:** Character setting illustration
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-27)
+
+**Prompt:**
+
+```text
+{
+  "type": "collection of instant photos",
+  "setting": "laid out flat on a white fabric surface",
+  "character": {
+    "hair": "{argument name=\"hair color\" default=\"long pink hair with blue inner color\"}",
+    "outfit": "{argument name=\"outfit\" default=\"black and white maid uniform with frilly headband and black ribbons\"}",
+    "eyes": "reddish-pink"
+  },
+  "layout": {
+    "arrangement": "two rows of five polaroid photos",
+    "count": 10,
+    "photos": [
+      { "position": "top row 1", "description": "holding a pink heart cushion" },
+      { "position": "top row 2", "description": "winking, making a peace sign" },
+      { "position": "top row 3", "description": "making a hand heart, pink heart doodle on the bottom border" },
+      { "position": "top row 4", "description": "resting chin on hands, gentle smile" },
+      { "position": "top row 5", "description": "holding a red rose, winking" },
+      { "position": "bottom row 1", "description": "finger to lips, shy expression" },
+      { "position": "bottom row 2", "description": "holding a small pink cake" },
+      { "position": "bottom row 3", "description": "winking, hand near face, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and heart doodle on border" },
+      { "position": "bottom row 4", "description": "holding a pink bunny plushie, sparkle doodles, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and bunny doodle on border" },
+      { "position": "bottom row 5", "description": "winking, sparkle doodles, message '{argument name=\"message text\" default=\"いつも応援ありがとう！これからもよろしくね♪\"}' and signature '{argument name=\"signature text\" default=\"Hanashi\"}' on border" }
+    ]
+  }
+}
+```
+
 <a id="prompt-26034859824e44f373b2"></a>
 
-### 178. 2D-Anime-Charakter in realen Gitterszenen
+### 179. title.translations.en
+2D Anime Character in real grid scenes
 
-![2D-Anime-Charakter in realen Gitterszenen](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case114/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case114/output.jpg" alt="title.translations.en
+2D Anime Character in real grid scenes" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/seiiiiiiiiiiru/status/2047227021156356500)
@@ -4030,21 +4023,22 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 **Prompt:**
 
 ```text
-参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。
+Create a grid of images showing a 2D cell anime character from a reference image doing various activities in the real world.
 ```
 
 <a id="prompt-268af4443eff54018485"></a>
 
-### 179. 插画艺术创作图
+### 180. Artistic Illustration Creation
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case32.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case32.jpg" alt="Artistic Illustration Creation" width="480">
 
-- **Categories:** 插画艺术创作图
+- **Categories:** Artistic illustration creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-32)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "3x3 character expression grid",
   "style": "{argument name=\"art style\" default=\"3D animation, Pixar style\"}",
@@ -4068,14 +4062,30 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
   }
 }
 ```
+````
+
+<a id="prompt-2788b33c1f267b4c139f"></a>
+
+### 181. 2026 Grain Rain Solar Term Elegant Poster Design
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case253.jpg" alt="2026 Grain Rain Solar Term Elegant Poster Design" width="480">
+
+- **Categories:** 2026 Grain Rain Aesthetic Poster Design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-253)
+
+**Prompt:**
+
+```text
+Generate a poster for the Guyu solar term in 2026
+```
 
 <a id="prompt-2a7dbb487b002b3b2ec0"></a>
 
-### 180. 主题海报版式设计
+### 182. Thematic Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case98.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case98.jpg" alt="Thematic Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-98)
 
 **Prompt:**
@@ -4127,9 +4137,9 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 
 <a id="prompt-2d553cf85a982ae23514"></a>
 
-### 181. Surrealist Rolex Luxury Watch Fashion Poster
+### 183. Surrealist Rolex Luxury Watch Fashion Poster
 
-![Surrealist Rolex Luxury Watch Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case78/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case78/output.jpg" alt="Surrealist Rolex Luxury Watch Fashion Poster" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Sheldon056/status/2047873913049538927)
@@ -4140,11 +4150,26 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 A high-fashion surrealist poster for Rolex. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex.
 ```
 
+<a id="prompt-31ffb395d764df83e452"></a>
+
+### 184. 杜蕾斯茶颜悦色联名海报设计
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case244.jpg" alt="杜蕾斯茶颜悦色联名海报设计" width="480">
+
+- **Categories:** 杜蕾斯茶颜悦色联名海报设计
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-244)
+
+**Prompt:**
+
+```text
+Design a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.
+```
+
 <a id="prompt-32258d765f1a226ad364"></a>
 
-### 182. Premium Food Recipe Poster Elegant Layout
+### 185. Premium Food Recipe Poster Elegant Layout
 
-![Premium Food Recipe Poster Elegant Layout](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case76/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case76/output.jpg" alt="Premium Food Recipe Poster Elegant Layout" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Preda2005/status/2047883394152088004)
@@ -4158,11 +4183,11 @@ Create a premium food preparation poster for
 
 <a id="prompt-32aa28f25e328f70140e"></a>
 
-### 183. 足球球员数据涂鸦海报
+### 186. Soccer player data doodle poster
 
-![足球球员数据涂鸦海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case350.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case350.jpg" alt="Soccer player data doodle poster" width="480">
 
-- **Categories:** 足球球员数据涂鸦海报
+- **Categories:** Soccer player data doodle poster
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-350)
 
 **Prompt:**
@@ -4189,9 +4214,9 @@ Important: all stats must be realistic and proportional to the player's real car
 
 <a id="prompt-36012031ac973cb9f8e6"></a>
 
-### 184. A full-body outdoor shot captures a young Caucasian woman, possibly in her la...
+### 187. A full-body outdoor shot captures a young Caucasian woman, possibly in her la...
 
-![A full-body outdoor shot captures a young Caucasian woman, possibly in her la...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" alt="A full-body outdoor shot captures a young Caucasian woman, possibly in her la..." width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIwithSarah_/status/2047234995627172229)
@@ -4204,26 +4229,26 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 <a id="prompt-38f4a6e72b1f74dc6083"></a>
 
-### 185. 主题海报版式设计
+### 188. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case10.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case10.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** "Theme poster layout design"
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-10)
 
 **Prompt:**
 
 ```text
-生成八十年代宣传画，标语“热烈庆祝GPT-Image-2全量开放”，人物包含Sam Altman、Dario Amodei、Elon Musk，Dario Amodei 带上红领巾
+Generate 1980s propaganda poster, slogan "Warmly celebrate the full launch of GPT-Image-2", characters include Sam Altman, Dario Amodei, Elon Musk, Dario Amodei wearing a red scarf
 ```
 
 <a id="prompt-3b64248875333140c794"></a>
 
-### 186. 主题海报版式设计
+### 189. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case144.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case144.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-144)
 
 **Prompt:**
@@ -4232,84 +4257,41 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name="brand name" default="LUMIÉRE"} and {argument name="product type" default="MOISTURE RICH CREAM"} with "AGING CARE*" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name="main headline" default="肌に、静かな贅沢を。"} above a small decorative gold divider and the text {argument name="subheadline" default="高保湿×エイジングケア*"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name="button text" default="詳しく見る"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.
 ```
 
-<a id="prompt-3c6201a08f5605d1e839"></a>
-
-### 187. 春日禅意水墨群山海报
-
-![春日禅意水墨群山海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case223.jpg)
-
-- **Categories:** 春日禅意水墨群山海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-223)
-
-**Prompt:**
-
-```text
-[中文]
-新中式水墨山水海报，竖版9:16构图，东方极简美学风格，
-大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。
-画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，
-山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。
-山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。
-
-湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。
-中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。
-
-船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色，
-身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化，
-人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨），
-红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。
-
-岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。
-
-少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。
-
-画面顶部居中竖排书法：“东方美学”，采用传统手写行书或行草风格（王羲之笔意），
-笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。
-书法颜色为深墨青或柔和墨黑，与整体画面统一。
-整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围，
-冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。
-
-[English]
-Neo-Chinese ink wash landscape poster, vertical 9:16 composition, Oriental minimalist aesthetic style,
-Large area of negative space, overall color tone is spring morning atmosphere (cyan-green, misty blue, light gray, light ink), low saturation, clear and soft, high-end texture.
-The main subject of the picture is steep and majestic mountains, rising from both sides of the calm lake in the middle, occupying the left and right sides of the picture,
-The mountain bodies are expressed with ink wash blending, rich in changes of shades, dryness and wetness, partially integrated with light cyan-green rendering, reflecting the vitality of spring.
-The mountain peaks are wrapped in moist and gentle morning mist, the mist progresses layer by layer, naturally blending with the light cyan-blue sky, forming aerial perspective and spatial depth.
-The lake surface is as calm as a mirror, showing a slightly cyan-green tone, reflecting the mountains and the sky, the reflection slightly has a soft focus and atomization diffusion effect, enhancing the spring moist and dreamy atmosphere.
-In the midground, a small wooden boat with an arched canopy floats slowly, the oars lightly touch the water surface to form delicate ripples, the water patterns spread naturally, maintaining an extremely quiet state overall.
-On the boat is a fisherwoman in red, with a small volume (distant view proportion), the character is simplified into an ink wash silhouette + slight coloring,
-wearing a low-saturation cinnabar red traditional costume (not bright red), the color is slightly softened by the mist,
-no facial details are depicted for the character, only retaining the outline and posture (such as gently holding the boat canopy or holding the oar),
-the red color forms a faint reflection on the water surface, serving as the only warm color visual focus in the picture.
-The shore is dotted with sparse woods and spring newborn vegetation, using light ink + light cyan-green dot dyeing, combining virtuality and reality, enhancing rhythm and breath of life.
-A small number of flying birds skim across the distant sky, distributed lightly and loosely, enhancing the spatial layers and sense of agility.
-At the top center of the picture, vertical calligraphy: "Oriental Aesthetics", adopting traditional handwritten running script or running-cursive style (intention of Wang Xizhi's brushwork),
-brushstrokes naturally undulate, lifting and pressing are distinct, with flying white and ink rhyme diffusion effects, avoiding a sense of font.
-The calligraphy color is dark ink cyan or soft ink black, unified with the overall picture.
-Overall style: ink wash + modern minimalist design fusion, spring Zen, ethereal and moist, tranquil atmosphere,
-restrained cold and warm contrast, cinematic light and shadow, high-end art poster texture, 8K ultra-clear details.
-```
-
 <a id="prompt-3f1c8229c6ac15b5cc37"></a>
 
-### 188. 胡须风格分析海报
+### 190. Beard Style Analysis Poster
 
-![胡须风格分析海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case348.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case348.jpg" alt="Beard Style Analysis Poster" width="480">
 
-- **Categories:** 胡须风格分析海报
+- **Categories:** Beard Style Analysis Poster
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-348)
 
 **Prompt:**
 
 ```text
-Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
+Create a premium "BEARD STYLE ANALYSIS" poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
+```
+
+<a id="prompt-4427c1ad5a1a9a3100be"></a>
+
+### 191. Complete Illustration of Disassembled Temple of Heaven Architecture
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case211.jpg" alt="Complete Illustration of Disassembled Temple of Heaven Architecture" width="480">
+
+- **Categories:** Complete diagram of disassembled ancient architecture of the Temple of Heaven
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-211)
+
+**Prompt:**
+
+```text
+Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
 ```
 
 <a id="prompt-465361336eb5cc04e3b4"></a>
 
-### 189. New Chinese Minimalist Floral Illustration
+### 192. New Chinese Minimalist Floral Illustration
 
-![New Chinese Minimalist Floral Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case93/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case93/output.jpg" alt="New Chinese Minimalist Floral Illustration" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2047180347448914195)
@@ -4346,9 +4328,9 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 
 <a id="prompt-49b95c2df1fb5fb93327"></a>
 
-### 190. Peacock Botanical Vintage Symmetrical Art Print
+### 193. Peacock Botanical Vintage Symmetrical Art Print
 
-![Peacock Botanical Vintage Symmetrical Art Print](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case79/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case79/output.jpg" alt="Peacock Botanical Vintage Symmetrical Art Print" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/dotey/status/2047803054422901046)
@@ -4359,11 +4341,26 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2
 ```
 
+<a id="prompt-4bf7b659ed7313904305"></a>
+
+### 194. Must-see stunning anime girls for otaku
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case202.jpg" alt="Must-see stunning anime girls for otaku" width="480">
+
+- **Categories:** Otaku's must-see: gorgeous anime girls
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-202)
+
+**Prompt:**
+
+```text
+Generate high-quality beautiful girl (otaku must-have)
+```
+
 <a id="prompt-4ea36f078e2e4ece8046"></a>
 
-### 191. Poster-zu-Trailer-Konzept
+### 195. Poster to Trailer Concept
 
-![Poster-zu-Trailer-Konzept](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case115/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case115/output.jpg" alt="Poster to Trailer Concept" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/os_shim/status/2047130379409400148)
@@ -4371,16 +4368,16 @@ symmetrical design featuring two elegant blue peacocks with detailed feather pat
 **Prompt:**
 
 ```text
-「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」
+"Look at this poster, imagine your own version, and create a trailer video."
 ```
 
 <a id="prompt-50e2b287a99f35641e48"></a>
 
-### 192. 主题海报版式设计
+### 196. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case124.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case124.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Thematic poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-124)
 
 **Prompt:**
@@ -4391,9 +4388,9 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 
 <a id="prompt-56eb92874c3d7d5eb3fc"></a>
 
-### 193. Epic Career Moments Cinematic Poster Template
+### 197. Epic Career Moments Cinematic Poster Template
 
-![Epic Career Moments Cinematic Poster Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case72/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case72/output.jpg" alt="Epic Career Moments Cinematic Poster Template" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Goodmanprotocol/status/2047900470921040270)
@@ -4404,13 +4401,45 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 Create an epic poster showcasing the most iconic moments of [Insert Name]'s career. Cinematic style, lens flare. Portrait orientation. A1 poster size. aspect ratio 4:5 https://t.co/L9OHPKUNRp
 ```
 
+<a id="prompt-571a5c0de10b7610099e"></a>
+
+### 198. Spring Zen Ink Wash Mountain Range Poster
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case223.jpg" alt="Spring Zen Ink Wash Mountain Range Poster" width="480">
+
+- **Categories:** Spring Zen Ink Wash Mountain Range Poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-223)
+
+**Prompt:**
+
+```text
+Neo-Chinese ink wash landscape poster, vertical 9:16 composition, Oriental minimalist aesthetic style,
+Large area of negative space, overall color tone is spring morning atmosphere (cyan-green, misty blue, light gray, light ink), low saturation, clear and soft, high-end texture.
+The main subject of the picture is steep and majestic mountains, rising from both sides of the calm lake in the middle, occupying the left and right sides of the picture,
+The mountain bodies are expressed with ink wash blending, rich in changes of shades, dryness and wetness, partially integrated with light cyan-green rendering, reflecting the vitality of spring.
+The mountain peaks are wrapped in moist and gentle morning mist, the mist progresses layer by layer, naturally blending with the light cyan-blue sky, forming aerial perspective and spatial depth.
+The lake surface is as calm as a mirror, showing a slightly cyan-green tone, reflecting the mountains and the sky, the reflection slightly has a soft focus and atomization diffusion effect, enhancing the spring moist and dreamy atmosphere.
+In the midground, a small wooden boat with an arched canopy floats slowly, the oars lightly touch the water surface to form delicate ripples, the water patterns spread naturally, maintaining an extremely quiet state overall.
+On the boat is a fisherwoman in red, with a small volume (distant view proportion), the character is simplified into an ink wash silhouette + slight coloring,
+wearing a low-saturation cinnabar red traditional costume (not bright red), the color is slightly softened by the mist,
+no facial details are depicted for the character, only retaining the outline and posture (such as gently holding the boat canopy or holding the oar),
+the red color forms a faint reflection on the water surface, serving as the only warm color visual focus in the picture.
+The shore is dotted with sparse woods and spring newborn vegetation, using light ink + light cyan-green dot dyeing, combining virtuality and reality, enhancing rhythm and breath of life.
+A small number of flying birds skim across the distant sky, distributed lightly and loosely, enhancing the spatial layers and sense of agility.
+At the top center of the picture, vertical calligraphy: "Oriental Aesthetics", adopting traditional handwritten running script or running-cursive style (intention of Wang Xizhi's brushwork),
+brushstrokes naturally undulate, lifting and pressing are distinct, with flying white and ink rhyme diffusion effects, avoiding a sense of font.
+The calligraphy color is dark ink cyan or soft ink black, unified with the overall picture.
+Overall style: ink wash + modern minimalist design fusion, spring Zen, ethereal and moist, tranquil atmosphere,
+restrained cold and warm contrast, cinematic light and shadow, high-end art poster texture, 8K ultra-clear details.
+```
+
 <a id="prompt-57dcf9e714ec53e7a5e9"></a>
 
-### 194. 主题海报版式设计
+### 199. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case122.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case122.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-122)
 
 **Prompt:**
@@ -4425,12 +4454,12 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
       "genre": "sci-fi comedy",
       "visuals": "A Japanese salaryman sitting on a crowded train looking nervous, flanked by two aliens in business attire: a green frog-like alien looking at a smartphone, and a blue octopus-like alien reading a newspaper.",
       "text_elements": {
-        "tagline_top": "隣の席のアイツ、実は宇宙人でした。",
-        "train_display": "次は 地球 (ちきゅう) Next Earth",
-        "tagline_side": "この星の常識、いつの間にかアップデートされていた。",
-        "main_title": "{argument name=\"poster 1 title\" default=\"となりの宇宙人\"}",
-        "cast": "星野サダオ タコヤキ・Z カエルダ・X",
-        "release_date": "6月13日(金) 全国公開"
+        "tagline_top": "The guy next to me, he was actually an alien.",
+        "train_display": "Next stop Earth (ちきゅう) Next Earth",
+        "tagline_side": "The common sense of this planet had been updated without me noticing.",
+        "main_title": "{argument name=\"poster 1 title\" default=\"The Alien Next Door\"}",
+        "cast": "Hoshino Sadao Takoyaki Z Keruda X",
+        "release_date": "June 13 (Fri) Nationwide Release"
       }
     },
     {
@@ -4438,10 +4467,10 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
       "genre": "surreal romance",
       "visuals": "A man in a dark jacket affectionately hugging a giant onigiri (rice ball) topped with mentaiko (spicy cod roe) wrapped in seaweed. They are sitting on a rocky beach during a beautiful sunset.",
       "text_elements": {
-        "tagline": "めんたいこは、裏切らない。",
-        "main_title": "{argument name=\"poster 2 title\" default=\"めんたいこ ひとすじ\"}",
-        "cast": "中尾シンイチ めんたい子 博多ミツル 高菜ユカリ のり平",
-        "release_date": "7月18日(金) 心にしみる、しお味系ラブストーリー"
+        "tagline": "Mentaiko never betrays you.",
+        "main_title": "{argument name=\"poster 2 title\" default=\"Mentaiko Line\"}",
+        "cast": "Nakao Shinichi Mentaiko-ko Hakata Mitsuru Takana Yukari Norihei",
+        "release_date": "July 18 (Fri) A heartwarming salty romance story"
       }
     },
     {
@@ -4449,11 +4478,11 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
       "genre": "heist comedy",
       "visuals": "A joyful elderly woman in a leopard print blouse laughing maniacally while holding a fan of Japanese yen bills. Money is raining down around her. A happy raccoon is in the foreground.",
       "text_elements": {
-        "tagline": "人生、まだまだ使いきってなんかない！",
-        "main_title": "{argument name=\"poster 3 title\" default=\"老後の逆襲\"}",
-        "subtitle": "〜いたずらタヌキと億万長者〜",
-        "cast": "ババンバ・バーバラ タヌキチ 金持ちババ 遺産マユミ 税理士ゴンザレス",
-        "release_date": "9月5日(金) 痛快！下剋上エンターテインメント！"
+        "tagline": "Life isn't over yet! I still have plenty left!",
+        "main_title": "{argument name=\"poster 3 title\" default=\"Retirement Revenge\"}",
+        "subtitle": "~The Mischievous Raccoon and the Billionaire~",
+        "cast": "Babanba Barbara Tanukichi Kanbaba Babayaumi Zeirigozarez",
+        "release_date": "September 5 (Fri) Thrilling! Underdog Entertainment!"
       }
     },
     {
@@ -4461,42 +4490,38 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
       "genre": "disaster thriller",
       "visuals": "A dramatic disaster scene where laundry baskets, shirts, and clothes are being sucked up into a stormy, apocalyptic sky above a ruined Tokyo city skyline featuring the Tokyo Tower.",
       "text_elements": {
-        "tagline": "それは、静かに、確実に、洗濯物を奪っていく。",
-        "main_title": "{argument name=\"poster 4 title\" default=\"洗濯物 ストーム\"}",
-        "cast": "森タクヤ 干場カオリ 風間ハルキ ピンチハンガー・タカ 洗濯バサミ・ケン",
-        "release_date": "8月29日(金) 全国の空が、危ない。"
+        "tagline": "It quietly and surely steals your laundry.",
+        "main_title": "{argument name=\"poster 4 title\" default=\"Laundry Storm\"}",
+        "cast": "Mori Takuya Honami Kaori Kazama Haruki Pinch Hanger Taka Wash Clip Ken",
+        "release_date": "August 29 (Fri) The skies across the nation are in danger."
       }
     }
   ]
 }
 ```
 
-<a id="prompt-587cd4f9c87328d5a0b6"></a>
+<a id="prompt-589004764ab5359e858a"></a>
 
-### 195. 阿马尔菲海岸复古旅行海报
+### 200. Perfect match poster advertisement image
 
-![阿马尔菲海岸复古旅行海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case278.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case228.jpg" alt="Perfect match poster advertisement image" width="480">
 
-- **Categories:** 阿马尔菲海岸复古旅行海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-278)
+- **Categories:** Perfect matching poster advertisement image
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-228)
 
 **Prompt:**
 
 ```text
-[中文]
-现代铅笔插画，意大利阿马尔菲海岸复古旅行海报插画，全景海岸悬崖公路场景，经典1960年代白色汽车沿着弯曲的海滨公路行驶，带有小帆船的深蓝色地中海，色彩缤纷的粉彩山腰村庄，带有柔软云朵的明亮蓝天，带有鲜艳黄色柠檬的柠檬树枝框定前景，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代与装饰性美学。
-
-[English]
-Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
+Generate an advertising image that perfectly matches this image. There should be a lot of information.
 ```
 
 <a id="prompt-5c33e69e786c28bbd29e"></a>
 
-### 196. 主题海报版式设计
+### 201. Theme Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case61.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case61.jpg" alt="Theme Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Thematic poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-61)
 
 **Prompt:**
@@ -4504,8 +4529,8 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```text
 {
   "type": "2x2 grid of banner advertisements",
-  "theme": "{argument name=\"school name\" default=\"SNSスクール\"}",
-  "target_audience": "{argument name=\"target audience\" default=\"学生\"}",
+  "theme": "{argument name=\"school name\" default=\"SNS School\"}",
+  "target_audience": "{argument name=\"target audience\" default=\"students\"}",
   "layout": {
     "grid": "2x2",
     "panels": [
@@ -4513,11 +4538,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
         "position": "top-left",
         "style": "dark neon, blue and purple",
         "subject": "young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt",
-        "main_text": "{argument name=\"banner 1 headline\" default=\"SNSを仕事にしたい人へ\"}",
-        "sub_text": "“好き”をカタチに。未来を変える一歩を、今。",
+        "main_text": "{argument name=\"banner 1 headline\" default=\"For those who want to make SNS their job\"}",
+        "sub_text": "Shape your 'likes'. Take the step to change the future, today.",
         "elements": [
           "white and yellow typography",
-          "yellow call-to-action button: チェックする >",
+          "yellow call-to-action button: Check out >",
           "hand-drawn neon accents (crown, stars, heart)"
         ]
       },
@@ -4525,37 +4550,37 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
         "position": "top-right",
         "style": "bright, pop, cyan and white",
         "subject": "young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun",
-        "main_text": "{argument name=\"banner 2 headline\" default=\"好きな発信を武器にする\"}",
-        "sub_text": "企画・編集・投稿を学ぶ",
+        "main_text": "{argument name=\"banner 2 headline\" default=\"Make your favorite posts your weapon\"}",
+        "sub_text": "Learn planning, editing, and posting",
         "elements": [
           "torn paper texture backgrounds for text",
-          "yellow starburst sticker: 無料体験",
-          "3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)"
+          "yellow starburst sticker: Free trial",
+          "3 feature icons with text: lightbulb (planning ability), pencil (editing ability), paper plane (posting ability)"
         ]
       },
       {
         "position": "bottom-left",
         "style": "dark, analytical, neon purple and green",
         "subject": "young man looking thoughtfully at his smartphone, wearing a black hoodie",
-        "main_text": "{argument name=\"banner 3 headline\" default=\"バズるだけじゃない 分析まで学べる\"}",
-        "sub_text": "#伸びる理由がわかると、もっと伸ばせる。",
+        "main_text": "{argument name=\"banner 3 headline\" default=\"Learn not just how to go viral, but also how to analyze\"}",
+        "sub_text": "When you understand why it grows, you can make it grow even more.",
         "elements": [
           "3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)",
-          "3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)",
-          "yellow call-to-action button: 詳しく見る >"
+          "3 feature icons at bottom: bar chart (data analysis), magnifying glass (improvement suggestions), target (connect to results)",
+          "yellow call-to-action button: Learn more >"
         ]
       },
       {
         "position": "bottom-right",
         "style": "bright, friendly, purple and white",
         "subject": "group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone",
-        "main_text": "SNSで未来の可能性を広げよう",
-        "sub_text": "仲間と学べるコミュニティ",
+        "main_text": "Expand future possibilities with SNS",
+        "sub_text": "A community where you can learn with peers",
         "elements": [
           "torn paper texture backgrounds for text",
           "3 bullet points with icons (people, speech bubbles, rising chart)",
           "2 polaroid-style inset photos showing students studying at a desk",
-          "yellow call-to-action button: 今すぐ参加 >"
+          "yellow call-to-action button: Join now >"
         ]
       }
     ]
@@ -4563,58 +4588,19 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 }
 ```
 
-<a id="prompt-5c4d1a9621ebc9499b14"></a>
-
-### 197. 古风明朝帝王群像长卷
-
-![古风明朝帝王群像长卷](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case226.jpg)
-
-- **Categories:** 古风明朝帝王群像长卷
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-226)
-
-**Prompt:**
-
-```text
-[中文]
-根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字
-
-[English]
-Based on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits
-```
-
-<a id="prompt-5ed932de7960b816bb0c"></a>
-
-### 198. 小恶魔莉莉香超任游戏海报
-
-![小恶魔莉莉香超任游戏海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case283.jpg)
-
-- **Categories:** 小恶魔莉莉香超任游戏海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-283)
-
-**Prompt:**
-
-```text
-[中文]
-が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
-このクオリティ　細かい説明呪文なし　すごいぜ！
-
-[English]
-that "Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game" with just a few images
-this quality without any detailed explanation spells is amazing!
-```
-
 <a id="prompt-6103fd2bded24c054799"></a>
 
-### 199. 主题海报版式设计
+### 202. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case100.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case100.jpg" alt="Themed Poster Layout Design" width="480">
 
 - **Categories:** 主题海报版式设计
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-100)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "promotional banner thumbnail",
   "style": "vibrant neon, cosmic galaxy background, anime illustration style, high-density Japanese typography, glowing text effects",
@@ -4626,28 +4612,28 @@ this quality without any detailed explanation spells is amazing!
   "layout": {
     "background": "purple, pink, and blue starry space nebula",
     "center_typography": {
-      "top_small_text": "何から始めるか迷う人へ",
-      "main_title": "{argument name=\"main title\" default=\"初心者でもわかる AI副業\"}",
-      "subtitle": "最初の1本におすすめ",
-      "floating_text_near_character": "やさしく解説♡"
+      "top_small_text": "For those who don't know where to start",
+      "main_title": "{argument name=\"main title\" default=\"AI Side Hustle for Beginners\"}",
+      "subtitle": "Recommended for your first one",
+      "floating_text_near_character": "Simple explanation♡"
     },
     "top_left": {
-      "yellow_ribbon": "{argument name=\"top left ribbon text\" default=\"ゼロから始める\"}"
+      "yellow_ribbon": "{argument name=\"top left ribbon text\" default=\"Start from Zero\"}"
     },
     "top_right": {
-      "pink_circle_badge": "初心者 OK"
+      "pink_circle_badge": "Beginners OK"
     },
     "left_column": {
       "count": 7,
       "description": "stack of pill-shaped badges",
       "labels": [
-        "スマホでもOK (with phone icon)",
-        "副業デビューに (with beginner mark icon)",
-        "具体例つき",
-        "テンプレ付き",
-        "おすすめツール紹介",
-        "収益化の流れ",
-        "失敗しない始め方"
+        "OK with smartphone (with phone icon)",
+        "For side hustle debut (with beginner mark icon)",
+        "Includes specific examples",
+        "Templates included",
+        "Recommended tools introduction",
+        "Monetization process",
+        "How to start without failing"
       ]
     },
     "bottom_left_graphics": {
@@ -4659,32 +4645,33 @@ this quality without any detailed explanation spells is amazing!
       ]
     },
     "bottom_center": {
-      "large_purple_button": "{argument name=\"bottom center button text\" default=\"完全解説\"}",
-      "checklist_text_below": "✓始め方 ✓稼ぎ方 ✓注意点 ✓続け方まで全部わかる！"
+      "large_purple_button": "{argument name=\"bottom center button text\" default=\"Complete Guide\"}",
+      "checklist_text_below": "✓How to start ✓How to earn ✓Points to note ✓How to continue - everything you need to know!"
     },
     "bottom_right": {
       "pink_cloud_shape": {
         "count": 3,
         "bullet_points": [
-          "✓難しい知識不要",
-          "✓今日から始められる",
-          "✓やさしく丁寧に解説"
+          "✓No difficult knowledge required",
+          "✓Can start from today",
+          "✓Simple and detailed explanation"
         ]
       },
-      "gold_medal_seal": "保存版",
-      "purple_badge": "{argument name=\"year badge text\" default=\"2026年 最新版\"}"
+      "gold_medal_seal": "Reference Edition",
+      "purple_badge": "{argument name=\"year badge text\" default=\"2026 Latest Edition\"}"
     }
   }
 }
 ```
+````
 
 <a id="prompt-685ce975159a830c49bd"></a>
 
-### 200. 概念字体海报 Prompt
+### 203. Concept Font Poster Prompt
 
-![概念字体海报 Prompt](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case355.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case355.jpg" alt="Concept Font Poster Prompt" width="480">
 
-- **Categories:** 概念字体海报 Prompt
+- **Categories:** Concept font poster Prompt
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-355)
 
 **Prompt:**
@@ -4692,17 +4679,17 @@ this quality without any detailed explanation spells is amazing!
 ```text
 Create ONE finished premium conceptual typography poster for the exact title:
 
-“[INPUT_TEXT]”
+"[INPUT_TEXT]"
 
 Single poster only. No moodboard, grid, presentation board, mockup, captions, prompt text, process sheet, or sample labels.
 
-The title “[INPUT_TEXT]” must be the dominant visual structure of the poster: huge, readable, powerful, and spelled exactly. Do not translate, shorten, replace, or misspell it. Do not add other large readable text. Optional micro catalog text is allowed only if it stays subtle and secondary.
+The title "[INPUT_TEXT]" must be the dominant visual structure of the poster: huge, readable, powerful, and spelled exactly. Do not translate, shorten, replace, or misspell it. Do not add other large readable text. Optional micro catalog text is allowed only if it stays subtle and secondary.
 
-Silently interpret the title’s meaning, mood, cultural aura, symbolic associations, psychological tension, and visual rhythm. Turn that interpretation into one strong visual metaphor.
+Silently interpret the title's meaning, mood, cultural aura, symbolic associations, psychological tension, and visual rhythm. Turn that interpretation into one strong visual metaphor.
 
 Typography is the hero. Design custom-looking letterforms whose weight, width, contrast, spacing, rhythm, distortion, negative space, edge quality, and ink texture express the temperament of the title. The type should feel intentionally designed, not like a default font.
 
-If “[INPUT_TEXT]” refers to a widely known person, make a large editorial portrait or full / half-body figure a major visual presence, occupying roughly 40–70% of the composition. The figure should feel recognizable through aura, posture, styling, era, expression, lighting, and symbolic atmosphere, but should not copy a specific existing photograph, official poster, campaign image, logo, slogan, or copyrighted composition. The portrait must interact with the typography: overlapping the letters, emerging from them, being framed by them, casting shadows on them, breaking through them, or being partially hidden behind them.
+If "[INPUT_TEXT]" refers to a widely known person, make a large editorial portrait or full / half-body figure a major visual presence, occupying roughly 40–70% of the composition. The figure should feel recognizable through aura, posture, styling, era, expression, lighting, and symbolic atmosphere, but should not copy a specific existing photograph, official poster, campaign image, logo, slogan, or copyrighted composition. The portrait must interact with the typography: overlapping the letters, emerging from them, being framed by them, casting shadows on them, breaking through them, or being partially hidden behind them.
 
 For all other titles, use a human figure, landscape, object, or atmospheric setting only when it strengthens the meaning. It must interact with the typography and deepen the concept, not decorate it.
 
@@ -4716,14 +4703,14 @@ Avoid generic word art, glossy 3D lettering, random icons, stock-photo realism, 
 
 -----
 
-INPUT_TEXT：Phoenix Rebirth
+INPUT_TEXT: Phoenix Rebirth
 ```
 
 <a id="prompt-7007d800773ff342723d"></a>
 
-### 201. 西楚霸王国风暗黑海报
+### 204. Dark Traditional Chinese Style Poster: Hegemon-King of Western Chu
 
-![西楚霸王国风暗黑海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case352.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case352.jpg" alt="Dark Traditional Chinese Style Poster: Hegemon-King of Western Chu" width="480">
 
 - **Categories:** 西楚霸王国风暗黑海报
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-352)
@@ -4736,9 +4723,9 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a id="prompt-717fd2d57cc92a98cf17"></a>
 
-### 202. 主题海报版式设计
+### 205. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case140.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case140.jpg" alt="主题海报版式设计" width="480">
 
 - **Categories:** 主题海报版式设计
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-140)
@@ -4751,11 +4738,11 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a id="prompt-7319ff8fff3a00f34eb6"></a>
 
-### 203. 主题海报版式设计
+### 206. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case119.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case119.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-119)
 
 **Prompt:**
@@ -4770,7 +4757,7 @@ INPUT_TEXT：Phoenix Rebirth
     "typography": {
       "title": "{argument name=\"movie title\" default=\"劇場版 巨骸の向こう側 Fallen Colossus\"}",
       "release_date": "{argument name=\"release date\" default=\"2027.11.28 ROADSHOW\"}",
-      "tagline": "そこにあるのは、まだ「説明」されていないもの。",
+      "tagline": "What lies there has not yet been 'explained'.",
       "credits_studio": "{argument name=\"studio name\" default=\"WIT STUDIO\"}"
     }
   },
@@ -4796,7 +4783,7 @@ INPUT_TEXT：Phoenix Rebirth
       }
     },
     {
-      "title": "カゲ (Kage) 設定画",
+      "title": "Kage (Shadow) Character Design",
       "type": "animal character reference sheet",
       "elements": {
         "full_body_poses": 4,
@@ -4806,7 +4793,7 @@ INPUT_TEXT：Phoenix Rebirth
       }
     },
     {
-      "title": "第7巨骸 (Remnant-7) 内部区画 設定画",
+      "title": "Remnant-7 Internal Compartment Design",
       "type": "environment and vehicle reference sheet",
       "elements": {
         "large_diagrams": 1,
@@ -4830,9 +4817,9 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a id="prompt-785f7652e6afaa9e2c03"></a>
 
-### 204. Surreal Japanese Futuristic City Illustration
+### 207. Surreal Japanese Futuristic City Illustration
 
-![Surreal Japanese Futuristic City Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case102/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case102/output.jpg" alt="Surreal Japanese Futuristic City Illustration" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Tresmort/status/2047105322863460496)
@@ -4845,9 +4832,9 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a id="prompt-78cc6ea1e8834576ffe0"></a>
 
-### 205. 360度等距柱状投影全景图
+### 208. 360度等距柱状投影全景图
 
-![360度等距柱状投影全景图](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case75/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case75/output.jpg" alt="360度等距柱状投影全景图" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/rs_elwood/status/2047192228758692036)
@@ -4862,9 +4849,9 @@ Online 360° Panorama Viewer VR
 
 <a id="prompt-7ee64a94d8cec9c4c898"></a>
 
-### 206. 动漫插画创作图
+### 209. 动漫插画创作图
 
-![动漫插画创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case113.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case113.jpg" alt="动漫插画创作图" width="480">
 
 - **Categories:** 动漫插画创作图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-113)
@@ -4875,30 +4862,40 @@ Online 360° Panorama Viewer VR
 A highly detailed anime illustration of a fierce female warrior with long flowing {argument name="hair color" default="black"} hair and piercing {argument name="eye color" default="blue"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name="outfit color" default="blue and white"} tunic. She is captured in a dynamic combat stance, swinging a massive, {argument name="weapon type" default="segmented metallic whip-sword"} that curves dramatically into the extreme foreground. The weapon leaves a sweeping trail of kinetic energy and wind. The scene is set against a {argument name="background setting" default="ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind"} under a dramatic cloudy sky. The artwork features cinematic lighting, intense action, and a dramatic forced perspective on the weapon.
 ```
 
-<a id="prompt-838a22db1060b2e15bf5"></a>
+<a id="prompt-815b31488bbd88abd66a"></a>
 
-### 207. 冰火双雄背靠背史诗电影海报
+### 210. 粤超联赛国潮风邀请函海报
 
-![冰火双雄背靠背史诗电影海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case320.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case236.jpg" alt="粤超联赛国潮风邀请函海报" width="480">
 
-- **Categories:** 冰火双雄背靠背史诗电影海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-320)
+- **Categories:** 粤超联赛国潮风邀请函海报
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-236)
 
 **Prompt:**
 
 ```text
-[中文]
-一幅戏剧性的电影海报风格肖像，描绘了两位史诗奇幻战士在冰冻风暴中背靠背站立。左侧是一位身经百战的男性战士，留着湿漉漉的深色卷发，低头以此表达坚定的决心，紧握着一把插在冰里的中世纪长剑。霜雪附着在他毛皮镶边的斗篷和肩膀上。右侧是一位强有力的女性战士侧影，苍白的皮肤在炽热的橙色光芒下闪耀，她的身体部分被火焰吞没，与冰冷的蓝色氛围形成对比。雪花粒子在空中盘旋，在象征性的冲突中融合了火与冰。超精细的面部细节，情感强度，体积雾，电影级布光，冷蓝色调混合温暖的火焰高光，浅景深，史诗奇幻电影海报，超写实，8K分辨率，戏剧性构图，清晰聚焦，高对比度，逼真纹理。
+Guangdong Provincial City Football Super League (Yuechao) invitation poster design, aspect ratio 9:16;
 
-[English]
-A dramatic cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm. On the left, a battle-worn male warrior with wet, curly dark hair, head bowed in quiet resolve, gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak and shoulders. On the right, a powerful female warrior in profile, pale skin glowing with fiery orange light, her body partially engulfed in flames thatcontrast against the icy blue atmosphere. Snow particles swirl through the air, blending fire and ice in a symbolic clash. Ultra-detailed faces, emotional intensity, volumetric fog, cinematic lighting, cold blue tones mixed with warm fire highlights, shallow depth of field, epic fantasy movie poster, hyper-realistic, 8K resolution, dramatic composition, sharp focus, high contrast, photorealistic textures.
+S-shaped flowing composition, the picture extends from bottom to top, a dynamic energy flow formed by the trajectory of football movement runs through the picture, the center is a glowing football, with dynamic trajectory and energy light effects;
+
+Along the S-shaped motion line, integrate Guangdong city landmarks and cultural elements: Canton Tower, Shenzhen Ping An Finance Centre, Zhuhai Fisher Girl statue, Lingnan architecture and Foshan martial arts silhouettes, Zhongshan Sun Yat-sen cultural symbols, Chaoshan Yingge dance dynamic character outlines, Qingyuan landscape natural scenery, all elements adopt the integrated expression of "line drawing + partial color blocks + blank space", progressive layers, combination of distance and virtual-real;
+
+Add abstract football player silhouettes, weaken character details, strengthen momentum and competitive atmosphere, the visual focus remains on the football;
+
+Style: modern Guochao high-end poster, minimalist style but rich in design sense, high-end, clean, unified, integrating oriental aesthetics and modern sports vision;
+
+Color scheme: high saturation but restrained, Chinese red as the main visual, cyan-blue as auxiliary, gold embellished highlights, high contrast but not cluttered, with brand-level visual impact;
+
+Top center horizontal visual main title "Guangdong Provincial City Football Super League": medium font, Song typeface, center vertical text layout: "Yuechao", large font, handwritten calligraphy art font, "Invitation": medium font, Song typeface, vertical arrangement, large spacing, bottom center first row horizontal: "April 25, 2026", small font, Song typeface, second row: "Guangzhou Yuexiushan Stadium", small font, Song typeface, reserve text layout space;
+
+The overall layout is balanced, has a high-end brand poster texture, extremely detailed, the composition is simple and clean, no cluttered elements, cinematic light and shadow, 8K resolution, high-end design sense. Integrate elegant cloud patterns and water wave patterns derived from traditional Chinese auspicious clouds, floating light effect particles, full of dynamics and vitality.
 ```
 
 <a id="prompt-84841d16e52818ed5364"></a>
 
-### 208. Avant-Garde Guitar Sculpture Fashion Advertisement
+### 211. Avant-Garde Guitar Sculpture Fashion Advertisement
 
-![Avant-Garde Guitar Sculpture Fashion Advertisement](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case81/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case81/output.jpg" alt="Avant-Garde Guitar Sculpture Fashion Advertisement" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/QamarRiaz1/status/2047777016733110722)
@@ -4911,11 +4908,11 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 <a id="prompt-87b9849be83864039782"></a>
 
-### 209. 法新浪潮撕纸电影海报
+### 212. French New Wave paper tearing movie poster
 
-![法新浪潮撕纸电影海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case345.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case345.jpg" alt="French New Wave paper tearing movie poster" width="480">
 
-- **Categories:** 法新浪潮撕纸电影海报
+- **Categories:** French New Wave torn paper movie poster
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-345)
 
 **Prompt:**
@@ -4930,9 +4927,9 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 
 <a id="prompt-8a061b9ce3767c30e07d"></a>
 
-### 210. Hangzhou West Lake Travel Poster
+### 213. Hangzhou West Lake Travel Poster
 
-![Hangzhou West Lake Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg" alt="Hangzhou West Lake Travel Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BNBOKBt5/status/2047210189741605082)
@@ -4943,85 +4940,13 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 帮我生成一个介绍杭州西湖的海报
 ```
 
-<a id="prompt-8aa10a67672667f0d8ab"></a>
-
-### 211. 古风历史题材图
-
-![古风历史题材图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case44.jpg)
-
-- **Categories:** 古风历史题材图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-44)
-
-**Prompt:**
-
-```text
-Generate avatars of various emperors from the {argument name="dynasty" default="Ming Dynasty"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.
-```
-
-<a id="prompt-8aa9e84552e25c64e3c6"></a>
-
-### 212. 国风工笔八仙长卷插画
-
-![国风工笔八仙长卷插画](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case206.jpg)
-
-- **Categories:** 国风工笔八仙长卷插画
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-206)
-
-**Prompt:**
-
-```text
-[中文]
-（国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
-
-[English]
-(Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
-```
-
-<a id="prompt-8c76ea40835175bc6929"></a>
-
-### 213. 古风诗人镭射典藏卡牌
-
-![古风诗人镭射典藏卡牌](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case290.jpg)
-
-- **Categories:** 古风诗人镭射典藏卡牌
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-290)
-
-**Prompt:**
-
-```text
-[中文]
-为中国古代诗人设计一套游戏卡片，并按照SSR SR R 分级，重点卡片有放大展示的效果，包括卡面设计和人物介绍，有很高级的游戏卡片质感，稀有卡片还会有特色的光影例如镭射效果 需要有套卡设计和技能设计，并附带较为详细的说明
-
-[English]
-Design a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and character introduction, having a very high-end game card texture, rare cards will also have special light and shadow effects such as holographic laser effects, requiring set card design and skill design, along with relatively detailed descriptions
-```
-
-<a id="prompt-8ca0bdc74a9fdeb48498"></a>
-
-### 214. 完美匹配的海报广告图
-
-![完美匹配的海报广告图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case228.jpg)
-
-- **Categories:** 完美匹配的海报广告图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-228)
-
-**Prompt:**
-
-```text
-[中文]
-生成一张与这张图片完美匹配的广告图片。信息量要多一些。
-
-[English]
-Generate an advertising image that perfectly matches this image. There should be a lot of information.
-```
-
 <a id="prompt-8f83edbb5fc9b054770f"></a>
 
-### 215. 水墨双重曝光人物海报
+### 214. Ink wash double exposure character poster
 
-![水墨双重曝光人物海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case359.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case359.jpg" alt="Ink wash double exposure character poster" width="480">
 
-- **Categories:** 水墨双重曝光人物海报
+- **Categories:** Ink wash double exposure character poster
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-359)
 
 **Prompt:**
@@ -5069,75 +4994,26 @@ OUTPUT:
 
 <a id="prompt-90392b743bd148b2cd59"></a>
 
-### 216. 主题海报版式设计
+### 215. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case16.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case16.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-16)
 
 **Prompt:**
 
 ```text
-生成高完成度史诗感艺术海报，双重曝光构图，米白色背景，球队：xxxx队，xxx的大剪影占据主体，剪影内部融合xx、xx、xx、xx以及xx等元素。整体以xx、土褐、为主，压抑、决绝、宿命感极强，元素不要冗杂，要有留白，印刷颗粒质感，元素不要有太锐的细节，但是要有史诗质感，像正式院线动画电影海报，竖版。图片中若出现文字则以细体字为主
-```
-
-<a id="prompt-93ac4f01d059afd4c475"></a>
-
-### 217. 一张采用分层蒙太奇构图的电影海报
-
-![一张采用分层蒙太奇构图的电影海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case275.jpg)
-
-- **Categories:** 一张采用分层蒙太奇构图的电影海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-275)
-
-**Prompt:**
-
-```text
-[中文]
-“一张采用分层蒙太奇构图的电影海报。背景为日落时分的海滨小镇，平静的海面倒映着耀眼的日光眩光，薄雾笼罩的天空中有远处飞鸟，沿海公路旁立着电线杆剪影。左侧中景处，一位身着深灰色外套、留着深色卷发的中年男子站在混凝土海堤边，神情忧郁地低头凝视，被傍晚的阳光逆光勾勒轮廓。右侧前景主体为一张大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白色条纹的深色水手校服，湿润的黑发贴在脸颊，柔和漫射光线下，一滴泪珠从她脸颊滑落。画面下方中央前景处，一只柴犬抬头朝右侧望去，红棕色毛发被温暖的轮廓光点亮。画面最底端为一条横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向海面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面站立、女孩拥抱柴犬的特写。画面叠加指定文字：左上角为深青绿色大号衬线字体标题《风间静语》，下方副标题为「—— 致那日的你 ——」；标题下方为小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 画面右侧中部为深色衬线字体文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角为大号白色文字：“10 月 31 日 周五 影院上映”。右下角为小号白色无衬线字体演职人员表：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。
-分段提示词：
-图层索引：0
-片段：“背景为日落时分的海滨小镇，平静海面倒映耀眼日光眩光，薄雾天空中有远处飞鸟，沿海公路旁有电线杆剪影。”
-图层索引：1
-片段：“左侧中景处，身着深灰色外套、留深色卷发的中年男子站在混凝土海堤边，神情忧郁低头，被傍晚阳光逆光照射。”
-图层索引：2
-片段：“右侧前景主体为大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白条纹的深色水手校服，湿润黑发贴脸，柔和漫射光下一滴泪珠滑落脸颊。”
-图层索引：3
-片段：“画面下方中央前景处，一只柴犬抬头望向右侧，红棕色毛发被温暖轮廓光点亮。”
-图层索引：4
-片段：“画面最底端为横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向水面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面、女孩拥抱柴犬特写。”
-图层索引：[5,6,7,8]
-片段：“画面叠加指定文字：左上角为深青绿色大号衬线字体《风间静语》，下方副标题「—— 致那日的你 ——」；其下小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 右侧中部深色衬线文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角大号白色文字：“10 月 31 日 周五 影院上映”。右下角小号白色无衬线字体演职信息：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。
-负面提示词：
-“平光照明，无质感表面，对称构图，底部留白空荡，文字缺失，翻译文字，改写文字，3D 渲染，卡通风格，高对比生硬阴影，干涩头发，明亮欢快表情”
-
-[English]
-A cinematic movie poster utilizing a layered montage composition. In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road. In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun. Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting. In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting. Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu. Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'."
-  segmented:
-    - layer_index: 0
-      segment: "In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road."
-    - layer_index: 1
-      segment: "In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun."
-    - layer_index: 2
-      segment: "Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting."
-    - layer_index: 3
-      segment: "In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting."
-    - layer_index: 4
-      segment: "Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu."
-    - layer_indices: [5, 6, 7, 8]
-      segment: "Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'."
-
-negative: "flat lighting, untextured surfaces, symmetrical composition, empty bottom margin, missing text, translated text, paraphrased text, 3D render, cartoon, high-contrast harsh shadows, dry hair, bright cheerful expressions
+Generate a high-completion epic artistic poster with double exposure composition, off-white background. Team: xxxx team. Large silhouette of xxx occupies the main body, with elements such as xx, xx, xx, xx, and xx integrated inside the silhouette. Overall dominated by xx and earth brown tones, extremely oppressive, resolute, and fateful. Elements should not be redundant, there should be blank space. Printed grain texture, elements should not have too sharp details, but should have an epic texture, like an official theatrical animated movie poster. Vertical version. If text appears in the image, it should mainly be in thin font.
 ```
 
 <a id="prompt-94fd45d9119741162c2b"></a>
 
-### 218. 动漫插画创作图
+### 216. Anime Illustration Creation Image
 
-![动漫插画创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case105.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case105.jpg" alt="Anime Illustration Creation Image" width="480">
 
-- **Categories:** 动漫插画创作图
+- **Categories:** Anime illustration artwork
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-105)
 
 **Prompt:**
@@ -5148,11 +5024,11 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 <a id="prompt-9aee19c96f3a315a7845"></a>
 
-### 219. 插画艺术风格创作
+### 217. Illustration Art Style Creation
 
-![插画艺术风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case93.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case93.jpg" alt="Illustration Art Style Creation" width="480">
 
-- **Categories:** 插画艺术风格创作
+- **Categories:** Illustration art style creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-93)
 
 **Prompt:**
@@ -5171,16 +5047,16 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
     "text_sections": [
       {
         "type": "top ribbon",
-        "text": "{argument name=\"top subtitle\" default=\"まったりおしゃべりしよ〜🤍\"}"
+        "text": "{argument name=\"top subtitle\" default=\"Let's have a relaxed chat~🤍\"}"
       },
       {
         "type": "main title",
-        "text": "{argument name=\"main title\" default=\"雑談配信\"}",
+        "text": "{argument name=\"main title\" default=\"Casual stream/chat\"}",
         "decorations": "surrounded by 3 large peach illustrations"
       },
       {
         "type": "middle ribbon",
-        "text": "{argument name=\"middle subtitle\" default=\"みんなと楽しい時間を過ごしたいなっ♡\"}"
+        "text": "{argument name=\"middle subtitle\" default=\"I want to have fun time with everyone♡\"}"
       },
       {
         "type": "bullet points",
@@ -5188,15 +5064,15 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
         "count": 3,
         "icon": "peach",
         "labels": [
-          "{argument name=\"bullet 1\" default=\"初見さん〇\"}",
-          "{argument name=\"bullet 2\" default=\"ポイント回収〇\"}",
+          "{argument name=\"bullet 1\" default=\"New viewers〇\"}",
+          "{argument name=\"bullet 2\" default=\"Point collection〇\"}",
           "ROMO"
         ]
       },
       {
         "type": "speech bubble",
         "position": "bottom right",
-        "text": "コメント大歓迎♪ いっぱいお話し しようねっ♡"
+        "text": "Comments welcome♪ Let's talk a lot♡"
       }
     ]
   }
@@ -5205,16 +5081,17 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 <a id="prompt-9b4103c9f99a8847d2ad"></a>
 
-### 220. 主题海报版式设计
+### 218. Theme poster layout design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case139.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case139.jpg" alt="Theme poster layout design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-139)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "Japanese promotional landing page poster",
   "style": "hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic",
@@ -5223,61 +5100,62 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
       "background": "night sky, fireworks, ferris wheel, roller coaster",
       "subjects": "4 young adults cheering, raising fists, dynamic lighting",
       "typography": [
-        "{argument name=\"main headline\" default=\"究極の楽しい!!\"}",
-        "{argument name=\"sub headline\" default=\"やばい!!共感してもらいたい!!\"}",
-        "この一枚が、あなたの人生を最高に塗り替える!!"
+        "{argument name=\"main headline\" default=\"Ultimate Fun!!\"}",
+        "{argument name=\"sub headline\" default=\"Amazing!! I want you to resonate with this!!\"}",
+        "This one picture will completely transform your life!!"
       ],
       "badges": [
-        "累計販売枚数 {argument name=\"sales badge\" default=\"252,000\"} 枚突破!!!"
+        "Total sales {argument name=\"sales badge\" default=\"252,000\"} copies surpassed!!!"
       ]
     },
     "middle_section": {
-      "title": "究極の楽しい体験を実現する5つの超快楽ポイント",
+      "title": "5 Super Fun Points to Achieve the Ultimate Fun Experience",
       "points_count": 5,
       "points": [
-        {"number": 1, "label": "爆笑覚醒", "image": "people laughing"},
-        {"number": 2, "label": "ドキドキMAX", "image": "roller coaster loop"},
-        {"number": 3, "label": "感動の渦", "image": "fireworks explosion"},
-        {"number": 4, "label": "超解放ゾーン", "image": "silhouettes jumping at sunset"},
-        {"number": 5, "label": "無限リピート", "image": "group of people cheering"}
+        {"number": 1, "label": "Hilarious Awakening", "image": "people laughing"},
+        {"number": 2, "label": "Heart-Pounding MAX", "image": "roller coaster loop"},
+        {"number": 3, "label": "Whirlpool of Emotions", "image": "fireworks explosion"},
+        {"number": 4, "label": "Super Liberation Zone", "image": "silhouettes jumping at sunset"},
+        {"number": 5, "label": "Infinite Replay", "image": "group of people cheering"}
       ]
     },
     "bonus_section": {
-      "title": "今だけ！超豪華 5大特典付き!!!",
+      "title": "Limited Time! 5 Great Premium Bonuses Included!!!",
       "items_count": 5,
       "items": [
-        "① 限定デザインポスター",
-        "② 楽しい名言ブックレット(PDF)",
-        "③ 超楽しいプレイリスト(MP3)",
-        "④ スマホ壁紙セット",
-        "⑤ 楽しいシークレット映像"
+        "① Limited Design Poster",
+        "② Fun Quotes Booklet (PDF)",
+        "③ Super Fun Playlist (MP3)",
+        "④ Smartphone Wallpaper Set",
+        "⑤ Fun Secret Video"
       ]
     },
     "bottom_section": {
       "product_info": {
-        "name": "究極の楽しいポスター",
+        "name": "Ultimate Fun Poster",
         "variants_count": 3,
-        "variants": ["全力全開ver.", "笑顔爆発ver.", "感動絶頂ver."]
+        "variants": ["Full Power ver.", "Smile Explosion ver.", "Peak Emotion ver."]
       },
       "pricing": {
-        "label": "魂の価格",
+        "label": "Price of the Soul",
         "amount": "{argument name=\"price\" default=\"¥2,980\"}",
-        "shipping": "送料無料"
+        "shipping": "Free Shipping"
       }
     },
     "footer": {
-      "text": "{argument name=\"footer call to action\" default=\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\"}",
+      "text": "{argument name=\"footer call to action\" default=\"Enjoy life to the fullest!! Come on, get it now!!\"}",
       "background_color": "magenta"
     }
   }
 }
 ```
+````
 
 <a id="prompt-9b598fe886b2460e624f"></a>
 
-### 221. Dongfang Bubai Wuxia Character Poster
+### 219. Dongfang Bubai Wuxia Character Poster
 
-![Dongfang Bubai Wuxia Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg" alt="Dongfang Bubai Wuxia Character Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/songguoxiansen/status/2047204566559756707)
@@ -5292,11 +5170,11 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 <a id="prompt-a1a4244bbdefa73d0596"></a>
 
-### 222. 主题海报版式设计
+### 220. Theme Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case59.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case59.jpg" alt="Theme Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-59)
 
 **Prompt:**
@@ -5317,34 +5195,34 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
         "scene": "wide shot of a town street with buildings and a city skyline in the background",
         "characters_present": ["char1", "char2", "char3"],
         "text_overlays": [
-          "{argument name=\"intro text\" default=\"ある日ーー\"}",
-          "いつもの日常がーー",
-          "こんばんは"
+          "{argument name=\"intro text\" default=\"One day - -\"}",
+          "Everyday life - -",
+          "Good evening"
         ]
       },
       {
         "position": "middle left",
         "scene": "close-up of char1 looking shocked against a dark fiery background",
         "text_overlays": [
-          "{argument name=\"shocked text\" default=\"私が出禁？\"}"
+          "{argument name=\"shocked text\" default=\"Am I banned?\"}"
         ]
       },
       {
         "position": "middle right",
         "scene": "close-up of char2 looking angry and pointing against a stormy sea background",
         "text_overlays": [
-          "{argument name=\"angry text\" default=\"海を荒らすな！\"}"
+          "{argument name=\"angry text\" default=\"Don't stir up the sea!\"}"
         ]
       },
       {
         "position": "bottom",
         "scene": "char3 pointing, char1 screaming, a second instance of char3 falling backwards, and char2 sitting angrily against a fiery chaotic background",
         "text_overlays": [
-          "全然出ない！"
+          "It won't come out at all!"
         ],
         "bottom_titles": [
-          "{argument name=\"main title\" default=\"パチンコ軍団親のイメチェン\"}",
-          "{argument name=\"subtitle\" default=\"LINEスタンプ販売中\"}"
+          "{argument name=\"main title\" default=\"Pachinko Gang Parent's Makeover\"}",
+          "{argument name=\"subtitle\" default=\"LINE Stamps Now Available\"}"
         ]
       }
     ]
@@ -5352,30 +5230,63 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 }
 ```
 
-<a id="prompt-a36224784b8933dcbe3f"></a>
+<a id="prompt-ab5a420c5aab795106fc"></a>
 
-### 223. 杜蕾斯茶颜悦色联名海报设计
+### 221. Vibrant neon lighting effects with dynamic soda splashing commercial poster
 
-![杜蕾斯茶颜悦色联名海报设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case244.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case312.jpg" alt="Vibrant neon lighting effects with dynamic soda splashing commercial poster" width="480">
 
-- **Categories:** 杜蕾斯茶颜悦色联名海报设计
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-244)
+- **Categories:** Vibrant neon lighting with dynamic soda splashing commercial poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-312)
 
 **Prompt:**
 
 ```text
-[中文]
-设计一套杜蕾斯和茶颜悦色联名的宣传物料
+{
+  "prompt": "Three ultra-dynamic soda cans in one vibrant high-end advertising composition — a can of TROPICAL RUSH exploding with dramatic water and tropical fruit splash, vibrant orange and pink background lighting; a can of LEMON ICED splashed with cold water against a glowing green dynamic light background; both cans covered in realistic condensation and motion-blurred droplets, bursting with fruity, refreshing energy. Deep orange, pink, and neon green lighting blend together in a bold studio setup. Captured by a professional photographer using a Canon 50mm lens, hyper-realistic textures, crisp details, ultra high resolution, bright commercial poster aesthetic, rich color vibrancy, cinematic splash effects --ar 3:4"
+}
+```
 
-[English]
-Design a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.
+<a id="prompt-ad6b31e655a560a428bf"></a>
+
+### 222. Minimalist Guochao Gilt Canton Tower Poster
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case230.jpg" alt="Minimalist Guochao Gilt Canton Tower Poster" width="480">
+
+- **Categories:** Minimalist Chinese Style Gold Canton Tower Poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-230)
+
+**Prompt:**
+
+```text
+Neo-Chinese minimalist style high-end city poster, 9:16 vertical composition, with Guangzhou as the core theme, the center of the image is an abstract geometric Canton Tower, simple in shape but highly recognizable,
+
+The overall adopts an S-shaped flowing composition, extending from bottom to top, the Pearl River water system is designed as flowing water ripples fused with traditional auspicious cloud patterns, surrounding the entire image to form a visual dynamic line,
+
+Guangzhou landmark buildings are embellished in it in the way of "blank space + line drawing + local color blocks": Zhujiang New Town Twin Towers, Liede Bridge, Baiyun Mountain outline, Lingnan arcade houses,
+Traditional and modern architecture naturally blend, progressive layers, clear distinction between far and near, virtual and real,
+
+Style control: minimalist + high-end + Eastern artistic conception, not cluttered and not overly realistic,
+
+Color scheme (key point):
+High saturation but restrained, Chinese red, cyan blue, and gilded gold as the main colors,
+Supplemented by a small amount of warm gold highlight embellishments, forming a strong visual impact but not tacky,
+
+Background: large area of pure blank space or light Xuan paper texture, enhancing a sense of breathing and high-end feel,
+
+Details: auspicious clouds and water ripples have a slight relief/gold stamping texture,
+Locally add faint light particles or flowing light lines to enhance modernity,
+
+Light and shadow: soft gradient light + local highlights, highlighting a magnificent and grand atmosphere,
+
+Overall style: Guochao high-end illustration / brand poster-level texture / 8K / ultra-clear details
 ```
 
 <a id="prompt-adf692642f8e213adb69"></a>
 
-### 224. Soft poetic children's book illustration with watercolor and gouache textures...
+### 223. Soft poetic children's book illustration with watercolor and gouache textures...
 
-![Soft poetic children's book illustration with watercolor and gouache textures...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg" alt="Soft poetic children's book illustration with watercolor and gouache textures..." width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/dotey/status/2047174895293849972)
@@ -5392,90 +5303,52 @@ Two children in calm conversation,soft connection forming.
 
 <a id="prompt-aea6203442d5695bf107"></a>
 
-### 225. 茶π产品宣传海报
+### 224. Cha Pi Product Promotional Poster
 
-![茶π产品宣传海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case332.png)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case332.png" alt="Cha Pi Product Promotional Poster" width="480">
 
-- **Categories:** 茶π产品宣传海报
+- **Categories:** Tea Pi product promotional poster
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-332)
 
 **Prompt:**
 
 ```text
-帮这个产品生成宣传图
+Generate promotional images for this product
 ```
 
-<a id="prompt-b10f59209ddb86872a9e"></a>
+<a id="prompt-b0a4698707e69b45485f"></a>
 
-### 226. 粤超联赛国潮风邀请函海报
+### 225. Popular Science Encyclopedia Illustration
 
-![粤超联赛国潮风邀请函海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case236.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case8.jpg" alt="Popular Science Encyclopedia Illustration" width="480">
 
-- **Categories:** 粤超联赛国潮风邀请函海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-236)
+- **Categories:** Popular science encyclopedia image
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-8)
 
 **Prompt:**
 
 ```text
-[中文]
-广东省城市足球超级联赛（粤超）邀请函海报设计，比例9:16；
-
-S型流动构图，画面从下方向上延展，一条由足球运动轨迹形成的动态能量流贯穿画面， 中心为一颗发光的足球，带有动感轨迹与能量光效；
-
-沿S型动线融合广东城市地标与文化元素： 广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑与佛山武术剪影、中山孙中山文化象征、潮汕英歌舞动态人物轮廓、清远山水自然景观， 所有元素采用“线描 + 局部色块 + 留白”融合表现，层次递进、远近虚实结合；
-
-加入抽象足球运动员剪影，弱化人物细节，强化动势与竞技氛围，视觉重点仍为足球；
-
-风格：现代国潮高级海报，极简风格但富有设计感，高级、干净、统一， 融合东方美学与现代体育视觉；
-
-色彩方案：高饱和但克制，中国红为主视觉，青蓝色辅助，金色点缀高光， 高对比但不杂乱，具有品牌级视觉冲击力；
-
-顶部中央横版视觉主标题 「广东省城市足球超级联赛」：中字，宋体， 中央竖排文字排版： 「粤超」，大字，手写书法艺术字体， 「邀请函」：中字，宋体，纵向排列，间距较大， 底部中央第一排横排： 「2026年4月25日」，小字，宋体，第二排：「广州越秀山体育场」，小字，宋体， 预留文字排版空间；
-
-整体版式平衡、具有高级品牌海报质感，极致精细，构图简洁干净，无杂乱元素，电影级光影，8K 分辨率，高端设计感。融入源自中国传统祥云纹的雅致云纹与水波纹元素，浮动光效粒子，富有动感与生机。
-
-[English]
-Guangdong Provincial City Football Super League (Yuechao) invitation poster design, aspect ratio 9:16;
-
-S-shaped flowing composition, the picture extends from bottom to top, a dynamic energy flow formed by the trajectory of football movement runs through the picture, the center is a glowing football, with dynamic trajectory and energy light effects;
-
-Along the S-shaped motion line, integrate Guangdong city landmarks and cultural elements: Canton Tower, Shenzhen Ping An Finance Centre, Zhuhai Fisher Girl statue, Lingnan architecture and Foshan martial arts silhouettes, Zhongshan Sun Yat-sen cultural symbols, Chaoshan Yingge dance dynamic character outlines, Qingyuan landscape natural scenery, all elements adopt the integrated expression of "line drawing + partial color blocks + blank space", progressive layers, combination of distance and virtual-real;
-
-Add abstract football player silhouettes, weaken character details, strengthen momentum and competitive atmosphere, the visual focus remains on the football;
-
-Style: modern Guochao high-end poster, minimalist style but rich in design sense, high-end, clean, unified, integrating oriental aesthetics and modern sports vision;
-
-Color scheme: high saturation but restrained, Chinese red as the main visual, cyan-blue as auxiliary, gold embellished highlights, high contrast but not cluttered, with brand-level visual impact;
-
-Top center horizontal visual main title "Guangdong Provincial City Football Super League": medium font, Song typeface, center vertical text layout: "Yuechao", large font, handwritten calligraphy art font, "Invitation": medium font, Song typeface, vertical arrangement, large spacing, bottom center first row horizontal: "April 25, 2026", small font, Song typeface, second row: "Guangzhou Yuexiushan Stadium", small font, Song typeface, reserve text layout space;
-
-The overall layout is balanced, has a high-end brand poster texture, extremely detailed, the composition is simple and clean, no cluttered elements, cinematic light and shadow, 8K resolution, high-end design sense. Integrate elegant cloud patterns and water wave patterns derived from traditional Chinese auspicious clouds, floating light effect particles, full of dynamics and vitality.
-```
-
-<a id="prompt-b14f8d2739d982f6fee9"></a>
-
-### 227. 史诗级科幻电影海报设计
-
-![史诗级科幻电影海报设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case191.jpg)
-
-- **Categories:** 史诗级科幻电影海报设计
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-191)
-
-**Prompt:**
-
-```text
-[中文]
-创建一张科幻电影海报
-
-[English]
-Create a Science fiction movie poster
+Generate a high-quality vertical "educational infographic" based on the [Theme].
+This image is not an ordinary poster, nor is it simply an illustration, but a modular educational infographic that combines the feel of a field guide, encyclopedia, information structure, and collectibility. The overall style should reference advanced natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and infographic styles that are more shareable on social media.
+Include in the image:
+A clear and attractive main visual for the theme
+Several enlarged details of local features
+Multiple rounded modular information sections
+Clear title hierarchy and key labels
+Concise but information-rich encyclopedia content
+Visual ratings, key points summary, or Top 5 modules
+Content sections should automatically adapt to the theme, selecting and reasonably combining from these directions:
+Basic Profile, Classification Information, Appearance Characteristics, Habits and Ecology, Formation Mechanism or Structural Composition, Growth or Usage Conditions, Maintenance or Care Suggestions, Risks and Precautions, Suitable Audiences or Application Scenarios, Pros and Cons Comparison, Quick Rating Card.
+Visual requirements:
+Light and clean background, soft color scheme, light shadows, exquisite small icons, rounded information boxes, and an overall neat and fresh layout. The information density should be rich but not crowded, and the reading experience should be comfortable. The final effect should look like a real educational encyclopedia card that can be published, read, collected, and made into a series of content, rather than a heavily promotional advertisement.
+Do not create an ordinary commercial promotional poster. Focus on highlighting the characteristics of "knowledge organization," "modular information," and "field guide-style presentation."
 ```
 
 <a id="prompt-b17bbc2d18a0f6706679"></a>
 
-### 228. Avant-Garde Basketball Sculpture Sports Fashion Ad
+### 226. Avant-Garde Basketball Sculpture Sports Fashion Ad
 
-![Avant-Garde Basketball Sculpture Sports Fashion Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case73/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case73/output.jpg" alt="Avant-Garde Basketball Sculpture Sports Fashion Ad" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIwithkhan/status/2047886964037398989)
@@ -5486,11 +5359,54 @@ Create a Science fiction movie poster
 Avant-garde sports fashion advertisement, oversized basketball posed like a monumental sculpture, female athlete reclining across the ball’s curved surface as if modern furniture, giant word “ELEVATE” in bold typography behind, burnt orange studio backdrop, glossy reflective floor, luxury athletic editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1
 ```
 
+<a id="prompt-b247e0dd5e6cdec4dc61"></a>
+
+### 227. Absurd surreal cross-dressing middle-aged man poster
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case180.jpg" alt="Absurd surreal cross-dressing middle-aged man poster" width="480">
+
+- **Categories:** Absurd surreal cross-dressing middle-aged man poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-180)
+
+**Prompt:**
+
+```text
+A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.
+```
+
+<a id="prompt-b5f1f73bd6d65a0e6fcf"></a>
+
+### 228. Aesthetic anime character introduction webpage
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case263.jpg" alt="Aesthetic anime character introduction webpage" width="480">
+
+- **Categories:** categories.category_d63bf6fb73.en: Beautiful anime-style character introduction webpage
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-263)
+
+**Prompt:**
+
+```text
+Please fill in the unfilled parts by your partner or yourself
+ #ObservatoryTowerMorningTheme  #ObservatoryTowerGoodMorningTheme
+
+Using the latest model image generation tool,
+Using this chibi character illustration and standing picture, create a character introduction page style illustration like a real website page. (Something that would not be strange to use as an introduction page)
+A high-quality item imagining a gal game character introduction page. Facial variations etc. are also included, CG illustrations exist. A chibi character exists.
+
+"Self-introduction here"
+
+Name: (Name here)
+Image color: (Color here)
+Height: (Height here)cm
+Weight: (Weight here)kg
+Catchphrase: "Dialogue here"
+```
+
 <a id="prompt-b6f34748ee9441b69c1c"></a>
 
 ### 229. Luxury Sportswear Basketball Athlete Campaign Poster
 
-![Luxury Sportswear Basketball Athlete Campaign Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case70/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case70/output.jpg" alt="Luxury Sportswear Basketball Athlete Campaign Poster" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Shorelyn_/status/2047949711181832558)
@@ -5511,76 +5427,30 @@ Lighting is bright luxury studio lighting with crisp highlights, soft shadows, a
 Style should feel modern, minimal, elite, bold, high fashion sports campaign, luxury brand advertisement, clean composition, balanced negative space, strong visual impact, high resolution, square format.
 ```
 
-<a id="prompt-b76207e579b229fe9b2e"></a>
-
-### 230. 鎏金广州塔的东方奇幻海报
-
-![鎏金广州塔的东方奇幻海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case220.jpg)
-
-- **Categories:** 鎏金广州塔的东方奇幻海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-220)
-
-**Prompt:**
-
-```text
-[中文]
-平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色为背景，自上而下渐变至浓烈暗红色，形成强烈冷暖对比与空间纵深，背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿，自底部向上延伸，具有流体质感、粒子光效与渐变高光，局部带细微能量碎屑与体积光。
-
-金色流光中逐层浮现广州城市地标建筑群：广州塔为视觉核心，比例突出，周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素，建筑采用“精细线描 + 金色发光体块”表现，轮廓清晰、细节丰富，在金色光晕映衬下仿佛悬浮于虚空，形成超现实空间层次，远景轻微雾化增强纵深感。
-
-画面底部为一位东方白发女性形象，长发飘逸，如烟似雾，与金色流光自然衔接并逐渐融合，发丝半透明带渐变光感，姿态柔美，双目微闭，神情宁静，怀抱一束多彩鲜花，花间点缀微光粒子与星点效果，象征人与城市能量的精神连接，人物细节适度简化以突出整体设计感。
-
-光影集中于金色流线、建筑与人物轮廓，形成强烈明暗对比与视觉聚焦，整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底，高亮鎏金为主视觉强调，金色具备丰富明暗层次，辅以小面积高饱和花束色彩点缀，整体高级克制。
-
-页面文字与画面融合排版：顶部居中宋体大字“广州·中国”，下方小字“2026/04/20”，再下方小字“LIYUE”，文字采用淡金色或柔和暖白色，与整体光影统一。高品质细节，电影级光影表现，体积光与粒子细节丰富，画面干净无噪点，超高清8K分辨率，商业级海报质感。
-
-[English]
-Flat illustration, Oriental fantasy style high-end city poster design, vertical 9:16 composition, the overall adopts a diagonal + S-shaped flowing composition, extending from the bottom left to the top right, the picture uses deep black as the background, gradually changing from top to bottom to intense dark red, forming a strong cold-warm contrast and spatial depth, the background has a faint stardust and grainy texture. In the center of the picture, a golden flowing energy line winds through like a flame, extending from the bottom to the top, having a fluid texture, particle light effects and gradient highlights, with subtle energy debris and volumetric light in some areas. Guangzhou city landmark building complexes emerge layer by layer in the golden flowing light: Canton Tower is the visual core, with a prominent proportion, surrounded by the integration of Zhujiang New Town high-rise buildings, Liede Bridge and modern and Lingnan architectural elements, the buildings are expressed using "fine line drawing + golden glowing blocks", clear outlines and rich details, set off by the golden halo, they seem to float in the void, forming a surreal spatial hierarchy, the distant view is slightly fogged to enhance the sense of depth. At the bottom of the picture is an oriental white-haired female figure, long hair fluttering, like smoke and mist, naturally connecting and gradually blending with the golden flowing light, the hair is translucent with a gradient light sense, graceful posture, eyes slightly closed, serene expression, holding a bunch of colorful fresh flowers in her arms, interspersed with faint light particles and starlight effects among the flowers, symbolizing the spiritual connection between human and urban energy, character details are moderately simplified to highlight the overall sense of design. Light and shadow are focused on the golden streamlines, buildings and character outlines, forming a strong light-dark contrast and visual focus, the overall atmosphere is grand, mysterious, with an Oriental mythological artistic conception and a slight healing sense. The color uses black and dark red as the base, highlighted gilded gold as the main visual emphasis, the gold has rich light and dark layers, supplemented by small areas of high-saturation bouquet color embellishments, the overall is advanced and restrained. Page text and picture integrated typography: large Song typeface characters "Guangzhou·China" centered at the top, small characters "2026/04/20" below, small characters "LIYUE" further below, the text uses light gold or soft warm white, unifying with the overall light and shadow. High-quality details, cinematic light and shadow performance, rich volumetric light and particle details, clean picture without noise, ultra-high definition 8K resolution, commercial-grade poster texture.
-```
-
 <a id="prompt-b86a025959e1cd201c95"></a>
 
-### 231. 混合风格的桃太郎讲解 Slides
+### 230. Infographic visualization design
 
-![混合风格的桃太郎讲解 Slides](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case19.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case19.jpg" alt="Infographic visualization design" width="480">
 
 A prompt that combines the simple, warm aesthetic of Irasutoya illustrations with the high-information density characteristic of Japanese government slides.
 
-- **Categories:** 信息图可视化设计, Momotaro Explainer Slide in Hybrid Style
+- **Categories:** Infographic visualization design, Momotaro Explainer Slide in Hybrid Style
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-19)
 
 **Prompt:**
 
 ```text
-创建一个讲解型 Slides（{argument name="format" default="ponchi-e diagram"}），主题为 {argument name="theme" default="Momotaro"}，将“Irasutoya”的柔和氛围与“霞关风格 Slides”极高的信息密度完美融合。
-```
-
-<a id="prompt-b9eabf5f9fc9720ed6de"></a>
-
-### 232. 奔赴山海胶片感海报
-
-![奔赴山海胶片感海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case254.jpg)
-
-- **Categories:** 奔赴山海胶片感海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-254)
-
-**Prompt:**
-
-```text
-[中文]
-设计一张主题是”奔赴山海”的胶片感摄影风格的海报
-
-[English]
-Design a poster with the theme of "running towards the mountains and seas" in a film photography style
+Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
 ```
 
 <a id="prompt-ba97412ee40a1c6eafe6"></a>
 
-### 233. 插画艺术风格创作
+### 231. Illustration Art Style Creation
 
-![插画艺术风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case62.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case62.jpg" alt="Illustration Art Style Creation" width="480">
 
-- **Categories:** 插画艺术风格创作
+- **Categories:** Illustration art style creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-62)
 
 **Prompt:**
@@ -5588,7 +5458,7 @@ Design a poster with the theme of "running towards the mountains and seas" in a 
 ```text
 {
   "type": "2x2 grid of banner advertisements",
-  "theme": "{argument name=\"main theme\" default=\"SNSスクール\"} for {argument name=\"target audience\" default=\"ママ\"}",
+  "theme": "{argument name=\"main theme\" default=\"SNS School\"} for {argument name=\"target audience\" default=\"mothers\"}",
   "design_style": "soft, approachable, bright lighting, featuring {argument name=\"color palette\" default=\"soft green, white, and natural beige tones\"}",
   "layout": {
     "sections": [
@@ -5596,50 +5466,50 @@ Design a poster with the theme of "running towards the mountains and seas" in a 
         "position": "top-left",
         "visual_style": "photography",
         "image_description": "Smiling woman working on a laptop at a table, a toddler playing with toys in the blurred background.",
-        "headlines": ["ママの“やってみたい”を応援！", "子育てしながら学べる", "SNSスクール"],
+        "headlines": ["Supporting mothers' 'I want to try!'", "Learn while raising children", "SNS School"],
         "features": {
           "count": 1,
           "type": "icon with text",
-          "labels": ["自宅で無理なくスキルアップ (with house icon)"]
+          "labels": ["Skill up comfortably at home (with house icon)"]
         },
-        "call_to_action_button": "無料相談"
+        "call_to_action_button": "Free consultation"
       },
       {
         "position": "top-right",
         "visual_style": "photography",
         "image_description": "Smiling woman holding a white mug, looking at a laptop.",
-        "headlines": ["ちょっとの時間が、大きな一歩に。", "スキマ時間を未来につなげる", "動画講座で学びやすい"],
+        "headlines": ["A little time, a big step.", "Connect your spare time to your future", "Easy to learn with video courses"],
         "features": {
           "count": 3,
           "type": "circular icons with text below",
-          "labels": ["スマホでも学べる (smartphone icon)", "1日15分からOK (clock icon)", "繰り返し視聴できる (play button icon)"]
+          "labels": ["Learnable on smartphone (smartphone icon)", "OK from 15 minutes a day (clock icon)", "Can be rewatched (play button icon)"]
         },
-        "call_to_action_button": "詳しく見る"
+        "call_to_action_button": "Learn more"
       },
       {
         "position": "bottom-left",
         "visual_style": "watercolor illustration",
         "image_description": "Illustration of a woman with hair in a bun, smiling at a laptop with a green mug nearby.",
-        "headlines": ["はじめてでも大丈夫！ (with beginner mark)", "在宅でできるSNSの仕事", "未経験OK"],
+        "headlines": ["No problem even for beginners! (with beginner mark)", "SNS work you can do from home", "OK for inexperienced"],
         "features": {
           "count": 3,
           "type": "circular icons with text below",
-          "labels": ["サポート充実 (heart icon)", "パソコンが苦手でも安心 (laptop icon)", "収入の柱をつくれる (yen coin icon)"]
+          "labels": ["Full support (heart icon)", "Peace of mind even if you're not good with computers (laptop icon)", "Can create a pillar of income (yen coin icon)"]
         },
-        "call_to_action_button": "体験してみる"
+        "call_to_action_button": "Try it out"
       },
       {
         "position": "bottom-right",
         "visual_style": "photography",
         "image_description": "Smiling mother and young daughter sitting on a sofa reading a picture book together.",
-        "headlines": ["家族との時間も大切に", "自分らしい働き方へ", "ママの笑顔がいちばんの未来になる。"],
+        "headlines": ["Also cherish time with family", "Toward a work style that's true to yourself", "A mother's smile becomes the best future."],
         "features": {
           "count": 3,
           "type": "checkmark bullet points",
-          "labels": ["場所や時間に縛られない", "やりがいも収入も叶う", "子どもの成長をそばで見守れる"]
+          "labels": ["Not bound by location or time", "Both fulfillment and income can be achieved", "Can watch over your child's growth by their side"]
         },
         "extra_graphics": "Small illustration of a house and trees at the bottom left.",
-        "call_to_action_button": "説明会へ"
+        "call_to_action_button": "To information session"
       }
     ],
     "common_elements": "All panels feature a {argument name=\"button style\" default=\"rounded green pill button with white text and a right-pointing arrow icon\"} at the bottom."
@@ -5647,66 +5517,28 @@ Design a poster with the theme of "running towards the mountains and seas" in a 
 }
 ```
 
-<a id="prompt-bb5e2ef35eff5e4f3989"></a>
-
-### 234. 金瓶梅古风开放世界游戏截图
-
-![金瓶梅古风开放世界游戏截图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case213.jpg)
-
-- **Categories:** 金瓶梅古风开放世界游戏截图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-213)
-
-**Prompt:**
-
-```text
-[中文]
-帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图
-
-[English]
-Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.
-```
-
-<a id="prompt-c1077551f3de88365696"></a>
-
-### 235. 梦幻波士顿春季城市海报
-
-![梦幻波士顿春季城市海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case298.jpg)
-
-- **Categories:** 梦幻波士顿春季城市海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-298)
-
-**Prompt:**
-
-```text
-[中文]
-一张引人注目的2026年春季波士顿城市海报，具有优雅的庆典氛围和大胆的当代设计。在干净的米白色纹理背景上，带有大面积的留白，一个微型的单人赛艇手在图像右下角一条狭窄的反光水带上划行。船桨划出的尾波以动态的书法曲线向上扫过，逐渐变成查尔斯河，然后再变成一幅梦幻般的手绘波士顿全景。在这个流动的河流形状的构图中包含着标志性的波士顿元素：后湾天际线、灯塔山红砖联排别墅、橡树街、波士顿公共花园、天鹅船、扎基姆桥、芬威球场启发的细节、历史悠久的砖砌建筑、港口渡轮，以及这座城市的水滨氛围。柔和的晨雾，金色的春季光线，深红和金色的微妙节日点缀，丰富的细节，层次分明的深度，精致的城市海报美学，清新而优雅，视觉上强有力但不拥挤。左下角的优雅排版写着“SPRING 2026”，并附有垂直标语“BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”，文字清晰且构图优美，高端平面设计，9:16
-
-[English]
-A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
-```
-
 <a id="prompt-c53377f80f4f35e1020f"></a>
 
-### 236. 插画艺术风格创作
+### 232. Illustration art style creation
 
-![插画艺术风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case41.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case41.jpg" alt="Illustration art style creation" width="480">
 
-- **Categories:** 插画艺术风格创作
+- **Categories:** Illustration art style creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-41)
 
 **Prompt:**
 
 ```text
-{ "type": "VTuber profile sheet", "theme": "{argument name=\"color theme\" default=\"purple and white\"}, elegant, lace, ribbon motifs", "character": { "name": "{argument name=\"character name\" default=\"紫咲リリー\"}", "archetype": "{argument name=\"character archetype\" default=\"elegant ojousama\"}", "appearance": "anime girl, long black hair with purple highlights, purple eyes, wearing a white blazer, purple pleated skirt, thigh-highs, ribbons", "pose": "standing, finger to lips, looking slightly to the side" }, "chibi_character": { "appearance": "same character in chibi form", "pose": "sitting down, smiling" }, "layout": { "header": { "top_left": "Ribbon banner reading 'VTuber Profile'", "top_center": "Logo with text '{argument name=\"vtuber type\" default=\"清楚系お嬢様Vtuber\"}' and '{argument name=\"character name\" default=\"紫咲リリー\"}' and 'Shisaki Lily'", "top_right": "Quote '{argument name=\"catchphrase\" default=\"皆さまの心に、優雅なひとときをお届けしますわ\"}' followed by a 3-line introductory paragraph" }, "columns": [ { "position": "left", "content": "Full-body character portrait" }, { "position": "center", "sections": [ { "title": "Profile", "count": 9, "labels": ["名前", "誕生日", "年齢", "身長", "属性", "一人称", "出身", "職業", "活動開始日"] }, { "title": "Personality", "content": "2-line text block" }, { "title": "Hobby & Special Skill", "count": 2, "labels": ["趣味", "特技"] }, { "title": "Like & Dislike", "count": 2, "labels": ["好きなもの", "苦手なもの"] } ] }, { "position": "right", "sections": [ { "title": "Streaming Content", "content": "1-line text block" }, { "title": "Schedule", "count": 2, "labels": ["配信時間", "配信頻度"] }, { "title": "Goals", "content": "3-line text block" }, { "title": "Fan & Tag", "count": 3, "labels": ["ファンネーム", "ファンアートタグ", "総合タグ"], "extra": "4 hashtag rows with small icons" }, { "title": "Creator", "count": 3, "labels": ["イラストレーター (ママ)", "モデラー (パパ)", "使用モデル"] }, { "title": "Links", "count": 4, "labels": ["YouTube", "X (Twitter)", "BOOTH", "FANBOX"] }, { "content": "Chibi character illustration placed at the bottom right corner" } ] } ], "footer": { "sections": [ { "title": "Rules", "count": 3, "description": "3 bullet points with heart icons" }, { "content": "2-line closing message at the bottom center" } ] } } }
+{ "type": "VTuber profile sheet", "theme": "{argument name=\"color theme\" default=\"purple and white\"}, elegant, lace, ribbon motifs", "character": { "name": "{argument name=\"character name\" default=\"紫咲リリー\"}", "archetype": "{argument name=\"character archetype\" default=\"elegant ojousama\"}", "appearance": "anime girl, long black hair with purple highlights, purple eyes, wearing a white blazer, purple pleated skirt, thigh-highs, ribbons", "pose": "standing, finger to lips, looking slightly to the side" }, "chibi_character": { "appearance": "same character in chibi form", "pose": "sitting down, smiling" }, "layout": { "header": { "top_left": "Ribbon banner reading 'VTuber Profile'", "top_center": "Logo with text '{argument name=\"vtuber type\" default=\"清楚系お嬢様Vtuber\"}' and '{argument name=\"character name\" default=\"紫咲リリー\"}' and 'Shisaki Lily'", "top_right": "Quote '{argument name=\"catchphrase\" default=\"皆さまの心に、優雅なひとときをお届けしますわ\"}' followed by a 3-line introductory paragraph" }, "columns": [ { "position": "left", "content": "Full-body character portrait" }, { "position": "center", "sections": [ { "title": "Profile", "count": 9, "labels": ["Name", "Birthday", "Age", "Height", "Attribute", "Pronoun", "Origin", "Occupation", "Debut Date"] }, { "title": "Personality", "content": "2-line text block" }, { "title": "Hobby & Special Skill", "count": 2, "labels": ["Hobby", "Special Skill"] }, { "title": "Like & Dislike", "count": 2, "labels": ["Likes", "Dislikes"] } ] }, { "position": "right", "sections": [ { "title": "Streaming Content", "content": "1-line text block" }, { "title": "Schedule", "count": 2, "labels": ["Streaming Time", "Streaming Frequency"] }, { "title": "Goals", "content": "3-line text block" }, { "title": "Fan & Tag", "count": 3, "labels": ["Fan Name", "Fan Art Tag", "Overall Tag"], "extra": "4 hashtag rows with small icons" }, { "title": "Creator", "count": 3, "labels": ["Illustrator (Mom)", "Modeler (Dad)", "Used Model"] }, { "title": "Links", "count": 4, "labels": ["YouTube", "X (Twitter)", "BOOTH", "FANBOX"] }, { "content": "Chibi character illustration placed at the bottom right corner" } ] } ] }, "footer": { "sections": [ { "title": "Rules", "count": 3, "description": "3 bullet points with heart icons" }, { "content": "2-line closing message at the bottom center" } ] } } }
 ```
 
 <a id="prompt-c733140b73bd7a097755"></a>
 
-### 237. 主题海报版式设计
+### 233. Themed poster layout design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case58.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case58.jpg" alt="Themed poster layout design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-58)
 
 **Prompt:**
@@ -5725,9 +5557,9 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 
 <a id="prompt-c991c2cff3d7cb7ddc98"></a>
 
-### 238. Avant-Garde Tennis Racket Sculpture Sports Fashion Ad
+### 234. Avant-Garde Tennis Racket Sculpture Sports Fashion Ad
 
-![Avant-Garde Tennis Racket Sculpture Sports Fashion Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case74/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case74/output.jpg" alt="Avant-Garde Tennis Racket Sculpture Sports Fashion Ad" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIwithSynthia/status/2047884609321619831)
@@ -5740,9 +5572,9 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 
 <a id="prompt-d53181a8eab2eeb923c9"></a>
 
-### 239. Aspect Ratio: 9:16 Vertical
+### 235. Aspect Ratio: 9:16 Vertical
 
-![Aspect Ratio: 9:16 Vertical](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg" alt="Aspect Ratio: 9:16 Vertical" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/GeekCatX/status/2047220831491858766)
@@ -5789,36 +5621,13 @@ Structure: A visible, crisp white standing inner collar provides a clean boundar
 Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with palpable fiber texture. The embroidery is heavy industry—using panjin goldwork, couched gold
 ```
 
-<a id="prompt-d6e47b5af78afb984f4c"></a>
-
-### 240. 鲜艳霓虹光影下的动感苏打水飞溅商业海报
-
-![鲜艳霓虹光影下的动感苏打水飞溅商业海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case312.jpg)
-
-- **Categories:** 鲜艳霓虹光影下的动感苏打水飞溅商业海报
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-312)
-
-**Prompt:**
-
-```text
-[中文]
-{
-  "prompt": "一个充满活力的高端广告构图中的三个超动态苏打水罐 —— 一罐热带冲刺苏打水伴随着戏剧性的水和热带水果飞溅而爆炸，鲜艳的橙色和粉色背景光；一罐柠檬冰爽苏打水在发光的绿色动态光背景下被冷水泼溅；两罐都覆盖着逼真的冷凝水和运动模糊的水滴，充满果味和清爽的能量。深橙色、粉色和霓虹绿灯光在大胆的演播室布置中融合。由使用佳能 50mm 镜头的专业摄影师拍摄，超写实纹理，清晰的细节，超高分辨率，明亮的商业海报美学，丰富的色彩鲜艳度，电影级飞溅效果 --ar 3:4"
-}
-
-[English]
-{
-  "prompt": "Three ultra-dynamic soda cans in one vibrant high-end advertising composition — a can of TROPICAL RUSH exploding with dramatic water and tropical fruit splash, vibrant orange and pink background lighting; a can of LEMON ICED splashed with cold water against a glowing green dynamic light background; both cans covered in realistic condensation and motion-blurred droplets, bursting with fruity, refreshing energy. Deep orange, pink, and neon green lighting blend together in a bold studio setup. Captured by a professional photographer using a Canon 50mm lens, hyper-realistic textures, crisp details, ultra high resolution, bright commercial poster aesthetic, rich color vibrancy, cinematic splash effects --ar 3:4"
-}
-```
-
 <a id="prompt-d7f77ccdb28789d5f11a"></a>
 
-### 241. 主题海报版式设计
+### 236. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case117.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case117.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-117)
 
 **Prompt:**
@@ -5827,26 +5636,41 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name="patient character" default="sad anthropomorphic avocado half missing its pit"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads "{argument name="speech text" default="I just feel so empty inside"}". On the right, the therapist, an {argument name="therapist character" default="anthropomorphic silver spoon"}, sits in a green armchair, holding a yellow pencil and writing on a notepad labeled "NOTES". The room has warm lighting, a beige rug on a wooden floor, and a bookshelf with a tissue box and books, one titled "REFLECT LISTEN VALIDATE". On the left wall hangs a framed poster reading "{argument name="poster text" default="IT'S OKAY TO FEEL YOUR FEELINGS"}" with a small heart. On the right wall hangs a framed diploma reading "{argument name="diploma text" default="SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION"}" featuring a small spoon illustration and a gold seal.
 ```
 
+<a id="prompt-d8a6b3a49263b9ad3a78"></a>
+
+### 237. Amalfi Coast Vintage Travel Poster
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case278.jpg" alt="Amalfi Coast Vintage Travel Poster" width="480">
+
+- **Categories:** Amalfi Coast Vintage Travel Poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-278)
+
+**Prompt:**
+
+```text
+Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
+```
+
 <a id="prompt-d992123990ae824392e6"></a>
 
-### 242. 足球主题电影海报
+### 238. Football themed movie poster
 
-![足球主题电影海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case3.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case3.jpg" alt="Football themed movie poster" width="480">
 
-- **Categories:** 足球主题电影海报
+- **Categories:** categories.category_143650e574.en: Football themed movie poster
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-3)
 
 **Prompt:**
 
 ```text
-生成一张「足球主题电影海报」风格的高清写真海报：国际米兰后卫巴斯托尼站在圣西罗球场中央激情庆祝，双手高举并披着波黑国旗，神情热血、坚定、自信，现场灯光璀璨，球场看台座无虚席，背景有蓝黑色烟雾、聚光灯、飘扬的旗帜和飞舞的纸屑，营造欧冠之夜般的史诗氛围。人物为画面核心，半身到全身构图，突出脸部细节、肌肉张力与球衣质感。整体风格写实、震撼、富有戏剧性，海报级构图，电影感光影，高对比度，超清细节，8K，专业体育摄影，极具视觉冲击力。五根手指。
+Generate a high-definition photo poster in the style of a 'football-themed movie poster': Inter Milan defender Bastoni standing passionately in the center of San Siro stadium, raising his hands high while holding the Bosnian flag, with a passionate, determined, and confident expression. The stadium is brilliantly lit with packed stands in the background. Blue and black smoke, spotlights, fluttering flags, and flying confetti create an epic atmosphere reminiscent of a Champions League night. The person is the core of the image, with a composition ranging from half-body to full-body, highlighting facial details, muscle tension, and jersey texture. The overall style is realistic, stunning, and dramatic with poster-level composition, cinematic lighting, high contrast, ultra-clear details, 8K quality, professional sports photography, and highly impactful visuals. Five fingers.
 ```
 
 <a id="prompt-db1023081f56ce3a8f2c"></a>
 
-### 243. 主题海报版式设计
+### 239. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case116.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case116.jpg" alt="主题海报版式设计" width="480">
 
 - **Categories:** 主题海报版式设计
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-116)
@@ -5880,26 +5704,41 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
 }
 ```
 
+<a id="prompt-de755d693364a93cb683"></a>
+
+### 240. 国风工笔八仙长卷插画
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case206.jpg" alt="国风工笔八仙长卷插画" width="480">
+
+- **Categories:** Traditional Chinese meticulous brushwork illustration of the Eight Immortals in a long scroll format
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-206)
+
+**Prompt:**
+
+```text
+(Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
+```
+
 <a id="prompt-df9c3a42adc52f5dc3a7"></a>
 
-### 244. 主题海报版式设计
+### 241. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case15.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case15.jpg" alt="主题海报版式设计" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-15)
 
 **Prompt:**
 
 ```text
-生成一张海报图片，图片人物是一个19岁的中国少女，黑色直长发，很开心的在夜宵摊上喝啤酒吃小龙虾。海报上用芥末黄色艺术字写着，趁年轻，激爽才够味！
+Generate a poster image featuring a 19-year-old Chinese girl with straight black hair, happily drinking beer and eating crayfish at a late-night food stall. The poster should feature artistic text in mustard yellow color that says, "While you're young, excitement is the only flavor!"
 ```
 
 <a id="prompt-dfca68d8fc75341fbb65"></a>
 
-### 245. A professional product photography shot of a cold sparkling water
+### 242. A professional product photography shot of a cold sparkling water
 
-![A professional product photography shot of a cold sparkling water](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg" alt="A professional product photography shot of a cold sparkling water" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/meng_dagg695/status/2047227172486824002)
@@ -5926,11 +5765,11 @@ Commercial product photography, ultra-detailed, 8K.
 
 <a id="prompt-e2f53009c40ea4f7961b"></a>
 
-### 246. 插画艺术风格创作
+### 243. Illustration Art Style Creation
 
-![插画艺术风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case126.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case126.jpg" alt="Illustration Art Style Creation" width="480">
 
-- **Categories:** 插画艺术风格创作
+- **Categories:** Illustration art style creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-126)
 
 **Prompt:**
@@ -5941,9 +5780,9 @@ An anime-style light novel cover illustration featuring two characters in an int
 
 <a id="prompt-e71ae245672907b54658"></a>
 
-### 247. A Chinese Odyssey 90s Hong Kong Poster
+### 244. A Chinese Odyssey 90s Hong Kong Poster
 
-![A Chinese Odyssey 90s Hong Kong Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case90/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case90/output.jpg" alt="A Chinese Odyssey 90s Hong Kong Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/songguoxiansen/status/2047201597697245252)
@@ -5956,11 +5795,26 @@ An anime-style light novel cover illustration featuring two characters in an int
 图片2：杜蕾斯吉祥物×猪八戒，八戒害羞脸红遮面，文案取经路上要安全
 ```
 
+<a id="prompt-e84562753fabffeb68ed"></a>
+
+### 245. Gilded Canton Tower's Eastern Fantasy Poster
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case220.jpg" alt="Gilded Canton Tower's Eastern Fantasy Poster" width="480">
+
+- **Categories:** Gilded Canton Tower's Eastern Fantasy Poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-220)
+
+**Prompt:**
+
+```text
+Flat illustration, Oriental fantasy style high-end city poster design, vertical 9:16 composition, the overall adopts a diagonal + S-shaped flowing composition, extending from the bottom left to the top right, the picture uses deep black as the background, gradually changing from top to bottom to intense dark red, forming a strong cold-warm contrast and spatial depth, the background has a faint stardust and grainy texture. In the center of the picture, a golden flowing energy line winds through like a flame, extending from the bottom to the top, having a fluid texture, particle light effects and gradient highlights, with subtle energy debris and volumetric light in some areas. Guangzhou city landmark building complexes emerge layer by layer in the golden flowing light: Canton Tower is the visual core, with a prominent proportion, surrounded by the integration of Zhujiang New Town high-rise buildings, Liede Bridge and modern and Lingnan architectural elements, the buildings are expressed using "fine line drawing + golden glowing blocks", clear outlines and rich details, set off by the golden halo, they seem to float in the void, forming a surreal spatial hierarchy, the distant view is slightly fogged to enhance the sense of depth. At the bottom of the picture is an oriental white-haired female figure, long hair fluttering, like smoke and mist, naturally connecting and gradually blending with the golden flowing light, the hair is translucent with a gradient light sense, graceful posture, eyes slightly closed, serene expression, holding a bunch of colorful fresh flowers in her arms, interspersed with faint light particles and starlight effects among the flowers, symbolizing the spiritual connection between human and urban energy, character details are moderately simplified to highlight the overall sense of design. Light and shadow are focused on the golden streamlines, buildings and character outlines, forming a strong light-dark contrast and visual focus, the overall atmosphere is grand, mysterious, with an Oriental mythological artistic conception and a slight healing sense. The color uses black and dark red as the base, highlighted gilded gold as the main visual emphasis, the gold has rich light and dark layers, supplemented by small areas of high-saturation bouquet color embellishments, the overall is advanced and restrained. Page text and picture integrated typography: large Song typeface characters "Guangzhou·China" centered at the top, small characters "2026/04/20" below, small characters "LIYUE" further below, the text uses light gold or soft warm white, unifying with the overall light and shadow. High-quality details, cinematic light and shadow performance, rich volumetric light and particle details, clean picture without noise, ultra-high definition 8K resolution, commercial-grade poster texture.
+```
+
 <a id="prompt-e9c2d6504acaa87924ef"></a>
 
-### 248. Luxury Fashion Magazine Cover Black and White
+### 246. Luxury Fashion Magazine Cover Black and White
 
-![Luxury Fashion Magazine Cover Black and White](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case77/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case77/output.jpg" alt="Luxury Fashion Magazine Cover Black and White" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/iamrealsnow/status/2047883187527856345)
@@ -5975,9 +5829,9 @@ Style should feel premium, modern, cinematic, clean composition, sharp focus, ul
 
 <a id="prompt-ea1be5433a7c8b0a9d76"></a>
 
-### 249. Surrealist Liquor Brand High Fashion Poster
+### 247. Surrealist Liquor Brand High Fashion Poster
 
-![Surrealist Liquor Brand High Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" alt="Surrealist Liquor Brand High Fashion Poster" width="480">
 
 - **Categories:** Poster & Illustration Cases, poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/rs_elwood/status/2047192228758692036)
@@ -5995,9 +5849,9 @@ Establecer la relación de aspecto en 3:4.
 
 <a id="prompt-eb6d5e25267fc6b1b6f7"></a>
 
-### 250. Gummiente-Junge Realfilm-Poster
+### 248. Rubber Duck Boy Live-action Film Poster
 
-![Gummiente-Junge Realfilm-Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case116/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case116/output.jpg" alt="Rubber Duck Boy Live-action Film Poster" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mirai_ai2050/status/2046944941583270341)
@@ -6005,18 +5859,18 @@ Establecer la relación de aspecto en 3:4.
 **Prompt:**
 
 ```text
-可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。
+The story of a cute rubber duck boy 'RUHiA' who embarks on a great adventure aiming for Japan and meets a Japanese woman 'Mirai'. Make it look like a live-action movie poster.
 
-参照画像入れてないのに女性もミライの雰囲気に似てない？
+You didn't include a reference image, and the woman doesn't seem to have Mirai's atmosphere?
 ```
 
 <a id="prompt-ef656d8f57e6419e859b"></a>
 
-### 251. 插画艺术创作图
+### 249. Artistic Illustration Creation
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case34.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case34.jpg" alt="Artistic Illustration Creation" width="480">
 
-- **Categories:** 插画艺术创作图
+- **Categories:** Illustration art creation
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-34)
 
 **Prompt:**
@@ -6045,7 +5899,7 @@ Establecer la relación de aspecto en 3:4.
           {"label": "White Dragon Horse", "description": "white horse with golden bridle"},
           {"label": "Jade Emperor", "description": "older man with white beard and golden crown"},
           {"label": "Guanyin", "description": "goddess holding a willow branch"},
-          {"label": "Bull Demon Kink", "description": "fierce bull demon in armor"}
+          {"label": "Bull Demon King", "description": "fierce bull demon in armor"}
         ]
       },
       {
@@ -6068,24 +5922,24 @@ Establecer la relación de aspecto en 3:4.
 
 <a id="prompt-f317e154bfe7e5dc2aa3"></a>
 
-### 252. 主题海报版式设计
+### 250. Themed Poster Layout Design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case63.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case63.jpg" alt="Themed Poster Layout Design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-63)
 
 **Prompt:**
 
 ```text
-{"type": "2x2 grid of promotional banner ads", "theme": "{argument name=\"course theme\" default=\"Social Media Content Creation School\"}", "panels": [{"position": "top-left", "color_palette": "light blue and pink pastel gradient", "subject": "young woman smiling, resting chin on hand, smartphone and ring light in foreground", "typography": {"headline": "{argument name=\"top left headline\" default=\"発信を仕事に変える SNSスクール\"}", "subheadings": ["好きが、私の未来になる！", "クリエイター志望歓迎！"]}, "layout_elements": {"bullet_points_count": 3, "call_to_action_button": "pink button labeled '無料体験 >'"}}, {"position": "top-right", "color_palette": "deep blue and cyan geometric", "subject": "young man looking intently at a professional camera on a tripod with a ring light", "typography": {"headline": "{argument name=\"top right headline\" default=\"魅せる投稿が学べる\"}", "subheadings": ["企画・撮影・運用サポート"]}, "layout_elements": {"circular_icons_count": 3, "icon_types": ["lightbulb", "camera", "bar chart"], "call_to_action_button": "yellow button labeled '詳細はこちら >'"}}, {"position": "bottom-left", "color_palette": "soft beige and white aesthetic", "subject": "young woman looking thoughtfully to the side, mood board background", "typography": {"headline": "{argument name=\"bottom left headline\" default=\"自分の世界観を育てる\"}", "subheadings": ["あなたらしさが、一番の強みになる。", "SNSブランディング講座"]}, "layout_elements": {"horizontal_icons_count": 3, "icon_types": ["palette", "person", "heart"], "call_to_action_button": "pink button labeled '今すぐ見る >'"}}, {"position": "bottom-right", "color_palette": "vibrant pink and magenta pop design", "subject": "young woman smiling brightly, pointing at text, messy bun, smartphone on tripod", "typography": {"headline": "{argument name=\"bottom right headline\" default=\"好きな発信でファンをつくる\"}", "subheadings": ["実践型レッスン"]}, "layout_elements": {"bullet_points_count": 4, "call_to_action_button": "yellow button labeled '申し込む >'"}}]}
+{"type": "2x2 grid of promotional banner ads", "theme": "{argument name=\"course theme\" default=\"Social Media Content Creation School\"}", "panels": [{"position": "top-left", "color_palette": "light blue and pink pastel gradient", "subject": "young woman smiling, resting chin on hand, smartphone and ring light in foreground", "typography": {"headline": "{argument name=\"top left headline\" default=\"Turn your content creation into a career with our Social Media School\"}", "subheadings": ["What you love becomes your future!", "Aspiring creators welcome!"]}, "layout_elements": {"bullet_points_count": 3, "call_to_action_button": "pink button labeled 'Free Trial >'"}}, {"position": "top-right", "color_palette": "deep blue and cyan geometric", "subject": "young man looking intently at a professional camera on a tripod with a ring light", "typography": {"headline": "{argument name=\"top right headline\" default=\"Learn to create eye-catching posts\"}", "subheadings": ["Planning, shooting, and operation support"]}, "layout_elements": {"circular_icons_count": 3, "icon_types": ["lightbulb", "camera", "bar chart"], "call_to_action_button": "yellow button labeled 'Learn More >'"}}, {"position": "bottom-left", "color_palette": "soft beige and white aesthetic", "subject": "young woman looking thoughtfully to the side, mood board background", "typography": {"headline": "{argument name=\"bottom left headline\" default=\"Develop your unique worldview\"}", "subheadings": ["Your uniqueness is your greatest strength.", "SNS Branding Course"]}, "layout_elements": {"horizontal_icons_count": 3, "icon_types": ["palette", "person", "heart"], "call_to_action_button": "pink button labeled 'View Now >'"}}, {"position": "bottom-right", "color_palette": "vibrant pink and magenta pop design", "subject": "young woman smiling brightly, pointing at text, messy bun, smartphone on tripod", "typography": {"headline": "{argument name=\"bottom right headline\" default=\"Build fans through content you love creating\"}", "subheadings": ["Hands-on lessons"]}, "layout_elements": {"bullet_points_count": 4, "call_to_action_button": "yellow button labeled 'Sign Up >'"}}]}
 ```
 
 <a id="prompt-f3aaca64e870d43c3ce1"></a>
 
-### 253. Lu Xun Morning Flowers Illustration
+### 251. Lu Xun Morning Flowers Illustration
 
-![Lu Xun Morning Flowers Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case95/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case95/output.jpg" alt="Lu Xun Morning Flowers Illustration" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Aurora_62340/status/2047139992355680530)
@@ -6096,11 +5950,26 @@ Establecer la relación de aspecto en 3:4.
 结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧
 ```
 
+<a id="prompt-f454bcbe21aa3cc093fd"></a>
+
+### 252. Ice and Fire Twin Heroes Back to Back Epic Movie Poster
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case320.jpg" alt="Ice and Fire Twin Heroes Back to Back Epic Movie Poster" width="480">
+
+- **Categories:** Ice and Fire Twin Heroes Back-to-Back Epic Movie Poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-320)
+
+**Prompt:**
+
+```text
+A dramatic cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm. On the left, a battle-worn male warrior with wet, curly dark hair, head bowed in quiet resolve, gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak and shoulders. On the right, a powerful female warrior in profile, pale skin glowing with fiery orange light, her body partially engulfed in flames thatcontrast against the icy blue atmosphere. Snow particles swirl through the air, blending fire and ice in a symbolic clash. Ultra-detailed faces, emotional intensity, volumetric fog, cinematic lighting, cold blue tones mixed with warm fire highlights, shallow depth of field, epic fantasy movie poster, hyper-realistic, 8K resolution, dramatic composition, sharp focus, high contrast, photorealistic textures.
+```
+
 <a id="prompt-f6b3585c3d87447dc6a1"></a>
 
-### 254. SPLASH Fashion Brand Hyper-Realistic Campaign Poster
+### 253. SPLASH Fashion Brand Hyper-Realistic Campaign Poster
 
-![SPLASH Fashion Brand Hyper-Realistic Campaign Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case80/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case80/output.jpg" alt="SPLASH Fashion Brand Hyper-Realistic Campaign Poster" width="480">
 
 - **Categories:** poster
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/miratechtool/status/2047780974709346606)
@@ -6118,30 +5987,105 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 
 <a id="prompt-f8f00d7d0dc7893540a2"></a>
 
-### 255. 主题海报版式设计
+### 254. Themed poster layout design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case153.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case153.jpg" alt="Themed poster layout design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Thematic poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-153)
 
 **Prompt:**
 
 ```text
-Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name="main headline" default="元气祛湿 鸡煲汤包"} and a smaller subtitle {argument name="subtitle" default="吃山林土货 味道当然好!"}. On the left side, add a new woven basket containing exactly 6 distinct piles of ingredients: woody root sticks, white square cubes, round sliced brown roots, yellow soybeans, dried orange peel strips, and dark red dates. Attach 6 small brown rectangular labels with white text to these ingredients. Below the chicken, add a circular orange badge containing the text {argument name="ingredients list" default="内含有:五指毛桃、茯苓、土茯苓、黄豆、陈皮、红枣"}. At the bottom, create a solid orange rectangular banner featuring a cooking pot icon, the text {argument name="usage instructions" default="用法:把汤料清洗干净放入锅中，加入姜片煮20分钟，后加入鸡肉再煮20分钟即可。"}, and a secondary slogan {argument name="bottom slogan" default="天然好料 滋补好汤"}.
+Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name="main headline" default="Qi-Removing Dampness Chicken Soup Mix"} and a smaller subtitle {argument name="subtitle" default="Natural mountain ingredients, naturally delicious!"}. On the left side, add a new woven basket containing exactly 6 distinct piles of ingredients: woody root sticks, white square cubes, round sliced brown roots, yellow soybeans, dried orange peel strips, and dark red dates. Attach 6 small brown rectangular labels with white text to these ingredients. Below the chicken, add a circular orange badge containing the text {argument name="ingredients list" default="Contains: Five-fingered peach, Poria, Tuckahoe, Soybeans, Dried tangerine peel, Red dates"}. At the bottom, create a solid orange rectangular banner featuring a cooking pot icon, the text {argument name="usage instructions" default="Usage: Clean the soup ingredients, put them in a pot, add ginger slices and cook for 20 minutes, then add chicken and cook for another 20 minutes."}, and a secondary slogan {argument name="bottom slogan" default="Natural ingredients, nourishing soup"}.
+```
+
+<a id="prompt-fb3d4f9c5af79744e2ba"></a>
+
+### 255. A movie poster using layered montage composition
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case275.jpg" alt="A movie poster using layered montage composition" width="480">
+
+- **Categories:** A movie poster using layered montage composition
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-275)
+
+**Prompt:**
+
+```text
+A cinematic movie poster utilizing a layered montage composition. In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road. In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun. Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting. In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting. Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu. Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'."
+  segmented:
+    - layer_index: 0
+      segment: "In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road."
+    - layer_index: 1
+      segment: "In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun."
+    - layer_index: 2
+      segment: "Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting."
+    - layer_index: 3
+      segment: "In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting."
+    - layer_index: 4
+      segment: "Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu."
+    - layer_indices: [5, 6, 7, 8]
+      segment: "Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'."
+
+negative: "flat lighting, untextured surfaces, symmetrical composition, empty bottom margin, missing text, translated text, paraphrased text, 3D render, cartoon, high-contrast harsh shadows, dry hair, bright cheerful expressions
+```
+
+<a id="prompt-fba40f5e3af1145d4ce6"></a>
+
+### 256. Epic sci-fi movie poster design
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case191.jpg" alt="Epic sci-fi movie poster design" width="480">
+
+- **Categories:** Epic science fiction movie poster design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-191)
+
+**Prompt:**
+
+```text
+Create a Science fiction movie poster
 ```
 
 <a id="prompt-fdb12d5250bd6d1a4563"></a>
 
-### 256. 主题海报版式设计
+### 257. title.translations.en: Theme poster layout design
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case9.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case9.jpg" alt="title.translations.en: Theme poster layout design" width="480">
 
-- **Categories:** 主题海报版式设计
+- **Categories:** Theme poster layout design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-9)
 
 **Prompt:**
 
 ```text
-2026中国城市系列宣传海报，主题为【北京】。现代、多彩、明亮通透的国潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰需结合北京地域文化定制。红绸延展为城市长卷，融合天坛、长城、鸟巢、喇叭沟门原始森林公园、什刹海、京味相声。左侧排版SPRING 2026、竖排Beijing和小印章“北京”。要求统一系列感，但不能雷同，细节丰富，城市辨识度强。文字清晰且精美布局，高端图形设计。
+2026 Chinese City Series promotional poster, theme: [Beijing]. Modern, colorful, bright and transparent Guochao style, vertical 9:16 format. Large area of white textured blank background, a red silk ribbon spiraling from bottom right to top left forms the main S-shaped composition. In the bottom right corner, an Eastern woman waving a red silk ribbon, clothing needs to be customized with Beijing regional cultural elements. The red silk ribbon extends into a city scroll, integrating Temple of Heaven, Great Wall, Bird's Nest, Labagoumen Primitive Forest Park, Shichahai, and Beijing-style crosstalk. Left side layout: SPRING 2026, vertically arranged Beijing, and a small seal "Beijing". Requires unified series feel but not identical, rich details, strong city recognition. Clear text with exquisite layout, high-end graphic design.
+```
+
+<a id="prompt-fe7923547764ffb437c1"></a>
+
+### 258. Dreamy Boston Spring City Poster
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case298.jpg" alt="Dreamy Boston Spring City Poster" width="480">
+
+- **Categories:** Dreamy Boston Spring City Poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-298)
+
+**Prompt:**
+
+```text
+A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
+```
+
+<a id="prompt-ffa2b71b556ca8c62923"></a>
+
+### 259. title.translations.en: Journey to Mountains and Seas Film Poster
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case254.jpg" alt="title.translations.en: Journey to Mountains and Seas Film Poster" width="480">
+
+- **Categories:** Adventure to Mountains and Seas Film Poster
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-254)
+
+**Prompt:**
+
+```text
+Design a poster with the theme of "running towards the mountains and seas" in a film photography style
 ```

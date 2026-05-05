@@ -16,6 +16,13 @@ function unique(items) {
   return Array.from(new Set(compact(items).map(item => String(item))));
 }
 
+function cleanGeneratedValue(value) {
+  return String(value || '')
+    .trim()
+    .replace(/^Field:\s*[^\r\n]+(?:\r?\n){2,}/i, '')
+    .trim();
+}
+
 function parseList(value, fallback = []) {
   if (Array.isArray(value)) return value.map(item => String(item).trim()).filter(Boolean);
   if (!value) return fallback;
@@ -31,7 +38,10 @@ function localizedCandidates(field) {
   return compact([
     field.original,
     ...Object.values(field.translations || {})
-  ]).filter(item => item && typeof item.value === 'string' && item.value.trim());
+  ])
+    .filter(item => item && typeof item.value === 'string')
+    .map(item => ({ ...item, value: cleanGeneratedValue(item.value) }))
+    .filter(item => item.value);
 }
 
 function selectLocalizedValue(field, language, fallbackLanguages = ['en']) {
@@ -48,19 +58,21 @@ function selectLocalizedValue(field, language, fallbackLanguages = ['en']) {
   const desiredLanguages = languageFallbacks(language, fallbackLanguages);
   for (const desiredLanguage of desiredLanguages) {
     const translation = field?.translations?.[desiredLanguage];
-    if (translation?.value) {
+    const translationValue = cleanGeneratedValue(translation?.value);
+    if (translationValue) {
       return {
         language: translation.language || desiredLanguage,
-        value: translation.value,
+        value: translationValue,
         source: translation.source || 'unknown',
         isFallback: desiredLanguage !== language
       };
     }
 
-    if (field?.original?.language === desiredLanguage && field.original.value) {
+    const originalValue = cleanGeneratedValue(field?.original?.value);
+    if (field?.original?.language === desiredLanguage && originalValue) {
       return {
         language: field.original.language,
-        value: field.original.value,
+        value: originalValue,
         source: field.original.source || 'upstream',
         isFallback: desiredLanguage !== language
       };
@@ -83,10 +95,12 @@ function taxonomyKey(item) {
 function selectLocalizedTaxonomy(items, language, fallbackLanguages = ['en']) {
   const groups = new Map();
   for (const item of items || []) {
-    if (!item?.value) continue;
-    const key = taxonomyKey(item);
+    const value = cleanGeneratedValue(item?.value);
+    if (!value) continue;
+    const normalizedItem = { ...item, value };
+    const key = taxonomyKey(normalizedItem);
     if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push(item);
+    groups.get(key).push(normalizedItem);
   }
 
   const values = [];

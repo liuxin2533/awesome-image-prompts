@@ -5,6 +5,7 @@ const os = require('node:os');
 const path = require('node:path');
 
 const {
+  buildCollectionDoc,
   buildReadme,
   collectionSlug,
   fenceCode,
@@ -65,16 +66,43 @@ test('fenceCode strips trailing whitespace from generated markdown lines', () =>
   assert.equal(fenceCode('alpha   \nbeta\t '), '```text\nalpha\nbeta\n```');
 });
 
-test('buildReadme renders every prompt with preview, source, and prompt body', () => {
+test('buildReadme renders a professional catalog entry point with website and collection links', () => {
   const markdown = buildReadme(samplePrompts('en'), { language: 'en' });
 
   assert.match(markdown, /# awesome-image-prompts/);
+  assert.match(markdown, /<div align="center">/);
+  assert.match(markdown, /img\.shields\.io\/badge\/Website-gptimages\.dev-black/);
+  assert.match(markdown, /img\.shields\.io\/badge\/Prompts-2-blue/);
+  assert.doesNotMatch(markdown, /License/);
+  assert.match(markdown, /https:\/\/gptimages\.dev/);
+  assert.match(markdown, /browse, search, filter, and copy/);
   assert.match(markdown, /Total prompts: 2/);
+  assert.match(markdown, /Every prompt body is generated into the collection documents below/);
   assert.match(markdown, /\| Poster & Illustration \| 1 \| \[Open\]\(docs\/poster-illustration\.md\) \|/);
   assert.match(markdown, /\| UI & Social Media \| 1 \| \[Open\]\(docs\/ui-social-media\.md\) \|/);
   assert.match(markdown, /Lemon Poster/);
-  assert.match(markdown, /!\[Lemon Poster\]\(https:\/\/example\.com\/lemon\.jpg\)/);
+  assert.match(markdown, /<img src="https:\/\/example\.com\/lemon\.jpg" alt="Lemon Poster" width="360">/);
+  assert.doesNotMatch(markdown, /!\[Lemon Poster\]\(https:\/\/example\.com\/lemon\.jpg\)/);
   assert.doesNotMatch(markdown, /````text\nDesign a camera UI with ``` inline fence\.\n````/);
+});
+
+test('buildReadme renders localized Chinese site copy', () => {
+  const markdown = buildReadme(samplePrompts('zh-CN'), { language: 'zh-CN' });
+
+  assert.match(markdown, /https:\/\/gptimages\.dev/);
+  assert.match(markdown, /img\.shields\.io\/badge\/网站-gptimages\.dev-black/);
+  assert.match(markdown, /\]\(#分类集合\)/);
+  assert.match(markdown, /浏览、搜索、筛选和复制/);
+  assert.match(markdown, /每一条提示词正文都会生成到下面的分类文档中/);
+  assert.match(markdown, /\| 海报与插画 \| 1 \| \[打开\]\(docs\/zh-CN\/poster-illustration\.md\) \|/);
+});
+
+test('buildCollectionDoc constrains prompt preview images', () => {
+  const dataset = samplePrompts('en');
+  const markdown = buildCollectionDoc(dataset, 'poster-illustration', [dataset.prompts[0]], { language: 'en' });
+
+  assert.match(markdown, /<img src="https:\/\/example\.com\/lemon\.jpg" alt="Lemon Poster" width="480">/);
+  assert.doesNotMatch(markdown, /!\[Lemon Poster\]\(https:\/\/example\.com\/lemon\.jpg\)/);
 });
 
 test('collectionSlug falls back to stable display groups from categories', () => {

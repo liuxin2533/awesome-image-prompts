@@ -2,18 +2,20 @@
 
 [Back to README](../README.md)
 
-- Total prompts: 9
-- Generated: 2026-05-04T14:49:54.225Z
+This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](https://gptimages.dev).
+
+- Total prompts: 8
+- Generated: 2026-05-05T17:36:14.688Z
 
 ## Prompts
 
 <a id="prompt-0711bff68d134a0c427b"></a>
 
-### 1. 品牌视觉识别图
+### 1. Brand Visual Identity Graphics
 
-![品牌视觉识别图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case115.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case115.jpg" alt="Brand Visual Identity Graphics" width="480">
 
-- **Categories:** 品牌视觉识别图
+- **Categories:** Brand Visual Identity Graphics
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-115)
 
 **Prompt:**
@@ -32,10 +34,10 @@
       "setting": "{argument name=\"setting\" default=\"Shibuya scramble crossing at night\"}",
       "visuals": "Protagonist standing alone in the center of the crossing, looking around in shock at a massive crowd where every single person is an exact clone of him.",
       "text_elements": [
-        {"type": "manga title logo", "text": "{argument name=\"manga title\" default=\"俺だらけの街\"}"},
-        {"type": "subtitle", "text": "第1話 交代"},
-        {"type": "narration box", "text": "その夜、世界は静かに俺をやめた。"},
-        {"type": "sound effect", "text": "ザワ…"}
+        {"type": "manga title logo", "text": "{argument name=\"manga title\" default=\"A City Full of Me\"}"},
+        {"type": "subtitle", "text": "Chapter 1: The Shift"},
+        {"type": "narration box", "text": "That night, the world quietly gave up on me."},
+        {"type": "sound effect", "text": "Zawa…"}
       ]
     },
     "right_page": {
@@ -45,41 +47,41 @@
           "panel_number": 1,
           "visuals": "Extreme close-up of protagonist's eyes, wide with shock, sweating.",
           "text_elements": [
-            {"type": "speech bubble", "text": "……は？ なんで……みんな、俺なんだ？"},
-            {"type": "sound effect", "text": "ドクン"}
+            {"type": "speech bubble", "text": "…Huh? Why… is everyone… me?"},
+            {"type": "sound effect", "text": "Dokun"}
           ]
         },
         {
           "panel_number": 2,
           "visuals": "A horizontal row of 8 identical clones in suits staring blankly forward.",
           "text_elements": [
-            {"type": "sound effect", "text": "ザワ…"}
+            {"type": "sound effect", "text": "Zawa…"}
           ]
         },
         {
           "panel_number": 3,
           "visuals": "A clone leaning in to whisper into the shocked protagonist's ear.",
           "text_elements": [
-            {"type": "speech bubble", "text": "お前の代わりは、もう足りてる。"},
-            {"type": "sound effect", "text": "スッ"}
+            {"type": "speech bubble", "text": "Your replacement is already sufficient."},
+            {"type": "sound effect", "text": "Ssu"}
           ]
         },
         {
           "panel_number": 4,
           "visuals": "Close-up of a smartphone screen held in a hand, showing a push notification.",
           "text_elements": [
-            {"type": "screen text", "text": "交代を開始します。"},
-            {"type": "sound effect", "text": "ピロン"}
+            {"type": "screen text", "text": "Shift beginning."},
+            {"type": "sound effect", "text": "Piron"}
           ]
         },
         {
           "panel_number": 5,
           "visuals": "Wide shot of the endless crowd of clones in the city street.",
           "text_elements": [
-            {"type": "narration box", "text": "最初に消えるのは、名前でも命でもない。居場所だ。"},
-            {"type": "bottom left text", "text": "俺は、ここにいていいのか——？"},
-            {"type": "bottom right text", "text": "{argument name=\"cliffhanger text\" default=\"次号へつづく！\"}"},
-            {"type": "sound effect", "text": "ザワ… ザワ… ザワ…"}
+            {"type": "narration box", "text": "The first thing to disappear isn't your name or your life. It's your place."},
+            {"type": "bottom left text", "text": "Am I… even supposed to be here—?"},
+            {"type": "bottom right text", "text": "{argument name=\"cliffhanger text\" default=\"To be continued in next issue!\"}"},
+            {"type": "sound effect", "text": "Zawa… Zawa… Zawa…"}
           ]
         }
       ]
@@ -90,11 +92,11 @@
 
 <a id="prompt-0a9a9f86ad3a0e8fb623"></a>
 
-### 2. 品牌徽标设计图
+### 2. Brand Logo Design Image
 
-![品牌徽标设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case150.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case150.jpg" alt="Brand Logo Design Image" width="480">
 
-- **Categories:** 品牌徽标设计图
+- **Categories:** Brand logo design image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-150)
 
 **Prompt:**
@@ -105,151 +107,151 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 <a id="prompt-58af8da9b2b9d767b50c"></a>
 
-### 3. Logo 与品牌身份系统提示词合集
+### 3. Logo and Brand Identity System Prompts Collection
 
-![Logo 与品牌身份系统提示词合集](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case354.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case354.jpg" alt="Logo and Brand Identity System Prompts Collection" width="480">
 
-- **Categories:** Logo 与品牌身份系统提示词合集
+- **Categories:** Logo and brand identity system prompts collection
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-354)
 
 **Prompt:**
 
 ```text
-1. Logo概念生成提示词
+1. Logo Concept Generation Prompt
 
-你是一位拥有20年经验的顶级Logo设计师，为全球知名品牌设计过即时识别且深具意义的标志。
+You are a top-tier logo designer with 20 years of experience, having designed instantly recognizable and deeply meaningful logos for globally renowned brands.
 
-品牌名称：[你的品牌名]
-行业：[你的行业]
-品牌个性：[描述]
-目标受众：[描述]
-欣赏的视觉身份：[列举3个]
-讨厌的视觉身份：[列举3个]
-偏好风格：[如极简、大胆、几何、有机、复古、未来]
+Brand Name: [Your Brand Name]
+Industry: [Your Industry]
+Brand Personality: [Description]
+Target Audience: [Description]
+Admired Visual Identities: [List 3]
+Disliked Visual Identities: [List 3]
+Preferred Style: [e.g., minimalist, bold, geometric, organic, vintage, futuristic]
 
-为我的品牌生成5个完全不同的Logo概念。
+Generate 5 completely different logo concepts for my brand.
 
-对每个概念提供：
+For each concept provide:
 
-- 核心视觉理念及象征意义
-- 形状语言及为何适合品牌
-- 字体方向建议
-- 第一眼的情感触发
-- 为何适合目标受众
-- 在名片、App图标和广告牌上的效果
-- 何为永恒而非潮流
+- Core visual concept and symbolism
+- Shape language and why it suits the brand
+- Font direction recommendations
+- First emotional trigger
+- Why it suits the target audience
+- How it would look on business cards, app icons, and billboards
+- Why it's timeless rather than trendy
 
-然后告诉我，如果这是你的品牌，你会选哪个以及原因。
+Then tell me which one you would choose if this were your brand and why.
 
-2. 品牌身份基础提示词
+2. Brand Identity Foundation Prompt
 
-你是为财富500强公司和初创企业建立品牌身份的顶级品牌战略师，这些企业后来融资数百万。
+You are a top-tier brand strategist who builds brand identities for Fortune 500 companies and startups that later raise millions in funding.
 
-业务名称：[你的业务名]
-业务描述：[一句话]
-目标受众：[详细描述]
-竞争对手：[列举3-5个]
-想触发的感受：[如信任、兴奋、奢华、亲近、力量]
-想关联的词汇：[列举5-10个]
-不想关联的词汇：[列举5-10个]
+Business Name: [Your Business Name]
+Business Description: [One sentence]
+Target Audience: [Detailed description]
+Competitors: [List 3-5]
+Feelings to evoke: [e.g., trust, excitement, luxury, approachability, power]
+Words to associate: [List 5-10]
+Words not to associate: [List 5-10]
 
-在设计任何视觉效果之前建立完整的品牌身份基础。
+Establish a complete brand identity foundation before designing any visual elements.
 
-为我提供：
+Provide me with:
 
-- 品牌原型及为何完美契合
-- 5个具体人类特征描述的品牌个性
-- 带示例的品牌语调指南
-- 核心品牌承诺（一句话）
-- 3个品牌应触发的情感层级
-- 与竞争对手的根本差异
-- 定义品牌的唯一关键词
+- Brand archetype and why it's a perfect fit
+- 5 specific human characteristics describing the brand personality
+- Brand tone guide with examples
+- Core brand promise (one sentence)
+- 3 emotional levels the brand should trigger
+- Fundamental difference from competitors
+- The one keyword that defines the brand
 
-3. 配色方案提示词
+3. Color Scheme Prompt
 
-你是色彩心理学专家和品牌设计师，深知色彩如何触发情感、建立信任和驱动购买决策。
+You are a color psychology expert and brand designer who deeply understands how colors trigger emotions, build trust, and drive purchasing decisions.
 
-品牌名称：[你的品牌名]
-行业：[你的行业]
-目标受众：[年龄、性别、收入、生活方式]
-想触发的首要情感：[如信任、能量、奢华、平静、兴奋]
-前3名竞争对手颜色：[列举]
-喜欢的颜色：[列举]
-讨厌的颜色：[列举]
+Brand Name: [Your Brand Name]
+Industry: [Your Industry]
+Target Audience: [Age, gender, income, lifestyle]
+Primary emotion to evoke: [e.g., trust, energy, luxury, calm, excitement]
+Top 3 competitor colors: [List]
+Liked colors: [List]
+Disliked colors: [List]
 
-为我建立完整品牌配色板。
+Build a complete brand color palette for me.
 
-为我提供：
+Provide me with:
 
-- 主色及其HEX代码和心理学解释
-- 两个辅助色及HEX代码
-- 一个强调色用于CTA和高亮
-- 一个中性色用于背景和文字
-- 每种颜色对目标受众的影响
-- 与竞争对手的差异化
-- 在网站、社交媒体和包装上的应用示例
-- 永远不要搭配的颜色组合及原因
+- Primary color with HEX code and psychological explanation
+- Two secondary colors with HEX codes
+- One accent color for CTAs and highlights
+- One neutral color for backgrounds and text
+- How each color affects the target audience
+- Differentiation from competitors
+- Application examples on websites, social media, and packaging
+- Color combinations to never use and why
 
-4. 字体方向提示词
+4. Typography Direction Prompt
 
-你是字体专家和品牌设计师，深知字体如何传达个性、建立可信度和实现品牌即时识别。
+You are a typography expert and brand designer who deeply understands how fonts convey personality, build credibility, and achieve instant brand recognition.
 
-品牌名称：[你的品牌名]
-品牌个性：[5个词]
-行业：[你的行业]
-目标受众：[描述]
-字体应触发的感受：[如权威、友好、创新、优雅、能量]
-喜欢的品牌字体：[列举3个]
+Brand Name: [Your Brand Name]
+Brand Personality: [5 words]
+Industry: [Your Industry]
+Target Audience: [Description]
+Feelings fonts should evoke: [e.g., authority, friendly, innovative, elegant, energy]
+Liked brand fonts: [List 3]
 
-为我建立完整字体系统。
+Build a complete typography system for me.
 
-为我提供：
+Provide me with:
 
-- 标题用主显示字体名称及为何完美
-- 长文本的辅助字体
-- 引言或重点的强调字体
-- 标题、副标题、正文、说明文字的精确字号层级
-- 字距和行高建议
-- 字体搭配方法
-- 预算有限时的免费替代方案
-- 你所在行业应避免的字体错误
+- Primary display font name for headings and why it's perfect
+- Secondary font for long text
+- Accent font for quotes or emphasis
+- Precise font size hierarchy for headings, subheadings, body text, and captions
+- Letter spacing and line height recommendations
+- Font pairing methodology
+- Free alternatives if budget is limited
+- Font mistakes to avoid in your industry
 
-5. 完整品牌身份包提示词
+5. Complete Brand Identity Package Prompt
 
-你是顶级品牌代理创意总监，交付覆盖每个触点的完整品牌身份系统。
+You are a top-tier creative director at a brand agency, delivering complete brand identity systems that cover every touchpoint.
 
-业务名称：[你的业务名]
-业务描述：[一句话]
-目标受众：[详细描述]
-品牌个性：[5个词]
-行业：[你的行业]
-竞争对手：[列举3个]
-设计工具预算：[免费或付费]
-时间表：[你需要的时间]
+Business Name: [Your Business Name]
+Business Description: [One sentence]
+Target Audience: [Detailed description]
+Brand Personality: [5 words]
+Industry: [Your Industry]
+Competitors: [List 3]
+Design tool budget: [Free or paid]
+Timeline: [Time you need]
 
-在一个回复中交付我的完整品牌身份系统。
+Deliver my complete brand identity system in one response.
 
-包含所有元素：
+Include all elements:
 
-- 品牌战略基础、原型、个性、承诺和定位
-- Logo概念及3个变体
-- 完整配色板、HEX代码和使用规则
-- 字体系统、名称、字号和层级
-- 视觉方向指南
-- 品牌语调指南和标语选项
-- 社交媒体视觉模板
-- 3条永远不要打破的核心品牌规则
+- Brand strategy foundation, archetype, personality, promise, and positioning
+- Logo concepts with 3 variations
+- Complete color palette with HEX codes and usage rules
+- Typography system with names, sizes, and hierarchy
+- Visual direction guidelines
+- Brand tone guide and tagline options
+- Social media visual templates
+- 3 core brand rules to never break
 
-将一切作为结构化品牌手册交付，任何设计师、开发者或AI工具都能在10分钟内完全理解你的品牌。
+Deliver everything as a structured brand guide that any designer, developer, or AI tool can fully understand your brand in 10 minutes.
 ```
 
 <a id="prompt-5c72c704722102c2dd69"></a>
 
 ### 4. 品牌视觉识别图
 
-![品牌视觉识别图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case95.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case95.jpg" alt="品牌视觉识别图" width="480">
 
-- **Categories:** 品牌视觉识别图
+- **Categories:** Brand Visual Identity Graphics
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-95)
 
 **Prompt:**
@@ -286,11 +288,11 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 <a id="prompt-61b1529a3b016b0b6399"></a>
 
-### 5. 品牌徽标设计图
+### 5. Brand Logo Design Image
 
-![品牌徽标设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case143.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case143.jpg" alt="Brand Logo Design Image" width="480">
 
-- **Categories:** 品牌徽标设计图
+- **Categories:** Brand logo design image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-143)
 
 **Prompt:**
@@ -303,7 +305,7 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 
 ### 6. 品牌视觉识别图
 
-![品牌视觉识别图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case136.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case136.jpg" alt="品牌视觉识别图" width="480">
 
 - **Categories:** 品牌视觉识别图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-136)
@@ -323,7 +325,7 @@ A photorealistic amateur photograph of a custom building block set resting on a 
       "action_buttons": {"count": 2, "labels": ["Buy Now", "My Page"]}
     },
     "hero_content": {
-      "headline": "{argument name=\"main headline\" default=\"毛穴・ニキビ悩みに、すっきり澄んだ肌へ。\"}",
+      "headline": "{argument name=\"main headline\" default=\"For pore and acne concerns, to clear, radiant skin.\"}",
       "subheadline": "Balances sebum and clears pores. Non-sticky, medicated skincare for comfortable daily use.",
       "vertical_copy": "Prevents recurring rough skin and acne, leading to smooth, clear skin."
     },
@@ -354,71 +356,28 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 }
 ```
 
-<a id="prompt-8c6a11e32be77d8ea690"></a>
-
-### 7. 品牌视觉识别图
-
-![品牌视觉识别图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case186.jpg)
-
-- **Categories:** 品牌视觉识别图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-186)
-
-**Prompt:**
-
-```text
-[中文]
-创建一个包含100种不同奇幻RPG物品的10×10网格，以经典像素艺术风格渲染（16位或32位精灵图美学，让人联想到SNES/GBA时代的日式RPG）。每个物品应出现在其独立的方形瓷砖中，下方带有简短清晰的标签。在白色背景上保持网格整洁。使每个物品在视觉上都有所区分，并且每个标签拼写正确。使用清晰的像素边缘、每个精灵图有限的调色板，以及用于阴影的微妙抖动。
-使用这些行主题：
-第1行：剑与刀刃
-第2行：盾牌与盔甲
-第3行：弓、弩与远程武器
-第4行：法杖、魔杖与魔法焦点
-第5行：药水、灵药与烧瓶
-第6行：卷轴、典籍与法术书
-第7行：戒指、护身符与附魔小饰品
-第8行：头盔、王冠与头饰
-第9行：钥匙、遗物与任务物品
-第10行：宝石、符文与制作材料
-将每个瓷砖显示为干净背景方形上居中的物品精灵图，渲染为经典的库存图标——你在奇幻RPG菜单中会看到的那种。保持整体风格一致、连贯，并让人联想到备受喜爱的复古奇幻RPG——迷人、细节丰富，且在小尺寸下易于辨认。
-
-[English]
-Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pixel art style (16-bit or 32-bit sprite aesthetic, reminiscent of SNES/GBA-era JRPGs). Each item should appear in its own square tile with a short clear label underneath. Keep the grid neat on a white background. Make every item visually distinct and every label correctly spelled. Use crisp pixel edges, limited palette per sprite, and subtle dithering for shading.
-Use these row themes:
-Row 1: swords and blades
-Row 2: shields and armor
-Row 3: bows, crossbows, and ranged weapons
-Row 4: staves, wands, and magical foci
-Row 5: potions, elixirs, and flasks
-Row 6: scrolls, tomes, and spellbooks
-Row 7: rings, amulets, and enchanted trinkets
-Row 8: helmets, crowns, and headgear
-Row 9: keys, relics, and quest items
-Row 10: gems, runes, and crafting materials
-Show each tile as a centered item sprite on a clean background square, rendered as a classic inventory icon — the kind you'd see in a fantasy RPG menu. Keep the overall style consistent, cohesive, and reminiscent of beloved retro fantasy RPGs — charming, detailed, and instantly readable at small sizes.
-```
-
 <a id="prompt-c4bd9bf15bab0290f7ff"></a>
 
-### 8. 健身品牌力量 Campaign
+### 7. Fitness Brand Power Campaign
 
-![健身品牌力量 Campaign](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case351.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case351.jpg" alt="Fitness Brand Power Campaign" width="480">
 
-- **Categories:** 健身品牌力量 Campaign
+- **Categories:** Fitness Brand Strength Campaign
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-351)
 
 **Prompt:**
 
 ```text
-Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
+Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word "STRENGTH" behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1
 ```
 
 <a id="prompt-cdea547323cd1ebc1523"></a>
 
-### 9. 品牌徽标设计图
+### 8. Brand logo design
 
-![品牌徽标设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case36.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case36.jpg" alt="Brand logo design" width="480">
 
-- **Categories:** 品牌徽标设计图
+- **Categories:** Brand Logo Design Image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-36)
 
 **Prompt:**

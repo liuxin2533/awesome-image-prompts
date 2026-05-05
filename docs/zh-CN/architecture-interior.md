@@ -2,16 +2,35 @@
 
 [返回 README](../../README_zh-CN.md)
 
-- 提示词总数: 10
-- 生成时间: 2026-05-04T14:49:54.268Z
+本文档包含归入此分类的全部提示词。如需可视化浏览和快速复制，可以打开 [gptimages.dev](https://gptimages.dev)。
+
+- 提示词总数: 11
+- 生成时间: 2026-05-05T17:36:14.729Z
 
 ## 提示词
 
+<a id="prompt-f851b478b60bfe8fb27d"></a>
+
+### 1. 个人资料 / 头像 - Realistic Golden-Hour Indoor Selfie
+
+<img src="https://cms-assets.youmind.com/media/1777367285758_ymgstt_HG7f3skaQAA9vaa.jpg" alt="个人资料 / 头像 - Realistic Golden-Hour Indoor Selfie" width="480">
+
+一个看起来自然的智能手机自拍提示，用于生成具有温暖日落窗光的真实可信的休闲室内肖像。
+
+- **分类:** 个人资料
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/f3dericobartoli/status/2048821037513560430#reversed-0)
+
+**提示词:**
+
+```text
+一个真实的休闲室内自拍，由{argument name="person" default="成年女性"}在智能手机上以手臂长度拍摄，从胸部中间向上构图，呈方形构图。她有齐肩长、略微凌乱的波浪形{argument name="hair color" default="赤褐色"}头发，具有自然的蓬松度和柔软的毛躁，中间分缝，被来自画面左侧大窗户或滑动玻璃门的温暖黄金时刻阳光照亮。她穿着一件简单的{argument name="shirt color" default="白色"}短袖V领T恤。姿势放松自然，两只前臂因拿着手机而隐约可见，创造出真实的未经修饰的自拍视角。场景是一个真实的公寓或家庭室内：左侧有明亮的垂直窗户和门框，米色墙壁，以及后右侧的深棕色沙发。光线柔和、温暖且自然，头发、肩膀和手臂上有阳光高光，轻微的室内阴影，真实的皮肤纹理，没有美化修饰。整体外观应感觉自然、可信且风格简约，像真实的手机照片而非精修的AI肖像。使用自然比例，微妙的图像噪点，普通的家居背景细节，以及直接的智能手机相机真实感。
+```
+
 <a id="prompt-1ab4463051dfadb1ab65"></a>
 
-### 1. 建筑空间场景图
+### 2. 建筑空间场景图
 
-![建筑空间场景图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case121.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case121.jpg" alt="建筑空间场景图" width="480">
 
 - **分类:** 建筑空间场景图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-121)
@@ -61,9 +80,9 @@
 
 <a id="prompt-278299712743fc380bb8"></a>
 
-### 2. 建筑空间场景图
+### 3. 建筑空间场景图
 
-![建筑空间场景图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case120.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case120.jpg" alt="建筑空间场景图" width="480">
 
 - **分类:** 建筑空间场景图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-120)
@@ -76,9 +95,9 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 
 <a id="prompt-3432a564f7823e1e2ead"></a>
 
-### 3. 建筑空间场景图
+### 4. 建筑空间场景图
 
-![建筑空间场景图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case26.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case26.jpg" alt="建筑空间场景图" width="480">
 
 - **分类:** 建筑空间场景图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-26)
@@ -89,50 +108,11 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 A vintage 35mm film photograph of a {argument name="subject description" default="young Asian woman"} with {argument name="hair style" default="long dark wavy hair and wispy bangs"}. She is wearing a {argument name="clothing" default="white ribbed tank top and a loose beige knit cardigan slipping off one shoulder"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name="setting" default="dimly lit, slightly messy room with clothes on a table and a wooden shelf"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.
 ```
 
-<a id="prompt-44d490c7cfcff33f496c"></a>
-
-### 4. 昏暗室内纯真少女的意外回眸
-
-![昏暗室内纯真少女的意外回眸](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case217.jpg)
-
-- **分类:** 昏暗室内纯真少女的意外回眸
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-217)
-
-**提示词:**
-
-```text
-[中文]
-{
-  "prompt": {
-    "style_and_tech": "手机照片，老式CCD相机美学，刺眼的闪光灯，颗粒感，昏暗杂乱的室内光线，抓拍快照感觉，轻微的运动模糊",
-    "subject": "年轻的韩国女偶像，温柔纯真的外表",
-    "pose": "动作进行中，微微转头看向镜头，仿佛刚刚注意到正在被拍照，肩膀微微耸起",
-    "expression": "眼睛微微睁大，因惊讶而微微张开的嘴唇，害羞且猝不及防的表情",
-    "clothing": "宽松柔软的居家服（薄开衫+内搭上衣），一侧肩膀微微滑落但没有暴露",
-    "vibe": "毫无防备，亲密，意外的瞬间，唤起好奇心与保护欲",
-    "aspect ratio": "9:16"
-  }
-}
-
-[English]
-{
-  "prompt": {
-    "style_and_tech": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur",
-    "subject": "young Korean female idol, soft innocent look",
-    "pose": "mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised",
-    "expression": "eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression",
-    "clothing": "loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing",
-    "vibe": "unprepared, intimate, accidental moment, evokes curiosity and protectiveness"，
-    "aspect ratio":"9:16"
-  }
-}
-```
-
 <a id="prompt-48527ab9fd187e8ff5b0"></a>
 
 ### 5. 建筑空间场景图
 
-![建筑空间场景图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case47.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case47.jpg" alt="建筑空间场景图" width="480">
 
 - **分类:** 建筑空间场景图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-47)
@@ -242,7 +222,7 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 
 ### 6. 建筑空间场景图
 
-![建筑空间场景图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case50.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case50.jpg" alt="建筑空间场景图" width="480">
 
 - **分类:** 建筑空间场景图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-50)
@@ -257,7 +237,7 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 
 ### 7. 建筑空间场景图
 
-![建筑空间场景图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case127.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case127.jpg" alt="建筑空间场景图" width="480">
 
 - **分类:** 建筑空间场景图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-127)
@@ -329,7 +309,7 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 
 ### 8. 建筑空间场景渲染
 
-![建筑空间场景渲染](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case128.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case128.jpg" alt="建筑空间场景渲染" width="480">
 
 - **分类:** 建筑空间场景渲染
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-128)
@@ -364,11 +344,36 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 }
 ```
 
+<a id="prompt-adc90ee099839c3c23ea"></a>
+
+### 9. 昏暗室内纯真少女的意外回眸
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case217.jpg" alt="昏暗室内纯真少女的意外回眸" width="480">
+
+- **分类:** 昏暗室内纯真少女的意外回眸
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-217)
+
+**提示词:**
+
+```text
+{
+  "prompt": {
+    "style_and_tech": "手机照片，老式CCD相机美学，刺眼的闪光灯，颗粒感，昏暗杂乱的室内光线，抓拍快照感觉，轻微的运动模糊",
+    "subject": "年轻的韩国女偶像，温柔纯真的外表",
+    "pose": "动作进行中，微微转头看向镜头，仿佛刚刚注意到正在被拍照，肩膀微微耸起",
+    "expression": "眼睛微微睁大，因惊讶而微微张开的嘴唇，害羞且猝不及防的表情",
+    "clothing": "宽松柔软的居家服（薄开衫+内搭上衣），一侧肩膀微微滑落但没有暴露",
+    "vibe": "毫无防备，亲密，意外的瞬间，唤起好奇心与保护欲",
+    "aspect ratio": "9:16"
+  }
+}
+```
+
 <a id="prompt-b2f82f0dadc4b8eec801"></a>
 
-### 9. 室内空间渲染图
+### 10. 室内空间渲染图
 
-![室内空间渲染图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case53.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case53.jpg" alt="室内空间渲染图" width="480">
 
 - **分类:** 室内空间渲染图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-53)
@@ -381,9 +386,9 @@ A vintage, late 90s amateur flash photograph of a young man repairing an arcade 
 
 <a id="prompt-c12225f79dd73ba28c1d"></a>
 
-### 10. 建筑空间场景图
+### 11. 建筑空间场景图
 
-![建筑空间场景图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case46.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case46.jpg" alt="建筑空间场景图" width="480">
 
 - **分类:** 建筑空间场景图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-46)

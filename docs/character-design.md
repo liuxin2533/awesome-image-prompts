@@ -2,8 +2,10 @@
 
 [Back to README](../README.md)
 
-- Total prompts: 20
-- Generated: 2026-05-04T14:49:54.225Z
+This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](https://gptimages.dev).
+
+- Total prompts: 18
+- Generated: 2026-05-05T17:36:14.688Z
 
 ## Prompts
 
@@ -11,7 +13,7 @@
 
 ### 1. GTA 6 Shinjuku Bar Scene
 
-![GTA 6 Shinjuku Bar Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case12/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case12/output.jpg" alt="GTA 6 Shinjuku Bar Scene" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ismajc/status/2048166630933282995)
@@ -26,7 +28,7 @@
 
 ### 2. GTA 6 in Bangalore Flower Market
 
-![GTA 6 in Bangalore Flower Market](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case11/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case11/output.jpg" alt="GTA 6 in Bangalore Flower Market" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ismajc/status/2048174302164394493)
@@ -41,7 +43,7 @@
 
 ### 3. Eleanor from White Cat Project
 
-![Eleanor from White Cat Project](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case13/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case13/output.jpg" alt="Eleanor from White Cat Project" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/yume00112211/status/2048309139013853421)
@@ -57,7 +59,7 @@
 
 ### 4. Comic / Storyboard - Cute Monster Ability Design Sheet
 
-![Comic / Storyboard - Cute Monster Ability Design Sheet](https://cms-assets.youmind.com/media/1777367353063_slhrxs_HG8SV3XagAEU7La.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367353063_slhrxs_HG8SV3XagAEU7La.jpg" alt="Comic / Storyboard - Cute Monster Ability Design Sheet" width="480">
 
 A wide character design presentation sheet showing a fluffy horned monster and six visual examples of its item-summoning head-opening mechanic, useful for concept art and character ability explanation.
 
@@ -74,7 +76,7 @@ A wide character design presentation sheet showing a fluffy horned monster and s
 
 ### 5. Mecha Girl Sea-City Key Visual
 
-![Mecha Girl Sea-City Key Visual](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg" alt="Mecha Girl Sea-City Key Visual" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/old_pgmrs_will/status/2046144801071079612)
@@ -89,7 +91,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ### 6. Gal Game Character Introduction Page
 
-![Gal Game Character Introduction Page](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case3/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case3/output.jpg" alt="Gal Game Character Introduction Page" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/09lyco/status/2045281845391323175)
@@ -114,7 +116,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ### 7. Saint Seiya Gold Saints Card Grid
 
-![Saint Seiya Gold Saints Card Grid](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case8/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case8/output.jpg" alt="Saint Seiya Gold Saints Card Grid" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/songguoxiansen/status/2046476566537080849)
@@ -129,7 +131,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ### 8. Official Character Sheet (JP)
 
-![Official Character Sheet (JP)](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case5/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case5/output.jpg" alt="Official Character Sheet (JP)" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
@@ -151,7 +153,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ### 9. Chaos Notes Hidden Face Character Art
 
-![Chaos Notes Hidden Face Character Art](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case9/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case9/output.jpg" alt="Chaos Notes Hidden Face Character Art" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/loglogrog/status/2046448773162033240)
@@ -200,7 +202,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ### 10. Persona5 Character Reference Card
 
-![Persona5 Character Reference Card](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg" alt="Persona5 Character Reference Card" width="480">
 
 - **Categories:** Character Design Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/iamrednightS/status/2045075682837836265)
@@ -215,32 +217,43 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 ・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格
 ```
 
-<a id="prompt-03fe7fdaf8a3d5a6f2f3"></a>
+<a id="prompt-037c95494268c2f25b64"></a>
 
-### 11. 人物角色设定图
+### 11. Twelve Gold Saints Card Collection
 
-![人物角色设定图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case271.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case166.jpg" alt="Twelve Gold Saints Card Collection" width="480">
 
-- **Categories:** 人物角色设定图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-271)
+- **Categories:** Twelve Gold Saints Card Collection
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-166)
 
 **Prompt:**
 
 ```text
-[中文]
-お借りして噂のGPT-Image-2でキャラシート作ってみましたｽｺﾞｯ(๑°ㅁ°๑)‼✧更に色々指示してあげたらもっといい感じになりそう✨キャラは以前チャッピーにお願いして描いて貰った我が分身です( *¯ ꒳¯*)
+Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.
+```
 
-[English]
-I borrowed it and tried making a character sheet using the rumored GPT-Image-2 Awesome(๑°ㅁ°๑)‼✧ It seems like it would turn out even better if I gave it various more instructions✨ The character is my alter ego that I asked Chappy to draw for me before( *¯ ꒳¯*) #GPTimage #AIgenerated
+<a id="prompt-04758d6e67127340b512"></a>
+
+### 12. Zhu Yuanzhang's Twitter Profile After Becoming Emperor
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case234.jpg" alt="Zhu Yuanzhang's Twitter Profile After Becoming Emperor" width="480">
+
+- **Categories:** Zhu Yuanzhang's Twitter profile after becoming emperor
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-234)
+
+**Prompt:**
+
+```text
+Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty
 ```
 
 <a id="prompt-1e7088a74d2cda2fcfca"></a>
 
-### 12. 品牌吉祥物设定图
+### 13. Brand Mascot Character Design
 
-![品牌吉祥物设定图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case160.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case160.jpg" alt="Brand Mascot Character Design" width="480">
 
-- **Categories:** 品牌吉祥物设定图
+- **Categories:** Brand mascot design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-160)
 
 **Prompt:**
@@ -249,96 +262,43 @@ I borrowed it and tried making a character sheet using the rumored GPT-Image-2 A
 Generate a set of icons for {argument name="device" default="vintage electronic equipment"} in {argument name="style" default="retro skeuomorphic style"}, including icon names in the image.
 ```
 
-<a id="prompt-1ff1b0660f4883bc4878"></a>
-
-### 13. 人物角色设定图
-
-![人物角色设定图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case155.jpg)
-
-- **Categories:** 人物角色设定图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-155)
-
-**Prompt:**
-
-```text
-Create {argument name="items" default="fan goods"} for a standard {argument name="character type" default="Vtuber"} in {argument name="style" default="live-action"}
-```
-
-<a id="prompt-25c03357598f65b264c1"></a>
+<a id="prompt-7885914325a6b3dcf760"></a>
 
 ### 14. 人物角色设定图
 
-![人物角色设定图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case27.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case271.jpg" alt="人物角色设定图" width="480">
 
 - **Categories:** 人物角色设定图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-27)
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-271)
 
 **Prompt:**
 
 ```text
-{
-  "type": "collection of instant photos",
-  "setting": "laid out flat on a white fabric surface",
-  "character": {
-    "hair": "{argument name=\"hair color\" default=\"long pink hair with blue inner color\"}",
-    "outfit": "{argument name=\"outfit\" default=\"black and white maid uniform with frilly headband and black ribbons\"}",
-    "eyes": "reddish-pink"
-  },
-  "layout": {
-    "arrangement": "two rows of five polaroid photos",
-    "count": 10,
-    "photos": [
-      { "position": "top row 1", "description": "holding a pink heart cushion" },
-      { "position": "top row 2", "description": "winking, making a peace sign" },
-      { "position": "top row 3", "description": "making a hand heart, pink heart doodle on the bottom border" },
-      { "position": "top row 4", "description": "resting chin on hands, gentle smile" },
-      { "position": "top row 5", "description": "holding a red rose, winking" },
-      { "position": "bottom row 1", "description": "finger to lips, shy expression" },
-      { "position": "bottom row 2", "description": "holding a small pink cake" },
-      { "position": "bottom row 3", "description": "winking, hand near face, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and heart doodle on border" },
-      { "position": "bottom row 4", "description": "holding a pink bunny plushie, sparkle doodles, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and bunny doodle on border" },
-      { "position": "bottom row 5", "description": "winking, sparkle doodles, message '{argument name=\"message text\" default=\"いつも応援ありがとう！これからもよろしくね♪\"}' and signature '{argument name=\"signature text\" default=\"Hanashi\"}' on border" }
-    ]
-  }
-}
+I borrowed it and tried making a character sheet using the rumored GPT-Image-2 Awesome(๑°ㅁ°๑)‼✧ It seems like it would turn out even better if I gave it various more instructions✨ The character is my alter ego that I asked Chappy to draw for me before( *¯ ꒳¯*) #GPTimage #AIgenerated
 ```
 
-<a id="prompt-2d9fc787ef549e570e46"></a>
+<a id="prompt-843bcb12576c677db634"></a>
 
-### 15. 官方角色设定资料卡
+### 15. Classical Poet Holographic Collector's Cards
 
-![官方角色设定资料卡](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case306.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case290.jpg" alt="Classical Poet Holographic Collector's Cards" width="480">
 
-- **Categories:** 官方角色设定资料卡
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-306)
+- **Categories:** Classical Poet Laser Collection Cards
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-290)
 
 **Prompt:**
 
 ```text
-[中文]
-基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。
-・包含三视图：正面、侧面和背面
-・添加角色面部表情的变化・分解并展示服装和装备的详细部分
-・添加色板・包含世界观设定的简要说明
-・总体上，使用有组织的布局（白色背景，插画风格）
-
-[English]
-Based on this character and background, please create a character reference sheet similar to official setting materials.
-・Includes three-view drawings: front view, side view, and back view
-・Add variations of the character's facial expressions
-・Break down and display detailed parts of the clothing and equipment
-・Add a color palette
-・Include a brief explanation of the worldview setting
-・Overall, use an organized layout (white background, illustration style)
+Design a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and character introduction, having a very high-end game card texture, rare cards will also have special light and shadow effects such as holographic laser effects, requiring set card design and skill design, along with relatively detailed descriptions
 ```
 
 <a id="prompt-930c535cfba9ad77c465"></a>
 
-### 16. 人物角色设定图
+### 16. Character design sheet
 
-![人物角色设定图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case54.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case54.jpg" alt="Character design sheet" width="480">
 
-- **Categories:** 人物角色设定图
+- **Categories:** Character concept art
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-54)
 
 **Prompt:**
@@ -351,50 +311,50 @@ Based on this character and background, please create a character reference shee
     "panels": [
       {
         "position": "top-left",
-        "product_name": "{argument name=\"top left product name\" default=\"座る石\"}",
+        "product_name": "{argument name=\"top left product name\" default=\"Sitting Stone\"}",
         "visual": "man in white shirt and dark pants sitting on a large round stone in a park",
-        "catchphrase": "いつでも、どこでも、落ち着ける。",
-        "sales_badge": "累計販売数 12,000個 突破!",
-        "vertical_text": "公園のベンチが埋まっていた日に。",
+        "catchphrase": "Relax anytime, anywhere.",
+        "sales_badge": "Total sales exceeded 12,000 units!",
+        "vertical_text": "On the day when all the park benches were full.",
         "features_count": 3,
         "features_labels": [
-          "重さ約8kgで安定感抜群",
-          "底面フェルト加工で傷つけにくい",
-          "付属の専用ベルトで持ち運び簡単"
+          "Stable with weight of about 8kg",
+          "Felt bottom prevents scratches",
+          "Easy to carry with included dedicated strap"
         ],
         "extra_visual": "small inset image of the stone with a leather carrying strap",
         "specs": [
-          "耐荷重 150kg",
-          "安心の日本製"
+          "Load capacity: 150kg",
+          "Reliable Japanese made"
         ]
       },
       {
         "position": "top-right",
-        "product_name": "{argument name=\"top right product name\" default=\"磨きたくない人の歯ブラシ\"}",
+        "product_name": "{argument name=\"top right product name\" default=\"Toothbrush for people who don't want to brush\"}",
         "visual": "sleek light blue toothbrush angled diagonally on a dark blue background",
         "toothbrush_text": "I don't want to brush my yeeth.",
-        "catchphrase": "持っているだけで安心感",
-        "vertical_text": "歯を磨く代わりに、これを持つ。",
-        "sales_badge": "シリーズ累計販売数 85,000本 突破!",
+        "catchphrase": "Peace of mind just by having it",
+        "vertical_text": "Instead of brushing your teeth, hold this.",
+        "sales_badge": "Series total sales exceeded 85,000 units!",
         "features_count": 3,
         "features_labels": [
-          "気持ちを落ち着けるお守り代わりに",
-          "会議や商談前のエチケットに",
-          "磨かない選択を、もっと自由に。"
+          "As a substitute for a calming charm",
+          "As etiquette before meetings or business negotiations",
+          "More freedom in choosing not to brush."
         ],
-        "bottom_banner": "歯磨きストレスから、あなたを解放する。"
+        "bottom_banner": "Liberating you from the stress of brushing your teeth."
       },
       {
         "position": "bottom-left",
-        "product_name": "{argument name=\"bottom left product name\" default=\"雲の貯金箱\"}",
+        "product_name": "{argument name=\"bottom left product name\" default=\"Cloud Piggy Bank\"}",
         "visual": "hand inserting a coin into a fluffy white cloud-shaped piggy bank",
-        "catchphrase": "空気より軽い、安心感。",
-        "sales_badge": "累計販売数 23,567個 突破!",
+        "catchphrase": "Peace of mind lighter than air.",
+        "sales_badge": "Total sales exceeded 23,567 units!",
         "features_count": 3,
         "features_labels": [
-          "ふわふわの触り心地",
-          "割れないから安心",
-          "インテリアに馴染むデザイン"
+          "Fluffy soft touch",
+          "Unbreakable for peace of mind",
+          "Design that blends with interior decor"
         ],
         "color_variants_count": 3,
         "color_variants_labels": [
@@ -402,143 +362,47 @@ Based on this character and background, please create a character reference shee
           "pink",
           "white"
         ],
-        "price": "¥2,980 (税込)",
-        "bottom_text": "今日から、空に向かってコツコツ貯めよう。"
+        "price": "¥2,980 (tax included)",
+        "bottom_text": "Starting today, let's save bit by bit toward the sky."
       },
       {
         "position": "bottom-right",
-        "product_name": "{argument name=\"bottom right product name\" default=\"叱ってくれる石\"}",
+        "product_name": "{argument name=\"bottom right product name\" default=\"Stone that scolds you\"}",
         "visual": "round stone on a wooden desk with a pen, text written on the stone",
-        "stone_text": "{argument name=\"scolding phrase\" default=\"いいかげんやれ\"}",
-        "catchphrase": "やる気が出ないあなたへ。",
-        "sales_badge": "累計販売数 18,000個 突破!",
+        "stone_text": "{argument name=\"scolding phrase\" default=\"Stop messing around\"}",
+        "catchphrase": "For those who lack motivation.",
+        "sales_badge": "Total sales exceeded 18,000 units!",
         "features_count": 3,
         "features_labels": [
-          "見るたびに心を奮い立たせる",
-          "厳選された言葉をランダム表示",
-          "電池不要、半永久的に叱ってくれる"
+          "Motivates you every time you look at it",
+          "Displays carefully selected phrases randomly",
+          "No batteries needed, scolds you semi-permanently"
         ],
         "phrase_variants_count": 10,
         "phrase_variants_labels": [
-          "甘えるな",
-          "考えるな",
-          "動け",
-          "現実を見ろ",
-          "逃げるな",
-          "寝るな",
-          "やればできる",
-          "お前ならできる",
-          "寝るな",
-          "もう言い訳するな"
+          "Don't be spoiled",
+          "Don't think",
+          "Move",
+          "Face reality",
+          "Don't run away",
+          "Don't sleep",
+          "You can do it if you try",
+          "You can do it",
+          "Don't sleep",
+          "Stop making excuses"
         ],
-        "price": "¥3,500 (税込)"
+        "price": "¥3,500 (tax included)"
       }
     ]
   }
 }
 ```
 
-<a id="prompt-bf58dc63730e75fcaca7"></a>
-
-### 17. 十二黄金圣斗士卡牌合集
-
-![十二黄金圣斗士卡牌合集](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case166.jpg)
-
-- **Categories:** 十二黄金圣斗士卡牌合集
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-166)
-
-**Prompt:**
-
-```text
-[中文]
-生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。
-
-[English]
-Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.
-```
-
-<a id="prompt-c835b39a7fd89845dfed"></a>
-
-### 18. 唯美二次元角色介绍网页
-
-![唯美二次元角色介绍网页](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case263.jpg)
-
-- **Categories:** 唯美二次元角色介绍网页
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-263)
-
-**Prompt:**
-
-```text
-[中文]
-埋まってないところはパートナーさんかご自身で埋めてあげてください
- #観測塔朝お題  #観測塔おはようお題
-
-最新モデルの画像生成ツールを使用して、
-このちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）
-ギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。
-
-「ここに自己紹介」
-
-名前:（ここに名前）
-イメージカラー:（ここに色）
-身長:（ここに身長）cm
-体重:（ここに体重）kg
-キャッチコピー:"「ここにセリフ」"
-
-[English]
-Please fill in the unfilled parts by your partner or yourself
- #ObservatoryTowerMorningTheme  #ObservatoryTowerGoodMorningTheme
-
-Using the latest model image generation tool,
-Using this chibi character illustration and standing picture, create a character introduction page style illustration like a real website page. (Something that would not be strange to use as an introduction page)
-A high-quality item imagining a gal game character introduction page. Facial variations etc. are also included, CG illustrations exist. A chibi character exists.
-
-"Self-introduction here"
-
-Name: (Name here)
-Image color: (Color here)
-Height: (Height here)cm
-Weight: (Weight here)kg
-Catchphrase: "Dialogue here"
-```
-
-<a id="prompt-d146389679e5a58f9e08"></a>
-
-### 19. 创意树叶拼贴构成的角色画像
-
-![创意树叶拼贴构成的角色画像](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case309.jpg)
-
-- **Categories:** 创意树叶拼贴构成的角色画像
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-309)
-
-**Prompt:**
-
-```text
-[中文]
-{ 角色名称 } 完全由天然树叶制成，创意树叶拼贴艺术，分层绿叶和干叶构成身体、面部和衣服，可见叶脉和纹理，手工植物艺术风格，干净的白色背景，俯视平铺构图，高度细节，柔和自然光，逼真树叶纹理，8k
-
-[English]
-{
-  CHARACTER NAME
-} made entirely from natural leaves,
-creative leaf collage art,
-layered green and dry leaves forming body,
-face and clothes,
-visible leaf veins and textures,
-handcrafted botanical art style,
-clean white background,
-top-down flat lay composition,
-highly detailed,
-soft natural lighting,
-realistic leaf textures,
-8k
-```
-
 <a id="prompt-dbe72778fa36c710a442"></a>
 
-### 20. 人物角色设定图
+### 17. 人物角色设定图
 
-![人物角色设定图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case162.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case162.jpg" alt="人物角色设定图" width="480">
 
 - **Categories:** 人物角色设定图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-162)
@@ -547,4 +411,25 @@ realistic leaf textures,
 
 ```text
 {argument name="voice" default="chatgpt voice"} if it were a character
+```
+
+<a id="prompt-f687bbe5b3634e7462d6"></a>
+
+### 18. Official Character Profile Card
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case306.jpg" alt="Official Character Profile Card" width="480">
+
+- **Categories:** Official character profile card
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-306)
+
+**Prompt:**
+
+```text
+Based on this character and background, please create a character reference sheet similar to official setting materials.
+・Includes three-view drawings: front view, side view, and back view
+・Add variations of the character's facial expressions
+・Break down and display detailed parts of the clothing and equipment
+・Add a color palette
+・Include a brief explanation of the worldview setting
+・Overall, use an organized layout (white background, illustration style)
 ```

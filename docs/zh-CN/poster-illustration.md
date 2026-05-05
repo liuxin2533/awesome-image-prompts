@@ -2,361 +2,344 @@
 
 [返回 README](../../README_zh-CN.md)
 
-- 提示词总数: 245
-- 生成时间: 2026-05-04T14:49:54.268Z
+本文档包含归入此分类的全部提示词。如需可视化浏览和快速复制，可以打开 [gptimages.dev](https://gptimages.dev)。
+
+- 提示词总数: 235
+- 生成时间: 2026-05-05T17:36:14.729Z
 
 ## 提示词
 
 <a id="prompt-336f31a47e786612f194"></a>
 
-### 1. Iced Coffee Product Infographic
+### 1. 冰咖啡产品信息图
 
-![Iced Coffee Product Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg" alt="冰咖啡产品信息图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插图案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Strength04_X/status/2049082049995362785)
 
 **提示词:**
 
 ```text
-A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visible with realistic transparency and light refraction. The glass has subtle condensation droplets, adding freshness. Soft natural studio lighting creates delicate highlights and a clean shadow beneath the glass. Ultra-sharp focus, premium beverage advertisement style, DSLR macro photography, hyper realistic, 8K.
+高端咖啡馆风格的产品照片，展示一个装满冰咖啡的透明玻璃杯，中心放置在柔和的米色和奶油色无缝工作室背景前。饮品呈现出浓郁的深咖啡底与奶油色漩涡混合，形成平滑的渐变效果。可见几个透明冰块，具有真实的透明度和光线折射。玻璃杯上有细微的冷凝水滴，增添新鲜感。柔和的自然工作室光线在玻璃杯下创造出精致的亮光和干净的阴影。超锐利对焦，高端饮料广告风格，DSR微距摄影，超写实，8K。
 
-PROMPT 2 - Create a hyper-realistic exploded vertical infographic composition of an iced coffee.
+提示词2 - 创建一个超写实爆炸式垂直信息图表构图，展示冰咖啡。
 
-Top → Bottom structure:
-Foam Layer (light creamy foam with soft airy texture)
-→ Coffee Liquid (rich dark espresso layer with smooth gradient)
-→ Ice Cubes (transparent cubes with sharp edges and reflections)
-→ Milk Layer (soft creamy white layer with smooth blend effect)
-→ Glass Base (clear minimal glass structure)
+从上到下的结构：
+泡沫层（轻盈的奶油泡沫，带有柔软的空气质感）
+→ 咖啡液体（浓郁的深浓缩咖啡层，带有平滑渐变）
+→ 冰块（透明立方体，带有锐利边缘和反射）
+→ 牛奶层（柔软的奶油白色层，带有平滑混合效果）
+→ 玻璃底座（简约透明玻璃结构）
 
-All elements must be perfectly centered, evenly spaced, and aligned vertically. Use a soft beige seamless background with clean café-style lighting and subtle realistic shadows beneath each floating element. The composition should feel like a premium beverage ad combined with a clean infographic layout.
+所有元素必须完美居中，间距均匀，并垂直对齐。使用柔和的米色无缝背景，搭配干净的咖啡馆风格照明，以及每个浮动元素下方的微妙真实阴影。构图应感觉像是高端饮料广告与简洁信息图表布局的结合。
 
-Add clean minimalist text labels with thin pointer lines using these exact labels:
-“Foam”
-“Coffee”
-“Ice”
-“Milk”
-“Glass”
-Ultra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.
+添加简洁的极简主义文本标签，使用细指针线和这些确切标签：
+"泡沫"
+"咖啡"
+"冰"
+"牛奶"
+"玻璃"
+超写实液体细节，锐利反射，高端商业摄影，8K。
 ```
 
 <a id="prompt-33ed2a44cfbfc3070da2"></a>
 
-### 2. Outdoor Sportswear Grid Campaign
+### 2. 户外运动服网格活动
 
-![Outdoor Sportswear Grid Campaign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg" alt="户外运动服网格活动" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SPEEDAI07/status/2049081198211736062)
 
 **提示词:**
 
 ```text
-A dynamic 2×2 grid collage of modern outdoor sportswear advertising posters, each panel representing a different adventure lifestyle brand. High-energy, editorial-style composition with bold typography and textured graphic design.
+一个动态的2×2网格拼贴，展示现代户外运动服装广告海报，每个面板代表不同的冒险生活方式品牌。高能量、编辑风格的构图，配以粗体字体和纹理图形设计。
 
-Top-left panel:
-Athletic male model in a bright blue insulated winter jacket, black snow pants, gloves, and sunglasses, stepping forward in a snowy environment. Snow particles flying, dramatic motion. Background features rough blue paint brush strokes. Bold distressed typography reads: “NEVER STOP EXPLORING.” Additional small text: “Built for extremes.” High contrast, rugged winter exploration theme.
+左上角面板：
+运动型男模特穿着亮蓝色保暖冬季夹克、黑色滑雪裤、手套和太阳镜，在雪地环境中向前迈步。雪花飞舞，戏剧性动作。背景有粗糙的蓝色画笔笔触。粗体做旧字体显示："NEVER STOP EXPLORING。"附加小文本："Built for extremes。"高对比度，粗犷的冬季探索主题。
 
-Top-right panel:
-Fit male hiker climbing rocky terrain, wearing an olive green shirt, black trekking pants, and a large black backpack with orange straps. Dust and debris kicking up from the ground. Background includes orange paint strokes and sketched mountain graphics. Bold text: “BUILT FOR HERE – INDIA TESTED.” Handwritten Hindi accents and arrows. Warm earthy tones.
+右上角面板：
+健壮的男性登山者攀爬岩石地形，穿着橄榄绿衬衫、黑色徒步裤，以及带有橙色肩带的黑色大背包。尘土和碎屑从地面扬起。背景包括橙色笔触和素描山脉图形。粗体文字："BUILT FOR HERE – INDIA TESTED。"手写印地语口音和箭头。温暖的土色调。
 
-Bottom-left panel:
-Calm outdoor scene with a male model sitting on a rock, wearing a green jacket, beanie, sunglasses, and hiking shoes. Minimal scenic mountain illustration in the background with soft green tones. Typography reads: “ESCAPE THE NOISE – JUST GO OUTSIDE.” Clean, relaxed, nature-focused aesthetic with subtle graphic elements.
+左下角面板：
+平静的户外场景，一名男性模特坐在岩石上，穿着绿色夹克、针织帽、太阳镜和徒步鞋。背景有简约的山景插图，色调柔和的绿色。字体显示："ESCAPE THE NOISE – JUST GO OUTSIDE。"干净、放松、以自然为中心的美学，带有微妙的图形元素。
 
-Bottom-right panel:
-Energetic female runner in motion wearing a purple athletic t-shirt, black shorts, and running shoes. Bright, playful background with purple and yellow paint splashes, doodles, arrows, and sun illustration. Bold typography: “READY FOR EVERYONE – START YOUR JOURNEY.” Youthful, vibrant fitness energy.
+右下角面板：
+充满活力的女性跑步者穿着紫色运动T恤、黑色短裤和跑鞋。明亮、活泼的背景，有紫色和黄色油漆飞溅、涂鸦、箭头和太阳插图。粗体字体："READY FOR EVERYONE – START YOUR JOURNEY。"年轻、充满活力的健身能量。
 
-Overall style:
+整体风格：
 
-High-resolution, photorealistic sportswear campaign
-
-Bold brushstroke textures and grunge overlays
-
-Mixed typography: distressed, handwritten, and modern sans-serif
-
-Strong color blocking per panel (blue, orange, green, purple)
-
-Dynamic poses conveying motion, strength, and adventure
-
-Clean grid layout with balanced spacing
-
-Commercial advertising / brand campaign aesthetic (Nike, Decathlon style)
-
-Lighting: Professional, cinematic lighting with sharp detail and contrast
-Mood: Energetic, adventurous, motivational
-Aspect ratio: 1:1 (square collage)
+高分辨率、照片写实的运动服装活动
+大胆的笔触纹理和做旧叠加
+混合字体：做旧、手写和现代无衬线字体
+每个面板强烈的色彩分区（蓝色、橙色、绿色、紫色）
+传达运动、力量和冒险的动态姿势
+干净的网格布局，间距均衡
+商业广告/品牌活动美学（耐克、迪卡侬风格）
+照明：专业、电影级照明，细节清晰，对比度高
+氛围：充满活力、冒险、激励人心
+宽高比：1:1（方形拼贴）
 ```
 
 <a id="prompt-7dcd053c2abca7c4b675"></a>
 
-### 3. Monochrome Fashion Cover
+### 3. 单色时尚封面
 
-![Monochrome Fashion Cover](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg" alt="单色时尚封面" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sha_zdiii/status/2049088961008848905)
 
 **提示词:**
 
 ```text
-Ultra-realistic high-fashion magazine cover, black and white cinematic portrait of a confident young female model, slightly messy wet-look hair, sharp jawline, intense gaze, natural glossy lips, wearing a premium black leather trench coat over a minimal outfit.
-The model is posing slightly tilted forward with attitude, hands adjusting the coat, accessorized with multiple rings, ear piercings, and layered chain necklaces.
-Lighting is dramatic studio lighting with soft shadows, high contrast, editorial Vogue-style aesthetic, ultra-detailed skin texture, 8K resolution, sharp focus.
-Background is minimal gradient grey with soft light streaks for depth.
-Magazine cover layout included:
-Large bold serif title at top: “VOID ELITE”
-Subtitle small: “Edition 07 / 2026”
-Left text: “NOT BUILT TO FOLLOW — BUILT TO DOMINATE”
-Bottom left: “HIGH-FASHION STREET LUXURY”
-Right vertical text: “UNTOUCHABLE PRESENCE”
-Bottom right: “SILENCE IS POWER”
-Add a small holographic glitch-style label over the eyes with text “ICON”
-Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic, modern typography, clean layout, ultra premium branding
+超写实高级时尚杂志封面，自信年轻女性模特的黑白电影感肖像，略微凌乱湿润效果的头发，清晰的下颌线，锐利的眼神，自然有光泽的嘴唇，穿着高级黑色皮革风衣，搭配简约着装。
+模特以略向前倾斜的姿态摆出造型，充满自信，双手正在调整风衣，配饰包括多个戒指、耳钉和层叠的链条项链。
+灯光是戏剧性的影棚灯光，带有柔和的阴影和高对比度，编辑风格的Vogue美学，超精细的皮肤纹理，8K分辨率，锐利对焦。
+背景是简约的灰色渐变，带有柔和的光线条纹以增加深度。
+杂志封面布局包括：
+顶部大号粗衬线标题："VOID ELITE"
+小号副标题："Edition 07 / 2026"
+左侧文字："NOT BUILT TO FOLLOW — BUILT TO DOMINATE"
+左下："HIGH-FASHION STREET LUXURY"
+右侧垂直文字："UNTOUCHABLE PRESENCE"
+右下："SILENCE IS POWER"
+在眼睛上方添加一个带有"ICON"文字的全息故障风格小标签
+风格：奢华时尚编辑，Vogue，Harper's Bazaar，单色美学，现代排版，简洁布局，超高级品牌
 --ar 2:3 --style raw --quality 2 --sharp focus --photorealistic
 ```
 
 <a id="prompt-97c8a0cc5f14dbfed652"></a>
 
-### 4. Topographic Letter Satellite Panels
+### 4. 地形字母卫星面板
 
-![Topographic Letter Satellite Panels](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" alt="地形字母卫星面板" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/madpencil_/status/2049080259476349218)
 
 **提示词:**
 
 ```text
-Ultra-realistic satellite view from space, a clean modern editorial layout of 9 vertical panels arranged side-by-side on a white background, together forming the word "MADPENCIL", each panel containing one letter created entirely from natural Earth topography, no artificial text overlays:
+超真实的卫星太空视角，一个干净现代的编辑布局，9个垂直面板并排排列在白色背景上，共同组成"MADPENCIL"这个词，每个面板包含一个完全由自然地球地形构成的字母，没有人工文本叠加：
 
-Panel 1 (M): rugged mountain ranges and deep valleys forming a sharp, angular "M", rocky textures, high elevation shadows
-Panel 2 (A): winding river cutting through dense green forest forming an organic "A", strong contrast between water and vegetation
-Panel 3 (D): desert dunes and wind-sculpted sand patterns shaping a smooth "D", warm tones, soft gradients
-Panel 4 (P): agricultural farmland grids and patchwork fields forming a structured "P", geometric patterns clearly visible
-Panel 5 (E): glacier and ice formations carving a crisp "E", bright whites and icy blues, fractured textures
-Panel 6 (N): braided river system across floodplains forming "N", branching channels with natural flow lines
-Panel 7 (C): coastal shoreline and ocean edge shaping a curved "C", waves and sediment gradients visible
-Panel 8 (I): narrow canyon or straight river cutting through terrain forming a minimal "I", strong vertical emphasis
-Panel 9 (L): volcanic terrain with lava flows forming an "L", dark rock with glowing red/orange lava accents
+面板1 (M): 险峻的山脉和深邃的峡谷形成一个锐利的"M"形，岩石纹理，高海拔阴影
+面板2 (A): 蜿蜒的河流穿过茂密的绿色森林，形成一个有机的"A"，水和植被之间形成强烈对比
+面板3 (D): 沙漠沙丘和风蚀的沙图案塑造出一个平滑的"D"，暖色调，柔和的渐变
+面板4 (P): 农业农田网格和拼凑的田地形成一个结构化的"P"，几何图案清晰可见
+面板5 (E): 冰川和冰层雕刻出一个清晰的"E"，明亮的白色和冰蓝色，破碎的纹理
+面板6 (N): 漫滩上的辫状河流系统形成"N"，分支通道与自然流线
+面板7 (C): 海岸线和海洋边缘塑造出一个弯曲的"C"，波浪和沉积物渐变可见
+面板8 (I): 穿越地形的狭窄峡谷或直线河流形成一个简约的"I"，强烈的垂直感
+面板9 (L): 火山地形与熔岩流形成"L"，深色岩石带有发光的红/橙色熔岩点缀
 
-top-down satellite perspective, NASA Earth observation style, hyper-detailed textures, realistic geography, consistent scale and lighting across all panels, minimal clouds, high contrast, sharp focus, subtle atmospheric haze, natural color grading, ultra high resolution 8K, clean spacing between panels, modern gallery-style composition, visually cohesive but each panel distinctly different biome, letters clearly readable yet organically integrated into terrain
+俯视卫星视角，NASA地球观测风格，超精细纹理，真实地理，所有面板保持一致的尺度和光照，最少的云层，高对比度，锐利焦点，微妙的雾霾效果，自然色彩分级，超高清8K，面板间干净间距，现代画廊风格构图，视觉上连贯但每个面板明显不同的生物群落，字母清晰可读但有机地融入地形
 ```
 
 <a id="prompt-a14e1cc7fb8ff16f8c69"></a>
 
-### 5. Fashion Dress Collection Infographic
+### 5. 时尚服装系列信息图
 
-![Fashion Dress Collection Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg" alt="时尚服装系列信息图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/cellinlab/status/2049073530738754042)
 
 **提示词:**
 
 ```text
 {
-  "image_type": "Commercial Fashion Infographic",
+  "image_type": "商业时尚信息图",
   "subject": {
-    "model": "Young Asian woman with elegant features and dark hair tied in a loose bun",
-    "attire": "Satin midi dress with spaghetti straps and a draped cowl neckline",
-    "fit": "Bodycon / slim fit with side ruching and a subtle leg slit"
+    "model": "年轻亚洲女性，拥有优雅的面容和深色头发，松松地挽成发髻",
+    "attire": "缎面中长款连衣裙，细肩带，垂坠式U型领口",
+    "fit": "紧身/修身款式，侧面有褶皱设计，腿部有细微开衩"
   },
   "layout_structure": {
-    "composition": "Multi-panel editorial layout",
-    "header": "Bold serif typography reading 'DRESS COLLECTION'",
-    "main_feature": "Large centered portrait of the model, a young Asian woman, wearing a wine-red satin dress",
+    "composition": "多版面编辑布局",
+    "header": "粗衬线字体标题，显示'服装系列'",
+    "main_feature": "大型居中肖像，模特为年轻亚洲女性，穿着酒红色缎面连衣裙",
     "secondary_panels": [
-      "Dress Features grid with minimalist icons",
-      "Dress Guide sidebar detailing neckline, sleeve, and length",
-      "Color Collection row showing the dress in Black, Emerald Green, Navy, Champagne, and Royal Blue",
-      "Dress Style Guide footer featuring the model in various atmospheric evening settings"
+      "服装特点网格，配有极简图标",
+      "服装指南侧边栏，详细说明领口、袖型和长度",
+      "色彩系列行，展示黑色、祖母绿、海军蓝、香槟色和皇家蓝色的连衣裙",
+      "服装风格指南页脚，模特出现在各种氛围浓郁的晚间场景中"
     ]
   },
   "aesthetic_style": {
-    "color_palette": "Deep jewel tones (Wine Red, Emerald, Navy, Royal Blue) contrasted with Champagne and Black against a warm cream or beige background",
-    "lighting": "Soft studio lighting with elegant highlights on the satin fabric texture",
-    "vibe": "Luxurious, timeless, and sophisticated commercial advertising"
+    "color_palette": "深色宝石色调（酒红色、祖母绿、海军蓝、皇家蓝）与香槟色和黑色形成对比，背景为温暖的奶油色或米色",
+    "lighting": "柔和的影棚灯光，在缎面织物纹理上呈现出优雅的高光",
+    "vibe": "奢华、永恒且精致的商业广告风格"
   },
   "typography": {
-    "primary": "Classic Serif for titles",
-    "secondary": "Clean Sans-Serif for body text and technical details"
+    "primary": "经典衬线字体用于标题",
+    "secondary": "简洁的无衬线字体用于正文和技术细节"
   }
 }
 ```
 
 <a id="prompt-fb51767785522cd5f1ca"></a>
 
-### 6. Fast Food Character Poster
+### 6. 快餐角色海报
 
-![Fast Food Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg" alt="快餐角色海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/LoovaAI/status/2049085173015425354)
 
 **提示词:**
 
 ```text
-Use the character in image 1 as the main subject. Create a vertical poster ad in American fast food diner style. Low angle, wide lens. Red / yellow / white palette with ketchup splashes, melting cheese graphics, comic burst shapes, retro diner typography, and bold fast food poster collage aesthetic.
+使用图片1中的角色作为主要主体。创建一个美式快餐餐厅风格的垂直海报广告。低角度，广角镜头。红色/黄色/白色配色，带有番茄酱飞溅、融化的奶酪图形、漫画爆炸形状、复古餐厅字体和大胆的快餐海报拼贴美学。
 ```
 
 <a id="prompt-500dc966c5b358c691f2"></a>
 
 ### 7. 漫画 / 故事板 - Dark Fantasy Inner Monster Poster
 
-![漫画 / 故事板 - Dark Fantasy Inner Monster Poster](https://cms-assets.youmind.com/media/1777367345122_fkg2fn_HG-CL5fa8AA48W5.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367345122_fkg2fn_HG-CL5fa8AA48W5.jpg" alt="漫画 / 故事板 - Dark Fantasy Inner Monster Poster" width="480">
 
-This prompt generates a dramatic gothic anime-style poster of a silver-haired woman and a blue-eyed eldritch monster, ideal for moody art campaigns, book-cover concepts, or social media design pieces.
+此提示生成一张戏剧性的哥特动漫风格海报，描绘银发女子和蓝眼克苏鲁怪物，适合忧郁的艺术宣传活动、书籍封面概念或社交媒体设计作品。
 
-- **分类:** Comic
+- **分类:** 漫画
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/miyabigoshima/status/2048999501235663327#reversed-0)
 
 **提示词:**
 
 ```text
-A dark fantasy gothic poster in a vertical composition, painted in a highly detailed anime-inspired style with dramatic lighting and rich texture. At the center is a beautiful young woman with long straight {argument name="hair color" default="silver-white"} hair, pale skin, and an elegant, calm but dangerous presence. Her face is mostly obscured in shadow and mystery. She wears an ornate black-and-deep-blue crystalline dress with lace, feathered and jagged organic details, semi-transparent flowing sleeves, and glowing blue highlights across the bodice and collar, as if infused with magic. Her right hand is raised slightly with an open gesture, while her left hand rests lower near her waist. Surrounding and partly growing from her are luminous blue butterflies and shard-like petals, creating a sense of transformation and corruption. Behind her looms a gigantic monstrous entity made of darkness, ink, smoke, and cosmic texture, with exactly 7 glowing blue eyes visible and a huge fanged grin packed with sharp icy-blue teeth. The creature feels Lovecraftian, predatory, and intimate, curling around her like a guardian, curse, or inner demon. The palette is dominated by black, midnight navy, indigo, and electric blue, with sparkling highlights like stars or wet paint splatter. Add a decorative antique silver filigree border in all 4 corners and along the edges, making it feel like a sinister book cover or exhibition poster. Place large Japanese title text at the top: {argument name="title text" default="私の中のバケモノ"}. Add 8 blocks of vertical Japanese copy around the figure, 4 on the left and 4 on the right, in elegant white Mincho-style type. Left side text blocks, top to bottom: 「創造の源、すべてを壊し、すべてを生む。」, 「正しさよりも、心が動く瞬間を信じる。」, 「美しいものに飢えている。」, 「静けさの中で、世界をかき混ぜる。」. Right side text blocks, top to bottom: 「感情を深く、人の痛みも、希望も、まるごと抱きしめる。」, 「枠を壊し、誰も見たことのない景色を描きたい。」, 「怖い、危ない、それでも止められない。」, plus a short atmospheric handwritten-style accent near the mid-right edge. At the lower center, add a large Japanese question line: {argument name="bottom question" default="これは、力？それとも、呪い？"}. At the very bottom, add a smaller Japanese line: {argument name="tagline text" default="私の中のバケモノは、私だけの物語を待っている。"}. Make the whole image feel obsessive, beautiful, unsettling, and emotionally intense, like a high-end dark art poster about inner monsters and creative power.
+黑暗幻想哥特海报，垂直构图，以高度详细的动漫风格绘制，具有戏剧性的光照和丰富的质感。中心是一位美丽的年轻女子，拥有长长的直发{argument name="hair color" default="silver-white"}，苍白的皮肤，以及优雅、平静但危险的气质。她的脸大部分隐藏在阴影和神秘之中。她穿着精致的黑色和深蓝色水晶连衣裙，带有蕾丝、羽毛状和锯齿状的有机细节，半透明的流动袖子，以及胸衣和领口处的发光蓝色高光，仿佛注入了魔法。她的右手略微抬起，做出开放的手势，而左手则放在腰部附近。周围并部分从她身上生长的是发光的蓝色蝴蝶和碎片状的花瓣，创造出一种转变和腐化的感觉。在她身后，是一个由黑暗、墨水、烟雾和宇宙纹理构成的巨大怪物实体，可以看到正好7只发光的蓝色眼睛，以及一个巨大的獠牙笑容，里面塞满了锋利的冰蓝色牙齿。这个生物具有克苏鲁式的、捕食性的和亲密的感觉，像守护者、诅咒或内心的恶魔一样缠绕着她。色调以黑色、午夜海军蓝、靛蓝和电蓝色为主，点缀着像星星或湿油漆飞溅般的闪烁高光。在所有4个角落和边缘添加装饰性的古银丝细工边框，使其感觉像邪恶的书籍封面或展览海报。在顶部放置大型日语标题文本：{argument name="title text" default="私の中のバケモノ"}。在人物周围添加8块垂直日语文本块，左右各4块，使用优雅的白色明朝风格字体。左侧文本块，从上到下：「創造の源、すべてを壊し、すべてを生む。」, 「正しさよりも、心が動く瞬間を信じる。」, 「美しいものに飢えている。」, 「静けさの中で、世界をかき混ぜる。」。右侧文本块，从上到下：「感情を深く、人の痛みも、希望も、まるごと抱きしめる。」, 「枠を壊し、誰も見たことのない景色を描きたい。」, 「怖い、危ない、それでも止められない。」，以及在右中边缘附近添加一个简短的手写风格氛围点缀。在下方中央，添加一条大型日语问题线：{argument name="bottom question" default="これは、力？それとも、呪い？"}。在最底部，添加一条较小的日语线：{argument name="tagline text" default="私の中のバケモノは、私だけの物語を待っている。"}。让整个图像感觉痴迷、美丽、不安和情感强烈，就像一个关于内心怪物和创造力的高端黑暗艺术海报。
 ```
 
 <a id="prompt-00e72d18de97aa1157ab"></a>
 
 ### 8. 电商主图 - 护肤品棚拍
 
-![电商主图 - 护肤品棚拍](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg" alt="电商主图 - 护肤品棚拍" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** categories.poster-illustration-cases.zh-CN
+
+海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Strength04_X/status/2047636636847231222)
 
 **提示词:**
 
 ```text
-A soft {argument name="bottle color" default="cream-colored"} bottle with a {argument name="pump color" default="pastel yellow"} pump stands on a matte podium, surrounded by silky foam and {argument name="flowers" default="chamomile blossoms"}. The background is a pale yellow gradient with subtle bubble details. The label emphasizes organic chamomile and calming care. Fresh chamomile flowers accentuate the gentle appeal.
+一个柔软的{argument name="bottle color" default="cream-colored"}瓶身，配有{argument name="pump color" default="pastel yellow"}的泵，放置在哑光展示台上，周围环绕着丝滑的泡沫和{argument name="flowers" default="chamomile blossoms"}。背景是淡黄色渐变，带有细微的气泡细节。标签强调有机洋甘菊和舒缓护理。新鲜的洋甘菊花朵增添了温柔的吸引力。
 ```
 
 <a id="prompt-01bbd114488a59d4957b"></a>
 
 ### 9. 宝马性能社交海报
 
-![宝马性能社交海报](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case116/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case116/output.jpg" alt="宝马性能社交海报" width="480">
 
-- **分类:** UI & Social Media Mockup Cases
+- **分类:** UI 与社交媒体模型案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/harboriis/status/2048063332624843046)
 
 **提示词:**
 
 ```text
-Create a 4:5 vertical social poster in ultra high resolution, 8K print quality sharpness. Use the {argument name="car model" default="BMW car"} from the reference image as the main subject and use the background structure/composition from the reference image, but transform it into a BMW themed design. Replace all black tones with a flat {argument name="background color" default="high-saturation BMW blue"} background. Keep the same layout, spacing, visual balance, and poster composition from the reference image. Background should use a smooth gradient from slightly lighter electric blue at the top to deep navy blue at the bottom. Add subtle grain texture (2 to 3%) and faint rectangular overlays (2 to 4% opacity). Keep it clean, graphic, premium, and non-realistic. Add a soft contact shadow under the car. Use the same BMW from the reference image, changing only the {argument name="paint finish" default="matte frozen blue"} or deep metallic navy. Keep the original body shape, wheels, stance, and design details from the reference image. Show the car in a rear 3/4 perspective matching the reference image angle exactly. Use a slightly elevated camera angle. Position the car slightly right of center. Include visible carbon roof, aggressive rear diffuser, sharp controlled reflections, and subtle brake details. Keep composition identical to the reference image: Top: branding Middle: giant type Center: car overlapping text Bottom: editorial block and specs Typography: Primary text: “BMW” Ultra condensed bold sans serif, tall vertical scaling like the reference poster. Color deep navy or near black. Static text with no distortion. Acts as structural backdrop. Secondary header: “BMW M4 G82” Thin font with wide tracking. Logo area: BMW roundel centered above. Editorial block: Headline: “BMW — Where Driving Becomes Instinct” Body copy focused on: driver connection control performance precision Use the same boxed editorial layout as the reference image. Background faded text: “M4” large scale with 3 to 5% opacity behind the box. Bottom left: “ M4 G82” Bottom right specs: 405 kW / 550 PS 3.4 s 307 km/h Lighting should be clean studio lighting with sharp but controlled highlights. Color grading should use deep blues, high contrast, clean blacks. Camera lens: 50mm, slightly elevated rear 3/4 angle. Mood: Performance. Precision. Driver focus. Add Bottom-right watermark: harboriis , with small x and Instagram logo
-```
-
-<a id="prompt-0c54efc94061f4aa3f6a"></a>
-
-### 10. Anime VTuber Minecraft Stream Thumbnail
-
-![Anime VTuber Minecraft Stream Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case93/output.jpg)
-
-- **分类:** UI & Social Media Mockup Cases
-- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/rerxmsz06/status/2047261622121705782)
-
-**提示词:**
-
-```text
-A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a wide 16:9 composition, with a neon purple and pink streamer room. Center the scene on a cute catgirl VTuber sitting at a desk, shown from the waist up, leaning forward energetically with one hand on a computer mouse and the other hand reaching toward the viewer. She has {argument name="hair color" default="light orange-blonde"} bob-cut hair with soft bangs, fluffy brown-and-cream cat ears, and a visible cat tail. Her face is intentionally obscured by a solid rectangular censor block in the center. She wears a black-and-white maid-inspired outfit with a frilly white blouse, black dress bodice, puff sleeves, white ruffles, black ribbon bow, and a gold bell choker. Place a mechanical keyboard with bright RGB lighting on the desk, a glowing gaming mouse, and a streamer microphone on the far left with pink-purple LED lighting. Put 2 cat-themed desk items in the foreground: a plush cat face on the bottom left and a black cat-shaped mug on the bottom right. Behind her is a gaming chair with paw-print details. On the left side, add large bold Korean headline text in thick white block letters with black fill shadows and a glowing purple outline, stacked in 2 lines: {argument name="headline text" default="방송중 대참사"}. Below it, add a smaller yellow comic-style burst caption with black outline reading {argument name="sub text" default="> 크리퍼 실화냐"}. On the right side, show 1 large computer monitor angled inward, displaying a Minecraft-like scene with bright blue sky, green trees, water, and a large green Creeper popping out toward the viewer, outlined dramatically like a sticker cutout. Add starburst effects and neon accents around the monitor to heighten the chaos. Use exaggerated thumbnail aesthetics: ultra-saturated colors, sharp cel shading, thick outlines, glossy highlights, high contrast, dynamic perspective, and a clickworthy streamer-disaster mood.
+创建一个4:5垂直社交媒体海报，超高清分辨率，8K印刷质量清晰度。使用参考图片中的{参数名称="车型" 默认="宝马汽车"}作为主要主体，并使用参考图片的背景结构/构图，但将其转换为宝马主题设计。将所有黑色调替换为平面的{参数名称="背景颜色" 默认="高饱和度宝马蓝"}背景。保持与参考图片相同的布局、间距、视觉平衡和海报构图。背景应使用从顶部稍浅的电蓝色到底部深海军蓝色的平滑渐变。添加微妙的颗粒纹理（2-3%）和淡矩形叠加层（2-4%不透明度）。保持干净、图形化、高级和非写实风格。在汽车下方添加柔和的接触阴影。使用参考图片中的同一辆宝马，仅更改{参数名称="涂装" 默认="哑光冰蓝色"}或深金属海军蓝色。保持参考图片中的原始车身形状、车轮、姿态和设计细节。以完全匹配参考图片角度的后方3/4视角展示汽车。使用略微抬高的相机角度。将汽车定位在中心略微偏右的位置。包含可见的碳纤维车顶、激进的后扩散器、锐利可控的反射和细微的刹车细节。保持与参考图片相同的构图：顶部：品牌 中部：巨大字体 中心：汽车与文字重叠 底部：编辑块和规格 字体设计：主要文字："宝马" 超压缩粗体无衬线字体，具有与参考海报相似的垂直拉伸。颜色为深海军蓝或近黑色。无扭曲的静态文字。作为结构背景。次级标题："宝马 M4 G82" 细字体，字间距宽。标志区域：宝马圆形标志居中于上方。编辑块：标题："宝马 — 驾驶成为本能" 正文重点：驾驶员连接、控制、性能、精准 使用与参考图片相同的框式编辑布局。背景淡化文字："M4" 大号字体，3-5%不透明度，位于框后。左下角：" M4 G82" 右下角规格：405千瓦 / 550马力 3.4秒 307公里/小时 灯光应为干净的影棚灯光，具有锐利但可控的高光。调色应使用深蓝色、高对比度、干净的黑色。镜头：50毫米，略微抬高的后3/4角度。氛围：性能。精准。驾驶员专注。添加右下角水印：harboriis，带有小x和Instagram标志
 ```
 
 <a id="prompt-104a25bb1c934a56a183"></a>
 
-### 11. 电商主图 - 耳机电商信息图
+### 10. 电商主图 - 耳机电商信息图
 
-![电商主图 - 耳机电商信息图](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg" alt="电商主图 - 耳机电商信息图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SPEEDAI07/status/2047981795552153860)
 
 **提示词:**
 
 ```text
-High-impact e-commerce infographic for "{argument name="product" default="Apple Pods Pro 3"}" wireless earbuds.
-Foreground: An extreme close-up of a hand holding an open glossy white wireless earbud charging case toward the camera. Inside the case are two sleek white earbuds with black speaker accents. A small glowing green LED indicator is visible on the front of the case. The hand and case have slight macro-lens depth blur for realism.
+高影响力的电商信息图，展示"{argument name="product" default="Apple Pods Pro 3"}"无线耳机。
 
-Mid-ground: A {argument name="model" default="confident young woman"} with tan skin, brown eyes, and dark hair tied in a messy bun. She has natural makeup with a dewy glow. She is wearing a plain {argument name="clothing" default="yellow athletic t-shirt"} (no logos). One white earbud is in her ear. She is looking directly at the camera with a subtle, confident expression.
+前景：一只手拿着打开的亮白色无线耳机充电盒，特写镜头朝向相机。充电盒内有两个带有黑色扬声器装饰的流线型白色耳机。充电盒前面有一个微小的发光绿色LED指示灯。手和充电盒有轻微的微镜头景深模糊，以增加真实感。
 
-Background: Clean soft gray gradient studio backdrop with shallow depth of field. Diagonal rainbow prism lens flares and soft light leaks across the scene. Several blurred floating white earbuds in the background for depth and motion.
+中景：一位{argument name="model" default="自信的年轻女性"}，肤色黝黑，棕色眼睛，深色头发扎成凌乱的发髻。她化着自然妆容，带有湿润的光泽。她穿着一件朴素的{argument name="clothing" default="黄色运动T恤"}（无标志）。一只白色耳机在她耳中。她直视相机，表情微妙而自信。
 
-Lighting: Soft professional studio lighting with glossy highlights on the product, subtle rim light on the model, high dynamic range.
+背景：干净的浅灰色渐变摄影棚背景，浅景深。场景中有对角线的彩虹棱镜镜头光晕和柔和的光线泄漏。背景中有几个模糊的漂浮白色耳机，以增加深度和动感。
 
-Typography (modern sans-serif, white):
+灯光：柔和的专业摄影棚灯光，产品上有光泽高光，模特有细微的轮廓光，高动态范围。
 
-Top center (behind model): Large bold text “AIRPODS”
+字体（现代无衬线字体，白色）：
 
-Top right: “Apple Pods Pro 3”
+顶部中心（模特后方）：大号粗体文本"AIRPODS"
 
-Mid-left: “Premium sound and noise cancellation”
+右上角："Apple Pods Pro 3"
 
-Mid-right: Large bold “30” with “hours of battery life”
+中左："优质音效和降噪功能"
 
-Bottom-right: Large bold “1” with “year warranty”
+中右：大号粗体"30"，下方是"小时电池续航"
 
-Style: Ultra-realistic, commercial product photography, 8k resolution, sharp focus on product case, shallow depth of field, vibrant yet clean color palette, premium advertising aesthetic.
+右下角：大号粗体"1"，下方是"年质保"
+
+风格：超写实，商业产品摄影，8K分辨率，产品充电盒锐利对焦，浅景深，鲜艳而干净的色彩搭配，高端广告美学。
 ```
 
 <a id="prompt-1eca9bfe67555a40ecee"></a>
 
-### 12. 电商主图 - 9格产品TVC分镜
+### 11. 电商主图 - 9格产品TVC分镜
 
-![电商主图 - 9格产品TVC分镜](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" alt="电商主图 - 9格产品TVC分镜" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Magncsans/status/2047876253898903594)
 
 **提示词:**
 
 ```text
-Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name="video duration" default="15-second"} ad in a {argument name="aspect ratio" default="9:16"} vertical format, presented as a 9-panel grid. Keep the same blue-and-white ceramic ashtray as the product base, but restage it across cinematic advertising shots with warm premium lighting, shallow depth of field, and a refined lifestyle desktop environment. Add a dark storyboard layout with Chinese titles and timing for each panel. Include exactly 9 scenes: 1) environment-establishing wide shot with desk, books, window, and the product placed in context; 2) hero product medium shot on the table; 3) extreme close-up of the blue floral craftsmanship pattern; 4) use case showing a hand placing a cigarette into the ashtray with visible smoke; 5) top-down capacity display showing multiple cigarette butts inside; 6) cleaning scene under running water in a sink with a hand holding the product; 7) bottom-detail close-up showing the underside and anti-slip pads; 8) mood/lifestyle scene at night with the product on a desk, smoke rising, and ambient lamp light; 9) brand closing frame with the product as the hero plus Chinese marketing text. Add the overall header text “产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)” and a product subtitle naming it {argument name="product name" default="青花瓷烟灰缸"}. Give each of the 9 panels a Chinese scene title and timestamp, plus small descriptive Chinese copy beneath each image in the style of a professional commercial shot list. Use premium, realistic commercial photography throughout, consistent product identity, elegant Chinese aesthetic, and a clean high-end storyboard presentation.
+使用提供的参考图片，将单个休闲产品照片转换为精美的电商TVC分镜板，用于{argument name="video duration" default="15秒"}的广告，采用{argument name="aspect ratio" default="9:16"}的垂直格式，以9宫格形式呈现。保持相同的蓝白陶瓷烟灰缸作为产品基础，但在电影广告镜头中重新布置，配有温暖的优质照明、浅景深和精致的生活化桌面环境。添加带有中文标题和时间标记的深色分镜布局。包含恰好9个场景：1)建立环境的全景镜头，展示桌子、书籍、窗户和放置在上下文中的产品；2)桌上的产品中景镜头；3)蓝色花卉工艺图案的特写镜头；4)使用场景，展示手将香烟放入烟灰缸，可见烟雾；5)俯视容量展示，显示内部有多个烟头；6)在水槽下流水清洁的场景，手拿着产品；7)底部细节特写，展示底部和防滑垫；8)夜晚的氛围/生活场景，产品放在桌子上，烟雾升起，环境灯照明；9)品牌结束画面，产品作为主角，加上中文营销文本。添加整体标题文本"产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)"和产品副标题，命名为{argument name="product name" default="青花瓷烟灰缸"}。为9个面板中的每一个提供中文场景标题和时间戳，并在每个图像下方添加简短的中文描述，风格为专业的商业拍摄清单。全程使用优质、真实的商业摄影，保持一致的产品形象，优雅的中文美学，以及干净的高端分镜展示。
 ```
 
 <a id="prompt-1fdd195b41f43c355c08"></a>
 
-### 13. VR头显爆炸图海报
+### 12. VR头显爆炸图海报
 
-![VR头显爆炸图海报](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg" alt="VR头显爆炸图海报" width="480">
 
 生成一张高科技 VR 头显爆炸视图，包含详细的组件标注和宣传文案。
 
-- **分类:** Poster & Illustration Cases, 界面交互设计图, VR Headset Exploded View Poster
+- **分类:** 海报与插画案例, 界面交互设计图, VR头戴式设备爆炸视图海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/wory37303852/status/2045925660401795478)
 
 **提示词:**
 
 ```text
 {
-  "type": "exploded view product diagram poster",
-  "subject": "VR headset",
-  "style": "clean high-tech 3D render, studio lighting, glowing accents",
-  "background": "{argument name=\"background color\" default=\"soft purple and blue gradient\"}",
+  "type": "产品爆炸视图海报",
+  "subject": "VR 头显",
+  "style": "简洁的高科技 3D 渲染，摄影棚灯光，发光装饰",
+  "background": "{argument name=\"background color\" default=\"柔和的紫蓝色渐变\"}",
   "header": {
     "logo": "∞ {argument name=\"product name\" default=\"Meta Quest 3\"}",
-    "subtitle": "{argument name=\"main catchphrase\" default=\"まったく新しい現実を、まったく新しい構造から。\"}"
+    "subtitle": "{argument name=\"main catchphrase\" default=\"以全新的结构，重塑全新的现实。\"}"
   },
   "layout": {
-    "centerpiece": "vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.",
+    "centerpiece": "VR 头显的垂直堆叠爆炸视图，展示了 9 层不同的内部组件：外壳、摄像头传感器、带芯片的主板、Pancake 透镜、内部框架、电池组、侧带、顶部头带和面部接口衬垫。",
     "callout_labels": {
       "count": 8,
       "left_side": [
-        "Snapdragon® XR2 Gen 2\n圧倒的な処理性能でリアルタイムな体験を。",
-        "調整可能なIPD機構\n幅広いユーザーに快適なフィット感を。",
-        "精密設計されたヘッドストラップ\n快適さと安定性を追求したエルゴノミクス。"
+        "Snapdragon® XR2 Gen 2\n卓越的处理性能，带来实时沉浸体验。",
+        "可调节 IPD 机构\n为广大用户提供舒适的佩戴感。",
+        "精密设计的头带\n追求舒适与稳定的工程学设计。"
       ],
       "right_side": [
-        "フェイスプレート\n洗練されたデザインと最適な重量バランス。",
-        "トラッキングカメラ\n高精度な位置トラッキングと環境認識を実現。",
-        "パンケーキレンズ\n薄型設計で広い視野角と鮮明な映像を提供。",
-        "高性能バッテリー\n長時間駆動を支える最適化された電源設計。",
-        "柔らかなフェイスインターフェース\n長時間でも快適な装着感を実現。"
+        "前面板\n精致的设计与优化的重量平衡。",
+        "追踪摄像头\n实现高精度的位置追踪与环境感知。",
+        "Pancake 透镜\n轻薄设计，提供广阔视野与清晰画质。",
+        "高性能电池\n优化电源设计，支持长时间续航。",
+        "柔软的面部接口\n确保长时间佩戴依然舒适。"
       ]
     },
     "footer": {
       "left_text_block": {
-        "headline": "{argument name=\"bottom headline\" default=\"体験は、構造から進化する。\"}",
-        "body": "一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。"
+        "headline": "{argument name=\"bottom headline\" default=\"体验，源于结构的进化。\"}",
+        "body": "每一个零件都蕴含着支撑沉浸式体验的前沿科技与匠心设计。Meta Quest 3 从内部构建未来，为您带来超乎想象的体验。"
       },
       "right_logo": "∞ Meta"
     }
@@ -366,128 +349,128 @@ Using the provided reference image, transform the single casual product photo in
 
 <a id="prompt-22c1b920832dadafff57"></a>
 
-### 14. Parent-Child Miscommunication Infographic
+### 13. 亲子沟通障碍信息图
 
-![Parent-Child Miscommunication Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" alt="亲子沟通障碍信息图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sarinaashapi/status/2048307780864606708)
 
 **提示词:**
 
 ```text
-{"type":"Japanese infographic","style":"simple, easy-to-understand flat vector diagram, clean white background, rounded light-gray outer frame, minimal pastel color palette, presentation-slide design, clear hierarchy, lots of whitespace, modern sans-serif Japanese typography","canvas":{"aspect_ratio":"16:9"},"headline":{"text":"{argument name=\"headline text\" default=\"親子のすれ違いは、記録があるかないかで起こる\"}","position":"top center","size":"large bold black"},"layout":{"structure":"2 side-by-side rounded panels beneath the headline","sections":[{"title":"記録がない場合(ズレる)","position":"left","count":8,"header_color":"muted blue-gray","panel_border":"light gray","labels":["親の記憶","子どもの記憶","あのとき決まったよね","まだ考えてたのに","ズレが大きくなる","志望校がコロコロ変わる","理由が『なんとなく』","言ってることが違う","関係がギクシャク","現実を見てほしい","ちゃんと決めてほしい","口を出しすぎると関係が悪くなる"],"contents":{"top_left":{"type":"parent icon with thought bubble","icon_color":"blue","caption":"親の記憶","bubble_text":"あのとき\n決まったよね"},"top_right":{"type":"child icon with thought bubble","icon_color":"pink","caption":"子どもの記憶","bubble_text":"まだ考えてたのに"},"center":{"type":"horizontal double-headed arrow","color":"blue-gray"},"bottom_center":{"type":"downward arrow leading to burst shape","color":"light gray","burst_text":"ズレが\n大きくなる"},"bottom_left":{"type":"rounded note box","bullet_count":4,"bullets":["志望校がコロコロ変わる","理由が『なんとなく』","言ってることが違う","関係がギクシャク"]},"bottom_right":{"type":"rounded note box","bullet_count":3,"bullets":["現実を見てほしい","ちゃんと決めてほしい","口を出しすぎると関係が悪くなる"]}}},{"title":"記録がある場合(ズレにくい)","position":"right","count":7,"header_color":"mustard yellow","panel_border":"light yellow","labels":["親の認識","子どもの認識","記録"],"contents":{"top_left":{"type":"parent icon with thought bubble containing document symbol","icon_color":"blue","caption":"親の認識"},"top_right":{"type":"child icon with thought bubble containing document symbol","icon_color":"pink","caption":"子どもの認識"},"center":{"type":"horizontal double-headed arrow","color":"mustard yellow"},"bottom_center":{"type":"circular record icon with document symbol","outline_color":"mustard yellow","text":"記録"},"bottom_left_connector":{"type":"curved arrow from parent to record","color":"blue"},"bottom_right_connector":{"type":"curved arrow from child to record","color":"pink"}}}],"spacing":"balanced, symmetrical"},"visual_language":{"icons":"generic human bust icons and simple document line icons","emphasis":"contrast the left panel's misunderstanding with the right panel's shared record","mood":"educational, calm, practical"},"text_language":"Japanese","render_quality":"crisp vector edges, infographic suitable for social media educational posts"}
+{"type":"日式信息图表","style":"简单易懂的扁平矢量图，干净的白色背景，圆角浅灰色外框，柔和的极简调色板，演示幻灯片设计，清晰的层次结构，充足的留白，现代无衬线日文字体","canvas":{"aspect_ratio":"16:9"},"headline":{"text":"{argument name=\"headline text\" default=\"亲子间的分歧源于是否有记录\"}","position":"顶部居中","size":"大号粗体黑色"},"layout":{"structure":"标题下方两个并排的圆角面板","sections":[{"title":"没有记录时(产生分歧)","position":"左侧","count":8,"header_color":"柔和蓝灰色","panel_border":"浅灰色","labels":["父母的记忆","孩子的记忆","那时候不是已经决定了吗","我还在思考中","分歧越来越大","志愿学校频繁变化","理由是\"总觉得\"","说的话不一致","关系变得紧张","希望看到现实","希望好好决定","插手过多会导致关系恶化"],"contents":{"top_left":{"type":"带思考气泡的父母图标","icon_color":"蓝色","caption":"父母的记忆","bubble_text":"那时候\n不是已经决定了吗"},"top_right":{"type":"带思考气泡的孩子图标","icon_color":"粉色","caption":"孩子的记忆","bubble_text":"我还在思考中"},"center":{"type":"水平双向箭头","color":"蓝灰色"},"bottom_center":{"type":"向下箭头指向爆炸形状","color":"浅灰色","burst_text":"分歧\n越来越大"},"bottom_left":{"type":"圆角注释框","bullet_count":4,"bullets":["志愿学校频繁变化","理由是\"总觉得\"","说的话不一致","关系变得紧张"]},"bottom_right":{"type":"圆角注释框","bullet_count":3,"bullets":["希望看到现实","希望好好决定","插手过多会导致关系恶化"]}}},{"title":"有记录时(不易产生分歧)","position":"右侧","count":7,"header_color":"芥末黄色","panel_border":"浅黄色","labels":["父母的认知","孩子的认知","记录"],"contents":{"top_left":{"type":"带包含文档符号的思考气泡的父母图标","icon_color":"蓝色","caption":"父母的认知"},"top_right":{"type":"带包含文档符号的思考气泡的孩子图标","icon_color":"粉色","caption":"孩子的认知"},"center":{"type":"水平双向箭头","color":"芥末黄色"},"bottom_center":{"type":"带文档符号的圆形记录图标","outline_color":"芥末黄色","text":"记录"},"bottom_left_connector":{"type":"从父母到记录的曲线箭头","color":"蓝色"},"bottom_right_connector":{"type":"从孩子到记录的曲线箭头","color":"粉色"}}}],"spacing":"平衡，对称"},"visual_language":{"icons":"通用人像图标和简单文档线条图标","emphasis":"对比左侧面板的误解与右侧面板的共享记录","mood":"教育性，平静，实用"},"text_language":"日语","render_quality":"清晰的矢量边缘，适合社交媒体教育帖子的信息图表"}
 ```
 
 <a id="prompt-24df31d35c67abe81a18"></a>
 
-### 15. 16-Pose Dance Reference Sheet
+### 14. 16个姿势舞蹈参考表
 
-![16-Pose Dance Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case136/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case136/output.jpg" alt="16个姿势舞蹈参考表" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ExquisitMe/status/2048143577264402629)
 
 **提示词:**
 
 ```text
-{"type":"pose reference sheet","subject":{"category":"female dancer fitness model","age_appearance":"young adult","build":"slim athletic","hair":{"color":"dark brown","style":"high ponytail"},"outfit":{"top":"light gray or white sports bra crop top","bottom":"baggy light gray sweatpants","shoes":"white sneakers"},"face":"softly blurred or de-emphasized facial features"},"style":{"image_type":"studio dance pose chart","background":"clean seamless white background","lighting":"bright even studio lighting with minimal shadows","color_palette":"neutral whites and light grays","camera":"full-body framing, straight-on view, consistent distance","rendering":"photorealistic"},"layout":{"grid":{"rows":4,"columns":4,"count":16,"border":"thin black dividers between cells"},"numbering":{"count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"],"position":"top-left corner of each panel"},"sections":[{"title":"row 1","position":"top","count":4,"labels":["1 side lunge with one arm extended straight sideways and the other bent near chest","2 low floor pose leaning on one hand with one knee down and opposite arm arched upward","3 wide squat facing front with both arms opened in angular dance position","4 standing balance on one leg with opposite knee lifted and forearms crossed near chest"]},{"title":"row 2","position":"upper-middle","count":4,"labels":["5 deep backbend in wide stance with torso arched and one arm curved overhead","6 wide squat with one hand behind head and the other arm pointing outward","7 kneeling side stretch with one hand on floor and opposite arm reaching straight up","8 standing arabesque-style extension with torso tilted forward and one leg lifted high behind/sideways"]},{"title":"row 3","position":"lower-middle","count":4,"labels":["9 wide squat with torso tilted left, one arm curved overhead and one arm extended low","10 front-facing wide squat with both arms stretched diagonally in opposite directions","11 relaxed standing pose with legs apart and both forearms crossing in front of torso","12 floor recline supported on one hand and one knee, torso leaning back with bent legs"]},{"title":"row 4","position":"bottom","count":4,"labels":["13 small jump or lifted balance with one knee raised and one arm bent upward","14 low crouch squat with one hand reaching toward floor and other arm extended sideways","15 dramatic side backbend in wide stance with hair swinging and one arm curved overhead","16 powerful wide squat with one hand at chest and the other lowered to the side"]}],"overall_composition":"all 16 poses shown as separate panels in a uniform contact sheet"},"prompt":"Create a clean studio contact sheet of {argument name=\"pose count\" default=\"16\"} full-body dance or combat-reference poses featuring a {argument name=\"subject type\" default=\"young athletic woman\"} in a {argument name=\"outfit\" default=\"light gray sports bra, loose gray sweatpants, and white sneakers\"}. Use a seamless {argument name=\"background color\" default=\"white\"} background, bright even lighting, and a consistent straight-on camera. Arrange the poses in a 4x4 grid with thin black panel lines and small black numbers 1 through 16 in the top-left of each cell. The poses should mix standing, squatting, kneeling, floorwork, balance, kick-extension, backbend, and angular arm positions suitable for a dance sheet chart or combat movement reference. Keep the styling photorealistic, crisp, minimal, and instructional, with consistent wardrobe and hair across all panels."}
+{"type":"姿势参考表","subject":{"category":"女性舞蹈健身模特","age_appearance":"年轻成人","build":"苗条运动型","hair":{"color":"深棕色","style":"高马尾"},"outfit":{"top":"浅灰色或白色运动内衣露脐装","bottom":"宽松的浅灰色运动裤","shoes":"白色运动鞋"},"face":"面部特征柔和模糊或弱化"},"style":{"image_type":"工作室舞蹈姿势图","background":"干净的无缝白色背景","lighting":"明亮均匀的工作室灯光，最小化阴影","color_palette":"中性白色和浅灰色","camera":"全身构图，正面视角，一致距离","rendering":"照片级真实感"},"layout":{"grid":{"rows":4,"columns":4,"count":16,"border":"单元格之间的细黑色分隔线"},"numbering":{"count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"],"position":"每个面板的左上角"},"sections":[{"title":"第1行","position":"顶部","count":4,"labels":["1 侧向弓步，一只手臂向侧面完全伸展，另一只手臂在胸部附近弯曲","2 低地板姿势，单手支撑，单膝跪地，对侧手臂向上拱起","3 面向前的宽蹲姿，双臂以舞蹈角度打开","4 单腿站立平衡，对侧膝盖抬起，前臂在胸部附近交叉"]},{"title":"第2行","position":"中上部","count":4,"labels":["5 宽站姿深度后弯，躯干拱起，一只手臂在头顶弯曲","6 宽蹲姿，一只手放在头后，另一只手臂向外指向","7 跪姿侧向伸展，一只手放在地板上，对侧手臂向上直伸","8 站姿阿拉贝斯克式伸展，躯干前倾，一条腿向后/侧面高高抬起"]},{"title":"第3行","position":"中下部","count":4,"labels":["9 宽蹲姿，躯干向左倾斜，一只手臂在头顶弯曲，另一只手臂低位伸展","10 面向前的宽蹲姿，双臂对角线向相反方向伸展","11 放松的站姿，双腿分开，双前臂在躯干前交叉","12 地板仰卧姿势，单手和单膝支撑，躯干后倾，双腿弯曲"]},{"title":"第4行","position":"底部","count":4,"labels":["13 小跳跃或提升平衡，单膝抬起，一只手臂向上弯曲","14 低蹲姿势，一只手伸向地板，另一只手臂向侧面伸展","15 宽站姿戏剧性侧向后弯，头发摆动，一只手臂在头顶弯曲","16 有力的宽蹲姿，一只手放在胸前，另一只手臂向侧面放下"]}],"overall_composition":"所有16个姿势作为单独面板显示在统一的联系表中"},"prompt":"创建一个干净的工作室联系表，包含{argument name=\"pose count\" default=\"16\"}个全身舞蹈或战斗参考姿势，展示一位{argument name=\"subject type\" default=\"年轻运动型女性\"}穿着{argument name=\"outfit\" default=\"浅灰色运动内衣，宽松灰色运动裤和白色运动鞋\"}。使用无缝的{argument name=\"background color\" default=\"白色\"}背景，明亮均匀的灯光，以及一致的正面相机视角。将姿势排列在4x4网格中，带有细黑色面板线条，每个单元格左上角有1到16的小黑色数字。姿势应结合站立、蹲姿、跪姿、地板动作、平衡、踢腿伸展、后弯和手臂角度位置，适合舞蹈表或战斗动作参考。保持风格照片级真实感、清晰、简约和教学性，所有面板中服装和发型保持一致。"}
 ```
 
 <a id="prompt-2bfbeec1828e38ebaf28"></a>
 
-### 16. 18格吉祥物品牌形象文档
+### 15. 18格吉祥物品牌形象文档
 
-![18格吉祥物品牌形象文档](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case107/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case107/output.jpg" alt="18格吉祥物品牌形象文档" width="480">
 
-- **分类:** Poster & Illustration Cases, 界面交互设计图
+- **分类:** 海报与插画案例, 界面交互设计图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Colin_Leeee/status/2044802802149650631)
 
 **提示词:**
 
 ```text
 {
-  "type": "18-panel brand identity and character design document",
+  "type": "18格品牌识别与角色设计文档",
   "brand": {
     "name": "{argument name=\"brand name\" default=\"沐阳 MUYANG TEA\"}",
-    "industry": "{argument name=\"industry\" default=\"tea shop\"}",
-    "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"]
+    "industry": "{argument name=\"industry\" default=\"茶店\"}",
+    "colors": ["{argument name=\"primary color\" default=\"黄色\"}", "{argument name=\"secondary color\" default=\"绿色\"}", "白色", "棕色", "深绿色"]
   },
-  "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}",
+  "subject": "{argument name=\"character description\" default=\"3D渲染的可爱柴犬吉祥物，穿着绿色围裙\"}",
   "layout": {
-    "grid": "3 columns by 6 rows",
+    "grid": "3列6行",
     "sections": [
       {
         "title": "01 品牌DNA分析 / BRAND DNA ANALYSIS",
-        "elements": ["logo", "5 color swatches", "6 icons", "target audience charts"]
+        "elements": ["logo", "5个色板", "6个图标", "目标受众图表"]
       },
       {
         "title": "02 概念构思 / CONCEPT MOODBOARD",
-        "elements": ["5 photo references", "4 mood icons", "design equation"]
+        "elements": ["5张参考照片", "4个情绪图标", "设计方程式"]
       },
       {
         "title": "03 形态研究 / FORM STUDY",
-        "elements": ["4 logo anatomy icons", "4 evolution steps", "4 silhouettes"]
+        "elements": ["4个logo结构图标", "4个演变步骤", "4个剪影"]
       },
       {
         "title": "04 概念探索 / CONCEPT EXPLORATION",
-        "elements": ["12 line-art character sketches"]
+        "elements": ["12个角色线稿草图"]
       },
       {
         "title": "05 精细线稿 / REFINED LINE ART",
-        "elements": ["3 rows of front and side line art with proportion guides"]
+        "elements": ["3排正面和侧面线稿，带比例指南"]
       },
       {
         "title": "06 细节精修 / DETAIL REFINEMENT",
-        "elements": ["2 full-body renders with labels", "4 circular close-ups"]
+        "elements": ["2个带标签的全身渲染图", "4个圆形特写"]
       },
       {
         "title": "07 表情设定 / EXPRESSION SHEET",
-        "elements": ["11 3D rendered head expressions"]
+        "elements": ["11个3D渲染的头部表情"]
       },
       {
         "title": "08 姿势库 / POSE LIBRARY",
-        "elements": ["9 full-body 3D rendered poses"]
+        "elements": ["9个全身3D渲染姿势"]
       },
       {
         "title": "09 转身视图 / TURNAROUND VIEW",
-        "elements": ["5 full-body 3D renders", "5 matching line-art views"]
+        "elements": ["5个全身3D渲染图", "5个匹配的线稿视图"]
       },
       {
         "title": "10 色彩开发 / COLOR DEVELOPMENT",
-        "elements": ["5 rows of 5-color palettes", "color psychology text"]
+        "elements": ["5排5色调色板", "色彩心理学文本"]
       },
       {
         "title": "11 材质规格 / MATERIAL SPECIFICATION",
-        "elements": ["5 texture swatches", "property sliders", "4 manufacturing icons"]
+        "elements": ["5个纹理样本", "属性滑块", "4个制造图标"]
       },
       {
         "title": "12 色彩应用 / COLOR APPLICATION",
-        "elements": ["4 color variant renders", "2 light/dark renders", "4 contrast rating circles"]
+        "elements": ["4个色彩变化渲染图", "2个明暗渲染图", "4个对比度评级圆圈"]
       },
       {
         "title": "13 构造指南 / CONSTRUCTION GUIDE",
-        "elements": ["2 line-art diagrams for geometry and grid"]
+        "elements": ["2个几何和网格的线框图"]
       },
       {
         "title": "14 设计系统规则 / DESIGN SYSTEM RULES",
-        "elements": ["minimum size icons", "clear space diagram", "4 usage examples"]
+        "elements": ["最小尺寸图标", "留白空间图", "4个使用示例"]
       },
       {
         "title": "15 资产变体 / ASSET VARIANTS",
-        "elements": ["3 size variants", "3 line-art variants", "3 simplified flat heads"]
+        "elements": ["3个尺寸变体", "3个线稿变体", "3个简化平面头像"]
       },
       {
         "title": "16 数字应用 / DIGITAL APPLICATIONS",
-        "elements": ["1 app icon", "2 social avatars", "UI elements", "3-step animation cycle"]
+        "elements": ["1个应用图标", "2个社交头像", "UI元素", "3步动画循环"]
       },
       {
         "title": "17 实物应用 / PHYSICAL APPLICATIONS",
-        "elements": ["plush toy mockup", "packaging mockup", "merchandise mockup", "storefront mockup"]
+        "elements": ["毛绒玩具模型", "包装模型", "周边产品模型", "店面模型"]
       },
       {
         "title": "18 最终主视觉 / FINAL RENDERING",
-        "elements": ["large high-res 3D render of mascot holding tea", "logo", "file format list"]
+        "elements": ["拿着茶的大尺寸高分辨率3D渲染图", "logo", "文件格式列表"]
       }
     ]
   }
@@ -496,434 +479,487 @@ Using the provided reference image, transform the single casual product photo in
 
 <a id="prompt-2e01fdfd51958972d91d"></a>
 
-### 17. Ethnographic Plate for Tibetan Ceremonial Hat
+### 16. 藏族仪式帽的民族志展示板
 
-![Ethnographic Plate for Tibetan Ceremonial Hat](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case127/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case127/output.jpg" alt="藏族仪式帽的民族志展示板" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/degewa/status/2048104569037783226)
 
 **提示词:**
 
 ```text
-Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate focused on the ceremonial hat. Use REFERENCE_0 as the historical Tibetan context and silhouette reference, and REFERENCE_1 as the color, material, and ornament reference for the hat. Isolate and reconstruct the hat as a museum-style object study, removing the seated body as the main subject. Present the hat on an off-white document page as a scholarly catalog sheet in Chinese with small romanization. Add 8 numbered callouts around the object with fine dashed leader lines, each pointing to a specific structural detail. The centerpiece should be one large three-quarter underside view of the hat. Also include exactly 4 supplementary views/details: 1 side-profile wearing sketch with a faint line-drawn bust, 1 underside interior view, 1 top-down view, and 2 square close-up material swatches. Add exactly 4 thread-color samples near the lower right: blue, red, white, and yellow. At the top center, add the large title {argument name="headline text" default="唐徐帽"} with the romanization {argument name="romanization" default="(thang zhwa)"} beneath it, plus a smaller subtitle describing it as a summer ceremonial hat of high-ranking Tibetan monks. In the upper left, add a boxed metadata panel with multiple short Chinese fields, and in the upper right add a plate number reading {argument name="plate number" default="图版 No. 27"}. At the bottom, add one bordered note paragraph in Chinese. Overall style: meticulous archival infographic, anthropological catalog illustration, historically informed, precise woven texture, ivory-gold base with blue and red ornament, elegant print layout, thin rules and decorative divider marks, high-detail object rendering on a plain paper background.
+使用 REFERENCE_0 和 REFERENCE_1，创建一个专注于仪式帽的干净民族志档案板。使用 REFERENCE_0 作为历史西藏背景和轮廓参考，使用 REFERENCE_1 作为帽子的颜色、材料和装饰参考。将帽子隔离并重建为博物馆风格的对象研究，移除作为主要主体的坐姿身体。将帽子呈现在米白色文档页面上，作为带有小型罗马化的中文学术目录表。在物体周围添加8个带细虚线引导线的编号标注，每个都指向特定结构细节。中心应为帽子的大幅四分之三底视图。另外包括恰好4个补充视图/细节：1个带有淡线绘制躯干的侧面轮廓佩戴草图，1个底面内部视图，1个俯视图，和2个方形材料样本。在右下角添加恰好4个线色样本：蓝色、红色、白色和黄色。在顶部中心添加大标题 {argument name="headline text" default="唐徐帽"}，下方带有罗马化 {argument name="romanization" default="(thang zhwa)"}，加上较小的副标题描述其为高级藏传佛教僧侣的夏季仪式帽。在左上角添加带多个中文短字段的框式元数据面板，在右上角添加版号 {argument name="plate number" default="图版 No. 27"}。在底部添加一个带边框的中文注释段落。整体风格：细致的档案信息图表，人类学目录插图，历史信息丰富，精确的编织纹理，象牙金色底座配蓝色和红色装饰，优雅的印刷布局，细线条和装饰分隔标记，在普通纸背景上的高细节对象渲染。
 ```
 
 <a id="prompt-338a4479a144bcd95f58"></a>
 
-### 18. 魔法种子包装微缩场景
+### 17. 魔法种子包装微缩场景
 
-![魔法种子包装微缩场景](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case143/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case143/output.jpg" alt="魔法种子包装微缩场景" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AllaAisling/status/2048156345518768190)
 
 **提示词:**
 
 ```text
-Epic 3D scene: a weathered seed packet lying open on a potting bench, its promise erupting into the garden it describes. The illustration on the front becomes real. {argument name="plant type" default="[PLANT / FLOWER]"} growing at full scale from the paper, roots visible through the packet's base pushing into soil below.
-{argument name="detail left" default="[DETAIL 1]"} in full bloom at one corner. {argument name="detail right" default="[DETAIL 2]"} mid-growth at the other, not yet what it will be.
-Tiny insects that belong to this plant, {argument name="insect type" default="[BEE / BUTTERFLY / BEETLE]"}, hovering at correct scale.
-The written instructions on the back become garden calendar, "sow in spring" manifests as actual spring light. "full sun" manifests as a single shaft of it, hitting the tallest bloom perfectly.
-Scattered seeds between packet and soil each showing their germination stage, split coat, first root, first shoot, first leaf.
-The packet's torn top edge becomes a treeline.
-Potting bench surface with soil scatter and water droplets.
-Tilt-shift depth of field, greenhouse morning light, the packet as the garden it always intended.
+史诗级3D场景：一个饱经风霜的种子袋敞开着放在园艺工作台上，它所承诺的花园从袋中爆发出来。前面的插图变成了现实。{argument name="plant type" default="[PLANT / FLOWER]"}从纸上以全尺寸生长，根部从袋子底部可见，伸入下方的土壤。
+{argument name="detail left" default="[DETAIL 1]"}在一个角落完全盛开。{argument name="detail right" default="[DETAIL 2]"}在另一边处于生长中期，还不是它最终的样子。
+属于这种植物的微小昆虫，{argument name="insect type" default="[BEE / BUTTERFLY / BEETLE]"}，以正确的比例悬停。
+背面的种植说明变成了花园日历，"春天播种"显现为实际的春光。"全日照"显现为一束阳光，完美地照射在最高的花朵上。
+种子袋和土壤之间的散落种子，每个都显示其发芽阶段：种皮裂开，第一根根，第一片芽，第一片叶子。
+种子袋撕裂的顶部边缘变成了一排树林。
+园艺工作台表面有散落的土壤和水滴。
+移轴景深，温室晨光，种子袋成为了它一直想要成为的花园。
 ```
 
 <a id="prompt-34effedb9fcb3e26d1c0"></a>
 
-### 19. 电商主图 - 可种植标签环保T恤广告
+### 18. 电商主图 - 可种植标签环保T恤广告
 
-![电商主图 - 可种植标签环保T恤广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg" alt="电商主图 - 可种植标签环保T恤广告" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Diplomeme/status/2047957339974828092)
 
 **提示词:**
 
 ```text
-A premium eco-conscious fashion advertisement, shot as a refined editorial product photo. A single off-white or natural cream crew-neck T-shirt hangs on a smooth wooden hanger with a black metal hook, placed against a lush wall of dense green leaves and climbing vines. The hanger has a small minimalist brand monogram engraved near the neck. The shirt is shown from the upper torso down to part of the hem, slightly angled, with soft natural folds and high-quality cotton texture. Printed inside the collar is a minimalist brand mark and the text "JUGGERKNOT ORIGINALS". Hanging from the neckline is 1 rectangular recycled-paper seed tag tied with rustic brown twine; the tag reads "Tulsi" and "Plantable Seed Tag" with a tiny sprouting seed detail near the bottom. From the tag, 1 real tulsi plant stem grows upward across the front of the shirt, with several fresh green leaves, visually demonstrating that the tag is plantable. Add a small fine-label annotation near the tag reading "TULSI PLANTABLE SEED TAG". On the right side, large elegant white serif typography says {argument name="headline text" default="Plant it."}. Beneath it, place 3 stacked lines of narrow uppercase sans-serif copy: "WEAR IT.", "PLANT IT.", and "GROW WITH IT.". At the lower left, add the brand name in spaced uppercase serif text: {argument name="brand name" default="JUGGERKNOT ORIGINALS"}, with a thin horizontal line above it. At the lower right, add 3 lines of small uppercase sans-serif text: "FSC® CERTIFIED PACKAGING.", "ZERO SYNTHETIC FIBRE", and "BACKED BY ZERODHA.". Use soft diffused daylight, shallow depth of field, moody green-and-cream color grading, luxury sustainable-brand aesthetics, clean composition, vertical poster layout, subtle shadows, and a calm organic atmosphere. Keep the design minimal, premium, and photorealistic, with the shirt occupying the left half and the typography balanced on the right.
+高端环保时尚广告，以精致的编辑产品照片拍摄。一件米白色或天然奶油色圆领T恤挂在光滑的木质衣架上，衣架配有黑色金属钩，背景是茂密的绿色植物墙和攀缘植物。衣架在颈部附近有一个简约的品牌字母组合雕刻。T恤从上半身展示到部分下摆，略微倾斜，带有自然的柔软褶皱和高品质棉质纹理。领口内侧印有简约的品牌标志和文字"JUGGERKNOT ORIGINALS"。从领口悬挂着一个矩形再生纸种子标签，用质朴的棕色麻绳系着；标签上写着"罗勒"和"可种植种子标签"，底部附近有一个微小的发芽种子细节。从标签上，一株真实的罗勒植物茎向上生长穿过衬衫前面，有几片新鲜的绿叶，直观地展示了标签的可种植性。在标签附近添加一个小型精致标签注释，写着"罗勒可种植种子标签"。右侧，大型优雅的白色衬线字体写着{argument name="headline text" default="Plant it."}。在其下方，放置三行窄大写无衬线文字："穿上它。"，"种植它。"，"与它一起成长。"。在左下方，添加间隔大写的衬线文字品牌名称：{argument name="brand name" default="JUGGERKNOT ORIGINALS"}，上方有一条细水平线。在右下方，添加三行小写无衬线文字："FSC®认证包装。"，"零合成纤维"，"由ZERODHA支持。"。使用柔和的漫射日光，浅景深，情绪化的绿色和奶油色调，奢华可持续品牌美学，简洁构图，垂直海报布局，微妙阴影，以及平静有机的氛围。保持设计简约、高端和逼真，衬衫占据左半部分，文字平衡在右侧。
 ```
 
 <a id="prompt-3611d9317c768f705159"></a>
 
-### 20. Anime Fantasy Travel Movie Poster
+### 19. YouTube 缩略图 - 动漫奇幻电影海报
 
-![Anime Fantasy Travel Movie Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case101/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case101/output.jpg" alt="YouTube 缩略图 - 动漫奇幻电影海报" width="480">
 
 此提示词可生成一张精致的动漫风格电影海报，包含一位银发女主角、层叠的旅行风景、西班牙语电影排版以及获奖月桂叶营销细节。
 
-- **分类:** UI & Social Media Mockup Cases, YouTube Thumbnail
+- **分类:** UI 与社交媒体模型展示, YouTube 缩略图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Design4p0/status/2047531978346398002)
 
 **提示词:**
 
 ```text
-A cinematic anime movie poster for a fictional film titled {argument name="headline text" default="EL VIAJE DE LA LUNA DE PLATA"}, in polished modern Japanese animation style with a natural, less over-detailed look. Center a teenage anime girl from mid-thigh up, facing forward, with a short silver bob haircut, pale skin, a black choker, small black geometric earrings, a white tank top, and a dark navy oversized zip hoodie with two yellow stripes running down the sleeves. She has a backpack strap over one shoulder and both hands tucked casually into the hoodie pockets. Her face is obscured by a flat rectangular censor block in a muted beige tone, covering the entire face area. Place her in a dramatic twilight coastal city setting that blends travel, nostalgia, and fantasy: on the left, a lit train platform with a commuter train approaching, its destination sign showing Japanese characters; behind it, a glowing city skyline with a ferris wheel. In the distance and lower left, layered mountains and a winding illuminated valley road. On the right, a cliffside coast at sunset with the sea reflecting warm light, a crescent moon in the sky, several flying seabirds, and a curving highway descending along the hillside. Also on the right, include a wooden signpost with exactly 3 directional signs labeled "NUEVOS CAMINOS", "VIEJOS RECUERDOS", and "SIN LÍMITES". At the top center, add the Spanish tagline {argument name="tagline text" default="CADA DESTINO CAMBIA SU HISTORIA"} in elegant serif capitals. On the upper left, create an awards column in gold typography with laurel wreaths and exactly 4 award blocks: one text block reading "GANADORA DE MÚLTIPLES PREMIOS" with 5 gold stars beneath it, then three laurel award sections reading "MEJOR PELÍCULA ANIMADA / FESTIVAL INTERNACIONAL DE ANIMACIÓN / 2024", "PREMIO DEL PÚBLICO / FESTIVAL INTERNACIONAL DE CINE / 2024", and "MEJOR BANDA SONORA ORIGINAL / ACADEMIA DE CINE ANIMADO / 2024". Place the film title large across the lower center in luminous ornate serif lettering with a magical glow and sweeping flourishes, layered partly over the character. Beneath it, add the Spanish quote {argument name="quote" default="A veces, para encontrarte... tienes que perderte en el mundo."}. Below that, add "UNA PELÍCULA DE ESTUDIO LUMINARIA" in small caps. At the bottom, add the release line {argument name="release text" default="PRÓXIMAMENTE EN CINES"} in large gold serif capitals, plus tiny production logos and credits along the footer, including a small studio emblem on the left. Rich blue, violet, and warm sunset orange palette, glossy poster lighting, romantic adventure mood, balanced composition, highly polished theatrical key art, vertical one-sheet film poster.
+一张电影级动漫风格海报，用于虚构的奇幻剧情片，标题为 {argument name="headline text" default="EL VIAJE DE LA LUNA DE PLATA"}，采用高级院线海报的垂直构图。画面中央是一位年轻动漫女性的半身肖像，她正面向前，神情平静而内敛。她留着短款银色波波头，发丝层次柔和且带有侧刘海，皮肤白皙，佩戴黑色颈圈和几何形状耳环，身穿宽松的海军蓝运动外套，袖口饰有双条金线，内搭白色吊带背心，单肩背着深色背包。她的表情细腻自然，去除了夸张的细节，呈现出更具写实感的绘画质感。在她身后，将多处旅行目的地风景融合成一幅无缝的魔法构图：左侧是黄昏时分灯火通明的火车站台，列车进站，远处是闪烁的城市天际线；下方是远山与蜿蜒的河谷；右侧是海岸落日，夕阳低垂于海面之上，伴有悬崖、新月和天空中飞翔的 2 只海鸟；右下角是一条蜿蜒的道路，穿过灯火通明的山丘，通向一座闪烁着灯光的城镇。在右侧添加一个木制路标，上面有 3 个指示牌，分别写着 "NUEVOS CAMINOS"、"VIEJOS RECUERDOS" 和 "SIN LÍMITES"。在顶部中央，添加标语 {argument name="tagline" default="CADA DESTINO CAMBIA SU HISTORIA"}，使用优雅的衬线大写字体。在左上方，放置 4 个带有月桂花环的金色奖项区域：1 行五星标志，文字为 "GANADORA DE MÚLTIPLES PREMIOS"，1 个奖项写着 "MEJOR PELÍCULA ANIMADA" 及下方较小的电影节文字，1 个奖项写着 "PREMIO DEL PÚBLICO" 及下方较小的电影节文字，以及 1 个奖项写着 "MEJOR BANDA SONORA ORIGINAL" 及下方较小的学院奖文字。在底部中央，放置巨大的发光衬线电影标题，采用华丽的夜光排版，叠加在角色的躯干上。在标题下方，添加简短的引语 {argument name="quote" default="A veces, para encontrarte... tienes que perderte en el mundo."}。在最底部，包含一行制片厂演职员表和上映信息 {argument name="release text" default="PRÓXIMAMENTE EN CINES"}（使用大号衬线大写字体），并在底部边缘添加微小的制作公司 Logo。使用浓郁的暮色蓝、金色夕阳余晖、柔和的洋红色云彩、大气雾气、反射高光、细腻的电影级布光，打造出一种情感丰富、充满冒险感且自然而不杂乱的精致插画海报风格。
 ```
 
 <a id="prompt-366a884dc4c2f9fc0ab9"></a>
 
-### 21. Anime Martial Arts Battle Illustration
+### 20. 动漫武术对决
 
-![Anime Martial Arts Battle Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case10/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case10/output.jpg" alt="动漫武术对决" width="480">
 
 生成一个动态的动漫风格动作场景，展示两个角色在传统道场中伴随元素光环进行战斗。
 
-- **分类:** Character Design Cases, 插画艺术风格创作, Anime Martial Arts Battle Illustration
+- **分类:** 角色设计案例, 插画艺术风格创作, 动漫武术战斗插画
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Tanemomi_Ver2/status/2046063806846214265)
 
 **提示词:**
 
 ```text
-An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="character 1 color theme" default="red and white"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name="character 2 color theme" default="green and purple"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text "{argument name="sign text" default="武術会"}". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.
+一幅极具动态感的动漫插画，描绘了两名少女在传统木质道场内进行激烈武术对决的场景。在前景中，一名留着 {argument name="character 1 hair" default="黑色高丸子头配红色丝带"} 的少女摆出强有力的低位武术架势，正奋力挥拳。她身穿 {argument name="character 1 outfit" default="带有红色流苏的白色中式上衣和红色宽松长裤"}，强烈的红色能量斩击环绕着她挥动的四肢。在右侧半空中，一名留着 {argument name="character 2 hair" default="浅紫色双丸子头"} 的少女优雅地跃起，自信地微笑着，身穿 {argument name="character 2 outfit" default="带有金色刺绣的深绿色连衣裙和黑色紧身裤"}，伴随着扫过的蓝色水流状能量轨迹。背景是质朴的木质寺庙内部，上方悬挂着一块写有“{argument name="sign text" default="武術会"}”的醒目招牌。场景充满了爆发性的动作感，飞扬的尘土、破碎的木质地板、发光的彩色粒子特效，以及将角色与精细背景完美区分开来的戏剧性低角度光影。
 ```
 
 <a id="prompt-40025baab5c8260bf3d6"></a>
 
-### 22. 电商主图 - 热带柑橘苏打广告海报
+### 21. 电商主图 - 热带柑橘苏打广告海报
 
-![电商主图 - 热带柑橘苏打广告海报](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg" alt="电商主图 - 热带柑橘苏打广告海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/edimakorfr/status/2047635133466124726)
 
 **提示词:**
 
 ```text
-Create a vibrant tropical commercial poster for a citrus soda bottle, in a bright summer advertising style. Show a single large plastic bottle of {argument name="product name" default="Soda"} centered slightly to the right, tilted a little left, with a yellow cap and transparent bottle covered in cold condensation droplets, filled with glowing golden-orange soda. The label should feature sliced oranges and citrus artwork with the brand text "{argument name="product name" default="Soda"}", the phrase "aux agrumes d'été", and a small green "500 ml" mark. Use a sunny beach background with vivid blue sky, turquoise ocean, soft clouds, and blurred tropical palm leaves entering from the upper right corner. Add dramatic water splashes around the base of the bottle, scattered clear ice cubes, and 5 visible citrus pieces in the foreground: 2 orange wedges, 1 lime half, 1 grapefruit half, and 1 partial orange slice at the far right edge. Place large French promotional text on the left: a huge white headline "{argument name="headline text" default="Soda"}" with a small splash accent above it, then yellow script text "aux agrumes d'été" underneath. Add a yellow paint-stroke badge at mid-left with the text "LA FRAÎCHEUR QUI PÉTILLE !". Add a vertical feature list on the lower left with 3 round icons and French captions: "SAVEURS NATURELLES", "SANS COLORANTS ARTIFICIELS", and "EXTRA RAFRAÎCHISSANT". Add a green brushstroke banner at the bottom left reading "FORMAT PRATIQUE 500 ml". Add a round beige eco-style seal at the bottom right with green outline and leaf motif, containing the text "{argument name="seal text" default="PLAISIR FRUITÉ À CHAQUE GORGÉE"}". Lighting should be glossy and high-energy with strong sun flare from the upper left, saturated citrus colors, crisp packaging detail, realistic droplets, and polished supermarket-ad realism.
+创建一个充满活力的柑橘味苏打水瓶的热带商业海报，采用明亮的夏季广告风格。展示一个大型塑料瓶{argument name="product name" default="Soda}"，略微居右，稍微向左倾斜，带有黄色瓶盖和透明瓶身，布满冷凝水滴，装满发光的金橙色苏打水。标签应展示切片橙子和柑橘艺术图案，带有品牌文本"{argument name="product name" default="Soda}"，短语"aux agrumes d'été"，以及一个小型的绿色"500 ml"标记。使用阳光明媚的海滩背景，包括鲜艳的蓝色天空、绿松石色海洋、柔软的云朵，以及从右上角进入的模糊热带棕榈叶。在瓶底周围添加戏剧性的水花，散落的透明冰块，以及前景中5个可见的柑橘片：2个橙子角，1个青柠半片，1个葡萄柚半片，以及最右边缘的1个部分橙子切片。在左侧放置大型法语促销文本：一个巨大的白色标题"{argument name="headline text" default="Soda}"，上方有一个小水花装饰，然后在下方是黄色手写体文本"aux agrumes d'été"。在左侧中间添加一个黄色笔触徽章，上面有文字"LA FRAÎCHEUR QUI PÉTILLE !"。在左下角添加一个垂直功能列表，包含3个圆形图标和法语标题："SAVEURS NATURELLES"，"SANS COLORANTS ARTIFICIELS"，和"EXTRA RAFRAÎCHISSANT"。在左下角添加一个绿色笔触横幅，上面写着"FORMAT PRATIQUE 500 ml"。在右下角添加一个米色环保风格圆形印章，带有绿色轮廓和叶子图案，包含文本"{argument name="seal text" default="PLAISIR FRUITÉ À CHAQUE GORGÉE}"。灯光应具有光泽和高能量，来自左上方的强烈阳光晕影，饱和的柑橘色彩，清晰的包装细节，逼真的水滴，以及 polished 超市广告的写实风格。
 ```
 
 <a id="prompt-42480cf52bd537614c01"></a>
 
-### 23. Taoist Three Souls Seven Po Poster
+### 22. 道教三魂七魄海报
 
-![Taoist Three Souls Seven Po Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case120/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case120/output.jpg" alt="道教三魂七魄海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/leyu37829/status/2048125950681075833)
 
 **提示词:**
 
 ```text
-A highly detailed vertical Taoist esoteric infographic poster in the style of an ancient Chinese religious scroll, printed on aged beige rice paper with fine ornamental borders, inked calligraphy, faded stains, and classical diagram annotations. At the top center, large black brush-calligraphy title text reads {argument name="headline text" default="道·三魂七魄"}. Directly below the title is a smaller paragraph of classical Chinese explanatory text in neat calligraphy. The composition is perfectly symmetrical and centered on a glowing vertical spiritual axis made of white-gold energy, mist, and lightning-like qi currents running from the bottom of the page to the heavens. At the very top, above the axis, depict 3 seated Taoist immortals or deities on clouds in a golden celestial realm, arranged left, center, and right, with halos and flowing robes in muted green, cream, and blue. Beneath them, create a towering multi-layered cosmological body diagram made of 9 stacked circular realms or platforms connected by swirling clouds and luminous energy. The upper 5 larger realms represent the five zang organs as miniature mythic landscapes: 1 forested green realm labeled liver/wood, 1 fiery red-gold temple city realm labeled heart/fire, 1 yellow earth realm with terraces labeled spleen/earth, 1 silver-blue mountain-and-water realm labeled lung/metal, and 1 dark blue watery abyss realm labeled kidney/water. Place a glowing meditating figure in a bright orb at the center junction between the upper organ realms and lower spirit layers. Below these, add 7 progressively darker circular underworld-like realms for the seven po souls, each densely populated with tiny scenes of human figures, spirits, beasts, ritual activity, suffering, temptation, conflict, and karmic symbolism, all wrapped by drifting smoke and energy ribbons. At the very bottom, show a seated human figure in meditation within a root-like cavern or corporeal foundation, surrounded by chains, rocks, and embodied worldly attachments. Around the central column, include exactly 9 labeled side panels and diagrams in traditional Chinese layout: top left a bagua and yin-yang cosmology circle; top right a dotted numerological or constellation-like chart; left upper a boxed list for 3 souls; right upper a boxed list for 7 po souls; left middle a five-elements relationship diagram with 5 colored nodes; right middle a circular essence-qi-spirit cycle diagram with 3 nodes; left lower a vertical boxed list of 7 categories or stages; right lower a boxed correspondence table; bottom left a five-direction and five-element human-body relation chart; bottom right a standing and seated meridian or cultivation body diagram. Use many small Chinese labels throughout every section, with classical seal stamps in red. The overall palette is antique parchment, sepia ink, muted jade, cinnabar red, smoky gray, gold, teal, and indigo. The style should feel like a museum-quality Daoist metaphysical chart, ultra intricate, hand-painted gongbi plus ink wash illustration, sacred, mystical, scholarly, dense with symbolism, extremely fine linework, soft cloud layering, and high-resolution poster design.
+一幅高度详细的垂直道教神秘信息图表海报，风格为古代中国宗教卷轴，印在带有精美装饰边框的陈米色宣纸上，有书法墨迹、褪色污渍和古典图表注释。顶部中央，大号黑色书法标题文字为{argument name="headline text" default="道·三魂七魄"}。标题正下方是一段较小的楷书古典中文解释文字。构图完全对称，以一个由白金色能量、雾气和类似闪电的气流组成的发光垂直精神轴为中心，从页面底部延伸至天空。在最顶部，轴线上方，描绘三位端坐的道教仙人或神明，位于金色天界的云朵上，左、中、右排列，带有柔和的绿色、奶油色和蓝色的光环和飘逸长袍。在他们下方，创建一个由9个堆叠的圆形领域或平台组成的宏伟多层宇宙身体图，通过旋转的云朵和发光能量连接。上方5个较大的领域代表五脏，作为微型神话景观：1个标记为肝/木的森林绿色领域，1个标记为心/火的炽热红金色寺庙城市领域，1个标记为脾/土的带有梯田的黄色土领域，1个标记为肺/金的银蓝色山水领域，和1个标记为肾/水的深蓝色水域深渊领域。在上部器官领域和下部精神层之间的中心连接处，放置一个发光的冥想人物，位于明亮的光球中。在这些下方，添加7个逐渐变暗的圆形冥界般领域，代表七个魄魂，每个领域都密集分布着微小场景，包括人物、精灵、野兽、仪式活动、苦难、诱惑、冲突和业力象征，所有这些都由飘动的烟雾和能量带环绕。在最底部，展示一个在冥想中的人类坐像，位于根状洞穴或物质基础内，周围环绕着锁链、岩石和具象化的世俗执着。围绕中央柱体，精确包含9个标记的侧面板和图表，采用传统中国布局：左上为八卦和阴阳宇宙学圆圈；右上为点状数字学或星座状图表；左上为3个魂的方框列表；右上为7个魄魂的方框列表；左中为带有5个彩色节点的五行关系图；右中为带有3个节点的圆形精气神循环图；左下为7个类别或阶段的垂直方框列表；右下为方框对应表；左下为五方五行人体关系图；右下为站姿和坐姿经络或修炼身体图。在每个部分使用许多小型中文标签，配有红色古典印章。整体色调为古羊皮纸、棕褐色墨水、柔和的翡翠、朱砂红、烟雾灰、金色、蓝绿色和靛蓝色。风格应感觉像博物馆级别的道教形而上学图表，极其精细，工笔画加水墨画插图，神圣、神秘、学术性、象征密集、线条极其精细、柔和的云层叠加和高分辨率海报设计。
 ```
 
 <a id="prompt-45e9f1d673901ea3fc44"></a>
 
-### 24. Surreal Baroque Painting Reality Fracture
+### 23. 超现实巴洛克绘画现实破裂
 
-![Surreal Baroque Painting Reality Fracture](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case138/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case138/output.jpg" alt="超现实巴洛克绘画现实破裂" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/JohnnyWang8802/status/2048129335853559824)
 
 **提示词:**
 
 ```text
-A {argument name="painting style" default="baroque oil painting"} comes to life — its painted figures climbing out of the gilded frame into a {argument name="setting" default="modern white gallery"}, half their bodies still in flat 2D paint, half fully volumetric 3D humans, brushstrokes visible on their skin, the painting's background leaking watercolor clouds into the gallery ceiling, museum visitors frozen in shock, hyper-detailed, {argument name="artist influence" default="René Magritte meets Pixar"}, reality fracturing at every boundary
+一幅{argument name="painting style" default="巴洛克油画"}活了过来——画中的人物从镀金画框中爬进一个{argument name="setting" default="现代白色美术馆"}，他们一半的身体仍是扁平的2D绘画，一半是完全立体的3D人类，皮肤上可见笔触，画的背景中的水彩云朵渗入美术馆的天花板，博物馆的参观者震惊地僵在原地，超高细节，{argument name="artist influence" default="雷内·马格利特遇见皮克斯"}，现实在每个边界处破碎
 ```
 
 <a id="prompt-4fe70551c14c2bd17c60"></a>
 
-### 25. 苔藓上的香水编辑风拍摄
+### 24. 苔藓上的香水编辑风拍摄
 
-![苔藓上的香水编辑风拍摄](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case148/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case148/output.jpg" alt="苔藓上的香水编辑风拍摄" width="480">
 
 此提示词可生成一张温暖、奢华的编辑风产品照片，将香水瓶置于浮木和苔藓之上，适用于香水广告或高端品牌视觉呈现。
 
-- **分类:** Poster & Illustration Cases, E-commerce Main Image
+- **分类:** 海报与插画案例, 电商主图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Salmaaboukarr/status/2048103506125463983)
 
 **提示词:**
 
 ```text
-A high-end editorial product photograph of a single luxury perfume bottle centered in a warm earthy still-life scene. The product is a clear rectangular glass bottle filled with golden amber liquid, topped with a glossy rounded black cap, with a clean white front label that reads "BYREDO", "BAL D’AFRIQUE", and "EAU DE PARFUM". Place the bottle upright on 1 curved piece of pale weathered driftwood, surrounded by a dense carpet of 1 layer of rich green moss covering the foreground and lower frame. Use a minimal studio composition with the product isolated against a smooth warm brown-to-amber gradient background, softly illuminated like sunset light. Light the scene with dramatic directional warm light from the upper right, creating a bright glow on the background, a crisp highlight on the cap, soft reflections in the glass, and gentle shadows across the wood and moss. Keep the framing vertical, the bottle centered slightly low in the composition with generous negative space above, and the overall mood natural, luxurious, earthy, cinematic, and polished like a premium fragrance campaign shot.
+一张高端编辑风产品摄影作品，画面中心为一瓶奢华香水，置于温暖的大地色静物场景中。产品为一个透明的长方形玻璃瓶，内装金色琥珀色液体，顶部配有光泽圆润的黑色瓶盖，正面贴有简洁的白色标签，上面印有“BYREDO”、“BAL D’AFRIQUE”和“EAU DE PARFUM”字样。将香水瓶垂直放置在一块弯曲的浅色风化浮木上，周围覆盖着一层浓密的深绿色苔藓，铺满前景和画面下方。采用极简的摄影棚构图，产品置于平滑的暖棕色至琥珀色渐变背景前，光线柔和，宛如日落余晖。场景采用来自右上方的戏剧性定向暖光照明，在背景上营造出明亮的光晕，在瓶盖上形成清晰的高光，并在玻璃上产生柔和的反射，同时在木头和苔藓上投下细腻的阴影。保持竖构图，瓶身位于画面中下方，上方留有充足的负空间，整体氛围自然、奢华、充满大地气息且具有电影质感，呈现出高端香水广告大片的精致效果。
 ```
 
 <a id="prompt-50445dc5853b6e5236f1"></a>
 
-### 26. 奢华迪拜城市微缩模型
+### 25. 奢华迪拜城市微缩模型
 
-![奢华迪拜城市微缩模型](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg" alt="奢华迪拜城市微缩模型" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/silentempiredev/status/2048086378383384773)
 
 **提示词:**
 
 ```text
-A hyper-detailed cinematic isometric miniature city model of {argument name="landmark tower" default="Burj Khalifa"} rising dramatically from the center of a square architectural master-plan board, presented like a luxury urban planning maquette on a black background. The composition shows one dominant ultra-tall silver skyscraper in the exact center, surrounded by a dense ring of modern high-rise towers, illuminated roads, bridges, and glowing warm city lights. Curving turquoise-blue water features and artificial lakes wrap around the central district in multiple connected pools and canals, with one large circular fountain-like feature near the tower base and several small island shapes visible in the water. In the lower right quadrant, include a large low-rise complex with rounded geometric roofs and subtle green-lit sections, connected by multilane roads and looping interchanges. The entire city sits on one square beige map board engraved with faint street grids and planning lines, with the board edges clearly visible and slightly raised. Viewpoint is a high three-quarter isometric angle, centered and symmetrical, with the tower extending far upward into negative space. Lighting is dramatic and luxurious: warm golden edge lights on buildings and roads, cool reflections in the water, crisp metallic highlights on the central tower, and a deep black void surrounding the model. Style should feel like a photorealistic architectural visualization mixed with a premium collectible scale model, extremely intricate, sharp, polished, and elegant.
+一个超精细的电影级等轴测微型城市模型，{argument name="landmark tower" default="Burj Khalifa"}从方形建筑总体规划板的中心戏剧性地崛起，在黑色背景上呈现为豪华的城市规划模型。构图显示一个占主导地位的极高银色摩天大楼位于正中心，周围环绕着一圈密集的现代高层建筑、照明道路、桥梁和温暖的发光城市灯光。弯曲的蓝绿色水景和人工湖泊以多个相连的池塘和运河环绕中央区域，塔基附近有一个大型圆形喷泉状特征，水中可见几个小型岛屿形状。在右下象限，包含一个大型低层建筑群，具有圆形几何屋顶和微妙的绿色照明区域，通过多车道道路和环形立交桥连接。整个城市位于一个方形米色地图板上，上面刻有微弱的街道网格和规划线，板边缘清晰可见且略微抬高。视角是高角度的三分之二等轴测角度，居中且对称，塔楼向上延伸至负空间。照明效果戏剧化且奢华：建筑物和道路上有温暖的金色边缘灯光，水面上有凉爽的反射，中央塔楼上有清晰的金属高光，模型周围是深邃的黑色虚空。风格应感觉像照片级真实的建筑可视化与高端收藏级比例模型的结合，极其精细、锐利、精致和优雅。
 ```
 
 <a id="prompt-5185c0aab156807630ec"></a>
 
-### 27. 电商主图 - 微缩场景护肤品广告
+### 26. 电商主图 - 微缩场景护肤品广告
 
-![电商主图 - 微缩场景护肤品广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" alt="电商主图 - 微缩场景护肤品广告" width="480">
 
 一个极具创意的产品广告，通过移轴微缩模型风格，展示了微型建筑工人们正在“建造”一瓶奢华护肤品。
 
-- **分类:** Poster & Illustration Cases, E-commerce Main Image
+- **分类:** 海报与插画案例, 电子商务主图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Strength04_X/status/2048074514278563949)
 
 **提示词:**
 
 ```text
-A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled "LUXEVEIL Skin Science – Radiance Nourishing Body Lotion" in cream/beige with a polished gold pump top, placed on a circular platform. Tiny figurine construction workers dressed in yellow coveralls and white hard hats swarm around the bottle climbing scaffolding, painting the bottle with rollers, operating a tower crane, working near industrial tanks and pipework, and unloading a miniature flatbed truck. The scene includes metal scaffolding structures, industrial silos, orange traffic cones, wooden barricades, and storage barrels. The overall color palette is warm beige, cream, gold, and mustard yellow. Studio photography style with soft diffused lighting, no shadows, clean beige background. The concept metaphorically shows workers "crafting" or "building" the perfect lotion. Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 8K resolution, photorealistic CGI render.
+一个超写实的微缩模型产品广告，画面中心是一个巨大的奢华护肤品按压瓶，瓶身标签印有“LUXEVEIL Skin Science – Radiance Nourishing Body Lotion”，瓶身为奶油色/米色，配有抛光金色按压头，放置在一个圆形平台上。身穿黄色连体工作服、头戴白色安全帽的微型建筑工人们在瓶身周围忙碌：他们攀爬脚手架、用滚筒粉刷瓶身、操作塔吊、在工业储罐和管道旁作业，并从微型平板卡车上卸货。场景中包含金属脚手架结构、工业筒仓、橙色交通锥、木制路障和储物桶。整体色调为暖米色、奶油色、金色和芥末黄。摄影棚拍摄风格，光线柔和均匀，无阴影，背景为干净的米色。该概念隐喻性地展示了工人们正在“精心打造”或“构建”这款完美的乳液。移轴微缩美学，超高细节，商业产品摄影，8K 分辨率，照片级 CGI 渲染。
 ```
 
 <a id="prompt-593f5b5f73852aad97ed"></a>
 
-### 28. Urban Fantasy Coexistence Crossing
+### 27. 都市奇幻共存穿越
 
-![Urban Fantasy Coexistence Crossing](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case142/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case142/output.jpg" alt="都市奇幻共存穿越" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Ray_CROWN0/status/2048024227664494775)
 
 **提示词:**
 
 ```text
-A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-style scramble crossing on a bright clear day, viewed at street level with a wide cinematic composition. The city blends modern realism with mythic fantasy: dense high-rise buildings covered in giant billboards, a red broadcast tower in the middle distance, blue sky with fluffy clouds, and a crowded crosswalk full of pedestrians. In the foreground, show 7 prominent character figures: a silver-haired elf woman in a flowing white dress holding an iced drink and tote bag on the far left; a central schoolgirl with long dark hair, black animal ears, a navy school blazer, plaid skirt, blue ribbon, and large navy shoulder bag, lifting one hand to her head; a young man in a dark suit looking down at a smartphone; an androgynous white-haired angelic figure in an elegant white-and-gold ceremonial outfit with large white wings; a small blonde girl in an ornate pastel pink frilled dress beside the angel; a dark-haired woman in a black coat in right foreground profile; and a small blue-haired cat-eared child in a blue dress with a bow standing near a cave entrance on the right. In the midground crowd, include mixed humans and fantasy races walking together naturally. Add 4 clearly visible nonhuman or supernatural background beings: 1 dragon flying in the sky, 1 winged female angel descending above the street, 1 lizard-headed businessman in a suit near the angelic figure, and 1 tall red-skinned horned demon with crossed arms standing by the hillside path. On the right side, transition the city into a lush shrine hillside with large green trees, a red torii gate, stone steps, and a wooden signboard reading Japanese kanji. Below it, place a rocky cave-like tunnel entrance glowing blue, with a wooden sign over the entrance and several figures descending into an underground shared district lit by crystals. Show 6 major billboard/sign elements across the cityscape: a huge left billboard reading "Shinpi Sekai 神秘世界" with a cosmic planet image; a large central political poster with Japanese text and a raised fist icon; 2 rooftop signs reading "未来研究所" on separate buildings; a large right billboard with Japanese text about coexistence and silhouettes of different beings; and 1 vertical banner with Japanese text on a nearby building. Emphasize the theme of coexistence between ordinary modern city life and hidden fantasy societies. Crisp anime linework, polished light novel key visual rendering, rich textures, soft sunlight, subtle atmospheric perspective, vibrant but believable colors, intricate clothing details, and a sense of awe, everyday bustle, and worldbuilding depth.
+一个高度详细的动漫风格都市奇幻插画，设置在一个繁忙的东京风格十字路口，天气晴朗明亮，以街道水平视角呈现，采用宽银幕构图。城市融合了现代现实主义与神话奇幻：密集的高楼大厦覆盖着巨大的广告牌，远处有一座红色广播塔，蓝天上飘着蓬松的云朵，拥挤的人行道上满是行人。前景中展示7个主要人物形象：最左边是一位银发精灵女子，穿着飘逸的白色连衣裙，手持冰饮和手提袋；中央是一位留有深色长发的女学生，有着黑色动物耳朵、海军蓝校服、格子裙、蓝色丝带和大型海军蓝肩包，一只手抬到头上；一位穿深色西装的年轻男子低头看着智能手机；一个雌雄同体的白发天使形象，穿着优雅的白金色仪式服装，配有巨大的白色翅膀；天使旁边是一位穿着精致粉红色褶边连衣裙的金发小女孩；右前景是一位侧面的黑发女子，穿着黑色外套；以及一个蓝色头发、猫耳、穿蓝色连衣裙配蝴蝶结的小孩子，站在右侧的洞穴入口处。在中景人群中，自然地混合着人类和奇幻种族。添加4个清晰可见的非人类或超自然背景生物：1只在天空飞行的龙，1只在街道上空下降的有翅膀的女性天使，1只在天使形象附近的蜥蜴头商人穿着西装，以及1个站在山坡小径旁的高个子红色皮肤长角恶魔，双臂交叉。右侧，城市过渡到一个郁郁葱葱的神社山坡，有高大的绿树、红色鸟居、石阶和一块写着日文汉字的木制招牌。下方，放置一个发着蓝光的岩石状洞穴入口，入口上方有木制招牌，几个人正进入一个由水晶照亮的地下共享区域。在城市景观中展示6个主要的广告牌/标志元素：左侧巨大的广告牌上写着"Shinpi Sekai 神秘世界"，配有宇宙行星图像；中央大型政治海报上有日文文本和举起的拳头图标；两栋不同建筑上的屋顶标志写着"未来研究所"；右侧大型广告牌上有关于共存的不同生物剪影和日文文本；以及附近建筑上的垂直横幅，上面有日文文本。强调普通现代城市生活与隐藏的奇幻社会共存的主题。清晰的动漫线条，精炼的轻小说关键视觉渲染，丰富的纹理，柔和的阳光，微妙的大气透视，生动而可信的色彩，复杂的服装细节，以及一种敬畏、日常繁忙和世界观深度的感觉。
 ```
 
 <a id="prompt-59531163bd3f176b26c5"></a>
 
-### 29. RPG Map to Anime Event Scene
+### 28. RPG地图转动漫事件场景
 
-![RPG Map to Anime Event Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case140/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case140/output.jpg" alt="RPG地图转动漫事件场景" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ArtwlDesign/status/2048054726768709769)
 
 **提示词:**
 
 ```text
-Using the provided reference image, transform the top-down RPG town map into a polished anime-style event illustration from a human eye-level perspective. Keep the same village location and layout cues: the central stone well, the path network, the hedges, the wooden houses, and the narrow water canal on the left. Convert the 2 small sprite characters by the well into 2 full-size fantasy characters in the foreground: a silver-haired mage in a purple robe holding a staff, and a blonde elf in green-and-brown adventurer clothing, both leaning over and looking into the well. Add a cinematic JRPG feel with soft daylight, detailed painterly rendering, clean line art, and gentle depth of field. Preserve the sense that this scene is taking place in the same town square, but enrich it with natural perspective, more environmental detail, and 5 background villagers: 1 man cropped at the far left edge, 2 small figures standing on the center path in the distance, and 2 townspeople talking near the right-side buildings.
+使用提供的参考图像，将俯视RPG城镇地图转换为从人眼视角出发的精美动漫风格活动插画。保持相同的村庄位置和布局线索：中央的石井、道路网络、树篱、木屋以及左侧的狭窄水渠。将井边的2个小精灵角色转换为前景中的2个全尺寸奇幻角色：一位穿着紫色长袍、手持法杖的银发法师，以及一位穿着绿色和棕色冒险服装的金发精灵，两人都俯身看着井里。添加电影感的JRPG氛围，柔和的日光，详细的绘画渲染，清晰的线条艺术，以及柔和的景深。保留场景发生在同一个城镇广场的感觉，但通过自然视角、更多环境细节和5个背景村民来丰富它：1个被裁剪在远左边缘的男人，2个站在远处中央路径上的小人物，以及2个在右侧建筑附近交谈的镇民。
 ```
 
 <a id="prompt-5ebdb151a88158bf90a9"></a>
 
-### 30. Soft Pastel Anime Girl Full Body
+### 29. 柔和的动漫女孩全身像
 
-![Soft Pastel Anime Girl Full Body](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case141/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case141/output.jpg" alt="柔和的动漫女孩全身像" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/hoshi122221/status/2048025730425196801)
 
 **提示词:**
 
 ```text
-A full-body anime girl character design on a plain white background, centered and floating slightly, drawn in a soft minimalist pastel style with very thin gray linework and delicate flat colors. She has a petite youthful build and a cute, gentle silhouette, with special emphasis on a soft rounded face shape, smooth cheeks, and a softened jawline and chin. Her face is completely obscured by a blank skin-colored rectangular block with no facial features visible. She has short bob hair in {argument name="hair color" default="light ash brown"}, slightly tousled with wispy ends, long bangs covering part of the forehead, and a small ribbon hair tie on the right side in pale blue-gray. She wears 3 visible clothing pieces: an oversized pale blue cardigan with loose sleeves and front buttons, a cream-white slip dress with a scalloped neckline and a tiny button detail at the chest, and a frilled hem with a small ribbon near the right thigh. She is barefoot with slim pale legs, posed front-facing with both arms relaxed slightly outward, open hands, one leg straight and the other gently bent inward for a shy, weightless look. The illustration should feel airy, cute, understated, and clean, like a simple Japanese anime fashion sketch, with lots of negative space and no props, no shadows, and no background elements.
+一个全身动漫女孩角色设计，背景为纯白色，居中并略微悬浮，采用柔和的极简粉彩风格绘制，线条为非常细的灰色，色彩为精致的平涂色。她身材娇小年轻，轮廓可爱柔和，特别强调圆润柔和的脸型、光滑的脸颊以及柔和的下颌线和下巴。她的脸被一个空白的肤色矩形块完全遮挡，没有可见的面部特征。她有{argument name="hair color" default="light ash brown"}色的短波波头，发梢略带凌乱，有长长的刘海遮住部分额头，右侧系着一条淡蓝灰色的小丝带发饰。她穿着3件可见的服装：一件宽松的淡蓝色开衫，袖子宽松，前面有纽扣；一件奶油白色吊带裙，有荷叶边领口，胸前有一个小纽扣装饰，右侧大腿附近有荷叶边下摆和一个小丝带。她赤脚，腿细长肤色浅，正面站立，双臂略微向外放松，双手张开，一条腿伸直，另一条腿轻轻向内弯曲，呈现出害羞、无重量的姿态。插图应感觉轻盈、可爱、含蓄和干净，就像简单的日本动漫时尚素描，有大量留白，没有道具、阴影和背景元素。
 ```
 
 <a id="prompt-5f42e518cf7888e7d8db"></a>
 
-### 31. 电商主图 - 工业设计展示图
+### 30. 电商主图 - 工业设计展示图
 
-![电商主图 - 工业设计展示图](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg" alt="电商主图 - 工业设计展示图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ShamsAmin56/status/2047627860752621647)
 
 **提示词:**
 
 ```text
-Core Subject: [{argument name="reference" default="use the uploaded image"}, keep the details, typography and structure locked 100%]
+Core Subject: [{argument name="reference" default="使用上传的图像"}, 保持细节、字体和结构100%锁定]
 
-Layout & Composition: A {argument name="presentation type" default="professional industrial design presentation sheet"}. The image should be organized into a clean grid system.
+Layout & Composition: 一个{argument name="presentation type" default="专业工业设计展示板"}。图像应组织成整洁的网格系统。
 
-Top Row: A 3x3 layout showing top-down flat lay views and close-up macro details of materials.
+Top Row: 3x3布局，展示俯视平面图视角和材料的特写宏观细节。
 
-Middle Section: Three hero shots of the product standing upright in different color ways (Matte Black, Arctic White, and accented variants). The products should be slightly tilted to show depth and form.
+Middle Section: 三个产品正面站立的主图，展示不同配色方案（哑光黑、北极白和强调色变体）。产品应略微倾斜以展示深度和形态。
 
-Bottom Section: A dynamic "floating" composition featuring two products overlapping at opposing angles to showcase the front and side profiles simultaneously.
+Bottom Section: 动态"悬浮"构图，两个产品以相反角度重叠，同时展示正面和侧面轮廓。
 
-Environment & Lighting: Set against a minimalist, neutral studio gray background. Soft top-down lighting with realistic contact shadows. High-end product photography aesthetic.
+Environment & Lighting: 设置在简约的中性工作室灰色背景上。柔和的顶部照明，带有真实的接触阴影。高端产品摄影美学。
 
-Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave designated blank areas on the product surfaces for "Placeholder Branding" and "Graphic Mockups." 4k resolution, Unreal Engine 5 render style, hyper-realistic, clean aesthetic.
+Style & Finish: 哑光质感、简洁轮廓和锐利边缘。在产品表面留出指定空白区域用于"占位品牌标识"和"图形模型"。4K分辨率，虚幻引擎5渲染风格，超写实，简洁美学。
 ```
 
 <a id="prompt-60451c28640c963b1e36"></a>
 
-### 32. 电商主图 - 高端游戏主板棚拍
+### 31. 电商主图 - 高端游戏主板棚拍
 
-![电商主图 - 高端游戏主板棚拍](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg" alt="电商主图 - 高端游戏主板棚拍" width="480">
 
 此提示词可生成一张时尚且细节极其丰富的高端 RGB 游戏主板摄影棚产品图，非常适合科技广告、硬件模型展示或产品陈列视觉设计。
 
-- **分类:** Poster & Illustration Cases, E-commerce Main Image
+- **分类:** 海报与插画案例, 电商主图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/rojassartorio/status/2048019666816163867)
 
 **提示词:**
 
 ```text
-A high-end enthusiast ATX gaming motherboard product photo on a dark studio background, shown in a three-quarter top-down perspective angled from the lower left toward the upper right. The board is mostly matte black and gunmetal with sharp geometric armor plates, brushed metal textures, and subtle RGB edge lighting in blue, purple, and magenta. Feature an exposed modern Intel-style CPU socket near the upper center, 4 black DIMM memory slots on the right, large VRM heatsinks across the top and upper left, and multiple reinforced PCIe slots in the lower half. Include 3 major branded heatsink zones: a tall rear I/O shroud at upper left with an illuminated RGB eye logo and the text "MAXIMUS HERO", a left-side chipset/slot armor piece with the text "SUPREMEFX", and a large angular lower-right chipset cover with a silver ROG-style emblem plus a lower strip that reads "FOR THOSE WHO DARE". Show detailed capacitors, headers, power connectors, debug display reading "88" at the top right, and a small round start button nearby. Ultra-detailed commercial product photography, crisp focus across the board, realistic reflections on metal, premium luxury tech aesthetic, dramatic low-key lighting, clean black seamless backdrop, no cables, no CPU, no RAM, no other objects.
+一张高端发烧级 ATX 游戏主板产品照片，背景为深色摄影棚环境，采用从左下向右上倾斜的四分之三俯视视角。该项目主体为哑光黑与枪灰色，配有锋利的几何装甲板、拉丝金属纹理，以及蓝色、紫色和洋红色的细微 RGB 边缘灯效。上方中央露出一个现代 Intel 风格 CPU 插槽，右侧设有 4 个黑色 DIMM 内存插槽，顶部和左上方配有大型 VRM 散热片，下半部分有多个加固的 PCIe 插槽。包含 3 个主要的品牌散热片区域：左上方的高大后置 I/O 护罩，带有发光的 RGB 眼睛标志和“MAXIMUS HERO”字样；左侧的芯片组/插槽装甲片，带有“SUPREMEFX”字样；以及右下角大型棱角分明的芯片组盖板，带有银色 ROG 风格徽标和下方写有“FOR THOSE WHO DARE”的条纹。展示详细的电容器、接头、电源接口、右上角显示“88”的调试显示屏，以及附近的一个小型圆形启动按钮。超精细商业产品摄影，全板焦点清晰，金属反射真实，呈现高端奢华科技美感，戏剧性的低调照明，干净的黑色无缝背景，无电缆，无 CPU，无 RAM，无其他杂物。
 ```
 
 <a id="prompt-6278f46f6f055ff61a3c"></a>
 
-### 33. 电商主图 - 高端谷物粉广告展板
+### 32. 电商主图 - 高端谷物粉广告展板
 
-![电商主图 - 高端谷物粉广告展板](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg" alt="电商主图 - 高端谷物粉广告展板" width="480">
 
 此提示词用于生成一款谷物粉饮品的深色奢华风中国电商营销项目，适用于产品详情页、主图以及广告分镜头脚本展示。
 
-- **分类:** Poster & Illustration Cases, E-commerce Main Image
+- **分类:** 海报与插画案例, 电商主图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/WooGabriel76263/status/2047988112094101770)
 
 **提示词:**
 
 ```text
-{"type":"Chinese e-commerce product marketing board","product":{"category":"instant grain powder drink","brand":"五谷磨房","name":"核桃芝麻黑豆粉","packaging":"matte black retail box with gold Chinese typography and a large swirling bowl graphic on the front, plus individual black sachets inside","net weight":"320g (32g×10袋)"},"style":{"overall":"premium dark food advertising layout","color palette":["black","deep brown","warm gold","beige","walnut brown"],"lighting":"dramatic studio lighting with glossy highlights and warm rim light","mood":"luxurious, nourishing, healthy, appetizing"},"layout":{"format":"single tall composite board divided into 5 major sections plus a bottom storyboard table","sections":[{"title":"主图/Main image","position":"top-left","count":8,"labels":["五谷磨房","核桃芝麻黑豆粉","32g×10袋 独立包装","五黑谷物","香浓醇厚","独立小袋","即冲即饮","product box and drink cup"]},{"title":"详情页/Details page","position":"top-right","count":5,"labels":["黑芝麻","黑豆","黑米","核桃","谷物粉"]},{"title":"香浓细腻 顺滑好喝","position":"mid-right","count":4,"labels":["一冲即饮 营养美味","粉质细腻 Fine powder","浓香醇厚 Rich & Smooth","营养代餐 Nutritious"]},{"title":"冲泡方式 HOW TO MAKE","position":"mid-left lower","count":3,"labels":["1 倒入一袋粉(32g)","2 加入200ml 热水或牛奶","3 搅拌均匀 即可享用"]},{"title":"一杯好谷物 轻松好生活","position":"lower-left","count":4,"labels":["元气早餐","办公室下午茶","健身代餐","睡前暖饮"]},{"title":"独立小袋 随身携带","position":"lower-right","count":3,"labels":["独立小袋 便携卫生","锁住新鲜 防潮防氧化","1袋1杯 精准份量"]},{"title":"视频推广广告 seedance 2.0 视频提示词 + 分镜头脚本","position":"bottom full width","count":7,"labels":["镜头1 开场-产品展示","镜头2 食材特写","镜头3 倒粉入杯","镜头4 冲泡搅拌","镜头5 饮用场景","镜头6 产品卖点","镜头7 结尾口号"]}],"grid":"top area split into left main image and right detail page; middle area split into preparation guide and feature panel; lower area split into lifestyle scenarios and sachet carry section; bottom is a full-width tabular storyboard"},"scene_elements":{"ingredients":[{"name":"black sesame","form":"small black seeds in a round bowl"},{"name":"black beans","form":"glossy whole beans in a round bowl"},{"name":"black rice","form":"dark long grains in a round bowl"},{"name":"walnuts","form":"walnut halves in a round bowl"},{"name":"grain powder","form":"light beige powder in a round bowl"}],"serving":{"drink":"thick gray-brown sesame walnut bean beverage with smooth surface swirl","cup":"transparent glass cup with handle","utensil":"metal spoon stirring or resting inside drink"},"supporting props":["walnuts on table","scattered black beans","grain stalks or wheat stems","dark tabletop","ingredient bowls","open package showing 5 visible sachets"]},"text_treatment":{"headline_font":"bold elegant Chinese display type in metallic gold","body_font":"clean sans serif Chinese with occasional English subtitles","accent":"thin gold divider lines and circular ingredient frames"},"camera_and_composition":{"product_shots":"front-facing hero box, angled sachet display box, close-up beverage macro","food_photography":"high-detail commercial food styling, shallow depth of field, crisp texture emphasis","aspect_ratio":"portrait, approximately 9:16"},"quality":"ultra-detailed commercial design mockup, polished e-commerce key visual plus details page plus ad storyboard, 4K"}
+{"type":"中国电商产品营销项目","product":{"category":"速溶谷物粉饮品","brand":"五谷磨房","name":"核桃芝麻黑豆粉","packaging":"哑光黑色零售包装盒，配有金色中文字体，正面印有大型漩涡状碗图案，内含独立黑色小袋","net weight":"320g (32g×10袋)"},"style":{"overall":"高端深色食品广告排版","color palette":["黑色","深棕色","暖金色","米色","核桃棕"],"lighting":"戏剧性的摄影棚灯光，带有光泽高光和暖色轮廓光","mood":"奢华、滋养、健康、诱人"},"layout":{"format":"单个长幅复合项目，分为 5 个主要部分及底部故事板表格","sections":[{"title":"主图/Main image","position":"左上","count":8,"labels":["五谷磨房","核桃芝麻黑豆粉","32g×10袋 独立包装","五黑谷物","香浓醇厚","独立小袋","即冲即饮","产品盒与饮品杯"]},{"title":"详情页/Details page","position":"右上","count":5,"labels":["黑芝麻","黑豆","黑米","核桃","谷物粉"]},{"title":"香浓细腻 顺滑好喝","position":"中右","count":4,"labels":["一冲即饮 营养美味","粉质细腻 Fine powder","浓香醇厚 Rich & Smooth","营养代餐 Nutritious"]},{"title":"冲泡方式 HOW TO MAKE","position":"中左下方","count":3,"labels":["1 倒入一袋粉(32g)","2 加入200ml 热水或牛奶","3 搅拌均匀 即可享用"]},{"title":"一杯好谷物 轻松好生活","position":"左下","count":4,"labels":["元气早餐","办公室下午茶","健身代餐","睡前暖饮"]},{"title":"独立小袋 随身携带","position":"右下","count":3,"labels":["独立小袋 便携卫生","锁住新鲜 防潮防氧化","1袋1杯 精准份量"]},{"title":"视频推广广告 seedance 2.0 视频提示词 + 分镜头脚本","position":"底部全宽","count":7,"labels":["镜头1 开场-产品展示","镜头2 食材特写","镜头3 倒粉入杯","镜头4 冲泡搅拌","镜头5 饮用场景","镜头6 产品卖点","镜头7 结尾口号"]}],"grid":"顶部区域分为左侧主图和右侧详情页；中部区域分为冲泡指南和功能面板；下部区域分为生活场景和便携小袋部分；底部为全宽表格化故事板"},"scene_elements":{"ingredients":[{"name":"黑芝麻","form":"圆碗中的小粒黑芝麻"},{"name":"黑豆","form":"圆碗中有光泽的整粒黑豆"},{"name":"黑米","form":"圆碗中的深色长粒黑米"},{"name":"核桃","form":"圆碗中的核桃仁"},{"name":"谷物粉","form":"圆碗中浅米色的粉末"}],"serving":{"drink":"浓稠的灰褐色芝麻核桃黑豆饮品，表面有顺滑的漩涡","cup":"带把手的透明玻璃杯","utensil":"金属勺在饮品中搅拌或放置在内"},"supporting props":["桌上的核桃","散落的黑豆","谷物茎或麦秆","深色桌面","食材碗","展示 5 袋独立小袋的开口包装"]},"text_treatment":{"headline_font":"金属金色粗体优雅中文字体","body_font":"简洁无衬线中文字体，偶尔搭配英文副标题","accent":"细金色分割线和圆形食材边框"},"camera_and_composition":{"product_shots":"正面英雄产品盒、成角度的小袋展示盒、饮品微距特写","food_photography":"高细节商业食品造型，浅景深，强调清晰质感","aspect_ratio":"纵向，约 9:16"},"quality":"超细节商业设计样机，精美的电商主视觉图、详情页及广告故事板，4K"}
 ```
 
 <a id="prompt-65a7b161e1ff696030dc"></a>
 
-### 34. 日式中华料理外卖传单
+### 33. 日式中华料理外卖传单
 
-![日式中华料理外卖传单](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg" alt="日式中华料理外卖传单" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/xc5_/status/2048310696686014935)
 
 **提示词:**
 
 ```text
-A Japanese neighborhood Chinese restaurant delivery flyer for mailbox posting (3:4 aspect ratio). Designed to look like a double-sided B5 print.
+一个日式社区中餐馆外卖传单，用于信箱投递（3:4宽高比）。设计成双面B5打印的样子。
 
-Flyer characteristics (following the grammar of real delivery flyers):
-- Flashy red and yellow color scheme.
-- Large text at the top: "Delivery Available! {argument name="shop name" default="Mona-Hanten"}" (shadowed Gothic font).
-- An illustration of a {argument name="character" default="Chinese girl in a red cheongsam with a brown short bob"} holding ramen and saying "Welcome!" in a speech bubble.
-- A menu photo grid (4x3) featuring various dishes: different types of ramen, fried rice, gyoza, sweet and sour pork, shrimp in chili sauce, mapo tofu, liver and leek stir-fry, tenshinhan, twice-cooked pork, spring rolls, annin tofu, and fried rice sets.
-- Names and prices for each dish.
-- A large yellow banner saying "Free delivery on all menu items over ¥1,000!".
-- "Order by phone! ☎ 072-XX-XXXX" emphasized with a red circle.
-- Business hours "11:00-22:00 (Closed on Tuesdays)".
-- Delivery area map (simple schematic map).
-- Coupon (perforated line for clipping): "One free plate of gyoza with this flyer!".
+传单特点（遵循真实传单的设计语法）：
+- 鲜艳的红黄配色方案。
+- 顶部大号文字："Delivery Available! {argument name="shop name" default="Mona-Hanten"}"（带阴影的黑体字）。
+- 一个{argument name="character" default="Chinese girl in a red cheongsam with a brown short bob"}的插图，她拿着拉面，在对话框中说"Welcome!"。
+- 菜单照片网格（4x3），展示各种菜品：不同种类的拉面、炒饭、饺子、咕咾肉、辣子虾、麻婆豆腐、肝炒韭菜、天津饭、回锅肉、春卷、杏仁豆腐和炒饭套餐。
+- 每道菜的名称和价格。
+- 一个黄色横幅，写着"Free delivery on all menu items over ¥1,000!"。
+- "Order by phone! ☎ 072-XX-XXXX"用红色圆圈强调。
+- 营业时间"11:00-22:00 (Closed on Tuesdays)"。
+- 配送区域图（简单示意图）。
+- 优惠券（带虚线便于撕下）："One free plate of gyoza with this flyer!"。
 
-Texture of cheap paper printing. Includes fold marks. Precision that could be mistaken for a real Japanese delivery flyer.
+廉价纸张印刷质感。包含折痕。精确度足以以假乱真，看起来就像真正的日本外卖传单。
 ```
 
 <a id="prompt-6b801193337942088b53"></a>
 
-### 35. 电商主图 - 大理石梳妆台奢华香水广告
+### 34. 电商主图 - 大理石梳妆台奢华香水广告
 
-![电商主图 - 大理石梳妆台奢华香水广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg" alt="电商主图 - 大理石梳妆台奢华香水广告" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MiguelMaestroIA/status/2047555836252151831)
 
 **提示词:**
 
 ```text
-A luxury e-commerce advertising photo of a premium perfume bottle on a polished gray-and-white marble vanity, shot in a warm cinematic studio style with soft golden lighting, shallow depth of field, and elegant reflections. The composition is square and high-end, with the perfume bottle centered slightly right of frame and promotional text on the left. The bottle is a tall sculpted hourglass-shaped glass flacon with smoky transparent gray glass fading darker at the base, a glossy gold spherical cap, a gold collar engraved with fine branding, and a large metallic gold interlocking monogram on the front. Keep the branding-inspired feel but do not add extra products. In the foreground left, include 1 cut-crystal bowl with a gold rim, partially cropped. In the background right, include 1 brushed gold cylindrical vase holding 1 bouquet of soft white flowers, blurred. Behind the bottle, add 1 black marble rectangular box with subtle white veining and gold trim. In the lower right foreground, include 1 draped piece of champagne-colored satin fabric, softly out of focus. The background should be dark, luxurious, and softly blurred, with rich brown-black tones and a vertical shadowed panel on the left to support typography. Add elegant serif headline text on the upper left reading {argument name="headline text" default="Premium Perfume,"} in large warm beige letters, with a smaller serif subheading beneath reading {argument name="tagline" default="Subtlety and Elegance"}, plus a thin short gold horizontal line below the subheading. Place a small white logo in the top-right corner reading {argument name="brand logo" default="Pollo.ai"}. Emphasize premium materials, realistic glass refraction, gold metallic highlights, luxury product photography, refined composition, soft bokeh, and upscale beauty-ad aesthetics.
+一张高端香水瓶在抛光灰白色大理石梳妆台上的奢侈电商广告照片，采用温暖的影院工作室风格拍摄，配有柔和的金色光线、浅景深和优雅的反射。构图为方形且高端，香水瓶位于画面中心偏右，左侧有促销文字。瓶子是一个高挑的雕塑沙漏形玻璃瓶，烟熏透明灰色玻璃在底部逐渐变深，有光泽的金色球形瓶盖，一个刻有精细品牌标识的金色颈环，以及前面的大型金属金色交织字母标志。保持品牌灵感但不要添加额外产品。在前景左侧，包含1个带金边的切水晶碗，部分裁剪。在背景右侧，包含1个金色圆柱形花瓶，装有1束柔和的白色花朵，模糊。在瓶子后面，添加1个带有细微白色纹理和金色装饰的黑大理石矩形盒。在右下角前景，包含1块香槟色缎面布料，柔和失焦。背景应为黑暗、奢华且柔和模糊，带有丰富的棕黑色调，左侧有一个垂直的阴影面板以支持排版。在左上方添加优雅的衬线标题文本，内容为{argument name="headline text" default="Premium Perfume,"}，使用大型温暖的米色字母，下方有较小的衬线副标题，内容为{argument name="tagline" default="Subtlety and Elegance"}，副标题下方有一条细短的金色水平线。在右上角放置一个小白色标志，内容为{argument name="brand logo" default="Pollo.ai"}。强调高端材料、真实的玻璃折射、金色金属高光、奢侈产品摄影、精致的构图、柔和的散景和高端美容广告美学。
 ```
 
 <a id="prompt-6ca37afaa2f1af33cc35"></a>
 
-### 36. 电商主图 - 传统中国艺术与瓷瓶
+### 35. 电商主图 - 传统中国艺术与瓷瓶
 
-![电商主图 - 传统中国艺术与瓷瓶](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg" alt="电商主图 - 传统中国艺术与瓷瓶" width="480">
 
 用于生成高质量中国传统文化产品（包括丝巾和御制瓷器）的详细提示词。
 
-- **分类:** Poster & Illustration Cases, E-commerce Main Image
+- **分类:** 海报与插画案例, 电子商务主图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/songguoxiansen/status/2048046906585280977)
 
 **提示词:**
 
 ```text
-A scarf inspired by 'A Thousand Li of Rivers and Mountains', surrounded by Wang Ximeng's blue-green landscape, with a silky texture and soft lighting.
+一款灵感源自《千里江山图》的丝巾，环绕着王希孟笔下的青绿山水，呈现丝滑质感与柔和光影。
 
-A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with peony and butterfly patterns in the style of imperial kilns.
+一款绘有杨贵妃赏花图的粉彩瓷瓶，融合了御窑风格的牡丹与蝴蝶纹饰。
 ```
 
 <a id="prompt-765c2432458c2770b2ea"></a>
 
-### 37. Air Sign Zodiac Character Poster
+### 36. 风象星座性格海报
 
-![Air Sign Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case126/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case126/output.jpg" alt="风象星座性格海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/komorimedia/status/2048114825398731143)
 
 **提示词:**
 
 ```text
-{"type":"Chinese zodiac-themed character infographic poster","format":"vertical poster","aspect_ratio":"3:4","style":"clean pastel editorial infographic with anime-inspired fashion photography, soft magical accents, elegant horoscope design, premium magazine layout","background":{"color":"warm ivory","border":"thin decorative gold frame with small ornamental corners and tiny sparkles","top_right_motif":"large pale air-element swirl ornament"},"title_block":{"headline":"十二星座角色清單|風象星座","subheadline":"靈活・交流・思辨","alignment":"top center","headline_color":"deep desaturated blue","subheadline_color":"muted gold"},"subject":{"count":3,"description":"the same young East Asian woman used as the base character appears in 3 separate horoscope panels, each shown from about thigh-up to waist-up with long dark hair and soft feminine styling, photographed frontally and integrated into illustrated pastel zodiac backdrops"},"layout":{"sections":[{"title":"雙子座 Gemini","position":"top panel","count":1,"theme_color":"butter yellow and cream","zodiac_symbol":"Gemini glyph inside a circle on the left","constellation":"small Gemini constellation in the upper right","character_pose":"playful double peace signs raised beside her face","outfit":"pale yellow cardigan over a white ribbed crop top, light bottoms, yellow belt, delicate necklace","background_motifs_count":4,"background_motifs":["speech bubble icon","sparkles","curved flowing lines","soft dots"],"text_items_count":6,"text_items":["元素:風","概念:資訊玩家,靈感跳接","性格:機靈、善聊、多變","行動原則:先交流,再快速轉向","戀愛傾向:喜歡有趣互動與腦力火花","人際怪癖:話題切換速度快到像開分頁"]},{"title":"天秤座 Libra","position":"middle panel","count":1,"theme_color":"blush pink and pastel lavender","zodiac_symbol":"Libra glyph inside a circle on the left","constellation":"small Libra constellation in the upper right","character_pose":"one hand raised open-palmed as if presenting balance, the other hand near her chin in an elegant thoughtful pose","outfit":"pink blazer draped over shoulders, pastel pink-and-blue wrapped dress, jeweled belt, earrings, necklace, bracelet","background_motifs_count":4,"background_motifs":["scales illustration","flowing ribbon-like swirls","sparkles","soft gradient haze"],"text_items_count":6,"text_items":["元素:風","概念:關係設計師,追求平衡","性格:優雅、圓融、審美強","行動原則:先衡量,再找最順解法","戀愛傾向:重氛圍與互相體面","人際怪癖:選太久,但又很會照顧場面"]},{"title":"水瓶座 Aquarius","position":"bottom panel","count":1,"theme_color":"lavender, icy blue, and silver","zodiac_symbol":"Aquarius glyph inside a circle on the left","constellation":"small Aquarius constellation in the upper right","character_pose":"holding and tilting a futuristic transparent vessel as glowing water-like energy pours out in looping streams","outfit":"metallic silver crop top and skirt set with translucent iridescent jacket, futuristic straps, reflective accessories","background_motifs_count":4,"background_motifs":["glowing circular energy rings","constellation lines","sparkles","light trails"],"text_items_count":6,"text_items":["元素:風","概念:未來觀察員,規則改革者","性格:獨立、理想派、腦洞大","行動原則:先思考原理,再另闢路線","戀愛傾向:重精神共鳴,也需要個人空間","人際怪癖:忽冷忽熱,其實是在充電"]}],"panel_count":3},"typography":{"languages":["Traditional Chinese","English zodiac names"],"headline_font":"elegant high-contrast serif","body_font":"clean legible Chinese serif or sans-serif hybrid","zodiac_english":"italic calligraphic serif"},"visual_rules":{"each_panel_has":8,"panel_elements":["left zodiac glyph badge","center-left character","right text block","English zodiac name","small constellation","pastel illustrated background motifs","thin panel border","6 bullet-style info lines with icons"],"spacing":"generous margins and symmetrical alignment","render_quality":"high resolution, crisp print-ready infographic"}}
+{"type":"中国生肖主题角色信息图表海报","format":"竖版海报","aspect_ratio":"3:4","style":"柔和粉彩编辑风格信息图表，融合动漫时尚摄影，柔和魔法元素，优雅星座设计，高级杂志版面","background":{"color":"暖象牙色","border":"细装饰性金色边框，带有小型装饰角和小闪光点","top_right_motif":"大型淡雅风元素漩涡装饰"},"title_block":{"headline":"十二星座角色清单|风象星座","subheadline":"灵活・交流・思辨","alignment":"顶部居中","headline_color":"深饱和度蓝色","subheadline_color":"柔和金色"},"subject":{"count":3,"description":"同一位年轻东亚女性作为基础角色出现在三个独立的星座面板中，每个面板从大腿上方到腰部上方展示，留有深色长发和柔和的女性风格，正面拍摄并融入粉彩星座背景插画"},"layout":{"sections":[{"title":"双子座 Gemini","position":"顶部面板","count":1,"theme_color":"黄油黄和奶油色","zodiac_symbol":"左侧圆形内的双子座符号","constellation":"右上角的小双子座星座","character_pose":"俏皮地在脸旁举起双V字手势","outfit":"淡黄色开衫配白色针织露脐上衣，浅色下装，黄色腰带，精致项链","background_motifs_count":4,"background_motifs":["对话气泡图标","闪光","曲线流动线条","柔和圆点"],"text_items_count":6,"text_items":["元素:风","概念:信息玩家,灵感跳接","性格:机灵、善聊、多变","行动原则:先交流,再快速转向","恋爱倾向:喜欢有趣互动与脑力火花","人际怪癖:话题切换速度快到像开分页"]},{"title":"天秤座 Libra","position":"中间面板","count":1,"theme_color":"腮红粉和淡薰衣草色","zodiac_symbol":"左侧圆形内的天秤座符号","constellation":"右上角的小天秤座星座","character_pose":"一只手张开手掌举起仿佛展示平衡，另一只手优雅地放在下巴附近做思考姿势","outfit":"粉色西装外套搭在肩上，淡粉蓝色裹身裙，珠宝腰带，耳环，项链，手镯","background_motifs_count":4,"background_motifs":["天平插画","流动的丝带状漩涡","闪光","柔和渐变薄雾"],"text_items_count":6,"text_items":["元素:风","概念:关系设计师,追求平衡","性格:优雅、圆融、审美强","行动原则:先衡量,再找最顺解法","恋爱倾向:重氛围与互相体面","人际怪癖:选太久,但又很会照顾场面"]},{"title":"水瓶座 Aquarius","position":"底部面板","count":1,"theme_color":"薰衣草色、冰蓝色和银色","zodiac_symbol":"左侧圆形内的水瓶座符号","constellation":"右上角的小水瓶座星座","character_pose":"手持并倾斜一个未来感透明容器，发光的水状能量以循环流的形式倾泻而出","outfit":"金属银色露脐上衣和短裙套装，搭配半透明彩虹色夹克，未来感肩带，反光配饰","background_motifs_count":4,"background_motifs":["发光圆形能量环","星座连线","闪光","光迹"],"text_items_count":6,"text_items":["元素:风","概念:未来观察员,规则改革者","性格:独立、理想派、脑洞大","行动原则:先思考原理,再另辟路线","恋爱倾向:重精神共鸣,也需要个人空间","人际怪癖:忽冷忽热,其实是在充电"]}],"panel_count":3},"typography":{"languages":["繁体中文","英文名称"],"headline_font":"优雅高对比度衬线字体","body_font":"清晰易读的中文字体混合衬线或无衬线字体","zodiac_english":"斜体书法衬线字体"},"visual_rules":{"each_panel_has":8,"panel_elements":["左侧星座符号徽章","中左角色","右侧文本块","英文名称","小星座","粉彩背景插画","细面板边框","6个带图标的子弹式信息行"],"spacing":"宽边距和对称对齐","render_quality":"高分辨率，清晰打印就绪的信息图表"}}
 ```
 
 <a id="prompt-7718b197d2a42364c088"></a>
 
-### 38. Vintage PRS Guitar Lineage Poster
+### 37. 复古PRS吉他谱系海报
 
-![Vintage PRS Guitar Lineage Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case128/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case128/output.jpg" alt="复古PRS吉他谱系海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/GlennHasABeard/status/2048087784141857235)
 
 **提示词:**
 
 ```text
-{"type":"luxury vintage guitar comparison infographic poster","subject":"a highly detailed, vertically oriented PRS electric guitar lineup chart designed like a premium museum poster or collector's reference board","style":"ornate, dark, glossy, high-contrast, gold-foil typography, elegant wood-and-metal textures, symmetrical grid layout, premium catalog aesthetic, subtle vintage patina, ultra sharp graphic design","branding":{"main headline":"THE LEGENDARY LINEAGE OF {argument name=\"brand name\" default=\"PRS GUITARS\"}","subheadline":"EVERY ICON. EVERY LINE. ONE HERITAGE.","signature":"Paul Reed Smith","left seal":"PAUL REED SMITH GUITARS","right seal":"MADE IN MARYLAND U.S.A."},"palette":{"background":"black and deep charcoal with dark figured wood accents","primary":"antique gold","secondary":"cream","accent colors":["deep green","teal","royal blue","purple","gold","burgundy"]},"layout":{"format":"single-page vertical poster","header":{"position":"top","elements":["large central title","small tagline below","script signature","2 circular emblems in upper left and upper right","3 horizontal legend boxes under the title"]},"sections":[{"title":"PRESTIGE TIER KEY","position":"upper left below title","count":6,"labels":["SE","S2","CE","CORE","WOOD LIBRARY","PRIVATE STOCK"]},{"title":"PICKUP ICON KEY","position":"upper center-right below title","count":7,"labels":["HH","HSH","P-90","SOAP","58/15","TCI","Bass"]},{"title":"TONAL CHARACTER KEY","position":"upper right below title","count":7,"labels":["Warm / Vintage","Balanced / All-around","Bright / Articulate","High Gain / Modern","Blues / Classic Rock","Metal / Progressive","Funk / Soul / Clean"]},{"title":"CORE","position":"first main row left label","count":7,"labels":["Custom 24","McCarty 594","DGT (David Grissom)","Custom 22","Hollowbody II","SC 594","row category panel"]},{"title":"S2","position":"second main row left label","count":6,"labels":["S2 Custom 24","S2 McCarty 594","S2 Standard 24","S2 Vela","S2 Singlecut","S2 Mira"]},{"title":"SE","position":"third main row left label","count":6,"labels":["SE Custom 24","SE Standard 24","SE Paul's Guitar","SE Santana","SE Hollowbody II","SE Mark Holcomb"]},{"title":"CE","position":"fourth main row left label","count":6,"labels":["CE 24","CE 22","CE 24 Semi-Hollow","CE 24 Floyd","CE 24 Satin","CE Bass"]},{"title":"BOLT-ON SERIES","position":"fifth main row left label","count":6,"labels":["NF 53","Silver Sky","NF 3","NF 53 Satin","DGT Bolt-On","Studio"]},{"title":"PRIVATE STOCK","position":"sixth main row left label","count":6,"labels":["Dragon I","Frostbite","#4004","The Tree of Life","#8731","PS DGT"]}],"footer":{"position":"bottom","elements":["small badge at lower left","centered company line","right-side script signature"]}},"content grid":{"total guitar models shown":37,"card design":"each product card contains a guitar render, model name, year, small pickup icons, a short descriptive blurb, and origin/wood specs at the bottom","row side panels":6},"visual details":{"guitars":"front-facing electric guitars with varied body shapes and highly polished figured maple tops, metallic and transparent finishes, some solid colors, some natural wood","typography":"all caps serif headlines, small serif body text, script signature accents","borders":"thin decorative gold rules around every panel and the full poster","lighting":"studio-lit instruments against dark panel backgrounds","render quality":"clean infographic precision with realistic product renders"},"camera":"straight-on flat poster view, no perspective distortion, centered composition","quality":"ultra detailed, print-ready, high-resolution editorial infographic, luxury brand poster"}
+{
+"type":"豪华复古吉他对比信息图表海报",
+"subject":"一个高度详细的、垂直方向的PRS电吉他系列图表，设计成高级博物馆海报或收藏家参考板",
+"style":"华丽、暗色、光泽、高对比度、金箔印刷字体、优雅的木质和金属质感、对称网格布局、高级目录美学、微妙的复古古旧感、超锐利的平面设计",
+"branding":{
+"main headline":"传奇血统 {argument name=\"brand name\" default=\"PRS GUITARS\"}",
+"subheadline":"每一个标志。每一系列。一种传承。",
+"signature":"Paul Reed Smith",
+"left seal":"PAUL REED SMITH GUITARS",
+"right seal":"美国马里兰州制造"
+},
+"palette":{
+"background":"黑色和深炭灰色，带有深色纹理木纹点缀",
+"primary":"古金色",
+"secondary":"奶油色",
+"accent colors":["深绿色","蓝绿色","皇家蓝","紫色","金色","酒红色"]
+},
+"layout":{
+"format":"单页垂直海报",
+"header":{
+"position":"顶部",
+"elements":["中央大标题","下方小标语","手写签名","左上和右上两个圆形徽章","标题下三个水平图例框"]
+},
+"sections":[
+{"title":"高端系列钥匙","position":"标题左下方","count":6,"labels":["SE","S2","CE","CORE","木材库","私人珍藏"]},
+{"title":"拾音器图标钥匙","position":"标题右上方","count":7,"labels":["HH","HSH","P-90","SOAP","58/15","TCI","贝斯"]},
+{"title":"音色特征钥匙","position":"标题右下方","count":7,"labels":["温暖/复古","平衡/全能","明亮/清晰","高增益/现代","蓝调/经典摇滚","金属/前卫","放克/灵魂/清音"]},
+{"title":"CORE","position":"第一主行左侧标签","count":7,"labels":["Custom 24","McCarty 594","DGT (David Grissom)","Custom 22","Hollowbody II","SC 594","行类别面板"]},
+{"title":"S2","position":"第二主行左侧标签","count":6,"labels":["S2 Custom 24","S2 McCarty 594","S2 Standard 24","S2 Vela","S2 Singlecut","S2 Mira"]},
+{"title":"SE","position":"第三主行左侧标签","count":6,"labels":["SE Custom 24","SE Standard 24","SE Paul's Guitar","SE Santana","SE Hollowbody II","SE Mark Holcomb"]},
+{"title":"CE","position":"第四主行左侧标签","count":6,"labels":["CE 24","CE 22","CE 24 半空心","CE 24 Floyd","CE 24 哑光","CE 贝斯"]},
+{"title":"螺栓系列","position":"第五主行左侧标签","count":6,"labels":["NF 53","Silver Sky","NF 3","NF 53 哑光","DGT 螺栓","Studio"]},
+{"title":"私人珍藏","position":"第六主行左侧标签","count":6,"labels":["龙 I","霜冻","#4004","生命之树","#8731","PS DGT"]}
+],
+"footer":{
+"position":"底部",
+"elements":["左下角小徽章","居中公司行","右侧手写签名"]
+}
+},
+"content grid":{
+"total guitar models shown":37,
+"card design":"每个产品卡片包含吉他渲染图、型号名称、年份、小型拾音器图标、简短描述性文字，以及底部的产地/木材规格",
+"row side panels":6
+},
+"visual details":{
+"guitars":"正面朝向的电吉他，具有不同的琴身形状和高度抛光的枫木纹理面板，金属色和透明漆面，一些纯色，一些天然木纹",
+"typography":"全大衬线标题，小衬线正文字体，手写签名点缀",
+"borders":"每个面板和整张海报周围有细装饰金边框",
+"lighting":"乐器在暗色面板背景下的影棚灯光",
+"render quality":"清晰的信息图表精确度，带有逼真的产品渲染图"
+},
+"camera":"正面平坦海报视图，无透视失真，居中构图",
+"quality":"超详细，打印就绪，高分辨率编辑信息图表，豪华品牌海报"
+}
 ```
 
 <a id="prompt-7ff4654aa203b07ef3e1"></a>
 
-### 39. 3D Stone Staircase Evolution Infographic
+### 38. 3D 石阶演化信息图
 
-![3D Stone Staircase Evolution Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case111/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case111/output.jpg" alt="3D 石阶演化信息图" width="480">
 
 将平面的演化时间轴转化为逼真的 3D 石阶信息图，包含精细的生物渲染图和结构化的侧边栏。
 
-- **分类:** Poster & Illustration Cases, 信息图可视化设计, 3D Stone Staircase Evolution Infographic
+- **分类:** 海报与插画案例, 信息图可视化设计, 3D 石阶演变信息图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/GeekCatX/status/2045792240044511277)
 
 **提示词:**
 
 ```text
 {
-  "type": "evolutionary timeline infographic",
-  "instruction": "Using REFERENCE_0 as a structural base, transform the flat vector design into a highly realistic 3D infographic. Replace the smooth ramps with distinct stone steps and upgrade all organisms to photorealistic 3D models.",
+  "type": "演化时间轴信息图",
+  "instruction": "以 REFERENCE_0 作为结构基础，将平面矢量设计转化为高度逼真的 3D 信息图。将平滑的坡道替换为独特的石阶，并将所有生物升级为照片级真实的 3D 模型。",
   "style": {
-    "background": "{argument name=\"background style\" default=\"vintage textured parchment paper\"}",
-    "staircase": "{argument name=\"staircase material\" default=\"realistic textured stone blocks\"}",
-    "subjects": "{argument name=\"organism style\" default=\"highly detailed photorealistic 3D renders\"}"
+    "background": "{argument name=\"background style\" default=\"复古纹理羊皮纸\"}",
+    "staircase": "{argument name=\"staircase material\" default=\"逼真的纹理石块\"}",
+    "subjects": "{argument name=\"organism style\" default=\"高度精细的照片级真实 3D 渲染\"}"
   },
   "layout": {
     "main_title": "{argument name=\"main title\" default=\"人类演化\"}",
     "sections": [
       {
-        "position": "left sidebar",
+        "position": "左侧边栏",
         "count": 8,
         "labels": ["L0: 单细胞生命", "L1: 多细胞生物", "L2: 动物界", "L3: 脊索动物", "L4: 上陆革命", "L5: 哺乳纲", "L6: 人科演化", "L7: 智人纪元"]
       },
       {
-        "position": "top right",
+        "position": "右上角",
         "title": "获得的功能 / 失去的功能",
-        "description": "Legend with plus and minus icons"
+        "description": "带有加号和减号图标的图例"
       },
       {
-        "position": "bottom center",
+        "position": "底部中心",
         "title": "演化关键里程碑",
         "count": 6,
-        "description": "Timeline with a silhouette graphic of 6 figures showing ape-to-human evolution"
+        "description": "包含 6 个展示从猿到人演化剪影图形的时间轴"
       }
     ],
     "centerpiece": {
-      "description": "Winding stone staircase with 25 numbered steps featuring specific organisms.",
+      "description": "蜿蜒的石阶，共有 25 个编号台阶，展示特定生物。",
       "count": 25,
       "notable_elements": [
-        "Step 07: Jellyfish",
-        "Step 09: Ammonite",
-        "Step 10: Trilobite",
-        "Step 24: Walking human",
-        "Step 25: {argument name=\"future evolution concept\" default=\"glowing cosmic silhouette with a question mark\"}"
+        "第 07 阶: 水母",
+        "第 09 阶: 菊石",
+        "第 10 阶: 三叶虫",
+        "第 24 阶: 直立行走的人类",
+        "第 25 阶: {argument name=\"future evolution concept\" default=\"带有问号的发光宇宙剪影\"}"
       ]
     }
   }
@@ -932,206 +968,206 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 
 <a id="prompt-7ffb41c88c2508c24084"></a>
 
-### 40. 16-Pose Dance Combat Reference Sheet
+### 39. 16个姿势舞蹈战斗参考表
 
-![16-Pose Dance Combat Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case133/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case133/output.jpg" alt="16个姿势舞蹈战斗参考表" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ExquisitMe/status/2048143577264402629)
 
 **提示词:**
 
 ```text
-{"type":"pose reference sheet","subject":{"theme":"hip-hop dance and combat-ready movement chart","character":{"count":1,"gender_presentation":"female","age_appearance":"young adult","body_type":"fit athletic dancer","skin_tone":"light tan","hair":{"color":"black","style":"high ponytail with loose strands"},"outfit":{"count":5,"items":["white sports bra or cropped athletic top","baggy purple jogger pants","white chunky sneakers","purple wristbands or forearm bands on both arms","small hoop earrings"]}}},"style":{"image_type":"photorealistic studio pose sheet","lighting":"clean even studio lighting","background":"plain light gray to white seamless backdrop","camera":"full-body framing, straight-on view, consistent distance","rendering":"sharp realistic anatomy, dynamic motion, slight shadow under feet","face":"intentionally blurred or obscured"},"layout":{"grid":{"rows":4,"columns":4,"count":16},"numbering":{"count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"],"position":"top-left corner of each cell"},"cell_borders":"thin black divider lines between all panels"},"poses":{"count":16,"items":[{"label":"1","description":"wide low squat, knees bent outward, torso angled slightly left, both arms extended loosely in a defensive dance stance"},{"label":"2","description":"deep side lunge to the left, left arm pointing straight left, right hand near the head, energetic directional pose"},{"label":"3","description":"low crouch with one hand touching the floor, one knee bent under the body, opposite arm extended horizontally"},{"label":"4","description":"upright one-leg balance, left knee lifted high, both arms spread outward for rhythm and balance"},{"label":"5","description":"similar one-leg raised pose with the other leg supporting, arms stretched outward in a lighter dance variation"},{"label":"6","description":"very wide grounded squat, torso pitched forward, one hand reaching toward the floor between the legs, other arm extended back"},{"label":"7","description":"dramatic standing back arch, chest lifted upward, hips forward, both arms opened behind and to the sides"},{"label":"8","description":"small jump or suspended squat, both feet off the floor, knees bent, arms spread wide symmetrically"},{"label":"9","description":"floor-supported seated lean, one hand planted behind, one arm reaching diagonally upward, legs bent to one side"},{"label":"10","description":"front-facing balance with one knee raised to hip height, one arm bent in guard position and the other extended sideways"},{"label":"11","description":"deep lateral stance, feet far apart, knees bent, both hands raised open near shoulder level like a ready combat pose"},{"label":"12","description":"low side lunge split, one hand planted on the floor, the other arm reaching vertically overhead, torso arched upward"},{"label":"13","description":"standing backward lean with relaxed bent knees, chest up, arms hanging loosely behind in a groove pose"},{"label":"14","description":"compact twisting crouch, weight low over bent legs, torso rotated, one arm pulled in and the other extended outward"},{"label":"15","description":"very wide side lunge stretch, one hand to the floor near the front foot, opposite arm reaching diagonally overhead"},{"label":"16","description":"one-leg lifted pose with knee high, one hand behind the head and the other arm extended forward, confident finishing stance"}]},"composition":"show the same dancer in all 16 panels with consistent outfit and scale, centered within each frame, designed like a movement library or choreography reference chart"}
+{"type":"姿势参考表","subject":{"theme":"嘻哈舞蹈和战斗准备动作图","character":{"count":1,"gender_presentation":"女性","age_appearance":"年轻成人","body_type":"健康有活力的舞者身材","skin_tone":"浅棕色","hair":{"color":"黑色","style":"高马尾，带有松散的发丝"},"outfit":{"count":5,"items":["白色运动内衣或短款运动上衣","宽松的紫色慢跑裤","白色厚底运动鞋","两只手腕或前臂上的紫色腕带","小圆环耳环"]}}},"style":{"image_type":"照片般真实的工作室姿势表","lighting":"干净均匀的摄影棚灯光","background":"纯浅灰到白色的无缝背景","camera":"全身构图，正面视角，保持一致的距离","rendering":"清晰逼真的解剖结构，动态动作，脚部有轻微阴影","face":"故意模糊或遮挡"},"layout":{"grid":{"rows":4,"columns":4,"count":16},"numbering":{"count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"],"position":"每个单元格的左上角"},"cell_borders":"所有面板之间的细黑色分隔线"},"poses":{"count":16,"items":[{"label":"1","description":"宽低蹲，膝盖向外弯曲，躯干略微向左倾斜，双臂以防御性舞蹈姿势放松伸展"},{"label":"2","description":"向左侧深弓步，左臂直指左侧，右手靠近头部，充满活力的方向性姿势"},{"label":"3","description":"低蹲，一只手触地，一条腿弯曲在身体下方，对侧手臂水平伸展"},{"label":"4","description":"直立单腿平衡，左膝抬高，双臂向外展开以保持节奏和平衡"},{"label":"5","description":"类似单腿抬起的姿势，另一条腿支撑，手臂向外伸展，形成较轻的舞蹈变化"},{"label":"6","description":"非常宽的地面蹲姿，躯干前倾，一只手伸向双腿之间的地板，另一只手臂向后伸展"},{"label":"7","description":"戏剧性的站立后弓，胸部上抬，臀部前倾，双臂在身后和两侧展开"},{"label":"8","description":"小跳跃或悬空蹲姿，双脚离地，膝盖弯曲，手臂对称地张开"},{"label":"9","description":"地面支撑的坐姿倾斜，一只手支撑在身后，一只手臂对角向上伸展，双腿向一侧弯曲"},{"label":"10","description":"面向前方的平衡姿势，一膝抬至臀部高度，一只手臂弯曲成防御姿势，另一只手臂向侧面伸展"},{"label":"11","description":"深横向站姿，双脚分开较远，膝盖弯曲，双手在肩部附近抬起，呈准备战斗姿势"},{"label":"12","description":"低侧弓步劈叉，一只手支撑在地板上，另一只手臂垂直向上伸展，躯干向上拱起"},{"label":"13","description":"站立后倾，膝盖放松弯曲，胸部挺起，手臂在身后松散悬挂，呈 groove 姿势"},{"label":"14","description":"紧凑的扭转蹲姿，重量集中在弯曲的腿上，躯干旋转，一只手臂收回，另一只手臂向外伸展"},{"label":"15","description":"非常宽的侧弓步拉伸，一只手放在前脚附近的地板上，对侧手臂对角向上伸展"},{"label":"16","description":"单腿抬起姿势，膝盖抬高，一只手放在头后，另一只手臂向前伸展，自信的结束姿势"}]},"composition":"在所有16个面板中展示同一位舞者，穿着和比例保持一致，在每个框架中居中，设计成动作库或编舞参考图"}
 ```
 
 <a id="prompt-81df16147867cde99576"></a>
 
-### 41. Fire Sign Zodiac Character Poster
+### 40. 火象星座性格海报
 
-![Fire Sign Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case125/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case125/output.jpg" alt="火象星座性格海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/komorimedia/status/2048114825398731143)
 
 **提示词:**
 
 ```text
-A polished vertical infographic poster in elegant East Asian editorial style, themed around the fire signs of the zodiac using one consistent female character reimagined in three different costumes. Cream parchment background with thin ornamental borders, small corner flourishes, tiny sparkles, and warm red-orange-gold accents throughout. Large Chinese headline at the top reading {argument name="headline text" default="十二星座角色清單|火象星座"}, with a smaller subheading beneath reading {argument name="subheading text" default="熱情・行動・勇氣"}, and a decorative flame icon at the top right. The layout contains exactly 3 stacked profile panels with rounded rectangular borders and generous margins: Aries on top, Leo in the middle, Sagittarius on the bottom. Each panel is split visually with the character on the left and a text/spec area on the right, plus a zodiac symbol badge on the far left and a small constellation diagram on the far right.
+精美的垂直信息图表海报，采用优雅的东亚编辑风格，主题围绕黄道十二宫的火象星座，使用同一个女性角色重新想象为三种不同的服装造型。奶油羊皮纸背景，带有精致的装饰边框，小角落装饰，微小的闪光，以及贯穿整个设计的温暖红-橙-金色点缀。顶部有大型中文标题，内容为 {argument name="headline text" default="十二星座角色清單|火象星座"}，下方有较小的副标题，内容为 {argument name="subheading text" default="熱情・行動・勇氣"}，右上角有一个装饰性的火焰图标。布局包含恰好3个堆叠的简介面板，带有圆角矩形边框和充足的边距：顶部是白羊座，中间是狮子座，底部是射手座。每个面板在视觉上分为左右两部分：左侧是角色，右侧是文本/规格区域，最左侧是黄道十二宫符号徽章，最右侧是小型星座图。
 
-Use the same young East Asian woman in all 3 panels, slim build, long dark hair in a high ponytail, shown from about thigh-up to waist-up, facing slightly toward camera, styled as a fashion-model zodiac character sheet. Keep facial features neutral and refined, clean beauty lighting, soft airbrushed illustration-photo composite look.
+在所有3个面板中使用同一位年轻的东亚女性角色，身材苗条，深色长发扎成高马尾，显示范围从大腿中部到腰部以上，略微面向相机，风格为时尚模特黄道十二宫角色设定表。保持面部特征中性而精致，干净的美丽照明，柔和的喷绘插画-照片合成效果。
 
-Panel 1: Aries. Chinese title and English subtitle: "牡羊座 Aries". Dominant color scheme: vivid red with warm coral highlights. Zodiac symbol badge shows Aries glyph. Constellation on the right. Behind the character, faint circular mystical line art and flame motifs. Outfit: sporty warrior idol styling with a white crop top, red open short-sleeve jacket with gold trim, red belt, and red wrist wraps or fingerless arm accessories. Pose: confident, energetic, one fist raised near the shoulder and the other hand on her hip. Include exactly 6 info lines with small circular icons before each line, all in Chinese: 1) "元素:火" 2) "概念:點火者,直覺先行" 3) "性格:熱情、直接、好勝" 4) "行動原則:先衝再修正" 5) "戀愛傾向:心動就追,喜歡熱烈互動" 6) "人際怪癖:嫌節奏太慢時會自己接手".
+面板1：白羊座。中文标题和英文副标题："牡羊座 Aries"。主色调：鲜艳的红色，带有温暖的珊瑚色高光。黄道符号徽章显示白羊座符号。右侧是星座图。角色背后有微弱的圆形神秘线条艺术和火焰图案。服装：运动型战士偶像风格，白色露脐上衣，红色开襟短袖夹克带金色装饰，红色腰带，以及红色手腕绷带或露指手臂配饰。姿势：自信、充满活力，一只拳头举在肩部附近，另一只手放在臀部。包含恰好6条信息线，每条线前有小圆形图标，全部为中文：1) "元素:火" 2) "概念:點火者,直覺先行" 3) "性格:熱情、直接、好勝" 4) "行動原則:先衝再修正" 5) "戀愛傾向:心動就追,喜歡熱烈互動" 6) "人際怪癖:嫌節奏太慢時會自己接手"。
 
-Panel 2: Leo. Chinese title and English subtitle: "獅子座 Leo". Dominant color scheme: gold, champagne, and soft amber. Zodiac symbol badge shows Leo glyph. Constellation on the right. Background includes radiant sunburst styling and a faint majestic lion illustration silhouette behind the character. Outfit: glamorous regal gown in pale gold with ornate embroidery, jeweled bodice details, flowing translucent cape sleeves, elegant necklace, and a small crown or tiara. Pose: poised and queenly, one hand lightly touching the chest or collarbone, shoulders open, projecting confidence and star power. Include exactly 6 info lines with small circular icons before each line, all in Chinese: 1) "元素:火" 2) "概念:舞台中心,自帶光芒" 3) "性格:大方、自信、要面子" 4) "行動原則:先定氣場,再帶隊前進" 5) "戀愛傾向:喜歡被偏愛,也樂於寵人" 6) "人際怪癖:明明在意,卻要裝沒事".
+面板2：狮子座。中文标题和英文副标题："獅子座 Leo"。主色调：金色、香槟色和柔和的琥珀色。黄道符号徽章显示狮子座符号。右侧是星座图。背景包括辐射状的太阳光风格和角色背后微弱的威严狮子插图剪影。服装：华丽的皇家礼服，淡金色，带有精致刺绣，珠宝紧身胸衣细节，流动的透明披肩袖子，优雅的项链，以及小王冠或头饰。姿势：优雅而女王般，一只手轻触胸部或锁骨，肩膀打开，展现自信和明星气质。包含恰好6条信息线，每条线前有小圆形图标，全部为中文：1) "元素:火" 2) "概念:舞台中心,自帶光芒" 3) "性格:大方、自信、要面子" 4) "行動原則:先定氣場,再帶隊前進" 5) "戀愛傾向:喜歡被偏愛,也樂於寵人" 6) "人際怪癖:明明在意,卻要裝沒事"。
 
-Panel 3: Sagittarius. Chinese title and English subtitle: "射手座 Sagittarius". Dominant color scheme: rust red, burnt orange, brown leather, and warm ivory. Zodiac symbol badge shows Sagittarius glyph. Constellation on the right. Background features faint compass-circle graphics and flame accents. Outfit: adventurous archer styling with an ivory blouse, red scarf, brown leather harness straps, utility belt, and arm bracers. Pose: dynamic action shot drawing a bow, arrow aimed to the right, with a small glowing spark at the bow grip or arrow rest. Include exactly 6 info lines with small circular icons before each line, all in Chinese: 1) "元素:火" 2) "概念:自由旅人,邊走邊發現" 3) "性格:樂觀、坦率、好奇" 4) "行動原則:先出發,路上再找答案" 5) "戀愛傾向:喜歡輕鬆真誠,不愛被綁住" 6) "人際怪癖:聊到一半常被新鮮事帶走".
+面板3：射手座。中文标题和英文副标题："射手座 Sagittarius"。主色调：铁锈红、烧焦橙、棕色皮革和温暖象牙色。黄道符号徽章显示射手座符号。右侧是星座图。背景有微弱的指南针圆形图形和火焰点缀。服装：冒险的弓箭手风格，象牙色衬衫，红色围巾，棕色皮革背带，多功能腰带，和手臂护腕。姿势：动态动作镜头，正在拉弓，箭矢朝向右侧，弓把或箭托处有微小的发光火花。包含恰好6条信息线，每条线前有小圆形图标，全部为中文：1) "元素:火" 2) "概念:自由旅人,邊走邊發現" 3) "性格:樂觀、坦率、好奇" 4) "行動原則:先出發,路上再找答案" 5) "戀愛傾向:喜歡輕鬆真誠,不愛被綁住" 6) "人際怪癖:聊到一半常被新鮮事帶走"。
 
-Overall design should feel premium, feminine, mystical, and collectible, like a social-media-ready zodiac character list poster. Use elegant serif-style Chinese typography for the main sign names and italic calligraphic English for Aries, Leo, and Sagittarius. Keep all text crisp, aligned, and readable. Add one small decorative fire emblem centered near the bottom border. Aspect ratio 3:4 portrait.
+整体设计应感觉高级、女性化、神秘且具有收藏价值，就像适合社交媒体的黄道十二宫角色列表海报。使用优雅的衬线风格中文字体作为主要星座名称，使用斜体书法英文作为白羊座、狮子座和射手座。保持所有文本清晰、对齐且可读。在底部边框中央添加一个小装饰性火焰徽章。宽高比3:4纵向。
 ```
 
 <a id="prompt-832d6ea14f99d1b489cb"></a>
 
-### 42. Ink-Wash Tribute Poster for Chen Uen
+### 41. 水墨致敬海报：Chen Uen
 
-![Ink-Wash Tribute Poster for Chen Uen](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case122/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case122/output.jpg" alt="水墨致敬海报：Chen Uen" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mob_17/status/2048118645017219381)
 
 **提示词:**
 
 ```text
-Create a vintage editorial poster on aged rice paper celebrating {argument name="artist name" default="CHEN UEN"}, designed like a museum infographic mixed with Chinese ink wash illustration and calligraphy. The format is a single vertically oriented poster with a weathered parchment background, ink splatters, faded handwritten annotations, red seal stamps, and a scholarly, archival atmosphere. At the very top, place large black Chinese calligraphy for the name 鄭問, followed by a slash and the romanized name {argument name="romanized name" default="CHEN UEN"} in large serif capitals, with a small red seal beside it. Under the title, add the subtitle {argument name="subtitle text" default="The Taiwanese Master Who Turned Comics into Ink-Born Epic"} in elegant reddish-brown serif text. In the center, feature a dramatic painterly scene of 1 seated male artist in a loose white shirt at a desk, holding a brush over paper, his face intentionally obscured by a soft rectangular blur. Behind him, surround him with a swirling halo-like storm of monochrome ink-brush warriors and historical figures: exact count 9 visible character figures, including armored generals, swordsmen, and mounted riders, emerging from explosive black brushwork and smoke-like ink textures. On the left side, create a vertical section titled “Life & Milestones” with a black brushstroke header and smaller Chinese subtitle text. List exactly 6 timeline entries with red year markers and bilingual captions: 1958 born in Taiwan, 1983 Warrior Panther, 1989 Abi Sword, 1990 Heroes of the Eastern Zhou, 1991 Japan Cartoonists Association Award, 2017 legacy continues. Below that, add a small section titled “Ink in Detail” containing exactly 4 boxed brush studies labeled with short English captions: Dry brush texture, Ink wash gradient, Splatter energy, Bold contour line. On the right side, create a vertical section titled “Visual Method” with a black brushstroke header and smaller Chinese subtitle text. Include exactly 5 stacked boxed studies with image-and-caption layout: Brush as blade, Ink as atmosphere, Anatomy as fate, History as theatre, Speed lines become calligraphy. In the lower center, create a section titled “Major Works Constellation” with a dark brushstroke heading. Arrange exactly 5 circular work nodes around a central ink ring with Chinese calligraphy inside. Label the 5 nodes: Abi Sword, Heroes of the Eastern Zhou, Assassin Biographies, Magical Super Asia, Game character design legacy. Each circle contains a distinct monochrome or muted-color ink illustration, with subtle connecting marks like a constellation diagram. At the lower right, add a section titled “Studio Notes” containing exactly 6 visible objects: 4 hanging calligraphy brushes, 1 ink bowl, and 1 painter’s palette with blue and red pigment; beneath them place a sketchbook page with light pencil figure studies. Across the bottom, add a wide section titled “Why He Matters” with a black brushstroke header and smaller Chinese subtitle text, followed by a paragraph of serif body text in English describing his importance to comics, painting, calligraphy, cinema, and epic storytelling. Use a restrained palette of sepia, black ink, off-white paper, muted gray, with small accents of deep red and occasional blue. The whole image should feel like a refined cultural tribute poster, dense but balanced, highly detailed, painterly, and authentic to Chinese ink aesthetics.
+创建一张在陈旧宣纸上庆祝{argument name="artist name" default="CHEN UEN"}的复古编辑海报，设计风格融合了博物馆信息图表和中国水墨画与书法。格式为单张竖向海报，具有陈旧的羊皮纸背景、墨迹飞溅、褪色的手写注释、红色印章和学术档案氛围。在最顶部，放置"鄭問"的大型黑色中国书法，后面跟着斜杠和{argument name="romanized name" default="CHEN UEN"}的大型衬线大写字母，旁边有一个小红印章。标题下方，添加{argument name="subtitle text" default="The Taiwanese Master Who Turned Comics into Ink-Born Epic"}的优雅红棕色衬线文本作为副标题。中央部分，展示一位身穿宽松白衬衫的男性艺术家坐在桌前手持画笔在纸上作画的戏剧性绘画场景，他的脸被柔和的矩形模糊有意遮挡。在他身后，环绕着一个由单色水墨武士和历史人物组成的漩涡状光环状风暴：确切可见9个角色形象，包括装甲将军、剑士和骑马者，从爆炸性的黑色笔触和烟雾状墨色纹理中浮现。左侧，创建一个标题为"Life & Milestones"的垂直部分，带有黑色笔触标题和较小的中文副标题。列出恰好6个带有红色年份标记和双语字幕的时间线条目：1958年出生于台湾，1983年《战豹》，1989年《阿剑》，1990年《东周英雄传》，1991年日本漫画家协会奖，2017年遗产延续。下方添加一个标题为"Ink in Detail"的小节，包含恰好4个带有简短英文标签的方框笔触研究：干笔纹理、水墨渐变、飞溅能量、粗轮廓线。右侧，创建一个标题为"Visual Method"的垂直部分，带有黑色笔触标题和较小的中文副标题。包含恰好5个堆叠的方框研究，采用图像和字幕布局：笔如刀，墨如氛围，解剖如命运，历史如戏剧，速度线成为书法。中下部，创建一个标题为"Major Works Constellation"的部分，带有深色笔触标题。在带有中文书法的中心墨环周围排列恰好5个圆形作品节点。标记5个节点：《阿剑》、《东周英雄传》、《刺客列传》、《魔法超级亚洲》、《游戏角色设计遗产》。每个圆圈包含独特的单色或柔和色彩水墨插图，带有微妙的连接标记，如同星座图。右下方，添加一个标题为"Studio Notes"的部分，包含恰好6个可见物品：4个悬挂的书法笔、1个墨碗和1个带有蓝色和红色颜料的画家调色板；下方放置一页带有轻柔铅笔人物素描的素描本。底部，添加一个标题为"Why He Matters"的宽部分，带有黑色笔触标题和较小的中文副标题，随后是一段描述他对漫画、绘画、书法、电影和史诗叙事重要性的衬线正文字体英文段落。使用由棕褐色、黑墨、米白色纸、柔和灰色组成的有节制调色板，辅以深红色和偶尔的蓝色点缀。整个图像应感觉像一幅精致的文化致敬海报，密集但平衡，高度详细，绘画性强，并忠实于中国水墨美学。
 ```
 
 <a id="prompt-835dc275925e4445140c"></a>
 
-### 43. Stormy Tropical City With Rooftop Plane
+### 42. 暴风雨中的热带城市屋顶上的飞机
 
-![Stormy Tropical City With Rooftop Plane](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case165/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case165/output.jpg" alt="暴风雨中的热带城市屋顶上的飞机" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Gerry/status/2048303505702629537)
 
 **提示词:**
 
 ```text
-A cinematic wide aerial view of a tropical coastal city at sunset during a violent storm, split dramatically between dark storm clouds on the left and blazing golden sunlight on the right. In the foreground, a small single-engine light airplane with a high wing and visible tail is parked or perched precariously on a flat rooftop, seen from behind and slightly above, centered near the bottom of the frame. To the left midair, 1 helicopter flies low over the city with its searchlight cast downward. In the sky, include 1 faint lightning bolt on the far left. The city below is dense with wet streets, reflective pavement, low-rise commercial buildings, and a few taller modern towers, including 1 prominent striped high-rise near the center. A glowing red circular neon sign is visible near the middle distance. On the right side, a calm bay or inlet curves through the city, lined with 1 row of tall palm trees along the waterfront road, and crossed by 1 long low bridge in the distance. The water and streets glisten from recent rain, reflecting the orange sunlight breaking through the clouds. Mood is tense, dramatic, and slightly surreal, like a movie still from an urban disaster thriller. Photorealistic, ultra-detailed, high dynamic range lighting, volumetric sun rays, storm atmosphere, wet surfaces, rich contrast, deep shadows, golden highlights, wide-angle lens, epic composition.
+电影感的广角航拍视角，展现暴风雨期间热带沿海城市日落时分，左侧是黑暗的暴风云，右侧是炽热的金色阳光，形成戏剧性的分割。前景中，一架小型单引擎轻型飞机，高翼设计，尾部可见，危险地停泊或栖息在平坦的屋顶上，从后方和略微上方视角拍摄，位于画面底部中央。左侧半空中，一架直升机低飞掠过城市，探照灯向下投射。天空中，最左侧有一道微弱的闪电。下方的城市密集分布着湿漉的街道、反光的路面、低层商业建筑和几座较高的现代塔楼，包括中心附近一座醒目的条纹高楼。中景处可见一个发光的红色圆形霓虹灯标志。右侧，一个平静的海湾或水道蜿蜒穿过城市，沿滨水道路种植着一排高大的棕榈树，远处横跨着一座长长的低矮桥梁。水和街道因最近的雨水而闪闪发光，反射着穿透云层的橙色阳光。氛围紧张、戏剧化且略超现实，如同都市灾难惊悚片的电影剧照。照片级真实感，超精细细节，高动态范围光照，体积阳光，暴风雨氛围，湿润表面，丰富对比度，深邃阴影，金色高光，广角镜头，史诗级构图。
 ```
 
 <a id="prompt-88b4fae8023623072d34"></a>
 
-### 44. 霓虹耐克Lumina广告海报
+### 43. 霓虹耐克Lumina广告海报
 
-![霓虹耐克Lumina广告海报](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case145/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case145/output.jpg" alt="霓虹耐克Lumina广告海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AlwaveNazca/status/2048147643809865950)
 
 **提示词:**
 
 ```text
-A high-energy vertical Nike fashion campaign poster featuring a single athletic young woman mid-jump against a futuristic neon studio background. She is captured in a dynamic airborne pose with one knee bent up, the other leg folded back, one arm extended outward and the other bent near her chest, conveying motion and power. Her face is obscured by a clean rectangular blur block centered over the face. She wears a cropped iridescent white hooded windbreaker with a black zipper and small Nike logo on the chest, holographic metallic lavender-blue leggings with a subtle Nike swoosh on the thigh, a black branded waistband visible above the leggings, and white chunky Nike sneakers. Her brown hair is tied in a high ponytail flying outward with the jump. Behind her, enormous glowing white serif letters spell “NIKE” across the upper half, with a small white Nike swoosh centered above the word. Across the middle background, the phrase “LUMINA” appears once in wide bold glowing letters with a horizontal glitch and scanline distortion effect, partially obscured by the model. The color palette is saturated magenta, violet, cyan, and electric blue with strong bloom, glossy highlights, lens flares, and chromatic aberration. Add sweeping circular light trails wrapping around the model’s legs and body, suggesting speed and motion. The overall style is premium sportswear advertising, ultra-polished, cinematic, high contrast, hyperreal retouching, crisp product detail, dramatic rim lighting, and a luminous holographic aesthetic. Place 2 small text lines at the bottom: bottom left reads {argument name="tagline text" default="LIGHT. MOTION. ENERGY."}, bottom right reads {argument name="collection name" default="NIKE LUMINA COLLECTION"} followed by a small Nike swoosh. Include exactly 3 visible Nike swooshes total: 1 above the large NIKE headline, 1 on the jacket chest, and 1 on the leggings.
+高能量的垂直耐克时尚活动海报，展示一位年轻的运动女性在充满未来感的霓虹工作室背景中跳跃。她被捕捉到一个充满活力的空中姿势，一条膝盖弯曲向上，另一条腿向后折叠，一只手臂向外伸展，另一只手臂弯曲在胸前，传达着运动和力量。她的脸被一个干净的矩形模糊块遮挡，位于脸部中央。她穿着一件短款彩虹色白色带兜帽风衣，胸前有黑色拉链和小耐克标志，全息金属薰衣草蓝色打底裤，大腿上有细微的耐克勾形标志，打底裤上方可见黑色品牌腰带，以及白色厚底耐克运动鞋。她的棕色头发扎成高马尾，随着跳跃向外飞舞。在她身后，巨大的发光白色衬线字母在上半部分拼出"NIKE"，单词上方中央有一个小白色耐克勾形标志。在中间背景上，"LUMINA"一词以宽大粗体的发光字母出现一次，带有水平故障和扫描线失真效果，部分被模特遮挡。色彩饱和度为洋红色、紫色、青色和电蓝色，带有强烈的辉光、光泽高光、镜头光晕和色差。添加环绕模特腿部和身体的旋转圆形光迹，暗示速度和运动。整体风格是高级运动服广告，极度精致，电影感，高对比度，超现实修饰，清晰的产品细节，戏剧性的边缘照明，以及发光的全息美学。在底部放置两行小文本：左下角显示{argument name="tagline text" default="LIGHT. MOTION. ENERGY."}，右下角显示{argument name="collection name" default="NIKE LUMINA COLLECTION"}，后跟一个小耐克勾形标志。总共包含3个可见的耐克勾形标志：1个在大NIKE标题上方，1个在夹克胸前，1个在打底裤上。
 ```
 
 <a id="prompt-89fed0ab11be6293c73f"></a>
 
-### 45. Anime Music Bootcamp Promo Poster
+### 44. 动漫音乐训练营宣传海报
 
-![Anime Music Bootcamp Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg" alt="动漫音乐训练营宣传海报" width="480">
 
-- **分类:** UI & Social Media Mockup Cases
+- **分类:** UI 与社交媒体模型案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sorane_aimusic/status/2047507066697507134)
 
 **提示词:**
 
 ```text
-Create a dramatic Japanese anime-style promotional thumbnail poster for an event, vertical 4:5 composition, ultra-detailed, cinematic, neon-lit, high contrast, designed like a social media announcement image. The main subject is a beautiful anime girl centered slightly right, shown from the waist up, with long flowing {argument name="hair color" default="deep blue"} hair blowing in the wind, decorated with small star hairpins, wearing a dark hoodie and large studio headphones around her neck, against a glowing sunset-to-night city skyline filled with sparkling lights, music-energy particles, lens flares, and flying glowing petals. Her face area is obscured by a soft rectangular blur block. Use a vivid palette of electric blue, violet, magenta, gold, and sunset orange. Fill the design with layered Japanese typography that is crisp, readable, and integrated into the art like a polished event advertisement. Include exactly 8 major text groups: top left copy reading 「始まるのは、キミと創る 音楽の物語。」 with a smaller subcopy beneath reading 「AIを使って、みんなで音楽をつくる特別な3日間。」; top right a glowing marquee sign reading 「GW連休!」 and a smaller neon box below reading 「みんなで最高の音楽をつくろう!」; center main title with small English text 「AI MUSIC BOOTCAMP 2」 above huge Japanese title text 「AI音楽 ブートキャンプ 2」; a gigantic gold metallic announcement across the middle reading 「開催決定!」; a date bar reading 「開催期間」 followed by 「5.2 SAT 土」 and 「5.4 MON 月」; a hashtag callout near the bottom reading 「参加はカンタン!! #AI音楽ブートキャンプ2 をつけて投稿するだけ!」; a lower encouragement line reading 「初心者も大歓迎! みんなで最高の音楽体験を!」; and 3 bottom feature captions with icons reading 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, and 「想いをカタチに 自分だけの1曲を」. On the left edge, add a vertical filmstrip with exactly 4 inset panels showing the same girl in music-related scenes: 1) performing on a stage before a crowd, 2) working at a music production desk with screens and equipment, 3) singing into a microphone, 4) playing an acoustic guitar. Add exactly 2 neon music-themed icon illustrations in the lower area: a tilted smartphone with a music note on the lower left and a glowing microphone with musical notes on the lower right. Make the text effects glossy, luminous, and embossed with gold and white highlights, with energetic streaks and spark explosions around the headline. The overall feeling should be inspiring, celebratory, futuristic, and emotionally uplifting, like a high-impact Japanese Golden Week music bootcamp ad for {argument name="event name" default="AI音楽ブートキャンプ 2"}.
+创建一个戏剧性的日本动漫风格的活动宣传缩略图海报，垂直4:5构图，超精细，电影感，霓虹灯效果，高对比度，设计成社交媒体公告图像。主角是一位美丽的动漫女孩，略微居右，腰部以上特写，有着长长的、随风飘动的{argument name="hair color" default="深蓝色"}头发，装饰着小星星发夹，穿着深色连帽衫，脖子上挂着大型录音室耳机，背景是发光的日落至夜晚城市天际线，布满闪烁的灯光、音乐能量粒子、镜头光晕和飞舞的发光花瓣。她的脸部区域被一个柔和的矩形模糊块遮挡。使用鲜艳的调色板：电蓝色、紫色、品红色、金色和日落橙色。用分层的日文排版填充设计，清晰易读，并像精致的活动广告一样融入艺术中。包含8个主要文本组：左上角文本为「始まるのは、キミと創る 音楽の物語。」，下方较小的副标题为「AIを使って、みんなで音楽をつくる特別な3日間。」；右上角是一个发光的霓虹灯招牌，写着「GW連休!」，下方较小的霓虹框写着「みんなで最高の音楽をつくろう!」；中心主标题上方有较小的英文文本「AI MUSIC BOOTCAMP 2」，上方是巨大的日文标题文本「AI音楽 ブートキャンプ 2」；中间横跨一个巨大的金色金属公告，写着「開催決定!」；日期栏写着「開催期間」，接着是「5.2 SAT 土」和「5.4 MON 月」；底部附近有一个标签号召，写着「参加はカンタン!! #AI音楽ブートキャンプ2 をつけて投稿するだけ!」；下方鼓励语写着「初心者も大歓迎! みんなで最高の音楽体験を!」；以及3个底部功能标题，带有图标，写着「一緒に学ぶ 仲間とつながる」、「AIで創る 新しい音楽体験」和「想いをカタチに 自分だけの1曲を」。在左侧边缘添加一个垂直胶片，包含4个嵌入面板，展示同一位女孩在音乐相关场景中的形象：1) 在舞台上表演，面对人群；2) 在音乐制作桌前工作，有屏幕和设备；3) 对着麦克风唱歌；4) 弹奏原声吉他。在下方区域添加2个霓虹音乐主题图标插图：左下方是一个倾斜的智能手机，上面有音符；右下方是一个发光的麦克风，周围有音符。使文本效果具有光泽感、发光感，并带有金色和白色浮雕效果，标题周围有动感条纹和火花爆炸。整体感觉应该具有启发性、庆祝性、未来感和情感振奋，就像一个高影响力的日本黄金周音乐训练营广告，为{argument name="event name" default="AI音楽ブートキャンプ 2"}。
 ```
 
 <a id="prompt-8a6cbb5b6371a37f5560"></a>
 
-### 46. Urban Alley Mural Artist
+### 45. 城市小巷壁画艺术家
 
-![Urban Alley Mural Artist](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case139/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case139/output.jpg" alt="城市小巷壁画艺术家" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Professor_134/status/2048066672398102896)
 
 **提示词:**
 
 ```text
-A cinematic, ultra-realistic night scene of a {argument name="artist" default="young male street artist"} painting a large-scale {argument name="mural subject" default="mural of a woman’s face"} in a {argument name="setting" default="narrow urban alley"}. The camera angle is slightly low, creating a dramatic, powerful perspective. The artist has medium-length, slightly messy dark hair and light stubble or a short beard, giving him a rugged, creative look.
+电影感的、超写实的夜景，{argument name="artist" default="年轻男性街头艺术家"}正在{argument name="setting" default="狭窄的城市小巷"}中绘制一幅大型{argument name="mural subject" default="女性面孔壁画"}。相机角度略低，创造出戏剧性的、有力的视角。这位艺术家有中等长度的、略微凌乱的深色头发和轻柔的胡茬或短须，赋予他粗犷、富有创造力的外表。
 
-He wears a loose white t-shirt and casual jeans, slightly oversized, with a relaxed streetwear vibe. His posture is focused and engaged as he stands close to the wall, actively spray-painting.
+他穿着宽松的白色T恤和休闲牛仔裤，略微宽松，带有轻松的街头时尚感。他的姿势专注而投入，他站在墙边，积极地进行喷漆创作。
 
-He is creating a massive, hyper-realistic mural of a woman’s face on a textured brick wall. The mural is incredibly detailed—smooth skin tones, realistic lighting, expressive eyes, and glossy lips—appearing almost like a photograph. Fine mist from the spray paint is visible in the air, catching light and adding motion and atmosphere.
+他正在一面纹理分明的砖墙上创作一幅巨大的、超写实的女性面孔壁画。壁画极其细腻——平滑的肤色、逼真的光线、富有表现力的眼睛和光泽的嘴唇——看起来几乎像一张照片。喷漆产生的细小雾气在空气中可见，捕捉光线，增添了动感和氛围。
 
-The setting is a narrow urban alley at night, surrounded by tall buildings. The environment is gritty and textured—aged brick walls, paint splashes, subtle grime, and urban wear. Neon signs and distant streetlights cast vibrant reflections in teal, magenta, and blue tones, creating a cinematic, slightly cyberpunk mood.
+场景是夜晚狭窄的城市小巷，被高楼大厦环绕。环境粗犷而富有纹理——陈旧的砖墙、油漆飞溅、微妙的污垢和城市磨损痕迹。霓虹灯和远处的路灯在青绿色、品红色和蓝色调中投射出鲜艳的反光，营造出电影感、略赛博朋克的氛围。
 
-Lighting is dramatic and layered: cool ambient light fills the alley, while warmer neon highlights create contrast. A subtle rim light outlines the artist’s silhouette, separating him from the dark background. The mural is partially illuminated, acting as a strong focal point.
+光线戏剧化且层次分明：冷色调的环境光充满小巷，而更温暖的霓虹高光形成对比。微妙的轮廓光勾勒出艺术家的剪影，使他与黑暗背景分离。壁画部分被照亮，成为强烈的焦点。
 
-Atmosphere includes light fog or mist, enhancing depth and making the lighting glow softly. The scene feels immersive, quiet, and artistically intense.
+氛围包含轻雾或薄雾，增强了深度，使光线柔和发光。场景感觉沉浸、安静，且艺术氛围浓厚。
 
-Depth of field is moderately shallow: the artist and mural are in sharp focus, while the background fades into soft blur with bokeh highlights.
+景深中等浅：艺术家和壁画清晰对焦，而背景则柔和模糊，带有散景高光。
 
-Style: hyper-realistic, cinematic photography, street art aesthetic, ultra-detailed textures, high dynamic range, subtle film grain.
+风格：超写实、电影摄影、街头艺术美学、超精细纹理、高动态范围、微妙的胶片颗粒。
 
-Camera details: 35mm or 50mm lens, f/1.8–f/2.8 aperture, low-light photography, slight low-angle shot, natural perspective.
+相机细节：35mm或50mm镜头，f/1.8-f/2.8光圈，低光摄影，轻微低角度拍摄，自然透视。
 
-Composition: vertical frame (4:5 or 9:16), subject slightly off-center, mural dominating the frame for strong visual storytelling.
-Generate image using uploaded image as reference
+构图：垂直画幅（4:5或9:16），主体略微偏离中心，壁画占据画面主导地位，以实现强烈的视觉叙事。
+使用上传的图像作为参考生成图像
 ```
 
 <a id="prompt-8ca0b2f27bf92496c49e"></a>
 
-### 47. 街头潮流球鞋海报广告
+### 46. 街头潮流球鞋海报广告
 
-![街头潮流球鞋海报广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case146/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case146/output.jpg" alt="街头潮流球鞋海报广告" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AlwaveNazca/status/2048147643809865950)
 
 **提示词:**
 
 ```text
-Create a bold streetwear poster advertisement for {argument name="brand name" default="NESS STUDIO"} featuring a young adult model seated casually on the ground in a low-angle fashion pose, one knee raised and one leg extended toward the camera so the sneaker in front appears oversized and dominant. The model wears a dark brown oversized leather bomber jacket, a black shirt, light blue loose-fit jeans, white socks, and chunky black-white-gray sneakers with a red accent in the sole and the {argument name="brand name" default="NESS STUDIO"} logo visible on the shoe side and tongue. The face is intentionally obscured by a soft rectangular blur block centered over the face. Use an off-white textured paper background with distressed grunge design elements and collage layering. Behind the model, place a large rough red paint brushstroke shape spanning diagonally across the center. Add black ink splatters, sketch circles, torn paper scraps, and hand-painted graffiti accents. Include 4 major graphic doodles: a large black X in the upper right, a hand-drawn upward arrow in the lower left, a rough crown sketch in the lower right, and a circular scribble near the top center. In the upper left, place a stylized eye logo above the text "{argument name="brand name" default="NESS STUDIO"}" and a smaller tagline below reading "A MOMENT OF YOUR STYLE". On the left middle area, add the handwritten slogan "INNOVATE CREATE INSPIRE" in stacked black brush lettering. On the right middle area, place a torn black paper patch with the handwritten white slogan "BUILT DIFFERENT MOVE DIFFERENT" and a red underline stroke. In the lower left near the shoe, add a black distressed label sticker containing a globe scribble, the text "{argument name="brand name" default="NESS STUDIO"}", and a barcode. Along the bottom footer, create a clean horizontal strip with 3 social media icons and handles separated by thin vertical dividers: Instagram, Facebook, and Twitter, each followed by "@NESS.STUDIO". The overall style should be edgy, urban, youthful, high-contrast, editorial street fashion, mixing product advertising photography with graffiti poster design, collage textures, and dynamic branding.
+为{argument name="brand name" default="NESS STUDIO"}创建一个大胆的街头风海报广告，展示一位年轻成人模特以休闲姿势坐在地上，采用低角度时尚造型，一条膝盖抬起，一条腿伸向相机，使前方的运动鞋显得超大且突出。模特穿着深棕色超大号皮革飞行员夹克、黑色衬衫、浅蓝色宽松牛仔裤、白色袜子，以及厚重的黑-白-灰运动鞋，鞋底有红色点缀，鞋侧和鞋舌上可见{argument name="brand name" default="NESS STUDIO"}标志。脸部被有意地用一个居中的柔和矩形模糊块遮挡。使用米白色纹理纸背景，带有磨损的垃圾摇滚设计元素和拼贴分层效果。在模特身后，放置一个大的粗糙红色油漆笔触形状，对角线跨越中心。添加黑色墨水飞溅、素描圆圈、撕碎的纸片和手绘涂鸦点缀。包含4个主要图形涂鸦：右上角的大黑色X，左下角的手绘向上箭头，右下角的粗糙皇冠草图，以及顶部中心附近的圆形涂鸦。在左上方，在"{argument name="brand name" default="NESS STUDIO"}"文本上方放置一个风格化的眼睛标志，下方有一个较小的标语，写着"YOUR STYLE的瞬间"。在左中区域，添加手写标语"INNOVATE CREATE INSPIRE"，采用堆叠的黑色毛笔字体。在右中区域，放置一个撕碎的黑色纸片，上面有手写的白色标语"BUILT DIFFERENT MOVE DIFFERENT"和红色下划线。在左下方的鞋子附近，添加一个磨损的黑色标签贴纸，包含一个地球涂鸦、文本"{argument name="brand name" default="NESS STUDIO}"和条形码。在底部页脚，创建一个干净的水平条带，包含3个社交媒体图标和账号，用细垂直分隔符分隔：Instagram、Facebook和Twitter，每个后面都跟着"@NESS.STUDIO"。整体风格应前卫、都市、年轻、高对比度、编辑式街头时尚，将产品广告摄影与涂鸦海报设计、拼贴纹理和动态品牌元素相结合。
 ```
 
 <a id="prompt-8e628b3966d30e33863a"></a>
 
-### 48. 电商主图 - 粉蓝洞洞鞋时尚广告
+### 47. 电商主图 - 粉蓝洞洞鞋时尚广告
 
-![电商主图 - 粉蓝洞洞鞋时尚广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg" alt="电商主图 - 粉蓝洞洞鞋时尚广告" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SPEEDAI07/status/2047907058079650035)
 
 **提示词:**
 
 ```text
-A high-end studio advertising poster for {argument name="brand name" default="crocs"}, in a monochrome pastel blue and white color palette, with a glossy reflective floor and a soft sky-blue backdrop. The background is dominated by the word {argument name="headline text" default="CROCS"} in gigantic bold white condensed sans-serif letters spanning nearly the full height of the image. In the top-right corner, add small white text reading "Designed with ChatGPT". Feature 3 adult women with shoulder-length wavy light brown to dark blonde hair, all wearing loose oversized white long-sleeve tops and flowing white wide-leg pants, styled as minimalist fashion models with relaxed neutral expressions. Their faces are intentionally obscured or blurred. One model reclines against an enormous upright white clog shoe on the left side, one model sits casually on top of a giant white clog on the upper right, and one model lounges on the floor at the lower right, leaning back on one arm while seated partly on a glossy blue sphere. Include 2 oversized white clog shoes as hero props: one standing vertically on the left showing the sole and side profile, and one angled on blue crystalline blocks at center-right showing the upper and toe box. Both clogs are classic foam slip-on style with perforation holes, chunky tread, heel straps, and circular logo rivets. The center-right clog is decorated with exactly 8 visible charms pinned to the upper: a blue-green iridescent round charm, a white daisy with yellow center, a black-and-white round emblem near the strap, a small "CROCS" word charm, a dark flower, a peace-hand sign, an orange smiley face, a white cloud, and an orange flower. Scatter exactly 7 glossy floating or grounded blue spheres of varying sizes around the set: one large sphere behind the left model, one medium sphere floating near center, one medium sphere at bottom left foreground, one medium sphere used as a seat under the lower-right model, one small sphere near the upper left, and 2 additional blue spheres integrated into the composition. Add translucent sculptural gel-like forms at the far left and far right edges, plus angular blue crystal-like rocks beneath the right shoe. At the bottom center, place white promotional copy in a clean sans-serif font: {argument name="tagline line 1" default="Made for comfort, worn for confidence."} on the first line and {argument name="tagline line 2" default="Because life feels better when your feet stop complaining."} on the second line. Beneath that, show 4 minimalist feature icons with labels in white: "ICONIC COMFORT", "LIGHTWEIGHT", "EASY TO CLEAN", and "UNIQUELY YOU". Place the {argument name="logo text" default="crocs"} logo in bold lowercase white at the bottom center with a small trademark symbol. The overall style should feel like a premium surreal fashion campaign, clean editorial lighting, soft shadows, glossy textures, airy composition, and modern lifestyle product advertising.
+高端工作室广告海报，采用单色调柔和蓝白色调，配有光泽反光地板和柔和天蓝色背景。背景以巨大的粗体白色无衬线字母为主，几乎占据整个图像高度，内容为{argument name="headline text" default="CROCS"}。右上角添加小白色文字，内容为"Designed with ChatGPT"。画面中有3位成年女性，均及肩波浪形浅棕色至深金色头发，穿着宽松的白色长袖上衣和飘逸的白色阔腿裤，造型为极简时尚模特，表情放松中性。她们的面部被有意遮挡或模糊化。一位模特在左侧倚靠在一个巨大的白色洞洞鞋上，一位模特在右上角悠闲地坐在一个巨大的白色洞洞鞋上，另一位模特在右下角躺在地板上，单臂支撑，部分身体坐在一个光泽蓝色球体上。包含2个超大白色洞洞鞋作为主要道具：左侧一个垂直站立，展示鞋底和侧面轮廓；右侧中心位置一个倾斜放置在蓝色晶体块上，展示鞋面和鞋头。两个洞洞鞋都是经典泡沫洞洞鞋款式，带有穿孔孔洞、厚实鞋底、后跟带和圆形标志铆钉。右侧中心的洞洞鞋装饰有8个可见的徽章固定在鞋面上：蓝绿色彩虹色圆形徽章、黄色中心的白色雏菊、靠近带子的黑白圆形徽章、小型"CROCS"字样徽章、深色花朵、和平手势标志、橙色笑脸、白色云朵和橙色花朵。在场景中散布7个不同大小的光泽蓝色球体，或漂浮或放置在地面上：一个大型球体在左侧模特后面，一个中型球体在中心附近漂浮，一个中型球体在左下角前景，一个中型球体作为右下角模特的座位，一个小型球体在左上方，另外两个蓝色球体融入构图中。在左右边缘添加半透明雕塑状凝胶状形态，右侧鞋子下方添加角状蓝色晶体状岩石。底部中央放置白色宣传文案，使用简洁的无衬线字体：第一行{argument name="tagline line 1" default="Made for comfort, worn for confidence."}，第二行{argument name="tagline line 2" default="Because life feels better when your feet stop complaining."}。下方显示4个极简功能图标及白色标签："ICONIC COMFORT"、"LIGHTWEIGHT"、"EASY TO CLEAN"和"UNIQUELY YOU"。在底部中央放置{argument name="logo text" default="crocs"}标志，使用粗体小写白色字母，并带有小型商标符号。整体风格应感觉像高级超现实时尚活动，干净编辑灯光，柔和阴影，光泽纹理，轻盈构图，现代生活方式产品广告。
 ```
 
 <a id="prompt-9279f0fd9aafc2de925b"></a>
 
-### 49. Japanese Sci-Fi Suit-Up Process Board
+### 48. 日本科幻穿戴流程板
 
-![Japanese Sci-Fi Suit-Up Process Board](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case163/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case163/output.jpg" alt="日本科幻穿戴流程板" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/yy7482933910896/status/2048192904922075161)
 
 **提示词:**
 
 ```text
-{"type":"Japanese sci-fi armor dressing-process infographic","style":"cinematic live-action tokusatsu-inspired promotional board, realistic industrial lighting, polished metal surfaces, sharp photographic detail","theme":"manual pre-battle suit-up sequence for a female hero in a red, silver, black, and blue protector suit","subject":{"character":{"gender":"female","age":"young adult","identity":"helmetless heroine during assembly, face intentionally obscured or anonymized in every unhelmeted panel","hair":"dark brown to black hair tied in a high ponytail with bangs","undersuit":"glossy black skintight inner suit with silver chest panel and white neck ring","armor":"retro-futuristic protector armor with red shoulder and arm plates, silver breastplate and torso plating, circular blue chest core, red waist unit, white gloves, red forearm guards with yellow stripe accents","helmet":"round red-and-silver helmet with black visor"},"environment":{"location":"high-tech industrial hangar or armor bay","background elements":["metal framework","robotic equipment","tool benches","armor racks","computer monitors","workshop lighting","bay corridor marked BAY-07 in final panel"]}},"layout":{"header":{"count":2,"labels":["ソルジャンヌ・スーツ 手動装着プロセス","専用プロテクタースーツ『ソルジャンヌ』を、戦闘前に手動で装着する様子。各ユニットを確実に装着し、システムを起動する。"],"design":"wide black-to-red gradient banner across top, large bold white Japanese text, diagonal red accent"},"sections":[{"title":"1 インナースーツの確認","position":"top-left","count":1,"labels":["各部のセンサーとコネクタをチェック。戦闘に備え、身体の状態を最終認する。"],"image":"three-quarter view of the heroine in only the black glossy inner suit, looking down while checking or tightening a wrist connector"},{"title":"2 胸部・肩部アーマーの装着","position":"top-center","count":1,"labels":["胸部ユニットと肩部プロテクターを装着。コネクタを接続し、ロックを固定する。"],"image":"mid shot with chest armor and red shoulder plates installed, heroine fastening the front torso area with both hands"},{"title":"3 腰部ユニット・ベルトの固定","position":"top-right","count":1,"labels":["ウエストユニットを装着し、各部のロックを確認。可動部の動作チェックを行う。"],"image":"mid shot with torso armor completed, heroine tightening or checking the waist belt and side locks"},{"title":"4 ヘルメットの準備","position":"bottom-left","count":1,"labels":["ヘルメットのバイザーと内部システムをチェック。ヘッドセットとの同期を確認する。"],"image":"heroine holding the red helmet in both hands at chest height, showing the glossy black visor"},{"title":"5 ヘルメットの装着・システム起動","position":"bottom-center","count":1,"labels":["ヘルメットを装着し、直上のコネクタをロック。全身のシステムが起動し、胸部コアが発光する。"],"image":"heroine placing the helmet onto her head with both hands; blue chest core glowing brightly"},{"title":"6 装着完了","position":"bottom-right","count":1,"labels":["全システムの最終チェックを行い、戦闘モードへ。ソルジャンヌ、出撃準備完了!"],"image":"full-body frontal hero pose in a futuristic corridor, fully suited with helmet on, arms relaxed at sides"}],"footer":{"count":1,"labels":["一つ一つの装着が、命を守り、力を引き出す。 ソルジャンヌの戦いは、ここから始まる。"],"design":"dark red cinematic footer strip with centered white Japanese slogan"},"grid":{"rows":2,"columns":3,"panel_count":6,"panel_borders":"thin white dividers","number_badges":6}},"text_rendering":{"language":"Japanese","font":"bold sans-serif headline with smaller sans-serif body text","colors":"white text on black, red, and white info bars; red numbered squares with white numerals"},"composition":"16:9 wide infographic board, six equal photo panels arranged in a 3-by-2 grid, each panel captioned below with a red numbered box from 1 to 6","lighting":"moody workshop lighting with metallic reflections and red accent lights, realistic shadows, cinematic sci-fi atmosphere"}
+{"type":"日本科幻装甲穿戴过程信息图表","style":"电影风格真人特摄启发的宣传板，现实工业照明，抛光金属表面，锐利摄影细节","theme":"女性英雄在红色、银色、黑色和蓝色防护服中手动战前穿戴序列","subject":{"character":{"gender":"女性","age":"青年","identity":"组装过程中不戴头盔的女主角，在每个不戴头盔的面板中面部被故意隐藏或匿名化","hair":"深棕色至黑色头发，扎成高马尾，有刘海","undersuit":"有光泽的黑色紧身内衣，带有银色胸板和白色颈环","armor":"复古未来主义防护装甲，带有红色肩部和臂板，银色胸甲和躯干板，圆形蓝色胸核，红色腰部装置，白色手套，带有黄色条纹装饰的红色前臂护甲","helmet":"圆形红色和银色头盔，带有黑色面罩"},"environment":{"location":"高科技工业机库或装甲舱","background元素":["金属框架","机器人设备","工具台","装甲架","计算机显示器","车间照明","最后一个面板中标记为BAY-07的舱体走廊"]}},"layout":{"header":{"count":2,"labels":["ソルジャンヌ・スーツ 手動装着プロセス","専用プロテクタースーツ『ソルジャンヌ』を、戦闘前に手動で装着する様子。各ユニットを確実に装着し、システムを起動する。"],"design":"顶部宽黑到红渐变横幅，大号粗体白色日文文本，对角红色装饰"},"sections":[{"title":"1 インナースーツの確認","position":"top-left","count":1,"labels":["各部のセンサーとコネクタをチェック。戦闘に備え、身体の状態を最終認する。"],"image":"女主角只穿着黑色有光泽内衣的四分之三视角，低头检查或拧紧手腕连接器"},{"title":"2 胸部・肩部アーマーの装着","position":"top-center","count":1,"labels":["胸部ユニットと肩部プロテクターを装着。コネクタを接続し、ロックを固定する。"],"image":"中景，胸部装甲和红色肩板已安装，女主角用双手固定前躯干区域"},{"title":"3 腰部ユニット・ベルトの固定","position":"top-right","count":1,"labels":["ウエストユニットを装着し、各部のロックを確認。可動部の動作チェックを行う。"],"image":"中景，躯干装甲已完成，女主角拧紧或检查腰带和侧锁"},{"title":"4 ヘルメットの準備","position":"bottom-left","count":1,"labels":["ヘルメットのバイザーと内部システムをチェック。ヘッドセットとの同期を確認する。"],"image":"女主角双手在胸前高度拿着红色头盔，展示有光泽的黑色面罩"},{"title":"5 ヘルメットの装着・システム起動","position":"bottom-center","count":1,"labels":["ヘルメットを装着し、直上のコネクタをロック。全身のシステムが起動し、胸部コアが発光する。"],"image":"女主角双手将头盔戴在头上；蓝色胸部核心明亮发光"},{"title":"6 装着完了","position":"bottom-right","count":1,"labels":["全システムの最終チェックを行い、戦闘モードへ。ソルジャンヌ、出撃準備完了!"],"image":"未来主义走廊中的全身正面英雄姿势，完全穿戴装甲并戴头盔，手臂自然放在身体两侧"}],"footer":{"count":1,"labels":["一つ一つの装着が、命を守り、力を引き出す。 ソルジャンヌの戦いは、ここから始まる。"],"design":"深红色电影风格页脚条，居中白色日文标语"},"grid":{"rows":2,"columns":3,"panel_count":6,"panel_borders":"细白分隔线","number_badges":6}},"text_rendering":{"language":"日语","font":"粗体无衬线标题配较小无衬线正文字体","colors":"黑色、红色和白色信息栏上的白色文本；带有白色数字的红色编号方块"},"composition":"16:9宽幅信息图表板，六个相等的照片面板以3×2网格排列，每个面板下方带有红色编号框，编号从1到6","lighting":"情绪化的车间照明，带有金属反射和红色强调灯，逼真的阴影，电影科幻氛围"}
 ```
 
 <a id="prompt-9379ad8cb3d6e41899ee"></a>
 
-### 50. 深色模式营销案例UI
+### 49. 深色模式营销案例UI
 
-![深色模式营销案例UI](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg" alt="深色模式营销案例UI" width="480">
 
-- **分类:** Poster & Illustration Cases, 界面交互设计图
+- **分类:** 海报与插画案例, 界面交互设计图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/IndieDevHailey/status/2044974254769463312)
 
 **提示词:**
 
 ```text
 {
-  "type": "UI/UX landing page mockup",
-  "theme": "dark mode, sleek modern aesthetic, glassmorphism, {argument name=\"primary accent color\" default=\"neon purple and blue\"} glowing accents",
+  "type": "UI/UX 着陆页模型",
+  "theme": "暗黑模式，精致现代美学，玻璃拟态效果，{argument name=\"primary accent color\" default=\"neon purple and blue\"} 发光强调色",
   "header": {
     "logo": "{argument name=\"brand name\" default=\"goViralX\"}",
-    "top_right_tag": "VIRAL CAMPAIGN CASE STUDY"
+    "top_right_tag": "病毒式营销案例研究"
   },
   "layout": {
     "sections": [
       {
-        "name": "Hero",
+        "name": "英雄区",
         "headline": "{argument name=\"hero headline\" default=\"How We Created 10M+ Viral Impact\"}",
         "subheadline": "3天引爆全网, 助力品牌实现指数级增长",
         "stats_row": {
@@ -1139,37 +1175,37 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
           "labels": ["总播放量", "互动率", "转化咨询", "执行周期"],
           "values": ["{argument name=\"main statistic\" default=\"10,240,000+\"}", "18.7%", "3,200+", "72小时"]
         },
-        "visual": "cinematic shot of a person in a hoodie looking at glowing digital screens and graphs, large play button overlay"
+        "visual": "一个人穿着连帽衫凝视发光的数字屏幕和图表的电影镜头，带有大型播放按钮叠加层"
       },
       {
-        "name": "Strategy",
-        "title": "Our 3-Day Execution Strategy",
-        "layout_type": "vertical timeline",
+        "name": "策略",
+        "title": "我们的3天执行策略",
+        "layout_type": "垂直时间线",
         "steps_count": 3,
-        "elements_per_step": ["timeline node", "title", "bullet points", "video thumbnail with play button", "description box"]
+        "elements_per_step": ["时间线节点", "标题", "要点", "带播放按钮的视频缩略图", "描述框"]
       },
       {
-        "name": "Performance",
-        "title": "Data-Driven Performance",
+        "name": "表现",
+        "title": "数据驱动的表现",
         "left_column": {
           "stat_cards_count": 4,
           "values": ["10M+", "43%", "28,000+", "3,200+"]
         },
         "right_column": {
           "charts_count": 2,
-          "chart_1": "line graph showing 7-day growth peaking at Day 3",
-          "chart_2": "horizontal segmented bar chart showing platform distribution (TikTok 52%, Instagram 24%, X 15%, YouTube 9%)"
+          "chart_1": "显示7天增长并在第3天达到峰值的线图",
+          "chart_2": "显示平台分布的水平分段条形图（TikTok 52%，Instagram 24%，X 15%，YouTube 9%）"
         }
       },
       {
-        "name": "Keys to Success",
-        "title": "The 3 Keys to Viral Success",
+        "name": "成功的关键",
+        "title": "病毒式成功的3个关键",
         "cards_count": 3,
-        "card_elements": ["glowing icon (fire, target, antenna)", "title", "description", "VIEW DETAIL link"]
+        "card_elements": ["发光图标（火焰、目标、天线）", "标题", "描述", "查看详情链接"]
       },
       {
-        "name": "Social Proof",
-        "title": "TRUSTED BY CREATORS & BRANDS",
+        "name": "社会认同",
+        "title": "创作者和品牌信赖的选择",
         "left_column": {
           "logos_count": 8,
           "grid": "2x4",
@@ -1177,14 +1213,14 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
         },
         "right_column": {
           "testimonial_cards_count": 2,
-          "elements": ["quote", "author title (SaaS Founder, Growth Manager)"]
+          "elements": ["引述", "作者头衔（SaaS创始人，增长经理）"]
         }
       },
       {
-        "name": "Call to Action",
-        "title": "READY TO GO VIRAL?",
-        "interactive_elements": ["text input field", "glowing button with text '{argument name=\"call to action text\" default=\"获取专属增长方案 ->\"}'"],
-        "visual": "3D render of a rocket ship taking off with purple and blue flames"
+        "name": "行动号召",
+        "title": "准备好病毒式传播了吗？",
+        "interactive_elements": ["文本输入框", "带有文本'{argument name=\"call to action text\" default=\"获取专属增长方案 ->\"}'的发光按钮"],
+        "visual": "带有紫色和蓝色火焰的火箭发射3D渲染图"
       }
     ]
   }
@@ -1193,1375 +1229,1993 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 <a id="prompt-963342595f4a201b2b05"></a>
 
-### 51. Illustrated City Food Map
+### 50. 城市美食地图
 
-![Illustrated City Food Map](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case110/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case110/output.jpg" alt="城市美食地图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mm_zzm44854/status/2045861258520568230)
 
 **提示词:**
 
 ```text
 {
-  "type": "illustrated map infographic",
-  "style": "{argument name=\"art style\" default=\"watercolor and ink hand-drawn illustration on vintage parchment\"}",
+  "type": "插图式地图信息图",
+  "style": "{argument name=\"art style\" default=\"复古羊皮纸上的水彩和墨水手绘插图\"}",
   "title_section": {
     "text": "{argument name=\"city name\" default=\"成都\"} {argument name=\"map title\" default=\"吃货暴走地图\"}",
-    "mascot": "cartoon red chili pepper wearing sunglasses and giving a thumbs up"
+    "mascot": "戴着太阳镜并竖起大拇指的卡通红辣椒"
   },
-  "border": "{argument name=\"border decoration\" default=\"vine of green leaves and red chili peppers\"}",
+  "border": "{argument name=\"border decoration\" default=\"绿叶和红辣椒的藤蔓\"}",
   "layout": {
-    "background": "textured beige parchment paper with yellow roads, blue rivers, and green park areas",
+    "background": "纹理米色羊皮纸，有黄色道路、蓝色河流和绿色公园区域",
     "sections": [
       {
-        "title": "landmarks",
+        "title": "地标",
         "count": 6,
-        "illustrations": ["traditional pavilion", "traditional monastery", "modern skyscraper with climbing panda", "tall TV tower", "traditional gate", "industrial buildings"],
+        "illustrations": ["传统亭子", "传统寺庙", "有攀爬熊猫的现代摩天大楼", "高电视塔", "传统门楼", "工业建筑"],
         "labels": ["人民公园", "文殊院", "IFS", "339电视塔", "宽窄巷子", "东郊记忆"]
       },
       {
-        "title": "food_spots",
+        "title": "美食地点",
         "count": 12,
-        "illustrations": ["mapo tofu", "dumplings in chili oil", "skewers in pot", "sticky rice balls", "egg baking cake", "nine-grid hotpot", "sweet potato noodles", "cold skewers", "spicy mixed dish", "covered tea bowl", "ice jelly dessert", "spicy rabbit heads"],
+        "illustrations": ["麻婆豆腐", "红油饺子", "锅串串", "糯米团子", "蛋烘糕", "九宫格火锅", "甜水面", "冷锅串串", "麻辣拌", "盖碗茶", "冰粉", "兔头"],
         "labels": ["1 陈麻婆豆腐", "2 钟水饺", "3 春熙路", "4 宽窄巷子·三大炮", "5 建设路·叶婆婆蛋烘糕", "6 玉林路·小龙坎火锅", "7 香香巷·肥肠粉", "8 武侯祠大街·钵钵鸡", "9 东郊记忆·冒椒火辣", "10 人民公园·鹤鸣茶社", "11 锦里古街·冰粉", "12 双流老妈兔头"]
       },
       {
         "title": "图例",
-        "position": "bottom-right",
+        "position": "右下角",
         "count": 5,
-        "items": ["red dot", "green house", "green tree", "blue line", "yellow double line"],
+        "items": ["红点", "绿色房屋", "绿色树木", "蓝色线条", "黄色双线"],
         "labels": ["美食地点", "地标景点", "公园绿地", "河流湖泊", "主要道路"]
       }
     ],
-    "centerpiece": "giant panda sitting and eating bamboo",
-    "bottom_right_extras": ["vintage compass rose with N, S, E, W", "disclaimer text '温馨提示:吃辣需谨慎,肠胃要保护~' with a red chili pepper icon"]
+    "centerpiece": "坐着吃竹子的大熊猫",
+    "bottom_right_extras": ["带有N、S、E、W的复古指南针", "免责声明文本'温馨提示:吃辣需谨慎,肠胃要保护~'，配有红辣椒图标"]
   }
 }
 ```
 
 <a id="prompt-964c03e58c9470e4abe7"></a>
 
-### 52. 奢华计时腕表广告
+### 51. 奢华计时腕表广告
 
-![奢华计时腕表广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case144/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case144/output.jpg" alt="奢华计时腕表广告" width="480">
 
 一张高端暗调摄影广告图，展示了品牌赛车风格计时码表及礼盒，非常适合奢华产品营销和腕表宣传视觉。
 
-- **分类:** Poster & Illustration Cases, E-commerce Main Image
+- **分类:** 海报与插画案例, 电商主图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AlwaveNazca/status/2048147643809865950)
 
 **提示词:**
 
 ```text
-A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the right side. The watch has a black leather strap with bold red stitching along both edges and a sporty premium finish. To the right of the watch, place one black square presentation box slightly behind it, textured like leather, with red stitching around the lid and a silver embossed eye-shaped logo above the text “NESS STUDIO” and smaller red text “TRACK SURFACE.” At the top center of the composition, add the same silver eye logo with the words “NESS STUDIO” and smaller “BY NICOLAS.” Across the background, place one oversized blurred word, {argument name="headline text" default="PRECISION"}, in large gray capital letters spanning nearly the full width. The scene is set against a deep black background with cinematic red and white horizontal light streaks crossing behind the products from left to right, suggesting speed and racetrack energy. Use a glossy wet ground plane with reflective texture, catching red highlights and mirrorlike reflections beneath the watch and box. At the bottom center, add the text “CHRONOGRAPH SERIES” in clean white spaced capitals with thin red horizontal lines extending on both sides, and below it smaller red capitals reading {argument name="tagline text" default="ALSACE MADE"}. Color palette: black, charcoal gray, silver steel, vivid racing red, and a touch of white. Lighting should be high-contrast and premium, with crisp specular highlights on the metal case, subtle soft fill on the box, and moody shadows. Overall style: ultra-polished commercial product photography, luxury watch campaign, sharp focus on the products, sleek branding, high-end automotive aesthetic.
+一张极具张力的奢华产品广告图，展示了暗调摄影棚中赛车灵感计时腕表。画面左前方中心位置，放置一块不锈钢计时码表，呈微微侧向的三分之二角度直立，配有黑色表盘、两个红色点缀的小表盘、纤细的银色时标、测速计表圈，右侧可见表冠和按钮。腕表配有黑色皮质表带，边缘饰有醒目的红色缝线，呈现出运动型高端质感。腕表右侧放置一个略微靠后的黑色方形礼盒，具有皮革纹理，盒盖周围有红色缝线，上方印有银色浮雕眼形徽标，下方文字为“NESS STUDIO”，更小的红色文字为“TRACK SURFACE”。构图顶部中心位置，添加相同的银色眼形徽标，下方配有“NESS STUDIO”字样及较小的“BY NICOLAS”。背景处放置一个超大且模糊的单词，{argument name="headline text" default="PRECISION"}，采用巨大的灰色大写字母，几乎横跨整个画面宽度。场景设定在深黑色背景下，红色和白色的水平光束从左至右穿过产品后方，营造出速度感和赛道氛围。使用带有反射纹理的亮面湿润地面，在腕表和礼盒下方映出红色高光和镜面反射。底部中心位置添加“CHRONOGRAPH SERIES”字样，采用简洁的白色等间距大写字母，两侧延伸出细长的红色水平线，下方配有较小的红色大写字母 {argument name="tagline text" default="ALSACE MADE"}。配色方案：黑色、炭灰色、银色钢质、鲜艳的赛车红以及少许白色。灯光应具备高对比度和高级感，金属表壳上呈现清晰的镜面高光，礼盒上有柔和的补光，并带有深邃的阴影。整体风格：极致精美的商业产品摄影，奢华腕表宣传大片，产品焦点清晰，品牌感流畅，具备高端汽车美学。
 ```
 
 <a id="prompt-9810fd0b5a25956a48cb"></a>
 
-### 53. 电商主图 - 优雅美妆海报提示词
+### 52. 电商主图 - 优雅美妆海报提示词
 
-![电商主图 - 优雅美妆海报提示词](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg" alt="电商主图 - 优雅美妆海报提示词" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Adam38363368936/status/2047917266361360682)
 
 **提示词:**
 
 ```text
-An image in a {argument name="reference style" default="similar style"}, a product image for {argument name="product" default="lipstick"}, requiring color coordination and a grand aesthetic in a {argument name="style" default="poster style"}, with language changed to Simplified Chinese.
+一张{argument name="reference style" default="similar style"}风格的图片，{argument name="product" default="lipstick"}的产品图片，需要色彩协调和宏大美学，采用{argument name="style" default="poster style}"，语言改为简体中文。
 ```
 
 <a id="prompt-a23060c4c2c2d7ed9a73"></a>
 
-### 54. 大阪六号卫衣编辑风广告
+### 53. 大阪六号卫衣编辑风广告
 
-![大阪六号卫衣编辑风广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case147/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case147/output.jpg" alt="大阪六号卫衣编辑风广告" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/_LaurentB/status/2048126606313464040)
 
 **提示词:**
 
 ```text
-A clean editorial fashion advertisement poster on a pale powder-blue studio background with a glossy reflective floor. The composition is vertical and minimal, dominated by oversized bold white condensed sans-serif typography in the background reading “OSAKA SIX:” on the top line and “006 REMAINS” below, filling most of the upper half behind the subject. In the top right corner, small white branding text reads “Designed by ARTTEESHOW.” Centered in the lower middle is an oversized forest-green crewneck sweatshirt standing upright like a sculptural object, with soft heavy cotton fabric, dropped shoulders, extra-long sleeves pooled on the floor, and a small black neck label that reads ARTTEESHOW. On the chest of the sweatshirt is a large abstract collage print made from torn paper fragments in beige, tan, black, gray, white, and vivid red, arranged vertically like layered scraps. Leaning against the right side of the giant sweatshirt is a slim female fashion model with long straight black hair, wearing a matching {argument name="sweatshirt color" default="forest green"} sweatshirt and relaxed wide-leg sweatpants with clean white low-top sneakers. She is posed in profile with a calm detached editorial attitude, one hand in her pocket, her body reclining diagonally against the giant garment, legs extended forward; her face is obscured by a soft rectangular blur for an anonymous art-fashion look. The smaller worn sweatshirt has the same abstract torn-paper collage graphic centered on the chest. At the bottom center, add 2 lines of small white copy text: “Made for comfort, worn for confidence.” and “Because life feels better when someone’s carrying the weight of the world.” The image should feel like a premium conceptual streetwear campaign from the early 1990s reimagined as contemporary luxury advertising, with crisp studio lighting, soft shadows, subtle floor reflections, precise product focus, surreal scale contrast between the oversized sweatshirt and the model, and a polished magazine-poster aesthetic.
+一个干净、编辑性的时尚广告海报，背景是淡粉蓝色的工作室，带有光泽的反射地板。构图是垂直和简约的，背景由超大号粗体白色压缩无衬线字体主导，顶部一行写着"OSAKA SIX:"，下方是"006 REMAINS"，占据了主体后方的上半部分大部分空间。在右上角，小的白色品牌文字写着"Designed by ARTTEESHOW。"在下方中央，是一件超大号森林绿色圆领卫衣，像雕塑一样直立，柔软厚重的棉质面料，落肩设计，超长袖子垂在地板上，还有一个小的黑色颈部标签，上面写着ARTTEESHOW。在卫衣胸前是一个大型抽象拼贴画，由米色、棕褐色、黑色、灰色、白色和鲜红色的碎纸片组成，垂直排列，像层叠的碎屑。靠着巨型卫衣右侧的是一位苗条的女性时尚模特，留着长长的黑色直发，穿着配套的{argument name="sweatshirt color" default="forest green"}卫衣和宽松的阔腿运动裤，搭配干净的白色低帮运动鞋。她以侧面姿势摆拍，表情平静疏离，具有编辑风格的态度，一只手插在口袋里，身体斜靠在巨型服装上，双腿向前伸展；她的脸被柔和的矩形模糊遮挡，呈现出匿名艺术时尚的外观。较小的磨损卫衣胸前也有相同的抽象碎纸拼贴图案。在底部中央，添加两行小的白色文字："Made for comfort, worn for confidence。" 和 "Because life feels better when someone's carrying the weight of the world。"图像应该感觉像是1990年代初的高端概念街头服饰活动，重新构想为当代奢华广告，具有清晰的工作室照明，柔和的阴影，微妙的地面反射，精确的产品焦点，巨型卫衣和模特之间超现实的尺度对比，以及精致的杂志海报美学。
 ```
 
 <a id="prompt-a284881fd156d0c9c080"></a>
 
-### 55. 电商主图 - 奢华琥珀香水广告
+### 54. 电商主图 - 奢华琥珀香水广告
 
-![电商主图 - 奢华琥珀香水广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg" alt="电商主图 - 奢华琥珀香水广告" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Polanco_IA/status/2047689647967609037)
 
 **提示词:**
 
 ```text
-A luxurious cinematic product photograph of a classic rectangular perfume bottle inspired by {argument name="brand label" default="N°5 CHANEL PARIS PARFUM"}, placed upright on a glossy black marble surface with white veining. The bottle is centered slightly to the right, made of clear faceted glass with a large transparent crystal stopper, filled with rich amber-gold perfume that glows from within. Tiny condensation droplets cover the glass, adding texture and realism. Dramatic warm lighting from the upper left creates golden highlights, deep reflections on the marble, and a soft luminous bloom in the background. Wisps of elegant smoke curl around the bottle on both sides, enhancing a moody high-end advertisement feel. Dark background, shallow depth of field, ultra-detailed studio product photography, luxury beauty campaign aesthetic, crisp focus on the bottle, realistic reflections, warm black-and-gold color palette. Add a small white {argument name="corner logo" default="Pollo.ai"} in the top-right corner. Square composition, premium commercial ad, photorealistic, high contrast, refined and sophisticated.
+一张奢华的电影级产品摄影照片，展示一个灵感来源于 {argument name="brand label" default="N°5 CHANEL PARIS PARFUM"} 的经典矩形香水瓶，瓶身直立放置在带有白色纹理的光滑黑色大理石表面上。瓶子略微居右，由刻面透明玻璃制成，配有大型透明水晶瓶塞，瓶内装满散发着内在光芒的浓郁琥珀金色香水。微小的冷凝水珠覆盖在玻璃表面，增添了质感和真实感。来自左上方的戏剧性温暖光线创造出金色高光、大理石上的深邃反射以及背景中柔和的光晕。优雅的烟雾丝带在瓶子两侧缭绕，增强了高端广告的氛围感。深色背景，浅景深，超精细的影棚产品摄影，奢华美容广告美学，焦点清晰集中在瓶身上，逼真的反射效果，温暖的黑金色调。在右上角添加一个小型的白色 {argument name="corner logo" default="Pollo.ai"}。方形构图，高级商业广告，照片级真实感，高对比度，精致而优雅。
 ```
 
 <a id="prompt-a364e50ccd155fc8e09e"></a>
 
-### 56. 奢侈品广告恶搞版
+### 55. 奢侈品广告恶搞版
 
-![奢侈品广告恶搞版](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg" alt="奢侈品广告恶搞版" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/tonysimons_/status/2048057490940596595)
 
 **提示词:**
 
 ```text
-High-impact parody e-commerce infographic for “{argument name="product" default="Four Loko"}” malt beverage. Foreground: An extreme close-up of a rough, weathered hand holding a tall, brightly colored can of {argument name="product" default="Four Loko"} toward the camera. The can is slightly cold with visible condensation droplets and a loud, chaotic flavor design. The hand and can have a slight macro-lens blur for depth, with the can still reading clearly as the hero product. Central Subject: In the mid-ground, a funny, disheveled {argument name="subject" default="homeless-looking man"} sitting casually on a milk crate in an urban alley. He has a scruffy beard, messy hair, layered worn clothing, and a huge unbothered grin. He should look chaotic but oddly charismatic, like the accidental king of bad decisions. He is posed like a confident lifestyle-ad model, proudly showing off the can. Background & Lighting: A ridiculously polished ad-style backdrop mixed with a grimy city alley setting. Soft-focus urban textures, dumpster shapes, graffiti hints, and scattered clutter in the distance. Add dramatic studio lighting, soft glow, rainbow prism flares, and subtle light leaks to make the whole thing look way too premium for the subject matter. A few blurred {argument name="product" default="Four Loko"} cans can float artistically in the background for extra absurdity. Typography & Layout (Bold sans-serif, white and neon accent styling): Top Center (Background): Massive, bold text reading “{argument name="brand name" default="FOUR LOKO"}” positioned behind the subject. Top Right: Bold text reading “The Champagne of Bad Ideas”. Mid-Left: “Premium chaos and zero self-control” Mid-Right: Large, bold “23” with the text “ounces of terrible decisions.” Bottom-Right: Large, bold “1" with the text “can to ruin tomorrow.” Optional small callout text near the bottom: “Now with more regret.” Style: Ultra-detailed, 8k parody commercial photography, sharp focus on the can, shallow depth of field, vibrant trashy color palette, clean advertising composition, exaggerated premium product-ad aesthetic, funny visual contrast between polished branding and the wrecked subject.
+高冲击力的恶搞电商信息图，针对"{argument name="product" default="Four Loko"}"麦芽饮料。前景：一只粗糙、饱经风霜的手特写，手持一罐高亮彩色的{argument name="product" default="Four Loko"}饮料，朝向镜头。罐子略微冰冷，有可见的冷凝水滴，以及喧闹、混乱的风味设计。手和罐子有轻微的微镜头模糊效果以增加深度，罐子仍然清晰可读，作为主角产品。中心主体：在中景，一个滑稽、邋遢的{argument name="subject" default="无家可归者模样的男人"}随意地坐在城市小巷里的牛奶箱上。他有蓬乱的胡须，凌乱的头发，层层叠叠的磨损衣物，以及一个巨大的满不在乎的笑容。他应该看起来混乱但奇怪地有魅力，像是坏决定的意外之王。他的姿势像一个自信的生活方式广告模特，自豪地展示着罐子。背景与灯光：一个荒谬地抛光的广告风格背景与肮脏的城市小巷设置混合。柔焦的城市纹理，垃圾桶形状，涂鸦暗示，以及远处散落的杂物。添加戏剧性的工作室灯光，柔和的光晕，彩虹棱镜光晕，以及微妙的光泄漏，使整个主题看起来过于高级。几罐模糊的{argument name="product" default="Four Loko"}可以在背景中艺术性地漂浮，以增加荒谬感。字体与布局（粗体无衬线字体，白色和霓虹强调风格）：顶部中央（背景）：巨大的粗体文字，显示"{argument name="brand name" default="FOUR LOKO}"，位于主体后方。右上角：粗体文字"坏主意中的香槟"。中左：高级混乱和零自控力。中右：大号粗体"23"，配文"糟糕决定盎司数"。右下角：大号粗体"1"，配文"一罐毁掉明天"。底部附近可选的小注释文本："现在有更多后悔。"风格：超详细，8k恶搞商业摄影，对罐子有锐利焦点，浅景深，鲜艳的垃圾调色板，干净的广告构图，夸张的高级产品广告美学，抛光品牌和被毁主体之间的有趣视觉对比。
 ```
 
 <a id="prompt-a7484ff84640cc0da292"></a>
 
-### 57. 16-Panel Dance Pose Reference Sheet
+### 56. 16格舞蹈姿势参考图
 
-![16-Panel Dance Pose Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case134/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case134/output.jpg" alt="16格舞蹈姿势参考图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** categories.poster-illustration-cases.zh-CN
+
+海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ExquisitMe/status/2048143577264402629)
 
 **提示词:**
 
 ```text
-{"type":"dance pose reference sheet","style":"clean studio pose chart, photoreal fitness-dance reference, white seamless background, sharp full-body photography, soft even lighting, minimal shadows, thin black grid lines separating panels","subject":{"count":1,"person":{"gender_presentation":"female","age_appearance":"young adult","build":"slim athletic toned dancer","skin_tone":"light tan","hair":{"color":"{argument name=\"hair color\" default=\"dark brown\"}","style":"high ponytail with loose strands"},"outfit":{"count":3,"items":["white fitted sports bra or cropped athletic tank","baggy blue-gray jogger pants","white sneakers"]}}},"layout":{"rows":4,"columns":4,"total_panels":16,"numbering":"black panel numbers in the top-left corner of each cell, labeled 1 through 16","sections":[{"title":"pose grid","position":"full page","count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"]}]},"poses":{"count":16,"items":[{"panel":1,"description":"wide stance, knees bent, torso upright, right arm extended straight to the right in a pointing gesture, left arm bent near the body"},{"panel":2,"description":"deep low squat facing forward, feet wide apart, one hand lifted in front of the chest, the other resting near the thigh"},{"panel":3,"description":"low floor-supported pose, leaning back on one hand with hips low, one knee bent under the body, opposite arm stretched diagonally upward"},{"panel":4,"description":"standing on one leg with the other knee raised, one arm curved overhead, opposite arm extended to the right in a strong dance line"},{"panel":5,"description":"deep squat with legs wide, one hand on thigh and the other arm reaching straight upward"},{"panel":6,"description":"light upright pose with one knee lifted and both arms relaxed outward for balance"},{"panel":7,"description":"wide stance with both arms crossed tightly in front of the chest, feet planted apart"},{"panel":8,"description":"low crouch close to the floor, one hand braced on the ground, the other arm crossing the torso"},{"panel":9,"description":"dynamic side-leaning wide stance, one arm bent upward beside the head, opposite arm pointing strongly to the right"},{"panel":10,"description":"compact crouch with weight centered low, one elbow resting near a knee and head tilted slightly downward"},{"panel":11,"description":"deep side lunge with one leg extended long to the side, one hand on the floor and the other arm reaching straight up"},{"panel":12,"description":"upright wide-legged stance, one arm extended vertically overhead, the other hand relaxed near the hip"},{"panel":13,"description":"standing balance pose with one knee raised and both hands held low near the thighs"},{"panel":14,"description":"low horse stance with knees bent wide and forearms crossed in front of the chest"},{"panel":15,"description":"kneeling or very low crouched pose with one hand on the floor and the other resting on the raised knee"},{"panel":16,"description":"high side kick, balancing on one leg while the other leg extends horizontally, both arms bent in a guarded fighting pose"}]},"intent":"a {argument name=\"sheet purpose\" default=\"dance move sheet chart that can also be used for combat pose reference\"}, emphasizing silhouette variety, balance, rhythm, and dynamic athletic body lines","image_size":"landscape 16:9"}
+{"type":"舞蹈姿势参考表","style":"干净的工作室姿势图表，逼真的健身舞蹈参考，白色无缝背景，清晰的全身摄影，柔和均匀的光线，最少的阴影，分隔面板的细黑网格线","subject":{"count":1,"person":{"gender_presentation":"女性","age_appearance":"年轻成人","build":"苗条健美的舞者身材","skin_tone":"浅棕色皮肤","hair":{"color":"{argument name=\"hair color\" default=\"dark brown\"}","style":"高马尾，有散落的发丝"},"outfit":{"count":3,"items":["白色合身运动内衣或裁剪过的运动背心","宽松的蓝灰色慢跑裤","白色运动鞋"]}}},"layout":{"rows":4,"columns":4,"total_panels":16,"numbering":"黑色面板编号在每个格子的左上角，标记为1到16","sections":[{"title":"姿势网格","position":"整页","count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"]}]},"poses":{"count":16,"items":[{"panel":1,"description":"宽站姿，膝盖弯曲，躯干直立，右臂向右伸直做指点姿势，左臂弯曲靠近身体"},{"panel":2,"description":"面向前方的深蹲，双脚分开，一只手抬到胸前，另一只手放在大腿附近"},{"panel":3,"description":"低地板支撑姿势，单手向后支撑，臀部低，一条腿弯曲在身体下方，对侧手臂对角向上伸展"},{"panel":4,"description":"单腿站立，另一条腿抬起，一只手臂弯曲在头顶上方，对侧手臂向右伸展形成有力的舞蹈线条"},{"panel":5,"description":"双腿宽深蹲，一只手放在大腿上，另一只手臂直向上伸展"},{"panel":6,"description":"轻柔的直立姿势，一条腿抬起，双臂向外放松以保持平衡"},{"panel":7,"description":"宽站姿，双臂在胸前交叉，双脚分开站立"},{"panel":8,"description":"靠近地面的低蹲，一只手撑在地上，另一只手臂交叉躯干"},{"panel":9,"description":"动态侧倾宽站姿，一只手臂在头部旁边向上弯曲，对侧手臂强烈指向右侧"},{"panel":10,"description":"紧凑蹲姿，重量集中在低处，一只肘部靠近膝盖，头部略微向下倾斜"},{"panel":11,"description":"深度侧弓步，一条腿向侧面伸展，一只手放在地板上，另一只手臂直向上伸展"},{"panel":12,"description":"直立宽腿站姿，一只手臂垂直向上伸展，另一只手放松地放在臀部附近"},{"panel":13,"description":"站立平衡姿势，一条腿抬起，双手低放在大腿附近"},{"panel":14,"description":"低马步，膝盖宽弯曲，前臂在胸前交叉"},{"panel":15,"description":"跪姿或非常低的蹲姿，一只手放在地板上，另一只手放在抬起的膝盖上"},{"panel":16,"description":"高侧踢，单腿平衡，另一条腿水平伸展，双臂弯曲成防御性战斗姿势"}]},"intent":"一个{argument name=\"sheet purpose\" default=\"舞蹈动作表，也可用于战斗姿势参考\"}，强调轮廓多样性、平衡、节奏和动态运动身体线条","image_size":"landscape 16:9"}
 ```
 
 <a id="prompt-a8259ece319f7de4cb56"></a>
 
-### 58. 电商主图 - 极简产品广告：PURE CRUNCH
+### 57. 电商主图 - 极简产品广告：PURE CRUNCH
 
-![电商主图 - 极简产品广告：PURE CRUNCH](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg" alt="电商主图 - 极简产品广告：PURE CRUNCH" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Strength04_X/status/2047917220165231011)
 
 **提示词:**
 
 ```text
-A minimalist product advertisement with a {argument name="product" default="fried chicken bucket"} placed on a clean white podium.
+一个极简主义的产品广告，将 {argument name="product" default="炸鸡桶"} 放置在一个干净的白色讲台上。
 
-Background: soft gradient ({argument name="background gradient" default="light cream to white"}), clean studio.
+背景：柔和的渐变 ({argument name="background gradient" default="浅奶油色到白色"})，干净的摄影棚。
 
-Lighting: soft diffused, premium Apple-style.
+灯光：柔和漫射，高端苹果风格。
 
-Typography (center): “{argument name="headline" default="PURE CRUNCH"}”
+字体设计（居中）："{argument name="headline" default="纯粹酥脆}""
 
-Small text below: “Nothing extra. Just perfection.”
+下方小字："没有多余，只有完美。"
 
-Style: ultra clean, editorial minimal, high-end branding, 8K.
+风格：超干净，编辑极简，高端品牌，8K。
 ```
 
 <a id="prompt-abc95efc8feb9f8cc5c6"></a>
 
-### 59. Dance Movement Reference Sheet
+### 58. 舞蹈动作参考表
 
-![Dance Movement Reference Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case130/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case130/output.jpg" alt="舞蹈动作参考表" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Ciri_ai/status/2048074587955658848)
 
 **提示词:**
 
 ```text
 [STYLE]
-monochromatic grayscale illustration, 3D rendered character, clean instructional reference sheet,
-white background, comic-style cell grid layout, technical diagram aesthetic
+单色灰度插图，3D渲染角色，清晰的教学参考图，
+白色背景，漫画风格单元格网格布局，技术图表美学
 
 [LAYOUT]
-4x4 grid layout, 16 panels total, each panel separated by thin black border lines,
-numbered cells from 1 to 16, consistent panel size
+4x4网格布局，总共16个面板，每个面板由细黑边框分隔，
+单元格编号从1到16，面板尺寸一致
 
 [CHARACTER]
-{argument name="character" default="young female dancer, athletic build, ponytail hairstyle, crop top and baggy pants, sneakers"}, same character in all panels
+{argument name="character" default="年轻女性舞者，健美体型，马尾发型，露脐上衣和宽松裤子，运动鞋"}，所有面板中的角色相同
 
 [PANEL STRUCTURE - per cell]
-top-left: bold number badge + {argument name="title" default="Korean title text"}
-center: full-body character pose illustration
-bottom-left: {argument name="description" default="Korean description text (3-4 lines)"}
-overlay: directional arrows indicating movement direction
+每个单元格的结构：
+左上角：粗体数字徽章 + {argument name="title" default="韩语标题文本"}
+中心：全身角色姿势插图
+左下角：{argument name="description" default="韩语描述文本（3-4行）"}
+叠加层：指示移动方向的箭头
 
 [ARROWS / MOTION INDICATORS]
-curved arrows, straight arrows, circular rotation indicators,
-placed around the character to show movement flow and direction
+弯曲箭头，直线箭头，圆形旋转指示器，
+放置在角色周围以显示移动流向和方向
 
 [RENDERING STYLE]
-high detail 3D sculpt style, soft studio lighting, subtle shadows,
-no color, grayscale shading, clean linework, game concept art quality
+高细节3D雕塑风格，柔和的影棚灯光，微妙的阴影，
+无色彩，灰度阴影，清晰的线条，游戏概念艺术质量
 
 [NEGATIVE]
-no background scenery, no color tones, no extra characters,
-no cluttered backgrounds
+无背景场景，无色调，无额外角色，
+无杂乱的背景
 ```
 
 <a id="prompt-ad94b5b5e8c988ed0e14"></a>
 
-### 60. Earth Signs Zodiac Character Poster
+### 59. 土象星座性格海报
 
-![Earth Signs Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case124/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case124/output.jpg" alt="土象星座性格海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/komorimedia/status/2048114825398731143)
 
 **提示词:**
 
 ```text
-{"type":"vintage zodiac character infographic poster","theme":"earth signs only","language":"Traditional Chinese","style":{"overall":"elegant editorial infographic with soft anime-inspired live-action portrait compositing","palette":"warm beige, cream, taupe, olive-gray, muted brown, antique gold","mood":"stable, refined, calm, practical","texture":"aged paper background with subtle speckles and thin ornamental borders","rendering":"clean high-resolution print poster, soft lighting, delicate botanical and celestial line art"},"poster":{"orientation":"vertical","aspect_ratio":"3:4","title":"十二星座角色清單|土象星座","subtitle":"穩定・務實・沉著","decorations":["ornamental corner filigree","small gold sparkles","botanical branches","mountain illustrations","thin panel dividers"],"sections_count":3},"layout":{"sections":[{"title":"金牛座 Taurus","position":"top","count":1,"labels":["元素:土","概念:感官收藏家,穩穩生活","性格:務實、耐心、重享受","行動原則:先確認值得,再長線投入","戀愛傾向:慢熱但專情,重安全感","人際怪癖:對喜歡的人會默默餵食"]},{"title":"處女座 Virgo","position":"middle","count":1,"labels":["元素:土","概念:秩序管理者,細節控場","性格:理性、細膩、可靠","行動原則:先整理,再精準出手","戀愛傾向:用照顧和實際行動表達喜歡","人際怪癖:嘴上挑剔,心裡其實很在乎"]},{"title":"摩羯座 Capricorn","position":"bottom","count":1,"labels":["元素:土","概念:登峰實幹家,目標導向","性格:穩重、自律、有責任感","行動原則:先規劃,再穩定推進","戀愛傾向:慢熟務實,願意長期承諾","人際怪癖:關心常包裝成提醒與安排"]}],"centerpiece":"three stacked horizontal character cards, each with a portrait on the left and text profile on the right"},"character":{"identity":"the same young East Asian woman appears in all 3 sections","age":"early 20s","hair":"long dark brown to black hair in a low ponytail with side part","face":"soft feminine features, natural makeup, calm expression","customization":"keep the same base character across all zodiac entries, differentiated by wardrobe, pose, props, and themed background motifs"},"cards":[{"sign":"Taurus","symbol":"♉","portrait":{"pose":"waist-up, slightly turned, holding a ceramic mug with both hands","outfit":"cream knit sleeveless top under a soft sage-gray cardigan with delicate floral embroidery","expression":"gentle, relaxed, nurturing","props_count":1,"props":["mug"]},"background":"large pale circular halo, floral branch illustration, soft botanical motifs, small mountain drawing in upper right","visual_concept":"comfort, sensuality, domestic calm, slow living"},{"sign":"Virgo","symbol":"♍","portrait":{"pose":"waist-up, one hand holding a pen near the chin, the other arm holding an open notebook or planner","outfit":"light cream blouse with a bow tie collar under a pale sage vest with gold buttons","expression":"thoughtful, analytical, composed","props_count":2,"props":["pen","notebook"]},"background":"fine geometric diagram lines, botanical sprigs, diamond emblem with leaf motif","visual_concept":"order, precision, intelligence, organization"},{"sign":"Capricorn","symbol":"♑","portrait":{"pose":"waist-up, arms crossed, confident upright stance","outfit":"charcoal tailored blazer over a dark vest and crisp white shirt, small round lapel pin","expression":"serious, disciplined, self-assured","props_count":0,"props":[]},"background":"dramatic layered mountain landscape in sepia tones with subtle star-like sparkles","visual_concept":"ambition, endurance, authority, climbing toward goals"}],"typography":{"title_font":"classic high-contrast serif Chinese type","sign_name_font":"large bold Chinese serif with elegant italic Latin zodiac name","body_font":"clean readable Chinese print font","icon_style":"filled circular brown icons next to each bullet line"},"composition":{"margin":"generous cream margins","panel_style":"rounded rectangular panels with thin gold-brown borders","spacing":"even vertical stacking with narrow separators","text_alignment":"left-aligned profile bullets on the right side of each card"}}
+{"type":"復占星象角色資訊海報","theme":"僅限土象星座","language":"繁體中文","style":{"overall":"優雅編輯資訊圖表，帶有柔和動漫啟發的真人肖像合成","palette":"溫暖米色、奶油色、灰褐色、橄欖灰、柔和棕色、古金色","mood":"穩定、優雅、平靜、務實","texture":"有細微斑點和薄裝飾邊框的舊紙背景","rendering":"清晰高解析度印刷海報，柔和照明，精緻的植物和天體線條藝術"},"poster":{"orientation":"垂直","aspect_ratio":"3:4","title":"十二星座角色清單|土象星座","subtitle":"穩定・務實・沉著","decorations":["裝飾性角落花紋","小金色閃光","植物枝條","山脈插圖","薄面板分隔線"],"sections_count":3},"layout":{"sections":[{"title":"金牛座 Taurus","position":"top","count":1,"labels":["元素:土","概念:感官收藏家,穩穩生活","性格:務實、耐心、重享受","行動原則:先確認值得,再長線投入","戀愛傾向:慢熱但專情,重安全感","人際怪癖:對喜歡的人會默默餵食"]},{"title":"處女座 Virgo","position":"middle","count":1,"labels":["元素:土","概念:秩序管理者,細節控場","性格:理性、細膩、可靠","行動原則:先整理,再精準出手","戀愛傾向:用照顧和實際行動表達喜歡","人際怪癖:嘴上挑剔,心裡其實很在乎"]},{"title":"摩羯座 Capricorn","position":"bottom","count":1,"labels":["元素:土","概念:登峰實幹家,目標導向","性格:穩重、自律、有責任感","行動原則:先規劃,再穩定推進","戀愛傾向:慢熟務實,願意長期承諾","人際怪癖:關心常包裝成提醒與安排"]}],"centerpiece":"三張水平堆疊的角色卡片，每張左側有肖像，右側有文字簡介"},"character":{"identity":"同一個年輕東亞女性出現在所有3個部分","age":"20多歲","hair":"深棕色至黑色長髮，低馬尾，側分","face":"柔和的女性特徵，自然妝容，平靜的表情","customization":"在所有星座條目中保持相同的基礎角色，透過服裝、姿勢、道具和主題背景圖案進行區分"},"cards":[{"sign":"金牛座","symbol":"♉","portrait":{"pose":"腰部以上，略微轉身，雙手手持陶瓷杯","outfit":"奶油色無袖針織衫下穿著柔和灰綠色開襟毛衣，帶有精緻的花卉刺繡","expression":"溫柔、放鬆、滋養","props_count":1,"props":["杯子"]},"background":"大型淡色圓形光環，花卉枝條插圖，柔和的植物圖案，右上角有小山脈圖","visual_concept":"舒適、感性、家庭平靜、慢生活"},{"sign":"處女座","symbol":"♍","portrait":{"pose":"腰部以上，一手持筆靠近下巴，另一手持打開的筆記本或計劃書","outfit":"淺奶油色襯衫，領帶結領口，下穿著淺灰綠色背心，帶有金色鈕扣","expression":"深思、分析、沉著","props_count":2,"props":["筆","筆記本"]},"background":"精緻的幾何圖表線條，植物嫩枝，帶有葉片圖案的鑽石徽章","visual_concept":"秩序、精確、智慧、組織"},{"sign":"摩羯座","symbol":"♑","portrait":{"pose":"腰部以上，手臂交叉，自信的站姿","outfit":"炭灰色定制西裝外套，內搭深色背心和挺括的白色襯衫，小圓形領針","expression":"嚴肅、自律、自信","props_count":0,"props":[]},"background":"在棕褐色調中的戲劇性層疊山脈景觀，帶有微妙的星狀閃光","visual_concept":"雄心、耐力、權威、朝目標攀登"}],"typography":{"title_font":"經典高對比襯線中文字體","sign_name_font":"大膽的中文襯線字體，搭配優雅的斜體拉丁星座名稱","body_font":"清晰易讀的中文印刷字體","icon_style":"每個項目符號旁邊的填充圓形棕色圖標"},"composition":{"margin":"寬鬆的奶油色邊距","panel_style":"帶有薄金棕色邊框的圓角矩形面板","spacing":"帶有窄分隔符的均勻垂直堆疊","text_alignment":"每張卡片右側的左對齊簡介項目符號"}}
 ```
 
 <a id="prompt-b1aab4a0dca47085f8a1"></a>
 
-### 61. Alishan One-Day Travel Poster
+### 60. 阿里山一日游海报
 
-![Alishan One-Day Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case129/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case129/output.jpg" alt="阿里山一日游海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/TWnese/status/2048077204786212887)
 
 **提示词:**
 
 ```text
-Create a vintage illustrated travel poster in traditional Chinese for {argument name="destination name" default="阿里山國家風景區"}, designed as a one-day itinerary infographic with a split vertical layout. The left panel is a parchment-textured itinerary card in warm beige with ornate gold Art Nouveau borders and dark brown typography, and the right panel is a dramatic painted fantasy-realism map scene of a mountain journey at sunrise and sunset tones. At the top of the left panel, large headline text reads {argument name="headline text" default="阿里山國家風景區一日遊"}. Beneath it, include a short centered tagline in traditional Chinese: 「一座高山,五個經典景點。難忘的奇幻旅程。」 with a small decorative mountain divider. The left panel must contain exactly 5 numbered itinerary stops stacked vertically, each with a circular black-and-gold number badge, a small vignette illustration, a bold location name, a time in parentheses, and a short Chinese description. The 5 stops are: 1. 「阿里山車站」 at 「(8:00 AM)」 with a wooden mountain railway station illustration and description 「開啟探索神木與森林的旅程。」 2. 「阿里山森林鐵路」 at 「(9:30 AM)」 with a red-and-black steam train illustration and description 「穿越森林,體驗百年林鐵風情。」 3. 「神木區棧道」 at 「(11:30 AM)」 with giant cedar trees and elevated wooden boardwalk illustration and description 「漫步千年巨木下,感受森林靈氣。」 4. 「姊妹潭」 at 「(1:30 PM)」 with a tranquil forest lake and pavilion illustration and description 「欣賞靜謐湖光,聆聽自然樂章。」 5. 「小笠原山展望台」 at 「(4:00 PM)」 with a wooden observation deck above clouds at sunset illustration and description 「觀賞壯闊山景與雲海,欣賞日落。」 The right panel should depict a continuous glowing golden path winding through exactly 5 numbered map markers that match the left panel labels in order, with black-and-gold marker plaques reading: 1 「阿里山車站」, 2 「阿里山森林鐵路」, 3 「神木區棧道」, 4 「姊妹潭」, 5 「小笠原山展望台」. Show stop 1 as a rustic alpine wooden station perched on a cliff among pine forests; stop 2 as a small steam locomotive traveling on a curved mountain railway with smoke drifting upward; stop 3 as towering ancient red cypress trees with a spiral and zigzag wooden walkway around the trunks; stop 4 as an emerald lake surrounded by dense forest with a small pavilion and arched bridge; stop 5 as a lookout deck on a peak above a sea of clouds, facing a glowing sunset. The environment should feature layered mountain ranges, mist-filled valleys, evergreen forests, golden-hour light, luminous cloud seas, and a romantic painterly atmosphere with rich detail. At the bottom right, add a decorative compass rose labeled N, E, S, W, plus a dark green and gold information box with exactly 2 stats in traditional Chinese: 「總距離 ~9公里 / 5.6英里」 and 「預計時間 全天 - 14,500步」. Overall style: premium tourism poster, painterly digital illustration, nostalgic national-park brochure aesthetic, highly detailed, warm sepia and gold accents, elegant composition, readable Chinese text, vertical 2:3 poster.
-```
-
-<a id="prompt-b526e258a0f99be4a5d5"></a>
-
-### 62. Pink Anime Natsuki Banner
-
-![Pink Anime Natsuki Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case98/output.jpg)
-
-此提示词可生成精致的宽幅动漫角色横幅，采用粉色浪漫剪贴簿美学，非常适合作为缩略图、页眉或风格化粉丝主题品牌设计。
-
-- **分类:** UI & Social Media Mockup Cases, YouTube Thumbnail
-- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mirochill/status/2047639852485620070)
-
-**提示词:**
-
-```text
-A glossy pastel pink anime banner in a wide cinematic layout, themed around cute romance and sweets. Place a confident teenage anime girl on the right side, shown from about thigh-up, with short fluffy bob hair in {argument name="hair color" default="soft pink"}, large pink-magenta eyes, a small gentle smile, and arms crossed. She wears a Japanese school uniform: 1 brown blazer, 1 white shirt, 1 red ribbon bow at the collar, and 1 dark navy-and-purple plaid skirt. Add 2 red ribbon hair accessories, one larger bow on the side and one smaller ribbon accent. On the left half, feature the large handwritten script name {argument name="character name" default="Natsuki"} in bold glossy 3D cursive, white-to-pink fill with bright pink outline, soft bevel, subtle drop shadow, sparkles, and a small heart flourish integrated into the lettering. The background should be a layered scrapbook collage in blush pink tones with notebook paper texture, faint grid and torn paper details, scattered doodled hearts, flower petals, sparkles, and cute bakery motifs. Include exactly 4 pinned or taped sketch-style portrait cards of the same girl behind her on the upper-right and mid-right, arranged like overlapping polaroids. Add exactly 2 cupcakes in the foreground near the bottom left and lower center-left, both with pink frosting, striped wrappers, and tiny heart toppers or candy accents. Frame the composition with flowing satin ribbons and bows: exactly 4 major ribbon elements visible, including 1 bow near the top left, 1 bow near the bottom left, and 2 long curling ribbons sweeping across the top and right edges. Use a soft high-detail anime illustration style, polished lighting, dreamy bloom, romantic Valentine palette, delicate textures, and a clean impactful thumbnail-like composition.
+创建一个传统中国风格的复古插画旅行海报，目的地为 {argument name="destination name" default="阿里山国家风景区"}，设计为一天行程信息图表，采用垂直分割布局。左侧面板是羊皮纸质感的行程卡，暖米色背景，带有华丽的金色新艺术风格边框和深棕色字体；右侧面板是描绘山间旅程的戏剧性绘画幻想现实主义地图场景，呈现日出和日落色调。在左侧面板顶部，大标题文字为 {argument name="headline text" default="阿里山国家风景区一日游"}。标题下方，包含一句居中的简体中文标语：「一座高山，五个经典景点。难忘的奇幻旅程。」，配有一个小型装饰性山形分隔符。左侧面板必须包含垂直排列的5个编号行程站点，每个站点都有圆形黑金色数字徽章、小型插图、粗体地点名称、括号内的时间和简短中文描述。5个站点如下：1. 「阿里山车站」在「(上午8:00)」，配有木制山地火车站插图和描述「开启探索神木与森林的旅程。」2. 「阿里山森林铁路」在「(上午9:30)」，配有红黑色蒸汽火车插图和描述「穿越森林，体验百年林铁风情。」3. 「神木区栈道」在「(上午11:30)」，配有巨型雪松和 elevated 木制人行道插图和描述「漫步千年巨木下，感受森林灵气。」4. 「姊妹潭」在「(下午1:30)」，配有宁静的森林湖泊和亭子插图和描述「欣赏静谧湖光，聆听自然乐章。」5. 「小笠原山展望台」在「(下午4:00)」，配有日落时云海上方的木制观景台插图和描述「观赏壮阔山景与云海，欣赏日落。」右侧面板应描绘一条连续发光的金色路径，蜿蜒穿过5个与左侧面板标签顺序匹配的编号地图标记，标记上有黑金色铭牌，分别写着：1 「阿里山车站」，2 「阿里山森林铁路」，3 「神木区栈道」，4 「姊妹潭」，5 「小笠原山展望台」。站点1描绘为坐落在松林悬崖上的质朴高山木制车站；站点2为在弯曲山路上行驶的小型蒸汽机车，烟雾向上飘散；站点3为高耸的古老红桧树，树干周围有螺旋形和之字形木制走道；站点4为被茂密森林环绕的翡翠色湖泊，配有小型亭子和拱桥；站点5为云海之上山峰上的观景台，面向发光的日落。环境应包含层叠的山脉、充满薄雾的山谷、常绿森林、黄金时刻的光线、发光的云海，以及具有丰富细节的浪漫绘画氛围。在右下角，添加一个装饰性的罗盘，标记为N、E、S、W，以及一个深绿色和金色的信息框，包含2个简体中文统计数据：「总距离 ~9公里 / 5.6英里」和「预计时间 全天 - 14,500步」。整体风格：高端旅游海报，绘画数字插画，怀旧的国家公园手册美学，高度详细，温暖的棕褐色和金色点缀，优雅的构图，可读的中文文本，垂直2:3海报。
 ```
 
 <a id="prompt-b6f7f45ba8bb29a860f3"></a>
 
-### 63. 金色皮草香水瓶编辑风广告
+### 61. 金色皮草香水瓶编辑风广告
 
-![金色皮草香水瓶编辑风广告](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case149/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case149/output.jpg" alt="金色皮草香水瓶编辑风广告" width="480">
 
 此提示词可生成一张高端美妆产品大片，展示被温暖质感皮草环绕的香水瓶，非常适合奢侈香水广告及社交媒体营销活动。
 
-- **分类:** Poster & Illustration Cases, E-commerce Main Image
+- **分类:** categories.poster-illustration-cases.zh-CN
+
+海报与插画案例, categories.e-commerce-main-image.zh-CN
+
+电子商务主图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Salmaaboukarr/status/2048103506125463983)
 
 **提示词:**
 
 ```text
-A luxurious editorial product photograph of a single perfume bottle nestled into dense, plush faux fur in rich golden caramel and honey-brown tones. Center the composition on one clear oval glass bottle filled with warm amber liquid, with a glossy rounded black cap and a clean white rectangular label. The label text should read {argument name="brand name" default="BYREDO"} at the top, {argument name="product name" default="BAL D’AFRIQUE"} large in the middle, and {argument name="product type" default="EAU DE PARFUM"} in small text near the bottom. Shoot it as a close-up still life with soft studio lighting, subtle highlights on the glass and cap, gentle shadows in the folds of the fur, and a warm cinematic color palette. The bottle should sit slightly embedded in the fur so the surrounding texture frames it from all sides, creating a premium fashion editorial mood, minimal composition, shallow depth of field, crisp focus on the label, and a high-end beauty campaign aesthetic.
+一张奢华的编辑类产品摄影作品，展示了一个置于浓密、柔软的人造皮草中的香水瓶，皮草呈现出浓郁的金色焦糖色和蜂蜜棕色调。构图中心为一个透明的椭圆形玻璃瓶，瓶内装有温暖的琥珀色液体，配有光泽圆润的黑色瓶盖和简洁的白色长方形标签。标签文字应在顶部显示 {argument name="brand name" default="BYREDO"}，中间大字显示 {argument name="product name" default="BAL D’AFRIQUE"}，底部小字显示 {argument name="product type" default="EAU DE PARFUM"}。采用特写静物拍摄手法，配合柔和的影棚灯光，玻璃和瓶盖上有细腻的高光，皮草褶皱处有柔和的阴影，整体色调为温暖的电影感色调。香水瓶应略微嵌入皮草中，使周围的纹理从四面将其环绕，营造出高端时尚大片的氛围，构图极简，浅景深，标签焦点清晰，呈现出高端美妆广告的审美。
 ```
 
 <a id="prompt-bad0589f1cf3c1d62eb6"></a>
 
-### 64. 电影感鸡肉饺子广告海报
+### 62. 电影感鸡肉饺子广告海报
 
-![电影感鸡肉饺子广告海报](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg" alt="电影感鸡肉饺子广告海报" width="480">
 
-- **分类:** UI & Social Media Mockup Cases
+- **分类:** UI 与社交媒体模型案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Diplomeme/status/2048060325925470358)
 
 **提示词:**
 
 ```text
-A hyper-realistic cinematic street-food advertisement poster for {argument name="brand name" default="Licious"} frozen {argument name="product name" default="Chicken Momos"}, shot in a dark premium studio with dramatic moody lighting, deep navy-black background, glossy black tabletop, and high contrast commercial food photography styling. The composition is a square social-media ad layout with oversized bold condensed white sans-serif headline text on the left reading {argument name="headline text" default="PERFECTLY MADE."} stacked across two lines, and a smaller white subheadline beneath it reading {argument name="tagline text" default="PRECISION IN EVERY BITE."}. Along the far left edge, add thin vertical small caps text reading “FRESH • CLEAN • CONTROLLED”. Across the upper-right background, repeat the phrase “CUT / STEAM / SERVE / REPEAT” in a subtle dark gray pattern, and faintly repeat “CUT / STEAM / SERVE / REPEAT” again near the bottom-left floor area as perspective text. Feature exactly 6 momos total: 5 intact steamed chicken momos floating and arranged dynamically across the center and right side, and 1 split-open momo in the center revealing juicy orange-brown chicken filling with herbs, with a glossy red-orange sauce droplet dripping downward from the opened dumpling. Scatter small chili flakes, herb bits, and seasoning particles suspended in the air around the momos for explosive motion. Place exactly 3 retail product boxes on the right side, staggered in depth, black packaging with the {argument name="brand name" default="Licious"} logo and red product title “CHICKEN MOMOS,” including food photography of the dumplings on the box front. At the bottom right foreground, place 1 small black bowl filled with bright red dipping sauce. Add a thin footer line of small white text across the bottom reading “CHICKEN MOMOS • FRESHLY PREPARED • 2026 EDITION” and place “licious.com” in the lower-right corner. Use premium ad design, ultra-detailed food texture, glossy highlights on the dumplings, subtle steam sheen, crisp typography, shallow depth of field, and a polished high-end commercial campaign aesthetic.
+超写实的电影级街头食品广告海报，为{argument name="brand name" default="Licious"}品牌的冷冻{argument name="product name" default="Chicken Momos"}，在高级暗色影棚中拍摄，具有戏剧性的忧郁灯光，深海军黑背景，光亮的黑色桌面，和高对比度的商业食品摄影风格。构图为方形社交媒体广告布局，左侧有超大号粗体压缩白色无衬线标题文本，分两行显示{argument name="headline text" default="PERFECTLY MADE."}，下方有较小的白色副标题，显示{argument name="tagline text" default="PRECISION IN EVERY BITE."}。在最左边缘添加细长的垂直小写大写文本，显示"FRESH • CLEAN • CONTROLLED"。在右上角背景中，以微妙的深灰色图案重复"CUT / STEAM / SERVE / REPEAT"短语，并在左下角地板区域附近以透视文本再次微弱地重复"CUT / STEAM / SERVE / REPEAT"。总共展示6个饺子：5个完整的蒸鸡肉饺子漂浮并动态排列在中心和右侧，1个在中心切开的饺子露出多汁的橙褐色鸡肉馅料和香草，有一个光亮的红橙色酱汁滴从开口的饺子向下滴落。在饺子周围散落小辣椒片、香草碎片和调味料颗粒，悬浮在空中，呈现爆炸性动感。在右侧放置3个零售产品盒，深度错落排列，黑色包装上有{argument name="brand name" default="Licious"}标志和红色产品标题"CHICKEN MOMOS"，包括盒子前面的饺子食品摄影。在右下角前景处，放置1个装满鲜红色蘸酱的小黑碗。在底部添加一行细小的白色文本页脚，显示"CHICKEN MOMOS • FRESHLY PREPARED • 2026 EDITION"，并在右下角放置"licious.com"。使用高级广告设计，超详细的食品纹理，饺子上的光亮高光，微妙的蒸汽光泽，清晰的排版，浅景深，以及精致的高端商业活动美学。
 ```
 
 <a id="prompt-bee9b1d4120a6b818406"></a>
 
-### 65. Vintage Claude Shannon Infographic Poster
+### 63. 复古克劳德·香农信息图海报
 
-![Vintage Claude Shannon Infographic Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case121/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case121/output.jpg" alt="复古克劳德·香农信息图海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mob_17/status/2048118645017219381)
 
 **提示词:**
 
-```text
-{"type":"vintage editorial infographic poster","subject":"Claude Shannon and information theory","style":{"era":"1940s Bell Labs archival poster","look":"aged cream paper, blueprint drafting grid, thin ink linework, muted navy and charcoal printing, subtle stains and paper wear, technical illustration mixed with newspaper editorial design","rendering":"high-detail diagrammatic collage with engraved portrait, scientific charts, labeled panels, and hand-drawn signal graphics"},"poster":{"headline":"Claude Shannon — The Architecture of Information","subheadline":"How uncertainty became measurable, and communication became engineering.","topRightMeta":{"note":"NOTE TOSELF No. 6713–2","date":"MAY 1948","subject":"A Mathematical Theory of Communication"}},"layout":{"sections":[{"title":"left archival sidebar","position":"far left vertical column","count":5,"labels":["BELL LABORATORIES MURRAY HILL, N.J.","ENGINEERING THE INTANGIBLE","CLAUDE E. SHANNON 1916–2001","TOOLS OF THE INFORMATION AGE","quote panel"]},{"title":"THE COMMUNICATION MODEL","position":"upper middle wide panel","count":5,"labels":["1 INFORMATION SOURCE","2 ENCODER","3 CHANNEL","4 DECODER","5 DESTINATION"]},{"title":"ENTROPY: THE MEASURE OF UNCERTAINTY","position":"upper right box","count":4,"labels":["H(X) = −Σ p(x) log2 p(x)","PROBABILITY DISTRIBUTION p(x)","MORE EVEN MORE MAXED UNCERTAINTY","MORE LOPSIDED LESS UNCERTAINTY"]},{"title":"lower theory panels","position":"middle to lower band","count":3,"labels":["A ENTROPY — uncertainty before a message is known","B NOISE — randomness that corrupts transmission","C Redundancy & Error Correction — structure added so signals can survive failure"]},{"title":"THEORY THAT TRANSFORMED CIVILIZATION","position":"bottom horizontal timeline","count":8,"labels":["1840s TELEGRAPHY","1876+ TELEPHONE NETWORKS","1930s–40s DIGITAL COMPUTERS","1950s–60s SATELLITE COMMUNICATION","1970s INTERNET PROTOCOLS","1980s–90s DATA COMPRESSION","1990s–2000s CRYPTOGRAPHY","2010s+ AI & INFORMATION SYSTEMS"]}],"centerpiece":"a large abstract cloud of blue and gray signal noise, dots, lines, and waveforms behind the communication model, with arrows moving left to right through the five stages"},"visualElements":{"portrait":{"subject":"{argument name=\"scientist name\" default=\"Claude Shannon\"}","placement":"left-center","style":"black-and-white archival seated portrait at a desk with the face intentionally obscured by a pale square censor block, wearing suit and tie, writing on paper"},"objectsLeft":["rotary telephone on desk","open notebook or papers","technical console with CRT screen and knobs behind portrait","small icon row of 4 tools: oscilloscope, signal meter, relay, punched tape"],"communicationModel":["book and symbols under source","binary digits under encoder","large noisy channel cloud with wave overlays","binary digits and interpretation under decoder","light bulb icon under destination"],"chartsAndDiagrams":["bar chart for entropy probabilities","two low vs high entropy mini bar charts","tree diagram and entropy notation","signal distortion sketches labeled thermal noise, cross talk, distortion","error-correction binary pipeline from original message to recovered message"],"bottomDecor":["small waveform legend with sine wave, digital signal, and noise","archival stamp or footer on lower right"]},"color":{"background":"warm ivory paper","primaryInk":"dark navy","secondaryInk":"charcoal gray","accent":"faded steel blue"},"composition":"symmetrical wide poster with dense boxed annotations, fine border lines, and a museum-quality educational infographic feel","textDensity":"very high, with many small labels, formulas, captions, and historical notes in a carefully organized grid","aspectRatio":"16:9 landscape"}
+````text
+```json
+{
+  "type": "复古编辑信息图表海报",
+  "subject": "克劳德·香农与信息论",
+  "style": {
+    "era": "1940年代贝尔实验室档案海报",
+    "look": "陈旧的奶油色纸张，蓝图制图网格，细墨线工作，柔和的海军蓝和炭灰色印刷，微妙的污渍和纸张磨损，技术插图与报纸编辑设计混合",
+    "rendering": "高细节图表拼贴画，带有雕刻肖像、科学图表、标记面板和手绘信号图形"
+  },
+  "poster": {
+    "headline": "克劳德·香农 — 信息架构",
+    "subheadline": "不确定性如何变得可测量，通信如何成为工程。",
+    "topRightMeta": {
+      "note": "自我提醒 No. 6713–2",
+      "date": "1948年5月",
+      "subject": "通信的数学理论"
+    }
+  },
+  "layout": {
+    "sections": [
+      {
+        "title": "左侧档案侧边栏",
+        "position": "最左侧垂直列",
+        "count": 5,
+        "labels": [
+          "贝尔实验室 新泽西州默里山",
+          "无形工程",
+          "克劳德·E·香农 1916–2001",
+          "信息时代的工具",
+          "引用面板"
+        ]
+      },
+      {
+        "title": "通信模型",
+        "position": "上方中间宽面板",
+        "count": 5,
+        "labels": [
+          "1 信息源",
+          "2 编码器",
+          "3 信道",
+          "4 解码器",
+          "5 目的地"
+        ]
+      },
+      {
+        "title": "熵：不确定性的度量",
+        "position": "右上角框",
+        "count": 4,
+        "labels": [
+          "H(X) = −Σ p(x) log2 p(x)",
+          "概率分布 p(x)",
+          "更均匀，更多最大不确定性",
+          "更偏斜，更少不确定性"
+        ]
+      },
+      {
+        "title": "下方理论面板",
+        "position": "中到下带",
+        "count": 3,
+        "labels": [
+          "A 熵 — 消息已知之前的不确定性",
+          "B 噪声 — 破坏传输的随机性",
+          "C 冗余与纠错 — 添加的结构使信号能够抵御故障"
+        ]
+      },
+      {
+        "title": "改变文明的理论",
+        "position": "底部水平时间线",
+        "count": 8,
+        "labels": [
+          "1840年代 电报",
+          "1876+ 电话网络",
+          "1930s–40s 数字计算机",
+          "1950s–60s 卫星通信",
+          "1970s 互联网协议",
+          "1980s–90s 数据压缩",
+          "1990s–2000s 密码学",
+          "2010s+ 人工智能与信息系统"
+        ]
+      }
+    ],
+    "centerpiece": "通信模型后方的大型蓝色和灰色信号噪声、点、线和波形抽象云，箭头从左到右穿过五个阶段"
+  },
+  "visualElements": {
+    "portrait": {
+      "subject": "{argument name=\"scientist name\" default=\"Claude Shannon\"}",
+      "placement": "左中心",
+      "style": "黑白档案式坐姿肖像，坐在书桌前，脸部被浅色方形审查块有意遮挡，穿着西装和领带，在纸上书写"
+    },
+    "objectsLeft": [
+      "桌上的旋转式电话",
+      "打开的笔记本或纸张",
+      "肖像后方带有CRT屏幕和旋钮的技术控制台",
+      "4个工具的小图标行：示波器、信号计、继电器、穿孔纸带"
+    ],
+    "communicationModel": [
+      "源下方的书籍和符号",
+      "编码器下方的二进制数字",
+      "带有波形覆盖的大型噪声信道云",
+      "解码器下方的二进制数字和解释",
+      "目的地下方的灯泡图标"
+    ],
+    "chartsAndDiagrams": [
+      "熵概率条形图",
+      "两个低与高熵小型条形图",
+      "树状图和熵符号",
+      "标记为热噪声、串扰、失真的信号失真草图",
+      "从原始消息到恢复消息的纠错二进制管道"
+    ],
+    "bottomDecor": [
+      "带有正弦波、数字信号和噪声的小波形图例",
+      "右下角的档案印章或页脚"
+    ]
+  },
+  "color": {
+    "background": "暖象牙色纸张",
+    "primaryInk": "深海军蓝",
+    "secondaryInk": "炭灰色",
+    "accent": "褪色的钢蓝色"
+  },
+  "composition": "对称宽海报，带有密集的框注释、细边线和博物馆质量的教育信息图表感觉",
+  "textDensity": "非常高，有许多小标签、公式、标题和历史注释，在仔细组织的网格中",
+  "aspectRatio": "16:9 横向"
+}
 ```
-
-<a id="prompt-bfa7e04f75b6fd96ffc0"></a>
-
-### 66. Dreamy Anime Sayori Banner
-
-![Dreamy Anime Sayori Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case99/output.jpg)
-
-此提示词可生成精美的动漫风格角色横幅，包含开朗的女学生、剪贴簿装饰以及醒目的发光文字，非常适合用作标题栏、缩略图或粉丝艺术品牌展示。
-
-- **分类:** UI & Social Media Mockup Cases, YouTube Thumbnail
-- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mirochill/status/2047639852485620070)
-
-**提示词:**
-
-```text
-A wide anime banner illustration of {argument name="character name" default="Sayori"} in a bright dreamy classroom, rendered in a polished, high-end visual novel style with soft painterly lighting, warm pastel colors, and sparkling atmosphere. Show a cheerful teenage schoolgirl with short fluffy coral-pink hair, messy bob layers, and a large red bow on the right side of her head, wearing a Japanese school uniform with a light brown blazer, white shirt, red ribbon tie, brown sweater vest, and pleated navy skirt. She stands slightly left of center with arms open wide in an inviting, joyful pose, as if welcoming the viewer, with dynamic perspective and gentle motion in her hair and clothes. Her face is intentionally obscured by a flat rectangular skin-tone censor block. Behind her, tall classroom windows reveal a vivid blue sky with soft white clouds and warm sunlight streaming in. The right half of the image features a large decorative handwritten script reading {argument name="headline text" default="Sayori"}, cream-white lettering with a soft orange-gold outline and glow, integrated into a scrapbook-like wall background. Surround the scene with hanging photo prints clipped to string, including sky photos and a sunflower photo, plus hand-drawn doodles of clouds, stars, hearts, and a sun. Add blue and yellow paper stars, ribbons, floating confetti, a blue paper airplane, notebook pages, a spiral sketchbook, and scattered stationery elements. Place sunflowers prominently in the foreground and edges, with warm golden bokeh and soft depth of field. Make the composition energetic, cute, nostalgic, and emotionally uplifting, like a premium anime-themed YouTube banner or character tribute header, ultra-detailed, clean, stylish, luminous, and impact-focused.
-```
+````
 
 <a id="prompt-c12c5156d1bb45b2dc0a"></a>
 
-### 67. 动漫角色品牌形象与周边展示板
+### 64. 动漫角色品牌形象与周边展示板
 
-![动漫角色品牌形象与周边展示板](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg" alt="动漫角色品牌形象与周边展示板" width="480">
 
-- **分类:** Poster & Illustration Cases, 界面交互设计图
+- **分类:** 海报与插画案例, 界面交互设计图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/chi_vc_/status/2046061073720369228)
 
 **提示词:**
 
 ```text
 {
-  "type": "brand identity and merchandise design board",
+  "type": "品牌标识和商品设计板",
   "theme": {
-    "color_palette": "{argument name=\"theme color\" default=\"pastel pink\"} and white",
-    "motif": "{argument name=\"motif\" default=\"cherry blossoms\"} and pink hearts"
+    "color_palette": "{argument name=\"主题色\" default=\"粉彩色\"} 和白色",
+    "motif": "{argument name=\"图案\" default=\"樱花\"} 和粉色爱心"
   },
   "character": {
-    "description": "anime girl with short brown bob hair, pink eyes, wearing a white hoodie, gentle smile"
+    "description": "棕色短波波头的动漫女孩，粉色眼睛，穿着白色连帽衫，温柔微笑"
   },
   "branding": {
-    "main_logo": "{argument name=\"character name\" default=\"癒音ちー\"}",
-    "sub_logo": "{argument name=\"character subtext\" default=\"ゆおんちー\"}"
+    "main_logo": "{argument name=\"角色名\" default=\"癒音ちー\"}",
+    "sub_logo": "{argument name=\"角色副标题\" default=\"ゆおんちー\"}"
   },
   "layout": {
     "sections": [
       {
-        "type": "header banner",
-        "position": "top",
-        "elements": ["large main logo", "sub logo", "cherry blossom graphics", "character portrait on the right"]
+        "type": "横幅标题",
+        "position": "顶部",
+        "elements": ["大型主标志", "副标志", "樱花图形", "右侧角色肖像"]
       },
       {
-        "type": "product packaging",
-        "position": "middle left",
-        "elements": ["1 square box with heart-shaped transparent window showing pink heart candies", "character illustration on box", "2 individual candy wrappers", "5 scattered heart candies"]
+        "type": "产品包装",
+        "position": "中左",
+        "elements": ["1个带心形透明窗口的方形盒子，展示粉色爱心糖果", "盒子上的角色插图", "2个单独的糖果包装", "5个散落的爱心糖果"]
       },
       {
-        "type": "promotional poster",
-        "position": "middle right",
-        "elements": ["character portrait", "heart-shaped candy bowl", "main logo", "text '4.26 NEW OPEN'", "text '{argument name=\"social handle\" default=\"@yuonchii\"}'"]
+        "type": "宣传海报",
+        "position": "中右",
+        "elements": ["角色肖像", "心形糖果碗", "主标志", "文字 '4.26 新开业'", "文字 '{argument name=\"社交账号\" default=\"@yuonchii\"}'"]
       },
       {
-        "type": "horizontal web banner",
-        "position": "lower middle",
-        "elements": ["main logo", "cherry blossoms", "character portrait on the right"]
+        "type": "水平网页横幅",
+        "position": "中下",
+        "elements": ["主标志", "樱花", "右侧角色肖像"]
       },
       {
-        "type": "social media profile mockup",
-        "position": "bottom left",
-        "elements": ["header image with logo", "1 circular profile picture", "handle '{argument name=\"social handle\" default=\"@yuonchii\"}'", "1 follow button", "mock bio text"]
+        "type": "社交媒体资料模拟",
+        "position": "左下",
+        "elements": ["带标志的头部图片", "1个圆形个人资料图片", "账号 '{argument name=\"社交账号\" default=\"@yuonchii\"}'", "1个关注按钮", "模拟的简介文字"]
       },
       {
-        "type": "merchandise collection",
-        "position": "bottom right",
+        "type": "商品系列",
+        "position": "右下",
         "count": 9,
-        "items": ["1 white t-shirt with logo", "1 white mug with character", "4 round pin badges", "1 acrylic keychain", "2 candy packets"]
+        "items": ["1个带标志的白色T恤", "1个带角色的白色马克杯", "4个圆形徽章", "1个亚克力钥匙扣", "2个糖果包装"]
       }
     ]
   }
 }
 ```
 
-<a id="prompt-c42af55d1cfa93c4bdbf"></a>
-
-### 68. Purple Anime Yuri Banner
-
-![Purple Anime Yuri Banner](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case97/output.jpg)
-
-此提示词可生成一张时尚的动漫风格横幅，画面中一位紫发女学生置身于充满文学气息的黄昏房间，并配有发光的标题字体，非常适合用作缩略图、页眉或角色主题的社交媒体配图。
-
-- **分类:** UI & Social Media Mockup Cases, YouTube Thumbnail
-- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mirochill/status/2047639852485620070)
-
-**提示词:**
-
-```text
-A polished anime-style banner illustration in a dreamy violet palette, wide cinematic composition, showing a quiet literary room at twilight. On the right side, a beautiful teenage anime girl named {argument name="character name" default="Yuri"} sits at a wooden desk beside a large window with purple curtains, holding a dark ornate hardcover book close to her chest and gazing softly downward with a shy, introspective expression. She has very long straight {argument name="hair color" default="deep violet"} hair with glossy highlights, side bangs, a small hair clip, and violet eyes, wearing a Japanese school uniform with a gray blazer, white shirt, red ribbon tie, and dark skirt. Across the left-center of the image, the glowing calligraphic word {argument name="title text" default="Yuri"} appears large in luminous neon-lavender script with elegant flourishes, a small heart, and decorative filigree, integrated into the scene like magical typography. The desk contains exactly 8 visible item groups: 1 open book in the foreground center, 1 black inkwell with a white feather quill, 1 closed book near the candle, 1 stack of books under papers, 1 loose handwritten page in front, 1 small purple flower on the desk, 1 floral porcelain teacup with saucer on the right, and 1 dark book stack at the far right. Additional background details include exactly 6 decorative environmental elements: 1 lit candle in a glass holder on the left, 1 cluster of purple flowers in the left foreground, 1 hanging spray of purple blossoms in the upper left, 1 pinned botanical note in the upper right, 1 bookshelf with books and flowers in the right background, and 1 sunset sky visible through the window. Add drifting flower petals, faint handwritten script textures, ornate gold border lines around the frame, soft volumetric window light, subtle sparkles, rich shadows, and a romantic melancholic atmosphere. Highly detailed, clean line art, glossy anime rendering, premium visual-novel key art, perfect for a niche anime banner or character-themed thumbnail.
-```
-
 <a id="prompt-c7ecf504cc7b991b7ecb"></a>
 
-### 69. 粉彩水母房间周边海报
+### 65. 粉彩水母房间周边海报
 
-![粉彩水母房间周边海报](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg" alt="粉彩水母房间周边海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Ayu_AI_0912/status/2048309565817766139)
 
 **提示词:**
 
 ```text
-{"type":"pastel lifestyle poster / character room-goods feature sheet","theme":"soft dreamy lavender jellyfish aesthetic","style":"Japanese cute editorial graphic, airy white background, pastel lilac palette, delicate handwritten notes, sparkles and tiny doodles, soft product photography mixed with magazine layout","subject":{"character":{"name":"{argument name=\"character name\" default=\"くらげちゃん\"}","appearance":"young woman with a short platinum-blonde bob haircut, wearing a fluffy pale-lavender zip hoodie over a white inner top, shown from chest up on the lower right, face intentionally obscured with a plain beige rectangle"}},"layout":{"orientation":"vertical poster","background":"clean white with faint pastel doodles of stars, bubbles, tiny jellyfish, and musical notes","sections":[{"title":"header","position":"top","count":5,"labels":["speech bubble intro","main title","small subtitle GOODS","horizontal lavender ribbon tagline","round badge on the top right"]},{"title":"featured goods grid","position":"upper and middle left","count":6,"labels":["ゆらゆらくらげランプ","くらげと夢見るベッドリネン","くらげシェルミラー","くらげグラデマグ","くらげのときめき収納ボックス","くらげふわもこマット"]},{"title":"side handwritten note","position":"upper right","count":1,"labels":["みんなも くらげちゃんRoomで いっしょに まったりしよー♡♡"]},{"title":"room concept box","position":"lower left","count":1,"labels":["くらげちゃんの お部屋作りのこだわり"]},{"title":"pick up circle","position":"lower center-left","count":1,"labels":["Pick up!"]}],"product_images":{"count":6,"items":[{"name":"ゆらゆらくらげランプ","description":"small translucent jellyfish-shaped lamp on a white base, glowing softly in pale blue-lavender"},{"name":"くらげと夢見るベッドリネン","description":"plush pastel-lavender bed with fluffy comforter and pillows, dreamy cozy bedroom styling"},{"name":"くらげシェルミラー","description":"small tabletop mirror with a puffy shell-like pastel-lilac frame and rounded base"},{"name":"くらげグラデマグ","description":"ceramic mug with lavender-to-pink gradient and a simple jellyfish illustration"},{"name":"くらげのときめき収納ボックス","description":"pastel storage box holding cosmetics and small bottles, decorated with a jellyfish emblem"},{"name":"くらげふわもこマット","description":"small fluffy cloud-like or jellyfish-like mat in pale lavender and white"}]},"text_elements":{"main_title":"{argument name=\"headline text\" default=\"くらげちゃんの お部屋アイテム\"}","badge_text":"くらげちゃんの Room お部屋作りの こだわりポイントも 教えちゃうよ。","tagline":"ふわふわで甘くて、ちょっぴり夢みたいな私のお部屋へようこそ♡","speech_bubble":"くらげちゃんの お気に入りだけ集めた お部屋アイテムを紹介するよ♪","concept_points":{"count":3,"items":["色は白とラベンダーで統一!","光が集まるふわっとした空間に","お友達入りのアイテムに囲まれて 自分らしくいられる空間を大切にしてるよ♪"]},"product_blurbs":"each product has a short handwritten Japanese description in a cute casual font beside or below the image"},"composition":"the poster is left-heavy with product cards and text, while the character portrait occupies the lower right third, slightly overlapping the layout","color_palette":{"count":5,"colors":["white","pastel lavender","soft lilac","pale gray-violet","touches of pastel blue-pink gradient"]},"rendering_notes":"keep everything very soft, feminine, and cozy; rounded corners on all product photos; mix of bold Japanese headline typography and light handwritten annotations; subtle shadows; clean high-key lighting; social-media-ready editorial collage aesthetic"}
+{"type":"柔和生活方式海报 / 角色房间用品宣传单","theme":"柔和梦幻薰衣草水母美学","style":"日本可爱编辑式图形，通透的白色背景，柔和的淡紫色调，精致的手写笔记，闪光和小涂鸦，柔和的产品摄影与杂志版面混合","subject":{"character":{"name":"{argument name=\"character name\" default=\"くらげちゃん\"}","appearance":"年轻女性，留着短白金色波波头，穿着蓬松的淡紫色拉链连帽衫内搭白色上衣，从胸部以上展示在右下方，脸部被一个米色矩形有意遮挡"}},"layout":{"orientation":"垂直海报","background":"干净的白色背景，带有淡淡的星星、气泡、小水母和音符的柔和涂鸦","sections":[{"title":"header","position":"top","count":5,"labels":["对话气泡介绍","主标题","小副标题 商品","水平薰衣草色丝带标语","右上角圆形徽章"]},{"title":"featured goods grid","position":"upper and middle left","count":6,"labels":["ゆらゆらくらげランプ","くらげと夢見るベッドリネン","くらげシェルミラー","くらげグラデマグ","くらげのときめき収納ボックス","くらげふわもこマット"]},{"title":"side handwritten note","position":"upper right","count":1,"labels":["みんなも くらげちゃんRoomで いっしょに まったりしよー♡♡"]},{"title":"room concept box","position":"lower left","count":1,"labels":["くらげちゃんの お部屋作りのこだわり"]},{"title":"pick up circle","position":"lower center-left","count":1,"labels":["Pick up!"]}],"product_images":{"count":6,"items":[{"name":"ゆらゆらくらげランプ","description":"小型半透明水母形状的灯，放在白色底座上，发出柔和的淡蓝紫色光芒"},{"name":"くらげと夢見るベッドリネン","description":"蓬松的淡薰衣草色床，配有蓬松的被子和枕头，梦幻舒适的卧室风格"},{"name":"くらげシェルミラー","description":"小型桌面镜子，带有蓬松的贝壳状淡紫色边框和圆形底座"},{"name":"くらげグラデマグ","description":"陶瓷马克杯，带有薰衣草到粉色的渐变和简单的水母插图"},{"name":"くらげのときめき収納ボックス","description":"柔和色调的储物盒，装有化妆品和小瓶子，装饰有水母标志"},{"name":"くらげふわもこマット","description":"小型蓬松的云朵状或水母状垫子，颜色为淡紫色和白色"}]},"text_elements":{"main_title":"{argument name=\"headline text\" default=\"くらげちゃんの お部屋アイテム\"}","badge_text":"くらげちゃんの Room お部屋作りの こだわりポイントも 教えちゃうよ。","tagline":"ふわふわで甘くて、ちょっぴり夢みたいな私のお部屋へようこそ♡","speech_bubble":"くらげちゃんの お気に入りだけ集めた お部屋アイテムを紹介するよ♪","concept_points":{"count":3,"items":["色は白とラベンダーで統一!","光が集まるふわっとした空間に","お友達入りのアイテムに囲まれて 自分らしくいられる空間を大切にしてるよ♪"]},"product_blurbs":"每个产品在图像旁边或下方都有简短的手写日文描述，使用可爱的休闲字体"},"composition":"海报左侧偏重于产品卡片和文字，而角色肖像占据右下三分之一，略微重叠在版面上","color_palette":{"count":5,"colors":["白色","柔和薰衣草色","柔和淡紫色","淡灰紫色","柔和蓝粉渐变点缀"]},"rendering_notes":"保持所有元素非常柔和、女性化和舒适；所有产品照片都有圆角；结合粗体日文标题字体和轻柔的手写注释；微妙的阴影；干净的高光照明；适合社交媒体的编辑拼贴美学"}
 ```
 
 <a id="prompt-cb0788808e6ada240143"></a>
 
-### 70. Dreamy Shibuya Bubble Girl
+### 66. 梦幻的涩谷泡泡女孩
 
-![Dreamy Shibuya Bubble Girl](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case164/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case164/output.jpg" alt="梦幻的涩谷泡泡女孩" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/terunari/status/2048308270914490666)
 
 **提示词:**
 
 ```text
-A dreamy anime-style full-body illustration of a fashionable young woman standing in the middle of the Shibuya scramble crossing in Tokyo on a bright clear day, with the iconic cylindrical SHIBUYA 109 building centered in the background and recognizable commercial billboards surrounding it, including signs resembling H&M, DHC, DMM TV, Big Echo, and other dense Japanese city advertisements. She is the single main subject, posed gracefully as if floating or weightless, standing on top of one giant iridescent translucent soap bubble beneath her skirt. Her face is softly obscured and de-emphasized, while her long dark violet-black hair flows dramatically in the wind, with soft bangs and a pink floral headband accessory with ribbon on one side. She wears a sweet feminine spring outfit in pastel pink: a long-sleeved frilled blouse under a sleeveless pink dress with a ribbon tie at the chest, a tan belt at the waist, layered ruffles at the hem, and subtle sakura flower embroidery near the lower skirt. Her expression and body language should feel gentle, elegant, whimsical, and slightly magical. One hand is raised with her index finger pointing upward toward a floating bubble that contains 1 smartphone; her other hand holds a loop handle attached to a large transparent iridescent shopping-bag-like bubble containing 3 visible items: 1 SHIBUYA 109 paper shopping bag, 1 pink shopping bag or package, and 1 small pink bunny-faced pouch. Also include 1 separate floating smartphone/tablet-like device outside the bubbles near the lower left side, and 1 floating bubble on the lower right containing 1 compact camera. Surround her with many soap bubbles of different sizes, all highly reflective with rainbow highlights and delicate transparency, creating a soft sparkling atmosphere. The city scene should be busy but slightly softened, with pedestrians in the far background, crosswalk stripes in the foreground, and warm sunlight filtering through the urban canyon. Use polished high-detail anime illustration rendering, luminous pastel colors, glossy reflections, soft bloom, a romantic spring palette, and a magical everyday Tokyo aesthetic.
+一个梦幻的动漫风格全身插画，描绘一位时尚的年轻女子站在东京涩谷十字路口中央，天气晴朗明亮。背景中是标志性的涩谷109圆柱形建筑，周围环绕着可识别的商业广告牌，包括类似H&M、DHC、DMM TV、Big Echo等密集的日本城市广告。她是唯一的主体，姿态优雅，仿佛漂浮或失重，站在裙子下方的一个巨大彩虹色半透明肥皂泡上。她的脸被柔和地模糊和弱化，而她深紫黑色的长发随风飘动，带有柔软的刘海和一侧带有丝带的粉色花朵头带配饰。她穿着甜美的女性春季淡粉色服装：一件长袖褶边衬衫，外面是一件无袖粉色连衣裙，胸部有丝带系带，腰部有一条棕色腰带，裙摆有多层褶边，下裙附近有精致的樱花刺绣。她的表情和肢体语言应该显得温柔、优雅、富有想象力，并带有一些魔幻感。一只手举起，食指指向一个漂浮的泡泡，泡泡里有一部智能手机；另一只手拿着一个环状手柄，连接着一个大型透明彩虹色购物袋状泡泡，泡泡内有3个可见物品：1个涩谷109纸购物袋，1个粉色购物袋或包裹，以及1个带有粉色兔子脸的小包。还在左下角附近添加1个独立的智能手机/平板设备，以及在右下角添加1个漂浮的泡泡，泡泡内有1台便携式相机。周围环绕着许多不同大小的肥皂泡，都具有高度反射性，带有彩虹高光和精致的透明度，营造出柔和闪烁的氛围。城市场景应该繁忙但略微柔和，远处有行人，前景有斑马线，温暖的阳光穿过城市峡谷。使用精致的高细节动漫插画渲染，发光的柔和色彩，光泽反射，柔和的光晕，浪漫的春季色调，以及魔幻的日常东京美学。
 ```
 
 <a id="prompt-cc33ea2156cef204450d"></a>
 
-### 71. 16-Panel Female Dance Pose Sheet
+### 67. 16格女性舞蹈姿势参考图
 
-![16-Panel Female Dance Pose Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case135/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case135/output.jpg" alt="16格女性舞蹈姿势参考图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ExquisitMe/status/2048143577264402629)
 
 **提示词:**
 
 ```text
-{"type":"pose reference sheet","subject":{"count":1,"description":"a fit young woman dancer shown repeatedly in a clean studio reference layout","appearance":{"gender":"female","age":"young adult","build":"athletic, toned midriff","skin tone":"light to medium tan","hair":{"color":"dark brown","style":"high messy ponytail with loose strands framing the face"},"expression":"neutral to focused"},"wardrobe":{"top":"charcoal gray sports bra or cropped athletic bralette","bottom":"oversized dark gray parachute cargo pants with gathered ankles","shoes":"white sneakers","accessories":["black wristband or fingerless glove on one hand","subtle sporty styling"]}},"layout":{"background":"plain white seamless studio background","grid":{"rows":4,"columns":4,"count":16,"cell labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"]},"style":"clean contact-sheet or choreography chart with thin black dividers between panels and small black numbers at the upper left of each panel"},"poses":[{"label":"1","description":"relaxed standing pose, weight on one leg, one hand near hip, slight contrapposto"},{"label":"2","description":"wide low dance stance, one arm bent behind the head, the other arm extended and pointing to the right"},{"label":"3","description":"legs spread in a grounded stance, torso slightly tilted, one hand resting near the upper thigh"},{"label":"4","description":"very low wide squat facing forward, torso leaning back, one hand near the face and the other near the thigh"},{"label":"5","description":"wide side lunge stance, one arm arched overhead, the other arm extended outward in a stylized dance line"},{"label":"6","description":"balancing on one leg with the other knee lifted high, one hand near the face in a punchy hip-hop pose"},{"label":"7","description":"floorwork pose supported by one hand on the ground, torso reclined sideways, legs bent and lifted in a dynamic breakdance-like position"},{"label":"8","description":"casual upright pose with one hand behind the head and one knee bent upward"},{"label":"9","description":"one-legged balance pose with the lifted knee bent, both arms extended outward for motion and rhythm"},{"label":"10","description":"low kneeling or crouched pose, one knee up and one knee down, one arm thrust forward toward the viewer"},{"label":"11","description":"deep squat with legs apart, one arm curved overhead in a dramatic arc"},{"label":"12","description":"standing lean to one side with one arm extended sideways and the other hand near the hip or thigh"},{"label":"13","description":"reclining floor pose supported by one hand behind the body, one leg bent and one leg extended"},{"label":"14","description":"upright standing pose with one arm fully extended and pointing to the right"},{"label":"15","description":"front-facing pose stepping forward with one knee lifted, one arm reaching or pointing forward"},{"label":"16","description":"wide confident stance with one arm pointing diagonally upward to the right"}],"rendering":{"medium":"photorealistic studio fashion and dance reference image","lighting":"soft even studio lighting with faint shadows beneath the feet and body","camera":"full-body framing, straight-on view, consistent distance in every panel","quality":"sharp, high-resolution, realistic anatomy and fabric folds"}}
+{"type":"姿势参考表","subject":{"count":1,"description":"一位健康的年轻女舞者在干净的工作室参考布局中重复展示","appearance":{"gender":"女性","age":"青年","build":"运动员身材，紧实的中腹部","skin tone":"浅至中等肤色","hair":{"color":"深棕色","style":"高马尾，凌乱，有散落的发丝框住脸部"},"expression":"中性至专注"},"wardrobe":{"top":"炭灰色运动内衣或短款运动文胸","bottom":"超大号深灰色降落伞式工装裤，脚踝处收紧","shoes":"白色运动鞋","accessories":["一只手腕戴黑色腕带或露指手套","低调的运动风格"]}},"layout":{"background":"纯白色无缝工作室背景","grid":{"rows":4,"columns":4,"count":16,"cell标签":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"]},"style":"干净的接触表或编舞图，面板之间有细黑分隔线，每个面板左上角有小黑数字"},"poses":[{"label":"1","description":"放松的站立姿势，重心在一条腿上，一只手靠近臀部，轻微的contrapposto姿势"},{"label":"2","description":"宽阔的低舞蹈站姿，一只手臂弯曲在头后，另一只手臂伸展并指向右侧"},{"label":"3","description":"双腿分开站立，躯干略微倾斜，一只手放在大腿上部"},{"label":"4","description":"非常低的宽蹲姿，面向前方，躯干向后倾斜，一只手靠近脸部，另一只手靠近大腿"},{"label":"5","description":"宽阔的侧弓步站姿，一只手臂在头顶上方呈拱形，另一只手臂以风格化的舞蹈线条向外伸展"},{"label":"6","description":"单腿平衡，另一条膝盖高高抬起，一只手靠近脸部，呈有力的嘻哈姿势"},{"label":"7","description":"地面动作姿势，一只手支撑在地面上，躯干侧倾，双腿弯曲并抬起，呈动态的霹雳舞姿势"},{"label":"8","description":"随意的直立姿势，一只手放在头后，一条膝盖向上弯曲"},{"label":"9","description":"单腿平衡姿势，抬起的膝盖弯曲，双臂向外伸展以表现动作和节奏"},{"label":"10","description":"低跪或蹲姿，一条膝盖抬起，一条膝盖放下，一只手臂向前伸向观众"},{"label":"11","description":"深蹲，双腿分开，一只手臂在头顶上方呈戏剧性的弧形弯曲"},{"label":"12","description":"向一侧倾斜站立，一只手臂向侧面伸展，另一只手靠近臀部或大腿"},{"label":"13","description":"躺卧地面姿势，一只手支撑在身体后方，一条腿弯曲，一条腿伸展"},{"label":"14","description":"直立站姿，一只手臂完全伸展并指向右侧"},{"label":"15","description":"面向前方的姿势，一条腿向前迈步，膝盖抬起，一只手臂向前伸展或指向"},{"label":"16","description":"宽阔自信的站姿，一只手臂对角线指向右上方"}],"rendering":{"medium":"逼真的工作室时尚和舞蹈参考图像","lighting":"柔和均匀的工作室照明，脚部和身体下方有淡淡的阴影","camera":"全身构图，正面视角，每个面板保持一致的距离","quality":"清晰，高分辨率，逼真的解剖结构和布料褶皱"}}
 ```
 
 <a id="prompt-d01bdb28c2706018dbfc"></a>
 
-### 72. 电商主图 - 奢华毛绒乐福鞋生活照
+### 68. 电商主图 - 奢华毛绒乐福鞋生活照
 
-![电商主图 - 奢华毛绒乐福鞋生活照](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg" alt="电商主图 - 奢华毛绒乐福鞋生活照" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/dynamicwangs/status/2047580984342925545)
 
 **提示词:**
 
 ```text
-A warm, editorial-style lifestyle product photo shot indoors from a low close-up angle, focused on a woman's lower legs and feet as she tries on 1 pair of black leather backless loafers with tan faux-fur lining. One loafer is worn on the right foot and the left foot is bare, hovering just above the textured cream shag rug, while the second matching loafer lies on the rug in the lower left foreground. The shoes have smooth black leather uppers, a rounded almond toe, open mule-style heel, plush brown fur spilling out around the opening, and a small polished gold horsebit hardware detail across the vamp. The model wears cropped medium-blue denim jeans with a raw frayed hem. The setting is a cozy minimalist interior with a cream rug featuring 2 thin irregular black lines, a neutral wall, and a leaning rectangular mirror with a medium wood frame in the upper right background, softly reflecting the rug and part of the scene. Use soft natural window light, shallow depth of field, subtle film grain, realistic skin texture, muted beige and black palette, relaxed candid composition, premium fashion catalog mood, high detail, photorealistic.
+一张温暖的、编辑风格的生活方式产品照片，从低角度近距离拍摄，聚焦于一位女性的小腿和双脚，她正在试穿一双黑色皮革露跟乐福鞋，配有棕褐色人造毛皮衬里。一只乐福鞋穿在右脚上，左脚赤裸，悬停在纹理丰富的米色长绒地毯上方，而另一只配套的乐福鞋则放在左前方的地毯上。鞋子有光滑的黑色皮革鞋面，圆润的杏仁形鞋头，开放式穆勒鞋跟，蓬松的棕色毛皮从开口处溢出，以及一个小的抛光金色马衔硬件细节横跨鞋面。模特穿着中蓝色牛仔短裤，带有原始的毛边裤脚。场景是一个舒适的极简主义室内，配有米色地毯，上面有2条细的不规则黑线，一面中性色调的墙壁，以及一个在上右背景中倾斜的矩形镜子，带有中等木质框架，柔和地反射着地毯和部分场景。使用柔和的自然窗光，浅景深，微妙的胶片颗粒，逼真的皮肤纹理，柔和的米色和黑色调色板，放松的抓拍构图，高级时尚目录氛围，高细节，照片级真实感。
 ```
 
 <a id="prompt-d11da630418b5b757970"></a>
 
-### 73. Gas Giant Descent Storyboard
+### 69. 气态巨行星下降故事板
 
-![Gas Giant Descent Storyboard](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case137/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case137/output.jpg" alt="气态巨行星下降故事板" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/xRahultripathi/status/2048140775356354892)
 
 **提示词:**
 
-```text
-{"type":"cinematic sci-fi storyboard contact sheet","subject":{"primary":"a small futuristic spacecraft descending into a massive gas giant storm system","secondary":"an enormous leviathan-like silhouette hidden within the clouds","mood":"oppressive, catastrophic, awe-struck, high tension, cosmic dread","style":"photorealistic cinematic concept art with dark sci-fi realism, volumetric storm clouds, strong contrast, amber and black palette with occasional cold blue lightning","aspect_ratio":"16:9"},"vehicle":{"design":"compact armored deep-atmosphere ship with 3 bright rear engines, angular industrial hull, worn metallic panels","scale":"tiny compared to the planet and creature"},"layout":{"grid":{"rows":3,"columns":4,"count":12},"sections":[{"position":"row 1 col 1","description":"wide exterior shot of the ship entering the upper atmosphere of a colossal gas giant at extreme speed, glowing clouds streaked with fire and friction around the vessel, curved planetary horizon visible"},{"position":"row 1 col 2","description":"cockpit POV, dark interior filled with red and cyan holographic instruments, forward visibility collapsing into turbulent storm layers and electrical haze"},{"position":"row 1 col 3","description":"exterior mid-wide shot of the ship diving into a gigantic rotating cloud funnel, surrounded by violent spiraling storm structure"},{"position":"row 1 col 4","description":"extreme close exterior of the ship hull as bright lightning strikes dangerously close, white electric energy crawling across the metal surface"},{"position":"row 2 col 1","description":"dashboard warning screen in red, showing a critical systems failure interface with the exact visible text count of 4 warning lines and 1 large percentage readout: ['WARNING','ENGINES COMPROMISED','THRUST FLUCTUATION','GRAVITY SPIKE DETECTED','DESCENT RATE -453%']"},{"position":"row 2 col 2","description":"rear three-quarter exterior of the ship fighting turbulence inside dense storm clouds, engines burning hard while the craft barely holds course"},{"position":"row 2 col 3","description":"massive circular disturbance forming in the clouds like an eye or maw, entire storm systems displaced by something huge moving beneath"},{"position":"row 2 col 4","description":"second cockpit view with radar-like navigation display and red alert text, pilot making a blind evasive maneuver through lightning-filled darkness"},{"position":"row 3 col 1","description":"first reveal of the colossal creature shape rising near the ship, black organic surface and immense curved anatomy emerging from darkness, ship tiny at lower left"},{"position":"row 3 col 2","description":"spiral descent shot, ship caught inside a vortex tunnel of clouds, spinning downward with engines flaring as it struggles to recover"},{"position":"row 3 col 3","description":"sudden breakthrough into a calm void, minimal composition, ship flying in eerie silence through dark open space with soft mist and no visible storm around it"},{"position":"row 3 col 4","description":"final reveal, gigantic leviathan fully emerging behind or beside the ship in cleared space, backlit by a pale circular storm opening, enormous open maw-like silhouette dwarfing the craft"}],"continuity":"all 12 panels depict one continuous descent sequence from atmospheric entry to final creature reveal"},"lighting":{"primary":"glowing amber storm light","secondary":"red cockpit interface glow","accents":"blue-white lightning and engine exhaust"},"environment":{"location":"inside the upper and middle storm layers of a gigantic gas giant","weather":"violent turbulence, electrical storms, vortex funnels, cloud walls, pressure chaos","threat":"no safe zone, repeated near-failure, unknown colossal presence driving the storm"}}
+````text
+```json
+{
+  "type": "电影科幻分镜接触表",
+  "subject": {
+    "primary": "一艘小型未来主义宇宙飞船正在降入巨大的气态巨行星风暴系统",
+    "secondary": "一个巨大的利维坦般的轮廓隐藏在云层中",
+    "mood": "压抑、灾难性、敬畏、高度紧张、宇宙恐惧",
+    "style": "具有黑暗科幻现实感的照片级电影概念艺术，体积感的风暴云，强烈对比，琥珀色和黑色调，偶尔有冷蓝色闪电",
+    "aspect_ratio": "16:9"
+  },
+  "vehicle": {
+    "design": "紧凑型装甲深大气层飞船，有3个明亮的尾部引擎，棱角分明的工业船体，磨损的金属面板",
+    "scale": "与行星和生物相比非常小"
+  },
+  "layout": {
+    "grid": {
+      "rows": 3,
+      "columns": 4,
+      "count": 12
+    },
+    "sections": [
+      {
+        "position": "row 1 col 1",
+        "description": "飞船以极高速进入巨大气态巨行星上层大气的外部广角镜头，飞船周围有被火焰和摩擦划过的发光云层，可见弯曲的行星地平线"
+      },
+      {
+        "position": "row 1 col 2",
+        "description": "驾驶舱视角，黑暗的内部充满了红色和青色全息仪器，前方的视野崩塌成湍流风暴层和电气雾霾"
+      },
+      {
+        "position": "row 1 col 3",
+        "description": "飞船潜入巨大旋转云漏斗的外部中景镜头，周围是剧烈的螺旋风暴结构"
+      },
+      {
+        "position": "row 1 col 4",
+        "description": "飞船外壳的极端特写，明亮的闪电危险地击中附近，白色电能爬过金属表面"
+      },
+      {
+        "position": "row 2 col 1",
+        "description": "红色仪表盘警告屏幕，显示关键系统故障界面，确切可见文本数为4行警告和1个大百分比读数：['警告','引擎受损','推力波动','重力尖峰检测','下降速率 -453%']"
+      },
+      {
+        "position": "row 2 col 2",
+        "description": "飞船的后部四分之三外部视图，在密集的风暴云中与湍流搏斗，引擎全力燃烧，而飞船勉强保持航线"
+      },
+      {
+        "position": "row 2 col 3",
+        "description": "云层中形成巨大的圆形扰动，像眼睛或嘴巴，整个风暴系统被下方移动的庞然大物所取代"
+      },
+      {
+        "position": "row 2 col 4",
+        "description": "第二个驾驶舱视图，带有雷达导航显示和红色警报文本，飞行员在充满闪电的黑暗中进行盲目规避机动"
+      },
+      {
+        "position": "row 3 col 1",
+        "description": "首次展示靠近飞船的巨大生物形状，黑色有机表面和巨大的弯曲解剖结构从黑暗中出现，飞船在左下角显得很小"
+      },
+      {
+        "position": "row 3 col 2",
+        "description": "螺旋下降镜头，飞船被困在云的漩涡隧道中，向下旋转，引擎喷发，努力恢复"
+      },
+      {
+        "position": "row 3 col 3",
+        "description": "突然突破到一个平静的虚空，极简构图，飞船在黑暗的开放空间中诡异地无声飞行，周围有薄雾，没有可见的风暴"
+      },
+      {
+        "position": "row 3 col 4",
+        "description": "最终揭示，巨大的利维坦在清理过的空间中完全出现在飞船后方或旁边，被淡圆形风暴开口照亮，巨大的开口状轮廓使飞船相形见绌"
+      }
+    ],
+    "continuity": "所有12个面板描绘了一个从大气层进入到最后生物揭示的连续下降序列"
+  },
+  "lighting": {
+    "primary": "发光的琥珀色风暴光",
+    "secondary": "红色驾驶舱界面发光",
+    "accents": "蓝白色闪电和引擎尾焰"
+  },
+  "environment": {
+    "location": "在巨大气态巨行星的上层和中层风暴层内",
+    "weather": "剧烈湍流，雷暴，漩涡漏斗，云墙，压力混乱",
+    "threat": "没有安全区，反复接近失败，未知的巨大存在驱动着风暴"
+  }
+}
 ```
+````
 
 <a id="prompt-d80c0592b930884e2b10"></a>
 
-### 74. Anime Museum Background Conversion
+### 70. 动漫博物馆背景转换
 
-![Anime Museum Background Conversion](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case132/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case132/output.jpg" alt="动漫博物馆背景转换" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Dakiny/status/2048175219966394695)
 
 **提示词:**
 
 ```text
-Using the provided reference photo, recreate the same museum facade and frontal composition as a polished theatrical anime background illustration. Keep the architecture, signage, 3 flagpoles, broad steps, and overall layout consistent, but convert the image from realistic photography into a highly detailed hand-painted anime film style with clean linework, soft cel shading, gentle pastel stone colors, and crisp atmospheric lighting. Add dramatic sunlight from the upper right so the glass pyramid casts a large geometric lattice shadow across the central wall and left side of the entrance. Simplify and stylize the people into anime background characters, keeping the 2 visible groups: 1 lone figure on the left and 1 small cluster of 7 people near the center-right entrance. Preserve the clear blue-sky daytime mood while making the scene feel elegant, refined, and cinematic.
+使用提供的参考照片，将相同的博物馆立面和正面构图重新创作成精美的戏剧性动漫背景插画。保持建筑、标志、3根旗杆、宽阔的台阶和整体布局的一致性，但将图像从写实摄影转换为高度精细的手绘动漫电影风格，具有清晰的线条、柔和的赛璐璐着色、柔和的粉彩色石材和清晰的大气照明。从右上方添加戏剧性的阳光，使玻璃金字塔在中央墙壁和入口左侧投射出大型几何格子阴影。将人物简化和风格化为动漫背景角色，保持2个可见群体：左侧的1个孤独人物和中心右侧入口附近的7人小群。保持清晰的蓝天白天的氛围，同时使场景显得优雅、精致和电影感。
 ```
 
 <a id="prompt-dcd5fec21d71c6c2dadf"></a>
 
-### 75. Biomimetic Skyray Aircraft Poster
+### 71. 仿生天光飞机海报
 
-![Biomimetic Skyray Aircraft Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case119/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case119/output.jpg" alt="仿生天光飞机海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/_simonsmith/status/2048172203946996041)
 
 **提示词:**
 
-```text
-{"type":"biomimetic aerospace concept poster","subject":{"vehicle":"futuristic aircraft concept","name":"{argument name=\"vehicle name\" default=\"SKYRAY\"}","inspiration":"{argument name=\"animal inspiration\" default=\"stingray\"}","design":"blended-wing-body aircraft shaped like a manta ray or stingray, wide triangular planform, smooth organic curves, sharp pointed nose, slightly raised central spine, tapered wing tips curling subtly upward, dark graphite-black metallic skin with fine panel lines and faint blue illuminated accents along edges and seams"},"style":{"mood":"premium futuristic industrial design presentation","rendering":"hyper-detailed cinematic 3D concept art mixed with blueprint visualization","color_palette":"black, charcoal, gunmetal, silver, deep ocean blue, electric cyan highlights","lighting":"low-key dramatic studio lighting with glossy reflections, cool rim light, subtle underwater ambience in the top inspiration strip"},"layout":{"background":"full black poster with faint technical grid lines and soft vignetting","sections":[{"title":"header","position":"top","count":3,"labels":["emblem mark","SKYRAY","INSPIRED BY THE SEA. ENGINEERED FOR THE SKY."]},{"title":"evolution strip","position":"upper middle","count":5,"labels":["realistic stingray underwater at far left","top-view biological stingray study","abstract aerodynamic line sketch","faceted aircraft blueprint transition drawing","final sleek aircraft concept at far right"]},{"title":"hero render","position":"center","count":1,"labels":["large three-quarter view of the aircraft"]},{"title":"technical views grid","position":"lower middle","count":6,"labels":["TOP","SIDE","FRONT","REAR","UNDERSIDE","DETAIL"]},{"title":"footer text","position":"bottom","count":1,"labels":["{argument name=\"body text\" default=\"A biomimetic high-speed aircraft concept shaped by the hydrodynamic elegance of the stingray. Its blended wing body, low-drag silhouette, and fluid control surfaces translate ocean-born efficiency into atmospheric performance.\"}"]}],"technical views":{"TOP":"top orthographic view with measurement ticks","SIDE":"thin side profile with long smooth belly curve","FRONT":"front orthographic view emphasizing broad wingspan and central cockpit hump","REAR":"rear orthographic view showing narrow tail end and wing sweep","UNDERSIDE":"underside three-quarter view","DETAIL":"close-up crop of metallic skin, seam lines, and glowing blue edge strip"}},"graphics":{"logo":"minimal four-point symmetrical emblem above title, resembling a stylized ray silhouette","arrows":"4 thin cyan arrows connecting the 5 stages in the evolution strip","typography":"widely spaced modern sans-serif uppercase text, clean luxury-tech branding"},"camera":{"hero render":"slightly elevated front-left three-quarter angle","technical views":"orthographic","inspiration image":"underwater side angle with light rays from above"},"quality":"ultra-clean, polished, high contrast, sharp, poster-ready, concept design board for aerospace branding or speculative industrial design"}
+````text
+```json
+{
+"type":"仿生航空航天概念海报",
+"subject":{
+"vehicle":"未来飞机概念",
+"name":"{argument name=\"vehicle name\" default=\"SKYRAY\"}",
+"inspiration":"{argument name=\"animal inspiration\" default=\"stingray\"}",
+"design":"融合机翼机身飞机，形如鳐鱼或蝠鲼，宽三角形平面布局，流畅的有机曲线，尖锐的锥形机头，略微抬升的中心脊线，逐渐收窄的翼尖微妙向上弯曲，深石墨黑金属皮肤，带有精细的接缝线和边缘处微弱的蓝色发光装饰"},
+"style":{
+"mood":"高端未来工业设计展示",
+"rendering":"超精细电影级3D概念艺术与蓝图可视化相结合",
+"color_palette":"黑色，炭灰，枪金属色，银色，深海蓝，电青色高光",
+"lighting":"低调戏剧性影棚灯光，带光泽反射，冷色轮廓光，顶部灵感区域有微妙的水下氛围"},
+"layout":{
+"background":"全黑海报，带有微弱的技术网格线和柔和的暗角效果",
+"sections":[
+{"title":"header","position":"top","count":3,"labels":["标志","SKYRAY","灵感源于海洋，工程专为天空。"]},
+{"title":"evolution strip","position":"upper middle","count":5,"labels":["左侧远处的真实水下鳐鱼","顶部视角的鳐鱼生物学研究","抽象空气动力学线条草图","多面飞机蓝图过渡图","右侧远处的最终流线型飞机概念"]},
+{"title":"hero render","position":"center","count":1,"labels":["飞机的大幅四分之三视角图"]},
+{"title":"technical views grid","position":"lower middle","count":6,"labels":["顶部","侧面","正面","背面","底部","细节"]},
+{"title":"footer text","position":"bottom","count":1,"labels":["{argument name=\"body text\" default=\"受鳐鱼流体动力学优雅启发的仿生高速飞机概念。其融合机翼机身、低阻力轮廓和流畅的控制表面将海洋中诞生的效率转化为大气层性能。\"}"]}
+],
+"technical views":{
+"TOP":"带测量刻度的正交顶部视图",
+"SIDE":"带有长而流畅的腹部曲线的薄侧面轮廓",
+"FRONT":"强调宽阔翼展和中央驾驶舱隆起的正交前视图",
+"REAR":"显示窄尾翼和机翼后掠的正交后视图",
+"UNDERSIDE":"底部四分之三视角",
+"DETAIL":"金属皮肤、接缝线和发光蓝色边缘条的特写"}},
+"graphics":{
+"logo":"标题上方简约的四点对称标志，类似风格化的鳐鱼轮廓",
+"arrows":"4条细青色箭头连接进化条中的5个阶段",
+"typography":"宽间距的现代无衬线大写字母文本，简洁的豪华科技品牌风格"},
+"camera":{
+"hero render":"略微抬升的前左四分之三角度",
+"technical views":"正交视图",
+"inspiration image":"带有上方光线的侧面水下角度"},
+"quality":"超洁净，精致，高对比度，锐利，海报就绪，航空航天品牌或推测性工业设计的概念设计板"}
+}
 ```
+````
 
 <a id="prompt-df075ba752bb83b02200"></a>
 
-### 76. 赛博朋克AI工具对比海报
+### 72. 赛博朋克AI工具对比海报
 
-![赛博朋克AI工具对比海报](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case73/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case73/output.jpg" alt="赛博朋克AI工具对比海报" width="480">
 
 一张极具戏剧性的科幻缩略图风格海报，对比了 Google、Claude 和 OpenAI 的工具，非常适合科技视频、社交媒体帖子或演示文稿封面。
 
-- **分类:** Comparison & Community Examples, YouTube Thumbnail
+- **分类:** 比较与社区示例, YouTube 缩略图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MoveHiro1219/status/2047698611665096732)
 
 **提示词:**
 
 ```text
-A futuristic Japanese tech comparison poster in a dark cyberpunk control-room setting, wide 16:9 composition. Large distressed white Japanese headline text at the upper left reading "三つ巴", with a bold gold subtitle directly below reading "それぞれの武器". Across the center-left are 3 glowing holographic comparison panels arranged horizontally and connected by neon arrows: a blue panel labeled "Google", an amber-gold panel labeled "Claude", and a purple-magenta panel labeled "OpenAI". The Google panel contains 4 inner cards: 2 larger top cards labeled "Gemini" and "Antigravity", plus 2 smaller bottom cards showing analytics/dashboard-like visuals and a blue isometric cube graphic. The Claude panel contains 4 inner cards: 1 large top card labeled "Claude Code", plus 3 smaller bottom cards showing a network diagram, text/code list, and chart analytics. The OpenAI panel contains 5 inner cards: 2 larger top cards labeled "ChatGPT" and "Codex", plus 3 smaller bottom cards showing interface/code windows and a geometric wireframe cube. Add glowing bidirectional arrows between Google and Claude, and between Claude and OpenAI. At the bottom center, place a large neon-framed banner with gold text reading "Google / Claude / OpenAI". On the right side, include a young woman standing and pointing left toward the panels, with long straight split-dyed hair in pastel pink and cyan blue, a plain white t-shirt with black text reading "{argument name="shirt text" default="OKIHIRO AI Creative"}", and a soft pink pleated skirt. Her face is obscured by a smooth rectangular blur block. Use cinematic sci-fi lighting, glossy hologram UI details, high contrast, vivid blue-gold-purple accents, and a polished YouTube thumbnail aesthetic.
-```
-
-<a id="prompt-e00380b4186b2804e18f"></a>
-
-### 77. Cozy Anime ASMR Ear Massage Girl
-
-![Cozy Anime ASMR Ear Massage Girl](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case94/output.jpg)
-
-- **分类:** UI & Social Media Mockup Cases
-- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Shion_yamabuki/status/2047232198382964969)
-
-**提示词:**
-
-```text
-A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bedroom at night, seated close to the viewer with her knees pulled up and a black 3Dio-style binaural microphone centered in front of her. She has {argument name="hair color" default="deep violet"} hair in a loose messy updo with wispy bangs framing her face, large sparkling {argument name="eye color" default="blue"} eyes, a gentle blush, and a sweet open-mouth smile. Her head is tilted slightly toward the viewer in a warm, affectionate pose. She wears a delicate white lace camisole with thin straps and an oversized fluffy knit cardigan in {argument name="cardigan color" default="soft pink-lavender"} draped off her shoulders, creating a tender, intimate late-night healing atmosphere. Both hands lightly touch the white silicone ears of the microphone as if about to give an ear massage. The room is softly lit with pink and amber ambient lighting, heavy curtains in the background, a bed or sofa with plush cushions, warm fairy-light bokeh, and a small plant on the right side. Add glowing handwritten Japanese neon text integrated into the composition: on the left, 4 text elements reading "とろける", "耳", "マッサージ", and "ASMR" with 2 small heart symbols; on the right, vertical text reading "いっぱい癒してあげるね...♡". Use a polished modern anime style, highly detailed face and hair, glossy eyes, smooth luminous skin, soft shading, pastel highlights, shallow depth of field, romantic cozy streamer-thumbnail composition, and a soothing feminine color palette dominated by pink, lavender, cream, and warm gold.
+一张未来主义的日式科技对比海报，背景为暗色调的赛博朋克控制室，采用 16:9 宽屏构图。左上方有醒目的做旧白色日文标题“三つ巴”，下方紧跟醒目的金色副标题“それぞれの武器”。画面中左侧横向排列着 3 个发光的全息对比面板，并由霓虹箭头连接：蓝色面板标注为“Google”，琥珀金色面板标注为“Claude”，紫红色面板标注为“OpenAI”。Google 面板包含 4 个内部卡片：上方 2 个较大的卡片分别标注为“Gemini”和“Antigravity”，下方 2 个较小的卡片展示分析/仪表盘式视觉效果和一个蓝色等距立方体图形。Claude 面板包含 4 个内部卡片：上方 1 个大卡片标注为“Claude Code”，下方 3 个较小的卡片展示网络图、文本/代码列表和图表分析。OpenAI 面板包含 5 个内部卡片：上方 2 个较大的卡片分别标注为“ChatGPT”和“Codex”，下方 3 个较小的卡片展示界面/代码窗口和一个几何线框立方体。在 Google 与 Claude 之间，以及 Claude 与 OpenAI 之间添加发光的双向箭头。在底部中央放置一个巨大的霓虹边框横幅，上面印有金色文字“Google / Claude / OpenAI”。右侧站着一位年轻女性，正指向左侧的面板，她留着长直发，发色为粉色与青蓝色的挑染，身穿一件印有黑色文字“{argument name="shirt text" default="OKIHIRO AI Creative"}”的纯白 T 恤，下身穿着淡粉色百褶裙。她的面部被一个平滑的矩形模糊块遮挡。采用电影级科幻灯光，具有光泽的全息 UI 细节，高对比度，鲜艳的蓝-金-紫配色，呈现出精致的 YouTube 缩略图美学。
 ```
 
 <a id="prompt-e196b6fdfcd5f7fa9fb1"></a>
 
-### 78. Cyberpunk 404 Witch Summoning
+### 73. YouTube 缩略图 - 赛博朋克 404 女巫召唤
 
-![Cyberpunk 404 Witch Summoning](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case100/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case100/output.jpg" alt="YouTube 缩略图 - 赛博朋克 404 女巫召唤" width="480">
 
 此提示词可生成一张精美的动漫赛博朋克女巫插画，场景设定在霓虹闪烁的屋顶，非常适合作为暗黑奇幻风格的关键视觉图、海报或社交媒体展示图。
 
-- **分类:** UI & Social Media Mockup Cases, YouTube Thumbnail
+- **分类:** UI 与社交媒体模型展示案例, YouTube 缩略图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Eris_Create_Lab/status/2047537707904274795)
 
 **提示词:**
 
 ```text
-A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a dense futuristic city at night, viewed from a slightly elevated angle. The main subject is a petite young witch girl with pale skin, short icy blue bobbed hair, pointed elf-like ears, and glowing red eyes, wearing a sly confident smile. She raises a black wand overhead in her right hand, with a dangling orb charm at the tip glowing faintly purple and red. Her oversized crooked witch hat is black with purple lining and covered in stitched patches, warning labels, straps, and white graphics including a large “404” and a skull emblem. She wears a black and purple techwear outfit: oversized hooded jacket with many straps and tags, black crop top with “404” on the chest, layered belts, short bottoms, fishnet on one leg, black lace-up combat boots, chokers, and metallic accessories. Several hanging straps and tags visibly read words like “WITCH 404,” “404,” and glitch-themed markings. Beneath and beside her, a large glowing violet magic circle mixed with hacker interface aesthetics is projected on the rooftop floor, filled with occult rings, sigils, a central skull symbol, and scattered neon system text such as error-code fragments, creating a fusion of sorcery and digital corruption. Emerging from the circle is 1 large armored summoned figure: a black futuristic demon-knight or robotic familiar with jagged reflective armor, a narrow purple-lit visor, and a heavy weapon held in one hand, partially dissolving into purple energy shards and smoke. The background shows a sprawling rainy megacity of apartment towers and industrial rooftops, packed with windows, balconies, cables, signs, and haze. On a nearby building wall is a giant vertical graffiti-style sign with 3 readable elements: “404”, “Witch”, and “ERROR NOT FOUND”, plus a smaller “E404”. Additional purple neon glitch text and symbols are scattered across rooftops and in the air. Use a dark palette of black, indigo, and deep violet with sharp magenta-purple highlights, cinematic contrast, reflective wet surfaces, dense detail, and a high-end polished illustration style. The mood is occult, edgy, stylish, and dangerous, combining urban fantasy, hacker aesthetics, and magical summoning.
+一张极具戏剧性的动漫风格赛博朋克女巫插画，她站在深夜未来都市高处的阴暗屋顶上，视角略微俯视。主角是一位皮肤白皙、留着冰蓝色短波波头、长着精灵尖耳、眼神狡黠自信的年轻女巫。她右手高举一根黑色魔杖，杖尖悬挂的球形饰物散发着淡淡的紫红色光芒。她戴着一顶巨大的黑色尖顶女巫帽，内衬为紫色，上面布满了缝补的补丁、警告标签、带子以及白色图案，包括醒目的“404”字样和骷髅徽章。她身穿黑紫色科技感服装：带有许多带子和标签的超大连帽夹克、胸前印有“404”的黑色短款上衣、多层腰带、短裤、单腿渔网袜、黑色系带战斗靴、颈圈以及金属配饰。多条悬挂的带子和标签上清晰可见“WITCH 404”、“404”以及故障艺术风格的标记。在她身下及身侧，屋顶地面投射出一个巨大的紫色发光魔法阵，融合了黑客界面美学，阵中充满了神秘圆环、符文、中央骷髅标志以及散落的霓虹系统文本（如错误代码片段），营造出巫术与数字腐蚀交织的氛围。从魔法阵中浮现出一个巨大的装甲召唤物：一个黑色的未来派恶魔骑士或机器人使魔，身披锯齿状反光盔甲，戴着狭长的紫色发光面罩，单手持重型武器，身体部分正在消散为紫色的能量碎片与烟雾。背景展现了一座广阔的雨中大都市，高楼林立，屋顶工业感十足，布满了窗户、阳台、电缆、招牌和雾气。附近建筑的墙上有一个巨大的垂直涂鸦风格招牌，上面有 3 个清晰可见的元素：“404”、“Witch”和“ERROR NOT FOUND”，以及一个较小的“E404”。屋顶和空中散布着额外的紫色霓虹故障文字和符号。整体采用黑色、靛蓝和深紫色的暗色调，搭配鲜明的洋红色与紫色高光，具有电影级的对比度、反光的湿润表面、丰富的细节以及高端精致的插画风格。氛围神秘、前卫、时尚且危险，完美融合了都市奇幻、黑客美学与魔法召唤元素。
 ```
 
 <a id="prompt-e61b092ed6c1a3f930b1"></a>
 
-### 79. Good Bath Day Editorial Poster
+### 74. 美好沐浴日编辑海报
 
-![Good Bath Day Editorial Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" alt="美好沐浴日编辑海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Kazuch75240438/status/2048205418238030327)
 
 **提示词:**
 
 ```text
-Create a soft editorial lifestyle poster for {argument name="event date" default="4.26"} celebrating Japanese bath culture, designed like a refined magazine feature page in portrait orientation. The layout is split into two main columns with a pale cream and warm gray background, thin divider lines, elegant serif typography, and muted sage-green accents. At the top left, include the small heading “LIFESTYLE / FEATURE”, then a large date line reading “{argument name="event date" default="4.26"} EVENT”, followed by the large Japanese title “よい風呂の日” and the subtitle “特集” in sage green, with a small bathtub icon nearby. Beneath that, add the Japanese tagline “心も体も、ととのう時間。” and several short body-text blocks in Japanese explaining the meaning of Good Bath Day, including references to “4(よ)2(ふ)6(ろ)” and the benefits of bathing for body and mind. On the right side, show a bright, airy bathroom interior lit by soft natural morning light from a window, with beige and off-white tones, a wooden counter, folded white towels, a pump bottle, a sponge, woven baskets, and a few green plants. In front of the bathroom scene, place a youthful anime-style person with {argument name="hair color" default="soft medium brown"} tousled short hair, fair skin, and a relaxed expression, standing in a casual post-bath pose. The character wears a loose white T-shirt with a tiny dark square chest logo and light brown drawstring lounge pants, one hand in a pocket and the other holding a white towel up near the face and shoulder, conveying a fresh, just-bathed feeling. Near the character, include the handwritten-style Japanese side note “湯上がりの、リラックスタイム。” Add an oval badge on the lower right of the main image area with the English heading “GOOD BATH DAY” and Japanese explanatory text inside, plus a small bathtub icon. Below the main feature, include exactly 2 small inset images of the same character in the bathroom, each framed as rectangular mini-panels with narrow vertical Japanese captions beside them. At the bottom, create exactly 4 rounded rectangular information cards in a row: card 1 labeled “POINT 01” with the heading “お風呂の基本” and text about soaking in lukewarm water around 38–40°C; card 2 labeled “POINT 02” with the heading “日常でできること” and text about making bathing part of a routine instead of only showering; card 3 labeled “POINT 03” with the heading “楽しみ方・取り入れ方” and text about bath salts, scents, music, and lighting; card 4 labeled “まとめ” with concluding Japanese text about sustainable self-care. Decorate the cards with small illustrated elements such as leaves, a bathtub, a candle, a bottle, lavender sprigs, and a basket of folded towels. Along the very bottom, add a horizontal green tip strip labeled “今日からできる TIP” with exactly 3 checklist items: “就寝の1〜2時間前に入浴する”, “スマホは浴室に持ち込まない”, and “水分補給を忘れずに”. Place a final handwritten-style Japanese phrase at the lower right reading “自分をいたわる時間を。” The overall look should be clean, gentle, wellness-focused, feminine-neutral, and polished like a Japanese seasonal magazine infographic, with delicate anime illustration, soft shadows, subtle textures, and calm spa-like atmosphere.
+创建一个庆祝日本沐浴文化的柔和生活方式海报，设计成精美的杂志内页风格，采用纵向构图。布局分为两栏，背景为淡奶油色和暖灰色，配有细分隔线、优雅的衬线字体和柔和的鼠绿色点缀。左上角包含小标题"LIFESTYLE / FEATURE"，然后是大字号日期行"{argument name="event date" default="4.26"} EVENT"，接着是大的日文标题"よい風呂の日"和鼠绿色的副标题"特集"，附近有一个小浴缸图标。下方添加日文标语"心も体も、ととのう時間。"和几段简短的日文正文，解释"好沐浴日"的含义，包括对"4(よ)2(ふ)6(ろ)"的引用以及沐浴对身心的益处。右侧展示一个明亮通透的浴室内部，由窗户透入柔和的晨光，色调为米色和象牙白，配有木质台面、折叠的白色毛巾、按压式瓶装容器、海绵、编织篮和几盆绿植。浴室场景前方放置一位年轻动漫风格的人物，{argument name="hair color" default="soft medium brown"}凌乱的短棕色头发，白皙皮肤，表情放松，采用沐浴后休闲姿势站立。角色穿着宽松的白色T恤，胸前有一个小小的深色方形标志，以及浅棕色抽绳休闲裤，一只手插在口袋里，另一只手拿着白色毛巾靠近脸部和肩膀，传达出刚沐浴后的清新感。在人物附近，添加手写风格的日文旁注"湯上がりの、リラックスタイム。"在主图像区域的右下角添加一个椭圆形徽章，包含英文标题"GOOD BATH DAY"和日文解释文本，以及一个小浴缸图标。主内容下方，添加2张相同人物在浴室中的小插图，每张都作为矩形小面板，旁边有垂直的日文简短说明。底部创建4个圆角矩形信息卡片，横向排列：卡片1标记为"POINT 01"，标题为"お風呂の基本"，内容关于在38-40°C的温水中浸泡；卡片2标记为"POINT 02"，标题为"日常でできること"，内容关于将沐浴作为日常习惯而非仅淋浴；卡片3标记为"POINT 03"，标题为"楽しみ方・取り入れ方"，内容关于浴盐、香味、音乐和照明；卡片4标记为"まとめ"，包含关于可持续自我护理的日文总结文字。卡片装饰有小插图元素，如叶子、浴缸、蜡烛、瓶子、薰衣草枝和折叠毛巾篮。最底部添加一个水平绿色提示条，标记为"今日からできる TIP"，包含3个清单项目："就寝の1〜2時間前に入浴する"、"スマホは浴室に持ち込まない"和"水分補給を忘れずに"。在右下角添加最终的手写风格日文短语"自分をいたわる時間を。"整体外观应干净、温和、注重健康、性别中性，并像日本季节性杂志信息图表一样精致，配有精致的动漫插图、柔和的阴影、微妙的纹理和平静的SPA般氛围。
 ```
 
 <a id="prompt-f28ad3922a443149e91f"></a>
 
-### 80. Water Signs Zodiac Character Poster
+### 75. 水象星座性格海报
 
-![Water Signs Zodiac Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case123/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case123/output.jpg" alt="水象星座性格海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/komorimedia/status/2048114825398731143)
 
 **提示词:**
 
-```text
-{"type":"Chinese zodiac-style character infographic poster","subject":"twelve zodiac character list, water signs edition","language":"Traditional Chinese","format":"vertical poster","style":{"overall":"elegant anime-inspired character catalog with editorial infographic layout","rendering":"soft polished digital illustration, pastel gradients, delicate sparkles, ornamental border design","mood":"dreamy, celestial, refined, feminine, aquatic"},"canvas":{"aspect_ratio":"2:3","background":"very light pearl white with pale blue-lavender tint, subtle texture, thin decorative frame with filigree corners and tiny stars"},"header":{"title":"{argument name=\"headline text\" default=\"十二星座角色清單|水象星座\"}","subtitle":"感受・直覺・共鳴","icons":["small stars","water droplet emblem in top right","curled cloud-like line art in top left"]},"layout":{"sections_count":3,"sections":[{"title":"巨蟹座 Cancer","position":"top panel","theme_color":"powder blue","zodiac_symbol":"Cancer glyph inside circle at left","constellation":"Cancer constellation at upper right","count":6,"labels":["元素:水","概念:情感守護者,把人放在心上","性格:溫柔、敏感、顧家","行動原則:先確認感受,再保護重要的人","戀愛傾向:慢慢靠近,越熟越黏","人際怪癖:嘴上說沒事,實際會記很久"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, facing forward, arms gently wrapped around a large seashell pillow","hair":"long dark hair in a low ponytail","outfit":"light blue celestial slip dress with lace trim and sheer cardigan embroidered with stars and moons","accessories":"minimal jewelry","background":"soft blue night sky with crescent moon, seashell, sparkling stars, stylized ocean wave and tiny water droplets"}},{"title":"天蠍座 Scorpio","position":"middle panel","theme_color":"deep violet","zodiac_symbol":"Scorpio glyph inside circle at left","constellation":"Scorpio constellation at upper right","count":6,"labels":["元素:水","概念:深海偵察者,情緒有深度","性格:專注、神秘、意志強","行動原則:先觀察,再一擊到位","戀愛傾向:愛得深,重忠誠與獨占感","人際怪癖:越在乎越不說,會偷偷試探"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, one hand near chin in a composed, enigmatic gesture","hair":"long dark ponytail","outfit":"black semi-sheer dress with gothic details and a dark plum off-shoulder shawl","accessories":"dangling earrings and layered necklace","background":"dark purple celestial sea scene with crescent moon, bubbles, stars, and curling misty water shapes"}},{"title":"雙魚座 Pisces","position":"bottom panel","theme_color":"lavender","zodiac_symbol":"Pisces glyph inside circle at left","constellation":"Pisces constellation at upper right","count":6,"labels":["元素:水","概念:夢境共感者,靠直覺導航","性格:浪漫、柔軟、有想像力","行動原則:先感受,再順流找答案","戀愛傾向:容易心動,渴望靈魂陪伴","人際怪癖:常把別人的情緒也一起感受"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, one hand lifted as if balancing floating bubbles, other hand resting lightly at chest","hair":"long dark ponytail with a pale flower hair ornament","outfit":"translucent lavender fantasy dress with soft draped sleeves and shimmering fabric","accessories":"delicate earrings and necklace","background":"pale lilac underwater-celestial blend with bubbles, sparkles, and flowing translucent wave forms"}}],"dividers":"three horizontal framed panels with thin ornamental borders"},"footer":{"center_icon":"small blue seashell emblem","decorations":["tiny stars","fine scrollwork"]},"constraints":["all three zodiac entries must use the same woman as the base character with different styling, clothing, pose, and mood","text should be clean, editorial, and readable","each panel should clearly separate illustration area on the left and text block on the right","maintain cohesive water-element theme across all 3 signs","do not include the other nine zodiac signs in this image"]}
+````text
+```json
+{
+  "type": "中國生肖風格角色資訊海報",
+  "subject": "十二生肖角色列表，水象星座版",
+  "language": "Traditional Chinese",
+  "format": "垂直海報",
+  "style": {
+    "overall": "優雅的動漫風格角色目錄，編輯式資訊圖佈局",
+    "rendering": "柔和的精緻數位插畫，粉彩漸層，精緻閃光，裝飾性邊框設計",
+    "mood": "夢幻的，天體的，優雅的，女性化的，水元素的"
+  },
+  "canvas": {
+    "aspect_ratio": "2:3",
+    "background": "非常淺的珍珠白帶淡藍紫色调，微妙的質感，帶有精細角落裝飾和小星星的細緻裝飾框"
+  },
+  "header": {
+    "title": "{argument name=\"headline text\" default=\"十二星座角色清單|水象星座\"}",
+    "subtitle": "感受・直覺・共鳴",
+    "icons": ["小星星", "右上角的水滴徽章", "左上角的雲狀線條藝術"]
+  },
+  "layout": {
+    "sections_count": 3,
+    "sections": [
+      {
+        "title": "巨蟹座 Cancer",
+        "position": "頂部面板",
+        "theme_color": "淺藍色",
+        "zodiac_symbol": "左側圓圈內的巨蟹座符號",
+        "constellation": "右上角的巨蟹座星座",
+        "count": 6,
+        "labels": [
+          "元素:水",
+          "概念:情感守護者,把人放在心上",
+          "性格:溫柔、敏感、顧家",
+          "行動原則:先確認感受,再保護重要的人",
+          "戀愛傾向:慢慢靠近,越熟越黏",
+          "人際怪癖:嘴上說沒事,實際會記很久"
+        ],
+        "character": {
+          "identity": "同一年輕女性模特兒重新想像為生肖角色",
+          "pose": "半身肖像，面向前方，手臂輕柔地環繞著一個大型貝殼枕頭",
+          "hair": "長黑髮低馬尾",
+          "outfit": "淺藍色天體吊帶裙，帶蕾絲修飾和繡有星星月亮的薄開襟毛衣",
+          "accessories": "極簡珠寶",
+          "background": "柔和的藍色夜空，新月，貝殼，閃爍的星星，風格化的海浪和小水滴"
+        }
+      },
+      {
+        "title": "天蠍座 Scorpio",
+        "position": "中間面板",
+        "theme_color": "深紫色",
+        "zodiac_symbol": "左側圓圈內的天蠍座符號",
+        "constellation": "右上角的天蠍座星座",
+        "count": 6,
+        "labels": [
+          "元素:水",
+          "概念:深海偵察者,情緒有深度",
+          "性格:專注、神秘、意志強",
+          "行動原則:先觀察,再一擊到位",
+          "戀愛傾向:愛得深,重忠誠與獨占感",
+          "人際怪癖:越在乎越不說,會偷偷試探"
+        ],
+        "character": {
+          "identity": "同一年輕女性模特兒重新想像為生肖角色",
+          "pose": "半身肖像，一手靠近下巴，姿態沉著神秘",
+          "hair": "長黑馬尾",
+          "outfit": "黑色半透明連衣裙，帶哥德式細節和深紫色露肩披肩",
+          "accessories": "懸垂耳環和層層項鍊",
+          "background": "深紫色天體海景，新月，氣泡，星星，和捲曲的霧狀水形"
+        }
+      },
+      {
+        "title": "雙魚座 Pisces",
+        "position": "底部面板",
+        "theme_color": "薰衣草色",
+        "zodiac_symbol": "左側圓圈內的雙魚座符號",
+        "constellation": "右上角的雙魚座星座",
+        "count": 6,
+        "labels": [
+          "元素:水",
+          "概念:夢境共感者,靠直覺導航",
+          "性格:浪漫、柔軟、有想像力",
+          "行動原則:先感受,再順流找答案",
+          "戀愛傾向:容易心動,渴望靈魂陪伴",
+          "人際怪癖:常把別人的情緒也一起感受"
+        ],
+        "character": {
+          "identity": "同一年輕女性模特兒重新想像為生肖角色",
+          "pose": "半身肖像，一手舉起似在平衡漂浮的氣泡，另一手輕輕放在胸前",
+          "hair": "長黑馬尾，帶淺色花朵髮飾",
+          "outfit": "半透明的薰衣草色幻想連衣裙，帶柔軟垂袖和閃爍的布料",
+          "accessories": "精緻的耳環和項鍊",
+          "background": "淡紫色的水下天體融合，帶氣泡，閃光，和流動的半透明波浪形狀"
+        }
+      }
+    ],
+    "dividers": "三個帶細緻裝飾邊框的水平框架面板"
+  },
+  "footer": {
+    "center_icon": "小藍色貝殼徽章",
+    "decorations": ["小星星", "精緻的卷曲花紋"]
+  },
+  "constraints": [
+    "所有三個生肖條目必須使用同一女性作為基礎角色，但風格、服裝、姿態和情緒不同",
+    "文字應清晰、編輯風格、易讀",
+    "每個面板應明確分隔左側插畫區域和右側文字區塊",
+    "在三個星座中保持一致的水元素主題",
+    "不要在此圖像中包含其他九個星座"
+  ]
+}
 ```
+````
 
 <a id="prompt-f3db4fa3ff88622fe05c"></a>
 
-### 81. Monika Anime Banner Illustration
+### 76. YouTube 缩略图 - Monika 动漫横幅插画
 
-![Monika Anime Banner Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case96/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case96/output.jpg" alt="YouTube 缩略图 - Monika 动漫横幅插画" width="480">
 
 此提示词可生成一张精致的动漫风格宽幅横幅，展现阳光明媚的文学部教室场景，非常适合作为缩略图、页眉和风格化同人艺术的品牌素材。
 
-- **分类:** UI & Social Media Mockup Cases, YouTube Thumbnail
+- **分类:** UI 与社交媒体模型展示案例, YouTube 缩略图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mirochill/status/2047639852485620070)
 
 **提示词:**
 
 ```text
-A highly polished anime banner illustration in a warm golden classroom-literature-club setting, wide cinematic composition. On the left half, a large elegant glowing script title reads {argument name="headline text" default="Monika"} in oversized calligraphy, colored white and pale green with a soft neon glow, metallic highlights, decorative flourishes, hearts, sparkles, and swirling ornamental lines around it. On the right half, a beautiful anime schoolgirl inspired by {argument name="character name" default="Monika"} sits at a wooden desk, facing slightly left, with long flowing {argument name="hair color" default="chestnut brown"} hair, a very large white ribbon bow, warm brown eyes, and a thoughtful, confident expression. She wears a Japanese high school uniform with exactly 4 visible clothing pieces: a brown blazer, white shirt, red ribbon tie, and brown argyle sweater vest. She holds a fountain pen over papers on the desk with one hand while the other rests near her face in a poised writing pose. The room is filled with sunset light streaming through tall windows, dust motes, trailing green ribbons, floating petals, handwritten notes pinned and hanging in the background, and a dark chalkboard covered with faint cursive writing and geometric doodles. Include exactly 9 prominent desk and room props: a bouquet of white roses at lower left, a stack of books at left, an hourglass near the center-left, a sealed envelope with a small green leaf emblem, scattered manuscript pages on the desk, a pen cap near the writing hand, a green-upholstered chair, a piano in the back right, and a stack of 4 books on the right. The 4 right-side book spines read, from top to bottom: "Save Me", "My Feelings", "Poems for the Literature Club", and "Just Monika." Add lush volumetric lighting, glittering particles, green-and-gold color harmony, delicate linework, ultra-detailed painterly shading, romantic visual-novel key art quality, and a premium polished thumbnail/banner aesthetic.
+一张极其精致的动漫横幅插画，背景为温暖的金色文学部教室，采用宽幅电影感构图。左半部分是一个巨大的优雅发光手写标题，显示为 {argument name="headline text" default="Monika"}，采用超大书法字体，呈现白色和淡绿色，带有柔和的霓虹光晕、金属高光、装饰性花纹、爱心、闪光以及周围环绕的漩涡状装饰线条。右半部分是一位美丽的动漫女高中生，灵感源自 {argument name="character name" default="Monika"}，她坐在木质课桌前，身体略微朝左，留着长长的飘逸 {argument name="hair color" default="栗棕色"} 头发，系着一个巨大的白色蝴蝶结，有着温暖的棕色眼睛，表情沉思且自信。她身穿日本高中校服，包含 4 件清晰可见的服饰：棕色西装外套、白色衬衫、红色丝带领结和棕色菱格纹毛衣背心。她一只手拿着钢笔放在桌上的纸张上，另一只手靠近脸部，呈现出优雅的写作姿态。房间里充满了从高窗射入的夕阳余晖，空气中漂浮着尘埃微粒、飘带般的绿色丝带、花瓣，背景中挂着手写便签，黑板上写满了模糊的草书和几何涂鸦。画面中包含 9 个显眼的课桌和房间道具：左下角的一束白玫瑰、左侧的一叠书、中左侧的一个沙漏、一个带有绿色叶子徽章的密封信封、桌上散落的手稿页、书写手旁的一个笔帽、一把绿色软垫椅子、右后方的一架钢琴，以及右侧的一叠 4 本书。右侧 4 本书的书脊从上到下依次写着：“Save Me”、“My Feelings”、“Poems for the Literature Club” 和 “Just Monika”。添加丰富的体积光、闪烁的粒子、绿色与金色的色彩和谐、细腻的线条、超详细的绘画式阴影、浪漫视觉小说关键视觉图品质，以及高级精致的缩略图/横幅美学。
 ```
 
 <a id="prompt-032fa41826bec7c92be0"></a>
 
-### 82. 社交媒体帖子 - Blue Pen Campaign Poster
+### 77. 社交媒体帖子 - Blue Pen Campaign Poster
 
-![社交媒体帖子 - Blue Pen Campaign Poster](https://cms-assets.youmind.com/media/1777367357213_w2pgi3_HG7lLOzbsAAJuJy.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367357213_w2pgi3_HG7lLOzbsAAJuJy.jpg" alt="社交媒体帖子 - Blue Pen Campaign Poster" width="480">
 
-This prompt generates a dramatic meme-style political campaign poster for social media featuring a man holding a blue pen, bold Portuguese slogans, and Brazilian patriotic visual cues.
+这个提示生成一个引人注目的模因风格政治竞选海报，用于社交媒体，展示一名手持蓝色钢笔的男子，醒目的葡萄牙语口号，以及巴西爱国视觉元素。
 
-- **分类:** Social Media Post
+- **分类:** 社交媒体帖子
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/virto_exe/status/2048826970012541284#reversed-0)
 
 **提示词:**
 
 ```text
-A dramatic Brazilian political campaign poster in a square social-media format, hyper-stylized and cinematic, with a dark blue and black color grade, intense contrast, gritty textures, and heroic propaganda-poster composition. On the right half, a middle-aged man wearing a bright royal-blue polo shirt faces the camera from the chest up, extending one hand toward the viewer and prominently holding a blue ballpoint pen upright as the central symbolic object. His pose is confident, assertive, and campaign-like, with the pen close to the lens for forced perspective. Behind him, two large waving flags fill the upper background: the Puerto Rico flag on the upper left side behind the subject and the Brazil flag on the upper right side. The lower background shows a dark crowd silhouette and a distant city skyline at sunset with glowing orange light on the horizon, adding a rally atmosphere. On the left side, create a vertical stack of 4 bold campaign statements, each preceded by a large blue X marker. The 4 text blocks must read exactly: "ELE NÃO TEM A MIDIA", "ELE NÃO TEM PROJETOS", "ELE TAMBÉM NÃO TEM O POVO", and "O RESTO ELE VAI DESCOBRIR NA HORA". Use condensed uppercase typography, mixing white and electric blue emphasis words, with each statement separated by thin horizontal blue divider lines. At the bottom, place an oversized distressed headline in uppercase reading "CANETA AZUL", with "CANETA" in weathered white and "AZUL" in vivid blue, spanning almost the full width. Below it, add a secondary subtitle in uppercase blue italic condensed text reading "PARA DEPUTADO", flanked by thin blue horizontal lines. The overall design should feel like a viral meme campaign ad, bold, satirical, aggressive, and highly shareable, with dramatic rim lighting, sharpened details, realistic skin and fabric texture, and polished poster-quality compositing.
-```
-
-<a id="prompt-065f164b143f4917177f"></a>
-
-### 83. 漫画 / 故事板 - Epic Momotaro Fantasy Cover
-
-![漫画 / 故事板 - Epic Momotaro Fantasy Cover](https://cms-assets.youmind.com/media/1777367339611_8yalzt_HG6-WwPakAA20ML.jpg)
-
-This prompt generates a dramatic ensemble-style anime fantasy cover with seven battle-ready characters, Japanese promotional text, and a polished light-novel or webtoon key visual look.
-
-- **分类:** Comic
-- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/hyzatu/status/2048784433076195518#reversed-3)
-
-**提示词:**
-
-```text
-A dramatic Japanese light-novel cover illustration in high-detail anime fantasy style, square composition, showing a heroic ensemble posed for battle in a ruined mountain pass at sunset with cherry blossoms blowing through the air. The scene centers on {argument name="hero title" default="Momotaro"}, a young black-haired male warrior in glossy red samurai armor, crouched in the foreground and gripping a katana diagonally across his body. Beside him in the front-right foreground is a black-haired young woman in matching red armor with a high ponytail, also drawing a katana in a dynamic combat-ready pose. Around them stand 5 additional companions for a total of 7 characters: 1 brown-haired short-haired girl at front-left holding a short blade, 1 silver-haired angelic woman at upper-left with large white wings and a drawn bow, 1 tall red-haired warrior at top-center carrying a large weapon over the shoulder, 1 long straight black-haired shrine-maiden-like girl at upper-center-right in white and red with light armor, and 1 blonde girl at right holding a large ornate war hammer. Add a distant Japanese castle on the right background, jagged rocks and broken ground, glowing embers, drifting petals, and a luminous cloudy sky with strong backlight behind the group. Use cinematic fantasy lighting, epic adventure mood, polished painterly rendering, sharp detailed armor, flowing hair, layered depth, and a bold heroic poster feel. Include large Japanese title text across the top in metallic gold with black outline reading {argument name="top title text" default="《御伽話ファンタジー》シン・桃太郎伝"}, with a smaller Japanese subtitle beneath it in white with dark outline reading {argument name="top subtitle text" default="～追放・転生した元神は、おとぎ話の世界の美少女たちと世界を救う!!"}. Include large Japanese promotional text across the bottom in bright red with white outline reading {argument name="bottom catch text" default="追放、転生した神・桃太郎。御伽話の美少女たちと試練乗り越えて鬼退治！"}. Make it look like a commercial fantasy web novel or manga cover image, energetic, crowded, and visually striking.
+一张戏剧性的巴西政治竞选海报，采用方形社交媒体格式，高度风格化和电影感，采用深蓝色和黑色色调，强烈对比，粗糙纹理，以及英雄式宣传海报构图。在右半部分，一位穿着亮蓝色polo衫的中年男子从胸部以上面对镜头，向观众伸出一手，并明显地垂直握着一支蓝色圆珠笔作为中心象征物。他的姿势自信、坚定且具有竞选风格，笔靠近镜头以营造强制透视效果。在他身后，两面大幅挥舞的旗帜填满上半部分背景：波多黎各国旗位于主体后方的左上角，巴西国旗位于右上角。下半部分背景显示黑暗的人群剪影和远处日落时的城市天际线，地平线上有发光的橙色光线，增添了集会氛围。在左侧，创建4个粗体竞选声明的垂直堆叠，每个前面都有一个大型蓝色X标记。这4个文本块必须准确显示为："ELE NÃO TEM A MIDIA"、"ELE NÃO TEM PROJETOS"、"ELE TAMBÉM NÃO TEM O POVO"和"O RESTO ELE VAI DESCOBRIR NA HORA"。使用紧凑的大写字母排版，混合白色和电蓝色强调词，每个声明之间用细水平蓝色分隔线隔开。在底部，放置一个超大 distressed 标题，大写字母显示为"CANETA AZUL"，其中"CANETA"使用陈旧白色，"AZUL"使用鲜艳蓝色，跨越几乎全宽。在其下方，添加副标题，使用大写蓝色斜体紧凑文本显示为"PARA DEPUTADO"，两侧有细水平蓝色线。整体设计应感觉像病毒式模因竞选广告，大胆、讽刺、激进且高度可分享，具有戏剧性边缘照明，锐化的细节，逼真的皮肤和织物纹理，以及精美的海报级合成效果。
 ```
 
 <a id="prompt-08135dba35c0e2fcce32"></a>
 
-### 84. 信息图 / 教育视觉图 - Japanese Color-Coded Periodic Table
+### 78. 信息图 / 教育视觉图 - Japanese Color-Coded Periodic Table
 
-![信息图 / 教育视觉图 - Japanese Color-Coded Periodic Table](https://cms-assets.youmind.com/media/1777367336290_ix8dbu_HG7IDhJbAAANNlk.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367336290_ix8dbu_HG7IDhJbAAANNlk.jpg" alt="信息图 / 教育视觉图 - Japanese Color-Coded Periodic Table" width="480">
 
-A clean educational poster showing the full periodic table in Japanese with pastel color coding by block, suitable for textbooks, classroom visuals, and science reference graphics.
+一张干净的教育海报，展示完整的日语元素周期表，按区块使用柔和的色彩编码，适合教科书、教室视觉和科学参考图形。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/Periodic_apt/status/2048794845968506887#reversed-0)
 
 **提示词:**
 
 ```text
-{"type":"educational infographic","subject":"periodic table of the elements in Japanese","style":"clean flat textbook poster, crisp vector lines, white background, black text, minimalist scientific layout","language":"Japanese","canvas":{"orientation":"landscape","aspect_ratio":"16:9","background":"white","margin":"generous outer whitespace"},"table":{"grid":"standard 18-column periodic table","cell_style":{"border":"thin dark gray outline","corner_style":"square","fill":"pastel by block","number_position":"top-left","symbol_position":"large centered uppercase Latin letters","name_position":"small Japanese text near bottom"},"color_coding":{"s_block":"pale blue","d_block":"pale cream yellow","p_block":"pale mint green","f_block":"pale lavender"},"sections":[{"title":"main periodic table","position":"upper center","count":90,"labels":["H","He","Li","Be","B","C","N","O","F","Ne","Na","Mg","Al","Si","P","S","Cl","Ar","K","Ca","Sc","Ti","V","Cr","Mn","Fe","Co","Ni","Cu","Zn","Ga","Ge","As","Se","Br","Kr","Rb","Sr","Y","Zr","Nb","Mo","Tc","Ru","Rh","Pd","Ag","Cd","In","Sn","Sb","Te","I","Xe","Cs","Ba","La","Hf","Ta","W","Re","Os","Ir","Pt","Au","Hg","Tl","Pb","Bi","Po","At","Rn","Fr","Ra","Ac","Rf","Db","Sg","Bh","Hs","Mt","Ds","Rg","Cn","Nh","Fl","Mc","Lv","Ts","Og"]},{"title":"lanthanides row","position":"bottom left below main table","count":14,"labels":["Ce","Pr","Nd","Pm","Sm","Eu","Gd","Tb","Dy","Ho","Er","Tm","Yb","Lu"]},{"title":"actinides row","position":"bottom left under lanthanides","count":14,"labels":["Th","Pa","U","Np","Pu","Am","Cm","Bk","Cf","Es","Fm","Md","No","Lr"]}],"highlighted_special_positions":{"hydrogen":"top-left isolated blue cell","helium":"top-right isolated blue cell","lanthanum":"in main table after Ba","actinium":"in main table after Ra"},"content_requirements":{"each_cell_contains":["atomic number","chemical symbol","Japanese element name"],"examples":[{"symbol":"H","name":"水素","number":1},{"symbol":"He","name":"ヘリウム","number":2},{"symbol":"Fe","name":"鉄","number":26},{"symbol":"Au","name":"金","number":79},{"symbol":"Og","name":"オガネソン","number":118}]},"customization":{"headline":"none","legend":"none visible","title":"none visible on image"},"quality":"high-resolution, perfectly aligned cells, legible Japanese typography, accurate modern element list up to 118"}
+{"type":"教育信息图","subject":"日语元素周期表","style":"简洁的平面教科书海报，清晰的矢量线条，白色背景，黑色文字，极简科学布局","language":"日语","canvas":{"orientation":"横向","aspect_ratio":"16:9","background":"白色","margin":"充足的外部空白"},"table":{"grid":"标准18列周期表","cell_style":{"border":"细深灰色轮廓","corner_style":"方形","fill":"按区块使用柔和色彩","number_position":"左上角","symbol_position":"大号居中拉丁字母大写","name_position":"底部附近的小号日语文字"},"color_coding":{"s_block":"淡蓝色","d_block":"淡奶油黄色","p_block":"淡薄荷绿色","f_block":"淡薰衣草色"},"sections":[{"title":"主周期表","position":"上方中央","count":90,"labels":["H","He","Li","Be","B","C","N","O","F","Ne","Na","Mg","Al","Si","P","S","Cl","Ar","K","Ca","Sc","Ti","V","Cr","Mn","Fe","Co","Ni","Cu","Zn","Ga","Ge","As","Se","Br","Kr","Rb","Sr","Y","Zr","Nb","Mo","Tc","Ru","Rh","Pd","Ag","Cd","In","Sn","Sb","Te","I","Xe","Cs","Ba","La","Hf","Ta","W","Re","Os","Ir","Pt","Au","Hg","Tl","Pb","Bi","Po","At","Rn","Fr","Ra","Ac","Rf","Db","Sg","Bh","Hs","Mt","Ds","Rg","Cn","Nh","Fl","Mc","Lv","Ts","Og"]},{"title":"镧系元素行","position":"主周期表下方左侧","count":14,"labels":["Ce","Pr","Nd","Pm","Sm","Eu","Gd","Tb","Dy","Ho","Er","Tm","Yb","Lu"]},{"title":"锕系元素行","position":"镧系元素下方左侧","count":14,"labels":["Th","Pa","U","Np","Pu","Am","Cm","Bk","Cf","Es","Fm","Md","No","Lr"]}],"highlighted_special_positions":{"hydrogen":"左上角独立的蓝色单元格","helium":"右上角独立的蓝色单元格","lanthanum":"主周期表中位于Ba之后","actinium":"主周期表中位于Ra之后"},"content_requirements":{"each_cell_contains":["原子序数","化学符号","日语元素名称"],"examples":[{"symbol":"H","name":"水素","number":1},{"symbol":"He","name":"ヘリウム","number":2},{"symbol":"Fe","name":"鉄","number":26},{"symbol":"Au","name":"金","number":79},{"symbol":"Og","name":"オガネソン","number":118}]},"customization":{"headline":"无","legend":"无可见图例","title":"图像上无可见标题"},"quality":"高分辨率，完美对齐的单元格，清晰的日语排版，准确的现代元素列表（最多118个）"}
 ```
 
 <a id="prompt-1147ac873fbc38bf1d2e"></a>
 
-### 85. 社交媒体帖子 - Arabic Font Types Infographic
+### 79. 社交媒体帖子 - Arabic Font Types Infographic
 
-![社交媒体帖子 - Arabic Font Types Infographic](https://cms-assets.youmind.com/media/1777367358617_z2hn2v_HG6FSQMaoAA_fq7.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367358617_z2hn2v_HG6FSQMaoAA_fq7.jpg" alt="社交媒体帖子 - Arabic Font Types Infographic" width="480">
 
-A polished Arabic infographic poster showing six Arabic calligraphy and font styles with their uses, features, icons, and a bottom row explaining why font choice matters.
+一个精美的阿拉伯语信息图表海报，展示六种阿拉伯书法和字体样式，包括它们的用途、特点、图标，以及底部一行解释字体选择的重要性。
 
-- **分类:** Social Media Post
+- **分类:** 社交媒体帖子
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/ksa8Turky/status/2048796815365906648#reversed-0)
 
 **提示词:**
 
 ```text
-{"type":"Arabic typography infographic poster","style":"clean modern social-media infographic, soft light gray background, rounded white cards with subtle shadows, bold colorful headers, polished vector design, high readability","canvas":{"aspect_ratio":"1:1","composition":"centered poster with title at top, six typography cards in a 3x2 grid, and a bottom benefits bar"},"text_language":"Arabic","title_block":{"headline":"{argument name=\"headline text\" default=\"أنواع الخطوط العربية\"}","subheadline":"{argument name=\"subtitle text\" default=\"تعرف على أشهر الخطوط العربية واستخداماتها\"}","decorative_elements_count":6,"decorative_elements":"small colored dots and divider ornaments beneath the title"},"layout":{"sections":[{"title":"01 خط كوفي","position":"top-left","count":1,"card_style":"teal header and accents","main_word":"كوفي","usage_title":"الاستخدام:","usage_text":"الشعارات، التصاميم الهندسية، العناوين.","features_title":"المميزات:","features_text":"هندسي، واضح، قوي بصريًا.","icon_count":2,"icons":["hourglass-like emblem","diamond"]},{"title":"02 خط ديواني","position":"top-center","count":1,"card_style":"blue header and accents","main_word":"ديواني","usage_title":"الاستخدام:","usage_text":"الدعوات، التصاميم الرسمية، الشعارات.","features_title":"المميزات:","features_text":"منحني، فاخر، أنيق.","icon_count":2,"icons":["document or framed text icon","crown"]},{"title":"03 خط ثلث","position":"top-right","count":1,"card_style":"purple header and accents","main_word":"ثلث","usage_title":"الاستخدام:","usage_text":"العناوين الكبيرة، اللوحات الفنية، الأظرف.","features_title":"المميزات:","features_text":"فني، مهيب، زخرفي.","icon_count":2,"icons":["framed picture","star"]},{"title":"04 خط نسخ","position":"bottom-left","count":1,"card_style":"green header and accents","main_word":"نسخ","usage_title":"الاستخدام:","usage_text":"الكتب، الجرائد، النصوص الطويلة.","features_title":"المميزات:","features_text":"واضح، سهل القراءة، منظم.","icon_count":2,"icons":["open book","check mark in circle"]},{"title":"05 خط رقعة","position":"bottom-center","count":1,"card_style":"orange header and accents","main_word":"رقعة","usage_title":"الاستخدام:","usage_text":"الملاحظات السريعة، العناوين البسيطة.","features_title":"المميزات:","features_text":"سريع، بسيط، عملي.","icon_count":2,"icons":["pen nib","lightning bolt"]},{"title":"06 خط حديث","position":"bottom-right","count":1,"card_style":"pink header and accents","main_word":"حديث","usage_title":"الاستخدام:","usage_text":"التصاميم الحديثة، الإنفوجرافيك، السوشيال ميديا.","features_title":"المميزات:","features_text":"عصري، نظيف، مناسب للشاشات.","icon_count":2,"icons":["computer monitor","thumbs up"]}],"bottom_bar":{"title":"{argument name=\"footer question\" default=\"لماذا يهم اختيار الخط المناسب؟\"}","count":4,"items":[{"icon":"eye","text":"يحسن الوضوح"},{"icon":"award badge","text":"يعزز هوية التصميم"},{"icon":"group of people","text":"يجذب الانتباه ويوثر"},{"icon":"orange check mark","text":"يوصل رسالتك باحترافية"}]},"branding":{"count":1,"label":"{argument name=\"brand name\" default=\"Ksa8Turky\"}","position":"bottom center in a dark rounded pill"}},"visual_details":{"card_count":6,"corners":"large rounded corners","shadow":"soft diffuse drop shadows","surface":"matte white panels","typography":"bold Arabic display headline with darker navy tone, smaller Arabic body text, colorful calligraphic sample words centered in each card","color_palette":["teal","blue","purple","green","orange","pink","light gray","white","dark navy"]}}
+{"type":"阿拉伯字体信息图表海报","style":"简洁现代社交媒体信息图表，浅灰色背景，带微妙阴影的圆角白色卡片，醒目的彩色标题，精致矢量设计，高可读性","canvas":{"aspect_ratio":"1:1","composition":"居中海报，顶部有标题，六个字体卡片以3x2网格排列，底部有优势栏"},"text_language":"阿拉伯语","title_block":{"headline":"{argument name=\"headline text\" default=\"阿拉伯字体类型\"}","subheadline":"{argument name=\"subtitle text\" default=\"了解最著名的阿拉伯字体及其用途\"}","decorative_elements_count":6,"decorative_elements":"标题下方的小彩色点和分隔装饰"},"layout":{"sections":[{"title":"01 库菲字体","position":"top-left","count":1,"card_style":"青色标题和强调","main_word":"库菲","usage_title":"用途：","usage_text":"标志，几何设计，标题。","features_title":"特点：","features_text":"几何，清晰，视觉冲击力强。","icon_count":2,"icons":["沙漏状徽章","钻石"]},{"title":"02 迪瓦尼字体","position":"top-center","count":1,"card_style":"蓝色标题和强调","main_word":"迪瓦尼","usage_title":"用途：","usage_text":"邀请函，正式设计，标志。","features_title":"特点：","features_text":"曲线，华丽，优雅。","icon_count":2,"icons":["文档或带框文本图标","王冠"]},{"title":"03 萨尔斯字体","position":"top-right","count":1,"card_style":"紫色标题和强调","main_word":"萨尔斯","usage_title":"用途：","usage_text":"大标题，艺术画板，信封。","features_title":"特点：","features_text":"艺术，庄严，装饰性。","icon_count":2,"icons":["带框图片","星星"]},{"title":"04 纳斯赫字体","position":"bottom-left","count":1,"card_style":"绿色标题和强调","main_word":"纳斯赫","usage_title":"用途：","usage_text":"书籍，报纸，长文本。","features_title":"特点：","features_text":"清晰，易读，有条理。","icon_count":2,"icons":["打开的书","圆圈中的对勾"]},{"title":"05 鲁卡阿字体","position":"bottom-center","count":1,"card_style":"橙色标题和强调","main_word":"鲁卡阿","usage_title":"用途：","usage_text":"快速笔记，简单标题。","features_title":"特点：","features_text":"快速，简单，实用。","icon_count":2,"icons":["笔尖","闪电"]},{"title":"06 现代字体","position":"bottom-right","count":1,"card_style":"粉色标题和强调","main_word":"现代","usage_title":"用途：","usage_text":"现代设计，信息图表，社交媒体。","features_title":"特点：","features_text":"现代，简洁，适合屏幕。","icon_count":2,"icons":["电脑显示器","竖起大拇指"}],"bottom_bar":{"title":"{argument name=\"footer question\" default=\"为什么选择合适的字体很重要？\"}","count":4,"items":[{"icon":"eye","text":"提高清晰度"},{"icon":"award badge","text":"增强设计身份"},{"icon":"group of people","text":"吸引注意力并产生影响"},{"icon":"orange check mark","text":"专业地传达您的信息"}]},"branding":{"count":1,"label":"{argument name=\"brand name\" default=\"Ksa8Turky\"}","position":"底部中心，深色圆角药丸形状"}},"visual_details":{"card_count":6,"corners":"大圆角","shadow":"柔和的扩散阴影","surface":"哑光白色面板","typography":"粗体阿拉伯语标题，深蓝色调，较小的阿拉伯语正文，每个卡片中心有彩色书法样本词","color_palette":["青色","蓝色","紫色","绿色","橙色","粉色","浅灰色","白色","深海军蓝"]}}
 ```
 
 <a id="prompt-178dd24127ee942c4153"></a>
 
-### 86. 产品营销 - Luxury Dream Home Real Estate Flyer
+### 80. 产品营销 - Luxury Dream Home Real Estate Flyer
 
-![产品营销 - Luxury Dream Home Real Estate Flyer](https://cms-assets.youmind.com/media/1777367287417_h8xwnh_HG8ZQdBboAAHABV.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367287417_h8xwnh_HG8ZQdBboAAHABV.jpg" alt="产品营销 - Luxury Dream Home Real Estate Flyer" width="480">
 
-A bold vertical real-estate ad poster promoting luxury homes and property investment, ideal for social media marketing or sales flyers.
+一个大胆的垂直房地产广告海报，推广豪华住宅和房地产投资，适合社交媒体营销或销售传单。
 
-- **分类:** Product Marketing
+- **分类:** 产品营销
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/ba_awoyemi/status/2048884160303857880#reversed-2)
 
 **提示词:**
 
 ```text
-Create a polished vertical real-estate promotional flyer in a clean, modern social-media ad style, 4:5 poster composition. Use a bright daytime outdoor theme with a pale blue sky, soft clouds, and leafy green tree branches framing the top left and top right corners. The layout should feel like a premium property investment advertisement with bold typography, glossy marketing design, and a teal, red, white, and gray color palette. At the upper left, place a small uppercase headline reading {argument name="headline text" default="LIVE BETTER. INVEST SMARTER."}. Directly below it, add a very large stacked main headline: {argument name="main headline line 1" default="OWN YOUR"} in deep teal and {argument name="main headline line 2" default="DREAM HOME"} in vivid red, using a bold condensed sans-serif font. Beneath that, add a teal ribbon banner with white uppercase text reading {argument name="tagline text" default="LUXURY LIVING. LASTING VALUE."}. Under the tagline, show exactly 3 circular feature icons arranged horizontally with thin vertical separators between them: a shield icon with the caption "SECURE YOUR FUTURE", a rising bar-chart icon with the caption "HIGH VALUE INVESTMENT", and a house icon with the caption "MODERN & ELEGANT". In the middle left and lower center, feature a large photorealistic contemporary luxury house with 2 stories, white and gray exterior walls, black trim, large glass windows, a balcony, landscaped shrubs, and a paved driveway, shown from a front three-quarter angle. On the right side, place a waist-up adult Black man in a green knit sweater, facing forward and pointing directly at the viewer with an assertive sales-poster pose; his body overlaps the house and extends into the foreground. Near his lower torso, add a glossy red circular badge with a slight 3D effect containing large white uppercase text {argument name="callout text" default="BUY NOW!"}, and attach a small dark teal angled banner across its bottom edge reading "LIMITED UNITS AVAILABLE!". Across the bottom, create a dark teal panel containing exactly 3 rounded rectangular property cards with white borders and equal spacing. Card 1 should show a row of modern townhouses and the label "MODERN TERRACES"; beneath it place exactly 2 small features: "Spacious Rooms" and "24/7 Security". Card 2 should show a luxury villa with a pool and the label "LUXURY VILLAS"; beneath it place exactly 2 small features: "Premium Amenities" and "Prime Locations". Card 3 should show a detached upscale modern home and the label "EXCLUSIVE HOMES"; beneath it place exactly 2 small features: "Registered Title" and "Trusted Developer". At the very bottom, include one large empty white rounded rectangle spanning most of the width as a placeholder area for contact details or footer information. Make the overall image crisp, high-contrast, commercial, aspirational, and professionally designed like a premium real-estate marketing poster.
-```
-
-<a id="prompt-1ee4e94d0f7406313e5a"></a>
-
-### 87. 个人资料 / 头像 - Signed Marker Portrait on Shikishi
-
-![个人资料 / 头像 - Signed Marker Portrait on Shikishi](https://cms-assets.youmind.com/media/1777367317129_2rohn0_HG8hIdab0AAwzdp.jpg)
-
-This generates a lively signed marker-style portrait on a square shikishi board, useful for fan-art autographs, commemorative illustration posts, and personalized thank-you visuals.
-
-- **分类:** Profile
-- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/MireilleDartois/status/2048894364479565869#reversed-0)
-
-**提示词:**
-
-```text
-A lively hand-drawn fashion portrait in a changed illustration style, made to look like a signed fan-art sketch drawn with markers on a square white shikishi board with a thin gold border. Show a stylish young woman from about the waist up, leaning slightly forward with one elbow resting up near her face in a casual, friendly pose. Her face area is covered by a simple rectangular censor block in a muted beige tone. She has shoulder-length medium brown hair with warm highlights, soft volume, side-swept bangs, and flipped-out ends. Render the art with expressive black ink outlines, visible marker strokes, watercolor-like blending, sketchy hatching, and an energetic, vivid handmade feel. She wears a fitted dark gray ribbed long-sleeve knit top with subtle puffed shoulders, layered delicate gold necklaces, a dangling pearl earring, a beige crossbody bag strap running diagonally across her chest, and a light beige skirt or dress visible at the waist. Leave plenty of clean white background around the figure. Add 2 small sparkle doodles on the left side. Add handwritten Japanese thank-you messages and signature-style black ink writing around the portrait: at upper right write {argument name="top message" default="ありがとう！"} with an underline and a small heart, beneath it place a large stylized autograph reading {argument name="signature name" default="Yui"} with a smiling face mark and a heart, at lower left write {argument name="side message" default="いつも応援してくれてありがとう♡"}, and at lower right write the date {argument name="date" default="2024.5.20"} with another heart. The overall image should feel warm, personal, lively, and like a celebratory signed illustration on a square autograph board.
+创建一个精致的不动产宣传传单，采用干净、现代的社交媒体广告风格，4:5海报构图。使用明亮的白天户外主题，搭配淡蓝色天空、柔软的云朵，以及顶部左右两侧由绿叶树枝构成的框架。布局应感觉像高端房产投资广告，采用粗体排版、光泽营销设计，以及蓝绿色、红色、白色和灰色的配色方案。在左上方放置一个小型大写标题，内容为 {argument name="headline text" default="LIVE BETTER. INVEST SMARTER."}。在正下方，添加一个非常大的分层主标题：{argument name="main headline line 1" default="OWN YOUR"}使用深蓝绿色，{argument name="main headline line 2" default="DREAM HOME"}使用鲜艳红色，采用粗体无衬线字体。在其下方，添加一个蓝绿色丝带横幅，上面有大写白色文字，内容为 {argument name="tagline text" default="LUXURY LIVING. LASTING VALUE."}。在标语下方，显示恰好3个水平排列的圆形功能图标，图标之间有细垂直分隔线：一个带有"保障您的未来"字样的盾牌图标，一个带有"高价值投资"字样的上升条形图图标，以及一个带有"现代与优雅"字样的房屋图标。在中左和下中位置，展示一个大型写实当代豪华住宅，两层楼，白色和灰色外墙，黑色装饰条，大型玻璃窗户，阳台，景观灌木和铺砌的车道，从前四分之三角度展示。在右侧放置一个腰部以上的成年黑人男子，穿着绿色针织毛衣，面向前方，以自信的销售海报姿势直接指向观众；他的身体与房屋重叠并延伸到前景。在他的下躯附近，添加一个带有轻微3D效果的光泽红色圆形徽章，包含大写白色文字 {argument name="callout text" default="BUY NOW!"}，并在其底部边缘附加一个小型深蓝绿色倾斜横幅，上面写着"限量单位可供！"。在底部创建一个深蓝绿色面板，包含恰好3个带白色边框的圆角矩形房产卡片，间距相等。卡片1应展示一排现代联排别墅，并标注"现代露台"；在其下方放置恰好2个小特点："宽敞房间"和"24小时安保"。卡片2应展示一个带游泳池的豪华别墅，并标注"豪华别墅"；在其下方放置恰好2个小特点："高端设施"和"黄金地段"。卡片3应展示一个独立的现代高端住宅，并标注"专属住宅"；在其下方放置恰好2个小特点："注册产权"和"可靠开发商"。在最底部，包含一个跨越大部分宽度的空白白色圆角矩形，作为联系信息或页脚信息的占位区域。使整体图像清晰、高对比度、商业化、富有吸引力，并像高端房地产营销海报一样专业设计。
 ```
 
 <a id="prompt-26fce2d896ee9cb79b9a"></a>
 
-### 88. 信息图 / 教育视觉图 - Anime Business English Worksheet
+### 81. 信息图 / 教育视觉图 - Anime Business English Worksheet
 
-![信息图 / 教育视觉图 - Anime Business English Worksheet](https://cms-assets.youmind.com/media/1777367315642_aaenzs_HG8cknKasAAXybs.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367315642_aaenzs_HG8cknKasAAXybs.jpg" alt="信息图 / 教育视觉图 - Anime Business English Worksheet" width="480">
 
-A colorful bilingual worksheet poster with 10 business English fill-in-the-blank questions and an anime mascot, ideal for social media educational posts or printable study sheets.
+一个彩色的双语工作表海报，包含10个商务英语填空题和一个动漫吉祥物，适合社交媒体教育内容或可打印的学习资料。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/TK2Works/status/2048887781976580382#reversed-0)
 
 **提示词:**
 
 ```text
-{"type":"bilingual English learning worksheet poster","style":"clean educational infographic with anime character mascot, bright pastel stationery theme, white graph-paper background, rounded shapes, glossy headline lettering, print-friendly vertical A4 layout","topic":"business English fill-in-the-blank quiz","language":"Japanese and English","audience":"Japanese learners of English","layout":{"orientation":"portrait","sections":[{"title":"Cool Business English!","position":"top header","count":2,"labels":["Cool Business English!","使いこなせるとカッコいいビジネスフレーズ10選"]},{"title":"Fill in the blanks / 穴埋め問題","position":"below header","count":1,"labels":["Fill in the blanks / 穴埋め問題"]},{"title":"worksheet items","position":"left and center main panel","count":10,"labels":["1","2","3","4","5","6","7","8","9","10"]},{"title":"footer banner","position":"bottom","count":1,"labels":["For Japanese learners / English learning worksheet"]}],"main_panel":"large rounded white worksheet box with thin teal outline and dotted divider lines between each question","right_panel":"full-body anime girl standing along the right side, partially overlapping the worksheet","decorations":{"count":10,"labels":["top-left teal corner ribbon","pink triangle","yellow circle","small teal dots","right-side pen icon","bottom-left open book icon","bottom-right pencil icon","teal exclamation marks near character","pastel geometric scribbles","light cyan and pink abstract corner accents"]}},"text":{"headline":"{argument name=\"headline text\" default=\"Cool Business English!\"}","subheadline":"使いこなせるとカッコいいビジネスフレーズ10選","badge":"Fill in the blanks / 穴埋め問題","footer":"For Japanese learners / English learning worksheet","questions":[{"number":1,"english":"Let’s circle ____ to this point later.","japanese":"その点には後で戻りましょう。"},{"number":2,"english":"Could you give me a quick ____ on the project?","japanese":"プロジェクトの簡単な最新状況を教えていただけますか。"},{"number":3,"english":"We need to stay on ____ to finish by Friday.","japanese":"金曜までに終えるには予定どおりに進む必要があります。"},{"number":4,"english":"I’ll ____ up with you tomorrow.","japanese":"明日あらためて連絡します。"},{"number":5,"english":"Please keep me in the ____.","japanese":"情報共有をお願いします。"},{"number":6,"english":"Let’s ____ ideas before the meeting.","japanese":"会議の前にアイデアを出し合いましょう。"},{"number":7,"english":"We should clarify the next ____ steps.","japanese":"次の具体的な手順を明確にしましょう。"},{"number":8,"english":"This proposal is still a work in ____.","japanese":"この提案はまだ作成途中です。"},{"number":9,"english":"Thanks for your prompt ____.","japanese":"迅速なご対応ありがとうございます。"},{"number":10,"english":"I’m looking forward to your ____.","japanese":"ご返信をお待ちしています。"}]}},"character":{"type":"anime girl mascot","count":1,"appearance":{"age":"teenage or young adult","build":"slim","skin":"fair","hair":{"color":"{argument name=\"hair color\" default=\"deep purple\"}","style":"high side ponytail with long bangs and shiny strands"},"expression":"cheerful and helpful","pose":"standing, one hand raised with index finger pointing upward"},"outfit":{"count":5,"pieces":["teal T-shirt with white logo text reading {argument name=\"shirt text\" default=\"AITuber\"}","oversized pink-and-teal translucent hooded jacket worn open","light gray high-waisted shorts","white scrunched socks","chunky purple, black, and pink sneakers"]}},"color_palette":{"count":6,"labels":["teal","cyan","pink","navy","white","purple"]},"rendering":"crisp polished poster design, balanced typography, cute modern Japanese educational social-media graphic, high readability, subtle shadows, no answers filled into the blanks"}
+{"type":"双语英语学习工作表海报","style":"干净的教育信息图，带有动漫角色吉祥物，明亮的柔和文具主题，白色方格纸背景，圆角形状，光泽标题字体，适合打印的垂直A4布局","topic":"商务英语填空测验","language":"日语和英语","audience":"日语英语学习者","layout":{"orientation":"纵向","sections":[{"title":"酷商务英语！","position":"top header","count":2,"labels":["酷商务英语！","掌握后会很酷的商务短语10选"]},{"title":"填空 / 穴埋め问题","position":"below header","count":1,"labels":["填空 / 穴埋め问题"]},{"title":"工作表项目","position":"left and center main panel","count":10,"labels":["1","2","3","4","5","6","7","8","9","10"]},{"title":"页脚横幅","position":"bottom","count":1,"labels":["面向日语学习者 / 英语学习工作表"]}],"main_panel":"大型圆角白色工作表框，带有细青色轮廓和每个问题之间的点状分隔线","right_panel":"全身动漫女孩站在右侧，部分重叠在工作表上","decorations":{"count":10,"labels":["左上角青色丝带","粉色三角形","黄色圆形","小青色圆点","右侧钢笔图标","左下角打开的书本图标","右下角铅笔图标","角色附近的青色感叹号","柔和的几何涂鸦","浅青色和粉色抽象角落装饰"]}},"text":{"headline":"{argument name=\"headline text\" default=\"酷商务英语！\"}","subheadline":"掌握后会很酷的商务短语10选","badge":"填空 / 穴埋め问题","footer":"面向日语学习者 / 英语学习工作表","questions":[{"number":1,"english":"我们稍后再回到这一点。","japanese":"その点には後で戻りましょう。"},{"number":2,"english":"你能给我一个关于项目的快速____吗？","japanese":"プロジェクトの簡単な最新状況を教えていただけますか。"},{"number":3,"english":"我们需要保持在____上，以便在周五前完成。","japanese":"金曜までに終えるには予定どおりに進む必要があります。"},{"number":4,"english":"我明天会和你____。","japanese":"明日あらためて連絡します。"},{"number":5,"english":"请让我保持在____中。","japanese":"情報共有をお願いします。"},{"number":6,"english":"让我们在会议前____想法。","japanese":"会議の前にアイデアを出し合いましょう。"},{"number":7,"english":"我们应该明确下一步的____步骤。","japanese":"次の具体的な手順を明確にしましょう。"},{"number":8,"english":"这个提案仍在____中。","japanese":"この提案はまだ作成途中です。"},{"number":9,"english":"感谢您的及时____。","japanese":"迅速なご対応ありがとうございます。"},{"number":10,"english":"我期待您的____。","japanese":"ご返信をお待ちしています。"}]},"character":{"type":"动漫女孩吉祥物","count":1,"appearance":{"age":"青少年或年轻成人","build":"苗条","skin":"白皙","hair":{"color":"{argument name=\"hair color\" default=\"深紫色\"}","style":"高侧马尾，有长刘海和闪亮的发丝"},"expression":"愉快且乐于助人","pose":"站立，一只手举起，食指向上指"},"outfit":{"count":5,"pieces":["青色T恤，白色标志文字写着{argument name=\"shirt text\" default=\"AITuber\"}"," oversized 粉色和青色半透明连帽夹克，敞开穿着","浅灰色高腰短裤","白色皱褶袜子","厚实的紫色、黑色和粉色运动鞋"]}},"color_palette":{"count":6,"labels":["青色","青绿色","粉色","海军蓝","白色","紫色"]},"rendering":"清晰精致的海报设计，平衡的排版，可爱现代的日本教育社交媒体图形，高可读性，微妙的阴影，空白处不填写答案"}
 ```
 
 <a id="prompt-2a8928827c1049809fb5"></a>
 
-### 89. 信息图 / 教育视觉图 - Automotive poster transformation prompt
+### 82. 信息图 / 教育视觉图 - Automotive poster transformation prompt
 
-![信息图 / 教育视觉图 - Automotive poster transformation prompt](https://cms-assets.youmind.com/media/1777367258317_gqan9d_HG6-WeKaAAAYVTt.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367258317_gqan9d_HG6-WeKaAAAYVTt.jpg" alt="信息图 / 教育视觉图 - Automotive poster transformation prompt" width="480">
 
-A prompt for transforming a car photo into a professional minimalist advertising poster with drifting effects and technical specifications.
+一个用于将汽车照片转换为具有漂移效果和技术规格的专业极简主义广告海报的提示词
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/Goodmanprotocol/status/2048784189550637505)
 
 **提示词:**
 
 ```text
-Ultra-clean automotive poster featuring the exact same car as the photo that will be provided later. The AI must replicate the car from the uploaded photo with identical body shape, proportions, stance, color, trims, wheels, and all visible exterior details.
-The car is presented in a front three-quarter angle facing right, matching the perspective of the original reference layout, but now depicted in a subtle {argument name="action" default="drifting action"}. The drift is expressed through realistic weight transfer, slight body lift, controlled smoke plumes from the rear tires, and faint curved tire marks behind the vehicle, without distorting the original car’s geometry.
-Headlights follow the exact style from the reference photo of the car, with optional warm fog lights glowing if the provided car has them. All decals, emblems, plates, and window tints must match the car from the uploaded photo.
-The car drifts on a glossy white reflective studio-like floor that maintains soft reflections and realistic shadows, enhanced with light drift skid reflections and directional smudges.
-Background remains a clean white-to-light-gray gradient with a giant semi-transparent bold typography of the car model name (auto-extracted from the uploaded photo) vertically dominating the background.
-At the very top: clean branding text “{argument name="brand name" default="CAR COMPANY NAME"}” (or the brand detected from the uploaded car photo). Under it, spaced-out stylized tracking text containing the same brand and model name.
-Below the car: centered title of the exact model name from the uploaded photo.
-Under that, a short descriptive paragraph about the car’s character (efficiency, style, reliability).
-Bottom section shows a clean grid layout of specifications. If real specs are known from the detected car model, generate accurate values; if not, generate placeholders in the same layout style (4 columns: horsepower, 0–100 km/h, top speed, engine displacement/fuel type).
-Entire poster is minimalist, editorial, high-key studio lighting with ultra-sharp reflections, crisp shadows, modern typography, and 4K believability, blending clean design with dynamic drifting energy, Ratio 9:16
+超洁净汽车海报，展示与稍后将提供的照片中完全相同的汽车。AI必须复制上传照片中的汽车，具有相同的车身形状、比例、姿态、颜色、装饰、轮毂和所有可见的外部细节。
+汽车以右侧前45度角展示，匹配原始参考布局的视角，但现在以微妙的{argument name="action" default="drifting action"}（漂移动作）呈现。漂移通过真实的重量转移、轻微的车身抬升、后轮控制的烟雾羽流和车辆后方微弱的弯曲轮胎痕迹来表达，同时不扭曲原始汽车的几何形状。
+前大灯遵循汽车参考照片的确切样式，如果提供的汽车有雾灯，则可选地发出温暖的雾灯光芒。所有贴纸、徽章、牌照和车窗色调必须与上传照片中的汽车相匹配。
+汽车在光滑的白色反射式工作室地板上漂移，保持柔和的反射和真实的阴影，增强有轻微的漂移滑痕反射和方向性污迹。
+背景保持洁净的白到浅灰渐变，带有巨大的半透明粗体汽车型号名称（从上传的照片中自动提取）垂直主导背景。
+在最顶部：洁净的品牌文本"{argument name="brand name" default="CAR COMPANY NAME}"（或从上传的汽车照片中检测到的品牌）。在其下方，是间隔开来的风格化追踪文本，包含相同的品牌和型号名称。
+汽车下方：来自上传照片的确切型号名称的居中标题。
+在其下方，是一段关于汽车特点（效率、风格、可靠性）的简短描述性段落。
+底部部分显示规格的洁净网格布局。如果从检测到的汽车型号中知道真实规格，则生成准确值；否则，以相同的布局样式生成占位符（4列：马力，0-100公里/小时，最高速度，发动机排量/燃料类型）。
+整个海报是极简主义的、编辑风格的、高键工作室照明，具有超锐利的反射、清晰的阴影、现代字体和4K可信度，将洁净设计与动态漂移能量融为一体，比例9:16
 ```
 
 <a id="prompt-3376097b2b430de6d363"></a>
 
-### 90. 信息图 / 教育视觉图 - Instructional dance poster prompt
+### 83. 信息图 / 教育视觉图 - Instructional dance poster prompt
 
-![信息图 / 教育视觉图 - Instructional dance poster prompt](https://cms-assets.youmind.com/media/1777367260864_gcyiix_HG698xdaQAAuy-6.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367260864_gcyiix_HG698xdaQAAuy-6.jpg" alt="信息图 / 教育视觉图 - Instructional dance poster prompt" width="480">
 
-Generates a 16-step grid-based instructional poster for dance sequences in a minimalist monochrome style.
+生成一个16步网格式舞蹈序列教学海报，采用极简单色风格。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/Ciri_ai/status/2048783811606147492)
 
 **提示词:**
 
 ```text
-Create a clean, black-and-white instructional poster showing a {argument name="steps" default="16-step"} dance sequence performed by a single {argument name="dancer" default="female dancer"}.
-Layout:
-4x4 grid (16 panels total)
-Each panel shows the same dancer in a different pose
-Full-body, centered in each frame
-Even spacing, consistent framing across all panels
-Dancer:
-Female, long flowing hair
-Wearing a fitted, reflective/sequined crop top and long flared skirt
-Elegant, confident, expressive poses inspired by {argument name="dance style" default="vogue and waacking"} dance styles
-Panel Details:
-Each panel has a bold number (1–16) and a short title at the top (e.g., “WATER CALL,” “LIQUID RISE,” “VOGUE FRAME,” etc.)
-Include small instructional captions at the bottom of each panel
-Add subtle arrows and motion lines to show movement direction (arms, hips, body flow)
-Style:
-Black and white (monochrome)
-High contrast, sharp studio lighting
-Fashion editorial photography look
-Clean white or light gray background
-Modern sans-serif typography
-Overall Feel:
-Minimalist, polished, magazine-quality layout
-Smooth progression of movement across all 16 frames
-Dynamic but clean, easy-to-follow instructional design
+创建一个简洁的黑白教学海报，展示由一位{argument name="dancer" default="女舞者"}表演的{argument name="steps" default="16步"}舞蹈序列。
+
+布局：
+4x4网格（共16个面板）
+每个面板展示同一位舞者的不同姿势
+全身，每帧居中
+均匀间距，所有面板保持一致的构图
+
+舞者：
+女性，飘逸的长发
+穿着合身的反光/亮片露脐上衣和长款喇叭裙
+优雅、自信、富有表现力的姿势，灵感来自{argument name="dance style" default="vogue和waacking"}舞蹈风格
+
+面板细节：
+每个面板顶部有一个粗体数字（1-16）和简短标题（例如："水之召唤"、"液体上升"、"Vogue姿态"等）
+在每个面板底部添加小型说明文字
+添加细微的箭头和运动线条来显示运动方向（手臂、臀部、身体流动）
+
+风格：
+黑白（单色）
+高对比度，锐利的影棚灯光
+时尚编辑摄影风格
+干净的白色或浅灰色背景
+现代无衬线字体
+
+整体感觉：
+极简、精致、杂志质量的布局
+16帧之间流畅的动作进展
+动感但简洁、易于理解的教学设计
 ```
 
 <a id="prompt-3775bde12cf8aa136abd"></a>
 
-### 91. 信息图 / 教育视觉图 - Japanese-Style Facial Analysis Diagnostic Poster
+### 84. 信息图 / 教育视觉图 - Japanese-Style Facial Analysis Diagnostic Poster
 
-![信息图 / 教育视觉图 - Japanese-Style Facial Analysis Diagnostic Poster](https://cms-assets.youmind.com/media/1777367282885_bplvv4_HG61BMTWQAAeK_D.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367282885_bplvv4_HG61BMTWQAAeK_D.jpg" alt="信息图 / 教育视觉图 - Japanese-Style Facial Analysis Diagnostic Poster" width="480">
 
-A complex structured prompt for generating a professional medical-style report poster that analyzes facial features based on physiognomy and psychology.
+一个复杂的结构化提示，用于生成专业的医学风格报告海报，该海报基于面相学和心理学分析面部特征。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/johnAGI168/status/2048774130837639505)
 
 **提示词:**
 
 ```text
 {
-  "type": "Vertical Physiognomy Diagnosis Report Card Infographic",
-  "style": "{argument name="report style" default="Japanese professional diagnosis document style"}, warm cream background, rose pink title bars, fine line borders, mix of Serif and Sans-serif fonts, medical report layout feel, soft warm tones, exquisite typography, no illustration decoration",
+  "type": "垂直面相诊断报告信息图表",
+  "style": "{argument name="report style" default="Japanese professional diagnosis document style"}, 温暖的奶油色背景，玫瑰粉色标题栏，细线边框，衬线和无衬线字体混合，医疗报告布局感，温暖柔和的色调，精美的排版，无插图装饰",
   "layout": {
     "Header Section": {
       "Main Title": "{argument name="diagnosis title" default="Physiognomy Diagnosis Certificate"}",
-      "Main Title Font": "Large bold Serif, centered, dark brown",
-      "Subtitle": "Physiognomy × Statistical Psychology × Impression Analysis",
-      "Subtitle Font": "Small fine Sans-serif, centered, gray-brown"
+      "Main Title Font": "大号粗体衬线字体，居中，深棕色",
+      "Subtitle": "面相学 × 统计心理学 × 印象分析",
+      "Subtitle Font": "小号细无衬线字体，居中，灰褐色"
     },
     "First Block": {
-      "Layout": "Two columns",
+      "Layout": "两列",
       "Left Column": {
         "Content": "{argument name="portrait content" default="A realistic portrait photo of a young Asian woman with slightly wavy brown hair, delicate features, wearing a light-colored jacket, resting her hand on her cheek, natural expression, in-car background, warm natural light, film photograph quality"}",
-        "Size": "Approx 1/3 width, spans two rows high"
+        "Size": "约1/3宽度，跨两行高度"
       },
       "Right Column": {
-        "Block Title": "① Overall Facial Impression",
-        "Block Title Style": "Rose pink background, white text, rounded rectangle title bar",
+        "Block Title": "① 整体面部印象",
+        "Block Title Style": "玫瑰粉色背景，白色文字，圆角矩形标题栏",
         "Table Content": {
           "count": 5,
           "Row Data": [
-            ["Outline", "Slightly oval, rounded, giving a gentle impression"],
-            ["Symmetry", "Symmetrical, coordinated proportions"],
-            ["Center of Gravity", "Centered, friendly and natural"],
-            ["Negative Space", "Moderate space on forehead, cheeks, and jaw; strong sense of cleanliness"],
-            ["Feature Density", "Features neatly arranged, blending cuteness and elegance"]
+            ["轮廓", "略呈椭圆形，圆润，给人温和的印象"],
+            ["对称性", "对称，比例协调"],
+            ["重心", "居中，友好自然"],
+            ["留白", "额头、脸颊和下巴留白适中；清洁感强"],
+            ["特征密度", "特征排列整齐，可爱与优雅并存"]
           ]
         },
-        "First Impression Text": "First Impression: Friendly and natural, strong sense of cleanliness, an aura that makes people want to protect you.",
-        "Social Character": "Social Character: Healing-type popular figure. Good at listening, gains trust in a supportive role."
+        "First Impression Text": "第一印象：友好自然，清洁感强，有一种让人想要保护你的气场。",
+        "Social Character": "社交性格：治愈型人气人物。善于倾听，在支持性角色中获得信任。"
       }
     },
     "Second Block (Three Columns)": {
-      "Layout": "Three equal horizontal sections",
+      "Layout": "三个相等的水平部分",
       "Column 1": {
-        "Block Title": "② Forehead",
-        "Small Portrait Insert": "Forehead area highlighted",
+        "Block Title": "② 额头",
+        "Small Portrait Insert": "额头区域高亮",
         "Table": [
-          ["Width", "Slightly wide, rounded"],
-          ["Roundness", "Natural arc, soft"],
-          ["Tilt", "Slightly backward, steady impression"]
+          ["宽度", "略宽，圆润"],
+          ["圆度", "自然弧线，柔和"],
+          ["倾斜度", "略向后，给人稳重印象"]
         ],
-        "Interpretation": "Interpretation: Possesses intellectual sense and flexible thinking. Naturally lucky and favored by the environment."
+        "Interpretation": "解读：具有知性感和灵活思维。天生幸运，受环境眷顾。"
       },
       "Column 2": {
-        "Block Title": "③ Eyebrows",
-        "Small Portrait Insert": "Eyebrow area highlighted",
+        "Block Title": "③ 眉毛",
+        "Small Portrait Insert": "眉毛区域高亮",
         "Table": [
-          ["Density", "Slightly light, natural"],
-          ["Shape", "Soft arch"],
-          ["Angle", "Slightly upturned"],
-          ["Symmetry", "Basically symmetrical, stable"]
+          ["密度", "略稀疏，自然"],
+          ["形状", "柔和拱形"],
+          ["角度", "略上扬"],
+          ["对称性", "基本对称，稳定"]
         ],
-        "Interpretation": "Interpretation: Willpower is not overly rigid, possesses flexibility. High coordination, medium to high stress resistance."
+        "Interpretation": "解读：意志力不过于僵硬，具有灵活性。协调性高，中等偏高的抗压能力。"
       },
       "Column 3": {
-        "Block Title": "④ Eyes",
-        "Small Portrait Insert": "Eye area highlighted",
+        "Block Title": "④ 眼睛",
+        "Small Portrait Insert": "眼睛区域高亮",
         "Table": [
-          ["Size", "Slightly large, high iris ratio"],
-          ["Shape", "Rounded almond shape"],
-          ["Spanning", "Slightly wide, sense of leisure"]
+          ["大小", "略大，虹膜比例高"],
+          ["形状", "杏仁形圆润"],
+          ["跨度", "略宽，有休闲感"]
         ],
-        "Interpretation": "Interpretation: Strong perception, sharp intuition. High empathy, good at reading minds."
+        "Interpretation": "解读：感知力强，直觉敏锐。共情能力强，善于察言观色。"
       }
     },
     "Third Block (Three Columns)": {
-      "Layout": "Three equal horizontal sections",
+      "Layout": "三个相等的水平部分",
       "Column 1": {
-        "Block Title": "⑤ Nose",
+        "Block Title": "⑤ 鼻子",
         "Table": [
-          ["Height", "Slightly high, upright"],
-          ["Width", "Delicate, sense of nobility"],
-          ["Tip", "Rounded, soft"]
+          ["高度", "略高，挺直"],
+          ["宽度", "精致，有贵族感"],
+          ["鼻尖", "圆润，柔和"]
         ],
-        "Interpretation": "Interpretation: Possesses realistic judgment, financial fortune belongs to the steady accumulation type."
+        "Interpretation": "解读：具有现实判断力，财运属于稳步积累型。"
       },
       "Column 2": {
-        "Block Title": "⑥ Lips",
+        "Block Title": "⑥ 嘴唇",
         "Table": [
-          ["Size", "Slightly small, exquisite"],
-          ["Thickness", "Balanced thickness"],
-          ["Corners", "Slightly upturned"]
+          ["大小", "略小，精致"],
+          ["厚度", "厚度均衡"],
+          ["嘴角", "略上扬"]
         ],
-        "Interpretation": "Interpretation: Affectionate, good at listening. Words have the power to heal others."
+        "Interpretation": "解读：感情丰富，善于倾听。言语具有治愈他人的力量。"
       },
       "Column 3": {
-        "Block Title": "⑦ Jaw/Outline",
+        "Block Title": "⑦ 下巴/轮廓",
         "Table": [
-          ["Line", "Rounded, feminine"],
-          ["Jawline", "Smooth and soft"]
+          ["线条", "圆润，女性化"],
+          ["下颌线", "平滑柔和"]
         ],
-        "Interpretation": "Interpretation: Steady personality, stable aspirations. Good fortune in later life, supported by others."
+        "Interpretation": "解读：性格稳重，志向稳定。晚年运势好，得他人扶持。"
       }
     },
     "Fourth Block (Two Columns)": {
-      "Layout": "Two columns",
+      "Layout": "两列",
       "Left Column": {
-        "Block Title": "⑧ Facial Proportions Balance",
-        "Proportion Diagram": "A frontal female face diagram marking equal thirds for upper/middle/lower face, each labeled '1/3 each', with 'good left-right balance' noted at the bottom",
-        "Description": "Close to golden ratio, stable flow of luck. Success depends on broad social relationships."
+        "Block Title": "⑧ 面部比例平衡",
+        "Proportion Diagram": "一张正面女性面部图，标记上中下面部各占三分之一，每部分标注'各1/3'，底部注明'左右平衡良好'",
+        "Description": "接近黄金比例，运势流动稳定。成功取决于广泛的社会关系。"
       },
       "Right Column": {
-        "Block Title": "⑨ Comprehensive Diagnosis",
-        "Personality Essence": "Personality Essence: Gentle and delicate, good at sensing others' emotions. Pacifist, values harmony.",
+        "Block Title": "⑨ 综合诊断",
+        "Personality Essence": "性格本质：温柔细腻，善于感知他人情绪。和平主义者，重视和谐。",
         "Strengths (3 Items)": {
-          "Label": "Strengths (3 Items)",
-          "items": ["Strong empathy, gains others' trust", "Flexible and adaptable", "High sense of beauty and intuition"]
+          "Label": "优势（3项）",
+          "items": ["共情能力强，获得他人信任", "灵活适应性强", "美感与直觉度高"]
         },
         "Weaknesses (3 Items)": {
-          "Label": "Weaknesses (3 Items)",
-          "items": ["Too considerate of others, leading to fatigue", "Tends to be overly modest", "Personal opinions tend to recede"]
+          "Label": "劣势（3项）",
+          "items": ["过于考虑他人，导致疲劳", "倾向于过于谦虚", "个人意见容易退让"]
         },
-        "Suitable Careers": "Hospitality, Sales, Beauty, Medical, Education, Consulting, PR, Design, Planning, etc. Work involving people and utilizing sensitivity ◎",
-        "Romantic Tendencies": "The type to dive in fully once in love. Values security, attracted to sincere partners. Not good with restrictiveness, values trust.",
-        "Pattern to Avoid": "Over-accommodating others"
+        "Suitable Careers": "服务业，销售，美容，医疗，教育，咨询，公关，设计，策划等。涉及人际交往并运用敏感性的工作◎",
+        "Romantic Tendencies": "一旦投入爱情就会全身心投入的类型。重视安全感，被真诚的伴侣吸引。不喜束缚，重视信任。",
+        "Pattern to Avoid": "过度迁就他人"
       }
     }
   }
 }
 ```
 
+<a id="prompt-4fd1017de6ec21b46e73"></a>
+
+### 85. 产品营销 - Dessert Brand Visual Identity Proposal Board
+
+<img src="https://cms-assets.youmind.com/media/1777367275974_walnre_HG7TRFQa4AADpis.jpg" alt="产品营销 - Dessert Brand Visual Identity Proposal Board" width="480">
+
+一个全面的品牌提案板提示，包含角色设计、商店内部概念和包装材料，采用柔和的3D插画风格。
+
+- **分类:** 产品营销
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/_AIBOZ_/status/2048809162600255653)
+
+**提示词:**
+
+```text
+一个甜品品牌的视觉设计提案板，采用{argument name="brand style" default="youthful IP style"}风格，水平布局，模块结构清晰。主视觉中心是一个{argument name="main character" default="cartoon IP (cake elf/dessert character)"}。右侧展示角色各种表情和动作，左侧展示店铺室内设计（ins风格，柔和灯光），底部展示品牌周边：盒子、杯子、贴纸、袋子和商品。色彩方案：{argument name="color scheme" default="cream white, pink, light brown, and soft tones"}。风格：扁平插画结合轻度3D效果，柔软可爱的质感。
+```
+
 <a id="prompt-58551b6424f7b09780f7"></a>
 
-### 92. 个人资料 / 头像 - Oil Pastel Anime Catgirl
+### 86. 个人资料 / 头像 - Oil Pastel Anime Catgirl
 
-![个人资料 / 头像 - Oil Pastel Anime Catgirl](https://cms-assets.youmind.com/media/1777367317158_w2m0tk_HG6T3x3bQAADPQa.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367317158_w2m0tk_HG6T3x3bQAADPQa.jpg" alt="个人资料 / 头像 - Oil Pastel Anime Catgirl" width="480">
 
-This prompt generates a cute full-body anime catgirl in a tiger-themed outfit rendered as a textured oil pastel crayon drawing, ideal for playful character art and stylized social posts.
+此提示生成一个可爱的全身动漫猫娘，穿着老虎主题的服装，以纹理化的油画蜡笔绘制风格呈现，非常适合活泼的角色艺术和风格化的社交媒体帖子。
 
-- **分类:** Profile
+- **分类:** 个人资料
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/MireilleDartois/status/2048739113558573201#reversed-0)
 
 **提示词:**
 
 ```text
-A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil pastel illustration on textured off-white paper. She has long straight {argument name="hair color" default="deep purple with lighter lavender ends"} hair, large pointed orange cat ears on top of her head, and a striped orange-and-black cat tail curving in from the right side. Her outfit is a tiger-inspired bodysuit in vivid {argument name="outfit color" default="bright orange"} with bold black accents: long fitted sleeves, a dark black chest and torso panel, orange legs, orange gloves, and a soft pale pink patch on the hip and upper thigh area. She is squatting with one knee raised, one hand touching the ground in front of her, and the other hand lifted in a salute near her forehead, facing the viewer with a mischievous, energetic feel. Render the whole image in rough crayon-like oil pastel strokes with visible grain, uneven sketchy black outlines, scribbled color fill, and childlike analog texture. Use a warm pastel palette with orange as the dominant color, purple hair, soft pink scribbled background shading, and a purple-blue scribbled shadow beneath her. Keep the composition as a single centered full-body character on paper, whimsical, charming, slightly messy, and irresistibly cute, like an expressive pastel doodle illustration.
+一只可爱的动漫猫娘蹲伏在一个顽皮的姿势中，绘制成在纹理米白色纸上的手工油画棒插画。她有长长的直发 {argument name="hair color" default="深紫色，末端是淡薰衣草色"}，头顶上有大的橙色尖猫耳，一条橙黑相间的条纹猫尾巴从右侧弯曲进来。她的服装是受老虎启发的连体衣，鲜艳的 {argument name="outfit color" default="亮橙色"}，带有大胆的黑色点缀：合身的长袖，深黑色胸部和躯干面板，橙色腿部，橙色手套，以及臀部和大腿上部区域的柔和淡粉色补丁。她蹲着，一条膝盖抬起，一只手触摸前方的地面，另一只手举起到额头附近行礼，以顽皮、充满活力的感觉面向观众。用粗糙的蜡笔式油画笔触渲染整个图像，有可见的颗粒，不均匀的素描黑色轮廓，涂鸦式的色彩填充，以及儿童般的模拟纹理。使用温暖的粉彩调色板，橙色为主色调，紫色头发，柔和的粉色涂鸦背景阴影，以及她下方的紫蓝色涂鸦阴影。保持构图为纸上的单个居中全身角色，异想天开，迷人，稍微凌乱，并且令人无法抗拒地可爱，就像一个富有表现力的粉涂鸦插画。
 ```
 
 <a id="prompt-5d9931a8de031e9ec5dc"></a>
 
-### 93. 漫画 / 故事板 - Anime Rapunzel Tower Scene
+### 87. 漫画 / 故事板 - Anime Rapunzel Tower Scene
 
-![漫画 / 故事板 - Anime Rapunzel Tower Scene](https://cms-assets.youmind.com/media/1777367348035_d0q7fw_HG8dbSAacAAV452.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367348035_d0q7fw_HG8dbSAacAAV452.jpg" alt="漫画 / 故事板 - Anime Rapunzel Tower Scene" width="480">
 
-A polished fantasy anime illustration of a Rapunzel-like princess with an extremely long braid leaning from an ivy-covered tower above a scenic river valley, ideal for fairytale-themed character art or storybook visuals.
+一幅精美的奇幻动漫插画，描绘了一位类似乐佩公主的角色，她有着极长的辫子，从藤蔓覆盖的塔楼探出，俯瞰着风景如画的河谷，非常适合童话主题的角色艺术或故事书视觉效果。
 
-- **分类:** Comic
+- **分类:** 漫画
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/masukarasulove/status/2048888925352288465#reversed-0)
 
 **提示词:**
 
 ```text
-A whimsical anime fairytale illustration of {argument name="character name" default="Rapunzel"} leaning out from a high stone tower window, viewed from outside at a slightly elevated angle. She wears a soft lavender medieval-inspired princess dress with puff sleeves, white lace trim, and a fitted bodice, plus a pink-and-white bunny ear headband. Her extremely long {argument name="hair color" default="dark brown"} hair is styled into a single enormous thick braid that spills over the windowsill and drops straight down the full height of the image. A small fluffy white rabbit sits on her right shoulder, adding a cute fantasy touch. The tower is pale beige stone with a rounded balcony-like window ledge, an arched opening, deep purple interior curtains, and green ivy climbing around the walls and window frame. In the background, show a bright sunlit storybook landscape with a vivid blue sky, scattered white clouds, rolling green hills, a winding river, a stone bridge with 3 arches, and a distant European-style town with a castle or cathedral. The mood is triumphant, charming, and magical, like a polished high-end fantasy anime key visual. Detailed painterly rendering, soft natural daylight, clean linework, gentle atmospheric perspective, lush foliage, elegant composition, vertical format.
+一个充满幻想的动漫童话插画，描绘了{argument name="character name" default="Rapunzel"}从高石塔的窗户探出身子，从外部以略微仰视的角度观看。她穿着柔和的薰衣草色中世纪风格公主裙，带有泡泡袖、白色蕾丝装饰和修身紧身胸衣，还戴着粉白相间的兔子耳朵发带。她极长的{argument name="hair color" default="dark brown"}头发被编成一根巨大的粗辫子，从窗台上垂下，贯穿整个图像的高度。一只毛茸茸的小白兔坐在她的右肩上，增添了可爱的奇幻元素。塔楼是浅米色石头，带有圆形阳台式窗台、拱形开口、深紫色内部窗帘，以及攀爬在墙壁和窗框上的绿色常春藤。背景中，展示一个阳光明媚的童话故事景观，有鲜艳的蓝色天空、散落的白云、起伏的绿色山丘、蜿蜒的河流、一座有三个拱门石桥，以及远处带有城堡或大教堂的欧式小镇。氛围是胜利的、迷人的和魔幻的，就像精致的高端奇幻动漫主视觉图。细腻的绘画风格，柔和的自然日光，干净的线条，温和的大气透视，茂盛的植被，优雅的构图，垂直格式。
 ```
 
 <a id="prompt-6a7e59b91fa83bb1e052"></a>
 
-### 94. 信息图 / 教育视觉图 - LEGO Mini Set Instruction Poster
+### 88. 信息图 / 教育视觉图 - LEGO Mini Set Instruction Poster
 
-![信息图 / 教育视觉图 - LEGO Mini Set Instruction Poster](https://cms-assets.youmind.com/media/1777367352610_ueqrmt_HG7_HUUaIAAwdHb.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367352610_ueqrmt_HG7_HUUaIAAwdHb.jpg" alt="信息图 / 教育视觉图 - LEGO Mini Set Instruction Poster" width="480">
 
-A black-and-white LEGO-style box and instruction sheet showing a small swing-set display model with a seated minifigure, useful for parody toy packaging, novelty concept sets, or fake build manuals.
+一个黑白色的乐高风格盒子和说明书，展示了一个带有坐着小人仔的小型秋千展示模型，适用于玩具包装的恶搞、新奇概念套装或假组装手册。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/ecommartinez/status/2048855384111427765#reversed-2)
 
 **提示词:**
 
 ```text
-{"type":"LEGO-style instruction poster and toy box mockup","subject":{"theme":"solitary adult sitting on a playground swing","product_name":"{argument name=\"set name\" default=\"PABLO ESCOBAR\"}","subtitle":"{argument name=\"subtitle text\" default=\"THINKING ALONE\"}","age_mark":"18+","set_number":"{argument name=\"set number\" default=\"75841\"}","piece_count":"107","scale_note":"MINI SET","tagline":"{argument name=\"tagline\" default=\"SOMETIMES THE LOUDEST SILENCE COMES FROM THINKING ALONE.\"}","badge":"COLLECTIBLE DISPLAY MODEL","style":"clean black-and-white LEGO catalog line art, technical instruction sheet, box-art layout, thin outlines, light gray panel borders, white background"},"character":{"figure_type":"minifigure of an adult man","hair":"short wavy textured hairpiece","expression":"neutral pensive face","outfit":"simple torso print suggesting casual jacket or shirt, standard minifigure legs","pose":"seated alone on a swing, facing forward"},"layout":{"format":"portrait poster divided into multiple rectangular panels","sections":[{"title":"box front","position":"top left large panel","count":1,"labels":["LEGO logo","18+","75841","107 PCS/PZS","Building Toy","Jouet de construction","Juguete para Construir","MINI SET","COLLECTIBLE DISPLAY MODEL"]},{"title":"PARTS LIST","position":"top center panel","count":3,"labels":["A MINIFIGURE","B SWING & FRAME","C BASE & LANDSCAPING"]},{"title":"assembly steps","position":"right side and bottom grid","count":10,"labels":["1","2","3","4","5","6","7","8","9","10"]}],"step_count":10,"parts_groups":3},"parts_list":{"A MINIFIGURE":{"count":5,"items":["hairpiece x1","head x1","torso with arms x1","legs assembly x1","small accessory piece x2"]},"B SWING & FRAME":{"count":10,"items":["horizontal bar x2","connector brick x1","chain links assembly x2","small pin/bar piece x1","A-frame leg assemblies x4","vertical connector peg x2","swing seat support pieces x2","bench plank element x2","small block x2","small cap pieces x4"]},"C BASE & LANDSCAPING":{"count":9,"items":["large square baseplate x1","rectangular tile x4","small sloped tile x0","small flat tile x2","round stud x2","plant sprig x2","flower cluster x4","round layered tile x2","small round cap x2"]}},"assembly":{"steps":[{"step":1,"summary":"place 1 large square baseplate as the foundation","part_count":1},{"step":2,"summary":"add 12 small foundation pieces around one side and center of the base","part_count":12},{"step":3,"summary":"add 8 landscaping details: 2 round studs, 2 round caps, and 4 plant pieces","part_count":8},{"step":4,"summary":"build and place 4 angled swing-frame supports in two A-frames","part_count":4},{"step":5,"summary":"connect the top with 3 beam and connector pieces","part_count":3},{"step":6,"summary":"hang 4 suspension parts from the top beam: 2 chain elements and 2 connectors","part_count":4},{"step":7,"summary":"attach the swing seat using 7 pieces including 1 bench plank, 2 support blocks, and 4 caps","part_count":7},{"step":8,"summary":"add 4 finishing round details to both sides of the seat","part_count":4},{"step":9,"summary":"assemble the minifigure from 4 stacked components and place him seated on the swing","part_count":4},{"step":10,"summary":"show the completed display model with emphasis lines around the finished scene","part_count":1}]},"composition":"top-left hero panel shows the finished model in three-quarter view with the seated figure on a swing over a textured ground base with small plants in the corners; top-center parts inventory uses tiny isolated drawings with quantity labels; the remaining panels present isometric building instructions in classic LEGO manual style","rendering":"monochrome printed instruction manual aesthetic, crisp vector-like outlines, no shading except subtle light gray fills, all text uppercase sans serif, neat toy-packaging proportions"}
+{"type":"乐高风格说明书海报和玩具盒模型","subject":{"theme":"独自坐在游乐场秋千上的成年人","product_name":"{argument name=\"set name\" default=\"PABLO ESCOBAR\"}","subtitle":"{argument name=\"subtitle text\" default=\"THINKING ALONE\"}","age_mark":"18+","set_number":"{argument name=\"set number\" default=\"75841\"}","piece_count":"107","scale_note":"迷你套装","tagline":"{argument name=\"tagline\" default=\"SOMETIMES THE LOUDEST SILENCE COMES FROM THINKING ALONE.\"}","badge":"收藏展示模型","style":"简洁的黑白乐高目录线条艺术，技术说明书，包装盒布局，细线条，浅灰色面板边框，白色背景"},"character":{"figure_type":"成年男性小人仔","hair":"短波浪纹理发片","expression":"中性沉思表情","outfit":"暗示休闲夹克或衬衫的简单躯干印花，标准小人仔腿部","pose":"独自坐在秋千上，面向前方"},"layout":{"format":"纵向海报分为多个矩形面板","sections":[{"title":"盒子正面","position":"左上角大面板","count":1,"labels":["乐高标志","18+","75841","107 PCS/PZS","积木玩具","Jouet de construction","Juguete para Construir","迷你套装","收藏展示模型"]},{"title":"零件清单","position":"顶部中央面板","count":3,"labels":["A 小人仔","B 秋千和框架","C 底座和景观"]},{"title":"组装步骤","position":"右侧和底部网格","count":10,"labels":["1","2","3","4","5","6","7","8","9","10"]}],"step_count":10,"parts_groups":3},"parts_list":{"A MINIFIGURE":{"count":5,"items":["发片 x1","头部 x1","带手臂的躯干 x1","腿部组件 x1","小配件 x2"]},"B SWING & FRAME":{"count":10,"items":["横杆 x2","连接砖 x1","链条组件 x2","小销/杆件 x1","A形腿组件 x4","垂直连接栓 x2","秋千座椅支撑件 x2","长凳板元件 x2","小方块 x2","小帽 x4"]},"C BASE & LANDSCAPING":{"count":9,"items":["大方形底板 x1","矩形瓷砖 x4","小斜面瓷砖 x0","小平板 x2","圆形凸点 x2","植物枝 x2","花簇 x4","圆形分层瓷砖 x2","小圆帽 x2"]}},"assembly":{"steps":[{"step":1,"summary":"放置1个大方形底板作为基础","part_count":1},{"step":2,"summary":"在底板一侧和中心周围添加12个小基础件","part_count":12},{"step":3,"summary":"添加8个景观细节：2个圆形凸点，2个圆形帽，和4个植物件","part_count":8},{"step":4,"summary":"构建并放置4个倾斜的秋千框架支撑件，形成两个A形框架","part_count":4},{"step":5,"summary":"用3个梁和连接件连接顶部","part_count":3},{"step":6,"summary":"从顶部梁悬挂4个悬挂部件：2个链条元件和2个连接器","part_count":4},{"step":7,"summary":"使用7个部件安装秋千座椅，包括1个长凳板，2个支撑块，和4个帽","part_count":7},{"step":8,"summary":"在座椅两侧添加4个圆形细节","part_count":4},{"step":9,"summary":"从4个堆叠组件组装小人仔，并将他放在秋千上坐着","part_count":4},{"step":10,"summary":"展示完成的展示模型，在完成的场景周围有强调线条","part_count":1}]},"composition":"左上角主面板以四分之三视角展示完成的模型，坐着的人物在秋千上，位于带有角落小植物的有纹理的地面底座上；顶部中央零件清单使用带有数量标签的小型独立绘图；其余面板以经典乐高手册风格呈现等距组装说明","rendering":"单色印刷说明书美学，清晰的矢量状轮廓，没有阴影，只有微妙的浅灰色填充，所有文本都是无衬线大写字母，整洁的玩具包装比例"}
 ```
 
 <a id="prompt-741e9d5437de76fd74d7"></a>
 
-### 95. 产品营销 - Luxury Editorial 4:20 Product Poster
+### 89. 产品营销 - Luxury Editorial 4:20 Product Poster
 
-![产品营销 - Luxury Editorial 4:20 Product Poster](https://cms-assets.youmind.com/media/1777367355926_4qmzfl_HG7yqeeaIAAoDOA.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367355926_4qmzfl_HG7yqeeaIAAoDOA.jpg" alt="产品营销 - Luxury Editorial 4:20 Product Poster" width="480">
 
-This prompt generates a stylish studio ad image combining an oversized smoking product with fashion-editorial typography, ideal for cannabis lifestyle campaigns or conceptual product posters.
+此提示生成一个时尚的影棚广告图像，将过大的吸烟产品与时尚编辑风格排版相结合，非常适合大麻生活方式活动或概念性产品海报。
 
-- **分类:** Product Marketing
+- **分类:** 产品营销
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/ArcaArtificial/status/2048841835171156334#reversed-0)
 
 **提示词:**
 
 ```text
-A high-end editorial product poster in a minimalist studio, featuring an oversized translucent pink glass bong standing on the right side of the frame, nearly as tall as the composition, with a round water chamber half-filled with pale pink liquid, a long vertical neck releasing soft white smoke from the top, and a diagonal downstem visible inside the glass. A slim athletic woman with dark skin and long dreadlocks tied up in a high bun stands leaning casually against the bong near the center-left, her face intentionally obscured with a soft rectangular blur, wearing a dark olive sports bra, loose cream jogger pants, white crew socks with green stripes, and chunky off-white sneakers. She poses with one leg crossed in front of the other and one arm resting on the bong’s angled bowl. Behind them, place enormous bold dark green condensed numbers reading {argument name="headline text" default="4:20"} spanning almost the full height of the background on a warm light beige wall. In the lower left corner, add a small block of uppercase Spanish copy in a clean sans-serif font reading {argument name="quote" default="DEJÓ DE SER EXCEPCIÓN. — YA FORMA PARTE DEL PAISAJE."}. The overall look should feel like a luxury lifestyle ad campaign: clean composition, muted earthy palette, soft diffused studio lighting, subtle shadows, sharp product detail, fashion-editorial styling, realistic glass reflections, and a polished contemporary cannabis culture aesthetic.
+高端编辑产品海报，极简工作室风格，画面右侧有一个超大尺寸的半透明粉色玻璃水烟筒，几乎与构图等高，圆形水室中装有半室淡粉色液体，长直颈顶部释放出柔软的白色烟雾，玻璃内部可见倾斜的降烟管。一位身材苗条、皮肤黝黑、长发脏辫高高盘起的运动型女子站在画面中左侧附近，随意地倚靠着水烟筒，她的脸部被有意地用柔和的矩形模糊处理，穿着深橄榄色运动内衣、宽松的米色慢跑裤、带有绿色条纹的白色船袜和厚实的米白色运动鞋。她摆出姿势，一条腿交叉在另一条腿前，一只手臂放在水烟筒的倾斜烟斗上。在他们身后，一面温暖的浅米色墙壁上放置着巨大的粗体深绿色压缩数字，内容为 {argument name="headline text" default="4:20"}，几乎跨越整个背景高度。在左下角添加一小块大写西班牙语文本，使用简洁的无衬线字体，内容为 {argument name="quote" default="DEJÓ DE SER EXCEPCIÓN. — YA FORMA PARTE DEL PAISAJE."}。整体风格应感觉像高端生活方式广告活动：干净的构图、柔和的大地色调、柔和的漫射工作室灯光、微妙的阴影、锐利的产品细节、时尚编辑风格、逼真的玻璃反射，以及精致的当代大麻文化美学。
 ```
 
 <a id="prompt-79f2773b63a3f9e5cadd"></a>
 
-### 96. 社交媒体帖子 - Bubble Fox Friends Meet in Niseko
+### 90. 社交媒体帖子 - Bubble Fox Friends Meet in Niseko
 
-![社交媒体帖子 - Bubble Fox Friends Meet in Niseko](https://cms-assets.youmind.com/media/1777367322024_6jvsd1_HG8Mj2_aQAAqNxU.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367322024_6jvsd1_HG8Mj2_aQAAqNxU.jpg" alt="社交媒体帖子 - Bubble Fox Friends Meet in Niseko" width="480">
 
-This prompt generates a detailed anime travel illustration of fox girls reuniting at Niseko View Plaza with iridescent soap bubbles and a dramatic mountain backdrop, ideal for scenic character art.
+详细的动漫旅行插画，描绘狐狸女孩在二世谷观景台重聚，带有彩虹色的肥皂泡和戏剧性的山脉背景，适合风景人物艺术。
 
-- **分类:** Social Media Post
+- **分类:** 社交媒体帖子
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/terunari/status/2048871017519698227#reversed-0)
 
 **提示词:**
 
 ```text
-A bright anime-style fantasy travel scene in front of Niseko View Plaza in Hokkaido, with a clear blue sky, scattered white clouds, and a huge snow-capped mountain rising in the background. The setting is a roadside plaza parking area with a modern black-and-wood station building on the left, visible Japanese signage reading "道の駅 ニセコビュープラザ" and "Niseko View Plaza," a vertical banner reading "ようこそ ニセコへ," a tall food sign reading "名物 じゃがいも," and a dark wayfinding sign on the right reading "ニセコ Niseko" with 4 listed icons and labels: "名産品 Local Products," "農産物直売所 Farmer's Market," "レストラン Restaurant," and "情報コーナー Information." In the center, a glamorous fox-eared anime girl sits sideways atop a giant iridescent translucent soap bubble, smiling and gesturing upward with one hand. She has {argument name="hair color" default="shimmering pastel silver-lilac"} very long wavy hair, large fluffy fox ears, and a huge fluffy fox tail with rainbow-reflective highlights. Her outfit is an elaborate sparkling translucent-white and pale blue dress with holographic sheen, layered sleeves, gemstone accents, ribbons, and glossy lace-up ankle boots with bows, giving her a magical bubble-fox idol appearance. Around her float multiple smaller soap bubbles, catching rainbow light. Three fox-girl friends gather around meeting her at the plaza: 1 dark-haired fox-eared girl in a navy jacket with a Niseko patch, holding a vanilla soft-serve ice cream and looking toward the center; 1 khaki-clad fox-eared girl in an outdoor jacket and a dark cap with "HOTEL" lettering, holding a grilled corn cob; and 1 white-haired fox-eared girl in a shiny pearly hooded jacket and beret, holding a takeaway coffee cup and wearing a black backpack. Emphasize a cheerful reunion mood, travel photography composition blended with polished anime illustration, detailed environmental signage, reflective bubble surfaces, soft sunlight, crisp mountain air, and high-detail painterly rendering.
+北海道二世谷展望广场前的明亮动漫风格奇幻旅行场景，有清澈的蓝天、散落的白云，以及远处耸立的巨大雪山。场景是一个路边广场停车场，左侧有一座现代黑木车站建筑，可见日文招牌写着"道の駅 ニセコビュープラザ"和"Niseko View Plaza"，一条垂直横幅写着"ようこそ ニセコへ"，一个高大的食物招牌写着"名物 じゃがいも"，右侧还有一个深色的指路牌写着"ニセコ Niseko"，列有4个图标和标签："名産品 Local Products"、"農産物直売所 Farmer's Market"、"レストラン Restaurant"和"情報コーナー Information"。
+
+中心位置，一个华丽的狐狸耳动漫女孩侧坐在巨大的彩虹半透明肥皂泡上，微笑着一只手向上指着。她有{argument name="hair color" default="shimmering pastel silver-lilac"}非常长的波浪长发，蓬松的狐狸耳朵，以及带有彩虹反光高光的大蓬松狐狸尾巴。她的服装是一件精致的闪亮半透明白色和淡蓝色连衣裙，具有全息光泽，分层袖子，宝石装饰，丝带，以及带有蝴蝶结的光亮系带踝靴，赋予她一种神奇的泡泡狐狸偶像形象。周围漂浮着多个较小的肥皂泡，捕捉彩虹光芒。
+
+三个狐狸耳朋友在广场上与她相聚：1个深色头发的狐狸耳女孩，穿着带有二世谷徽章的海军蓝夹克，拿着香草软冰淇淋，望向中心；1个卡其色打扮的狐狸耳女孩，穿着户外夹克和带有"HOTEL"字样的深色帽子，拿着烤玉米棒；1个白发的狐狸耳女孩，穿着闪亮的珍珠色连帽夹克和贝雷帽，拿着外卖咖啡杯，背着黑色背包。
+
+强调欢乐重逢的氛围，旅行摄影构图与精致的动漫插画相结合，详细的环境标识，反光的泡泡表面，柔和的阳光，清新的山间空气，以及高细节的绘画渲染风格。
 ```
 
 <a id="prompt-a6b1692099b8f6a8c0fe"></a>
 
-### 97. 漫画 / 故事板 - Anime Split-Apartment Romance Cover
+### 91. 漫画 / 故事板 - Anime Split-Apartment Romance Cover
 
-![漫画 / 故事板 - Anime Split-Apartment Romance Cover](https://cms-assets.youmind.com/media/1777367338248_ctvgpf_HG6-Pg5a8AAvrZJ.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367338248_ctvgpf_HG6-Pg5a8AAvrZJ.jpg" alt="漫画 / 故事板 - Anime Split-Apartment Romance Cover" width="480">
 
-This prompt generates a polished anime-style Japanese light novel cover showing neighboring adults divided by a wall, ideal for romance-comedy or food-themed book promotion.
+此提示生成精致的动漫风格日本轻小说封面，展示被一堵墙隔开的邻居成年人，适合浪漫喜剧或美食主题的书籍推广。
 
-- **分类:** Comic
+- **分类:** 漫画
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/hyzatu/status/2048784433076195518#reversed-0)
 
 **提示词:**
 
 ```text
-A cinematic anime-style vertical book-cover illustration for a romantic comedy light novel with slight fantasy atmosphere, split by a thin apartment wall down the center. On the left side, a warm, cozy kitchen glows in amber light from a hanging pendant lamp. A {argument name="female character name" default="Nanako Iida"}, age 28, stands in three-quarter view holding a deep plate of freshly cooked food with visible steam rising in elegant curls. She has dark hair tied in a messy bun, soft bangs, a gentle mature expression, and wears a lavender knit sweater under a white apron. The kitchen contains exact visible details: 1 hanging lamp, 1 upper shelf with cookware, 5 hanging utensils, 1 cutting board, 1 knife block, and 6 small bottles or jars lined across the foreground counter. On the right side, a dim, cool-toned bachelor bedroom is lit in blue shadows. A {argument name="male character name" default="Sota Ninomiya"}, age 26, slim but muscular, with tousled dark hair and a fitted charcoal T-shirt, leans one hand against the wall as if sensing the aroma through it. His room contains 1 bed, 1 bookshelf, 1 desk lamp, and 1 wall poster. A ribbon of steam drifts from the dish across the center wall into his side, visually connecting them. The mood is intimate, sensual, and slightly teasing, emphasizing the contrast between warm home cooking and lonely nighttime restraint. Add elegant Japanese vertical catch copy on the wall and upper right, small white serif-style name labels beside both characters with their ages, and a large bold Japanese title block across the lower middle. Include these exact text elements: left name label "Nanako Iida 28歳", right name label "Sota Ninomiya 26歳", vertical wall text "その香りが、ふたりの距離を、そっと溶かしていく。", upper-right vertical text "隣人は、優しい香りと、秘密のレシピ。", large center title "《飯テロ恋愛小説》\n夜中に読まないでください〜\n〜お隣のストイックくんは、\n隣のお姉さんの愛の飯テロに勝てない〜", and bottom tagline "毎晩続く深夜の罪な料理の香り。\n壁一枚の距離と心を溶かす". Highly polished promotional cover art, soft bloom lighting, detailed fabric folds, realistic steam, romantic tension, glossy illustrated publishing design.
+一部具有轻微奇幻氛围的浪漫喜剧轻小说的垂直书籍封面插图，采用电影感的动漫风格，中间被一道薄薄的公寓墙壁分隔。左侧，一个温暖舒适的厨房在悬挂吊灯的琥珀色光芒下发光。一位28岁的{argument name="female character name" default="Nanako Iida"}以四分之三视角站立，手中端着一个盛有刚烹饪好的食物的深盘，可见蒸汽优雅地盘旋上升。她深色头发扎成凌乱的发髻，有柔软的刘海，表情温柔成熟，穿着白色围裙下的薰衣草色针织毛衣。厨房包含精确可见的细节：1个悬挂灯，1个带有炊具的上层架子，5个悬挂的厨具，1个砧板，1个刀具架，以及6个小瓶子或罐子排列在前台台面上。右侧，一个昏暗、冷色调的单身卧室在蓝色阴影中照明。一位26岁的{argument name="male character name" default="Sota Ninomiya"}，身材瘦削但肌肉发达，头发凌乱深色，穿着合身的炭灰色T恤，一只手靠在墙上，仿佛在透过墙壁闻到香气。他的房间包含1张床，1个书架，1台台灯，和1张墙上海报。一缕蒸汽从盘子飘过中心墙进入他的区域，视觉上将他们连接起来。氛围亲密、性感且略带挑逗，强调温暖的家庭烹饪与孤独的夜间克制之间的对比。在墙上和右上角添加优雅的日文垂直标语，在两个角色旁边添加带有年龄的小白色衬线风格姓名标签，并在中下部添加一个粗体的大日文标题块。包含这些确切的文本元素：左侧姓名标签"Nanako Iida 28歳"，右侧姓名标签"Sota Ninomiya 26歳"，垂直墙文字"その香りが、ふたりの距離を、そっと溶かしていく。"，右上角垂直文字"隣人は、優しい香りと、秘密のレシピ。"，大中心标题"《飯テロ恋愛小説》\n夜中に読まないでください〜\n〜お隣のストイックくんは、\n隣のお姉さんの愛の飯テロに勝てない〜"，底部标语"毎晩続く深夜の罪な料理の香り。\n壁一枚の距離と心を溶かす"。高度抛光的宣传封面艺术，柔和的辉光照明，精细的织物褶皱，逼真的蒸汽，浪漫的张力，光滑的插图出版设计。
 ```
 
 <a id="prompt-b3c2b21d080a0df66000"></a>
 
-### 98. 漫画 / 故事板 - Whimsical Ladybug and Bee Village Scene
+### 92. 漫画 / 故事板 - Whimsical Ladybug and Bee Village Scene
 
-![漫画 / 故事板 - Whimsical Ladybug and Bee Village Scene](https://cms-assets.youmind.com/media/1777367288527_536lmu_HG7zrZwbsAAa_Tt.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367288527_536lmu_HG7zrZwbsAAa_Tt.jpg" alt="漫画 / 故事板 - Whimsical Ladybug and Bee Village Scene" width="480">
 
-This prompt generates a cinematic 3D animated-style image of two cute insects meeting in an enchanted woodland village, ideal for storybook art or family-friendly fantasy illustrations.
+这个提示生成一个电影风格的3D动画风格图像，描绘两只可爱的昆虫在魔法森林村庄相遇，适合童话书艺术或家庭友好的奇幻插画。
 
-- **分类:** Comic
+- **分类:** 漫画
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/KennethRow73543/status/2048842808887284227#reversed-0)
 
 **提示词:**
 
 ```text
-A heartwarming stylized 3D animated forest village scene at golden hour, showing 2 adorable insect characters meeting on a cobblestone path between tiny mushroom-roof cottages. In the left foreground, a cute {argument name="main insect type" default="ladybug"} crouches low with an oversized glossy black head, huge expressive brown eyes, a small smiling mouth, short antennae with rounded tips, and a tiny {argument name="accessory color" default="red"} bow near one antenna. Its shell is bright {argument name="shell color" default="red"} with distinct black spots, and its body is dark charcoal black with soft rounded limbs. In the right midground, a cheerful small {argument name="second insect type" default="bee"} hovers slightly above the ground facing the larger insect, with a similarly oversized head, big sparkling eyes, delicate translucent wings, tiny antennae, and little forelegs lifted as if speaking excitedly. The setting is an enchanted bug-sized woodland hamlet with 3 visible cottages, rounded wooden doors, curved stone walls, moss, vines, flowers, and leafy plants framing the path. Warm cinematic sunlight filters through the trees from the upper right, creating glowing rim light, soft bokeh, and floating firefly-like particles. Use a shallow depth of field, low camera angle at insect eye level, rich autumn-green and golden tones, highly detailed textures, soft global illumination, whimsical family-film mood, Pixar-like stylized realism, and a subtle dreamy double-exposure feel with faint overlapping light or ghosted highlights in parts of the frame.
+温馨的风格化3D动画森林村庄场景，黄金时刻，展示两个可爱的昆虫角色在铺着鹅卵石的小径上相遇，小径两侧是带有蘑菇屋顶的小屋。在左前景，一只可爱的{argument name="main insect type" default="ladybug"}蹲伏着，有着过亮的黑色大头、巨大的富有表现力的棕色眼睛、微笑的小嘴巴、短而圆的天线末端，以及一个靠近一根天线的微小{argument name="accessory color" default="red"}蝴蝶结。它的壳是明亮的{argument name="shell color" default="red"}，带有明显的黑色斑点，身体是深炭黑色，有着柔软圆润的肢体。在右中景，一只快乐的小{argument name="second insect type" default="bee"}略微悬在地面上方，面向较大的昆虫，有着同样过大的头、闪闪发光的大眼睛、精致的半透明翅膀、微小的天线，以及抬起的小前腿，仿佛在兴奋地说话。场景是一个迷人的虫子大小的林地村庄，有3座可见的小屋、圆形木门、弯曲的石墙、苔藓、藤蔓、花朵和绿叶植物环绕着小径。温暖的电影感阳光从右上方的树木间穿过，形成发光的轮廓光、柔和的散景和漂浮的萤火虫般的粒子。使用浅景深、昆虫眼平视角的低角度相机、丰富的秋绿色和金色调、高度精细的纹理、柔和的全局照明、奇幻的家庭电影氛围、皮克斯式的风格化现实主义，以及微妙的梦幻双重曝光感，画面中有微弱的重叠光线或幽灵般的亮点。
 ```
 
 <a id="prompt-b4fbe7539a6d7c927d86"></a>
 
-### 99. 信息图 / 教育视觉图 - Mobile Communication Evolution Infographic
+### 93. 信息图 / 教育视觉图 - Mobile Communication Evolution Infographic
 
-![信息图 / 教育视觉图 - Mobile Communication Evolution Infographic](https://cms-assets.youmind.com/media/1777367294961_w7jzc7_HG6sQuHbcAAOCGb.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367294961_w7jzc7_HG6sQuHbcAAOCGb.jpg" alt="信息图 / 教育视觉图 - Mobile Communication Evolution Infographic" width="480">
 
-A polished Chinese-language vertical infographic poster showing the timeline from 1G to 6G, ideal for technology education, presentations, and telecom-themed visual explainers.
+一个精美的中文垂直信息图表海报，展示从1G到6G的时间线，适合科技教育、演示文稿和电信主题的视觉解释。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/bobo99_eth/status/2048764845957505489#reversed-0)
 
 **提示词:**
 
-```text
-{"type":"vertical technology infographic poster","topic":"evolution of mobile communications from 1G to 6G","language":"Chinese","style":"clean futuristic corporate infographic, white and pale blue gradient background, glossy 3D isometric platforms, blue-gray color palette, thin curved timeline, modern sans-serif and bold display typography, soft ambient lighting, subtle world map and network graphics","headline":{"main":"{argument name=\"headline text\" default=\"移动通信进化史\"}","subtitle":"从语音连接到万物智联的进化之路","intro":"五十余年来，移动通信以一代代技术的跃迁，不断突破速度、容量与体验的边界，连接人与人，也连接一切可能。"},"layout":{"orientation":"portrait","sections":[{"title":"技术演进维度","position":"upper left","count":4,"labels":["主要业务","典型速率（下行峰值）","核心技术","代表事件 / 标准"]},{"title":"1G","position":"lower center-left on first pedestal","count":4,"labels":["模拟语音时代","模拟语音通话","2.4 ~ 9.6 kbps","模拟蜂窝技术（AMPS / NMT）"]},{"title":"2G","position":"mid-lower center-left on second pedestal","count":4,"labels":["数字语音与短信","数字语音、短信、基础数据业务","9.6 ~ 64 kbps","GSM / CDMA"]},{"title":"3G","position":"center on third pedestal","count":4,"labels":["移动数据时代开启","移动上网、邮件、音乐、视频通话","几百kbps ~ 几Mbps","WCDMA / CDMA2000"]},{"title":"4G","position":"upper center on fourth pedestal","count":4,"labels":["移动互联网普及","高速上网、视频流、移动应用爆发","100Mbps级速率","OFDMA、MIMO、全IP网络"]},{"title":"5G","position":"upper right-center on fifth pedestal","count":4,"labels":["万物互联的新时代","增强移动宽带、超可靠低时延、海量连接","10Gbps级速率，毫秒级时延","大规模MIMO、毫米波、网络切片"]},{"title":"6G","position":"top right on final pedestal","count":4,"labels":["未来已来 智能互联的无限想象","通信与感知、AI深度融合","太赫兹通信、Tbps级速率","原生智能、全域互联"]},{"title":"关键技术与标准演进","position":"bottom horizontal strip","count":6,"labels":["模拟技术 AMPS / NMT","数字技术 GSM / CDMA","宽带CDMA 移动数据","全IP与LTE OFDMA / MIMO","5G新空口 5G NR","6G新范式 太赫兹 / AI原生"]},{"title":"bottom metrics row","position":"very bottom","count":5,"labels":["连接数 从0到千亿+","速率提升 百万倍+","移动用户 超55亿（2024）","覆盖范围 全球人口95%+","形态演进 大如砖头 薄如卡片"]}],"timeline":{"shape":"large upward sweeping arc from bottom left to top right","milestones":[{"year":"1980s","generation":"1G","device":"large black brick mobile phone with long antenna","icons_count":1},{"year":"1991","generation":"2G","device":"dark candybar phone with antenna and green monochrome screen","icons_count":2},{"year":"1999","generation":"3G","device":"silver and black feature phone with blue screen and keypad","icons_count":3},{"year":"2009","generation":"4G","device":"early touchscreen smartphone with app icons","icons_count":2},{"year":"2019","generation":"5G","device":"modern black smartphone showing glowing 5G screen","icons_count":4},{"year":"2030+","generation":"6G","device":"miniature smart city diorama with drones and futuristic skyline","icons_count":3}]},"composition":"the left side contains the large title and a curved historical timeline with year labels 1980s, 1991, 1999, 2009, 2019, 2030+; six ascending floating rectangular pedestals run diagonally upward; each pedestal displays one generation device or scene with large blue generation text beside it and explanatory Chinese body text to the right; top area includes a faint globe illustration; bottom includes a rounded horizontal standards bar and a separate row of five icon-based summary statistics; lots of negative space, precise alignment, subtle drop shadows, premium presentation design"}
+````text
+```json
+{
+  "type": "垂直科技信息海报",
+  "topic": "移动通信从1G到6G的演进",
+  "language": "中文",
+  "style": "简洁未来感企业信息图表，白色和淡蓝色渐变背景，光泽3D等距平台，蓝灰色调，细弯曲线时间线，现代无衬线和粗体显示字体，柔和环境光，微妙的世界地图和网络图形",
+  "headline": {
+    "main": "{argument name=\"headline text\" default=\"移动通信进化史\"}",
+    "subtitle": "从语音连接到万物智联的进化之路",
+    "intro": "五十余年来，移动通信以一代代技术的跃迁，不断突破速度、容量与体验的边界，连接人与人，也连接一切可能。"
+  },
+  "layout": {
+    "orientation": "纵向",
+    "sections": [
+      {
+        "title": "技术演进维度",
+        "position": "左上",
+        "count": 4,
+        "labels": ["主要业务", "典型速率（下行峰值）", "核心技术", "代表事件 / 标准"]
+      },
+      {
+        "title": "1G",
+        "position": "第一个平台左下中心偏下",
+        "count": 4,
+        "labels": ["模拟语音时代", "模拟语音通话", "2.4 ~ 9.6 kbps", "模拟蜂窝技术（AMPS / NMT）"]
+      },
+      {
+        "title": "2G",
+        "position": "第二个平台中下左中心偏下",
+        "count": 4,
+        "labels": ["数字语音与短信", "数字语音、短信、基础数据业务", "9.6 ~ 64 kbps", "GSM / CDMA"]
+      },
+      {
+        "title": "3G",
+        "position": "第三个平台中心",
+        "count": 4,
+        "labels": ["移动数据时代开启", "移动上网、邮件、音乐、视频通话", "几百kbps ~ 几Mbps", "WCDMA / CDMA2000"]
+      },
+      {
+        "title": "4G",
+        "position": "第四个平台上中心",
+        "count": 4,
+        "labels": ["移动互联网普及", "高速上网、视频流、移动应用爆发", "100Mbps级速率", "OFDMA、MIMO、全IP网络"]
+      },
+      {
+        "title": "5G",
+        "position": "第五个平台上右中心",
+        "count": 4,
+        "labels": ["万物互联的新时代", "增强移动宽带、超可靠低时延、海量连接", "10Gbps级速率，毫秒级时延", "大规模MIMO、毫米波、网络切片"]
+      },
+      {
+        "title": "6G",
+        "position": "最后一个平台右上",
+        "count": 4,
+        "labels": ["未来已来 智能互联的无限想象", "通信与感知、AI深度融合", "太赫兹通信、Tbps级速率", "原生智能、全域互联"]
+      },
+      {
+        "title": "关键技术与标准演进",
+        "position": "底部水平条",
+        "count": 6,
+        "labels": ["模拟技术 AMPS / NMT", "数字技术 GSM / CDMA", "宽带CDMA 移动数据", "全IP与LTE OFDMA / MIMO", "5G新空口 5G NR", "6G新范式 太赫兹 / AI原生"]
+      },
+      {
+        "title": "底部指标行",
+        "position": "最底部",
+        "count": 5,
+        "labels": ["连接数 从0到千亿+", "速率提升 百万倍+", "移动用户 超55亿（2024）", "覆盖范围 全球人口95%+", "形态演进 大如砖头 薄如卡片"]
+      }
+    ]
+  },
+  "timeline": {
+    "shape": "从左下到右上的大型向上弧形",
+    "milestones": [
+      {
+        "year": "1980年代",
+        "generation": "1G",
+        "device": "带长天线的黑色砖头式移动电话",
+        "icons_count": 1
+      },
+      {
+        "year": "1991",
+        "generation": "2G",
+        "device": "带天线和绿色单色屏幕的深色直板手机",
+        "icons_count": 2
+      },
+      {
+        "year": "1999",
+        "generation": "3G",
+        "device": "带蓝色屏幕和键盘的银色黑色功能手机",
+        "icons_count": 3
+      },
+      {
+        "year": "2009",
+        "generation": "4G",
+        "device": "带应用图标的早期触摸屏智能手机",
+        "icons_count": 2
+      },
+      {
+        "year": "2019",
+        "generation": "5G",
+        "device": "显示发光5G屏幕的现代黑色智能手机",
+        "icons_count": 4
+      },
+      {
+        "year": "2030+",
+        "generation": "6G",
+        "device": "带有无人机和未来天际线的微型智能城市模型",
+        "icons_count": 3
+      }
+    ]
+  },
+  "composition": "左侧包含大标题和带有年份标签1980年代、1991、1999、2009、2019、2030+的弯曲历史时间线；六个上升的浮动矩形平台对角向上延伸；每个平台显示一代设备或场景，旁边有大的蓝色代际文本，右侧有解释性中文正文；顶部区域包含一个淡淡的地球插图；底部包含一个圆角水平标准条和单独的一行五个基于图标的摘要统计；大量留白，精确对齐，微妙阴影，高级展示设计"
+}
 ```
+````
 
 <a id="prompt-b540e563516948dba8ec"></a>
 
-### 100. 信息图 / 教育视觉图 - Pastel Anime User Persona Infographic
+### 94. 信息图 / 教育视觉图 - Pastel Anime User Persona Infographic
 
-![信息图 / 教育视觉图 - Pastel Anime User Persona Infographic](https://cms-assets.youmind.com/media/1777367322854_d2ii9g_HG8UlD9a4AAZZPt.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367322854_d2ii9g_HG8UlD9a4AAZZPt.jpg" alt="信息图 / 教育视觉图 - Pastel Anime User Persona Infographic" width="480">
 
-A vertically structured Japanese infographic poster showing a soft anime cat-eared avatar with multiple labeled personality sections, ideal for generating stylized self-image or user-persona visuals.
+一个垂直结构的日本信息海报，展示一个可爱的动漫猫耳头像，带有多个标记的性格部分，适合生成风格化的自我形象或用户角色视觉。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/mksb911/status/2048878987204784454#reversed-0)
 
 **提示词:**
 
 ```text
-{"type":"pastel anime personality infographic poster","topic":"ユーザー像インフォグラフィック","theme":"a gentle, introverted, thoughtful person represented as a cozy black-haired cat-eared anime boy in a lavender room","style":{"aesthetic":"soft pastel lavender and gray, clean Japanese infographic design, delicate line icons, rounded white panels, airy spacing, subtle paw-print motifs","rendering":"high-quality anime illustration with soft shading, cozy slice-of-life atmosphere","background":"off-white with faint lavender watercolor circles and tiny decorative dots"},"subject":{"character":{"presentation":"androgynous anime boy avatar","hair":{"color":"{argument name=\"hair color\" default=\"black\"}","style":"messy short layered hair with long bangs"},"accessories":["black cat ears on the head","large over-ear headphones around the ears"],"outfit":["black oversized hoodie with a subtle spiral emblem on the chest","dark gray jogger pants","black sneakers","white bandage wraps on forearms and lower legs"],"pose":"sitting relaxed in a large lavender beanbag chair, one knee raised, holding a dark mug with a paw-print mark","expression":"calm, shy, gentle"},"companion":{"count":1,"description":"sleeping gray cat curled on a small round lavender cushion at the character's feet"},"props":{"count":6,"items":["dark paw-print mug in hand","smartphone on the floor with a music note on screen","open notebook on the floor","pen beside the notebook","small bunch of lavender flowers near the floor","tea cup and lavender in a vase at the bottom right corner"]}},"layout":{"format":"vertical poster","sections":[{"title":"ユーザー像インフォグラフィック","position":"top-left header","count":1,"labels":["共感と安心を大切にする、優しい繊細さん"]},{"title":"大切にしていること","position":"top-right","count":3,"labels":["信頼できる人との心地よいつながり","好きなことに集中する時間","穏やかで安心できる日常"]},{"title":"思考","position":"upper-left","count":4,"labels":["物事を深く考え、慎重に行動する","完璧を求めすぎてしまうこともある","一度決めたことは、最後までやり切りたい","自分の世界観やこだわりを大切にしている","他人の気持ちに敏感で、よく気づく"]},{"title":"強み","position":"upper-right","count":5,"labels":["継続力がある","観察力・共感力が高い","創造力がある","真面目で誠実","柔軟性がある"]},{"title":"感情","position":"mid-left","count":4,"labels":["安心・楽しい","穏やか・満たされる","不安・疲れやすい","落ち込みやすい"]},{"title":"接し方のポイント","position":"mid-right","count":5,"labels":["否定せず、まずは話を聞いてほしい","急かさず、ペースを尊重してほしい","小さな変化や努力を褒めてほしい","安心できる言葉や雰囲気を大切にしてほしい","一緒に楽しめる時間も共有したい"]},{"title":"関係性","position":"lower-left upper box","count":4,"labels":["信頼できる少数の人を大切にするタイプ","相手の気持ちを考えて行動できる","優しい言葉や気遣いに弱い","一緒にいて自然体でいられる関係を望む"]},{"title":"日常のひとコマ","position":"lower-middle strip","count":5,"labels":["音楽を聴いてリラックス","好きな飲み物とゆったり時間","アイデアや想いをノートに書き留める","猫と一緒にまったり過ごす","ゲームや趣味に没頭する","早めに休んで心を整える"]},{"title":"疲れたり不安なとき","position":"bottom-left","count":5,"labels":["気を遣いすぎてどっと疲れてしまう","自信をなくしてしまうことがある","未来のことを考えすぎて不安になる","誰かに迷惑をかけていないか心配になる","頑張りすぎて、心が追いつかなくなることも"]},{"title":"そんなときに求めているサポート","position":"bottom-center arrow","count":1,"labels":["そんなときに求めているサポート"]},{"title":"support list","position":"bottom-right","count":5,"labels":["安心できる言葉をかけてほしい","話をゆっくり聞いてほしい","そっとしておいてほしい時間も大切にしてほしい","一緒に好きなことを楽しみたい","無理せず、ペースを尊重してほしい"]},{"title":"ひとことまとめ","position":"bottom full-width footer","count":1,"labels":["優しくて繊細で、心のつながりを何より大切にする人。安心できる場所と人がいると、もっと輝ける。"]}],"centerpiece":"large seated full-body anime character in the center, overlapping multiple text panels","decorative_elements":{"count":8,"items":["paw-print icon near title","musical note speech bubble near character","small cloud doodle on left","tiny sleeping cat doodle with Zzz near right panel","lavender watercolor blobs","small floating dots","rounded rectangle panels with gray outlines","tiny monochrome icons beside section titles and bullets"]}},"text_language":"Japanese","customization":{"headline":"{argument name=\"headline text\" default=\"ユーザー像インフォグラフィック\"}","subtitle":"{argument name=\"subtitle text\" default=\"共感と安心を大切にする、優しい繊細さん\"}","character archetype":"{argument name=\"character type\" default=\"gentle sensitive person\"}","accent color":"{argument name=\"accent color\" default=\"soft lavender\"}"}}
+{
+  "type": "柔和动漫人物信息海报",
+  "topic": "用户画像信息图",
+  "theme": "一个温和、内向、深思熟虑的人，表现为一个舒适的黑色头发猫耳动漫男孩在薰衣草房间",
+  "style": {
+    "aesthetic": "柔和的薰衣草色和灰色，干净的日本信息图设计，精致的线条图标，圆角白色面板，宽松的间距，微妙的爪印图案",
+    "rendering": "高质量动漫插画，柔和的阴影，舒适的日常生活氛围",
+    "background": "米白色背景，带有淡薰衣草水彩圆圈和小装饰点"
+  },
+  "subject": {
+    "character": {
+      "presentation": "中性动漫男孩头像",
+      "hair": {
+        "color": "{argument name=\"hair color\" default=\"black\"}",
+        "style": "凌乱短分层长发，有长刘海"
+      },
+      "accessories": ["头上的黑色猫耳", "耳朵周围的大头戴式耳机"],
+      "outfit": ["黑色超大号连帽衫，胸前有微妙的螺旋标志", "深灰色慢跑裤", "黑色运动鞋", "前臂和小腿上的白色绷带"],
+      "pose": "舒适地坐在大的薰衣草豆袋椅上，一条膝盖抬起，拿着一个带爪印标记的深色马克杯",
+      "expression": "平静、害羞、温柔"
+    },
+    "companion": {
+      "count": 1,
+      "description": "一只灰色的猫蜷缩在角色脚边的小圆形薰衣草坐垫上睡觉"
+    },
+    "props": {
+      "count": 6,
+      "items": ["手中的深色爪印马克杯", "地板上的智能手机，屏幕上有音符", "地板上的打开的笔记本", "笔记本旁边的笔", "地板附近的小束薰衣草花", "右下角角落里的花瓶中的茶杯和薰衣草"]
+    }
+  },
+  "layout": {
+    "format": "垂直海报",
+    "sections": [
+      {
+        "title": "用户画像信息图",
+        "position": "左上标题",
+        "count": 1,
+        "labels": ["重视共鸣与安心感的温柔细腻的人"]
+      },
+      {
+        "title": "重视的事情",
+        "position": "右上",
+        "count": 3,
+        "labels": ["与值得信赖的人建立舒适的联系", "专注于喜欢事情的时间", "平静安心的日常生活"]
+      },
+      {
+        "title": "思考方式",
+        "position": "左上",
+        "count": 4,
+        "labels": ["深入思考事物，谨慎行动", "有时过于追求完美", "一旦决定的事情，希望能坚持到底", "重视自己的世界观和执着", "对他人的感受敏感，经常能察觉到"]
+      },
+      {
+        "title": "优势",
+        "position": "右上",
+        "count": 5,
+        "labels": ["有毅力", "观察力和共情力高", "有创造力", "认真诚实", "有灵活性"]
+      },
+      {
+        "title": "情感",
+        "position": "左中",
+        "count": 4,
+        "labels": ["安心、快乐", "平静、满足", "不安、容易疲劳", "容易消沉"]
+      },
+      {
+        "title": "相处要点",
+        "position": "右中",
+        "count": 5,
+        "labels": ["不要否定，希望先听我说话", "不要催促，希望尊重我的节奏", "希望表扬我微小的变化和努力", "重视能让我安心的言语和氛围", "也希望分享一起享受的时光"]
+      },
+      {
+        "title": "关系",
+        "position": "左下上框",
+        "count": 4,
+        "labels": ["重视少数值得信赖的人的类型", "会考虑对方的感受再行动", "对温柔的言语和关心很敏感", "希望能在关系中保持自然的状态"]
+      },
+      {
+        "title": "日常片段",
+        "position": "下中条",
+        "count": 5,
+        "labels": ["听音乐放松", "享受喜欢的饮品和悠闲时光", "将想法和感受记录在笔记本上", "和猫一起悠闲度过", "沉浸在游戏和爱好中", "早点休息调整心情"]
+      },
+      {
+        "title": "疲惫或不安时",
+        "position": "左下",
+        "count": 5,
+        "labels": ["过度在意他人而感到疲惫", "有时会失去自信", "过度思考未来而感到不安", "担心是否给他人添麻烦", "过于努力，有时心跟不上"]
+      },
+      {
+        "title": "此时需要的支持",
+        "position": "下中箭头",
+        "count": 1,
+        "labels": ["此时需要的支持"]
+      },
+      {
+        "title": "支持列表",
+        "position": "右下",
+        "count": 5,
+        "labels": ["希望听到让我安心的话语", "希望耐心倾听我的话", "也希望给我独处的时间", "希望能一起享受喜欢的事情", "不要勉强，希望尊重我的节奏"]
+      },
+      {
+        "title": "一句话总结",
+        "position": "底部全宽页脚",
+        "count": 1,
+        "labels": ["温柔细腻，最重视心灵连接的人。如果有安心的人和地方，会更加闪耀。"]
+      }
+    ],
+    "centerpiece": "中心位置的大型全身坐姿动漫角色，覆盖多个文本面板",
+    "decorative_elements": {
+      "count": 8,
+      "items": ["标题附近的爪印图标", "角色附近的音符对话框", "左侧的小云朵涂鸦", "右侧面板附近带Zzz的小睡猫涂鸦", "薰衣草水彩斑点", "小漂浮点", "灰色轮廓的圆角矩形面板", "章节标题和项目符号旁边的小单色图标"]
+    }
+  },
+  "text_language": "日语",
+  "customization": {
+    "headline": "{argument name=\"headline text\" default=\"用户画像信息图\"}",
+    "subtitle": "{argument name=\"subtitle text\" default=\"重视共鸣与安心感的温柔细腻的人\"}",
+    "character archetype": "{argument name=\"character type\" default=\"温柔敏感的人\"}",
+    "accent color": "{argument name=\"accent color\" default=\"柔和薰衣草色\"}"
+  }
+}
 ```
 
 <a id="prompt-ba999b036a83c40e6d47"></a>
 
-### 101. 社交媒体帖子 - Icy Fantasy Anime Woman in Blossom Snow
+### 95. 社交媒体帖子 - Icy Fantasy Anime Woman in Blossom Snow
 
-![社交媒体帖子 - Icy Fantasy Anime Woman in Blossom Snow](https://cms-assets.youmind.com/media/1777367299249_eowb8q_HG7uRRjbEAA7GaR.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367299249_eowb8q_HG7uRRjbEAA7GaR.jpg" alt="社交媒体帖子 - Icy Fantasy Anime Woman in Blossom Snow" width="480">
 
-This prompt generates a polished vertical anime-style fantasy character illustration, ideal for character art, wallpaper, or magic-themed concept imagery.
+此提示生成精美的垂直动漫风格奇幻角色插画，适合角色艺术、壁纸或魔法主题的概念图像。
 
-- **分类:** Social Media Post
+- **分类:** 社交媒体帖子
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/lchngjin91/status/2048836910676926484#reversed-2)
 
 **提示词:**
 
 ```text
-A highly detailed anime fantasy illustration of a tall elegant woman resembling an ice sorceress or qilin-inspired warrior, shown in a full-body three-quarter back view with her head turned slightly away, standing in a luminous snowy mountain landscape filled with soft pink cherry blossoms. She has {argument name="hair color" default="very light icy blue"} hair, extremely long, thick, and flowing in the wind with layered strands, soft bangs, curled tips, and a loose ahoge on top. Two dark curved horn-like ornaments with subtle red patterning rise from either side of her head. Her face is obscured by a flat rectangular blur block in a pale lavender-gray tone. She wears an ornate fantasy bodysuit and dress in black, white, periwinkle, and sapphire blue with gold filigree armor details: a black fitted chest piece, detached translucent bell sleeves with blue crystal-like feather cuffs, a backless white-and-blue upper garment, intricate gold waist armor with a glowing blue gemstone centerpiece, sheer black tights with gold geometric accents, layered translucent blue fabric panels, and exactly 3 visible red tassel ornaments hanging from the waist and side sashes. Her right arm is extended with an open gloved hand, levitating a glowing translucent blue water sphere containing swirling yin-yang-like currents. Around her are curling arcs of water and icy energy ribbons. The background is a dreamy ethereal alpine scene with 1 distant pagoda-like tower on the right, misty snow-covered peaks, frosted trees, sparkling atmosphere, drifting petals, and pastel blossom clusters framing the foreground and upper left corner. Use soft radiant backlighting, iridescent highlights, polished anime rendering, delicate gradients, crisp decorative costume detail, magical fantasy mood, cool blue and lavender palette with pink accents, vertical composition, no text, no extra characters.
-```
-
-<a id="prompt-bbd4e1146f7d4a8223a1"></a>
-
-### 102. 漫画 / 故事板 - Epic Fantasy Mecha Light Novel Cover
-
-![漫画 / 故事板 - Epic Fantasy Mecha Light Novel Cover](https://cms-assets.youmind.com/media/1777367338321_yoro6d_HG6-Pi0acAAl3W8.jpg)
-
-This prompt generates a dramatic anime-style Japanese sci-fi fantasy cover featuring a towering angelic robot, two protagonists, and bold title typography for novels, games, or promotional key art.
-
-- **分类:** Comic
-- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/hyzatu/status/2048784433076195518#reversed-1)
-
-**提示词:**
-
-```text
-Create a dramatic Japanese light-novel cover illustration for a fantasy mecha isekai story. Vertical poster composition with a huge heroic humanoid robot dominating the center foreground, viewed from a slightly low angle to make it monumental. The robot is sleek and ornate, with white and silver armor, rich gold trim, glowing cyan energy lines, a radiant emerald-green core in the chest, a crown-like crest on the helmet, and a long royal blue cape with gold edging. Behind its back spread multiple crystalline energy wings, about 8 large translucent green shards fanning out symmetrically like luminous blades. In its left hand it holds a long fantasy-tech spear with a blue glowing blade and gold mechanical detailing. At the robot’s feet are 2 human characters: on the left, a red-haired fantasy heroine with very long braided hair, leather-and-fabric adventurer clothing, and a determined expression, looking up at the robot; on the right, a young male protagonist with short dark hair in a fantasy tunic and cloak, reaching one hand up toward the giant machine in awe and urgency, seen mostly from behind. The setting is an epic ruined sci-fi fantasy world with towering gothic spires, broken city structures, drifting smoke, dramatic clouds, and a sky filled with stars, planets, streaks of lightning, and 8 small flying warships scattered in the distance. Highly polished anime key visual style, ultra-detailed, cinematic lighting, intense contrast, blue-green-gold color palette, heroic atmosphere, intricate mechanical rendering, fantasy worldbuilding, premium game or novel cover finish. Add large Japanese title typography at the top: 《{argument name="tagline text" default="本格異世界SFロボット戦記"}》 above a massive metallic logo reading {argument name="series title" default="ASTRAIA"}, with a smaller Japanese subtitle line beneath it. Add a large dramatic Japanese catchphrase at the bottom in glowing white and gold text over 2 lines: {argument name="bottom catchphrase" default="乗って！ユウキ！ その叫びが、世界の運命を決めた！"}. Keep the overall design dense, premium, and readable as a commercial cover, with the central robot as the unmistakable focal point.
+高度详细的动漫奇幻插画，描绘了一位高挑优雅的女性，类似冰系女巫或麒麟启发的战士，以全身四分之三背面视角呈现，头部略微转向侧面，站在一个发光的雪山景观中，周围点缀着柔和的粉色樱花。她拥有{argument name="hair color" default="非常浅的冰蓝色"}头发，头发极长、浓密，随风飘动，有分层、柔软的刘海、卷曲的发梢，顶部还有一个松散的呆毛。两个暗色的弯曲角状饰品，带有细微的红色图案，从她头部的两侧升起。她的脸部被一个淡薰衣草灰色的扁平矩形模糊块遮挡。她穿着一件华丽的奇幻紧身衣和连衣裙，颜色为黑色、白色、淡蓝色和宝石蓝，带有金色细丝装甲细节：一件黑色合身的胸甲，分离的透明钟形袖子，带有蓝色水晶般的羽毛袖口，一件露背的蓝白色上衣，复杂的金色腰部装甲，中央有一颗发光的蓝色宝石，透明的黑色连裤袜带有金色几何装饰，分层半透明的蓝色织物面板，以及正好3个可见的红色流苏饰品悬挂在腰部和侧面的腰带上。她的右臂伸展，戴着手套的手张开，悬浮着一个发光的半透明蓝色水球，其中包含旋转的阴阳般的水流。周围环绕着弯曲的水弧和冰能量丝带。背景是一个梦幻的空灵高山场景，右侧有1座远处的宝塔状塔楼，朦胧的雪山覆盖的山峰，结霜的树木，闪烁的大气，飘落的花瓣，以及柔和的花簇框住了前景和左上角。使用柔和的辐射背光，彩虹色高光，精致的动漫渲染，细腻的渐变，清晰的装饰服装细节，魔法奇幻氛围，冷蓝色和薰衣草色调搭配粉色点缀，垂直构图，无文字，无额外角色。
 ```
 
 <a id="prompt-be675416dc1f813e242b"></a>
 
-### 103. 信息图 / 教育视觉图 - Kitchen English Fill-in Worksheet Poster
+### 96. 信息图 / 教育视觉图 - Kitchen English Fill-in Worksheet Poster
 
-![信息图 / 教育视觉图 - Kitchen English Fill-in Worksheet Poster](https://cms-assets.youmind.com/media/1777367315696_7zfbs4_HG8ckunaEAAK8Zi.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367315696_7zfbs4_HG8ckunaEAAK8Zi.jpg" alt="信息图 / 教育视觉图 - Kitchen English Fill-in Worksheet Poster" width="480">
 
-A colorful anime-style educational poster for Japanese learners featuring 10 cooking-related English fill-in-the-blank sentences with Japanese translations and a friendly tutor character.
+一张色彩鲜艳的动漫风格教育海报，面向日语学习者，包含10个与烹饪相关的英语填空句子，配有日语翻译和一个友好的导师角色。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/TK2Works/status/2048887781976580382#reversed-2)
 
 **提示词:**
 
 ```text
-{"type":"educational worksheet poster","topic":"cooking English fill-in-the-blank worksheet for Japanese learners","style":"bright cute anime classroom handout, clean vertical poster, friendly study-material design, soft cream grid-paper background, colorful sticker-like decorations, crisp printable layout","language":"English with Japanese translations","format":"single-page infographic worksheet","canvas":{"orientation":"portrait","aspect_ratio":"approximately 2:3","background":"warm off-white with faint square grid"},"header":{"title":"{argument name=\"headline text\" default=\"Kitchen English!\"}","subtitle":"料理で使うクッキングフレーズ10選","banner":"Fill in the blanks / 穴埋め問題","title_style":"large playful rounded lettering, 'Kitchen' in pink-red gradient, 'English!' in teal gradient, thick white outline and soft drop shadow"},"layout":{"sections":[{"title":"worksheet questions","position":"left and center main column","count":10,"labels":["1","2","3","4","5","6","7","8","9","10"]},{"title":"character panel","position":"right side full height","count":1,"labels":["anime tutor character"]},{"title":"footer banner","position":"bottom full width","count":1,"labels":["For Japanese learners / English learning worksheet"]}],"question_rows":10},"questions":[{"number":1,"english":"Please [blank] the onions finely.","japanese":"玉ねぎを細かく刻んでください。","icon":"1 onion, partially sliced"},{"number":2,"english":"[blank] the pasta for about eight minutes.","japanese":"パスタを約8分ゆでてください。","icon":"1 cooking pot with spaghetti"},{"number":3,"english":"Add a pinch of [blank] to the soup.","japanese":"スープに塩をひとつまみ加えてください。","icon":"1 bowl of soup"},{"number":4,"english":"[blank] the sauce gently over low heat.","japanese":"弱火でソースをやさしく煮てください。","icon":"1 saucepan with sauce and spoon"},{"number":5,"english":"[blank] the eggs until fluffy.","japanese":"卵がふんわりするまで泡立ててください。","icon":"1 mixing bowl with whisked eggs"},{"number":6,"english":"Don't forget to [blank] the oven first.","japanese":"まずオーブンを予熱するのを忘れないでください。","icon":"1 small oven"},{"number":7,"english":"[blank] the chicken on both sides.","japanese":"鶏肉の両面を焼いてください。","icon":"1 frying pan with grilled chicken"},{"number":8,"english":"[blank] the vegetables with olive oil.","japanese":"野菜をオリーブオイルで和えてください。","icon":"1 salad bowl and 1 olive oil bottle"},{"number":9,"english":"Let the cake [blank] before serving.","japanese":"ケーキは出す前に冷ましてください。","icon":"1 slice of strawberry cake on a plate"},{"number":10,"english":"[blank] with fresh parsley.","japanese":"仕上げにフレッシュパセリを添えてください。","icon":"1 parsley sprig"}],"character":{"count":1,"description":"full-body anime girl teacher standing on the right, youthful adult, long deep purple hair in a high ponytail with bangs, cheerful pose pointing upward with one finger, holding a small recipe notebook in the other hand","outfit_count":6,"outfit":["teal T-shirt with the word '{argument name=\"shirt text\" default=\"AITuber\"}'","oversized pastel jacket with pink and teal circular pattern","light denim shorts","white scrunched socks","chunky purple black and white sneakers","small recipe book labeled '{argument name=\"book text\" default=\"Recipe\"}'"],"expression":"friendly enthusiastic tutor vibe"},"decorations":{"count":15,"items":["1 frying pan with vegetables at top left","1 chef hat doodle","2 small heart doodles near top left","1 whisk at top right","1 pink oven mitt","1 small red heart near header right","3 radiating emphasis marks behind character head","1 bowl of salad at bottom left","1 open book icon at bottom center-left","1 pencil icon at bottom center-right","1 cutting board at bottom right","1 tomato on cutting board","1 herb sprig on cutting board","1 leafy plant accent near lower right edge"]},"color_palette":{"primary":["coral pink","teal blue","golden yellow","navy","cream"],"accents":["purple","mint","orange","leaf green"]},"rendering":"high-resolution polished educational poster, cute commercial workbook aesthetic, balanced spacing, rounded boxes for answer blanks, bold numbered badges, soft shadows, glossy sticker-like food illustrations"}
+{
+  "type": "教育性工作海报",
+  "topic": "面向日本学习者的烹饪英语填空工作表",
+  "style": "明亮可爱的动漫教室讲义，干净垂直海报，友好学习材料设计，柔和的奶油色网格纸背景，彩色贴纸般的装饰，清晰的打印布局",
+  "language": "带有日语翻译的英语",
+  "format": "单页信息图表工作表",
+  "canvas": {
+    "orientation": "纵向",
+    "aspect_ratio": "约2:3",
+    "background": "暖白色带淡方形网格"
+  },
+  "header": {
+    "title": "{argument name=\"headline text\" default=\"Kitchen English!\"}",
+    "subtitle": "料理で使うクッキングフレーズ10選",
+    "banner": "Fill in the blanks / 穴埋め問題",
+    "title_style": "大号圆润活泼字体，'Kitchen'为粉红色渐变，'English!'为蓝绿色渐变，粗白色轮廓和柔和阴影"
+  },
+  "layout": {
+    "sections": [
+      {
+        "title": "工作表问题",
+        "position": "左侧和中心主列",
+        "count": 10,
+        "labels": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+      },
+      {
+        "title": "角色面板",
+        "position": "右侧全高",
+        "count": 1,
+        "labels": ["动漫教师角色"]
+      },
+      {
+        "title": "页脚横幅",
+        "position": "底部全宽",
+        "count": 1,
+        "labels": ["日本学习者 / 英语学习工作表"]
+      }
+    ],
+    "question_rows": 10
+  },
+  "questions": [
+    {
+      "number": 1,
+      "english": "Please [blank] the onions finely.",
+      "japanese": "玉ねぎを細かく刻んでください。",
+      "icon": "1 onion, partially sliced"
+    },
+    {
+      "number": 2,
+      "english": "[blank] the pasta for about eight minutes.",
+      "japanese": "パスタを約8分ゆでてください。",
+      "icon": "1 cooking pot with spaghetti"
+    },
+    {
+      "number": 3,
+      "english": "Add a pinch of [blank] to the soup.",
+      "japanese": "スープに塩をひとつまみ加えてください。",
+      "icon": "1 bowl of soup"
+    },
+    {
+      "number": 4,
+      "english": "[blank] the sauce gently over low heat.",
+      "japanese": "弱火でソースをやさしく煮てください。",
+      "icon": "1 saucepan with sauce and spoon"
+    },
+    {
+      "number": 5,
+      "english": "[blank] the eggs until fluffy.",
+      "japanese": "卵がふんわりするまで泡立ててください。",
+      "icon": "1 mixing bowl with whisked eggs"
+    },
+    {
+      "number": 6,
+      "english": "Don't forget to [blank] the oven first.",
+      "japanese": "まずオーブンを予熱するのを忘れないでください。",
+      "icon": "1 small oven"
+    },
+    {
+      "number": 7,
+      "english": "[blank] the chicken on both sides.",
+      "japanese": "鶏肉の両面を焼いてください。",
+      "icon": "1 frying pan with grilled chicken"
+    },
+    {
+      "number": 8,
+      "english": "[blank] the vegetables with olive oil.",
+      "japanese": "野菜をオリーブオイルで和えてください。",
+      "icon": "1 salad bowl and 1 olive oil bottle"
+    },
+    {
+      "number": 9,
+      "english": "Let the cake [blank] before serving.",
+      "japanese": "ケーキは出す前に冷ましてください。",
+      "icon": "1 slice of strawberry cake on a plate"
+    },
+    {
+      "number": 10,
+      "english": "[blank] with fresh parsley.",
+      "japanese": "仕上げにフレッシュパセリを添えてください。",
+      "icon": "1 parsley sprig"
+    }
+  ],
+  "character": {
+    "count": 1,
+    "description": "右侧站立的全身动漫女教师，年轻成人，深紫色长高马尾发型带刘海，一只手指向上指的愉快姿势，另一只手拿着小食谱笔记本",
+    "outfit_count": 6,
+    "outfit": [
+      "teal T-shirt with the word '{argument name=\"shirt text\" default=\"AITuber\"}'",
+      "oversized pastel jacket with pink and teal circular pattern",
+      "light denim shorts",
+      "white scrunched socks",
+      "chunky purple black and white sneakers",
+      "small recipe book labeled '{argument name=\"book text\" default=\"Recipe\"}'"
+    ],
+    "expression": "友好热情的导师氛围"
+  },
+  "decorations": {
+    "count": 15,
+    "items": [
+      "左上角的带蔬菜的煎锅",
+      "1个厨师帽涂鸦",
+      "左上角附近的小心形涂鸦",
+      "右上角的打蛋器",
+      "1个粉色烤箱手套",
+      "标题右侧的小红心",
+      "角色头后的3个辐射强调标记",
+      "左下角的沙拉碗",
+      "左下中的打开的书图标",
+      "右下中的铅笔图标",
+      "右下方的砧板",
+      "砧板上的番茄",
+      "砧板上的香草枝",
+      "右下边缘附近的绿叶植物装饰"
+    ]
+  },
+  "color_palette": {
+    "primary": ["珊瑚粉", "蓝绿色", "金黄色", "海军蓝", "奶油色"],
+    "accents": ["紫色", "薄荷绿", "橙色", "叶绿色"]
+  },
+  "rendering": "高分辨率精致教育海报，可爱商业工作簿美学，平衡间距，圆角答案框，粗体数字徽章，柔和阴影，光泽贴纸般的食物插图"
+}
 ```
 
 <a id="prompt-c4e146511ac1962c696b"></a>
 
-### 104. 漫画 / 故事板 - Anime Schoolgirl Late Morning Comic
+### 97. 漫画 / 故事板 - Anime Schoolgirl Late Morning Comic
 
-![漫画 / 故事板 - Anime Schoolgirl Late Morning Comic](https://cms-assets.youmind.com/media/1777367358560_mrej55_HG8adUBaIAAyYuj.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367358560_mrej55_HG8adUBaIAAyYuj.jpg" alt="漫画 / 故事板 - Anime Schoolgirl Late Morning Comic" width="480">
 
-This prompt generates a 9-panel anime comic about a frantic schoolgirl racing to school and failing to beat the late policy, ideal for humorous storyboard or manga-style scenes.
+这个提示生成一个9格动漫漫画，内容是一个慌乱的女学生拼命赶往学校但未能赶上迟到政策，非常适合幽默的分镜或漫画风格场景。
 
-- **分类:** Comic
+- **分类:** ```json
+{
+  "categories.comic.zh-CN": "漫画"
+}
+```
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/HoneyAnimeX07/status/2048885514678206662#reversed-0)
 
 **提示词:**
 
 ```text
-{"type":"9-panel anime comic strip","style":"dynamic manga-inspired anime illustration with warm cinematic lighting, painterly detail, bold motion lines, expressive poses, and white caption boxes with thick black outlines","subject":{"character":"{argument name=\"character name\" default=\"Honey Chan\"}","appearance":{"gender_presentation":"cute schoolgirl","hair_color":"{argument name=\"hair color\" default=\"golden blonde\"}","hair_style":"long messy twin-tail style with large fluffy strands and animal-like ear accessories on top, floral hair ornament on one side","expression_range":"sleepy, panicked, determined, triumphant, embarrassed"},"outfit":{"top":"white sailor-style school blouse with black collar and gold trim","neckwear":"large gold bow","skirt":"black pleated skirt with gold trim","bag":"dark brown school satchel with floral accents"}},"layout":{"grid":{"rows":3,"columns":3,"count":9},"panels":[{"number":1,"scene":"messy bedroom in morning light","action":"the girl wakes up yawning and rubbing one eye in bed","props_count":4,"props":["digital alarm clock reading 7:45 AM","small honey jar labeled HONEY","bed","window with warm sunlight"],"caption":"HONEY CHAN WAKES UP LATE..."},{"number":2,"scene":"bathroom interior","action":"she rushes while brushing her hair in front of a mirror, panicking about the time","props_count":3,"props":["hairbrush","bathroom sink area","mirror"],"caption":"OH NO! I'M SO LATE!"},{"number":3,"scene":"front doorway of the house","action":"she bursts out of the door at full speed with her school bag swinging behind her","props_count":2,"props":["open doorway","school bag"],"caption":"QUICK! GOTTA GO!"},{"number":4,"scene":"street or sidewalk with speed-line background","action":"she sprints with exaggerated anime speed, one shoe flying off behind her","props_count":2,"props":["dust cloud trail","flying shoe"],"caption":"SUPER SPEED... ACTIVATED!"},{"number":5,"scene":"same outdoor path with intense motion blur","action":"she rides a skateboard low to the ground, leaning hard into the motion as if launching forward","props_count":2,"props":["skateboard","dust trail"],"caption":"WHY WALK WHEN I CAN FLY?!"},{"number":6,"scene":"city street beside a yellow school bus","action":"she vaults high while grabbing a pole or signpost, soaring above the bus with musical-note energy","props_count":3,"props":["yellow school bus with SCHOOL BUS sign","vertical pole","music notes"],"caption":"BEAT THE TRAFFIC LIKE A BOSS!"},{"number":7,"scene":"school gate courtyard","action":"she lands at the entrance with arms spread wide, smiling in relief","props_count":3,"props":["open school gates","school building in background","courtyard path"],"caption":"MADE IT... JUST IN TIME!"},{"number":8,"scene":"close-up at school entrance","action":"she pauses with an awkward, nervous grin after the rush","props_count":1,"props":["sweat-drop comedic expression detail"],"caption":"UH... HEHE... 😅"},{"number":9,"scene":"classroom door or school entrance door","action":"a strict female teacher blocks her from entering while the girl stands off to the side in defeat","props_count":2,"props":["door sign reading LATE STUDENTS NOT ALLOWED IN CLASS.","teacher in dark blazer with arms crossed and raised hand"],"caption":"SORRY, HONEY CHAN. YOU'RE LATE. YOU CAN'T COME IN."}]},"composition":{"panel_numbers":"white numbered circles at the top-left of each panel, numbered 1 through 9","text_style":"all captions in uppercase comic lettering inside white rectangular boxes near the bottom of each panel","camera_variety":"mix of medium shots, action angles, wide shots, and one close-up","color_palette":"golden morning tones, warm browns, bright sky blues, and black-and-gold school uniform accents"}}
+{"type":"9格动漫漫画条","style":"动态漫画风格动漫插画，带有温暖的影院灯光，绘画般的细节，粗犷的运动线条，富有表现力的姿势，以及带有粗黑边框的白色标题框","subject":{"character":"{argument name=\"character name\" default=\"Honey Chan\"}","appearance":{"gender_presentation":"可爱的女学生","hair_color":"{argument name=\"hair color\" default=\"golden blonde\"}","hair_style":"长而凌乱的双马尾发型，带有大而蓬松的发束，顶部有动物耳朵般的配饰，一侧有花卉发饰","expression_range":"困倦、惊慌、坚定、胜利、尴尬"},"outfit":{"top":"白色水手风格校服衬衫，黑色衣领和金色镶边","neckwear":"大金色蝴蝶结","skirt":"黑色褶裙，带有金色镶边","bag":"深棕色书包，带有花卉装饰"}},"layout":{"grid":{"rows":3,"columns":3,"count":9},"panels":[{"number":1,"scene":"凌乱的卧室，晨光","action":"女孩在床上醒来，打着哈欠揉着一只眼睛","props_count":4,"props":["显示7:45 AM的数字闹钟","标有HONEY的小蜂蜜罐","床","带有温暖阳光的窗户"],"caption":"蜂蜜酱迟到了..."},{"number":2,"scene":"浴室内部","action":"她在镜子前匆忙地梳着头发，为时间感到恐慌","props_count":3,"props":["发刷","洗手盆区域","镜子"],"caption":"哦不！我太迟了！"},{"number":3,"scene":"房屋的前门","action":"她全速冲出大门，书包在她身后摆动","props_count":2,"props":["敞开的门","书包"],"caption":"快点！得走了！"},{"number":4,"scene":"带有速度线背景的街道或人行道","action":"她以夸张的动漫速度冲刺，一只鞋子飞向身后","props_count":2,"props":["尘云轨迹","飞舞的鞋子"],"caption":"超级速度...激活！"},{"number":5,"scene":"同一户外路径，强烈的动态模糊","action":"她低低地滑着滑板，用力倾斜，仿佛向前发射","props_count":2,"props":["滑板","尘土轨迹"],"caption":"既然我能飞，为什么还要走路？！"},{"number":6,"scene":"黄色校车旁的城市街道","action":"她抓住杆子或标志杆高高跃起，带着音符能量飞越校车","props_count":3,"props":["带有校车标志的黄色校车","垂直杆","音符"],"caption":"像老板一样击败交通！"},{"number":7,"scene":"校门庭院","action":"她在入口处落地，双臂张开，欣慰地微笑","props_count":3,"props":["敞开的校门","背景中的校舍","庭院小径"],"caption":"赶上了...刚好及时！"},{"number":8,"scene":"校入口特写","action":"她停下脚步，尴尬而紧张地咧嘴笑","props_count":1,"props":["汗滴喜剧表情细节"],"caption":"呃...呵呵... 😅"},{"number":9,"scene":"教室门或校入口门","action":"一位严厉的女老师阻止她进入，女孩则站在一旁，显得很沮丧","props_count":2,"props":["门牌上写着：迟到的学生不得进入教室。","穿着深色西装外套的老师，双臂交叉，举起手"],"caption":"对不起，蜂蜜酱。你迟到了。你不能进来。"}]},"composition":{"panel_numbers":"每个面板左上角的白色数字圆圈，编号1到9","text_style":"所有标题都在每个面板底部的白色矩形框内，使用大写漫画字体","camera_variety":"中景、动作角度、远景和一次特写的混合","color_palette":"金色晨光色调，温暖的棕色，明亮的蓝天色调，以及黑金校服装饰"}}
 ```
 
 <a id="prompt-c8535070f73a4d0d2e99"></a>
 
-### 105. 信息图 / 教育视觉图 - Four-Panel Science Concept Poster
+### 98. 信息图 / 教育视觉图 - Four-Panel Science Concept Poster
 
-![信息图 / 教育视觉图 - Four-Panel Science Concept Poster](https://cms-assets.youmind.com/media/1777367300158_lsdbji_HG8strhasAAG98U.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367300158_lsdbji_HG8strhasAAG98U.jpg" alt="信息图 / 教育视觉图 - Four-Panel Science Concept Poster" width="480">
 
-A polished 3D educational infographic poster showing astronomy, biology, chemistry, and physics as separate floating dioramas, ideal for science concept art or academic visual design.
+一个精美的3D教育信息图表海报，展示天文学、生物学、化学和物理学作为独立的漂浮立体模型，适合科学概念艺术或学术视觉设计。
 
-- **分类:** Infographic
+- **分类:** 信息图
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/TWnese/status/2048906317973360886#reversed-0)
 
 **提示词:**
 
 ```text
-{"type":"four-panel educational science concept poster","style":"cinematic 3D infographic illustration, premium educational poster, highly detailed floating diorama islands, realistic materials, soft studio lighting, clean modern typography, subtle scientific HUD icons and callout lines","theme":"Science as conceptual entities","canvas":{"aspect_ratio":"1:1","background":"split into 4 equal quadrants with different gradient color atmospheres"},"layout":{"grid":"2x2","sections":[{"title":"ASTRONOMY","subtitle":"Exploring the Universe","position":"top-left","count":4,"labels":["title","subtitle","3 callout icons with labels","central observatory diorama"],"background":"deep midnight blue sky with stars and a visible Milky Way band","subject":"a large white observatory dome with an open slit and telescope inside, placed on a circular floating rocky island with a winding path, small trees, shrubs, rocks, and a lit entrance door","callouts":["TELESCOPES","GALAXIES","STARS"]},{"title":"BIOLOGY","subtitle":"The Science of Life","position":"top-right","count":5,"labels":["title","subtitle","3 callout icons with labels","central microscope diorama"],"background":"clear cool blue gradient","subject":"a cream-colored binocular microscope on a circular floating island covered with moss, grass, ferns, small plants, flowers, and rocks, with a small translucent bubble showing green cell-like organisms near the upper left of the microscope","callouts":["CELLS","DNA","ECOSYSTEMS"]},{"title":"CHEMISTRY","subtitle":"Matter and Its Transformations","position":"bottom-left","count":5,"labels":["title","subtitle","3 callout icons with labels","central laboratory glassware diorama"],"background":"green to teal gradient","subject":"a circular floating platform displaying chemistry lab equipment including tall flasks, beakers, test tubes, round-bottom flasks, retort stands, and a ball-and-stick molecular model, with colorful liquids in green, blue, amber, and red-orange","callouts":["ELEMENTS","REACTIONS","BONDS"]},{"title":"PHYSICS","subtitle":"Understanding the Laws of Nature","position":"bottom-right","count":5,"labels":["title","subtitle","3 callout icons with labels","central Newton's cradle diorama"],"background":"warm beige to brown gradient","subject":"a polished metal Newton's cradle on a circular floating wooden-and-metal platform, accompanied by 3 stacked books and an open notebook with visible pages","callouts":["MOTION","ENERGY","GRAVITY"]}],"dividers":"clean cross-shaped split between quadrants"},"objects":{"floating_platforms":4,"main_disciplines":4,"callout_label_count":12},"text_treatment":{"font":"bold geometric sans-serif uppercase for titles, smaller clean sans-serif for subtitles and callout descriptions","title_color":"white","callout_style":"thin white outline icons with fine connector lines and small explanatory text"},"quality":"ultra-detailed, polished, balanced composition, sharp focus, professional educational key visual","customization":{"headline_theme":"{argument name=\"headline text\" default=\"Science\"}","astronomy_title":"{argument name=\"astronomy title\" default=\"ASTRONOMY\"}","biology_title":"{argument name=\"biology title\" default=\"BIOLOGY\"}","chemistry_title":"{argument name=\"chemistry title\" default=\"CHEMISTRY\"}","physics_title":"{argument name=\"physics title\" default=\"PHYSICS\"}"}}
-```
-
-<a id="prompt-cd4598f3d378ed85fa5d"></a>
-
-### 106. 个人资料 / 头像 - Shrine Maiden Offering an Omamori
-
-![个人资料 / 头像 - Shrine Maiden Offering an Omamori](https://cms-assets.youmind.com/media/1777367325615_2nck18_HG6o749b0AA-Mzf.jpg)
-
-This prompt generates a clean anime-style shrine scene featuring a miko presenting an omamori at a shrine counter, ideal for character art with culturally detailed background props.
-
-- **分类:** Profile
-- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/Mar35x/status/2048760631311184325#reversed-1)
-
-**提示词:**
-
-```text
-A polished anime-style illustration of a young shrine maiden named {argument name="character name" default="音慰"} standing inside a traditional Japanese shrine amulet office, shown from about thigh-up behind a wooden counter. She has long, straight {argument name="hair color" default="black"} hair with a center part and soft shine, pale skin, and a calm, gentle presence. Her face is centered and front-facing, but the facial area is obscured by a rectangular blur block. She wears a crisp white kimono-style top with wide sleeves and a deep red hakama tied in a large bow at the waist, conveying a classic miko outfit. Both hands are presenting a white embroidered omamori charm toward the viewer, holding it carefully at chest level; the charm has a gold cord knot at the top and the vertical kanji text "御守" on the front. In the foreground on the counter is a wooden display tray containing exactly 10 visible omamori charms in multiple colors: white, pink, red, purple, and gold-patterned variants, each with decorative cords and gold or white embroidery. To the right on the counter are 3 neat stacks of paper shrine talismans or packets, each labeled in Japanese; the rightmost stack is tied with a red-and-gold mizuhiki cord. On the left side of the counter is a small wooden price sign reading "初穂料 800円". The shrine interior is warmly lit with natural sunlight entering from a large wooden-framed window on the left, creating a serene, clean atmosphere. Through the window, a red railing and softly blurred shrine grounds and greenery are visible. In the background are wooden shelves and traditional decor, plus a vertical hanging sign with Japanese text reading "御守 御札" and smaller text "各種祈願承ります". The composition is centered on the miko and the offered charm, with soft depth of field, delicate fabric folds, realistic hands, refined linework, and a high-quality modern anime rendering style that emphasizes the subject more than the environment.
-```
-
-<a id="prompt-d1a27e2b3da5f0342c1a"></a>
-
-### 107. 个人资料 / 头像 - Cute Oil Pastel Schoolgirl Portrait
-
-![个人资料 / 头像 - Cute Oil Pastel Schoolgirl Portrait](https://cms-assets.youmind.com/media/1777367318637_zd2pgi_HG6VQpDboAAKvhH.jpg)
-
-This prompt generates a nostalgic, adorable anime schoolgirl bust portrait in an oil pastel crayon style, useful for creating soft handmade character art with a playful censored-face composition.
-
-- **分类:** Profile
-- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/MireilleDartois/status/2048739113558573201#reversed-3)
-
-**提示词:**
-
-```text
-A cute anime-style {argument name="character type" default="Japanese schoolgirl"} drawn as a hand-made oil pastel illustration on textured paper, bust-up portrait, centered composition. She has {argument name="hair color" default="dark brown"} hair in 2 low twin ponytails with soft waves and a center part, small dark hair ties, and visible ears. Her face is mostly hidden by a large vertical skin-toned rectangular censor block placed over the center of the face from forehead to chin, leaving only the hair, ears, jawline edges, and a little neck visible. She wears a light beige school uniform jacket over a white frilled blouse with lace-like ruffles at the collar and cuffs, accented by a deep red ribbon bow at the neck. Her right hand is raised in a small clenched-fist pose near her chin, creating a shy, adorable, cheering gesture. Background is fully filled with rough diagonal pink pastel scribbles over warm off-white paper. Emphasize thick waxy oil pastel texture, visible grain of paper, soft blending, broken color strokes, sketch-like outlines, charming imperfect handmade crayon drawing quality, gentle warm lighting, nostalgic and extremely cute mood.
+{"type":"四格教育科学概念海报","style":"电影感3D信息图表插图，优质教育海报，高度详细的浮动立体模型岛，逼真材质，柔和影棚灯光，简洁现代排版，微妙的科学HUD图标和标注线","theme":"作为概念实体的科学","canvas":{"aspect_ratio":"1:1","background":"分成4个相等的象限，每个有不同的渐变色氛围"},"layout":{"grid":"2x2","sections":[{"title":"天文学","subtitle":"探索宇宙","position":"top-left","count":4,"labels":["标题","副标题","3个带标签的标注图标","中央天文台立体模型"],"background":"深午夜蓝色天空，有星星和可见的银河带","subject":"一个大型白色天文台穹顶，有开口缝隙和内部望远镜，放置在一个圆形的浮动岩石岛上，岛上有蜿蜒小径、小树、灌木、岩石和一盏亮着的入口门灯","callouts":["望远镜","星系","恒星"]},{"title":"生物学","subtitle":"生命科学","position":"top-right","count":5,"labels":["标题","副标题","3个带标签的标注图标","中央显微镜立体模型"],"background":"清澈的冷蓝色渐变","subject":"一个奶油色双筒显微镜，放置在一个圆形的浮动岛上，岛上有苔藓、草、蕨类、小植物、花朵和岩石覆盖，显微镜左上方有一个小半透明气泡，显示类似绿色细胞的生物","callouts":["细胞","DNA","生态系统"]},{"title":"化学","subtitle":"物质及其转化","position":"bottom-left","count":5,"labels":["标题","副标题","3个带标签的标注图标","中央实验室玻璃器皿立体模型"],"background":"绿色到青绿色渐变","subject":"一个圆形浮动平台，展示化学实验室设备，包括高烧瓶、烧杯、试管、圆底烧瓶、支架和球棍分子模型，其中有绿色、蓝色、琥珀色和红橙色的彩色液体","callouts":["元素","反应","键"]},{"title":"物理学","subtitle":"理解自然法则","position":"bottom-right","count":5,"labels":["标题","副标题","3个带标签的标注图标","中央牛顿摆立体模型"],"background":"暖米色到棕色渐变","subject":"一个抛光金属牛顿摆，放置在圆形的木质和金属混合平台上，旁边有三本堆叠的书和一本打开的笔记本，可见书页","callouts":["运动","能量","重力"]}],"dividers":"象限之间有干净的十字形分割"},"objects":{"floating_platforms":4,"main_disciplines":4,"callout_label_count":12},"text_treatment":{"font":"标题使用粗体几何无衬线大写字母，副标题和标注描述使用较小的简洁无衬线字体","title_color":"白色","callout_style":"细白色轮廓图标，配有细连接线和小的解释性文本"},"quality":"超精细，精致，平衡构图，锐利焦点，专业教育关键视觉","customization":{"headline_theme":"{argument name=\"headline text\" default=\"Science\"}","astronomy_title":"{argument name=\"astronomy title\" default=\"ASTRONOMY\"}","biology_title":"{argument name=\"biology title\" default=\"BIOLOGY\"}","chemistry_title":"{argument name=\"chemistry title\" default=\"CHEMISTRY\"}","physics_title":"{argument name=\"physics title\" default=\"PHYSICS\"}"}}
 ```
 
 <a id="prompt-d2714e638f580272dc0b"></a>
 
-### 108. 个人资料 / 头像 - Ethereal Blue-Haired Fantasy Portrait
+### 99. 个人资料 / 头像 - Ethereal Blue-Haired Fantasy Portrait
 
-![个人资料 / 头像 - Ethereal Blue-Haired Fantasy Portrait](https://cms-assets.youmind.com/media/1777367299255_7e01qg_HG7uRRbbIAABIeT.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367299255_7e01qg_HG7uRRbbIAABIeT.jpg" alt="个人资料 / 头像 - Ethereal Blue-Haired Fantasy Portrait" width="480">
 
-This prompt generates a soft, luminous anime-style fantasy character portrait, ideal for creating elegant vertical key art or character illustrations with flowing hair and a dreamy spring atmosphere.
+此提示生成柔和、发光的动漫风格奇幻角色肖像，非常适合创建优雅的垂直关键艺术或角色插画，具有飘逸的头发和梦幻的春季氛围。
 
-- **分类:** Profile
+- **分类:** 个人资料
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/lchngjin91/status/2048836910676926484#reversed-0)
 
 **提示词:**
 
 ```text
-A highly detailed anime fantasy portrait of {argument name="character name" default="an elegant blue-haired fantasy woman"}, shown from the back in a three-quarter pose, turning her head over her shoulder to look at the viewer with calm violet eyes and a soft, slightly distant expression. She has very long, flowing {argument name="hair color" default="icy pastel blue"} hair with layered wispy bangs, loose windblown strands, one small ahoge on top, and 1 dark curved horn with subtle crimson striping emerging from the left side of her head. Her outfit is a refined, backless fantasy gown with 4 visible main pieces: a dark fitted bodice, a white open-backed outer layer with ornate gold trim and pale embroidered patterns, 2 long detached sleeves that fade into translucent blue-violet pointed cuffs, and red-blue ribbon ornaments tied at the neck and waist. Add delicate jewel-like tassel details at the upper back and trailing ribbon ends drifting in the air. The scene is backlit by soft spring sunlight in a pale stone pavilion or arched balcony, with 1 large arch opening behind her and clusters of {argument name="flower type" default="pink cherry blossoms"} glowing in the top right background. Include a few drifting petals, luminous haze, subtle sparkles, and a dreamy pastel atmosphere. Composition is vertical, upper-thigh portrait, character centered slightly right, hair sweeping broadly across the left side of the frame. Render in a polished ethereal anime illustration style with soft bloom, translucent fabrics, glossy eyes, delicate linework, cool lavender and blue tones, gentle rim light, painterly background blur, and an emphasis on smooth elegant surfaces, clean fabric flow, and minimal wrinkling.
+一个高度详细的动漫奇幻肖像画，描绘{argument name="character name" default="一位优雅的蓝发奇幻女性"}，以四分之三姿势从背面呈现，她转头回望观众，拥有平静的紫色眼睛和温柔、略带疏远的表情。她有非常长的、飘逸的{argument name="hair color" default="冰蓝色粉彩"}头发，带有分层细碎的刘海，松散的被风吹动的发丝，头顶有一小撮呆毛，左侧头部伸出一只带有细微红色条纹的深色弯曲犄角。她的服装是一件精致的露背奇幻礼服，有4个可见的主要部分：一件深色紧身胸衣，一件白色露背外层，带有华丽的金色装饰和淡雅的刺绣图案，两条长而分离的袖子，渐变成半透明的蓝紫色尖袖口，以及在颈部和腰部系着的红蓝丝带装饰。在上背部添加精致的宝石般的流苏细节，以及飘在空中的末端飘带。场景被柔和的春日阳光从背后照亮，在一个浅色石亭或拱形阳台上，她身后有一个大拱门，右上角背景中簇拥着{argument name="flower type" default="粉色樱花"}，散发着光芒。包含几片飘落的花瓣、发光的薄雾、微妙的闪光和梦幻的粉彩氛围。构图为垂直，大腿以上肖像，人物略微居右，头发在画面左侧大幅扫过。以精致空灵的动漫插画风呈现，带有柔和的光晕、半透明织物、闪亮的眼睛、精致的线条、冷薰衣草和蓝色调、柔和的轮廓光、绘画般的背景模糊，并强调光滑优雅的表面、干净的织物流动和最少的褶皱。
 ```
 
 <a id="prompt-d72bc4d967ffd07fa78d"></a>
 
-### 109. 产品营销 - Neon Catgirl Soda Splash
+### 100. 产品营销 - Neon Catgirl Soda Splash
 
-![产品营销 - Neon Catgirl Soda Splash](https://cms-assets.youmind.com/media/1777367322936_1l1lfl_HG7JQ7ybwAALpdm.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367322936_1l1lfl_HG7JQ7ybwAALpdm.jpg" alt="产品营销 - Neon Catgirl Soda Splash" width="480">
 
-A vivid cyber-anime promotional illustration of a cat-eared girl dramatically presenting a neon soda bottle, ideal for flashy beverage ads, social posts, or high-energy pop art visuals.
+一张生动的赛博朋克动漫风格宣传插画，描绘了一个猫耳女孩戏剧性地展示着一瓶霓虹汽水，适合用于炫目的饮料广告、社交媒体发布或高能量的波普艺术视觉效果。
 
-- **分类:** Product Marketing
+- **分类:** 产品营销
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-0)
 
 **提示词:**
 
 ```text
-A dynamic anime cyberpop illustration of a {argument name="character type" default="cat-eared anime girl"} in an extreme close-up, low-angle foreshortened pose, thrusting a glass soda bottle directly toward the viewer so the bottle and hand dominate the foreground. The scene is drenched in explosive neon magenta, cyan, violet, and electric blue lighting, with a glossy high-contrast finish and dense sparkling particle effects. The character has long, flowing {argument name="hair color" default="silver-white hair with cyan and pink highlights"}, large furry cat ears, and layered windswept strands glowing with rim light. Her face is mostly hidden by a flat rectangular censorship block in muted purple placed over the eye area. She wears futuristic clubwear: a black strappy top with a small cat-symbol detail, a translucent iridescent jacket slipping off the shoulders, shiny dark armwear or gloves, metallic accessories, and dangling earrings. Her nails are painted vivid pink. In the foreground, she grips a clear bottle labeled {argument name="drink label" default="NYAN EXTREME SODA"}, with a stylized cat face logo on a dark label. The bottle is filled with bright blue and pink fizzy liquid, and the cap is off as a dramatic geyser of sparkling pink soda erupts upward and outward, splashing across the frame. Surround the character with floating translucent ice cubes, droplets, glitter, and bokeh-like highlights. The background is an abstract nightlife energy burst of swirling liquid, neon splashes, and luminous particles rather than a realistic location. Emphasize exaggerated perspective, motion, sensual pop-art attitude, hyper-detailed reflections, glossy skin and fabric, and a bold gpt-image-2 polished anime illustration aesthetic.
+一个充满活力的动漫赛博流行插画，描绘了一个{argument name="character type" default="猫耳动漫女孩}"，采用极端特写、低角度透视缩短姿势，将玻璃汽水瓶直接推向观众，使瓶子与手占据前景。场景被爆炸性的霓虹品红、青色、紫色和电蓝色灯光所浸染，具有光泽的高对比度处理和密集的闪烁粒子效果。角色拥有长长的、流动的{argument name="hair color" default="银白色头发，带有青色和粉色高光}"，毛茸茸的大猫耳，以及分层被风吹动的发丝，边缘发光。她的脸大部分被一块平坦的矩形紫色审查块遮挡，放置在眼部区域。她穿着未来主义俱乐部服装：黑色细带上衣带有小猫符号细节，半透明彩虹色外套从肩膀滑落，闪亮的深色手臂装备或手套，金属配饰，以及垂坠式耳环。她的指甲涂有鲜艳的粉色。在前景中，她握着一个透明瓶子，标签上写着{argument name="drink label" default="NYAN EXTREME SODA}"，深色标签上有一个风格化的猫脸标志。瓶子里装满了明亮的蓝色和粉色碳酸液体，瓶盖已打开，戏剧性的粉色汽水喷泉向上向外喷发，溅射整个画面。用漂浮的半透明冰块、水滴、闪光和类似散景的高光环绕角色。背景是抽象的夜生活能量爆发，包含旋转的液体、霓虹飞溅和发光粒子，而非真实场景。强调夸张的透视、动感、感性波普艺术态度、超精细的反射、光泽的皮肤和面料，以及大胆的gpt-image-2精致动漫插画美学。
 ```
 
 <a id="prompt-e1ce347fc7f6997fc97d"></a>
 
-### 110. 产品营销 - Neon Catgirl Soda Ad
+### 101. 产品营销 - Neon Catgirl Soda Ad
 
-![产品营销 - Neon Catgirl Soda Ad](https://cms-assets.youmind.com/media/1777367322953_0u0h4v_HG7JQ8OaAAEEXgN.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367322953_0u0h4v_HG7JQ8OaAAEEXgN.jpg" alt="产品营销 - Neon Catgirl Soda Ad" width="480">
 
-A vivid cyber-anime poster of a cat-eared girl presenting a bursting soda bottle, ideal for energetic drink branding or flashy social media key art.
+一张生动的赛博朋克动漫海报，展示着一个猫耳女孩手持爆开的汽水瓶，适合用于能量饮料品牌宣传或引人注目的社交媒体主视觉。
 
-- **分类:** Product Marketing
+- **分类:** 产品营销
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-1)
 
 **提示词:**
 
 ```text
-A hyper-dynamic anime cyberpop illustration of a cat-eared girl thrusting a soda bottle toward the camera in an extreme close-up, with strong fisheye perspective and dramatic foreshortening. The bottle dominates the foreground in her hand, label clearly reading "CAT NYAN SODA" with smaller Japanese-style text beneath, and the cap is off as glowing fizzy liquid erupts upward in a huge splash. The character is a stylish futuristic young woman with {argument name="hair color" default="silver-white with blue and pink iridescence"} hair, very long and voluminous, whipping through the frame in neon ribbons. She has 2 visible cat ears, fluffy and oversized, decorated with 3 small accessories: a spiked ear cuff, a tiny cat-face clip, and a small metallic piercing detail. Her face is mostly hidden by a solid {argument name="censor block color" default="purple"} square centered over the upper face area. She wears a cropped white tank top with a small barcode-like graphic, a dark glossy jacket slipping off the shoulders, layered necklaces, and a belt at the waist. Her nails are painted bright pink. The product is a plastic soda bottle filled with dark purple liquid and glowing highlights, with a bold playful logo in white and pink. Surround the scene with floating ice cubes, sparkling droplets, and explosive carbonation effects. Use a high-contrast palette of electric magenta, violet, cyan, and deep blue, with luminous reflections on skin, hair, glassy surfaces, and liquid. Background is an abstract nightlife energy burst of streaks, splashes, particles, and refracted light, no clear environment, just intense motion and color. Make it glossy, saturated, chaotic, and stylish like a premium anime beverage ad poster, with sharp linework, radiant bloom, glittering specular highlights, and a rebellious pop-cyber aesthetic. Vertical composition, waist-up view, single character, 1 bottle, 1 major soda splash, 6 visible floating ice cubes.
+一个充满活力的动漫赛博流行插画，描绘了一个猫耳女孩在特写镜头中将苏打水瓶推向相机，具有强烈的鱼眼透视和戏剧性的透视缩短。瓶子在她的手中占据前景，标签清晰显示"CAT NYAN SODA"，下方有较小的日式文字，瓶盖已打开，发光的苏打液体向上喷涌形成巨大的水花。角色是一位时尚的未来年轻女性，拥有{argument name="hair color" default="silver-white with blue and pink iridescence"}的头发，非常长且蓬松，像霓虹色丝带一样在画面中飘动。她有2只可见的猫耳，蓬松且超大，装饰着3个小配饰：一个尖刺耳环、一个小猫脸夹和一个小的金属穿孔细节。她的脸大部分被一个实心的{argument name="censor block color" default="purple"}方块遮挡，方块位于面部区域中央。她穿着一件白色露脐背心，上面有一个类似条形码的小图案，一件深色光泽夹肩滑落肩膀，戴着多层项链，腰间系着腰带。她的指甲涂亮粉色。产品是一个装有深紫色液体和发光高光的塑料苏打水瓶，有大胆的白色和粉色俏皮标志。场景周围漂浮着冰块、闪烁的水滴和爆炸性的碳酸效果。使用高对比度的洋红色、紫罗兰色、青色和深蓝色调，皮肤、头发、玻璃表面和液体上有发光反射。背景是抽象的夜生活能量爆发，有条纹、飞溅、粒子和折射光，没有清晰的环境，只有强烈的运动和色彩。使其具有光泽感、饱和度、混乱感和时尚感，就像优质的动漫饮料广告海报，线条锐利，辐射光晕，闪烁的高光，以及叛逆的流行赛博美学。垂直构图，腰部以上视角，单人角色，1个瓶子，1个主要的苏打水飞溅，6个可见的漂浮冰块。
 ```
 
 <a id="prompt-e348ebd54b9ed86c2101"></a>
 
-### 111. 产品营销 - Neon Catgirl Soda Burst
+### 102. 产品营销 - Neon Catgirl Soda Burst
 
-![产品营销 - Neon Catgirl Soda Burst](https://cms-assets.youmind.com/media/1777367324229_9wwn5n_HG7JQ75bAAA_KuN.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367324229_9wwn5n_HG7JQ75bAAA_KuN.jpg" alt="产品营销 - Neon Catgirl Soda Burst" width="480">
 
-This prompt generates a high-energy anime-style vertical poster of a cat-eared idol girl presenting a glowing soda bottle amid explosive neon splashes, ideal for ad-style key art or social media illustration.
+此提示生成一张高能量的动漫风格竖版海报，展示一个猫耳偶像少女在爆炸性霓虹飞溅中手持发光的汽水瓶，适合广告风格的关键艺术或社交媒体插图。
 
-- **分类:** Product Marketing
+- **分类:** 产品营销
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-2)
 
 **提示词:**
 
 ```text
-A hyper-dynamic anime illustration of a neon cyber idol catgirl thrusting a soda bottle toward the viewer in extreme foreshortened perspective, with the bottle dominating the foreground and the character filling the background. She has {argument name="hair color" default="long lavender-to-cyan gradient hair"}, 2 black cat ears with soft pink inner fur, and 1 glowing halo ring floating above her head. Her face is mostly hidden by a solid square censor block in the center-right of the image, while her wild flowing hair explodes outward in ribbons and strands. She wears a glossy black and white futuristic streetwear outfit with a deep neckline, a cropped jacket, metallic straps, small accessories, and a round pink badge near the chest. Her visible hand grips 1 plastic soda bottle labeled {argument name="brand name" default="Nyan SODA"}, with long nails painted in 2 colors: cyan and pink. The bottle is transparent and filled with sparkling dark purple soda, glowing bubbles, and neon highlights, and it erupts upward in a dramatic splash of vivid magenta liquid. Surround the scene with 1 shower of crystalline ice cubes, countless droplets, paint-like splashes, glittering particles, and energy arcs. Use an intense palette of electric magenta, violet, indigo, and cyan with high contrast, glossy reflections, bloom lighting, and luminous rim light. The background should be an abstract explosion of liquid, light, and motion rather than a realistic setting. Make it feel like an aggressive soda advertisement mixed with idol key art, chaotic, cute, and high-energy, with ultra-detailed anime rendering, crisp linework, sparkling highlights, and a vertical poster composition.
+一个充满活力的动漫插画，描绘了一个霓虹赛博偶像猫娘，以极度缩短的透视角度将一瓶汽水推向观众，瓶子占据前景，角色填满背景。她有着{argument name="hair color" default="长薰衣草青色渐变头发"}，2只黑色猫耳，内层有柔软的粉色绒毛，头顶上方漂浮着1个发光的光环。她的脸部大部分被图像中右侧中心的实心方形马赛克块遮挡，而她狂野飘逸的头发则向外爆炸成丝带和细丝。她穿着闪亮的黑白未来街头服饰，有深领口、短夹克、金属束带、小配饰和胸前的圆形粉色徽章。她可见的手握着1个标有{argument name="brand name" default="Nyan SODA"}的塑料汽水瓶，指甲涂有2种颜色：青色和粉色。瓶子透明，装满闪亮的深紫色汽水，发光的气泡和霓虹高光，向上喷涌出戏剧性的鲜艳洋红色液体。场景周围环绕着1场水晶冰块淋浴，无数水滴，油漆般的飞溅，闪烁的粒子和能量弧线。使用强烈的洋红色、紫罗兰色、靛蓝色和青色调色板，高对比度，闪亮的反射，辉光照明和发光的轮廓光。背景应该是液体、光线和运动的抽象爆炸，而不是真实的场景。让它感觉像是一个充满活力的汽水广告与偶像艺术画的混合，混乱、可爱、高能量，具有超精细的动漫渲染，清晰的线条，闪亮的高光和垂直海报构图。
 ```
 
 <a id="prompt-fcf8b784232f6fda2427"></a>
 
-### 112. 漫画 / 故事板 - Baroque Fantasy Idol Performance
+### 103. 漫画 / 故事板 - Baroque Fantasy Idol Performance
 
-![漫画 / 故事板 - Baroque Fantasy Idol Performance](https://cms-assets.youmind.com/media/1777367329427_ar5dmd_HG8lfdrbcAAA2y6.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367329427_ar5dmd_HG8lfdrbcAAA2y6.jpg" alt="漫画 / 故事板 - Baroque Fantasy Idol Performance" width="480">
 
-This prompt generates a dramatic full-body anime-style heroine in an ornate palace interior, ideal for high-end fantasy illustration, character key art, or elegant AI art showcases.
+这个提示生成一个华丽的全身动漫风格女英雄，装饰华丽的宫殿内部，适合高端幻想插画、角色关键艺术或优雅的AI艺术展示。
 
-- **分类:** Comic
+- **分类:** 漫画
 - **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/nanakakayell/status/2048897588326445290#reversed-0)
 
 **提示词:**
 
 ```text
-A full-body fantasy anime-style illustration of a glamorous young idol-like woman performing on an ornate gilded stage inside a grand baroque palace hall. She stands in a dramatic low-angle pose on a carved gold balcony or platform, one leg forward and slightly crossed, with her left arm thrust toward the viewer in strong foreshortening and her other hand resting lightly at her chest. She has a slim, elegant build, very long flowing dark brown hair streaming in the air, and a decorative floral and ribbon headpiece. Her expression should feel confident, theatrical, and captivating. She wears an elaborate frilled performance dress in {argument name="dress colors" default="royal blue, crimson red, white, and gold"}: a fitted corset bodice with gold trim and red front panel, white lace bust and sleeves, layered short ruffled skirt, and large swirling overskirts and cape-like fabric panels edged with gold embroidery that billow dramatically around her. Add ornate ankle accessories with matching ribbon flowers, white heeled shoes or short boots, and luxurious detailed fabric textures. The setting is a richly decorated interior with 1 large glowing gothic arched window on the left, 1 heavy dark red velvet curtain framing the top and left side, 1 large classical oil painting in an ornate frame on the right wall, 1 tall carved column behind her, 1 abundant arrangement of roses and pale flowers at the lower left, and 1 gilded balustrade across the foreground. Warm golden backlight streams through the stained-glass-like window, creating a luminous halo, soft haze, rim light on her hair and costume, and deep cinematic shadows. A few rose petals drift in the air. Highly detailed, ultra-polished, romantic, majestic, dynamic composition, rich textures, painterly anime illustration with realistic lighting and luxurious fantasy idol aesthetics.
+一个全身的幻想动漫风格插画，描绘了一位魅力四射的年轻偶像般的女演员在宏伟的巴洛克宫殿大厅内一个华丽的镀金舞台上表演。她站在一个雕刻着黄金图案的阳台或平台上，采用戏剧性的低角度姿势，一条腿向前略微交叉，左臂强烈缩短透视伸向观众，另一只手轻放在胸前。她拥有纤细优雅的身材，非常长的深棕色飘逸长发在空中飞扬，戴着装饰性的花卉和丝带头饰。她的表情应该充满自信、戏剧性和吸引力。她穿着一件精致的褶边表演裙，颜色为 {argument name="dress colors" default="royal blue, crimson red, white, and gold"}：一件合身的紧身胸衣，带有金色装饰和红色前襟，白色蕾丝胸罩和袖子，层叠的短褶皱裙摆，以及带有金色刺绣边缘的大型旋转式过膝裙和披风式面料面板，在周围戏剧性地飘动。添加了带有匹配丝带花朵的精致脚踝饰品，白色高跟鞋或短靴，以及奢华的精细面料纹理。场景是一个装饰丰富的室内，左侧有1个发光的大型哥特式拱形窗户，顶部和左侧有1个沉重的深红色天鹅绒窗帘，右侧墙壁上有1个带有精致画框的大型古典油画，身后有1个高大的雕刻柱，左下角有1个丰富的玫瑰和浅色花束，前景中有1个镀金栏杆。温暖的金色背光穿过类似彩色玻璃的窗户，创造出发光的光晕、柔和的薄雾、头发和服装的轮廓光，以及深沉的电影感阴影。几片玫瑰花瓣在空中飘落。高度详细、超精致、浪漫、宏伟、动态构图，丰富的纹理，具有真实照明的绘画性动漫插画，以及奢华的幻想偶像美学。
 ```
 
 <a id="prompt-77641c356c7d91a43ee8"></a>
 
-### 113. 1900 Istiklal Street Panorama Prompt
+### 104. 1900年独立大街全景提示词
 
-![1900 Istiklal Street Panorama Prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg" alt="1900年独立大街全景提示词" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ai_gezgini/status/2046903631509705030)
 
 **提示词:**
 
 ```text
-360 equirectangular image of Istiklal Street, Istanbul in 1900
+1900年伊斯坦布尔独立大街的360度等距矩形图像
 ```
 
 <a id="prompt-81b2790dcf824629c40c"></a>
 
-### 114. Sony A7 Exploded View Breakdown Prompt
+### 105. 索尼A7分解视图提示
 
-![Sony A7 Exploded View Breakdown Prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case58/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case58/output.jpg" alt="索尼A7分解视图提示" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/iaPulse_/status/2046903739429097660)
 
 **提示词:**
 
 ```text
-Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.
+索尼A7品牌相机的详细分解，显示其所有零件及其名称。
 ```
 
 <a id="prompt-9a595f6101b20d1d51cf"></a>
 
-### 115. 6-Block Fashion Campaign Prompt Formula
+### 106. 六块时尚活动提示词公式
 
-![6-Block Fashion Campaign Prompt Formula](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg" alt="六块时尚活动提示词公式" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** categories.poster-illustration-cases.zh-CN
+
+海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/anacoding/status/2046904999045628114)
 
 **提示词:**
 
 ```text
-Old money Hamptons editorial, tall blonde woman late 20s, serene elegant expression, wearing cream cashmere cable sweater, pleated beige tennis skirt, pearl earrings, Hermès silk scarf, leather flats, Slim Aarons photography style, medium format film photography, sitting on a white wooden porch of a Cape Cod house, golden hour light, ocean in the background
+老钱风汉普顿专题摄影，高个子金发女子，二十多岁，宁静优雅的表情，穿着奶油色羊绒毛衣，米色百褶网球裙，珍珠耳环，爱马仕丝巾，平底皮鞋，Slim Aarons摄影风格，中画幅胶片摄影，坐在科德角风格房屋的白色木制门廊上，黄金时刻光线，背景是海洋
 ```
 
 <a id="prompt-017def9dd1897e41c8ed"></a>
 
-### 116. Silicon Valley 2026 Promo Poster
+### 107. 硅谷 2026 宣传海报
 
-![Silicon Valley 2026 Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg" alt="硅谷 2026 宣传海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/carsonyungos/status/2046523198116889064)
 
 **提示词:**
 
 ```text
-A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.
+精致的2026年硅谷城市宣传海报，具有未来感而优雅的氛围。
 
-Double exposure composition, preserving an S-shaped sense of flowing movement. On a pure white textured background, in the lower-right corner, a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air, showing a soft silk-like texture, and as it drifts toward the upper-left, it magically transforms into a grand landscape of rolling hills, coastline, data streams, and illuminated urban terrain.
+双重曝光构图，保持S形的流动感。在纯白色纹理背景的右下角，一个穿着时尚现代科技服装的小人正在释放一条发光的银蓝色光带。光带优雅地在空中流动，呈现出柔软的丝绸质感，当它向左上方向漂移时，神奇地转变为连绵起伏的山丘、海岸线、数据流和发光的城市景观。
 
-Within this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley, blending technology, nature, innovation, and California sunlight. The scene feels visionary, expansive, sophisticated, and inspiring.
+在这条流动的"光河"中，叠加一幅手绘的硅谷全景地图，融合了技术、自然、创新和加州阳光。场景具有远见、广阔、精致和启发性。
 
-Include iconic Silicon Valley and Bay Area elements: Stanford University arches, Apple Park, Google campus-inspired buildings, Meta-like glass offices, Tesla-style innovation imagery, venture capital offices on Sand Hill Road, Palo Alto tree-lined streets, San Jose skyline, the Santa Cruz Mountains, San Francisco Bay, highways, autonomous vehicles, startup labs, semiconductor patterns, AI data centers, and subtle circuit-board textures.
+包含标志性的硅谷和湾区元素：斯坦福大学拱门、苹果园区、谷歌校园风格的建筑、类似Meta的玻璃办公室、特斯拉风格的创新形象、沙山路上的风险投资办公室、帕洛阿尔托的林荫街道、圣何塞天际线、圣克鲁斯山脉、旧金山湾、高速公路、自动驾驶车辆、初创实验室、半导体图案、人工智能数据中心和微妙的电路板纹理。
 
-Surrounded by soft mist, golden California light, floating clouds, and delicate digital particles. Rich colors, complex structure, highly detailed, grand and breathtaking, yet still fresh and minimal because of the large areas of white space.
+周围环绕着柔和的薄雾、金色的加州光线、漂浮的云朵和精致的数字粒子。丰富的色彩，复杂的结构，高度详细，宏伟而令人叹为观止，但由于大面积的留白，仍然保持清新和简约。
 
-In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout, graceful spacing, clear and complete lettering, premium city branding poster, cinematic lighting, sophisticated details, 9:16 aspect ratio.
+在左下角，优雅的字体显示"SILICON VALLEY 2026"，配有垂直的宣传标语："Where Ideas Shape Tomorrow."（思想塑造未来）。精美的编辑布局，优雅的间距，清晰完整的字母，优质的城市品牌海报，电影般的照明，精致的细节，9:16的宽高比。
 ```
 
 <a id="prompt-0f40992bc687dad3ce09"></a>
 
-### 117. Character Visual Vertical Poster
+### 108. 角色视觉垂直海报
 
-![Character Visual Vertical Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg" alt="角色视觉垂直海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/tebasaki3D/status/2046371076402503709)
 
 **提示词:**
 
 ```text
-『神層37区 特級執行官 神巫サバト』この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して
+『神层37区 特级执行官 神巫萨巴特』请以专业设计师的身份，为这个名称的角色和世界观制作一个竖向海报的视觉形象。
 ```
 
 <a id="prompt-12abf3bf02f4dc9536df"></a>
 
-### 118. Dark Epic Concept Poster
+### 109. 黑暗史诗概念海报
 
-![Dark Epic Concept Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case50/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case50/output.jpg" alt="黑暗史诗概念海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/A9Quant/status/2046224777208361126)
 
 **提示词:**
@@ -2607,7 +3261,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 - 主环境色由 AI 根据【主题】自动决定,但整体必须克制,以暗色为主
 - 强光区域色彩必须高度集中,只服务于体积光与主体高光
 - 主题色 / 强调色只能集中用于主视觉核心,不允许全画面泛滥
-- 必须建立明确的“黑暗底色 + 单一主光 + 少量主题强调色”的层级秩序
+- 必须建立明确的"黑暗底色 + 单一主光 + 少量主题强调色"的层级秩序
 
 【构图与视觉重力】
 - 采用强烈的斜向张力与向中心汇聚的视觉引导
@@ -2656,11 +3310,11 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 <a id="prompt-15f7a9ca58c408f4d7ef"></a>
 
-### 119. Surreal Koi Nebula Illustration
+### 110. 超现实鲤鱼星云插图
 
-![Surreal Koi Nebula Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case11/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case11/output.jpg" alt="超现实鲤鱼星云插图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插图案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045875219307655337)
 
 **提示词:**
@@ -2671,11 +3325,11 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 <a id="prompt-19850a88e6f24892f9f1"></a>
 
-### 120. Chengdu Food Map Illustration
+### 111. 成都美食地图插图
 
-![Chengdu Food Map Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg" alt="成都美食地图插图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例, 成都吃货暴走手绘美食地图
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Panda20230902/status/2045396918965285111)
 
 **提示词:**
@@ -2686,11 +3340,11 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 <a id="prompt-2afe1d6333408622e48c"></a>
 
-### 121. Ink-Curve Guangzhou Aesthetics Poster
+### 112. 墨线曲线 广州美学海报
 
-![Ink-Curve Guangzhou Aesthetics Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case12/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case12/output.jpg" alt="墨线曲线 广州美学海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插图案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045873940883808523)
 
 **提示词:**
@@ -2701,11 +3355,11 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 <a id="prompt-2e1031233c72166c4736"></a>
 
-### 122. Handwritten Medical Prescription Sheet
+### 113. 手写医疗处方单
 
-![Handwritten Medical Prescription Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg" alt="手写医疗处方单" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例, 手写中西药方图片
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2046514998965371144)
 
 **提示词:**
@@ -2716,11 +3370,11 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 <a id="prompt-3a86d0146c68e3ddc294"></a>
 
-### 123. Chinese Minimalist S-Shaped Poster
+### 114. 中国风极简主义S形海报
 
-![Chinese Minimalist S-Shaped Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case4/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case4/output.jpg" alt="中国风极简主义S形海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045368305079447853)
 
 **提示词:**
@@ -2734,31 +3388,31 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 岸边树木葱茏，枝叶轻盈，一艘小船静泊于水中央，增添了几分悠然意境。
 整体构图呈S形曲线，富有韵律感，仿佛自然与人文的和谐共生。
 画作边缘采用撕纸效果，营造出立体浮雕般的视觉体验。
-下方题字“东方美学”以黑色楷体书写，日期“2026/04/18”与红色印章相呼应，底部“CHINA”字样庄重醒目，署名“@LIYUE”低调收尾，整体氛围静谧深远，充满诗意与哲思。
+下方题字"东方美学"以黑色楷体书写，日期"2026/04/18"与红色印章相呼应，底部"CHINA"字样庄重醒目，署名"@LIYUE"低调收尾，整体氛围静谧深远，充满诗意与哲思。
 ```
 
 <a id="prompt-406a20bf976bfd6b3ab0"></a>
 
-### 124. Spring 2026 Guangzhou Promo Poster
+### 115. 2026年广州春季推广海报
 
-![Spring 2026 Guangzhou Promo Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg" alt="2026年广州春季推广海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/grok/status/2046012437086818395)
 
 **提示词:**
 
 ```text
-一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。
+一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 "SPRING 2026" 与竖排 "千年商都 魅力广州"。
 ```
 
 <a id="prompt-517ce95a28537347b911"></a>
 
-### 125. Dark-Fantasy Guangzhou City Poster
+### 116. 黑暗幻想广州市海报
 
-![Dark-Fantasy Guangzhou City Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case42/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case42/output.jpg" alt="黑暗幻想广州市海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2046243132774494607)
 
 **提示词:**
@@ -2766,100 +3420,100 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 ```text
 平面插画,东方幻想风格高端城市海报设计,竖版9:16构图,整体采用对角线+S型流动构图,从左下向右上延展,画面以深邃黑色为背景,自上而下渐变至浓烈暗红色,形成强烈冷暖对比与空间纵深,背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿,自底部向上延伸,具有流体质感、粒子光效与渐变高光,局部带细微能量碎屑与体积光。
 
-金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用“精细线描 + 金色发光体块”表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。
+金色流光中逐层浮现广州城市地标建筑群:广州塔为视觉核心,比例突出,周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素,建筑采用"精细线描 + 金色发光体块"表现,轮廓清晰、细节丰富,在金色光晕映衬下仿佛悬浮于虚空,形成超现实空间层次,远景轻微雾化增强纵深感。
 
 画面底部为一位东方白发女性形象,长发飘逸,如烟似雾,与金色流光自然衔接并逐渐融合,发丝半透明带渐变光感,姿态柔美,双目微闭,神情宁静,怀抱一束多彩鲜花,花间点缀微光粒子与星点效果,象征人与城市能量的精神连接,人物细节适度简化以突出整体设计感。
 
 光影集中于金色流线、建筑与人物轮廓,形成强烈明暗对比与视觉聚焦,整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底,高亮鎏金为主视觉强调,金色具备丰富明暗层次,辅以小面积高饱和花束色彩点缀,整体高级克制。
 
-页面文字与画面融合排版:顶部居中宋体大字“广州·中国”,下方小字“2026/04/20”,再下方小字“LIYUE”,文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。
+页面文字与画面融合排版:顶部居中宋体大字"广州·中国",下方小字"2026/04/20",再下方小字"LIYUE",文字采用淡金色或柔和暖白色,与整体光影统一。高品质细节,电影级光影表现,体积光与粒子细节丰富,画面干净无噪点,超高清8K分辨率,商业级海报质感。
 ```
 
 <a id="prompt-531b2422c07f07755415"></a>
 
-### 126. Don Quijote Promo Pop Poster
+### 117. 堂吉诃德促销波普海报
 
-![Don Quijote Promo Pop Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg" alt="堂吉诃德促销波普海报" width="480">
 
-- **分类:** UI & Social Media Mockup Cases
+- **分类:** UI 与社交媒体模型展示案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/loglogrog/status/2046437230127034774)
 
 **提示词:**
 
 ```text
-GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
+使用GPT Image 2，研究OpenClaw的信息，以大金刚广告海报的风格，就像贴在真实的大金刚上一样生成图像
 ```
 
 <a id="prompt-5ccbfb70eb97bb62f08b"></a>
 
-### 127. Doodle Sketch AI Builder
+### 118. 涂鸦素描AI构建器
 
-![Doodle Sketch AI Builder](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case7/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case7/output.jpg" alt="涂鸦素描AI构建器" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/blanplan/status/2045190582453350748)
 
 **提示词:**
 
 ```text
-以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“BlanPlan”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
+以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。画面中需自然加入专属签名"BlanPlan"，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
 ```
 
 <a id="prompt-6032d5f4f19a1b6b4a5b"></a>
 
-### 128. Vintage Amalfi Travel Poster
+### 119. 复古阿马尔菲旅行海报
 
-![Vintage Amalfi Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case2/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case2/output.jpg" alt="复古阿马尔菲旅行海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/WolfRiccardo/status/2044562722491121718)
 
 **提示词:**
 
 ```text
-Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
+现代铅笔插画，意大利阿马尔菲海岸的复古旅行海报插画，全景海岸悬崖公路场景，经典的1960年代白色汽车沿着弯曲的海滨道路行驶，深蓝色的地中海海面上有小帆船，色彩柔和的山边村庄，明亮的蓝色天空上飘着柔软的云朵，柠檬树枝上挂着鲜艳的黄色柠檬，作为前景的框架，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影构图，高细节，丝网印刷质感，平面插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代和装饰性美学。
 ```
 
 <a id="prompt-61bfb7b238036e2f4b77"></a>
 
-### 129. Futuristic Mandala Illustration
+### 120. 未来主义曼陀罗插图
 
-![Futuristic Mandala Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg" alt="未来主义曼陀罗插图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/4WEB1/status/2045390207072256179)
 
 **提示词:**
 
 ```text
-曼荼羅の近未来SF版を描いて
+描绘一个近未来的科幻版曼荼罗
 ```
 
 <a id="prompt-61e0a0d7599845902fa0"></a>
 
-### 130. Browser Game Ad Creative Poster
+### 121. 浏览器游戏广告创意海报
 
-![Browser Game Ad Creative Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg" alt="浏览器游戏广告创意海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/llllegend0620/status/2045963764466688065)
 
 **提示词:**
 
 ```text
-以下の文字を必ず入れて、1:1のポスターを作成してください。書籍・講座・イベント告知に使える、プロの広告デザイナーが作ったような高品質な仕上がりにしてください。
+请务必包含以下文字，制作1:1比例的海报。请制作出可用于书籍、课程、活动宣传的高品质效果，如同专业广告设计师制作的作品。
 
-広告クリエイティブ制作
-思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる
+广告创意制作
+想到就能玩。AI×浏览器游戏制作真的很有趣。看似困难，实际上很容易入门。即使不懂代码，也能做出第一个游戏。
 ```
 
 <a id="prompt-75a0838d28027fd63850"></a>
 
-### 131. AI Builder Doodle Sketch
+### 122. AI构建器涂鸦素描
 
-![AI Builder Doodle Sketch](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case36/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case36/output.jpg" alt="AI构建器涂鸦素描" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/opc_8838/status/2046162334440448339)
 
 **提示词:**
@@ -2870,41 +3524,41 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 <a id="prompt-7d33c5c25d5b9e6c8a51"></a>
 
-### 132. Refreshing Summer Udon Ad
+### 123. 清爽夏日乌冬面广告
 
-![Refreshing Summer Udon Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg" alt="清爽夏日乌冬面广告" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/genel_ai/status/2046501692246470871)
 
 **提示词:**
 
 ```text
-少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように
+在这个逐渐变热的季节里，我希望能更强烈地感受到那种清爽、水润的感觉。希望能更多地感受到冷乌冬面和茄子，以及将汤汁含在口中的那种爽快感。
 ```
 
 <a id="prompt-800a50f509e75184d8d3"></a>
 
-### 133. Japanese Supermarket Sale Flyer
+### 124. 日本超市促销传单
 
-![Japanese Supermarket Sale Flyer](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg" alt="日本超市促销传单" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/weel_corp/status/2046514558064586782)
 
 **提示词:**
 
 ```text
-『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』
+『热闹且吸引人的超市传单折页图像。顶部有"特卖"的大字和本周日期。彩色商品照片(蔬菜・水果・牛肉・鲜鱼)、红色边框的价格标签、"超值商品""家庭支持"的标语...』
 ```
 
 <a id="prompt-87720e8d9824e5da5f81"></a>
 
-### 134. Science Encyclopedia Infographic
+### 125. 科学百科信息图
 
-![Science Encyclopedia Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case39/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case39/output.jpg" alt="科学百科信息图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2046231542817497392)
 
 **提示词:**
@@ -2912,7 +3566,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```text
 请根据【主题】生成一张高质量竖版「科普百科图」。
 
-这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+这张图不是普通海报,也不是单纯插画,而是一张兼具"图鉴感、百科感、信息结构感、收藏感"的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
 
 请让画面包含:
 - 一个清晰漂亮的主题主视觉
@@ -2928,61 +3582,56 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 视觉要求:
 浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。
 
-请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
-```
-
-<a id="prompt-8946304d2cefec014a2c"></a>
-
-### 135. Anime Snapshot Conversion
-
-![Anime Snapshot Conversion](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case1/output.jpg)
-
-- **分类:** Character Design Cases
-- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Thereallo1026/status/2044241997163311569)
-
-**提示词:**
-
-```text
-Show me the attached image as a snapshot from an actual anime
+请不要做成普通商业宣传海报。要突出"知识整理 + 模块信息 + 图鉴式展示"的特征。
 ```
 
 <a id="prompt-8b22189f36fbca0d0926"></a>
 
-### 136. Science Fiction Movie Poster
+### 126. 科幻电影海报
 
-![Science Fiction Movie Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg" alt="科幻电影海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/underwoodxie96/status/2046514205529088501)
 
 **提示词:**
 
 ```text
-Create a Science fiction movie poster
+创建一个科幻电影海报
 ```
 
 <a id="prompt-9122ee5fc906255460a0"></a>
 
-### 137. Fictional Anime Movie Poster
+### 127. 虚构动漫电影海报
 
-![Fictional Anime Movie Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg" alt="虚构动漫电影海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** categories.poster-illustration-cases.zh-CN
+
+海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/seiiiiiiiiiiru/status/2046509734954741780)
 
 **提示词:**
 
-```text
-架空のアニメ映画のポスターをGPT image2で作成。
+````text
+```json
+{
+  "promptText": {
+    "translations": {
+      "zh-CN": "使用GPT image2创建虚构的动画电影海报。"
+    }
+  }
+}
 ```
+````
 
 <a id="prompt-921e4044fe46da1539bf"></a>
 
-### 138. Cinematic Infographic Concept Poster
+### 128. 电影感信息图概念海报
 
-![Cinematic Infographic Concept Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case56/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case56/output.jpg" alt="电影感信息图概念海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/A9Quant/status/2046228485841334559)
 
 **提示词:**
@@ -3009,7 +3658,7 @@ Create a Science fiction movie poster
 一张震撼、精密、统一、电影级、超高细节、可用于高端印刷的概念主视觉海报。
 
 【总风格】
-超写实 3D 商业 CGI 渲染,融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有“唯一主视觉核心”,不能杂乱,不能像拼贴,不能像普通电商海报。
+超写实 3D 商业 CGI 渲染,融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有"唯一主视觉核心",不能杂乱,不能像拼贴,不能像普通电商海报。
 
 【自动推导规则】
 AI 必须依据【主题】自动决定最合适的:
@@ -3067,11 +3716,11 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-98be825d8d69df82c9e6"></a>
 
-### 139. Guangdong Super League Invitation Poster
+### 129. 广东超级联赛邀请海报
 
-![Guangdong Super League Invitation Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case13/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case13/output.jpg" alt="广东超级联赛邀请海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插图案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045772039521542202)
 
 **提示词:**
@@ -3082,11 +3731,11 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-99874cc312871af3ce1a"></a>
 
-### 140. New Chinese Ink Landscape Poster
+### 130. 新中式水墨风景海报
 
-![New Chinese Ink Landscape Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case35/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case35/output.jpg" alt="新中式水墨风景海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2046215276249993720)
 
 **提示词:**
@@ -3097,11 +3746,11 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-9e2623614a9ea92f7481"></a>
 
-### 141. Character Relationship Map Poster
+### 131. 角色关系图海报
 
-![Character Relationship Map Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case34/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case34/output.jpg" alt="角色关系图海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2046263153546174935)
 
 **提示词:**
@@ -3112,11 +3761,11 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-a3eba6947caa1afdd42e"></a>
 
-### 142. Epic Silhouette World Poster
+### 132. title.translations.zh-CN: 史诗般的剪影世界海报
 
-![Epic Silhouette World Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg" alt="title.translations.zh-CN: 史诗般的剪影世界海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Ghhhh3owi/status/2045803217251102897)
 
 **提示词:**
@@ -3127,19 +3776,19 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-ae57daf77d212bf848a1"></a>
 
-### 143. 剪影宇宙叙事海报
+### 133. 剪影宇宙叙事海报
 
-![剪影宇宙叙事海报](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case23/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case23/output.jpg" alt="剪影宇宙叙事海报" width="480">
 
-- **分类:** Comparison & Community Examples
+- **分类:** 比较与社区示例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2045418028733538620)
 
 **提示词:**
 
 ```text
-请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。
+请根据【主题：xxx】自动生成一张高审美的"轮廓宇宙 / 收藏版叙事海报"风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。
 
-画面的核心不是简单把世界装进某个物体里，而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体，形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度，并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界，内容应当丰富、饱满、层次清晰，包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次，以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合，像一个完整世界真实孕育在这个轮廓结构之中，而不是简单拼贴、裁切填充、素材堆叠或模板化背景。
+画面的核心不是简单把世界装进某个物体里，而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体，形成一种"主题宇宙依附于一个象征性轮廓展开"的高级叙事效果。主轮廓必须清晰、优雅、有辨识度，并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界，内容应当丰富、饱满、层次清晰，包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次，以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合，像一个完整世界真实孕育在这个轮廓结构之中，而不是简单拼贴、裁切填充、素材堆叠或模板化背景。
 
 整体构图需要具有强烈的收藏版海报气质与高级设计感，大结构稳定，主轮廓强烈明确，内部世界具有纵深、秩序和呼吸感，细节丰富但不拥挤，内容丰满但不杂乱，可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味，不要平均铺满，不要廉价热闹，不要无重点堆砌。
 
@@ -3152,11 +3801,11 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-b365a8f4661186ef29b4"></a>
 
-### 144. Chili Pork Cooking Flowchart
+### 134. 辣椒猪肉烹饪流程图
 
-![Chili Pork Cooking Flowchart](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg" alt="辣椒猪肉烹饪流程图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Kurt_Rousey466/status/2046267707881029934)
 
 **提示词:**
@@ -3167,42 +3816,42 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-c571141582dd5bd1953f"></a>
 
-### 145. Super Famicom Poster Style
+### 135. 超级任天堂海报风格
 
-![Super Famicom Poster Style](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg" alt="超级任天堂海报风格" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/lilimliliychan/status/2045114760937804187)
 
 **提示词:**
 
 ```text
-小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて
+想象一个超级任天堂游戏的海报，上面有小恶魔莉莉丝酱
 ```
 
 <a id="prompt-d0934e586eae2d6bc472"></a>
 
-### 146. Product Ad Redesign
+### 136. 产品广告重新设计
 
-![Product Ad Redesign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg" alt="产品广告重新设计" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/genel_ai/status/2046498264774791514)
 
 **提示词:**
 
 ```text
-この商品広告をプロのデザイナー目線でリデザインして。
-今のトレンド、ターゲットに合わせた洗練されたデザインで。
+从专业设计师的角度重新设计这个产品广告。
+采用符合当前趋势和目标受众的精致设计。
 ```
 
 <a id="prompt-d38151c02d8a29ab11d6"></a>
 
-### 147. 2026 Spring Guangzhou City Poster
+### 137. 2026年春季广州市海报
 
-![2026 Spring Guangzhou City Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg" alt="2026年春季广州市海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2045332620352119274)
 
 **提示词:**
@@ -3211,19 +3860,19 @@ AI 必须依据【主题】自动决定最合适的:
 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
 双重曝光，构图延续了S型的流动感；
 在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
-在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
+在这条"河流"中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
 广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
-云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
+云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着"SPRING 2026"和竖排的宣传语，整体寓意"千年商都，魅力广州"。
 文字排版优美，大方，字迹清晰完整，尺寸9:16。
 ```
 
 <a id="prompt-f1b9494efc615dff66f4"></a>
 
-### 148. Journey to the West Chinese Comic
+### 138. 西游记中国漫画
 
-![Journey to the West Chinese Comic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case33/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case33/output.jpg" alt="西游记中国漫画" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/overseas58/status/2046271877577097376)
 
 **提示词:**
@@ -3234,11 +3883,11 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-f474ce040ba8f2bdf4e9"></a>
 
-### 149. 多概念战斗海报组
+### 139. 多概念战斗海报组
 
-![多概念战斗海报组](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg" alt="多概念战斗海报组" width="480">
 
-- **分类:** Comparison & Community Examples
+- **分类:** 比较与社区示例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/joshesye/status/2046493442428039212)
 
 **提示词:**
@@ -3252,54 +3901,54 @@ AI 必须依据【主题】自动决定最合适的:
 
 <a id="prompt-fb641365ebb58683fb1d"></a>
 
-### 150. Boston Spring 2026 City Poster
+### 140. 波士顿2026春季城市海报
 
-![Boston Spring 2026 City Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case1/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case1/output.jpg" alt="波士顿2026春季城市海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BubbleBrain/status/2045358053831172358)
 
 **提示词:**
 
 ```text
-A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
+一幅引人注目的2026年春季波士顿城市海报，具有优雅的庆祝氛围和大胆的当代设计。在干净的米白色纹理背景上，有大面积的留白，一个小型的单人划艇在图像右下角沿着一条狭窄的反光水带划行。桨的尾迹以动态的书法曲线向上扫过，逐渐转变为查尔斯河，然后变成一幅梦幻般的波士顿手绘全景。在这条流动的河流状构图中，包含标志性的波士顿元素：后湾天际线、比肯山褐石建筑、橡子街、波士顿公共花园、天鹅船、扎基姆大桥、芬威公园风格的细节、历史砖砌建筑、港口渡轮和城市滨水氛围。柔和的晨雾、金色的春光、深红和金色的微妙节日点缀、丰富的细节、层次感、精致的城市海报美学、清新而精致、视觉冲击力强但不拥挤。左下角的优雅字体显示"SPRING 2026"，垂直标语为"BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION"，文字清晰且构图优美，高级平面设计，9:16
 ```
 
 <a id="prompt-fe8a8dd57f59f49934c5"></a>
 
-### 151. Science Encyclopedia Vertical Poster
+### 141. 科学百科全书垂直海报
 
-![Science Encyclopedia Vertical Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case32/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case32/output.jpg" alt="科学百科全书垂直海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/pfanis/status/2046413660147314714)
 
 **提示词:**
 
 ```text
-Generate a high-quality vertical science popularization encyclopedia image based on [Theme].
+生成一个基于[主题]的高质量垂直科普百科图像
 ```
 
 <a id="prompt-ffbf6da4fc99005717be"></a>
 
-### 152. Pilates Studio Ad Poster
+### 142. Pilates工作室广告海报
 
-![Pilates Studio Ad Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg" alt="Pilates工作室广告海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ck_igarashi/status/2046528889124728993)
 
 **提示词:**
 
 ```text
-ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
+我想创建普拉提教室的广告图片，文字应该使用更能吸引用户注册的文案，图片中要展示女性实际进行普拉提运动的场景
 ```
 
 <a id="prompt-023dde5beff70091cb4d"></a>
 
-### 153. 插画艺术创作图
+### 143. 插画艺术创作图
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case123.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case123.jpg" alt="插画艺术创作图" width="480">
 
 - **分类:** 插画艺术创作图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-123)
@@ -3369,9 +4018,9 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <a id="prompt-089c9c031fc9347f3632"></a>
 
-### 154. 主题海报版式设计
+### 144. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case5.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case5.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-5)
@@ -3384,11 +4033,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <a id="prompt-08bb05896b85f6491cc8"></a>
 
-### 155. Journey to the West Daughter Kingdom Poster
+### 145. 西游记女儿国海报
 
-![Journey to the West Daughter Kingdom Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg" alt="西游记女儿国海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/cj858cjsoul/status/2047103956535697822)
 
 **提示词:**
@@ -3401,9 +4050,9 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <a id="prompt-092e93ac374418b672f0"></a>
 
-### 156. Apple 风格自然科普海报
+### 146. Apple 风格自然科普海报
 
-![Apple 风格自然科普海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case339.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case339.jpg" alt="Apple 风格自然科普海报" width="480">
 
 - **分类:** Apple 风格自然科普海报
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-339)
@@ -3510,9 +4159,9 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 <a id="prompt-0fcc2926ceeceea598bf"></a>
 
-### 157. 主题海报版式设计
+### 147. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case96.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case96.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-96)
@@ -3557,30 +4206,11 @@ Generate a high-quality vertical science popularization encyclopedia image based
 }
 ```
 
-<a id="prompt-14e881dc993fbd77e575"></a>
-
-### 158. 2026谷雨节气唯美海报设计
-
-![2026谷雨节气唯美海报设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case253.jpg)
-
-- **分类:** 2026谷雨节气唯美海报设计
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-253)
-
-**提示词:**
-
-```text
-[中文]
-生成一张2026年谷雨节气的海报
-
-[English]
-Generate a poster for the Guyu solar term in 2026
-```
-
 <a id="prompt-1bd77d0330e68d0e3473"></a>
 
-### 159. 插画艺术创作图
+### 148. 插画艺术创作图
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case43.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case43.jpg" alt="插画艺术创作图" width="480">
 
 - **分类:** 插画艺术创作图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-43)
@@ -3614,11 +4244,11 @@ Generate a poster for the Guyu solar term in 2026
 
 <a id="prompt-1c6cbe0a7bcba71c713d"></a>
 
-### 160. Royal Tramp Character Poster
+### 149. 鹿鼎记角色海报
 
-![Royal Tramp Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case104/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case104/output.jpg" alt="鹿鼎记角色海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/caiziboshi/status/2047091751731519744)
 
 **提示词:**
@@ -3629,11 +4259,13 @@ Generate a poster for the Guyu solar term in 2026
 
 <a id="prompt-1e21be6d283b5f7f255c"></a>
 
-### 161. Charlie Chaplin Product Poster Redesign
+### 150. Charlie Chaplin 产品海报重新设计
 
-![Charlie Chaplin Product Poster Redesign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case106/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case106/output.jpg" alt="Charlie Chaplin 产品海报重新设计" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** categories.poster-illustration-cases.zh-CN
+
+海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/chenenpei/status/2046985783715025135)
 
 **提示词:**
@@ -3646,125 +4278,63 @@ Generate a poster for the Guyu solar term in 2026
 
 <a id="prompt-1e80a4e7b39c4e09a9c8"></a>
 
-### 162. generate an image of a racing car poster with its spec and pricing
+### 151. 生成一张赛车海报，包含其规格和价格
 
-![generate an image of a racing car poster with its spec and pricing](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg" alt="生成一张赛车海报，包含其规格和价格" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/verysmallwoods/status/2047033599229137126)
 
 **提示词:**
 
 ```text
-generate an image of a racing car poster with its spec and pricing
+生成一张赛车海报，包含其规格和价格
 ```
 
 <a id="prompt-1ecb44b56e876185cdd3"></a>
 
-### 163. Streetwear Fashion Campaign Asian Apparel Poster
+### 152. 街头潮流时尚活动亚洲服装海报
 
-![Streetwear Fashion Campaign Asian Apparel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case71/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case71/output.jpg" alt="街头潮流时尚活动亚洲服装海报" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/harboriis/status/2047921293123895520)
 
 **提示词:**
 
 ```text
-Create a premium streetwear fashion campaign poster inspired by modern Asian apparel advertising. Full body portrait of a stylish young male model standing confidently with legs crossed at the ankles, hands inside jacket pockets, head turned slightly upward and sideways with a calm thoughtful expression. Curly tousled medium length hair with soft volume. Slim athletic build.
+创建一个受现代亚洲服装广告启发的优质街头时尚活动海报。全身肖像，一位时尚的年轻男性模特自信地站立，脚踝交叉，双手插在夹克口袋里，头部略微向上和侧转，表情平静而沉思。卷曲凌乱的中等长度头发，带有柔软的蓬松感。瘦削的健美体型。
 
-Outfit includes a dark olive green padded hooded jacket worn open, clean white crewneck sweatshirt underneath with a tiny chest logo, relaxed black cargo style trousers, and minimal white sneakers. Styling is clean, youthful, and contemporary.
+服装包括一件深橄榄绿色填充连帽夹克，敞开穿着，里面是一件干净的白色圆领运动衫，胸前有一个小标志，宽松的黑色工装风格裤子，以及简约的白色运动鞋。风格简洁、年轻、现代。
 
-Background is a vibrant electric blue seamless studio backdrop with subtle gradient lighting, soft glow streaks, and glossy floor reflection. Lighting is soft studio light with gentle shadows and polished commercial finish.
+背景是充满活力的电蓝色无缝工作室背景，带有微妙的渐变照明、柔和的光束和光滑的地板反射。照光是柔和的 studio 光，带有柔和的阴影和精致的商业质感。
 
-Graphic poster layout with giant bold condensed sans serif text reading “JEANSWEST” vertically stretched across the background behind the model in light gray white. Add large text on lower right reading “JW26”.
+图形海报布局，巨大的粗体无衬线字体文本"JEANSWEST"垂直拉伸，在模特后面的背景上呈现浅灰白色。在右下角添加大号文本"JW26"。
 
-Composition should feel premium, trendy, clean, commercial, youthful, modern fashion ad campaign. Sharp focus, ultra realistic fabric texture, cinematic lighting, balanced negative space, sleek branding design, high resolution, vertical poster ratio.
+构图应感觉优质、时尚、简洁、商业、年轻、现代时尚广告活动。锐利对焦，超逼真的织物纹理，电影级照明，平衡的负空间，流畅的品牌设计，高分辨率，垂直海报比例。
 ```
 
-<a id="prompt-1f67853b2f69a3b05ea5"></a>
+<a id="prompt-23114e9a34a17617436d"></a>
 
-### 164. 荒诞超现实女装大叔海报
+### 153. 小恶魔莉莉香超任游戏海报
 
-![荒诞超现实女装大叔海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case180.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case283.jpg" alt="小恶魔莉莉香超任游戏海报" width="480">
 
-- **分类:** 荒诞超现实女装大叔海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-180)
+- **分类:** 小恶魔莉莉香超任游戏海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-283)
 
 **提示词:**
 
 ```text
-[中文]
-一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。
-
-[English]
-A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.
-```
-
-<a id="prompt-21f1ebcbbb021e3565b2"></a>
-
-### 165. 极简国潮鎏金广州塔海报
-
-![极简国潮鎏金广州塔海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case230.jpg)
-
-- **分类:** 极简国潮鎏金广州塔海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-230)
-
-**提示词:**
-
-```text
-[中文]
-新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，
-
-整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，
-
-广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，
-传统与现代建筑自然融合，层次递进，远近虚实分明，
-
-风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，
-
-色彩方案（重点）：
-高饱和但克制 ，中国红、青蓝、鎏金为主色，
-辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，
-
-背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，
-
-细节：祥云与水纹具有轻微浮雕/烫金质感，
-局部加入微光粒子或流动光线，增强现代感，
-
-光影：柔和渐变光+局部高光，突出恢弘大气氛围，
-
-整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节
-
-[English]
-Neo-Chinese minimalist style high-end city poster, 9:16 vertical composition, with Guangzhou as the core theme, the center of the image is an abstract geometric Canton Tower, simple in shape but highly recognizable,
-
-The overall adopts an S-shaped flowing composition, extending from bottom to top, the Pearl River water system is designed as flowing water ripples fused with traditional auspicious cloud patterns, surrounding the entire image to form a visual dynamic line,
-
-Guangzhou landmark buildings are embellished in it in the way of "blank space + line drawing + local color blocks": Zhujiang New Town Twin Towers, Liede Bridge, Baiyun Mountain outline, Lingnan arcade houses,
-Traditional and modern architecture naturally blend, progressive layers, clear distinction between far and near, virtual and real,
-
-Style control: minimalist + high-end + Eastern artistic conception, not cluttered and not overly realistic,
-
-Color scheme (key point):
-High saturation but restrained, Chinese red, cyan blue, and gilded gold as the main colors,
-Supplemented by a small amount of warm gold highlight embellishments, forming a strong visual impact but not tacky,
-
-Background: large area of pure blank space or light Xuan paper texture, enhancing a sense of breathing and high-end feel,
-
-Details: auspicious clouds and water ripples have a slight relief/gold stamping texture,
-Locally add faint light particles or flowing light lines to enhance modernity,
-
-Light and shadow: soft gradient light + local highlights, highlighting a magnificent and grand atmosphere,
-
-Overall style: Guochao high-end illustration / brand poster-level texture / 8K / ultra-clear details
+が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
+このクオリティ　細かい説明呪文なし　すごいぜ！
 ```
 
 <a id="prompt-23ccb007f9351201bfa1"></a>
 
-### 166. 插画艺术创作图
+### 154. 插画艺术创作图
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case6.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case6.jpg" alt="插画艺术创作图" width="480">
 
 - **分类:** 插画艺术创作图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-6)
@@ -3780,9 +4350,9 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 
 <a id="prompt-240ccca1365cc8678651"></a>
 
-### 167. 插画艺术创作图
+### 155. 插画艺术创作图
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case114.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case114.jpg" alt="插画艺术创作图" width="480">
 
 - **分类:** 插画艺术创作图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-114)
@@ -3864,26 +4434,11 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 }
 ```
 
-<a id="prompt-26034859824e44f373b2"></a>
-
-### 168. 2D-Anime-Charakter in realen Gitterszenen
-
-![2D-Anime-Charakter in realen Gitterszenen](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case114/output.jpg)
-
-- **分类:** Comparison & Community Examples
-- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/seiiiiiiiiiiru/status/2047227021156356500)
-
-**提示词:**
-
-```text
-参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。
-```
-
 <a id="prompt-268af4443eff54018485"></a>
 
-### 169. 插画艺术创作图
+### 156. 插画艺术创作图
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case32.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case32.jpg" alt="插画艺术创作图" width="480">
 
 - **分类:** 插画艺术创作图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-32)
@@ -3915,11 +4470,26 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 }
 ```
 
+<a id="prompt-2788b33c1f267b4c139f"></a>
+
+### 157. 2026谷雨节气唯美海报设计
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case253.jpg" alt="2026谷雨节气唯美海报设计" width="480">
+
+- **分类:** 2026谷雨节气唯美海报设计
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-253)
+
+**提示词:**
+
+```text
+生成一张2026年谷雨节气的海报
+```
+
 <a id="prompt-2a7dbb487b002b3b2ec0"></a>
 
-### 170. 主题海报版式设计
+### 158. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case98.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case98.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-98)
@@ -3973,40 +4543,54 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 
 <a id="prompt-2d553cf85a982ae23514"></a>
 
-### 171. Surrealist Rolex Luxury Watch Fashion Poster
+### 159. 超现实主义劳力士豪华手表时尚海报
 
-![Surrealist Rolex Luxury Watch Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case78/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case78/output.jpg" alt="超现实主义劳力士豪华手表时尚海报" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Sheldon056/status/2047873913049538927)
 
 **提示词:**
 
 ```text
-A high-fashion surrealist poster for Rolex. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex.
+一张为劳力士创作的高级超现实主义海报。一个深翠绿色的极简工作室，配有抛光的反射地板。一块巨大的劳力士手表像纪念碑一样直立着。一位穿着定制深绿色西装的男模特随意地倚靠在表盘上，佩戴着配套的劳力士。
+```
+
+<a id="prompt-31ffb395d764df83e452"></a>
+
+### 160. 杜蕾斯茶颜悦色联名海报设计
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case244.jpg" alt="杜蕾斯茶颜悦色联名海报设计" width="480">
+
+- **分类:** 杜蕾斯茶颜悦色联名海报设计
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-244)
+
+**提示词:**
+
+```text
+设计一套杜蕾斯和茶颜悦色联名的宣传物料
 ```
 
 <a id="prompt-32258d765f1a226ad364"></a>
 
-### 172. Premium Food Recipe Poster Elegant Layout
+### 161. 高级美食食谱海报 优雅布局
 
-![Premium Food Recipe Poster Elegant Layout](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case76/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case76/output.jpg" alt="高级美食食谱海报 优雅布局" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Preda2005/status/2047883394152088004)
 
 **提示词:**
 
 ```text
-Create a premium food preparation poster for
- [ DISH NAME ], with a beautiful hero dish, warm natural lighting, cream background, elegant step-by-step recipe layout, ingredients, cooking process, premium food photography, refined English typography, luxury restaurant advertisement style, clean design, rich colors, highly detailed, visually irresistible, cinematic masterpiece.
+为 [ DISH NAME ] 创建一个高级美食准备海报，展示精美的主菜，温暖的自然光线，奶油色背景，优雅的分步食谱布局，食材，烹饪过程，高级美食摄影，精致的英文字体，豪华餐厅广告风格，简洁设计，丰富的色彩，高度细节化，视觉上令人无法抗拒，电影级杰作。
 ```
 
 <a id="prompt-32aa28f25e328f70140e"></a>
 
-### 173. 足球球员数据涂鸦海报
+### 162. 足球球员数据涂鸦海报
 
-![足球球员数据涂鸦海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case350.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case350.jpg" alt="足球球员数据涂鸦海报" width="480">
 
 - **分类:** 足球球员数据涂鸦海报
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-350)
@@ -4035,24 +4619,24 @@ Important: all stats must be realistic and proportional to the player's real car
 
 <a id="prompt-36012031ac973cb9f8e6"></a>
 
-### 174. A full-body outdoor shot captures a young Caucasian woman, possibly in her la...
+### 163. 全身户外拍摄捕捉到一位年轻的白人女性，可能在她二十...
 
-![A full-body outdoor shot captures a young Caucasian woman, possibly in her la...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" alt="全身户外拍摄捕捉到一位年轻的白人女性，可能在她二十..." width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIwithSarah_/status/2047234995627172229)
 
 **提示词:**
 
 ```text
-A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, striding through a city crosswalk. She wears an oversized, matte chocolate-brown leather jacket paired with a free-flowing black skirt and sleek knee-high black boots, conveying a sense of high fashion street style. Her long, dark brown hair is wind-swept, complementing her poised and confident expression as she glances sideways. Behind her, a blurred urban backdrop features a yellow taxi and pedestrians, with buildings displaying varied architectural details in neutral tones. The scene utilizes soft ambient daylight filtering through light cloud cover, producing a muted, overcast lighting effect. The warm, earthy color palette consists of brown, black, and touches of beige. The image, likely from a high-resolution digital camera, presents a wide-angle view that maintains focus throughout, emphasizing a dynamic and fashionable feel.
+全身户外拍摄捕捉了一位年轻的白人女性，可能二十多岁，正大步穿过城市人行横道。她穿着一件过季的哑光巧克力棕色皮夹克，搭配一条飘逸的黑色裙子和一双时髦的黑色及膝长靴，展现出高级时尚的街头风格。她长长的深棕色头发被风吹拂，与她那从容自信的表情相得益彰，她正侧目而视。在她身后，模糊的城市背景中有一辆黄色出租车和行人，建筑物呈现出各种建筑细节，色调中性。场景利用了穿过薄云的柔和环境光，产生了一种柔和的阴天照明效果。温暖的大地色调包括棕色、黑色和米色的点缀。这张照片可能来自高分辨率数码相机，呈现广角视角，全程保持清晰对焦，强调了一种动感时尚的感觉。
 ```
 
 <a id="prompt-38f4a6e72b1f74dc6083"></a>
 
-### 175. 主题海报版式设计
+### 164. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case10.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case10.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-10)
@@ -4065,9 +4649,9 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 <a id="prompt-3b64248875333140c794"></a>
 
-### 176. 主题海报版式设计
+### 165. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case144.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case144.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-144)
@@ -4078,69 +4662,11 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name="brand name" default="LUMIÉRE"} and {argument name="product type" default="MOISTURE RICH CREAM"} with "AGING CARE*" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name="main headline" default="肌に、静かな贅沢を。"} above a small decorative gold divider and the text {argument name="subheadline" default="高保湿×エイジングケア*"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name="button text" default="詳しく見る"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.
 ```
 
-<a id="prompt-3c6201a08f5605d1e839"></a>
-
-### 177. 春日禅意水墨群山海报
-
-![春日禅意水墨群山海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case223.jpg)
-
-- **分类:** 春日禅意水墨群山海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-223)
-
-**提示词:**
-
-```text
-[中文]
-新中式水墨山水海报，竖版9:16构图，东方极简美学风格，
-大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。
-画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，
-山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。
-山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。
-
-湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。
-中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。
-
-船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色，
-身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化，
-人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨），
-红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。
-
-岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。
-
-少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。
-
-画面顶部居中竖排书法：“东方美学”，采用传统手写行书或行草风格（王羲之笔意），
-笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。
-书法颜色为深墨青或柔和墨黑，与整体画面统一。
-整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围，
-冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。
-
-[English]
-Neo-Chinese ink wash landscape poster, vertical 9:16 composition, Oriental minimalist aesthetic style,
-Large area of negative space, overall color tone is spring morning atmosphere (cyan-green, misty blue, light gray, light ink), low saturation, clear and soft, high-end texture.
-The main subject of the picture is steep and majestic mountains, rising from both sides of the calm lake in the middle, occupying the left and right sides of the picture,
-The mountain bodies are expressed with ink wash blending, rich in changes of shades, dryness and wetness, partially integrated with light cyan-green rendering, reflecting the vitality of spring.
-The mountain peaks are wrapped in moist and gentle morning mist, the mist progresses layer by layer, naturally blending with the light cyan-blue sky, forming aerial perspective and spatial depth.
-The lake surface is as calm as a mirror, showing a slightly cyan-green tone, reflecting the mountains and the sky, the reflection slightly has a soft focus and atomization diffusion effect, enhancing the spring moist and dreamy atmosphere.
-In the midground, a small wooden boat with an arched canopy floats slowly, the oars lightly touch the water surface to form delicate ripples, the water patterns spread naturally, maintaining an extremely quiet state overall.
-On the boat is a fisherwoman in red, with a small volume (distant view proportion), the character is simplified into an ink wash silhouette + slight coloring,
-wearing a low-saturation cinnabar red traditional costume (not bright red), the color is slightly softened by the mist,
-no facial details are depicted for the character, only retaining the outline and posture (such as gently holding the boat canopy or holding the oar),
-the red color forms a faint reflection on the water surface, serving as the only warm color visual focus in the picture.
-The shore is dotted with sparse woods and spring newborn vegetation, using light ink + light cyan-green dot dyeing, combining virtuality and reality, enhancing rhythm and breath of life.
-A small number of flying birds skim across the distant sky, distributed lightly and loosely, enhancing the spatial layers and sense of agility.
-At the top center of the picture, vertical calligraphy: "Oriental Aesthetics", adopting traditional handwritten running script or running-cursive style (intention of Wang Xizhi's brushwork),
-brushstrokes naturally undulate, lifting and pressing are distinct, with flying white and ink rhyme diffusion effects, avoiding a sense of font.
-The calligraphy color is dark ink cyan or soft ink black, unified with the overall picture.
-Overall style: ink wash + modern minimalist design fusion, spring Zen, ethereal and moist, tranquil atmosphere,
-restrained cold and warm contrast, cinematic light and shadow, high-end art poster texture, 8K ultra-clear details.
-```
-
 <a id="prompt-3f1c8229c6ac15b5cc37"></a>
 
-### 178. 胡须风格分析海报
+### 166. 胡须风格分析海报
 
-![胡须风格分析海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case348.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case348.jpg" alt="胡须风格分析海报" width="480">
 
 - **分类:** 胡须风格分析海报
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-348)
@@ -4153,11 +4679,11 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 
 <a id="prompt-465361336eb5cc04e3b4"></a>
 
-### 179. New Chinese Minimalist Floral Illustration
+### 167. 新中式极简主义花卉插画
 
-![New Chinese Minimalist Floral Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case93/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case93/output.jpg" alt="新中式极简主义花卉插画" width="480">
 
-- **分类:** Comparison & Community Examples
+- **分类:** 比较与社区示例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/liyue_ai/status/2047180347448914195)
 
 **提示词:**
@@ -4190,41 +4716,56 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 高端CG商业插画，电影级真实光影，高动态范围，超精细，8K细节，ArtStation 级画质，强化分色，干净调色，青橙对比，暖高光冷暗部，仅城市灯光提亮饱和度，色调柔和通透，光影锐利明亮，无灰雾、无暗沉、无低饱和雾化。
 ```
 
+<a id="prompt-4948222e061c5135eacf"></a>
+
+### 168. 苏妲己古风魅力肖像
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case94/output.jpg" alt="苏妲己古风魅力肖像" width="480">
+
+- **分类:** 比较与社区示例
+- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/nidiedeba/status/2047147223281270878)
+
+**提示词:**
+
+```text
+苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人
+```
+
 <a id="prompt-49b95c2df1fb5fb93327"></a>
 
-### 180. Peacock Botanical Vintage Symmetrical Art Print
+### 169. 孔雀植物复古对称艺术版画
 
-![Peacock Botanical Vintage Symmetrical Art Print](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case79/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case79/output.jpg" alt="孔雀植物复古对称艺术版画" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/dotey/status/2047803054422901046)
 
 **提示词:**
 
 ```text
-symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2
+对称设计，两只优雅的蓝孔雀，带有精致的羽毛图案，周围环绕着蓝色花卉元素，精致的复古植物装饰，柔和的米色背景，丰富的海军蓝和天蓝色细节的古典花卉装饰风格，装饰艺术插图 --ar 3:2
 ```
 
 <a id="prompt-4ea36f078e2e4ece8046"></a>
 
-### 181. Poster-zu-Trailer-Konzept
+### 170. 海报到预告片概念
 
-![Poster-zu-Trailer-Konzept](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case115/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case115/output.jpg" alt="海报到预告片概念" width="480">
 
-- **分类:** Comparison & Community Examples
+- **分类:** 对比与社区示例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/os_shim/status/2047130379409400148)
 
 **提示词:**
 
 ```text
-「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」
+看着这张海报，请自己想象并为我制作一个预告片视频。
 ```
 
 <a id="prompt-50e2b287a99f35641e48"></a>
 
-### 182. 主题海报版式设计
+### 171. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case124.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case124.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-124)
@@ -4237,24 +4778,61 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 
 <a id="prompt-56eb92874c3d7d5eb3fc"></a>
 
-### 183. Epic Career Moments Cinematic Poster Template
+### 172. 史诗般的职业时刻电影风格海报模板
 
-![Epic Career Moments Cinematic Poster Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case72/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case72/output.jpg" alt="史诗般的职业时刻电影风格海报模板" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Goodmanprotocol/status/2047900470921040270)
 
 **提示词:**
 
 ```text
-Create an epic poster showcasing the most iconic moments of [Insert Name]'s career. Cinematic style, lens flare. Portrait orientation. A1 poster size. aspect ratio 4:5 https://t.co/L9OHPKUNRp
+创建一张史诗海报，展示[Insert Name]职业生涯中最具标志性的时刻。电影风格，镜头光晕。纵向方向。A1海报尺寸。宽高比4:5 https://t.co/L9OHPKUNRp
+```
+
+<a id="prompt-571a5c0de10b7610099e"></a>
+
+### 173. 春日禅意水墨群山海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case223.jpg" alt="春日禅意水墨群山海报" width="480">
+
+- **分类:** 春日禅意水墨群山海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-223)
+
+**提示词:**
+
+```text
+新中式水墨山水海报，竖版9:16构图，东方极简美学风格，
+大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。
+画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，
+山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。
+山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。
+
+湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。
+中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。
+
+船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色，
+身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化，
+人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨），
+红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。
+
+岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。
+
+少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。
+
+画面顶部居中竖排书法：“东方美学”，采用传统手写行书或行草风格（王羲之笔意），
+笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。
+书法颜色为深墨青或柔和墨黑，与整体画面统一。
+整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围，
+冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。
 ```
 
 <a id="prompt-57dcf9e714ec53e7a5e9"></a>
 
-### 184. 主题海报版式设计
+### 174. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case122.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case122.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-122)
@@ -4317,30 +4895,26 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
 }
 ```
 
-<a id="prompt-587cd4f9c87328d5a0b6"></a>
+<a id="prompt-589004764ab5359e858a"></a>
 
-### 185. 阿马尔菲海岸复古旅行海报
+### 175. 完美匹配的海报广告图
 
-![阿马尔菲海岸复古旅行海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case278.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case228.jpg" alt="完美匹配的海报广告图" width="480">
 
-- **分类:** 阿马尔菲海岸复古旅行海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-278)
+- **分类:** 完美匹配的海报广告图
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-228)
 
 **提示词:**
 
 ```text
-[中文]
-现代铅笔插画，意大利阿马尔菲海岸复古旅行海报插画，全景海岸悬崖公路场景，经典1960年代白色汽车沿着弯曲的海滨公路行驶，带有小帆船的深蓝色地中海，色彩缤纷的粉彩山腰村庄，带有柔软云朵的明亮蓝天，带有鲜艳黄色柠檬的柠檬树枝框定前景，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代与装饰性美学。
-
-[English]
-Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
+生成一张与这张图片完美匹配的广告图片。信息量要多一些。
 ```
 
 <a id="prompt-5c33e69e786c28bbd29e"></a>
 
-### 186. 主题海报版式设计
+### 176. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case61.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case61.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-61)
@@ -4409,51 +4983,11 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 }
 ```
 
-<a id="prompt-5c4d1a9621ebc9499b14"></a>
-
-### 187. 古风明朝帝王群像长卷
-
-![古风明朝帝王群像长卷](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case226.jpg)
-
-- **分类:** 古风明朝帝王群像长卷
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-226)
-
-**提示词:**
-
-```text
-[中文]
-根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字
-
-[English]
-Based on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits
-```
-
-<a id="prompt-5ed932de7960b816bb0c"></a>
-
-### 188. 小恶魔莉莉香超任游戏海报
-
-![小恶魔莉莉香超任游戏海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case283.jpg)
-
-- **分类:** 小恶魔莉莉香超任游戏海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-283)
-
-**提示词:**
-
-```text
-[中文]
-が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
-このクオリティ　細かい説明呪文なし　すごいぜ！
-
-[English]
-that "Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game" with just a few images
-this quality without any detailed explanation spells is amazing!
-```
-
 <a id="prompt-6103fd2bded24c054799"></a>
 
-### 189. 主题海报版式设计
+### 177. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case100.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case100.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-100)
@@ -4526,9 +5060,9 @@ this quality without any detailed explanation spells is amazing!
 
 <a id="prompt-685ce975159a830c49bd"></a>
 
-### 190. 概念字体海报 Prompt
+### 178. 概念字体海报 Prompt
 
-![概念字体海报 Prompt](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case355.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case355.jpg" alt="概念字体海报 Prompt" width="480">
 
 - **分类:** 概念字体海报 Prompt
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-355)
@@ -4567,9 +5101,9 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a id="prompt-7007d800773ff342723d"></a>
 
-### 191. 西楚霸王国风暗黑海报
+### 179. 西楚霸王国风暗黑海报
 
-![西楚霸王国风暗黑海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case352.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case352.jpg" alt="西楚霸王国风暗黑海报" width="480">
 
 - **分类:** 西楚霸王国风暗黑海报
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-352)
@@ -4582,9 +5116,9 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a id="prompt-717fd2d57cc92a98cf17"></a>
 
-### 192. 主题海报版式设计
+### 180. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case140.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case140.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-140)
@@ -4597,9 +5131,9 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a id="prompt-7319ff8fff3a00f34eb6"></a>
 
-### 193. 主题海报版式设计
+### 181. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case119.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case119.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-119)
@@ -4676,26 +5210,28 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a id="prompt-785f7652e6afaa9e2c03"></a>
 
-### 194. Surreal Japanese Futuristic City Illustration
+### 182. 超现实日本未来城市插画
 
-![Surreal Japanese Futuristic City Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case102/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case102/output.jpg" alt="超现实日本未来城市插画" width="480">
 
-- **分类:** Comparison & Community Examples
+- **分类:** 比较与社区示例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Tresmort/status/2047105322863460496)
 
 **提示词:**
 
 ```text
-参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的窗户里也有各式各样的人物，学习的学生，吵架的夫妻，玩游戏的宅男，以及更多的发挥细节。讽刺现实拥挤中的无聊，都市繁华下的孤独，无意义的人生中又有一种病态的美感。画面要有极高的审美价值 ，不能因为拼内容而损失美和协调感，比例是9:16
+参考这张图的透视和风格，绘制一张更加精细的超高清插画，表现超现实主义的日式未来都市，要能看清很小的细节，包括街道上的传统文化游行的人，小巷里的黑帮，烟花巷的舞女，疲惫的社畜，楼房的窗户里也有各式各样的人物，学习的学生，吵架的夫妻，玩游戏的宅男，以及更多的发挥细节。讽刺现实拥挤中的无聊，都市繁华下的孤独，无意义的人生中又有一种病态的美感。画面要有极高的审美价值，不能因为拼内容而损失美和协调感，比例是9:16
 ```
 
 <a id="prompt-78cc6ea1e8834576ffe0"></a>
 
-### 195. 360度等距柱状投影全景图
+### 183. 360度等距柱状投影全景图
 
-![360度等距柱状投影全景图](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case75/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case75/output.jpg" alt="360度等距柱状投影全景图" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** categories.poster-illustration-cases.zh-CN
+
+海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/rs_elwood/status/2047192228758692036)
 
 **提示词:**
@@ -4708,9 +5244,9 @@ Online 360° Panorama Viewer VR
 
 <a id="prompt-7ee64a94d8cec9c4c898"></a>
 
-### 196. 动漫插画创作图
+### 184. 动漫插画创作图
 
-![动漫插画创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case113.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case113.jpg" alt="动漫插画创作图" width="480">
 
 - **分类:** 动漫插画创作图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-113)
@@ -4721,45 +5257,70 @@ Online 360° Panorama Viewer VR
 A highly detailed anime illustration of a fierce female warrior with long flowing {argument name="hair color" default="black"} hair and piercing {argument name="eye color" default="blue"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name="outfit color" default="blue and white"} tunic. She is captured in a dynamic combat stance, swinging a massive, {argument name="weapon type" default="segmented metallic whip-sword"} that curves dramatically into the extreme foreground. The weapon leaves a sweeping trail of kinetic energy and wind. The scene is set against a {argument name="background setting" default="ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind"} under a dramatic cloudy sky. The artwork features cinematic lighting, intense action, and a dramatic forced perspective on the weapon.
 ```
 
-<a id="prompt-838a22db1060b2e15bf5"></a>
+<a id="prompt-815b31488bbd88abd66a"></a>
 
-### 197. 冰火双雄背靠背史诗电影海报
+### 185. 粤超联赛国潮风邀请函海报
 
-![冰火双雄背靠背史诗电影海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case320.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case236.jpg" alt="粤超联赛国潮风邀请函海报" width="480">
 
-- **分类:** 冰火双雄背靠背史诗电影海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-320)
+- **分类:** 粤超联赛国潮风邀请函海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-236)
 
 **提示词:**
 
 ```text
-[中文]
-一幅戏剧性的电影海报风格肖像，描绘了两位史诗奇幻战士在冰冻风暴中背靠背站立。左侧是一位身经百战的男性战士，留着湿漉漉的深色卷发，低头以此表达坚定的决心，紧握着一把插在冰里的中世纪长剑。霜雪附着在他毛皮镶边的斗篷和肩膀上。右侧是一位强有力的女性战士侧影，苍白的皮肤在炽热的橙色光芒下闪耀，她的身体部分被火焰吞没，与冰冷的蓝色氛围形成对比。雪花粒子在空中盘旋，在象征性的冲突中融合了火与冰。超精细的面部细节，情感强度，体积雾，电影级布光，冷蓝色调混合温暖的火焰高光，浅景深，史诗奇幻电影海报，超写实，8K分辨率，戏剧性构图，清晰聚焦，高对比度，逼真纹理。
+广东省城市足球超级联赛（粤超）邀请函海报设计，比例9:16；
 
-[English]
-A dramatic cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm. On the left, a battle-worn male warrior with wet, curly dark hair, head bowed in quiet resolve, gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak and shoulders. On the right, a powerful female warrior in profile, pale skin glowing with fiery orange light, her body partially engulfed in flames thatcontrast against the icy blue atmosphere. Snow particles swirl through the air, blending fire and ice in a symbolic clash. Ultra-detailed faces, emotional intensity, volumetric fog, cinematic lighting, cold blue tones mixed with warm fire highlights, shallow depth of field, epic fantasy movie poster, hyper-realistic, 8K resolution, dramatic composition, sharp focus, high contrast, photorealistic textures.
+S型流动构图，画面从下方向上延展，一条由足球运动轨迹形成的动态能量流贯穿画面， 中心为一颗发光的足球，带有动感轨迹与能量光效；
+
+沿S型动线融合广东城市地标与文化元素： 广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑与佛山武术剪影、中山孙中山文化象征、潮汕英歌舞动态人物轮廓、清远山水自然景观， 所有元素采用“线描 + 局部色块 + 留白”融合表现，层次递进、远近虚实结合；
+
+加入抽象足球运动员剪影，弱化人物细节，强化动势与竞技氛围，视觉重点仍为足球；
+
+风格：现代国潮高级海报，极简风格但富有设计感，高级、干净、统一， 融合东方美学与现代体育视觉；
+
+色彩方案：高饱和但克制，中国红为主视觉，青蓝色辅助，金色点缀高光， 高对比但不杂乱，具有品牌级视觉冲击力；
+
+顶部中央横版视觉主标题 「广东省城市足球超级联赛」：中字，宋体， 中央竖排文字排版： 「粤超」，大字，手写书法艺术字体， 「邀请函」：中字，宋体，纵向排列，间距较大， 底部中央第一排横排： 「2026年4月25日」，小字，宋体，第二排：「广州越秀山体育场」，小字，宋体， 预留文字排版空间；
+
+整体版式平衡、具有高级品牌海报质感，极致精细，构图简洁干净，无杂乱元素，电影级光影，8K 分辨率，高端设计感。融入源自中国传统祥云纹的雅致云纹与水波纹元素，浮动光效粒子，富有动感与生机。
+```
+
+<a id="prompt-843bcb12576c677db634"></a>
+
+### 186. 古风诗人镭射典藏卡牌
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case290.jpg" alt="古风诗人镭射典藏卡牌" width="480">
+
+- **分类:** 古风诗人镭射典藏卡牌
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-290)
+
+**提示词:**
+
+```text
+为中国古代诗人设计一套游戏卡片，并按照SSR SR R 分级，重点卡片有放大展示的效果，包括卡面设计和人物介绍，有很高级的游戏卡片质感，稀有卡片还会有特色的光影例如镭射效果 需要有套卡设计和技能设计，并附带较为详细的说明
 ```
 
 <a id="prompt-84841d16e52818ed5364"></a>
 
-### 198. Avant-Garde Guitar Sculpture Fashion Advertisement
+### 187. 前卫吉他雕塑时尚广告
 
-![Avant-Garde Guitar Sculpture Fashion Advertisement](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case81/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case81/output.jpg" alt="前卫吉他雕塑时尚广告" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/QamarRiaz1/status/2047777016733110722)
 
 **提示词:**
 
 ```text
-Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a guitarist in jeans casually seated on the a button as if furniture, giant word "Plism Art" behind in bold white typography, powder pastel studio background, reflective floor, luxury eyewear campaign aesthetic, ultra-clean layout, editorial magazine styling, Bold quote " What are you listening"   Tag : Create Own Change
+前卫时尚广告， oversized guitar positioned like sculpture， a guitarist in jeans casually seated on the a button as if furniture， giant word "Plism Art" behind in bold white typography，粉彩工作室背景，反射地板，奢侈眼镜广告美学，超简洁布局，杂志编辑风格，Bold quote " What are you listening"，标签：创造自己的改变
 ```
 
 <a id="prompt-87b9849be83864039782"></a>
 
-### 199. 法新浪潮撕纸电影海报
+### 188. 法新浪潮撕纸电影海报
 
-![法新浪潮撕纸电影海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case345.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case345.jpg" alt="法新浪潮撕纸电影海报" width="480">
 
 - **分类:** 法新浪潮撕纸电影海报
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-345)
@@ -4776,11 +5337,11 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 
 <a id="prompt-8a061b9ce3767c30e07d"></a>
 
-### 200. Hangzhou West Lake Travel Poster
+### 189. 杭州西湖旅游海报
 
-![Hangzhou West Lake Travel Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg" alt="杭州西湖旅游海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/BNBOKBt5/status/2047210189741605082)
 
 **提示词:**
@@ -4791,9 +5352,9 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 
 <a id="prompt-8aa10a67672667f0d8ab"></a>
 
-### 201. 古风历史题材图
+### 190. 古风历史题材图
 
-![古风历史题材图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case44.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case44.jpg" alt="古风历史题材图" width="480">
 
 - **分类:** 古风历史题材图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-44)
@@ -4804,68 +5365,11 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 Generate avatars of various emperors from the {argument name="dynasty" default="Ming Dynasty"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.
 ```
 
-<a id="prompt-8aa9e84552e25c64e3c6"></a>
-
-### 202. 国风工笔八仙长卷插画
-
-![国风工笔八仙长卷插画](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case206.jpg)
-
-- **分类:** 国风工笔八仙长卷插画
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-206)
-
-**提示词:**
-
-```text
-[中文]
-（国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
-
-[English]
-(Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
-```
-
-<a id="prompt-8c76ea40835175bc6929"></a>
-
-### 203. 古风诗人镭射典藏卡牌
-
-![古风诗人镭射典藏卡牌](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case290.jpg)
-
-- **分类:** 古风诗人镭射典藏卡牌
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-290)
-
-**提示词:**
-
-```text
-[中文]
-为中国古代诗人设计一套游戏卡片，并按照SSR SR R 分级，重点卡片有放大展示的效果，包括卡面设计和人物介绍，有很高级的游戏卡片质感，稀有卡片还会有特色的光影例如镭射效果 需要有套卡设计和技能设计，并附带较为详细的说明
-
-[English]
-Design a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and character introduction, having a very high-end game card texture, rare cards will also have special light and shadow effects such as holographic laser effects, requiring set card design and skill design, along with relatively detailed descriptions
-```
-
-<a id="prompt-8ca0bdc74a9fdeb48498"></a>
-
-### 204. 完美匹配的海报广告图
-
-![完美匹配的海报广告图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case228.jpg)
-
-- **分类:** 完美匹配的海报广告图
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-228)
-
-**提示词:**
-
-```text
-[中文]
-生成一张与这张图片完美匹配的广告图片。信息量要多一些。
-
-[English]
-Generate an advertising image that perfectly matches this image. There should be a lot of information.
-```
-
 <a id="prompt-8f83edbb5fc9b054770f"></a>
 
-### 205. 水墨双重曝光人物海报
+### 191. 水墨双重曝光人物海报
 
-![水墨双重曝光人物海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case359.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case359.jpg" alt="水墨双重曝光人物海报" width="480">
 
 - **分类:** 水墨双重曝光人物海报
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-359)
@@ -4915,9 +5419,9 @@ OUTPUT:
 
 <a id="prompt-90392b743bd148b2cd59"></a>
 
-### 206. 主题海报版式设计
+### 192. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case16.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case16.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-16)
@@ -4928,60 +5432,11 @@ OUTPUT:
 生成高完成度史诗感艺术海报，双重曝光构图，米白色背景，球队：xxxx队，xxx的大剪影占据主体，剪影内部融合xx、xx、xx、xx以及xx等元素。整体以xx、土褐、为主，压抑、决绝、宿命感极强，元素不要冗杂，要有留白，印刷颗粒质感，元素不要有太锐的细节，但是要有史诗质感，像正式院线动画电影海报，竖版。图片中若出现文字则以细体字为主
 ```
 
-<a id="prompt-93ac4f01d059afd4c475"></a>
-
-### 207. 一张采用分层蒙太奇构图的电影海报
-
-![一张采用分层蒙太奇构图的电影海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case275.jpg)
-
-- **分类:** 一张采用分层蒙太奇构图的电影海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-275)
-
-**提示词:**
-
-```text
-[中文]
-“一张采用分层蒙太奇构图的电影海报。背景为日落时分的海滨小镇，平静的海面倒映着耀眼的日光眩光，薄雾笼罩的天空中有远处飞鸟，沿海公路旁立着电线杆剪影。左侧中景处，一位身着深灰色外套、留着深色卷发的中年男子站在混凝土海堤边，神情忧郁地低头凝视，被傍晚的阳光逆光勾勒轮廓。右侧前景主体为一张大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白色条纹的深色水手校服，湿润的黑发贴在脸颊，柔和漫射光线下，一滴泪珠从她脸颊滑落。画面下方中央前景处，一只柴犬抬头朝右侧望去，红棕色毛发被温暖的轮廓光点亮。画面最底端为一条横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向海面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面站立、女孩拥抱柴犬的特写。画面叠加指定文字：左上角为深青绿色大号衬线字体标题《风间静语》，下方副标题为「—— 致那日的你 ——」；标题下方为小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 画面右侧中部为深色衬线字体文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角为大号白色文字：“10 月 31 日 周五 影院上映”。右下角为小号白色无衬线字体演职人员表：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。
-分段提示词：
-图层索引：0
-片段：“背景为日落时分的海滨小镇，平静海面倒映耀眼日光眩光，薄雾天空中有远处飞鸟，沿海公路旁有电线杆剪影。”
-图层索引：1
-片段：“左侧中景处，身着深灰色外套、留深色卷发的中年男子站在混凝土海堤边，神情忧郁低头，被傍晚阳光逆光照射。”
-图层索引：2
-片段：“右侧前景主体为大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白条纹的深色水手校服，湿润黑发贴脸，柔和漫射光下一滴泪珠滑落脸颊。”
-图层索引：3
-片段：“画面下方中央前景处，一只柴犬抬头望向右侧，红棕色毛发被温暖轮廓光点亮。”
-图层索引：4
-片段：“画面最底端为横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向水面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面、女孩拥抱柴犬特写。”
-图层索引：[5,6,7,8]
-片段：“画面叠加指定文字：左上角为深青绿色大号衬线字体《风间静语》，下方副标题「—— 致那日的你 ——」；其下小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 右侧中部深色衬线文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角大号白色文字：“10 月 31 日 周五 影院上映”。右下角小号白色无衬线字体演职信息：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。
-负面提示词：
-“平光照明，无质感表面，对称构图，底部留白空荡，文字缺失，翻译文字，改写文字，3D 渲染，卡通风格，高对比生硬阴影，干涩头发，明亮欢快表情”
-
-[English]
-A cinematic movie poster utilizing a layered montage composition. In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road. In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun. Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting. In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting. Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu. Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'."
-  segmented:
-    - layer_index: 0
-      segment: "In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road."
-    - layer_index: 1
-      segment: "In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun."
-    - layer_index: 2
-      segment: "Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting."
-    - layer_index: 3
-      segment: "In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting."
-    - layer_index: 4
-      segment: "Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu."
-    - layer_indices: [5, 6, 7, 8]
-      segment: "Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'."
-
-negative: "flat lighting, untextured surfaces, symmetrical composition, empty bottom margin, missing text, translated text, paraphrased text, 3D render, cartoon, high-contrast harsh shadows, dry hair, bright cheerful expressions
-```
-
 <a id="prompt-94fd45d9119741162c2b"></a>
 
-### 208. 动漫插画创作图
+### 193. 动漫插画创作图
 
-![动漫插画创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case105.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case105.jpg" alt="动漫插画创作图" width="480">
 
 - **分类:** 动漫插画创作图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-105)
@@ -4994,9 +5449,9 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 <a id="prompt-9aee19c96f3a315a7845"></a>
 
-### 209. 插画艺术风格创作
+### 194. 插画艺术风格创作
 
-![插画艺术风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case93.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case93.jpg" alt="插画艺术风格创作" width="480">
 
 - **分类:** 插画艺术风格创作
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-93)
@@ -5051,9 +5506,9 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 <a id="prompt-9b4103c9f99a8847d2ad"></a>
 
-### 210. 主题海报版式设计
+### 195. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case139.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case139.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-139)
@@ -5121,11 +5576,13 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 <a id="prompt-9b598fe886b2460e624f"></a>
 
-### 211. Dongfang Bubai Wuxia Character Poster
+### 196. 东方不败武侠人物海报
 
-![Dongfang Bubai Wuxia Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg" alt="东方不败武侠人物海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** categories.poster-illustration-cases.zh-CN
+
+海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/songguoxiansen/status/2047204566559756707)
 
 **提示词:**
@@ -5138,9 +5595,9 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 <a id="prompt-a1a4244bbdefa73d0596"></a>
 
-### 212. 主题海报版式设计
+### 197. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case59.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case59.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-59)
@@ -5198,49 +5655,82 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 }
 ```
 
-<a id="prompt-a36224784b8933dcbe3f"></a>
+<a id="prompt-ab5a420c5aab795106fc"></a>
 
-### 213. 杜蕾斯茶颜悦色联名海报设计
+### 198. 鲜艳霓虹光影下的动感苏打水飞溅商业海报
 
-![杜蕾斯茶颜悦色联名海报设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case244.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case312.jpg" alt="鲜艳霓虹光影下的动感苏打水飞溅商业海报" width="480">
 
-- **分类:** 杜蕾斯茶颜悦色联名海报设计
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-244)
+- **分类:** 鲜艳霓虹光影下的动感苏打水飞溅商业海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-312)
 
 **提示词:**
 
 ```text
-[中文]
-设计一套杜蕾斯和茶颜悦色联名的宣传物料
+{
+  "prompt": "一个充满活力的高端广告构图中的三个超动态苏打水罐 —— 一罐热带冲刺苏打水伴随着戏剧性的水和热带水果飞溅而爆炸，鲜艳的橙色和粉色背景光；一罐柠檬冰爽苏打水在发光的绿色动态光背景下被冷水泼溅；两罐都覆盖着逼真的冷凝水和运动模糊的水滴，充满果味和清爽的能量。深橙色、粉色和霓虹绿灯光在大胆的演播室布置中融合。由使用佳能 50mm 镜头的专业摄影师拍摄，超写实纹理，清晰的细节，超高分辨率，明亮的商业海报美学，丰富的色彩鲜艳度，电影级飞溅效果 --ar 3:4"
+}
+```
 
-[English]
-Design a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.
+<a id="prompt-ad6b31e655a560a428bf"></a>
+
+### 199. 极简国潮鎏金广州塔海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case230.jpg" alt="极简国潮鎏金广州塔海报" width="480">
+
+- **分类:** 极简国潮鎏金广州塔海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-230)
+
+**提示词:**
+
+```text
+新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，
+
+整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，
+
+广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，
+传统与现代建筑自然融合，层次递进，远近虚实分明，
+
+风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，
+
+色彩方案（重点）：
+高饱和但克制 ，中国红、青蓝、鎏金为主色，
+辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，
+
+背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，
+
+细节：祥云与水纹具有轻微浮雕/烫金质感，
+局部加入微光粒子或流动光线，增强现代感，
+
+光影：柔和渐变光+局部高光，突出恢弘大气氛围，
+
+整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节
 ```
 
 <a id="prompt-adf692642f8e213adb69"></a>
 
-### 214. Soft poetic children's book illustration with watercolor and gouache textures...
+### 200. 柔和的诗意儿童插画，带有水彩和树胶水彩的质感...
 
-![Soft poetic children's book illustration with watercolor and gouache textures...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg" alt="柔和的诗意儿童插画，带有水彩和树胶水彩的质感..." width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/dotey/status/2047174895293849972)
 
 **提示词:**
 
 ```text
-Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large negative space.Calm, thoughtful, slightly open-ended atmosphere.
+柔和的诗意儿童插画，带有水彩和树胶水彩的质感。清澈柔和的日光，带有稍亮的亮点。柔和的粉彩色调，带有柔和的蓝色和温暖的色调。可见的笔触和纸张纹理。极简构图，带有大面积的留白。平静、沉思、略带开放性的氛围。
 
-Child character (around 12 years old).Subtle visual metaphors like light, shadow, perspective, reflection.Hand-painted picture book style, not cartoon, not anime, not 3D.
+儿童角色（约12岁）。微妙的视觉隐喻，如光线、阴影、透视、反射。手绘图画书风格，不是卡通，不是动漫，不是3D。
 
-Two children in calm conversation,soft connection forming.
+两个孩子在平静交谈，形成柔和的联系。
 ```
 
 <a id="prompt-aea6203442d5695bf107"></a>
 
-### 215. 茶π产品宣传海报
+### 201. 茶π产品宣传海报
 
-![茶π产品宣传海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case332.png)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case332.png" alt="茶π产品宣传海报" width="480">
 
 - **分类:** 茶π产品宣传海报
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-332)
@@ -5251,163 +5741,64 @@ Two children in calm conversation,soft connection forming.
 帮这个产品生成宣传图
 ```
 
-<a id="prompt-b10f59209ddb86872a9e"></a>
-
-### 216. 粤超联赛国潮风邀请函海报
-
-![粤超联赛国潮风邀请函海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case236.jpg)
-
-- **分类:** 粤超联赛国潮风邀请函海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-236)
-
-**提示词:**
-
-```text
-[中文]
-广东省城市足球超级联赛（粤超）邀请函海报设计，比例9:16；
-
-S型流动构图，画面从下方向上延展，一条由足球运动轨迹形成的动态能量流贯穿画面， 中心为一颗发光的足球，带有动感轨迹与能量光效；
-
-沿S型动线融合广东城市地标与文化元素： 广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑与佛山武术剪影、中山孙中山文化象征、潮汕英歌舞动态人物轮廓、清远山水自然景观， 所有元素采用“线描 + 局部色块 + 留白”融合表现，层次递进、远近虚实结合；
-
-加入抽象足球运动员剪影，弱化人物细节，强化动势与竞技氛围，视觉重点仍为足球；
-
-风格：现代国潮高级海报，极简风格但富有设计感，高级、干净、统一， 融合东方美学与现代体育视觉；
-
-色彩方案：高饱和但克制，中国红为主视觉，青蓝色辅助，金色点缀高光， 高对比但不杂乱，具有品牌级视觉冲击力；
-
-顶部中央横版视觉主标题 「广东省城市足球超级联赛」：中字，宋体， 中央竖排文字排版： 「粤超」，大字，手写书法艺术字体， 「邀请函」：中字，宋体，纵向排列，间距较大， 底部中央第一排横排： 「2026年4月25日」，小字，宋体，第二排：「广州越秀山体育场」，小字，宋体， 预留文字排版空间；
-
-整体版式平衡、具有高级品牌海报质感，极致精细，构图简洁干净，无杂乱元素，电影级光影，8K 分辨率，高端设计感。融入源自中国传统祥云纹的雅致云纹与水波纹元素，浮动光效粒子，富有动感与生机。
-
-[English]
-Guangdong Provincial City Football Super League (Yuechao) invitation poster design, aspect ratio 9:16;
-
-S-shaped flowing composition, the picture extends from bottom to top, a dynamic energy flow formed by the trajectory of football movement runs through the picture, the center is a glowing football, with dynamic trajectory and energy light effects;
-
-Along the S-shaped motion line, integrate Guangdong city landmarks and cultural elements: Canton Tower, Shenzhen Ping An Finance Centre, Zhuhai Fisher Girl statue, Lingnan architecture and Foshan martial arts silhouettes, Zhongshan Sun Yat-sen cultural symbols, Chaoshan Yingge dance dynamic character outlines, Qingyuan landscape natural scenery, all elements adopt the integrated expression of "line drawing + partial color blocks + blank space", progressive layers, combination of distance and virtual-real;
-
-Add abstract football player silhouettes, weaken character details, strengthen momentum and competitive atmosphere, the visual focus remains on the football;
-
-Style: modern Guochao high-end poster, minimalist style but rich in design sense, high-end, clean, unified, integrating oriental aesthetics and modern sports vision;
-
-Color scheme: high saturation but restrained, Chinese red as the main visual, cyan-blue as auxiliary, gold embellished highlights, high contrast but not cluttered, with brand-level visual impact;
-
-Top center horizontal visual main title "Guangdong Provincial City Football Super League": medium font, Song typeface, center vertical text layout: "Yuechao", large font, handwritten calligraphy art font, "Invitation": medium font, Song typeface, vertical arrangement, large spacing, bottom center first row horizontal: "April 25, 2026", small font, Song typeface, second row: "Guangzhou Yuexiushan Stadium", small font, Song typeface, reserve text layout space;
-
-The overall layout is balanced, has a high-end brand poster texture, extremely detailed, the composition is simple and clean, no cluttered elements, cinematic light and shadow, 8K resolution, high-end design sense. Integrate elegant cloud patterns and water wave patterns derived from traditional Chinese auspicious clouds, floating light effect particles, full of dynamics and vitality.
-```
-
-<a id="prompt-b14f8d2739d982f6fee9"></a>
-
-### 217. 史诗级科幻电影海报设计
-
-![史诗级科幻电影海报设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case191.jpg)
-
-- **分类:** 史诗级科幻电影海报设计
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-191)
-
-**提示词:**
-
-```text
-[中文]
-创建一张科幻电影海报
-
-[English]
-Create a Science fiction movie poster
-```
-
 <a id="prompt-b17bbc2d18a0f6706679"></a>
 
-### 218. Avant-Garde Basketball Sculpture Sports Fashion Ad
+### 202. 前卫篮球雕塑运动时尚广告
 
-![Avant-Garde Basketball Sculpture Sports Fashion Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case73/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case73/output.jpg" alt="前卫篮球雕塑运动时尚广告" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIwithkhan/status/2047886964037398989)
 
 **提示词:**
 
 ```text
-Avant-garde sports fashion advertisement, oversized basketball posed like a monumental sculpture, female athlete reclining across the ball’s curved surface as if modern furniture, giant word “ELEVATE” in bold typography behind, burnt orange studio backdrop, glossy reflective floor, luxury athletic editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1
+先锋运动时尚广告，超大号篮球被塑造成纪念碑雕塑，女运动员斜倚在球弧形表面上，如同现代家具，后方有巨大的"ELEVATE"字样，采用粗体排版，焦橙色摄影棚背景，光滑反光地板，奢华运动编辑美学，电影感照明，极简构图，1:1
+```
+
+<a id="prompt-b247e0dd5e6cdec4dc61"></a>
+
+### 203. 荒诞超现实女装大叔海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case180.jpg" alt="荒诞超现实女装大叔海报" width="480">
+
+- **分类:** 荒诞超现实女装大叔海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-180)
+
+**提示词:**
+
+```text
+一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。
 ```
 
 <a id="prompt-b6f34748ee9441b69c1c"></a>
 
-### 219. Luxury Sportswear Basketball Athlete Campaign Poster
+### 204. 奢华运动服篮球运动员活动海报
 
-![Luxury Sportswear Basketball Athlete Campaign Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case70/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case70/output.jpg" alt="奢华运动服篮球运动员活动海报" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Shorelyn_/status/2047949711181832558)
 
 **提示词:**
 
-```text
-Create a premium luxury sportswear campaign poster featuring a confident female athlete in a modern studio environment. Full body pose with strong fashion attitude, standing tall while holding a basketball at her side, chin raised slightly, direct powerful expression. Athletic toned physique, sleek pulled back hair, clean glowing skin, sharp editorial posture.
-
-Outfit includes an oversized cropped varsity jacket, fitted sports bra, tailored biker shorts, white crew socks, and modern high top sneakers. Neutral monochrome styling with subtle premium branding.
-
-Background is a clean light gray studio wall with giant bold condensed black typography reading “POWER” stretched vertically across the backdrop behind the model. Text should feel oversized and dominant, framing the athlete in the center.
-
-Floor is glossy reflective studio surface with subtle court markings and soft reflections. A few basketballs placed naturally around the floor for depth and campaign styling.
-
-Lighting is bright luxury studio lighting with crisp highlights, soft shadows, and polished commercial finish. Sharp focus, ultra realistic skin texture, premium fabric texture, cinematic contrast.
-
-Style should feel modern, minimal, elite, bold, high fashion sports campaign, luxury brand advertisement, clean composition, balanced negative space, strong visual impact, high resolution, square format.
+````text
+```json
+{
+  "promptText": {
+    "translations": {
+      "zh-CN": "创建一个高级奢侈运动服活动海报，展示一位自信的女性运动员在现代工作室环境中。全身姿势，具有强烈时尚态度，挺直站立，手持篮球置于身侧，下巴略微抬起，直接有力的表情。运动型健美体态，光滑的向后梳的头发，干净发光的皮肤，锐利的编辑姿态。\n\n服装包括 oversized cropped varsity jacket，合身的运动内衣，量身定制的自行车短裤，白色中筒袜，和现代高帮运动鞋。中性单色风格，带有微妙的奢侈品牌标识。\n\n背景是干净浅灰色的工作室墙壁，巨大的粗体压缩黑色字体"POWER"垂直拉伸在模特背后的背景上。文字应该感觉过大且占主导地位，将运动员框在中心。\n\n地板是光滑反射的工作室表面，带有微妙的球场标记和柔和的反射。几个篮球自然地放置在地板周围，以增加深度和活动风格。\n\n照明是明亮的奢侈工作室照明，具有鲜明的高光，柔和的阴影，和抛光的商业完成效果。锐利的焦点，超现实的皮肤纹理，高级面料纹理，电影般的对比度。\n\n风格应感觉现代，简约，精英，大胆，高级时尚运动活动，奢侈品牌广告，干净的构图，平衡的负空间，强烈的视觉冲击，高分辨率，方形格式。"
+    }
+  }
+}
 ```
-
-<a id="prompt-b76207e579b229fe9b2e"></a>
-
-### 220. 鎏金广州塔的东方奇幻海报
-
-![鎏金广州塔的东方奇幻海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case220.jpg)
-
-- **分类:** 鎏金广州塔的东方奇幻海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-220)
-
-**提示词:**
-
-```text
-[中文]
-平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色为背景，自上而下渐变至浓烈暗红色，形成强烈冷暖对比与空间纵深，背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿，自底部向上延伸，具有流体质感、粒子光效与渐变高光，局部带细微能量碎屑与体积光。
-
-金色流光中逐层浮现广州城市地标建筑群：广州塔为视觉核心，比例突出，周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素，建筑采用“精细线描 + 金色发光体块”表现，轮廓清晰、细节丰富，在金色光晕映衬下仿佛悬浮于虚空，形成超现实空间层次，远景轻微雾化增强纵深感。
-
-画面底部为一位东方白发女性形象，长发飘逸，如烟似雾，与金色流光自然衔接并逐渐融合，发丝半透明带渐变光感，姿态柔美，双目微闭，神情宁静，怀抱一束多彩鲜花，花间点缀微光粒子与星点效果，象征人与城市能量的精神连接，人物细节适度简化以突出整体设计感。
-
-光影集中于金色流线、建筑与人物轮廓，形成强烈明暗对比与视觉聚焦，整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底，高亮鎏金为主视觉强调，金色具备丰富明暗层次，辅以小面积高饱和花束色彩点缀，整体高级克制。
-
-页面文字与画面融合排版：顶部居中宋体大字“广州·中国”，下方小字“2026/04/20”，再下方小字“LIYUE”，文字采用淡金色或柔和暖白色，与整体光影统一。高品质细节，电影级光影表现，体积光与粒子细节丰富，画面干净无噪点，超高清8K分辨率，商业级海报质感。
-
-[English]
-Flat illustration, Oriental fantasy style high-end city poster design, vertical 9:16 composition, the overall adopts a diagonal + S-shaped flowing composition, extending from the bottom left to the top right, the picture uses deep black as the background, gradually changing from top to bottom to intense dark red, forming a strong cold-warm contrast and spatial depth, the background has a faint stardust and grainy texture. In the center of the picture, a golden flowing energy line winds through like a flame, extending from the bottom to the top, having a fluid texture, particle light effects and gradient highlights, with subtle energy debris and volumetric light in some areas. Guangzhou city landmark building complexes emerge layer by layer in the golden flowing light: Canton Tower is the visual core, with a prominent proportion, surrounded by the integration of Zhujiang New Town high-rise buildings, Liede Bridge and modern and Lingnan architectural elements, the buildings are expressed using "fine line drawing + golden glowing blocks", clear outlines and rich details, set off by the golden halo, they seem to float in the void, forming a surreal spatial hierarchy, the distant view is slightly fogged to enhance the sense of depth. At the bottom of the picture is an oriental white-haired female figure, long hair fluttering, like smoke and mist, naturally connecting and gradually blending with the golden flowing light, the hair is translucent with a gradient light sense, graceful posture, eyes slightly closed, serene expression, holding a bunch of colorful fresh flowers in her arms, interspersed with faint light particles and starlight effects among the flowers, symbolizing the spiritual connection between human and urban energy, character details are moderately simplified to highlight the overall sense of design. Light and shadow are focused on the golden streamlines, buildings and character outlines, forming a strong light-dark contrast and visual focus, the overall atmosphere is grand, mysterious, with an Oriental mythological artistic conception and a slight healing sense. The color uses black and dark red as the base, highlighted gilded gold as the main visual emphasis, the gold has rich light and dark layers, supplemented by small areas of high-saturation bouquet color embellishments, the overall is advanced and restrained. Page text and picture integrated typography: large Song typeface characters "Guangzhou·China" centered at the top, small characters "2026/04/20" below, small characters "LIYUE" further below, the text uses light gold or soft warm white, unifying with the overall light and shadow. High-quality details, cinematic light and shadow performance, rich volumetric light and particle details, clean picture without noise, ultra-high definition 8K resolution, commercial-grade poster texture.
-```
-
-<a id="prompt-b9eabf5f9fc9720ed6de"></a>
-
-### 221. 奔赴山海胶片感海报
-
-![奔赴山海胶片感海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case254.jpg)
-
-- **分类:** 奔赴山海胶片感海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-254)
-
-**提示词:**
-
-```text
-[中文]
-设计一张主题是”奔赴山海”的胶片感摄影风格的海报
-
-[English]
-Design a poster with the theme of "running towards the mountains and seas" in a film photography style
-```
+````
 
 <a id="prompt-ba97412ee40a1c6eafe6"></a>
 
-### 222. 插画艺术风格创作
+### 205. 插画艺术风格创作
 
-![插画艺术风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case62.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case62.jpg" alt="插画艺术风格创作" width="480">
 
 - **分类:** 插画艺术风格创作
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-62)
@@ -5476,49 +5867,11 @@ Design a poster with the theme of "running towards the mountains and seas" in a 
 }
 ```
 
-<a id="prompt-bb5e2ef35eff5e4f3989"></a>
-
-### 223. 金瓶梅古风开放世界游戏截图
-
-![金瓶梅古风开放世界游戏截图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case213.jpg)
-
-- **分类:** 金瓶梅古风开放世界游戏截图
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-213)
-
-**提示词:**
-
-```text
-[中文]
-帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图
-
-[English]
-Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.
-```
-
-<a id="prompt-c1077551f3de88365696"></a>
-
-### 224. 梦幻波士顿春季城市海报
-
-![梦幻波士顿春季城市海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case298.jpg)
-
-- **分类:** 梦幻波士顿春季城市海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-298)
-
-**提示词:**
-
-```text
-[中文]
-一张引人注目的2026年春季波士顿城市海报，具有优雅的庆典氛围和大胆的当代设计。在干净的米白色纹理背景上，带有大面积的留白，一个微型的单人赛艇手在图像右下角一条狭窄的反光水带上划行。船桨划出的尾波以动态的书法曲线向上扫过，逐渐变成查尔斯河，然后再变成一幅梦幻般的手绘波士顿全景。在这个流动的河流形状的构图中包含着标志性的波士顿元素：后湾天际线、灯塔山红砖联排别墅、橡树街、波士顿公共花园、天鹅船、扎基姆桥、芬威球场启发的细节、历史悠久的砖砌建筑、港口渡轮，以及这座城市的水滨氛围。柔和的晨雾，金色的春季光线，深红和金色的微妙节日点缀，丰富的细节，层次分明的深度，精致的城市海报美学，清新而优雅，视觉上强有力但不拥挤。左下角的优雅排版写着“SPRING 2026”，并附有垂直标语“BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”，文字清晰且构图优美，高端平面设计，9:16
-
-[English]
-A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
-```
-
 <a id="prompt-c53377f80f4f35e1020f"></a>
 
-### 225. 插画艺术风格创作
+### 206. 插画艺术风格创作
 
-![插画艺术风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case41.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case41.jpg" alt="插画艺术风格创作" width="480">
 
 - **分类:** 插画艺术风格创作
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-41)
@@ -5531,9 +5884,9 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 <a id="prompt-c733140b73bd7a097755"></a>
 
-### 226. 主题海报版式设计
+### 207. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case58.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case58.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-58)
@@ -5552,100 +5905,90 @@ Lighting is concentrated on the golden flow, buildings, and character outlines, 
 Integrated text and layout: Centered Songti font at the top reads "{argument name="city" default="Guangzhou"} · China," followed by smaller text "{argument name="date" default="2026/04/20"}" and "{argument name="author" default="LIYUE"}" below. Text uses pale gold or soft warm white, unified with the overall lighting. High-quality details, cinematic lighting, rich volumetric and particle details, clean image without noise, ultra-high 8K resolution, commercial-grade poster quality.
 ```
 
+<a id="prompt-c7379b6981df8ce6f147"></a>
+
+### 208. 古风明朝帝王群像长卷
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case226.jpg" alt="古风明朝帝王群像长卷" width="480">
+
+- **分类:** 古风明朝帝王群像长卷
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-226)
+
+**提示词:**
+
+```text
+根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字
+```
+
 <a id="prompt-c991c2cff3d7cb7ddc98"></a>
 
-### 227. Avant-Garde Tennis Racket Sculpture Sports Fashion Ad
+### 209. 前卫网球拍雕塑运动时尚广告
 
-![Avant-Garde Tennis Racket Sculpture Sports Fashion Ad](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case74/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case74/output.jpg" alt="前卫网球拍雕塑运动时尚广告" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AIwithSynthia/status/2047884609321619831)
 
 **提示词:**
 
 ```text
-Avant-garde sports fashion advertisement, oversized tennis racket positioned like monumental sculpture, female athlete seated casually on the strings as if a suspended lounge, giant word “PRECISION” in bold typography behind, crisp white studio backdrop, reflective court-like floor, luxury sportswear editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1
+前卫运动时尚广告，超大号网球拍被放置成纪念碑雕塑的样子，女运动员随意地坐在球拍弦上，仿佛是一个悬浮的休息区，后方有巨大的"PRECISION"字样，采用粗体排版，清晰的白色工作室背景，具有反射效果的球场式地板，奢侈运动服装编辑美学，电影感照明，超干净的构图，1:1
 ```
 
 <a id="prompt-d53181a8eab2eeb923c9"></a>
 
-### 228. Aspect Ratio: 9:16 Vertical
+### 210. 宽高比: 9:16 纵向
 
-![Aspect Ratio: 9:16 Vertical](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg" alt="宽高比: 9:16 纵向" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/GeekCatX/status/2047220831491858766)
 
 **提示词:**
 
 ```text
-Aspect Ratio: 9:16 Vertical
+【身份与真实感（关键优先级）】
 
-【IDENTITY & REALISM (CRITICAL PRIORITY)】
+主体是一位成年女性，其面部特征和骨骼结构必须100%完美匹配提供的FACE_REF图像。眼距、鼻梁、下颌线和颧骨结构必须精确；不允许身份漂移。皮肤纹理必须具有照片级真实感，显示毛孔和细节——不要过度平滑或应用Instagram滤镜效果。
 
-The subject is an adult female whose facial features and bone structure must 100% perfectly match the provided FACE_REF image. Eye spacing, nose bridge, jawline, and cheekbone structure must be exact; no identity drift is allowed. Skin texture must be photorealistic, showing pores and fine details—do not over-smooth or apply an Instagram filter look.
+【摄影与电影感】
 
-【PHOTOGRAPHY & CINEMATOGRAPHY】
+高端时尚编辑摄影，具有电影质感，可与Vogue、Harper's Bazaar或ELLE的封面相媲美。
 
-A high-end editorial fashion photograph with a cinematic quality, rivaling covers of Vogue, Harper’s Bazaar, or ELLE.
+镜头与对焦：使用85mm镜头（中景）或50mm/70mm镜头（全身）配合浅景深。主体的眼睛必须完全清晰。
 
-Lens & Focus: Use an 85mm lens (for medium shot) or 50mm/70mm (for full body) with a shallow depth of field. The subject's eyes must be perfectly sharp.
+灯光：自然冬季日光辅以柔和的专业补光。金饰和宝石应具有真实的镜面高光，但不要过曝。刺绣纹理必须极其锐利和触感真实。
 
-Lighting: Natural winter daylight supplemented by soft, professional fill light. Gold ornaments and precious stones should have realistic specular highlights without being blown out. Embroidery textures must be incredibly sharp and tactile.
+色彩分级：丰富、电影感的色彩。红色墙壁和服装主色必须鲜明干净，不要浑浊。整体图像应感觉深邃、纹理丰富且昂贵。
 
-Color Grading: Rich, cinematic colors. The red walls and the attire's main color must be distinct and clean, not muddy. The overall image should feel deep, textured, and expensive.
+构图：干净的杂志封面布局，顶部或侧面有刻意留白以供排版。不要撕纸或手绘效果。
 
-Composition: A clean magazine cover layout with deliberate negative space at the top or sides for typography. No torn paper or hand-drawn effects.
+【场景：紫禁城冬季】
 
-【SETTING: FORBIDDEN CITY WINTER】
+地点是北京紫禁城的红墙长廊。
 
-The location is a red-walled long corridor in the Beijing Forbidden City.
+环境：可见细节包括朱红色墙壁、红色柱子、精致的雕花窗户和带有强烈透视深度的彩绘木梁。场景必须干净：没有游客、现代标志或水印。
 
-Environment: Visible details include vermilion walls, red pillars, intricate carved windows, and painted wooden beams with strong perspective depth. The scene must be clean: no tourists, modern signs, or watermarks.
+天气条件（随机选择）：
 
-Weather Condition (Selected Randomly):
+[如果选择下雪]：细小的雪花轻轻飘落。
 
-[If Snowfall selected]: Fine snowflakes are gently falling.
+[如果选择雪后]：空气清新明澈，屋檐和台阶上残留着积雪。
 
-[If Post-Snow selected]: The air is crisp and clear, with remnant snow on the eaves and steps.
+【服装：明代重工高级定制】
 
-【WARDROBE: MING DYNASTY HEAVY INDUSTRY COUTURE】
+主体穿着华丽的多层明代典礼汉服。美学风格以金色为主，密集的流苏，凤冠，大面积的金线刺绣，复杂的层次感，庄重而奢华。
 
-The subject wears opulent, multi-layered Ming Dynasty ceremonial Hanfu. The aesthetic is gold-heavy, dense tassels, phoenix crown, large-area woven gold embroidery, complex layering, dignified and luxurious.
+结构：可见的 crisp white standing inner collar 提供清晰的边界。其上是一件结构化的对襟袄（jacket），配以宽袖，顶部是一条厚重的霞帔/披帛结构，由中央的大压金饰品固定。
 
-Structure: A visible, crisp white standing inner collar provides a clean boundary. Over this is a structured duijin ao (jacket) with wide sleeves, topped by a heavy xiapei/pibo (stole) structure held by a large central yajin ornament.
-
-Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with palpable fiber texture. The embroidery is heavy industry—using panjin goldwork, couched gold
-```
-
-<a id="prompt-d6e47b5af78afb984f4c"></a>
-
-### 229. 鲜艳霓虹光影下的动感苏打水飞溅商业海报
-
-![鲜艳霓虹光影下的动感苏打水飞溅商业海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case312.jpg)
-
-- **分类:** 鲜艳霓虹光影下的动感苏打水飞溅商业海报
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-312)
-
-**提示词:**
-
-```text
-[中文]
-{
-  "prompt": "一个充满活力的高端广告构图中的三个超动态苏打水罐 —— 一罐热带冲刺苏打水伴随着戏剧性的水和热带水果飞溅而爆炸，鲜艳的橙色和粉色背景光；一罐柠檬冰爽苏打水在发光的绿色动态光背景下被冷水泼溅；两罐都覆盖着逼真的冷凝水和运动模糊的水滴，充满果味和清爽的能量。深橙色、粉色和霓虹绿灯光在大胆的演播室布置中融合。由使用佳能 50mm 镜头的专业摄影师拍摄，超写实纹理，清晰的细节，超高分辨率，明亮的商业海报美学，丰富的色彩鲜艳度，电影级飞溅效果 --ar 3:4"
-}
-
-[English]
-{
-  "prompt": "Three ultra-dynamic soda cans in one vibrant high-end advertising composition — a can of TROPICAL RUSH exploding with dramatic water and tropical fruit splash, vibrant orange and pink background lighting; a can of LEMON ICED splashed with cold water against a glowing green dynamic light background; both cans covered in realistic condensation and motion-blurred droplets, bursting with fruity, refreshing energy. Deep orange, pink, and neon green lighting blend together in a bold studio setup. Captured by a professional photographer using a Canon 50mm lens, hyper-realistic textures, crisp details, ultra high resolution, bright commercial poster aesthetic, rich color vibrancy, cinematic splash effects --ar 3:4"
-}
+面料与工艺：主面料是真正的织金锦（zhijin jin），具有可触摸的纤维质感。刺绣是重工——使用盘金绣，盘金线工艺
 ```
 
 <a id="prompt-d7f77ccdb28789d5f11a"></a>
 
-### 230. 主题海报版式设计
+### 211. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case117.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case117.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-117)
@@ -5656,11 +5999,26 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name="patient character" default="sad anthropomorphic avocado half missing its pit"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads "{argument name="speech text" default="I just feel so empty inside"}". On the right, the therapist, an {argument name="therapist character" default="anthropomorphic silver spoon"}, sits in a green armchair, holding a yellow pencil and writing on a notepad labeled "NOTES". The room has warm lighting, a beige rug on a wooden floor, and a bookshelf with a tissue box and books, one titled "REFLECT LISTEN VALIDATE". On the left wall hangs a framed poster reading "{argument name="poster text" default="IT'S OKAY TO FEEL YOUR FEELINGS"}" with a small heart. On the right wall hangs a framed diploma reading "{argument name="diploma text" default="SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION"}" featuring a small spoon illustration and a gold seal.
 ```
 
+<a id="prompt-d8a6b3a49263b9ad3a78"></a>
+
+### 212. 阿马尔菲海岸复古旅行海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case278.jpg" alt="阿马尔菲海岸复古旅行海报" width="480">
+
+- **分类:** 阿马尔菲海岸复古旅行海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-278)
+
+**提示词:**
+
+```text
+现代铅笔插画，意大利阿马尔菲海岸复古旅行海报插画，全景海岸悬崖公路场景，经典1960年代白色汽车沿着弯曲的海滨公路行驶，带有小帆船的深蓝色地中海，色彩缤纷的粉彩山腰村庄，带有柔软云朵的明亮蓝天，带有鲜艳黄色柠檬的柠檬树枝框定前景，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代与装饰性美学。
+```
+
 <a id="prompt-d992123990ae824392e6"></a>
 
-### 231. 足球主题电影海报
+### 213. 足球主题电影海报
 
-![足球主题电影海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case3.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case3.jpg" alt="足球主题电影海报" width="480">
 
 - **分类:** 足球主题电影海报
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-3)
@@ -5673,9 +6031,9 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
 
 <a id="prompt-db1023081f56ce3a8f2c"></a>
 
-### 232. 主题海报版式设计
+### 214. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case116.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case116.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-116)
@@ -5709,11 +6067,41 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
 }
 ```
 
+<a id="prompt-dda5db278809912058ec"></a>
+
+### 215. 金瓶梅古风开放世界游戏截图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case213.jpg" alt="金瓶梅古风开放世界游戏截图" width="480">
+
+- **分类:** 金瓶梅古风开放世界游戏截图
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-213)
+
+**提示词:**
+
+```text
+帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图
+```
+
+<a id="prompt-de755d693364a93cb683"></a>
+
+### 216. 国风工笔八仙长卷插画
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case206.jpg" alt="国风工笔八仙长卷插画" width="480">
+
+- **分类:** 国风工笔八仙长卷插画
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-206)
+
+**提示词:**
+
+```text
+（国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
+```
+
 <a id="prompt-df9c3a42adc52f5dc3a7"></a>
 
-### 233. 主题海报版式设计
+### 217. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case15.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case15.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-15)
@@ -5726,38 +6114,24 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
 
 <a id="prompt-dfca68d8fc75341fbb65"></a>
 
-### 234. A professional product photography shot of a cold sparkling water
+### 218. 专业产品摄影拍摄的一杯冰镇气泡水
 
-![A professional product photography shot of a cold sparkling water](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg" alt="专业产品摄影拍摄的一杯冰镇气泡水" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/meng_dagg695/status/2047227172486824002)
 
 **提示词:**
 
 ```text
-A professional product photography shot of a cold sparkling water
-can placed upright in golden beach sand. The can is silver and teal,
-covered in realistic water droplets condensation, with a pineapple
-illustration and tropical branding. The can is slightly tilted,
-planted in a small mound of fine golden sand with tiny white pebbles
-and small green tropical leaves/grass scattered around the base.
-Background features a bold split composition - bright sky-blue on
-the left and vivid yellow on the right, with a large blurred real
-pineapple placed behind the can on the right side. A blurred tropical
-palm leaf drapes in from the upper left corner, adding depth and
-framing. Macro-level water condensation droplets visible on the
-can surface. Lighting is bright, vibrant, commercial studio lighting
-with clean shadows. Shallow depth of field - can in sharp focus,
-background softly blurred. Mood: summer, tropical, fresh, refreshing.
-Commercial product photography, ultra-detailed, 8K.
+专业产品摄影拍摄，一罐冰镇气泡水直立放置在金色沙滩上。罐身是银色和蓝绿色，覆盖着逼真的水珠冷凝，上面有菠萝图案和热带品牌标识。罐子略微倾斜，植在一个小堆细金沙上，周围散落着白色小鹅卵石和小的绿色热带叶子/草。背景采用大胆的分割构图 - 左侧是明亮的天蓝色，右侧是鲜艳的黄色，右侧罐子后面放置了一个模糊的大真实菠萝。一片模糊的热带棕榈叶从左上角垂入，增加深度和构图。罐体表面可见宏观级别的冷凝水珠。照明明亮、鲜艳，是商业摄影棚灯光，带有清晰的阴影。浅景深 - 罐子清晰对焦，背景柔和模糊。氛围：夏日、热带、清新、爽口。商业产品摄影，超详细，8K。
 ```
 
 <a id="prompt-e2f53009c40ea4f7961b"></a>
 
-### 235. 插画艺术风格创作
+### 219. 插画艺术风格创作
 
-![插画艺术风格创作](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case126.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case126.jpg" alt="插画艺术风格创作" width="480">
 
 - **分类:** 插画艺术风格创作
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-126)
@@ -5770,11 +6144,11 @@ An anime-style light novel cover illustration featuring two characters in an int
 
 <a id="prompt-e71ae245672907b54658"></a>
 
-### 236. A Chinese Odyssey 90s Hong Kong Poster
+### 220. 大话西游 90年代香港海报
 
-![A Chinese Odyssey 90s Hong Kong Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case90/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case90/output.jpg" alt="大话西游 90年代香港海报" width="480">
 
-- **分类:** Poster & Illustration Cases
+- **分类:** 海报与插画案例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/songguoxiansen/status/2047201597697245252)
 
 **提示词:**
@@ -5785,65 +6159,88 @@ An anime-style light novel cover illustration featuring two characters in an int
 图片2：杜蕾斯吉祥物×猪八戒，八戒害羞脸红遮面，文案取经路上要安全
 ```
 
+<a id="prompt-e84562753fabffeb68ed"></a>
+
+### 221. 鎏金广州塔的东方奇幻海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case220.jpg" alt="鎏金广州塔的东方奇幻海报" width="480">
+
+- **分类:** 鎏金广州塔的东方奇幻海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-220)
+
+**提示词:**
+
+```text
+平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色为背景，自上而下渐变至浓烈暗红色，形成强烈冷暖对比与空间纵深，背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿，自底部向上延伸，具有流体质感、粒子光效与渐变高光，局部带细微能量碎屑与体积光。
+
+金色流光中逐层浮现广州城市地标建筑群：广州塔为视觉核心，比例突出，周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素，建筑采用“精细线描 + 金色发光体块”表现，轮廓清晰、细节丰富，在金色光晕映衬下仿佛悬浮于虚空，形成超现实空间层次，远景轻微雾化增强纵深感。
+
+画面底部为一位东方白发女性形象，长发飘逸，如烟似雾，与金色流光自然衔接并逐渐融合，发丝半透明带渐变光感，姿态柔美，双目微闭，神情宁静，怀抱一束多彩鲜花，花间点缀微光粒子与星点效果，象征人与城市能量的精神连接，人物细节适度简化以突出整体设计感。
+
+光影集中于金色流线、建筑与人物轮廓，形成强烈明暗对比与视觉聚焦，整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底，高亮鎏金为主视觉强调，金色具备丰富明暗层次，辅以小面积高饱和花束色彩点缀，整体高级克制。
+
+页面文字与画面融合排版：顶部居中宋体大字“广州·中国”，下方小字“2026/04/20”，再下方小字“LIYUE”，文字采用淡金色或柔和暖白色，与整体光影统一。高品质细节，电影级光影表现，体积光与粒子细节丰富，画面干净无噪点，超高清8K分辨率，商业级海报质感。
+```
+
 <a id="prompt-e9c2d6504acaa87924ef"></a>
 
-### 237. Luxury Fashion Magazine Cover Black and White
+### 222. 奢侈品时尚杂志封面 黑白
 
-![Luxury Fashion Magazine Cover Black and White](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case77/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case77/output.jpg" alt="奢侈品时尚杂志封面 黑白" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/iamrealsnow/status/2047883187527856345)
 
 **提示词:**
 
 ```text
-Create a high fashion editorial magazine cover inspired by luxury fashion publications. Use the reference image of the male subject. Black and white portrait photography with a clean off white studio background. Subject is posed confidently from a low angle, looking slightly upward, sharp jawline, soft parted lips, tousled wavy hair with natural volume. Outfit includes a dark turtleneck layered under a textured tailored plaid blazer. Lighting is soft yet dramatic, creating sculpted facial shadows and elegant contrast.
-Magazine layout design with oversized serif masthead text at the top reading “VOGUE”, partially hidden behind the subject’s head. Minimal premium typography across the page. Add side text “FASHION”, issue date “2026 MAY”, left side headline “27 DIFFERENT STYLES”, and bold bottom right cover line “LOOK FAMOUS”. Include a small red translucent square overlay on one eye area with the word “CATCHY”.
-Style should feel premium, modern, cinematic, clean composition, sharp focus, ultra realistic skin texture, editorial luxury aesthetic, balanced negative space, timeless fashion cover design. Vertical magazine ratio, high resolution.
+创建一个受高级时尚出版物启发的时尚杂志封面。使用男性模特的参考图像。黑白人像摄影，配有干净的米白色工作室背景。模特从低角度自信地摆姿势，略微向上看，下颌线条分明，嘴唇柔软分开，蓬松的自然卷发。服装包括一件深色高领毛衣，内搭一件纹理精制的格子西装外套。光线柔和而戏剧化，塑造出面部阴影和优雅的对比。
+杂志版面设计，顶部有超大衬线标题文字"VOGUE"，部分隐藏在模特头部后面。页面采用简约的高级排版。添加侧边文字"FASHION"，发行日期"2026 MAY"，左侧标题"27 DIFFERENT STYLES"，以及右下角醒目的封面标题"LOOK FAMOUS"。在一只眼睛区域添加一个小的半透明红色方块，上面有"CATCHY"字样。
+风格应感觉高级、现代、电影感、构图干净、焦点清晰、超逼真的皮肤纹理、编辑式奢华美学、平衡的负空间、永恒的时尚封面设计。垂直杂志比例，高分辨率。
 ```
 
 <a id="prompt-ea1be5433a7c8b0a9d76"></a>
 
-### 238. Surrealist Liquor Brand High Fashion Poster
+### 223. 超现实主义的酒类品牌高级时尚海报
 
-![Surrealist Liquor Brand High Fashion Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" alt="超现实主义的酒类品牌高级时尚海报" width="480">
 
-- **分类:** Poster & Illustration Cases, poster
+- **分类:** 海报与插画案例, 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/rs_elwood/status/2047192228758692036)
 
 **提示词:**
 
 ```text
-Un póster publicitario surrealista de alta costura para Aguardiente Amarillo. La escena se sitúa en un estudio minimalista y monocromático de color naranja claro, con un suelo semirreflectante.
-El foco central es una botella de Aguardiente Amarillo de tamaño descomunal y gigante, colocada en ángulo diagonal y que sirve como respaldo. Un modelo masculino de moda, de cabello largo y oscuro, vestido con un conjunto impecable y totalmente blanco —compuesto por una sudadera y pantalones de pierna ancha—, apoya toda su espalda contra la botella gigante en una postura relajada e inclinada. Mira hacia la derecha, de perfil, con la vista al frente y una expresión serena; calza zapatillas blancas de tamaño estándar.
-En el fondo, la palabra "AGUARDIENTE" aparece escrita con una tipografía sans-serif condensada, blanca, masiva y en negrita, parcialmente oculta por la botella gigante y por el modelo para crear una sensación de profundidad. En la esquina superior derecha se lee: "Creado por @HMontilla_".
-En la parte inferior central, una frase publicitaria en tipografía sans-serif blanca reza: "El Aguardiente Amarillo de Manzanares es un icónico licor colombiano, originario de 1885 en Manzanares, Caldas". La iluminación es suave, fría y uniforme, proyectando sombras tenues y un reflejo sutil de los sujetos sobre el suelo azul brillante. La estética general es limpia, moderna y de alto concepto.
+一个为阿瓜迪恩特·阿玛里奥（Aguardiente Amarillo）设计的超现实主义高级时装海报。场景设置在一个简约的单色工作室，采用浅橙色，地面为半反光材质。
+焦点是一个巨大的阿瓜迪恩特·阿玛里奥酒瓶，呈对角线放置，用作靠背。一位时尚男模特，留着深色长发，穿着一套完美无瑕的全白色服装——包括一件连帽衫和宽松的阔腿裤——以放松倾斜的姿态将整个背部靠在巨大的酒瓶上。他向右看，侧脸，目光向前，表情平静；脚穿标准尺寸的白色运动鞋。
+背景中，"AGUARDIENTE"一词以紧凑的白色粗体无衬线字体书写，部分被巨大的酒瓶和模特遮挡，以营造深度感。右上角显示："由 @HMontilla_ 创作"。
+中央底部，一条白色无衬线字体的广告语写道："马纳雷斯黄阿瓜迪恩特是一种标志性的哥伦比亚烈酒，起源于1885年的卡尔达斯省马纳雷斯"。照明柔和、冷调且均匀，在明亮的蓝色地面上投射出淡淡的阴影和主体微妙的倒影。整体美学风格简洁、现代且概念性强。
 
-Establecer la relación de aspecto en 3:4.
+设置宽高比为3:4。
 ```
 
 <a id="prompt-eb6d5e25267fc6b1b6f7"></a>
 
-### 239. Gummiente-Junge Realfilm-Poster
+### 224. 橡胶鸭男孩真人电影海报
 
-![Gummiente-Junge Realfilm-Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case116/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case116/output.jpg" alt="橡胶鸭男孩真人电影海报" width="480">
 
-- **分类:** Comparison & Community Examples
+- **分类:** 比较与社区示例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mirai_ai2050/status/2046944941583270341)
 
 **提示词:**
 
 ```text
-可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。
+可爱的橡皮鸭男孩'RUHiA'为了前往日本而进行大冒险，直到遇到日本女性'未来(Mirai)'的故事。请以真人电影海报的风格来表现。
 
-参照画像入れてないのに女性もミライの雰囲気に似てない？
+没有放入参考图片，为什么女性也不像未来的氛围？
 ```
 
 <a id="prompt-ef656d8f57e6419e859b"></a>
 
-### 240. 插画艺术创作图
+### 225. 插画艺术创作图
 
-![插画艺术创作图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case34.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case34.jpg" alt="插画艺术创作图" width="480">
 
 - **分类:** 插画艺术创作图
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-34)
@@ -5897,9 +6294,9 @@ Establecer la relación de aspecto en 3:4.
 
 <a id="prompt-f317e154bfe7e5dc2aa3"></a>
 
-### 241. 主题海报版式设计
+### 226. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case63.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case63.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-63)
@@ -5912,11 +6309,11 @@ Establecer la relación de aspecto en 3:4.
 
 <a id="prompt-f3aaca64e870d43c3ce1"></a>
 
-### 242. Lu Xun Morning Flowers Illustration
+### 227. 鲁迅朝花夕拾插画
 
-![Lu Xun Morning Flowers Illustration](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case95/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case95/output.jpg" alt="鲁迅朝花夕拾插画" width="480">
 
-- **分类:** Comparison & Community Examples
+- **分类:** 对比与社区示例
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Aurora_62340/status/2047139992355680530)
 
 **提示词:**
@@ -5925,31 +6322,46 @@ Establecer la relación de aspecto en 3:4.
 结合鲁迅的《朝花夕拾》里的内容，生成一副图片，要求图片背景符合《朝花夕拾》的意境，背景图可以使用蒙版，前景是 鲁迅的全身画像位于图片左侧或右侧
 ```
 
+<a id="prompt-f454bcbe21aa3cc093fd"></a>
+
+### 228. 冰火双雄背靠背史诗电影海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case320.jpg" alt="冰火双雄背靠背史诗电影海报" width="480">
+
+- **分类:** 冰火双雄背靠背史诗电影海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-320)
+
+**提示词:**
+
+```text
+一幅戏剧性的电影海报风格肖像，描绘了两位史诗奇幻战士在冰冻风暴中背靠背站立。左侧是一位身经百战的男性战士，留着湿漉漉的深色卷发，低头以此表达坚定的决心，紧握着一把插在冰里的中世纪长剑。霜雪附着在他毛皮镶边的斗篷和肩膀上。右侧是一位强有力的女性战士侧影，苍白的皮肤在炽热的橙色光芒下闪耀，她的身体部分被火焰吞没，与冰冷的蓝色氛围形成对比。雪花粒子在空中盘旋，在象征性的冲突中融合了火与冰。超精细的面部细节，情感强度，体积雾，电影级布光，冷蓝色调混合温暖的火焰高光，浅景深，史诗奇幻电影海报，超写实，8K分辨率，戏剧性构图，清晰聚焦，高对比度，逼真纹理。
+```
+
 <a id="prompt-f6b3585c3d87447dc6a1"></a>
 
-### 243. SPLASH Fashion Brand Hyper-Realistic Campaign Poster
+### 229. SPLASH 时尚品牌超写实活动海报
 
-![SPLASH Fashion Brand Hyper-Realistic Campaign Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case80/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case80/output.jpg" alt="SPLASH 时尚品牌超写实活动海报" width="480">
 
-- **分类:** poster
+- **分类:** 海报
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/miratechtool/status/2047780974709346606)
 
 **提示词:**
 
 ```text
-Create a hyper-realistic fashion poster for “SPLASH” featuring the same girl from the reference image (keep her face 100% identical). She is sitting confidently on a glossy, liquid-style 3D SPLASH logo with water splash effects. One leg relaxed, one bent, strong editorial pose.
-Background has massive bold “SPLASH” text filling the frame, partially behind her. Add small tagline: “Own Your Style.”
-Outfit: modern black street-fashion (blazer, fitted top, trousers, sneakers).
-Lighting: cinematic studio, soft key light + rim light, reflective highlights on liquid logo.
-Style: luxury brand campaign (Zara / H&M), clean glossy environment.
-Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
+为"SPLASH"创建超写实时尚海报，使用参考图像中的同一位女孩（保持她的面部100%相同）。她自信地坐在一个光滑的液体风格3D SPLASH标志上，带有水花效果。一条腿放松，一条腿弯曲，强力的编辑姿势。
+背景有巨大的粗体"SPLASH"文字填满画面，部分位于她身后。添加小标语："Own Your Style."
+服装：现代黑色街头时尚（西装外套，修身上衣，裤子，运动鞋）。
+灯光：电影工作室，柔光主灯+轮廓光，液体标志上有反射高光。
+风格：奢侈品牌活动（Zara / H&M），干净光滑的环境。
+相机：85mm镜头，浅景深，8K，超详细，照片级真实。
 ```
 
 <a id="prompt-f8f00d7d0dc7893540a2"></a>
 
-### 244. 主题海报版式设计
+### 230. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case153.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case153.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-153)
@@ -5960,11 +6372,56 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name="main headline" default="元气祛湿 鸡煲汤包"} and a smaller subtitle {argument name="subtitle" default="吃山林土货 味道当然好!"}. On the left side, add a new woven basket containing exactly 6 distinct piles of ingredients: woody root sticks, white square cubes, round sliced brown roots, yellow soybeans, dried orange peel strips, and dark red dates. Attach 6 small brown rectangular labels with white text to these ingredients. Below the chicken, add a circular orange badge containing the text {argument name="ingredients list" default="内含有:五指毛桃、茯苓、土茯苓、黄豆、陈皮、红枣"}. At the bottom, create a solid orange rectangular banner featuring a cooking pot icon, the text {argument name="usage instructions" default="用法:把汤料清洗干净放入锅中，加入姜片煮20分钟，后加入鸡肉再煮20分钟即可。"}, and a secondary slogan {argument name="bottom slogan" default="天然好料 滋补好汤"}.
 ```
 
+<a id="prompt-fb3d4f9c5af79744e2ba"></a>
+
+### 231. 一张采用分层蒙太奇构图的电影海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case275.jpg" alt="一张采用分层蒙太奇构图的电影海报" width="480">
+
+- **分类:** 一张采用分层蒙太奇构图的电影海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-275)
+
+**提示词:**
+
+```text
+“一张采用分层蒙太奇构图的电影海报。背景为日落时分的海滨小镇，平静的海面倒映着耀眼的日光眩光，薄雾笼罩的天空中有远处飞鸟，沿海公路旁立着电线杆剪影。左侧中景处，一位身着深灰色外套、留着深色卷发的中年男子站在混凝土海堤边，神情忧郁地低头凝视，被傍晚的阳光逆光勾勒轮廓。右侧前景主体为一张大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白色条纹的深色水手校服，湿润的黑发贴在脸颊，柔和漫射光线下，一滴泪珠从她脸颊滑落。画面下方中央前景处，一只柴犬抬头朝右侧望去，红棕色毛发被温暖的轮廓光点亮。画面最底端为一条横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向海面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面站立、女孩拥抱柴犬的特写。画面叠加指定文字：左上角为深青绿色大号衬线字体标题《风间静语》，下方副标题为「—— 致那日的你 ——」；标题下方为小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 画面右侧中部为深色衬线字体文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角为大号白色文字：“10 月 31 日 周五 影院上映”。右下角为小号白色无衬线字体演职人员表：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。
+分段提示词：
+图层索引：0
+片段：“背景为日落时分的海滨小镇，平静海面倒映耀眼日光眩光，薄雾天空中有远处飞鸟，沿海公路旁有电线杆剪影。”
+图层索引：1
+片段：“左侧中景处，身着深灰色外套、留深色卷发的中年男子站在混凝土海堤边，神情忧郁低头，被傍晚阳光逆光照射。”
+图层索引：2
+片段：“右侧前景主体为大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白条纹的深色水手校服，湿润黑发贴脸，柔和漫射光下一滴泪珠滑落脸颊。”
+图层索引：3
+片段：“画面下方中央前景处，一只柴犬抬头望向右侧，红棕色毛发被温暖轮廓光点亮。”
+图层索引：4
+片段：“画面最底端为横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向水面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面、女孩拥抱柴犬特写。”
+图层索引：[5,6,7,8]
+片段：“画面叠加指定文字：左上角为深青绿色大号衬线字体《风间静语》，下方副标题「—— 致那日的你 ——」；其下小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 右侧中部深色衬线文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角大号白色文字：“10 月 31 日 周五 影院上映”。右下角小号白色无衬线字体演职信息：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。
+负面提示词：
+“平光照明，无质感表面，对称构图，底部留白空荡，文字缺失，翻译文字，改写文字，3D 渲染，卡通风格，高对比生硬阴影，干涩头发，明亮欢快表情”
+```
+
+<a id="prompt-fba40f5e3af1145d4ce6"></a>
+
+### 232. 史诗级科幻电影海报设计
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case191.jpg" alt="史诗级科幻电影海报设计" width="480">
+
+- **分类:** 史诗级科幻电影海报设计
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-191)
+
+**提示词:**
+
+```text
+创建一张科幻电影海报
+```
+
 <a id="prompt-fdb12d5250bd6d1a4563"></a>
 
-### 245. 主题海报版式设计
+### 233. 主题海报版式设计
 
-![主题海报版式设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case9.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case9.jpg" alt="主题海报版式设计" width="480">
 
 - **分类:** 主题海报版式设计
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-9)
@@ -5973,4 +6430,34 @@ Using REFERENCE_0 as the base style and preserving the central chicken illustrat
 
 ```text
 2026中国城市系列宣传海报，主题为【北京】。现代、多彩、明亮通透的国潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰需结合北京地域文化定制。红绸延展为城市长卷，融合天坛、长城、鸟巢、喇叭沟门原始森林公园、什刹海、京味相声。左侧排版SPRING 2026、竖排Beijing和小印章“北京”。要求统一系列感，但不能雷同，细节丰富，城市辨识度强。文字清晰且精美布局，高端图形设计。
+```
+
+<a id="prompt-fe7923547764ffb437c1"></a>
+
+### 234. 梦幻波士顿春季城市海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case298.jpg" alt="梦幻波士顿春季城市海报" width="480">
+
+- **分类:** 梦幻波士顿春季城市海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-298)
+
+**提示词:**
+
+```text
+一张引人注目的2026年春季波士顿城市海报，具有优雅的庆典氛围和大胆的当代设计。在干净的米白色纹理背景上，带有大面积的留白，一个微型的单人赛艇手在图像右下角一条狭窄的反光水带上划行。船桨划出的尾波以动态的书法曲线向上扫过，逐渐变成查尔斯河，然后再变成一幅梦幻般的手绘波士顿全景。在这个流动的河流形状的构图中包含着标志性的波士顿元素：后湾天际线、灯塔山红砖联排别墅、橡树街、波士顿公共花园、天鹅船、扎基姆桥、芬威球场启发的细节、历史悠久的砖砌建筑、港口渡轮，以及这座城市的水滨氛围。柔和的晨雾，金色的春季光线，深红和金色的微妙节日点缀，丰富的细节，层次分明的深度，精致的城市海报美学，清新而优雅，视觉上强有力但不拥挤。左下角的优雅排版写着“SPRING 2026”，并附有垂直标语“BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”，文字清晰且构图优美，高端平面设计，9:16
+```
+
+<a id="prompt-ffa2b71b556ca8c62923"></a>
+
+### 235. 奔赴山海胶片感海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case254.jpg" alt="奔赴山海胶片感海报" width="480">
+
+- **分类:** 奔赴山海胶片感海报
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-254)
+
+**提示词:**
+
+```text
+设计一张主题是”奔赴山海”的胶片感摄影风格的海报
 ```

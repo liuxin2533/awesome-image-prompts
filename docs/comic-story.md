@@ -2,8 +2,10 @@
 
 [Back to README](../README.md)
 
-- Total prompts: 10
-- Generated: 2026-05-04T14:49:54.225Z
+This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](https://gptimages.dev).
+
+- Total prompts: 11
+- Generated: 2026-05-05T17:36:14.688Z
 
 ## Prompts
 
@@ -11,7 +13,7 @@
 
 ### 1. Comic / Storyboard - Cinematic film stills transformation prompt
 
-![Comic / Storyboard - Cinematic film stills transformation prompt](https://cms-assets.youmind.com/media/1777367259942_s0ic2c_HG7EoEHagAAvsPJ.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367259942_s0ic2c_HG7EoEHagAAvsPJ.jpg" alt="Comic / Storyboard - Cinematic film stills transformation prompt" width="480">
 
 A prompt for converting an image into a vertical stack of three sequential cinematic film stills.
 
@@ -28,7 +30,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 
 ### 2. Comic / Storyboard - Night Rehearsal Manga Spread
 
-![Comic / Storyboard - Night Rehearsal Manga Spread](https://cms-assets.youmind.com/media/1777367303607_4ifih0_HG67kn3bsAANq26.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367303607_4ifih0_HG67kn3bsAANq26.jpg" alt="Comic / Storyboard - Night Rehearsal Manga Spread" width="480">
 
 A monochrome manga-style two-page school band scene showing a surprise nighttime studio visit, ideal for generating dramatic Japanese comic pages.
 
@@ -45,7 +47,7 @@ A monochrome manga-style two-page school band scene showing a surprise nighttime
 
 ### 3. Comic / Storyboard - Superheroine Peril Storyboard Grid
 
-![Comic / Storyboard - Superheroine Peril Storyboard Grid](https://cms-assets.youmind.com/media/1777367320581_psg2za_HG6tkbYaEAEcXlu.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367320581_psg2za_HG6tkbYaEAEcXlu.jpg" alt="Comic / Storyboard - Superheroine Peril Storyboard Grid" width="480">
 
 Generates a 9-panel live-action tokusatsu-style storyboard sheet of a damaged superheroine being attacked by a reptilian monster in a dark industrial warehouse.
 
@@ -62,7 +64,7 @@ Generates a 9-panel live-action tokusatsu-style storyboard sheet of a damaged su
 
 ### 4. Comic / Storyboard - Dark Fantasy Four-Armed Heroine Cover
 
-![Comic / Storyboard - Dark Fantasy Four-Armed Heroine Cover](https://cms-assets.youmind.com/media/1777367338290_q1uet4_HG6-PhIaAAAHJek.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367338290_q1uet4_HG6-PhIaAAAHJek.jpg" alt="Comic / Storyboard - Dark Fantasy Four-Armed Heroine Cover" width="480">
 
 This prompt generates a dramatic Japanese fantasy action book cover featuring a silver-haired four-armed mechanical heroine with glowing blue blades, ideal for web novel or light novel cover art.
 
@@ -79,7 +81,7 @@ A dramatic dark fantasy light-novel cover illustration in a square format, featu
 
 ### 5. Comic / Storyboard - Night Studio Manga Two-Page Spread
 
-![Comic / Storyboard - Night Studio Manga Two-Page Spread](https://cms-assets.youmind.com/media/1777367303572_0yuqec_HG67khYb0AAo1sb.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367303572_0yuqec_HG67khYb0AAo1sb.jpg" alt="Comic / Storyboard - Night Studio Manga Two-Page Spread" width="480">
 
 This generates a polished grayscale manga double-page scene of two high-school students in a rehearsal studio, ideal for emotional music-drama comics or cinematic AI manga pages.
 
@@ -92,32 +94,32 @@ This generates a polished grayscale manga double-page scene of two high-school s
 {"type":"black-and-white manga two-page spread","genre":"quiet emotional school music drama","reading_direction":"right-to-left Japanese manga layout","print_style":"clean manga page composition with gutters, panel borders, screentone shading, detailed line art, soft night lighting, no color","setting":{"location":"small rehearsal studio at night","details":["large window showing a city skyline with illuminated buildings","drum kit near the back window","2 visible Marshall amplifiers","wood-paneled walls","door and studio notices","wall sign reading 'スタジオ Beat Box'","music stools and rehearsal-room clutter"]},"characters":[{"role":"girl guitarist","count":1,"appearance":"slender high-school girl with very long straight light-colored hair and bangs, calm melancholic expression, school uniform shirt with ribbon bow and plaid skirt, seated while holding a solid-body electric guitar"},{"role":"boy classmate","count":1,"appearance":"high-school boy with short spiky hair, school blazer, loosened necktie, seated facing the girl"}],"layout":{"spread_count":2,"page_numbers":[7,8],"sections":[{"title":"left page","position":"left half","count":3,"panels":["top panel: medium shot of the boy in the studio, facing the girl, with a tall vertical speech balloon containing '…… あのさ'","middle panel: close three-quarter view of the girl looking down while playing the electric guitar, hands on the fretboard and body","bottom panel: close shot of the boy speaking with a large vertical speech balloon containing 'どうやったら、そんな音出せるの'"]},{"title":"right page","position":"right half","count":4,"panels":["top panel: close-up profile of the girl in thought, hand near her mouth, with a vertical ellipsis speech balloon '……'","middle panel: medium shot of the girl holding the guitar and answering, with a large vertical speech balloon containing '別に、特別なことはしてない'","bottom panel: wide panel showing both characters seated across from each other in the studio, the girl with guitar and the boy listening, city lights visible through the window","small transitional panel feeling maintained by cinematic pacing across the page layout"]}],"centerpiece":"the quiet exchange between the boy and the girl about the sound of her guitar"},"mood":"introspective, restrained, intimate, slightly bittersweet","camera_style":"cinematic manga framing with close-ups, medium shots, and one wide establishing panel","text":{"language":"Japanese","speech_balloons_count":4,"visible_lines":["…… あのさ","どうやったら、そんな音出せるの","……","別に、特別なことはしてない"]},"quality":"highly detailed professional seinen manga artwork, polished grayscale tones, expressive hair rendering, realistic instruments and studio interior"}
 ```
 
-<a id="prompt-341826909b4bc7170946"></a>
+<a id="prompt-1e33bccb509345379f90"></a>
 
-### 6. 真实动漫画面快照
+### 6. title.translations.en
+A realistic comic-style runner breaking through the dimensional wall
 
-![真实动漫画面快照](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case285.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case316.jpg" alt="title.translations.en
+A realistic comic-style runner breaking through the dimensional wall" width="480">
 
-- **Categories:** 真实动漫画面快照
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-285)
+- **Categories:** A realistic comic runner breaking through the dimensional wall
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-316)
 
 **Prompt:**
 
 ```text
-[中文]
-向我展示这张附带的图像作为一部真实动漫的快照
-
-[English]
-Show me the attached image as a snapshot from an actual anime
+{
+  "prompt": "Ultra-realistic, vibrant photorealistic rendering of a young man with short curly dark hair, neatly trimmed beard, and black rectangular glasses, wearing a dark textured turtleneck sweater and jeans. He is captured mid-run in a dynamic, forward-breaking pose, dramatically emerging from a torn manga panel — one leg and one arm bursting into the real world while the rest of his body remains inside the comic frame. His expression is energetic and joyful, with sharp facial details, natural skin texture, and dramatic cinematic lighting with high contrast and depth. \n\nBackground: a highly detailed black-and-white manga layout filled with humorous, exaggerated reaction scenes that directly interact with him. The surrounding manga characters display shocked and comedic expressions, with bold speech bubbles and motion lines. The manga panels are illustrated in a classic high-contrast ink style with crisp linework and halftone shading. Torn paper edges and debris enhance the illusion of him breaking through the comic world. The fully colored, photorealistic figure contrasts strongly against the monochrome manga environment, creating a dynamic hybrid between reality and comic art. Ultra-detailed, 8k resolution, sharp focus, dramatic shadows, cinematic depth of field."
+}
 ```
 
 <a id="prompt-3948442b0ff4518127e4"></a>
 
-### 7. 漫画分镜叙事设计
+### 7. Comic Storyboard Narrative Design
 
-![漫画分镜叙事设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case118.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case118.jpg" alt="Comic Storyboard Narrative Design" width="480">
 
-- **Categories:** 漫画分镜叙事设计
+- **Categories:** Comic storyboard narrative design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-118)
 
 **Prompt:**
@@ -126,13 +128,28 @@ Show me the attached image as a snapshot from an actual anime
 A high-contrast, black-and-white illustration of an elderly man in a sharp suit, drawing a katana. The man has slicked-back white hair, deep wrinkles, and an intense, focused expression, looking down at the blade. He wears a dark suit, white shirt, and dark tie. His hands are prominently featured in the foreground, showing pronounced veins and wrinkles as they grip the ornate handle and scabbard of the katana. The background is completely black, emphasizing the dramatic lighting and intricate cross-hatching details on the man's face, hands, and clothing. The style resembles a detailed, gritty manga or graphic novel.
 ```
 
+<a id="prompt-4212711b0edc494ad36a"></a>
+
+### 8. Intelligent Animation Storyboard Generator
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case204.jpg" alt="Intelligent Animation Storyboard Generator" width="480">
+
+- **Categories:** Intelligent Animation Storyboard Generator
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-204)
+
+**Prompt:**
+
+```text
+Generate an animation storyboard generator
+```
+
 <a id="prompt-51629d95ccdef9bc48b0"></a>
 
-### 8. 漫画分镜叙事设计
+### 9. Comic Storyboard Narrative Design
 
-![漫画分镜叙事设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case24.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case24.jpg" alt="Comic Storyboard Narrative Design" width="480">
 
-- **Categories:** 漫画分镜叙事设计
+- **Categories:** Comic storyboard narrative design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-24)
 
 **Prompt:**
@@ -143,11 +160,11 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 <a id="prompt-51bc35b17e3b4054dacf"></a>
 
-### 9. 漫画分镜叙事设计
+### 10. Comic Storyboard Narrative Design
 
-![漫画分镜叙事设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case60.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case60.jpg" alt="Comic Storyboard Narrative Design" width="480">
 
-- **Categories:** 漫画分镜叙事设计
+- **Categories:** Comic storyboard narrative design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-60)
 
 **Prompt:**
@@ -191,21 +208,17 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 }
 ```
 
-<a id="prompt-816d86c4d7886a9e9b7e"></a>
+<a id="prompt-773b2d6a8a0b1b030f61"></a>
 
-### 10. 智能动画分镜生成器
+### 11. 真实动漫画面快照
 
-![智能动画分镜生成器](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case204.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case285.jpg" alt="真实动漫画面快照" width="480">
 
-- **Categories:** 智能动画分镜生成器
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-204)
+- **Categories:** 真实动漫画面快照
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-285)
 
 **Prompt:**
 
 ```text
-[中文]
-生成一张动画分镜生成器
-
-[English]
-Generate an animation storyboard generator
+Show me the attached image as a snapshot from an actual anime
 ```

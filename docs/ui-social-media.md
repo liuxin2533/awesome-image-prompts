@@ -2,8 +2,10 @@
 
 [Back to README](../README.md)
 
-- Total prompts: 113
-- Generated: 2026-05-04T14:49:54.225Z
+This file contains every prompt assigned to this collection. For visual browsing and quick copying, open [gptimages.dev](https://gptimages.dev).
+
+- Total prompts: 119
+- Generated: 2026-05-05T17:36:14.688Z
 
 ## Prompts
 
@@ -11,7 +13,7 @@
 
 ### 1. Spanish GRWM Morning Beauty Thumbnail
 
-![Spanish GRWM Morning Beauty Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case91/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case91/output.jpg" alt="Spanish GRWM Morning Beauty Thumbnail" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/S0N_IA_/status/2047414367243657296)
@@ -26,7 +28,7 @@ A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediter
 
 ### 2. Handwritten Realistic Letter
 
-![Handwritten Realistic Letter](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg" alt="Handwritten Realistic Letter" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mosthssan/status/2048160477658980711)
@@ -41,7 +43,7 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 
 ### 3. Nostalgic 16-Photo Couple Grid
 
-![Nostalgic 16-Photo Couple Grid](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case118/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case118/output.jpg" alt="Nostalgic 16-Photo Couple Grid" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/zenkaiAI/status/2048051889460437351)
@@ -56,7 +58,7 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 
 ### 4. 4-Panel Japanese Digital Ad Banner Grid
 
-![4-Panel Japanese Digital Ad Banner Grid](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case90/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case90/output.jpg" alt="4-Panel Japanese Digital Ad Banner Grid" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/makaneko_AI/status/2045764016858087720)
@@ -166,7 +168,7 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 
 ### 5. Golden Cocktail in Greenhouse Bar
 
-![Golden Cocktail in Greenhouse Bar](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case104/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case104/output.jpg" alt="Golden Cocktail in Greenhouse Bar" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/FernandesK47117/status/2048183925294371147)
@@ -181,7 +183,7 @@ A cinematic vertical photo of a hand holding up a large balloon wine glass fille
 
 ### 6. Cloud shape doodle generation
 
-![Cloud shape doodle generation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case112/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case112/output.jpg" alt="Cloud shape doodle generation" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Gorden_Sun/status/2048080137149899133)
@@ -196,7 +198,7 @@ Based on the shape of the {argument name="subject" default="clouds"} in the imag
 
 ### 7. Tokyo DisneySea Front-Row Battle UI
 
-![Tokyo DisneySea Front-Row Battle UI](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case75/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case75/output.jpg" alt="Tokyo DisneySea Front-Row Battle UI" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mikko_20100518/status/2047514897404354598)
@@ -221,7 +223,7 @@ Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authen
 
 ### 8. Japanese AI Battle YouTube Thumbnail
 
-![Japanese AI Battle YouTube Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case74/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case74/output.jpg" alt="Japanese AI Battle YouTube Thumbnail" width="480">
 
 This prompt generates a dramatic Japanese-language AI competition thumbnail with 3 competing brand zones and a futuristic presenter, ideal for YouTube or social media tech commentary.
 
@@ -238,7 +240,7 @@ A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen,
 
 ### 9. Restaurant POV Change Comparison
 
-![Restaurant POV Change Comparison](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case70/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case70/output.jpg" alt="Restaurant POV Change Comparison" width="480">
 
 A social-media style comparison graphic showing a crowded restaurant before and after changing only the camera viewpoint, useful for demonstrating image-model perspective control.
 
@@ -255,7 +257,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 
 ### 10. Tropical Parrot Pixel Mosaic
 
-![Tropical Parrot Pixel Mosaic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case103/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case103/output.jpg" alt="Tropical Parrot Pixel Mosaic" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/erikmackinnon/status/2048190288179675290)
@@ -270,7 +272,7 @@ A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown b
 
 ### 11. Cinematic City Explosion Chase
 
-![Cinematic City Explosion Chase](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case92/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case92/output.jpg" alt="Cinematic City Explosion Chase" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Gugombly/status/2047310862428303636)
@@ -285,7 +287,7 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 
 ### 12. Rural Station Schoolgirl Scene
 
-![Rural Station Schoolgirl Scene](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case113/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case113/output.jpg" alt="Rural Station Schoolgirl Scene" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/m_Raiko_AIart/status/2048069313387737222)
@@ -300,7 +302,7 @@ A cinematic anime-style illustration of a quiet rural Japanese train station in 
 
 ### 13. Gothic Android Warrior Cathedral Key Art
 
-![Gothic Android Warrior Cathedral Key Art](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case111/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case111/output.jpg" alt="Gothic Android Warrior Cathedral Key Art" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/yanagihara_0805/status/2048085829713842405)
@@ -315,7 +317,7 @@ A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertic
 
 ### 14. Celebrity Livestream Concept
 
-![Celebrity Livestream Concept](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case95/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case95/output.jpg" alt="Celebrity Livestream Concept" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SelenaGmzIN/status/2047185882009198865)
@@ -330,7 +332,7 @@ A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertic
 
 ### 15. Luxury Lifestyle Mustang Shot
 
-![Luxury Lifestyle Mustang Shot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg" alt="Luxury Lifestyle Mustang Shot" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Just_sharon7/status/2048095904138485962)
@@ -345,7 +347,7 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 
 ### 16. Multi-Panel Image Board Template
 
-![Multi-Panel Image Board Template](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case105/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case105/output.jpg" alt="Multi-Panel Image Board Template" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/aimikoda/status/2048183782876778821)
@@ -360,7 +362,7 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 
 ### 17. Young Woman in Sequin Dress on Stairs
 
-![Young Woman in Sequin Dress on Stairs](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case88/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case88/output.jpg" alt="Young Woman in Sequin Dress on Stairs" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/XSydneyFan/status/2048114180906217566)
@@ -375,7 +377,7 @@ Vertical 2:3 format. {argument name="subject" default="Young woman"} hair in mes
 
 ### 18. Artist and Ethereal Muse at Night
 
-![Artist and Ethereal Muse at Night](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case120/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case120/output.jpg" alt="Artist and Ethereal Muse at Night" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/almimeister/status/2048309710118687101)
@@ -390,7 +392,7 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
 
 ### 19. Comic / Storyboard - AAA Fighting Game Storyboard Grid
 
-![Comic / Storyboard - AAA Fighting Game Storyboard Grid](https://cms-assets.youmind.com/media/1777367272688_o88a6b_HG8D0fFXUAIa68p.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367272688_o88a6b_HG8D0fFXUAIa68p.jpg" alt="Comic / Storyboard - AAA Fighting Game Storyboard Grid" width="480">
 
 A highly structured prompt for creating a 3x3 storyboard grid of a fighting game, maintaining consistent characters and full game UI elements.
 
@@ -449,7 +451,7 @@ A highly structured prompt for creating a 3x3 storyboard grid of a fighting game
 
 ### 20. Social Media Post - Editorial Bridal Portrait with Fascinator
 
-![Social Media Post - Editorial Bridal Portrait with Fascinator](https://cms-assets.youmind.com/media/1777367353692_mx9cwt_HG7F2mvboAAlqwo.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367353692_mx9cwt_HG7F2mvboAAlqwo.jpg" alt="Social Media Post - Editorial Bridal Portrait with Fascinator" width="480">
 
 This prompt generates a refined studio fashion portrait of a reclining woman in a white embellished dress and fascinator, ideal for bridal editorial or couture beauty imagery.
 
@@ -466,7 +468,7 @@ A high-fashion studio portrait of a young woman reclining sideways on the floor 
 
 ### 21. Social Media Post - Childlike Crayon Portrait on Paper
 
-![Social Media Post - Childlike Crayon Portrait on Paper](https://cms-assets.youmind.com/media/1777367347456_i333ek_HG8pqG3bIAAuwOZ.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367347456_i333ek_HG8pqG3bIAAuwOZ.jpg" alt="Social Media Post - Childlike Crayon Portrait on Paper" width="480">
 
 This prompt generates a realistic photo of a messy children's crayon drawing on paper, useful for recreating handmade naive artwork with a humorous school-project feel.
 
@@ -483,7 +485,7 @@ A realistic overhead photo of a childlike crayon drawing on a slightly wrinkled 
 
 ### 22. Social Media Post - Taiwan Breakfast Shop Candid Portrait
 
-![Social Media Post - Taiwan Breakfast Shop Candid Portrait](https://cms-assets.youmind.com/media/1777367333404_5vgfp5_HG8hi45aQAALgGU.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367333404_5vgfp5_HG8hi45aQAALgGU.jpg" alt="Social Media Post - Taiwan Breakfast Shop Candid Portrait" width="480">
 
 This prompt generates a realistic vertical photo of a young woman eating breakfast in a busy Taiwanese street-side diner, ideal for lifestyle, travel, or food-scene imagery.
 
@@ -500,7 +502,7 @@ A candid street-food cafe photo in a narrow old Taiwanese breakfast shop, shot i
 
 ### 23. YouTube Thumbnail - Cyber AI Webinar Thumbnail
 
-![YouTube Thumbnail - Cyber AI Webinar Thumbnail](https://cms-assets.youmind.com/media/1777367312466_19d40h_HG6p2oxaoAA87gy.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367312466_19d40h_HG6p2oxaoAA87gy.jpg" alt="YouTube Thumbnail - Cyber AI Webinar Thumbnail" width="480">
 
 This prompt generates a bold Japanese cyber-style livestream thumbnail with electric typography, a mascot character, and three feature panels for tech talks, AI webinars, or promotional streams.
 
@@ -517,7 +519,7 @@ Create a flashy Japanese YouTube thumbnail in a dark futuristic cyber-tech style
 
 ### 24. Comic / Storyboard - Two-Page School Band Manga Spread
 
-![Comic / Storyboard - Two-Page School Band Manga Spread](https://cms-assets.youmind.com/media/1777367304095_qz4qum_HG67kqpb0AA1Dms.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367304095_qz4qum_HG67kqpb0AA1Dms.jpg" alt="Comic / Storyboard - Two-Page School Band Manga Spread" width="480">
 
 This generates a dramatic black-and-white manga double-page showing a high school band rehearsal and a boy becoming captivated by a girl's guitar performance, ideal for AI manga scenes or comic storytelling.
 
@@ -534,7 +536,7 @@ A two-page black-and-white manga spread set in a nighttime high school band rehe
 
 ### 25. Social Media Post - Autumn Leaves with Handwritten Japanese Text
 
-![Social Media Post - Autumn Leaves with Handwritten Japanese Text](https://cms-assets.youmind.com/media/1777367319655_s5reqw_G6G78EDasAAxcde.png)
+<img src="https://cms-assets.youmind.com/media/1777367319655_s5reqw_G6G78EDasAAxcde.png" alt="Social Media Post - Autumn Leaves with Handwritten Japanese Text" width="480">
 
 This prompt generates a cozy autumn close-up photo of fallen maple leaves on pavement with expressive white handwritten Japanese text, ideal for seasonal quote posts or poetic social media visuals.
 
@@ -551,7 +553,7 @@ A warm, shallow-depth-of-field autumn photograph of multiple fallen maple leaves
 
 ### 26. YouTube Thumbnail - Flashy Gold AI Income Thumbnail
 
-![YouTube Thumbnail - Flashy Gold AI Income Thumbnail](https://cms-assets.youmind.com/media/1777367313163_l3gpv3_HG6p2o0bIAEhzCO.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367313163_l3gpv3_HG6p2o0bIAEhzCO.jpg" alt="YouTube Thumbnail - Flashy Gold AI Income Thumbnail" width="480">
 
 This prompt generates a dramatic black-and-gold Japanese thumbnail for AI image-generation income content, ideal for YouTube covers and social media promotional graphics.
 
@@ -568,7 +570,7 @@ Create a flashy Japanese YouTube thumbnail in a luxurious black-and-gold money-m
 
 ### 27. Social Media Post - Taiwan Breakfast Shop Candid Portrait
 
-![Social Media Post - Taiwan Breakfast Shop Candid Portrait](https://cms-assets.youmind.com/media/1777367333198_f62s4m_HG8hi45aUAApB2i.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367333198_f62s4m_HG8hi45aUAApB2i.jpg" alt="Social Media Post - Taiwan Breakfast Shop Candid Portrait" width="480">
 
 This prompt generates a realistic candid photo of a woman eating traditional breakfast foods inside a bustling Taiwanese diner, ideal for lifestyle, food-travel, or street photography visuals.
 
@@ -585,7 +587,7 @@ A candid smartphone photo of a young East Asian woman seated at a small round ta
 
 ### 28. Social Media Post - Snowy Sky with Handwritten Japanese Text
 
-![Social Media Post - Snowy Sky with Handwritten Japanese Text](https://cms-assets.youmind.com/media/1777367319625_pqoiwq_G6G78EAbQAAgNdV.png)
+<img src="https://cms-assets.youmind.com/media/1777367319625_pqoiwq_G6G78EAbQAAgNdV.png" alt="Social Media Post - Snowy Sky with Handwritten Japanese Text" width="480">
 
 This generates a poetic winter sky photograph with falling snow, tree silhouettes, and expressive handwritten Japanese text, ideal for emotional social media posts or seasonal visual quotes.
 
@@ -602,7 +604,7 @@ A moody square winter photograph looking straight up at an overcast gray-blue sk
 
 ### 29. Social Media Post - Taiwan Breakfast Shop Candid Portrait
 
-![Social Media Post - Taiwan Breakfast Shop Candid Portrait](https://cms-assets.youmind.com/media/1777367334341_u2qil2_HG8hi6vb0AAljm3.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367334341_u2qil2_HG8hi6vb0AAljm3.jpg" alt="Social Media Post - Taiwan Breakfast Shop Candid Portrait" width="480">
 
 This generates a realistic candid photo of a woman eating in a Taiwanese breakfast shop, useful for lifestyle, cafe, or street-photography-style scenes.
 
@@ -619,7 +621,7 @@ A candid street-side cafe photo of a young East Asian woman seated at a small ro
 
 ### 30. YouTube Thumbnail - TV Variety Show Screen Capture
 
-![YouTube Thumbnail - TV Variety Show Screen Capture](https://cms-assets.youmind.com/media/1777367277112_35qppq_HG5hEAdbsAAK9WO.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367277112_35qppq_HG5hEAdbsAAK9WO.jpg" alt="YouTube Thumbnail - TV Variety Show Screen Capture" width="480">
 
 A prompt for recreating the complex multi-layered aesthetic of Japanese variety show television screens, including specific overlay types like telops and wipes.
 
@@ -652,7 +654,7 @@ The overall format is identical to a TV screen capture of a variety show. The se
 
 ### 31. Social Media Post - Candid Breakfast Shop Portrait
 
-![Social Media Post - Candid Breakfast Shop Portrait](https://cms-assets.youmind.com/media/1777367334440_sshaov_HG8hjC2bMAAtSLf.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367334440_sshaov_HG8hjC2bMAAtSLf.jpg" alt="Social Media Post - Candid Breakfast Shop Portrait" width="480">
 
 This prompt generates a realistic vertical lifestyle photo of a woman eating at a Taiwanese breakfast shop, useful for casual social-media or street-photography style imagery.
 
@@ -669,7 +671,7 @@ A candid smartphone photo of a young East Asian woman sitting at a small table i
 
 ### 32. Profile / Avatar - Golden Hour Organic Outdoor Selfie
 
-![Profile / Avatar - Golden Hour Organic Outdoor Selfie](https://cms-assets.youmind.com/media/1777367285499_npgwqi_HG7f3r_W8AEmojc.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367285499_npgwqi_HG7f3r_W8AEmojc.jpg" alt="Profile / Avatar - Golden Hour Organic Outdoor Selfie" width="480">
 
 This prompt generates a realistic, candid outdoor golden-hour selfie with natural phone-camera lighting and an authentic social-media feel.
 
@@ -686,7 +688,7 @@ A realistic, casual outdoor smartphone selfie of a {argument name="subject age" 
 
 ### 33. Social Media Post - TV Interview Scene with Captions
 
-![Social Media Post - TV Interview Scene with Captions](https://cms-assets.youmind.com/media/1777367276002_b3pk02_HG8pBwzaoAARCOU.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367276002_b3pk02_HG8pBwzaoAARCOU.jpg" alt="Social Media Post - TV Interview Scene with Captions" width="480">
 
 A prompt for generating a wide-screen TV interview scene with specific UI elements like wipes, time displays, and news tickers.
 
@@ -703,7 +705,7 @@ A prompt for generating a wide-screen TV interview scene with specific UI elemen
 
 ### 34. Infographic / Edu Visual - LEGO Parts List Inventory Page
 
-![Infographic / Edu Visual - LEGO Parts List Inventory Page](https://cms-assets.youmind.com/media/1777367352159_t6ogew_HG7_HKsaMAAhw7P.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367352159_t6ogew_HG7_HKsaMAAhw7P.jpg" alt="Infographic / Edu Visual - LEGO Parts List Inventory Page" width="480">
 
 This prompt generates a clean LEGO-style parts inventory sheet with BrickLink IDs, useful for instruction booklets, build guides, or printable custom set documentation.
 
@@ -720,7 +722,7 @@ This prompt generates a clean LEGO-style parts inventory sheet with BrickLink ID
 
 ### 35. Social Media Post - Summery Beach Portrait
 
-![Social Media Post - Summery Beach Portrait](https://cms-assets.youmind.com/media/1777367266697_38b7vc_HG7EF0DbIAEGn_1.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367266697_38b7vc_HG7EF0DbIAEGn_1.jpg" alt="Social Media Post - Summery Beach Portrait" width="480">
 
 A prompt for generating a photorealistic, sun-kissed portrait of a woman relaxing at the beach during golden hour.
 
@@ -737,7 +739,7 @@ A young woman with {argument name="hair color" default="long red hair"} sitting 
 
 ### 36. Social Media Post - Dreamy Bubble with Handwritten Japanese Text
 
-![Social Media Post - Dreamy Bubble with Handwritten Japanese Text](https://cms-assets.youmind.com/media/1777367319860_o5bvou_G6G78D_bIAAIjjV.png)
+<img src="https://cms-assets.youmind.com/media/1777367319860_o5bvou_G6G78D_bIAAIjjV.png" alt="Social Media Post - Dreamy Bubble with Handwritten Japanese Text" width="480">
 
 This prompt generates a poetic bubble photograph with glowing bokeh and expressive handwritten Japanese text, suitable for emotional social media visuals or atmospheric cover art.
 
@@ -754,7 +756,7 @@ A dreamy minimalist square image of a single iridescent soap bubble floating in 
 
 ### 37. Profile / Avatar - Night Balcony Flash Selfie
 
-![Profile / Avatar - Night Balcony Flash Selfie](https://cms-assets.youmind.com/media/1777367354955_fv3q9k_HG6eH-IaQAAJsxF.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367354955_fv3q9k_HG6eH-IaQAAJsxF.jpg" alt="Profile / Avatar - Night Balcony Flash Selfie" width="480">
 
 This prompt generates a realistic late-night balcony selfie with flash, ideal for casual social-media style portrait photography.
 
@@ -771,7 +773,7 @@ A candid nighttime balcony selfie of a young woman shot from a slightly high han
 
 ### 38. Social Media Post - Avant-Garde Bridal Portrait
 
-![Social Media Post - Avant-Garde Bridal Portrait](https://cms-assets.youmind.com/media/1777367353969_7bdt2f_HG7F2m2bkAAZWrM.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367353969_7bdt2f_HG7F2m2bkAAZWrM.jpg" alt="Social Media Post - Avant-Garde Bridal Portrait" width="480">
 
 This prompt generates a refined studio fashion image of a woman in a sculptural white bridal gown with dramatic bubble ponytails, ideal for editorial or couture wedding visuals.
 
@@ -788,7 +790,7 @@ A high-fashion studio portrait of a seated woman in an ethereal bridal look agai
 
 ### 39. Social Media Post - Cozy Beer Toast with Oden
 
-![Social Media Post - Cozy Beer Toast with Oden](https://cms-assets.youmind.com/media/1777367320346_2gg269_G6G78ECakAAaHoY.png)
+<img src="https://cms-assets.youmind.com/media/1777367320346_2gg269_G6G78ECakAAaHoY.png" alt="Social Media Post - Cozy Beer Toast with Oden" width="480">
 
 A warm Japanese home-style evening photo with a hand holding beer in front of simmering oden, ideal for comforting social posts or handwritten-message lifestyle visuals.
 
@@ -805,7 +807,7 @@ A warm, cozy Japanese home evening scene photographed in a natural lifestyle sty
 
 ### 40. Infographic / Edu Visual - Premium Korean Palm Reading Guide
 
-![Infographic / Edu Visual - Premium Korean Palm Reading Guide](https://cms-assets.youmind.com/media/1777367279399_31um5p_HG6temWboAAJUpu.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367279399_31um5p_HG6temWboAAJUpu.jpg" alt="Infographic / Edu Visual - Premium Korean Palm Reading Guide" width="480">
 
 A highly detailed instruction set for analyzing a hand photo to generate a luxury-style palm reading report in Korean, featuring a two-panel layout with real and diagrammatic views.
 
@@ -838,7 +840,7 @@ No English text, no roman letters, no broken Korean, no random glyphs, no colorf
 
 ### 41. Infographic / Edu Visual - Isometric Science Concept Diorama Grid
 
-![Infographic / Edu Visual - Isometric Science Concept Diorama Grid](https://cms-assets.youmind.com/media/1777367300302_h73esz_HG8sxH5bAAAsnI8.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367300302_h73esz_HG8sxH5bAAAsnI8.jpg" alt="Infographic / Edu Visual - Isometric Science Concept Diorama Grid" width="480">
 
 This prompt generates a polished four-panel isometric science infographic with miniature 3D dioramas for biology, physics, chemistry, and astronomy, ideal for concept visualization or educational social posts.
 
@@ -855,7 +857,7 @@ A clean 2x2 conceptual entity model infographic on a soft light background, show
 
 ### 42. Social Media Post - High Contrast Urban Silhouette
 
-![Social Media Post - High Contrast Urban Silhouette](https://cms-assets.youmind.com/media/1777367254009_hz8595_HG7Db6HbMAASckt.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367254009_hz8595_HG7Db6HbMAASckt.jpg" alt="Social Media Post - High Contrast Urban Silhouette" width="480">
 
 A prompt for street photography focusing on silhouettes, strong directional sunlight, and cinematic urban composition.
 
@@ -872,7 +874,7 @@ high contrast street silhouette, strong directional sunlight from doorway, deep 
 
 ### 43. Comic / Storyboard - Monochrome Manga Guitar Studio Page
 
-![Comic / Storyboard - Monochrome Manga Guitar Studio Page](https://cms-assets.youmind.com/media/1777367311577_qyy0zf_HG67VXdbIAAIRlC.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367311577_qyy0zf_HG67VXdbIAAIRlC.jpg" alt="Comic / Storyboard - Monochrome Manga Guitar Studio Page" width="480">
 
 This prompt generates a detailed black-and-white manga page of a high school girl playing electric guitar in a night studio, ideal for dramatic AI manga storytelling scenes.
 
@@ -889,7 +891,7 @@ A black-and-white manga page spread with 5 panels on a clean white background an
 
 ### 44. Profile / Avatar - Tropical Beach Sandcastle Portrait
 
-![Profile / Avatar - Tropical Beach Sandcastle Portrait](https://cms-assets.youmind.com/media/1777367314269_rmkty4_HG6rZQfaoAAtKBh.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367314269_rmkty4_HG6rZQfaoAAtKBh.jpg" alt="Profile / Avatar - Tropical Beach Sandcastle Portrait" width="480">
 
 This prompt generates a realistic summer beach portrait of a woman in a blue sundress building sandcastles, ideal for vacation-themed lifestyle imagery.
 
@@ -906,7 +908,7 @@ A photorealistic vertical beach portrait of a young woman kneeling on pale sand 
 
 ### 45. Profile / Avatar - Futuristic Glass Profile ID Card
 
-![Profile / Avatar - Futuristic Glass Profile ID Card](https://cms-assets.youmind.com/media/1777367256290_aea7lr_HG7Q1SCa8AAlOgh.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367256290_aea7lr_HG7Q1SCa8AAlOgh.jpg" alt="Profile / Avatar - Futuristic Glass Profile ID Card" width="480">
 
 A prompt for creating a futuristic 3D render of a transparent social media profile card designed as a glowing glass ID badge.
 
@@ -923,7 +925,7 @@ create a hyper-realistic 3D render of a transparent {argument name="platform" de
 
 ### 46. YouTube Thumbnail - Fiery Japanese Growth Thumbnail
 
-![YouTube Thumbnail - Fiery Japanese Growth Thumbnail](https://cms-assets.youmind.com/media/1777367313200_n0p0z3_HG6p2o0acAA0NRJ.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367313200_n0p0z3_HG6p2o0acAA0NRJ.jpg" alt="YouTube Thumbnail - Fiery Japanese Growth Thumbnail" width="480">
 
 A bold Japanese YouTube-style thumbnail for social media growth content, ideal for tutorials about growing an account from zero to ten thousand followers.
 
@@ -940,7 +942,7 @@ A bold Japanese YouTube-style thumbnail for social media growth content, ideal f
 
 ### 47. YouTube Thumbnail - Astronaut on a Red Desert World
 
-![YouTube Thumbnail - Astronaut on a Red Desert World](https://cms-assets.youmind.com/media/1777367295076_j3s2y5_HG7B3ExaAAA6X4w.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367295076_j3s2y5_HG7B3ExaAAA6X4w.jpg" alt="YouTube Thumbnail - Astronaut on a Red Desert World" width="480">
 
 This prompt generates a cinematic photorealistic sci-fi landscape of a solitary astronaut overlooking a vast Mars-like desert, ideal for storyboards, film keyframes, and space exploration visuals.
 
@@ -957,7 +959,7 @@ A cinematic wide shot of a lone astronaut standing on a rocky ledge and facing a
 
 ### 48. YouTube Thumbnail - Anachronistic Beauty Tutorial
 
-![YouTube Thumbnail - Anachronistic Beauty Tutorial](https://cms-assets.youmind.com/media/1777280775792_m28f3z_HG1fDJJagAA5_hh.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280775792_m28f3z_HG1fDJJagAA5_hh.jpg" alt="YouTube Thumbnail - Anachronistic Beauty Tutorial" width="480">
 
 A creative prompt imagining a classic literary character as a modern-day beauty blogger on Bilibili.
 
@@ -974,7 +976,7 @@ A creative prompt imagining a classic literary character as a modern-day beauty 
 
 ### 49. YouTube Thumbnail - Dramatic Soccer Cinematic Action Shot
 
-![YouTube Thumbnail - Dramatic Soccer Cinematic Action Shot](https://cms-assets.youmind.com/media/1777280759919_aj14u4_HGz6QPgbMAABDQH.jpg)
+<img src="https://cms-assets.youmind.com/media/1777280759919_aj14u4_HGz6QPgbMAABDQH.jpg" alt="YouTube Thumbnail - Dramatic Soccer Cinematic Action Shot" width="480">
 
 A high-intensity prompt for generating a photorealistic cinematic action shot of a young boy playing soccer during golden hour, featuring a giant oversized soccer ball in the foreground.
 
@@ -991,7 +993,7 @@ A dramatic cinematic action shot of a {argument name="child" default="12-year-ol
 
 ### 50. Japanese AI Game Dev Overview Slide Prompt
 
-![Japanese AI Game Dev Overview Slide Prompt](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case40/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case40/output.jpg" alt="Japanese AI Game Dev Overview Slide Prompt" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ailovedirector/status/2046905387274891296)
@@ -1008,7 +1010,7 @@ A dramatic cinematic action shot of a {argument name="child" default="12-year-ol
 
 ### 51. Liu Yifei Douyin Livestream Screenshot
 
-![Liu Yifei Douyin Livestream Screenshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case37/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case37/output.jpg" alt="Liu Yifei Douyin Livestream Screenshot" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/kylegeeks/status/2046479783765397629)
@@ -1023,22 +1025,22 @@ A dramatic cinematic action shot of a {argument name="child" default="12-year-ol
 
 ### 52. Liu Yifei Douyin Livestream Screenshot
 
-![Liu Yifei Douyin Livestream Screenshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case7/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case7/output.jpg" alt="Liu Yifei Douyin Livestream Screenshot" width="480">
 
-- **Categories:** UI & Social Media Mockup Cases
+- **Categories:** UI & Social Media Mockup Cases, Liu Yifei is having a casual live stream chat on Douyin.
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/alanblogsooo/status/2044784762594918516)
 
 **Prompt:**
 
 ```text
-9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！
+9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!
 ```
 
 <a id="prompt-3e60e5b674c010460f77"></a>
 
 ### 53. Museum-Style Hanfu Breakdown Infographic
 
-![Museum-Style Hanfu Breakdown Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case25/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case25/output.jpg" alt="Museum-Style Hanfu Breakdown Infographic" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2045504669401653414)
@@ -1068,7 +1070,7 @@ A dramatic cinematic action shot of a {argument name="child" default="12-year-ol
 
 ### 54. Handwritten Notebook Photo
 
-![Handwritten Notebook Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case3/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case3/output.jpg" alt="Handwritten Notebook Photo" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/patrickassale/status/2044569086013718958)
@@ -1083,22 +1085,22 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ### 55. Song Dynasty Social Media Feed
 
-![Song Dynasty Social Media Feed](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case4/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case4/output.jpg" alt="Song Dynasty Social Media Feed" width="480">
 
-- **Categories:** UI & Social Media Mockup Cases
+- **Categories:** UI & Social Media Mockup Cases, Cyber social media of Song Dynasty literati
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Panda20230902/status/2045385588065313057)
 
 **Prompt:**
 
 ```text
-"宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作
+"Song Dynasty People's Moments"/"SONG DYNASTY SOCIAL MEDIA FEED", Ancient and modern time-travel humor fusion interface design style, The image simulates a mobile phone social media interface, but the content is entirely Song Dynasty scenes, The avatar is a portrait of a Song Dynasty literati, Username "Su Dongpo SuShi_Official", Post content "Just arrived in Huangzhou, demoted but feeling okay. Made Dongpo pork myself today, tastes amazing, recipe attached:", The attached image is a close-up of Dongpo pork in Gongbi painting style, Likes list "Huang Tingjian, Qin Guan, Fo Yin etc. 126 people", Comments section "Wang Anshi: Hehe" "Sima Guang: Still the same taste", Interface elements such as the like icon are replaced with Song Dynasty patterns, The status bar shows "Great Song Mobile 5G" and "Third Year of Yuanfeng", The color scheme is mobile phone dark mode paired with elegant Song Dynasty tones, A masterpiece of fun collision between history and social media
 ```
 
 <a id="prompt-55d71387e4a9ca11e810"></a>
 
 ### 56. Style-to-UI Design System
 
-![Style-to-UI Design System](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case9/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case9/output.jpg" alt="Style-to-UI Design System" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/stark_nico99/status/2045836554451706125)
@@ -1113,7 +1115,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ### 57. Calligraphy Copybook Sheet
 
-![Calligraphy Copybook Sheet](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case33/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case33/output.jpg" alt="Calligraphy Copybook Sheet" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2046510310253539764)
@@ -1128,7 +1130,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ### 58. Amateur iPhone Keynote Snapshot
 
-![Amateur iPhone Keynote Snapshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case2/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case2/output.jpg" alt="Amateur iPhone Keynote Snapshot" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/patrickassale/status/2044687244368441742)
@@ -1143,7 +1145,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 ### 59. One-Prompt UI Design Generation
 
-![One-Prompt UI Design Generation](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case1/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case1/output.jpg" alt="One-Prompt UI Design Generation" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/austinit/status/2044968740782272596)
@@ -1158,7 +1160,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 ### 60. Trump and Kim Livestream PK Screenshot
 
-![Trump and Kim Livestream PK Screenshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case39/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case39/output.jpg" alt="Trump and Kim Livestream PK Screenshot" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/alanlovelq/status/2046048929490612464)
@@ -1176,7 +1178,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 ### 61. Elon Musk Douyin Livestream Screenshot
 
-![Elon Musk Douyin Livestream Screenshot](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case36/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case36/output.jpg" alt="Elon Musk Douyin Livestream Screenshot" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Shinning1010/status/2046501587762188535)
@@ -1199,7 +1201,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 ### 62. Multi-Platform Content Screenshots
 
-![Multi-Platform Content Screenshots](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case5/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case5/output.jpg" alt="Multi-Platform Content Screenshots" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/MrLarus/status/2045373105041007013)
@@ -1217,7 +1219,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 ### 63. Japanese Gacha Game Screen
 
-![Japanese Gacha Game Screen](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case35/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case35/output.jpg" alt="Japanese Gacha Game Screen" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/the_wheel_2024/status/2046519658166317160)
@@ -1232,7 +1234,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 ### 64. Cyberpunk Neon UI Design System
 
-![Cyberpunk Neon UI Design System](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case38/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case38/output.jpg" alt="Cyberpunk Neon UI Design System" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/AZLnfvp/status/2046468976092533180)
@@ -1247,7 +1249,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 ### 65. Momotaro Explainer Slide
 
-![Momotaro Explainer Slide](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case10/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case10/output.jpg" alt="Momotaro Explainer Slide" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/yammamon/status/2045778624092254603)
@@ -1262,7 +1264,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 ### 66. Palm Reading Diagnosis Report
 
-![Palm Reading Diagnosis Report](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case32/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case32/output.jpg" alt="Palm Reading Diagnosis Report" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/agi_aibusi/status/2046530764871696750)
@@ -1279,43 +1281,57 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 
 ### 67. King Taejo Yi Seong-gye's X Page
 
-![King Taejo Yi Seong-gye's X Page](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case8/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case8/output.jpg" alt="King Taejo Yi Seong-gye's X Page" width="480">
 
-- **Categories:** UI & Social Media Mockup Cases
+- **Categories:** UI & Social Media Mockup Cases, Yi Seong-gye's movements on the eve of the retreat from Uiju Island
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SKA_Neotype/status/2044637900978217334)
 
 **Prompt:**
 
 ```text
-태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
+Please create an X page of King Taejo Yi Seong-gye (right before carrying out the Wihwa Island Retreat - containing posts where he and General Choi Yeong are dissing each other).
 ```
 
-<a id="prompt-02afdc4158c6600f5007"></a>
+<a id="prompt-062277e2b0dc468d53e8"></a>
 
-### 68. 吉利银河暗黑中控界面
+### 68. Exquisite Modular Illustrated Encyclopedia of Popular Science
 
-![吉利银河暗黑中控界面](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case177.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case222.jpg" alt="Exquisite Modular Illustrated Encyclopedia of Popular Science" width="480">
 
-- **Categories:** 吉利银河暗黑中控界面
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-177)
+- **Categories:** Exquisite Modular Popular Science Illustrated Encyclopedia
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-222)
 
 **Prompt:**
 
 ```text
-[中文]
-帮我生成一个吉利银河m9的中控界面，尺寸为21:9，暗色系
+Please generate a high-quality vertical "Popular Science Encyclopedia Infographic" based on the [Topic].
 
-[English]
-Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark color scheme.
+This image is not an ordinary poster, nor a simple illustration, but a modular popular science infographic with a sense of "illustrated guide, encyclopedia, information structure, and collectibility". The overall style references a combination of high-end natural history illustrated guides, modern encyclopedia pages, lifestyle knowledge cards, and highly shared social media infographics.
+
+Please make the image contain:
+- A clear and beautiful theme main visual
+- Several enlarged details of local features
+- Multiple rounded modular information sections
+- Clear title hierarchy and key tags
+- Concise but rich encyclopedia content
+- Visualized scoring, key point summaries, or Top 5 modules
+
+Content columns should automatically adapt to the topic, prioritizing selection and reasonable combination from these directions:
+Basic profile, classification information, appearance features, habits/ecology, formation mechanism/structural composition, growth or usage conditions, care or maintenance suggestions, risks and precautions, suitable groups or applicable scenarios, pros and cons comparison, quick scorecard.
+
+Visual requirements:
+Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat typography, high information density but not crowded, good reading experience. The overall look must be like a real popular science encyclopedia card that can be published, read, collected, and serialized, rather than an advertisement.
+
+Please do not make it into an ordinary commercial promotional poster. It must highlight the characteristics of "knowledge organization + modular information + illustrated guide style display".
 ```
 
 <a id="prompt-0f75c690ad6f9f98ead5"></a>
 
-### 69. 界面交互设计图
+### 69. Interface Interaction Design Diagram
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case104.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case104.jpg" alt="Interface Interaction Design Diagram" width="480">
 
-- **Categories:** 界面交互设计图
+- **Categories:** Interface interaction design diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-104)
 
 **Prompt:**
@@ -1351,11 +1367,11 @@ Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark
 
 <a id="prompt-10d34e5d6a6980a4b25d"></a>
 
-### 70. 应用界面样机图
+### 70. Application Interface Mockup
 
-![应用界面样机图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case107.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case107.jpg" alt="Application Interface Mockup" width="480">
 
-- **Categories:** 应用界面样机图
+- **Categories:** Application interface mockup
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-107)
 
 **Prompt:**
@@ -1364,51 +1380,28 @@ Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark
 {"type": "YouTube desktop dark mode UI mockup", "header": {"logo": "YouTube", "search_bar": "Search", "icons_count": 5, "icons": ["search", "mic", "create", "notifications", "profile"]}, "video_player": {"top_left_badge": "LIVE", "left_side": {"subject": "{argument name=\"presenter description\" default=\"man in green sweater at wooden podium\"}", "podium_logo": "OpenAI"}, "right_side_presentation": {"text_elements": ["OpenAI", "INTRODUCING", "{argument name=\"product name\" default=\"GPT-Image-2\"}", "{argument name=\"tagline\" default=\"More Realistic. More Useful. More Creative.\"}"], "sample_images_count": 4, "sample_images": ["mountain lake with boat", "woman portrait with dappled light", "cute robot with lantern in forest", "starry night cafe painting"]}, "bottom_controls_count": 10, "bottom_controls": ["pause", "next", "volume", "LIVE", "red progress bar", "CC", "settings", "miniplayer", "theater mode", "fullscreen"]}, "video_details": {"title": "{argument name=\"video title\" default=\"OpenAI Live: Introducing GPT-Image-2\"}", "channel": {"name": "{argument name=\"channel name\" default=\"OpenAI\"}", "verified": true, "subscribers": "1.36M", "button": "Subscribe"}, "action_buttons_count": 5, "action_buttons": ["Like 12K", "Dislike 497", "Share", "Save", "More"], "description_box": {"stats": "95,237 watching now Started streaming 7 minutes ago", "tags": "#OpenAI #GPTImage2 #AI", "text": "Join us for a special live event as we introduce GPT-Image-2, our latest and most advanced image generation model. See new capabilities, live demos, and hear from the team ...more"}}}
 ```
 
-<a id="prompt-11b2b14d8991f057483e"></a>
+<a id="prompt-17b42712b4329c5637f8"></a>
 
-### 71. 不知火舞的小红书主页
+### 71. Custom Exclusive Interface Design System
 
-![不知火舞的小红书主页](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case287.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case243.jpg" alt="Custom Exclusive Interface Design System" width="480">
 
-- **Categories:** 不知火舞的小红书主页
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-287)
-
-**Prompt:**
-
-```text
-[中文]
-生成不知火舞的小红书主页截图
-
-[English]
-Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
-```
-
-<a id="prompt-1a604e9328c99f9ffe62"></a>
-
-### 72. 抖音美女直播间界面设计
-
-![抖音美女直播间界面设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case288.jpg)
-
-- **Categories:** 抖音美女直播间界面设计
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-288)
+- **Categories:** Custom exclusive style UI design system
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-243)
 
 **Prompt:**
 
 ```text
-[中文]
-生成抖音直播间界面，内容是一个美女在直播
-
-[English]
-Generate a TikTok live stream interface, the content is a beautiful woman live streaming
+Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
 ```
 
 <a id="prompt-1c629d1accbee535d119"></a>
 
-### 73. 界面交互设计图
+### 72. UI Interaction Design Diagram
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case133.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case133.jpg" alt="UI Interaction Design Diagram" width="480">
 
-- **Categories:** 界面交互设计图
+- **Categories:** "Interface interaction design diagram"
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-133)
 
 **Prompt:**
@@ -1417,61 +1410,61 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 {
   "type": "brand identity system presentation board",
   "header": {
-    "title": "品牌视觉识别系统 BRAND IDENTITY SYSTEM",
-    "slogan": "爱它·懂它·陪伴它"
+    "title": "Brand Identity System",
+    "slogan": "Love it · Understand it · Accompany it"
   },
   "main_logo": {
     "text": "{argument name=\"brand name\" default=\"GDX\"}",
-    "subtitle": "{argument name=\"brand chinese name\" default=\"狗东西\"}",
+    "subtitle": "{argument name=\"brand chinese name\" default=\"Gou Dongxi\"}",
     "design_feature": "{argument name=\"main subject\" default=\"Dog profile in negative space of the letter D\"}",
     "metadata": [
-      "品牌名称",
-      "行业属性 {argument name=\"industry\" default=\"宠物行业\"}",
-      "设计时间 2024.05"
+      "Brand Name",
+      "Industry Attribute {argument name=\"industry\" default=\"Pet Industry\"}",
+      "Design Date 2024.05"
     ]
   },
   "layout": {
     "sections": [
       {
-        "title": "设计网格",
+        "title": "Design Grid",
         "count": 1,
         "description": "Logo with architectural grid lines and golden ratio measurements"
       },
       {
-        "title": "概念草图",
+        "title": "Concept Sketches",
         "count": 4,
         "description": "Evolution steps from rough dog sketch to final geometric logo"
       },
       {
-        "title": "灵感来源",
+        "title": "Inspiration Sources",
         "count": 4,
         "description": "Moodboard images including minimalist architecture, a golden retriever, and dark green geometric shapes"
       },
       {
-        "title": "创意理念",
+        "title": "Creative Concepts",
         "count": 4,
         "description": "Text blocks with minimalist icons explaining design philosophy, positioning, color psychology, and scalability"
       },
       {
-        "title": "品牌应用",
+        "title": "Brand Applications",
         "count": 6,
         "labels": [
-          "名片 正反面",
-          "信纸信封",
-          "APP图标",
-          "网站页眉 / 网站图标",
-          "产品包装 / 购物袋",
-          "店面门头 / 标识牌"
+          "Business Cards (Front & Back)",
+          "Letterhead & Envelopes",
+          "App Icons",
+          "Website Header / Website Icon",
+          "Product Packaging / Shopping Bags",
+          "Storefront Signage / Signage"
         ],
         "description": "Mockups of business cards, envelopes, app icons, website header with a dog, paper shopping bags, and a storefront sign"
       },
       {
-        "title": "色彩规范",
+        "title": "Color Specifications",
         "count": 5,
         "labels": [
-          "主色",
-          "辅助色",
-          "强调色"
+          "Primary Color",
+          "Secondary Colors",
+          "Accent Color"
         ],
         "colors": [
           "{argument name=\"primary color\" default=\"#1E3D34\"}",
@@ -1482,33 +1475,33 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
         ]
       },
       {
-        "title": "字体规范",
+        "title": "Typography Specifications",
         "count": 2,
         "labels": [
-          "思源黑体 CN",
-          "思源柔黑体 CN"
+          "Source Han Sans CN",
+          "Source Han Serif CN"
         ],
         "description": "Typography specimens showing 'Aa', alphabet, and numbers"
       },
       {
-        "title": "最小使用尺寸",
+        "title": "Minimum Usage Size",
         "count": 2,
         "description": "Minimum logo size specifications at 20mm and 12mm"
       },
       {
-        "title": "安全留白区域",
+        "title": "Safe Space Area",
         "count": 1,
         "description": "Logo surrounded by a bounding box with 'X' indicating clear space margins"
       },
       {
-        "title": "错误使用示例",
+        "title": "Incorrect Usage Examples",
         "count": 5,
         "labels": [
-          "不可拉伸变形",
-          "不可改变颜色",
-          "不可添加阴影",
-          "不可倾斜使用",
-          "不可复杂背景上使用"
+          "Do not stretch or distort",
+          "Do not change colors",
+          "Do not add shadows",
+          "Do not tilt or rotate",
+          "Do not use on complex backgrounds"
         ],
         "description": "Examples of incorrect logo usage: stretched, wrong color, drop shadow, tilted, and placed on a busy photographic background"
       }
@@ -1519,11 +1512,11 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 
 <a id="prompt-29b3b9a7547aafa03096"></a>
 
-### 74. 游戏界面截图
+### 73. Game interface screenshot
 
-![游戏界面截图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case91.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case91.jpg" alt="Game interface screenshot" width="480">
 
-- **Categories:** 游戏界面截图
+- **Categories:** categories.category_92c86b6903.en: Game interface screenshot
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-91)
 
 **Prompt:**
@@ -1532,11 +1525,41 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 A highly detailed, realistic first-person video game screenshot of a next-generation voxel-based world. At the top center, a large, bold 3D logo reads "{argument name="game title" default="MINECRAFT 2"}". The scene features a {argument name="environment" default="lush, blocky landscape with a river, a small wooden cabin, a windmill, a waterfall, and majestic mountains in the background"}. The world blends realistic lighting, volumetric clouds, and high-resolution textures with cubic, voxel geometry. In the foreground on the left, a {argument name="mob 1" default="blocky green creeper"} stands on the grass, while a {argument name="mob 2" default="blocky brown wolf"} stands on the dirt path to the right. On the far right, the player's hand holds a {argument name="held item" default="pixelated blue diamond sword"} in a first-person perspective. At the bottom of the screen is a game user interface featuring a health bar with 10 red hearts, a green experience bar with the number '16', a hunger bar with 10 brown meat icons, and a 9-slot inventory hotbar. The hotbar contains, from left to right: a selected blue tool with a green highlight box, a green tool, a knife, a wrench with the number '3', a piece of meat with '6', a lantern with '24', a dirt block with '10', a bucket, and a sponge block.
 ```
 
+<a id="prompt-2c116ea2226deb85898d"></a>
+
+### 74. 不知火舞的小红书主页
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case287.jpg" alt="不知火舞的小红书主页" width="480">
+
+- **Categories:** Athena Asamiya's Xiaohongshu homepage
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-287)
+
+**Prompt:**
+
+```text
+Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
+```
+
+<a id="prompt-2e42b1a64663d000eba4"></a>
+
+### 75. Stunning female livestream host on Douyin
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case256.jpg" alt="Stunning female livestream host on Douyin" width="480">
+
+- **Categories:** 抖音直播间的绝美女主播
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-256)
+
+**Prompt:**
+
+```text
+Generate a screenshot of a Douyin livestream, inside there is a beautiful woman livestreaming
+```
+
 <a id="prompt-3073cb504772810c96b3"></a>
 
-### 75. 界面交互设计图
+### 76. 界面交互设计图
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case151.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case151.jpg" alt="界面交互设计图" width="480">
 
 - **Categories:** 界面交互设计图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-151)
@@ -1554,10 +1577,10 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
       "visuals": "Asian woman touching cheek, floating water droplets, white pump bottle",
       "brand": "BALANCÉE",
       "copy": {
-        "headline": "{argument name=\"skincare headline\" default=\"素肌が、目覚める。\"}",
-        "subheadline": "透明感あふれる、新しいわたしへ。",
+        "headline": "{argument name=\"skincare headline\" default=\"Bare skin awakens.\"}",
+        "subheadline": "Toward a new me, full of radiance.",
         "features_count": 3,
-        "features_labels": ["高保湿", "肌荒れ予防", "美白ケア*"]
+        "features_labels": ["High hydration", "Prevents skin irritation", "Whitening care*"]
       }
     },
     {
@@ -1566,9 +1589,9 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
       "visuals": "close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting",
       "brand": "Trattoria Luce",
       "copy": {
-        "headline": "{argument name=\"food headline\" default=\"このパスタ、事件級。\"}",
-        "badge": "期間限定",
-        "description": "黒毛和牛のボロネーゼ 〜トリュフの香り〜"
+        "headline": "{argument name=\"food headline\" default=\"This pasta is legendary.\"}",
+        "badge": "Limited time",
+        "description": "Wagyu beef bolognese ~ Truffle aroma ~"
       }
     },
     {
@@ -1577,10 +1600,10 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
       "visuals": "woman with backpack facing a scenic mountain lake, bright daylight",
       "brand": "NATURE JOURNEY",
       "copy": {
-        "headline": "{argument name=\"travel headline\" default=\"わたしを、解き放つ旅へ。\"}",
-        "subheadline": "自然の中で、心が動き出す。",
+        "headline": "{argument name=\"travel headline\" default=\"A journey to set me free.\"}",
+        "subheadline": "In nature, my heart begins to move.",
         "script": "Find your freedom.",
-        "banner_details": ["初夏の特別キャンペーン", "6.1 SAT - 6.30 SUN", "最大 20%OFF", "今だけの特別プラン多数！"]
+        "banner_details": ["Early summer special campaign", "6.1 SAT - 6.30 SUN", "Up to 20% OFF", "Many special plans available now!"]
       }
     },
     {
@@ -1589,43 +1612,54 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
       "visuals": "smartphone displaying a task management app interface with 4 schedule items",
       "brand": "{argument name=\"app brand name\" default=\"Taskme\"}",
       "copy": {
-        "headline": "{argument name=\"app headline\" default=\"タスク管理を、もっとシンプルに、スマートに。\"}",
-        "circle_badge": "1日を、デザインしよう。",
+        "headline": "{argument name=\"app headline\" default=\"Make task management simpler and smarter.\"}",
+        "circle_badge": "Design your day.",
         "features_count": 3,
-        "features_labels": ["直感的な操作性", "チームで共有可能", "どこでもアクセス"],
-        "bottom_banner": "7日間無料トライアル実施中！"
+        "features_labels": ["Intuitive operation", "Shareable with team", "Accessible anywhere"],
+        "bottom_banner": "Free 7-day trial now available!"
       }
     }
   ]
 }
 ```
 
-<a id="prompt-3bb7429794a7648c4fd4"></a>
+<a id="prompt-32605e7a67886973370d"></a>
 
-### 76. 智能视频生成器暗黑界面设计
+### 77. 智能视频生成器暗黑界面设计
 
-![智能视频生成器暗黑界面设计](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case261.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case261.jpg" alt="智能视频生成器暗黑界面设计" width="480">
 
-- **Categories:** 智能视频生成器暗黑界面设计
+- **Categories:** Smart Video Generator Dark Interface Design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-261)
 
 **Prompt:**
 
 ```text
-[中文]
-渲染一个专业的IOS APP首页UI图，该主题为AI Video Generator,英文界面。专业级设计，专业风格，暗黑色主题。
-
-[English]
 Render a professional iOS APP homepage UI image, the theme is AI Video Generator, English interface. Professional-level design, professional style, dark theme.
+```
+
+<a id="prompt-42fb89695dfe87265049"></a>
+
+### 78. Du Fu complains on social media about his thatched cottage being blown away
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case184.jpg" alt="Du Fu complains on social media about his thatched cottage being blown away" width="480">
+
+- **Categories:** Du Fu vents on his social feed about his thatched cottage being overturned
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-184)
+
+**Prompt:**
+
+```text
+Du Fu posting on WeChat Moments complaining about his roof being blown away by the wind
 ```
 
 <a id="prompt-482119392c83105bdf82"></a>
 
-### 77. 视频封面界面图
+### 79. Video Cover Interface Image
 
-![视频封面界面图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case111.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case111.jpg" alt="Video Cover Interface Image" width="480">
 
-- **Categories:** 视频封面界面图
+- **Categories:** Video cover interface image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-111)
 
 **Prompt:**
@@ -1636,16 +1670,33 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 <a id="prompt-4a3bbc1887e9ce027a44"></a>
 
-### 78. 界面交互设计图
+### 80. ```json
+{
+  "title": {
+    "translations": {
+      "en": "Interface Interaction Design Diagram"
+    }
+  }
+}
+```
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case137.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case137.jpg" alt="```json
+{
+  &quot;title&quot;: {
+    &quot;translations&quot;: {
+      &quot;en&quot;: &quot;Interface Interaction Design Diagram&quot;
+    }
+  }
+}
+```" width="480">
 
-- **Categories:** 界面交互设计图
+- **Categories:** UI interaction design diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-137)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "e-commerce landing page hero section mockup",
   "aesthetic": "clean, bright, airy, feminine, floral accents with purple flowers, {argument name=\"primary color\" default=\"soft pink\"} and white color palette, soft lighting",
@@ -1653,29 +1704,29 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "logo": "{argument name=\"brand name\" default=\"LUMEA BEAUTY\"}",
     "navigation_links": {
       "count": 5,
-      "labels": ["特徴", "成分", "お客様の声", "使い方", "FAQ"]
+      "labels": ["Features", "Ingredients", "Testimonials", "How to Use", "FAQ"]
     },
-    "cta_button": "今すぐ試す"
+    "cta_button": "Try Now"
   },
   "hero_section": {
     "left_column": {
-      "headline": "{argument name=\"headline text\" default=\"鏡を見るたび、うるおう透明感。\"}",
-      "subheadline": "乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。",
+      "headline": "{argument name=\"headline text\" default=\"Radiant clarity every time you look in the mirror.\"}",
+      "subheadline": "For dry and dull skin. A concentrated moisturizing serum with luxurious beauty ingredients for daily use.",
       "feature_badges": {
         "count": 3,
         "style": "pill-shaped with small icons",
-        "labels": ["敏感肌OK", "高保湿", "朝晩使える"]
+        "labels": ["Suitable for sensitive skin", "High hydration", "Can be used morning and night"]
       },
       "bullet_points": {
         "count": 3,
         "style": "pink checkmarks",
-        "labels": ["美容成分をしっかり届ける", "ハリ・ツヤのある印象へ", "続けやすいシンプルケア"]
+        "labels": ["Effectively delivers beauty ingredients", "For a firm and radiant appearance", "Simple care that's easy to continue"]
       },
       "cta_buttons": {
         "count": 2,
-        "labels": ["初回限定で試してみる >", "成分をチェック >"]
+        "labels": ["Try with first-time offer >", "Check ingredients >"]
       },
-      "trust_badges": "送料無料 / 初回限定 / 定期縛りなし"
+      "trust_badges": "Free shipping / First-time offer / No subscription required"
     },
     "center_subject": {
       "model": "{argument name=\"model description\" default=\"young East Asian woman smiling, touching her cheek\"}",
@@ -1689,7 +1740,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
       "stat_cards": {
         "count": 3,
         "style": "floating white rounded rectangles with gold accents",
-        "labels": ["満足度 96%", "美容成分 5種配合", "愛用者 12,000人突破"]
+        "labels": ["96% satisfaction", "5 beauty ingredients", "Over 12,000 users"]
       }
     }
   },
@@ -1697,24 +1748,26 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
     "benefit_cards": {
       "count": 3,
       "style": "horizontal white rounded rectangles with icons",
-      "labels": ["うるおい", "透明感", "使いやすさ"]
+      "labels": ["Hydration", "Clarity", "Ease of use"]
     }
   }
 }
 ```
+````
 
 <a id="prompt-4c4b4bd96c00e2b3acea"></a>
 
-### 79. 应用界面样机图
+### 81. Application Interface Mockup
 
-![应用界面样机图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case135.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case135.jpg" alt="Application Interface Mockup" width="480">
 
-- **Categories:** 应用界面样机图
+- **Categories:** Application interface mockup image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-135)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "website landing page mockup",
   "theme": "men's skincare, sleek, professional, dark mode",
@@ -1722,23 +1775,23 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
   "header": {
     "logo": "{argument name=\"brand name\" default=\"NEX SKIN\"}",
     "navigation": ["HOME", "PRODUCT", "ABOUT", "FEATURE", "FAQ"],
-    "cta_button": "今すぐ始める >"
+    "cta_button": "Get Started >"
   },
   "hero_section": {
     "left_column": {
-      "headline": "{argument name=\"main headline\" default=\"清潔感は、毎日のスキンケアから。\"}",
-      "sub_headline": "男の肌は、もっとシンプルでいい。",
+      "headline": "{argument name=\"main headline\" default=\"Cleanliness begins with daily skincare.\"}",
+      "sub_headline": "Men's skin can be simpler.",
       "body_text": "3 lines of descriptive text about skincare benefits",
       "buttons": [
-        {"style": "solid blue", "text": "今すぐ始める >"},
-        {"style": "outlined", "text": "詳しく見る >"}
+        {"style": "solid blue", "text": "Get Started >"},
+        {"style": "outlined", "text": "Learn More >"}
       ],
       "feature_highlights": {
         "count": 3,
         "items": [
-          {"icon": "sparkle", "title": "テカリ対策", "subtitle": "皮脂バランスを整える"},
-          {"icon": "water drop", "title": "保湿", "subtitle": "うるおいを与え続ける"},
-          {"icon": "shield/bottle", "title": "オールインワン", "subtitle": "化粧水・美容液・乳液がこれ1本"}
+          {"icon": "sparkle", "title": "Shine Control", "subtitle": "Balances sebum"},
+          {"icon": "water drop", "title": "Moisturizing", "subtitle": "Continuously provides hydration"},
+          {"icon": "shield/bottle", "title": "All-in-One", "subtitle": "Toner, serum, and lotion in one bottle"}
         ]
       }
     },
@@ -1753,48 +1806,45 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
         "bottle": "tall cylindrical dark blue bottle with water droplets",
         "labels": ["{argument name=\"brand name\" default=\"NEX SKIN\"}", "{argument name=\"product type\" default=\"ALL-IN-ONE LOTION\"}", "150mL"],
         "base": "textured dark rock surface",
-        "badge": "circular outlined badge reading 'これ1本で男の肌悩みをトータルケア'"
+        "badge": "circular outlined badge reading 'Total care for men's skin concerns with just one bottle'"
       }
     }
   },
   "bottom_stats_bar": {
     "count": 3,
     "items": [
-      {"icon": "users", "label": "累計販売本数", "value": "120万本突破"},
-      {"icon": "star", "label": "使用感満足度", "value": "92.1%"},
-      {"icon": "checklist", "label": "リピート率", "value": "85.3%"}
+      {"icon": "users", "label": "Total Sales", "value": "Over 1.2 million units"},
+      {"icon": "star", "label": "User Satisfaction", "value": "92.1%"},
+      {"icon": "checklist", "label": "Repeat Rate", "value": "85.3%"}
     ],
     "footnotes": "small legal text on the right"
   }
 }
 ```
+````
 
-<a id="prompt-4d950890a46bcb877aea"></a>
+<a id="prompt-505b59b92f3996835c12"></a>
 
-### 80. 直播界面设计图
+### 82. Social media interface screenshot
 
-![直播界面设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case289.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case260.jpg" alt="Social media interface screenshot" width="480">
 
-- **Categories:** 直播界面设计图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-289)
+- **Categories:** categories.category_a1ac220de6.en: Social media interface screenshot
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-260)
 
 **Prompt:**
 
 ```text
-[中文]
-生成特朗普和金正恩在抖音直播间打PK的截图
-
-[English]
-Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok live stream room
+Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size
 ```
 
 <a id="prompt-51cc0864921054a6ee56"></a>
 
-### 81. 界面交互设计图
+### 83. Interface Interaction Design Diagram
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case158.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case158.jpg" alt="Interface Interaction Design Diagram" width="480">
 
-- **Categories:** 界面交互设计图
+- **Categories:** Interface interaction design diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-158)
 
 **Prompt:**
@@ -1810,14 +1860,14 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
     "header": {
       "left": {
         "avatar": "female portrait",
-        "name": "{argument name=\"host name\" default=\"小鹿运动优选\"}",
-        "stats": "12.8万本场点赞",
-        "button": "关注",
-        "badge": "带货榜第3名"
+        "name": "{argument name=\"host name\" default=\"Little Deer Sports Selection\"}",
+        "stats": "128K likes this session",
+        "button": "Follow",
+        "badge": "3rd in Sales Ranking"
       },
       "right": {
         "viewer_avatars_count": 3,
-        "viewer_count": "1.2万",
+        "viewer_count": "12K",
         "close_icon": "X"
       }
     },
@@ -1825,53 +1875,53 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
       {
         "position": "top right",
         "type": "coupon card",
-        "title": "直播间专属券",
-        "details": "¥20 满199可用",
-        "button": "领取"
+        "title": "Live Stream Exclusive Coupon",
+        "details": "¥20 off for orders over ¥199",
+        "button": "Claim"
       },
       {
         "position": "mid left",
         "type": "campaign text",
-        "subtitle": "夏日运动季",
-        "headline": "{argument name=\"main headline\" default=\"活力开场\"}",
+        "subtitle": "Summer Sports Season",
+        "headline": "{argument name=\"main headline\" default=\"Energetic Start\"}",
         "bullet_points_count": 3,
-        "bullet_points": ["透气速干", "弹力舒适", "运动百搭"]
+        "bullet_points": ["Breathable & Quick-dry", "Elastic & Comfortable", "Versatile for Sports"]
       },
       {
         "position": "mid right",
         "type": "product card active",
-        "badge": "正在讲解",
+        "badge": "Currently Explaining",
         "image": "white polo and skirt flat lay",
-        "title": "{argument name=\"product name\" default=\"运动POLO衫套装\"}",
-        "details": "白色·M码",
+        "title": "{argument name=\"product name\" default=\"Sports Polo Shirt Set\"}",
+        "details": "White·Size M",
         "price": "{argument name=\"price\" default=\"¥129\"}",
-        "button": "去抢购"
+        "button": "Shop Now"
       },
       {
         "position": "bottom right",
         "type": "product card secondary",
-        "badge": "热卖 x 156",
+        "badge": "Hot Sale x 156",
         "image": "model wearing the outfit",
-        "title": "运动POLO衫套装女 透气速干 显瘦百搭",
-        "tags": ["7天无理由退货", "运费险"],
+        "title": "Women's Sports Polo Shirt Set Breathable Quick-dry Slimming Versatile",
+        "tags": ["7-day no reason return", "Shipping insurance"],
         "price": "¥129",
-        "button": "抢"
+        "button": "Grab"
       }
     ],
     "chat_overlay": {
       "position": "bottom left",
       "message_count": 5,
       "messages": [
-        "小鹿姐姐: 欢迎新朋友们来到直播间~",
-        "运动达人: {argument name=\"chat message\" default=\"这套好看!\"}",
-        "卡卡西: 布料透气吗?",
-        "小鹿运动优选: 我们这个面料是冰丝速干的，运动出汗也不闷热哦~",
-        "用户_6789: 已拍!"
+        "Sister Little Deer: Welcome new friends to the live stream~",
+        "Sports Expert: {argument name=\"chat message\" default=\"This set looks great!\"}",
+        "Kakashi: Is the fabric breathable?",
+        "Little Deer Sports Selection: Our fabric is ice silk quick-dry, not stuffy even when sweating during exercise~",
+        "User_6789: Ordered!"
       ],
-      "purchase_alert": "用户_6789 等3人 正在去购买"
+      "purchase_alert": "User_6789 and 3 others are purchasing"
     },
     "footer": {
-      "input_bar": "说点什么...",
+      "input_bar": "Say something...",
       "icons_count": 5,
       "icons": ["smile", "shopping cart", "heart", "share", "more"]
     }
@@ -1881,9 +1931,9 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
 
 <a id="prompt-5832b4e7ff9ea5523a1d"></a>
 
-### 82. Create a landing page using this image as a reference for style and color gra...
+### 84. Create a landing page using this image as a reference for style and color gra...
 
-![Create a landing page using this image as a reference for style and color gra...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case64/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case64/output.jpg" alt="Create a landing page using this image as a reference for style and color gra..." width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/D_studioproject/status/2047212826264211540)
@@ -1896,9 +1946,9 @@ Create a landing page using this image as a reference for style and color gradin
 
 <a id="prompt-5a62302d23aa03cdc73c"></a>
 
-### 83. Historical Yang Guifei Realistic Portrait
+### 85. Historical Yang Guifei Realistic Portrait
 
-![Historical Yang Guifei Realistic Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case101/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case101/output.jpg" alt="Historical Yang Guifei Realistic Portrait" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Zhaoge01/status/2047110776897638568)
@@ -1911,9 +1961,9 @@ Create a landing page using this image as a reference for style and color gradin
 
 <a id="prompt-5c318ac449f78a3c699b"></a>
 
-### 84. Li Jiaqi Lipstick Livestream Background
+### 86. Li Jiaqi Lipstick Livestream Background
 
-![Li Jiaqi Lipstick Livestream Background](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case88/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case88/output.jpg" alt="Li Jiaqi Lipstick Livestream Background" width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/songguoxiansen/status/2047207826913972518)
@@ -1924,13 +1974,43 @@ Create a landing page using this image as a reference for style and color gradin
 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案OMG买它
 ```
 
+<a id="prompt-5c80f33af4ccd60eed93"></a>
+
+### 87. Museum-grade Chinese disassembly infographic guide
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case296.jpg" alt="Museum-grade Chinese disassembly infographic guide" width="480">
+
+- **Categories:** Museum-grade Chinese disassembly information guide
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-296)
+
+**Prompt:**
+
+```text
+Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject].
+
+The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information.
+
+The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible.
+
+The layout is fixed as:
+- Top: Chinese main title + subtitle + introduction
+- Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details
+- Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions
+- Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations
+- Bottom: Dressing order / composition flowchart + core feature summary
+
+If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere.
+
+Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
+```
+
 <a id="prompt-5fd40d9858d435595565"></a>
 
-### 85. 应用界面样机图
+### 88. 应用界面样机图
 
-![应用界面样机图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case106.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case106.jpg" alt="应用界面样机图" width="480">
 
-- **Categories:** 应用界面样机图
+- **Categories:** Application interface mockup
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-106)
 
 **Prompt:**
@@ -1950,15 +2030,15 @@ Create a landing page using this image as a reference for style and color gradin
       "position": "bottom center",
       "style": "huge, bold, 3D typography, grunge texture",
       "lines": [
-        { "text": "{argument name=\"main title top\" default=\"스레드 논란\"}", "color": "neon pink" },
-        { "text": "{argument name=\"main title bottom\" default=\"읽어드림 ;;\"}", "color": "white" }
+        { "text": "{argument name=\"main title top\" default=\"Thread controversy\"}", "color": "neon pink" },
+        { "text": "{argument name=\"main title bottom\" default=\"Reading for you ;;\"}", "color": "white" }
       ]
     },
     "ui_elements": [
       {
         "type": "social media feed mockup",
         "position": "mid-left",
-        "header": "← 스레드",
+        "header": "← Thread",
         "post_count": 3,
         "details": "avatars, Korean text, interaction icons for like, comment, repost"
       },
@@ -1973,23 +2053,23 @@ Create a landing page using this image as a reference for style and color gradin
       {
         "type": "spiky speech bubble",
         "position": "center top",
-        "text": "{argument name=\"speech bubble text\" default=\"이게 맞아?;;\"}"
+        "text": "{argument name=\"speech bubble text\" default=\"Is this correct?;;\"}"
       },
       {
         "type": "neon box",
         "position": "top right",
-        "text": "실시간 반응 중"
+        "text": "Real-time reactions in progress"
       },
       {
         "type": "floating grunge text",
         "position": "far left",
         "line_count": 3,
-        "text": ["OO 논란", "충격 실화", "역대급 사건"]
+        "text": ["OO controversy", "Shocking true story", "Historic event"]
       },
       {
         "type": "handwritten text with arrow",
         "position": "bottom right",
-        "text": "여러분의 생각은 어떠신가요?"
+        "text": "What are your thoughts?"
       }
     ],
     "logos": [
@@ -2003,37 +2083,34 @@ Create a landing page using this image as a reference for style and color gradin
 }
 ```
 
-<a id="prompt-61c0511b8ed936090a39"></a>
+<a id="prompt-608df0d4ae3b0448e7a7"></a>
 
-### 86. 抖音直播截图画面
+### 89. 萌系大模型训练图解
 
-![抖音直播截图画面](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case308.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case210.jpg" alt="萌系大模型训练图解" width="480">
 
-- **Categories:** 抖音直播截图画面
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-308)
+- **Categories:** Moe-style Large Model Training Illustrated Guide
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-210)
 
 **Prompt:**
 
 ```text
-[中文]
-9:16 的图片比例，生成一张抖音直播的截图，里面是 xxx 在直播，xxx 手里拿着牌子，牌子里写着 xxxx。
-
-[English]
-9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is xxx live streaming, xxx is holding a sign in their hand, the sign says xxxx.
+Cute explanation of the large language model training process
 ```
 
 <a id="prompt-61e92fc553baaa0abf18"></a>
 
-### 87. 界面交互设计图
+### 90. 界面交互设计图
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case101.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case101.jpg" alt="界面交互设计图" width="480">
 
 - **Categories:** 界面交互设计图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-101)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "YouTube thumbnail",
   "style": "High-impact, neon green and black color scheme, cyber business aesthetic",
@@ -2045,46 +2122,47 @@ Create a landing page using this image as a reference for style and color gradin
   },
   "layout": {
     "main_title": {
-      "text": "{argument name=\"main title\" default=\"月30万 ChatGPT副業 誰でも始めやすい\"}",
+      "text": "{argument name=\"main title\" default=\"¥300,000/month ChatGPT side business Anyone can start easily\"}",
       "position": "Center, huge bold white and green gradient text"
     },
     "top_left_badge": {
-      "text": "{argument name=\"top left badge\" default=\"再現性高め\"}",
+      "text": "{argument name=\"top left badge\" default=\"High reproducibility\"}",
       "style": "Angled neon green box"
     },
     "top_tags": {
       "count": 4,
-      "labels": ["初心者OK", "スマホでも可能", "最短で収益化", "具体例つき"]
+      "labels": ["Beginner friendly", "Possible with smartphone", "Fastest monetization", "With concrete examples"]
     },
     "left_bullet_points": {
       "count": 6,
       "style": "Dark boxes with neon green borders and icons",
       "items": [
-        "Lightbulb icon: 失敗しない始め方",
-        "Yen coin icon: 副業におすすめ",
-        "Chart icon: 収益化の流れ",
-        "Search icon: 案件の探し方",
-        "Chat icon: プロンプト例つき",
-        "Clipboard icon: テンプレ付き"
+        "Lightbulb icon: Fail-proof starting method",
+        "Yen coin icon: Recommended for side hustle",
+        "Chart icon: Monetization process",
+        "Search icon: How to find projects",
+        "Chat icon: With prompt examples",
+        "Clipboard icon: With templates"
       ]
     },
     "bottom_banner": {
-      "text": "{argument name=\"bottom banner text\" default=\"手順を徹底解説\"}",
+      "text": "{argument name=\"bottom banner text\" default=\"Thorough explanation of steps\"}",
       "icons": "ChatGPT logo left, upward chart right"
     },
     "bottom_tags": {
       "count": 2,
-      "labels": ["{argument name=\"year tag\" default=\"2026年最新版\"}", "即実践できる"]
+      "labels": ["{argument name=\"year tag\" default=\"2026 Latest Edition\"}", "Can be implemented immediately"]
     }
   }
 }
 ```
+````
 
 <a id="prompt-625e6c1b5653da8a5324"></a>
 
-### 88. 应用界面样机图
+### 91. 应用界面样机图
 
-![应用界面样机图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case7.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case7.jpg" alt="应用界面样机图" width="480">
 
 - **Categories:** 应用界面样机图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-7)
@@ -2097,36 +2175,36 @@ Create a landing page using this image as a reference for style and color gradin
 
 <a id="prompt-63c3c8f52fa5de40540a"></a>
 
-### 89. 社媒界面截图
+### 92. 社媒界面截图
 
-![社媒界面截图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case2.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case2.jpg" alt="社媒界面截图" width="480">
 
-- **Categories:** 社媒界面截图
+- **Categories:** Social media interface screenshot
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-2)
 
 **Prompt:**
 
 ```text
-画一张 X 的内容截图，深色模式，@OpenAI 蓝勾认证账号发推。
- 正文的中文内容：
- 今天想推荐一位很棒的 AI Builder：Ailln AI。
- 他持续在小红书分享 AI 工具、Agent 工作流、自动化实践和真实项目经验，把复杂的 AI 能力讲得清楚、实用、可落地。
- 如果你正在关注 AI 产品、效率工具、个人自动化、内容创作和未来工作方式，Ailln AI 是一个非常值得关注的创作者。
- 在小红书搜索：Ailln AI
- 底部添加一张深色官方宣传风格海报，简洁黑客质感，图片中文本准确显示。
- 海报大字： 「Ailln AI」
- 副标题： 「A brilliant AI Builder worth following」
- 互动数据位于最下方： 评论 8.9K、转发 42K、点赞 298K（亮起）、收藏 34K（亮起）、浏览 32.4M。
- 图片比例为3:4，不包含软件其他部分。
+Create a screenshot of X content in dark mode, posted by an @OpenAI verified account.
+The main Chinese content:
+Today I want to recommend a great AI Builder: Ailln AI.
+He continuously shares AI tools, Agent workflows, automation practices, and real project experience on Xiaohongshu, explaining complex AI capabilities in a clear, practical, and implementable way.
+If you're following AI products, productivity tools, personal automation, content creation, and the future of work, Ailln AI is a creator worth paying close attention to.
+Search on Xiaohongshu: Ailln AI
+Add a dark official promotional style poster at the bottom, with a simple hacker aesthetic, ensuring text is accurately displayed in the image.
+Main poster text: "Ailln AI"
+Subtitle: "A brilliant AI Builder worth following"
+Engagement data at the bottom: Comments 8.9K, Retweets 42K, Likes 298K (highlighted), Bookmarks 34K (highlighted), Views 32.4M.
+Image aspect ratio is 3:4, excluding other parts of the software.
 ```
 
 <a id="prompt-643bac322156c0fd5438"></a>
 
-### 90. 直播界面设计图
+### 93. Live streaming interface design
 
-![直播界面设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case48.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case48.jpg" alt="Live streaming interface design" width="480">
 
-- **Categories:** 直播界面设计图
+- **Categories:** Live streaming interface design diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-48)
 
 **Prompt:**
@@ -2135,18 +2213,34 @@ Create a landing page using this image as a reference for style and color gradin
 A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
 ```
 
+<a id="prompt-7804b87bae6b5a0f23b2"></a>
+
+### 94. TikTok live stream screenshot
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case308.jpg" alt="TikTok live stream screenshot" width="480">
+
+- **Categories:** 抖音直播截图画面
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-308)
+
+**Prompt:**
+
+```text
+9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is xxx live streaming, xxx is holding a sign in their hand, the sign says xxxx.
+```
+
 <a id="prompt-7bd48af0926043b8666e"></a>
 
-### 91. 应用界面样机图
+### 95. 应用界面样机图
 
-![应用界面样机图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case161.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case161.jpg" alt="应用界面样机图" width="480">
 
 - **Categories:** 应用界面样机图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-161)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "video game screenshot mockup",
   "perspective": "third-person over-the-shoulder",
@@ -2193,12 +2287,13 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
   }
 }
 ```
+````
 
 <a id="prompt-7cf8644a97b3f058a625"></a>
 
-### 92. 界面交互设计图
+### 96. 界面交互设计图
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case134.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case134.jpg" alt="界面交互设计图" width="480">
 
 - **Categories:** 界面交互设计图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-134)
@@ -2257,11 +2352,11 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 
 <a id="prompt-8160ad9cd9d0d30e3619"></a>
 
-### 93. 视频封面界面图
+### 97. 视频封面界面图
 
-![视频封面界面图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case103.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case103.jpg" alt="视频封面界面图" width="480">
 
-- **Categories:** 视频封面界面图
+- **Categories:** Video cover interface image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-103)
 
 **Prompt:**
@@ -2270,49 +2365,41 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 {argument name="pianist" default="Vladimir Horowitz"} performs a {argument name="event" default="live piano recital"} streamed on {argument name="platform" default="YouTube"}
 ```
 
-<a id="prompt-91ba8aa28eb4d973d077"></a>
+<a id="prompt-837f303c846cadcc3f39"></a>
 
-### 94. 刘亦菲抖音直播畅聊中
+### 98. Live streaming interface design diagram
 
-![刘亦菲抖音直播畅聊中](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case239.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case289.jpg" alt="Live streaming interface design diagram" width="480">
 
-- **Categories:** 刘亦菲抖音直播畅聊中
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-239)
+- **Categories:** categories.category_66670ab4a4.en: Livestream interface design diagram
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-289)
 
 **Prompt:**
 
 ```text
-[中文]
-9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！
-
-[English]
-9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!
+Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok live stream room
 ```
 
-<a id="prompt-9b1b6933d27ac2e90879"></a>
+<a id="prompt-83c0b2a405ce6e143f20"></a>
 
-### 95. 抖音汉服美女直播带货截图
+### 99. Su Shi's Social Media Feed on the First Day of His Exile
 
-![抖音汉服美女直播带货截图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case257.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case176.jpg" alt="Su Shi's Social Media Feed on the First Day of His Exile" width="480">
 
-- **Categories:** 抖音汉服美女直播带货截图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-257)
+- **Categories:** Su Shi's social media posts from his first day of exile revealed
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-176)
 
 **Prompt:**
 
 ```text
-[中文]
-生成一个抖音直播的截图里面是一个穿着中国传统服饰的美女在直播卖货
-
-[English]
-Generate a screenshot of a Douyin live stream, featuring a beautiful woman wearing traditional Chinese clothing selling goods during the live broadcast.
+Su Shi's first day of exile Xiaohongshu screenshot
 ```
 
 <a id="prompt-9d1078ccfdd5ae2462cd"></a>
 
-### 96. AAA Video Game Screenshot Concept Design
+### 100. AAA Video Game Screenshot Concept Design
 
-![AAA Video Game Screenshot Concept Design](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case47/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case47/output.jpg" alt="AAA Video Game Screenshot Concept Design" width="480">
 
 - **Categories:** ui
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ChiefMonkeyMike/status/2047828814580138156)
@@ -2323,30 +2410,11 @@ Generate a screenshot of a Douyin live stream, featuring a beautiful woman weari
 generate screenshots from a AAA video game based off what The Sims Castaways sequel could look like. https://t.co/aL7hMdUYvj
 ```
 
-<a id="prompt-a1adde84467bf89739e0"></a>
-
-### 97. 朱元璋登基后的推特主页
-
-![朱元璋登基后的推特主页](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case234.jpg)
-
-- **Categories:** 朱元璋登基后的推特主页
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-234)
-
-**Prompt:**
-
-```text
-[中文]
-创建一个明朝朱元璋登基之后的X帖子页面
-
-[English]
-Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty
-```
-
 <a id="prompt-a2575ede68e326449f92"></a>
 
-### 98. based on the generated character help me generate a screenshot of screenshot ...
+### 101. based on the generated character help me generate a screenshot of screenshot ...
 
-![based on the generated character help me generate a screenshot of screenshot ...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case63/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case63/output.jpg" alt="based on the generated character help me generate a screenshot of screenshot ..." width="480">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/khaiinit/status/2047219694130827273)
@@ -2357,13 +2425,28 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 based on the generated character help me generate a screenshot of screenshot of an pvp game themed around *zelda: wind breaker*
 ```
 
+<a id="prompt-a28b40eb058afc663167"></a>
+
+### 102. Exquisite Chaoshan Restaurant Menu Image
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case294.jpg" alt="Exquisite Chaoshan Restaurant Menu Image" width="480">
+
+- **Categories:** Exquisite Chaoshan Restaurant Menu Image
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-294)
+
+**Prompt:**
+
+```text
+Generate a Teochew restaurant menu image.
+```
+
 <a id="prompt-a3f1ab2611cd6f336ae8"></a>
 
-### 99. 视频封面界面图
+### 103. Video Cover Interface Diagram
 
-![视频封面界面图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case110.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case110.jpg" alt="Video Cover Interface Diagram" width="480">
 
-- **Categories:** 视频封面界面图
+- **Categories:** Video cover interface image
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-110)
 
 **Prompt:**
@@ -2372,56 +2455,19 @@ based on the generated character help me generate a screenshot of screenshot of 
 Thumbnail for a YouTube unboxing video, a video of {argument name="topic" default="opening all overdue bills"}, {argument name="quantity" default="100 in a row"}
 ```
 
-<a id="prompt-a57f413717128261b771"></a>
-
-### 100. 定制专属风格界面设计系统
-
-![定制专属风格界面设计系统](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case243.jpg)
-
-- **Categories:** 定制专属风格界面设计系统
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-243)
-
-**Prompt:**
-
-```text
-[中文]
-用xx风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
-
-[English]
-Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
-```
-
-<a id="prompt-ac7c39bc718b06619136"></a>
-
-### 101. 抖音直播间的绝美女主播
-
-![抖音直播间的绝美女主播](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case256.jpg)
-
-- **Categories:** 抖音直播间的绝美女主播
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-256)
-
-**Prompt:**
-
-```text
-[中文]
-生成一个抖音直播的截图 里面是一个美女在直播
-
-[English]
-Generate a screenshot of a Douyin livestream, inside there is a beautiful woman livestreaming
-```
-
 <a id="prompt-b3a0014dcaaa7d0e0ace"></a>
 
-### 102. 界面交互设计图
+### 104. Interface Interaction Design Diagram
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case99.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case99.jpg" alt="Interface Interaction Design Diagram" width="480">
 
-- **Categories:** 界面交互设计图
+- **Categories:** Interface interaction design diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-99)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "promotional banner / YouTube thumbnail",
   "style": "high contrast, flashy, professional, {argument name=\"theme color\" default=\"gold and black\"} palette, glowing light rays, sparkling particles",
@@ -2433,46 +2479,62 @@ Generate a screenshot of a Douyin livestream, inside there is a beautiful woman 
   "layout": {
     "background": "dark with radiant gold light bursts",
     "text_sections": {
-      "top_left_badge": "[保存版]",
-      "top_header": "{argument name=\"top text\" default=\"知識ゼロからでも今日から始められる！ AIで稼ぐ力を最短で手に入れる！\"}",
+      "top_left_badge": "[Save Version]",
+      "top_header": "{argument name=\"top text\" default=\"Even with zero knowledge, you can start today! Get the ability to earn with AI in the shortest time!\"}",
       "main_title": {
-        "text": "{argument name=\"main title\" default=\"AI副業 完全攻略\"}",
+        "text": "{argument name=\"main title\" default=\"AI Side Hustle Complete Guide\"}",
         "style": "large, bold, 3D gold and white typography"
       },
-      "subtitle_box": "{argument name=\"subtitle\" default=\"初心者でも月10万\"}",
+      "subtitle_box": "{argument name=\"subtitle\" default=\"Even beginners can earn 100,000 yen/month\"}",
       "top_right_badge": {
         "style": "gold laurel wreath",
-        "text": "2026年版 最新版"
+        "text": "2026 Edition Latest Version"
       },
       "middle_right_tags": {
         "count": 3,
         "style": "stacked gold-bordered boxes",
-        "labels": ["最短で収益化", "具体例つき", "誰でも始めやすい"]
+        "labels": ["Monetize in the shortest time", "With specific examples", "Easy for anyone to start"]
       },
       "middle_right_ribbon": {
         "style": "red ribbon banner",
-        "text": "手順を徹底解説"
+        "text": "Thorough explanation of steps"
       },
       "bottom_left_tags": {
         "count": 6,
         "style": "2x3 grid of gold-bordered boxes",
-        "labels": ["おすすめツール紹介", "収益化の流れがわかる", "失敗しない始め方", "作業時間を最小化", "テンプレ付き", "再現しやすい方法"]
+        "labels": ["Recommended tools introduction", "Understand the monetization flow", "Fail-proof starting method", "Minimize work time", "Templates included", "Easy-to-reproduce methods"]
       },
-      "bottom_footer": "迷わず稼げる！AI副業の教科書",
+      "bottom_footer": "Earn without hesitation! AI Side Hustle Textbook",
       "bottom_right_badge": {
         "style": "gold laurel wreath",
-        "text": "テンプレ付き"
+        "text": "Templates included"
       }
     }
   }
 }
 ```
+````
+
+<a id="prompt-b860aaaa66cf4bd19155"></a>
+
+### 105. TikTok beauty live streaming room interface design
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case288.jpg" alt="TikTok beauty live streaming room interface design" width="480">
+
+- **Categories:** Douyin beauty livestream interface design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-288)
+
+**Prompt:**
+
+```text
+Generate a TikTok live stream interface, the content is a beautiful woman live streaming
+```
 
 <a id="prompt-bd3e0abcffc198f82e6a"></a>
 
-### 103. 视频封面界面图
+### 106. 视频封面界面图
 
-![视频封面界面图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case92.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case92.jpg" alt="视频封面界面图" width="480">
 
 - **Categories:** 视频封面界面图
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-92)
@@ -2483,13 +2545,43 @@ Generate a screenshot of a Douyin livestream, inside there is a beautiful woman 
 An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name="hair color" default="pink with light blue inner highlights"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name="room lighting" default="purple and blue neon"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word "{argument name="main text line 1" default="雑談"}" and a bright blue bottom word "{argument name="main text line 2" default="配信"}". Below is a pink banner reading "{argument name="subtitle text" default="今夜もゆるっとトーク!"}". A red "LIVE" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.
 ```
 
+<a id="prompt-bd830fcf15c522bdb73c"></a>
+
+### 107. Panoramic Atlas of Jingdezhen Blue and White Porcelain
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case248.jpg" alt="Panoramic Atlas of Jingdezhen Blue and White Porcelain" width="480">
+
+- **Categories:** Jingdezhen Blue and White Porcelain Panorama Illustrated Guide
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-248)
+
+**Prompt:**
+
+```text
+Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
+```
+
+<a id="prompt-c3c35d9f1ef50ec05c86"></a>
+
+### 108. Geely Galaxy Dark Dashboard Interface
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case177.jpg" alt="Geely Galaxy Dark Dashboard Interface" width="480">
+
+- **Categories:** Geely Galaxy Dark Control Interface
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-177)
+
+**Prompt:**
+
+```text
+Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark color scheme.
+```
+
 <a id="prompt-cd0b91554fc2db92d8c5"></a>
 
-### 104. 应用界面样机图
+### 109. Application Interface Mockup
 
-![应用界面样机图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case323.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case323.jpg" alt="Application Interface Mockup" width="480">
 
-- **Categories:** 应用界面样机图
+- **Categories:** Application interface mockup
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-323)
 
 **Prompt:**
@@ -2504,7 +2596,7 @@ Perfectly rounded corners (exact Instagram radius)
 Soft studio reflections and realistic edge highlights
 Top Bar (Pixel-accurate UI):
 Circular profile avatar on the left
-Username text: “June” in Instagram’s default bold UI font
+Username text: "June" in Instagram's default bold UI font
 Light blue FOLLOW button with correct proportions
 Three-dot menu icon aligned to the far right
 Exact spacing, typography, and icon sizing matching the real Instagram app
@@ -2551,11 +2643,11 @@ Accurate contact shadows where the subject touches the frame
 Physically correct light falloff and reflections
 Footer UI (Engagement Section)
 Instagram action icons: like, comment, share, save (accurate icons)
-Text visible: “785 likes”
+Text visible: "785 likes"
 Caption begins with June
 Caption text:
-Freedom isn’t found in comfort.
-It’s built in the quiet moments where discipline meets belief.
+Freedom isn't found in comfort.
+It's built in the quiet moments where discipline meets belief.
 Hashtags partially visible and naturally cropped
 Overall Style & Quality
 Ultra-high resolution
@@ -2570,9 +2662,9 @@ Looks like a real product photoshoot, not AI art
 
 <a id="prompt-d1973d9816ef81a05bf2"></a>
 
-### 105. Magazine Travel Guide Feature Article
+### 110. Magazine Travel Guide Feature Article
 
-![Magazine Travel Guide Feature Article](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case71/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case71/output.jpg" alt="Magazine Travel Guide Feature Article" width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/andis13/status/2047204384811921764)
@@ -2583,11 +2675,26 @@ Looks like a real product photoshoot, not AI art
 Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts @swiat_ai @ProfitAII
 ```
 
+<a id="prompt-d6126d9c1b9ec43db544"></a>
+
+### 111. Stunning Chinese-style Gongbi Painting Bookmark Design
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case242.jpg" alt="Stunning Chinese-style Gongbi Painting Bookmark Design" width="480">
+
+- **Categories:** Exquisite Chinese Gongbi Painting Bookmark Design
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-242)
+
+**Prompt:**
+
+```text
+Generate a series of design drafts for Gongbi painting bookmarks.
+```
+
 <a id="prompt-df9072d9b5f1b5310cea"></a>
 
-### 106. A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...
+### 112. A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...
 
-![A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case80/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case80/output.jpg" alt="A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ..." width="480">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/ZaraIrahh/status/2047179669011616172)
@@ -2600,9 +2707,9 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 
 <a id="prompt-e1c70be24763fdf9e5ba"></a>
 
-### 107. Social App Match Success Screen
+### 113. Social App Match Success Screen
 
-![Social App Match Success Screen](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case86/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case86/output.jpg" alt="Social App Match Success Screen" width="480">
 
 - **Categories:** Comparison & Community Examples
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/songguoxiansen/status/2047220490486612450)
@@ -2615,11 +2722,11 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 
 <a id="prompt-e6ed9072570c945c2b8f"></a>
 
-### 108. 界面交互设计图
+### 114. UI Interaction Design Diagram
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case159.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case159.jpg" alt="UI Interaction Design Diagram" width="480">
 
-- **Categories:** 界面交互设计图
+- **Categories:** Interface interaction design diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-159)
 
 **Prompt:**
@@ -2633,46 +2740,46 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
   "layout": {
     "top_header": {
       "host_info": {
-        "name": "{argument name=\"host name\" default=\"小鹿运动优选\"}",
-        "stats": "12.8万本场点赞",
-        "button": "关注"
+        "name": "{argument name=\"host name\" default=\"Little Deer Sports Premium\"}",
+        "stats": "128,000 likes for this session",
+        "button": "Follow"
       },
-      "rank_tag": "带货榜第3名",
-      "viewer_stats": "1.2万"
+      "rank_tag": "Rank 3 on sales leaderboard",
+      "viewer_stats": "12,000"
     },
     "top_right": {
       "coupon": {
-        "title": "直播间专属券",
-        "value": "￥20 满199可用",
-        "button": "领取"
+        "title": "Exclusive livestream coupon",
+        "value": "¥20 available for orders over ¥199",
+        "button": "Claim"
       }
     },
     "left_overlay": {
-      "title": "{argument name=\"campaign title\" default=\"夏日运动季\"}",
-      "subtitle": "{argument name=\"campaign subtitle\" default=\"活力开场\"}",
+      "title": "{argument name=\"campaign title\" default=\"Summer Sports Season\"}",
+      "subtitle": "{argument name=\"campaign subtitle\" default=\"Energetic Start\"}",
       "bullet_points": {
         "count": 3,
-        "items": ["透气速干", "弹力舒适", "运动百搭"]
+        "items": ["Breathable and quick-drying", "Stretchy and comfortable", "Versatile for sports"]
       }
     },
     "right_overlay": {
       "product_cards": {
         "count": 2,
         "card_1": {
-          "status": "正在讲解",
+          "status": "Currently explaining",
           "image": "white polo shirt and skirt flat lay",
-          "title": "{argument name=\"product name\" default=\"运动POLO衫套装\"}",
-          "details": "白色·M码",
-          "price": "{argument name=\"price\" default=\"￥129\"}",
-          "button": "去抢购"
+          "title": "{argument name=\"product name\" default=\"Sports Polo Shirt Set\"}",
+          "details": "White · Size M",
+          "price": "{argument name=\"price\" default=\"¥129\"}",
+          "button": "Go buy now"
         },
         "card_2": {
-          "status": "热卖 x 156",
+          "status": "Hot selling x 156",
           "image": "miniature of main model",
-          "title": "运动POLO衫套装女",
-          "details": "透气速干 显瘦百搭",
-          "price": "{argument name=\"price\" default=\"￥129\"}",
-          "button": "抢"
+          "title": "Women's Sports Polo Shirt Set",
+          "details": "Breathable quick-drying, slimming, versatile",
+          "price": "{argument name=\"price\" default=\"¥129\"}",
+          "button": "Grab"
         }
       }
     },
@@ -2681,10 +2788,10 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
         "count": 5,
         "description": "scrolling chat messages with usernames and comments"
       },
-      "purchase_alert": "用户_6789 等3人 正在去购买"
+      "purchase_alert": "User_6789 and 2 others are purchasing"
     },
     "bottom_bar": {
-      "input_field": "说点什么...",
+      "input_field": "Say something...",
       "icons": {
         "count": 5,
         "types": ["smile", "shopping cart", "heart", "gift", "more"]
@@ -2694,37 +2801,19 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 }
 ```
 
-<a id="prompt-e9ac1f1bc60f7e127aa9"></a>
-
-### 109. 社媒界面截图
-
-![社媒界面截图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case260.jpg)
-
-- **Categories:** 社媒界面截图
-- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-260)
-
-**Prompt:**
-
-```text
-[中文]
-生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸
-
-[English]
-Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size
-```
-
 <a id="prompt-eef29c707ba1b3f5c09a"></a>
 
-### 110. 应用界面样机图
+### 115. Application Interface Mockup
 
-![应用界面样机图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case156.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case156.jpg" alt="Application Interface Mockup" width="480">
 
-- **Categories:** 应用界面样机图
+- **Categories:** Application interface mockup
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-156)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "mobile live-streaming e-commerce interface mockup",
   "subject": {
@@ -2735,77 +2824,79 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
     "top_bar": {
       "time": "20:34",
       "host_info": {
-        "name": "{argument name=\"host name\" default=\"小雨睡衣\"}",
-        "stats": "12.8万本场点赞",
-        "button": "关注"
+        "name": "{argument name=\"host name\" default=\"Yu Pajamas\"}",
+        "stats": "128,000 likes this session",
+        "button": "Follow"
       },
       "viewer_info": {
         "avatars_count": 3,
-        "total_viewers": "1.2万"
+        "total_viewers": "12,000"
       }
     },
     "floating_tags": {
       "count": 2,
-      "labels": ["带货总榜第3名", "人气榜"]
+      "labels": ["Top 3 in sales ranking", "Popularity ranking"]
     },
     "widgets": {
       "top_left": "red envelope icon with timer 03:45",
-      "top_right": "floating heart icon with text 直播好物大赏 发现新热爱"
+      "top_right": "floating heart icon with text Live stream great items, discover new favorites"
     },
     "marketing_text_overlay": {
       "position": "mid-right",
       "lines_count": 5,
       "lines": [
-        "{argument name=\"main headline\" default=\"新款睡衣\"}",
-        "{argument name=\"sub headline\" default=\"正在秒杀中...\"}",
-        "亲肤透气",
-        "柔软舒适",
-        "不起球 不褪色"
+        "{argument name=\"main headline\" default=\"New pajamas\"}",
+        "{argument name=\"sub headline\" default=\"Flash sale in progress...\"}",
+        "Skin-friendly and breathable",
+        "Soft and comfortable",
+        "Pilling-resistant and colorfast"
       ]
     },
     "chat_log": {
       "position": "bottom-left",
       "message_count": 7,
       "messages": [
-        "32 雨*** 加入了直播间",
-        "小***: 好看，多少钱",
-        "小***: 拍了，期待发货",
-        "C***: 质量看着不错",
-        "用***: 身高165，体重120斤，穿多大码？",
-        "@***: 主播身上这款有货吗？",
-        "晴***: 已拍，坐等收货！"
+        "32 Yu*** joined the live stream",
+        "Xiao***: Looks good, how much is it?",
+        "Xiao***: Ordered, waiting for shipping",
+        "C***: Quality looks good",
+        "Yong***: Height 165cm, weight 60kg, what size should I get?",
+        "@***: Is the item the host is wearing in stock?",
+        "Qing***: Ordered, waiting for delivery!"
       ]
     },
     "product_card": {
       "position": "bottom-right",
       "thumbnail": "miniature of the host",
-      "title": "{argument name=\"product title\" default=\"【小雨睡衣】春季新款家居服套装\"}",
+      "title": "{argument name=\"product title\" default=\"[Yu Pajamas] New Spring Home Wear Set\"}",
       "tags_count": 2,
-      "tags": ["7天无理由退货", "运费险"],
-      "price_section": "秒杀价 ¥ {argument name=\"product price\" default=\"89.9\"}",
-      "action_button": "抢"
+      "tags": ["7-day no reason return", "Shipping insurance"],
+      "price_section": "Flash sale price ¥ {argument name=\"product price\" default=\"89.9\"}",
+      "action_button": "Grab"
     },
     "bottom_bar": {
-      "input_placeholder": "说点什么...",
+      "input_placeholder": "Say something...",
       "icon_count": 5,
       "icons": ["smiley face", "shopping cart", "heart/gift", "gift box", "three dots"]
     }
   }
 }
 ```
+````
 
 <a id="prompt-f133a087b15aa7198ae6"></a>
 
-### 111. 界面交互设计图
+### 116. Interface Interaction Design Diagram
 
-![界面交互设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case57.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case57.jpg" alt="Interface Interaction Design Diagram" width="480">
 
-- **Categories:** 界面交互设计图
+- **Categories:** Interface interaction design diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-57)
 
 **Prompt:**
 
-```text
+````text
+```json
 {
   "type": "mobile social media app UI mockup",
   "platform": "Twitter/X dark mode",
@@ -2846,14 +2937,92 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
   }
 }
 ```
+````
+
+<a id="prompt-f595e73feeb2ef45ae66"></a>
+
+### 117. Cozy Sleep Aid Guide: Nine-Grid Layout
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case235.jpg" alt="Cozy Sleep Aid Guide: Nine-Grid Layout" width="480">
+
+- **Categories:** Therapeutic Sleep Aid Guide Nine-Grid
+- **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-235)
+
+**Prompt:**
+
+```text
+Generate a 3:4 vertical 9-grid poster suitable for publishing on Xiaohongshu, with an overall layout of 3 columns × 3 rows. The boundaries of the nine grids are clear, making it easy to directly cut into 9 single images for later publishing. The overall style is clean, premium, and unified, suitable for female-oriented healthy lifestyle content, possessing the vibe of a viral Xiaohongshu cover. Image requirements: clear information layout, large text, strong readability, comfortable white space, gentle and healing color palette.
+
+Overall visual style:
+Cream white, light beige, light oat color, and light caramel color as the main color tones, paired with a small amount of dark brown text. Ins style, healing sense, sleep therapy theme, minimalist layout, light skeuomorphic illustration embellishments. Elements such as pillows, moons, stars, hot milk, aromatherapy, books, eye masks, curtains, and beds can be added. The overall look should be like a professional new media design graphic, with neat fonts, suitable for a knowledge-based popular science Xiaohongshu 9-grid.
+
+Layout requirements:
+The entire image must be a standard 9-grid composition, and each grid can stand alone as an independent image after being cut.
+The content of each grid should be completely centered; do not place titles or body text near the dividing lines.
+Keep obvious gaps or thin borders between each grid to ensure that reading is not affected after cropping.
+All text must use Chinese, be clear and readable, no garbled characters, no English.
+Each grid should look like an independent Xiaohongshu image-and-text card, but the visual style must remain unified.
+The image should be exquisite, realistic, and natural, without a cheap marketing feel, and not overly flashy.
+
+Specific content of the 9-grid:
+
+Grid 1 (Cover)
+Main title: 8 tips to make you fall asleep instantly
+Subtitle: Insomniacs and night owls must save this
+The cover visuals should be the most eye-catching, suitable for the first image. Add healing sleep elements such as soft beds, moons, pillows, and eye masks. The title should be prominent with a premium layout.
+
+Grid 2
+Title: 1. Don't play with your phone 1 hour before bed
+Body text: Blue light makes the brain more awake; the more you scroll, the harder it is to fall asleep.
+Image elements: Mobile phone, moon, small illustration of a sleepy expression
+
+Grid 3
+Title: 2. Dim the lights before bed
+Body text: A warm light environment can help the body enter a "ready to sleep" state.
+Image elements: Bedside lamp, warm yellow light, curtains
+
+Grid 4
+Title: 3. Don't keep the room temperature too high
+Body text: Keeping it a bit cooler makes it easier to fall asleep quickly.
+Image elements: Air conditioner, thermometer, quilt
+
+Grid 5
+Title: 4. Don't drink strong tea or coffee at night
+Body text: Caffeine delays sleepiness, making you lie in bed for a long time unable to sleep.
+Image elements: Coffee cup, teacup, prohibition sign
+
+Grid 6
+Title: 5. Take a hot shower before bed
+Body text: It can relax the body and help you fall asleep faster.
+Image elements: Bathroom steam, towel, hot water
+
+Grid 7
+Title: 6. Write it down if your brain won't stop
+Body text: Writing down your worries and to-do lists makes it easier for your brain to relax.
+Image elements: Notebook, fountain pen, small desk lamp
+
+Grid 8
+Title: 7. Fix your bedtime
+Body text: Going to bed at about the same time every day will make your biological clock increasingly stable.
+Image elements: Clock, moon, bed
+
+Grid 9
+Title: 8. Try deep breathing relaxation
+Body text: Inhale for 4 seconds, hold for 4 seconds, exhale for 6 seconds, and sleepiness will gradually come.
+Bottom small text: Save this set and try it tonight
+Image elements: Breathing lines, person with closed eyes, stars
+
+Image quality requirements:
+High definition, premium layout, magazine feel, realistically publishable, new media operation aesthetics, Xiaohongshu viral image-and-text style, neat text layout, suitable for direct image cutting.
+```
 
 <a id="prompt-f6809d16c8675ef24e2e"></a>
 
-### 112. 直播界面设计图
+### 118. Live streaming interface design diagram
 
-![直播界面设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case152.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case152.jpg" alt="Live streaming interface design diagram" width="480">
 
-- **Categories:** 直播界面设计图
+- **Categories:** Live Streaming Interface Design
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-152)
 
 **Prompt:**
@@ -2878,41 +3047,41 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
   },
   "ui_overlays": {
     "top_left_product_info": {
-      "brand_tag": "Anthropic 官方旗舰店",
+      "brand_tag": "Anthropic Official Flagship Store",
       "title": "{argument name=\"product name\" default=\"Claude Opus 4.7\"}",
-      "subtitle": "{argument name=\"main headline\" default=\"更强推理·更高智能\"}",
-      "sub_subtitle": "最强大模型: Opus 4.7 重磅发布!",
+      "subtitle": "{argument name=\"main headline\" default=\"Stronger Reasoning·Higher Intelligence\"}",
+      "sub_subtitle": "Most Powerful Model: Opus 4.7 Grand Release!",
       "bullet_points_count": 3,
-      "bullet_points": ["超强推理能力", "代码能力巅峰", "复杂任务轻松搞定"]
+      "bullet_points": ["Superior Reasoning Capabilities", "Peak Coding Abilities", "Effortlessly Handle Complex Tasks"]
     },
     "top_right_live_status": {
-      "viewer_info": "直播中 | 52.8万人观看",
-      "promo_banner": "直播专属福利 限时折扣·错过不再有",
-      "countdown": "倒计时 00:09:47"
+      "viewer_info": "Live | 528,000 viewers",
+      "promo_banner": "Exclusive Live Stream Benefits Limited Time Offer·Miss It and It's Gone",
+      "countdown": "Countdown 00:09:47"
     },
     "middle_right_price_card": {
-      "header": "{argument name=\"product name\" default=\"Claude Opus 4.7\"} 直播间专享价",
+      "header": "{argument name=\"product name\" default=\"Claude Opus 4.7\"} Live Stream Exclusive Price",
       "price_currency": "¥",
       "price_value": "{argument name=\"promotional price\" default=\"0.47\"}",
-      "price_unit": "/百万tokens起",
-      "original_price": "原价: ¥1.89",
-      "button": "立即抢购"
+      "price_unit": "/per million tokens starting from",
+      "original_price": "Original Price: ¥1.89",
+      "button": "Buy Now"
     },
     "bottom_left_chat": {
       "message_count": 9,
-      "input_box_placeholder": "说点什么..."
+      "input_box_placeholder": "Say something..."
     },
     "bottom_right_banner": {
-      "headline": "奥特曼首推！认准Claude Opus 4.7",
-      "subheadline": "更智能 · 更安全 · 更可靠",
+      "headline": "Altman's Top Recommendation! Choose Claude Opus 4.7",
+      "subheadline": "Smarter · Safer · More Reliable",
       "feature_tags_count": 4,
-      "feature_tags": ["强大推理", "代码神器", "安全可靠", "极速响应"]
+      "feature_tags": ["Powerful Reasoning", "Coding Wizard", "Safe and Reliable", "Lightning Fast Response"]
     },
     "floating_elements": [
       {
         "type": "sticker",
         "position": "middle right over product boxes",
-        "text": "{argument name=\"sticker text\" default=\"史上最强 AI模型!\"}"
+        "text": "{argument name=\"sticker text\" default=\"The Most Powerful AI Model Ever!\"}"
       }
     ]
   }
@@ -2921,11 +3090,11 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
 
 <a id="prompt-fd730fc75c8fff60f509"></a>
 
-### 113. 直播界面设计图
+### 119. Live Stream Interface Design Diagram
 
-![直播界面设计图](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case149.jpg)
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case149.jpg" alt="Live Stream Interface Design Diagram" width="480">
 
-- **Categories:** 直播界面设计图
+- **Categories:** Live streaming interface design diagram
 - **Source:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-149)
 
 **Prompt:**
@@ -2944,50 +3113,50 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
     "image": "Mars landscape with Starship rocket and dome habitats",
     "text": [
       "SPACEX",
-      "{argument name=\"background title\" default=\"移民火星计划\"}"
+      "{argument name=\"background title\" default=\"Mars Immigration Plan\"}"
     ]
   },
   "ui_layout": {
     "header": {
       "broadcaster_info": {
         "name": "{argument name=\"broadcaster name\" default=\"ElonMusk\"}",
-        "stats": "75.8万本场点赞",
-        "follow_button": "关注"
+        "stats": "758,000 likes in this stream",
+        "follow_button": "Follow"
       },
       "viewer_stats": {
         "avatars_count": 3,
-        "text": "10万+",
+        "text": "100,000+",
         "close_button": "X"
       },
       "tags": [
-        "带货总榜第1名",
-        "更多直播 >"
+        "Top 1 in sales ranking",
+        "More live streams >"
       ]
     },
     "product_card": {
       "position": "mid-right",
-      "status": "讲解中",
+      "status": "Explaining",
       "image": "Mars dome habitats",
-      "title": "{argument name=\"product title\" default=\"火星移民基础套餐\"}",
+      "title": "{argument name=\"product title\" default=\"Mars immigration basic package\"}",
       "price": "{argument name=\"product price\" default=\"¥99.00\"}",
-      "action_button": "抢"
+      "action_button": "Grab"
     },
     "chat_overlay": {
       "position": "bottom-left",
-      "join_alert": "星辰大海 加入了直播间",
+      "join_alert": "Star Sea joined the livestream",
       "messages_count": 7,
       "messages": [
-        "{argument name=\"top chat message\" default=\"梦想家: 支持马斯克！！🚀\"}",
-        "火星弟弟: 多少钱一位？",
-        "科技迷: 太酷了！想去火星！",
-        "未来已来: 如何报名？",
-        "小火箭: 🌹🌹🌹",
-        "宇宙无敌: 讲解一下细节",
-        "东方不败: 老马牛逼！👍👍👍"
+        "{argument name=\"top chat message\" default=\"Dreamer: Support Musk!! 🚀\"}",
+        "Mars Brother: How much per person?",
+        "Tech Fan: So cool! Want to go to Mars!",
+        "Future is here: How to sign up?",
+        "Little Rocket: 🌹🌹🌹",
+        "Universe Invincible: Explain some details",
+        "East is Invincible: Old Ma is awesome! 👍👍👍"
       ]
     },
     "bottom_action_bar": {
-      "input_placeholder": "说点什么...",
+      "input_placeholder": "Say something...",
       "icons_count": 4,
       "icons": ["shopping cart", "gift box", "heart planet", "plus sign"]
     },

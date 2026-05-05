@@ -1,34 +1,55 @@
+<div align="center">
+
 # awesome-image-prompts
+
+Reusable GPT image prompt patterns, normalized for GitHub, JSON, and gptimages.dev.
+
+[![Website: gptimages.dev](https://img.shields.io/badge/Website-gptimages.dev-black)](https://gptimages.dev) [![Dataset: JSON](https://img.shields.io/badge/Dataset-JSON-orange)](data/catalog/) [![Prompts: 723](https://img.shields.io/badge/Prompts-723-blue)](#collections) [![Languages: 2](https://img.shields.io/badge/Languages-2-green)](README.md)
+
+[English](README.md) / [Simplified Chinese](README_zh-CN.md)
+
+</div>
 
 A curated, normalized, multilingual catalog of high-quality GPT image prompts collected from open-source projects.
 
-- Generated: 2026-05-04T14:49:54.225Z
-- Total prompts: 731
+The Markdown files in this repository are generated from the standardized public catalog data, so the GitHub docs, JSON exports, and website experience stay aligned.
+
+## Website
+
+Use [gptimages.dev](https://gptimages.dev) to browse, search, filter, and copy these prompts. The site is built on this catalog and is the fastest way to explore prompt patterns by category, language, and source.
+
+## Catalog Snapshot
+
+- Generated: 2026-05-05T17:36:14.688Z
+- Total prompts: 723
+- Languages: [English](README.md) / [Simplified Chinese](README_zh-CN.md)
 - Public data: Machine-readable catalog data is available under `data/catalog/`.
-- Prompts: The full catalog is split into collection documents to keep this README readable.
+- Prompts: Every prompt body is generated into the collection documents below. The root README stays compact while the split files keep the full catalog easy to navigate.
 
 ## Collections
 
 | Category | Count | Open |
 | --- | ---: | --- |
-| Poster & Illustration | 256 | [Open](docs/poster-illustration.md) |
-| General | 149 | [Open](docs/general.md) |
-| UI & Social Media | 113 | [Open](docs/ui-social-media.md) |
-| Photography & Portrait | 82 | [Open](docs/photography-portrait.md) |
-| Infographic & Education | 43 | [Open](docs/infographic-education.md) |
+| Poster & Illustration | 259 | [Open](docs/poster-illustration.md) |
+| General | 134 | [Open](docs/general.md) |
+| UI & Social Media | 119 | [Open](docs/ui-social-media.md) |
+| Photography & Portrait | 83 | [Open](docs/photography-portrait.md) |
+| Infographic & Education | 47 | [Open](docs/infographic-education.md) |
 | Product & Marketing | 39 | [Open](docs/product-marketing.md) |
-| Character Design | 20 | [Open](docs/character-design.md) |
-| Architecture & Interior | 10 | [Open](docs/architecture-interior.md) |
-| Comic & Story | 10 | [Open](docs/comic-story.md) |
-| Brand & Logo | 9 | [Open](docs/brand-logo.md) |
+| Character Design | 18 | [Open](docs/character-design.md) |
+| Comic & Story | 11 | [Open](docs/comic-story.md) |
+| Brand & Logo | 8 | [Open](docs/brand-logo.md) |
+| Architecture & Interior | 5 | [Open](docs/architecture-interior.md) |
 
 ## Featured Prompts
+
+A compact sample from the catalog. Open any collection to read the complete prompt text.
 
 <a id="prompt-336f31a47e786612f194"></a>
 
 ### 1. Iced Coffee Product Infographic
 
-![Iced Coffee Product Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg" alt="Iced Coffee Product Infographic" width="360">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Strength04_X/status/2049082049995362785)
@@ -38,7 +59,7 @@ A curated, normalized, multilingual catalog of high-quality GPT image prompts co
 
 ### 2. Outdoor Sportswear Grid Campaign
 
-![Outdoor Sportswear Grid Campaign](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg" alt="Outdoor Sportswear Grid Campaign" width="360">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/SPEEDAI07/status/2049081198211736062)
@@ -48,7 +69,7 @@ A curated, normalized, multilingual catalog of high-quality GPT image prompts co
 
 ### 3. Rainy Bus Stop Portrait
 
-![Rainy Bus Stop Portrait](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case103/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case103/output.jpg" alt="Rainy Bus Stop Portrait" width="360">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/harboriis/status/2049081194156020046)
@@ -58,7 +79,7 @@ A curated, normalized, multilingual catalog of high-quality GPT image prompts co
 
 ### 4. Collectible Figure Workspace Photo
 
-![Collectible Figure Workspace Photo](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case102/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case102/output.jpg" alt="Collectible Figure Workspace Photo" width="360">
 
 - **Categories:** Portrait & Photography Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/Shinning1010/status/2049068188399227174)
@@ -68,7 +89,7 @@ A curated, normalized, multilingual catalog of high-quality GPT image prompts co
 
 ### 5. Monochrome Fashion Cover
 
-![Monochrome Fashion Cover](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg" alt="Monochrome Fashion Cover" width="360">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sha_zdiii/status/2049088961008848905)
@@ -78,7 +99,7 @@ A curated, normalized, multilingual catalog of high-quality GPT image prompts co
 
 ### 6. Topographic Letter Satellite Panels
 
-![Topographic Letter Satellite Panels](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" alt="Topographic Letter Satellite Panels" width="360">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/madpencil_/status/2049080259476349218)
@@ -88,7 +109,7 @@ A curated, normalized, multilingual catalog of high-quality GPT image prompts co
 
 ### 7. Fashion Dress Collection Infographic
 
-![Fashion Dress Collection Infographic](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg" alt="Fashion Dress Collection Infographic" width="360">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/cellinlab/status/2049073530738754042)
@@ -98,7 +119,7 @@ A curated, normalized, multilingual catalog of high-quality GPT image prompts co
 
 ### 8. Fast Food Character Poster
 
-![Fast Food Character Poster](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg" alt="Fast Food Character Poster" width="360">
 
 - **Categories:** Poster & Illustration Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/LoovaAI/status/2049085173015425354)
@@ -108,7 +129,7 @@ A curated, normalized, multilingual catalog of high-quality GPT image prompts co
 
 ### 9. Comic / Storyboard - Japanese Elephant Day Magazine Feature
 
-![Comic / Storyboard - Japanese Elephant Day Magazine Feature](https://cms-assets.youmind.com/media/1777367311943_pxvvcv_HGyzZAEaMAAxfWp.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367311943_pxvvcv_HGyzZAEaMAAxfWp.jpg" alt="Comic / Storyboard - Japanese Elephant Day Magazine Feature" width="360">
 
 This prompt generates a polished Japanese editorial-style magazine page about Elephant Day, ideal for seasonal feature graphics, lifestyle spreads, or educational zoo-themed art.
 
@@ -120,7 +141,7 @@ This prompt generates a polished Japanese editorial-style magazine page about El
 
 ### 10. Comic / Storyboard - Dark Fantasy Inner Monster Poster
 
-![Comic / Storyboard - Dark Fantasy Inner Monster Poster](https://cms-assets.youmind.com/media/1777367345122_fkg2fn_HG-CL5fa8AA48W5.jpg)
+<img src="https://cms-assets.youmind.com/media/1777367345122_fkg2fn_HG-CL5fa8AA48W5.jpg" alt="Comic / Storyboard - Dark Fantasy Inner Monster Poster" width="360">
 
 This prompt generates a dramatic gothic anime-style poster of a silver-haired woman and a blue-eyed eldritch monster, ideal for moody art campaigns, book-cover concepts, or social media design pieces.
 
@@ -132,7 +153,7 @@ This prompt generates a dramatic gothic anime-style poster of a silver-haired wo
 
 ### 11. Spanish GRWM Morning Beauty Thumbnail
 
-![Spanish GRWM Morning Beauty Thumbnail](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case91/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case91/output.jpg" alt="Spanish GRWM Morning Beauty Thumbnail" width="360">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/S0N_IA_/status/2047414367243657296)
@@ -142,7 +163,7 @@ This prompt generates a dramatic gothic anime-style poster of a silver-haired wo
 
 ### 12. Handwritten Realistic Letter
 
-![Handwritten Realistic Letter](https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg)
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg" alt="Handwritten Realistic Letter" width="360">
 
 - **Categories:** UI & Social Media Mockup Cases
 - **Source:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mosthssan/status/2048160477658980711)
