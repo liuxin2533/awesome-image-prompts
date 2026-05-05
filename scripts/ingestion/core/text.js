@@ -7,13 +7,13 @@ const LANGUAGE_ALIASES = {
   'zh-hans': 'zh-CN',
   'zh-tw': 'zh-TW',
   'zh-hant': 'zh-TW',
+  'zh-hk': 'zh-TW',
+  'zh-mo': 'zh-TW',
   en: 'en',
-  'en-us': 'en-US',
   ja: 'ja',
-  jp: 'ja-JP',
-  'ja-jp': 'ja-JP',
+  jp: 'ja',
   ko: 'ko',
-  'ko-kr': 'ko-KR'
+  kr: 'ko'
 };
 
 function dedupePromptText(text) {
@@ -30,7 +30,7 @@ function stablePromptId(promptText, length = 20) {
 
 function normalizeLanguageCode(code) {
   if (!code) return 'und';
-  const raw = String(code).trim().replace('_', '-');
+  const raw = String(code).trim().replace(/_/g, '-');
   const lower = raw.toLowerCase();
   if (LANGUAGE_ALIASES[lower]) return LANGUAGE_ALIASES[lower];
 
@@ -38,10 +38,11 @@ function normalizeLanguageCode(code) {
   if (parts.length === 0) return 'und';
   if (parts.length === 1) return parts[0];
 
-  return [
-    parts[0],
-    ...parts.slice(1).map(part => part.length === 2 ? part.toUpperCase() : part)
-  ].join('-');
+  if (parts[0] === 'zh') {
+    return parts.some(part => ['tw', 'hant', 'hk', 'mo'].includes(part)) ? 'zh-TW' : 'zh-CN';
+  }
+
+  return parts[0];
 }
 
 function isBcp47Like(code) {

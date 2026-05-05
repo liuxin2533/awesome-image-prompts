@@ -22,12 +22,16 @@ test('stablePromptId is deterministic and based on the dedupe key', () => {
 test('normalizeLanguageCode returns canonical BCP 47-like language tags', () => {
   assert.equal(normalizeLanguageCode('zh'), 'zh-CN');
   assert.equal(normalizeLanguageCode('zh-cn'), 'zh-CN');
-  assert.equal(normalizeLanguageCode('en-us'), 'en-US');
-  assert.equal(normalizeLanguageCode('ja-jp'), 'ja-JP');
+  assert.equal(normalizeLanguageCode('zh-tw'), 'zh-TW');
+  assert.equal(normalizeLanguageCode('en-us'), 'en');
+  assert.equal(normalizeLanguageCode('ja-jp'), 'ja');
+  assert.equal(normalizeLanguageCode('ko-KR'), 'ko');
+  assert.equal(normalizeLanguageCode('es-419'), 'es');
+  assert.equal(normalizeLanguageCode('pt-BR'), 'pt');
+  assert.equal(normalizeLanguageCode('pt-PT'), 'pt');
 });
 
 test('slugify keeps stable readable identifiers', () => {
   assert.equal(slugify('Poster & Illustration Cases'), 'poster-illustration-cases');
   assert.equal(slugify('信息图 可视化'), 'category');
 });
-

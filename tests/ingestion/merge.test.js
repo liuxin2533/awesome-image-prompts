@@ -66,7 +66,7 @@ test('normalizeRawRecord preserves upstream translations and marks missing targe
 
   assert.equal(prompt.title.translations['zh-CN'].value, '中文标题');
   assert.equal(prompt.promptText.translations['zh-CN'].source, 'upstream');
-  assert.equal(report.issues.some(issue => issue.code === 'missing_translation' && issue.fieldPath === 'promptText.translations.ja-JP'), true);
+  assert.equal(report.issues.some(issue => issue.code === 'missing_translation' && issue.fieldPath === 'promptText.translations.ja'), true);
 });
 
 test('normalizeRawRecord ignores upstream translations that repeat the original text', () => {
