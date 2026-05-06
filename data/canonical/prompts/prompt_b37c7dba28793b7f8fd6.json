@@ -1,0 +1,176 @@
+{
+  "id": "prompt_b37c7dba28793b7f8fd6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using the provided floor plan reference image, convert the 2D black-and-white architectural plan into a clean photorealistic 3D isometric real-estate floor plan render while preserving the original layout, room sizes, labels, and the side-by-side composition of the 1F and 2F plans. Add realistic wall thickness, light wood flooring, soft neutral wall colors, doors and windows with depth, and fully furnished interiors appropriate to each room. Keep all visible Japanese room labels in place, including 1F, 2F, 洗面所, 浴室, 収納, 階段下収納, ホール, 玄関, トイレ, L.D.K (18.0帖), 洋室 (6.0帖) for 2 rooms, ウォークインクローゼット (3.0帖), and 主寝室 (6.0帖). Stage the 1F with 1 kitchen, 1 dining table set for 4, 1 living area with sofa and coffee table, 1 toilet, 1 bathroom with tub, 1 wash area, and small plants. Stage the 2F with 3 sleeping/work rooms total: 1 bedroom with a single bed, 1 room with a desk and chair, and 1 master bedroom with a double bed, plus 2 storage spaces and 1 walk-in closet with shelving. Use a bright catalog-style presentation on a plain light background, viewed from a slightly elevated angled top-down perspective, suitable for a property sales brochure.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用提供的平面图参考图像，将 2D 黑白建筑平面图转换为清晰、逼真的 3D 等轴测房地产平面效果图，同时保留原始布局、房间尺寸、标签以及 1F 和 2F 平面图的并排构图。添加逼真的墙壁厚度、浅色木地板、柔和的中性墙面色彩、具有深度的门窗，以及与各房间功能相符的精美室内陈设。保留所有可见的日语房间标签，包括 1F、2F、洗面所、浴室、収納、階段下収納、ホール、玄関、トイレ、L.D.K (18.0帖)、2 间洋室 (6.0帖)、ウォークインクローゼット (3.0帖) 以及 主寝室 (6.0帖)。1F 布局包括：1 个厨房、1 套 4 人餐桌椅、1 个带沙发和咖啡桌的起居区、1 个卫生间、1 个带浴缸的浴室、1 个洗面区及少量绿植。2F 布局共包含 3 个卧室/工作间：1 间带单人床的卧室、1 间带书桌椅的房间、1 间带双人床的主卧，以及 2 个储物空间和 1 个带货架的步入式衣帽间。采用明亮的目录式呈现风格，背景简洁，视角为略微抬高的斜顶视图，非常适合用于房产销售手册。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Utilizando la imagen de referencia del plano de planta proporcionada, convierte el plano arquitectónico 2D en blanco y negro en un render de plano de planta isométrico 3D fotorrealista y limpio, preservando el diseño original, los tamaños de las habitaciones, las etiquetas y la composición lado a lado de los planos de 1F y 2F. Agrega un grosor de pared realista, pisos de madera clara, colores de pared neutros y suaves, puertas y ventanas con profundidad, e interiores completamente amueblados adecuados para cada habitación. Mantén todas las etiquetas de habitación en japonés visibles en su lugar, incluyendo 1F, 2F, 洗面所, 浴室, 収納, 階段下収納, ホール, 玄関, トイレ, L.D.K (18.0帖), 洋室 (6.0帖) para 2 habitaciones, ウォークインクローゼット (3.0帖) y 主寝室 (6.0帖). Amuebla el 1F con 1 cocina, 1 juego de mesa de comedor para 4 personas, 1 sala de estar con sofá y mesa de centro, 1 baño, 1 baño con tina, 1 área de lavado y plantas pequeñas. Amuebla el 2F con un total de 3 habitaciones para dormir/trabajar: 1 dormitorio con una cama individual, 1 habitación con escritorio y silla, y 1 dormitorio principal con una cama doble, además de 2 espacios de almacenamiento y 1 vestidor con estanterías. Utiliza una presentación brillante estilo catálogo sobre un fondo claro y sencillo, visto desde una perspectiva cenital ligeramente elevada, adecuada para un folleto de ventas de propiedades.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Verwenden Sie das bereitgestellte Grundriss-Referenzbild, um den schwarz-weißen 2D-Architekturplan in ein sauberes, fotorealistisches, isometrisches 3D-Immobilien-Render zu konvertieren. Bewahren Sie dabei das ursprüngliche Layout, die Raumgrößen, die Beschriftungen sowie die nebeneinanderliegende Anordnung der Grundrisse für das 1. und 2. Obergeschoss. Fügen Sie realistische Wandstärken, hellen Holzboden, sanfte neutrale Wandfarben, Türen und Fenster mit Tiefe sowie eine für jeden Raum passende, vollständige Möblierung hinzu. Behalten Sie alle sichtbaren japanischen Raumbeschriftungen bei, einschließlich 1F, 2F, 洗面所, 浴室, 収納, 階段下収納, ホール, 玄関, トイレ, L.D.K (18.0帖), 洋室 (6.0帖) für 2 Zimmer, ウォークインクローゼット (3.0帖) und 主寝室 (6.0帖). Statten Sie das 1. Obergeschoss mit 1 Küche, 1 Essgruppe für 4 Personen, 1 Wohnbereich mit Sofa und Couchtisch, 1 Toilette, 1 Badezimmer mit Wanne, 1 Waschbereich und kleinen Pflanzen aus. Statten Sie das 2. Obergeschoss mit insgesamt 3 Schlaf-/Arbeitszimmern aus: 1 Schlafzimmer mit Einzelbett, 1 Zimmer mit Schreibtisch und Stuhl sowie 1 Hauptschlafzimmer mit Doppelbett, zuzüglich 2 Abstellräumen und 1 begehbaren Kleiderschrank mit Regalen. Verwenden Sie eine helle Präsentation im Katalog-Stil vor einem schlichten, hellen Hintergrund aus einer leicht erhöhten, schrägen Draufsicht, die sich ideal für Immobilien-Verkaufsbroschüren eignet.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "En utilisant l'image de référence du plan d'étage fournie, convertissez le plan architectural 2D en noir et blanc en un rendu de plan d'étage immobilier isométrique 3D photoréaliste et épuré, tout en préservant la disposition originale, les dimensions des pièces, les étiquettes et la composition côte à côte des plans du 1F et du 2F. Ajoutez une épaisseur de mur réaliste, un parquet en bois clair, des couleurs de mur neutres et douces, des portes et fenêtres avec de la profondeur, ainsi qu'un intérieur entièrement meublé adapté à chaque pièce. Conservez toutes les étiquettes de pièces japonaises visibles, y compris 1F, 2F, 洗面所, 浴室, 収納, 階段下収納, ホール, 玄関, トイレ, L.D.K (18.0帖), 洋室 (6.0帖) pour 2 pièces, ウォークインクローゼット (3.0帖), et 主寝室 (6.0帖). Aménagez le 1F avec 1 cuisine, 1 ensemble table à manger pour 4 personnes, 1 espace salon avec canapé et table basse, 1 toilettes, 1 salle de bain avec baignoire, 1 espace buanderie et de petites plantes. Aménagez le 2F avec un total de 3 chambres/espaces de travail : 1 chambre avec un lit simple, 1 pièce avec un bureau et une chaise, et 1 chambre principale avec un lit double, ainsi que 2 espaces de rangement et 1 dressing avec étagères. Utilisez une présentation lumineuse de style catalogue sur un fond clair uni, vue d'une perspective plongeante légèrement inclinée, adaptée à une brochure de vente immobilière.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Utilizzando l'immagine di riferimento della planimetria fornita, converti la piantina architettonica 2D in bianco e nero in un rendering isometrico 3D fotorealistico e pulito, preservando il layout originale, le dimensioni delle stanze, le etichette e la composizione affiancata dei piani 1F e 2F. Aggiungi uno spessore realistico alle pareti, pavimenti in legno chiaro, colori neutri e tenui per le pareti, porte e finestre con profondità e interni completamente arredati e adatti a ogni stanza. Mantieni tutte le etichette delle stanze in giapponese visibili, inclusi 1F, 2F, 洗面所, 浴室, 収納, 階段下収納, ホール, 玄関, トイレ, L.D.K (18.0帖), 洋室 (6.0帖) per 2 stanze, ウォークインクローゼット (3.0帖) e 主寝室 (6.0帖). Allestisci il piano 1F con 1 cucina, 1 set tavolo da pranzo per 4 persone, 1 zona giorno con divano e tavolino, 1 bagno, 1 bagno con vasca, 1 zona lavanderia e piccole piante. Allestisci il piano 2F con un totale di 3 stanze per dormire/lavorare: 1 camera da letto con letto singolo, 1 stanza con scrivania e sedia e 1 camera da letto principale con letto matrimoniale, oltre a 2 spazi di archiviazione e 1 cabina armadio con scaffalature. Utilizza una presentazione luminosa in stile catalogo su uno sfondo chiaro e neutro, con una prospettiva dall'alto leggermente angolata, adatta a una brochure di vendita immobiliare.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Usando a imagem de referência da planta baixa fornecida, converta a planta arquitetônica 2D em preto e branco em uma renderização de planta baixa isométrica 3D fotorrealista e limpa, preservando o layout original, os tamanhos dos cômodos, as legendas e a composição lado a lado das plantas do 1º e 2º andar. Adicione espessura realista às paredes, piso de madeira clara, cores de parede neutras e suaves, portas e janelas com profundidade e interiores totalmente mobiliados adequados a cada cômodo. Mantenha todas as legendas dos cômodos em japonês visíveis no lugar, incluindo 1F, 2F, 洗面所, 浴室, 収納, 階段下収納, ホール, 玄関, トイレ, L.D.K (18.0帖), 洋室 (6.0帖) para 2 cômodos, ウォークインクローゼット (3.0帖) e 主寝室 (6.0帖). Mobilie o 1º andar com 1 cozinha, 1 conjunto de mesa de jantar para 4 pessoas, 1 área de estar com sofá e mesa de centro, 1 banheiro, 1 banheiro com banheira, 1 área de serviço e pequenas plantas. Mobilie o 2º andar com um total de 3 quartos/áreas de trabalho: 1 quarto com cama de solteiro, 1 quarto com mesa e cadeira e 1 suíte master com cama de casal, além de 2 espaços de armazenamento e 1 closet com prateleiras. Use uma apresentação clara estilo catálogo em um fundo claro e simples, vista de uma perspectiva de cima para baixo levemente elevada, adequada para um folheto de vendas de imóveis.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - 2D Floor Plan to 3D Real Estate Render",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 将 2D 平面图转换为 3D 房地产效果图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - De plano de planta 2D a render inmobiliario 3D",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Vom 2D-Grundriss zum 3D-Immobilien-Render",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Plan d'étage 2D vers rendu immobilier 3D",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Da planimetria 2D a rendering immobiliare 3D",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Da Planta Baixa 2D para Renderização Imobiliária 3D",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt turns a simple architectural floor plan reference into a furnished 3D isometric real-estate marketing visual while keeping the original layout and labels intact.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示词可将简单的建筑平面图参考转化为精美的 3D 等轴测房地产营销视觉图，同时完整保留原始布局和标签。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ce prompt transforme une simple référence de plan d'architecte en un visuel marketing immobilier isométrique 3D meublé, tout en conservant la disposition et les étiquettes d'origine.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/wancoro_xx/status/2049760825431511352#reversed-1",
+      "originalId": "https://x.com/wancoro_xx/status/2049760825431511352#reversed-1",
+      "authors": [
+        {
+          "name": "月島くん",
+          "url": "https://x.com/wancoro_xx"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4918
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0084d36a3f9b6f9d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777625739819_h1vxur_HHI2mzhbUAECxFg.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777625739819_h1vxur_HHI2mzhbUAECxFg.jpg",
+      "localPath": "public/assets/prompt_b37c7dba28793b7f8fd6/77d588a3cda1.jpg",
+      "alt": "E-commerce Main Image - 2D Floor Plan to 3D Real Estate Render - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "marketing",
+      "e-commerce",
+      "营销",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.883Z"
+  }
+}

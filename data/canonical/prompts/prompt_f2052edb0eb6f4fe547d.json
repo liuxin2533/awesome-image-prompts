@@ -1,0 +1,196 @@
+{
+  "id": "prompt_f2052edb0eb6f4fe547d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Classical Beauty Dunhuang Dance \"Flying to Heaven\" Action Breakdown Poster\nGenerate a high-quality 16-grid action breakdown poster for \"{argument name=\"theme\" default=\"Dunhuang Dance 'Flying to Heaven'\"}.\" Core requirements:\n- Layout: 4x4 square grid with 16 cells, each corresponding to a continuous dance step numbered 1-16, following the original choreography logic of the Dunhuang dance.\n- Aesthetic: Not a generic instructional chart, but a cinematic storyboard poster with a Dunhuang mural atmosphere, elegant classical style, and visual impact.\n- Character: Features a {argument name=\"character_image\" default=\"classical and elegant beauty\"} (gentle features, slender build, graceful aura), remaining consistent across all cells without character swaps.\n- Style: Dunhuang dance style, capturing the spirit of \"Flying Apsaras\" with flowing ribbons, graceful postures, and the original choreography's core movements like lifts, waist twists, and sleeve throws.\n- Costume: {argument name=\"costume_style\" default=\"Classical Dunhuang Flying Apsaras attire\"} in nude and camel tones with gold and stone-blue patterns (clouds, floral scrolls), using lightweight airy fabrics (gauze/chiffon) with traditional headpieces and ribbons.\n- Background: Mural-style background in earthy yellows and ochres, incorporating textures, auspicious clouds, and silhouettes with soft warm lighting to highlight the dancer.\n- Content per cell: Large step number, Chinese action title (dance terminology), concise Chinese key points, and trajectory arrows for ribbon and body movement.\n- Overall effect: Refined, consistent, and sophisticated, combining a tutorial feel with classical poster art and historical mural aesthetics.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "古典之美：敦煌舞“飞天”动作拆解海报\n生成一张高质量的 16 宫格动作拆解海报，主题为“{argument name=\"theme\" default=\"敦煌舞《飞天》\"}”。核心要求：\n- 布局：4x4 正方形网格，共 16 个单元格，每个单元格对应一个连续的舞蹈动作，按 1-16 编号，遵循敦煌舞原始编舞逻辑。\n- 美学：非普通教学图表，而是具有敦煌壁画氛围的电影感分镜海报，风格典雅，具有视觉冲击力。\n- 人物：主角为 {argument name=\"character_image\" default=\"古典优雅的美人\"}（面容柔和、身姿纤细、气质灵动），在所有单元格中保持一致，不出现人物切换。\n- 风格：敦煌舞风格，捕捉“飞天”神韵，展现飘逸的丝带、优雅的体态以及提、沉、冲、靠、拧、倾等核心动作。\n- 服装：{argument name=\"costume_style\" default=\"经典敦煌飞天服饰\"}，采用裸色和驼色调，配以金色和石青色的纹样（云纹、缠枝花卉），使用轻盈透气的面料（纱/雪纺），搭配传统头饰和长绸。\n- 背景：壁画风格背景，以土黄色和赭石色为主，融入质感、祥云和剪影元素，配合柔和的暖光以突出舞者。\n- 单元格内容：醒目的步骤编号、中文动作名称（舞蹈术语）、简洁的中文动作要点，以及丝带和身体运动轨迹箭头。\n- 整体效果：精致、统一且高级，将教学实用性与古典海报艺术及历史壁画美学完美结合。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Poster phân tích động tác múa cổ điển Đôn Hoàng \"Phi thiên\"\nTạo một poster phân tích động tác 16 ô chất lượng cao cho \"{argument name=\"theme\" default=\"điệu múa Đôn Hoàng 'Phi thiên'\"}.\" Các yêu cầu cốt lõi:\n- Bố cục: Lưới vuông 4x4 với 16 ô, mỗi ô tương ứng với một bước múa liên tục được đánh số từ 1-16, tuân theo logic biên đạo gốc của điệu múa Đôn Hoàng.\n- Thẩm mỹ: Không phải là biểu đồ hướng dẫn thông thường, mà là một poster phân cảnh điện ảnh với bầu không khí bích họa Đôn Hoàng, phong cách cổ điển thanh lịch và có tác động thị giác mạnh mẽ.\n- Nhân vật: Có sự xuất hiện của {argument name=\"character_image\" default=\"một mỹ nhân cổ điển và thanh lịch\"} (đường nét dịu dàng, vóc dáng mảnh mai, khí chất duyên dáng), giữ nguyên sự nhất quán trong tất cả các ô mà không bị thay đổi nhân vật.\n- Phong cách: Phong cách múa Đôn Hoàng, nắm bắt tinh thần của \"Phi thiên\" với dải lụa bay bổng, tư thế duyên dáng và các động tác cốt lõi của biên đạo gốc như nâng, xoay eo và tung tay áo.\n- Trang phục: {argument name=\"costume_style\" default=\"Trang phục Phi thiên Đôn Hoàng cổ điển\"} với tông màu nude và màu lạc đà cùng các họa tiết vàng và xanh đá (mây, cuộn hoa), sử dụng các loại vải nhẹ nhàng, thoáng khí (voan/chiffon) cùng phụ kiện đầu và dải lụa truyền thống.\n- Nền: Nền phong cách bích họa với tông màu vàng đất và màu vàng thổ, kết hợp các kết cấu, mây lành và bóng hình với ánh sáng ấm áp dịu nhẹ để làm nổi bật vũ công.\n- Nội dung mỗi ô: Số bước lớn, tên động tác bằng tiếng Trung (thuật ngữ múa), các điểm chính ngắn gọn bằng tiếng Trung và mũi tên quỹ đạo cho chuyển động của dải lụa và cơ thể.\n- Hiệu ứng tổng thể: Tinh tế, nhất quán và sang trọng, kết hợp cảm giác hướng dẫn với nghệ thuật poster cổ điển và thẩm mỹ bích họa lịch sử.",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "古典之美敦煌舞“飞天”动作分解海报\n生成一张高质量的 16 格动作分解海报，主题为 \"{argument name=\"theme\" default=\"敦煌舞 '飞天'\"}\"。核心要求：\n- 布局：4x4 方形网格，共 16 个单元格，每个单元格对应一个连续的舞蹈动作，编号 1-16，遵循敦煌舞原始编舞逻辑。\n- 美学：非普通教学图表，而是具有敦煌壁画氛围、优雅古典风格且具备视觉冲击力的电影级分镜海报。\n- 人物：主角为 {argument name=\"character_image\" default=\"古典优雅美人\"}（面容柔和、身形修长、气质优雅），在所有单元格中保持一致，不出现人物替换。\n- 风格：敦煌舞风格，捕捉“飞天”神韵，展现飘逸的绸带、优美的姿态以及原始编舞中的核心动作，如提、拧、甩袖等。\n- 服装：{argument name=\"costume_style\" default=\"古典敦煌飞天服饰\"}，采用裸色和驼色调，搭配金色和石青色图案（云纹、缠枝花卉），使用轻盈透气的面料（纱/雪纺），配以传统头饰和飘带。\n- 背景：壁画风格背景，以土黄色和赭石色为主，融入纹理、祥云和剪影，配合柔和的暖光以突出舞者。\n- 单元格内容：醒目的步骤编号、中文动作名称（舞蹈术语）、简洁的中文要点，以及用于展示飘带和身体运动轨迹的箭头。\n- 整体效果：精致、统一且高级，将教学感与古典海报艺术及历史壁画美学完美结合。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster de desglose de movimientos de la danza clásica de Dunhuang \"Vuelo al cielo\"\nGenera un póster de desglose de movimientos de alta calidad en una cuadrícula de 16 celdas para \"{argument name=\"theme\" default=\"Danza de Dunhuang 'Vuelo al cielo'\"}\". Requisitos principales:\n- Diseño: Cuadrícula cuadrada de 4x4 con 16 celdas, cada una correspondiente a un paso de baile continuo numerado del 1 al 16, siguiendo la lógica coreográfica original de la danza de Dunhuang.\n- Estética: No debe ser un gráfico instructivo genérico, sino un póster tipo guion gráfico cinematográfico con una atmósfera de mural de Dunhuang, estilo clásico elegante e impacto visual.\n- Personaje: Presenta a una {argument name=\"character_image\" default=\"belleza clásica y elegante\"} (rasgos suaves, complexión esbelta, aura elegante), manteniendo la consistencia en todas las celdas sin cambios de personaje.\n- Estilo: Estilo de danza de Dunhuang, capturando el espíritu de las \"Apsaras voladoras\" con cintas fluidas, posturas elegantes y los movimientos fundamentales de la coreografía original, como elevaciones, giros de cintura y lanzamientos de mangas.\n- Vestuario: {argument name=\"costume_style\" default=\"Atuendo clásico de Apsara voladora de Dunhuang\"} en tonos nude y camello con patrones dorados y azul piedra (nubes, volutas florales), utilizando telas ligeras y aireadas (gasa/chifón) con tocados y cintas tradicionales.\n- Fondo: Fondo estilo mural en tonos amarillos terrosos y ocres, incorporando texturas, nubes auspiciosas y siluetas con una iluminación cálida y suave para resaltar al bailarín.\n- Contenido por celda: Número de paso grande, título de la acción en chino (terminología de danza), puntos clave concisos en chino y flechas de trayectoria para el movimiento de las cintas y el cuerpo.\n- Efecto general: Refinado, consistente y sofisticado, combinando una sensación de tutorial con el arte de póster clásico y la estética de los murales históricos.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Poster zur Bewegungsanalyse des klassischen Dunhuang-Tanzes „Flug in den Himmel“\nErstellen Sie ein hochwertiges 16-Raster-Poster zur Bewegungsanalyse für „{argument name=\"theme\" default=\"Dunhuang-Tanz 'Flug in den Himmel'\"}.“ Kernanforderungen:\n- Layout: 4x4-Quadratraster mit 16 Feldern, von denen jedes einem kontinuierlichen Tanzschritt entspricht, nummeriert von 1 bis 16, basierend auf der ursprünglichen Choreografie-Logik des Dunhuang-Tanzes.\n- Ästhetik: Kein allgemeines Lehrdiagramm, sondern ein filmisches Storyboard-Poster mit der Atmosphäre einer Dunhuang-Wandmalerei, elegantem klassischem Stil und visueller Wirkung.\n- Charakter: Zeigt eine {argument name=\"character_image\" default=\"klassische und elegante Schönheit\"} (sanfte Gesichtszüge, schlanke Statur, anmutige Ausstrahlung), die über alle Felder hinweg konsistent bleibt, ohne Charakterwechsel.\n- Stil: Dunhuang-Tanzstil, der den Geist der „fliegenden Apsaras“ mit fließenden Bändern, anmutigen Posen und den Kernbewegungen der ursprünglichen Choreografie wie Hebungen, Hüftschwüngen und Ärmelwürfen einfängt.\n- Kostüm: {argument name=\"costume_style\" default=\"Klassische Dunhuang-Apsara-Kleidung\"} in Nude- und Kameltönen mit Gold- und Steinblau-Mustern (Wolken, florale Ornamente), unter Verwendung von leichten, luftigen Stoffen (Gaze/Chiffon) mit traditionellem Kopfschmuck und Bändern.\n- Hintergrund: Hintergrund im Stil einer Wandmalerei in erdigen Gelb- und Ockertönen, mit Texturen, glückverheißenden Wolken und Silhouetten sowie weicher, warmer Beleuchtung, um die Tänzerin hervorzuheben.\n- Inhalt pro Feld: Große Schrittnummer, chinesischer Aktionstitel (Tanzterminologie), prägnante chinesische Kernpunkte sowie Bewegungspfeile für Bänder und Körperbewegungen.\n- Gesamteffekt: Raffiniert, konsistent und anspruchsvoll; eine Kombination aus Tutorial-Charakter, klassischer Plakatkunst und der Ästhetik historischer Wandmalereien.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche de décomposition des mouvements de la danse classique de Dunhuang « Envol vers le ciel »\nGénérez une affiche de décomposition des mouvements en grille de 16 cases de haute qualité pour « {argument name=\"theme\" default=\"Danse de Dunhuang 'Envol vers le ciel'\"}. » Exigences principales :\n- Mise en page : Grille carrée 4x4 avec 16 cellules, chacune correspondant à un pas de danse continu numéroté de 1 à 16, suivant la logique chorégraphique originale de la danse de Dunhuang.\n- Esthétique : Pas un simple tableau pédagogique, mais une affiche de storyboard cinématographique avec une atmosphère de fresque de Dunhuang, un style classique élégant et un impact visuel fort.\n- Personnage : Met en scène une {argument name=\"character_image\" default=\"beauté classique et élégante\"} (traits doux, silhouette élancée, aura gracieuse), restant cohérente dans toutes les cellules sans changement de personnage.\n- Style : Style de danse de Dunhuang, capturant l'esprit des « Apsaras volantes » avec des rubans fluides, des postures gracieuses et les mouvements fondamentaux de la chorégraphie originale tels que les levés, les torsions de taille et les lancers de manches.\n- Costume : {argument name=\"costume_style\" default=\"Tenue classique d'Apsara volante de Dunhuang\"} dans des tons nude et camel avec des motifs dorés et bleu pierre (nuages, volutes florales), utilisant des tissus légers et aériens (gaze/mousseline) avec des coiffes et des rubans traditionnels.\n- Arrière-plan : Fond style fresque dans des tons jaunes terreux et ocres, intégrant des textures, des nuages de bon augure et des silhouettes avec un éclairage doux et chaud pour mettre en valeur la danseuse.\n- Contenu par cellule : Grand numéro d'étape, titre de l'action en chinois (terminologie de danse), points clés concis en chinois et flèches de trajectoire pour le mouvement des rubans et du corps.\n- Effet global : Raffiné, cohérent et sophistiqué, combinant une approche pédagogique avec l'art de l'affiche classique et l'esthétique des fresques historiques.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Poster con scomposizione dei movimenti della danza classica di Dunhuang \"Volo verso il cielo\"\nGenera un poster di alta qualità a 16 riquadri con la scomposizione dei movimenti per \"{argument name=\"theme\" default=\"Danza di Dunhuang 'Volo verso il cielo'\"}\". Requisiti principali:\n- Layout: Griglia quadrata 4x4 con 16 celle, ognuna corrispondente a un passo di danza continuo numerato da 1 a 16, seguendo la logica coreografica originale della danza di Dunhuang.\n- Estetica: Non un semplice schema didattico, ma un poster in stile storyboard cinematografico con l'atmosfera degli affreschi di Dunhuang, uno stile classico ed elegante e un forte impatto visivo.\n- Personaggio: Include una {argument name=\"character_image\" default=\"bellezza classica ed elegante\"} (tratti delicati, corporatura snella, aura aggraziata), che deve rimanere coerente in tutte le celle senza variazioni.\n- Stile: Stile di danza di Dunhuang, che cattura lo spirito delle \"Apsaras volanti\" con nastri fluttuanti, posture aggraziate e i movimenti fondamentali della coreografia originale come sollevamenti, torsioni della vita e lanci delle maniche.\n- Costume: {argument name=\"costume_style\" default=\"Abbigliamento classico delle Apsaras volanti di Dunhuang\"} in tonalità nude e cammello con motivi dorati e blu pietra (nuvole, volute floreali), utilizzando tessuti leggeri e ariosi (garza/chiffon) con copricapi e nastri tradizionali.\n- Sfondo: Sfondo in stile affresco nei toni del giallo terra e dell'ocra, che incorpora texture, nuvole di buon auspicio e silhouette con un'illuminazione calda e soffusa per mettere in risalto la ballerina.\n- Contenuto per cella: Numero del passo in grande, titolo del movimento in cinese (terminologia della danza), punti chiave concisi in cinese e frecce di traiettoria per il movimento dei nastri e del corpo.\n- Effetto complessivo: Raffinato, coerente e sofisticato, che combina un aspetto tutorial con l'arte dei poster classici e l'estetica degli affreschi storici.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Pôster de Detalhamento de Movimentos da Dança Clássica de Dunhuang \"Voando para o Céu\"\nGere um pôster de detalhamento de movimentos em grade 16 de alta qualidade para \"{argument name=\"theme\" default=\"Dança de Dunhuang 'Voando para o Céu'\"}.\" Requisitos principais:\n- Layout: Grade quadrada 4x4 com 16 células, cada uma correspondendo a um passo de dança contínuo numerado de 1 a 16, seguindo a lógica coreográfica original da dança de Dunhuang.\n- Estética: Não um gráfico instrucional genérico, mas um pôster de storyboard cinematográfico com atmosfera de mural de Dunhuang, estilo clássico elegante e impacto visual.\n- Personagem: Apresenta uma {argument name=\"character_image\" default=\"beleza clássica e elegante\"} (traços suaves, porte esguio, aura graciosa), permanecendo consistente em todas as células sem trocas de personagem.\n- Estilo: Estilo de dança de Dunhuang, capturando o espírito das \"Apsaras Voadoras\" com fitas fluidas, posturas graciosas e os movimentos centrais da coreografia original, como elevações, giros de cintura e lançamentos de mangas.\n- Figurino: {argument name=\"costume_style\" default=\"Traje clássico de Apsara Voadora de Dunhuang\"} em tons de nude e camelo com padrões em dourado e azul-pedra (nuvens, volutas florais), usando tecidos leves e arejados (gaze/chiffon) com adereços de cabeça e fitas tradicionais.\n- Fundo: Fundo estilo mural em amarelos terrosos e ocres, incorporando texturas, nuvens auspiciosas e silhuetas com iluminação quente e suave para destacar o dançarino.\n- Conteúdo por célula: Número grande do passo, título da ação em chinês (terminologia da dança), pontos-chave concisos em chinês e setas de trajetória para o movimento da fita e do corpo.\n- Efeito geral: Refinado, consistente e sofisticado, combinando uma sensação de tutorial com arte de pôster clássica e estética de mural histórico.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Dunhuang Dance Sequence Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 敦煌舞动作序列海报",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Infographic / Hình ảnh giáo dục - Poster chuỗi động tác múa Đôn Hoàng",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "इन्फोग्राफिक / शैक्षिक विज़ुअल - 敦煌舞动作序列海报",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Póster de secuencia de danza de Dunhuang",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Dunhuang-Tanzsequenz-Poster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Affiche de la séquence de danse de Dunhuang",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Poster della sequenza di danza di Dunhuang",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Pôster da Sequência de Dança de Dunhuang",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A high-quality 16-grid poster prompt for the classical 'Flying to Heaven' Dunhuang dance, featuring a traditional mural aesthetic and professional choreography breakdown.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一套高质量的 16 宫格海报提示词，用于呈现经典的敦煌“飞天”舞蹈，融合传统壁画美学与专业的舞蹈动作拆解。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour une affiche haute qualité en grille de 16 cases dédiée à la danse classique de Dunhuang « Envol vers le ciel », avec une esthétique de fresque traditionnelle et une décomposition chorégraphique professionnelle.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Sun11250018/status/2051316229319819771",
+      "originalId": "https://x.com/Sun11250018/status/2051316229319819771",
+      "authors": [
+        {
+          "name": "小英镑知识分享",
+          "url": "https://x.com/Sun11250018"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2010
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5326b72aa32833ac",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971019261_fbuo56_HHe79j8bcAAckmz.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971019261_fbuo56_HHe79j8bcAAckmz.jpg",
+      "localPath": "public/assets/prompt_f2052edb0eb6f4fe547d/51b769a85497.jpg",
+      "alt": "Infographic / Edu Visual - Dunhuang Dance Sequence Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "chart",
+      "信息图",
+      "拆解"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.871Z"
+  }
+}

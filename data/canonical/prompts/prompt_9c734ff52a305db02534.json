@@ -1,0 +1,108 @@
+{
+  "id": "prompt_9c734ff52a305db02534",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "请生成一张中文健身信息图，主题为：【xxx】。 \r\n\r\n要求这张图既专业又实用，适合普通成年人作为训练参考。默认对象为无严重伤病的健康成年人；如果没有额外说明，默认训练目标为“增肌 + 基础力量提升”，默认训练水平为“新手到中级之间”，默认训练场景为“普通健身房”，默认单次训练时长控制在 40–60 分钟内。\r\n\r\n请根据【训练主题】自动判断输出类型：\r\n\r\n1）如果【训练主题】是某个肌群或身体部位（例如：胸肌、背阔肌、肱二头肌、腹肌、肩部、腿部等），请输出一张“该部位训练计划信息图”。\r\n2）如果【训练主题】是某个动作或技能目标（例如：引体向上、俯卧撑、双杠臂屈伸、深蹲等），请输出一张“动作解锁 / 进阶训练计划信息图”。\r\n\r\n整张图请采用清晰、现代、专业、易读的中文信息图风格，竖版排版，视觉简洁，重点突出，适合社交媒体分享或训练参考卡片。不要写成长篇大论，每个模块用简洁短句呈现，数字信息要醒目。\r\n\r\n这张信息图必须包含以下内容：\r\n\r\n【A. 标题区】\r\n- 主标题：直接写【训练主题】训练计划 / 解锁计划\r\n- 副标题：自动补充适用人群、目标、训练场景、建议时长\r\n例如：适合新手 / 增肌导向 / 健身房版 / 45分钟\r\n\r\n【B. 训练目标区】\r\n用简洁语言说明：\r\n- 这次训练主要针对什么\r\n- 主要目标是什么（增肌 / 力量 / 技能解锁 / 核心控制等）\r\n- 本次训练的重点刺激或能力提升方向\r\n\r\n【C. 热身区】\r\n给出 2–4 个热身建议，简洁列出即可，例如：\r\n- 动态活动\r\n- 目标肌群激活\r\n- 轻重量预热组\r\n每项可附一句说明\r\n\r\n【D. 主训练区】\r\n这是核心部分，请列出 4–6 个主要训练动作。\r\n每个动作都要包含以下信息：\r\n- 动作名称\r\n- 训练作用 / 针对部位\r\n- 组数 × 次数（或时间）\r\n- RIR 建议\r\n- 每组间休息时间\r\n- 动作关键要点（1–2 条）\r\n- 常见错误（1 条即可）\r\n\r\n请确保动作安排合理：\r\n- 先复合动作，后孤立动作\r\n- 整体训练量适中\r\n- 新手不要安排过度极限训练\r\n- 主动作通常建议 RIR 1–3\r\n- 孤立动作可建议 RIR 0–2\r\n- 如果是腹肌或核心类动作，可用“秒数 / 次数”形式\r\n- 如果是技能类动作，请优先安排“前置能力动作 + 过渡动作 + 目标动作尝试”\r\n\r\n【E. 进阶 / 解锁逻辑区】\r\n根据主题自动生成：\r\n- 如果是肌群训练：写“如何渐进超负荷”，例如达到次数上限后再加重量、优先保证动作标准等\r\n- 如果是动作解锁：写“分阶段进阶路径”，例如从悬垂、肩胛引体、离心训练、弹力带辅助，到标准动作完成\r\n\r\n【F. 替代动作区】\r\n请给出 2–3 个替代动作，适用于以下情况：\r\n- 没有器械\r\n- 家庭训练\r\n- 当前能力不足\r\n- 某些动作做不了\r\n\r\n【G. 执行提醒区】\r\n请给出 4–6 条简洁提醒，例如：\r\n- 动作标准优先于重量\r\n- 不要每组都练到力竭\r\n- 同肌群建议间隔 48–72 小时\r\n- 疼痛不等于正常发力\r\n- 睡眠不足时可适当减少训练量\r\n\r\n【H. 恢复建议区】\r\n简洁说明：\r\n- 训练后恢复重点\r\n- 蛋白质 / 睡眠 / 恢复间隔建议\r\n- 1 句风险提醒（如有明显疼痛应停止并评估）\r\n\r\n【I. 视觉设计要求】\r\n- 整体为单页中文信息图\r\n- 竖版排版\r\n- 风格现代、清爽、专业、健身感强\r\n- 使用模块化卡片布局\r\n- 重点数字（组数、次数、RIR、休息）要醒目\r\n- 可加入简洁的人体肌群图标、哑铃、杠铃、引体向上等小图标\r\n- 颜色保持高级、干净、有运动感\r\n- 中文文字必须清晰、准确、易读\r\n- 避免过多装饰，强调实用性与执行性\r\n\r\n请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Please generate a Chinese fitness infographic with the theme: 【xxx】.\n\nThe infographic should be both professional and practical, suitable for regular adults as a training reference. The default target audience is healthy adults without serious injuries; if no additional specifications are provided, the default training goal is \"muscle building + basic strength improvement\", the default training level is \"beginner to intermediate\", the default training scenario is \"regular gym\", and the default single training session duration should be controlled within 40-60 minutes.\n\nPlease automatically determine the output type based on the 【Training Theme】:\n\n1) If the 【Training Theme】 is a specific muscle group or body part (e.g., chest, lats, biceps, abs, shoulders, legs, etc.), please output a \"Training Plan Infographic for that Body Part\".\n2) If the 【Training Theme】 is a specific exercise or skill goal (e.g., pull-ups, push-ups, dips, squats, etc.), please output an \"Exercise Unlocking/Progression Training Plan Infographic\".\n\nThe entire infographic should adopt a clear, modern, professional, and readable Chinese infographic style, with vertical layout, clean visuals, and prominent highlights. It should be suitable for social media sharing or as a training reference card. Avoid lengthy paragraphs; present each section with concise short sentences, and make numerical information stand out.\n\nThis infographic must include the following content:\n\n【A. Title Section】\n- Main Title: Directly write 【Training Theme】 Training Plan / Unlocking Plan\n- Subtitle: Automatically include target audience, goals, training scenario, and suggested duration\nExample: Suitable for beginners / Muscle building focused / Gym version / 45 minutes\n\n【B. Training Goals Section】\nExplain in concise language:\n- What this training primarily targets\n- Main goals (muscle building / strength / skill unlocking / core control, etc.)\n- Key stimulation or capability improvement direction for this training\n\n【C. Warm-up Section】\nProvide 2-4 warm-up suggestions, listed concisely, for example:\n- Dynamic activities\n- Target muscle group activation\n- Light weight warm-up sets\nEach item can include a brief description\n\n【D. Main Training Section】\nThis is the core section, please list 4-6 main training exercises.\nEach exercise must include the following information:\n- Exercise name\n- Training effect / Targeted area\n- Sets × Reps (or duration)\n- RIR recommendation\n- Rest time between sets\n- Key points of the exercise (1-2 points)\n- Common mistakes (1 point only)\n\nEnsure reasonable exercise arrangement:\n- Compound exercises first, then isolation exercises\n- Moderate overall training volume\n- Don't schedule overly intense training for beginners\n- Main exercises typically recommend RIR 1-3\n- Isolation exercises can suggest RIR 0-2\n- For abs or core exercises, use \"seconds / reps\" format\n- For skill-based exercises, prioritize \"prerequisite ability exercises + transition exercises + target exercise attempts\"\n\n【E. Progression/Unlocking Logic Section】\nAutomatically generate based on theme:\n- For muscle group training: Write \"How to progressively overload\", e.g., increase weight after reaching rep limits, prioritize proper form, etc.\n- For exercise unlocking: Write \"Phased progression path\", e.g., from hanging, scapular pull-ups, eccentric training, resistance band assistance, to completing the standard exercise\n\n【F. Alternative Exercises Section】\nPlease provide 2-3 alternative exercises suitable for the following situations:\n- No equipment available\n- Home training\n- Current ability is insufficient\n- Certain exercises cannot be performed\n\n【G. Execution Reminders Section】\nPlease provide 4-6 concise reminders, for example:\n- Proper form takes priority over weight\n- Don't train to failure on every set\n- Allow 48-72 hours between training the same muscle group\n- Pain doesn't equal normal exertion\n- When sleep-deprived, appropriately reduce training volume\n\n【H. Recovery Suggestions Section】\nBriefly explain:\n- Post-training recovery focus points\n- Protein / sleep / recovery interval recommendations\n- 1 risk reminder (if experiencing significant pain, stop and assess)\n\n【I. Visual Design Requirements】\n- Overall as a single-page Chinese infographic\n- Vertical layout\n- Modern, clean, professional, and strong fitness-oriented style\n- Use modular card layout\n- Key numbers (sets, reps, RIR, rest) should be prominent\n- Can include simple human muscle group icons, dumbbells, barbells, pull-up icons, etc.\n- Colors should be premium, clean, and sporty\n- Chinese text must be clear, accurate, and readable\n- Avoid excessive decorations, emphasize practicality and executability\n\nPlease finally output as \"a complete infographic content\", not just regular paragraph text.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:08:09.287Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "一张中文健身信息图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A Chinese fitness infographic",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:08:11.860Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_bc7280c907",
+      "value": "一张中文健身信息图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-183",
+      "originalId": "case-183",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046560406760505727"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 404
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046560406760505727)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ac2f7320591faf8e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case183.jpg",
+      "upstreamPath": "../data/images/case183.jpg",
+      "localPath": "public/assets/prompt_9c734ff52a305db02534/0cab2c8b2545.jpg",
+      "alt": "一张中文健身信息图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

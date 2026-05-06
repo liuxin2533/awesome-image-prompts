@@ -1,0 +1,93 @@
+{
+  "id": "prompt_e83d01f067c9e6e6cd5b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool teenage girl in oversized hoodie and baggy jeans leans against a giant pair of floating wireless headphones 2x her height with \"BASS\" logo on earcups, colorful sound wave visualizer glowing behind. Dark urban brick wall background with purple and pink gradient neon lighting. Bold graffiti-style typography \"BASS\" in background. Tagline bottom: \"Feel every frequency.\" Small text top-right corner reads \"Designed with GPT Image 2\" in grey. Photorealistic, street culture editorial style.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Streetwear Headphones Ad Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Strength04_X/status/2050420683482800333",
+      "originalId": "case-183",
+      "authors": [
+        {
+          "name": "Strength04_X",
+          "url": "https://x.com/Strength04_X"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1873
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4d037e107b0787f8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case183/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case183/output.jpg",
+      "localPath": "public/assets/prompt_e83d01f067c9e6e6cd5b/e6369b5b3582.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T17:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.549Z"
+  }
+}

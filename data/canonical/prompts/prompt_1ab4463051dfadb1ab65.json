@@ -1,0 +1,107 @@
+{
+  "id": "prompt_1ab4463051dfadb1ab65",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"3-panel manga page\",\r\n  \"style\": \"anime, highly detailed, cinematic lighting, futuristic corporate\",\r\n  \"layout\": {\r\n    \"structure\": \"1 wide top panel, 2 square bottom panels\"\r\n  },\r\n  \"panels\": [\r\n    {\r\n      \"position\": \"top\",\r\n      \"shot\": \"wide landscape\",\r\n      \"scene\": \"Futuristic corporate lobby with floor-to-ceiling windows\",\r\n      \"lighting\": \"{argument name=\\\"time of day\\\" default=\\\"sunrise\\\"}\",\r\n      \"background\": \"City skyline featuring {argument name=\\\"landmark\\\" default=\\\"Tokyo Tower\\\"}\",\r\n      \"details\": \"Holographic displays, polished reflective floor, reception desk, lounge chairs\"\r\n    },\r\n    {\r\n      \"position\": \"bottom left\",\r\n      \"shot\": \"close-up profile\",\r\n      \"character\": \"Young woman, dark hair, black business suit\",\r\n      \"accessories\": \"Futuristic black earpiece with glowing blue light\",\r\n      \"speech_bubble\": {\r\n        \"style\": \"standard rounded\",\r\n        \"text\": \"{argument name=\\\"character dialogue\\\" default=\\\"数字はいいわ\\\"}\"\r\n      }\r\n    },\r\n    {\r\n      \"position\": \"bottom right\",\r\n      \"shot\": \"full body, walking away, touching earpiece\",\r\n      \"character\": \"Same woman, black suit, black heels, carrying a black tote bag\",\r\n      \"environment\": \"Approaching security gates\",\r\n      \"holographic_sign\": \"{argument name=\\\"floor sign\\\" default=\\\"ECHO 42F\\\"}\",\r\n      \"speech_bubble\": {\r\n        \"style\": \"futuristic angular\",\r\n        \"text\": \"{argument name=\\\"AI dialogue\\\" default=\\\"おはようございます、ユキさん。本日は記念すべき ──\\\"}\"\r\n      }\r\n    }\r\n  ]\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"3-panel manga page\",\n  \"style\": \"anime, highly detailed, cinematic lighting, futuristic corporate\",\n  \"layout\": {\n    \"structure\": \"1 wide top panel, 2 square bottom panels\"\n  },\n  \"panels\": [\n    {\n      \"position\": \"top\",\n      \"shot\": \"wide landscape\",\n      \"scene\": \"Futuristic corporate lobby with floor-to-ceiling windows\",\n      \"lighting\": \"{argument name=\\\"time of day\\\" default=\\\"sunrise\\\"}\",\n      \"background\": \"City skyline featuring {argument name=\\\"landmark\\\" default=\\\"Tokyo Tower\\\"}\",\n      \"details\": \"Holographic displays, polished reflective floor, reception desk, lounge chairs\"\n    },\n    {\n      \"position\": \"bottom left\",\n      \"shot\": \"close-up profile\",\n      \"character\": \"Young woman, dark hair, black business suit\",\n      \"accessories\": \"Futuristic black earpiece with glowing blue light\",\n      \"speech_bubble\": {\n        \"style\": \"standard rounded\",\n        \"text\": \"{argument name=\\\"character dialogue\\\" default=\\\"数字はいいわ\\\"}\"\n      }\n    },\n    {\n      \"position\": \"bottom right\",\n      \"shot\": \"full body, walking away, touching earpiece\",\n      \"character\": \"Same woman, black suit, black heels, carrying a black tote bag\",\n      \"environment\": \"Approaching security gates\",\n      \"holographic_sign\": \"{argument name=\\\"floor sign\\\" default=\\\"ECHO 42F\\\"}\",\n      \"speech_bubble\": {\n        \"style\": \"futuristic angular\",\n        \"text\": \"{argument name=\\\"AI dialogue\\\" default=\\\"おはようございます、ユキさん。本日は記念すべき ──\\\"}\"\n      }\n    }\n  ]\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:54:53.701Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "建筑空间场景图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Architectural Space Scene",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:54:58.810Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5b3affe95c",
+      "value": "建筑空间场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-121",
+      "originalId": "case-121",
+      "authors": [
+        {
+          "name": "loilokoji",
+          "url": "https://x.com/loilokoji"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4610
+        }
+      ],
+      "rawSource": "[@loilokoji](https://x.com/loilokoji)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5b370888bad7bc09",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case121.jpg",
+      "upstreamPath": "../data/images/case121.jpg",
+      "localPath": "public/assets/prompt_1ab4463051dfadb1ab65/898be3a59b3a.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "profile"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "prompt_9c65bde0c0185b743d8b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-fashion studio portrait of a seated woman in an ethereal bridal look against a seamless light gray background, framed vertically from headpiece to the trailing ends of her hair. She wears a flowing sleeveless white gown with a high gathered neckline, sheer pleated chiffon over the bodice, delicate white floral appliqué clustered at the neck, chest, waist, and upper skirt, and a soft draped skirt spread around her on the floor. Her hair is {argument name=\"hair color\" default=\"deep dark brown\"} and styled into 2 extremely long oversized bubble ponytails, one on each side, each segmented with white ties; the left ponytail shows 4 visible bubble sections and the right ponytail shows 3 visible bubble sections, with both tails extending onto the floor in thick glossy loops. She also wears an elaborate white fascinator hat tilted to one side, made of lace, netting, and sculptural floral details. Pose her leaning diagonally with one hand braced on the floor and the torso angled, creating an elegant editorial fashion posture. Keep the mood refined, bridal, and avant-garde, with soft diffused lighting, realistic skin texture, crisp textile detail, minimal shadows, and a clean luxury magazine aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Avant-Garde Bridal Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Avant-Garde Bridal Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a refined studio fashion image of a woman in a sculptural white bridal gown with dramatic bubble ponytails, ideal for editorial or couture wedding visuals.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/i4LMU/status/2048792437032681929#reversed-1",
+      "originalId": "https://x.com/i4LMU/status/2048792437032681929#reversed-1",
+      "authors": [
+        {
+          "name": "Ullr | Majd",
+          "url": "https://x.com/i4LMU"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1763
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6d60eb2fc02b5105",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367353969_7bdt2f_HG7F2m2bkAAZWrM.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367353969_7bdt2f_HG7F2m2bkAAZWrM.jpg",
+      "localPath": "public/assets/prompt_9c65bde0c0185b743d8b/d7430ff8560c.jpg",
+      "alt": "Social Media Post - Avant-Garde Bridal Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.568Z"
+  }
+}

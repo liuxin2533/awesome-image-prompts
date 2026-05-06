@@ -1,0 +1,108 @@
+{
+  "id": "prompt_9aee19c96f3a315a7845",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"VTuber stream thumbnail\",\r\n  \"style\": \"anime, highly detailed, cute, sparkly, overwhelmingly pink color palette\",\r\n  \"character\": {\r\n    \"description\": \"anime girl with brown hair in twin buns, amber eyes, smiling gently\",\r\n    \"outfit\": \"pink kimono combined with a white frilly maid apron, cherry blossom hair accessories\",\r\n    \"pose\": \"holding a pink microphone decorated with a flower near her face\"\r\n  },\r\n  \"layout\": {\r\n    \"background\": \"pink gradient with sparkles, glowing hearts, and decorative pink bows\",\r\n    \"text_sections\": [\r\n      {\r\n        \"type\": \"top ribbon\",\r\n        \"text\": \"{argument name=\\\"top subtitle\\\" default=\\\"まったりおしゃべりしよ〜🤍\\\"}\"\r\n      },\r\n      {\r\n        \"type\": \"main title\",\r\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\",\r\n        \"decorations\": \"surrounded by 3 large peach illustrations\"\r\n      },\r\n      {\r\n        \"type\": \"middle ribbon\",\r\n        \"text\": \"{argument name=\\\"middle subtitle\\\" default=\\\"みんなと楽しい時間を過ごしたいなっ♡\\\"}\"\r\n      },\r\n      {\r\n        \"type\": \"bullet points\",\r\n        \"position\": \"bottom left\",\r\n        \"count\": 3,\r\n        \"icon\": \"peach\",\r\n        \"labels\": [\r\n          \"{argument name=\\\"bullet 1\\\" default=\\\"初見さん〇\\\"}\",\r\n          \"{argument name=\\\"bullet 2\\\" default=\\\"ポイント回収〇\\\"}\",\r\n          \"ROMO\"\r\n        ]\r\n      },\r\n      {\r\n        \"type\": \"speech bubble\",\r\n        \"position\": \"bottom right\",\r\n        \"text\": \"コメント大歓迎♪ いっぱいお話し しようねっ♡\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"VTuber stream thumbnail\",\n  \"style\": \"anime, highly detailed, cute, sparkly, overwhelmingly pink color palette\",\n  \"character\": {\n    \"description\": \"anime girl with brown hair in twin buns, amber eyes, smiling gently\",\n    \"outfit\": \"pink kimono combined with a white frilly maid apron, cherry blossom hair accessories\",\n    \"pose\": \"holding a pink microphone decorated with a flower near her face\"\n  },\n  \"layout\": {\n    \"background\": \"pink gradient with sparkles, glowing hearts, and decorative pink bows\",\n    \"text_sections\": [\n      {\n        \"type\": \"top ribbon\",\n        \"text\": \"{argument name=\\\"top subtitle\\\" default=\\\"Let's have a relaxed chat~🤍\\\"}\"\n      },\n      {\n        \"type\": \"main title\",\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"Casual stream/chat\\\"}\",\n        \"decorations\": \"surrounded by 3 large peach illustrations\"\n      },\n      {\n        \"type\": \"middle ribbon\",\n        \"text\": \"{argument name=\\\"middle subtitle\\\" default=\\\"I want to have fun time with everyone♡\\\"}\"\n      },\n      {\n        \"type\": \"bullet points\",\n        \"position\": \"bottom left\",\n        \"count\": 3,\n        \"icon\": \"peach\",\n        \"labels\": [\n          \"{argument name=\\\"bullet 1\\\" default=\\\"New viewers〇\\\"}\",\n          \"{argument name=\\\"bullet 2\\\" default=\\\"Point collection〇\\\"}\",\n          \"ROMO\"\n        ]\n      },\n      {\n        \"type\": \"speech bubble\",\n        \"position\": \"bottom right\",\n        \"text\": \"Comments welcome♪ Let's talk a lot♡\"\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:12:21.930Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "插画艺术风格创作",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Illustration Art Style Creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:05:31.281Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_f1beb538aa",
+      "value": "插画艺术风格创作",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-93",
+      "originalId": "case-93",
+      "authors": [
+        {
+          "name": "sayaka_aiart",
+          "url": "https://x.com/sayaka_aiart"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3513
+        }
+      ],
+      "rawSource": "[@sayaka\\_aiart](https://x.com/sayaka_aiart)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_44d1414a8909b552",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case93.jpg",
+      "upstreamPath": "../data/images/case93.jpg",
+      "localPath": "public/assets/prompt_9aee19c96f3a315a7845/eb75af1b71b6.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.594Z"
+  }
+}

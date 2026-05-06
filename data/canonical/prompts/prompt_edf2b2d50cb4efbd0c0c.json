@@ -1,0 +1,87 @@
+{
+  "id": "prompt_edf2b2d50cb4efbd0c0c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:21:59.957Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Tang Dynasty Chang'an Lantern Festival Panorama",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "唐朝长安元宵节全景",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:22:04.079Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/songguoxiansen/status/2047122441454096527",
+      "originalId": "case-60",
+      "authors": [
+        {
+          "name": "songguoxiansen",
+          "url": "https://x.com/songguoxiansen"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 432
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6f6bd460fb7cb382",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case100/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case100/output.jpg",
+      "localPath": "public/assets/prompt_edf2b2d50cb4efbd0c0c/0715d743a0df.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

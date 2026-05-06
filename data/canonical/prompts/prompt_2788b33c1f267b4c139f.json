@@ -1,0 +1,107 @@
+{
+  "id": "prompt_2788b33c1f267b4c139f",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张2026年谷雨节气的海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a poster for the Guyu solar term in 2026",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "2026谷雨节气唯美海报设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "2026 Grain Rain Solar Term Elegant Poster Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:02:59.387Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "2026",
+      "value": "2026谷雨节气唯美海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-253",
+      "originalId": "case-253",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2785
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f3336a02c6327084",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case253.jpg",
+      "upstreamPath": "../data/images/case253.jpg",
+      "localPath": "public/assets/prompt_2788b33c1f267b4c139f/a7772517da22.jpg",
+      "alt": "2026谷雨节气唯美海报设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "海报",
+      "节气"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

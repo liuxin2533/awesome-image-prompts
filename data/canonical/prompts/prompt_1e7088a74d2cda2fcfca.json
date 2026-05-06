@@ -1,0 +1,108 @@
+{
+  "id": "prompt_1e7088a74d2cda2fcfca",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Generate a set of icons for {argument name=\"device\" default=\"vintage electronic equipment\"} in {argument name=\"style\" default=\"retro skeuomorphic style\"}, including icon names in the image.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a set of icons for {argument name=\"device\" default=\"vintage electronic equipment\"} in {argument name=\"style\" default=\"retro skeuomorphic style\"}, including icon names in the image.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:19.558Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "品牌吉祥物设定图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Brand Mascot Character Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:16.620Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_67e0402aaf",
+      "value": "品牌吉祥物设定图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-160",
+      "originalId": "case-160",
+      "authors": [
+        {
+          "name": "TanShilong",
+          "url": "https://x.com/TanShilong"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6625
+        }
+      ],
+      "rawSource": "[@TanShilong](https://x.com/TanShilong)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cc736663980b29c9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case160.jpg",
+      "upstreamPath": "../data/images/case160.jpg",
+      "localPath": "public/assets/prompt_1e7088a74d2cda2fcfca/79943c748c85.jpg",
+      "alt": "device",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "mascot",
+      "吉祥物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

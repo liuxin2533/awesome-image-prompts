@@ -1,0 +1,83 @@
+{
+  "id": "prompt_cde65d05867627f7c55c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dynamic 2×2 grid collage of modern outdoor sportswear advertising posters, each panel representing a different adventure lifestyle brand. High-energy, editorial-style composition with bold typography and textured graphic design.\n\nTop-left panel:\nAthletic male model in a bright blue insulated winter jacket, black snow pants, gloves, and sunglasses, stepping forward in a snowy environment. Snow particles flying, dramatic motion. Background features rough blue paint brush strokes. Bold distressed typography reads: “NEVER STOP EXPLORING.” Additional small text: “Built for extremes.” High contrast, rugged winter exploration theme.\n\nTop-right panel:\nFit male hiker climbing rocky terrain, wearing an olive green shirt, black trekking pants, and a large black backpack with orange straps. Dust and debris kicking up from the ground. Background includes orange paint strokes and sketched mountain graphics. Bold text: “BUILT FOR HERE – INDIA TESTED.” Handwritten Hindi accents and arrows. Warm earthy tones.\n\nBottom-left panel:\nCalm outdoor scene with a male model sitting on a rock, wearing a green jacket, beanie, sunglasses, and hiking shoes. Minimal scenic mountain illustration in the background with soft green tones. Typography reads: “ESCAPE THE NOISE – JUST GO OUTSIDE.” Clean, relaxed, nature-focused aesthetic with subtle graphic elements.\n\nBottom-right panel:\nEnergetic female runner in motion wearing a purple athletic t-shirt, black shorts, and running shoes. Bright, playful background with purple and yellow paint splashes, doodles, arrows, and sun illustration. Bold typography: “READY FOR EVERYONE – START YOUR JOURNEY.” Youthful, vibrant fitness energy.\n\nOverall style:\n\nHigh-resolution, photorealistic sportswear campaign\n\nBold brushstroke textures and grunge overlays\n\nMixed typography: distressed, handwritten, and modern sans-serif\n\nStrong color blocking per panel (blue, orange, green, purple)\n\nDynamic poses conveying motion, strength, and adventure\n\nClean grid layout with balanced spacing\n\nCommercial advertising / brand campaign aesthetic (Nike, Decathlon style)\n\nLighting: Professional, cinematic lighting with sharp detail and contrast\nMood: Energetic, adventurous, motivational\nAspect ratio: 1:1 (square collage)",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Outdoor Sportswear Grid Campaign",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SPEEDAI07/status/2049081198211736062",
+      "originalId": "case-168",
+      "authors": [
+        {
+          "name": "SPEEDAI07",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1589
+        }
+      ]
+    }
+  ],
+  "assets": [],
+  "addedAt": "2026-04-28T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

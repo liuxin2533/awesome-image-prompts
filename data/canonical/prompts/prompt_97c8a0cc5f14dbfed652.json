@@ -1,0 +1,107 @@
+{
+  "id": "prompt_97c8a0cc5f14dbfed652",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate brands. The ad should feel like a high-end editorial campaign, combining luxury food photography, refined packaging design, and cinematic lighting. Use matte black wrapper, subtle gold foil, elegant serif typography, and realistic product rendering. Generate flavor variants such as Blood Orange Noir, Salted Pistachio Muse, and Raspberry Ember with distinct mood, color palette, ingredients, headline, and supporting copy. Keep the chocolate bar as hero centerpiece with subtle reflections, shallow depth of field, luxury minimalism, and a small CTA: “Shop the drop.”",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Field: promptText.translations.zh-CN\n\n超真实的卫星太空视角，一个干净现代的编辑布局，9个垂直面板并排排列在白色背景上，共同组成\"MADPENCIL\"这个词，每个面板包含一个完全由自然地球地形构成的字母，没有人工文本叠加：\n\n面板1 (M): 险峻的山脉和深邃的峡谷形成一个锐利的\"M\"形，岩石纹理，高海拔阴影\n面板2 (A): 蜿蜒的河流穿过茂密的绿色森林，形成一个有机的\"A\"，水和植被之间形成强烈对比\n面板3 (D): 沙漠沙丘和风蚀的沙图案塑造出一个平滑的\"D\"，暖色调，柔和的渐变\n面板4 (P): 农业农田网格和拼凑的田地形成一个结构化的\"P\"，几何图案清晰可见\n面板5 (E): 冰川和冰层雕刻出一个清晰的\"E\"，明亮的白色和冰蓝色，破碎的纹理\n面板6 (N): 漫滩上的辫状河流系统形成\"N\"，分支通道与自然流线\n面板7 (C): 海岸线和海洋边缘塑造出一个弯曲的\"C\"，波浪和沉积物渐变可见\n面板8 (I): 穿越地形的狭窄峡谷或直线河流形成一个简约的\"I\"，强烈的垂直感\n面板9 (L): 火山地形与熔岩流形成\"L\"，深色岩石带有发光的红/橙色熔岩点缀\n\n俯视卫星视角，NASA地球观测风格，超精细纹理，真实地理，所有面板保持一致的尺度和光照，最少的云层，高对比度，锐利焦点，微妙的雾霾效果，自然色彩分级，超高清8K，面板间干净间距，现代画廊风格构图，视觉上连贯但每个面板明显不同的生物群落，字母清晰可读但有机地融入地形",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:58:55.574Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Luxury chocolate campaign system",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "地形字母卫星面板",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:58:45.260Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ad-creative-cases",
+      "value": "Ad Creative Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SPEEDAI07/status/2049459155086500321",
+      "originalId": "case-169",
+      "authors": [
+        {
+          "name": "SPEEDAI07",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 573
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5d64265a370b3ee9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg",
+      "localPath": "public/assets/prompt_97c8a0cc5f14dbfed652/f0b5657c3e6f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:10:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "photography",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

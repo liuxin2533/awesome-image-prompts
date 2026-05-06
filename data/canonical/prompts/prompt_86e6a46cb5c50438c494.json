@@ -1,0 +1,100 @@
+{
+  "id": "prompt_86e6a46cb5c50438c494",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A centered black-and-white vintage engraved portrait of a bearded man wearing a hooded sweatshirt with the hood up and a backward snapback cap visible under the hood. Show only the upper torso and head against a plain off-white paper background with subtle texture. Render the image in detailed pen-and-ink etching style with dense cross-hatching, fine parallel lines, and old book illustration shading. The figure faces forward in a calm, neutral pose. The cap has a visible snap closure band across the forehead area, slicked-back hair is visible above it, and a thick full beard extends below the face. The hoodie has two drawstrings hanging down at the chest. Keep the composition symmetrical and tightly framed like a classic engraved bust portrait, with no color, no modern graphic elements, and no background objects.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个居中的黑白复古雕刻肖像，描绘了一位蓄须男子，他穿着带兜帽的运动衫，兜帽戴在头上，可以看到兜帽下反戴着的一顶按扣棒球帽。只显示上半身和头部，背景是带有微妙纹理的纯米白色纸张。以精细的钢笔和墨水蚀刻风格渲染图像，使用密集的交叉影线、细密的平行线和旧书籍插图的阴影处理。人物面向前方，保持平静、中立的姿势。帽子的前额区域有可见的按扣带，上面可以看到向后梳的头发，浓密的络腮胡延伸至脸部下方。运动衫胸前垂着两根抽绳。保持构图对称且紧密，如同经典的雕刻半身肖像，无色彩、无现代图形元素、无背景物体。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:51.106Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Vintage Engraved Hoodie Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/gdb/status/2048184698195870102",
+      "originalId": "case-85",
+      "authors": [
+        {
+          "name": "gdb",
+          "url": "https://x.com/gdb"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 485
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_77577a781a4967b6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case85/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case85/output.jpg",
+      "localPath": "public/assets/prompt_86e6a46cb5c50438c494/d80c0a2a31df.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.592Z"
+  }
+}

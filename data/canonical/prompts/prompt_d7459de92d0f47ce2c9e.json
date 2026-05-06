@@ -1,0 +1,101 @@
+{
+  "id": "prompt_d7459de92d0f47ce2c9e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Vertical 2:3 format. {argument name=\"subject\" default=\"Young woman\"} hair in messy updo sits on modern wooden staircase. wears {argument name=\"dress\" default=\"shimmering Silver halter dress sequin dress\"}. matching with silver high-heeled sandals. legs crossed. Silver heart earrings. One fuchsia bracelet on each ankle. Sultry expression, with slightly parted lips. Blurred background vertical wooden slats and black metal railings. Don't change face",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "垂直2:3格式。{argument name=\"subject\" default=\"Young woman\"}头发凌乱地盘起，坐在现代木质楼梯上。穿着{argument name=\"dress\" default=\"shimmering Silver halter dress sequin dress\"}。搭配银色高跟鞋。双腿交叉。银色心形耳环。每个脚踝上都戴着一个紫红色手镯。性感表情，嘴唇微微张开。模糊的背景，垂直的木条和黑色金属栏杆。不要改变面部",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:31:45.030Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Young Woman in Sequin Dress on Stairs",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/XSydneyFan/status/2048114180906217566",
+      "originalId": "case-88",
+      "authors": [
+        {
+          "name": "XSydneyFan",
+          "url": "https://x.com/XSydneyFan"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 521
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7d25c5166fb6167f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case88/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case88/output.jpg",
+      "localPath": "public/assets/prompt_d7459de92d0f47ce2c9e/6be2483ee1dd.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.560Z"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": "prompt_3fec4273836b17b15da9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Hyperreal cinematic rooftop showdown at night in a futuristic megacity. A stylish streetwear model wearing an {argument name=\"clothing\" default=\"oversized white hoodie with detailed feathered angel wings\"} stands on one side, glowing softly with divine rim light and calm, powerful presence. Opposite him is a {argument name=\"opponent\" default=\"stylized cartoon demon bunny small but menacing\"} wearing a {argument name=\"opponent outfit\" default=\"red leather jacket\"}, glowing red horns, and neon-lit eyes, radiating chaotic energy.\n\nBehind them stretches a vast cyberpunk city skyline filled with holographic billboards and glowing windows. Above, a storm splits the sky in two: one half illuminated with soft celestial light and drifting clouds, the other consumed by dark thunder, electric red lightning tearing through the atmosphere.\n\nDramatic contrast lighting, ultra-detailed textures, shallow depth of field, cinematic framing, 8K realism, surreal fantasy tone, intense face-off composition, wind motion in clothing and wings, atmosphere charged with tension and symbolism.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "未来大都市夜间屋顶的超写实电影感对决。一位身着街头风格服饰的模特，穿着 {argument name=\"clothing\" default=\"带有精致羽毛天使翅膀的超大款白色连帽衫\"}，站在一侧，散发着柔和的神圣轮廓光，展现出冷静而强大的气场。对面是 {argument name=\"opponent\" default=\"风格化卡通恶魔兔子，体型虽小但充满威胁感\"}，身穿 {argument name=\"opponent outfit\" default=\"红色皮夹克\"}，头顶发光的红色犄角，双眼闪烁着霓虹光芒，散发出混乱的能量。\n\n他们身后是广阔的赛博朋克城市天际线，布满了全息广告牌和发光的窗户。头顶上方，一场风暴将天空一分为二：一半被柔和的天界光芒和漂浮的云层照亮，另一半则被黑暗的雷云吞噬，电光闪烁的红色闪电撕裂了大气层。\n\n戏剧性的对比光影，超精细纹理，浅景深，电影级构图，8K 写实画质，超现实奇幻基调，紧张的对峙构图，服装与翅膀的动态风感，充满张力与象征意义的氛围。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Khung cảnh đối đầu điện ảnh siêu thực trên sân thượng vào ban đêm tại một siêu đô thị tương lai. Một người mẫu thời trang đường phố mặc {argument name=\"clothing\" default=\"chiếc áo hoodie trắng quá khổ với đôi cánh thiên thần đầy chi tiết\"} đứng ở một bên, tỏa sáng nhẹ nhàng với ánh sáng viền thần thánh cùng phong thái điềm tĩnh, đầy quyền năng. Đối diện với anh ta là một {argument name=\"opponent\" default=\"chú thỏ ác quỷ hoạt hình cách điệu nhỏ nhắn nhưng đầy đe dọa\"} mặc {argument name=\"opponent outfit\" default=\"chiếc áo khoác da màu đỏ\"}, với cặp sừng phát sáng màu đỏ và đôi mắt rực ánh đèn neon, tỏa ra nguồn năng lượng hỗn loạn.\n\nPhía sau họ là đường chân trời của một thành phố cyberpunk rộng lớn với đầy những bảng hiệu quảng cáo ba chiều và những ô cửa sổ rực sáng. Phía trên, một cơn bão xẻ đôi bầu trời: một nửa được chiếu sáng bởi ánh sáng thiên đường dịu nhẹ cùng những đám mây trôi, nửa còn lại bị bao trùm bởi sấm sét đen tối, với những tia chớp đỏ rực xé toạc bầu không khí.\n\nÁnh sáng tương phản đầy kịch tính, kết cấu siêu chi tiết, độ sâu trường ảnh nông, bố cục điện ảnh, độ chân thực 8K, tông màu giả tưởng siêu thực, bố cục đối đầu căng thẳng, chuyển động của gió trên trang phục và đôi cánh, bầu không khí tràn ngập sự căng thẳng và tính biểu tượng.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Duelo cinematográfico hiperrealista en una azotea durante la noche en una megaciudad futurista. Un modelo con estilo urbano vistiendo una {argument name=\"clothing\" default=\"sudadera blanca oversize con alas de ángel emplumadas detalladas\"} se encuentra de un lado, brillando suavemente con una luz de contorno divina y una presencia tranquila y poderosa. Frente a él hay un {argument name=\"opponent\" default=\"conejo demonio de caricatura estilizado, pequeño pero amenazante\"} que viste una {argument name=\"opponent outfit\" default=\"chaqueta de cuero roja\"}, cuernos rojos brillantes y ojos iluminados con neón, irradiando una energía caótica.\n\nDetrás de ellos se extiende un vasto horizonte de ciudad cyberpunk lleno de vallas publicitarias holográficas y ventanas brillantes. Arriba, una tormenta divide el cielo en dos: una mitad iluminada con una suave luz celestial y nubes a la deriva, la otra consumida por truenos oscuros, con relámpagos rojos eléctricos desgarrando la atmósfera.\n\nIluminación de contraste dramático, texturas ultra detalladas, profundidad de campo reducida, encuadre cinematográfico, realismo 8K, tono de fantasía surrealista, composición de enfrentamiento intenso, movimiento del viento en la ropa y las alas, atmósfera cargada de tensión y simbolismo.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Hyperrealistischer, filmreifer Showdown auf einem Dach bei Nacht in einer futuristischen Megacity. Ein stylisches Streetwear-Model, das einen {argument name=\"clothing\" default=\"übergroßen weißen Hoodie mit detaillierten gefiederten Engelsflügeln\"} trägt, steht auf der einen Seite und leuchtet sanft in göttlichem Kantenlicht mit einer ruhigen, kraftvollen Ausstrahlung. Ihm gegenüber steht ein {argument name=\"opponent\" default=\"stilisierter Cartoon-Dämonen-Hase, klein, aber bedrohlich\"}, der eine {argument name=\"opponent outfit\" default=\"rote Lederjacke\"}, leuchtend rote Hörner und neonbeleuchtete Augen trägt und chaotische Energie ausstrahlt.\n\nHinter ihnen erstreckt sich die Skyline einer riesigen Cyberpunk-Stadt voller holografischer Werbetafeln und leuchtender Fenster. Über ihnen teilt ein Sturm den Himmel in zwei Hälften: Die eine Hälfte ist von sanftem himmlischem Licht und ziehenden Wolken erhellt, die andere von dunklem Donner verschlungen, während elektrische rote Blitze die Atmosphäre zerreißen.\n\nDramatische Kontrastbeleuchtung, ultra-detaillierte Texturen, geringe Schärfentiefe, filmische Bildkomposition, 8K-Realismus, surrealer Fantasy-Ton, intensive Konfrontations-Komposition, Windbewegung in Kleidung und Flügeln, eine mit Spannung und Symbolik geladene Atmosphäre.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affrontement cinématographique hyperréaliste sur un toit, de nuit, dans une mégalopole futuriste. Un modèle au style streetwear portant un {argument name=\"clothing\" default=\"sweat à capuche blanc oversize avec des ailes d'ange détaillées en plumes\"} se tient d'un côté, brillant doucement sous une lumière divine et dégageant une présence calme et puissante. En face de lui se trouve un {argument name=\"opponent\" default=\"lapin démon stylisé, petit mais menaçant\"} portant une {argument name=\"opponent outfit\" default=\"veste en cuir rouge\"}, avec des cornes rougeoyant et des yeux illuminés au néon, dégageant une énergie chaotique.\n\nDerrière eux s'étend le vaste panorama d'une ville cyberpunk rempli de panneaux publicitaires holographiques et de fenêtres lumineuses. Au-dessus, une tempête fend le ciel en deux : une moitié illuminée par une douce lumière céleste et des nuages dérivants, l'autre consumée par un tonnerre sombre, avec des éclairs électriques rouges déchirant l'atmosphère.\n\nÉclairage contrasté dramatique, textures ultra-détaillées, faible profondeur de champ, cadrage cinématographique, réalisme 8K, ton fantastique surréaliste, composition de face-à-face intense, mouvement du vent dans les vêtements et les ailes, atmosphère chargée de tension et de symbolisme.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Scontro cinematografico iperrealistico su un tetto di notte in una megacittà futuristica. Una modella in stile streetwear che indossa un {argument name=\"clothing\" default=\"felpa bianca oversize con dettagliate ali d'angelo piumate\"} si trova su un lato, illuminata dolcemente da una luce divina e dotata di una presenza calma e potente. Di fronte a lei c'è un {argument name=\"opponent\" default=\"coniglio demoniaco stilizzato in stile cartoon, piccolo ma minaccioso\"} che indossa una {argument name=\"opponent outfit\" default=\"giacca di pelle rossa\"}, corna rosso brillante e occhi al neon, che irradia un'energia caotica.\n\nAlle loro spalle si estende un vasto skyline di una città cyberpunk, pieno di cartelloni olografici e finestre luminose. Sopra di loro, una tempesta divide il cielo in due: una metà illuminata da una soffice luce celestiale e nuvole alla deriva, l'altra consumata da tuoni oscuri, con fulmini elettrici rossi che squarciano l'atmosfera.\n\nIlluminazione a contrasto drammatica, texture ultra-dettagliate, profondità di campo ridotta, inquadratura cinematografica, realismo 8K, tono fantasy surreale, composizione intensa del confronto, movimento del vento su abiti e ali, atmosfera carica di tensione e simbolismo.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Duelo cinematográfico hiper-realista em um telhado à noite em uma megacidade futurista. Um modelo estiloso de streetwear vestindo um {argument name=\"clothing\" default=\"moletom branco oversized com asas de anjo detalhadas\"} está de um lado, brilhando suavemente com uma luz divina de contorno e uma presença calma e poderosa. Do lado oposto, está um {argument name=\"opponent\" default=\"coelho demônio estilizado, pequeno, mas ameaçador\"} vestindo uma {argument name=\"opponent outfit\" default=\"jaqueta de couro vermelha\"}, chifres vermelhos brilhantes e olhos iluminados por neon, irradiando energia caótica.\n\nAtrás deles, estende-se um vasto horizonte de cidade cyberpunk repleto de outdoors holográficos e janelas brilhantes. Acima, uma tempestade divide o céu em dois: uma metade iluminada com uma luz celestial suave e nuvens à deriva, a outra consumida por trovões escuros, com relâmpagos vermelhos elétricos rasgando a atmosfera.\n\nIluminação de contraste dramático, texturas ultra-detalhadas, profundidade de campo rasa, enquadramento cinematográfico, realismo em 8K, tom de fantasia surreal, composição de confronto intenso, movimento do vento nas roupas e nas asas, atmosfera carregada de tensão e simbolismo.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Cyberpunk Angel vs Demon Showdown",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 赛博朋克天使与恶魔对决",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Cuộc đối đầu giữa Thiên thần và Ác quỷ phong cách Cyberpunk",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Duelo Cyberpunk: Ángel vs. Demonio",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Cyberpunk-Showdown: Engel gegen Dämon",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Affrontement cyberpunk : Ange contre Démon",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Scontro Cyberpunk: Angelo contro Demone",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Duelo Cyberpunk: Anjo vs Demônio",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed prompt for a futuristic city rooftop scene featuring an angel-styled model and a menacing demon bunny.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高度详细的提示词，用于生成未来城市屋顶场景，包含天使风格模特和极具威胁感的恶魔兔子。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt ultra-détaillé pour une scène sur le toit d'une ville futuriste mettant en scène un modèle au style angélique et un lapin démon menaçant.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/YaZoraiz/status/2051345377740443844",
+      "originalId": "https://x.com/YaZoraiz/status/2051345377740443844",
+      "authors": [
+        {
+          "name": "Zoraiz Ai",
+          "url": "https://x.com/YaZoraiz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3453
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ac2fe224042b2284",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971002323_juaabg_HHfXvHobkAA71yL.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971002323_juaabg_HHfXvHobkAA71yL.jpg",
+      "localPath": "public/assets/prompt_3fec4273836b17b15da9/cb0ffdbb8a0b.jpg",
+      "alt": "Comic / Storyboard - Cyberpunk Angel vs Demon Showdown - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.851Z"
+  }
+}

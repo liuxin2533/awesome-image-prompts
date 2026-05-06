@@ -1,0 +1,101 @@
+{
+  "id": "prompt_50445dc5853b6e5236f1",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A hyper-detailed cinematic isometric miniature city model of {argument name=\"landmark tower\" default=\"Burj Khalifa\"} rising dramatically from the center of a square architectural master-plan board, presented like a luxury urban planning maquette on a black background. The composition shows one dominant ultra-tall silver skyscraper in the exact center, surrounded by a dense ring of modern high-rise towers, illuminated roads, bridges, and glowing warm city lights. Curving turquoise-blue water features and artificial lakes wrap around the central district in multiple connected pools and canals, with one large circular fountain-like feature near the tower base and several small island shapes visible in the water. In the lower right quadrant, include a large low-rise complex with rounded geometric roofs and subtle green-lit sections, connected by multilane roads and looping interchanges. The entire city sits on one square beige map board engraved with faint street grids and planning lines, with the board edges clearly visible and slightly raised. Viewpoint is a high three-quarter isometric angle, centered and symmetrical, with the tower extending far upward into negative space. Lighting is dramatic and luxurious: warm golden edge lights on buildings and roads, cool reflections in the water, crisp metallic highlights on the central tower, and a deep black void surrounding the model. Style should feel like a photorealistic architectural visualization mixed with a premium collectible scale model, extremely intricate, sharp, polished, and elegant.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个超精细的电影级等轴测微型城市模型，{argument name=\"landmark tower\" default=\"Burj Khalifa\"}从方形建筑总体规划板的中心戏剧性地崛起，在黑色背景上呈现为豪华的城市规划模型。构图显示一个占主导地位的极高银色摩天大楼位于正中心，周围环绕着一圈密集的现代高层建筑、照明道路、桥梁和温暖的发光城市灯光。弯曲的蓝绿色水景和人工湖泊以多个相连的池塘和运河环绕中央区域，塔基附近有一个大型圆形喷泉状特征，水中可见几个小型岛屿形状。在右下象限，包含一个大型低层建筑群，具有圆形几何屋顶和微妙的绿色照明区域，通过多车道道路和环形立交桥连接。整个城市位于一个方形米色地图板上，上面刻有微弱的街道网格和规划线，板边缘清晰可见且略微抬高。视角是高角度的三分之二等轴测角度，居中且对称，塔楼向上延伸至负空间。照明效果戏剧化且奢华：建筑物和道路上有温暖的金色边缘灯光，水面上有凉爽的反射，中央塔楼上有清晰的金属高光，模型周围是深邃的黑色虚空。风格应感觉像照片级真实的建筑可视化与高端收藏级比例模型的结合，极其精细、锐利、精致和优雅。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:10:08.415Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Luxury Miniature Dubai City Model",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/silentempiredev/status/2048086378383384773",
+      "originalId": "case-150",
+      "authors": [
+        {
+          "name": "silentempiredev",
+          "url": "https://x.com/silentempiredev"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 477
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f8e46d058dc69251",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg",
+      "localPath": "public/assets/prompt_50445dc5853b6e5236f1/92260d456a20.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "building",
+      "建筑",
+      "空间"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.554Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "prompt_406a20bf976bfd6b3ab0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 \"SPRING 2026\" 与竖排 \"千年商都 魅力广州\"。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:03:17.277Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Spring 2026 Guangzhou Promo Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "2026年广州春季推广海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:03:18.747Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/grok/status/2046012437086818395",
+      "originalId": "case-14",
+      "authors": [
+        {
+          "name": "grok",
+          "url": "https://x.com/grok"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 160
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a305021371d75b93",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg",
+      "localPath": "public/assets/prompt_406a20bf976bfd6b3ab0/ad83bffdd18e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

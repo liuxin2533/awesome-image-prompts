@@ -1,0 +1,94 @@
+{
+  "id": "prompt_3fdef599d4b146094b0d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT IMAGE 2 on Chat Gpt Prompt : Ultra-realistic portrait of a young woman sitting at a Parisian café, soft golden hour sunlight hitting her face, natural glowing skin, light blush, minimal makeup, green eyes, dark hair tied back with sunglasses on head, wearing a cozy grey knit sweater, resting her face on her hand, relaxed expression, shallow depth of field, cinematic lighting, reflections of classic Paris buildings in the window behind her, table with glassware and subtle foreground blur, 50mm lens, high detail, editorial fashion photography style. Prompt : Natural lifestyle portrait of a young woman at an outdoor Paris café, soft daylight, slightly wet slicked-back dark hair, minimal makeup with dewy skin and flushed cheeks, wearing a loose grey sweater, leaning her head on her hand, calm and intimate expression, symmetrical framing, glass windows reflecting Haussmann-style buildings, table with water glasses and phone, candid aesthetic, soft shadows, realistic tones, 35mm photography, high resolution, cinematic street-style fashion shoot.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Paris Café Lifestyle Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Sairah_0/status/2050432730962530809",
+      "originalId": "case-108",
+      "authors": [
+        {
+          "name": "Sairah_0",
+          "url": "https://x.com/Sairah_0"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 784
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5b8fee16770e7b81",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case108/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case108/output.jpg",
+      "localPath": "public/assets/prompt_3fdef599d4b146094b0d/75b7949866f5.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T17:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.549Z"
+  }
+}

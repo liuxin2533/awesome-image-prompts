@@ -1,0 +1,138 @@
+{
+  "id": "prompt_d60a3225cf52ceaf45ca",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"black-and-white manga two-page spread\",\"genre\":\"quiet emotional school music drama\",\"reading_direction\":\"right-to-left Japanese manga layout\",\"print_style\":\"clean manga page composition with gutters, panel borders, screentone shading, detailed line art, soft night lighting, no color\",\"setting\":{\"location\":\"small rehearsal studio at night\",\"details\":[\"large window showing a city skyline with illuminated buildings\",\"drum kit near the back window\",\"2 visible Marshall amplifiers\",\"wood-paneled walls\",\"door and studio notices\",\"wall sign reading 'スタジオ Beat Box'\",\"music stools and rehearsal-room clutter\"]},\"characters\":[{\"role\":\"girl guitarist\",\"count\":1,\"appearance\":\"slender high-school girl with very long straight light-colored hair and bangs, calm melancholic expression, school uniform shirt with ribbon bow and plaid skirt, seated while holding a solid-body electric guitar\"},{\"role\":\"boy classmate\",\"count\":1,\"appearance\":\"high-school boy with short spiky hair, school blazer, loosened necktie, seated facing the girl\"}],\"layout\":{\"spread_count\":2,\"page_numbers\":[7,8],\"sections\":[{\"title\":\"left page\",\"position\":\"left half\",\"count\":3,\"panels\":[\"top panel: medium shot of the boy in the studio, facing the girl, with a tall vertical speech balloon containing '…… あのさ'\",\"middle panel: close three-quarter view of the girl looking down while playing the electric guitar, hands on the fretboard and body\",\"bottom panel: close shot of the boy speaking with a large vertical speech balloon containing 'どうやったら、そんな音出せるの'\"]},{\"title\":\"right page\",\"position\":\"right half\",\"count\":4,\"panels\":[\"top panel: close-up profile of the girl in thought, hand near her mouth, with a vertical ellipsis speech balloon '……'\",\"middle panel: medium shot of the girl holding the guitar and answering, with a large vertical speech balloon containing '別に、特別なことはしてない'\",\"bottom panel: wide panel showing both characters seated across from each other in the studio, the girl with guitar and the boy listening, city lights visible through the window\",\"small transitional panel feeling maintained by cinematic pacing across the page layout\"]}],\"centerpiece\":\"the quiet exchange between the boy and the girl about the sound of her guitar\"},\"mood\":\"introspective, restrained, intimate, slightly bittersweet\",\"camera_style\":\"cinematic manga framing with close-ups, medium shots, and one wide establishing panel\",\"text\":{\"language\":\"Japanese\",\"speech_balloons_count\":4,\"visible_lines\":[\"…… あのさ\",\"どうやったら、そんな音出せるの\",\"……\",\"別に、特別なことはしてない\"]},\"quality\":\"highly detailed professional seinen manga artwork, polished grayscale tones, expressive hair rendering, realistic instruments and studio interior\"}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Night Studio Manga Two-Page Spread",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Night Studio Manga Two-Page Spread",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Night Studio Manga Two-Page Spread",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Night Studio Manga Two-Page Spread",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Night Studio Manga Two-Page Spread",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Night Studio Manga Two-Page Spread",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This generates a polished grayscale manga double-page scene of two high-school students in a rehearsal studio, ideal for emotional music-drama comics or cinematic AI manga pages.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/yume00112211/status/2048781121291432359#reversed-0",
+      "originalId": "https://x.com/yume00112211/status/2048781121291432359#reversed-0",
+      "authors": [
+        {
+          "name": "ユメ・アスタAI漫画イラストレーター",
+          "url": "https://x.com/yume00112211"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3836
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_18d882fe1abb1743",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367303572_0yuqec_HG67khYb0AAo1sb.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367303572_0yuqec_HG67khYb0AAo1sb.jpg",
+      "localPath": "public/assets/prompt_d60a3225cf52ceaf45ca/864b2475d077.jpg",
+      "alt": "Comic / Storyboard - Night Studio Manga Two-Page Spread - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_573b807e9c60d808",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367303666_9q9ypv_HG67kktasAADeRu.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367303666_9q9ypv_HG67kktasAADeRu.jpg",
+      "localPath": "public/assets/prompt_d60a3225cf52ceaf45ca/e8894ec525d2.jpg",
+      "alt": "Comic / Storyboard - Night Studio Manga Two-Page Spread - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

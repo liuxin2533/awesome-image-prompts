@@ -1,0 +1,107 @@
+{
+  "id": "prompt_a0de0bb1f935241f9d32",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "# 混沌としたメモ書き・記号の集合体からキャラクターの顔を浮かび上がらせるアート\n\n--- スタイル\n- 白い紙の上に黒インクで描かれた大量の手書きメモ、数式、記号、ランダムな線。\n- 紙いっぱいに散らばる書き殴り風のカオス。\n- 所々に赤インクの強調(ライン、塗り潰し、マーカー風の塊)。\n- アナログのノート落書きのような質感。\n\n--- 構図\n- ランダムなメモや記号が全体を覆い尽くす。\n- 黒インクの線や文字の密度が「キャラクターの顔」の位置に集中する。\n- 結果として、混沌の中から「与えられたキャラクターの顔のシルエット・表情」がうっすら浮かび上がる。\n- 顔は写実的ではなく、カオスの断片が集まって形を成す。\n\n--- 色彩\n- モノクロ(黒・白)を主体に構成。\n- 赤インクをアクセントとして散発的に配置。\n- 彩度は抑えめ、アナログの紙とインク感を重視。\n\n--- 表現要素\n- 読めるようで読めない文字列、日本語や英数字が混在。\n- 数式記号、矢印、点、斜線、クロス、ドリップ(インクの飛び散り)。\n- キャラクターの顔の目や髪の輪郭は、メモや記号の配置の「余白」や「濃淡」で浮かび上がる。\n\n--- 禁止事項\n- 顔を直接的に描き込む写実ポートレート。\n- デジタル処理的で整然とした幾何学模様。\n- カラフルな彩色や過飽和表現。\n- ロゴ、透かし、人工的なCG感。\n\n--- Definition of Done (DoD)\n- 全体は「混沌としたメモ・記号の集合体」として成立している。  \n- 与えられたキャラクターの顔が、混沌の濃淡・配置から自然に浮かび上がる。  \n- 色はモノクロ+赤アクセントのみ。  \n- 紙とインクの手描き的質感を保持している。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "# 从混乱的笔记和符号集合体中浮现出角色面孔的艺术\n\n--- 风格\n- 在白纸上用黑墨水绘制的大量手写笔记、公式、符号和随机线条。\n- 满纸散布的潦草风格的混乱。\n- 各处有红墨水的强调（线条、填充、标记风格的块状）。\n- 类似于笔记本涂鸦的质感。\n\n--- 构图\n- 随机的笔记和符号覆盖整个画面。\n- 黑墨线条和文字的密度集中在\"角色面孔\"的位置。\n- 结果是，从混乱中隐约浮现出\"给定角色面孔的轮廓和表情\"。\n- 面孔不是写实的，而是由混乱的碎片聚集而成。\n\n--- 色彩\n- 主要由单色（黑·白）构成。\n- 红墨水作为点缀散布。\n- 色彩饱和度较低，重视纸张和墨水的质感。\n\n--- 表现元素\n- 似是而非的文字串，日语和英数字混合。\n- 数学符号、箭头、点、斜线、交叉、墨水飞溅。\n- 角色面孔的眼睛和头发轮廓，通过笔记和符号的\"留白\"和\"浓淡\"浮现出来。\n\n--- 禁止事项\n- 直接绘制写实肖像。\n- 经过数字处理的整齐几何图案。\n- 彩色或过度饱和的表现。\n- 标志、水印、人工的CG感。\n\n--- 完成标准（DoD）\n- 整体作为\"混乱的笔记和符号集合体\"而成立。\n- 给定的角色面孔从混乱的浓淡和配置中自然浮现。\n- 颜色只有单色+红色点缀。\n- 保持纸张和墨水的手绘质感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:07:34.621Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Chaos Notes Hidden Face Character Art",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "混沌笔记隐藏面孔角色艺术",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:07:39.824Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/loglogrog/status/2046448773162033240",
+      "originalId": "case-9",
+      "authors": [
+        {
+          "name": "loglogrog",
+          "url": "https://x.com/loglogrog"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 97
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_394c1cb6fccc2139",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case9/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case9/output.jpg",
+      "localPath": "public/assets/prompt_a0de0bb1f935241f9d32/f58e34521029.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

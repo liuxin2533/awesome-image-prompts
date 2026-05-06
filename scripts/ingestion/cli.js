@@ -2,16 +2,28 @@
 
 const fs = require('fs');
 const path = require('path');
-const { normalizeRawRecord } = require('./core/normalize');
+const { normalizeRawRecord, emitMissingTranslationIssues } = require('./core/normalize');
 const { mergePrompts } = require('./core/merge');
-const { compactCanonicalDataset } = require('./core/persist');
+const { refreshDatasetMetadata, writeCanonicalDataset } = require('./core/persist');
+const {
+  preserveCanonicalData,
+  readPreviousCanonical,
+  retainMissingCanonicalPrompts
+} = require('./core/preserve');
 const { Report } = require('./core/report');
+const {
+  applyPromptUpdateTimestamps,
+  summarizeExtractionRun,
+  writeRunRecord
+} = require('./core/run-history');
 const { validateDataset } = require('./core/schema');
 const { uniqueBy } = require('./core/text');
+const { classifyDataset } = require('./classification');
 
 const evolink = require('./sources/evolink');
 const freestylefly = require('./sources/freestylefly');
 const youmind = require('./sources/youmind');
+const zerolu = require('./sources/zerolu');
 
 const SCHEMA_VERSION = '2026-05-04';
 
@@ -30,6 +42,11 @@ const SOURCES = {
     config: youmind.CONFIG,
     load: youmind.load,
     parse: youmind.parseYouMind
+  },
+  zerolu: {
+    config: zerolu.CONFIG,
+    load: zerolu.load,
+    parse: zerolu.parseZeroLu
   }
 };
 
@@ -77,9 +94,8 @@ function buildAssets(prompts) {
 function writeOutputs(projectRoot, dataset, sourceDatasets, report) {
   const canonicalDir = path.join(projectRoot, 'data', 'canonical');
   const reportsDir = path.join(projectRoot, 'data', 'reports');
-  const outputDataset = compactCanonicalDataset(dataset);
+  const outputDataset = writeCanonicalDataset(projectRoot, dataset);
 
-  writeJson(path.join(canonicalDir, 'prompts.json'), outputDataset);
   writeJson(path.join(canonicalDir, 'sources.json'), {
     schemaVersion: SCHEMA_VERSION,
     generatedAt: outputDataset.generatedAt,
@@ -162,6 +178,7 @@ async function loadAndParseSource(sourceKey, options, report) {
 }
 
 async function runIngest(options = {}) {
+  const startedAt = new Date().toISOString();
   const projectRoot = options.projectRoot || path.join(__dirname, '..', '..');
   const mode = options.mode || (process.env.USE_REMOTE === 'true' ? 'remote' : 'local');
   const selectedSources = options.sources?.length ? options.sources : Object.keys(SOURCES);
@@ -177,7 +194,7 @@ async function runIngest(options = {}) {
     const rawRecords = await loadAndParseSource(sourceKey, { projectRoot, mode }, report);
     rawBySource[sourceKey] = rawRecords;
 
-    const sourceNormalized = rawRecords.map(record => normalizeRawRecord(record, { targetLanguages, report }));
+    const sourceNormalized = rawRecords.map(record => normalizeRawRecord(record, { targetLanguages }));
     normalizedBySource[sourceKey] = mergePrompts(sourceNormalized);
     allNormalized.push(...sourceNormalized);
   }
@@ -198,9 +215,35 @@ async function runIngest(options = {}) {
     prompts
   };
 
+  const previousDataset = options.preserveCanonical !== false ? readPreviousCanonical(projectRoot) : null;
+  if (previousDataset) {
+    preserveCanonicalData(dataset, previousDataset);
+    retainMissingCanonicalPrompts(dataset, previousDataset);
+  }
+
+  classifyDataset(dataset, { projectRoot, report });
+  if (previousDataset) {
+    preserveCanonicalData(dataset, previousDataset);
+  }
+  applyPromptUpdateTimestamps(previousDataset, dataset);
+  refreshDatasetMetadata(dataset);
+
+  for (const prompt of dataset.prompts || []) {
+    emitMissingTranslationIssues(prompt, targetLanguages, report);
+  }
   emitAssetIssues(dataset, report);
   report.merge(validateDataset(dataset));
   writeOutputs(projectRoot, dataset, normalizedBySource, report);
+  const runRecord = summarizeExtractionRun({
+    previousDataset,
+    currentDataset: dataset,
+    report,
+    startedAt,
+    finishedAt: new Date().toISOString(),
+    mode,
+    sources: selectedSources
+  });
+  writeRunRecord(projectRoot, runRecord);
 
   if (strict && report.hasErrors) {
     const error = new Error('Strict ingestion failed. See data/reports/latest.md.');
@@ -208,7 +251,7 @@ async function runIngest(options = {}) {
     throw error;
   }
 
-  return { dataset, report, rawBySource, normalizedBySource };
+  return { dataset, report, rawBySource, normalizedBySource, runRecord };
 }
 
 function parseArgs(argv) {
@@ -217,6 +260,7 @@ function parseArgs(argv) {
     sources: [],
     mode: process.env.USE_REMOTE === 'true' ? 'remote' : 'local',
     strict: false,
+    preserveCanonical: true,
     projectRoot: path.join(__dirname, '..', '..'),
     targetLanguages: (process.env.TARGET_LANGUAGES || 'en,zh-CN').split(',').map(item => item.trim()).filter(Boolean)
   };
@@ -232,6 +276,10 @@ function parseArgs(argv) {
       args.mode = rest[++i];
     } else if (arg === '--strict') {
       args.strict = true;
+    } else if (arg === '--preserve-canonical') {
+      args.preserveCanonical = true;
+    } else if (arg === '--no-preserve-canonical') {
+      args.preserveCanonical = false;
     } else if (arg === '--project-root') {
       args.projectRoot = path.resolve(rest[++i]);
     } else if (arg === '--target-languages' || arg === '--langs') {
@@ -249,6 +297,7 @@ async function main(argv = process.argv.slice(2)) {
     mode: args.mode,
     sources: args.sources,
     targetLanguages: args.targetLanguages,
+    preserveCanonical: args.preserveCanonical,
     strict: args.strict || args.command === 'validate'
   };
 

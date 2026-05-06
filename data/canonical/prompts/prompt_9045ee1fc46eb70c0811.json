@@ -1,0 +1,173 @@
+{
+  "id": "prompt_9045ee1fc46eb70c0811",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a dark cinematic fantasy close-up of a single monstrous goblin warrior lunging toward the viewer in a low-angle three-quarter pose on a barren battlefield. The goblin has mottled {argument name=\"skin color\" default=\"green-gray leathery skin\"}, a huge snarling face, sharp uneven yellow teeth, a wrinkled piglike nose, exaggerated cheekbones, enormous pointed ears with dangling earrings and metal rings, and glowing {argument name=\"eye glow color\" default=\"cyan turquoise\"} eyes. Give it a wild upright mohawk of {argument name=\"hair color\" default=\"electric teal\"} hair, thin wisps flying upward as if charged with energy. Dress it in ragged dark leather and scraps of spiked armor: one bulky spiked shoulder pauldron, heavy mismatched bracers, clawed metal gauntlets, belts, straps, charms, bone details, and battered ornaments. The creature crawls forward with long clawed hands planted on the dirt, one hand near a small skull and wisps of ghostly blue smoke, creating a menacing goblin-art showcase portrait. Set the scene at night under a star-filled teal sky with a large bright moon or glowing orb low on the left horizon, turquoise nebula haze behind the character, scattered bones, skulls, rocks, dead grass, and red-capped mushrooms in the background. Use dramatic rim lighting, cyan bioluminescent glow from the eyes and smoke, high contrast shadows, shallow depth of field, ultra-detailed textures, grimy practical fantasy realism, cinematic 3D creature design, wide-angle perspective, centered composition, intense threatening expression, no text, no borders.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张黑暗电影感奇幻特写，画面主体为一只正在向观众猛扑的怪异哥布林战士，采用低角度四分之三侧身姿势，背景为荒凉的战场。哥布林拥有斑驳的 {argument name=\"skin color\" default=\"青灰色皮革质感皮肤\"}，巨大的咆哮面孔，参差不齐的锋利黄牙，皱巴巴的猪鼻，夸张的颧骨，巨大的尖耳朵上挂着耳环和金属环，双眼闪烁着 {argument name=\"eye glow color\" default=\"青绿色\"} 的光芒。为其设计一头狂野的直立莫霍克发型，发色为 {argument name=\"hair color\" default=\"电光青色\"}，稀疏的发丝向上飞扬，仿佛带电一般。身穿破烂的深色皮革和零碎的尖刺盔甲：一侧厚重的尖刺肩甲，不配套的重型护腕，带爪的金属护手，以及皮带、束带、护身符、骨饰和破旧的装饰品。该生物用长着利爪的双手撑在泥地上向前爬行，一只手靠近一个小头骨和缕缕幽灵般的蓝色烟雾，呈现出一幅极具威胁感的哥布林艺术肖像。场景设定在夜晚，星空下是一片青色的天空，左侧地平线低处有一轮明亮的圆月或发光球体，角色后方有青绿色的星云薄雾，背景散落着骨头、头骨、岩石、枯草和红伞蘑菇。采用戏剧性的轮廓光，眼睛和烟雾发出青色生物荧光，高对比度阴影，浅景深，超精细纹理，肮脏的实用奇幻写实风格，电影级 3D 生物设计，广角透视，居中构图，强烈的威胁表情，无文字，无边框。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un primer plano de fantasía oscura y cinematográfica de un único guerrero duende monstruoso abalanzándose hacia el espectador en una pose de tres cuartos desde un ángulo bajo en un campo de batalla estéril. El duende tiene una piel moteada {argument name=\"skin color\" default=\"de cuero color gris verdoso\"}, una cara enorme y gruñona, dientes amarillos afilados e irregulares, una nariz arrugada como de cerdo, pómulos exagerados, orejas enormes y puntiagudas con pendientes colgantes y anillos de metal, y ojos brillantes de color {argument name=\"eye glow color\" default=\"cian turquesa\"}. Dale una cresta mohicana salvaje y erguida de cabello {argument name=\"hair color\" default=\"verde azulado eléctrico\"}, con mechones finos volando hacia arriba como si estuvieran cargados de energía. Vístelo con cuero oscuro andrajoso y restos de armadura con púas: una hombrera voluminosa con púas, brazaletes pesados y desiguales, guanteletes de metal con garras, cinturones, correas, amuletos, detalles de huesos y adornos maltratados. La criatura se arrastra hacia adelante con largas manos con garras apoyadas en la tierra, una mano cerca de un pequeño cráneo y volutas de humo azul fantasmal, creando un retrato de exhibición de arte de duendes amenazante. Ambientar la escena de noche bajo un cielo estrellado de color verde azulado con una luna grande y brillante o un orbe brillante bajo en el horizonte izquierdo, neblina de nebulosa turquesa detrás del personaje, huesos dispersos, cráneos, rocas, hierba muerta y hongos de sombrero rojo en el fondo. Utiliza iluminación de contorno dramática, brillo bioluminiscente cian de los ojos y el humo, sombras de alto contraste, profundidad de campo reducida, texturas ultra detalladas, realismo de fantasía práctica y sucia, diseño de criatura 3D cinematográfico, perspectiva de gran angular, composición centrada, expresión intensa y amenazante, sin texto, sin bordes.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine düstere, filmreife Fantasy-Nahaufnahme eines einzelnen monströsen Goblin-Kriegers, der sich in einer Froschperspektive im Dreiviertelprofil auf einem kargen Schlachtfeld auf den Betrachter stürzt. Der Goblin hat gefleckte {argument name=\"skin color\" default=\"grün-graue, ledrige Haut\"}, ein riesiges, knurrendes Gesicht, scharfe, unebene gelbe Zähne, eine faltige, schweineartige Nase, übertriebene Wangenknochen, riesige spitze Ohren mit baumelnden Ohrringen und Metallringen sowie leuchtende {argument name=\"eye glow color\" default=\"cyan-türkisfarbene\"} Augen. Verpasse ihm einen wilden, aufrecht stehenden Irokesenschnitt aus {argument name=\"hair color\" default=\"elektrisch türkisfarbenem\"} Haar, wobei dünne Strähnen wie von Energie geladen nach oben fliegen. Kleide ihn in zerfetztes dunkles Leder und Reste einer stacheligen Rüstung: ein wuchtiger, mit Stacheln versehener Schulterpanzer, schwere, ungleiche Armschienen, klauenartige Metallhandschuhe, Gürtel, Riemen, Talismane, Knochendetails und ramponierte Ornamente. Die Kreatur kriecht mit langen, bekrallten Händen, die im Dreck stecken, vorwärts; eine Hand befindet sich in der Nähe eines kleinen Schädels und Schwaden von geisterhaft blauem Rauch, was ein bedrohliches Goblin-Kunst-Porträt erzeugt. Setze die Szene bei Nacht unter einen sternenklaren, türkisfarbenen Himmel mit einem großen, hellen Mond oder einer leuchtenden Kugel tief am linken Horizont, türkisfarbenem Nebeldunst hinter dem Charakter, verstreuten Knochen, Schädeln, Steinen, totem Gras und rotköpfigen Pilzen im Hintergrund. Nutze dramatisches Kantenlicht, cyanfarbenes biolumineszentes Leuchten der Augen und des Rauchs, kontrastreiche Schatten, geringe Schärfentiefe, ultra-detaillierte Texturen, schmutzigen praktischen Fantasy-Realismus, filmreifes 3D-Kreaturendesign, Weitwinkelperspektive, zentrierte Komposition, intensiver, bedrohlicher Ausdruck, kein Text, keine Ränder.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un gros plan cinématographique de dark fantasy représentant un unique guerrier gobelin monstrueux se jetant vers le spectateur, dans une pose en contre-plongée aux trois quarts sur un champ de bataille désolé. Le gobelin possède une {argument name=\"skin color\" default=\"peau coriace gris-vert\"} tachetée, un visage immense et grimaçant, des dents jaunes pointues et irrégulières, un nez de cochon ridé, des pommettes saillantes, d'énormes oreilles pointues ornées de boucles d'oreilles et d'anneaux en métal, ainsi que des yeux {argument name=\"eye glow color\" default=\"cyan turquoise\"} luisants. Donnez-lui une crête iroquoise sauvage de cheveux {argument name=\"hair color\" default=\"bleu sarcelle électrique\"}, avec de fines mèches flottant vers le haut comme chargées d'énergie. Habillez-le de cuir sombre en lambeaux et de morceaux d'armure à pointes : une épaulière imposante, des brassards dépareillés et lourds, des gantelets en métal griffus, des ceintures, des sangles, des amulettes, des détails en os et des ornements abîmés. La créature rampe vers l'avant, ses longues mains griffues posées sur la terre, une main près d'un petit crâne et de volutes de fumée bleue fantomatique, créant un portrait de gobelin menaçant. Placez la scène de nuit sous un ciel sarcelle étoilé avec une grande lune brillante ou un orbe lumineux bas sur l'horizon gauche, une brume de nébuleuse turquoise derrière le personnage, des os éparpillés, des crânes, des rochers, de l'herbe morte et des champignons à chapeau rouge en arrière-plan. Utilisez un éclairage de contour dramatique, une lueur bioluminescente cyan provenant des yeux et de la fumée, des ombres à fort contraste, une faible profondeur de champ, des textures ultra-détaillées, un réalisme fantasy sombre et concret, un design de créature 3D cinématographique, une perspective grand angle, une composition centrée, une expression intense et menaçante, sans texte, sans bordures.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un primo piano dark fantasy cinematografico di un singolo guerriero goblin mostruoso che si scaglia verso lo spettatore in una posa a tre quarti dal basso su un campo di battaglia desolato. Il goblin ha una {argument name=\"skin color\" default=\"pelle coriacea verde-grigia\"} screziata, un enorme volto ringhiante, denti gialli affilati e irregolari, un naso rugoso simile a quello di un maiale, zigomi pronunciati, enormi orecchie a punta con orecchini pendenti e anelli di metallo, e occhi con un {argument name=\"eye glow color\" default=\"bagliore turchese ciano\"}. Dotalo di una cresta mohawk selvaggia di capelli {argument name=\"hair color\" default=\"verde acqua elettrico\"}, con sottili ciocche che volano verso l'alto come se fossero cariche di energia. Vestilo con pelle scura logora e frammenti di armatura chiodata: un ingombrante spallaccio chiodato, pesanti bracciali spaiati, guanti di metallo artigliati, cinture, cinghie, ciondoli, dettagli in osso e ornamenti malconci. La creatura striscia in avanti con lunghe mani artigliate piantate nel terreno, una mano vicino a un piccolo teschio e volute di fumo blu spettrale, creando un ritratto vetrina di goblin-art minaccioso. Imposta la scena di notte sotto un cielo stellato color verde acqua con una grande luna luminosa o un globo incandescente basso sull'orizzonte sinistro, foschia di nebulosa turchese dietro il personaggio, ossa sparse, teschi, rocce, erba secca e funghi dal cappello rosso sullo sfondo. Usa un'illuminazione di contorno drammatica, bagliore bioluminescente ciano dagli occhi e dal fumo, ombre ad alto contrasto, profondità di campo ridotta, texture ultra-dettagliate, realismo fantasy sporco e pratico, design di creature 3D cinematografico, prospettiva grandangolare, composizione centrata, espressione intensa e minacciosa, niente testo, niente bordi.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um close-up cinematográfico de fantasia sombria de um único guerreiro goblin monstruoso avançando em direção ao espectador em uma pose de três quartos de ângulo baixo em um campo de batalha árido. O goblin tem {argument name=\"skin color\" default=\"pele coriácea verde-acinzentada\"} manchada, um rosto enorme e rosnante, dentes amarelos afiados e irregulares, um nariz enrugado semelhante ao de um porco, maçãs do rosto exageradas, orelhas enormes e pontudas com brincos pendentes e anéis de metal, e olhos brilhantes na cor {argument name=\"eye glow color\" default=\"ciano turquesa\"}. Dê a ele um moicano selvagem e ereto de cabelo na cor {argument name=\"hair color\" default=\"azul-petróleo elétrico\"}, com mechas finas voando para cima como se estivessem carregadas de energia. Vista-o com couro escuro esfarrapado e restos de armadura com espinhos: uma ombreira volumosa com espinhos, braçadeiras pesadas e desalinhadas, manoplas de metal com garras, cintos, tiras, amuletos, detalhes em osso e ornamentos desgastados. A criatura rasteja para frente com mãos longas e com garras plantadas na terra, uma mão perto de um pequeno crânio e volutas de fumaça azul fantasmagórica, criando um retrato de exibição de arte goblin ameaçador. Defina a cena à noite sob um céu azul-petróleo estrelado com uma lua grande e brilhante ou um orbe brilhante baixo no horizonte esquerdo, névoa de nebulosa turquesa atrás do personagem, ossos espalhados, crânios, rochas, grama morta e cogumelos de chapéu vermelho ao fundo. Use iluminação de contorno dramática, brilho bioluminescente ciano dos olhos e da fumaça, sombras de alto contraste, profundidade de campo rasa, texturas ultra-detalhadas, realismo de fantasia prática e suja, design de criatura 3D cinematográfico, perspectiva grande angular, composição centralizada, expressão intensa e ameaçadora, sem texto, sem bordas.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Game Asset - Cinematic Teal Goblin Warrior",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "游戏素材 - 电影感青色哥布林战士",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Activo de juego - Guerrero duende color verde azulado cinematográfico",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Spiel-Asset - Filmreifer Goblin-Krieger in Türkis",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ressource de jeu - Guerrier gobelin sarcelle cinématographique",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Asset di gioco - Guerriero Goblin color verde acqua cinematografico",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Ativo de Jogo - Guerreiro Goblin em Tom Azul-petróleo Cinematográfico",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a dramatic dark-fantasy goblin creature portrait for concept art, game art, or monster illustration use.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张极具戏剧性的黑暗奇幻哥布林生物肖像，适用于概念艺术、游戏美术或怪物插画。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un portrait de créature de dark fantasy dramatique représentant un gobelin, idéal pour le concept art, l'art de jeu vidéo ou l'illustration de monstres.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "game-asset",
+      "value": "Game Asset",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/CosmicCowboyCDN/status/2051362653516493143#reversed-2",
+      "originalId": "https://x.com/CosmicCowboyCDN/status/2051362653516493143#reversed-2",
+      "authors": [
+        {
+          "name": "Cosmic Cowboy",
+          "url": "https://x.com/CosmicCowboyCDN"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 5140
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7e5b7e9ef4be9372",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971057958_qmbwpt_HHfnCZKbYAAdNVx.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971057958_qmbwpt_HHfnCZKbYAAdNVx.jpg",
+      "localPath": "public/assets/prompt_9045ee1fc46eb70c0811/8cee04db17a6.jpg",
+      "alt": "Game Asset - Cinematic Teal Goblin Warrior - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.628Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.859Z"
+  }
+}

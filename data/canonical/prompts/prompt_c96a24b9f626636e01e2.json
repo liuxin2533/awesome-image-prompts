@@ -1,0 +1,112 @@
+{
+  "id": "prompt_c96a24b9f626636e01e2",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A {argument name=\"photography style\" default=\"photorealistic portrait with shallow depth of field and soft bokeh\"} of a {argument name=\"subject\" default=\"young Japanese woman\"} looking back over her shoulder at the camera with a {argument name=\"expression\" default=\"gentle smile\"}. She is wearing a {argument name=\"attire\" default=\"light beige kimono with orange maple leaf patterns\"} and a gold obi. Her dark hair is styled in an elegant updo with loose strands framing her face, and she wears small pearl earrings. The background features an {argument name=\"setting\" default=\"autumn garden with vibrant red maple leaves\"}, with bright red foliage framing the top left and a heavily blurred, soft background creating a serene, cinematic atmosphere.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A {argument name=\"photography style\" default=\"photorealistic portrait with shallow depth of field and soft bokeh\"} of a {argument name=\"subject\" default=\"young Japanese woman\"} looking back over her shoulder at the camera with a {argument name=\"expression\" default=\"gentle smile\"}. She is wearing a {argument name=\"attire\" default=\"light beige kimono with orange maple leaf patterns\"} and a gold obi. Her dark hair is styled in an elegant updo with loose strands framing her face, and she wears small pearl earrings. The background features an {argument name=\"setting\" default=\"autumn garden with vibrant red maple leaves\"}, with bright red foliage framing the top left and a heavily blurred, soft background creating a serene, cinematic atmosphere.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:25:15.445Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "人像写实摄影图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Realistic Portrait Photography",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:25:17.683Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d649a8b6f1",
+      "value": "人像写实摄影图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-35",
+      "originalId": "case-35",
+      "authors": [
+        {
+          "name": "kazmaendo",
+          "url": "https://x.com/kazmaendo"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 831
+        }
+      ],
+      "rawSource": "[@kazmaendo](https://x.com/kazmaendo)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e02ede110c418317",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case35.jpg",
+      "upstreamPath": "../data/images/case35.jpg",
+      "localPath": "public/assets/prompt_c96a24b9f626636e01e2/ed4250d50494.jpg",
+      "alt": "photography style",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "人像",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

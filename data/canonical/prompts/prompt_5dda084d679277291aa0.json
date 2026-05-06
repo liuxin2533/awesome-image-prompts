@@ -1,0 +1,205 @@
+{
+  "id": "prompt_5dda084d679277291aa0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Silk shawl with 'Court Ladies Wearing Floral Headdresses' pattern from the Tang Dynasty, featuring {argument name=\"pattern design\" default=\"Zhou Fang's court ladies surrounding pattern\"}, crabapple floral gold weaving, glossy satin texture, palace luxury style.\r\n\r\nSong Dynasty Ru-ware sky-blue glazed tea set, delicate ice-crackle glaze, 'blue as the sky after rain' color, minimalist Song Dynasty style setting, museum-grade still life studio photography.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "唐代《簪花仕女图》纹样丝绸披肩，采用 {argument name=\"pattern design\" default=\"周昉仕女环绕纹样\"}，海棠花金丝织造，光泽缎面质感，宫廷奢华风格。\r\n\r\n宋代汝窑天青釉茶具，细腻开片釉面，“雨过天晴云破处”的色彩，极简宋代风格布景，博物馆级静物摄影。",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ผ้าคลุมไหล่ผ้าไหมลาย 'สตรีในวังประดับดอกไม้' จากราชวงศ์ถัง โดดเด่นด้วย {argument name=\"pattern design\" default=\"ลวดลายสตรีในวังของโจวฟาง\"} การทอดิ้นทองลายดอกแอปเปิล เนื้อผ้าซาตินเงางาม สไตล์หรูหราแบบราชสำนัก\r\n\r\nชุดน้ำชาเครื่องเคลือบรู (Ru-ware) สีฟ้าใสจากราชวงศ์ซ่ง เคลือบผิวด้วยเทคนิคแตกลายงาที่ละเอียดอ่อน โทนสี 'ฟ้าหลังฝน' จัดวางในสไตล์มินิมอลแบบราชวงศ์ซ่ง ถ่ายภาพนิ่งในสตูดิโอคุณภาพระดับพิพิธภัณฑ์",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Khăn choàng lụa với họa tiết 'Cung nữ cài hoa' từ thời nhà Đường, nổi bật với {argument name=\"pattern design\" default=\"họa tiết cung nữ vây quanh của Chu Phưởng\"}, dệt vàng hoa hải đường, chất liệu satin bóng bẩy, phong cách sang trọng cung đình.\r\n\r\nBộ ấm trà gốm Nhữ thời nhà Tống với lớp men xanh thiên thanh, lớp men rạn băng tinh tế, màu sắc 'xanh như bầu trời sau cơn mưa', bối cảnh phong cách tối giản thời nhà Tống, nhiếp ảnh tĩnh vật studio đẳng cấp bảo tàng.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Chal de seda con el patrón 'Damas de la corte con tocados florales' de la dinastía Tang, que presenta {argument name=\"pattern design\" default=\"patrón de las damas de la corte de Zhou Fang\"}, tejido dorado con flores de manzano silvestre, textura de satén brillante, estilo de lujo palaciego.\r\n\r\nJuego de té de cerámica Ru de la dinastía Song con esmalte azul cielo, delicado esmalte con grietas de hielo, color 'azul como el cielo después de la lluvia', entorno minimalista al estilo de la dinastía Song, fotografía de estudio de bodegones con calidad de museo.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Seidenschal mit dem Muster „Hofdame mit Blumenschmuck“ aus der Tang-Dynastie, mit {argument name=\"pattern design\" default=\"Zhou Fangs Muster von Hofdamen im Kreis\"}, Goldweberei mit Holzapfelblüten, glänzende Satintextur, luxuriöser Palaststil.\r\n\r\nTeeservice aus Ru-Keramik der Song-Dynastie mit himmelblauer Glasur, zarte Eiskristall-Glasur, Farbe „blau wie der Himmel nach dem Regen“, minimalistisches Setting im Stil der Song-Dynastie, Stillleben-Studiofotografie in Museumsqualität.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Châle en soie avec motif « Dames de la cour portant des coiffes florales » de la dynastie Tang, présentant {argument name=\"pattern design\" default=\"motif entourant les dames de la cour de Zhou Fang\"}, tissage doré à fleurs de pommier, texture satinée brillante, style luxe de palais.\r\n\r\nService à thé en céramique Ru de la dynastie Song avec glaçure bleu ciel, glaçure délicate à craquelures de glace, couleur « bleu comme le ciel après la pluie », décor minimaliste de style dynastie Song, photographie de studio nature morte de qualité muséale.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Scialle in seta con motivo 'Dame di corte con copricapo floreale' della dinastia Tang, caratterizzato da {argument name=\"pattern design\" default=\"motivo circolare delle dame di corte di Zhou Fang\"}, tessitura dorata con fiori di melo selvatico, texture in raso lucido, stile lussuoso di palazzo.\r\n\r\nSet da tè in ceramica Ru della dinastia Song con smalto color azzurro cielo, delicata crettatura, colore 'azzurro come il cielo dopo la pioggia', ambientazione minimalista in stile dinastia Song, fotografia still life da museo.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Xale de seda com estampa de 'Damas da Corte Usando Adornos Florais' da Dinastia Tang, apresentando {argument name=\"pattern design\" default=\"padrão de damas da corte de Zhou Fang\"}, tecelagem dourada com flores de macieira, textura de cetim brilhante, estilo de luxo palaciano.\r\n\r\nConjunto de chá em cerâmica Ru da Dinastia Song com esmalte azul-celeste, esmalte delicado com efeito de rachaduras de gelo, cor 'azul como o céu após a chuva', cenário minimalista no estilo da Dinastia Song, fotografia de estúdio de natureza morta com qualidade de museu.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Chinese Traditional Luxury Product Design",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 中国传统奢华产品设计",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ภาพหลักสำหรับอีคอมเมิร์ซ - การออกแบบผลิตภัณฑ์หรูหราสไตล์จีนดั้งเดิม",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình ảnh chính thương mại điện tử - Thiết kế sản phẩm cao cấp phong cách truyền thống Trung Hoa",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Diseño de productos de lujo tradicionales chinos",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Traditionelles chinesisches Luxusproduktdesign",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Design de produits de luxe traditionnels chinois",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Design di prodotti di lusso ispirati alla tradizione cinese",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Design de Produtos de Luxo com Estilo Tradicional Chinês",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Two prompts for high-end product design: a Tang Dynasty inspired silk shawl and a Song Dynasty style Ru-ware tea set.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "两款高端产品设计提示词：灵感源自唐代的丝绸披肩和宋代风格汝窑茶具。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Deux prompts pour le design de produits haut de gamme : un châle en soie inspiré de la dynastie Tang et un service à thé en céramique Ru de style dynastie Song.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/XiaoKooeye/status/2048210401809314173",
+      "originalId": "https://x.com/XiaoKooeye/status/2048210401809314173",
+      "authors": [
+        {
+          "name": "Xiao Yang",
+          "url": "https://x.com/XiaoKooeye"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4811
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_33b8c0b9a4ff44c6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280771677_7lq50r_HGy0ak5bIAABTD6.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280771677_7lq50r_HGy0ak5bIAABTD6.jpg",
+      "localPath": "public/assets/prompt_5dda084d679277291aa0/618ab7b50ef9.jpg",
+      "alt": "E-commerce Main Image - Chinese Traditional Luxury Product Design - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_9ef5637496849bdf",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280771689_181ztb_HGy0b8gbEAEFaGl.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280771689_181ztb_HGy0b8gbEAEFaGl.jpg",
+      "localPath": "public/assets/prompt_5dda084d679277291aa0/6b7eb3e63bb0.jpg",
+      "alt": "E-commerce Main Image - Chinese Traditional Luxury Product Design - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-25T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.128Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.571Z"
+  }
+}

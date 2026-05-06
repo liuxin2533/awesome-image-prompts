@@ -1,0 +1,108 @@
+{
+  "id": "prompt_f454bcbe21aa3cc093fd",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "一幅戏剧性的电影海报风格肖像，描绘了两位史诗奇幻战士在冰冻风暴中背靠背站立。左侧是一位身经百战的男性战士，留着湿漉漉的深色卷发，低头以此表达坚定的决心，紧握着一把插在冰里的中世纪长剑。霜雪附着在他毛皮镶边的斗篷和肩膀上。右侧是一位强有力的女性战士侧影，苍白的皮肤在炽热的橙色光芒下闪耀，她的身体部分被火焰吞没，与冰冷的蓝色氛围形成对比。雪花粒子在空中盘旋，在象征性的冲突中融合了火与冰。超精细的面部细节，情感强度，体积雾，电影级布光，冷蓝色调混合温暖的火焰高光，浅景深，史诗奇幻电影海报，超写实，8K分辨率，戏剧性构图，清晰聚焦，高对比度，逼真纹理。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A dramatic cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm. On the left, a battle-worn male warrior with wet, curly dark hair, head bowed in quiet resolve, gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak and shoulders. On the right, a powerful female warrior in profile, pale skin glowing with fiery orange light, her body partially engulfed in flames thatcontrast against the icy blue atmosphere. Snow particles swirl through the air, blending fire and ice in a symbolic clash. Ultra-detailed faces, emotional intensity, volumetric fog, cinematic lighting, cold blue tones mixed with warm fire highlights, shallow depth of field, epic fantasy movie poster, hyper-realistic, 8K resolution, dramatic composition, sharp focus, high contrast, photorealistic textures.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "冰火双雄背靠背史诗电影海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Ice and Fire Twin Heroes Back to Back Epic Movie Poster",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:42:52.292Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_2fd03016aa",
+      "value": "冰火双雄背靠背史诗电影海报",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-320",
+      "originalId": "case-320",
+      "authors": [
+        {
+          "name": "Naiknelofar788",
+          "url": "https://x.com/Naiknelofar788/status/2025972876554510482"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 4539
+        }
+      ],
+      "rawSource": "[@Naiknelofar788](https://x.com/Naiknelofar788/status/2025972876554510482)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_88c5384cce05db38",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case320.jpg",
+      "upstreamPath": "../data/images/case320.jpg",
+      "localPath": "public/assets/prompt_f454bcbe21aa3cc093fd/11baa110ce79.jpg",
+      "alt": "冰火双雄背靠背史诗电影海报",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "movie poster",
+      "海报",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

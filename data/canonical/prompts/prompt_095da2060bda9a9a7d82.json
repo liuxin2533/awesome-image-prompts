@@ -1,0 +1,87 @@
+{
+  "id": "prompt_095da2060bda9a9a7d82",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "一张三甲医院的门诊处方笺，医生潦草的手写字，包含真实合理的 诊断、药品名、剂量，右下角有医生签名和科室章。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible handwriting, containing realistic and reasonable diagnosis, drug names, dosages, with a doctor's signature and department stamp in the bottom right corner.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "三甲医院真实门诊处方笺",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Real Outpatient Prescription from a Tertiary Grade A Hospital",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:46:49.560Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_c9f5869e9d",
+      "value": "三甲医院真实门诊处方笺",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-201",
+      "originalId": "case-201",
+      "authors": [
+        {
+          "name": "msjiaozhu",
+          "url": "https://x.com/msjiaozhu/status/2046546317766500834"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1159
+        }
+      ],
+      "rawSource": "[@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_28707e1f88b5468f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case201.jpg",
+      "upstreamPath": "../data/images/case201.jpg",
+      "localPath": "public/assets/prompt_095da2060bda9a9a7d82/2e8f57de968b.jpg",
+      "alt": "三甲医院真实门诊处方笺",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

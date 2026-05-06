@@ -1,0 +1,87 @@
+{
+  "id": "prompt_b54a53e6f240b9c1f453",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "杠精视角文案 + GPT Image 2",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Troll perspective copywriting + GPT Image 2",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "杠精视角的独特文案创意",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Contrarian Perspective: Unique Copywriting Ideas",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:17:45.432Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_90c5af68c2",
+      "value": "杠精视角的独特文案创意",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-203",
+      "originalId": "case-203",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2046596222505361866"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1199
+        }
+      ],
+      "rawSource": "[@joshesye](https://x.com/joshesye/status/2046596222505361866)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_092a79488954d97f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case203.jpg",
+      "upstreamPath": "../data/images/case203.jpg",
+      "localPath": "public/assets/prompt_b54a53e6f240b9c1f453/25fa50eded1a.jpg",
+      "alt": "杠精视角的独特文案创意",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.598Z"
+  }
+}

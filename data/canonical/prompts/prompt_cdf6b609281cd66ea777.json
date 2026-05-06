@@ -1,0 +1,106 @@
+{
+  "id": "prompt_cdf6b609281cd66ea777",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "请用这个角色制作一本专业设计师打造的照片集。语言为日语。  \n\n根据喜好加入提示词会让它更丰富多彩…  \n・丰富的场景  \n・信息量较多",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Please use this character to create a photo book crafted by a professional designer. The language should be Japanese.\n\nAdding prompts according to your preferences will make it more colorful and rich\n・Rich scenes\n・Large amount of information",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "专业设计师打造角色写真集",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Professional designer creates character photo collection",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:26:12.642Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_9d5d5e2910",
+      "value": "专业设计师打造角色写真集",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-212",
+      "originalId": "case-212",
+      "authors": [
+        {
+          "name": "Kashiko_AIart",
+          "url": "https://x.com/Kashiko_AIart/status/2046492817804099794"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1407
+        }
+      ],
+      "rawSource": "[@Kashiko\\_AIart](https://x.com/Kashiko_AIart/status/2046492817804099794)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_84895f7cc603ac32",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case212.jpg",
+      "upstreamPath": "../data/images/case212.jpg",
+      "localPath": "public/assets/prompt_cdf6b609281cd66ea777/bc7764edeb67.jpg",
+      "alt": "专业设计师打造角色写真集",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "photo",
+      "写真"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

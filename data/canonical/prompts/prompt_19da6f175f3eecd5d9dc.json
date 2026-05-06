@@ -1,0 +1,104 @@
+{
+  "id": "prompt_19da6f175f3eecd5d9dc",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "9:16 vertical — Korean idol portrait photography, single subject  soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks  minimal indoor setting near window, white curtains, clean light-toned background  young Korean female idol, natural minimal makeup, dewy realistic skin texture, subtle imperfections  outfit: oversized white button-up shirt + short bottoms, slightly loose fit, soft and casual styling, no revealing elements  hair: long dark hair, slightly messy, natural volume, softly flowing  pose: relaxed standing or slight lean, body subtly angled, one leg slightly forward, shoulders relaxed; one hand lightly touching collar or resting near neckline, the other relaxed; gentle body curve without exaggeration  expression: soft cute smile, slightly playful eyes, direct or slightly off-camera gaze  camera: close to mid-body framing, eye-level, intimate distance, slight handheld feel  lighting: diffused natural daylight, soft shadows, gentle light wrapping around face and body  mood: cute yet subtly sensual, intimate, everyday softness, quiet romantic atmosphere  quality: ultra-realistic, fine film grain, slight softness at edges, natural imperfections, dreamy understated tone",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "9:16 垂直 — 韩国偶像肖像摄影，单人主体  柔和黑色雾气滤镜效果，降低对比度，柔和高光晕染，微妙发光，柔和扩散，略微暗化的黑色  极简室内场景，靠近窗户，白色窗帘，浅色干净背景  年轻韩国女性偶像，自然极简妆容，湿润逼真的皮肤纹理，细微瑕疵  服装：超大号白色纽扣衬衫 + 短款下装，略微宽松，柔软休闲风格，无暴露元素  发型：深色长发，略微凌乱，自然蓬松，柔和飘逸  姿势：放松站立或轻微倾斜，身体微妙角度，一条腿略微前伸，肩膀放松；一只手轻触衣领或靠近颈部，另一只手放松；柔和的身体曲线不过分夸张  表情：柔和可爱的微笑，略带俏皮的眼神，直视或略微偏离镜头的凝视  相机：近景到中景构图，眼部高度，亲密距离，轻微手持感  光线：柔和的自然日光，柔和阴影，光线柔和地环绕面部和身体  氛围：可爱又微妙性感，亲密，日常柔和感，安静浪漫的氛围  质量：超写实，细腻胶片颗粒，边缘略微柔和，自然瑕疵，梦幻含蓄的色调",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:02:19.822Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Soft Black Mist Idol Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/BubbleBrain/status/2046518189509734903",
+      "originalId": "case-16",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 181
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9ac877d5cd33b072",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case16/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case16/output.jpg",
+      "localPath": "public/assets/prompt_19da6f175f3eecd5d9dc/069e565d9207.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

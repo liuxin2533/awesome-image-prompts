@@ -1,0 +1,196 @@
+{
+  "id": "prompt_0a04ed802741805972d1",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Subject & Composition: A high-end fashion studio portrait of a confident woman wearing a premium athletic matching set. She is posed from the waist up, slightly angled to the side while looking off-camera. She has her hands tucked into the front kangaroo pocket of her hoodie. Outfit Details: Top: An {argument name=\"clothing style\" default=\"oversized color-blocked hoodie\"} featuring a dynamic \"V\" or hourglass-shaped panel design. The colors include {argument name=\"color palette\" default=\"deep royal purple, lavender, and heather gray\"}. The fabric is a high-quality heavyweight fleece with visible soft texture. Bottom: Matching athletic shorts with the same curved color-blocking pattern. Branding: A small, minimalist athletic logo centered on the chest in a subtle pink or light lavender embroidery. Model Styling: Appearance: Light-brown skin tone, youthful features, and a natural, \"no-makeup\" makeup look. Hair: Styled in a high, textured messy bun with soft, curly flyaways framing the forehead and ears. Accessories: Simple, small gold hoop earrings and a delicate thin gold chain necklace. Technical Specifications: Lighting: Professional studio lighting; soft, even butterfly lighting to minimize harsh shadows while emphasizing garment texture. Background: Clean, solid light-gray seamless paper backdrop with a subtle floor-to-wall gradient. Camera Settings: Shot on an 85mm lens, f/4.0 aperture for sharp focus across the entire outfit, ultra-high resolution, 8K, hyper-realistic skin and fabric textures. Aesthetic: Clean, commercial e-commerce photography, high-fashion editorial, minimalist and modern.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "主体与构图：一张高端时尚摄影棚人像，模特是一位身着高级运动套装、充满自信的女性。采用半身构图，身体略微侧转，视线看向画外。双手插在连帽衫前方的袋鼠兜里。服装细节：上装：一件 {argument name=\"clothing style\" default=\"oversized color-blocked hoodie\"}，采用动感的“V”字形或沙漏型拼接设计。配色包含 {argument name=\"color palette\" default=\"深宝蓝色、薰衣草紫和麻灰色\"}。面料为高品质重磅抓绒，具有可见的柔软质感。下装：带有相同弧形撞色图案的配套运动短裤。品牌标识：胸前中心位置有一个极简风格的运动 Logo，采用精致的粉色或浅薰衣草紫刺绣。模特造型：外貌：浅棕色皮肤，年轻的面部特征，呈现自然的“伪素颜”妆容。发型：高位凌乱丸子头，额头和耳边有柔软卷曲的碎发修饰。配饰：简约的小金圈耳环和一条精致的细金项链。技术规格：布光：专业摄影棚布光；柔和均匀的蝴蝶光，在减少生硬阴影的同时强调服装质感。背景：干净的纯色浅灰色无缝背景纸，带有微妙的地面到墙面渐变。相机设置：使用 85mm 镜头拍摄，f/4.0 光圈以确保整套服装清晰对焦，超高分辨率，8K 画质，超写实的皮肤与面料质感。美学风格：干净的商业电商摄影，高级时尚杂志大片，极简且现代。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Sujeto y composición: Un retrato de estudio de moda de alta gama de una mujer segura de sí misma que viste un conjunto deportivo premium a juego. Está posada de la cintura hacia arriba, ligeramente inclinada hacia un lado mientras mira fuera de cámara. Tiene las manos metidas en el bolsillo tipo canguro delantero de su sudadera con capucha. Detalles del atuendo: Parte superior: Una {argument name=\"clothing style\" default=\"sudadera con capucha oversize de bloques de color\"} que presenta un diseño de panel dinámico en forma de \"V\" o de reloj de arena. Los colores incluyen {argument name=\"color palette\" default=\"morado real intenso, lavanda y gris jaspeado\"}. La tela es un tejido polar pesado de alta calidad con una textura suave visible. Parte inferior: Shorts deportivos a juego con el mismo patrón curvo de bloques de color. Branding: Un logotipo deportivo pequeño y minimalista centrado en el pecho con un bordado sutil en rosa o lavanda claro. Estilo del modelo: Apariencia: Tono de piel marrón claro, rasgos juveniles y un look de maquillaje natural \"sin maquillaje\". Cabello: Peinado en un moño alto, desordenado y texturizado con mechones suaves y rizados que enmarcan la frente y las orejas. Accesorios: Aretes de aro pequeños y sencillos de oro y un collar de cadena fina y delicada de oro. Especificaciones técnicas: Iluminación: Iluminación de estudio profesional; iluminación tipo mariposa suave y uniforme para minimizar las sombras marcadas mientras se enfatiza la textura de la prenda. Fondo: Fondo de papel continuo gris claro, sólido y limpio, con un degradado sutil de piso a pared. Configuración de la cámara: Capturado con un lente de 85 mm, apertura f/4.0 para un enfoque nítido en todo el atuendo, resolución ultra alta, 8K, texturas de piel y tela hiperrealistas. Estética: Fotografía comercial limpia para e-commerce, editorial de alta moda, minimalista y moderna.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Motiv & Komposition: Ein hochwertiges Fashion-Studio-Porträt einer selbstbewussten Frau in einem erstklassigen Sport-Set. Sie ist von der Taille aufwärts abgebildet, leicht zur Seite gedreht und blickt an der Kamera vorbei. Ihre Hände stecken in der vorderen Kängurutasche ihres Hoodies. Outfit-Details: Oberteil: Ein {argument name=\"clothing style\" default=\"oversized Color-Blocking-Hoodie\"} mit einem dynamischen, V- oder sanduhrförmigen Panel-Design. Die Farben umfassen {argument name=\"color palette\" default=\"tiefes Königsblau, Lavendel und Heidekrautgrau\"}. Der Stoff ist ein hochwertiges, schweres Fleece mit sichtbarer, weicher Textur. Unterteil: Passende Sportshorts mit demselben geschwungenen Color-Blocking-Muster. Branding: Ein kleines, minimalistisches Sport-Logo mittig auf der Brust in einer dezenten rosa oder helllavendelfarbenen Stickerei. Styling des Models: Erscheinungsbild: Hellbrauner Hautton, jugendliche Gesichtszüge und ein natürlicher „No-Makeup“-Look. Haar: Gestylt zu einem hohen, strukturierten Messy Bun mit weichen, lockigen Strähnen, die Stirn und Ohren umrahmen. Accessoires: Schlichte, kleine goldene Creolen und eine zarte, dünne Goldhalskette. Technische Spezifikationen: Beleuchtung: Professionelle Studiobeleuchtung; weiches, gleichmäßiges Butterfly-Licht, um harte Schatten zu minimieren und gleichzeitig die Textur des Kleidungsstücks hervorzuheben. Hintergrund: Sauberer, einfarbiger, hellgrauer nahtloser Papierhintergrund mit einem dezenten Farbverlauf vom Boden zur Wand. Kameraeinstellungen: Aufgenommen mit einem 85-mm-Objektiv, Blende f/4.0 für scharfen Fokus auf das gesamte Outfit, ultrahohe Auflösung, 8K, hyperrealistische Haut- und Stofftexturen. Ästhetik: Saubere kommerzielle E-Commerce-Fotografie, High-Fashion-Editorial, minimalistisch und modern.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Sujet et composition : Un portrait studio de mode haut de gamme d'une femme confiante portant un ensemble de sport premium assorti. Elle est photographiée de la taille vers le haut, légèrement de profil, le regard détourné de l'objectif. Ses mains sont glissées dans la poche kangourou avant de son sweat à capuche. Détails de la tenue : Haut : Un {argument name=\"clothing style\" default=\"sweat à capuche oversize color-block\"} présentant un design dynamique avec des empiècements en forme de « V » ou de sablier. Les couleurs incluent {argument name=\"color palette\" default=\"violet royal profond, lavande et gris chiné\"}. Le tissu est un molleton épais de haute qualité avec une texture douce visible. Bas : Short de sport assorti avec le même motif incurvé en color-blocking. Branding : Un petit logo sportif minimaliste centré sur la poitrine, réalisé dans une broderie subtile rose ou lavande clair. Style du modèle : Apparence : Teint brun clair, traits juvéniles et maquillage naturel « no-makeup ». Cheveux : Coiffés en un chignon haut texturé et décontracté, avec des mèches folles et bouclées encadrant le front et les oreilles. Accessoires : Petites créoles dorées simples et un délicat collier à chaîne fine en or. Spécifications techniques : Éclairage : Éclairage studio professionnel ; éclairage papillon doux et uniforme pour minimiser les ombres marquées tout en soulignant la texture du vêtement. Arrière-plan : Fond en papier uni gris clair, propre et sans raccord, avec un dégradé subtil du sol au mur. Paramètres de l'appareil photo : Prise de vue avec un objectif 85 mm, ouverture f/4.0 pour une mise au point nette sur l'ensemble de la tenue, ultra-haute résolution, 8K, textures de peau et de tissu hyper-réalistes. Esthétique : Photographie e-commerce propre et commerciale, éditorial de haute couture, minimaliste et moderne.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Soggetto e composizione: Un ritratto di moda in studio di alta gamma che ritrae una donna sicura di sé con un completo sportivo premium. È inquadrata dalla vita in su, leggermente di profilo mentre guarda fuori campo. Ha le mani infilate nella tasca a marsupio della felpa. Dettagli dell'outfit: Parte superiore: Una {argument name=\"clothing style\" default=\"felpa oversize color-block\"} caratterizzata da un design dinamico con pannelli a forma di \"V\" o a clessidra. I colori includono {argument name=\"color palette\" default=\"viola reale intenso, lavanda e grigio melange\"}. Il tessuto è un pile pesante di alta qualità con una texture morbida e visibile. Parte inferiore: Pantaloncini sportivi abbinati con lo stesso motivo curvo color-block. Branding: Un piccolo logo sportivo minimalista centrato sul petto, realizzato con un delicato ricamo rosa o lavanda chiaro. Styling della modella: Aspetto: Carnagione castano chiaro, lineamenti giovanili e un look naturale \"no-makeup\". Capelli: Acconciati in uno chignon alto e spettinato, con morbide ciocche ricce che incorniciano la fronte e le orecchie. Accessori: Semplici orecchini a cerchio piccoli in oro e una sottile e delicata collana a catena d'oro. Specifiche tecniche: Illuminazione: Illuminazione professionale da studio; luce a farfalla morbida e uniforme per ridurre al minimo le ombre nette ed enfatizzare la texture del capo. Sfondo: Fondale fotografico in carta continua grigio chiaro, pulito e uniforme, con una sottile sfumatura dal pavimento alla parete. Impostazioni fotocamera: Scattato con un obiettivo da 85mm, apertura f/4.0 per una messa a fuoco nitida sull'intero outfit, risoluzione ultra-elevata, 8K, texture della pelle e dei tessuti iper-realistiche. Estetica: Fotografia commerciale pulita per e-commerce, editoriale di alta moda, minimalista e moderna.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Assunto e Composição: Um retrato de estúdio de moda de alto padrão de uma mulher confiante vestindo um conjunto esportivo premium. Ela está posada da cintura para cima, levemente inclinada para o lado enquanto olha para fora da câmera. Ela está com as mãos enfiadas no bolso canguru frontal do seu moletom. Detalhes do Traje: Parte superior: Um {argument name=\"clothing style\" default=\"moletom oversized com blocos de cores\"} apresentando um design de painel dinâmico em formato de \"V\" ou ampulheta. As cores incluem {argument name=\"color palette\" default=\"roxo royal profundo, lavanda e cinza mescla\"}. O tecido é um fleece pesado de alta qualidade com textura macia visível. Parte inferior: Shorts esportivos combinando com o mesmo padrão curvo de blocos de cores. Branding: Um logotipo esportivo pequeno e minimalista centralizado no peito em um bordado sutil rosa ou lavanda claro. Estilo da Modelo: Aparência: Tom de pele castanho claro, traços jovens e uma maquiagem natural estilo \"nada\". Cabelo: Estilizado em um coque alto e bagunçado com textura, com fios soltos e cacheados emoldurando a testa e as orelhas. Acessórios: Brincos de argola pequenos e simples em ouro e um colar de corrente fina e delicada. Especificações Técnicas: Iluminação: Iluminação de estúdio profissional; iluminação butterfly suave e uniforme para minimizar sombras fortes enquanto enfatiza a textura da peça. Fundo: Fundo de papel contínuo cinza-claro sólido e limpo com um gradiente sutil do chão à parede. Configurações da Câmera: Capturado com uma lente de 85mm, abertura f/4.0 para foco nítido em todo o traje, resolução ultra-alta, 8K, texturas de pele e tecido hiper-realistas. Estética: Fotografia comercial limpa para e-commerce, editorial de alta moda, minimalista e moderna.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Premium Fashion Studio Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 高端时尚摄影棚人像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Retrato de estudio de moda premium",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Premium Fashion-Studio-Porträt",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Portrait studio mode haut de gamme",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Ritratto fotografico di moda premium in studio",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Retrato de Estúdio de Moda Premium",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Creates high-end fashion photography shots focusing on athletic apparel with professional lighting, color-blocking details, and realistic fabric textures.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作专注于运动服饰的高端时尚摄影作品，具备专业布光、撞色细节及逼真的面料质感。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée des clichés de photographie de mode haut de gamme axés sur les vêtements de sport, avec un éclairage professionnel, des détails de color-blocking et des textures de tissu réalistes.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/SPEEDAI07/status/2050412567504572566",
+      "originalId": "https://x.com/SPEEDAI07/status/2050412567504572566",
+      "authors": [
+        {
+          "name": "SPEEDYAI",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4598
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_023dd26109dfa7ed",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777797558796_3b2vfo_HHSHXMxbIAAszo5.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777797558796_3b2vfo_HHSHXMxbIAAszo5.jpg",
+      "localPath": "public/assets/prompt_0a04ed802741805972d1/269b091e6bd4.jpg",
+      "alt": "E-commerce Main Image - Premium Fashion Studio Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_830bb51081e422af",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777797558828_zhjm0q_HHSHXPlawAAgY0L.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777797558828_zhjm0q_HHSHXPlawAAgY0L.jpg",
+      "localPath": "public/assets/prompt_0a04ed802741805972d1/fa18964411d8.jpg",
+      "alt": "E-commerce Main Image - Premium Fashion Studio Portrait - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_e7414da553a92e04",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777797558626_s277bq_HHSHXNbakAEwcg_.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777797558626_s277bq_HHSHXNbakAEwcg_.jpg",
+      "localPath": "public/assets/prompt_0a04ed802741805972d1/911783fba7e4.jpg",
+      "alt": "E-commerce Main Image - Premium Fashion Studio Portrait - Image 3",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-01T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "人像",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.876Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_a1a4244bbdefa73d0596",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"cinematic promotional poster\",\r\n  \"style\": \"3D CGI animation style, highly detailed, dramatic lighting, caricature characters\",\r\n  \"characters\": [\r\n    { \"id\": \"char1\", \"description\": \"large shirtless man with long black hair, beard, and glasses\" },\r\n    { \"id\": \"char2\", \"description\": \"elderly woman in a kimono with white hair tied up\" },\r\n    { \"id\": \"char3\", \"description\": \"small man with a topknot, glasses, mustache, wearing a bright green sweater\" }\r\n  ],\r\n  \"layout\": {\r\n    \"panels\": [\r\n      {\r\n        \"position\": \"top\",\r\n        \"scene\": \"wide shot of a town street with buildings and a city skyline in the background\",\r\n        \"characters_present\": [\"char1\", \"char2\", \"char3\"],\r\n        \"text_overlays\": [\r\n          \"{argument name=\\\"intro text\\\" default=\\\"ある日ーー\\\"}\",\r\n          \"いつもの日常がーー\",\r\n          \"こんばんは\"\r\n        ]\r\n      },\r\n      {\r\n        \"position\": \"middle left\",\r\n        \"scene\": \"close-up of char1 looking shocked against a dark fiery background\",\r\n        \"text_overlays\": [\r\n          \"{argument name=\\\"shocked text\\\" default=\\\"私が出禁？\\\"}\"\r\n        ]\r\n      },\r\n      {\r\n        \"position\": \"middle right\",\r\n        \"scene\": \"close-up of char2 looking angry and pointing against a stormy sea background\",\r\n        \"text_overlays\": [\r\n          \"{argument name=\\\"angry text\\\" default=\\\"海を荒らすな！\\\"}\"\r\n        ]\r\n      },\r\n      {\r\n        \"position\": \"bottom\",\r\n        \"scene\": \"char3 pointing, char1 screaming, a second instance of char3 falling backwards, and char2 sitting angrily against a fiery chaotic background\",\r\n        \"text_overlays\": [\r\n          \"全然出ない！\"\r\n        ],\r\n        \"bottom_titles\": [\r\n          \"{argument name=\\\"main title\\\" default=\\\"パチンコ軍団親のイメチェン\\\"}\",\r\n          \"{argument name=\\\"subtitle\\\" default=\\\"LINEスタンプ販売中\\\"}\"\r\n        ]\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"cinematic promotional poster\",\n  \"style\": \"3D CGI animation style, highly detailed, dramatic lighting, caricature characters\",\n  \"characters\": [\n    { \"id\": \"char1\", \"description\": \"large shirtless man with long black hair, beard, and glasses\" },\n    { \"id\": \"char2\", \"description\": \"elderly woman in a kimono with white hair tied up\" },\n    { \"id\": \"char3\", \"description\": \"small man with a topknot, glasses, mustache, wearing a bright green sweater\" }\n  ],\n  \"layout\": {\n    \"panels\": [\n      {\n        \"position\": \"top\",\n        \"scene\": \"wide shot of a town street with buildings and a city skyline in the background\",\n        \"characters_present\": [\"char1\", \"char2\", \"char3\"],\n        \"text_overlays\": [\n          \"{argument name=\\\"intro text\\\" default=\\\"One day - -\\\"}\",\n          \"Everyday life - -\",\n          \"Good evening\"\n        ]\n      },\n      {\n        \"position\": \"middle left\",\n        \"scene\": \"close-up of char1 looking shocked against a dark fiery background\",\n        \"text_overlays\": [\n          \"{argument name=\\\"shocked text\\\" default=\\\"Am I banned?\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"middle right\",\n        \"scene\": \"close-up of char2 looking angry and pointing against a stormy sea background\",\n        \"text_overlays\": [\n          \"{argument name=\\\"angry text\\\" default=\\\"Don't stir up the sea!\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"bottom\",\n        \"scene\": \"char3 pointing, char1 screaming, a second instance of char3 falling backwards, and char2 sitting angrily against a fiery chaotic background\",\n        \"text_overlays\": [\n          \"It won't come out at all!\"\n        ],\n        \"bottom_titles\": [\n          \"{argument name=\\\"main title\\\" default=\\\"Pachinko Gang Parent's Makeover\\\"}\",\n          \"{argument name=\\\"subtitle\\\" default=\\\"LINE Stamps Now Available\\\"}\"\n        ]\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:10:02.966Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Theme Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:10:06.218Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-59",
+      "originalId": "case-59",
+      "authors": [
+        {
+          "name": "X64zzotSKCGtYmt",
+          "url": "https://x.com/X64zzotSKCGtYmt"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1509
+        }
+      ],
+      "rawSource": "[@X64zzotSKCGtYmt](https://x.com/X64zzotSKCGtYmt)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c6c5e97bb34c95b1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case59.jpg",
+      "upstreamPath": "../data/images/case59.jpg",
+      "localPath": "public/assets/prompt_a1a4244bbdefa73d0596/40fe7f574c09.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

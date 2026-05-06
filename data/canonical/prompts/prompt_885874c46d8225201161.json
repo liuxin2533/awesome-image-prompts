@@ -1,0 +1,105 @@
+{
+  "id": "prompt_885874c46d8225201161",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀\n\n长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感\n\n身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹理与闪耀颗粒。\n\n整体光影为暖金色逆光，强边缘光，体积光明显，光粒漂浮，柔光泛光，梦幻氛围\n\n背景干净浅色渐变，带微光与粒子效果，整体氛围空灵、梦境、神圣\n\n风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀\n\n长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感\n\n身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹理与闪耀颗粒。\n\n整体光影为暖金色逆光，强边缘光，体积光明显，光粒漂浮，柔光泛光，梦幻氛围\n\n背景干净浅色渐变，带微光与粒子效果，整体氛围空灵、梦境、神圣\n\n风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:22.231Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Eastern Fantasy Female Half-Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "东方幻想女性半身像",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:24.671Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/liyue_ai/status/2046962895775580442",
+      "originalId": "case-65",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 492
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_695c3962d6dddfa4",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case109/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case109/output.jpg",
+      "localPath": "public/assets/prompt_885874c46d8225201161/e1579854617c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.592Z"
+  }
+}

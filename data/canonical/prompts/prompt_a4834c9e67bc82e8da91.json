@@ -1,0 +1,175 @@
+{
+  "id": "prompt_a4834c9e67bc82e8da91",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"Japanese anime fashion magazine cover\",\"format\":\"single glossy magazine cover, vertical portrait, high-end editorial layout\",\"masthead\":{\"main_title\":\"SILVER\",\"script_suffix\":\"style\",\"tagline\":\"わたしらしく輝く、毎日の大人可愛いコーデ\",\"date\":\"May 2024\",\"issue_number\":\"05\",\"price\":\"定価 780 yen\"},\"theme\":\"{argument name=\\\"fashion theme\\\" default=\\\"adult-cute silver gray feminine outfit styling\\\"}\",\"cover_model\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Silver\\\"}\",\"style\":\"soft anime girl, elegant young adult, centered full-body pose\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"long silver-white hair\\\"}, straight with soft bangs and face-framing layers\",\"pose\":\"standing in front of a fountain, smiling mood, both hands raised in peace signs\",\"outfit\":\"off-shoulder gray plaid check one-piece dress with oversized sailor-like collar, black front buttons, fitted black waist belt with gold buckle, black cuff accents, black mid-calf short boots\",\"face\":\"intentionally obscured by a plain pale square censor block, preserving the fashion-magazine layout\"},\"background\":{\"setting\":\"bright outdoor terrace with pale tiles, modern building glass, greenery, circular blue fountain and white water jets\",\"lighting\":\"sunny spring daylight, soft reflections, clean pastel editorial atmosphere\"},\"layout\":{\"style\":\"Japanese women's fashion magazine cover with layered translucent text boxes, lavender-gray typography, white and pale beige accents, elegant script handwriting\",\"main_feature\":{\"position\":\"left center\",\"label\":\"今月の特集\",\"headline\":\"大人可愛いは“抜け感”がカギ！\",\"subhead\":\"上品さと可愛さを両立する 5つのルール\"},\"secondary_feature\":{\"position\":\"lower left to center\",\"label\":\"大人可愛いコーデ特集\",\"headline\":\"上品に、ときめく。私の新しいフェミニンスタイル\",\"body\":\"柔らかなグレーとチェック柄でつくる、大人のかわいさ。シルバーの透明感が映える春のお出かけコーデをご紹介♡\"},\"right_feature\":{\"position\":\"upper right\",\"label\":\"SILVER'S DIARY\",\"headline\":\"シルバーの休日クローゼット\",\"body\":\"カフェ巡り・美術館・お散歩にぴったりな3つのシーン別コーデ\"},\"callouts_count\":3,\"callouts\":[{\"position\":\"mid-left\",\"title\":\"Silver's Point♡\",\"items_count\":3,\"items\":[\"オフショルで抜け感UP\",\"くすみカラーで上品に\",\"ベルトでメリハリをプラス\"]},{\"position\":\"right circular badge\",\"title\":\"読者プレゼント\",\"text\":\"サイン入りチェキ 3名様に!\"},{\"position\":\"bottom left polaroid\",\"title\":\"SILVER's VOICE\",\"text\":\"可愛いも“大人っぽい”も、どっちもわたしらしく楽しみたい！あなたのお気に入りコーデ見つけてね♪\"}],\"item_check\":{\"position\":\"right column\",\"title\":\"♥ ITEM CHECK ♥\",\"count\":3,\"items\":[{\"label\":\"Off-shoulder Check One-piece\",\"description\":\"オフショルチェック ワンピース\",\"image\":\"small product cutout of the gray plaid dress\"},{\"label\":\"Black Belt\",\"description\":\"細ベルトでスタイルUP\",\"image\":\"small product cutout of black belt with gold buckle\"},{\"label\":\"Short Boots\",\"description\":\"ショートブーツで大人っぽく\",\"image\":\"small product cutout of glossy black boots\"}]},\"next_issue\":{\"position\":\"bottom right\",\"title\":\"NEXT ISSUE\",\"text\":\"6月号のテーマは…『雨の日のときめきコーデ』\"},\"signature\":\"Love myself, Love fashion.\"},\"typography\":{\"masthead\":\"very large pale lavender serif letters behind model\",\"headlines\":\"bold Japanese Gothic and rounded Mincho mix\",\"accent\":\"black elegant cursive script for style and handwritten notes\"},\"color_palette\":\"silver gray, lavender, white, pale beige, black accents, fountain blue\",\"quality\":\"high-resolution polished anime illustration, clean magazine print design, detailed clothing folds, realistic product cutouts, professional editorial composition\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"日本动漫时尚杂志封面\",\"format\":\"单页光面杂志封面，竖版肖像，高端编辑排版\",\"masthead\":{\"main_title\":\"SILVER\",\"script_suffix\":\"style\",\"tagline\":\"做闪闪发光的自己，每日轻熟可爱穿搭\",\"date\":\"2024 年 5 月\",\"issue_number\":\"05\",\"price\":\"定価 780 yen\"},\"theme\":\"{argument name=\\\"fashion theme\\\" default=\\\"轻熟可爱银灰色系女性穿搭造型\\\"}\",\"cover_model\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Silver\\\"}\",\"style\":\"柔和动漫少女，优雅年轻女性，居中全身姿势\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"长银白色头发\\\"}，直发，配有柔和刘海和修饰脸型的层次感剪裁\",\"pose\":\"站在喷泉前，微笑表情，双手比 V 字手势\",\"outfit\":\"露肩灰色格纹连衣裙，配有超大水手领、黑色前排扣、带金色扣环的黑色收腰腰带、黑色袖口装饰、黑色中筒短靴\",\"face\":\"刻意被一个浅色方形遮挡块遮住，保留时尚杂志的排版感\"},\"background\":{\"setting\":\"明亮的户外露台，铺设浅色地砖，现代建筑玻璃，绿植，圆形蓝色喷泉和白色水柱\",\"lighting\":\"明媚的春日阳光，柔和的反光，干净的淡雅编辑氛围\"},\"layout\":{\"style\":\"日本女性时尚杂志封面，带有层叠的半透明文本框，薰衣草灰色字体，白色和浅米色点缀，优雅的手写体\",\"main_feature\":{\"position\":\"左中\",\"label\":\"今月の特集\",\"headline\":\"轻熟可爱的关键在于“松弛感”！\",\"subhead\":\"兼顾优雅与可爱的 5 条法则\"},\"secondary_feature\":{\"position\":\"左下至中间\",\"label\":\"轻熟可爱穿搭特辑\",\"headline\":\"优雅，心动。我的全新女性风格\",\"body\":\"用柔和的灰色和格纹打造大人的可爱感。为您介绍展现银色透明感的春季出游穿搭♡\"},\"right_feature\":{\"position\":\"右上\",\"label\":\"SILVER'S DIARY\",\"headline\":\"Silver 的假日衣橱\",\"body\":\"适合咖啡馆打卡、美术馆、散步的 3 种场景穿搭\"},\"callouts_count\":3,\"callouts\":[{\"position\":\"左中\",\"title\":\"Silver's Point♡\",\"items_count\":3,\"items\":[\"露肩设计提升松弛感\",\"莫兰迪色系更显优雅\",\"腰带增加身材比例\"]},{\"position\":\"右侧圆形徽章\",\"title\":\"读者赠品\",\"text\":\"签名拍立得 3 名额!\"},{\"position\":\"左下拍立得\",\"title\":\"SILVER's VOICE\",\"text\":\"可爱与“成熟感”，我都想以自己的方式享受！快来寻找你最喜欢的穿搭吧♪\"}],\"item_check\":{\"position\":\"右侧栏\",\"title\":\"♥ ITEM CHECK ♥\",\"count\":3,\"items\":[{\"label\":\"Off-shoulder Check One-piece\",\"description\":\"露肩格纹连衣裙\",\"image\":\"灰色格纹连衣裙的小型产品抠图\"},{\"label\":\"Black Belt\",\"description\":\"细腰带提升身材比例\",\"image\":\"带金色扣环的黑色腰带小型产品抠图\"},{\"label\":\"Short Boots\",\"description\":\"短靴打造轻熟感\",\"image\":\"光面黑色短靴的小型产品抠图\"}]},\"next_issue\":{\"position\":\"右下\",\"title\":\"NEXT ISSUE\",\"text\":\"6 月号主题是…『雨天的怦然心动穿搭』\"},\"signature\":\"Love myself, Love fashion.\"},\"typography\":{\"masthead\":\"模特身后超大的浅薰衣草色衬线字母\",\"headlines\":\"粗体日文黑体与圆体明朝体混合\",\"accent\":\"用于风格标注和手写笔记的黑色优雅连笔字\"},\"color_palette\":\"银灰色，薰衣草色，白色，浅米色，黑色点缀，喷泉蓝\",\"quality\":\"高分辨率精致动漫插画，干净的杂志印刷设计，细腻的衣物褶皱，逼真的产品抠图，专业的编辑构图\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"portada de revista de moda anime japonesa\",\"format\":\"portada de revista brillante individual, retrato vertical, diseño editorial de alta gama\",\"masthead\":{\"main_title\":\"SILVER\",\"script_suffix\":\"style\",\"tagline\":\"Brillando a mi manera, atuendos lindos y maduros para el día a día\",\"date\":\"Mayo 2024\",\"issue_number\":\"05\",\"price\":\"Precio 780 yenes\"},\"theme\":\"{argument name=\\\"fashion theme\\\" default=\\\"estilo de atuendo femenino gris plateado lindo y maduro\\\"}\",\"cover_model\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Silver\\\"}\",\"style\":\"chica anime de estilo suave, joven adulta elegante, pose de cuerpo completo centrada\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"cabello largo color blanco plateado\\\"}, lacio con flequillo suave y capas que enmarcan el rostro\",\"pose\":\"de pie frente a una fuente, expresión sonriente, ambas manos levantadas haciendo el signo de la paz\",\"outfit\":\"vestido de una pieza a cuadros gris con hombros descubiertos y cuello marinero extragrande, botones frontales negros, cinturón negro ajustado a la cintura con hebilla dorada, detalles en los puños negros, botines negros a media pantorrilla\",\"face\":\"deliberadamente oscurecido por un bloque censor cuadrado de color pálido, preservando el diseño de la revista de moda\"},\"background\":{\"setting\":\"terraza exterior luminosa con azulejos pálidos, vidrio de edificio moderno, vegetación, fuente circular azul y chorros de agua blancos\",\"lighting\":\"luz solar de primavera, reflejos suaves, atmósfera editorial limpia y pastel\"},\"layout\":{\"style\":\"portada de revista de moda femenina japonesa con cuadros de texto translúcidos superpuestos, tipografía gris lavanda, acentos blancos y beige pálidos, caligrafía elegante\",\"main_feature\":{\"position\":\"centro izquierda\",\"label\":\"Reportaje del mes\",\"headline\":\"¡La clave de lo lindo y maduro es la 'ligereza'!\",\"subhead\":\"5 reglas para equilibrar la elegancia y la ternura\"},\"secondary_feature\":{\"position\":\"inferior izquierda a centro\",\"label\":\"Especial de atuendos lindos y maduros\",\"headline\":\"Elegante y emocionante. Mi nuevo estilo femenino\",\"body\":\"La ternura madura creada con gris suave y patrones a cuadros. Presentamos atuendos de primavera que resaltan la transparencia del plateado♡\"},\"right_feature\":{\"position\":\"superior derecha\",\"label\":\"SILVER'S DIARY\",\"headline\":\"El clóset de vacaciones de Silver\",\"body\":\"Atuendos para 3 escenas perfectas: visitas a cafés, museos y paseos\"},\"callouts_count\":3,\"callouts\":[{\"position\":\"centro izquierda\",\"title\":\"El toque de Silver♡\",\"items_count\":3,\"items\":[\"Hombros descubiertos para un toque ligero\",\"Colores apagados para mayor elegancia\",\"Cinturón para definir la silueta\"]},{\"position\":\"insignia circular derecha\",\"title\":\"Regalo para lectores\",\"text\":\"¡3 ganadores de una foto autografiada!\"},{\"position\":\"polaroid inferior izquierda\",\"title\":\"LA VOZ DE SILVER\",\"text\":\"¡Quiero disfrutar tanto de lo lindo como de lo 'maduro' a mi manera! Encuentra tu atuendo favorito♪\"}],\"item_check\":{\"position\":\"columna derecha\",\"title\":\"♥ ITEM CHECK ♥\",\"count\":3,\"items\":[{\"label\":\"Vestido a cuadros con hombros descubiertos\",\"description\":\"Vestido a cuadros con hombros descubiertos\",\"image\":\"pequeño recorte del vestido a cuadros gris\"},{\"label\":\"Cinturón negro\",\"description\":\"Cinturón delgado para mejorar el estilo\",\"image\":\"pequeño recorte del cinturón negro con hebilla dorada\"},{\"label\":\"Botines\",\"description\":\"Botines para un toque maduro\",\"image\":\"pequeño recorte de botines negros brillantes\"}]},\"next_issue\":{\"position\":\"inferior derecha\",\"title\":\"PRÓXIMA EDICIÓN\",\"text\":\"El tema de la edición de junio es... 'Atuendos emocionantes para días de lluvia'\"},\"signature\":\"Ámate a ti misma, ama la moda.\"},\"typography\":{\"masthead\":\"letras serif grandes de color lavanda pálido detrás de la modelo\",\"headlines\":\"mezcla de gótico japonés negrita y Mincho redondeado\",\"accent\":\"caligrafía elegante negra para el estilo y notas manuscritas\"},\"color_palette\":\"gris plateado, lavanda, blanco, beige pálido, acentos negros, azul fuente\",\"quality\":\"ilustración anime pulida de alta resolución, diseño de impresión de revista limpio, pliegues de ropa detallados, recortes de productos realistas, composición editorial profesional\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"Japanisches Anime-Modemagazin-Cover\",\"format\":\"einzelnes Hochglanz-Magazin-Cover, vertikales Porträt, hochwertiges redaktionelles Layout\",\"masthead\":{\"main_title\":\"SILVER\",\"script_suffix\":\"style\",\"tagline\":\"Ich selbst sein und strahlen, jeden Tag ein erwachsen-niedlicher Look\",\"date\":\"Mai 2024\",\"issue_number\":\"05\",\"price\":\"Preis 780 Yen\"},\"theme\":\"{argument name=\\\"fashion theme\\\" default=\\\"erwachsen-niedliches silbergraues, feminines Outfit-Styling\\\"}\",\"cover_model\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Silver\\\"}\",\"style\":\"sanftes Anime-Mädchen, elegante junge Erwachsene, zentrierte Ganzkörperpose\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"langes silberweißes Haar\\\"}, glatt mit weichem Pony und gesichtsumrahmenden Stufen\",\"pose\":\"stehend vor einem Brunnen, lächelnde Stimmung, beide Hände zeigen das Victory-Zeichen\",\"outfit\":\"schulterfreies, grau kariertes Kleid mit übergroßem, matrosenartigem Kragen, schwarze Knöpfe vorne, taillierter schwarzer Gürtel mit goldener Schnalle, schwarze Manschettenakzente, schwarze wadenhohe Stiefel\",\"face\":\"bewusst durch einen schlichten, hellen quadratischen Zensurbalken verdeckt, um das Modemagazin-Layout zu wahren\"},\"background\":{\"setting\":\"helle Außenterrasse mit hellen Fliesen, modernes Gebäudeglas, Grünpflanzen, kreisförmiger blauer Brunnen und weiße Wasserfontänen\",\"lighting\":\"sonniges Frühlings-Tageslicht, sanfte Reflexionen, saubere, pastellfarbene redaktionelle Atmosphäre\"},\"layout\":{\"style\":\"Japanisches Damen-Modemagazin-Cover mit geschichteten, halbtransparenten Textboxen, lavendelgrauer Typografie, weißen und hellbeigen Akzenten, eleganter Schreibschrift\",\"main_feature\":{\"position\":\"links mittig\",\"label\":\"Thema des Monats\",\"headline\":\"Erwachsen-niedlich durch den 'Locker-Look'!\",\"subhead\":\"5 Regeln für die perfekte Balance zwischen Eleganz und Niedlichkeit\"},\"secondary_feature\":{\"position\":\"unten links bis mittig\",\"label\":\"Erwachsen-niedliche Outfit-Specials\",\"headline\":\"Elegant und bezaubernd. Mein neuer femininer Stil\",\"body\":\"Erwachsene Niedlichkeit durch sanftes Grau und Karomuster. Wir präsentieren Frühlings-Outfits, in denen die silberne Transparenz besonders gut zur Geltung kommt♡\"},\"right_feature\":{\"position\":\"oben rechts\",\"label\":\"SILVER'S DIARY\",\"headline\":\"Silvers Urlaubs-Garderobe\",\"body\":\"3 Outfits für verschiedene Anlässe: Café-Besuch, Museum und Spaziergang\"},\"callouts_count\":3,\"callouts\":[{\"position\":\"mittig links\",\"title\":\"Silvers Tipp♡\",\"items_count\":3,\"items\":[\"Schulterfrei für mehr Lässigkeit\",\"Dezente Farben für Eleganz\",\"Gürtel für eine betonte Silhouette\"]},{\"position\":\"rechtes kreisförmiges Abzeichen\",\"title\":\"Lesergeschenk\",\"text\":\"Signierte Instax-Fotos für 3 Gewinner!\"},{\"position\":\"unten links Polaroid\",\"title\":\"SILVER'S VOICE\",\"text\":\"Ich möchte sowohl niedlich als auch erwachsen sein – ganz auf meine Art! Finde dein Lieblings-Outfit♪\"}],\"item_check\":{\"position\":\"rechte Spalte\",\"title\":\"♥ ITEM CHECK ♥\",\"count\":3,\"items\":[{\"label\":\"Schulterfreies Karo-Kleid\",\"description\":\"Schulterfreies Karo-Kleid\",\"image\":\"kleiner Produktausschnitt des grauen karierten Kleids\"},{\"label\":\"Schwarzer Gürtel\",\"description\":\"Schmaler Gürtel für eine tolle Figur\",\"image\":\"kleiner Produktausschnitt des schwarzen Gürtels mit goldener Schnalle\"},{\"label\":\"Kurzstiefel\",\"description\":\"Kurzstiefel für einen erwachsenen Look\",\"image\":\"kleiner Produktausschnitt der glänzenden schwarzen Stiefel\"}]},\"next_issue\":{\"position\":\"unten rechts\",\"title\":\"NÄCHSTE AUSGABE\",\"text\":\"Das Thema der Juni-Ausgabe ist... 'Bezaubernde Outfits für Regentage'\"},\"signature\":\"Love myself, Love fashion.\"},\"typography\":{\"masthead\":\"sehr große, hell-lavendelfarbene Serifenschrift hinter dem Model\",\"headlines\":\"Mischung aus fetter japanischer Gothic-Schrift und abgerundeter Mincho\",\"accent\":\"schwarze, elegante Schreibschrift für Stil und handschriftliche Notizen\"},\"color_palette\":\"silbergrau, lavendel, weiß, hellbeige, schwarze Akzente, Brunnenblau\",\"quality\":\"hochauflösende, polierte Anime-Illustration, sauberes Magazin-Druckdesign, detaillierte Kleiderfalten, realistische Produktausschnitte, professionelle redaktionelle Komposition\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"Couverture de magazine de mode anime japonais\",\"format\":\"couverture de magazine glacé unique, portrait vertical, mise en page éditoriale haut de gamme\",\"masthead\":{\"main_title\":\"SILVER\",\"script_suffix\":\"style\",\"tagline\":\"Briller à ma façon, des tenues adultes et mignonnes au quotidien\",\"date\":\"Mai 2024\",\"issue_number\":\"05\",\"price\":\"Prix public 780 yens\"},\"theme\":\"{argument name=\\\"fashion theme\\\" default=\\\"style féminin adulte-mignon gris argenté\\\"}\",\"cover_model\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Silver\\\"}\",\"style\":\"fille anime douce, jeune adulte élégante, pose en pied centrée\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"longs cheveux blanc argenté\\\"}, raides avec une frange douce et des mèches encadrant le visage\",\"pose\":\"debout devant une fontaine, humeur souriante, les deux mains levées en signe de victoire\",\"outfit\":\"robe une pièce à carreaux gris à épaules dénudées avec un col marin oversize, boutons noirs sur le devant, ceinture noire ajustée avec boucle dorée, détails de poignets noirs, bottines noires mi-mollet\",\"face\":\"intentionnellement masqué par un bloc carré pâle et uni, préservant la mise en page du magazine de mode\"},\"background\":{\"setting\":\"terrasse extérieure lumineuse avec des dalles pâles, verre de bâtiment moderne, verdure, fontaine bleue circulaire et jets d'eau blancs\",\"lighting\":\"lumière du jour printanière ensoleillée, reflets doux, atmosphère éditoriale pastel épurée\"},\"layout\":{\"style\":\"Couverture de magazine de mode féminine japonaise avec des zones de texte translucides superposées, typographie gris lavande, accents blancs et beige pâle, écriture manuscrite élégante\",\"main_feature\":{\"position\":\"centre gauche\",\"label\":\"Dossier du mois\",\"headline\":\"Le secret du style adulte-mignon : la décontraction !\",\"subhead\":\"5 règles pour allier élégance et mignonnerie\"},\"secondary_feature\":{\"position\":\"bas gauche vers le centre\",\"label\":\"Dossier tenues adultes-mignonnes\",\"headline\":\"Élégante et pétillante. Mon nouveau style féminin\",\"body\":\"Créez un look adulte et mignon avec du gris doux et des motifs à carreaux. Découvrez nos tenues de printemps qui font ressortir la transparence de l'argenté ♡\"},\"right_feature\":{\"position\":\"haut droite\",\"label\":\"SILVER'S DIARY\",\"headline\":\"Le dressing de vacances de Silver\",\"body\":\"3 tenues adaptées à chaque occasion : virée au café, musée et promenade\"},\"callouts_count\":3,\"callouts\":[{\"position\":\"milieu gauche\",\"title\":\"Le conseil de Silver♡\",\"items_count\":3,\"items\":[\"Épaules dénudées pour plus de légèreté\",\"Couleurs sourdes pour l'élégance\",\"Ceinture pour structurer la silhouette\"]},{\"position\":\"badge circulaire droit\",\"title\":\"Cadeau lecteur\",\"text\":\"3 polaroïds dédicacés à gagner !\"},{\"position\":\"polaroïd bas gauche\",\"title\":\"LA PAROLE À SILVER\",\"text\":\"Je veux profiter de mon style en étant à la fois mignonne et adulte ! Trouve ta tenue préférée♪\"}],\"item_check\":{\"position\":\"colonne droite\",\"title\":\"♥ ITEM CHECK ♥\",\"count\":3,\"items\":[{\"label\":\"Robe à carreaux épaules dénudées\",\"description\":\"Robe à carreaux épaules dénudées\",\"image\":\"petit visuel détouré de la robe à carreaux gris\"},{\"label\":\"Ceinture noire\",\"description\":\"Ceinture fine pour affiner la silhouette\",\"image\":\"petit visuel détouré de la ceinture noire à boucle dorée\"},{\"label\":\"Bottines\",\"description\":\"Bottines pour un look adulte\",\"image\":\"petit visuel détouré des bottines noires brillantes\"}]},\"next_issue\":{\"position\":\"bas droite\",\"title\":\"PROCHAIN NUMÉRO\",\"text\":\"Le thème du numéro de juin... « Tenues pétillantes pour les jours de pluie »\"},\"signature\":\"Love myself, Love fashion.\"},\"typography\":{\"masthead\":\"très grandes lettres serif lavande pâle derrière le modèle\",\"headlines\":\"mélange de polices japonaises Gothic et Mincho arrondies\",\"accent\":\"élégante écriture cursive noire pour le style et les notes manuscrites\"},\"color_palette\":\"gris argenté, lavande, blanc, beige pâle, accents noirs, bleu fontaine\",\"quality\":\"illustration anime haute résolution, design d'impression magazine propre, plis de vêtements détaillés, détourages produits réalistes, composition éditoriale professionnelle\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"Copertina di rivista di moda anime giapponese\",\"format\":\"singola copertina di rivista patinata, ritratto verticale, layout editoriale di alta gamma\",\"masthead\":{\"main_title\":\"SILVER\",\"script_suffix\":\"style\",\"tagline\":\"Brillare a modo mio, outfit adulto-carino per tutti i giorni\",\"date\":\"Maggio 2024\",\"issue_number\":\"05\",\"price\":\"Prezzo 780 yen\"},\"theme\":\"{argument name=\\\"fashion theme\\\" default=\\\"styling outfit femminile grigio argento adulto-carino\\\"}\",\"cover_model\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Silver\\\"}\",\"style\":\"ragazza anime dai tratti morbidi, giovane adulta elegante, posa a figura intera centrata\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"lunghi capelli bianco-argento\\\"}, lisci con frangia morbida e scalature che incorniciano il viso\",\"pose\":\"in piedi davanti a una fontana, umore sorridente, entrambe le mani sollevate in segno di vittoria\",\"outfit\":\"abito monopezzo scozzese grigio con spalle scoperte e colletto oversize alla marinara, bottoni frontali neri, cintura nera in vita con fibbia dorata, polsini neri, stivaletti neri a metà polpaccio\",\"face\":\"intenzionalmente oscurato da un blocco censore quadrato color pallido, preservando il layout della rivista di moda\"},\"background\":{\"setting\":\"terrazza esterna luminosa con piastrelle chiare, vetro di edificio moderno, vegetazione, fontana circolare blu e getti d'acqua bianchi\",\"lighting\":\"luce diurna primaverile soleggiata, riflessi morbidi, atmosfera editoriale pastello pulita\"},\"layout\":{\"style\":\"Copertina di rivista di moda femminile giapponese con caselle di testo traslucide a strati, tipografia grigio lavanda, accenti bianchi e beige pallido, elegante calligrafia\",\"main_feature\":{\"position\":\"centro sinistra\",\"label\":\"Speciale del mese\",\"headline\":\"Il segreto dell'adulto-carino è la 'leggerezza'!\",\"subhead\":\"5 regole per bilanciare eleganza e dolcezza\"},\"secondary_feature\":{\"position\":\"da basso a sinistra verso il centro\",\"label\":\"Speciale outfit adulto-carino\",\"headline\":\"Elegante e vibrante. Il mio nuovo stile femminile\",\"body\":\"Crea un look adulto e carino con grigio morbido e motivi scozzesi. Ti presentiamo l'outfit primaverile perfetto dove risplende la trasparenza dell'argento♡\"},\"right_feature\":{\"position\":\"in alto a destra\",\"label\":\"SILVER'S DIARY\",\"headline\":\"Il guardaroba del tempo libero di Silver\",\"body\":\"3 outfit per diverse occasioni: giro dei caffè, musei e passeggiate\"},\"callouts_count\":3,\"callouts\":[{\"position\":\"centro sinistra\",\"title\":\"Il consiglio di Silver♡\",\"items_count\":3,\"items\":[\"Spalle scoperte per un tocco leggero\",\"Colori tenui per l'eleganza\",\"Cintura per definire la silhouette\"]},{\"position\":\"badge circolare a destra\",\"title\":\"Regalo per i lettori\",\"text\":\"3 Polaroid autografate in palio!\"},{\"position\":\"polaroid in basso a sinistra\",\"title\":\"LA VOCE DI SILVER\",\"text\":\"Voglio godermi sia il lato carino che quello 'adulto' a modo mio! Trova il tuo outfit preferito♪\"}],\"item_check\":{\"position\":\"colonna destra\",\"title\":\"♥ ITEM CHECK ♥\",\"count\":3,\"items\":[{\"label\":\"Abito scozzese con spalle scoperte\",\"description\":\"Abito scozzese con spalle scoperte\",\"image\":\"piccolo ritaglio del prodotto dell'abito scozzese grigio\"},{\"label\":\"Cintura nera\",\"description\":\"Cintura sottile per valorizzare lo stile\",\"image\":\"piccolo ritaglio del prodotto della cintura nera con fibbia dorata\"},{\"label\":\"Stivaletti\",\"description\":\"Stivaletti per un tocco adulto\",\"image\":\"piccolo ritaglio del prodotto degli stivaletti neri lucidi\"}]},\"next_issue\":{\"position\":\"in basso a destra\",\"title\":\"PROSSIMO NUMERO\",\"text\":\"Il tema del numero di giugno è... 'Outfit vibranti per i giorni di pioggia'\"},\"signature\":\"Love myself, Love fashion.\"},\"typography\":{\"masthead\":\"grandi lettere serif color lavanda pallido dietro la modella\",\"headlines\":\"mix di caratteri gotici giapponesi in grassetto e Mincho arrotondati\",\"accent\":\"elegante corsivo nero per lo stile e note scritte a mano\"},\"color_palette\":\"grigio argento, lavanda, bianco, beige pallido, accenti neri, blu fontana\",\"quality\":\"illustrazione anime lucida ad alta risoluzione, design di stampa per riviste pulito, pieghe dei vestiti dettagliate, ritagli di prodotto realistici, composizione editoriale professionale\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"capa de revista de moda anime japonesa\",\"format\":\"capa de revista brilhante única, retrato vertical, layout editorial de alto padrão\",\"masthead\":{\"main_title\":\"SILVER\",\"script_suffix\":\"style\",\"tagline\":\"Brilhando à minha maneira, looks adultos fofos para o dia a dia\",\"date\":\"Maio de 2024\",\"issue_number\":\"05\",\"price\":\"Preço fixo 780 ienes\"},\"theme\":\"{argument name=\\\"fashion theme\\\" default=\\\"estilo de roupa feminina adulto-fofa em cinza prata\\\"}\",\"cover_model\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Silver\\\"}\",\"style\":\"garota anime suave, jovem adulta elegante, pose de corpo inteiro centralizada\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"cabelo longo branco-prateado\\\"}, liso com franja suave e camadas que emolduram o rosto\",\"pose\":\"em pé em frente a uma fonte, expressão sorridente, ambas as mãos levantadas em sinal de paz\",\"outfit\":\"vestido de peça única xadrez cinza ombro a ombro com gola estilo marinheiro oversized, botões frontais pretos, cinto preto ajustado na cintura com fivela dourada, detalhes em punhos pretos, botas pretas curtas de cano médio\",\"face\":\"intencionalmente obscurecido por um bloco censor quadrado pálido, preservando o layout de revista de moda\"},\"background\":{\"setting\":\"terraço externo iluminado com azulejos claros, vidro de prédio moderno, vegetação, fonte circular azul e jatos de água brancos\",\"lighting\":\"luz do dia de primavera ensolarada, reflexos suaves, atmosfera editorial pastel limpa\"},\"layout\":{\"style\":\"capa de revista de moda feminina japonesa com caixas de texto translúcidas em camadas, tipografia cinza-lavanda, detalhes em branco e bege claro, caligrafia elegante\",\"main_feature\":{\"position\":\"centro esquerdo\",\"label\":\"Destaque do mês\",\"headline\":\"O segredo do 'adulto fofo' é a descontração!\",\"subhead\":\"5 regras para equilibrar elegância e fofura\"},\"secondary_feature\":{\"position\":\"inferior esquerdo para o centro\",\"label\":\"Especial de looks adultos fofos\",\"headline\":\"Elegante e emocionante. Meu novo estilo feminino\",\"body\":\"Crie um visual adulto fofo com cinza suave e xadrez. Apresentamos looks de primavera onde a transparência do prata se destaca♡\"},\"right_feature\":{\"position\":\"superior direito\",\"label\":\"DIÁRIO DA SILVER\",\"headline\":\"O guarda-roupa de fim de semana da Silver\",\"body\":\"3 looks para diferentes ocasiões: passeio no café, museu e caminhada\"},\"callouts_count\":3,\"callouts\":[{\"position\":\"centro-esquerda\",\"title\":\"Dica da Silver♡\",\"items_count\":3,\"items\":[\"Ombro a ombro para um toque descontraído\",\"Cores sóbrias para elegância\",\"Cinto para definir a silhueta\"]},{\"position\":\"emblema circular direito\",\"title\":\"Presente para leitoras\",\"text\":\"Foto autografada para 3 sortudas!\"},{\"position\":\"polaroid inferior esquerda\",\"title\":\"VOZ DA SILVER\",\"text\":\"Quero aproveitar tanto o lado fofo quanto o 'adulto'! Encontre seu look favorito♪\"}],\"item_check\":{\"position\":\"coluna direita\",\"title\":\"♥ VERIFICAÇÃO DE ITENS ♥\",\"count\":3,\"items\":[{\"label\":\"Vestido Xadrez Ombro a Ombro\",\"description\":\"Vestido xadrez ombro a ombro\",\"image\":\"pequeno recorte do produto do vestido xadrez cinza\"},{\"label\":\"Cinto Preto\",\"description\":\"Cinto fino para valorizar o estilo\",\"image\":\"pequeno recorte do produto do cinto preto com fivela dourada\"},{\"label\":\"Botas Curtas\",\"description\":\"Botas curtas para um toque adulto\",\"image\":\"pequeno recorte do produto das botas pretas brilhantes\"}]},\"next_issue\":{\"position\":\"inferior direito\",\"title\":\"PRÓXIMA EDIÇÃO\",\"text\":\"O tema da edição de junho é... 'Looks emocionantes para dias de chuva'\"},\"signature\":\"Ame a si mesma, ame a moda.\"},\"typography\":{\"masthead\":\"letras serifadas grandes em lavanda pálido atrás da modelo\",\"headlines\":\"mistura de gótico japonês em negrito e Mincho arredondado\",\"accent\":\"caligrafia cursiva elegante preta para estilo e notas manuscritas\"},\"color_palette\":\"cinza prata, lavanda, branco, bege claro, detalhes em preto, azul de fonte\",\"quality\":\"ilustração de anime polida em alta resolução, design de impressão de revista limpo, dobras de roupa detalhadas, recortes de produtos realistas, composição editorial profissional\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Anime Silver Style Magazine Cover",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 动漫银色风格杂志封面",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Portada de revista de moda estilo anime plateado",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Anime-Magazin-Cover im Silver-Style",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Couverture de magazine de mode style anime argenté",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Copertina di rivista in stile anime Silver",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Capa de Revista de Moda Anime Estilo Prata",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a Japanese fashion magazine cover featuring an anime model in a silver-gray adult-cute outfit with editorial callouts and item-check panels.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张日本时尚杂志封面，主角为身着银灰色轻熟可爱风服装的动漫模特，包含编辑部标题和单品检查面板。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une couverture de magazine de mode japonais mettant en vedette un modèle anime dans une tenue adulte-mignonne gris argenté, avec des encadrés éditoriaux et des panneaux de vérification d'articles.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/silver_AIArt/status/2051247346546266371#reversed-0",
+      "originalId": "https://x.com/silver_AIArt/status/2051247346546266371#reversed-0",
+      "authors": [
+        {
+          "name": "シルバー",
+          "url": "https://x.com/silver_AIArt"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4360
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8a643d3ef42dfdc7",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971088687_6a0olp_HHd-ls9bIAAFI0i.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971088687_6a0olp_HHd-ls9bIAAFI0i.jpg",
+      "localPath": "public/assets/prompt_a4834c9e67bc82e8da91/e5d034372d98.jpg",
+      "alt": "Product Marketing - Anime Silver Style Magazine Cover - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.865Z"
+  }
+}

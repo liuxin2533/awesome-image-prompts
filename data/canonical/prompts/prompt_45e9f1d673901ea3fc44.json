@@ -1,0 +1,107 @@
+{
+  "id": "prompt_45e9f1d673901ea3fc44",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A {argument name=\"painting style\" default=\"baroque oil painting\"} comes to life — its painted figures climbing out of the gilded frame into a {argument name=\"setting\" default=\"modern white gallery\"}, half their bodies still in flat 2D paint, half fully volumetric 3D humans, brushstrokes visible on their skin, the painting's background leaking watercolor clouds into the gallery ceiling, museum visitors frozen in shock, hyper-detailed, {argument name=\"artist influence\" default=\"René Magritte meets Pixar\"}, reality fracturing at every boundary",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一幅{argument name=\"painting style\" default=\"巴洛克油画\"}活了过来——画中的人物从镀金画框中爬进一个{argument name=\"setting\" default=\"现代白色美术馆\"}，他们一半的身体仍是扁平的2D绘画，一半是完全立体的3D人类，皮肤上可见笔触，画的背景中的水彩云朵渗入美术馆的天花板，博物馆的参观者震惊地僵在原地，超高细节，{argument name=\"artist influence\" default=\"雷内·马格利特遇见皮克斯\"}，现实在每个边界处破碎",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:09:27.552Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Surreal Baroque Painting Reality Fracture",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超现实巴洛克绘画现实破裂",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:09:09.814Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/JohnnyWang8802/status/2048129335853559824",
+      "originalId": "case-138",
+      "authors": [
+        {
+          "name": "JohnnyWang8802",
+          "url": "https://x.com/JohnnyWang8802"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1450
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0c636219e801678a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case138/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case138/output.jpg",
+      "localPath": "public/assets/prompt_45e9f1d673901ea3fc44/741ad5b5929b.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.554Z"
+  }
+}

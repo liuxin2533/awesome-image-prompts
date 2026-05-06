@@ -1,0 +1,275 @@
+{
+  "id": "prompt_c71455dafdeba9465a4a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a high-quality vertical encyclopedia-style infographic for [topic].\n\nThis should not be a normal poster or a simple illustration. It should feel like a modular educational infographic that combines the clarity of a field guide, the structure of an encyclopedia page, the polish of a lifestyle knowledge card, and the shareability of a strong social-media explainer.\n\nThe image should include:\n- a clear and appealing main visual of the topic\n- several enlarged detail callouts\n- multiple rounded modular information sections\n- strong title hierarchy and highlighted key labels\n- concise but information-rich educational content\n- visual scoring, quick takeaways, or a Top 5 module\n\nAdapt the content sections automatically based on the topic. Useful categories include:\nbasic profile, classification, appearance, habits or ecology, formation mechanism or structure, growth or usage conditions, care or maintenance advice, risks and cautions, suitable users or use cases, pros and cons, and a quick scorecard.\n\nVisual requirements:\nuse a clean light background, soft colors, subtle shadows, refined small icons, rounded information cards, and neat layout. The information density should be high but not crowded, and the final image should feel publishable, collectible, and repeatable as a knowledge-card format rather than an advertisement.\n\nDo not make it look like a commercial promo poster. Emphasize knowledge organization, modular information, and a field-guide presentation.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 [主题] 生成一张高质量的竖版百科风信息图。\n\n这不应该是一张普通海报，也不应只是简单插画。它应当像一个模块化教育信息图，融合野外图鉴的清晰度、百科页面的结构、生活方式知识卡的精致感，以及适合社交媒体传播的解释力。\n\n图像应包含：\n- 一个清晰且有吸引力的主题主视觉\n- 若干放大的细节标注\n- 多个圆角模块化信息区块\n- 强烈的标题层级和重点标签\n- 简洁但信息量高的教育内容\n- 评分、快速结论或 Top 5 模块\n\n根据主题自动调整内容模块。可用分类包括：\n基础档案、分类、外观、习性或生态、形成机制或结构、生长或使用条件、养护或维护建议、风险与注意事项、适用人群或应用场景、优缺点，以及快速评分卡。\n\n视觉要求：\n使用干净的浅色背景、柔和配色、细腻阴影、精致小图标、圆角信息卡片和整洁版式。信息密度要高但不能拥挤，最终成品应更像可发布、可收藏、可复用的知识卡模板，而不是广告。\n\n不要让它看起来像商业促销海报。重点应放在知识组织、模块化信息和图鉴式展示上。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "為 [topic] 生成一張高品質的直式百科風資訊圖。它不應是一般海報或單純插畫，而應結合圖鑑清晰度、百科頁面結構、知識卡的精緻感與社群分享性。內容需包含主視覺、放大細節標註、圓角模組資訊區塊、清晰標題層級、密集但不擁擠的教育內容、評分或 Top 5 模組，並依主題自動調整分類、外觀、機制、風險、適用對象、優缺點等欄位。整體應像可收藏的知識卡而非商業廣告。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[topic] の高品質な縦型百科事典スタイルのインフォグラフィックを生成する。\n\n普通のポスターや単純なイラストではなく、フィールドガイドの明快さ、百科事典ページの構造、ライフスタイル知識カードの洗練、SNS で共有しやすい強い解説力を組み合わせた、モジュール型教育インフォグラフィックにする。\n\n画像には以下を含める:\n- 主題の明確で魅力的なメインビジュアル\n- 複数の拡大ディテール callout\n- 角丸のモジュール型情報セクション\n- 強いタイトル階層と強調ラベル\n- 簡潔だが情報量の多い教育コンテンツ\n- スコア、即答ポイント、または Top 5 モジュール\n\nトピックに応じて内容セクションを自動調整する。例: 基本プロフィール、分類、外観、習性または生態、形成メカニズムまたは構造、生育または使用条件、ケアまたは保守の助言、リスクと注意点、適した利用者またはユースケース、長所と短所、クイックスコアカード。\n\nビジュアル要件:\n明るくクリーンな背景、柔らかい色、控えめな影、洗練された小アイコン、角丸カード、整ったレイアウト。情報密度は高くても窮屈に見えず、広告ではなく知識カードの形式として公開・収集・再利用できる見た目にする。\n\n商業プロモーションポスターにはしない。知識の整理、モジュール情報、フィールドガイド風の提示を重視する。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[topic] 에 대한 고품질 세로형 백과사전 스타일 인포그래픽을 생성한다. 필드 가이드의 명확성, 백과 페이지 구조, 라이프스타일 지식 카드의 세련됨, SNS 공유성을 결합한 모듈형 교육 인포그래픽이어야 한다. 메인 비주얼, 확대 콜아웃, 모듈 카드, 강조 라벨, 풍부한 정보, 빠른 요약이나 Top 5 모듈을 포함한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une infographie verticale de haute qualité pour [sujet], avec visuel principal, détails agrandis, sections modulaires arrondies, hiérarchie de titres, contenu pédagogique dense, et un rendu proche d'une carte de connaissance premium plutôt que d'une publicité.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge eine hochwertige vertikale Wissens-Infografik für [Thema] mit attraktivem Hauptmotiv, Detail-Callouts, modularen Informationskarten, klarer Titelhierarchie, kompakten Lerninhalten und einem Look, der eher an ein sammelbares Wissensformat als an Werbung erinnert.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una infografía vertical de alta calidad para [tema], con visual principal atractivo, detalles ampliados, módulos informativos redondeados, jerarquía tipográfica clara, contenido educativo denso y un resultado más cercano a una tarjeta de conocimiento premium que a un anuncio.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Encyclopedia-Style Knowledge Card",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "百科风知识卡",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "百科風知識卡",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "百科事典スタイル知識カード",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "백과사전 스타일 지식 카드",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Carte de connaissances style encyclopédie",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Enzyklopädieartige Wissenskarte",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Tarjeta de conocimiento estilo enciclopedia",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e156bfaa6d",
+      "value": "📚 信息图、教育与文档",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e5cd4ed1b2",
+      "value": "📚 資訊圖、教育與文件",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a835d8e9f",
+      "value": "📚 インフォグラフィック・教育・文書",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b316df1fa2",
+      "value": "📚 인포그래픽, 교육, 문서",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infographies-education-et-documents",
+      "value": "📚 Infographies, éducation et documents",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografiken-bildung-und-dokumente",
+      "value": "📚 Infografiken, Bildung und Dokumente",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografias-educacion-y-documentos",
+      "value": "📚 Infografías, educación y documentos",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046231542817497392"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 775
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 665
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 518
+        },
+        {
+          "file": "README:ja",
+          "line": 665
+        },
+        {
+          "file": "README:ko",
+          "line": 518
+        },
+        {
+          "file": "README:fr",
+          "line": 518
+        },
+        {
+          "file": "README:de",
+          "line": 518
+        },
+        {
+          "file": "README:es",
+          "line": 518
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7a8faabe8b68db50",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGcAZlsa8AEpG1O?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGcAZlsa8AEpG1O?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c71455dafdeba9465a4a/c849b57596aa.jpg",
+      "alt": "Panda",
+      "status": "pending"
+    },
+    {
+      "id": "asset_e19761afca1f8585",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGcAZj5aoAAnBtd?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGcAZj5aoAAnBtd?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c71455dafdeba9465a4a/0c972621fb9c.jpg",
+      "alt": "Peacock",
+      "status": "pending"
+    },
+    {
+      "id": "asset_57b9554932ecdea3",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGcAZkVaQAABlGk?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGcAZkVaQAABlGk?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c71455dafdeba9465a4a/80840c8808cc.jpg",
+      "alt": "Historical Figure",
+      "status": "pending"
+    },
+    {
+      "id": "asset_041e3baec9236676",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGcAZj6bYAAitbp?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGcAZj6bYAAitbp?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c71455dafdeba9465a4a/f4b8ee10efc9.jpg",
+      "alt": "Science Topic",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.734Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.927Z"
+  }
+}

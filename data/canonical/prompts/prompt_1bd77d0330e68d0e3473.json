@@ -1,0 +1,107 @@
+{
+  "id": "prompt_1bd77d0330e68d0e3473",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"character portrait grid\",\r\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Game of Thrones characters\\\"}\",\r\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"2D flat illustration, clean line art, comic style, profile view facing right, pale skin with blush\\\"}\",\r\n  \"layout\": {\r\n    \"grid\": \"3x3\",\r\n    \"background\": \"light gray textured\",\r\n    \"frame_style\": \"white rounded-rectangle frames with text labels below each\"\r\n  },\r\n  \"count\": 9,\r\n  \"portraits\": [\r\n    { \"label\": \"Jon Snow\", \"description\": \"black hair half-up, beard, dark fur cloak\" },\r\n    { \"label\": \"Daenerys Targaryen\", \"description\": \"silver braided hair, blue dress\" },\r\n    { \"label\": \"Tyrion Lannister\", \"description\": \"curly brown hair, beard, dark tunic with gold pin\" },\r\n    { \"label\": \"Cersei Lannister\", \"description\": \"blonde braided hair, ornate red and gold dress\" },\r\n    { \"label\": \"Ned Stark\", \"description\": \"brown hair half-up, beard, dark fur cloak\" },\r\n    { \"label\": \"Arya Stark\", \"description\": \"short dark hair half-up, brown tunic, sword hilt\" },\r\n    { \"label\": \"Jaime Lannister\", \"description\": \"short blonde hair, gold armor with lion motif\" },\r\n    { \"label\": \"Sansa Stark\", \"description\": \"red braided hair, blue dress with fur collar\" },\r\n    { \"label\": \"Theon Greyjoy\", \"description\": \"short dark curly hair, dark tunic with kraken pin\" }\r\n  ]\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"character portrait grid\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Game of Thrones characters\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"2D flat illustration, clean line art, comic style, profile view facing right, pale skin with blush\\\"}\",\n  \"layout\": {\n    \"grid\": \"3x3\",\n    \"background\": \"light gray textured\",\n    \"frame_style\": \"white rounded-rectangle frames with text labels below each\"\n  },\n  \"count\": 9,\n  \"portraits\": [\n    { \"label\": \"Jon Snow\", \"description\": \"black hair half-up, beard, dark fur cloak\" },\n    { \"label\": \"Daenerys Targaryen\", \"description\": \"silver braided hair, blue dress\" },\n    { \"label\": \"Tyrion Lannister\", \"description\": \"curly brown hair, beard, dark tunic with gold pin\" },\n    { \"label\": \"Cersei Lannister\", \"description\": \"blonde braided hair, ornate red and gold dress\" },\n    { \"label\": \"Ned Stark\", \"description\": \"brown hair half-up, beard, dark fur cloak\" },\n    { \"label\": \"Arya Stark\", \"description\": \"short dark hair half-up, brown tunic, sword hilt\" },\n    { \"label\": \"Jaime Lannister\", \"description\": \"short blonde hair, gold armor with lion motif\" },\n    { \"label\": \"Sansa Stark\", \"description\": \"red braided hair, blue dress with fur collar\" },\n    { \"label\": \"Theon Greyjoy\", \"description\": \"short dark curly hair, dark tunic with kraken pin\" }\n  ]\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:55:15.785Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "插画艺术创作图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Artistic Illustration Creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:55:20.104Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a46adb8134",
+      "value": "插画艺术创作图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-43",
+      "originalId": "case-43",
+      "authors": [
+        {
+          "name": "stark_nico99",
+          "url": "https://x.com/stark_nico99"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 959
+        }
+      ],
+      "rawSource": "[@stark\\_nico99](https://x.com/stark_nico99)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d4a9bd2cba2de115",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case43.jpg",
+      "upstreamPath": "../data/images/case43.jpg",
+      "localPath": "public/assets/prompt_1bd77d0330e68d0e3473/87eb71587853.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

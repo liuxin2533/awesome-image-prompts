@@ -1,0 +1,167 @@
+{
+  "id": "prompt_8b73bdb5f7e7622252e5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A candid nighttime balcony selfie of a young woman shot from a slightly high handheld phone angle, with the face mostly obscured by shadow and framing, emphasizing the outfit and mood rather than facial detail. She has {argument name=\"hair color\" default=\"dark brown\"} long loose wavy hair falling over both shoulders, medium tan skin, and wears 2 delicate gold necklaces, one a thin chain and one with a small cross pendant, plus a subtle bracelet on the wrist visible near the bottom edge. Her outfit is a fitted white sleeveless cropped tank top and {argument name=\"bottoms\" default=\"light blue low-rise denim jeans\"}, revealing the midriff. The pose is relaxed and slightly leaning, one arm extended to hold the phone, with a casual going-out aesthetic. Set the scene on a modern apartment balcony at night with a glass railing and a blurred distant city skyline filled with small bokeh lights. Use dim ambient lighting with a direct phone flash that illuminates the torso and hair, creating strong contrast, soft grain, slight motion blur, and an authentic late-night social-media selfie look. Vertical smartphone composition, close crop from upper chest to hips, realistic photography, moody, intimate, unpolished, natural proportions.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Night Balcony Flash Selfie",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Night Balcony Flash Selfie",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Night Balcony Flash Selfie",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a realistic late-night balcony selfie with flash, ideal for casual social-media style portrait photography.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/zitoIA/status/2048748755730509985#reversed-1",
+      "originalId": "https://x.com/zitoIA/status/2048748755730509985#reversed-1",
+      "authors": [
+        {
+          "name": "el_zitoIA",
+          "url": "https://x.com/zitoIA"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1053
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3a5f2d415fe83b2d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367354955_fv3q9k_HG6eH-IaQAAJsxF.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367354955_fv3q9k_HG6eH-IaQAAJsxF.jpg",
+      "localPath": "public/assets/prompt_8b73bdb5f7e7622252e5/bbe7af07cf7b.jpg",
+      "alt": "Profile / Avatar - Night Balcony Flash Selfie - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.567Z"
+  }
+}

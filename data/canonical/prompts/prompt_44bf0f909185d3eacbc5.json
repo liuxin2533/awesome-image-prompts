@@ -1,0 +1,184 @@
+{
+  "id": "prompt_44bf0f909185d3eacbc5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A hyper-detailed cinematic movie poster for a giant monster reboot set in Manhattan at sunset. A colossal enraged gorilla resembling King Kong stands on top of a heavily destroyed skyscraper in the foreground, roaring with mouth wide open and teeth exposed. The creature is massively muscular, covered in dark brown fur, with multiple visible battle scars and fresh wounds across the chest, arms, shoulders, and legs. One hand grips the broken steel spire and shattered crown of the building, while one huge foot crushes the rooftop. The city below is New York, with the Empire State Building clearly visible in the mid-right background and a dense skyline fading into dramatic golden haze. The sky is filled with dark storm clouds split by warm orange sunset light. Include exactly 3 military helicopters: 1 near the upper right shining a bright searchlight toward the ape, 1 smaller helicopter near the center-right skyline, and 1 lower-left helicopter sweeping a searchlight across smoky buildings. Add fires, smoke plumes, glowing embers, street-level destruction, and a sense of large-scale urban chaos. Compose it as a polished modern Hollywood theatrical one-sheet with the monster centered and towering over the city. In the lower third, add the tagline text: {argument name=\"tagline text\" default=\"The legend rises again.\"} Above the credits, place the huge metallic embossed title in two lines: {argument name=\"movie title\" default=\"KING KONG\"} and below it {argument name=\"subtitle\" default=\"REBORN\"}. Beneath that, add a dense realistic film-credit block with multiple producer, director, cast, and screenplay lines in small condensed type. At the very bottom, add the release line: {argument name=\"release text\" default=\"SUMMER 2026\"}. Use ultra-realistic lighting, dramatic contrast, blockbuster poster composition, volumetric smoke, sharp details, photoreal fur, and premium action-adventure disaster-film aesthetics.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张超高清电影海报，描绘了日落时分曼哈顿背景下的巨型怪兽重启之作。一只体型庞大、神情愤怒的巨猿（类似金刚）站在前景中一座损毁严重的摩天大楼顶端，张开大嘴咆哮，露出獠牙。怪兽肌肉发达，覆盖着深棕色皮毛，胸部、手臂、肩膀和腿部布满了清晰可见的战斗伤痕和新鲜伤口。一只手紧紧抓着断裂的钢制尖塔和破碎的楼顶，另一只巨大的脚踩碎了屋顶。下方的城市是纽约，中右侧背景中可以清晰看到帝国大厦，密集的城市天际线逐渐融入戏剧性的金色雾霭中。天空中布满了乌云，被温暖的橙色夕阳余晖撕裂。画面中需包含 3 架军用直升机：1 架位于右上角，正用明亮的探照灯照射巨猿；1 架较小的直升机位于中右侧天际线附近；1 架位于左下角，正用探照灯扫过烟雾缭绕的建筑。添加火光、烟柱、发光的余烬、街道层面的破坏感以及大规模城市混乱的氛围。构图采用精致的现代好莱坞影院单张海报风格，怪兽居中并耸立在城市之上。在底部三分之一处添加标语文本：{argument name=\"tagline text\" default=\"传奇再度崛起。\"} 在演职员表上方，放置两行巨大的金属浮雕标题：{argument name=\"movie title\" default=\"KING KONG\"} 以及下方的 {argument name=\"subtitle\" default=\"REBORN\"}。在其下方，添加一个密集且逼真的电影演职员表块，包含多行制片人、导演、演员和编剧信息，采用小型压缩字体。最底部添加上映日期：{argument name=\"release text\" default=\"2026 年夏季\"}。采用超写实光影、戏剧性对比、大片海报构图、体积烟雾、锐利细节、照片级皮毛质感以及高端动作冒险灾难片美学。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un póster de película cinematográfico hiperdetallado para un reinicio de monstruo gigante ambientado en Manhattan al atardecer. Un gorila colosal enfurecido que se asemeja a King Kong se encuentra sobre un rascacielos gravemente destruido en primer plano, rugiendo con la boca abierta y los dientes expuestos. La criatura es masivamente musculosa, cubierta de pelaje marrón oscuro, con múltiples cicatrices de batalla visibles y heridas frescas en el pecho, brazos, hombros y piernas. Una mano agarra la aguja de acero rota y la corona destrozada del edificio, mientras un pie enorme aplasta la azotea. La ciudad debajo es Nueva York, con el Empire State Building claramente visible en el fondo medio-derecho y un denso horizonte que se desvanece en una dramática bruma dorada. El cielo está lleno de oscuras nubes de tormenta divididas por la cálida luz naranja del atardecer. Incluye exactamente 3 helicópteros militares: 1 cerca de la parte superior derecha iluminando con un reflector brillante hacia el simio, 1 helicóptero más pequeño cerca del horizonte central-derecho y 1 helicóptero en la parte inferior izquierda barriendo con un reflector a través de edificios humeantes. Agrega incendios, columnas de humo, brasas brillantes, destrucción a nivel de calle y una sensación de caos urbano a gran escala. Compónlo como un póster teatral moderno y pulido de Hollywood con el monstruo centrado y elevándose sobre la ciudad. En el tercio inferior, agrega el eslogan: {argument name=\"tagline text\" default=\"La leyenda renace.\"} Sobre los créditos, coloca el enorme título metálico en relieve en dos líneas: {argument name=\"movie title\" default=\"KING KONG\"} y debajo {argument name=\"subtitle\" default=\"REBORN\"}. Debajo de eso, agrega un bloque denso y realista de créditos cinematográficos con múltiples líneas de productor, director, elenco y guion en letra pequeña y condensada. En la parte inferior, agrega la línea de estreno: {argument name=\"release text\" default=\"VERANO 2026\"}. Utiliza iluminación ultrarrealista, contraste dramático, composición de póster de blockbuster, humo volumétrico, detalles nítidos, pelaje fotorrealista y una estética premium de película de desastres y acción-aventura.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein hyperdetailliertes, kinoreifes Filmposter für das Reboot eines Riesenmonsters, das in Manhattan bei Sonnenuntergang spielt. Ein kolossaler, wütender Gorilla, der King Kong ähnelt, steht im Vordergrund auf einem schwer beschädigten Wolkenkratzer und brüllt mit weit aufgerissenem Maul und entblößten Zähnen. Die Kreatur ist massiv muskulös, mit dunkelbraunem Fell bedeckt und weist zahlreiche sichtbare Kampfnarben sowie frische Wunden an Brust, Armen, Schultern und Beinen auf. Eine Hand umklammert die zerbrochene Stahlspitze und die zertrümmerte Krone des Gebäudes, während ein riesiger Fuß das Dach zerquetscht. Die Stadt unter ihm ist New York, wobei das Empire State Building im mittleren rechten Hintergrund deutlich zu erkennen ist und eine dichte Skyline in dramatischem goldenen Dunst verschwimmt. Der Himmel ist erfüllt von dunklen Gewitterwolken, die vom warmen orangefarbenen Licht des Sonnenuntergangs durchbrochen werden. Fügen Sie genau 3 Militärhubschrauber hinzu: 1 in der Nähe der oberen rechten Seite, der einen hellen Suchscheinwerfer auf den Affen richtet, 1 kleinerer Hubschrauber in der Nähe der mittleren rechten Skyline und 1 Hubschrauber unten links, der mit einem Suchscheinwerfer über die rauchigen Gebäude streicht. Fügen Sie Feuer, Rauchwolken, glühende Asche, Zerstörung auf Straßenebene und ein Gefühl von großflächigem urbanen Chaos hinzu. Gestalten Sie es als poliertes, modernes Hollywood-Kinoplakat, bei dem das Monster zentriert über der Stadt thront. Fügen Sie im unteren Drittel den Tagline-Text hinzu: {argument name=\"tagline text\" default=\"Die Legende erhebt sich erneut.\"} Platzieren Sie über den Credits den riesigen, metallisch geprägten Titel in zwei Zeilen: {argument name=\"movie title\" default=\"KING KONG\"} und darunter {argument name=\"subtitle\" default=\"REBORN\"}. Fügen Sie darunter einen dichten, realistischen Film-Credit-Block mit mehreren Zeilen für Produzent, Regisseur, Besetzung und Drehbuch in kleiner, kompakter Schrift hinzu. Fügen Sie ganz unten die Veröffentlichungszeile hinzu: {argument name=\"release text\" default=\"SOMMER 2026\"}. Verwenden Sie ultra-realistische Beleuchtung, dramatische Kontraste, eine Blockbuster-Poster-Komposition, volumetrischen Rauch, scharfe Details, fotorealistisches Fell und eine erstklassige Action-Abenteuer-Katastrophenfilm-Ästhetik.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une affiche de film cinématographique ultra-détaillée pour le reboot d'un film de monstre géant se déroulant à Manhattan au coucher du soleil. Un gorille colossal et enragé ressemblant à King Kong se tient au sommet d'un gratte-ciel en ruines au premier plan, rugissant, la gueule grande ouverte et les crocs exposés. La créature est extrêmement musclée, couverte d'une fourrure brun foncé, avec de multiples cicatrices de combat visibles et des blessures fraîches sur la poitrine, les bras, les épaules et les jambes. Une main agrippe la flèche en acier brisée et le sommet fracassé de l'immeuble, tandis qu'un pied immense écrase le toit. La ville en contrebas est New York, avec l'Empire State Building clairement visible à l'arrière-plan, légèrement sur la droite, et une ligne d'horizon dense s'estompant dans une brume dorée spectaculaire. Le ciel est rempli de sombres nuages d'orage fendus par la lumière chaude et orangée du coucher du soleil. Incluez exactement 3 hélicoptères militaires : 1 près du coin supérieur droit projetant un projecteur lumineux vers le singe, 1 hélicoptère plus petit près de la ligne d'horizon au centre-droit, et 1 hélicoptère en bas à gauche balayant les immeubles enfumés avec un projecteur. Ajoutez des incendies, des panaches de fumée, des braises incandescentes, des destructions au niveau de la rue et un sentiment de chaos urbain à grande échelle. Composez le tout comme une affiche de film hollywoodienne moderne et soignée, avec le monstre centré dominant la ville. Dans le tiers inférieur, ajoutez le slogan : {argument name=\"tagline text\" default=\"La légende renaît.\"} Au-dessus du générique, placez l'immense titre métallique en relief sur deux lignes : {argument name=\"movie title\" default=\"KING KONG\"} et en dessous {argument name=\"subtitle\" default=\"REBORN\"}. En dessous, ajoutez un bloc de crédits cinématographiques réaliste et dense avec plusieurs lignes pour le producteur, le réalisateur, la distribution et le scénario en petits caractères condensés. Tout en bas, ajoutez la ligne de sortie : {argument name=\"release text\" default=\"ÉTÉ 2026\"}. Utilisez un éclairage ultra-réaliste, un contraste dramatique, une composition d'affiche de blockbuster, de la fumée volumétrique, des détails nets, une fourrure photoréaliste et une esthétique premium de film catastrophe et d'aventure.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Una locandina cinematografica iper-dettagliata per il reboot di un mostro gigante ambientato a Manhattan al tramonto. Un gorilla colossale e furioso che ricorda King Kong si erge in primo piano sopra un grattacielo semidistrutto, ruggendo con la bocca spalancata e i denti in mostra. La creatura è massicciamente muscolosa, coperta da una folta pelliccia marrone scuro, con numerose cicatrici di battaglia visibili e ferite fresche su petto, braccia, spalle e gambe. Una mano afferra la guglia d'acciaio spezzata e la corona frantumata dell'edificio, mentre un enorme piede schiaccia il tetto. La città sottostante è New York, con l'Empire State Building chiaramente visibile sullo sfondo a centro-destra e un denso skyline che sfuma in una drammatica foschia dorata. Il cielo è pieno di nuvole temporalesche scure squarciate dalla calda luce del tramonto arancione. Includere esattamente 3 elicotteri militari: 1 vicino all'angolo in alto a destra che punta un faro luminoso verso la scimmia, 1 elicottero più piccolo vicino allo skyline a centro-destra e 1 elicottero in basso a sinistra che spazza con un faro gli edifici fumosi. Aggiungere incendi, pennacchi di fumo, braci ardenti, distruzione a livello stradale e un senso di caos urbano su larga scala. Comporre come una raffinata locandina cinematografica hollywoodiana moderna con il mostro centrato che svetta sulla città. Nel terzo inferiore, aggiungere il testo dello slogan: {argument name=\"tagline text\" default=\"La leggenda risorge.\"} Sopra i crediti, posizionare l'enorme titolo metallico in rilievo su due righe: {argument name=\"movie title\" default=\"KING KONG\"} e sotto di esso {argument name=\"subtitle\" default=\"REBORN\"}. Sotto, aggiungere un denso blocco di crediti cinematografici realistici con diverse righe per produttore, regista, cast e sceneggiatura in caratteri piccoli e condensati. In fondo, aggiungere la riga di uscita: {argument name=\"release text\" default=\"ESTATE 2026\"}. Utilizzare un'illuminazione ultra-realistica, contrasto drammatico, composizione da poster blockbuster, fumo volumetrico, dettagli nitidi, pelliccia fotorealistica ed estetica premium da film catastrofico d'azione e avventura.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Um pôster de filme cinematográfico hiperdetalhado para um reboot de monstro gigante ambientado em Manhattan ao pôr do sol. Um gorila colossal enfurecido, semelhante ao King Kong, está no topo de um arranha-céu fortemente destruído em primeiro plano, rugindo com a boca bem aberta e os dentes expostos. A criatura é massivamente musculosa, coberta por pelos castanhos escuros, com várias cicatrizes de batalha visíveis e feridas recentes no peito, braços, ombros e pernas. Uma das mãos agarra a torre de aço quebrada e a coroa estilhaçada do edifício, enquanto um pé enorme esmaga o telhado. A cidade abaixo é Nova York, com o Empire State Building claramente visível ao fundo, à direita, e um horizonte denso desaparecendo em uma névoa dourada dramática. O céu está repleto de nuvens de tempestade escuras divididas pela luz laranja quente do pôr do sol. Inclua exatamente 3 helicópteros militares: 1 perto do canto superior direito brilhando um holofote em direção ao gorila, 1 helicóptero menor perto do horizonte central à direita e 1 helicóptero no canto inferior esquerdo varrendo os edifícios enfumaçados com um holofote. Adicione incêndios, colunas de fumaça, brasas brilhantes, destruição ao nível da rua e uma sensação de caos urbano em grande escala. Componha como um pôster de cinema moderno e polido de Hollywood, com o monstro centralizado e pairando sobre a cidade. No terço inferior, adicione o slogan: {argument name=\"tagline text\" default=\"A lenda renasce.\"} Acima dos créditos, coloque o enorme título metálico em relevo em duas linhas: {argument name=\"movie title\" default=\"KING KONG\"} e abaixo dele {argument name=\"subtitle\" default=\"REBORN\"}. Abaixo disso, adicione um bloco de créditos de filme denso e realista com várias linhas de produtor, diretor, elenco e roteiro em fonte pequena e condensada. Na parte inferior, adicione a linha de lançamento: {argument name=\"release text\" default=\"VERÃO DE 2026\"}. Use iluminação ultrarrealista, contraste dramático, composição de pôster de grande sucesso, fumaça volumétrica, detalhes nítidos, pelos fotorrealistas e estética premium de filme de desastre e ação e aventura.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - King Kong Reborn Movie Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 《金刚：重生》电影海报",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Póster de la película King Kong Reborn",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - King Kong Reborn Filmposter",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Affiche du film King Kong Reborn",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Locandina del film King Kong Reborn",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Pôster do filme King Kong Reborn",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A dramatic blockbuster-style giant ape movie poster with dense theatrical typography, ideal for cinematic film-poster generation and text-layout demos.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款戏剧性的大片风格巨猿电影海报，采用密集的影院排版，非常适合电影海报生成和文本布局演示。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une affiche de film dramatique de style blockbuster mettant en scène un gorille géant, avec une typographie cinématographique dense, idéale pour la génération d'affiches de films et les démonstrations de mise en page de texte.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/StableTom/status/2050150656288199039#reversed-0",
+      "originalId": "https://x.com/StableTom/status/2050150656288199039#reversed-0",
+      "authors": [
+        {
+          "name": "Creative Diffusion",
+          "url": "https://x.com/StableTom"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2698
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a72cccea1ead5a63",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711134414_93htdl_HHOW5F9WcAAWvK1.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711134414_93htdl_HHOW5F9WcAAWvK1.jpg",
+      "localPath": "public/assets/prompt_44bf0f909185d3eacbc5/9c99d1104539.jpg",
+      "alt": "YouTube Thumbnail - King Kong Reborn Movie Poster - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_356318dda7782a7c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711134592_bw9ebq_HHOW6h7XgAA4DrF.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711134592_bw9ebq_HHOW6h7XgAA4DrF.jpg",
+      "localPath": "public/assets/prompt_44bf0f909185d3eacbc5/07a8f851a642.jpg",
+      "alt": "YouTube Thumbnail - King Kong Reborn Movie Poster - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-30T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "movie poster",
+      "海报",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.878Z"
+  }
+}

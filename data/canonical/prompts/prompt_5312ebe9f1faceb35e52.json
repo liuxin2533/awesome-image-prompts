@@ -1,0 +1,202 @@
+{
+  "id": "prompt_5312ebe9f1faceb35e52",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game concept art style, widescreen 16:9. In the foreground, show two adult elven adventurers walking side by side toward the viewer through a muddy cobblestone village road. The left character is a pale-skinned elf woman with long messy {argument name=\"left character hair color\" default=\"ash blonde\"} braided hair, pointed ears, layered olive-green druid robes, leather belts, pouches, dangling metal charms, necklaces, torn fabric strips, leaf-and-feather details, and glowing white vine-like magical tattoos spiraling down both forearms. The right character is a darker-skinned elf woman with long thick {argument name=\"right character hair color\" default=\"dark brown\"} dreadlocked hair, pointed ears, a green-and-brown leather ranger outfit, fur shoulder mantle, feather ornaments, arm wraps, belts, chains, talismans, and a confident warrior posture. Both faces are intentionally hidden by plain opaque {argument name=\"face covering color\" default=\"dark brown\"} square censor blocks, centered over their faces. Set the background in a richly detailed medieval market village with timber-and-thatch houses, hanging bundles of dried herbs on the right-side shopfront, barrels, baskets, wooden stalls, distant townspeople, and a large stone castle with towers and battlements rising in the background. Use {argument name=\"lighting mood\" default=\"warm late-afternoon golden sunlight\"}, dramatic shadows, volumetric haze, shallow depth of field, realistic fabric and leather textures, high detail, moody fantasy atmosphere, cinematic composition, Unreal Engine quality, no text, no logos.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一幅电影级暗黑奇幻风格的中世纪街道场景，采用超写实 3D 游戏概念艺术风格，宽屏 16:9。前景展示两名成年精灵冒险者并肩走在泥泞的鹅卵石村道上，正朝观众走来。左侧角色是一位皮肤苍白的精灵女性，留着长而凌乱的 {argument name=\"left character hair color\" default=\"灰金色\"} 编发，长着尖耳朵，身穿层叠的橄榄绿德鲁伊长袍，佩戴皮带、小袋、悬挂的金属饰物、项链、破损的布条、叶片与羽毛细节，双臂上有发光的白色藤蔓状魔法纹身。右侧角色是一位肤色较深的精灵女性，留着浓密厚实的 {argument name=\"right character hair color\" default=\"深褐色\"} 脏辫，长着尖耳朵，身穿绿棕色皮革游侠装，披着毛皮肩甲，佩戴羽毛装饰、臂带、腰带、链条、护身符，姿态自信如战士。两人的面部均被故意用纯色不透明的 {argument name=\"face covering color\" default=\"深褐色\"} 方形遮挡块覆盖，位于脸部中心。背景设定在一个细节丰富的奇幻中世纪集市村庄，有木质茅草屋、右侧店面挂着的干草束、木桶、篮子、木质摊位、远处的村民，以及背景中耸立的高大石砌城堡，带有塔楼和城垛。使用 {argument name=\"lighting mood\" default=\"温暖的午后金色阳光\"}，营造戏剧性的阴影、体积雾、浅景深、逼真的布料与皮革质感，高细节，充满奇幻氛围，电影级构图，Unreal Engine 渲染品质，无文字，无 Logo。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una escena callejera medieval de fantasía oscura cinematográfica en un estilo de arte conceptual de juego 3D ultrarrealista, pantalla panorámica 16:9. En primer plano, muestra a dos aventureros elfos adultos caminando lado a lado hacia el espectador a través de un camino de adoquines embarrado en una aldea. El personaje de la izquierda es una elfa de piel pálida con cabello largo y desordenado de color {argument name=\"left character hair color\" default=\"rubio ceniza\"} trenzado, orejas puntiagudas, túnicas de druida de color verde oliva en capas, cinturones de cuero, bolsas, dijes de metal colgantes, collares, tiras de tela rasgada, detalles de hojas y plumas, y tatuajes mágicos brillantes en forma de enredadera blanca que bajan por ambos antebrazos. El personaje de la derecha es una elfa de piel más oscura con cabello largo y grueso de color {argument name=\"right character hair color\" default=\"castaño oscuro\"} con rastas, orejas puntiagudas, un atuendo de guardabosques de cuero verde y marrón, manto de piel en los hombros, adornos de plumas, vendas en los brazos, cinturones, cadenas, talismanes y una postura de guerrera segura. Ambos rostros están ocultos intencionalmente por bloques de censura cuadrados de color {argument name=\"face covering color\" default=\"marrón oscuro\"} opacos y simples, centrados sobre sus rostros. Establece el fondo en una aldea de mercado medieval ricamente detallada con casas de madera y paja, manojos de hierbas secas colgando en el escaparate del lado derecho, barriles, cestas, puestos de madera, habitantes del pueblo a lo lejos y un gran castillo de piedra con torres y almenas elevándose en el fondo. Usa {argument name=\"lighting mood\" default=\"luz solar dorada cálida de finales de la tarde\"}, sombras dramáticas, neblina volumétrica, profundidad de campo reducida, texturas realistas de tela y cuero, alto nivel de detalle, atmósfera de fantasía melancólica, composición cinematográfica, calidad de Unreal Engine, sin texto, sin logotipos.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine filmreife Dark-Fantasy-Szene einer mittelalterlichen Straße im ultra-realistischen 3D-Spielkonzept-Stil, Breitbild 16:9. Im Vordergrund sind zwei erwachsene Elfen-Abenteurerinnen zu sehen, die nebeneinander auf den Betrachter zu durch eine schlammige, gepflasterte Dorfstraße gehen. Die linke Figur ist eine hellhäutige Elfenfrau mit langem, verwildertem {argument name=\"left character hair color\" default=\"aschblondem\"} geflochtenem Haar, spitzen Ohren, geschichteten olivgrünen Druidenroben, Ledergürteln, Taschen, baumelnden Metallanhängern, Halsketten, zerrissenen Stoffstreifen, Blatt- und Federdetails sowie leuchtend weißen, rankenartigen magischen Tattoos, die sich beide Unterarme hinunterziehen. Die rechte Figur ist eine dunkelhäutige Elfenfrau mit langem, dickem {argument name=\"right character hair color\" default=\"dunkelbraunem\"} Dreadlock-Haar, spitzen Ohren, einem grün-braunen Leder-Waldläufer-Outfit, einem Pelzschulterumhang, Federschmuck, Armwickeln, Gürteln, Ketten, Talismanen und einer selbstbewussten Kriegerhaltung. Beide Gesichter sind absichtlich durch schlichte, undurchsichtige {argument name=\"face covering color\" default=\"dunkelbraune\"} quadratische Zensurbalken verdeckt, die mittig über ihren Gesichtern platziert sind. Der Hintergrund zeigt ein detailreiches mittelalterliches Marktdorf mit Fachwerkhäusern, Bündeln getrockneter Kräuter an der Ladenfront auf der rechten Seite, Fässern, Körben, Holzständen, Dorfbewohnern in der Ferne und einem großen steinernen Schloss mit Türmen und Zinnen, das im Hintergrund aufragt. Nutze {argument name=\"lighting mood\" default=\"warmes goldenes Licht am späten Nachmittag\"}, dramatische Schatten, volumetrischen Dunst, geringe Schärfentiefe, realistische Stoff- und Ledertexturen, hohe Detailgenauigkeit, stimmungsvolle Fantasy-Atmosphäre, filmische Komposition, Unreal Engine-Qualität, kein Text, keine Logos.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une scène de rue médiévale de dark fantasy cinématographique dans un style d'art conceptuel de jeu 3D ultra-réaliste, format large 16:9. Au premier plan, montrez deux aventuriers elfes adultes marchant côte à côte vers le spectateur sur une route de village pavée et boueuse. Le personnage de gauche est une femme elfe à la peau pâle avec de longs cheveux tressés en désordre de couleur {argument name=\"left character hair color\" default=\"blond cendré\"}, des oreilles pointues, des robes de druide vert olive superposées, des ceintures en cuir, des sacoches, des breloques en métal pendantes, des colliers, des bandes de tissu déchirées, des détails de feuilles et de plumes, et des tatouages magiques en forme de vigne blanche lumineuse descendant le long des deux avant-bras. Le personnage de droite est une femme elfe à la peau plus foncée avec de longs cheveux épais en dreadlocks de couleur {argument name=\"right character hair color\" default=\"brun foncé\"}, des oreilles pointues, une tenue de rôdeur en cuir vert et marron, un manteau d'épaule en fourrure, des ornements en plumes, des bandages aux bras, des ceintures, des chaînes, des talismans et une posture de guerrière confiante. Les deux visages sont intentionnellement cachés par des blocs de censure carrés opaques de couleur {argument name=\"face covering color\" default=\"brun foncé\"}, centrés sur leurs visages. Placez l'arrière-plan dans un village de marché médiéval richement détaillé avec des maisons à colombages et toits de chaume, des bottes d'herbes séchées suspendues sur la devanture du magasin à droite, des tonneaux, des paniers, des étals en bois, des citadins au loin et un grand château en pierre avec des tours et des remparts s'élevant en arrière-plan. Utilisez {argument name=\"lighting mood\" default=\"une lumière dorée chaude de fin d'après-midi\"}, des ombres dramatiques, une brume volumétrique, une faible profondeur de champ, des textures de tissu et de cuir réalistes, un niveau de détail élevé, une atmosphère fantastique et sombre, une composition cinématographique, une qualité Unreal Engine, sans texte, sans logos.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una scena di strada medievale dark-fantasy cinematografica in stile concept art 3D ultra-realistico, formato widescreen 16:9. In primo piano, mostra due avventurieri elfici adulti che camminano fianco a fianco verso lo spettatore lungo una strada di un villaggio in ciottoli fangosi. Il personaggio a sinistra è un'elfa dalla pelle chiara con lunghi capelli intrecciati {argument name=\"left character hair color\" default=\"biondo cenere\"} spettinati, orecchie a punta, vesti da druido color verde oliva a strati, cinture in pelle, borse, ciondoli in metallo pendenti, collane, strisce di tessuto strappate, dettagli di foglie e piume e tatuaggi magici luminosi a forma di vite bianca che scendono lungo entrambi gli avambracci. Il personaggio a destra è un'elfa dalla pelle più scura con lunghi e folti capelli rasta {argument name=\"right character hair color\" default=\"castano scuro\"}, orecchie a punta, un abbigliamento da ranger in pelle verde e marrone, mantello di pelliccia sulle spalle, ornamenti di piume, fasce per le braccia, cinture, catene, talismani e una postura da guerriera sicura di sé. Entrambi i volti sono intenzionalmente nascosti da semplici blocchi di censura quadrati opachi di colore {argument name=\"face covering color\" default=\"marrone scuro\"}, centrati sui loro volti. Imposta lo sfondo in un villaggio mercato medievale riccamente dettagliato con case a graticcio e tetti di paglia, fasci di erbe essiccate appesi sulla vetrina del negozio a destra, barili, cesti, bancarelle in legno, abitanti del villaggio in lontananza e un grande castello in pietra con torri e merli che si ergono sullo sfondo. Usa {argument name=\"lighting mood\" default=\"calda luce solare dorata del tardo pomeriggio\"}, ombre drammatiche, foschia volumetrica, profondità di campo ridotta, texture realistiche di tessuto e pelle, alto dettaglio, atmosfera fantasy suggestiva, composizione cinematografica, qualità Unreal Engine, niente testo, niente loghi.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma cena de rua medieval de fantasia sombria cinematográfica no estilo de arte conceitual de jogo 3D ultrarrealista, widescreen 16:9. Em primeiro plano, mostre dois aventureiros élficos adultos caminhando lado a lado em direção ao espectador por uma estrada de paralelepípedos lamacenta em uma vila. A personagem à esquerda é uma elfa de pele clara com longos cabelos trançados {argument name=\"left character hair color\" default=\"loiro acinzentado\"}, orelhas pontudas, vestes de druida verde-oliva em camadas, cintos de couro, bolsas, amuletos de metal pendentes, colares, tiras de tecido rasgado, detalhes de folhas e penas, e tatuagens mágicas brilhantes em forma de videira branca espiralando pelos dois antebraços. A personagem à direita é uma elfa de pele mais escura com longos e grossos cabelos com dreadlocks {argument name=\"right character hair color\" default=\"castanho escuro\"}, orelhas pontudas, uma roupa de patrulheira de couro verde e marrom, manto de pele nos ombros, ornamentos de penas, faixas nos braços, cintos, correntes, talismãs e uma postura confiante de guerreira. Ambos os rostos estão intencionalmente ocultos por blocos de censura quadrados opacos {argument name=\"face covering color\" default=\"castanho escuro\"}, centralizados sobre seus rostos. Defina o fundo em uma vila de mercado medieval ricamente detalhada com casas de madeira e palha, feixes de ervas secas pendurados na vitrine do lado direito, barris, cestas, barracas de madeira, habitantes distantes e um grande castelo de pedra com torres e ameias surgindo ao fundo. Use {argument name=\"lighting mood\" default=\"luz solar dourada quente de fim de tarde\"}, sombras dramáticas, neblina volumétrica, profundidade de campo rasa, texturas realistas de tecido e couro, alto detalhe, atmosfera de fantasia melancólica, composição cinematográfica, qualidade Unreal Engine, sem texto, sem logotipos.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "中世纪村庄双精灵冒险者",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 中世纪村庄中被遮挡面部的精灵冒险者",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Aventureros elfos censurados en una aldea medieval",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Zensierte Elfen-Abenteurer im mittelalterlichen Dorf",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Aventuriers elfes censurés dans un village médiéval",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Avventurieri elfici censurati in un villaggio medievale",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Aventureiros Élficos Censurados em Vila Medieval",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic fantasy scene of two detailed elven adventurers walking through a medieval village with castle backdrop and obscured faces.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一幅电影质感的奇幻场景，画面中两名细节丰富的精灵冒险者正走过中世纪村庄，背景为城堡，且面部被遮挡。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène fantastique cinématographique de deux aventuriers elfes détaillés marchant dans un village médiéval avec un château en arrière-plan et les visages masqués.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "category_7f65b81baf",
+      "value": "中世纪村庄双精灵冒险者",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-394",
+      "originalId": "case-394",
+      "authors": [
+        {
+          "name": "RamonVi25791296",
+          "url": "https://x.com/RamonVi25791296/status/2051568239142973832"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7489
+        }
+      ],
+      "rawSource": "[@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)"
+    },
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/RamonVi25791296/status/2051568239142973832#reversed-0",
+      "originalId": "https://x.com/RamonVi25791296/status/2051568239142973832#reversed-0",
+      "authors": [
+        {
+          "name": "Ramon Vinicius 🇨🇳🇧🇷",
+          "url": "https://x.com/RamonVi25791296"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3181
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_380b2fc248aadba2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case394.jpg",
+      "upstreamPath": "../data/images/case394.jpg",
+      "localPath": "public/assets/prompt_5312ebe9f1faceb35e52/0716d882192b.jpg",
+      "alt": "中世纪村庄双精灵冒险者",
+      "status": "pending"
+    },
+    {
+      "id": "asset_21f2fda7340797da",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971040391_n59jqi_HHiiKjhXQAAdW7S.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971040391_n59jqi_HHiiKjhXQAAdW7S.jpg",
+      "localPath": "public/assets/prompt_5312ebe9f1faceb35e52/c089bb28a07f.jpg",
+      "alt": "Comic / Storyboard - Censored Elven Adventurers in Medieval Village - Image 1",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.736Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.910Z"
+  }
+}

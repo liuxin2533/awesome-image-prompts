@@ -1,0 +1,101 @@
+{
+  "id": "prompt_c12225f79dd73ba28c1d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A highly detailed, realistic photograph of a young East Asian woman sitting in a cluttered backstage dressing room, getting ready for a cosplay event. She has {argument name=\"hair color\" default=\"vibrant short red\"} hair styled in a bob with bangs and is wearing an elaborate fantasy warrior costume featuring a {argument name=\"costume color\" default=\"glossy red\"} and gold tiered mini skirt, a white corset top with black lace and red lacing, matching glossy arm guards, and thigh-high boots. She is looking down with a focused expression, using her right hand to adjust the arm guard on her left arm. The vanity counter in front of her is messy, covered with makeup brushes, bottles, a hairbrush, and extra hairpieces. A large, ornate {argument name=\"prop\" default=\"fantasy sword with a blue blade and gold hilt\"} leans against the edge of the counter. The background shows a brightly lit vanity mirror with round bulbs reflecting a clothing rack, capturing a candid, slightly over-sharpened, and highly textured photographic style.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A highly detailed, realistic photograph of a young East Asian woman sitting in a cluttered backstage dressing room, getting ready for a cosplay event. She has {argument name=\"hair color\" default=\"vibrant short red\"} hair styled in a bob with bangs and is wearing an elaborate fantasy warrior costume featuring a {argument name=\"costume color\" default=\"glossy red\"} and gold tiered mini skirt, a white corset top with black lace and red lacing, matching glossy arm guards, and thigh-high boots. She is looking down with a focused expression, using her right hand to adjust the arm guard on her left arm. The vanity counter in front of her is messy, covered with makeup brushes, bottles, a hairbrush, and extra hairpieces. A large, ornate {argument name=\"prop\" default=\"fantasy sword with a blue blade and gold hilt\"} leans against the edge of the counter. The background shows a brightly lit vanity mirror with round bulbs reflecting a clothing rack, capturing a candid, slightly over-sharpened, and highly textured photographic style.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:22:08.372Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "建筑空间场景图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5b3affe95c",
+      "value": "建筑空间场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-46",
+      "originalId": "case-46",
+      "authors": [
+        {
+          "name": "lakeside529",
+          "url": "https://x.com/lakeside529"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1028
+        }
+      ],
+      "rawSource": "[@lakeside529](https://x.com/lakeside529)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2377b8de6f79eb0b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case46.jpg",
+      "upstreamPath": "../data/images/case46.jpg",
+      "localPath": "public/assets/prompt_c12225f79dd73ba28c1d/502e1ca17935.jpg",
+      "alt": "hair color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "room",
+      "建筑",
+      "空间"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.600Z"
+  }
+}

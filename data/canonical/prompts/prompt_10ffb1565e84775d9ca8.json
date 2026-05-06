@@ -1,0 +1,88 @@
+{
+  "id": "prompt_10ffb1565e84775d9ca8",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Using REFERENCE_0, transform the subject's appearance to a {argument name=\"style\" default=\"trad goth\"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name=\"hair color\" default=\"black\"} with {argument name=\"hair style\" default=\"choppy bangs\"}. Apply heavy dark makeup, specifically {argument name=\"lip color\" default=\"black\"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name=\"necklace pendants\" default=\"an inverted cross and a pentagram\"}.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Using REFERENCE_0, transform the subject's appearance to a {argument name=\"style\" default=\"trad goth\"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name=\"hair color\" default=\"black\"} with {argument name=\"hair style\" default=\"choppy bangs\"}. Apply heavy dark makeup, specifically {argument name=\"lip color\" default=\"black\"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name=\"necklace pendants\" default=\"an inverted cross and a pentagram\"}.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:50:08.846Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "电影感叙事场景图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Cinematic narrative scene image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:50:12.442Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_97bfff59ee",
+      "value": "电影感叙事场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-29",
+      "originalId": "case-29",
+      "authors": [
+        {
+          "name": "danieldmai",
+          "url": "https://x.com/danieldmai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 673
+        }
+      ],
+      "rawSource": "[@danieldmai](https://x.com/danieldmai)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a809a36bea0b7b11",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case29.jpg",
+      "upstreamPath": "../data/images/case29.jpg",
+      "localPath": "public/assets/prompt_10ffb1565e84775d9ca8/840174e63ed4.jpg",
+      "alt": "style",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

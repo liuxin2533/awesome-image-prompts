@@ -1,0 +1,101 @@
+{
+  "id": "prompt_79b75119ad90fc9b0fd4",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic soft-focus portrait of a woman from behind and slightly in profile, framed from the upper torso up in a vertical composition. She has {argument name=\"hair color\" default=\"dark brown\"} hair styled in a loose messy updo with wispy strands catching the light. Her face is mostly hidden by her pose and hair, with only a small portion of one cheek visible. She wears a {argument name=\"dress color\" default=\"deep red\"} sleeveless dress with an open back or low-cut side, emphasizing her bare shoulder and upper back. One hand is raised delicately near her neck or shoulder, fingers relaxed. Use strong warm backlighting and rim light, with glowing golden highlights around the hair and skin, dreamy lens flare, and large circular bokeh in the blurred background. The image should feel intimate, elegant, and slightly sensual, like a high-end fashion or beauty editorial, with shallow depth of field, creamy blur, warm amber and rose tones, and a soft cinematic glow.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张电影感的柔焦肖像，从背后和略微侧面拍摄，垂直构图，从上半身以上取景。她有{argument name=\"hair color\" default=\"深棕色\"}的头发，松散地盘成凌乱的发髻，几缕发丝捕捉着光线。她的脸大部分被姿势和头发遮挡，只有一小部分脸颊可见。她穿着一件{argument name=\"dress color\" default=\"深红色\"}的无袖连衣裙，后背开口或侧边低胸，突显她裸露的肩膀和上背部。一只手优雅地抬到颈部或肩膀附近，手指放松。使用强烈的暖色背光和轮廓光，头发和皮肤周围有发光的金色高光，梦幻的镜头光晕，以及模糊背景中的大圆形散景。图像应感觉亲密、优雅且略带性感，像高端时尚或美容杂志，具有浅景深、奶油般的模糊效果、温暖的琥珀色和玫瑰色调，以及柔和的电影感光晕。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:21:14.453Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Dreamy Backlit Editorial Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ToroJushiAi/status/2048139425465467248",
+      "originalId": "case-86",
+      "authors": [
+        {
+          "name": "ToroJushiAi",
+          "url": "https://x.com/ToroJushiAi"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 497
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f3f076a48f6a78c2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case86/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case86/output.jpg",
+      "localPath": "public/assets/prompt_79b75119ad90fc9b0fd4/a945de4f768a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

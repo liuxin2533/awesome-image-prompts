@@ -1,0 +1,109 @@
+{
+  "id": "prompt_cb0788808e6ada240143",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dreamy anime-style full-body illustration of a fashionable young woman standing in the middle of the Shibuya scramble crossing in Tokyo on a bright clear day, with the iconic cylindrical SHIBUYA 109 building centered in the background and recognizable commercial billboards surrounding it, including signs resembling H&M, DHC, DMM TV, Big Echo, and other dense Japanese city advertisements. She is the single main subject, posed gracefully as if floating or weightless, standing on top of one giant iridescent translucent soap bubble beneath her skirt. Her face is softly obscured and de-emphasized, while her long dark violet-black hair flows dramatically in the wind, with soft bangs and a pink floral headband accessory with ribbon on one side. She wears a sweet feminine spring outfit in pastel pink: a long-sleeved frilled blouse under a sleeveless pink dress with a ribbon tie at the chest, a tan belt at the waist, layered ruffles at the hem, and subtle sakura flower embroidery near the lower skirt. Her expression and body language should feel gentle, elegant, whimsical, and slightly magical. One hand is raised with her index finger pointing upward toward a floating bubble that contains 1 smartphone; her other hand holds a loop handle attached to a large transparent iridescent shopping-bag-like bubble containing 3 visible items: 1 SHIBUYA 109 paper shopping bag, 1 pink shopping bag or package, and 1 small pink bunny-faced pouch. Also include 1 separate floating smartphone/tablet-like device outside the bubbles near the lower left side, and 1 floating bubble on the lower right containing 1 compact camera. Surround her with many soap bubbles of different sizes, all highly reflective with rainbow highlights and delicate transparency, creating a soft sparkling atmosphere. The city scene should be busy but slightly softened, with pedestrians in the far background, crosswalk stripes in the foreground, and warm sunlight filtering through the urban canyon. Use polished high-detail anime illustration rendering, luminous pastel colors, glossy reflections, soft bloom, a romantic spring palette, and a magical everyday Tokyo aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个梦幻的动漫风格全身插画，描绘一位时尚的年轻女子站在东京涩谷十字路口中央，天气晴朗明亮。背景中是标志性的涩谷109圆柱形建筑，周围环绕着可识别的商业广告牌，包括类似H&M、DHC、DMM TV、Big Echo等密集的日本城市广告。她是唯一的主体，姿态优雅，仿佛漂浮或失重，站在裙子下方的一个巨大彩虹色半透明肥皂泡上。她的脸被柔和地模糊和弱化，而她深紫黑色的长发随风飘动，带有柔软的刘海和一侧带有丝带的粉色花朵头带配饰。她穿着甜美的女性春季淡粉色服装：一件长袖褶边衬衫，外面是一件无袖粉色连衣裙，胸部有丝带系带，腰部有一条棕色腰带，裙摆有多层褶边，下裙附近有精致的樱花刺绣。她的表情和肢体语言应该显得温柔、优雅、富有想象力，并带有一些魔幻感。一只手举起，食指指向一个漂浮的泡泡，泡泡里有一部智能手机；另一只手拿着一个环状手柄，连接着一个大型透明彩虹色购物袋状泡泡，泡泡内有3个可见物品：1个涩谷109纸购物袋，1个粉色购物袋或包裹，以及1个带有粉色兔子脸的小包。还在左下角附近添加1个独立的智能手机/平板设备，以及在右下角添加1个漂浮的泡泡，泡泡内有1台便携式相机。周围环绕着许多不同大小的肥皂泡，都具有高度反射性，带有彩虹高光和精致的透明度，营造出柔和闪烁的氛围。城市场景应该繁忙但略微柔和，远处有行人，前景有斑马线，温暖的阳光穿过城市峡谷。使用精致的高细节动漫插画渲染，发光的柔和色彩，光泽反射，柔和的光晕，浪漫的春季色调，以及魔幻的日常东京美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:30:21.350Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Dreamy Shibuya Bubble Girl",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "梦幻的涩谷泡泡女孩",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:30:24.703Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/terunari/status/2048308270914490666",
+      "originalId": "case-164",
+      "authors": [
+        {
+          "name": "terunari",
+          "url": "https://x.com/terunari"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1565
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e869a6b5d72792f9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case164/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case164/output.jpg",
+      "localPath": "public/assets/prompt_cb0788808e6ada240143/a3ad4ca5a7dd.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.560Z"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "prompt_6be25c74c2e96e536994",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "9:16 vertical, Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling, soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "9:16 竖版，韩国偶像写真拍摄，3x3 网格（九张画面），所有图片中为同一人，面部特征和造型保持一致，柔和的黑色雾气滤镜效果，降低对比度，高光处有光晕效果，光源周围有微妙的光晕",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:04:44.012Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Korean Idol 3x3 Grid Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/BubbleBrain/status/2046268941941850575",
+      "originalId": "case-11",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 121
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_08fbb92c46d563e3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case11/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case11/output.jpg",
+      "localPath": "public/assets/prompt_6be25c74c2e96e536994/cb7ec3111d01.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "写真"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

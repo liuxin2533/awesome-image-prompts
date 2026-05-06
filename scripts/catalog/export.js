@@ -2,7 +2,7 @@
 
 const path = require('path');
 
-const { ensureDir, readJson, writeJson } = require('../ingestion/core/persist');
+const { ensureDir, readCanonicalDataset, writeJson } = require('../ingestion/core/persist');
 const { uniqueBy } = require('../ingestion/core/text');
 const { collectionForPrompt } = require('./collections');
 
@@ -86,6 +86,10 @@ function selectLocalizedValue(field, language, fallbackLanguages = ['en']) {
     source: first.source || 'unknown',
     isFallback: first.language !== language
   };
+}
+
+function availableLocalizedLanguages(field) {
+  return unique(localizedCandidates(field).map(item => item.language || 'und')).sort((a, b) => a.localeCompare(b));
 }
 
 function taxonomyKey(item) {
@@ -203,6 +207,12 @@ function toCatalogPrompt(prompt, language, options = {}) {
     sourceCount: (prompt.sources || []).length,
     addedAt: prompt.addedAt || null,
     updatedAt: prompt.updatedAt || null,
+    hasPromptTextTranslation: Boolean(promptText.value && !promptText.isFallback),
+    availableLanguages: {
+      title: availableLocalizedLanguages(prompt.title),
+      description: availableLocalizedLanguages(prompt.description),
+      promptText: availableLocalizedLanguages(prompt.promptText)
+    },
     localization: {
       title,
       description,
@@ -290,7 +300,7 @@ async function exportCatalogData(options = {}) {
   const projectRoot = options.projectRoot || path.join(__dirname, '..', '..');
   const canonicalFile = options.canonicalFile || path.join(projectRoot, 'data/canonical/prompts.json');
   const outputDir = options.outputDir || path.join(projectRoot, 'data/catalog');
-  const dataset = options.dataset || readJson(canonicalFile);
+  const dataset = options.dataset || readCanonicalDataset(canonicalFile);
   const languages = unique([
     options.defaultLanguage || 'en',
     ...parseList(options.languages, parseList(process.env.CATALOG_LANGUAGES || process.env.SITE_LANGUAGES, DEFAULT_CATALOG_LANGUAGES))

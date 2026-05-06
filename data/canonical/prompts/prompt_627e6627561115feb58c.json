@@ -1,0 +1,174 @@
+{
+  "id": "prompt_627e6627561115feb58c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a dynamic single-panel anime illustration of a stylish young man with messy, voluminous {argument name=\"hair color\" default=\"black hair with faint purple highlights\"}, shown from the waist up on a clean white background. His face is intentionally covered by a large centered square privacy block with a muted dark-to-warm gray gradient, obscuring all facial features. He reaches toward the viewer with one hand in strong foreshortened perspective, holding a sleek black pen or stylus between his fingers as if drawing in midair. Dress him in an oversized glossy {argument name=\"jacket color\" default=\"white\"} techwear jacket layered over a black shirt and hoodie, with visible straps, buckles, zippers, black lining, and several silver chain necklaces with small pendants. Add thin silver rings on his extended fingers. Use energetic sketchy linework, semi-realistic anime rendering, high detail in the hair and hand, soft lavender and pale pink accent strokes, and a fashionable urban sci-fi mood. Surround him with hand-drawn doodles and abstract design marks: exactly 1 small ringed planet near the upper left, 1 pink lightning bolt near the upper right, 2 wireframe geometric polyhedrons near the lower left and right edges, multiple small star sparkles, scattered black dots, diagonal ink splashes, and constellation-like connecting lines. The composition should feel like a modern digital artist avatar or profile illustration, with the pen tip and hand closest to the camera, crisp black-and-white contrast, loose manga sketch textures, and no text.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张动感的单格动漫插画，描绘一位时尚的年轻人，留着凌乱蓬松的 {argument name=\"hair color\" default=\"带有淡紫色挑染的黑发\"}，半身像，背景为干净的白色。他的面部被一个居中的大方形隐私遮挡块刻意遮盖，采用柔和的深灰到暖灰渐变，遮住所有五官。他的一只手以强烈的透视感伸向观众，指间握着一支时尚的黑色画笔或触控笔，仿佛在半空中作画。为他穿上一件超大号的亮面 {argument name=\"jacket color\" default=\"白色\"} 科技风夹克，内搭黑色衬衫和连帽衫，配有明显的绑带、搭扣、拉链、黑色内衬以及几条带有小吊坠的银色项链。在他伸出的手指上添加细银戒指。采用充满活力的草图线条、半写实动漫渲染，头发和手部细节丰富，点缀柔和的薰衣草色和淡粉色笔触，营造出时尚的都市科幻氛围。周围环绕手绘涂鸦和抽象设计符号：左上方正好有 1 个带环行星，右上方有 1 个粉色闪电，左下和右下边缘各有 2 个线框几何多面体，以及多个小星星闪光、散落的黑点、对角线墨水溅射和类似星座的连接线。整体构图应呈现出现代数字艺术家头像或个人资料插画的质感，笔尖和手部最靠近镜头，具有清晰的黑白对比、随性的漫画草图纹理，且不包含任何文字。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una ilustración de anime dinámica de panel único de un joven elegante con {argument name=\"hair color\" default=\"cabello negro con tenues reflejos morados\"} voluminoso y desordenado, mostrado de la cintura para arriba sobre un fondo blanco limpio. Su rostro está cubierto intencionalmente por un gran bloque de privacidad cuadrado centrado con un degradado de gris oscuro a cálido, ocultando todas sus facciones. Extiende una mano hacia el espectador con una fuerte perspectiva escorzada, sosteniendo un elegante bolígrafo o lápiz óptico negro entre sus dedos como si estuviera dibujando en el aire. Vístelo con una chaqueta techwear brillante de gran tamaño de color {argument name=\"jacket color\" default=\"blanco\"} sobre una camisa y sudadera con capucha negras, con correas, hebillas, cremalleras, forro negro y varios collares de cadena plateados con pequeños colgantes visibles. Añade anillos plateados delgados en sus dedos extendidos. Usa trazos enérgicos, renderizado de anime semirrealista, gran detalle en el cabello y la mano, trazos de acento en lavanda suave y rosa pálido, y un ambiente urbano de ciencia ficción a la moda. Rodéalo con garabatos dibujados a mano y marcas de diseño abstracto: exactamente 1 pequeño planeta con anillos cerca de la parte superior izquierda, 1 rayo rosa cerca de la parte superior derecha, 2 poliedros geométricos de estructura alámbrica cerca de los bordes inferior izquierdo y derecho, múltiples destellos de estrellas pequeños, puntos negros dispersos, salpicaduras de tinta diagonales y líneas de conexión tipo constelación. La composición debe sentirse como un avatar de artista digital moderno o una ilustración de perfil, con la punta del bolígrafo y la mano más cerca de la cámara, un contraste nítido en blanco y negro, texturas de boceto de manga sueltas y sin texto.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine dynamische, einteilige Anime-Illustration eines stylischen jungen Mannes mit zerzaustem, voluminösem {argument name=\"hair color\" default=\"schwarzem Haar mit dezenten violetten Highlights\"}, dargestellt von der Taille aufwärts vor einem sauberen weißen Hintergrund. Sein Gesicht ist absichtlich durch ein großes, zentriertes, quadratisches Zensur-Element mit einem gedämpften Verlauf von Dunkel- zu Warmgrau verdeckt, sodass keine Gesichtszüge erkennbar sind. Er streckt eine Hand in starker perspektivischer Verkürzung in Richtung des Betrachters aus und hält einen eleganten schwarzen Stift oder Stylus zwischen den Fingern, als würde er in die Luft zeichnen. Kleide ihn in eine übergroße, glänzende {argument name=\"jacket color\" default=\"weiße\"} Techwear-Jacke über einem schwarzen Shirt mit Kapuze, mit sichtbaren Riemen, Schnallen, Reißverschlüssen, schwarzem Innenfutter und mehreren silbernen Ketten mit kleinen Anhängern. Füge dünne silberne Ringe an seinen ausgestreckten Fingern hinzu. Verwende energiegeladene, skizzenhafte Linienführung, semi-realistisches Anime-Rendering, hohe Detailgenauigkeit bei Haar und Hand, sanfte lavendelfarbene und blassrosa Akzentstriche sowie eine modische urbane Sci-Fi-Stimmung. Umgib ihn mit handgezeichneten Doodles und abstrakten Designelementen: genau 1 kleiner Ringplanet oben links, 1 pinker Blitz oben rechts, 2 geometrische Drahtgitter-Polyeder an den unteren linken und rechten Rändern, mehrere kleine Sternenfunken, verstreute schwarze Punkte, diagonale Tintenspritzer und sternbildartige Verbindungslinien. Die Komposition sollte wie ein moderner digitaler Künstler-Avatar oder eine Profilillustration wirken, wobei die Stiftspitze und die Hand am nächsten zur Kamera liegen, mit knackigem Schwarz-Weiß-Kontrast, lockeren Manga-Skizzen-Texturen und ohne Text.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une illustration anime dynamique en une seule vignette représentant un jeune homme stylé avec des {argument name=\"hair color\" default=\"cheveux noirs avec de légers reflets violets\"} volumineux et décoiffés, vu à mi-corps sur un fond blanc épuré. Son visage est intentionnellement masqué par un grand carré de confidentialité centré, doté d'un dégradé de gris allant du sombre au chaud, occultant tous les traits du visage. Il tend la main vers le spectateur avec une perspective en raccourci marquée, tenant un stylet ou un stylo noir élégant entre ses doigts comme s'il dessinait dans les airs. Habillez-le d'une veste techwear brillante et oversize de couleur {argument name=\"jacket color\" default=\"blanche\"}, portée sur un t-shirt noir et un sweat à capuche, avec des sangles, des boucles, des fermetures éclair, une doublure noire et plusieurs colliers à chaînes argentées avec de petits pendentifs. Ajoutez de fines bagues argentées sur ses doigts tendus. Utilisez un trait énergique et esquissé, un rendu anime semi-réaliste, un niveau de détail élevé pour les cheveux et la main, des touches de lavande doux et de rose pâle, ainsi qu'une ambiance urbaine et science-fiction tendance. Entourez-le de gribouillages dessinés à la main et de marques de design abstraites : exactement 1 petite planète avec des anneaux près du coin supérieur gauche, 1 éclair rose près du coin supérieur droit, 2 polyèdres géométriques en fil de fer près des bords inférieurs gauche et droit, plusieurs petites étincelles, des points noirs dispersés, des éclaboussures d'encre en diagonale et des lignes de connexion évoquant des constellations. La composition doit évoquer l'avatar d'un artiste numérique moderne ou une illustration de profil, avec la pointe du stylet et la main au plus proche de l'objectif, un contraste noir et blanc net, des textures de croquis manga lâches et aucun texte.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'illustrazione anime dinamica a pannello singolo di un giovane uomo elegante con {argument name=\"hair color\" default=\"capelli neri con lievi riflessi viola\"} voluminosi e spettinati, ritratto dalla vita in su su uno sfondo bianco pulito. Il suo volto è intenzionalmente coperto da un grande quadrato centrale di privacy con un gradiente sfumato dal grigio scuro al grigio caldo, che oscura tutti i tratti del viso. Tende una mano verso l'osservatore con una forte prospettiva scorciata, tenendo tra le dita una sottile penna o stilo nero, come se stesse disegnando a mezz'aria. Vestilo con una giacca techwear oversize lucida di colore {argument name=\"jacket color\" default=\"bianco\"}, indossata sopra una camicia nera e una felpa con cappuccio, con cinghie, fibbie, cerniere, fodera nera e diverse collane a catena d'argento con piccoli pendenti. Aggiungi sottili anelli d'argento sulle dita tese. Utilizza un tratto energico e abbozzato, un rendering anime semi-realistico, un alto livello di dettaglio nei capelli e nella mano, tocchi di lavanda tenue e rosa pallido, e un'atmosfera urbana sci-fi alla moda. Circondalo con scarabocchi disegnati a mano e segni di design astratto: esattamente 1 piccolo pianeta con anelli vicino all'angolo in alto a sinistra, 1 fulmine rosa vicino all'angolo in alto a destra, 2 poliedri geometrici wireframe vicino ai bordi in basso a sinistra e a destra, molteplici piccole scintille a stella, punti neri sparsi, schizzi d'inchiostro diagonali e linee di collegamento simili a costellazioni. La composizione dovrebbe trasmettere l'idea di un avatar da artista digitale moderno o di un'illustrazione per il profilo, con la punta della penna e la mano più vicine alla fotocamera, un netto contrasto in bianco e nero, texture da schizzo manga e assenza di testo.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma ilustração dinâmica de anime em painel único de um jovem estiloso com {argument name=\"hair color\" default=\"cabelo preto com reflexos roxos suaves\"} volumoso e bagunçado, exibido da cintura para cima em um fundo branco limpo. Seu rosto é intencionalmente coberto por um grande quadrado central de privacidade com um gradiente suave de cinza escuro para quente, obscurecendo todos os traços faciais. Ele alcança o espectador com uma das mãos em uma perspectiva de escorço acentuada, segurando uma caneta ou stylus preta elegante entre os dedos como se desenhasse no ar. Vista-o com uma jaqueta techwear oversized brilhante na cor {argument name=\"jacket color\" default=\"branca\"} sobre uma camisa preta e um moletom, com tiras, fivelas, zíperes, forro preto e vários colares de corrente prateada com pequenos pingentes visíveis. Adicione anéis prateados finos em seus dedos estendidos. Use traços energéticos, renderização de anime semirrealista, alto nível de detalhe no cabelo e na mão, toques suaves de lavanda e rosa pálido, e uma atmosfera urbana de ficção científica. Cerque-o com rabiscos desenhados à mão e marcas de design abstratas: exatamente 1 pequeno planeta com anéis perto do canto superior esquerdo, 1 raio rosa perto do canto superior direito, 2 poliedros geométricos em wireframe perto das bordas inferior esquerda e direita, vários pequenos brilhos de estrelas, pontos pretos espalhados, respingos de tinta diagonais e linhas de conexão semelhantes a constelações. A composição deve parecer um avatar de artista digital moderno ou uma ilustração de perfil, com a ponta da caneta e a mão mais próximas da câmera, contraste nítido em preto e branco, texturas de esboço de mangá soltas e sem texto.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Censored Anime Artist Avatar",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 动漫风格艺术家头像（已遮挡面部）",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Avatar de artista de anime censurado",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Zensierter Anime-Künstler-Avatar",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Avatar d'artiste anime censuré",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Avatar artista anime censurato",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Avatar de Artista de Anime Censurado",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a stylish anime techwear portrait of a young artist holding a pen, ideal for profile icons or social media avatar art.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张时尚的动漫科技风年轻艺术家肖像，手持画笔，非常适合用作个人资料图标或社交媒体头像。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un portrait stylisé d'un jeune artiste en techwear style anime tenant un stylet, idéal pour des icônes de profil ou des avatars sur les réseaux sociaux.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Ryuki_Yano/status/2051414820273201644#reversed-0",
+      "originalId": "https://x.com/Ryuki_Yano/status/2051414820273201644#reversed-0",
+      "authors": [
+        {
+          "name": "ヤノ(Ryuki_Yano)",
+          "url": "https://x.com/Ryuki_Yano"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 796
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_90e751089f62dd92",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971058906_vti1pn_HHgW58UaUAAbGXo.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971058906_vti1pn_HHgW58UaUAAbGXo.jpg",
+      "localPath": "public/assets/prompt_627e6627561115feb58c/94b441fb3d99.jpg",
+      "alt": "Profile / Avatar - Censored Anime Artist Avatar - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.854Z"
+  }
+}

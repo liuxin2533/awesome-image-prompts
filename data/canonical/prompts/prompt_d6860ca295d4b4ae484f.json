@@ -1,0 +1,87 @@
+{
+  "id": "prompt_d6860ca295d4b4ae484f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "玄幻小说封面，哪吒三头六臂悬浮虚空，火焰莲台底座，暗黑史诗风",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:22.234Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Nezha Dark Fantasy Novel Cover",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "哪吒黑暗奇幻小说封面",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:25.289Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/songguoxiansen/status/2047196508270084104",
+      "originalId": "case-52",
+      "authors": [
+        {
+          "name": "songguoxiansen",
+          "url": "https://x.com/songguoxiansen"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 310
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b189efdbaa536d25",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case92/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case92/output.jpg",
+      "localPath": "public/assets/prompt_d6860ca295d4b4ae484f/e87253277bdd.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

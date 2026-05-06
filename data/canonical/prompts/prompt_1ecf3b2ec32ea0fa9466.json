@@ -1,0 +1,99 @@
+{
+  "id": "prompt_1ecf3b2ec32ea0fa9466",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a poster for The Deer and the Cauldron, showing Wei Xiaobao with wife XXX. Stay faithful to the original description, exaggerate the distinguishing traits, and emphasize the woman's beauty and the man's temperament.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "The Deer and the Cauldron Character Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/caiziboshi/status/2047091751731519744",
+      "originalId": "https://x.com/caiziboshi/status/2047091751731519744",
+      "authors": [
+        {
+          "name": "caiziboshi",
+          "url": "https://x.com/caiziboshi/status/2047091751731519744"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 504
+        }
+      ],
+      "rawSource": "[@caiziboshi](https://x.com/caiziboshi/status/2047091751731519744)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_37db434c96ef6736",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGi7FkTWwAE4P_C?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGi7FkTWwAE4P_C?format=jpg&name=large",
+      "localPath": "public/assets/prompt_1ecf3b2ec32ea0fa9466/b17f733cef14.jpg",
+      "alt": "The Deer and the Cauldron Character Poster",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

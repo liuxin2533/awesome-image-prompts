@@ -1,0 +1,108 @@
+{
+  "id": "prompt_4c4b4bd96c00e2b3acea",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"website landing page mockup\",\r\n  \"theme\": \"men's skincare, sleek, professional, dark mode\",\r\n  \"color_palette\": \"{argument name=\\\"color scheme\\\" default=\\\"dark navy blue\\\"}, white text, subtle blue gradients\",\r\n  \"header\": {\r\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"NEX SKIN\\\"}\",\r\n    \"navigation\": [\"HOME\", \"PRODUCT\", \"ABOUT\", \"FEATURE\", \"FAQ\"],\r\n    \"cta_button\": \"今すぐ始める >\"\r\n  },\r\n  \"hero_section\": {\r\n    \"left_column\": {\r\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"清潔感は、毎日のスキンケアから。\\\"}\",\r\n      \"sub_headline\": \"男の肌は、もっとシンプルでいい。\",\r\n      \"body_text\": \"3 lines of descriptive text about skincare benefits\",\r\n      \"buttons\": [\r\n        {\"style\": \"solid blue\", \"text\": \"今すぐ始める >\"},\r\n        {\"style\": \"outlined\", \"text\": \"詳しく見る >\"}\r\n      ],\r\n      \"feature_highlights\": {\r\n        \"count\": 3,\r\n        \"items\": [\r\n          {\"icon\": \"sparkle\", \"title\": \"テカリ対策\", \"subtitle\": \"皮脂バランスを整える\"},\r\n          {\"icon\": \"water drop\", \"title\": \"保湿\", \"subtitle\": \"うるおいを与え続ける\"},\r\n          {\"icon\": \"shield/bottle\", \"title\": \"オールインワン\", \"subtitle\": \"化粧水・美容液・乳液がこれ1本\"}\r\n        ]\r\n      }\r\n    },\r\n    \"center_image\": {\r\n      \"subject\": \"handsome {argument name=\\\"target demographic\\\" default=\\\"young Asian man\\\"}\",\r\n      \"appearance\": \"clean-cut, dark hair, flawless glowing skin, wearing a black shirt\",\r\n      \"pose\": \"hand touching chin thoughtfully\",\r\n      \"lighting\": \"dramatic studio lighting highlighting facial structure\"\r\n    },\r\n    \"right_column\": {\r\n      \"product_shot\": {\r\n        \"bottle\": \"tall cylindrical dark blue bottle with water droplets\",\r\n        \"labels\": [\"{argument name=\\\"brand name\\\" default=\\\"NEX SKIN\\\"}\", \"{argument name=\\\"product type\\\" default=\\\"ALL-IN-ONE LOTION\\\"}\", \"150mL\"],\r\n        \"base\": \"textured dark rock surface\",\r\n        \"badge\": \"circular outlined badge reading 'これ1本で男の肌悩みをトータルケア'\"\r\n      }\r\n    }\r\n  },\r\n  \"bottom_stats_bar\": {\r\n    \"count\": 3,\r\n    \"items\": [\r\n      {\"icon\": \"users\", \"label\": \"累計販売本数\", \"value\": \"120万本突破\"},\r\n      {\"icon\": \"star\", \"label\": \"使用感満足度\", \"value\": \"92.1%\"},\r\n      {\"icon\": \"checklist\", \"label\": \"リピート率\", \"value\": \"85.3%\"}\r\n    ],\r\n    \"footnotes\": \"small legal text on the right\"\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"website landing page mockup\",\n  \"theme\": \"men's skincare, sleek, professional, dark mode\",\n  \"color_palette\": \"{argument name=\\\"color scheme\\\" default=\\\"dark navy blue\\\"}, white text, subtle blue gradients\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"NEX SKIN\\\"}\",\n    \"navigation\": [\"HOME\", \"PRODUCT\", \"ABOUT\", \"FEATURE\", \"FAQ\"],\n    \"cta_button\": \"Get Started >\"\n  },\n  \"hero_section\": {\n    \"left_column\": {\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"Cleanliness begins with daily skincare.\\\"}\",\n      \"sub_headline\": \"Men's skin can be simpler.\",\n      \"body_text\": \"3 lines of descriptive text about skincare benefits\",\n      \"buttons\": [\n        {\"style\": \"solid blue\", \"text\": \"Get Started >\"},\n        {\"style\": \"outlined\", \"text\": \"Learn More >\"}\n      ],\n      \"feature_highlights\": {\n        \"count\": 3,\n        \"items\": [\n          {\"icon\": \"sparkle\", \"title\": \"Shine Control\", \"subtitle\": \"Balances sebum\"},\n          {\"icon\": \"water drop\", \"title\": \"Moisturizing\", \"subtitle\": \"Continuously provides hydration\"},\n          {\"icon\": \"shield/bottle\", \"title\": \"All-in-One\", \"subtitle\": \"Toner, serum, and lotion in one bottle\"}\n        ]\n      }\n    },\n    \"center_image\": {\n      \"subject\": \"handsome {argument name=\\\"target demographic\\\" default=\\\"young Asian man\\\"}\",\n      \"appearance\": \"clean-cut, dark hair, flawless glowing skin, wearing a black shirt\",\n      \"pose\": \"hand touching chin thoughtfully\",\n      \"lighting\": \"dramatic studio lighting highlighting facial structure\"\n    },\n    \"right_column\": {\n      \"product_shot\": {\n        \"bottle\": \"tall cylindrical dark blue bottle with water droplets\",\n        \"labels\": [\"{argument name=\\\"brand name\\\" default=\\\"NEX SKIN\\\"}\", \"{argument name=\\\"product type\\\" default=\\\"ALL-IN-ONE LOTION\\\"}\", \"150mL\"],\n        \"base\": \"textured dark rock surface\",\n        \"badge\": \"circular outlined badge reading 'Total care for men's skin concerns with just one bottle'\"\n      }\n    }\n  },\n  \"bottom_stats_bar\": {\n    \"count\": 3,\n    \"items\": [\n      {\"icon\": \"users\", \"label\": \"Total Sales\", \"value\": \"Over 1.2 million units\"},\n      {\"icon\": \"star\", \"label\": \"User Satisfaction\", \"value\": \"92.1%\"},\n      {\"icon\": \"checklist\", \"label\": \"Repeat Rate\", \"value\": \"85.3%\"}\n    ],\n    \"footnotes\": \"small legal text on the right\"\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:01.933Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "应用界面样机图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Application Interface Mockup",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:04.296Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_369832755f",
+      "value": "应用界面样机图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-135",
+      "originalId": "case-135",
+      "authors": [
+        {
+          "name": "ryuya__31",
+          "url": "https://x.com/ryuya__31"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5429
+        }
+      ],
+      "rawSource": "[@ryuya\\_\\_31](https://x.com/ryuya__31)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e5c1d407b7e2eef6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case135.jpg",
+      "upstreamPath": "../data/images/case135.jpg",
+      "localPath": "public/assets/prompt_4c4b4bd96c00e2b3acea/1578dda03b0d.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "interface",
+      "mockup",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

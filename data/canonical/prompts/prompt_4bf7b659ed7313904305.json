@@ -1,0 +1,105 @@
+{
+  "id": "prompt_4bf7b659ed7313904305",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成高质量美女（宅男必备）",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate high-quality beautiful girl (otaku must-have)",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "宅男必看绝美二次元少女",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Must-see stunning anime girls for otaku",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:13:15.290Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_8a804bfd3a",
+      "value": "宅男必看绝美二次元少女",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-202",
+      "originalId": "case-202",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2046596222505361866"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1179
+        }
+      ],
+      "rawSource": "[@joshesye](https://x.com/joshesye/status/2046596222505361866)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_51f194adc6629143",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case202.jpg",
+      "upstreamPath": "../data/images/case202.jpg",
+      "localPath": "public/assets/prompt_4bf7b659ed7313904305/af3c926e1dee.jpg",
+      "alt": "宅男必看绝美二次元少女",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.585Z"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "prompt_4fe70551c14c2bd17c60",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-end editorial product photograph of a single luxury perfume bottle centered in a warm earthy still-life scene. The product is a clear rectangular glass bottle filled with golden amber liquid, topped with a glossy rounded black cap, with a clean white front label that reads \"BYREDO\", \"BAL D’AFRIQUE\", and \"EAU DE PARFUM\". Place the bottle upright on 1 curved piece of pale weathered driftwood, surrounded by a dense carpet of 1 layer of rich green moss covering the foreground and lower frame. Use a minimal studio composition with the product isolated against a smooth warm brown-to-amber gradient background, softly illuminated like sunset light. Light the scene with dramatic directional warm light from the upper right, creating a bright glow on the background, a crisp highlight on the cap, soft reflections in the glass, and gentle shadows across the wood and moss. Keep the framing vertical, the bottle centered slightly low in the composition with generous negative space above, and the overall mood natural, luxurious, earthy, cinematic, and polished like a premium fragrance campaign shot.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Editorial Perfume Shot on Moss",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Salmaaboukarr/status/2048103506125463983",
+      "originalId": "case-148",
+      "authors": [
+        {
+          "name": "Salmaaboukarr",
+          "url": "https://x.com/Salmaaboukarr"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 453
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7f3310b3903cb3b3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case148/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case148/output.jpg",
+      "localPath": "public/assets/prompt_4fe70551c14c2bd17c60/c070a560c942.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.554Z"
+  }
+}

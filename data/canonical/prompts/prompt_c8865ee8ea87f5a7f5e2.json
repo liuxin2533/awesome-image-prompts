@@ -1,0 +1,194 @@
+{
+  "id": "prompt_c8865ee8ea87f5a7f5e2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Shot with a high-definition underwater camera, this prompt captures real underwater natural scenery in a {argument name=\"environment description\" default=\"clear shallow stream next to a tropical primeval forest\"}.\n\nVertical composition, 3:4 aspect ratio, medium-to-long shot. The lens is slightly below the water surface, showing the shimmering bottom of the water surface above with realistic water wave refraction and natural reflections.\n\nSunlight shines diagonally into the water from the top right, forming soft beams and underwater spots. Dark reflections and shadows of large tree branches occupy part of the composition in the upper right.\n\nIn the middle is clear and quiet stream water with slight suspended particles and {argument name=\"number of fish\" default=\"5-8\"} native freshwater small fish swimming naturally, mainly gray-silver and light brown, varying in size and distance, not forming an organized school. On the stream bed, deep green, yellow-green, and brownish-green water plants grow naturally, swaying gently with the current, distributed naturally unlike an artificial aquarium.\n\nThe bottom consists of gray-brown fine sand, gravel, pebbles, and several naturally shaped stones with slight algae marks and signs of water erosion. Multiple springs at the bottom show fine sand billowing slowly from small holes, creating light sand clouds and local water disturbances, not white smoke, steam, or large bubbles.\n\nNatural landscape live-action photography, high-end natural documentary feel, close to National Geographic ecological photography. Features transparent water, natural lighting, restrained colors, realistic underwater optical effects, slight graininess, natural depth of field, and high-definition details.\n\nNo people, no buildings, no artificial traces, no text, no borders, no LOGO. Avoid CG feel, aquarium look, seabed coral, exaggerated fish schools, oversaturated greens, dreamy lighting effects, or plastic water plants.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用高清水下相机拍摄，此提示词旨在捕捉真实的自然水下景观，环境为 {argument name=\"environment description\" default=\"热带原始森林旁的清澈浅溪\"}。\n\n竖构图，3:4 比例，中远景。镜头略低于水面，展示上方波光粼粼的水面，呈现逼真的水波折射和自然反射。\n\n阳光从右上角斜射入水中，形成柔和的光束和水下光斑。大树枝的深色倒影和阴影占据了右上角的部分构图。\n\n画面中央是清澈宁静的溪水，带有轻微的悬浮颗粒，以及 {argument name=\"number of fish\" default=\"5-8\"} 条原生淡水小鱼在自然游动，主要为灰银色和浅褐色，大小和距离各异，未形成整齐的鱼群。溪床上生长着深绿色、黄绿色和褐绿色的水草，随水流轻轻摇曳，分布自然，不像人工水族箱。\n\n底部由灰褐色细沙、砾石、鹅卵石以及几块形状自然的石头组成，带有轻微的藻类痕迹和水蚀迹象。底部的多个泉眼显示细沙从孔洞中缓慢涌出，形成轻微的沙云和局部水体扰动，而非白烟、蒸汽或大气泡。\n\n自然景观实拍，高端自然纪录片质感，接近《国家地理》生态摄影风格。具备清澈的水质、自然光照、克制的色彩、逼真的水下光学效果、轻微的颗粒感、自然的景深以及高清细节。\n\n无人物，无建筑，无人造痕迹，无文字，无边框，无 LOGO。避免 CG 感、水族箱外观、海底珊瑚、夸张的鱼群、过饱和的绿色、梦幻光效或塑料水草。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Được chụp bằng máy ảnh dưới nước độ phân giải cao, câu lệnh này ghi lại khung cảnh thiên nhiên dưới nước chân thực tại {argument name=\"environment description\" default=\"dòng suối nông trong vắt cạnh khu rừng nguyên sinh nhiệt đới\"}.\n\nBố cục dọc, tỷ lệ khung hình 3:4, góc máy trung bình đến xa. Ống kính đặt hơi thấp hơn mặt nước, hiển thị mặt dưới của lớp nước đang lung linh phía trên với hiệu ứng khúc xạ sóng nước chân thực và các phản chiếu tự nhiên.\n\nÁnh sáng mặt trời chiếu xiên vào nước từ phía trên bên phải, tạo thành những tia sáng dịu nhẹ và các đốm sáng dưới nước. Những mảng phản chiếu tối và bóng của các cành cây lớn chiếm một phần bố cục ở phía trên bên phải.\n\nỞ giữa là dòng nước suối trong vắt và tĩnh lặng với các hạt lơ lửng nhẹ và {argument name=\"number of fish\" default=\"5-8\"} chú cá nước ngọt nhỏ bản địa đang bơi lội tự nhiên, chủ yếu có màu xám bạc và nâu nhạt, kích thước và khoảng cách khác nhau, không tạo thành đàn có tổ chức. Trên lòng suối, các loại cây thủy sinh màu xanh đậm, xanh vàng và xanh nâu mọc tự nhiên, đung đưa nhẹ nhàng theo dòng chảy, phân bố tự nhiên không giống như trong bể cá nhân tạo.\n\nLòng suối bao gồm cát mịn màu nâu xám, sỏi, đá cuội và một vài tảng đá có hình dáng tự nhiên với các vết tảo nhẹ và dấu hiệu xói mòn do nước. Nhiều mạch nước dưới đáy cho thấy cát mịn đang cuộn lên chậm rãi từ các lỗ nhỏ, tạo ra những đám mây cát nhẹ và sự xáo trộn cục bộ của nước, không phải khói trắng, hơi nước hay bong bóng lớn.\n\nNhiếp ảnh phong cảnh tự nhiên, mang cảm giác phim tài liệu thiên nhiên cao cấp, gần gũi với phong cách nhiếp ảnh sinh thái của National Geographic. Đặc trưng bởi làn nước trong suốt, ánh sáng tự nhiên, màu sắc tiết chế, hiệu ứng quang học dưới nước chân thực, độ hạt nhẹ, độ sâu trường ảnh tự nhiên và chi tiết độ phân giải cao.\n\nKhông có người, không có công trình kiến trúc, không có dấu vết nhân tạo, không có văn bản, không có đường viền, không có LOGO. Tránh cảm giác đồ họa máy tính (CG), vẻ ngoài bể cá, san hô dưới đáy biển, đàn cá phóng đại, màu xanh lá cây quá bão hòa, hiệu ứng ánh sáng mơ mộng hoặc cây thủy sinh bằng nhựa.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Capturado con una cámara submarina de alta definición, este prompt captura un paisaje natural submarino real en un {argument name=\"environment description\" default=\"arroyo poco profundo y cristalino junto a un bosque tropical primigenio\"}.\n\nComposición vertical, relación de aspecto 3:4, plano medio a largo. La lente se encuentra ligeramente por debajo de la superficie del agua, mostrando el fondo brillante de la superficie superior con una refracción realista de las ondas del agua y reflejos naturales.\n\nLa luz del sol incide diagonalmente en el agua desde la parte superior derecha, formando haces suaves y puntos de luz submarinos. Los reflejos oscuros y las sombras de grandes ramas de árboles ocupan parte de la composición en la parte superior derecha.\n\nEn el centro se observa agua de arroyo clara y tranquila con ligeras partículas en suspensión y {argument name=\"number of fish\" default=\"5-8\"} peces pequeños de agua dulce nativos nadando de forma natural, principalmente de color gris plateado y marrón claro, de tamaños y distancias variables, sin formar un cardumen organizado. En el lecho del arroyo, plantas acuáticas de color verde intenso, verde amarillento y verde parduzco crecen naturalmente, balanceándose suavemente con la corriente, distribuidas de forma natural, a diferencia de un acuario artificial.\n\nEl fondo consiste en arena fina de color marrón grisáceo, grava, guijarros y varias piedras de formas naturales con ligeras marcas de algas y signos de erosión por el agua. Múltiples manantiales en el fondo muestran arena fina brotando lentamente desde pequeños orificios, creando ligeras nubes de arena y perturbaciones locales en el agua, sin humo blanco, vapor ni burbujas grandes.\n\nFotografía de acción real de paisaje natural, estilo documental de naturaleza de alta gama, cercano a la fotografía ecológica de National Geographic. Presenta agua transparente, iluminación natural, colores sobrios, efectos ópticos submarinos realistas, ligero grano, profundidad de campo natural y detalles de alta definición.\n\nSin personas, sin edificios, sin rastros artificiales, sin texto, sin bordes, sin LOGO. Evite la sensación de CG, aspecto de acuario, corales marinos, cardúmenes exagerados, verdes sobresaturados, efectos de iluminación de ensueño o plantas acuáticas de plástico.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Aufgenommen mit einer hochauflösenden Unterwasserkamera, fängt dieser Prompt eine echte Unterwasser-Naturkulisse in einem {argument name=\"environment description\" default=\"klaren, flachen Bach neben einem tropischen Urwald\"} ein.\n\nVertikale Komposition, Seitenverhältnis 3:4, mittlere bis lange Aufnahme. Das Objektiv befindet sich leicht unter der Wasseroberfläche und zeigt den schimmernden Boden der Wasseroberfläche darüber mit realistischer Lichtbrechung durch Wasserwellen und natürlichen Reflexionen.\n\nSonnenlicht scheint diagonal von oben rechts in das Wasser und bildet weiche Strahlen sowie Unterwasser-Lichtflecken. Dunkle Reflexionen und Schatten großer Baumzweige nehmen einen Teil der Komposition oben rechts ein.\n\nIn der Mitte befindet sich klares und ruhiges Bachwasser mit leichten Schwebeteilchen und {argument name=\"number of fish\" default=\"5-8\"} einheimischen kleinen Süßwasserfischen, die natürlich umherschwimmen – hauptsächlich grau-silbern und hellbraun, in unterschiedlicher Größe und Entfernung, ohne einen organisierten Schwarm zu bilden. Auf dem Bachgrund wachsen tiefgrüne, gelbgrüne und bräunlich-grüne Wasserpflanzen, die sich sanft in der Strömung wiegen und natürlich verteilt sind, ganz anders als in einem künstlichen Aquarium.\n\nDer Boden besteht aus graubraunem Feinsand, Kies, Kieselsteinen und mehreren natürlich geformten Steinen mit leichten Algenspuren und Anzeichen von Wassererosion. Mehrere Quellen am Boden zeigen feinen Sand, der langsam aus kleinen Löchern aufgewirbelt wird, wodurch leichte Sandwolken und lokale Wasserverwirbelungen entstehen – kein weißer Rauch, Dampf oder große Blasen.\n\nNatürliche Landschaftsfotografie, hochwertiger Naturdokumentations-Stil, angelehnt an die ökologische Fotografie von National Geographic. Zeichnet sich durch transparentes Wasser, natürliche Beleuchtung, zurückhaltende Farben, realistische optische Unterwassereffekte, leichte Körnung, natürliche Schärfentiefe und hochauflösende Details aus.\n\nKeine Menschen, keine Gebäude, keine künstlichen Spuren, kein Text, keine Ränder, kein LOGO. Vermeiden Sie CG-Optik, Aquarium-Look, Meeresboden-Korallen, übertriebene Fischschwärme, übersättigtes Grün, verträumte Lichteffekte oder Plastik-Wasserpflanzen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Pris avec une caméra sous-marine haute définition, ce prompt capture un paysage naturel sous-marin réel dans un {argument name=\"environment description\" default=\"ruisseau peu profond et clair à côté d'une forêt tropicale primaire\"}.\n\nComposition verticale, format 3:4, plan moyen à large. L'objectif est légèrement sous la surface de l'eau, montrant le fond scintillant de la surface de l'eau au-dessus avec une réfraction réaliste des vagues et des reflets naturels.\n\nLa lumière du soleil brille en diagonale dans l'eau depuis le haut à droite, formant des rayons doux et des taches sous-marines. Des reflets sombres et les ombres de grandes branches d'arbres occupent une partie de la composition en haut à droite.\n\nAu milieu se trouve une eau de ruisseau claire et calme avec de légères particules en suspension et {argument name=\"number of fish\" default=\"5-8\"} petits poissons d'eau douce indigènes nageant naturellement, principalement gris argenté et brun clair, de tailles et de distances variées, ne formant pas de banc organisé. Sur le lit du ruisseau, des plantes aquatiques vert foncé, jaune-vert et vert brunâtre poussent naturellement, se balançant doucement avec le courant, réparties naturellement contrairement à un aquarium artificiel.\n\nLe fond est constitué de sable fin gris-brun, de gravier, de galets et de plusieurs pierres aux formes naturelles avec de légères traces d'algues et des signes d'érosion hydrique. De multiples sources au fond montrent du sable fin s'élevant lentement de petits trous, créant de légers nuages de sable et des perturbations locales de l'eau, sans fumée blanche, vapeur ou grosses bulles.\n\nPhotographie de paysage naturel en prise de vue réelle, rendu documentaire naturel haut de gamme, proche de la photographie écologique du National Geographic. Caractérisé par une eau transparente, un éclairage naturel, des couleurs sobres, des effets optiques sous-marins réalistes, un léger grain, une profondeur de champ naturelle et des détails haute définition.\n\nPas de personnes, pas de bâtiments, pas de traces artificielles, pas de texte, pas de bordures, pas de LOGO. Évitez l'aspect images de synthèse (CG), l'aspect aquarium, les coraux marins, les bancs de poissons exagérés, les verts sursaturés, les effets d'éclairage oniriques ou les plantes aquatiques en plastique.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Scattato con una fotocamera subacquea ad alta definizione, questo prompt cattura un vero scenario naturale sottomarino in un {argument name=\"environment description\" default=\"limpido torrente poco profondo adiacente a una foresta pluviale tropicale\"}.\n\nComposizione verticale, rapporto d'aspetto 3:4, inquadratura da media a lunga. L'obiettivo è leggermente sotto la superficie dell'acqua, mostrando il luccichio della superficie sovrastante con rifrazione realistica delle onde e riflessi naturali.\n\nLa luce solare penetra diagonalmente nell'acqua dall'alto a destra, formando fasci luminosi soffusi e macchie di luce subacquee. Riflessi scuri e ombre di grandi rami d'albero occupano parte della composizione in alto a destra.\n\nAl centro si trova l'acqua limpida e calma del torrente con leggere particelle in sospensione e {argument name=\"number of fish\" default=\"5-8\"} piccoli pesci d'acqua dolce nativi che nuotano naturalmente, principalmente di colore grigio-argento e marrone chiaro, di dimensioni e distanze variabili, senza formare un banco organizzato. Sul fondale del torrente crescono piante acquatiche verde scuro, verde-giallastro e verde-brunastro, che ondeggiano delicatamente con la corrente, distribuite in modo naturale e non come in un acquario artificiale.\n\nIl fondo è composto da sabbia fine grigio-marrone, ghiaia, ciottoli e diverse pietre dalle forme naturali con lievi segni di alghe ed erosione idrica. Diverse sorgenti sul fondo mostrano sabbia fine che si solleva lentamente da piccoli fori, creando leggere nuvole di sabbia e disturbi idrici locali, senza fumo bianco, vapore o grandi bolle.\n\nFotografia naturalistica dal vivo, stile documentaristico naturalistico di alto livello, vicino alla fotografia ecologica del National Geographic. Presenta acqua trasparente, illuminazione naturale, colori sobri, effetti ottici subacquei realistici, leggera grana, profondità di campo naturale e dettagli ad alta definizione.\n\nNessuna persona, nessun edificio, nessuna traccia artificiale, nessun testo, nessun bordo, nessun LOGO. Evitare l'effetto CG, l'aspetto da acquario, coralli marini, banchi di pesci esagerati, verdi sovrasaturati, effetti di luce onirici o piante acquatiche in plastica.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Capturado com uma câmera subaquática de alta definição, este prompt registra um cenário natural subaquático real em um {argument name=\"environment description\" default=\"riacho raso e cristalino próximo a uma floresta tropical primária\"}.\n\nComposição vertical, proporção 3:4, plano médio a longo. A lente está ligeiramente abaixo da superfície da água, mostrando o brilho da superfície acima com refração realista das ondas e reflexos naturais.\n\nA luz solar incide diagonalmente na água a partir do canto superior direito, formando feixes suaves e pontos de luz subaquáticos. Reflexos escuros e sombras de grandes galhos de árvores ocupam parte da composição no canto superior direito.\n\nNo centro, a água do riacho é clara e calma, com leves partículas em suspensão e {argument name=\"number of fish\" default=\"5-8\"} peixes pequenos de água doce nativos nadando naturalmente, principalmente em tons cinza-prateados e marrom-claros, variando em tamanho e distância, sem formar um cardume organizado. No leito do riacho, plantas aquáticas em tons de verde-escuro, verde-amarelado e verde-acastanhado crescem naturalmente, balançando suavemente com a correnteza, distribuídas de forma orgânica, ao contrário de um aquário artificial.\n\nO fundo consiste em areia fina cinza-amarronzada, cascalho, seixos e várias pedras de formas naturais com leves marcas de algas e sinais de erosão pela água. Múltiplas nascentes no fundo mostram areia fina subindo lentamente de pequenos orifícios, criando nuvens leves de areia e perturbações locais na água, sem fumaça branca, vapor ou grandes bolhas.\n\nFotografia de paisagem natural em live-action, com estética de documentário de natureza de alto nível, próxima à fotografia ecológica da National Geographic. Apresenta água transparente, iluminação natural, cores contidas, efeitos ópticos subaquáticos realistas, leve granulação, profundidade de campo natural e detalhes em alta definição.\n\nSem pessoas, sem edifícios, sem vestígios artificiais, sem texto, sem bordas, sem LOGO. Evite aspecto de computação gráfica (CG), visual de aquário, corais de fundo do mar, cardumes exagerados, verdes supersaturados, efeitos de iluminação oníricos ou plantas aquáticas de plástico.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Underwater Forest Stream Photography",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 水下森林溪流摄影",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Infographic / Hình ảnh giáo dục - Nhiếp ảnh dòng suối rừng dưới nước",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Fotografía de arroyo en bosque submarino",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Unterwasser-Fotografie eines Waldflusses",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Photographie d'un ruisseau forestier sous-marin",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Fotografia di un torrente in una foresta sommersa",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Fotografia de riacho em floresta subaquática",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for generating realistic underwater nature photography in a tropical forest stream with fish and sunlight effects.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "用于生成热带森林溪流中带有鱼类和阳光效果的逼真水下自然摄影的提示词。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour générer une photographie de nature sous-marine réaliste dans un ruisseau de forêt tropicale avec des poissons et des effets de lumière solaire.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/yhjocean/status/2051300409252127011",
+      "originalId": "https://x.com/yhjocean/status/2051300409252127011",
+      "authors": [
+        {
+          "name": "liuhuofeiyan",
+          "url": "https://x.com/yhjocean"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2087
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_02bc9963071e71df",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971022592_ebxzkx_HHes1x5W8AAvz6E.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971022592_ebxzkx_HHes1x5W8AAvz6E.jpg",
+      "localPath": "public/assets/prompt_c8865ee8ea87f5a7f5e2/d7b865a1eda7.jpg",
+      "alt": "Infographic / Edu Visual - Underwater Forest Stream Photography - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_0b77ae7212a2ff93",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971021761_5499v9_HHeubKUXIAAsoUr.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971021761_5499v9_HHeubKUXIAAsoUr.jpg",
+      "localPath": "public/assets/prompt_c8865ee8ea87f5a7f5e2/1932ccc4e776.jpg",
+      "alt": "Infographic / Edu Visual - Underwater Forest Stream Photography - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.867Z"
+  }
+}

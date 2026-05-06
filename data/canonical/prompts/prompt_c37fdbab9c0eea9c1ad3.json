@@ -1,0 +1,81 @@
+{
+  "id": "prompt_c37fdbab9c0eea9c1ad3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "山姆·奥特曼作为美国职业棒球大联盟球员拿着球棒。常见的电视屏幕构图。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:09:14.135Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Sam Altman Baseball Broadcast",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/16kthir0GRXgNqn/status/2046507362266259832",
+      "originalId": "case-39",
+      "authors": [
+        {
+          "name": "16kthir0GRXgNqn",
+          "url": "https://x.com/16kthir0GRXgNqn"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 201
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b5298fd984c17169",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case39/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case39/output.jpg",
+      "localPath": "public/assets/prompt_c37fdbab9c0eea9c1ad3/54754915e1a4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

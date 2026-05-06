@@ -1,0 +1,107 @@
+{
+  "id": "prompt_ef656d8f57e6419e859b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"character avatar grid\",\r\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Journey to the West mythology\\\"}\",\r\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"clean 2D cartoon vector illustration, thick outlines, flat colors\\\"}\",\r\n  \"layout\": {\r\n    \"background\": \"{argument name=\\\"background color\\\" default=\\\"light gray\\\"} subtle texture\",\r\n    \"format\": \"grid of circular portraits with text labels centered below each circle\",\r\n    \"rows\": [\r\n      {\r\n        \"count\": 4,\r\n        \"items\": [\r\n          {\"label\": \"Sun Wukong\", \"description\": \"monkey boy with golden headband and red scarf\"},\r\n          {\"label\": \"Tang Sanzang\", \"description\": \"monk with ornate golden crown\"},\r\n          {\"label\": \"Zhu Bajie\", \"description\": \"pig man holding a rake\"},\r\n          {\"label\": \"Sha Wujing\", \"description\": \"bearded man holding a crescent moon staff\"}\r\n        ]\r\n      },\r\n      {\r\n        \"count\": 4,\r\n        \"items\": [\r\n          {\"label\": \"White Dragon Horse\", \"description\": \"white horse with golden bridle\"},\r\n          {\"label\": \"Jade Emperor\", \"description\": \"older man with white beard and golden crown\"},\r\n          {\"label\": \"Guanyin\", \"description\": \"goddess holding a willow branch\"},\r\n          {\"label\": \"Bull Demon Kink\", \"description\": \"fierce bull demon in armor\"}\r\n        ]\r\n      },\r\n      {\r\n        \"count\": 4,\r\n        \"items\": [\r\n          {\"label\": \"Princess Iron Fan\", \"description\": \"woman holding a green palm leaf fan\"},\r\n          {\"label\": \"Red Boy\", \"description\": \"boy with red hair, horns, and a small flame\"},\r\n          {\"label\": \"Black Wind Demon\", \"description\": \"dark shadowy demon with glowing red eyes\"},\r\n          {\"label\": \"Nezha\", \"description\": \"boy with double hair buns holding a flaming spear\"}\r\n        ]\r\n      },\r\n      {\r\n        \"count\": 3,\r\n        \"description\": \"partial row repeating Princess Iron Fan, Black Wind Demon, and Nezha, slightly cropped at the bottom\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"character avatar grid\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Journey to the West mythology\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"clean 2D cartoon vector illustration, thick outlines, flat colors\\\"}\",\n  \"layout\": {\n    \"background\": \"{argument name=\\\"background color\\\" default=\\\"light gray\\\"} subtle texture\",\n    \"format\": \"grid of circular portraits with text labels centered below each circle\",\n    \"rows\": [\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"Sun Wukong\", \"description\": \"monkey boy with golden headband and red scarf\"},\n          {\"label\": \"Tang Sanzang\", \"description\": \"monk with ornate golden crown\"},\n          {\"label\": \"Zhu Bajie\", \"description\": \"pig man holding a rake\"},\n          {\"label\": \"Sha Wujing\", \"description\": \"bearded man holding a crescent moon staff\"}\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"White Dragon Horse\", \"description\": \"white horse with golden bridle\"},\n          {\"label\": \"Jade Emperor\", \"description\": \"older man with white beard and golden crown\"},\n          {\"label\": \"Guanyin\", \"description\": \"goddess holding a willow branch\"},\n          {\"label\": \"Bull Demon King\", \"description\": \"fierce bull demon in armor\"}\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"Princess Iron Fan\", \"description\": \"woman holding a green palm leaf fan\"},\n          {\"label\": \"Red Boy\", \"description\": \"boy with red hair, horns, and a small flame\"},\n          {\"label\": \"Black Wind Demon\", \"description\": \"dark shadowy demon with glowing red eyes\"},\n          {\"label\": \"Nezha\", \"description\": \"boy with double hair buns holding a flaming spear\"}\n        ]\n      },\n      {\n        \"count\": 3,\n        \"description\": \"partial row repeating Princess Iron Fan, Black Wind Demon, and Nezha, slightly cropped at the bottom\"\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:45.150Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "插画艺术创作图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Artistic Illustration Creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:47.829Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a46adb8134",
+      "value": "插画艺术创作图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-34",
+      "originalId": "case-34",
+      "authors": [
+        {
+          "name": "Ryan_Suo",
+          "url": "https://x.com/Ryan_Suo"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 774
+        }
+      ],
+      "rawSource": "[@Ryan\\_Suo](https://x.com/Ryan_Suo)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7fe467c7cdba0db9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case34.jpg",
+      "upstreamPath": "../data/images/case34.jpg",
+      "localPath": "public/assets/prompt_ef656d8f57e6419e859b/45976f156bdc.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

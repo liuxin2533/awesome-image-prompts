@@ -1,0 +1,93 @@
+{
+  "id": "prompt_77de2de1d40fb4b8d439",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: \"200g spaghetti\", \"150g mushrooms\", \"3 garlic cloves\", \"200ml cream\", \"1 tbsp olive oil\", \"parmesan\", \"parsley\", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Recipe Infographic Layout",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/aiistudiocom/status/2051060312351342957",
+      "originalId": "case-127",
+      "authors": [
+        {
+          "name": "aiistudiocom",
+          "url": "https://x.com/aiistudiocom"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 901
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_178dbb8dc878c95c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case127/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case127/output.jpg",
+      "localPath": "public/assets/prompt_77de2de1d40fb4b8d439/c18214ae2a2f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

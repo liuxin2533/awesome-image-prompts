@@ -1,0 +1,80 @@
+{
+  "id": "prompt_6a66822cf953b9ae9cef",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "手写食谱 → 专业食谱页面 上传一份凌乱的手写家庭食谱；模型会搜索准确的现代计量/营养信息，然后生成一份精致的杂志风格双页跨页，包含分步平铺图、完美的食材标签和卡路里分解。\n\n[INSERT_RECIPE_LINK]",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten family recipe; the model searches for accurate modern measurements/nutrition, then generates a polished, magazine-style double-page spread with step-by-step flat lays, perfect ingredient labels, and calorie breakdowns.\n\n[INSERT_RECIPE_LINK]",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "手写食谱变身杂志级跨页",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_579f2d3324",
+      "value": "手写食谱变身杂志级跨页",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-297",
+      "originalId": "case-297",
+      "authors": [
+        {
+          "name": "maxescu",
+          "url": "https://x.com/maxescu/status/2045203839910056014"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3803
+        }
+      ],
+      "rawSource": "[@maxescu](https://x.com/maxescu/status/2045203839910056014)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_28ad5e36d52c780a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case297.jpg",
+      "upstreamPath": "../data/images/case297.jpg",
+      "localPath": "public/assets/prompt_6a66822cf953b9ae9cef/65648df94cac.jpg",
+      "alt": "手写食谱变身杂志级跨页",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

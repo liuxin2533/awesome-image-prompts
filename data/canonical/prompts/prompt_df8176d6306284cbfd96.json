@@ -1,0 +1,194 @@
+{
+  "id": "prompt_df8176d6306284cbfd96",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Please generate a high-quality, high-definition poster-style storyboard for \"{argument name=\"subject\" default=\"Street Freestyle Football\"} · {argument name=\"action\" default=\"16-Step Action Breakdown\"}.\" The layout should be a square 4x4 grid, with each cell showing a consecutive action step of the same street football performer in the same setting. The entire image should look like a combination of a high-end sports poster and a technical breakdown instructional board, possessing both visual impact and a clear sense of movement explanation.\n\n[Overall Setting]\nTheme: Street freestyle football performance (not a match or drill), where one performer completes a continuous set of tricks.\nAtmosphere: Street vibe, urban, cinematic, athletic, cool, and rhythmic.\nBackground: Set in a {argument name=\"background\" default=\"nighttime urban small street pitch\"} or city square football space, with graffiti walls, wire fences, distant building lights, street lamps, and slightly reflective ground. The environment must be consistent and have a trendy street aesthetic.\n\n[Character Requirements]\nProtagonist: A young, handsome male freestyle football expert with a light, coordinated, and athletic build, short black hair, confident aura, and fluid, controlled movements.\nThe same person must appear in all 16 cells; do not change the person per cell.\nOutfit: Cool-looking football kit, but no words like \"Champion\" or specific country names. The clothing should feel like a professional team jersey.\n\n[Layout Requirements]\nThe full image is a 4x4 grid of 16 cells. Each cell must contain:\n1. Large step number (1-16)\n2. Chinese action title\n3. 2-4 brief Chinese action points\n4. Clear full-body action shot of the person\n5. Football trajectory arrows / footwork paths\n6. The ball must be clearly visible and logically positioned.\n\nOverall font style: Sporty poster aesthetic, clear and powerful. The image should be sharp, clean, and the person and ball must be complete, not cut off at the feet.\n\n[Action Sequence]\nPlease design 16 continuous actions in order, each distinctly different, forming a complete freestyle routine: [Detailed steps 1-16 including Starting Pose, Sole Pull, Stepover, Flick-up, Knee Control, Around the World, Shoulder Stall, Rainbow Flick, and Final Bow].\n\n[Visual Style]\n- High-end sports poster style\n- Cinematic night lighting and shadows\n- Strong sense of motion with a trendy street aesthetic\n- Clear arrows and trajectory lines to help understand the path of the ball\n- Color palette dominated by red, black, and gold for a premium feel\n- Eye-catching typography suitable for social media",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "请生成一张高质量、高清晰度的海报风格故事板，主题为“{argument name=\"subject\" default=\"街头花式足球\"} · {argument name=\"action\" default=\"16 步动作分解\"}”。布局应为 4x4 的方形网格，每个单元格展示同一位街头足球表演者在相同场景下的连续动作步骤。整张图片应看起来既像高端体育海报，又像技术分解教学项目，兼具视觉冲击力和清晰的动作解析感。\n\n[整体设定]\n主题：街头花式足球表演（非比赛或训练），由一名表演者完成一套连续的技巧动作。\n氛围：街头感、都市风、电影感、运动、酷炫且富有节奏感。\n背景：设定在 {argument name=\"background\" default=\"夜间城市小型街头球场\"} 或城市广场足球空间，配有涂鸦墙、铁丝网、远处的建筑灯光、路灯以及略带反光的地面。环境必须保持一致，并具有潮流街头美学。\n\n[人物要求]\n主角：一位年轻帅气的花式足球专家，身材轻盈、协调且健壮，留着黑色短发，气质自信，动作流畅且受控。\n同一个人必须出现在所有 16 个单元格中；请勿在不同单元格中更换人物。\n服装：酷炫的足球装备，但不要出现“Champion”或特定国家名称等文字。服装应具有专业球队球衣的质感。\n\n[布局要求]\n整张图片为 16 个单元格的 4x4 网格。每个单元格必须包含：\n1. 大号步骤编号（1-16）\n2. 中文动作标题\n3. 2-4 个简短的中文动作要点\n4. 清晰的人物全身动作镜头\n5. 足球轨迹箭头 / 脚法路径\n6. 球必须清晰可见且位置符合逻辑。\n\n整体字体风格：运动海报美学，清晰且有力。图像应锐利、整洁，人物和球必须完整，不得在脚部处被截断。\n\n[动作序列]\n请按顺序设计 16 个连续动作，每个动作都截然不同，形成一套完整的花式表演：[详细步骤 1-16，包括起始姿势、脚底拉球、跨步绕球、挑球、膝部控制、环绕世界、肩部停球、彩虹过人以及谢幕动作]。\n\n[视觉风格]\n- 高端体育海报风格\n- 电影级夜间灯光与阴影\n- 强烈的运动感与潮流街头美学\n- 清晰的箭头和轨迹线，有助于理解球的运动路径\n- 以红、黑、金为主的配色方案，营造高级质感\n- 适合社交媒体传播的醒目排版",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรดสร้างสตอรีบอร์ดสไตล์โปสเตอร์คุณภาพสูงและความละเอียดสูงสำหรับ \"{argument name=\"subject\" default=\"Street Freestyle Football\"} · {argument name=\"action\" default=\"16-Step Action Breakdown\"}\" โดยจัดวางเลย์เอาต์เป็นตาราง 4x4 แต่ละช่องต้องแสดงขั้นตอนการเคลื่อนไหวที่ต่อเนื่องกันของนักฟุตบอลสตรีทคนเดียวกันในฉากเดียวกัน ภาพรวมทั้งหมดควรมีลักษณะผสมผสานระหว่างโปสเตอร์กีฬาระดับไฮเอนด์และบอร์ดแนะนำเทคนิคการเล่น ซึ่งให้ทั้งผลลัพธ์ทางสายตาที่โดดเด่นและการอธิบายการเคลื่อนไหวที่ชัดเจน\n\n[การตั้งค่าโดยรวม]\nธีม: การแสดงฟรีสไตล์ฟุตบอลข้างถนน (ไม่ใช่การแข่งขันหรือการฝึกซ้อม) โดยนักแสดงหนึ่งคนทำท่าทางต่อเนื่องกัน\nบรรยากาศ: กลิ่นอายสตรีท, ความเป็นเมือง, ภาพยนตร์, ความเป็นนักกีฬา, เท่ และมีจังหวะ\nพื้นหลัง: ฉากหลังเป็น {argument name=\"background\" default=\"nighttime urban small street pitch\"} หรือสนามฟุตบอลในจัตุรัสเมือง มีกำแพงกราฟฟิตี้, รั้วลวดหนาม, แสงไฟจากอาคารในระยะไกล, ไฟถนน และพื้นที่มีการสะท้อนแสงเล็กน้อย สภาพแวดล้อมต้องมีความสม่ำเสมอและมีสุนทรียภาพแบบสตรีทที่ทันสมัย\n\n[ข้อกำหนดของตัวละคร]\nตัวเอก: ชายหนุ่มหน้าตาดีที่เป็นผู้เชี่ยวชาญด้านฟรีสไตล์ฟุตบอล รูปร่างสมส่วนและคล่องแคล่ว ผมสั้นสีดำ มีออร่าแห่งความมั่นใจ และมีการเคลื่อนไหวที่ลื่นไหลและควบคุมได้ดี\nต้องเป็นคนเดียวกันปรากฏในทั้ง 16 ช่อง ห้ามเปลี่ยนตัวบุคคลในแต่ละช่อง\nเครื่องแต่งกาย: ชุดฟุตบอลที่ดูเท่ แต่ไม่มีคำว่า \"Champion\" หรือชื่อประเทศใดๆ เสื้อผ้าควรให้ความรู้สึกเหมือนเสื้อทีมระดับมืออาชีพ\n\n[ข้อกำหนดด้านเลย์เอาต์]\nภาพรวมเป็นตาราง 4x4 รวม 16 ช่อง แต่ละช่องต้องประกอบด้วย:\n1. หมายเลขขั้นตอนขนาดใหญ่ (1-16)\n2. ชื่อท่าทางภาษาจีน\n3. คำอธิบายท่าทางภาษาจีนสั้นๆ 2-4 ข้อ\n4. ภาพการเคลื่อนไหวเต็มตัวที่ชัดเจนของตัวละคร\n5. ลูกศรแสดงวิถีของลูกฟุตบอล / เส้นทางการเคลื่อนไหวของเท้า\n6. ลูกฟุตบอลต้องมองเห็นได้ชัดเจนและอยู่ในตำแหน่งที่สมเหตุสมผล\n\nสไตล์ตัวอักษรโดยรวม: สไตล์โปสเตอร์กีฬา ดูชัดเจนและทรงพลัง ภาพควรมีความคมชัด สะอาดตา และตัวละครกับลูกฟุตบอลต้องครบถ้วน ไม่ถูกตัดส่วนเท้าออก\n\n[ลำดับท่าทาง]\nโปรดออกแบบท่าทางต่อเนื่อง 16 ขั้นตอนตามลำดับ แต่ละท่าต้องมีความแตกต่างกันอย่างชัดเจน เพื่อสร้างเป็นชุดการแสดงฟรีสไตล์ที่สมบูรณ์: [ขั้นตอนโดยละเอียด 1-16 รวมถึง ท่าเริ่มต้น, การดึงบอลด้วยฝ่าเท้า, การก้าวข้ามบอล, การสะบัดบอลขึ้น, การควบคุมบอลด้วยเข่า, ท่า Around the World, การพักบอลด้วยไหล่, ท่า Rainbow Flick และการโค้งคำนับปิดท้าย]\n\n[สไตล์ภาพ]\n- สไตล์โปสเตอร์กีฬาระดับไฮเอนด์\n- แสงและเงาแบบภาพยนตร์ในยามค่ำคืน\n- ให้ความรู้สึกของการเคลื่อนไหวที่แข็งแกร่งพร้อมสุนทรียภาพแบบสตรีทที่ทันสมัย\n- มีลูกศรและเส้นวิถีที่ชัดเจนเพื่อช่วยให้เข้าใจทิศทางของลูกบอล\n- โทนสีหลักคือสีแดง สีดำ และสีทอง เพื่อความรู้สึกระดับพรีเมียม\n- การใช้ตัวอักษรที่สะดุดตาเหมาะสำหรับโซเชียลมีเดีย",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Vui lòng tạo một bảng phân cảnh (storyboard) theo phong cách poster chất lượng cao, độ phân giải cao cho \"{argument name=\"subject\" default=\"Street Freestyle Football\"} · {argument name=\"action\" default=\"16-Step Action Breakdown\"}.\" Bố cục nên là lưới 4x4 hình vuông, trong đó mỗi ô hiển thị một bước hành động liên tiếp của cùng một vận động viên bóng đá đường phố trong cùng một bối cảnh. Toàn bộ hình ảnh cần trông giống như sự kết hợp giữa một poster thể thao cao cấp và bảng hướng dẫn kỹ thuật, vừa có tác động thị giác mạnh mẽ vừa giải thích rõ ràng về chuyển động.\n\n[Bối cảnh tổng thể]\nChủ đề: Biểu diễn bóng đá freestyle đường phố (không phải trận đấu hay bài tập), nơi một người biểu diễn thực hiện một chuỗi kỹ thuật liên tục.\nKhông khí: Vibe đường phố, đô thị, đậm chất điện ảnh, thể thao, ngầu và nhịp điệu.\nNền: Thiết lập tại {argument name=\"background\" default=\"sân bóng đá nhỏ trong đô thị vào ban đêm\"} hoặc không gian bóng đá tại quảng trường thành phố, với tường graffiti, hàng rào lưới, ánh đèn tòa nhà phía xa, đèn đường và mặt đất hơi phản chiếu. Môi trường phải nhất quán và mang tính thẩm mỹ đường phố thời thượng.\n\n[Yêu cầu về nhân vật]\nNhân vật chính: Một nam chuyên gia freestyle football trẻ, điển trai với vóc dáng nhẹ nhàng, phối hợp tốt và săn chắc, tóc đen ngắn, thần thái tự tin và các chuyển động linh hoạt, có kiểm soát.\nCùng một người phải xuất hiện trong tất cả 16 ô; không thay đổi nhân vật giữa các ô.\nTrang phục: Bộ đồ bóng đá trông ngầu, nhưng không có các từ như \"Champion\" hay tên quốc gia cụ thể. Trang phục nên tạo cảm giác như áo đấu của một đội chuyên nghiệp.\n\n[Yêu cầu về bố cục]\nToàn bộ hình ảnh là lưới 4x4 gồm 16 ô. Mỗi ô phải chứa:\n1. Số thứ tự bước lớn (1-16)\n2. Tên hành động bằng tiếng Trung\n3. 2-4 điểm hành động ngắn gọn bằng tiếng Trung\n4. Ảnh chụp hành động toàn thân rõ nét của nhân vật\n5. Các mũi tên quỹ đạo bóng / đường di chuyển của chân\n6. Quả bóng phải hiển thị rõ ràng và được đặt ở vị trí hợp lý.\n\nPhong cách phông chữ tổng thể: Thẩm mỹ poster thể thao, rõ ràng và mạnh mẽ. Hình ảnh phải sắc nét, sạch sẽ, nhân vật và quả bóng phải trọn vẹn, không bị cắt mất phần chân.\n\n[Chuỗi hành động]\nVui lòng thiết kế 16 hành động liên tục theo thứ tự, mỗi hành động khác biệt rõ rệt, tạo thành một bài biểu diễn freestyle hoàn chỉnh: [Các bước chi tiết 1-16 bao gồm Tư thế bắt đầu, Kéo bóng bằng lòng bàn chân, Bước qua bóng, Hất bóng lên, Kiểm soát bằng đầu gối, Around the World, Đỡ bóng bằng vai, Rainbow Flick và Cú cúi chào kết thúc].\n\n[Phong cách hình ảnh]\n- Phong cách poster thể thao cao cấp\n- Ánh sáng và bóng đổ ban đêm đậm chất điện ảnh\n- Cảm giác chuyển động mạnh mẽ với thẩm mỹ đường phố thời thượng\n- Các mũi tên và đường quỹ đạo rõ ràng để giúp hiểu đường đi của bóng\n- Bảng màu chủ đạo là đỏ, đen và vàng để tạo cảm giác cao cấp\n- Kiểu chữ bắt mắt phù hợp cho mạng xã hội",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Por favor, genera un storyboard estilo póster de alta calidad y alta definición para \"{argument name=\"subject\" default=\"Street Freestyle Football\"} · {argument name=\"action\" default=\"Desglose de acción de 16 pasos\"}.\" El diseño debe ser una cuadrícula cuadrada de 4x4, donde cada celda muestre un paso de acción consecutivo del mismo jugador de fútbol callejero en el mismo entorno. La imagen completa debe parecer una combinación de un póster deportivo de alta gama y un tablero instructivo de desglose técnico, que posea tanto impacto visual como una clara explicación del movimiento.\n\n[Entorno general]\nTema: Actuación de freestyle football callejero (no un partido o entrenamiento), donde un solo artista completa una serie continua de trucos.\nAtmósfera: Vibras callejeras, urbana, cinematográfica, atlética, genial y rítmica.\nFondo: Ambientado en un {argument name=\"background\" default=\"campo de fútbol callejero pequeño y nocturno\"} o un espacio de fútbol en una plaza de la ciudad, con paredes con graffiti, cercas de alambre, luces de edificios distantes, farolas y un suelo ligeramente reflectante. El entorno debe ser consistente y tener una estética callejera moderna.\n\n[Requisitos del personaje]\nProtagonista: Un joven y apuesto experto en freestyle football con una complexión ligera, coordinada y atlética, cabello negro corto, aura segura y movimientos fluidos y controlados.\nLa misma persona debe aparecer en las 16 celdas; no cambies de persona en cada celda.\nVestimenta: Un uniforme de fútbol con estilo, pero sin palabras como \"Champion\" o nombres de países específicos. La ropa debe sentirse como la camiseta de un equipo profesional.\n\n[Requisitos de diseño]\nLa imagen completa es una cuadrícula de 4x4 con 16 celdas. Cada celda debe contener:\n1. Número de paso grande (1-16)\n2. Título de la acción en chino\n3. 2-4 puntos breves de la acción en chino\n4. Toma de acción clara de cuerpo completo de la persona\n5. Flechas de trayectoria del balón / rutas de juego de pies\n6. El balón debe ser claramente visible y estar posicionado de forma lógica.\n\nEstilo de fuente general: Estética de póster deportivo, clara y potente. La imagen debe ser nítida, limpia, y la persona y el balón deben estar completos, sin cortes en los pies.\n\n[Secuencia de acción]\nPor favor, diseña 16 acciones continuas en orden, cada una claramente diferente, formando una rutina completa de freestyle: [Pasos detallados 1-16 incluyendo Pose inicial, Sole Pull, Stepover, Flick-up, Control de rodilla, Around the World, Shoulder Stall, Rainbow Flick y Saludo final].\n\n[Estilo visual]\n- Estilo de póster deportivo de alta gama\n- Iluminación y sombras nocturnas cinematográficas\n- Fuerte sentido de movimiento con una estética callejera moderna\n- Flechas y líneas de trayectoria claras para ayudar a entender la ruta del balón\n- Paleta de colores dominada por rojo, negro y dorado para una sensación premium\n- Tipografía llamativa adecuada para redes sociales",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Bitte generieren Sie ein hochwertiges, hochauflösendes Storyboard im Poster-Stil für „{argument name=\"subject\" default=\"Street Freestyle Football\"} · {argument name=\"action\" default=\"16-Schritte-Action-Analyse\"}.“ Das Layout sollte ein quadratisches 4x4-Raster sein, wobei jede Zelle einen aufeinanderfolgenden Handlungsschritt desselben Street-Fußballers in derselben Umgebung zeigt. Das gesamte Bild sollte wie eine Kombination aus einem hochwertigen Sportposter und einer technischen Anleitungstafel wirken, die sowohl visuelle Wirkung als auch ein klares Verständnis der Bewegungsabläufe vermittelt.\n\n[Gesamteinstellung]\nThema: Street-Freestyle-Fußball-Performance (kein Spiel oder Training), bei der ein Akteur eine fortlaufende Reihe von Tricks ausführt.\nAtmosphäre: Street-Vibe, urban, kinoreif, athletisch, cool und rhythmisch.\nHintergrund: Angesiedelt auf einem {argument name=\"background\" default=\"nächtlichen urbanen Kleinfeld\"} oder einem Fußballplatz auf einem Stadtplatz, mit Graffiti-Wänden, Maschendrahtzäunen, entfernten Gebäudelichtern, Straßenlaternen und leicht reflektierendem Boden. Die Umgebung muss konsistent sein und eine trendige Street-Ästhetik aufweisen.\n\n[Anforderungen an den Charakter]\nProtagonist: Ein junger, gut aussehender männlicher Freestyle-Fußball-Experte mit leichtem, koordiniertem und athletischem Körperbau, kurzem schwarzem Haar, selbstbewusster Ausstrahlung und flüssigen, kontrollierten Bewegungen.\nDieselbe Person muss in allen 16 Zellen erscheinen; die Person darf sich nicht von Zelle zu Zelle ändern.\nOutfit: Cool aussehendes Fußballtrikot, jedoch ohne Wörter wie „Champion“ oder spezifische Ländernamen. Die Kleidung sollte wie ein professionelles Trikot wirken.\n\n[Layout-Anforderungen]\nDas Gesamtbild ist ein 4x4-Raster mit 16 Zellen. Jede Zelle muss enthalten:\n1. Große Schrittnummer (1-16)\n2. Chinesischer Action-Titel\n3. 2-4 kurze chinesische Action-Punkte\n4. Klare Ganzkörper-Actionaufnahme der Person\n5. Fußball-Flugbahnpfeile / Fußarbeit-Pfade\n6. Der Ball muss deutlich sichtbar und logisch positioniert sein.\n\nAllgemeiner Schriftstil: Sportliche Poster-Ästhetik, klar und kraftvoll. Das Bild sollte scharf und sauber sein, und die Person sowie der Ball müssen vollständig abgebildet sein, nicht an den Füßen abgeschnitten.\n\n[Action-Sequenz]\nBitte entwerfen Sie 16 fortlaufende Aktionen in der richtigen Reihenfolge, die sich jeweils deutlich voneinander unterscheiden und eine komplette Freestyle-Routine bilden: [Detaillierte Schritte 1-16 inklusive Startpose, Sohlenzug, Übersteiger, Flick-up, Kniekontrolle, Around the World, Schulter-Stall, Rainbow Flick und abschließende Verbeugung].\n\n[Visueller Stil]\n- Hochwertiger Sportposter-Stil\n- Kinoreife Nachtbeleuchtung und Schatten\n- Starkes Bewegungsgefühl mit trendiger Street-Ästhetik\n- Klare Pfeile und Flugbahnlinien, um den Weg des Balls verständlich zu machen\n- Farbpalette dominiert von Rot, Schwarz und Gold für einen Premium-Look\n- Auffällige Typografie, geeignet für soziale Medien",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Veuillez générer un storyboard de style affiche haute qualité et haute définition pour « {argument name=\"subject\" default=\"Street Freestyle Football\"} · {argument name=\"action\" default=\"16-Step Action Breakdown\"}. » La mise en page doit être une grille carrée de 4x4, chaque cellule montrant une étape d'action consécutive du même pratiquant de football de rue dans le même décor. L'image entière doit ressembler à une combinaison d'une affiche de sport haut de gamme et d'un tableau pédagogique technique, possédant à la fois un impact visuel et une explication claire du mouvement.\n\n[Cadre général]\nThème : Performance de freestyle football de rue (pas un match ou un entraînement), où un seul interprète réalise une série continue de figures.\nAtmosphère : Ambiance de rue, urbaine, cinématographique, athlétique, cool et rythmée.\nArrière-plan : Situé dans un {argument name=\"background\" default=\"nighttime urban small street pitch\"} ou un terrain de football sur une place urbaine, avec des murs recouverts de graffitis, des clôtures grillagées, des lumières de bâtiments au loin, des lampadaires et un sol légèrement réfléchissant. L'environnement doit être cohérent et posséder une esthétique urbaine tendance.\n\n[Exigences concernant le personnage]\nProtagoniste : Un jeune homme séduisant, expert en freestyle football, avec une carrure légère, coordonnée et athlétique, des cheveux noirs courts, une aura confiante et des mouvements fluides et contrôlés.\nLa même personne doit apparaître dans les 16 cellules ; ne changez pas de personne d'une cellule à l'autre.\nTenue : Tenue de football stylée, sans mots comme « Champion » ou noms de pays spécifiques. Les vêtements doivent ressembler à un maillot d'équipe professionnel.\n\n[Exigences de mise en page]\nL'image complète est une grille 4x4 de 16 cellules. Chaque cellule doit contenir :\n1. Un grand numéro d'étape (1-16)\n2. Un titre d'action en chinois\n3. 2-4 points d'action brefs en chinois\n4. Un plan clair du corps entier de la personne en action\n5. Des flèches de trajectoire du ballon / chemins de jeu de jambes\n6. Le ballon doit être clairement visible et positionné de manière logique.\n\nStyle de police global : Esthétique d'affiche sportive, claire et puissante. L'image doit être nette, propre, et la personne ainsi que le ballon doivent être complets, sans être coupés au niveau des pieds.\n\n[Séquence d'action]\nVeuillez concevoir 16 actions continues dans l'ordre, chacune distinctement différente, formant une routine de freestyle complète : [Étapes détaillées 1-16 incluant la pose de départ, le tirage de semelle, le passement de jambes, le flick-up, le contrôle du genou, le Around the World, le Shoulder Stall, le Rainbow Flick et la révérence finale].\n\n[Style visuel]\n- Style affiche de sport haut de gamme\n- Éclairage et ombres cinématographiques de nuit\n- Fort sentiment de mouvement avec une esthétique de rue tendance\n- Flèches et lignes de trajectoire claires pour aider à comprendre le chemin du ballon\n- Palette de couleurs dominée par le rouge, le noir et l'or pour un rendu premium\n- Typographie accrocheuse adaptée aux réseaux sociaux",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Genera uno storyboard in stile poster di alta qualità e in alta definizione per \"{argument name=\"subject\" default=\"Street Freestyle Football\"} · {argument name=\"action\" default=\"16-Step Action Breakdown\"}.\" Il layout deve essere una griglia quadrata 4x4, in cui ogni cella mostra una fase d'azione consecutiva dello stesso freestyler in un contesto identico. L'intera immagine deve apparire come una combinazione tra un poster sportivo di alto livello e una tavola illustrativa tecnica, possedendo sia un forte impatto visivo che una chiara spiegazione del movimento.\n\n[Ambientazione generale]\nTema: Performance di street freestyle football (non una partita o un allenamento), in cui un singolo performer completa una serie continua di trick.\nAtmosfera: Street, urbana, cinematografica, atletica, cool e ritmica.\nSfondo: Ambientato in un {argument name=\"background\" default=\"nighttime urban small street pitch\"} o in un campo da calcio in una piazza cittadina, con muri pieni di graffiti, recinzioni metalliche, luci di edifici in lontananza, lampioni e terreno leggermente riflettente. L'ambiente deve essere coerente e avere un'estetica street di tendenza.\n\n[Requisiti del personaggio]\nProtagonista: Un giovane e attraente esperto di freestyle football, corporatura agile, coordinata e atletica, capelli neri corti, aura sicura di sé e movimenti fluidi e controllati.\nLa stessa persona deve apparire in tutte le 16 celle; non cambiare il soggetto tra una cella e l'altra.\nAbbigliamento: Kit da calcio dal look accattivante, senza scritte come \"Champion\" o nomi di nazioni specifiche. L'abbigliamento deve sembrare una divisa da squadra professionale.\n\n[Requisiti di layout]\nL'immagine completa è una griglia 4x4 di 16 celle. Ogni cella deve contenere:\n1. Numero del passaggio in grande (1-16)\n2. Titolo dell'azione in cinese\n3. 2-4 brevi punti chiave dell'azione in cinese\n4. Ripresa chiara a figura intera della persona\n5. Frecce di traiettoria del pallone / percorsi del gioco di gambe\n6. Il pallone deve essere chiaramente visibile e posizionato in modo logico.\n\nStile del font generale: Estetica da poster sportivo, chiaro e d'impatto. L'immagine deve essere nitida, pulita e la persona e il pallone devono essere completi, non tagliati ai piedi.\n\n[Sequenza d'azione]\nProgetta 16 azioni continue in ordine, ognuna distintamente diversa, che formino una routine di freestyle completa: [Passaggi dettagliati 1-16 inclusi Posizione di partenza, Sole Pull, Stepover, Flick-up, Controllo di ginocchio, Around the World, Shoulder Stall, Rainbow Flick e Inchino finale].\n\n[Stile visivo]\n- Stile poster sportivo di alto livello\n- Illuminazione notturna cinematografica e ombre\n- Forte senso di movimento con un'estetica street di tendenza\n- Frecce chiare e linee di traiettoria per aiutare a comprendere il percorso del pallone\n- Palette di colori dominata da rosso, nero e oro per un tocco premium\n- Tipografia accattivante adatta ai social media",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Por favor, gere um storyboard estilo pôster de alta qualidade e alta definição para \"{argument name=\"subject\" default=\"Street Freestyle Football\"} · {argument name=\"action\" default=\"16-Step Action Breakdown\"}.\" O layout deve ser uma grade quadrada 4x4, com cada célula mostrando um passo de ação consecutivo do mesmo praticante de futebol de rua no mesmo cenário. A imagem inteira deve parecer uma combinação de um pôster esportivo de alto nível e um quadro instrucional de análise técnica, possuindo tanto impacto visual quanto uma clara sensação de explicação de movimento.\n\n[Cenário Geral]\nTema: Performance de street freestyle football (não uma partida ou treino), onde um praticante completa uma série contínua de manobras.\nAtmosfera: Vibe de rua, urbana, cinematográfica, atlética, descolada e rítmica.\nFundo: Situado em um {argument name=\"background\" default=\"nighttime urban small street pitch\"} ou quadra de futebol em praça pública, com paredes grafitadas, cercas de arame, luzes de prédios distantes, postes de iluminação e solo levemente reflexivo. O ambiente deve ser consistente e ter uma estética urbana moderna.\n\n[Requisitos do Personagem]\nProtagonista: Um jovem e atraente especialista em freestyle football, com porte atlético, leve e coordenado, cabelo preto curto, aura confiante e movimentos fluidos e controlados.\nA mesma pessoa deve aparecer em todas as 16 células; não mude a pessoa entre as células.\nTraje: Uniforme de futebol com visual descolado, mas sem palavras como \"Champion\" ou nomes de países específicos. A roupa deve parecer uma camisa de time profissional.\n\n[Requisitos de Layout]\nA imagem completa é uma grade 4x4 de 16 células. Cada célula deve conter:\n1. Número do passo grande (1-16)\n2. Título da ação em chinês\n3. 2-4 pontos breves da ação em chinês\n4. Foto de ação de corpo inteiro clara da pessoa\n5. Setas de trajetória da bola / caminhos de footwork\n6. A bola deve estar claramente visível e posicionada logicamente.\n\nEstilo de fonte geral: Estética de pôster esportivo, clara e poderosa. A imagem deve ser nítida, limpa, e a pessoa e a bola devem estar completas, sem cortes nos pés.\n\n[Sequência de Ação]\nPor favor, projete 16 ações contínuas em ordem, cada uma distintamente diferente, formando uma rotina completa de freestyle: [Passos detalhados 1-16 incluindo Posição Inicial, Puxada com a Sola, Stepover, Flick-up, Controle de Joelho, Around the World, Shoulder Stall, Rainbow Flick e Reverência Final].\n\n[Estilo Visual]\n- Estilo de pôster esportivo de alto nível\n- Iluminação noturna cinematográfica e sombras\n- Forte senso de movimento com uma estética urbana moderna\n- Setas claras e linhas de trajetória para ajudar a entender o caminho da bola\n- Paleta de cores dominada por vermelho, preto e dourado para uma sensação premium\n- Tipografia atraente adequada para redes sociais",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Freestyle Football 16-Step Action Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 花式足球 16 步动作海报",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โปสเตอร์แสดงท่าทางฟรีสไตล์ฟุตบอล 16 ขั้นตอน",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Infographic / Hình ảnh giáo dục - Poster 16 Bước Hành Động Freestyle Football",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Póster de acción de 16 pasos de Freestyle Football",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Freestyle-Fußball 16-Schritte-Action-Poster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Affiche d'action 16 étapes de freestyle football",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Poster d'azione in 16 passaggi di Freestyle Football",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Pôster de Ação de 16 Passos de Freestyle Football",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A complex 4x4 grid prompt designed to generate a professional sports poster showing a 16-step sequence of freestyle football tricks with cinematic lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个复杂的 4x4 网格提示词，旨在生成一张专业的体育海报，展示 16 步花式足球动作分解，并配以电影级光影效果。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt complexe sous forme de grille 4x4 conçu pour générer une affiche de sport professionnelle illustrant une séquence de 16 étapes de figures de freestyle football avec un éclairage cinématographique.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/you1873118/status/2051290646208725183",
+      "originalId": "https://x.com/you1873118/status/2051290646208725183",
+      "authors": [
+        {
+          "name": "serein",
+          "url": "https://x.com/you1873118"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2139
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5df0cb56a742b3f4",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971017774_z5uxjw_HHeliPNa4AAs6Wa.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971017774_z5uxjw_HHeliPNa4AAs6Wa.jpg",
+      "localPath": "public/assets/prompt_df8176d6306284cbfd96/1d7855d8698b.jpg",
+      "alt": "Infographic / Edu Visual - Freestyle Football 16-Step Action Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.869Z"
+  }
+}

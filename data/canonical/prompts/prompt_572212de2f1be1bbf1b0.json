@@ -1,0 +1,202 @@
+{
+  "id": "prompt_572212de2f1be1bbf1b0",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name=\"hero type\" default=\"female armored knight-mage\"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name=\"enemy type\" default=\"headless stone golem\"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "在废墟大教堂大厅中创作一个电影级的黑暗奇幻动作场景：一位 {argument name=\"hero type\" default=\"身披铠甲的女骑士法师\"} 在左侧前景中蹲伏并做出防御性冲刺姿态，身穿华丽的深色钢制与皮革板甲，外罩一件长款米黑双色战袍；一只手臂向后伸展，紧握着一把闪烁着金色魔法火花的带刺钉头锤或流星锤，另一只手臂向前支撑着一面边缘散发着暖光的圆形发光盾牌。在右侧中景处，与她对峙的是一个巨大的 {argument name=\"enemy type\" default=\"无头石像鬼\"}，由开裂的灰色砖石板构成，身上缠绕着断裂的锁链，正举起巨大的拳头冲锋，身上不断掉落碎石。战斗场景设定在一个宏伟且受损的宫殿式大教堂内部，拥有高耸的拱门、雕刻的石柱、高大的破损窗户，以及带有圆形几何图案的镶金大理石地面，地面散落着石块、灰尘和瓦砾。使用来自石像鬼身后明亮拱窗的戏剧性逆光，盾牌和武器上带有温暖的金色魔法高光，深邃的阴影，体积光尘束，逼真的纹理，高细节的盔甲和石材，动态的低角度广角构图，浅景深电影感，史诗级游戏电影写实风格，16:9 宽屏，无文字，无 UI。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una escena de acción de fantasía oscura cinematográfica en el salón de una catedral en ruinas: una {argument name=\"hero type\" default=\"caballero-maga con armadura\"} se agacha en una estocada defensiva en el primer plano izquierdo, vistiendo una armadura ornamentada de acero oscuro y placas de cuero con un tabardo largo color crema y negro, un brazo extendido hacia atrás empuñando una maza de púas o lucero del alba que chisporrotea con destellos mágicos dorados, el otro brazo apoyado hacia adelante detrás de un escudo redondo brillante bordeado con luz cálida. Frente a ella, en el plano medio derecho, se encuentra un enorme {argument name=\"enemy type\" default=\"gólem de piedra sin cabeza\"}, construido con placas de mampostería gris agrietada y atado con cadenas rotas, cargando con un puño enorme levantado y escombros cayendo de su cuerpo. Ambientada en el interior de un gran palacio-catedral dañado con arcos imponentes, columnas de piedra tallada, ventanas altas rotas, piso de mármol con adornos dorados en patrones geométricos circulares, trozos de piedra dispersos, polvo y escombros. Usa iluminación de fondo dramática desde una ventana arqueada brillante detrás del gólem, reflejos mágicos dorados cálidos en el escudo y el arma, sombras profundas, haces de polvo volumétricos, texturas realistas, armadura y piedra de alto detalle, composición dinámica de gran angular desde un ángulo bajo, profundidad cinematográfica superficial, realismo épico de videojuego, pantalla panorámica 16:9, sin texto, sin interfaz de usuario.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine filmreife Dark-Fantasy-Actionszene in einer zerstörten Kathedralenhalle: Eine {argument name=\"hero type\" default=\"weibliche gepanzerte Ritter-Magierin\"} kauert in einer defensiven Ausfallschritt-Pose im linken Vordergrund. Sie trägt eine verzierte Rüstung aus dunklem Stahl und Lederplatten mit einem langen, cremefarben-schwarzen Wappenrock. Ein Arm ist nach hinten gestreckt und hält einen stacheligen Streitkolben oder Morgenstern, der vor goldenen magischen Funken knistert; der andere Arm ist vor einem runden, leuchtenden Schild mit warmem Lichtrand abgestützt. Ihr gegenüber im rechten Mittelgrund befindet sich ein massiver {argument name=\"enemy type\" default=\"kopfloser Steingolem\"}, der aus rissigen grauen Mauerwerksplatten besteht und mit zerbrochenen Ketten zusammengehalten wird. Er stürmt mit erhobener Faust voran, während Geröll von seinem Körper fällt. Der Kampf findet im Inneren einer prächtigen, beschädigten Palast-Kathedrale statt, mit hoch aufragenden Bögen, geschnitzten Steinsäulen, hohen zerbrochenen Fenstern, goldverziertem Marmorboden mit kreisförmigen geometrischen Mustern sowie verstreuten Steinbrocken, Staub und Trümmern. Nutze dramatisches Gegenlicht von einem hellen Bogenfenster hinter dem Golem, warme goldene magische Highlights auf Schild und Waffe, tiefe Schatten, volumetrische Staubstrahlen, realistische Texturen, detailreiche Rüstung und Stein, dynamische Weitwinkel-Komposition aus der Froschperspektive, geringe filmische Schärfentiefe, epischer Game-Cinematic-Realismus, 16:9 Breitbild, kein Text, kein UI.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une scène d'action de dark fantasy cinématographique dans le hall d'une cathédrale en ruine : une {argument name=\"hero type\" default=\"chevalier-mage en armure\"} est accroupie dans une posture défensive au premier plan à gauche, portant une armure ornée en acier sombre et plaques de cuir avec un long tabard crème et noir. Un bras est étendu vers l'arrière, agrippant une masse à pointes ou un fléau crépitant d'étincelles magiques dorées, l'autre bras est tendu vers l'avant derrière un bouclier rond brillant bordé d'une lumière chaude. Face à elle, au second plan à droite, se trouve un massif {argument name=\"enemy type\" default=\"golem de pierre sans tête\"}, construit à partir de dalles de maçonnerie grise fissurées et lié par des chaînes brisées, chargeant avec un poing immense levé tandis que des décombres tombent de son corps. La bataille se déroule à l'intérieur d'un grand palais-cathédrale endommagé avec des arches imposantes, des colonnes en pierre sculptée, de hautes fenêtres brisées, un sol en marbre bordé d'or aux motifs géométriques circulaires, des morceaux de pierre éparpillés, de la poussière et des débris. Utilisez un contre-jour dramatique provenant d'une fenêtre arquée lumineuse derrière le golem, des reflets magiques dorés et chauds sur le bouclier et l'arme, des ombres profondes, des faisceaux de poussière volumétriques, des textures réalistes, une armure et une pierre très détaillées, une composition dynamique en contre-plongée grand angle, une faible profondeur de champ cinématographique, un réalisme épique de cinématique de jeu, format 16:9, pas de texte, pas d'interface utilisateur.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una scena d'azione dark fantasy cinematografica in una sala di una cattedrale in rovina: un {argument name=\"hero type\" default=\"cavaliere-mago donna corazzato\"} è accovacciato in un affondo difensivo in primo piano a sinistra, indossando un'armatura a piastre in acciaio scuro decorato e cuoio con una lunga tabarda color crema e nero, un braccio esteso dietro di lei che impugna una mazza chiodata o un flagello che scoppietta di scintille magiche dorate, l'altro braccio proteso in avanti dietro uno scudo rotondo luminoso bordato di luce calda. Di fronte a lei, nel piano medio a destra, c'è un massiccio {argument name=\"enemy type\" default=\"golem di pietra senza testa\"}, costruito con lastre di muratura grigia crepate e legato con catene spezzate, che carica con un enorme pugno sollevato e macerie che cadono dal suo corpo. Ambienta la battaglia all'interno di un grandioso interno di palazzo-cattedrale danneggiato con archi imponenti, colonne di pietra scolpita, alte finestre rotte, pavimento in marmo con finiture dorate in motivi geometrici circolari, pezzi di pietra sparsi, polvere e detriti. Usa una retroilluminazione drammatica da una luminosa finestra ad arco dietro il golem, riflessi magici dorati caldi sullo scudo e sull'arma, ombre profonde, fasci di polvere volumetrici, texture realistiche, armatura e pietra altamente dettagliate, composizione dinamica grandangolare dal basso, profondità cinematografica ridotta, realismo da gioco cinematografico epico, widescreen 16:9, niente testo, niente interfaccia utente.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma cena de ação de fantasia sombria cinematográfica em um salão de catedral em ruínas: uma {argument name=\"hero type\" default=\"cavaleira-maga blindada\"} agacha-se em uma posição defensiva no primeiro plano à esquerda, vestindo uma armadura ornamentada de aço escuro e placas de couro com um longo tabardo creme e preto, um braço estendido para trás segurando uma maça com espinhos ou um mangual crepitando com faíscas mágicas douradas, o outro braço posicionado à frente atrás de um escudo redondo brilhante contornado por uma luz quente. Oposta a ela, no plano médio à direita, está um enorme {argument name=\"enemy type\" default=\"golem de pedra sem cabeça\"}, construído a partir de placas de alvenaria cinza rachadas e preso com correntes quebradas, avançando com um punho enorme levantado e escombros caindo de seu corpo. Defina a batalha dentro de um interior grandioso de palácio-catedral danificado com arcos imponentes, colunas de pedra esculpida, janelas altas quebradas, piso de mármore com detalhes em ouro em padrões geométricos circulares, pedaços de pedra espalhados, poeira e detritos. Use iluminação de fundo dramática vinda de uma janela arqueada brilhante atrás do golem, destaques mágicos dourados quentes no escudo e na arma, sombras profundas, feixes de poeira volumétricos, texturas realistas, armadura e pedra altamente detalhadas, composição dinâmica em ângulo baixo, profundidade cinematográfica rasa, realismo épico de jogo cinematográfico, widescreen 16:9, sem texto, sem interface.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "骑士法师大战石像魔像",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 骑士法师大战石像鬼",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Caballero-maga lucha contra un gólem de piedra",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Ritter-Magierin im Kampf gegen Steingolem",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Chevalier-mage contre Golem de pierre",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Cavaliere-Mago contro Golem di Pietra",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Cavaleira-Maga enfrenta Golem de Pedra",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic fantasy battle scene for generating epic game-style artwork of an armored heroine fighting a giant stone golem in a ruined cathedral.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个电影级的奇幻战斗场景，用于生成史诗般的游戏风格艺术作品，描绘了一位身披铠甲的女英雄在废墟大教堂中与巨大的石像鬼搏斗的画面。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une scène de bataille fantastique cinématographique pour générer des illustrations épiques de style jeu vidéo représentant une héroïne en armure combattant un golem de pierre géant dans une cathédrale en ruine.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "category_77fa3242cd",
+      "value": "骑士法师大战石像魔像",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-395",
+      "originalId": "case-395",
+      "authors": [
+        {
+          "name": "RamonVi25791296",
+          "url": "https://x.com/RamonVi25791296/status/2051568239142973832"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7505
+        }
+      ],
+      "rawSource": "[@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)"
+    },
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/RamonVi25791296/status/2051568239142973832#reversed-1",
+      "originalId": "https://x.com/RamonVi25791296/status/2051568239142973832#reversed-1",
+      "authors": [
+        {
+          "name": "Ramon Vinicius 🇨🇳🇧🇷",
+          "url": "https://x.com/RamonVi25791296"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3147
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2efdba513ad66aa2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case395.jpg",
+      "upstreamPath": "../data/images/case395.jpg",
+      "localPath": "public/assets/prompt_572212de2f1be1bbf1b0/3e4cb5ddc013.jpg",
+      "alt": "骑士法师大战石像魔像",
+      "status": "pending"
+    },
+    {
+      "id": "asset_7ec52a033c76e457",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971040970_jbhdsy_HHiiLlQWcAUKzCH.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971040970_jbhdsy_HHiiLlQWcAUKzCH.jpg",
+      "localPath": "public/assets/prompt_572212de2f1be1bbf1b0/5a878a108672.jpg",
+      "alt": "Comic / Storyboard - Knight-Mage Battles Stone Golem - Image 1",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.736Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.911Z"
+  }
+}

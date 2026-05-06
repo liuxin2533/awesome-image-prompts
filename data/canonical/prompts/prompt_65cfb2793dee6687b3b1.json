@@ -1,0 +1,105 @@
+{
+  "id": "prompt_65cfb2793dee6687b3b1",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“\n@LIYUE\n\"；\n平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；\n中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；\n荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Minimalism, Neo-Chinese style three-dimensional graphic design, at the bottom of the image there are Chinese characters in regular script: \"东方美学\", \"2026/04/18\", signature \"CHINA\", and \"\n@LIYUE\n\";\nDrawn on flat, pure white matte textured thick art paper, a creative landscape painting full of oriental poetic atmosphere, irregular torn paper effect;\nChinese mythical beast: Qiongqi, complete body pattern, magnificent,, soft and agile lines, bright piercing eyes, majestic demeanor, elegant posture, luxury decorative art, Chinese traditional patterns;\nFluorescent blue lines, 0.5mm ultra-fine gold metallic texture outlining, large strokes of splashed white ink, color rendering, red background, romantic and poetic blue vision;\nDreamy and aesthetic scene where cold and warm lights intertwine, strong light and shadow contrast atmosphere, time narrative of flowers dancing lightly, Oriental Zen, the picture has a large area of blank space, framework composition, blank space at the bottom, clear details.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "荧光蓝穷奇新中式山水画",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Fluorescent Blue Qiongqi Modern Chinese Style Landscape Painting",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:32:24.568Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5be2856f84",
+      "value": "荧光蓝穷奇新中式山水画",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-304",
+      "originalId": "case-304",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai/status/2045506567735558336"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3965
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai/status/2045506567735558336)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fc360f729b8a111d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case304.jpg",
+      "upstreamPath": "../data/images/case304.jpg",
+      "localPath": "public/assets/prompt_65cfb2793dee6687b3b1/4ea698ecf3e4.jpg",
+      "alt": "荧光蓝穷奇新中式山水画",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "character"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.589Z"
+  }
+}

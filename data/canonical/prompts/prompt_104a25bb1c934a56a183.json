@@ -1,0 +1,103 @@
+{
+  "id": "prompt_104a25bb1c934a56a183",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "High-impact e-commerce infographic for \"{argument name=\"product\" default=\"Apple Pods Pro 3\"}\" wireless earbuds.\nForeground: An extreme close-up of a hand holding an open glossy white wireless earbud charging case toward the camera. Inside the case are two sleek white earbuds with black speaker accents. A small glowing green LED indicator is visible on the front of the case. The hand and case have slight macro-lens depth blur for realism.\n\nMid-ground: A {argument name=\"model\" default=\"confident young woman\"} with tan skin, brown eyes, and dark hair tied in a messy bun. She has natural makeup with a dewy glow. She is wearing a plain {argument name=\"clothing\" default=\"yellow athletic t-shirt\"} (no logos). One white earbud is in her ear. She is looking directly at the camera with a subtle, confident expression.\n\nBackground: Clean soft gray gradient studio backdrop with shallow depth of field. Diagonal rainbow prism lens flares and soft light leaks across the scene. Several blurred floating white earbuds in the background for depth and motion.\n\nLighting: Soft professional studio lighting with glossy highlights on the product, subtle rim light on the model, high dynamic range.\n\nTypography (modern sans-serif, white):\n\nTop center (behind model): Large bold text “AIRPODS”\n\nTop right: “Apple Pods Pro 3”\n\nMid-left: “Premium sound and noise cancellation”\n\nMid-right: Large bold “30” with “hours of battery life”\n\nBottom-right: Large bold “1” with “year warranty”\n\nStyle: Ultra-realistic, commercial product photography, 8k resolution, sharp focus on product case, shallow depth of field, vibrant yet clean color palette, premium advertising aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高影响力的电商信息图，展示\"{argument name=\"product\" default=\"Apple Pods Pro 3\"}\"无线耳机。\n\n前景：一只手拿着打开的亮白色无线耳机充电盒，特写镜头朝向相机。充电盒内有两个带有黑色扬声器装饰的流线型白色耳机。充电盒前面有一个微小的发光绿色LED指示灯。手和充电盒有轻微的微镜头景深模糊，以增加真实感。\n\n中景：一位{argument name=\"model\" default=\"自信的年轻女性\"}，肤色黝黑，棕色眼睛，深色头发扎成凌乱的发髻。她化着自然妆容，带有湿润的光泽。她穿着一件朴素的{argument name=\"clothing\" default=\"黄色运动T恤\"}（无标志）。一只白色耳机在她耳中。她直视相机，表情微妙而自信。\n\n背景：干净的浅灰色渐变摄影棚背景，浅景深。场景中有对角线的彩虹棱镜镜头光晕和柔和的光线泄漏。背景中有几个模糊的漂浮白色耳机，以增加深度和动感。\n\n灯光：柔和的专业摄影棚灯光，产品上有光泽高光，模特有细微的轮廓光，高动态范围。\n\n字体（现代无衬线字体，白色）：\n\n顶部中心（模特后方）：大号粗体文本\"AIRPODS\"\n\n右上角：\"Apple Pods Pro 3\"\n\n中左：\"优质音效和降噪功能\"\n\n中右：大号粗体\"30\"，下方是\"小时电池续航\"\n\n右下角：大号粗体\"1\"，下方是\"年质保\"\n\n风格：超写实，商业产品摄影，8K分辨率，产品充电盒锐利对焦，浅景深，鲜艳而干净的色彩搭配，高端广告美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:00:53.606Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Earbuds E-commerce Infographic",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SPEEDAI07/status/2047981795552153860",
+      "originalId": "case-155",
+      "authors": [
+        {
+          "name": "SPEEDAI07",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 139
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_72001aa0451fcfbe",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg",
+      "localPath": "public/assets/prompt_104a25bb1c934a56a183/67e7c3c773fa.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.551Z"
+  }
+}

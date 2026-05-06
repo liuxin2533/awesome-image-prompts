@@ -1,0 +1,227 @@
+{
+  "id": "prompt_2a1bdd2d966003d0af25",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "帮我生成一张《英雄联盟》中路对线截图，画面内容是特朗普对阵哈梅内伊",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "幫我生成一張《英雄聯盟》裡川普對上哈米尼在中路對線的截圖。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "League of Legends のミッドレーンで、トランプとハメネイが対決しているスクリーンショットを生成してほしい",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "리그 오브 레전드 미드 라인에서 트럼프와 하메네이가 맞붙는 스크린샷을 생성해 달라.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Aide-moi à générer une capture d'écran de Trump contre Khamenei sur la mid lane dans League of Legends.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Hilf mir, einen Screenshot von Trump gegen Khamenei auf der Midlane in League of Legends zu erzeugen.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Ayúdame a generar una captura de pantalla de Trump contra Jamenei en la mid lane de League of Legends.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "League of Legends Mid Lane Screenshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "《英雄联盟》上路对线截图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "《英雄聯盟》中路對線截圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "League of Legends ミッドレーン対決",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "리그 오브 레전드 미드 라인 대결",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Mid lane League of Legends",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "League-of-Legends-Midlane-Duell",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Carril central de League of Legends",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_27263954ca",
+      "value": "🎮 游戏与娱乐",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_cfebc9acfe",
+      "value": "🎮 遊戲與娛樂",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7c91be168a",
+      "value": "🎮 ゲーム・エンターテインメント",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_716e2fa67b",
+      "value": "🎮 게임과 엔터테인먼트",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "jeu-et-divertissement",
+      "value": "🎮 Jeu et divertissement",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "spiele-und-unterhaltung",
+      "value": "🎮 Spiele und Unterhaltung",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "juegos-y-entretenimiento",
+      "value": "🎮 Juegos y entretenimiento",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/underwoodxie96/status/2046529342415790275",
+      "originalId": "https://x.com/underwoodxie96/status/2046529342415790275",
+      "authors": [
+        {
+          "name": "underwoodxie96",
+          "url": "https://x.com/underwoodxie96/status/2046529342415790275"
+        },
+        {
+          "name": " @underwoodxie96 ",
+          "url": "https://x.com/underwoodxie96/status/2046529342415790275"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 225
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 174
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 174
+        },
+        {
+          "file": "README:ja",
+          "line": 174
+        },
+        {
+          "file": "README:ko",
+          "line": 174
+        },
+        {
+          "file": "README:fr",
+          "line": 174
+        },
+        {
+          "file": "README:de",
+          "line": 174
+        },
+        {
+          "file": "README:es",
+          "line": 174
+        }
+      ],
+      "rawSource": "[@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c729b9bcc46f8a05",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa7l2cbIAA_3nt?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa7l2cbIAA_3nt?format=jpg&name=large",
+      "localPath": "public/assets/prompt_2a1bdd2d966003d0af25/0229a15fcc63.jpg",
+      "alt": "League of Legends Mid Lane Screenshot",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

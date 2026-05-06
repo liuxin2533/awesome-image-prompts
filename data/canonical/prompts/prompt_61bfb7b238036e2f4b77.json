@@ -1,0 +1,107 @@
+{
+  "id": "prompt_61bfb7b238036e2f4b77",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "曼荼羅の近未来SF版を描いて",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "描绘一个近未来的科幻版曼荼罗",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:04:18.179Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Futuristic Mandala Illustration",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "未来主义曼陀罗插图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:04:19.547Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/4WEB1/status/2045390207072256179",
+      "originalId": "case-8",
+      "authors": [
+        {
+          "name": "4WEB1",
+          "url": "https://x.com/4WEB1"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 86
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b28200eb8338db2d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg",
+      "localPath": "public/assets/prompt_61bfb7b238036e2f4b77/25011d16c8b8.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.574Z"
+  }
+}

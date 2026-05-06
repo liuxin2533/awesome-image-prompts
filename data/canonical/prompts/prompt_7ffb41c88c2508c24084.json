@@ -1,0 +1,108 @@
+{
+  "id": "prompt_7ffb41c88c2508c24084",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"pose reference sheet\",\"subject\":{\"theme\":\"hip-hop dance and combat-ready movement chart\",\"character\":{\"count\":1,\"gender_presentation\":\"female\",\"age_appearance\":\"young adult\",\"body_type\":\"fit athletic dancer\",\"skin_tone\":\"light tan\",\"hair\":{\"color\":\"black\",\"style\":\"high ponytail with loose strands\"},\"outfit\":{\"count\":5,\"items\":[\"white sports bra or cropped athletic top\",\"baggy purple jogger pants\",\"white chunky sneakers\",\"purple wristbands or forearm bands on both arms\",\"small hoop earrings\"]}}},\"style\":{\"image_type\":\"photorealistic studio pose sheet\",\"lighting\":\"clean even studio lighting\",\"background\":\"plain light gray to white seamless backdrop\",\"camera\":\"full-body framing, straight-on view, consistent distance\",\"rendering\":\"sharp realistic anatomy, dynamic motion, slight shadow under feet\",\"face\":\"intentionally blurred or obscured\"},\"layout\":{\"grid\":{\"rows\":4,\"columns\":4,\"count\":16},\"numbering\":{\"count\":16,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"],\"position\":\"top-left corner of each cell\"},\"cell_borders\":\"thin black divider lines between all panels\"},\"poses\":{\"count\":16,\"items\":[{\"label\":\"1\",\"description\":\"wide low squat, knees bent outward, torso angled slightly left, both arms extended loosely in a defensive dance stance\"},{\"label\":\"2\",\"description\":\"deep side lunge to the left, left arm pointing straight left, right hand near the head, energetic directional pose\"},{\"label\":\"3\",\"description\":\"low crouch with one hand touching the floor, one knee bent under the body, opposite arm extended horizontally\"},{\"label\":\"4\",\"description\":\"upright one-leg balance, left knee lifted high, both arms spread outward for rhythm and balance\"},{\"label\":\"5\",\"description\":\"similar one-leg raised pose with the other leg supporting, arms stretched outward in a lighter dance variation\"},{\"label\":\"6\",\"description\":\"very wide grounded squat, torso pitched forward, one hand reaching toward the floor between the legs, other arm extended back\"},{\"label\":\"7\",\"description\":\"dramatic standing back arch, chest lifted upward, hips forward, both arms opened behind and to the sides\"},{\"label\":\"8\",\"description\":\"small jump or suspended squat, both feet off the floor, knees bent, arms spread wide symmetrically\"},{\"label\":\"9\",\"description\":\"floor-supported seated lean, one hand planted behind, one arm reaching diagonally upward, legs bent to one side\"},{\"label\":\"10\",\"description\":\"front-facing balance with one knee raised to hip height, one arm bent in guard position and the other extended sideways\"},{\"label\":\"11\",\"description\":\"deep lateral stance, feet far apart, knees bent, both hands raised open near shoulder level like a ready combat pose\"},{\"label\":\"12\",\"description\":\"low side lunge split, one hand planted on the floor, the other arm reaching vertically overhead, torso arched upward\"},{\"label\":\"13\",\"description\":\"standing backward lean with relaxed bent knees, chest up, arms hanging loosely behind in a groove pose\"},{\"label\":\"14\",\"description\":\"compact twisting crouch, weight low over bent legs, torso rotated, one arm pulled in and the other extended outward\"},{\"label\":\"15\",\"description\":\"very wide side lunge stretch, one hand to the floor near the front foot, opposite arm reaching diagonally overhead\"},{\"label\":\"16\",\"description\":\"one-leg lifted pose with knee high, one hand behind the head and the other arm extended forward, confident finishing stance\"}]},\"composition\":\"show the same dancer in all 16 panels with consistent outfit and scale, centered within each frame, designed like a movement library or choreography reference chart\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"姿势参考表\",\"subject\":{\"theme\":\"嘻哈舞蹈和战斗准备动作图\",\"character\":{\"count\":1,\"gender_presentation\":\"女性\",\"age_appearance\":\"年轻成人\",\"body_type\":\"健康有活力的舞者身材\",\"skin_tone\":\"浅棕色\",\"hair\":{\"color\":\"黑色\",\"style\":\"高马尾，带有松散的发丝\"},\"outfit\":{\"count\":5,\"items\":[\"白色运动内衣或短款运动上衣\",\"宽松的紫色慢跑裤\",\"白色厚底运动鞋\",\"两只手腕或前臂上的紫色腕带\",\"小圆环耳环\"]}}},\"style\":{\"image_type\":\"照片般真实的工作室姿势表\",\"lighting\":\"干净均匀的摄影棚灯光\",\"background\":\"纯浅灰到白色的无缝背景\",\"camera\":\"全身构图，正面视角，保持一致的距离\",\"rendering\":\"清晰逼真的解剖结构，动态动作，脚部有轻微阴影\",\"face\":\"故意模糊或遮挡\"},\"layout\":{\"grid\":{\"rows\":4,\"columns\":4,\"count\":16},\"numbering\":{\"count\":16,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"],\"position\":\"每个单元格的左上角\"},\"cell_borders\":\"所有面板之间的细黑色分隔线\"},\"poses\":{\"count\":16,\"items\":[{\"label\":\"1\",\"description\":\"宽低蹲，膝盖向外弯曲，躯干略微向左倾斜，双臂以防御性舞蹈姿势放松伸展\"},{\"label\":\"2\",\"description\":\"向左侧深弓步，左臂直指左侧，右手靠近头部，充满活力的方向性姿势\"},{\"label\":\"3\",\"description\":\"低蹲，一只手触地，一条腿弯曲在身体下方，对侧手臂水平伸展\"},{\"label\":\"4\",\"description\":\"直立单腿平衡，左膝抬高，双臂向外展开以保持节奏和平衡\"},{\"label\":\"5\",\"description\":\"类似单腿抬起的姿势，另一条腿支撑，手臂向外伸展，形成较轻的舞蹈变化\"},{\"label\":\"6\",\"description\":\"非常宽的地面蹲姿，躯干前倾，一只手伸向双腿之间的地板，另一只手臂向后伸展\"},{\"label\":\"7\",\"description\":\"戏剧性的站立后弓，胸部上抬，臀部前倾，双臂在身后和两侧展开\"},{\"label\":\"8\",\"description\":\"小跳跃或悬空蹲姿，双脚离地，膝盖弯曲，手臂对称地张开\"},{\"label\":\"9\",\"description\":\"地面支撑的坐姿倾斜，一只手支撑在身后，一只手臂对角向上伸展，双腿向一侧弯曲\"},{\"label\":\"10\",\"description\":\"面向前方的平衡姿势，一膝抬至臀部高度，一只手臂弯曲成防御姿势，另一只手臂向侧面伸展\"},{\"label\":\"11\",\"description\":\"深横向站姿，双脚分开较远，膝盖弯曲，双手在肩部附近抬起，呈准备战斗姿势\"},{\"label\":\"12\",\"description\":\"低侧弓步劈叉，一只手支撑在地板上，另一只手臂垂直向上伸展，躯干向上拱起\"},{\"label\":\"13\",\"description\":\"站立后倾，膝盖放松弯曲，胸部挺起，手臂在身后松散悬挂，呈 groove 姿势\"},{\"label\":\"14\",\"description\":\"紧凑的扭转蹲姿，重量集中在弯曲的腿上，躯干旋转，一只手臂收回，另一只手臂向外伸展\"},{\"label\":\"15\",\"description\":\"非常宽的侧弓步拉伸，一只手放在前脚附近的地板上，对侧手臂对角向上伸展\"},{\"label\":\"16\",\"description\":\"单腿抬起姿势，膝盖抬高，一只手放在头后，另一只手臂向前伸展，自信的结束姿势\"}]},\"composition\":\"在所有16个面板中展示同一位舞者，穿着和比例保持一致，在每个框架中居中，设计成动作库或编舞参考图\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:21:48.483Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "16-Pose Dance Combat Reference Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "16个姿势舞蹈战斗参考表",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:21:19.647Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ExquisitMe/status/2048143577264402629",
+      "originalId": "case-133",
+      "authors": [
+        {
+          "name": "ExquisitMe",
+          "url": "https://x.com/ExquisitMe"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1390
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_35a88e22ff04513c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case133/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case133/output.jpg",
+      "localPath": "public/assets/prompt_7ffb41c88c2508c24084/15a394cb376d.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photo",
+      "camera",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

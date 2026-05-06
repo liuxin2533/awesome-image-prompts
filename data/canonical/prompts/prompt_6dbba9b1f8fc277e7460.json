@@ -1,0 +1,107 @@
+{
+  "id": "prompt_6dbba9b1f8fc277e7460",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Prompt 1: Create a cinematic hero image of a gourmet cheeseburger on a dark stone surface with glossy brioche bun, melted cheese, crisp lettuce, tomato, grilled patty, sauce, realistic texture, appetizing steam, warm side light, shallow depth of field, premium food commercial style, no text/logos/watermark.\n\nPrompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 15-second gourmet burger ad, moving from empty surface to ingredient assembly to final macro hero shot. Use large S cells and smaller T cells, motion arrows, ghosted ingredient positions, steam, sauce trails, and camera push-in icons. Style: premium food commercial, warm lighting, rich texture, appetizing, cinematic, minimal labels only. No logos, no watermark.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"日本科幻装甲穿戴过程信息图表\",\"style\":\"电影风格真人特摄启发的宣传板，现实工业照明，抛光金属表面，锐利摄影细节\",\"theme\":\"女性英雄在红色、银色、黑色和蓝色防护服中手动战前穿戴序列\",\"subject\":{\"character\":{\"gender\":\"女性\",\"age\":\"青年\",\"identity\":\"组装过程中不戴头盔的女主角，在每个不戴头盔的面板中面部被故意隐藏或匿名化\",\"hair\":\"深棕色至黑色头发，扎成高马尾，有刘海\",\"undersuit\":\"有光泽的黑色紧身内衣，带有银色胸板和白色颈环\",\"armor\":\"复古未来主义防护装甲，带有红色肩部和臂板，银色胸甲和躯干板，圆形蓝色胸核，红色腰部装置，白色手套，带有黄色条纹装饰的红色前臂护甲\",\"helmet\":\"圆形红色和银色头盔，带有黑色面罩\"},\"environment\":{\"location\":\"高科技工业机库或装甲舱\",\"background元素\":[\"金属框架\",\"机器人设备\",\"工具台\",\"装甲架\",\"计算机显示器\",\"车间照明\",\"最后一个面板中标记为BAY-07的舱体走廊\"]}},\"layout\":{\"header\":{\"count\":2,\"labels\":[\"ソルジャンヌ・スーツ 手動装着プロセス\",\"専用プロテクタースーツ『ソルジャンヌ』を、戦闘前に手動で装着する様子。各ユニットを確実に装着し、システムを起動する。\"],\"design\":\"顶部宽黑到红渐变横幅，大号粗体白色日文文本，对角红色装饰\"},\"sections\":[{\"title\":\"1 インナースーツの確認\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"各部のセンサーとコネクタをチェック。戦闘に備え、身体の状態を最終認する。\"],\"image\":\"女主角只穿着黑色有光泽内衣的四分之三视角，低头检查或拧紧手腕连接器\"},{\"title\":\"2 胸部・肩部アーマーの装着\",\"position\":\"top-center\",\"count\":1,\"labels\":[\"胸部ユニットと肩部プロテクターを装着。コネクタを接続し、ロックを固定する。\"],\"image\":\"中景，胸部装甲和红色肩板已安装，女主角用双手固定前躯干区域\"},{\"title\":\"3 腰部ユニット・ベルトの固定\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"ウエストユニットを装着し、各部のロックを確認。可動部の動作チェックを行う。\"],\"image\":\"中景，躯干装甲已完成，女主角拧紧或检查腰带和侧锁\"},{\"title\":\"4 ヘルメットの準備\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"ヘルメットのバイザーと内部システムをチェック。ヘッドセットとの同期を確認する。\"],\"image\":\"女主角双手在胸前高度拿着红色头盔，展示有光泽的黑色面罩\"},{\"title\":\"5 ヘルメットの装着・システム起動\",\"position\":\"bottom-center\",\"count\":1,\"labels\":[\"ヘルメットを装着し、直上のコネクタをロック。全身のシステムが起動し、胸部コアが発光する。\"],\"image\":\"女主角双手将头盔戴在头上；蓝色胸部核心明亮发光\"},{\"title\":\"6 装着完了\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"全システムの最終チェックを行い、戦闘モードへ。ソルジャンヌ、出撃準備完了!\"],\"image\":\"未来主义走廊中的全身正面英雄姿势，完全穿戴装甲并戴头盔，手臂自然放在身体两侧\"}],\"footer\":{\"count\":1,\"labels\":[\"一つ一つの装着が、命を守り、力を引き出す。 ソルジャンヌの戦いは、ここから始まる。\"],\"design\":\"深红色电影风格页脚条，居中白色日文标语\"},\"grid\":{\"rows\":2,\"columns\":3,\"panel_count\":6,\"panel_borders\":\"细白分隔线\",\"number_badges\":6}},\"text_rendering\":{\"language\":\"日语\",\"font\":\"粗体无衬线标题配较小无衬线正文字体\",\"colors\":\"黑色、红色和白色信息栏上的白色文本；带有白色数字的红色编号方块\"},\"composition\":\"16:9宽幅信息图表板，六个相等的照片面板以3×2网格排列，每个面板下方带有红色编号框，编号从1到6\",\"lighting\":\"情绪化的车间照明，带有金属反射和红色强调灯，逼真的阴影，电影科幻氛围\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:25:54.009Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Burger hero image plus 9-cell ad storyboard",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本科幻穿戴流程板",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:24:44.965Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-cases",
+      "value": "E-commerce Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Gdgtify/status/2049449869530775877",
+      "originalId": "case-163",
+      "authors": [
+        {
+          "name": "Gdgtify",
+          "url": "https://x.com/Gdgtify"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 325
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_327776388569d92b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg",
+      "localPath": "public/assets/prompt_6dbba9b1f8fc277e7460/4290823f7ba9.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:20:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "camera",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "prompt_f6809d16c8675ef24e2e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"e-commerce livestream screenshot mockup\",\r\n  \"scene\": {\r\n    \"subject\": \"{argument name=\\\"main subject\\\" default=\\\"Caucasian male resembling Sam Altman\\\"}\",\r\n    \"clothing\": \"dark green crewneck sweater\",\r\n    \"action\": \"holding a black product box in one hand and pointing at it with the other\",\r\n    \"setting\": \"dark studio with a microphone on the left, faint 'AI' text in the background\",\r\n    \"props\": [\r\n      \"black mug with white OpenAI logo\",\r\n      \"stack of 4 black product boxes on the right\"\r\n    ]\r\n  },\r\n  \"product_design\": {\r\n    \"box_color\": \"black\",\r\n    \"logo\": \"orange asterisk or sunburst\",\r\n    \"text\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\"\r\n  },\r\n  \"ui_overlays\": {\r\n    \"top_left_product_info\": {\r\n      \"brand_tag\": \"Anthropic 官方旗舰店\",\r\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\",\r\n      \"subtitle\": \"{argument name=\\\"main headline\\\" default=\\\"更强推理·更高智能\\\"}\",\r\n      \"sub_subtitle\": \"最强大模型: Opus 4.7 重磅发布!\",\r\n      \"bullet_points_count\": 3,\r\n      \"bullet_points\": [\"超强推理能力\", \"代码能力巅峰\", \"复杂任务轻松搞定\"]\r\n    },\r\n    \"top_right_live_status\": {\r\n      \"viewer_info\": \"直播中 | 52.8万人观看\",\r\n      \"promo_banner\": \"直播专属福利 限时折扣·错过不再有\",\r\n      \"countdown\": \"倒计时 00:09:47\"\r\n    },\r\n    \"middle_right_price_card\": {\r\n      \"header\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"} 直播间专享价\",\r\n      \"price_currency\": \"¥\",\r\n      \"price_value\": \"{argument name=\\\"promotional price\\\" default=\\\"0.47\\\"}\",\r\n      \"price_unit\": \"/百万tokens起\",\r\n      \"original_price\": \"原价: ¥1.89\",\r\n      \"button\": \"立即抢购\"\r\n    },\r\n    \"bottom_left_chat\": {\r\n      \"message_count\": 9,\r\n      \"input_box_placeholder\": \"说点什么...\"\r\n    },\r\n    \"bottom_right_banner\": {\r\n      \"headline\": \"奥特曼首推！认准Claude Opus 4.7\",\r\n      \"subheadline\": \"更智能 · 更安全 · 更可靠\",\r\n      \"feature_tags_count\": 4,\r\n      \"feature_tags\": [\"强大推理\", \"代码神器\", \"安全可靠\", \"极速响应\"]\r\n    },\r\n    \"floating_elements\": [\r\n      {\r\n        \"type\": \"sticker\",\r\n        \"position\": \"middle right over product boxes\",\r\n        \"text\": \"{argument name=\\\"sticker text\\\" default=\\\"史上最强 AI模型!\\\"}\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"e-commerce livestream screenshot mockup\",\n  \"scene\": {\n    \"subject\": \"{argument name=\\\"main subject\\\" default=\\\"Caucasian male resembling Sam Altman\\\"}\",\n    \"clothing\": \"dark green crewneck sweater\",\n    \"action\": \"holding a black product box in one hand and pointing at it with the other\",\n    \"setting\": \"dark studio with a microphone on the left, faint 'AI' text in the background\",\n    \"props\": [\n      \"black mug with white OpenAI logo\",\n      \"stack of 4 black product boxes on the right\"\n    ]\n  },\n  \"product_design\": {\n    \"box_color\": \"black\",\n    \"logo\": \"orange asterisk or sunburst\",\n    \"text\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\"\n  },\n  \"ui_overlays\": {\n    \"top_left_product_info\": {\n      \"brand_tag\": \"Anthropic Official Flagship Store\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\",\n      \"subtitle\": \"{argument name=\\\"main headline\\\" default=\\\"Stronger Reasoning·Higher Intelligence\\\"}\",\n      \"sub_subtitle\": \"Most Powerful Model: Opus 4.7 Grand Release!\",\n      \"bullet_points_count\": 3,\n      \"bullet_points\": [\"Superior Reasoning Capabilities\", \"Peak Coding Abilities\", \"Effortlessly Handle Complex Tasks\"]\n    },\n    \"top_right_live_status\": {\n      \"viewer_info\": \"Live | 528,000 viewers\",\n      \"promo_banner\": \"Exclusive Live Stream Benefits Limited Time Offer·Miss It and It's Gone\",\n      \"countdown\": \"Countdown 00:09:47\"\n    },\n    \"middle_right_price_card\": {\n      \"header\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"} Live Stream Exclusive Price\",\n      \"price_currency\": \"¥\",\n      \"price_value\": \"{argument name=\\\"promotional price\\\" default=\\\"0.47\\\"}\",\n      \"price_unit\": \"/per million tokens starting from\",\n      \"original_price\": \"Original Price: ¥1.89\",\n      \"button\": \"Buy Now\"\n    },\n    \"bottom_left_chat\": {\n      \"message_count\": 9,\n      \"input_box_placeholder\": \"Say something...\"\n    },\n    \"bottom_right_banner\": {\n      \"headline\": \"Altman's Top Recommendation! Choose Claude Opus 4.7\",\n      \"subheadline\": \"Smarter · Safer · More Reliable\",\n      \"feature_tags_count\": 4,\n      \"feature_tags\": [\"Powerful Reasoning\", \"Coding Wizard\", \"Safe and Reliable\", \"Lightning Fast Response\"]\n    },\n    \"floating_elements\": [\n      {\n        \"type\": \"sticker\",\n        \"position\": \"middle right over product boxes\",\n        \"text\": \"{argument name=\\\"sticker text\\\" default=\\\"The Most Powerful AI Model Ever!\\\"}\"\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:43:57.226Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "直播界面设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Live streaming interface design diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:43:13.158Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_66670ab4a4",
+      "value": "直播界面设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-152",
+      "originalId": "case-152",
+      "authors": [
+        {
+          "name": "coder_left",
+          "url": "https://x.com/coder_left"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6174
+        }
+      ],
+      "rawSource": "[@coder\\_left](https://x.com/coder_left)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d33a0559d7ffc491",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case152.jpg",
+      "upstreamPath": "../data/images/case152.jpg",
+      "localPath": "public/assets/prompt_f6809d16c8675ef24e2e/5f2218f96310.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "mockup",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "prompt_b0c09c1bd7cbf1b65f2f",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.\r\n\r\nTask: Generate a highly detailed, extremely intricate, and visually stunning \"Universal Illustrated Encyclopedia Science Infographic\" in a classic, unbranded (NO logos) scientific encyclopedia style.\r\n\r\nSubject Matter: Choose one from [People, Plants, or Animals]. \r\n\r\nSpecific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].\r\n\r\nStyle: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional.\r\n\r\nKey Visual Requirements:\r\n\r\n1.  Lifelike 3D Effect (The Central Subject): The central subject in the \"C position\" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism).\r\n\r\n2.  Layout & Strategic White Space:\r\n    * Central Subject: Dominates the center, with intentional \"strategic white space\" around it to enhance the popping-out effect and make the figure the clear focal point.\r\n    * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content.\r\n\r\n3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.\r\n\r\n4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):\r\n    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., \"大王乌贼\"].\r\n    * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.\r\n    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.\r\n    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.\r\n\r\nSubject-Specific Module Structure (Example for general reference):\r\n\r\nA. For Humans [People]:\r\n   - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections)\r\n   - Module 2: Physiological Processes (e.g., Circulatory/Nervous System)\r\n   - Module 3: Historical Context & Timeline (Key Achievements)\r\n   - Module 4: Major Contribution Diagram (Detailed breakdown)\r\n   - Module 5: Cognitive Process / Psychological Insight\r\n   - Module 6: Genetic Profile / Evolution\r\n   - Module 7: Global Influence & Cultural Impact\r\n   - Module 8: Cultural Representations / Legacy\r\n\r\nB. For Animals:\r\n   - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows)\r\n   - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style)\r\n   - Module 3: Digestive & Skeletal System\r\n   - Module 4: Habitats & Distribution Map (with environmental details)\r\n   - Module 5: Unique Adaptations (e.g., camouflage, hunting tools)\r\n   - Module 6: Evolutionary History & Relatives\r\n   - Module 7: Symbiotic Relationships / Ecosystem Role\r\n   - Module 8: Conservation Status & Human Interaction\r\n\r\nC. For Plants:\r\n   - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details)\r\n   - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment)\r\n   - Module 3: Cellular Structure (Magnified circular views)\r\n   - Module 4: Medicinal Properties / Practical Applications (as in original original prompt)\r\n   - Module 5: Environmental Adaptations / Unique Features\r\n   - Module 6: Distribution Map & Environmental Context\r\n   - Module 7: Genetic Variations & Cultivation\r\n   - Module 8: Historical Usage & Folklore\r\n\r\nOverall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no \"DK\" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.\r\n\r\n主题内容：潘金莲",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Field: promptText.translations.en\n\nRole: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.\n\nTask: Generate a highly detailed, extremely intricate, and visually stunning \"Universal Illustrated Encyclopedia Science Infographic\" in a classic, unbranded (NO logos) scientific encyclopedia style.\n\nSubject Matter: Choose one from [People, Plants, or Animals]. \n\nSpecific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].\n\nStyle: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional.\n\nKey Visual Requirements:\n\n1.  Lifelike 3D Effect (The Central Subject): The central subject in the \"C position\" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism).\n\n2.  Layout & Strategic White Space:\n   * Central Subject: Dominates the center, with intentional \"strategic white space\" around it to enhance the popping-out effect and make the figure the clear focal point.\n   * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content.\n\n3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.\n\n4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):\n   * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., \"大王乌贼\"].\n   * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.\n   * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.\n   * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.\n\nSubject-Specific Module Structure (Example for general reference):\n\nA. For Humans [People]:\n   - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections)\n   - Module 2: Physiological Processes (e.g., Circulatory/Nervous System)\n   - Module 3: Historical Context & Timeline (Key Achievements)\n   - Module 4: Major Contribution Diagram (Detailed breakdown)\n   - Module 5: Cognitive Process / Psychological Insight\n   - Module 6: Genetic Profile / Evolution\n   - Module 7: Global Influence & Cultural Impact\n   - Module 8: Cultural Representations / Legacy\n\nB. For Animals:\n   - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows)\n   - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style)\n   - Module 3: Digestive & Skeletal System\n   - Module 4: Habitats & Distribution Map (with environmental details)\n   - Module 5: Unique Adaptations (e.g., camouflage, hunting tools)\n   - Module 6: Evolutionary History & Relatives\n   - Module 7: Symbiotic Relationships / Ecosystem Role\n   - Module 8: Conservation Status & Human Interaction\n\nC. For Plants:\n   - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details)\n   - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment)\n   - Module 3: Cellular Structure (Magnified circular views)\n   - Module 4: Medicinal Properties / Practical Applications (as in original original prompt)\n   - Module 5: Environmental Adaptations / Unique Features\n   - Module 6: Distribution Map & Environmental Context\n   - Module 7: Genetic Variations & Cultivation\n   - Module 8: Historical Usage & Folklore\n\nOverall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no \"DK\" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.\n\nSubject Matter: Pan Jinlian",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:16:22.386Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "绘制金瓶梅知识图谱",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Construct Jin Ping Mei Knowledge Graph",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:16:25.482Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_2fb408e6b9",
+      "value": "绘制金瓶梅知识图谱",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-214",
+      "originalId": "case-214",
+      "authors": [
+        {
+          "name": "xiaoxiaodong01",
+          "url": "https://x.com/xiaoxiaodong01/status/2046252164717416641"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1455
+        }
+      ],
+      "rawSource": "[@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_31363907d1df7037",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case214.jpg",
+      "upstreamPath": "../data/images/case214.jpg",
+      "localPath": "public/assets/prompt_b0c09c1bd7cbf1b65f2f/c124aba877b8.jpg",
+      "alt": "绘制金瓶梅知识图谱",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "chart",
+      "map",
+      "education",
+      "图谱"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

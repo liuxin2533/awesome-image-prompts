@@ -1,0 +1,100 @@
+{
+  "id": "prompt_65a7b161e1ff696030dc",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A Japanese neighborhood Chinese restaurant delivery flyer for mailbox posting (3:4 aspect ratio). Designed to look like a double-sided B5 print.\n\nFlyer characteristics (following the grammar of real delivery flyers):\n- Flashy red and yellow color scheme.\n- Large text at the top: \"Delivery Available! {argument name=\"shop name\" default=\"Mona-Hanten\"}\" (shadowed Gothic font).\n- An illustration of a {argument name=\"character\" default=\"Chinese girl in a red cheongsam with a brown short bob\"} holding ramen and saying \"Welcome!\" in a speech bubble.\n- A menu photo grid (4x3) featuring various dishes: different types of ramen, fried rice, gyoza, sweet and sour pork, shrimp in chili sauce, mapo tofu, liver and leek stir-fry, tenshinhan, twice-cooked pork, spring rolls, annin tofu, and fried rice sets.\n- Names and prices for each dish.\n- A large yellow banner saying \"Free delivery on all menu items over ¥1,000!\".\n- \"Order by phone! ☎ 072-XX-XXXX\" emphasized with a red circle.\n- Business hours \"11:00-22:00 (Closed on Tuesdays)\".\n- Delivery area map (simple schematic map).\n- Coupon (perforated line for clipping): \"One free plate of gyoza with this flyer!\".\n\nTexture of cheap paper printing. Includes fold marks. Precision that could be mistaken for a real Japanese delivery flyer.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个日式社区中餐馆外卖传单，用于信箱投递（3:4宽高比）。设计成双面B5打印的样子。\n\n传单特点（遵循真实传单的设计语法）：\n- 鲜艳的红黄配色方案。\n- 顶部大号文字：\"Delivery Available! {argument name=\"shop name\" default=\"Mona-Hanten\"}\"（带阴影的黑体字）。\n- 一个{argument name=\"character\" default=\"Chinese girl in a red cheongsam with a brown short bob\"}的插图，她拿着拉面，在对话框中说\"Welcome!\"。\n- 菜单照片网格（4x3），展示各种菜品：不同种类的拉面、炒饭、饺子、咕咾肉、辣子虾、麻婆豆腐、肝炒韭菜、天津饭、回锅肉、春卷、杏仁豆腐和炒饭套餐。\n- 每道菜的名称和价格。\n- 一个黄色横幅，写着\"Free delivery on all menu items over ¥1,000!\"。\n- \"Order by phone! ☎ 072-XX-XXXX\"用红色圆圈强调。\n- 营业时间\"11:00-22:00 (Closed on Tuesdays)\"。\n- 配送区域图（简单示意图）。\n- 优惠券（带虚线便于撕下）：\"One free plate of gyoza with this flyer!\"。\n\n廉价纸张印刷质感。包含折痕。精确度足以以假乱真，看起来就像真正的日本外卖传单。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:19:23.332Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Japanese Chinese Food Delivery Flyer",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/xc5_/status/2048310696686014935",
+      "originalId": "case-166",
+      "authors": [
+        {
+          "name": "xc5_",
+          "url": "https://x.com/xc5_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 348
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_bcec3f06acf79445",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg",
+      "localPath": "public/assets/prompt_65a7b161e1ff696030dc/030bd2a044ec.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.556Z"
+  }
+}

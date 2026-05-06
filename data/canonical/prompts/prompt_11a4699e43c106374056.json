@@ -1,0 +1,94 @@
+{
+  "id": "prompt_11a4699e43c106374056",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "The Brand Envelope | GPT Image-2 Prompt #89\n\nThis takes any product photo and wraps it in your specific brand world. Different product each time. Same brand, every time.\n\nPHASE 1 / ANCHOR: Describe [BRAND IDENTITY] in 2 lines. Palette, texture, mood.\nPHASE 2 / INJECT: Place [PRODUCT] inside that brand world, not the reverse.\nPHASE 3 / FORMAT: Set [OUTPUT FORMAT]. Hero, square ad, or story.\nPHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.\n\nSwap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "品牌包络产品广告",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_312ef094cb",
+      "value": "品牌包络产品广告",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-386",
+      "originalId": "case-386",
+      "authors": [
+        {
+          "name": "SRKDAN",
+          "url": "https://x.com/SRKDAN/status/2051482047248560393"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7253
+        }
+      ],
+      "rawSource": "[@SRKDAN](https://x.com/SRKDAN/status/2051482047248560393) / [提示词回复](https://x.com/SRKDAN/status/2051482048729166109)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_13cc81279c4a8ad8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case386.jpg",
+      "upstreamPath": "../data/images/case386.jpg",
+      "localPath": "public/assets/prompt_11a4699e43c106374056/e22e6dd49183.jpg",
+      "alt": "品牌包络产品广告",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "brand",
+      "identity",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.902Z"
+  }
+}

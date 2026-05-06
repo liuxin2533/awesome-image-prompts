@@ -1,0 +1,108 @@
+{
+  "id": "prompt_f687bbe5b3634e7462d6",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。\n・包含三视图：正面、侧面和背面\n・添加角色面部表情的变化・分解并展示服装和装备的详细部分\n・添加色板・包含世界观设定的简要说明\n・总体上，使用有组织的布局（白色背景，插画风格）",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Based on this character and background, please create a character reference sheet similar to official setting materials.\n・Includes three-view drawings: front view, side view, and back view\n・Add variations of the character's facial expressions\n・Break down and display detailed parts of the clothing and equipment\n・Add a color palette\n・Include a brief explanation of the worldview setting\n・Overall, use an organized layout (white background, illustration style)",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "官方角色设定资料卡",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Official Character Profile Card",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:43:20.147Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_70023ec343",
+      "value": "官方角色设定资料卡",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-306",
+      "originalId": "case-306",
+      "authors": [
+        {
+          "name": "MANISH1027512",
+          "url": "https://x.com/MANISH1027512/status/2045013913901867334"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 4017
+        }
+      ],
+      "rawSource": "[@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_19ccecd888cbc0e3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case306.jpg",
+      "upstreamPath": "../data/images/case306.jpg",
+      "localPath": "public/assets/prompt_f687bbe5b3634e7462d6/a9b57dcb5cbd.jpg",
+      "alt": "官方角色设定资料卡",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "character",
+      "card",
+      "profile",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

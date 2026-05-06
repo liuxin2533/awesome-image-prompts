@@ -1,0 +1,109 @@
+{
+  "id": "prompt_51629d95ccdef9bc48b0",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Genshin Impact {argument name=\"character\" default=\"Raiden Shogun\"} cosplay selfies at the {argument name=\"event\" default=\"Shanghai Comic Con\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Genshin Impact {argument name=\"character\" default=\"Raiden Shogun\"} cosplay selfies at the {argument name=\"event\" default=\"Shanghai Comic Con\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:53.736Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "漫画分镜叙事设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Comic Storyboard Narrative Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:57.526Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_7fd0556ab4",
+      "value": "漫画分镜叙事设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-24",
+      "originalId": "case-24",
+      "authors": [
+        {
+          "name": "wewe50770964683",
+          "url": "https://x.com/wewe50770964683"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 543
+        }
+      ],
+      "rawSource": "[@wewe50770964683](https://x.com/wewe50770964683)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2b443073e452a13c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case24.jpg",
+      "upstreamPath": "../data/images/case24.jpg",
+      "localPath": "public/assets/prompt_51629d95ccdef9bc48b0/bf607aa62ed6.jpg",
+      "alt": "character",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "分镜"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

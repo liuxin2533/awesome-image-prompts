@@ -1,0 +1,107 @@
+{
+  "id": "prompt_9d68cb6b56d8b7c33793",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a hand-drawn watercolor style \"Xi'an\" city map, including local specialty foods, landmark buildings, and city characteristics",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:08:30.748Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "西安手绘水彩城市地图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Xi'an Hand-painted Watercolor City Map",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:08:34.544Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_621c12e481",
+      "value": "西安手绘水彩城市地图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-331",
+      "originalId": "case-331",
+      "authors": [
+        {
+          "name": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5341
+        }
+      ],
+      "rawSource": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d5954df50212edd1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case331.png",
+      "upstreamPath": "../data/images/case331.png",
+      "localPath": "public/assets/prompt_9d68cb6b56d8b7c33793/ab1deeed426e.png",
+      "alt": "西安手绘水彩城市地图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "building",
+      "建筑"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

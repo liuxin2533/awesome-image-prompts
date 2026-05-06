@@ -1,0 +1,102 @@
+{
+  "id": "prompt_172bdeda0f3e6cb451bd",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young Korean female idol, soft innocent look",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "手机照片，老旧CCD相机美学，刺眼的闪光，颗粒感，昏暗杂乱的室内光线，抓拍感，轻微的运动模糊，年轻的韩国女偶像，温柔无辜的表情",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:01:53.300Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "CCD Camera Flash Korean Idol",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/BubbleBrain/status/2046190539213885806",
+      "originalId": "case-12",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 133
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_68c26fcac97c0e88",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case12/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case12/output.jpg",
+      "localPath": "public/assets/prompt_172bdeda0f3e6cb451bd/8d995c140240.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

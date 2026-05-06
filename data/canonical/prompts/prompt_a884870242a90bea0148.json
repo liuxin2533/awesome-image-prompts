@@ -1,0 +1,257 @@
+{
+  "id": "prompt_a884870242a90bea0148",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "360 equirectangular image of [place]",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "[地点] 的 360 等距柱状全景图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "[地點] 的 360 等距柱狀圖像。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[場所] の 360 度正距円筒画像",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[장소]의 360 등각 원통 이미지.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "image 360 équirectangulaire de [lieu].",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "360-equirectangular image of [place].",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "imagen equirectangular 360 de [lugar].",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "360 Equirectangular Panorama",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "360 等距柱状全景图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "360 等距柱狀全景圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "360 度正距円筒パノラマ",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "360 등각 원통 파노라마",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Panorama 360 équirectangulaire",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "360-Grad-Equirectangular-Panorama",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Panorama equirectangular 360",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "photography-photorealism",
+      "value": "📷 Photography & Photorealism",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b86a19e20b",
+      "value": "📷 摄影与照片级写实",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_a5e53fe73d",
+      "value": "📷 攝影與照片級寫實",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_8daac8fb34",
+      "value": "📷 写真・フォトリアリズム",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_82cbd23eff",
+      "value": "📷 사진과 포토리얼리즘",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "photographie-et-photorealisme",
+      "value": "📷 Photographie et photoréalisme",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografie-und-fotorealismus",
+      "value": "📷 Fotografie und Fotorealismus",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografia-y-fotorrealismo",
+      "value": "📷 Fotografía y fotorrealismo",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/LexnLin/status/2046725722320888313",
+      "originalId": "https://x.com/LexnLin/status/2046725722320888313",
+      "authors": [
+        {
+          "name": "LexnLin",
+          "url": "https://x.com/LexnLin/status/2046725722320888313"
+        },
+        {
+          "name": "LexnLin",
+          "url": "https://x.com/LexnLin/status/2046675069678563385"
+        },
+        {
+          "name": " @LexnLin ",
+          "url": "https://x.com/LexnLin/status/2046725722320888313"
+        },
+        {
+          "name": " @LexnLin ",
+          "url": "https://x.com/LexnLin/status/2046675069678563385"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 104
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 107
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 107
+        },
+        {
+          "file": "README:ja",
+          "line": 107
+        },
+        {
+          "file": "README:ko",
+          "line": 107
+        },
+        {
+          "file": "README:fr",
+          "line": 107
+        },
+        {
+          "file": "README:de",
+          "line": 107
+        },
+        {
+          "file": "README:es",
+          "line": 107
+        }
+      ],
+      "rawSource": "[@LexnLin](https://x.com/LexnLin/status/2046725722320888313) | [@LexnLin](https://x.com/LexnLin/status/2046675069678563385)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_83199e4e3e4074f9",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/amplify_video_thumb/2046725535439482880/img/v9e7898p1ynJv-xz.jpg",
+      "upstreamPath": "https://pbs.twimg.com/amplify_video_thumb/2046725535439482880/img/v9e7898p1ynJv-xz.jpg",
+      "localPath": "public/assets/prompt_a884870242a90bea0148/10133087baa1.jpg",
+      "alt": "360 Equirectangular Panorama",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写真",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.596Z"
+  }
+}

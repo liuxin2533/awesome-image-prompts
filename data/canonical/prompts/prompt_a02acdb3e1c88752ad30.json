@@ -1,0 +1,94 @@
+{
+  "id": "prompt_a02acdb3e1c88752ad30",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a premium “Matcha Brand Touchpoint System” visual board for a modern lifestyle brand called:\n\n“MATCHA MODE”\n\nBuild a full brand identity system, not a single image.\n\nHERO SCENE:\n\nA hyper-realistic matcha drink in a ceramic cup placed on a clean natural surface.\n\n– vibrant green matcha foam with micro-bubbles\n– bamboo whisk (chasen) nearby\n– soft natural light\n– slight matcha powder dust on the surface\n– minimal Japanese aesthetic\nATMOSPHERE:\n– calm, warm, soft daylight\n– clean background (off-white or beige)\n– subtle shadows and reflections\n– feeling of wellness and luxury\nFULL BRAND SYSTEM:\n– takeout cups (paper + glass bottles)\n– packaging boxes (minimalist design)\n– tote bags (premium lifestyle)\n– labels, stickers, seals\n– menu cards with pricing ($6.50, $8.90, etc.)\n– small typography everywhere\n– subtle imperfections (realism)\n\nDESIGN LANGUAGE:\n\n– modern minimalist typography\n– Japanese-inspired layout\n– soft green palette\n– elegant spacing\n\nINCLUDE:\n– matcha latte\n– iced matcha\n– matcha desserts\n– combo sets\n– lifestyle shots\nThe composition must feel like a high-end design agency presentation.\n\nUltra-detailed, realistic, clean, aesthetic, and highly shareable.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "抹茶品牌触点系统视觉板",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_f3d51c5ff9",
+      "value": "抹茶品牌触点系统视觉板",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-362",
+      "originalId": "case-362",
+      "authors": [
+        {
+          "name": "Preda2005",
+          "url": "https://x.com/Preda2005/status/2049846981271699685"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6404
+        }
+      ],
+      "rawSource": "[@Preda2005](https://x.com/Preda2005/status/2049846981271699685)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_411312045b004151",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case362.jpg",
+      "upstreamPath": "../data/images/case362.jpg",
+      "localPath": "public/assets/prompt_a02acdb3e1c88752ad30/781a85715cd5.jpg",
+      "alt": "抹茶品牌触点系统视觉板",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.866Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "brand",
+      "identity",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.921Z"
+  }
+}

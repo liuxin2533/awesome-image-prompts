@@ -1,0 +1,176 @@
+{
+  "id": "prompt_a7a70c6b7420992df9b0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a bold Japanese event thumbnail in a retro 8-bit video game style on a clean white background with a black, white, and vivid yellow color palette. The composition is a single highly graphic poster packed with pixel-art decorations, thick black outlines, comic halftone dots, drop shadows, and arcade-inspired stickers. In the center, place an enormous headline reading “{argument name=\"main title\" default=\"LOVART\"}” in oversized block letters, bright yellow with a thick black outline, white border, and heavy shadow, slightly tilted and dominating most of the image. Above it, add a jagged white banner with black outline containing the Japanese title “{argument name=\"top banner text\" default=\"AIデザイン運用勉強会\"}”. Below the main title, place a black ribbon with yellow and white Japanese text reading “{argument name=\"subheading text\" default=\"最新ツール実践 × プロの基礎力\"}”. At the lower left-center, add a large rounded rectangular date panel in yellow with black outline and white trim, including a pixel calendar icon on the left and the text “{argument name=\"event date\" default=\"5.10 (sat) 19:00 START\"}” in huge black retro type. At the lower right, place a black spiky label reading “speaker” above the large yellow-outlined name “{argument name=\"speaker name\" default=\"kats\"}”. Surround the layout with exactly 11 decorative gaming elements: 1 pixel speech burst at upper left saying “LEVEL UP!”, 1 yellow lightning bolt near the top, 1 yellow question block with a black question mark at upper right, 1 pixel sword on the right side, 1 starburst on the right saying “GAME ON!”, 1 chibi pixel character jumping on the left in a yellow jacket with raised fist, 1 small black “1UP” life icon with three yellow hearts at lower left, 1 retro game controller beneath it, 3 groups of sparkle stars scattered around the composition. Add comic accents such as dotted halftone patches, angled yellow speed lines, small checkerboard strips, and a pixel cursor pointer near the subtitle. Include a stylized anime-like speaker avatar in the lower right corner wearing a black cap and black hoodie with yellow accents, face partially obscured or simplified, integrated like a streamer or event host badge. Make all Japanese and English text crisp, readable, and accurately typeset, with the overall feeling of a high-energy YouTube thumbnail or social media event banner for a design/AI workshop.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "在干净的白色背景上，以黑、白、亮黄为配色方案，创作一张复古 8-bit 电子游戏风格的大胆日本活动缩略图。构图为一张极具图形感的海报，充满了像素艺术装饰、粗黑轮廓线、漫画半调圆点、投影和街机风格贴纸。在中心位置，放置一个巨大的标题“{argument name=\"main title\" default=\"LOVART\"}”，采用超大块状字体，亮黄色配以粗黑轮廓、白色边框和厚重阴影，略微倾斜并占据画面大部分空间。在标题上方，添加一个带有黑色轮廓的锯齿状白色横幅，包含日语标题“{argument name=\"top banner text\" default=\"AI设计运营研讨会\"}”。在主标题下方，放置一条黑色丝带，上面写有黄白相间的日语文字“{argument name=\"subheading text\" default=\"最新工具实践 × 专业基础能力\"}”。在左下方中心处，添加一个大的圆角矩形日期面板，黄色填充配以黑色轮廓和白色饰边，左侧包含一个像素日历图标，并以巨大的黑色复古字体显示“{argument name=\"event date\" default=\"5.10 (周六) 19:00 开始\"}”。在右下方，放置一个黑色的尖刺标签，上面写着“speaker”，位于带有黄色轮廓的大字“{argument name=\"speaker name\" default=\"kats\"}”上方。在布局周围添加 11 个装饰性游戏元素：左上方 1 个写着“LEVEL UP!”的像素对话气泡，顶部附近 1 个黄色闪电，右上角 1 个带有黑色问号的黄色问号方块，右侧 1 把像素剑，右侧 1 个写着“GAME ON!”的星爆图形，左侧 1 个穿着黄色夹克、挥拳跳跃的赤壁像素角色，左下方 1 个带有三个黄色心形的小型黑色“1UP”生命图标，其下方 1 个复古游戏手柄，以及散布在构图中的 3 组闪烁星星。添加漫画风格的装饰，如点状半调补丁、倾斜的黄色速度线、小棋盘格条纹以及副标题附近的像素光标指针。在右下角包含一个风格化的动漫头像，戴着黑色帽子和带有黄色装饰的黑色连帽衫，面部部分遮挡或简化，像主播或活动主持人徽章一样融入其中。确保所有日语和英语文本清晰、易读且排版准确，整体呈现出高能量的 YouTube 缩略图或设计/AI 研讨会社交媒体横幅的氛围。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una miniatura audaz para un evento japonés con un estilo de videojuego retro de 8 bits sobre un fondo blanco limpio, utilizando una paleta de colores negro, blanco y amarillo intenso. La composición es un póster altamente gráfico repleto de decoraciones de pixel art, contornos negros gruesos, puntos de semitono tipo cómic, sombras paralelas y pegatinas inspiradas en los arcade. En el centro, coloca un titular enorme que diga “{argument name=\"main title\" default=\"LOVART\"}” en letras de bloque de gran tamaño, de color amarillo brillante con un contorno negro grueso, borde blanco y una sombra marcada, ligeramente inclinado y dominando la mayor parte de la imagen. Arriba, añade una pancarta blanca dentada con contorno negro que contenga el título en japonés “{argument name=\"top banner text\" default=\"AIデザイン運用勉強会\"}”. Debajo del título principal, coloca una cinta negra con texto en japonés amarillo y blanco que diga “{argument name=\"subheading text\" default=\"最新ツール実践 × プロの基礎力\"}”. En la parte inferior central izquierda, añade un panel de fecha rectangular grande y redondeado en amarillo con contorno negro y borde blanco, que incluya un icono de calendario de píxeles a la izquierda y el texto “{argument name=\"event date\" default=\"5.10 (sat) 19:00 START\"}” en una tipografía retro negra de gran tamaño. En la parte inferior derecha, coloca una etiqueta negra con puntas que diga “speaker” sobre el nombre “{argument name=\"speaker name\" default=\"kats\"}” con un contorno amarillo grande. Rodea el diseño con exactamente 11 elementos decorativos de juego: 1 burbuja de diálogo de píxeles en la parte superior izquierda que diga “LEVEL UP!”, 1 rayo amarillo cerca de la parte superior, 1 bloque de interrogación amarillo con un signo de interrogación negro en la parte superior derecha, 1 espada de píxeles en el lado derecho, 1 estallido de estrella a la derecha que diga “GAME ON!”, 1 personaje chibi de píxeles saltando a la izquierda con una chaqueta amarilla y el puño en alto, 1 pequeño icono de vida negro “1UP” con tres corazones amarillos en la parte inferior izquierda, 1 controlador de juego retro debajo, y 3 grupos de estrellas brillantes dispersas por la composición. Añade acentos de cómic como parches de semitono punteados, líneas de velocidad amarillas en ángulo, pequeñas tiras de tablero de ajedrez y un cursor de píxeles cerca del subtítulo. Incluye un avatar de orador estilizado tipo anime en la esquina inferior derecha con una gorra negra y una sudadera con capucha negra con detalles amarillos, con el rostro parcialmente oscurecido o simplificado, integrado como una insignia de streamer o anfitrión de eventos. Haz que todo el texto en japonés e inglés sea nítido, legible y esté compuesto con precisión, con la sensación general de una miniatura de YouTube de alta energía o un banner de evento en redes sociales para un taller de diseño/IA.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein auffälliges japanisches Event-Thumbnail im Retro-8-Bit-Videospielstil auf einem sauberen weißen Hintergrund mit einer Farbpalette aus Schwarz, Weiß und leuchtendem Gelb. Die Komposition ist ein grafisch starkes Poster voller Pixel-Art-Dekorationen, dicker schwarzer Umrandungen, Comic-Halbtonpunkten, Schlagschatten und von Arcade-Spielen inspirierten Stickern. Platziere in der Mitte eine riesige Überschrift mit dem Text „{argument name=\"main title\" default=\"LOVART\"}“ in überdimensionalen Blockbuchstaben, leuchtend gelb mit dicker schwarzer Umrandung, weißem Rand und starkem Schatten, leicht geneigt und das Bild dominierend. Füge darüber ein gezacktes weißes Banner mit schwarzer Umrandung hinzu, das den japanischen Titel „{argument name=\"top banner text\" default=\"AIデザイン運用勉強会\"}“ enthält. Platziere unter dem Haupttitel ein schwarzes Band mit gelbem und weißem japanischem Text, der „{argument name=\"subheading text\" default=\"最新ツール実践 × プロの基礎力\"}“ lautet. Füge unten links in der Mitte ein großes, abgerundetes rechteckiges Datumsfeld in Gelb mit schwarzer Umrandung und weißem Rand hinzu, das links ein Pixel-Kalendersymbol und den Text „{argument name=\"event date\" default=\"5.10 (sat) 19:00 START\"}“ in riesiger schwarzer Retro-Schrift enthält. Platziere unten rechts ein schwarzes, stacheliges Etikett mit der Aufschrift „speaker“ über dem großen, gelb umrandeten Namen „{argument name=\"speaker name\" default=\"kats\"}“. Umgib das Layout mit genau 11 dekorativen Spielelementen: 1 Pixel-Sprechblase oben links mit der Aufschrift „LEVEL UP!“, 1 gelber Blitz in der Nähe der Oberseite, 1 gelber Fragezeichen-Block mit einem schwarzen Fragezeichen oben rechts, 1 Pixelschwert auf der rechten Seite, 1 Sternenexplosion auf der rechten Seite mit der Aufschrift „GAME ON!“, 1 kleiner Pixel-Charakter, der links in einer gelben Jacke mit erhobener Faust springt, 1 kleines schwarzes „1UP“-Lebenssymbol mit drei gelben Herzen unten links, 1 Retro-Game-Controller darunter, 3 Gruppen von funkelnden Sternen, die über die Komposition verstreut sind. Füge Comic-Akzente wie gepunktete Halbtonflächen, abgewinkelte gelbe Geschwindigkeitslinien, kleine Schachbrettstreifen und einen Pixel-Cursor in der Nähe des Untertitels hinzu. Integriere in der unteren rechten Ecke einen stilisierten, anime-artigen Sprecher-Avatar, der eine schwarze Kappe und einen schwarzen Hoodie mit gelben Akzenten trägt, das Gesicht teilweise verdeckt oder vereinfacht, integriert wie ein Streamer- oder Event-Host-Abzeichen. Achte darauf, dass der gesamte japanische und englische Text scharf, lesbar und präzise gesetzt ist, mit dem allgemeinen Flair eines energiegeladenen YouTube-Thumbnails oder Social-Media-Event-Banners für einen Design-/KI-Workshop.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une miniature d'événement japonais audacieuse dans un style jeu vidéo rétro 8 bits sur un fond blanc épuré avec une palette de couleurs noir, blanc et jaune vif. La composition est une affiche graphique unique remplie de décorations en pixel art, de contours noirs épais, de points de trame de bande dessinée, d'ombres portées et d'autocollants inspirés des salles d'arcade. Au centre, placez un titre énorme indiquant « {argument name=\"main title\" default=\"LOVART\"} » en lettres capitales surdimensionnées, jaune vif avec un contour noir épais, une bordure blanche et une ombre marquée, légèrement incliné et dominant la majeure partie de l'image. Au-dessus, ajoutez une bannière blanche dentelée avec un contour noir contenant le titre japonais « {argument name=\"top banner text\" default=\"AIデザイン運用勉強会\"} ». Sous le titre principal, placez un ruban noir avec du texte japonais jaune et blanc indiquant « {argument name=\"subheading text\" default=\"最新ツール実践 × プロの基礎力\"} ». En bas à gauche du centre, ajoutez un grand panneau de date rectangulaire arrondi en jaune avec un contour noir et une bordure blanche, incluant une icône de calendrier pixelisé sur la gauche et le texte « {argument name=\"event date\" default=\"5.10 (sat) 19:00 START\"} » dans une énorme police rétro noire. En bas à droite, placez une étiquette noire pointue indiquant « speaker » au-dessus du nom entouré de jaune « {argument name=\"speaker name\" default=\"kats\"} ». Entourez la mise en page de 11 éléments de jeu décoratifs : 1 bulle de dialogue pixelisée en haut à gauche disant « LEVEL UP! », 1 éclair jaune près du sommet, 1 bloc point d'interrogation jaune avec un point d'interrogation noir en haut à droite, 1 épée pixelisée sur le côté droit, 1 étoile éclatante sur la droite disant « GAME ON! », 1 personnage pixelisé chibi sautant sur la gauche avec une veste jaune et le poing levé, 1 petite icône de vie noire « 1UP » avec trois cœurs jaunes en bas à gauche, 1 manette de jeu rétro en dessous, 3 groupes d'étoiles scintillantes dispersées dans la composition. Ajoutez des accents de bande dessinée tels que des zones de trame en pointillés, des lignes de vitesse jaunes inclinées, de petites bandes en damier et un curseur pixelisé près du sous-titre. Incluez un avatar de conférencier stylisé façon anime dans le coin inférieur droit, portant une casquette noire et un sweat à capuche noir avec des accents jaunes, le visage partiellement masqué ou simplifié, intégré comme un badge de streamer ou d'hôte d'événement. Assurez-vous que tout le texte japonais et anglais est net, lisible et correctement composé, avec l'ambiance générale d'une miniature YouTube dynamique ou d'une bannière d'événement sur les réseaux sociaux pour un atelier de design/AI.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una miniatura audace per un evento giapponese in stile videogioco 8-bit retro su uno sfondo bianco pulito, con una palette di colori nero, bianco e giallo vivido. La composizione è un poster altamente grafico ricco di decorazioni in pixel-art, spessi contorni neri, punti mezzetinte in stile fumetto, ombre portate e adesivi ispirati ai giochi arcade. Al centro, inserisci un enorme titolo che recita “{argument name=\"main title\" default=\"LOVART\"}” in lettere maiuscole sovradimensionate, giallo brillante con uno spesso contorno nero, bordo bianco e un'ombra marcata, leggermente inclinato e dominante sulla maggior parte dell'immagine. Sopra di esso, aggiungi un banner bianco frastagliato con contorno nero contenente il titolo giapponese “{argument name=\"top banner text\" default=\"AIデザイン運用勉強会\"}”. Sotto il titolo principale, posiziona un nastro nero con testo giapponese giallo e bianco che recita “{argument name=\"subheading text\" default=\"最新ツール実践 × プロの基礎力\"}”. In basso a sinistra rispetto al centro, aggiungi un grande pannello rettangolare arrotondato per la data in giallo con contorno nero e rifinitura bianca, che includa un'icona di calendario pixel a sinistra e il testo “{argument name=\"event date\" default=\"5.10 (sat) 19:00 START\"}” in un enorme font retro nero. In basso a destra, posiziona un'etichetta nera a punta con la scritta “speaker” sopra il nome contornato di giallo “{argument name=\"speaker name\" default=\"kats\"}”. Circonda il layout con esattamente 11 elementi decorativi di gioco: 1 fumetto pixel in alto a sinistra con scritto “LEVEL UP!”, 1 fulmine giallo vicino alla parte superiore, 1 blocco punto interrogativo giallo con un punto interrogativo nero in alto a destra, 1 spada pixel sul lato destro, 1 esplosione di stelle a destra con scritto “GAME ON!”, 1 personaggio pixel chibi che salta a sinistra con una giacca gialla e il pugno alzato, 1 piccola icona vita nera “1UP” con tre cuori gialli in basso a sinistra, 1 controller di gioco retro sotto di essa, 3 gruppi di stelle scintillanti sparse per la composizione. Aggiungi accenti fumettistici come patch a mezzetinte puntinate, linee di velocità gialle angolate, piccole strisce a scacchiera e un cursore pixel vicino al sottotitolo. Includi un avatar dello speaker in stile anime nell'angolo in basso a destra che indossa un berretto nero e una felpa con cappuccio nera con dettagli gialli, con il volto parzialmente oscurato o semplificato, integrato come un badge da streamer o host dell'evento. Rendi tutto il testo giapponese e inglese nitido, leggibile e accuratamente composto, con l'atmosfera generale di una miniatura YouTube ad alta energia o di un banner per eventi sui social media per un workshop di design/AI.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma miniatura de evento japonês ousada em um estilo de videogame retrô de 8 bits sobre um fundo branco limpo, com uma paleta de cores preta, branca e amarelo vibrante. A composição é um pôster altamente gráfico repleto de decorações em pixel art, contornos pretos espessos, pontos de meio-tom de quadrinhos, sombras projetadas e adesivos inspirados em arcades. No centro, coloque um título enorme escrito “{argument name=\"main title\" default=\"LOVART\"}” em letras de bloco gigantes, amarelo brilhante com um contorno preto espesso, borda branca e sombra pesada, levemente inclinado e dominando a maior parte da imagem. Acima dele, adicione uma faixa branca irregular com contorno preto contendo o título em japonês “{argument name=\"top banner text\" default=\"AIデザイン運用勉強会\"}”. Abaixo do título principal, coloque uma fita preta com texto em japonês amarelo e branco escrito “{argument name=\"subheading text\" default=\"最新ツール実践 × プロの基礎力\"}”. Na parte inferior esquerda, adicione um grande painel de data retangular arredondado em amarelo com contorno preto e acabamento branco, incluindo um ícone de calendário em pixel à esquerda e o texto “{argument name=\"event date\" default=\"5.10 (sat) 19:00 START\"}” em uma fonte retrô preta grande. No canto inferior direito, coloque uma etiqueta preta pontiaguda escrita “speaker” acima do nome em destaque com contorno amarelo “{argument name=\"speaker name\" default=\"kats\"}”. Cerque o layout com exatamente 11 elementos decorativos de jogos: 1 balão de fala em pixel no canto superior esquerdo dizendo “LEVEL UP!”, 1 raio amarelo perto do topo, 1 bloco de interrogação amarelo com um ponto de interrogação preto no canto superior direito, 1 espada em pixel no lado direito, 1 explosão estelar à direita dizendo “GAME ON!”, 1 personagem chibi em pixel pulando à esquerda com uma jaqueta amarela e punho levantado, 1 pequeno ícone de vida “1UP” preto com três corações amarelos no canto inferior esquerdo, 1 controle de jogo retrô abaixo dele, 3 grupos de estrelas brilhantes espalhados pela composição. Adicione detalhes de quadrinhos, como manchas de meio-tom pontilhadas, linhas de velocidade amarelas angulares, pequenas faixas xadrez e um cursor de pixel perto da legenda. Inclua um avatar de palestrante estilizado tipo anime no canto inferior direito, vestindo um boné preto e moletom preto com detalhes em amarelo, rosto parcialmente obscurecido ou simplificado, integrado como um emblema de streamer ou anfitrião de evento. Deixe todo o texto em japonês e inglês nítido, legível e com tipografia precisa, com a sensação geral de uma miniatura de YouTube de alta energia ou um banner de evento de rede social para um workshop de design/IA.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Retro Game Style Japanese Event Banner",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 复古游戏风格日本活动横幅",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Banner para evento japonés con estilo de videojuego retro",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Event-Banner im Retro-Game-Stil für japanische Veranstaltungen",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Bannière d'événement japonais style jeu rétro",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Banner per evento in stile retro game giapponese",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Banner de evento japonês em estilo de jogo retrô",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A bold arcade-inspired Japanese workshop thumbnail with crisp typography, ideal for social posts, YouTube covers, and event promotions.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款大胆的街机风格日本研讨会缩略图，具有清晰的排版，非常适合社交媒体帖子、YouTube 封面和活动推广。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une miniature d'atelier japonais audacieuse inspirée des jeux d'arcade avec une typographie nette, idéale pour les publications sur les réseaux sociaux, les couvertures YouTube et la promotion d'événements.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/katsedi10/status/2050034358443225132#reversed-1",
+      "originalId": "https://x.com/katsedi10/status/2050034358443225132#reversed-1",
+      "authors": [
+        {
+          "name": "kats@AI＆Creative",
+          "url": "https://x.com/katsedi10"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2805
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e07f7c74c38868ab",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711121988_ia2yb7_HHMuplwaoAAPvft.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711121988_ia2yb7_HHMuplwaoAAPvft.jpg",
+      "localPath": "public/assets/prompt_a7a70c6b7420992df9b0/3a61811d8be4.jpg",
+      "alt": "YouTube Thumbnail - Retro Game Style Japanese Event Banner - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-30T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.624Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "youtube",
+      "thumbnail",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.880Z"
+  }
+}

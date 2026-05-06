@@ -1,0 +1,97 @@
+{
+  "id": "prompt_bda0153409f32312e36e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A picture says a thousand words. GPT Image 2 creates them.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Codex Chalkboard Article Visualization",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "The tweet text is the only visible prompt-like instruction; the result is a chalkboard-style long-form document visualization.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/gabrielchua/status/2046778728748048886",
+      "originalId": "https://x.com/gabrielchua/status/2046778728748048886",
+      "authors": [
+        {
+          "name": "gabrielchua",
+          "url": "https://x.com/gabrielchua/status/2046778728748048886"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 918
+        }
+      ],
+      "rawSource": "[@gabrielchua](https://x.com/gabrielchua/status/2046778728748048886)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c5f93e5bd0abe552",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGecW48bsAAncRT?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGecW48bsAAncRT?format=jpg&name=large",
+      "localPath": "public/assets/prompt_bda0153409f32312e36e/4ceb8107bb13.jpg",
+      "alt": "Codex Chalkboard Article Visualization",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "infographic",
+      "education"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.600Z"
+  }
+}

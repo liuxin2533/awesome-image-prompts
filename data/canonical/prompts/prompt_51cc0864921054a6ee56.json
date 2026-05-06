@@ -1,0 +1,109 @@
+{
+  "id": "prompt_51cc0864921054a6ee56",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"e-commerce live stream interface mockup\",\r\n  \"subject\": {\r\n    \"description\": \"young Asian woman, long wavy dark hair, wearing a white short-sleeve polo shirt and white pleated tennis skirt, holding a white tennis racket over her right shoulder, looking directly at the camera with a soft expression\",\r\n    \"background\": \"soft light grey studio background\"\r\n  },\r\n  \"layout\": {\r\n    \"header\": {\r\n      \"left\": {\r\n        \"avatar\": \"female portrait\",\r\n        \"name\": \"{argument name=\\\"host name\\\" default=\\\"小鹿运动优选\\\"}\",\r\n        \"stats\": \"12.8万本场点赞\",\r\n        \"button\": \"关注\",\r\n        \"badge\": \"带货榜第3名\"\r\n      },\r\n      \"right\": {\r\n        \"viewer_avatars_count\": 3,\r\n        \"viewer_count\": \"1.2万\",\r\n        \"close_icon\": \"X\"\r\n      }\r\n    },\r\n    \"floating_elements\": [\r\n      {\r\n        \"position\": \"top right\",\r\n        \"type\": \"coupon card\",\r\n        \"title\": \"直播间专属券\",\r\n        \"details\": \"¥20 满199可用\",\r\n        \"button\": \"领取\"\r\n      },\r\n      {\r\n        \"position\": \"mid left\",\r\n        \"type\": \"campaign text\",\r\n        \"subtitle\": \"夏日运动季\",\r\n        \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"活力开场\\\"}\",\r\n        \"bullet_points_count\": 3,\r\n        \"bullet_points\": [\"透气速干\", \"弹力舒适\", \"运动百搭\"]\r\n      },\r\n      {\r\n        \"position\": \"mid right\",\r\n        \"type\": \"product card active\",\r\n        \"badge\": \"正在讲解\",\r\n        \"image\": \"white polo and skirt flat lay\",\r\n        \"title\": \"{argument name=\\\"product name\\\" default=\\\"运动POLO衫套装\\\"}\",\r\n        \"details\": \"白色·M码\",\r\n        \"price\": \"{argument name=\\\"price\\\" default=\\\"¥129\\\"}\",\r\n        \"button\": \"去抢购\"\r\n      },\r\n      {\r\n        \"position\": \"bottom right\",\r\n        \"type\": \"product card secondary\",\r\n        \"badge\": \"热卖 x 156\",\r\n        \"image\": \"model wearing the outfit\",\r\n        \"title\": \"运动POLO衫套装女 透气速干 显瘦百搭\",\r\n        \"tags\": [\"7天无理由退货\", \"运费险\"],\r\n        \"price\": \"¥129\",\r\n        \"button\": \"抢\"\r\n      }\r\n    ],\r\n    \"chat_overlay\": {\r\n      \"position\": \"bottom left\",\r\n      \"message_count\": 5,\r\n      \"messages\": [\r\n        \"小鹿姐姐: 欢迎新朋友们来到直播间~\",\r\n        \"运动达人: {argument name=\\\"chat message\\\" default=\\\"这套好看!\\\"}\",\r\n        \"卡卡西: 布料透气吗?\",\r\n        \"小鹿运动优选: 我们这个面料是冰丝速干的，运动出汗也不闷热哦~\",\r\n        \"用户_6789: 已拍!\"\r\n      ],\r\n      \"purchase_alert\": \"用户_6789 等3人 正在去购买\"\r\n    },\r\n    \"footer\": {\r\n      \"input_bar\": \"说点什么...\",\r\n      \"icons_count\": 5,\r\n      \"icons\": [\"smile\", \"shopping cart\", \"heart\", \"share\", \"more\"]\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"e-commerce live stream interface mockup\",\n  \"subject\": {\n    \"description\": \"young Asian woman, long wavy dark hair, wearing a white short-sleeve polo shirt and white pleated tennis skirt, holding a white tennis racket over her right shoulder, looking directly at the camera with a soft expression\",\n    \"background\": \"soft light grey studio background\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"left\": {\n        \"avatar\": \"female portrait\",\n        \"name\": \"{argument name=\\\"host name\\\" default=\\\"Little Deer Sports Selection\\\"}\",\n        \"stats\": \"128K likes this session\",\n        \"button\": \"Follow\",\n        \"badge\": \"3rd in Sales Ranking\"\n      },\n      \"right\": {\n        \"viewer_avatars_count\": 3,\n        \"viewer_count\": \"12K\",\n        \"close_icon\": \"X\"\n      }\n    },\n    \"floating_elements\": [\n      {\n        \"position\": \"top right\",\n        \"type\": \"coupon card\",\n        \"title\": \"Live Stream Exclusive Coupon\",\n        \"details\": \"¥20 off for orders over ¥199\",\n        \"button\": \"Claim\"\n      },\n      {\n        \"position\": \"mid left\",\n        \"type\": \"campaign text\",\n        \"subtitle\": \"Summer Sports Season\",\n        \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"Energetic Start\\\"}\",\n        \"bullet_points_count\": 3,\n        \"bullet_points\": [\"Breathable & Quick-dry\", \"Elastic & Comfortable\", \"Versatile for Sports\"]\n      },\n      {\n        \"position\": \"mid right\",\n        \"type\": \"product card active\",\n        \"badge\": \"Currently Explaining\",\n        \"image\": \"white polo and skirt flat lay\",\n        \"title\": \"{argument name=\\\"product name\\\" default=\\\"Sports Polo Shirt Set\\\"}\",\n        \"details\": \"White·Size M\",\n        \"price\": \"{argument name=\\\"price\\\" default=\\\"¥129\\\"}\",\n        \"button\": \"Shop Now\"\n      },\n      {\n        \"position\": \"bottom right\",\n        \"type\": \"product card secondary\",\n        \"badge\": \"Hot Sale x 156\",\n        \"image\": \"model wearing the outfit\",\n        \"title\": \"Women's Sports Polo Shirt Set Breathable Quick-dry Slimming Versatile\",\n        \"tags\": [\"7-day no reason return\", \"Shipping insurance\"],\n        \"price\": \"¥129\",\n        \"button\": \"Grab\"\n      }\n    ],\n    \"chat_overlay\": {\n      \"position\": \"bottom left\",\n      \"message_count\": 5,\n      \"messages\": [\n        \"Sister Little Deer: Welcome new friends to the live stream~\",\n        \"Sports Expert: {argument name=\\\"chat message\\\" default=\\\"This set looks great!\\\"}\",\n        \"Kakashi: Is the fabric breathable?\",\n        \"Little Deer Sports Selection: Our fabric is ice silk quick-dry, not stuffy even when sweating during exercise~\",\n        \"User_6789: Ordered!\"\n      ],\n      \"purchase_alert\": \"User_6789 and 3 others are purchasing\"\n    },\n    \"footer\": {\n      \"input_bar\": \"Say something...\",\n      \"icons_count\": 5,\n      \"icons\": [\"smile\", \"shopping cart\", \"heart\", \"share\", \"more\"]\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:16:43.924Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Interface Interaction Design Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:16:46.263Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-158",
+      "originalId": "case-158",
+      "authors": [
+        {
+          "name": "coconut_256",
+          "url": "https://x.com/coconut_256"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6451
+        }
+      ],
+      "rawSource": "[@coconut\\_256](https://x.com/coconut_256)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c8e2463f1006f937",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case158.jpg",
+      "upstreamPath": "../data/images/case158.jpg",
+      "localPath": "public/assets/prompt_51cc0864921054a6ee56/5ffafe35736a.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "mockup",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

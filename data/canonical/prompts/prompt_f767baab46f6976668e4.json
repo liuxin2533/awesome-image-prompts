@@ -1,0 +1,132 @@
+{
+  "id": "prompt_f767baab46f6976668e4",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a photorealistic lifestyle image of a cute compact hatchback car in {argument name=\"car color\" default=\"pale mint green\"} parked in a seaside parking lot on a bright sunny day. The car is shown in full side view, facing right, with the front passenger door open to reveal a warm beige leather interior with wood-toned trim and a rounded modern dashboard. A young blonde woman stands casually in front of the open door, one hand on her hip, wearing a light mint cardigan over a short white floral summer romper and brown sandals; her face is softly anonymized and featureless. The setting is a clean asphalt coastal parking area with white painted parking lines, several other parked cars in the background, tropical plants and palms at the edges, and a vivid turquoise ocean beyond the road. Add distant green mountains and small islands across the horizon under a clear pale blue sky with a few soft clouds. Use a cheerful, cute, aspirational travel aesthetic, realistic reflections on the glossy car paint, crisp daylight shadows, wide-angle composition, high detail, natural colors, and the feeling of wanting a beloved custom-colored car for a beach trip.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Mint Green Coastal Car Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - Mint Green Coastal Car Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Mint Green Coastal Car Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Mint Green Coastal Car Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Mint Green Coastal Car Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Mint Green Coastal Car Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Mint Green Coastal Car Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A photorealistic seaside lifestyle scene featuring a cute pale mint compact car with an open door and a summer-dressed woman, useful for custom car concept visuals.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/maruko201002/status/2050748743407038886#reversed-0",
+      "originalId": "https://x.com/maruko201002/status/2050748743407038886#reversed-0",
+      "authors": [
+        {
+          "name": "まるこ♂🌷",
+          "url": "https://x.com/maruko201002"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4428
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5f1edf9483d001fd",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777884830442_opnwy4_HHW5HFwbkAAbhRm.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777884830442_opnwy4_HHW5HFwbkAAbhRm.jpg",
+      "localPath": "public/assets/prompt_f767baab46f6976668e4/332db6985d7f.jpg",
+      "alt": "E-commerce Main Image - Mint Green Coastal Car Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "e-commerce",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.874Z"
+  }
+}

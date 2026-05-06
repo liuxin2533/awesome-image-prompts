@@ -1,0 +1,106 @@
+{
+  "id": "prompt_c3c35d9f1ef50ec05c86",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "帮我生成一个吉利银河m9的中控界面，尺寸为21:9，暗色系",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark color scheme.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "吉利银河暗黑中控界面",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Geely Galaxy Dark Dashboard Interface",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:22:32.933Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_b74cba383e",
+      "value": "吉利银河暗黑中控界面",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-177",
+      "originalId": "case-177",
+      "authors": [
+        {
+          "name": "xin_pai88825",
+          "url": "https://x.com/xin_pai88825/status/2046576100592201946"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 283
+        }
+      ],
+      "rawSource": "[@xin\\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_15419d504d7864cd",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case177.jpg",
+      "upstreamPath": "../data/images/case177.jpg",
+      "localPath": "public/assets/prompt_c3c35d9f1ef50ec05c86/c07a2459b515.jpg",
+      "alt": "吉利银河暗黑中控界面",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.601Z"
+  }
+}

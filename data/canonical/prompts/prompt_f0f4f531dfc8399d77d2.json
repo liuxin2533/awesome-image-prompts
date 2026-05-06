@@ -1,0 +1,154 @@
+{
+  "id": "prompt_f0f4f531dfc8399d77d2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光，构图延续了S型的流动感；\n在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。\n广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。\n云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。\n文字排版优美，大方，字迹清晰完整，尺寸9:16。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A 2026 city promotional poster filled with a festive Spring Festival atmosphere without losing its elegant style.\nDouble exposure, the composition continues the flowing sense of an S-shape;\nIn the lower right corner of the pure white textured background, a miniature figure wearing traditional Chinese clothing is waving a long red silk dance ribbon. This red silk dances in the air, not only showing the smooth texture of the silk, but also magically transforming into a magnificent mountain range and river during the process of floating to the upper left.\nIn this \"river\", a hand-drawn map of Guangzhou city with mountains, sea, and rivers is superimposed, Guochao, the scenery is in full view, magnificent and majestic, shocking.\nGuangzhou's landmark buildings (Canton Tower, Pearl River New City building complex, Pearl River, ancient buildings in Guangzhou city, cruise ships, Baiyun Mountain).\nSurrounded by clouds and mist, ethereal and misty, rich in color, complex in structure, rich in details, but because of a large area of blank space, the picture still looks fresh and refined. In the lower left corner, \"SPRING 2026\" and vertical promotional slogans are typeset. The overall implication is \"Millennium Commercial Capital, Charming Guangzhou\".\nThe typography is beautiful and generous, the handwriting is clear and complete, aspect ratio 9:16.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "2026 Spring Guangzhou City Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/liyue_ai/status/2045332620352119274",
+      "originalId": "case-5",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 57
+        }
+      ]
+    },
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/alanlovelq/status/2045484598487060917",
+      "originalId": "case-24",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 184
+        }
+      ]
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-307",
+      "originalId": "case-307",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai/status/2045332620352119274"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 4047
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai/status/2045332620352119274)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_08befde80714006b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg",
+      "localPath": "public/assets/prompt_f0f4f531dfc8399d77d2/54a15b032387.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_852579e492cbb2c1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case24/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case24/output.jpg",
+      "localPath": "public/assets/prompt_f0f4f531dfc8399d77d2/adeabc0cfe6e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_1115d38f989d8341",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case307.jpg",
+      "upstreamPath": "../data/images/case307.jpg",
+      "localPath": "public/assets/prompt_f0f4f531dfc8399d77d2/ade77db35678.jpg",
+      "alt": "红绸舞动千年商都广州",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

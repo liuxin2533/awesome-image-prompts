@@ -1,0 +1,80 @@
+{
+  "id": "prompt_dd2863e2478248c5e410",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张古代皇宫 × 快递驿站",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate an ancient imperial palace × express delivery station",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "皇宫深处的御用快递驿站",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_1977bf3fe9",
+      "value": "皇宫深处的御用快递驿站",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-205",
+      "originalId": "case-205",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2046596222505361866"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1239
+        }
+      ],
+      "rawSource": "[@joshesye](https://x.com/joshesye/status/2046596222505361866)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_06237ed561332e30",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case205.jpg",
+      "upstreamPath": "../data/images/case205.jpg",
+      "localPath": "public/assets/prompt_dd2863e2478248c5e410/37b4ef25b8c7.jpg",
+      "alt": "皇宫深处的御用快递驿站",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

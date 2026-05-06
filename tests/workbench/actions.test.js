@@ -69,6 +69,10 @@ test('buildActionCommand only creates whitelisted maintenance commands', () => {
     command: 'pnpm',
     args: ['workflow', '--', '--mode', 'local', '--target-languages', 'en,zh-CN', '--catalog-languages', 'en,zh-CN', '--strict']
   });
+  assert.deepEqual(buildActionCommand('classify', {}, options), {
+    command: 'pnpm',
+    args: ['classify', '--', '--refresh-report', '--target-languages', 'en,zh-CN']
+  });
 });
 
 test('buildActionCommand rejects unsupported actions, languages, and limits', () => {
@@ -97,6 +101,16 @@ test('buildIssueActionCommand creates single-issue translation and asset command
   }, options), {
     command: 'pnpm',
     args: ['assets:mirror', '--', '--missing', '--refresh-report', '--target-languages', 'en,zh-CN', '--prompt-id', 'prompt_two', '--asset-id', 'asset_123']
+  });
+
+  assert.deepEqual(buildIssueActionCommand({
+    code: 'unclassified_category',
+    promptId: 'prompt_three',
+    fieldPath: 'classification.categoryId',
+    categoryId: 'poster-illustration'
+  }, options), {
+    command: 'pnpm',
+    args: ['classify', '--', '--prompt-id', 'prompt_three', '--category', 'poster-illustration', '--refresh-report', '--target-languages', 'en,zh-CN']
   });
 });
 
@@ -166,6 +180,7 @@ test('buildIssueActionCommand rejects unsupported issue types and missing identi
   assert.throws(() => buildIssueActionCommand({ code: 'invalid_prompt', promptId: 'prompt_one' }), /No automatic fix/);
   assert.throws(() => buildIssueActionCommand({ code: 'missing_translation', fieldPath: 'title.translations.zh-CN' }), /prompt id/);
   assert.throws(() => buildIssueActionCommand({ code: 'asset_not_cached', promptId: 'prompt_one', fieldPath: 'assets.localPath' }), /asset id/);
+  assert.throws(() => buildIssueActionCommand({ code: 'unclassified_category', promptId: 'prompt_one' }), /category id/);
 });
 
 test('createActionRunner serializes action execution and keeps bounded logs', async () => {

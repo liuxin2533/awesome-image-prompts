@@ -54,7 +54,7 @@ function createPackageScriptCommand(args, options = {}) {
 
 function buildActionCommand(type, body = {}, options = {}) {
   if (type === 'issue') {
-    return buildIssueActionCommand(body.issue, options);
+    return buildIssueActionCommand({ ...(body.issue || {}), categoryId: body.categoryId }, options);
   }
 
   if (type === 'translate') {
@@ -87,6 +87,10 @@ function buildActionCommand(type, body = {}, options = {}) {
 
   if (type === 'refresh-report') {
     return createPackageScriptCommand(['report:refresh', '--', ...reportLanguageArgs()], options);
+  }
+
+  if (type === 'classify') {
+    return createPackageScriptCommand(['classify', '--', '--refresh-report', ...reportLanguageArgs()], options);
   }
 
   if (type === 'workflow') {
@@ -155,6 +159,20 @@ function buildIssueActionCommand(issue = {}, options = {}) {
       issue.promptId,
       '--asset-id',
       assetId
+    ], options);
+  }
+
+  if (issue.code === 'unclassified_category') {
+    if (!issue.categoryId) throw new Error('Cannot fix a classification issue without a category id.');
+    return createPackageScriptCommand([
+      'classify',
+      '--',
+      '--prompt-id',
+      issue.promptId,
+      '--category',
+      issue.categoryId,
+      '--refresh-report',
+      ...reportLanguageArgs()
     ], options);
   }
 
@@ -244,6 +262,29 @@ async function runPackageScriptInProcess(commandSpec, onLog) {
     });
     logReportRefresh(onLog, result.report.toJSON().summary);
     return { exitCode: parsed.strict && result.report.hasErrors ? 1 : 0 };
+  }
+
+  if (scriptName === 'classify') {
+    const { parseArgs, assignPromptCategory, classifyCanonical } = require('../ingestion/classification');
+    const { refreshCurrentReport } = require('../ingestion/report-current');
+    const parsed = projectOptions(parseArgs(args.slice(1)), commandSpec);
+    const actionOptions = { ...parsed, refreshReport: false };
+    const result = parsed.promptId || parsed.categoryId
+      ? assignPromptCategory(actionOptions)
+      : classifyCanonical(actionOptions);
+    if (result.prompt) {
+      onLog(`Classified ${result.prompt.id} as ${result.category.id}.`);
+    } else {
+      onLog(`Classification: ${result.classifiedCount} classified, ${result.needsReviewCount} need review.`);
+    }
+    if (parsed.refreshReport) {
+      const refreshed = refreshCurrentReport({
+        projectRoot: parsed.projectRoot,
+        targetLanguages: parsed.targetLanguages
+      });
+      logReportRefresh(onLog, refreshed.report.toJSON().summary);
+    }
+    return { exitCode: 0 };
   }
 
   if (scriptName === 'workflow') {

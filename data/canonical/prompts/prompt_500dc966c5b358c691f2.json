@@ -1,0 +1,163 @@
+{
+  "id": "prompt_500dc966c5b358c691f2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dark fantasy gothic poster in a vertical composition, painted in a highly detailed anime-inspired style with dramatic lighting and rich texture. At the center is a beautiful young woman with long straight {argument name=\"hair color\" default=\"silver-white\"} hair, pale skin, and an elegant, calm but dangerous presence. Her face is mostly obscured in shadow and mystery. She wears an ornate black-and-deep-blue crystalline dress with lace, feathered and jagged organic details, semi-transparent flowing sleeves, and glowing blue highlights across the bodice and collar, as if infused with magic. Her right hand is raised slightly with an open gesture, while her left hand rests lower near her waist. Surrounding and partly growing from her are luminous blue butterflies and shard-like petals, creating a sense of transformation and corruption. Behind her looms a gigantic monstrous entity made of darkness, ink, smoke, and cosmic texture, with exactly 7 glowing blue eyes visible and a huge fanged grin packed with sharp icy-blue teeth. The creature feels Lovecraftian, predatory, and intimate, curling around her like a guardian, curse, or inner demon. The palette is dominated by black, midnight navy, indigo, and electric blue, with sparkling highlights like stars or wet paint splatter. Add a decorative antique silver filigree border in all 4 corners and along the edges, making it feel like a sinister book cover or exhibition poster. Place large Japanese title text at the top: {argument name=\"title text\" default=\"私の中のバケモノ\"}. Add 8 blocks of vertical Japanese copy around the figure, 4 on the left and 4 on the right, in elegant white Mincho-style type. Left side text blocks, top to bottom: 「創造の源、すべてを壊し、すべてを生む。」, 「正しさよりも、心が動く瞬間を信じる。」, 「美しいものに飢えている。」, 「静けさの中で、世界をかき混ぜる。」. Right side text blocks, top to bottom: 「感情を深く、人の痛みも、希望も、まるごと抱きしめる。」, 「枠を壊し、誰も見たことのない景色を描きたい。」, 「怖い、危ない、それでも止められない。」, plus a short atmospheric handwritten-style accent near the mid-right edge. At the lower center, add a large Japanese question line: {argument name=\"bottom question\" default=\"これは、力？それとも、呪い？\"}. At the very bottom, add a smaller Japanese line: {argument name=\"tagline text\" default=\"私の中のバケモノは、私だけの物語を待っている。\"}. Make the whole image feel obsessive, beautiful, unsettling, and emotionally intense, like a high-end dark art poster about inner monsters and creative power.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Dark Fantasy Inner Monster Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - Dark Fantasy Inner Monster Poster",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a dramatic gothic anime-style poster of a silver-haired woman and a blue-eyed eldritch monster, ideal for moody art campaigns, book-cover concepts, or social media design pieces.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/miyabigoshima/status/2048999501235663327#reversed-0",
+      "originalId": "https://x.com/miyabigoshima/status/2048999501235663327#reversed-0",
+      "authors": [
+        {
+          "name": "五島 雅｜Goshima Production",
+          "url": "https://x.com/miyabigoshima"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3286
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_155e96d4b9705fd4",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367345122_fkg2fn_HG-CL5fa8AA48W5.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367345122_fkg2fn_HG-CL5fa8AA48W5.jpg",
+      "localPath": "public/assets/prompt_500dc966c5b358c691f2/2a0bd1a78a15.jpg",
+      "alt": "Comic / Storyboard - Dark Fantasy Inner Monster Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.125Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.551Z"
+  }
+}

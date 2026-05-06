@@ -1,0 +1,102 @@
+{
+  "id": "prompt_e2669d1295656d3ceeca",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dramatic, high-contrast studio portrait of a {argument name=\"subject gender\" default=\"male\"} athlete or model in the visual style of a premium sports drink advertisement, centered and facing straight toward the camera in a tight head-and-shoulders crop. The subject has {argument name=\"hair style\" default=\"short dark hair brushed back\"}, visible ears on both sides, and a rugged lower face with a short beard or stubble. Dress him in a dark zip-up athletic jacket with the zipper centered and visible near the collar. Use an almost entirely black background and extremely low-key lighting, with subtle rim light and soft highlights catching the hair, ears, jawline, shoulders, and jacket texture while most facial features remain swallowed by shadow for a mysterious, intense mood. The image should feel monochrome or nearly monochrome, with deep blacks, muted gray highlights, cinematic contrast, gritty texture, and a sleek commercial sports-brand aesthetic reminiscent of a {argument name=\"brand style\" default=\"Gatorade\"} campaign. Vertical composition, minimalist framing, no text, no logo, no props, no visible environment.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张戏剧性的高对比度工作室肖像，展示一位{argument name=\"subject gender\" default=\"male\"}运动员或模特，采用高端运动饮料广告的视觉风格，主体居中，直视镜头，采用紧贴头部和肩膀的构图。主体拥有{argument name=\"hair style\" default=\"short dark hair brushed back\"}（向后梳理的深色短发），两侧耳朵可见，下部脸庞轮廓分明，带有短须或胡茬。为他穿着深色拉链运动夹克，拉链居中，靠近衣领处可见。使用几乎全黑的背景和极低的灯光，带有柔和的轮廓光和柔和的高光，捕捉头发、耳朵、下颌线、肩膀和夹克纹理，而大多数面部特征则被阴影吞没，营造出神秘而强烈的氛围。图像应感觉是单色或接近单色的，具有深沉的黑色、柔和的灰色高光、电影般的对比度、粗糙的质感，以及一种精致的商业运动品牌美学，让人联想到{argument name=\"brand style\" default=\"Gatorade\"}（佳得乐）广告系列。垂直构图，极简框架，无文字，无标志，无道具，无可见环境。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:33:03.627Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Dark Gatorade-Style Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/jeremydevz/status/2048026214812561683",
+      "originalId": "case-97",
+      "authors": [
+        {
+          "name": "jeremydevz",
+          "url": "https://x.com/jeremydevz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 629
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c907093692d8c937",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case97/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case97/output.jpg",
+      "localPath": "public/assets/prompt_e2669d1295656d3ceeca/e3b8eca6097e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.562Z"
+  }
+}

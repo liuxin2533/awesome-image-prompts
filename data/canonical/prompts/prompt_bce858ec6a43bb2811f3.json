@@ -1,0 +1,185 @@
+{
+  "id": "prompt_bce858ec6a43bb2811f3",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Please generate a high-quality vertical \"Popular Science Encyclopedia Image\" based on {argument name=\"theme\" default=\"animals\"}.\r\n\r\nThis image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of \"illustration book, encyclopedia, information structure, and collectability.\" The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics.\r\n\r\nPlease include in the frame:\r\n- A clear and beautiful main visual of the subject\r\n- Several magnified details of local characteristics\r\n- Multiple rounded modular information sections\r\n- Clear title hierarchies and key labels\r\n- Concise yet rich encyclopedic content\r\n- Visual ratings, key point summaries, or Top 5 modules\r\n\r\nContent columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards.\r\n\r\nVisual requirements:\r\nLight-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement.\r\n\r\nPlease do not make it a regular commercial promotional poster. Highlight the features of \"knowledge organization + modular information + illustration-style display.\"",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Field: promptText.translations.en\n\nPlease generate a high-quality vertical \"Popular Science Encyclopedia Image\" based on {argument name=\"theme\" default=\"animals\"}.\n\nThis image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of \"illustration book, encyclopedia, information structure, and collectability.\" The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics.\n\nPlease include in the frame:\n- A clear and beautiful main visual of the subject\n- Several magnified details of local characteristics\n- Multiple rounded modular information sections\n- Clear title hierarchies and key labels\n- Concise yet rich encyclopedic content\n- Visual ratings, key point summaries, or Top 5 modules\n\nContent columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards.\n\nVisual requirements:\nLight-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement.\n\nPlease do not make it a regular commercial promotional poster. Highlight the features of \"knowledge organization + modular information + illustration-style display.\"",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:21:28.836Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "关系图谱信息图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0acd3267c4",
+      "value": "关系图谱信息图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-74",
+      "originalId": "case-74",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2395
+        }
+      ],
+      "rawSource": "[@alanlovelq](https://x.com/alanlovelq)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-75",
+      "originalId": "case-75",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2428
+        }
+      ],
+      "rawSource": "[@alanlovelq](https://x.com/alanlovelq)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-76",
+      "originalId": "case-76",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2461
+        }
+      ],
+      "rawSource": "[@alanlovelq](https://x.com/alanlovelq)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-77",
+      "originalId": "case-77",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2494
+        }
+      ],
+      "rawSource": "[@alanlovelq](https://x.com/alanlovelq)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b7c554e64b069985",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case74.jpg",
+      "upstreamPath": "../data/images/case74.jpg",
+      "localPath": "public/assets/prompt_bce858ec6a43bb2811f3/2d3b7497ad3f.jpg",
+      "alt": "Popular Science Encyclopedia Image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_e7d04a14cbe20b44",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case75.jpg",
+      "upstreamPath": "../data/images/case75.jpg",
+      "localPath": "public/assets/prompt_bce858ec6a43bb2811f3/3c7af0e825ff.jpg",
+      "alt": "Popular Science Encyclopedia Image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_a53d6b34c7a94738",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case76.jpg",
+      "upstreamPath": "../data/images/case76.jpg",
+      "localPath": "public/assets/prompt_bce858ec6a43bb2811f3/978d38e800d4.jpg",
+      "alt": "Popular Science Encyclopedia Image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_2f66a83add104bfe",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case77.jpg",
+      "upstreamPath": "../data/images/case77.jpg",
+      "localPath": "public/assets/prompt_bce858ec6a43bb2811f3/8d03b749518f.jpg",
+      "alt": "Popular Science Encyclopedia Image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "信息图",
+      "图谱"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.600Z"
+  }
+}

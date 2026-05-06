@@ -1,0 +1,100 @@
+{
+  "id": "prompt_7885914325a6b3dcf760",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "お借りして噂のGPT-Image-2でキャラシート作ってみましたｽｺﾞｯ(๑°ㅁ°๑)‼✧更に色々指示してあげたらもっといい感じになりそう✨キャラは以前チャッピーにお願いして描いて貰った我が分身です( *¯ ꒳¯*)",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "I borrowed it and tried making a character sheet using the rumored GPT-Image-2 Awesome(๑°ㅁ°๑)‼✧ It seems like it would turn out even better if I gave it various more instructions✨ The character is my alter ego that I asked Chappy to draw for me before( *¯ ꒳¯*) #GPTimage #AIgenerated",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "人物角色设定图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e8758dc0b4",
+      "value": "人物角色设定图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-271",
+      "originalId": "case-271",
+      "authors": [
+        {
+          "name": "tsubaki_ew",
+          "url": "https://x.com/tsubaki_ew/status/2045259289993048284"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3184
+        }
+      ],
+      "rawSource": "[@tsubaki\\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_76f8a61782c22fa3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case271.jpg",
+      "upstreamPath": "../data/images/case271.jpg",
+      "localPath": "public/assets/prompt_7885914325a6b3dcf760/ff5511d23260.jpg",
+      "alt": "GPT图像生成惊艳角色立绘",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "角色",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

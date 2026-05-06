@@ -1,0 +1,102 @@
+{
+  "id": "prompt_61b1529a3b016b0b6399",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A photorealistic amateur photograph of a custom building block set resting on a light wood grain table in a living room. In the background stands a large product box with a red logo reading \"{argument name=\"brand name\" default=\"BRICKLY\"} BUILDING SETS\". The box features text reading \"8+\", \"540 PCS\", \"5 FIGURES\", and the main large title \"{argument name=\"set title\" default=\"WATTERSON FAMILY HOUSE\"}\". A red circular badge on the box reads \"CUSTOM SET FAN DESIGN\", and the box art depicts the house and characters under a blue sky. In the foreground sits the fully assembled block model of a {argument name=\"house color\" default=\"blue\"} two-story suburban house with a brown roof, white porch, red steps, a white picket fence, and a blocky green tree. To the left of the house is a built block model of a {argument name=\"car color\" default=\"pink\"} station wagon. Standing in a row in front of the house are exactly 5 custom block minifigures: a blue cat in tan pants, an orange fish with legs, a tall pink rabbit in a white shirt and tie, a blue cat in a white shirt, and a small pink rabbit in an orange dress. The background is a slightly blurred living room with a grey sofa and white blinds.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "品牌徽标设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Brand Logo Design Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:30:36.960Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_b6bce82d85",
+      "value": "品牌徽标设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-143",
+      "originalId": "case-143",
+      "authors": [
+        {
+          "name": "Gc_qube",
+          "url": "https://x.com/Gc_qube"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5912
+        }
+      ],
+      "rawSource": "[@Gc\\_qube](https://x.com/Gc_qube)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_38616ca9fcd8a391",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case143.jpg",
+      "upstreamPath": "../data/images/case143.jpg",
+      "localPath": "public/assets/prompt_61b1529a3b016b0b6399/84a44e1a5975.jpg",
+      "alt": "{argument name=",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "品牌",
+      "徽标"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "prompt_7ee64a94d8cec9c4c898",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A highly detailed anime illustration of a fierce female warrior with long flowing {argument name=\"hair color\" default=\"black\"} hair and piercing {argument name=\"eye color\" default=\"blue\"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name=\"outfit color\" default=\"blue and white\"} tunic. She is captured in a dynamic combat stance, swinging a massive, {argument name=\"weapon type\" default=\"segmented metallic whip-sword\"} that curves dramatically into the extreme foreground. The weapon leaves a sweeping trail of kinetic energy and wind. The scene is set against a {argument name=\"background setting\" default=\"ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind\"} under a dramatic cloudy sky. The artwork features cinematic lighting, intense action, and a dramatic forced perspective on the weapon.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "动漫插画创作图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a729c2c261",
+      "value": "动漫插画创作图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-113",
+      "originalId": "case-113",
+      "authors": [
+        {
+          "name": "REd8358",
+          "url": "https://x.com/REd8358"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4258
+        }
+      ],
+      "rawSource": "[@REd8358](https://x.com/REd8358)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1d864fa5f822e5fe",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case113.jpg",
+      "upstreamPath": "../data/images/case113.jpg",
+      "localPath": "public/assets/prompt_7ee64a94d8cec9c4c898/ff8b22eab297.jpg",
+      "alt": "hair color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

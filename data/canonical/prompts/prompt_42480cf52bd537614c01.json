@@ -1,0 +1,109 @@
+{
+  "id": "prompt_42480cf52bd537614c01",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed vertical Taoist esoteric infographic poster in the style of an ancient Chinese religious scroll, printed on aged beige rice paper with fine ornamental borders, inked calligraphy, faded stains, and classical diagram annotations. At the top center, large black brush-calligraphy title text reads {argument name=\"headline text\" default=\"道·三魂七魄\"}. Directly below the title is a smaller paragraph of classical Chinese explanatory text in neat calligraphy. The composition is perfectly symmetrical and centered on a glowing vertical spiritual axis made of white-gold energy, mist, and lightning-like qi currents running from the bottom of the page to the heavens. At the very top, above the axis, depict 3 seated Taoist immortals or deities on clouds in a golden celestial realm, arranged left, center, and right, with halos and flowing robes in muted green, cream, and blue. Beneath them, create a towering multi-layered cosmological body diagram made of 9 stacked circular realms or platforms connected by swirling clouds and luminous energy. The upper 5 larger realms represent the five zang organs as miniature mythic landscapes: 1 forested green realm labeled liver/wood, 1 fiery red-gold temple city realm labeled heart/fire, 1 yellow earth realm with terraces labeled spleen/earth, 1 silver-blue mountain-and-water realm labeled lung/metal, and 1 dark blue watery abyss realm labeled kidney/water. Place a glowing meditating figure in a bright orb at the center junction between the upper organ realms and lower spirit layers. Below these, add 7 progressively darker circular underworld-like realms for the seven po souls, each densely populated with tiny scenes of human figures, spirits, beasts, ritual activity, suffering, temptation, conflict, and karmic symbolism, all wrapped by drifting smoke and energy ribbons. At the very bottom, show a seated human figure in meditation within a root-like cavern or corporeal foundation, surrounded by chains, rocks, and embodied worldly attachments. Around the central column, include exactly 9 labeled side panels and diagrams in traditional Chinese layout: top left a bagua and yin-yang cosmology circle; top right a dotted numerological or constellation-like chart; left upper a boxed list for 3 souls; right upper a boxed list for 7 po souls; left middle a five-elements relationship diagram with 5 colored nodes; right middle a circular essence-qi-spirit cycle diagram with 3 nodes; left lower a vertical boxed list of 7 categories or stages; right lower a boxed correspondence table; bottom left a five-direction and five-element human-body relation chart; bottom right a standing and seated meridian or cultivation body diagram. Use many small Chinese labels throughout every section, with classical seal stamps in red. The overall palette is antique parchment, sepia ink, muted jade, cinnabar red, smoky gray, gold, teal, and indigo. The style should feel like a museum-quality Daoist metaphysical chart, ultra intricate, hand-painted gongbi plus ink wash illustration, sacred, mystical, scholarly, dense with symbolism, extremely fine linework, soft cloud layering, and high-resolution poster design.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一幅高度详细的垂直道教神秘信息图表海报，风格为古代中国宗教卷轴，印在带有精美装饰边框的陈米色宣纸上，有书法墨迹、褪色污渍和古典图表注释。顶部中央，大号黑色书法标题文字为{argument name=\"headline text\" default=\"道·三魂七魄\"}。标题正下方是一段较小的楷书古典中文解释文字。构图完全对称，以一个由白金色能量、雾气和类似闪电的气流组成的发光垂直精神轴为中心，从页面底部延伸至天空。在最顶部，轴线上方，描绘三位端坐的道教仙人或神明，位于金色天界的云朵上，左、中、右排列，带有柔和的绿色、奶油色和蓝色的光环和飘逸长袍。在他们下方，创建一个由9个堆叠的圆形领域或平台组成的宏伟多层宇宙身体图，通过旋转的云朵和发光能量连接。上方5个较大的领域代表五脏，作为微型神话景观：1个标记为肝/木的森林绿色领域，1个标记为心/火的炽热红金色寺庙城市领域，1个标记为脾/土的带有梯田的黄色土领域，1个标记为肺/金的银蓝色山水领域，和1个标记为肾/水的深蓝色水域深渊领域。在上部器官领域和下部精神层之间的中心连接处，放置一个发光的冥想人物，位于明亮的光球中。在这些下方，添加7个逐渐变暗的圆形冥界般领域，代表七个魄魂，每个领域都密集分布着微小场景，包括人物、精灵、野兽、仪式活动、苦难、诱惑、冲突和业力象征，所有这些都由飘动的烟雾和能量带环绕。在最底部，展示一个在冥想中的人类坐像，位于根状洞穴或物质基础内，周围环绕着锁链、岩石和具象化的世俗执着。围绕中央柱体，精确包含9个标记的侧面板和图表，采用传统中国布局：左上为八卦和阴阳宇宙学圆圈；右上为点状数字学或星座状图表；左上为3个魂的方框列表；右上为7个魄魂的方框列表；左中为带有5个彩色节点的五行关系图；右中为带有3个节点的圆形精气神循环图；左下为7个类别或阶段的垂直方框列表；右下为方框对应表；左下为五方五行人体关系图；右下为站姿和坐姿经络或修炼身体图。在每个部分使用许多小型中文标签，配有红色古典印章。整体色调为古羊皮纸、棕褐色墨水、柔和的翡翠、朱砂红、烟雾灰、金色、蓝绿色和靛蓝色。风格应感觉像博物馆级别的道教形而上学图表，极其精细，工笔画加水墨画插图，神圣、神秘、学术性、象征密集、线条极其精细、柔和的云层叠加和高分辨率海报设计。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:08:44.208Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Taoist Three Souls Seven Po Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "道教三魂七魄海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:07:44.284Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/leyu37829/status/2048125950681075833",
+      "originalId": "case-120",
+      "authors": [
+        {
+          "name": "leyu37829",
+          "url": "https://x.com/leyu37829"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1209
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_191789c53199f0c2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case120/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case120/output.jpg",
+      "localPath": "public/assets/prompt_42480cf52bd537614c01/c36e4a072a34.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "chart",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.554Z"
+  }
+}

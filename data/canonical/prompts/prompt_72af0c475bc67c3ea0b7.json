@@ -1,0 +1,148 @@
+{
+  "id": "prompt_72af0c475bc67c3ea0b7",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "[CORE TASK]\r\nTransform the provided input image into a pose-and-light analysis sheet.\r\n\r\nThis is NOT a finished character illustration.\r\nThis is NOT a clothing sheet.\r\nThis is NOT a beauty-preserving redraw.\r\n\r\nThis is a white-line rough mannequin conversion.\r\n\r\n[PRIMARY GOAL]\r\nExtract and visualize only:\r\n- pose structure\r\n- body balance\r\n- camera angle\r\n- body line flow\r\n- inferred light source placement\r\n- illuminated areas and light intensity\r\n\r\n[INPUT ROLE]\r\nUse the provided image as the strict anchor for:\r\n- pose\r\n- camera angle\r\n- body tilt\r\n- weight distribution\r\n- approximate lighting situation\r\n\r\nDo NOT preserve:\r\n- face rendering\r\n- hairstyle rendering\r\n- clothing detail\r\n- accessories\r\n- weapon detail\r\n- background architecture\r\n- character identity\r\n- emotional expression\r\n\r\n[FIGURE CONVERSION]\r\nsingle rough mannequin-like human figure\r\nwhite body contour lines\r\nwhite internal construction lines\r\nsimple mannequin head\r\nno face\r\nno eyes\r\nno mouth\r\nno eyelashes\r\nno personality\r\nno individual identity\r\n\r\nhuman figure should look like:\r\n- rough pose mannequin\r\n- anatomy proxy\r\n- line-based body guide\r\n- structural sketch\r\n- white-line rough dummy\r\n\r\nkeep:\r\n- pose readability\r\n- silhouette flow\r\n- head tilt\r\n- torso direction\r\n- pelvis direction\r\n- limb placement\r\n\r\n[BACKGROUND]\r\npure black background\r\nnegative-style dark field\r\nno scenery\r\nno props\r\nno architecture\r\nno environmental storytelling\r\n\r\n[LINE STYLE]\r\nrough white line drawing\r\nclean but sketch-like\r\nconstruction-line feeling\r\nanatomy guide lines visible\r\njoint flow visible\r\nbody contour emphasized\r\nno polished illustration finish\r\n\r\n[LIGHT ESTIMATION]\r\npredict the likely light source positions from the input image\r\nvisualize the light sources and illuminated areas using green glow only\r\n\r\nuse green light intensity with variation:\r\n- strongest green where the light directly hits\r\n- medium green for wrap light\r\n- soft green for reflected or fading light\r\n\r\nmark the estimated light sources with labels and arrows such as:\r\n- Main Light\r\n- Rim Light\r\n- Fill Light\r\n- Floor Bounce\r\n- Back Light\r\nonly if appropriate\r\n\r\nIMPORTANT:\r\ndo not invent random lights\r\ninfer lighting from the original input image\r\nif the lighting is ambiguous, keep the annotations simple and plausible\r\n\r\n[GREEN LIGHT VISUALIZATION]\r\nshow green glow on:\r\n- head / skull plane\r\n- neck\r\n- shoulders\r\n- chest plane\r\n- ribcage direction\r\n- pelvis edge\r\n- thigh planes\r\n- knee contact points\r\n- floor contact bounce if applicable\r\n\r\nuse green light not as decoration,\r\nbut as lighting analysis information\r\n\r\n[POSE PRIORITY]\r\n1. preserve pose structure\r\n2. preserve camera angle\r\n3. preserve body balance\r\n4. preserve head-torso relationship\r\n5. visualize likely light direction\r\n6. show illuminated areas with readable green intensity variation\r\n\r\n[NEGATIVE]\r\nfinished person,\r\ncute girl,\r\ndetailed face,\r\nhair rendering,\r\nclothing rendering,\r\nweapon emphasis,\r\nbeautiful anatomy",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "图像生成案例图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_fcd1c22136",
+      "value": "图像生成案例图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-78",
+      "originalId": "case-78",
+      "authors": [
+        {
+          "name": "WOZ1Tx2JZ3kCeBj",
+          "url": "https://x.com/WOZ1Tx2JZ3kCeBj"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2527
+        }
+      ],
+      "rawSource": "[@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-79",
+      "originalId": "case-79",
+      "authors": [
+        {
+          "name": "WOZ1Tx2JZ3kCeBj",
+          "url": "https://x.com/WOZ1Tx2JZ3kCeBj"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2678
+        }
+      ],
+      "rawSource": "[@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-80",
+      "originalId": "case-80",
+      "authors": [
+        {
+          "name": "WOZ1Tx2JZ3kCeBj",
+          "url": "https://x.com/WOZ1Tx2JZ3kCeBj"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2829
+        }
+      ],
+      "rawSource": "[@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6841eabdce09499e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case78.jpg",
+      "upstreamPath": "../data/images/case78.jpg",
+      "localPath": "public/assets/prompt_72af0c475bc67c3ea0b7/aa2084e422e0.jpg",
+      "alt": "[CORE TASK]\r\nTransform the...",
+      "status": "pending"
+    },
+    {
+      "id": "asset_af6dd8b32b932635",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case79.jpg",
+      "upstreamPath": "../data/images/case79.jpg",
+      "localPath": "public/assets/prompt_72af0c475bc67c3ea0b7/c46d02634c7b.jpg",
+      "alt": "[CORE TASK]\r\nTransform the...",
+      "status": "pending"
+    },
+    {
+      "id": "asset_81f6387d537d8eff",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case80.jpg",
+      "upstreamPath": "../data/images/case80.jpg",
+      "localPath": "public/assets/prompt_72af0c475bc67c3ea0b7/29af20bb799d.jpg",
+      "alt": "[CORE TASK]\r\nTransform the...",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "prompt_01366babfdabc555eee6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background. Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing). Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene. Use a soft pastel color palette (white base with pink, peach, blue accents). Keep the frame visually rich and filled but balanced and clean. Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful. The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "对称设计，两只优雅的蓝孔雀，带有精致的羽毛图案，周围环绕着蓝色花卉元素，精致的复古植物装饰，柔和的米色背景，丰富的海军蓝和天蓝色细节的古典花卉装饰风格，装饰艺术插图 --ar 3:2",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:19.860Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Cozy Scrapbook Mini Alter Egos",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "孔雀植物复古对称艺术版画",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:16.789Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/gold_force_guri/status/2050433982756721029",
+      "originalId": "case-79",
+      "authors": [
+        {
+          "name": "gold_force_guri",
+          "url": "https://x.com/gold_force_guri"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 738
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6b27756866bcd1c8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case79/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case79/output.jpg",
+      "localPath": "public/assets/prompt_01366babfdabc555eee6/53418c883958.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T17:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.548Z"
+  }
+}

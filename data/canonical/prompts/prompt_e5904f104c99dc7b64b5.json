@@ -1,0 +1,80 @@
+{
+  "id": "prompt_e5904f104c99dc7b64b5",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张言叶之庭2026年4月19日单日日历",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a single-day calendar for The Garden of Words on April 19, 2026",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "言叶之庭春雨绿意单日历",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_431ab78709",
+      "value": "言叶之庭春雨绿意单日历",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-251",
+      "originalId": "case-251",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2745
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6d42d482cb4165ee",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case251.jpg",
+      "upstreamPath": "../data/images/case251.jpg",
+      "localPath": "public/assets/prompt_e5904f104c99dc7b64b5/a186539c85e2.jpg",
+      "alt": "言叶之庭春雨绿意单日历",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

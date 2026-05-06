@@ -1,0 +1,175 @@
+{
+  "id": "prompt_9da6fccbcf7a85c7945d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Minimalist commercial ad featuring {argument name=\"product\" default=\"oversized white perfume bottle\"}, ultra-clean design. A young woman in all-white outfit leans casually against the giant bottle, relaxed confident pose, eyes closed, holding the same perfume bottle in her hand. Soft gradient blue background with large bold white “{argument name=\"brand\" default=\"CHANEL\"}” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “{argument name=\"tagline\" default=\"Elegance in every drop\"}.”",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "极简主义商业广告，主角为 {argument name=\"product\" default=\"超大号白色香水瓶\"}，设计极其简洁。一位身着全白套装的年轻女性随意地倚靠在巨大的香水瓶旁，姿态放松且自信，闭着双眼，手中拿着同款香水瓶。背景为柔和的渐变蓝色，后方印有醒目的大号白色 “{argument name=\"brand\" default=\"CHANEL\"}” 字样。地面具有光泽感和反射效果，采用柔和的影棚灯光，呈现出现代高端时尚/产品摄影风格。右上角有小字 “Designed by Mr Das”。底部居中处为白色小字标语：“{argument name=\"tagline\" default=\"Elegance in every drop\"}。”",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Anuncio comercial minimalista con {argument name=\"product\" default=\"frasco de perfume blanco de gran tamaño\"}, diseño ultra limpio. Una mujer joven con un atuendo completamente blanco se apoya casualmente contra el frasco gigante, pose relajada y segura, ojos cerrados, sosteniendo el mismo frasco de perfume en su mano. Fondo azul con degradado suave con el texto grande y en negrita “{argument name=\"brand\" default=\"CHANEL\"}” en blanco detrás. Piso reflectante brillante, iluminación de estudio suave, fotografía de moda/producto moderna de alta gama. Texto pequeño en la parte superior derecha “Designed by Mr Das”. Lema en el centro inferior en fuente blanca pequeña: “{argument name=\"tagline\" default=\"Elegancia en cada gota\"}.”",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Minimalistischer Werbespot mit {argument name=\"product\" default=\"übergroßer weißer Parfümflakon\"}, ultra-cleanem Design. Eine junge Frau in einem komplett weißen Outfit lehnt lässig an dem riesigen Flakon, entspannte und selbstbewusste Pose, Augen geschlossen, hält denselben Parfümflakon in der Hand. Sanfter, blauer Farbverlauf im Hintergrund mit großem, fettem, weißem „{argument name=\"brand\" default=\"CHANEL\"}“-Schriftzug dahinter. Glänzender, reflektierender Boden, weiche Studiobeleuchtung, moderne High-End-Mode-/Produktfotografie. Kleiner Text oben rechts: „Designed by Mr Das“. Unten mittig Slogan in kleiner weißer Schrift: „{argument name=\"tagline\" default=\"Elegance in every drop\"}“.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publicité minimaliste mettant en vedette {argument name=\"product\" default=\"un flacon de parfum blanc surdimensionné\"}, design ultra-épuré. Une jeune femme vêtue de blanc s'appuie nonchalamment contre le flacon géant, pose décontractée et confiante, les yeux fermés, tenant le même flacon de parfum à la main. Fond bleu dégradé doux avec le texte « {argument name=\"brand\" default=\"CHANEL\"} » en grandes lettres blanches grasses à l'arrière-plan. Sol réfléchissant brillant, éclairage de studio doux, photographie de mode/produit moderne haut de gamme. Petit texte en haut à droite « Designed by Mr Das ». Slogan centré en bas en petite police blanche : « {argument name=\"tagline\" default=\"L'élégance dans chaque goutte\"}. »",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Pubblicità commerciale minimalista con {argument name=\"product\" default=\"flacone di profumo bianco oversize\"}, design ultra-pulito. Una giovane donna con un outfit completamente bianco si appoggia con disinvoltura al flacone gigante, posa rilassata e sicura di sé, occhi chiusi, mentre tiene in mano lo stesso flacone di profumo. Sfondo blu con sfumatura tenue e grande scritta bianca in grassetto “{argument name=\"brand\" default=\"CHANEL\"}” sullo sfondo. Pavimento lucido riflettente, illuminazione da studio soffusa, fotografia di moda/prodotto moderna e di alta gamma. Piccolo testo in alto a destra “Designed by Mr Das”. Tagline al centro in basso in piccolo carattere bianco: “{argument name=\"tagline\" default=\"L'eleganza in ogni goccia\"}.”",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Anúncio comercial minimalista apresentando {argument name=\"product\" default=\"frasco de perfume branco gigante\"}, design ultra clean. Uma jovem vestida inteiramente de branco encosta-se casualmente no frasco gigante, pose relaxada e confiante, olhos fechados, segurando o mesmo frasco de perfume na mão. Fundo azul em degradê suave com o texto grande e em negrito “{argument name=\"brand\" default=\"CHANEL\"}” em branco atrás. Piso reflexivo brilhante, iluminação de estúdio suave, fotografia de moda/produto moderna de alto padrão. Pequeno texto no canto superior direito “Designed by Mr Das”. Tagline centralizada na parte inferior em fonte branca pequena: “{argument name=\"tagline\" default=\"Elegância em cada gota\"}.”",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Minimalist Perfume Commercial",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 极简主义香水广告",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Comercial de perfume minimalista",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Minimalistischer Parfüm-Werbespot",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Publicité minimaliste pour parfum",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Pubblicità di profumo minimalista",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Comercial de Perfume Minimalista",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A clean and minimalist commercial advertisement prompt for luxury perfume branding with professional studio lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个适用于奢侈香水品牌推广的简洁极简主义广告提示词，采用专业影棚灯光效果。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt publicitaire épuré et minimaliste pour le branding d'un parfum de luxe avec un éclairage de studio professionnel.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/MrDasOnX/status/2051320489830965611",
+      "originalId": "https://x.com/MrDasOnX/status/2051320489830965611",
+      "authors": [
+        {
+          "name": "Mr Das",
+          "url": "https://x.com/MrDasOnX"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3985
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_06698784c77e28f1",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971005892_vdwm77_HHfBG6eboAAkdDF.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971005892_vdwm77_HHfBG6eboAAkdDF.jpg",
+      "localPath": "public/assets/prompt_9da6fccbcf7a85c7945d/1a2fa587ba8b.jpg",
+      "alt": "Product Marketing - Minimalist Perfume Commercial - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.861Z"
+  }
+}

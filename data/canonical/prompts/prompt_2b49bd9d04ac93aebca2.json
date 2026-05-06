@@ -1,0 +1,99 @@
+{
+  "id": "prompt_2b49bd9d04ac93aebca2",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "请以专业设计师的视角重新设计这个商品广告。\n采用当前的潮流趋势，针对目标受众的精致设计。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "潮流视角重塑精致商品广告",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_f8e6378c44",
+      "value": "潮流视角重塑精致商品广告",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-181",
+      "originalId": "case-181",
+      "authors": [
+        {
+          "name": "genel_ai",
+          "url": "https://x.com/genel_ai/status/2046498264774791514"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 363
+        }
+      ],
+      "rawSource": "[@genel\\_ai](https://x.com/genel_ai/status/2046498264774791514)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2f43a4f6aff29497",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case181.jpg",
+      "upstreamPath": "../data/images/case181.jpg",
+      "localPath": "public/assets/prompt_2b49bd9d04ac93aebca2/c8dfca9ef571.jpg",
+      "alt": "潮流视角重塑精致商品广告",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "product",
+      "商品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

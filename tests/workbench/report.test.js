@@ -1,7 +1,10 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const os = require('node:os');
+const path = require('node:path');
 
-const { summarizeReport } = require('../../scripts/workbench/report');
+const { readReport, summarizeReport } = require('../../scripts/workbench/report');
 
 test('summarizeReport groups severities, codes, translation languages, and asset issues', () => {
   const summary = summarizeReport({
@@ -61,4 +64,24 @@ test('summarizeReport groups severities, codes, translation languages, and asset
   assert.deepEqual(summary.filters.codes, ['asset_not_cached', 'invalid_prompt', 'missing_translation']);
   assert.deepEqual(summary.filters.severities, ['error', 'warning']);
   assert.equal(summary.issues.length, 5);
+});
+
+test('readReport includes latest extraction run summary for the workbench dashboard', () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-report-run-'));
+  fs.mkdirSync(path.join(projectRoot, 'data/reports'), { recursive: true });
+  fs.mkdirSync(path.join(projectRoot, 'data/runs'), { recursive: true });
+  fs.writeFileSync(path.join(projectRoot, 'data/reports/latest.json'), JSON.stringify({
+    generatedAt: '2026-05-06T00:00:00.000Z',
+    issues: []
+  }), 'utf-8');
+  fs.writeFileSync(path.join(projectRoot, 'data/runs/latest.json'), JSON.stringify({
+    id: 'run_20260506T000000000Z',
+    summary: { added: 2, updated: 1, unchanged: 3, removed: 0, total: 6, error: 0, warning: 4, info: 0 }
+  }), 'utf-8');
+
+  const report = readReport(projectRoot);
+
+  assert.equal(report.latestRun.id, 'run_20260506T000000000Z');
+  assert.equal(report.latestRun.summary.added, 2);
+  assert.equal(report.latestRun.summary.updated, 1);
 });

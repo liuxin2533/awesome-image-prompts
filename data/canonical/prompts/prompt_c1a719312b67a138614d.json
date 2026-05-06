@@ -1,0 +1,227 @@
+{
+  "id": "prompt_c1a719312b67a138614d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A Hitman level where you are in the OpenAI HQ and your mission is to steal GPT-6 without getting caught",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个《杀手》关卡：你身处 OpenAI 总部，任务是在不被发现的情况下偷走 GPT-6",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "一個《Hitman》關卡，你人在 OpenAI 總部，任務是在不被抓到的情況下偷走 GPT-6。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "OpenAI 本社に潜入する Hitman のステージ。ミッションは、見つからずに GPT-6 を盗み出すこと。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "OpenAI 본사에 잠입한 Hitman 레벨. 들키지 않고 GPT-6를 훔쳐야 한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un niveau Hitman où vous êtes au siège d'OpenAI et votre mission consiste à voler GPT-6 sans vous faire attraper.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein Hitman-Level, in dem du dich im OpenAI-Hauptquartier befindest und deine Mission darin besteht, GPT-6 zu stehlen, ohne erwischt zu werden.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un nivel de Hitman en el que estás en la sede de OpenAI y tu misión es robar GPT-6 sin que te atrapen.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Hitman Style In-Game Footage",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "《杀手》风格游戏画面",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "《Hitman》風格關卡",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "Hitman 風ゲーム画面",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "Hitman 스타일 미션",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Niveau façon Hitman",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Hitman-Stil Ingame-Szene",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Nivel estilo Hitman",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_27263954ca",
+      "value": "🎮 游戏与娱乐",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_cfebc9acfe",
+      "value": "🎮 遊戲與娛樂",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7c91be168a",
+      "value": "🎮 ゲーム・エンターテインメント",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_716e2fa67b",
+      "value": "🎮 게임과 엔터테인먼트",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "jeu-et-divertissement",
+      "value": "🎮 Jeu et divertissement",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "spiele-und-unterhaltung",
+      "value": "🎮 Spiele und Unterhaltung",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "juegos-y-entretenimiento",
+      "value": "🎮 Juegos y entretenimiento",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/flowersslop/status/2044734896321532390",
+      "originalId": "https://x.com/flowersslop/status/2044734896321532390",
+      "authors": [
+        {
+          "name": "flowersslop",
+          "url": "https://x.com/flowersslop/status/2044734896321532390"
+        },
+        {
+          "name": " @flowersslop ",
+          "url": "https://x.com/flowersslop/status/2044734896321532390"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 184
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 133
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 133
+        },
+        {
+          "file": "README:ja",
+          "line": 133
+        },
+        {
+          "file": "README:ko",
+          "line": 133
+        },
+        {
+          "file": "README:fr",
+          "line": 133
+        },
+        {
+          "file": "README:de",
+          "line": 133
+        },
+        {
+          "file": "README:es",
+          "line": 133
+        }
+      ],
+      "rawSource": "[@flowersslop](https://x.com/flowersslop/status/2044734896321532390)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e4aa78c38d6b3215",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/e89dc393-653c-42e7-87f8-cd7741640f12",
+      "upstreamPath": "https://github.com/user-attachments/assets/e89dc393-653c-42e7-87f8-cd7741640f12",
+      "localPath": "public/assets/prompt_c1a719312b67a138614d/5e59e93463d2.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.601Z"
+  }
+}

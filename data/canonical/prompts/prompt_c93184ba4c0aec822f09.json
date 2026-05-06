@@ -1,0 +1,105 @@
+{
+  "id": "prompt_c93184ba4c0aec822f09",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "用 ABCD（a black cover design) 的风格，为 图你太美 设计一个 vi 系统。图你太美是一个头像美图分享 网站。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "暗黑极简头像网站视觉设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Dark Minimal Avatar Website Visual Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:25:08.175Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3843289702",
+      "value": "暗黑极简头像网站视觉设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-188",
+      "originalId": "case-188",
+      "authors": [
+        {
+          "name": "xiaoxiaodong01",
+          "url": "https://x.com/xiaoxiaodong01/status/2046556758521573546"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 612
+        }
+      ],
+      "rawSource": "[@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_93678bc5743aa10c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case188.jpg",
+      "upstreamPath": "../data/images/case188.jpg",
+      "localPath": "public/assets/prompt_c93184ba4c0aec822f09/372bc4c810ee.jpg",
+      "alt": "暗黑极简头像网站视觉设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

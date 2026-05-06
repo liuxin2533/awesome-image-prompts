@@ -1,0 +1,186 @@
+{
+  "id": "prompt_64f8779eb7f2d56fdd06",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for {argument name=\"toy type\" default=\"TOY / FIGURE / DESIGNER OBJECT\"} shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding. Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.” Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility. Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly. Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in {argument name=\"background style\" default=\"BACKGROUND STYLE\"}, crisp shadows, premium color separation, ultra-sharp details, no watermark.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "2x2 网格，针对历史上 4 位著名科学家执行以下操作：为 {argument name=\"toy type\" default=\"玩具 / 人偶 / 设计师物件\"} 设计一款收藏级发布视觉图，以完美的英雄视角呈现，并配有可替换配件、不同表情、包装设计、比例参考、贴纸细节、稀有度标识以及材质特写。该物件应呈现出奢华感，介于艺术玩具文化与高端产品品牌之间。配件布局：将 [ACCESSORY 1]、[ACCESSORY 2]、[ALT VERSION]、[PACKAGING FEATURE] 和 [LIMITED EDITION DETAIL] 精心排列在人偶周围。整体效果应令人向往、整洁且具有“开箱感”。视觉风格：潮流文化收藏品揭幕与高端电商发布活动的结合。干净、光泽、富有质感，兼具设计师玩具的精致感与昂贵的趣味性。构图指南：英雄人偶保持主体地位。配件应平衡且优雅地分布。包装应可见但不可喧宾夺主。整张图片应让收藏家产生立即截图的冲动。灯光与背景：柔和的商业灯光，带有微妙的镜面高光，背景为 {argument name=\"background style\" default=\"背景风格\"}，阴影清晰，色彩分离高级，细节超锐利，无水印。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Lưới 2x2, thực hiện cho 4 nhà khoa học nổi tiếng trong lịch sử: Thiết kế hình ảnh ra mắt chuẩn sưu tầm cho {argument name=\"toy type\" default=\"ĐỒ CHƠI / MÔ HÌNH / VẬT PHẨM THIẾT KẾ\"} được hiển thị ở dạng chính diện hoàn hảo cùng với các phụ kiện có thể thay thế, biểu cảm thay thế, thiết kế bao bì, tỷ lệ tham chiếu, chi tiết nhãn dán, chỉ số độ hiếm và các điểm nhấn chất liệu cận cảnh. Vật thể cần mang lại cảm giác như một sản phẩm cao cấp, nằm giữa văn hóa đồ chơi nghệ thuật và thương hiệu sản phẩm đẳng cấp. Bố cục phụ kiện: Sắp xếp [PHỤ KIỆN 1], [PHỤ KIỆN 2], [PHIÊN BẢN THAY THẾ], [TÍNH NĂNG BAO BÌ] và [CHI TIẾT PHIÊN BẢN GIỚI HẠN] xung quanh mô hình theo các cụm được dàn dựng cẩn thận. Mọi thứ phải tạo cảm giác đáng khao khát, gọn gàng và \"có thể mở hộp\". Phong cách hình ảnh: Sự kết hợp giữa văn hóa sưu tầm đình đám và chiến dịch ra mắt thương mại điện tử cao cấp. Sạch sẽ, bóng bẩy, chân thực, mang nét tinh tế của đồ chơi thiết kế với cảm quan vui nhộn nhưng đắt giá. Hướng dẫn bố cục: Mô hình chính vẫn là tâm điểm. Các phụ kiện cần được cân bằng và giãn cách thanh lịch. Bao bì nên hiển thị rõ nhưng không làm lu mờ chủ thể chính. Toàn bộ hình ảnh phải tạo cảm giác như một sản phẩm mà các nhà sưu tập sẽ muốn chụp màn hình ngay lập tức. Ánh sáng & Nền: Ánh sáng thương mại dịu nhẹ với các điểm nhấn phản chiếu tinh tế, nền được đánh bóng theo {argument name=\"background style\" default=\"PHONG CÁCH NỀN\"}, đổ bóng sắc nét, phân tách màu sắc cao cấp, chi tiết siêu sắc nét, không có hình mờ.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cuadrícula de 2x2, haz esto para 4 científicos famosos de la historia: Diseña un visual de lanzamiento de grado coleccionista para {argument name=\"toy type\" default=\"JUGUETE / FIGURA / OBJETO DE DISEÑADOR\"} mostrado en una forma impecable de producto estrella junto con accesorios intercambiables, expresiones alternativas, diseño de empaque, referencias de escala, detalles de calcomanías, indicadores de rareza y resaltes de materiales en primer plano. El objeto debe sentirse como un lanzamiento de lujo, en algún punto entre la cultura de los art toys y el branding de productos de élite. Disposición de accesorios: Organiza [ACCESORIO 1], [ACCESORIO 2], [VERSIÓN ALTERNATIVA], [CARACTERÍSTICA DEL EMPAQUE] y [DETALLE DE EDICIÓN LIMITADA] alrededor de la figura en grupos cuidadosamente organizados. Todo debe sentirse deseable, ordenado y listo para el \"unboxing\". Estilo visual: La revelación de un coleccionable de la cultura hype se encuentra con una campaña de lanzamiento de comercio electrónico premium. Sofisticación de juguete de diseñador, limpia, brillante y táctil, con una sensibilidad lúdica pero costosa. Pautas de composición: La figura principal permanece dominante. Los accesorios deben estar equilibrados y espaciados elegantemente. El empaque debe ser visible pero sin robar el protagonismo. Toda la imagen debe sentirse como un producto que los coleccionistas querrían capturar en pantalla al instante. Iluminación y fondo: Iluminación comercial suave con sutiles reflejos especulares, fondo pulido en {argument name=\"background style\" default=\"ESTILO DE FONDO\"}, sombras nítidas, separación de color premium, detalles ultra definidos, sin marca de agua.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "2x2-Raster, erstelle dies für 4 berühmte Wissenschaftler der Geschichte: Entwirf ein hochwertiges Launch-Visual für {argument name=\"toy type\" default=\"SPIELZEUG / FIGUR / DESIGNER-OBJEKT\"} in makelloser Hero-Form, zusammen mit austauschbarem Zubehör, alternativen Gesichtsausdrücken, Verpackungsdesign, Größenvergleichen, Sticker-Details, Seltenheitsmerkmalen und Nahaufnahmen der Materialbeschaffenheit. Das Objekt sollte sich wie ein Luxus-Drop anfühlen, irgendwo zwischen Art-Toy-Kultur und exklusivem Produktbranding. Zubehör-Layout: Ordne [ZUBEHÖR 1], [ZUBEHÖR 2], [ALTE VERSION], [VERPACKUNGS-FEATURE] und [LIMITIERTE EDITION-DETAIL] in sorgfältig arrangierten Clustern um die Figur an. Alles sollte begehrenswert, ordentlich und „auspackbar“ wirken. Visueller Stil: Hype-Culture-Sammlerstück-Enthüllung trifft auf Premium-E-Commerce-Launch-Kampagne. Sauber, glänzend, haptisch, Designer-Toy-Raffinesse mit einer verspielten, aber kostbaren Note. Kompositionsrichtlinien: Die Hero-Figur bleibt dominant. Das Zubehör sollte ausgewogen und elegant platziert sein. Die Verpackung sollte sichtbar sein, aber nicht vom Hauptmotiv ablenken. Das gesamte Bild sollte sich wie ein Produkt anfühlen, das Sammler sofort als Screenshot speichern würden. Beleuchtung & Hintergrund: Weiche kommerzielle Beleuchtung mit subtilen Glanzlichtern, polierter Hintergrund in {argument name=\"background style\" default=\"HINTERGRUNDSTIL\"}, knackige Schatten, erstklassige Farbtrennung, ultra-scharfe Details, kein Wasserzeichen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Grille 2x2, faites ceci pour 4 scientifiques célèbres de l'histoire : Concevez un visuel de lancement de qualité collection pour {argument name=\"toy type\" default=\"JOUET / FIGURINE / OBJET DE DESIGNER\"} présenté sous sa forme héroïque immaculée, accompagné d'accessoires interchangeables, d'expressions alternatives, d'un design d'emballage, de références d'échelle, de détails d'autocollants, d'indicateurs de rareté et de gros plans sur les matériaux. L'objet doit évoquer un produit de luxe, à la croisée de la culture des jouets d'art et du branding de produits d'élite. Disposition des accessoires : Disposez [ACCESSOIRE 1], [ACCESSOIRE 2], [VERSION ALTERNATIVE], [ÉLÉMENT D'EMBALLAGE] et [DÉTAIL ÉDITION LIMITÉE] autour de la figurine dans des groupes soigneusement mis en scène. L'ensemble doit paraître désirable, soigné et prêt à être déballé. Style visuel : Révélation d'objet de collection façon « hype culture » alliée à une campagne de lancement e-commerce premium. Sophistication propre, brillante et tactile propre aux jouets de créateurs, avec une sensibilité à la fois ludique et haut de gamme. Directives de composition : La figurine principale reste dominante. Les accessoires doivent être équilibrés et élégamment espacés. L'emballage doit être visible sans voler la vedette. L'image entière doit donner envie aux collectionneurs de faire une capture d'écran instantanément. Éclairage et arrière-plan : Éclairage commercial doux avec de subtils reflets spéculaires, arrière-plan poli dans {argument name=\"background style\" default=\"STYLE D'ARRIÈRE-PLAN\"}, ombres nettes, séparation des couleurs premium, détails ultra-précis, sans filigrane.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Griglia 2x2, esegui per 4 famosi scienziati della storia: Progetta un visual di lancio da collezione per {argument name=\"toy type\" default=\"GIOCATTOLO / FIGURA / OGGETTO DI DESIGN\"} mostrato in una forma hero impeccabile, insieme ad accessori intercambiabili, espressioni alternative, design del packaging, riferimenti di scala, dettagli degli adesivi, indicatori di rarità e primi piani sui materiali. L'oggetto deve trasmettere l'idea di un lancio di lusso, a metà strada tra la cultura degli art toy e il branding di prodotti d'élite. Disposizione degli accessori: Disponi [ACCESSORIO 1], [ACCESSORIO 2], [VERSIONE ALTERNATIVA], [ELEMENTO DEL PACKAGING] e [DETTAGLIO EDIZIONE LIMITATA] attorno alla figura in gruppi accuratamente organizzati. Tutto deve risultare desiderabile, ordinato e pronto per l'unboxing. Stile visivo: Un mix tra il reveal di un oggetto da collezione hype-culture e una campagna di lancio e-commerce premium. Sofisticatezza da designer toy, pulita, lucida e tattile, con una sensibilità giocosa ma costosa. Linee guida per la composizione: La figura hero deve rimanere dominante. Gli accessori devono essere bilanciati e spaziati con eleganza. Il packaging deve essere visibile senza rubare la scena. L'intera immagine deve apparire come un prodotto che i collezionisti vorrebbero fotografare all'istante. Illuminazione e sfondo: Illuminazione commerciale morbida con sottili riflessi speculari, sfondo lucido in {argument name=\"background style\" default=\"STILE SFONDO\"}, ombre nitide, separazione cromatica premium, dettagli ultra-definiti, nessuna filigrana.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Grade 2x2, faça isso para 4 cientistas famosos da história: Projete um visual de lançamento de nível colecionador para {argument name=\"toy type\" default=\"BRINQUEDO / FIGURA / OBJETO DE DESIGN\"} exibido em uma forma de destaque impecável, juntamente com acessórios intercambiáveis, expressões alternativas, design de embalagem, referências de escala, detalhes de adesivos, indicadores de raridade e destaques de materiais em close-up. O objeto deve transmitir a sensação de um lançamento de luxo, algo entre a cultura de art toys e o branding de produtos de elite. Layout dos Acessórios: Organize [ACESSÓRIO 1], [ACESSÓRIO 2], [VERSÃO ALTERNATIVA], [DETALHE DA EMBALAGEM] e [DETALHE DE EDIÇÃO LIMITADA] ao redor da figura em grupos cuidadosamente organizados. Tudo deve parecer desejável, organizado e pronto para o \"unboxing\". Estilo Visual: Revelação de colecionável da cultura hype encontra campanha de lançamento de e-commerce premium. Sofisticação de designer toy limpa, brilhante e tátil, com uma sensibilidade lúdica, porém luxuosa. Diretrizes de Composição: A figura principal permanece dominante. Os acessórios devem ser equilibrados e espaçados de forma elegante. A embalagem deve estar visível, mas sem roubar a cena. A imagem inteira deve parecer um produto que os colecionadores tirariam um print instantaneamente. Iluminação e Fundo: Iluminação comercial suave com reflexos especulares sutis, fundo polido em {argument name=\"background style\" default=\"ESTILO DE FUNDO\"}, sombras nítidas, separação de cores premium, detalhes ultra nítidos, sem marca d'água.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Limited Edition Designer Toy Launch",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 限量版设计师玩具发布",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình ảnh chính thương mại điện tử - Ra mắt mô hình đồ chơi thiết kế phiên bản giới hạn",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Lanzamiento de juguete de diseñador de edición limitada",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Launch einer limitierten Designer-Toy-Edition",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Lancement de jouets de créateurs en édition limitée",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Lancio di Designer Toy in Edizione Limitata",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Lançamento de Designer Toy de Edição Limitada",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A professional product photography prompt designed to turn any subject into a premium collector-grade art toy, including packaging and accessories.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款专业的摄影提示词，旨在将任何主体转化为优质的收藏级艺术玩具，包含包装和配件展示。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie de produit professionnel conçu pour transformer n'importe quel sujet en un jouet d'art de collection haut de gamme, incluant emballage et accessoires.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Gdgtify/status/2049766203392921897",
+      "originalId": "https://x.com/Gdgtify/status/2049766203392921897",
+      "authors": [
+        {
+          "name": "Gadgetify",
+          "url": "https://x.com/Gdgtify"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4884
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3188c785de4a8462",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777625643776_um1zpu_HG3pPKDaAAAYbLg.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777625643776_um1zpu_HG3pPKDaAAAYbLg.jpg",
+      "localPath": "public/assets/prompt_64f8779eb7f2d56fdd06/9ef0523eeb93.jpg",
+      "alt": "E-commerce Main Image - Limited Edition Designer Toy Launch - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.881Z"
+  }
+}

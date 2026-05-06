@@ -1,0 +1,265 @@
+{
+  "id": "prompt_c6fdd09400be51657da2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a three-day travel guide image for [city]",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 [城市] 生成一张三天旅行指南图像",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "為 [城市] 生成一張三天旅遊指南圖像。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[city] の 3 日間旅行ガイド画像を生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[city] 의 3일 여행 가이드 이미지를 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une image de guide de voyage sur trois jours pour [ville].",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein Drei-Tage-Reiseführerbild für [Stadt].",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una guía visual de viaje de tres días para [ciudad].",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Three-Day Travel Guide Card",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "三日旅行指南卡片",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "三日旅遊指南卡",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "3 日間旅行ガイドカード",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "3일 여행 가이드 카드",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Carte guide de voyage sur trois jours",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Drei-Tage-Reiseführerkarte",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Tarjeta de guía de viaje de tres días",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e156bfaa6d",
+      "value": "📚 信息图、教育与文档",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e5cd4ed1b2",
+      "value": "📚 資訊圖、教育與文件",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a835d8e9f",
+      "value": "📚 インフォグラフィック・教育・文書",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b316df1fa2",
+      "value": "📚 인포그래픽, 교육, 문서",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infographies-education-et-documents",
+      "value": "📚 Infographies, éducation et documents",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografiken-bildung-und-dokumente",
+      "value": "📚 Infografiken, Bildung und Dokumente",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografias-educacion-y-documentos",
+      "value": "📚 Infografías, educación y documentos",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046523494003851300"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 876
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 756
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 569
+        },
+        {
+          "file": "README:ja",
+          "line": 754
+        },
+        {
+          "file": "README:ko",
+          "line": 569
+        },
+        {
+          "file": "README:fr",
+          "line": 569
+        },
+        {
+          "file": "README:de",
+          "line": 569
+        },
+        {
+          "file": "README:es",
+          "line": 569
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046523494003851300)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a72eaa649123cada",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa2KbFXMAAv9Wh?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa2KbFXMAAv9Wh?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c6fdd09400be51657da2/73199996cbd8.jpg",
+      "alt": "City 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_7bde11a7068e0ac6",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa2MQNXUAA-lk8?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa2MQNXUAA-lk8?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c6fdd09400be51657da2/940339f9bb20.jpg",
+      "alt": "City 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_dc2943284040da57",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa2QPdWIAAPxOn?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa2QPdWIAAPxOn?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c6fdd09400be51657da2/b33575c5e936.jpg",
+      "alt": "City 3",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "education",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

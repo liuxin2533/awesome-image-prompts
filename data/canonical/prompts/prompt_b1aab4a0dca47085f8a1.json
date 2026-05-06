@@ -1,0 +1,109 @@
+{
+  "id": "prompt_b1aab4a0dca47085f8a1",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a vintage illustrated travel poster in traditional Chinese for {argument name=\"destination name\" default=\"阿里山國家風景區\"}, designed as a one-day itinerary infographic with a split vertical layout. The left panel is a parchment-textured itinerary card in warm beige with ornate gold Art Nouveau borders and dark brown typography, and the right panel is a dramatic painted fantasy-realism map scene of a mountain journey at sunrise and sunset tones. At the top of the left panel, large headline text reads {argument name=\"headline text\" default=\"阿里山國家風景區一日遊\"}. Beneath it, include a short centered tagline in traditional Chinese: 「一座高山,五個經典景點。難忘的奇幻旅程。」 with a small decorative mountain divider. The left panel must contain exactly 5 numbered itinerary stops stacked vertically, each with a circular black-and-gold number badge, a small vignette illustration, a bold location name, a time in parentheses, and a short Chinese description. The 5 stops are: 1. 「阿里山車站」 at 「(8:00 AM)」 with a wooden mountain railway station illustration and description 「開啟探索神木與森林的旅程。」 2. 「阿里山森林鐵路」 at 「(9:30 AM)」 with a red-and-black steam train illustration and description 「穿越森林,體驗百年林鐵風情。」 3. 「神木區棧道」 at 「(11:30 AM)」 with giant cedar trees and elevated wooden boardwalk illustration and description 「漫步千年巨木下,感受森林靈氣。」 4. 「姊妹潭」 at 「(1:30 PM)」 with a tranquil forest lake and pavilion illustration and description 「欣賞靜謐湖光,聆聽自然樂章。」 5. 「小笠原山展望台」 at 「(4:00 PM)」 with a wooden observation deck above clouds at sunset illustration and description 「觀賞壯闊山景與雲海,欣賞日落。」 The right panel should depict a continuous glowing golden path winding through exactly 5 numbered map markers that match the left panel labels in order, with black-and-gold marker plaques reading: 1 「阿里山車站」, 2 「阿里山森林鐵路」, 3 「神木區棧道」, 4 「姊妹潭」, 5 「小笠原山展望台」. Show stop 1 as a rustic alpine wooden station perched on a cliff among pine forests; stop 2 as a small steam locomotive traveling on a curved mountain railway with smoke drifting upward; stop 3 as towering ancient red cypress trees with a spiral and zigzag wooden walkway around the trunks; stop 4 as an emerald lake surrounded by dense forest with a small pavilion and arched bridge; stop 5 as a lookout deck on a peak above a sea of clouds, facing a glowing sunset. The environment should feature layered mountain ranges, mist-filled valleys, evergreen forests, golden-hour light, luminous cloud seas, and a romantic painterly atmosphere with rich detail. At the bottom right, add a decorative compass rose labeled N, E, S, W, plus a dark green and gold information box with exactly 2 stats in traditional Chinese: 「總距離 ~9公里 / 5.6英里」 and 「預計時間 全天 - 14,500步」. Overall style: premium tourism poster, painterly digital illustration, nostalgic national-park brochure aesthetic, highly detailed, warm sepia and gold accents, elegant composition, readable Chinese text, vertical 2:3 poster.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Field: promptText.translations.zh-CN\n\n创建一个传统中国风格的复古插画旅行海报，目的地为 {argument name=\"destination name\" default=\"阿里山国家风景区\"}，设计为一天行程信息图表，采用垂直分割布局。左侧面板是羊皮纸质感的行程卡，暖米色背景，带有华丽的金色新艺术风格边框和深棕色字体；右侧面板是描绘山间旅程的戏剧性绘画幻想现实主义地图场景，呈现日出和日落色调。在左侧面板顶部，大标题文字为 {argument name=\"headline text\" default=\"阿里山国家风景区一日游\"}。标题下方，包含一句居中的简体中文标语：「一座高山，五个经典景点。难忘的奇幻旅程。」，配有一个小型装饰性山形分隔符。左侧面板必须包含垂直排列的5个编号行程站点，每个站点都有圆形黑金色数字徽章、小型插图、粗体地点名称、括号内的时间和简短中文描述。5个站点如下：1. 「阿里山车站」在「(上午8:00)」，配有木制山地火车站插图和描述「开启探索神木与森林的旅程。」2. 「阿里山森林铁路」在「(上午9:30)」，配有红黑色蒸汽火车插图和描述「穿越森林，体验百年林铁风情。」3. 「神木区栈道」在「(上午11:30)」，配有巨型雪松和 elevated 木制人行道插图和描述「漫步千年巨木下，感受森林灵气。」4. 「姊妹潭」在「(下午1:30)」，配有宁静的森林湖泊和亭子插图和描述「欣赏静谧湖光，聆听自然乐章。」5. 「小笠原山展望台」在「(下午4:00)」，配有日落时云海上方的木制观景台插图和描述「观赏壮阔山景与云海，欣赏日落。」右侧面板应描绘一条连续发光的金色路径，蜿蜒穿过5个与左侧面板标签顺序匹配的编号地图标记，标记上有黑金色铭牌，分别写着：1 「阿里山车站」，2 「阿里山森林铁路」，3 「神木区栈道」，4 「姊妹潭」，5 「小笠原山展望台」。站点1描绘为坐落在松林悬崖上的质朴高山木制车站；站点2为在弯曲山路上行驶的小型蒸汽机车，烟雾向上飘散；站点3为高耸的古老红桧树，树干周围有螺旋形和之字形木制走道；站点4为被茂密森林环绕的翡翠色湖泊，配有小型亭子和拱桥；站点5为云海之上山峰上的观景台，面向发光的日落。环境应包含层叠的山脉、充满薄雾的山谷、常绿森林、黄金时刻的光线、发光的云海，以及具有丰富细节的浪漫绘画氛围。在右下角，添加一个装饰性的罗盘，标记为N、E、S、W，以及一个深绿色和金色的信息框，包含2个简体中文统计数据：「总距离 ~9公里 / 5.6英里」和「预计时间 全天 - 14,500步」。整体风格：高端旅游海报，绘画数字插画，怀旧的国家公园手册美学，高度详细，温暖的棕褐色和金色点缀，优雅的构图，可读的中文文本，垂直2:3海报。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:56.557Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Alishan One-Day Travel Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "阿里山一日游海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:48.430Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/TWnese/status/2048077204786212887",
+      "originalId": "case-129",
+      "authors": [
+        {
+          "name": "TWnese",
+          "url": "https://x.com/TWnese"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1327
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c7c017e2e3baf2cb",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case129/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case129/output.jpg",
+      "localPath": "public/assets/prompt_b1aab4a0dca47085f8a1/26a79d73e727.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

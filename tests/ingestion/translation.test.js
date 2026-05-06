@@ -5,6 +5,7 @@ const os = require('node:os');
 const path = require('node:path');
 
 const { createZhipuProvider, parseArgs, translateMissing } = require('../../scripts/ingestion/translation');
+const { readCanonicalDataset } = require('../../scripts/ingestion/core/persist');
 const { loadProjectEnv } = require('../../scripts/workbench/config');
 
 function writeJson(filePath, data) {
@@ -67,7 +68,7 @@ test('translateMissing fills missing field, category, and tag translations with 
   assert.equal(result.translatedCount, 5);
   assert.equal(calls.length, 5);
 
-  const dataset = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/canonical/prompts.json'), 'utf-8'));
+  const dataset = readCanonicalDataset(projectRoot);
   const prompt = dataset.prompts[0];
 
   assert.equal(prompt.promptText.translations['zh-CN'].value, '[zh-CN] Make a poster');
@@ -100,7 +101,7 @@ test('translateMissing skips existing upstream translations unless force is true
     provider: async () => 'AI title'
   });
 
-  const dataset = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/canonical/prompts.json'), 'utf-8'));
+  const dataset = readCanonicalDataset(projectRoot);
   assert.equal(dataset.prompts[0].title.translations['zh-CN'].value, '上游标题');
   assert.equal(dataset.prompts[0].title.translations['zh-CN'].source, 'upstream');
 });
@@ -182,7 +183,7 @@ test('translateMissing can target one prompt field by prompt id and field path',
   assert.equal(calls[0].promptId, second.id);
   assert.equal(calls[0].fieldPath, 'title.translations.zh-CN');
 
-  const dataset = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/canonical/prompts.json'), 'utf-8'));
+  const dataset = readCanonicalDataset(projectRoot);
   assert.equal(dataset.prompts[0].title.translations['zh-CN'], undefined);
   assert.equal(dataset.prompts[1].title.translations['zh-CN'].value, '第二个标题');
 });

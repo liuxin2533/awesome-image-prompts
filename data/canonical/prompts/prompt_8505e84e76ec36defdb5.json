@@ -1,0 +1,176 @@
+{
+  "id": "prompt_8505e84e76ec36defdb5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A polished studio head-and-shoulders LinkedIn profile portrait of a {argument name=\"subject gender\" default=\"man\"} centered in frame, facing straight toward the camera with a neutral, confident expression, cropped from the upper chest to just above the head. He has short {argument name=\"hair color\" default=\"dark brown\"} hair with a slightly textured top, visible ears, and light stubble beard along the jaw and chin. He wears 2 clothing layers: a dark charcoal tailored blazer over a plain white crew-neck t-shirt. The background is a deep black seamless studio backdrop with a subtle soft vignette and no visible props. Use professional corporate portrait photography styling, soft directional key light from above and slightly to one side, gentle rim separation on the shoulders and hair, realistic skin texture, sharp focus on clothing and neck, shallow depth of field, high contrast, clean premium retouching, natural color grading, and a modern executive-yet-approachable look suitable for a {argument name=\"platform\" default=\"LinkedIn\"} profile photo. Compose it symmetrically, minimal and elegant, with the subject isolated against the dark background, photographed as if with an 85mm lens in a high-end studio.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张精致的摄影棚风格 LinkedIn 职业半身肖像，{argument name=\"subject gender\" default=\"男士\"} 位于画面中央，正对镜头，表情中性且自信，构图从胸部上方截取至头部上方。他留着短款 {argument name=\"hair color\" default=\"深棕色\"} 发型，顶部略带纹理，双耳可见，下颌和下巴处留有淡淡的胡茬。身着两层服装：深炭灰色定制西装外套，内搭纯白色圆领 T 恤。背景为深黑色无缝摄影棚幕布，带有微妙的柔和暗角，无可见道具。采用专业企业肖像摄影风格，从上方及侧上方提供柔和的定向主光，肩部和头发处有柔和的轮廓光，皮肤纹理真实，服装和颈部焦点清晰，浅景深，高对比度，精致的高级修图，自然的色彩分级，呈现出适合 {argument name=\"platform\" default=\"LinkedIn\"} 头像的现代行政风格且平易近人的形象。构图对称、简约且优雅，主体在深色背景下突出，如同使用 85mm 镜头在高端摄影棚中拍摄。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un retrato pulido de estudio de cabeza y hombros para LinkedIn de un {argument name=\"subject gender\" default=\"hombre\"} centrado en el encuadre, mirando directamente a la cámara con una expresión neutral y segura, recortado desde la parte superior del pecho hasta justo encima de la cabeza. Tiene el cabello corto de color {argument name=\"hair color\" default=\"castaño oscuro\"} con una textura ligera en la parte superior, orejas visibles y una barba incipiente a lo largo de la mandíbula y la barbilla. Viste 2 capas de ropa: un blazer entallado de color gris carbón sobre una camiseta básica de cuello redondo blanca. El fondo es un telón de estudio negro profundo sin costuras con una viñeta suave y sutil, sin accesorios visibles. Utiliza un estilo de fotografía de retrato corporativo profesional, luz principal direccional suave desde arriba y ligeramente hacia un lado, una suave separación de borde en los hombros y el cabello, textura de piel realista, enfoque nítido en la ropa y el cuello, profundidad de campo reducida, alto contraste, retoque premium limpio, gradación de color natural y un aspecto ejecutivo moderno pero accesible, adecuado para una foto de perfil de {argument name=\"platform\" default=\"LinkedIn\"}. Compuesto de forma simétrica, minimalista y elegante, con el sujeto aislado contra el fondo oscuro, fotografiado como si fuera con un lente de 85 mm en un estudio de alta gama.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein hochwertiges LinkedIn-Porträt im Studio-Stil (Kopf- und Schulteraufnahme) einer {argument name=\"subject gender\" default=\"Person\"}, zentriert im Bild, frontal zur Kamera blickend mit einem neutralen, selbstbewussten Ausdruck, zugeschnitten von der oberen Brust bis knapp über den Kopf. Die Person hat kurzes {argument name=\"hair color\" default=\"dunkelbraunes\"} Haar mit leicht texturierter Oberseite, sichtbaren Ohren und einem leichten Bartschatten entlang der Kieferpartie und des Kinns. Sie trägt zwei Kleidungsschichten: einen maßgeschneiderten, dunkelanthrazitfarbenen Blazer über einem schlichten weißen T-Shirt mit Rundhalsausschnitt. Der Hintergrund ist ein tiefschwarzer, nahtloser Studiohintergrund mit einer dezenten, weichen Vignette ohne sichtbare Requisiten. Verwenden Sie den Stil professioneller Business-Porträtfotografie, weiches, gerichtetes Hauptlicht von oben und leicht von der Seite, sanfte Konturenbeleuchtung an Schultern und Haar, realistische Hauttextur, scharfer Fokus auf Kleidung und Hals, geringe Schärfentiefe, hoher Kontrast, saubere Premium-Retusche, natürliches Color Grading und einen modernen, seriösen und dennoch nahbaren Look, der für ein {argument name=\"platform\" default=\"LinkedIn\"}-Profilbild geeignet ist. Symmetrisch komponiert, minimalistisch und elegant, wobei das Motiv vor dem dunklen Hintergrund isoliert ist, fotografiert wie mit einem 85-mm-Objektiv in einem High-End-Studio.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un portrait professionnel soigné de type buste pour LinkedIn d'un {argument name=\"subject gender\" default=\"homme\"} centré dans le cadre, faisant face à l'appareil photo avec une expression neutre et confiante, cadré du haut de la poitrine jusqu'au-dessus de la tête. Il a des cheveux courts {argument name=\"hair color\" default=\"brun foncé\"} avec une texture légère sur le dessus, les oreilles visibles et une barbe de trois jours légère le long de la mâchoire et du menton. Il porte deux couches de vêtements : un blazer ajusté gris anthracite sur un t-shirt blanc à col rond simple. L'arrière-plan est un fond de studio noir profond sans couture avec une légère vignette douce et aucun accessoire visible. Utilisez un style de photographie de portrait d'entreprise professionnel, une lumière principale directionnelle douce venant du haut et légèrement sur le côté, une séparation lumineuse délicate sur les épaules et les cheveux, une texture de peau réaliste, une mise au point nette sur les vêtements et le cou, une faible profondeur de champ, un contraste élevé, une retouche premium propre, une colorimétrie naturelle et un look moderne, à la fois exécutif et accessible, adapté à une photo de profil {argument name=\"platform\" default=\"LinkedIn\"}. Composez l'image de manière symétrique, minimaliste et élégante, avec le sujet isolé sur le fond sombre, photographié comme avec un objectif 85 mm dans un studio haut de gamme.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Un raffinato ritratto professionale per LinkedIn, inquadratura dal petto in su, di un {argument name=\"subject gender\" default=\"uomo\"} centrato nell'inquadratura, rivolto direttamente verso la fotocamera con un'espressione neutra e sicura, ritagliato dal petto fino a poco sopra la testa. Ha capelli corti di colore {argument name=\"hair color\" default=\"castano scuro\"} con una texture leggera sulla parte superiore, orecchie visibili e una leggera barba incolta lungo la mascella e il mento. Indossa due strati di abbigliamento: un blazer sartoriale grigio antracite sopra una semplice t-shirt bianca a girocollo. Lo sfondo è un fondale da studio nero profondo e senza giunture, con una sottile vignettatura morbida e nessun oggetto visibile. Utilizza uno stile fotografico da ritratto aziendale professionale, luce principale direzionale morbida dall'alto e leggermente di lato, delicata separazione dei contorni sulle spalle e sui capelli, texture della pelle realistica, messa a fuoco nitida sull'abbigliamento e sul collo, profondità di campo ridotta, contrasto elevato, ritocco pulito di alta qualità, color grading naturale e un look moderno, esecutivo ma accessibile, adatto per una foto profilo {argument name=\"platform\" default=\"LinkedIn\"}. Composizione simmetrica, minimale ed elegante, con il soggetto isolato sullo sfondo scuro, fotografato come con un obiettivo da 85mm in uno studio di alto livello.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Um retrato profissional de estúdio, do tipo busto, para LinkedIn, de um {argument name=\"subject gender\" default=\"homem\"} centralizado no quadro, olhando diretamente para a câmera com uma expressão neutra e confiante, enquadrado do peito para cima. Ele tem cabelo curto {argument name=\"hair color\" default=\"castanho escuro\"} com uma textura leve no topo, orelhas visíveis e uma barba por fazer leve ao longo da mandíbula e do queixo. Ele veste duas camadas de roupa: um blazer sob medida cinza-chumbo sobre uma camiseta básica branca de gola careca. O fundo é um cenário de estúdio preto profundo e sem emendas, com uma vinheta suave e discreta e sem objetos visíveis. Use um estilo de fotografia de retrato corporativo profissional, luz principal direcional suave vindo de cima e levemente de um lado, separação suave de contorno nos ombros e no cabelo, textura de pele realista, foco nítido nas roupas e no pescoço, profundidade de campo rasa, alto contraste, retoque premium limpo, gradação de cores natural e um visual moderno, executivo e acessível, adequado para uma foto de perfil no {argument name=\"platform\" default=\"LinkedIn\"}. Componha de forma simétrica, minimalista e elegante, com o sujeito isolado contra o fundo escuro, fotografado como se fosse com uma lente de 85mm em um estúdio de alto padrão.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Professional Dark-Background LinkedIn Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 专业深色背景 LinkedIn 职业肖像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Retrato profesional para LinkedIn con fondo oscuro",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Professionelles LinkedIn-Porträt mit dunklem Hintergrund",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Portrait professionnel sur fond sombre pour LinkedIn",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Ritratto professionale per LinkedIn su sfondo scuro",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Retrato Profissional para LinkedIn com Fundo Escuro",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a clean studio-style professional profile headshot commonly used for LinkedIn, corporate bios, and personal branding.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示词可生成简洁的摄影棚风格专业头像，适用于 LinkedIn、公司简介及个人品牌展示。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ce prompt génère une photo de profil professionnelle de style studio, idéale pour LinkedIn, les biographies d'entreprise et le personal branding.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/semihdev/status/2048677307993210889#reversed-0",
+      "originalId": "https://x.com/semihdev/status/2048677307993210889#reversed-0",
+      "authors": [
+        {
+          "name": "Semih Kışlar",
+          "url": "https://x.com/semihdev"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1256
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5d00011753c96fc8",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280787727_qjvj0c_HG5c1BRWsAAJCl_.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280787727_qjvj0c_HG5c1BRWsAAJCl_.jpg",
+      "localPath": "public/assets/prompt_8505e84e76ec36defdb5/fc73c4fa9515.jpg",
+      "alt": "Profile / Avatar - Professional Dark-Background LinkedIn Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.567Z"
+  }
+}

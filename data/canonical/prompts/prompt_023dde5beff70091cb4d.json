@@ -1,0 +1,108 @@
+{
+  "id": "prompt_023dde5beff70091cb4d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"anime character reference sheet\",\r\n  \"character\": {\r\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"真田大助\\\"}\",\r\n    \"appearance\": \"young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\\\"main color\\\" default=\\\"red\\\"} chest plate and guards, {argument name=\\\"secondary color\\\" default=\\\"navy blue\\\"} pleated hakama, white short cape\"\r\n  },\r\n  \"layout\": {\r\n    \"header\": {\r\n      \"title\": \"{argument name=\\\"character name\\\" default=\\\"真田大助\\\"}\",\r\n      \"subtitle\": \"{argument name=\\\"character concept\\\" default=\\\"戦国時代を舞台にした物語の主人公。日英クォーターの若き武将。\\\"}\",\r\n      \"badge\": \"設定資料\"\r\n    },\r\n    \"right_side\": {\r\n      \"main_portrait\": \"large full-body standing pose, confident smile\",\r\n      \"background_elements\": {\r\n        \"emblem\": \"six-coin crest\",\r\n        \"quote\": \"{argument name=\\\"catchphrase\\\" default=\\\"この国を守る。その誇りと共に。\\\"}\",\r\n        \"scenery\": \"monochrome Japanese castle with army banners at the bottom right\"\r\n      }\r\n    },\r\n    \"sections\": [\r\n      {\r\n        \"title\": \"プロフィール\",\r\n        \"position\": \"top-left\",\r\n        \"content\": \"table with 6 rows and descriptive text\"\r\n      },\r\n      {\r\n        \"title\": \"三面図\",\r\n        \"position\": \"mid-left\",\r\n        \"count\": 3,\r\n        \"labels\": [\"正面\", \"側面\", \"背面\"]\r\n      },\r\n      {\r\n        \"title\": \"表情差分\",\r\n        \"position\": \"top-center\",\r\n        \"count\": 6,\r\n        \"labels\": [\"通常\", \"微笑み\", \"真剣\", \"怒り\", \"驚き\", \"考え中\"]\r\n      },\r\n      {\r\n        \"title\": \"衣装・装備詳細\",\r\n        \"position\": \"bottom-left\",\r\n        \"count\": 9,\r\n        \"labels\": [\"胸当て\", \"肩当て\", \"腕甲(籠手)\", \"脚甲(脛当て・膝当て)\", \"革靴\", \"白マント(短)\", \"帯\", \"袴/着物部分\", \"打刀\"]\r\n      },\r\n      {\r\n        \"title\": \"カラーパレット\",\r\n        \"position\": \"bottom-center\",\r\n        \"count\": 8,\r\n        \"labels\": [\"真田赤\", \"濃紺\", \"金\", \"白\", \"茶\", \"茶褐色\", \"肌色\", \"銀\"]\r\n      },\r\n      {\r\n        \"title\": \"世界観\",\r\n        \"position\": \"bottom-center-right\",\r\n        \"content\": \"paragraph of text describing the setting\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"anime character reference sheet\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"Sanada Daisuke\\\"}\",\n    \"appearance\": \"young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\\\"main color\\\" default=\\\"red\\\"} chest plate and guards, {argument name=\\\"secondary color\\\" default=\\\"navy blue\\\"} pleated hakama, white short cape\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"character name\\\" default=\\\"Sanada Daisuke\\\"}\",\n      \"subtitle\": \"{argument name=\\\"character concept\\\" default=\\\"Protagonist of a story set in the Sengoku period. A young warrior of Japanese-British quarter descent.\\\"}\",\n      \"badge\": \"Character Reference Sheet\"\n    },\n    \"right_side\": {\n      \"main_portrait\": \"large full-body standing pose, confident smile\",\n      \"background_elements\": {\n        \"emblem\": \"six-coin crest\",\n        \"quote\": \"{argument name=\\\"catchphrase\\\" default=\\\"I will protect this country. With its pride.\\\"}\",\n        \"scenery\": \"monochrome Japanese castle with army banners at the bottom right\"\n      }\n    },\n    \"sections\": [\n      {\n        \"title\": \"Profile\",\n        \"position\": \"top-left\",\n        \"content\": \"table with 6 rows and descriptive text\"\n      },\n      {\n        \"title\": \"Three-View Drawing\",\n        \"position\": \"mid-left\",\n        \"count\": 3,\n        \"labels\": [\"Front\", \"Side\", \"Back\"]\n      },\n      {\n        \"title\": \"Expression Variations\",\n        \"position\": \"top-center\",\n        \"count\": 6,\n        \"labels\": [\"Normal\", \"Smile\", \"Serious\", \"Angry\", \"Surprised\", \"Thinking\"]\n      },\n      {\n        \"title\": \"Costume & Equipment Details\",\n        \"position\": \"bottom-left\",\n        \"count\": 9,\n        \"labels\": [\"Chest Plate\", \"Shoulder Guards\", \"Arm Guards (Kote)\", \"Leg Guards (Sune-Ate & Knee Guards)\", \"Leather Boots\", \"White Short Cape\", \"Obi Belt\", \"Hakama/Kimono Part\", \"Uchigatana Sword\"]\n      },\n      {\n        \"title\": \"Color Palette\",\n        \"position\": \"bottom-center\",\n        \"count\": 8,\n        \"labels\": [\"Sanada Red\", \"Deep Navy\", \"Gold\", \"White\", \"Brown\", \"Brownish\", \"Skin Color\", \"Silver\"]\n      },\n      {\n        \"title\": \"Worldview\",\n        \"position\": \"bottom-center-right\",\n        \"content\": \"paragraph of text describing the setting\"\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:40:03.331Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "插画艺术创作图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Artistic Illustration Creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:40:07.438Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a46adb8134",
+      "value": "插画艺术创作图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-123",
+      "originalId": "case-123",
+      "authors": [
+        {
+          "name": "Luvune",
+          "url": "https://x.com/Luvune"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4731
+        }
+      ],
+      "rawSource": "[@Luvune](https://x.com/Luvune)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b8131f0c64e2ffc2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case123.jpg",
+      "upstreamPath": "../data/images/case123.jpg",
+      "localPath": "public/assets/prompt_023dde5beff70091cb4d/63c7b7974842.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_a7484ff84640cc0da292",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"dance pose reference sheet\",\"style\":\"clean studio pose chart, photoreal fitness-dance reference, white seamless background, sharp full-body photography, soft even lighting, minimal shadows, thin black grid lines separating panels\",\"subject\":{\"count\":1,\"person\":{\"gender_presentation\":\"female\",\"age_appearance\":\"young adult\",\"build\":\"slim athletic toned dancer\",\"skin_tone\":\"light tan\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"dark brown\\\"}\",\"style\":\"high ponytail with loose strands\"},\"outfit\":{\"count\":3,\"items\":[\"white fitted sports bra or cropped athletic tank\",\"baggy blue-gray jogger pants\",\"white sneakers\"]}}},\"layout\":{\"rows\":4,\"columns\":4,\"total_panels\":16,\"numbering\":\"black panel numbers in the top-left corner of each cell, labeled 1 through 16\",\"sections\":[{\"title\":\"pose grid\",\"position\":\"full page\",\"count\":16,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"]}]},\"poses\":{\"count\":16,\"items\":[{\"panel\":1,\"description\":\"wide stance, knees bent, torso upright, right arm extended straight to the right in a pointing gesture, left arm bent near the body\"},{\"panel\":2,\"description\":\"deep low squat facing forward, feet wide apart, one hand lifted in front of the chest, the other resting near the thigh\"},{\"panel\":3,\"description\":\"low floor-supported pose, leaning back on one hand with hips low, one knee bent under the body, opposite arm stretched diagonally upward\"},{\"panel\":4,\"description\":\"standing on one leg with the other knee raised, one arm curved overhead, opposite arm extended to the right in a strong dance line\"},{\"panel\":5,\"description\":\"deep squat with legs wide, one hand on thigh and the other arm reaching straight upward\"},{\"panel\":6,\"description\":\"light upright pose with one knee lifted and both arms relaxed outward for balance\"},{\"panel\":7,\"description\":\"wide stance with both arms crossed tightly in front of the chest, feet planted apart\"},{\"panel\":8,\"description\":\"low crouch close to the floor, one hand braced on the ground, the other arm crossing the torso\"},{\"panel\":9,\"description\":\"dynamic side-leaning wide stance, one arm bent upward beside the head, opposite arm pointing strongly to the right\"},{\"panel\":10,\"description\":\"compact crouch with weight centered low, one elbow resting near a knee and head tilted slightly downward\"},{\"panel\":11,\"description\":\"deep side lunge with one leg extended long to the side, one hand on the floor and the other arm reaching straight up\"},{\"panel\":12,\"description\":\"upright wide-legged stance, one arm extended vertically overhead, the other hand relaxed near the hip\"},{\"panel\":13,\"description\":\"standing balance pose with one knee raised and both hands held low near the thighs\"},{\"panel\":14,\"description\":\"low horse stance with knees bent wide and forearms crossed in front of the chest\"},{\"panel\":15,\"description\":\"kneeling or very low crouched pose with one hand on the floor and the other resting on the raised knee\"},{\"panel\":16,\"description\":\"high side kick, balancing on one leg while the other leg extends horizontally, both arms bent in a guarded fighting pose\"}]},\"intent\":\"a {argument name=\\\"sheet purpose\\\" default=\\\"dance move sheet chart that can also be used for combat pose reference\\\"}, emphasizing silhouette variety, balance, rhythm, and dynamic athletic body lines\",\"image_size\":\"landscape 16:9\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"舞蹈姿势参考表\",\"style\":\"干净的工作室姿势图表，逼真的健身舞蹈参考，白色无缝背景，清晰的全身摄影，柔和均匀的光线，最少的阴影，分隔面板的细黑网格线\",\"subject\":{\"count\":1,\"person\":{\"gender_presentation\":\"女性\",\"age_appearance\":\"年轻成人\",\"build\":\"苗条健美的舞者身材\",\"skin_tone\":\"浅棕色皮肤\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"dark brown\\\"}\",\"style\":\"高马尾，有散落的发丝\"},\"outfit\":{\"count\":3,\"items\":[\"白色合身运动内衣或裁剪过的运动背心\",\"宽松的蓝灰色慢跑裤\",\"白色运动鞋\"]}}},\"layout\":{\"rows\":4,\"columns\":4,\"total_panels\":16,\"numbering\":\"黑色面板编号在每个格子的左上角，标记为1到16\",\"sections\":[{\"title\":\"姿势网格\",\"position\":\"整页\",\"count\":16,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"]}]},\"poses\":{\"count\":16,\"items\":[{\"panel\":1,\"description\":\"宽站姿，膝盖弯曲，躯干直立，右臂向右伸直做指点姿势，左臂弯曲靠近身体\"},{\"panel\":2,\"description\":\"面向前方的深蹲，双脚分开，一只手抬到胸前，另一只手放在大腿附近\"},{\"panel\":3,\"description\":\"低地板支撑姿势，单手向后支撑，臀部低，一条腿弯曲在身体下方，对侧手臂对角向上伸展\"},{\"panel\":4,\"description\":\"单腿站立，另一条腿抬起，一只手臂弯曲在头顶上方，对侧手臂向右伸展形成有力的舞蹈线条\"},{\"panel\":5,\"description\":\"双腿宽深蹲，一只手放在大腿上，另一只手臂直向上伸展\"},{\"panel\":6,\"description\":\"轻柔的直立姿势，一条腿抬起，双臂向外放松以保持平衡\"},{\"panel\":7,\"description\":\"宽站姿，双臂在胸前交叉，双脚分开站立\"},{\"panel\":8,\"description\":\"靠近地面的低蹲，一只手撑在地上，另一只手臂交叉躯干\"},{\"panel\":9,\"description\":\"动态侧倾宽站姿，一只手臂在头部旁边向上弯曲，对侧手臂强烈指向右侧\"},{\"panel\":10,\"description\":\"紧凑蹲姿，重量集中在低处，一只肘部靠近膝盖，头部略微向下倾斜\"},{\"panel\":11,\"description\":\"深度侧弓步，一条腿向侧面伸展，一只手放在地板上，另一只手臂直向上伸展\"},{\"panel\":12,\"description\":\"直立宽腿站姿，一只手臂垂直向上伸展，另一只手放松地放在臀部附近\"},{\"panel\":13,\"description\":\"站立平衡姿势，一条腿抬起，双手低放在大腿附近\"},{\"panel\":14,\"description\":\"低马步，膝盖宽弯曲，前臂在胸前交叉\"},{\"panel\":15,\"description\":\"跪姿或非常低的蹲姿，一只手放在地板上，另一只手放在抬起的膝盖上\"},{\"panel\":16,\"description\":\"高侧踢，单腿平衡，另一条腿水平伸展，双臂弯曲成防御性战斗姿势\"}]},\"intent\":\"一个{argument name=\\\"sheet purpose\\\" default=\\\"舞蹈动作表，也可用于战斗姿势参考\\\"}，强调轮廓多样性、平衡、节奏和动态运动身体线条\",\"image_size\":\"landscape 16:9\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:05.356Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "16-Panel Dance Pose Reference Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "16格舞蹈姿势参考图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:27:48.144Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ExquisitMe/status/2048143577264402629",
+      "originalId": "case-134",
+      "authors": [
+        {
+          "name": "ExquisitMe",
+          "url": "https://x.com/ExquisitMe"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1402
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8d385a1646f7a9c3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case134/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case134/output.jpg",
+      "localPath": "public/assets/prompt_a7484ff84640cc0da292/8589d9f41d43.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.596Z"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "prompt_b06a0a905d9839aac4fa",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{argument name=\"celebrity\" default=\"selena gomez\"} started a surprise {argument name=\"platform\" default=\"youtube\"} livestream.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{argument name=\"celebrity\" default=\"selena gomez\"} 开始了一场惊喜的 {argument name=\"platform\" default=\"youtube\"} 直播。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:31.206Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Celebrity Livestream Concept",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "名人直播概念",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:32.967Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SelenaGmzIN/status/2047185882009198865",
+      "originalId": "case-95",
+      "authors": [
+        {
+          "name": "SelenaGmzIN",
+          "url": "https://x.com/SelenaGmzIN"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 505
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_60fe6d82102fde5a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case95/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case95/output.jpg",
+      "localPath": "public/assets/prompt_b06a0a905d9839aac4fa/a2af4d48b252.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "youtube"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

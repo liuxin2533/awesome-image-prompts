@@ -1,0 +1,186 @@
+{
+  "id": "prompt_4fba4ab328f0bcd7fc82",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using the provided reference image, turn this casual phone snapshot of the drink into a polished professional beverage photo while keeping the same cup, soda, straw, outdoor theme-park setting, and general composition. Reframe and clean it up so the drink is the clear hero subject, make the cup sharper and more detailed with crisp condensation and sparkling ice, and enhance the Coca-Cola red tones and overall contrast. Apply warm golden-hour commercial lighting with richer highlights and a more cinematic color grade. Increase background blur for a shallow depth-of-field look, simplify visual distractions, and make the people in the background feel more incidental and softly out of focus while preserving the tree, benches, planters, and ferris wheel context. Keep it realistic, like a high-end advertisement shot taken by a professional product photographer.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用提供的参考图，将这张随手拍摄的手机照片转化为专业的饮品大片，同时保留原有的杯子、汽水、吸管、户外主题乐园背景及整体构图。通过重新构图和画面清理，使饮品成为视觉焦点；提升杯子的清晰度与细节，呈现出清脆的凝露和晶莹的冰块；增强 Coca-Cola 的红色调及整体对比度。应用温暖的黄金时刻商业光效，增加高光质感，并进行电影级的调色。增加背景虚化以营造浅景深效果，简化视觉干扰，使背景中的人物显得更加自然且模糊，同时保留树木、长椅、花坛和摩天轮等环境元素。保持画面真实感，呈现出如同专业产品摄影师拍摄的高端广告大片效果。",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ใช้ภาพอ้างอิงที่ให้มา เปลี่ยนภาพถ่ายเครื่องดื่มจากมือถือทั่วไปให้กลายเป็นภาพถ่ายเครื่องดื่มระดับมืออาชีพ โดยยังคงแก้ว โซดา หลอด ธีมสวนสนุกกลางแจ้ง และองค์ประกอบภาพโดยรวมไว้เหมือนเดิม จัดเฟรมใหม่และปรับแต่งให้เครื่องดื่มเป็นจุดเด่นที่ชัดเจน ทำให้แก้วมีความคมชัดและมีรายละเอียดมากขึ้นด้วยหยดน้ำเกาะและน้ำแข็งที่ดูสดใส พร้อมทั้งเพิ่มโทนสีแดงของ Coca-Cola และคอนทราสต์โดยรวมให้โดดเด่นยิ่งขึ้น ใช้แสงแบบโฆษณาในช่วงเวลา Golden Hour ที่ให้ไฮไลท์ที่ดูนุ่มนวลและโทนสีแบบภาพยนตร์ เพิ่มความเบลอของฉากหลังเพื่อให้ได้เอฟเฟกต์หน้าชัดหลังเบลอ ลดสิ่งรบกวนทางสายตา และทำให้ผู้คนที่อยู่ด้านหลังดูเป็นเพียงองค์ประกอบรองที่เบลออย่างนุ่มนวล โดยยังคงบริบทของต้นไม้ ม้านั่ง กระถางต้นไม้ และชิงช้าสวรรค์เอาไว้ ให้ภาพออกมาดูสมจริงเหมือนภาพถ่ายโฆษณาคุณภาพสูงที่ถ่ายโดยช่างภาพสินค้ามืออาชีพ",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Utilizando la imagen de referencia proporcionada, convierte esta instantánea casual de teléfono de la bebida en una foto de bebida profesional y pulida, manteniendo el mismo vaso, refresco, popote, el entorno de parque temático al aire libre y la composición general. Reencuadra y limpia la imagen para que la bebida sea el sujeto protagonista indiscutible; haz que el vaso se vea más nítido y detallado, con condensación definida y hielo brillante, y realza los tonos rojos de Coca-Cola y el contraste general. Aplica una iluminación comercial cálida de hora dorada con luces más intensas y una gradación de color más cinematográfica. Aumenta el desenfoque del fondo para lograr una profundidad de campo reducida, simplifica las distracciones visuales y haz que las personas en el fondo se sientan más incidentales y suavemente desenfocadas, preservando al mismo tiempo el contexto del árbol, las bancas, las jardineras y la rueda de la fortuna. Mantén un aspecto realista, como una toma publicitaria de alta gama realizada por un fotógrafo de productos profesional.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Verwandeln Sie diesen beiläufigen Schnappschuss eines Getränks mithilfe des bereitgestellten Referenzbildes in ein ausgefeiltes, professionelles Getränkefoto, wobei der Becher, das Getränk, der Strohhalm, die Outdoor-Kulisse im Freizeitpark und die allgemeine Komposition beibehalten werden. Richten Sie das Bild neu aus und bereinigen Sie es, damit das Getränk klar als Hauptmotiv hervortritt. Gestalten Sie den Becher schärfer und detailreicher mit klarer Kondensation und funkelndem Eis und verstärken Sie die roten Coca-Cola-Töne sowie den Gesamtkontrast. Wenden Sie eine warme, kommerzielle Beleuchtung zur goldenen Stunde mit satteren Highlights und einem cineastischeren Color Grading an. Erhöhen Sie die Hintergrundunschärfe für einen Look mit geringer Schärfentiefe, reduzieren Sie visuelle Ablenkungen und lassen Sie die Personen im Hintergrund beiläufiger und weicher wirken, während der Kontext mit Baum, Bänken, Pflanzkübeln und Riesenrad erhalten bleibt. Achten Sie auf einen realistischen Look, wie bei einer hochwertigen Werbeaufnahme eines professionellen Produktfotografen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "À partir de l'image de référence fournie, transformez ce cliché pris au smartphone en une photo de boisson professionnelle et soignée, tout en conservant le verre, le soda, la paille, le décor de parc d'attractions en extérieur et la composition générale. Recadrez et nettoyez l'image pour que la boisson soit le sujet principal, rendez le verre plus net et détaillé avec une condensation cristalline et des glaçons étincelants, et rehaussez les tons rouges de Coca-Cola ainsi que le contraste global. Appliquez un éclairage commercial chaleureux de type « golden hour » avec des reflets plus riches et une colorimétrie cinématographique. Accentuez le flou d'arrière-plan pour obtenir une faible profondeur de champ, simplifiez les distractions visuelles et faites en sorte que les personnes en arrière-plan paraissent plus accessoires et floues, tout en préservant le contexte des arbres, des bancs, des jardinières et de la grande roue. Gardez un rendu réaliste, comme s'il s'agissait d'une publicité haut de gamme réalisée par un photographe culinaire professionnel.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Utilizzando l'immagine di riferimento fornita, trasforma questo scatto informale da smartphone in una foto professionale di alta qualità, mantenendo lo stesso bicchiere, la bibita, la cannuccia, l'ambientazione nel parco divertimenti all'aperto e la composizione generale. Riquadra e pulisci l'immagine affinché la bevanda sia il soggetto principale, rendi il bicchiere più nitido e dettagliato con una condensa realistica e ghiaccio scintillante, ed esalta le tonalità rosse della Coca-Cola e il contrasto generale. Applica un'illuminazione commerciale calda tipica dell'ora d'oro, con riflessi più ricchi e una gradazione cromatica più cinematografica. Aumenta la sfocatura dello sfondo per ottenere una profondità di campo ridotta, semplifica le distrazioni visive e rendi le persone sullo sfondo meno evidenti e leggermente fuori fuoco, preservando al contempo il contesto con l'albero, le panchine, le fioriere e la ruota panoramica. Mantieni un aspetto realistico, come uno scatto pubblicitario di alto livello realizzato da un fotografo di prodotto professionista.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Usando a imagem de referência fornecida, transforme esta foto casual de celular da bebida em uma foto profissional e polida, mantendo o mesmo copo, refrigerante, canudo, cenário de parque temático ao ar livre e a composição geral. Reenquadre e limpe a imagem para que a bebida seja o foco principal, torne o copo mais nítido e detalhado com condensação cristalina e gelo brilhante, e realce os tons de vermelho da Coca-Cola e o contraste geral. Aplique uma iluminação comercial quente de 'golden hour' com realces mais ricos e uma gradação de cores mais cinematográfica. Aumente o desfoque do fundo para obter um efeito de profundidade de campo reduzida, simplifique distrações visuais e faça com que as pessoas ao fundo pareçam mais incidentais e suavemente fora de foco, preservando o contexto da árvore, dos bancos, dos vasos de plantas e da roda-gigante. Mantenha o aspecto realista, como uma foto de anúncio de alto padrão tirada por um fotógrafo de produtos profissional.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Professional Drink Photo Enhancement",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 专业饮品照片精修",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ภาพหลักสำหรับอีคอมเมิร์ซ - การปรับแต่งภาพถ่ายเครื่องดื่มระดับมืออาชีพ",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Mejora profesional de fotografías de bebidas",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Professionelle Optimierung von Getränkefotos",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Amélioration professionnelle de photos de boissons",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Miglioramento professionale di foto di bevande",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Aprimoramento Profissional de Fotos de Bebidas",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt transforms a casual reference photo of a beverage into a polished, ad-like product shot for social media, menus, or promotional use.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示词可将随手拍摄的饮品参考图转化为适用于社交媒体、菜单或宣传用途的精美广告级产品照。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ce prompt transforme une photo de référence décontractée d'une boisson en un cliché publicitaire soigné, idéal pour les réseaux sociaux, les menus ou tout usage promotionnel.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/abxxai/status/2048345290043015628#reversed-0",
+      "originalId": "https://x.com/abxxai/status/2048345290043015628#reversed-0",
+      "authors": [
+        {
+          "name": "Abdul Șhakoor",
+          "url": "https://x.com/abxxai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4600
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8be08f1246b3e792",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280788253_wiqap8_HG0vLkbaIAA30oz.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280788253_wiqap8_HG0vLkbaIAA30oz.jpg",
+      "localPath": "public/assets/prompt_4fba4ab328f0bcd7fc82/b018824e72f7.jpg",
+      "alt": "E-commerce Main Image - Professional Drink Photo Enhancement - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-25T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.571Z"
+  }
+}

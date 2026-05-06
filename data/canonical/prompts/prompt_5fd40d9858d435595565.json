@@ -1,0 +1,104 @@
+{
+  "id": "prompt_5fd40d9858d435595565",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"YouTube thumbnail graphic\",\r\n  \"style\": \"anime, edgy, neon pink and black color scheme, grunge and splatter accents\",\r\n  \"character\": {\r\n    \"appearance\": \"anime girl, {argument name=\\\"hair color\\\" default=\\\"silver\\\"} hair, cat ears, purple eyes\",\r\n    \"expression\": \"{argument name=\\\"expression\\\" default=\\\"shocked and sweating\\\"}, mouth open\",\r\n    \"accessories\": \"black cat hairclip with pink cross, black choker with heart ring\",\r\n    \"action\": \"holding a pink smartphone with a swirl logo\"\r\n  },\r\n  \"layout\": {\r\n    \"main_title\": {\r\n      \"position\": \"bottom center\",\r\n      \"style\": \"huge, bold, 3D typography, grunge texture\",\r\n      \"lines\": [\r\n        { \"text\": \"{argument name=\\\"main title top\\\" default=\\\"스레드 논란\\\"}\", \"color\": \"neon pink\" },\r\n        { \"text\": \"{argument name=\\\"main title bottom\\\" default=\\\"읽어드림 ;;\\\"}\", \"color\": \"white\" }\r\n      ]\r\n    },\r\n    \"ui_elements\": [\r\n      {\r\n        \"type\": \"social media feed mockup\",\r\n        \"position\": \"mid-left\",\r\n        \"header\": \"← 스레드\",\r\n        \"post_count\": 3,\r\n        \"details\": \"avatars, Korean text, interaction icons for like, comment, repost\"\r\n      },\r\n      {\r\n        \"type\": \"live chat mockup\",\r\n        \"position\": \"right edge\",\r\n        \"message_count\": 4,\r\n        \"details\": \"pink user icons, Korean text\"\r\n      }\r\n    ],\r\n    \"text_callouts\": [\r\n      {\r\n        \"type\": \"spiky speech bubble\",\r\n        \"position\": \"center top\",\r\n        \"text\": \"{argument name=\\\"speech bubble text\\\" default=\\\"이게 맞아?;;\\\"}\"\r\n      },\r\n      {\r\n        \"type\": \"neon box\",\r\n        \"position\": \"top right\",\r\n        \"text\": \"실시간 반응 중\"\r\n      },\r\n      {\r\n        \"type\": \"floating grunge text\",\r\n        \"position\": \"far left\",\r\n        \"line_count\": 3,\r\n        \"text\": [\"OO 논란\", \"충격 실화\", \"역대급 사건\"]\r\n      },\r\n      {\r\n        \"type\": \"handwritten text with arrow\",\r\n        \"position\": \"bottom right\",\r\n        \"text\": \"여러분의 생각은 어떠신가요?\"\r\n      }\r\n    ],\r\n    \"logos\": [\r\n      {\r\n        \"type\": \"app icon\",\r\n        \"position\": \"top left\",\r\n        \"description\": \"white swirl logo on black rounded square\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"YouTube thumbnail graphic\",\n  \"style\": \"anime, edgy, neon pink and black color scheme, grunge and splatter accents\",\n  \"character\": {\n    \"appearance\": \"anime girl, {argument name=\\\"hair color\\\" default=\\\"silver\\\"} hair, cat ears, purple eyes\",\n    \"expression\": \"{argument name=\\\"expression\\\" default=\\\"shocked and sweating\\\"}, mouth open\",\n    \"accessories\": \"black cat hairclip with pink cross, black choker with heart ring\",\n    \"action\": \"holding a pink smartphone with a swirl logo\"\n  },\n  \"layout\": {\n    \"main_title\": {\n      \"position\": \"bottom center\",\n      \"style\": \"huge, bold, 3D typography, grunge texture\",\n      \"lines\": [\n        { \"text\": \"{argument name=\\\"main title top\\\" default=\\\"Thread controversy\\\"}\", \"color\": \"neon pink\" },\n        { \"text\": \"{argument name=\\\"main title bottom\\\" default=\\\"Reading for you ;;\\\"}\", \"color\": \"white\" }\n      ]\n    },\n    \"ui_elements\": [\n      {\n        \"type\": \"social media feed mockup\",\n        \"position\": \"mid-left\",\n        \"header\": \"← Thread\",\n        \"post_count\": 3,\n        \"details\": \"avatars, Korean text, interaction icons for like, comment, repost\"\n      },\n      {\n        \"type\": \"live chat mockup\",\n        \"position\": \"right edge\",\n        \"message_count\": 4,\n        \"details\": \"pink user icons, Korean text\"\n      }\n    ],\n    \"text_callouts\": [\n      {\n        \"type\": \"spiky speech bubble\",\n        \"position\": \"center top\",\n        \"text\": \"{argument name=\\\"speech bubble text\\\" default=\\\"Is this correct?;;\\\"}\"\n      },\n      {\n        \"type\": \"neon box\",\n        \"position\": \"top right\",\n        \"text\": \"Real-time reactions in progress\"\n      },\n      {\n        \"type\": \"floating grunge text\",\n        \"position\": \"far left\",\n        \"line_count\": 3,\n        \"text\": [\"OO controversy\", \"Shocking true story\", \"Historic event\"]\n      },\n      {\n        \"type\": \"handwritten text with arrow\",\n        \"position\": \"bottom right\",\n        \"text\": \"What are your thoughts?\"\n      }\n    ],\n    \"logos\": [\n      {\n        \"type\": \"app icon\",\n        \"position\": \"top left\",\n        \"description\": \"white swirl logo on black rounded square\"\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:29:26.890Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "应用界面样机图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_369832755f",
+      "value": "应用界面样机图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-106",
+      "originalId": "case-106",
+      "authors": [
+        {
+          "name": "abdiisan",
+          "url": "https://x.com/abdiisan"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4082
+        }
+      ],
+      "rawSource": "[@abdiisan](https://x.com/abdiisan)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d343a2c011144c18",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case106.jpg",
+      "upstreamPath": "../data/images/case106.jpg",
+      "localPath": "public/assets/prompt_5fd40d9858d435595565/7d027a29a578.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "youtube",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "prompt_f12aa787972f7800a50d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"scientific hardware diagram\",\r\n  \"layout\": {\r\n    \"main_scene\": \"3D render of an optical table with a red laser beam passing through 11 aligned optical components mounted on black posts.\",\r\n    \"top_brackets\": [\r\n      {\"label\": \"Dual Modulation\", \"span\": \"SLM1\"},\r\n      {\"label\": \"4f Relay Optics\", \"span\": \"Lens L1 to Lens L2\"},\r\n      {\"label\": \"Imaging Optics\", \"span\": \"SLM2 to Lens L4\"},\r\n      {\"label\": \"Detection\", \"span\": \"Camera\"}\r\n    ],\r\n    \"optical_components_left_to_right\": [\r\n      {\"name\": \"Laser\", \"labels\": [\"Laser\", \"λ = {argument name=\\\"laser wavelength\\\" default=\\\"632.8 nm\\\"}\"]},\r\n      {\"name\": \"SLM1\", \"labels\": [\"SLM1\", \"(Phase / Pol. Mod.)\"]},\r\n      {\"name\": \"Lens L1\", \"labels\": [\"Lens L1\", \"(f1)\"]},\r\n      {\"name\": \"Iris\", \"labels\": [\"Fourier Plane\", \"(Pupil Plane)\", \"Iris\", \"(Higher Orders Filtered)\"]},\r\n      {\"name\": \"HWP\", \"labels\": [\"HWP\", \"(λ/2)\"]},\r\n      {\"name\": \"Lens L2\", \"labels\": [\"Lens L2\", \"(f1)\"]},\r\n      {\"name\": \"SLM2\", \"labels\": [\"SLM2\", \"(Phase / Pol. Mod.)\"]},\r\n      {\"name\": \"Lens L3\", \"labels\": [\"Lens L3\", \"(f2)\"]},\r\n      {\"name\": \"Lens L4\", \"labels\": [\"Lens L4\", \"(f2)\"]},\r\n      {\"name\": \"Linear Polarizer\", \"labels\": [\"Linear\", \"-Polarizer\", \"(Global Analyzer)\"]},\r\n      {\"name\": \"Polarization Camera\", \"labels\": [\"POLARIZATION CAMERA\"]}\r\n    ],\r\n    \"inset_box\": {\r\n      \"position\": \"bottom right\",\r\n      \"title\": \"Polarization Camera Micro-Polarizer Array (Per-Pixel Analyzer)\",\r\n      \"grid\": \"4x4 grid of colored squares with directional arrows\",\r\n      \"legend_count\": 4,\r\n      \"legend_items\": [\r\n        \"Red square, horizontal arrow, 0° (H)\",\r\n        \"Green square, vertical arrow, 90° (V)\",\r\n        \"Blue square, diagonal arrow, 45° (D)\",\r\n        \"Yellow square, diagonal arrow, 135° (A)\"\r\n      ]\r\n    },\r\n    \"bottom_caption\": {\r\n      \"figure_prefix\": \"{argument name=\\\"figure number\\\" default=\\\"Fig. 5.\\\"}\",\r\n      \"title\": \"{argument name=\\\"system name\\\" default=\\\"Ellipsography Hardware Setup.\\\"}\",\r\n      \"text\": \"Paragraph of scientific text explaining the dual-modulation configuration, 4f relay optics, and polarization camera.\"\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"scientific hardware diagram\",\n  \"layout\": {\n    \"main_scene\": \"3D render of an optical table with a red laser beam passing through 11 aligned optical components mounted on black posts.\",\n    \"top_brackets\": [\n      {\"label\": \"Dual Modulation\", \"span\": \"SLM1\"},\n      {\"label\": \"4f Relay Optics\", \"span\": \"Lens L1 to Lens L2\"},\n      {\"label\": \"Imaging Optics\", \"span\": \"SLM2 to Lens L4\"},\n      {\"label\": \"Detection\", \"span\": \"Camera\"}\n    ],\n    \"optical_components_left_to_right\": [\n      {\"name\": \"Laser\", \"labels\": [\"Laser\", \"λ = {argument name=\\\"laser wavelength\\\" default=\\\"632.8 nm\\\"}\"]},\n      {\"name\": \"SLM1\", \"labels\": [\"SLM1\", \"(Phase / Pol. Mod.)\"]},\n      {\"name\": \"Lens L1\", \"labels\": [\"Lens L1\", \"(f1)\"]},\n      {\"name\": \"Iris\", \"labels\": [\"Fourier Plane\", \"(Pupil Plane)\", \"Iris\", \"(Higher Orders Filtered)\"]},\n      {\"name\": \"HWP\", \"labels\": [\"HWP\", \"(λ/2)\"]},\n      {\"name\": \"Lens L2\", \"labels\": [\"Lens L2\", \"(f1)\"]},\n      {\"name\": \"SLM2\", \"labels\": [\"SLM2\", \"(Phase / Pol. Mod.)\"]},\n      {\"name\": \"Lens L3\", \"labels\": [\"Lens L3\", \"(f2)\"]},\n      {\"name\": \"Lens L4\", \"labels\": [\"Lens L4\", \"(f2)\"]},\n      {\"name\": \"Linear Polarizer\", \"labels\": [\"Linear\", \"-Polarizer\", \"(Global Analyzer)\"]},\n      {\"name\": \"Polarization Camera\", \"labels\": [\"POLARIZATION CAMERA\"]}\n    ],\n    \"inset_box\": {\n      \"position\": \"bottom right\",\n      \"title\": \"Polarization Camera Micro-Polarizer Array (Per-Pixel Analyzer)\",\n      \"grid\": \"4x4 grid of colored squares with directional arrows\",\n      \"legend_count\": 4,\n      \"legend_items\": [\n        \"Red square, horizontal arrow, 0° (H)\",\n        \"Green square, vertical arrow, 90° (V)\",\n        \"Blue square, diagonal arrow, 45° (D)\",\n        \"Yellow square, diagonal arrow, 135° (A)\"\n      ]\n    },\n    \"bottom_caption\": {\n      \"figure_prefix\": \"{argument name=\\\"figure number\\\" default=\\\"Fig. 5.\\\"}\",\n      \"title\": \"{argument name=\\\"system name\\\" default=\\\"Ellipsography Hardware Setup.\\\"}\",\n      \"text\": \"Paragraph of scientific text explaining the dual-modulation configuration, 4f relay optics, and polarization camera.\"\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:42:19.842Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "写实摄影风格图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Realistic photography style image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:42:07.279Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_07d3a360f5",
+      "value": "写实摄影风格图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-81",
+      "originalId": "case-81",
+      "authors": [
+        {
+          "name": "HumanOS_v2",
+          "url": "https://x.com/HumanOS_v2"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2980
+        }
+      ],
+      "rawSource": "[@HumanOS\\_v2](https://x.com/HumanOS_v2)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_41d227e284f4971a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case81.jpg",
+      "upstreamPath": "../data/images/case81.jpg",
+      "localPath": "public/assets/prompt_f12aa787972f7800a50d/b725648e3acb.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

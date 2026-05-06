@@ -1,0 +1,163 @@
+{
+  "id": "prompt_bbd4e1146f7d4a8223a1",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a dramatic Japanese light-novel cover illustration for a fantasy mecha isekai story. Vertical poster composition with a huge heroic humanoid robot dominating the center foreground, viewed from a slightly low angle to make it monumental. The robot is sleek and ornate, with white and silver armor, rich gold trim, glowing cyan energy lines, a radiant emerald-green core in the chest, a crown-like crest on the helmet, and a long royal blue cape with gold edging. Behind its back spread multiple crystalline energy wings, about 8 large translucent green shards fanning out symmetrically like luminous blades. In its left hand it holds a long fantasy-tech spear with a blue glowing blade and gold mechanical detailing. At the robot’s feet are 2 human characters: on the left, a red-haired fantasy heroine with very long braided hair, leather-and-fabric adventurer clothing, and a determined expression, looking up at the robot; on the right, a young male protagonist with short dark hair in a fantasy tunic and cloak, reaching one hand up toward the giant machine in awe and urgency, seen mostly from behind. The setting is an epic ruined sci-fi fantasy world with towering gothic spires, broken city structures, drifting smoke, dramatic clouds, and a sky filled with stars, planets, streaks of lightning, and 8 small flying warships scattered in the distance. Highly polished anime key visual style, ultra-detailed, cinematic lighting, intense contrast, blue-green-gold color palette, heroic atmosphere, intricate mechanical rendering, fantasy worldbuilding, premium game or novel cover finish. Add large Japanese title typography at the top: 《{argument name=\"tagline text\" default=\"本格異世界SFロボット戦記\"}》 above a massive metallic logo reading {argument name=\"series title\" default=\"ASTRAIA\"}, with a smaller Japanese subtitle line beneath it. Add a large dramatic Japanese catchphrase at the bottom in glowing white and gold text over 2 lines: {argument name=\"bottom catchphrase\" default=\"乗って！ユウキ！ その叫びが、世界の運命を決めた！\"}. Keep the overall design dense, premium, and readable as a commercial cover, with the central robot as the unmistakable focal point.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Epic Fantasy Mecha Light Novel Cover",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - Epic Fantasy Mecha Light Novel Cover",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a dramatic anime-style Japanese sci-fi fantasy cover featuring a towering angelic robot, two protagonists, and bold title typography for novels, games, or promotional key art.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/hyzatu/status/2048784433076195518#reversed-1",
+      "originalId": "https://x.com/hyzatu/status/2048784433076195518#reversed-1",
+      "authors": [
+        {
+          "name": "ざつ＠『竜の姫と絆のユニゾン』『星槍とオムライス』『リリアンのプロの流儀』『B級グルメ革命』",
+          "url": "https://x.com/hyzatu"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3701
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b62b1a7131f3ff7c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367338321_yoro6d_HG6-Pi0acAAl3W8.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367338321_yoro6d_HG6-Pi0acAAl3W8.jpg",
+      "localPath": "public/assets/prompt_bbd4e1146f7d4a8223a1/0cd0546ae9de.jpg",
+      "alt": "Comic / Storyboard - Epic Fantasy Mecha Light Novel Cover - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.569Z"
+  }
+}

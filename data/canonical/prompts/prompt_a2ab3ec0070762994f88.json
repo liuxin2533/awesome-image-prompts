@@ -1,0 +1,168 @@
+{
+  "id": "prompt_a2ab3ec0070762994f88",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A premium artisan food photography image of a clear acrylic collector box displayed on a rustic wooden table, shot in a clean 4:5 product style with soft natural light and shallow depth of field. The box contains a miniature kitchen diorama dedicated to {argument name=\"dish name\" default=\"Eggs Benedict\"}, with a tiny chef figurine in a white toque and white uniform with a red neckerchief standing at center, mid-preparation, pouring glossy hollandaise sauce over a stacked eggs benedict on an English muffin half. Inside the center kitchen area, include 1 miniature stove, 1 frying pan, 1 small saucepan in the chef’s hand, 1 wooden prep table, 2 knives on the table, 3 hanging metal utensils, 2 stacked plates on the lower shelf, 1 small white bowl, and 2 seasoning mills beneath the table. Surround the center scene with exactly 12 clear ingredient compartments built into the acrylic box walls: top row has 4 compartments containing 2 English muffins, 3 butter cubes, 3 lemon slices, and 3 whole eggs; left side has 4 compartments containing 3 round slices of Canadian bacon, 2 sprigs of parsley, 1 whole egg, and 2 condiment bottles; right side has 4 compartments containing 1 origin map card labeled USA with a red map of the United States and a tiny NYC mark, 1 compartment of chopped chives, 2 spice jars, and 3 cracked egg yolks. The acrylic packaging has bold red, white, and blue trim bands around the top and bottom edges, evoking American flag colors. Add a front label plaque reading {argument name=\"front label\" default=\"EGGS BENEDICT\"} with smaller text {argument name=\"origin and date\" default=\"USA - 1894\"}. Keep the miniature highly detailed, realistic, polished, and luxurious, like a museum-grade culinary collectible or upscale toy packaging, with crisp transparent reflections and a warm editorial tabletop background.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Eggs Benedict Miniature Acrylic Box",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "產品行銷 - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロダクトマーケティング - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "제품 마케팅 - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोडक्ट मार्केटिंग - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Eggs Benedict Miniature Acrylic Box",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a premium product-style photo of an acrylic boxed miniature kitchen diorama for Eggs Benedict, ideal for culinary concept art, packaging mockups, or collectible food-themed visuals.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Gdgtify/status/2048800842191700194#reversed-0",
+      "originalId": "https://x.com/Gdgtify/status/2048800842191700194#reversed-0",
+      "authors": [
+        {
+          "name": "Gadgetify",
+          "url": "https://x.com/Gdgtify"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4367
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1382bf9b8afc60a1",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367289190_jjaiwm_HGt9OaDbgAAMPlk.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367289190_jjaiwm_HGt9OaDbgAAMPlk.jpg",
+      "localPath": "public/assets/prompt_a2ab3ec0070762994f88/ac414bef14e6.jpg",
+      "alt": "Product Marketing - Eggs Benedict Miniature Acrylic Box - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.568Z"
+  }
+}

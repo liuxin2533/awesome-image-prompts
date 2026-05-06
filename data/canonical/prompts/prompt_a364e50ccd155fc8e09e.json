@@ -1,0 +1,102 @@
+{
+  "id": "prompt_a364e50ccd155fc8e09e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "High-impact parody e-commerce infographic for “{argument name=\"product\" default=\"Four Loko\"}” malt beverage. Foreground: An extreme close-up of a rough, weathered hand holding a tall, brightly colored can of {argument name=\"product\" default=\"Four Loko\"} toward the camera. The can is slightly cold with visible condensation droplets and a loud, chaotic flavor design. The hand and can have a slight macro-lens blur for depth, with the can still reading clearly as the hero product. Central Subject: In the mid-ground, a funny, disheveled {argument name=\"subject\" default=\"homeless-looking man\"} sitting casually on a milk crate in an urban alley. He has a scruffy beard, messy hair, layered worn clothing, and a huge unbothered grin. He should look chaotic but oddly charismatic, like the accidental king of bad decisions. He is posed like a confident lifestyle-ad model, proudly showing off the can. Background & Lighting: A ridiculously polished ad-style backdrop mixed with a grimy city alley setting. Soft-focus urban textures, dumpster shapes, graffiti hints, and scattered clutter in the distance. Add dramatic studio lighting, soft glow, rainbow prism flares, and subtle light leaks to make the whole thing look way too premium for the subject matter. A few blurred {argument name=\"product\" default=\"Four Loko\"} cans can float artistically in the background for extra absurdity. Typography & Layout (Bold sans-serif, white and neon accent styling): Top Center (Background): Massive, bold text reading “{argument name=\"brand name\" default=\"FOUR LOKO\"}” positioned behind the subject. Top Right: Bold text reading “The Champagne of Bad Ideas”. Mid-Left: “Premium chaos and zero self-control” Mid-Right: Large, bold “23” with the text “ounces of terrible decisions.” Bottom-Right: Large, bold “1\" with the text “can to ruin tomorrow.” Optional small callout text near the bottom: “Now with more regret.” Style: Ultra-detailed, 8k parody commercial photography, sharp focus on the can, shallow depth of field, vibrant trashy color palette, clean advertising composition, exaggerated premium product-ad aesthetic, funny visual contrast between polished branding and the wrecked subject.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高冲击力的恶搞电商信息图，针对\"{argument name=\"product\" default=\"Four Loko\"}\"麦芽饮料。前景：一只粗糙、饱经风霜的手特写，手持一罐高亮彩色的{argument name=\"product\" default=\"Four Loko\"}饮料，朝向镜头。罐子略微冰冷，有可见的冷凝水滴，以及喧闹、混乱的风味设计。手和罐子有轻微的微镜头模糊效果以增加深度，罐子仍然清晰可读，作为主角产品。中心主体：在中景，一个滑稽、邋遢的{argument name=\"subject\" default=\"无家可归者模样的男人\"}随意地坐在城市小巷里的牛奶箱上。他有蓬乱的胡须，凌乱的头发，层层叠叠的磨损衣物，以及一个巨大的满不在乎的笑容。他应该看起来混乱但奇怪地有魅力，像是坏决定的意外之王。他的姿势像一个自信的生活方式广告模特，自豪地展示着罐子。背景与灯光：一个荒谬地抛光的广告风格背景与肮脏的城市小巷设置混合。柔焦的城市纹理，垃圾桶形状，涂鸦暗示，以及远处散落的杂物。添加戏剧性的工作室灯光，柔和的光晕，彩虹棱镜光晕，以及微妙的光泄漏，使整个主题看起来过于高级。几罐模糊的{argument name=\"product\" default=\"Four Loko\"}可以在背景中艺术性地漂浮，以增加荒谬感。字体与布局（粗体无衬线字体，白色和霓虹强调风格）：顶部中央（背景）：巨大的粗体文字，显示\"{argument name=\"brand name\" default=\"FOUR LOKO}\"，位于主体后方。右上角：粗体文字\"坏主意中的香槟\"。中左：高级混乱和零自控力。中右：大号粗体\"23\"，配文\"糟糕决定盎司数\"。右下角：大号粗体\"1\"，配文\"一罐毁掉明天\"。底部附近可选的小注释文本：\"现在有更多后悔。\"风格：超详细，8k恶搞商业摄影，对罐子有锐利焦点，浅景深，鲜艳的垃圾调色板，干净的广告构图，夸张的高级产品广告美学，抛光品牌和被毁主体之间的有趣视觉对比。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:27:44.750Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Parody Luxury Product Advertisement",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/tonysimons_/status/2048057490940596595",
+      "originalId": "case-131",
+      "authors": [
+        {
+          "name": "tonysimons_",
+          "url": "https://x.com/tonysimons_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 489
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_16a8f143ab7be098",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg",
+      "localPath": "public/assets/prompt_a364e50ccd155fc8e09e/623474fba3e1.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

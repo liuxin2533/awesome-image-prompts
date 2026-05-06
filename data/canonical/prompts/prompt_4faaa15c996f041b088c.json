@@ -1,0 +1,248 @@
+{
+  "id": "prompt_4faaa15c996f041b088c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "9:16 纵向比例，生成一张抖音直播截图，画面中是刘亦菲在直播，刘亦菲手里拿着一块牌子，牌子上写着：今晚直播，欢迎来和亦菲聊天！",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "9:16 長寬比，生成一張抖音直播截圖，畫面中是劉亦菲正在直播，手裡拿著牌子，牌子上寫著「今晚直播，歡迎來和亦菲聊天！」。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "9:16 の縦長比率で、Douyin ライブ配信のスクリーンショットを生成する。画面の中ではリウ・イーフェイがライブ配信しており、手に看板を持っている。看板には「今晚直播，欢迎来和亦菲聊天！」と書かれている。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "9:16 세로 비율의 도우인 라이브 스크린샷을 생성한다. 화면 속에는 류이페이가 라이브 중이며, 손에는 \"今晚直播，欢迎来和亦菲聊天！\" 이라고 적힌 팻말을 들고 있다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Au format 9:16, génère une capture d'écran de live Douyin où Liu Yifei est en direct et tient un panneau disant : \"Tonight's live stream, welcome to join Yifei for a chat!\"",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge im 9:16-Format einen Screenshot eines Douyin-Livestreams, in dem Liu Yifei live sendet und ein Schild mit der Aufschrift \"Tonight's live stream, welcome to join Yifei for a chat!\" hält.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "En formato 9:16, genera una captura de un directo de Douyin donde Liu Yifei está transmitiendo y sostiene un cartel con el texto \"Tonight's live stream, welcome to join Yifei for a chat!\".",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Douyin Livestream Screenshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "抖音直播截图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "抖音直播截圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "Douyin ライブ配信スクリーンショット",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "도우인 라이브 스트리밍 화면",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Capture de live Douyin",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Douyin-Livestream-Screenshot",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Captura de live en Douyin",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 與社群媒體",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX・ソーシャルメディア",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 와 소셜 미디어",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-et-reseaux-sociaux",
+      "value": "📱 UI / UX et réseaux sociaux",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-und-social-media",
+      "value": "📱 UI / UX und Social Media",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-y-redes-sociales",
+      "value": "📱 UI / UX y redes sociales",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/alanblogsooo/status/2044784762594918516",
+      "originalId": "https://x.com/alanblogsooo/status/2044784762594918516",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/liu-yifei-douyin-live-chat"
+        },
+        {
+          "name": "alanblogsooo",
+          "url": "https://x.com/alanblogsooo/status/2044784762594918516"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 300
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 233
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 233
+        },
+        {
+          "file": "README:ja",
+          "line": 233
+        },
+        {
+          "file": "README:ko",
+          "line": 233
+        },
+        {
+          "file": "README:fr",
+          "line": 233
+        },
+        {
+          "file": "README:de",
+          "line": 233
+        },
+        {
+          "file": "README:es",
+          "line": 233
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/liu-yifei-douyin-live-chat) | [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_42ba1e75da3ae083",
+      "role": "unknown",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/liu-yifei-douyin-live-chat.jpg",
+      "upstreamPath": "assets/opennana/liu-yifei-douyin-live-chat.jpg",
+      "localPath": "public/assets/prompt_4faaa15c996f041b088c/629fc02192bc.jpg",
+      "alt": "Douyin Livestream Screenshot",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "抖音",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

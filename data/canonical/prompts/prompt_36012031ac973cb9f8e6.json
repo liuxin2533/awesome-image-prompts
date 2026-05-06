@@ -1,0 +1,96 @@
+{
+  "id": "prompt_36012031ac973cb9f8e6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, striding through a city crosswalk. She wears an oversized, matte chocolate-brown leather jacket paired with a free-flowing black skirt and sleek knee-high black boots, conveying a sense of high fashion street style. Her long, dark brown hair is wind-swept, complementing her poised and confident expression as she glances sideways. Behind her, a blurred urban backdrop features a yellow taxi and pedestrians, with buildings displaying varied architectural details in neutral tones. The scene utilizes soft ambient daylight filtering through light cloud cover, producing a muted, overcast lighting effect. The warm, earthy color palette consists of brown, black, and touches of beige. The image, likely from a high-resolution digital camera, presents a wide-angle view that maintains focus throughout, emphasizing a dynamic and fashionable feel.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "全身户外拍摄捕捉了一位年轻的白人女性，可能二十多岁，正大步穿过城市人行横道。她穿着一件过季的哑光巧克力棕色皮夹克，搭配一条飘逸的黑色裙子和一双时髦的黑色及膝长靴，展现出高级时尚的街头风格。她长长的深棕色头发被风吹拂，与她那从容自信的表情相得益彰，她正侧目而视。在她身后，模糊的城市背景中有一辆黄色出租车和行人，建筑物呈现出各种建筑细节，色调中性。场景利用了穿过薄云的柔和环境光，产生了一种柔和的阴天照明效果。温暖的大地色调包括棕色、黑色和米色的点缀。这张照片可能来自高分辨率数码相机，呈现广角视角，全程保持清晰对焦，强调了一种动感时尚的感觉。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:47.880Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "A full-body outdoor shot captures a young Caucasian woman, possibly in her la...",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "全身户外拍摄捕捉到一位年轻的白人女性，可能在她二十...",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:47.284Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AIwithSarah_/status/2047234995627172229",
+      "originalId": "case-58",
+      "authors": [
+        {
+          "name": "AIwithSarah_",
+          "url": "https://x.com/AIwithSarah_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 704
+        }
+      ]
+    }
+  ],
+  "assets": [],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

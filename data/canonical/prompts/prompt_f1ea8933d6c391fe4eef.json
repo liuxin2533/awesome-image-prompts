@@ -1,0 +1,105 @@
+{
+  "id": "prompt_f1ea8933d6c391fe4eef",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张电影级极简肖像，一个孤独的男人站在强烈的橙色到红色渐变环境中，强烈的剪影光，深邃的阴影对比，反光的光滑地面，对称构图，极简",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "橙红渐变中的孤独剪影",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Lonely silhouette in orange-red gradient",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:42:34.230Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_68f56ef319",
+      "value": "橙红渐变中的孤独剪影",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-273",
+      "originalId": "case-273",
+      "authors": [
+        {
+          "name": "iam_miharbi",
+          "url": "https://x.com/iam_miharbi/status/2045151354679665101"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3220
+        }
+      ],
+      "rawSource": "[@iam\\_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9b314c6f35da8a92",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case273.jpg",
+      "upstreamPath": "../data/images/case273.jpg",
+      "localPath": "public/assets/prompt_f1ea8933d6c391fe4eef/f61a83fdfa0c.jpg",
+      "alt": "橙红渐变中的孤独剪影",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "portrait"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

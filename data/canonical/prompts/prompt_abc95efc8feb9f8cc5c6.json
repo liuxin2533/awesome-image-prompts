@@ -1,0 +1,108 @@
+{
+  "id": "prompt_abc95efc8feb9f8cc5c6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Use the uploaded photo as the main base image.\n\nBased on the coffee, drinks, desserts, plates, props, table setting, and overall composition shown in the image, create an aesthetic and emotional result that naturally reflects the real elements in the photo. Do not add any people. Stay true to the actual types of food and drinks, their arrangement, and the atmosphere captured in the original image.\n\nThen, carefully observe each element in the photo and add hand-drawn style annotations that match each subject:\n\nUse white pen-style sketch lines with a rough, slightly uneven, hand-drawn feel\n\nInclude object outlines, arrows, and dotted lines to guide visual flow\n\nAdd short handwritten Korean notes in a casual, introspective, emotional tone\n\nFor drinks: describe taste, temperature, and mood\n\nFor desserts: describe texture and flavor\n\nFor the space: describe the ambiance\n\nInclude a short overall summary of the scene\n\nSubtly incorporate small details like steam, sparkles, hearts, or tiny emotive symbols\n\nMaintain a clean, spacious layout with an Instagram story or magazine memo-like aesthetic\n\nThe final result should look like an emotionally styled version of the original photo, without forcing in any elements that don’t naturally belong to it",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "[STYLE]\n单色灰度插图，3D渲染角色，清晰的教学参考图，\n白色背景，漫画风格单元格网格布局，技术图表美学\n\n[LAYOUT]\n4x4网格布局，总共16个面板，每个面板由细黑边框分隔，\n单元格编号从1到16，面板尺寸一致\n\n[CHARACTER]\n{argument name=\"character\" default=\"年轻女性舞者，健美体型，马尾发型，露脐上衣和宽松裤子，运动鞋\"}，所有面板中的角色相同\n\n[PANEL STRUCTURE - per cell]\n每个单元格的结构：\n左上角：粗体数字徽章 + {argument name=\"title\" default=\"韩语标题文本\"}\n中心：全身角色姿势插图\n左下角：{argument name=\"description\" default=\"韩语描述文本（3-4行）\"}\n叠加层：指示移动方向的箭头\n\n[ARROWS / MOTION INDICATORS]\n弯曲箭头，直线箭头，圆形旋转指示器，\n放置在角色周围以显示移动流向和方向\n\n[RENDERING STYLE]\n高细节3D雕塑风格，柔和的影棚灯光，微妙的阴影，\n无色彩，灰度阴影，清晰的线条，游戏概念艺术质量\n\n[NEGATIVE]\n无背景场景，无色调，无额外角色，\n无杂乱的背景",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:18.546Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Annotated Coffee Table Mood Board",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "舞蹈动作参考表",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:10.621Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Ciri_ai/status/2049721047696732550",
+      "originalId": "case-130",
+      "authors": [
+        {
+          "name": "Ciri_ai",
+          "url": "https://x.com/Ciri_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 956
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_53ef2531724084fc",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case130/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case130/output.jpg",
+      "localPath": "public/assets/prompt_abc95efc8feb9f8cc5c6/d504d0d1c9ef.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-05T13:20:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.548Z"
+  }
+}

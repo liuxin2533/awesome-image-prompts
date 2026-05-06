@@ -1,0 +1,93 @@
+{
+  "id": "prompt_b66884fcecb892e34e1a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a high-fashion editorial beverage campaign set on a minimalist rooftop at golden hour. Ultra-clean composition with strong negative space, warm sun flare, and soft shadows.\n\nA stylish male model with sharp features and effortless confidence is posed like a fashion editorial—slightly turned away, sipping from the can. He wears elevated linen tailoring in monochrome cream tones, partially unbuttoned, with subtle jewelry.\n\nForeground: a sculptural stone pedestal holding a large hero can of AURELIS – Blood Orange Basil, hyper-detailed with condensation and botanical artwork.\n\nTypography is bold, oversized, and editorial: GOOD DAYS IN EVERY CAN\n\nUse refined serif typography with dramatic scale and spacing. Keep layout asymmetrical and magazine-like.\n\nAdd subtle microcopy: “Botanical. Bright. Made to sparkle.”\n\nMinimal icons (thin line style): LOW SUGAR / REAL FRUIT / LIGHTLY SPARKLING / 12 OZ\n\nBottom strip: 3 cans styled like a luxury product lineup with fruit + herbs arranged like still life photography:\n\nBlood Orange Basil\n\nPeach Ginger\n\nLime Mint\n\nCTA: SHOP FLAVORS →\n\nStyle: Vogue campaign, luxury branding, cinematic lighting, ultra-realistic, muted tones, high contrast, premium finish.\nAspect ratio: vertical (4:5 or 9:16)\n\n🌿 2. Minimal Premium (Apple-style)\n\nPrompt:\n\nCreate a minimalist premium beverage ad with a sunlit rooftop setting and extremely clean composition.\n\nBackground: soft gradient sky with warm golden-hour tones, minimal distractions, large negative space.\n\nA relaxed male model sits casually, taking a sip from the can. Wardrobe: simple, modern, neutral linen outfit.\n\nCenterpiece: a large floating or pedestal-mounted can of AURELIS – Blood Orange Basil, perfectly lit with soft reflections and visible condensation.\n\nTypography: SUN IN EVERY SIP\n\nUse modern minimal typography, centered, with generous spacing.\n\nSupporting line: “Real botanicals. Effortless refreshment.”\n\nIcons aligned horizontally: LOW SUGAR • REAL FRUIT • LIGHTLY SPARKLING • 12 OZ\n\nBottom section: 3 cans evenly spaced, perfectly aligned with subtle shadows:\n\nBlood Orange Basil\n\nPeach Ginger\n\nLime Mint\n\nCTA button (pill-shaped): SHOP FLAVORS\n\nStyle: Apple-level minimalism, ultra-clean layout, soft gradients, modern luxury, highly polished product rendering.\nAspect ratio: vertical (4:5 or 9:16)\n\n🍊 3. Bold Gen Z Premium Version\n\nPrompt:\n\nCreate a bold, scroll-stopping vertical beverage ad set on a rooftop during golden hour with vibrant citrus energy.\n\nLighting: warm, saturated sunlight, glowing highlights, high contrast.\n\nA confident male model drinks directly from the can mid-action, candid and dynamic.\n\nHero can: oversized, slightly exaggerated scale on a textured stone pedestal, covered in condensation.\n\nTypography: DRINK THE SUN\n\nUse large, expressive typography with strong contrast (deep green + burnt orange), slightly overlapping layout.\n\nTagline: “Fresh. Bright. Addictive.”\n\nFeature icons arranged dynamically: LOW SUGAR\nREAL FRUIT\nLIGHTLY SPARKLING\n12 OZ\n\nBottom: 3 cans with energetic ingredient styling:\n\nBlood Orange Basil (splashes, citrus slices)\n\nPeach Ginger (fresh peach + ginger root)\n\nLime Mint (lime wedges + mint leaves)\n\nCTA: SHOP FLAVORS →\n\nStyle: premium but bold, modern campaign aesthetic, slightly experimental layout, high contrast, social-first, dynamic composition.\nAspect ratio: vertical (9:16 preferred)",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "High-Fashion Beverage Campaign Board",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SPEEDAI07/status/2049713995851202786",
+      "originalId": "case-131",
+      "authors": [
+        {
+          "name": "SPEEDAI07",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 993
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7943a036b6f76097",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case131/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case131/output.jpg",
+      "localPath": "public/assets/prompt_b66884fcecb892e34e1a/ff8bf7b8c80b.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

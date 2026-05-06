@@ -1,0 +1,101 @@
+{
+  "id": "prompt_79f91b388325c95ccacf",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成图片:\nT-800机器人的淘宝商品详情页，展示:\n机器人的正面侧面背面三视图，\n产品价格，\n产品细节，\n功能和使用场景等",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate image:\nTaobao product detail page of a T-800 robot, showing:\nfront, side, and back three-view drawings of the robot,\nproduct price,\nproduct details,\nfunctions and usage scenarios",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "终结者机器人淘宝详情页",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_1b72451b4d",
+      "value": "终结者机器人淘宝详情页",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-301",
+      "originalId": "case-301",
+      "authors": [
+        {
+          "name": "rionaifantasy",
+          "url": "https://x.com/rionaifantasy/status/2045356799751303194"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3895
+        }
+      ],
+      "rawSource": "[@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0bdad98f5dd4c3d8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case301.jpg",
+      "upstreamPath": "../data/images/case301.jpg",
+      "localPath": "public/assets/prompt_79f91b388325c95ccacf/8b2a0349aaed.jpg",
+      "alt": "终结者机器人淘宝详情页",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "商品",
+      "产品",
+      "详情页"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

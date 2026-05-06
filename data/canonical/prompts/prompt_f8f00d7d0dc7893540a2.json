@@ -1,0 +1,108 @@
+{
+  "id": "prompt_f8f00d7d0dc7893540a2",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name=\"main headline\" default=\"元气祛湿 鸡煲汤包\"} and a smaller subtitle {argument name=\"subtitle\" default=\"吃山林土货 味道当然好!\"}. On the left side, add a new woven basket containing exactly 6 distinct piles of ingredients: woody root sticks, white square cubes, round sliced brown roots, yellow soybeans, dried orange peel strips, and dark red dates. Attach 6 small brown rectangular labels with white text to these ingredients. Below the chicken, add a circular orange badge containing the text {argument name=\"ingredients list\" default=\"内含有:五指毛桃、茯苓、土茯苓、黄豆、陈皮、红枣\"}. At the bottom, create a solid orange rectangular banner featuring a cooking pot icon, the text {argument name=\"usage instructions\" default=\"用法:把汤料清洗干净放入锅中，加入姜片煮20分钟，后加入鸡肉再煮20分钟即可。\"}, and a secondary slogan {argument name=\"bottom slogan\" default=\"天然好料 滋补好汤\"}.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name=\"main headline\" default=\"Qi-Removing Dampness Chicken Soup Mix\"} and a smaller subtitle {argument name=\"subtitle\" default=\"Natural mountain ingredients, naturally delicious!\"}. On the left side, add a new woven basket containing exactly 6 distinct piles of ingredients: woody root sticks, white square cubes, round sliced brown roots, yellow soybeans, dried orange peel strips, and dark red dates. Attach 6 small brown rectangular labels with white text to these ingredients. Below the chicken, add a circular orange badge containing the text {argument name=\"ingredients list\" default=\"Contains: Five-fingered peach, Poria, Tuckahoe, Soybeans, Dried tangerine peel, Red dates\"}. At the bottom, create a solid orange rectangular banner featuring a cooking pot icon, the text {argument name=\"usage instructions\" default=\"Usage: Clean the soup ingredients, put them in a pot, add ginger slices and cook for 20 minutes, then add chicken and cook for another 20 minutes.\"}, and a secondary slogan {argument name=\"bottom slogan\" default=\"Natural ingredients, nourishing soup\"}.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:44:18.793Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed poster layout design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:43:59.836Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-153",
+      "originalId": "case-153",
+      "authors": [
+        {
+          "name": "xzjken",
+          "url": "https://x.com/xzjken"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6247
+        }
+      ],
+      "rawSource": "[@xzjken](https://x.com/xzjken)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_319a953338a8c1e9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case153.jpg",
+      "upstreamPath": "../data/images/case153.jpg",
+      "localPath": "public/assets/prompt_f8f00d7d0dc7893540a2/e043cbdbe4df.jpg",
+      "alt": "main headline",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.609Z"
+  }
+}

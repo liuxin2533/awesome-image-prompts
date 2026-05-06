@@ -1,0 +1,272 @@
+{
+  "id": "prompt_0783dddcdb2d32a8d2ef",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "In the game Zelda totk link is in a e531 series train made by him",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "在《塞尔达：王国之泪》游戏里，林克坐在一列由他自己制造的 e531 系列列车里",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "在《薩爾達傳說：王國之淚》中，林克坐在一列由他自己製作的 e531 系列列車裡。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ゲーム『ゼルダ TotK』の中で、リンクが自分で作った e531 系列の列車の中にいる",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "《Zelda TotK》 세계에서 링크가 자신이 만든 e531 계열 열차 안에 있다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Dans le jeu Zelda TotK, Link se trouve dans une rame série e531 qu'il a lui-même fabriquée.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Im Spiel Zelda TotK befindet sich Link in einem e531-Zug, den er selbst gebaut hat.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "En el juego Zelda TotK, Link está dentro de un tren serie e531 construido por él mismo.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Zelda: Tears of the Kingdom Style",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "《塞尔达传说：王国之泪》风格",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "《薩爾達傳說：王國之淚》風格",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ゼルダの伝説 ティアーズ オブ ザ キングダム風",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "젤다 왕국의 눈물 스타일",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Style Zelda: Tears of the Kingdom",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Zelda: Tears of the Kingdom Stil",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Estilo Zelda: Tears of the Kingdom",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_27263954ca",
+      "value": "🎮 游戏与娱乐",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_cfebc9acfe",
+      "value": "🎮 遊戲與娛樂",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7c91be168a",
+      "value": "🎮 ゲーム・エンターテインメント",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_716e2fa67b",
+      "value": "🎮 게임과 엔터테인먼트",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "jeu-et-divertissement",
+      "value": "🎮 Jeu et divertissement",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "spiele-und-unterhaltung",
+      "value": "🎮 Spiele und Unterhaltung",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "juegos-y-entretenimiento",
+      "value": "🎮 Juegos y entretenimiento",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/marmaduke091/status/2040820686751432990",
+      "originalId": "https://x.com/marmaduke091/status/2040820686751432990",
+      "authors": [
+        {
+          "name": "marmaduke091",
+          "url": "https://x.com/marmaduke091/status/2040820686751432990"
+        },
+        {
+          "name": " @marmaduke091 ",
+          "url": "https://x.com/marmaduke091/status/2040820686751432990"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 244
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 193
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 193
+        },
+        {
+          "file": "README:ja",
+          "line": 193
+        },
+        {
+          "file": "README:ko",
+          "line": 193
+        },
+        {
+          "file": "README:fr",
+          "line": 193
+        },
+        {
+          "file": "README:de",
+          "line": 193
+        },
+        {
+          "file": "README:es",
+          "line": 193
+        }
+      ],
+      "rawSource": "[@marmaduke091](https://x.com/marmaduke091/status/2040820686751432990)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1a66cd864b29f26c",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFJzGO8WMAA_HBa?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFJzGO8WMAA_HBa?format=jpg&name=large",
+      "localPath": "public/assets/prompt_0783dddcdb2d32a8d2ef/42bd63d02d09.jpg",
+      "alt": "Scene 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_7f1a003ccbbf351d",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFJzy-QaYAA2oD-?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFJzy-QaYAA2oD-?format=jpg&name=large",
+      "localPath": "public/assets/prompt_0783dddcdb2d32a8d2ef/5098f87565e0.jpg",
+      "alt": "Scene 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_e10f6bc92fe35a2e",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFJz0LgXQAE0ZBu?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFJz0LgXQAE0ZBu?format=jpg&name=large",
+      "localPath": "public/assets/prompt_0783dddcdb2d32a8d2ef/79ca904c9cba.jpg",
+      "alt": "Scene 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_db7a5f20f0d4bed3",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFKKnpZaYAAWDj6?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFKKnpZaYAAWDj6?format=jpg&name=large",
+      "localPath": "public/assets/prompt_0783dddcdb2d32a8d2ef/78b3ac0087bf.jpg",
+      "alt": "Scene 4",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

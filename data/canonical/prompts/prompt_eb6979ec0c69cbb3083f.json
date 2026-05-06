@@ -1,0 +1,166 @@
+{
+  "id": "prompt_eb6979ec0c69cbb3083f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "create a hyper-realistic 3D render of a transparent {argument name=\"platform\" default=\"twitter\"} profile card, designed like a futuristic glass ID badge held gently between two fingers. The card should be rectangular with rounded corners, made of clear glossy glass or acrylic, with glowing neon edges in {argument name=\"glow colors\" default=\"pink, purple, and orange gradient\"} inspired by the twitter color palette. Display the following profile information based on the screenshot image attached of my profile on the card using modern, minimal sans-serif typography.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Futuristic Glass Profile ID Card",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Futuristic Glass Profile ID Card",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for creating a futuristic 3D render of a transparent social media profile card designed as a glowing glass ID badge.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/MrDasOnX/status/2048804504569823622",
+      "originalId": "https://x.com/MrDasOnX/status/2048804504569823622",
+      "authors": [
+        {
+          "name": "Mr Das",
+          "url": "https://x.com/MrDasOnX"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 872
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_133f7f525a655c46",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367256290_aea7lr_HG7Q1SCa8AAlOgh.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367256290_aea7lr_HG7Q1SCa8AAlOgh.jpg",
+      "localPath": "public/assets/prompt_eb6979ec0c69cbb3083f/05366ee9bb7d.jpg",
+      "alt": "Profile / Avatar - Futuristic Glass Profile ID Card - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "card",
+      "profile"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

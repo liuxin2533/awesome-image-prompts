@@ -1,0 +1,246 @@
+{
+  "id": "prompt_2ea4d55f356408c1840b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Based on this character and background, please create a character reference sheet similar to official setting materials.\n- Includes three-view drawings: front view, side view, and back view\n- Add variations of the character's facial expressions\n- Break down and display detailed parts of the clothing and equipment\n- Add a color palette\n- Include a brief explanation of the worldview setting\n- Overall, use an organized layout (white background, illustration style)",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于这个角色和背景，请创建一张类似官方设定资料的角色参考页。\n- 包含三视图：正面、侧面和背面\n- 添加角色的多种表情变化\n- 拆解并展示服装与装备的细节部分\n- 添加配色板\n- 包含简短的世界观说明\n- 整体采用规整版式（白底、插画风）",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "基於這個角色與背景，建立一張類似官方設定資料的角色參考頁。需包含正面／側面／背面三視圖、不同表情變化、服裝與裝備細節拆解、配色板、簡短世界觀說明，以及白底插畫風的整齊版面。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "このキャラクターと背景設定をもとに、公式設定資料のようなキャラクター reference sheet を作成してください。\n- 正面・側面・背面の三面図を含める\n- 表情差分を追加する\n- 衣装と装備の細部を分解して表示する\n- カラーパレットを入れる\n- 世界観設定の簡単な説明を含める\n- 全体は整理されたレイアウト（白背景、イラストスタイル）にする",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "이 캐릭터와 배경을 바탕으로 공식 설정 자료 같은 캐릭터 레퍼런스 시트를 만든다. 정면/측면/후면 삼면도, 다양한 표정, 의상과 장비의 세부 분해, 컬러 팔레트, 세계관 설명, 흰 배경의 정리된 일러스트 레이아웃을 포함한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "À partir de ce personnage et de cet arrière-plan, crée une fiche de référence façon matériel de setting officiel, avec vues face / profil / dos, variations d'expressions, détails de vêtements et d'équipement, palette de couleurs et courte explication du monde.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle auf Basis dieser Figur und dieses Hintergrunds ein Charakter-Referenzblatt im Stil offizieller Setting-Unterlagen mit Vorder-/Seiten-/Rückansicht, Mimikvarianten, Detailzerlegung von Kleidung und Ausrüstung, Farbpalette und kurzer Weltbeschreibung.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "A partir de este personaje y este trasfondo, crea una hoja de referencia similar a material oficial de setting, con vistas frontal / lateral / trasera, variaciones de expresión, desglose de ropa y equipo, paleta de color y una breve explicación del mundo.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Official Character Reference Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "官方角色设定参考页",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "官方角色設定參考頁",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "公式設定資料風キャラクターシート",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "공식 캐릭터 레퍼런스 시트",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Feuille de référence officielle de personnage",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Offizielles Charakter-Referenzblatt",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Hoja oficial de referencia de personaje",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-consistency",
+      "value": "🎭 Character & Consistency",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2805bea459",
+      "value": "🎭 角色与一致性",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_8a1fe5fa03",
+      "value": "🎭 角色與一致性",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_0ac8518673",
+      "value": "🎭 キャラクター・一貫性",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_96eb558749",
+      "value": "🎭 캐릭터와 일관성",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "personnages-et-coherence",
+      "value": "🎭 Personnages et cohérence",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "figuren-und-konsistenz",
+      "value": "🎭 Figuren und Konsistenz",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "personajes-y-consistencia",
+      "value": "🎭 Personajes y consistencia",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MANISH1027512/status/2045013913901867334",
+      "originalId": "https://x.com/MANISH1027512/status/2045013913901867334",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/official-character-reference-sheet"
+        },
+        {
+          "name": "MANISH1027512",
+          "url": "https://x.com/MANISH1027512/status/2045013913901867334"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 971
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 813
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 608
+        },
+        {
+          "file": "README:ja",
+          "line": 811
+        },
+        {
+          "file": "README:ko",
+          "line": 608
+        },
+        {
+          "file": "README:fr",
+          "line": 608
+        },
+        {
+          "file": "README:de",
+          "line": 608
+        },
+        {
+          "file": "README:es",
+          "line": 608
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/official-character-reference-sheet) | [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_44b1a49f54861b5c",
+      "role": "reference",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/official-character-reference-sheet.jpeg",
+      "upstreamPath": "assets/opennana/official-character-reference-sheet.jpeg",
+      "localPath": "public/assets/prompt_2ea4d55f356408c1840b/f5cd8f1a93aa.jpeg",
+      "alt": "Official Character Reference Sheet",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.609Z"
+  }
+}

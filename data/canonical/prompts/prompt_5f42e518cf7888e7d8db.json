@@ -1,0 +1,102 @@
+{
+  "id": "prompt_5f42e518cf7888e7d8db",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Core Subject: [{argument name=\"reference\" default=\"use the uploaded image\"}, keep the details, typography and structure locked 100%]\n\nLayout & Composition: A {argument name=\"presentation type\" default=\"professional industrial design presentation sheet\"}. The image should be organized into a clean grid system.\n\nTop Row: A 3x3 layout showing top-down flat lay views and close-up macro details of materials.\n\nMiddle Section: Three hero shots of the product standing upright in different color ways (Matte Black, Arctic White, and accented variants). The products should be slightly tilted to show depth and form.\n\nBottom Section: A dynamic \"floating\" composition featuring two products overlapping at opposing angles to showcase the front and side profiles simultaneously.\n\nEnvironment & Lighting: Set against a minimalist, neutral studio gray background. Soft top-down lighting with realistic contact shadows. High-end product photography aesthetic.\n\nStyle & Finish: Matte textures, clean silhouettes, and sharp edges. Leave designated blank areas on the product surfaces for \"Placeholder Branding\" and \"Graphic Mockups.\" 4k resolution, Unreal Engine 5 render style, hyper-realistic, clean aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Core Subject: [{argument name=\"reference\" default=\"使用上传的图像\"}, 保持细节、字体和结构100%锁定]\n\nLayout & Composition: 一个{argument name=\"presentation type\" default=\"专业工业设计展示板\"}。图像应组织成整洁的网格系统。\n\nTop Row: 3x3布局，展示俯视平面图视角和材料的特写宏观细节。\n\nMiddle Section: 三个产品正面站立的主图，展示不同配色方案（哑光黑、北极白和强调色变体）。产品应略微倾斜以展示深度和形态。\n\nBottom Section: 动态\"悬浮\"构图，两个产品以相反角度重叠，同时展示正面和侧面轮廓。\n\nEnvironment & Lighting: 设置在简约的中性工作室灰色背景上。柔和的顶部照明，带有真实的接触阴影。高端产品摄影美学。\n\nStyle & Finish: 哑光质感、简洁轮廓和锐利边缘。在产品表面留出指定空白区域用于\"占位品牌标识\"和\"图形模型\"。4K分辨率，虚幻引擎5渲染风格，超写实，简洁美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:11:35.935Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Industrial Design Presentation Sheet",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ShamsAmin56/status/2047627860752621647",
+      "originalId": "case-116",
+      "authors": [
+        {
+          "name": "ShamsAmin56",
+          "url": "https://x.com/ShamsAmin56"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 41
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6aaed77e63d37e6c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg",
+      "localPath": "public/assets/prompt_5f42e518cf7888e7d8db/f115f4385930.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.555Z"
+  }
+}

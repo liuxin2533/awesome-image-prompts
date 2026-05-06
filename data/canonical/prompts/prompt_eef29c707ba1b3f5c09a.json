@@ -1,0 +1,110 @@
+{
+  "id": "prompt_eef29c707ba1b3f5c09a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"mobile live-streaming e-commerce interface mockup\",\r\n  \"subject\": {\r\n    \"description\": \"young Asian woman, long dark hair, wearing light-colored floral pajama set with a pink bow, holding the pajama top outward to show the fabric\",\r\n    \"background\": \"cozy room, clothing rack with pajamas, flowers, warm lighting\"\r\n  },\r\n  \"ui_layout\": {\r\n    \"top_bar\": {\r\n      \"time\": \"20:34\",\r\n      \"host_info\": {\r\n        \"name\": \"{argument name=\\\"host name\\\" default=\\\"小雨睡衣\\\"}\",\r\n        \"stats\": \"12.8万本场点赞\",\r\n        \"button\": \"关注\"\r\n      },\r\n      \"viewer_info\": {\r\n        \"avatars_count\": 3,\r\n        \"total_viewers\": \"1.2万\"\r\n      }\r\n    },\r\n    \"floating_tags\": {\r\n      \"count\": 2,\r\n      \"labels\": [\"带货总榜第3名\", \"人气榜\"]\r\n    },\r\n    \"widgets\": {\r\n      \"top_left\": \"red envelope icon with timer 03:45\",\r\n      \"top_right\": \"floating heart icon with text 直播好物大赏 发现新热爱\"\r\n    },\r\n    \"marketing_text_overlay\": {\r\n      \"position\": \"mid-right\",\r\n      \"lines_count\": 5,\r\n      \"lines\": [\r\n        \"{argument name=\\\"main headline\\\" default=\\\"新款睡衣\\\"}\",\r\n        \"{argument name=\\\"sub headline\\\" default=\\\"正在秒杀中...\\\"}\",\r\n        \"亲肤透气\",\r\n        \"柔软舒适\",\r\n        \"不起球 不褪色\"\r\n      ]\r\n    },\r\n    \"chat_log\": {\r\n      \"position\": \"bottom-left\",\r\n      \"message_count\": 7,\r\n      \"messages\": [\r\n        \"32 雨*** 加入了直播间\",\r\n        \"小***: 好看，多少钱\",\r\n        \"小***: 拍了，期待发货\",\r\n        \"C***: 质量看着不错\",\r\n        \"用***: 身高165，体重120斤，穿多大码？\",\r\n        \"@***: 主播身上这款有货吗？\",\r\n        \"晴***: 已拍，坐等收货！\"\r\n      ]\r\n    },\r\n    \"product_card\": {\r\n      \"position\": \"bottom-right\",\r\n      \"thumbnail\": \"miniature of the host\",\r\n      \"title\": \"{argument name=\\\"product title\\\" default=\\\"【小雨睡衣】春季新款家居服套装\\\"}\",\r\n      \"tags_count\": 2,\r\n      \"tags\": [\"7天无理由退货\", \"运费险\"],\r\n      \"price_section\": \"秒杀价 ¥ {argument name=\\\"product price\\\" default=\\\"89.9\\\"}\",\r\n      \"action_button\": \"抢\"\r\n    },\r\n    \"bottom_bar\": {\r\n      \"input_placeholder\": \"说点什么...\",\r\n      \"icon_count\": 5,\r\n      \"icons\": [\"smiley face\", \"shopping cart\", \"heart/gift\", \"gift box\", \"three dots\"]\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"mobile live-streaming e-commerce interface mockup\",\n  \"subject\": {\n    \"description\": \"young Asian woman, long dark hair, wearing light-colored floral pajama set with a pink bow, holding the pajama top outward to show the fabric\",\n    \"background\": \"cozy room, clothing rack with pajamas, flowers, warm lighting\"\n  },\n  \"ui_layout\": {\n    \"top_bar\": {\n      \"time\": \"20:34\",\n      \"host_info\": {\n        \"name\": \"{argument name=\\\"host name\\\" default=\\\"Yu Pajamas\\\"}\",\n        \"stats\": \"128,000 likes this session\",\n        \"button\": \"Follow\"\n      },\n      \"viewer_info\": {\n        \"avatars_count\": 3,\n        \"total_viewers\": \"12,000\"\n      }\n    },\n    \"floating_tags\": {\n      \"count\": 2,\n      \"labels\": [\"Top 3 in sales ranking\", \"Popularity ranking\"]\n    },\n    \"widgets\": {\n      \"top_left\": \"red envelope icon with timer 03:45\",\n      \"top_right\": \"floating heart icon with text Live stream great items, discover new favorites\"\n    },\n    \"marketing_text_overlay\": {\n      \"position\": \"mid-right\",\n      \"lines_count\": 5,\n      \"lines\": [\n        \"{argument name=\\\"main headline\\\" default=\\\"New pajamas\\\"}\",\n        \"{argument name=\\\"sub headline\\\" default=\\\"Flash sale in progress...\\\"}\",\n        \"Skin-friendly and breathable\",\n        \"Soft and comfortable\",\n        \"Pilling-resistant and colorfast\"\n      ]\n    },\n    \"chat_log\": {\n      \"position\": \"bottom-left\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"32 Yu*** joined the live stream\",\n        \"Xiao***: Looks good, how much is it?\",\n        \"Xiao***: Ordered, waiting for shipping\",\n        \"C***: Quality looks good\",\n        \"Yong***: Height 165cm, weight 60kg, what size should I get?\",\n        \"@***: Is the item the host is wearing in stock?\",\n        \"Qing***: Ordered, waiting for delivery!\"\n      ]\n    },\n    \"product_card\": {\n      \"position\": \"bottom-right\",\n      \"thumbnail\": \"miniature of the host\",\n      \"title\": \"{argument name=\\\"product title\\\" default=\\\"[Yu Pajamas] New Spring Home Wear Set\\\"}\",\n      \"tags_count\": 2,\n      \"tags\": [\"7-day no reason return\", \"Shipping insurance\"],\n      \"price_section\": \"Flash sale price ¥ {argument name=\\\"product price\\\" default=\\\"89.9\\\"}\",\n      \"action_button\": \"Grab\"\n    },\n    \"bottom_bar\": {\n      \"input_placeholder\": \"Say something...\",\n      \"icon_count\": 5,\n      \"icons\": [\"smiley face\", \"shopping cart\", \"heart/gift\", \"gift box\", \"three dots\"]\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:49.675Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "应用界面样机图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Application Interface Mockup",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:24.701Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_369832755f",
+      "value": "应用界面样机图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-156",
+      "originalId": "case-156",
+      "authors": [
+        {
+          "name": "linxiaobei888",
+          "url": "https://x.com/linxiaobei888"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6295
+        }
+      ],
+      "rawSource": "[@linxiaobei888](https://x.com/linxiaobei888)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9584fb41b61584e5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case156.jpg",
+      "upstreamPath": "../data/images/case156.jpg",
+      "localPath": "public/assets/prompt_eef29c707ba1b3f5c09a/603ca44acbed.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "mockup",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

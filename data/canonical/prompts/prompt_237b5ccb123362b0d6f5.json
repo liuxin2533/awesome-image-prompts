@@ -1,0 +1,176 @@
+{
+  "id": "prompt_237b5ccb123362b0d6f5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"editorial product prompt template collage for GPT image 2.0\",\"canvas\":\"square 1:1 white studio background with soft rounded rectangular image panels, clean luxury fashion advertising layout, lots of white space\",\"header\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT image 2.0\\\"}\",\"subtext\":\"{argument name=\\\"subtitle text\\\" default=\\\"Prompt Template\\\"}\",\"position\":\"top left\",\"style\":\"elegant black serif headline with small handwritten italic subtitle\"},\"concept\":\"Create a high-fashion studio collage where oversized cosmetic and lifestyle products are held close to the camera by a hand, with stylish full-body fashion models posed behind or beside them. Faces should be intentionally obscured or softly blurred for privacy. Use realistic photography, crisp product text rendering, dramatic wide-angle perspective, glossy commercial lighting, and playful dynamic poses.\",\"layout\":{\"total_panels\":6,\"panels\":[{\"position\":\"top left\",\"shape\":\"rounded rectangle\",\"product\":\"large transparent pink lip gloss tube held toward camera\",\"model\":\"woman in glossy red cargo jumpsuit and pink top, low angle pose, pink platform heels, red jacket draped open\",\"mood\":\"bold beauty editorial\"},{\"position\":\"top center\",\"shape\":\"rounded rectangle\",\"product\":\"frosted glass SK-II skincare bottle with silver cap held close to lens\",\"model\":\"woman in hot pink top and red wide-leg pants stepping sideways in red heels\",\"mood\":\"premium skincare fashion\"},{\"position\":\"top right\",\"shape\":\"rounded rectangle\",\"product\":\"red Chanel nail polish bottle held in manicured hand with coral nails\",\"model\":\"woman in teal cropped jacket, coral tulle skirt, black heels, carrying a small dark handbag\",\"mood\":\"chic cosmetics street-style editorial\"},{\"position\":\"bottom left large\",\"shape\":\"large rounded rectangle spanning lower left\",\"product\":\"oversized CeraVe Hydrating Cleanser pump bottle held close to lens, readable green and blue label\",\"model\":\"woman seated in relaxed pose wearing white crop top, bright blue jacket, green loose pants, white sneakers\",\"mood\":\"fresh clean skincare campaign\"},{\"position\":\"middle right\",\"shape\":\"rounded rectangle\",\"product\":\"red Anua niacinamide serum dropper bottle held close to lens\",\"model\":\"woman in teal flowing blouse and coral skirt leaning dynamically behind product\",\"mood\":\"glowing serum beauty ad\"},{\"position\":\"bottom right\",\"shape\":\"rounded rectangle\",\"product\":\"white Nike Air Force 1 sneaker with black swoosh held forward\",\"model\":\"woman wearing cream cropped jacket, white crop top, black-and-cream pleated skirt\",\"mood\":\"sport-luxury fashion product shot\"}]},\"product_customization\":{\"primary product brand\":\"{argument name=\\\"primary product brand\\\" default=\\\"CeraVe\\\"}\",\"fashion palette\":\"{argument name=\\\"fashion color palette\\\" default=\\\"red, coral, teal, green, white, black\\\"}\",\"model style\":\"{argument name=\\\"model style\\\" default=\\\"diverse high-fashion female models with blurred faces\\\"}\"},\"visual_style\":\"hyper-realistic commercial product photography, studio flash, clean white seamless background, sharp products, slightly motion-filled model poses, wide-angle close-up hands, editorial magazine collage, rounded cards, subtle shadows, accurate readable packaging typography, premium social media template aesthetic\",\"quality\":\"ultra detailed, photorealistic, high resolution, polished advertising composition\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"适用于 GPT image 2.0 的编辑风格产品提示词模板拼贴\",\"canvas\":\"方形 1:1 白色摄影棚背景，带有柔和圆角矩形图片面板，简洁的奢华时尚广告布局，留白充足\",\"header\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT image 2.0\\\"}\",\"subtext\":\"{argument name=\\\"subtitle text\\\" default=\\\"提示词模板\\\"}\",\"position\":\"左上角\",\"style\":\"优雅的黑色衬线字体标题，配以小型手写斜体副标题\"},\"concept\":\"创作一张高级时尚摄影棚拼贴画，画面中超大号化妆品和生活方式产品由手部持握靠近镜头，时尚的全身模特在产品后方或侧方摆出姿势。出于隐私考虑，模特面部应刻意遮挡或进行柔焦处理。使用写实摄影风格、清晰的产品文字渲染、戏剧性的广角透视、光泽感的商业布光以及俏皮动感的姿势。\",\"layout\":{\"total_panels\":6,\"panels\":[{\"position\":\"左上\",\"shape\":\"圆角矩形\",\"product\":\"大型透明粉色唇彩管，朝向镜头\",\"model\":\"身穿光泽红色工装连体裤和粉色上衣的女性，低角度姿势，穿着粉色厚底高跟鞋，披着红色夹克\",\"mood\":\"大胆的美妆编辑风格\"},{\"position\":\"中上\",\"shape\":\"圆角矩形\",\"product\":\"磨砂玻璃材质的 SK-II 护肤瓶，银色瓶盖，靠近镜头\",\"model\":\"身穿亮粉色上衣和红色阔腿裤的女性，穿着红色高跟鞋侧身迈步\",\"mood\":\"高端护肤时尚\"},{\"position\":\"右上\",\"shape\":\"圆角矩形\",\"product\":\"红色 Chanel 指甲油瓶，由修剪整齐并涂有珊瑚色指甲油的手持握\",\"model\":\"身穿青色短款夹克、珊瑚色薄纱裙、黑色高跟鞋的女性，手提小型深色手袋\",\"mood\":\"别致的化妆品街拍编辑风格\"},{\"position\":\"左下大图\",\"shape\":\"横跨左下方的超大圆角矩形\",\"product\":\"超大号 CeraVe Hydrating Cleanser 泵头瓶，靠近镜头，绿色和蓝色标签清晰可见\",\"model\":\"身穿白色短款上衣、亮蓝色夹克、绿色宽松长裤、白色运动鞋的女性，以放松姿势就座\",\"mood\":\"清新洁净的护肤品营销活动\"},{\"position\":\"中右\",\"shape\":\"圆角矩形\",\"product\":\"红色 Anua 烟酰胺精华滴管瓶，靠近镜头\",\"model\":\"身穿青色飘逸衬衫和珊瑚色裙子的女性，在产品后方动态倚靠\",\"mood\":\"焕亮精华美妆广告\"},{\"position\":\"右下\",\"shape\":\"圆角矩形\",\"product\":\"白色 Nike Air Force 1 运动鞋，带有黑色 Swoosh 标志，向前展示\",\"model\":\"身穿米色短款夹克、白色短款上衣、黑米色百褶裙的女性\",\"mood\":\"运动奢华时尚产品拍摄\"}]},\"product_customization\":{\"primary product brand\":\"{argument name=\\\"primary product brand\\\" default=\\\"CeraVe\\\"}\",\"fashion palette\":\"{argument name=\\\"fashion color palette\\\" default=\\\"红色、珊瑚色、青色、绿色、白色、黑色\\\"}\",\"model style\":\"{argument name=\\\"model style\\\" default=\\\"面部模糊处理的多元化高级时尚女性模特\\\"}\"},\"visual_style\":\"超写实商业产品摄影，摄影棚闪光灯，简洁的白色无缝背景，产品清晰锐利，模特姿势略带动感，广角手部特写，编辑杂志拼贴风格，圆角卡片，微妙的阴影，准确且可读的包装排版，高级社交媒体模板美学\",\"quality\":\"超精细，照片级真实感，高分辨率，精致的广告构图\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"plantilla de prompt de collage de productos editoriales para GPT image 2.0\",\"canvas\":\"cuadrado 1:1 con fondo de estudio blanco, paneles de imagen rectangulares con bordes redondeados suaves, diseño de publicidad de moda de lujo limpio, mucho espacio en blanco\",\"header\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT image 2.0\\\"}\",\"subtext\":\"{argument name=\\\"subtitle text\\\" default=\\\"Plantilla de Prompt\\\"}\",\"position\":\"arriba a la izquierda\",\"style\":\"elegante titular con serifa en negro y subtítulo pequeño en cursiva manuscrita\"},\"concept\":\"Crea un collage de estudio de alta costura donde productos cosméticos y de estilo de vida de gran tamaño sean sostenidos cerca de la cámara por una mano, con modelos de moda de cuerpo completo posando detrás o al lado. Los rostros deben estar intencionalmente ocultos o suavemente desenfocados por privacidad. Usa fotografía realista, renderizado de texto de producto nítido, perspectiva dramática de gran angular, iluminación comercial brillante y poses dinámicas y divertidas.\",\"layout\":{\"total_panels\":6,\"panels\":[{\"position\":\"arriba a la izquierda\",\"shape\":\"rectángulo redondeado\",\"product\":\"tubo de brillo labial rosa transparente grande sostenido hacia la cámara\",\"model\":\"mujer con mono cargo rojo brillante y top rosa, pose de ángulo bajo, tacones de plataforma rosas, chaqueta roja abierta\",\"mood\":\"editorial de belleza audaz\"},{\"position\":\"arriba al centro\",\"shape\":\"rectángulo redondeado\",\"product\":\"botella de cuidado de la piel SK-II de vidrio esmerilado con tapa plateada sostenida cerca del lente\",\"model\":\"mujer con top rosa fuerte y pantalones rojos de pierna ancha caminando de lado con tacones rojos\",\"mood\":\"moda de cuidado de la piel premium\"},{\"position\":\"arriba a la derecha\",\"shape\":\"rectángulo redondeado\",\"product\":\"botella de esmalte de uñas Chanel rojo sostenida en una mano manicurada con uñas color coral\",\"model\":\"mujer con chaqueta corta color verde azulado, falda de tul coral, tacones negros, llevando un bolso pequeño oscuro\",\"mood\":\"editorial de estilo urbano y cosméticos chic\"},{\"position\":\"abajo a la izquierda grande\",\"shape\":\"rectángulo redondeado grande que abarca la parte inferior izquierda\",\"product\":\"botella con dosificador de limpiador hidratante CeraVe de gran tamaño sostenida cerca del lente, etiqueta verde y azul legible\",\"model\":\"mujer sentada en pose relajada vistiendo top corto blanco, chaqueta azul brillante, pantalones holgados verdes, zapatillas blancas\",\"mood\":\"campaña de cuidado de la piel fresco y limpio\"},{\"position\":\"centro a la derecha\",\"shape\":\"rectángulo redondeado\",\"product\":\"botella de suero de niacinamida Anua roja con gotero sostenida cerca del lente\",\"model\":\"mujer con blusa fluida color verde azulado y falda coral inclinándose dinámicamente detrás del producto\",\"mood\":\"anuncio de belleza de suero radiante\"},{\"position\":\"abajo a la derecha\",\"shape\":\"rectángulo redondeado\",\"product\":\"zapatilla Nike Air Force 1 blanca con swoosh negro sostenida hacia adelante\",\"model\":\"mujer vistiendo chaqueta corta color crema, top corto blanco, falda plisada negra y crema\",\"mood\":\"foto de producto de moda deportivo-lujo\"}]},\"product_customization\":{\"primary product brand\":\"{argument name=\\\"primary product brand\\\" default=\\\"CeraVe\\\"}\",\"fashion palette\":\"{argument name=\\\"fashion color palette\\\" default=\\\"rojo, coral, verde azulado, verde, blanco, negro\\\"}\",\"model style\":\"{argument name=\\\"model style\\\" default=\\\"diversas modelos femeninas de alta costura con rostros desenfocados\\\"}\"},\"visual_style\":\"fotografía de producto comercial hiperrealista, flash de estudio, fondo blanco continuo limpio, productos nítidos, poses de modelos con ligero movimiento, manos en primer plano con gran angular, collage de revista editorial, tarjetas redondeadas, sombras sutiles, tipografía de empaque precisa y legible, estética de plantilla premium para redes sociales\",\"quality\":\"ultra detallado, fotorrealista, alta resolución, composición publicitaria pulida\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"redaktionelle Produkt-Prompt-Vorlagencollage für GPT image 2.0\",\"canvas\":\"quadratisch 1:1 weißer Studiohintergrund mit weich abgerundeten rechteckigen Bildfeldern, sauberes Luxus-Mode-Werbelayout, viel Weißraum\",\"header\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT image 2.0\\\"}\",\"subtext\":\"{argument name=\\\"subtitle text\\\" default=\\\"Prompt-Vorlage\\\"}\",\"position\":\"oben links\",\"style\":\"elegante schwarze Serifenschrift-Überschrift mit kleinem, handschriftlichem, kursivem Untertitel\"},\"concept\":\"Erstellen Sie eine High-Fashion-Studio-Collage, bei der übergroße Kosmetik- und Lifestyle-Produkte von einer Hand nah an die Kamera gehalten werden, mit stilvollen Ganzkörper-Fotomodels, die dahinter oder daneben posieren. Gesichter sollten aus Datenschutzgründen absichtlich verdeckt oder leicht unscharf sein. Verwenden Sie realistische Fotografie, gestochen scharfe Produkttextwiedergabe, dramatische Weitwinkelperspektive, glänzende kommerzielle Beleuchtung und verspielte, dynamische Posen.\",\"layout\":{\"total_panels\":6,\"panels\":[{\"position\":\"oben links\",\"shape\":\"abgerundetes Rechteck\",\"product\":\"große, transparente, pinkfarbene Lipgloss-Tube, die in Richtung Kamera gehalten wird\",\"model\":\"Frau in glänzendem roten Cargo-Jumpsuit und pinkfarbenem Oberteil, Froschperspektive, pinkfarbene Plateau-High-Heels, rote Jacke offen übergeworfen\",\"mood\":\"kühnes Beauty-Editorial\"},{\"position\":\"oben mitte\",\"shape\":\"abgerundetes Rechteck\",\"product\":\"mattierte SK-II Hautpflegeflasche aus Glas mit silberner Kappe, nah am Objektiv gehalten\",\"model\":\"Frau in pinkfarbenem Oberteil und roter Hose mit weitem Bein, die in roten High-Heels zur Seite schreitet\",\"mood\":\"Premium-Hautpflege-Mode\"},{\"position\":\"oben rechts\",\"shape\":\"abgerundetes Rechteck\",\"product\":\"rote Chanel Nagellackflasche, gehalten in einer manikürten Hand mit korallenfarbenen Nägeln\",\"model\":\"Frau in türkisfarbener Cropped-Jacke, korallenfarbenem Tüllrock, schwarzen High-Heels, trägt eine kleine dunkle Handtasche\",\"mood\":\"schickes Kosmetik-Streetstyle-Editorial\"},{\"position\":\"unten links groß\",\"shape\":\"großes abgerundetes Rechteck, das sich über die untere linke Seite erstreckt\",\"product\":\"übergroße CeraVe Hydrating Cleanser Pumpflasche, nah am Objektiv gehalten, lesbares grünes und blaues Etikett\",\"model\":\"Frau in entspannter Pose, trägt weißes bauchfreies Oberteil, leuchtend blaue Jacke, grüne lockere Hose, weiße Sneaker\",\"mood\":\"frische, saubere Hautpflege-Kampagne\"},{\"position\":\"mitte rechts\",\"shape\":\"abgerundetes Rechteck\",\"product\":\"rote Anua Niacinamide Serum-Tropfflasche, nah am Objektiv gehalten\",\"model\":\"Frau in fließender türkisfarbener Bluse und korallenfarbenem Rock, die sich dynamisch hinter das Produkt lehnt\",\"mood\":\"strahlende Serum-Beauty-Anzeige\"},{\"position\":\"unten rechts\",\"shape\":\"abgerundetes Rechteck\",\"product\":\"weißer Nike Air Force 1 Sneaker mit schwarzem Swoosh, nach vorne gehalten\",\"model\":\"Frau in cremefarbener Cropped-Jacke, weißem bauchfreien Oberteil, schwarz-cremefarbenem Plisseerock\",\"mood\":\"Sport-Luxus-Mode-Produktaufnahme\"}]},\"product_customization\":{\"primary product brand\":\"{argument name=\\\"primary product brand\\\" default=\\\"CeraVe\\\"}\",\"fashion palette\":\"{argument name=\\\"fashion color palette\\\" default=\\\"rot, koralle, türkis, grün, weiß, schwarz\\\"}\",\"model style\":\"{argument name=\\\"model style\\\" default=\\\"diverse High-Fashion-Fotomodels mit unscharfen Gesichtern\\\"}\"},\"visual_style\":\"hyperrealistische kommerzielle Produktfotografie, Studioblitz, sauberer weißer nahtloser Hintergrund, scharfe Produkte, leicht bewegungsreiche Modelposen, Weitwinkel-Nahaufnahmen der Hände, redaktionelle Magazin-Collage, abgerundete Karten, subtile Schatten, präzise lesbare Verpackungstypografie, erstklassige Social-Media-Vorlagenästhetik\",\"quality\":\"ultra-detailliert, fotorealistisch, hohe Auflösung, polierte Werbekomposition\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"modèle de prompt de collage de produits éditoriaux pour GPT image 2.0\",\"canvas\":\"carré 1:1, fond de studio blanc avec des panneaux d'images rectangulaires aux coins arrondis, mise en page publicitaire de mode de luxe épurée, beaucoup d'espace blanc\",\"header\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT image 2.0\\\"}\",\"subtext\":\"{argument name=\\\"subtitle text\\\" default=\\\"Modèle de prompt\\\"}\",\"position\":\"en haut à gauche\",\"style\":\"titre élégant en police serif noire avec un petit sous-titre manuscrit en italique\"},\"concept\":\"Créez un collage de studio haute couture où des produits cosmétiques et lifestyle surdimensionnés sont tenus près de l'appareil photo par une main, avec des mannequins élégants en pied posant derrière ou à côté d'eux. Les visages doivent être intentionnellement masqués ou légèrement floutés pour des raisons de confidentialité. Utilisez une photographie réaliste, un rendu net du texte des produits, une perspective grand-angle dramatique, un éclairage commercial brillant et des poses dynamiques et ludiques.\",\"layout\":{\"total_panels\":6,\"panels\":[{\"position\":\"en haut à gauche\",\"shape\":\"rectangle arrondi\",\"product\":\"grand tube de brillant à lèvres rose transparent tenu vers l'appareil photo\",\"model\":\"femme en combinaison cargo rouge brillant et haut rose, pose en contre-plongée, talons compensés roses, veste rouge ouverte\",\"mood\":\"éditorial beauté audacieux\"},{\"position\":\"en haut au centre\",\"shape\":\"rectangle arrondi\",\"product\":\"flacon de soin SK-II en verre dépoli avec bouchon argenté tenu près de l'objectif\",\"model\":\"femme en haut rose vif et pantalon rouge large marchant de côté en talons rouges\",\"mood\":\"soin de la peau premium\"},{\"position\":\"en haut à droite\",\"shape\":\"rectangle arrondi\",\"product\":\"flacon de vernis à ongles Chanel rouge tenu dans une main manucurée aux ongles corail\",\"model\":\"femme en veste courte bleu sarcelle, jupe en tulle corail, talons noirs, portant un petit sac à main sombre\",\"mood\":\"éditorial cosmétique chic style urbain\"},{\"position\":\"en bas à gauche grand\",\"shape\":\"grand rectangle arrondi couvrant le bas gauche\",\"product\":\"flacon pompe surdimensionné de nettoyant hydratant CeraVe tenu près de l'objectif, étiquette verte et bleue lisible\",\"model\":\"femme assise dans une pose décontractée portant un haut court blanc, une veste bleu vif, un pantalon large vert, des baskets blanches\",\"mood\":\"campagne de soin fraîche et propre\"},{\"position\":\"au milieu à droite\",\"shape\":\"rectangle arrondi\",\"product\":\"flacon compte-gouttes de sérum à la niacinamide Anua rouge tenu près de l'objectif\",\"model\":\"femme en chemisier fluide bleu sarcelle et jupe corail se penchant dynamiquement derrière le produit\",\"mood\":\"publicité beauté sérum éclat\"},{\"position\":\"en bas à droite\",\"shape\":\"rectangle arrondi\",\"product\":\"baskets Nike Air Force 1 blanches avec virgule noire tenues vers l'avant\",\"model\":\"femme portant une veste courte crème, un haut court blanc, une jupe plissée noire et crème\",\"mood\":\"photo de produit mode sport-luxe\"}]},\"product_customization\":{\"primary product brand\":\"{argument name=\\\"primary product brand\\\" default=\\\"CeraVe\\\"}\",\"fashion palette\":\"{argument name=\\\"fashion color palette\\\" default=\\\"rouge, corail, bleu sarcelle, vert, blanc, noir\\\"}\",\"model style\":\"{argument name=\\\"model style\\\" default=\\\"mannequins femmes haute couture diversifiés avec visages floutés\\\"}\"},\"visual_style\":\"photographie de produit commerciale hyper-réaliste, flash de studio, fond blanc uni épuré, produits nets, poses de mannequins légèrement en mouvement, mains en gros plan grand-angle, collage de magazine éditorial, cartes arrondies, ombres subtiles, typographie d'emballage précise et lisible, esthétique de modèle pour réseaux sociaux premium\",\"quality\":\"ultra détaillé, photoréaliste, haute résolution, composition publicitaire soignée\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"modello di prompt per collage editoriale di prodotti per GPT image 2.0\",\"canvas\":\"quadrato 1:1 con sfondo da studio bianco, pannelli immagine rettangolari con angoli arrotondati, layout pubblicitario di moda lussuoso e pulito, ampio spazio bianco\",\"header\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT image 2.0\\\"}\",\"subtext\":\"{argument name=\\\"subtitle text\\\" default=\\\"Prompt Template\\\"}\",\"position\":\"in alto a sinistra\",\"style\":\"elegante titolo con font serif nero e sottotitolo in corsivo scritto a mano\"},\"concept\":\"Crea un collage da studio di alta moda in cui prodotti cosmetici e lifestyle di grandi dimensioni sono tenuti vicino alla fotocamera da una mano, con modelle alla moda in pose a figura intera dietro o accanto a essi. I volti devono essere intenzionalmente oscurati o leggermente sfocati per la privacy. Utilizza fotografia realistica, rendering nitido del testo del prodotto, prospettiva grandangolare drammatica, illuminazione commerciale lucida e pose dinamiche e giocose.\",\"layout\":{\"total_panels\":6,\"panels\":[{\"position\":\"in alto a sinistra\",\"shape\":\"rettangolo arrotondato\",\"product\":\"tubetto di lucidalabbra rosa trasparente tenuto verso la fotocamera\",\"model\":\"donna con tuta cargo rossa lucida e top rosa, posa dal basso, tacchi a piattaforma rosa, giacca rossa aperta\",\"mood\":\"editoriale di bellezza audace\"},{\"position\":\"in alto al centro\",\"shape\":\"rettangolo arrotondato\",\"product\":\"flacone di skincare SK-II in vetro satinato con tappo argentato tenuto vicino all'obiettivo\",\"model\":\"donna con top rosa acceso e pantaloni rossi a gamba larga che cammina di lato con tacchi rossi\",\"mood\":\"skincare premium\"},{\"position\":\"in alto a destra\",\"shape\":\"rettangolo arrotondato\",\"product\":\"boccetta di smalto Chanel rosso tenuta in una mano curata con unghie color corallo\",\"model\":\"donna con giacca corta color ottanio, gonna di tulle corallo, tacchi neri, con una piccola borsa scura\",\"mood\":\"editoriale cosmetico chic street-style\"},{\"position\":\"in basso a sinistra grande\",\"shape\":\"grande rettangolo arrotondato che copre la parte inferiore sinistra\",\"product\":\"flacone con erogatore di CeraVe Hydrating Cleanser sovradimensionato tenuto vicino all'obiettivo, etichetta verde e blu leggibile\",\"model\":\"donna seduta in posa rilassata con top bianco, giacca blu brillante, pantaloni larghi verdi, sneakers bianche\",\"mood\":\"campagna skincare fresca e pulita\"},{\"position\":\"al centro a destra\",\"shape\":\"rettangolo arrotondato\",\"product\":\"boccetta di siero alla niacinamide Anua rossa tenuta vicino all'obiettivo\",\"model\":\"donna con camicetta fluida color ottanio e gonna corallo che si sporge dinamicamente dietro il prodotto\",\"mood\":\"pubblicità di bellezza per un siero luminoso\"},{\"position\":\"in basso a destra\",\"shape\":\"rettangolo arrotondato\",\"product\":\"sneaker Nike Air Force 1 bianca con swoosh nero tenuta in avanti\",\"model\":\"donna con giacca corta color crema, top bianco, gonna a pieghe nera e crema\",\"mood\":\"scatto di prodotto moda sport-luxury\"}]},\"product_customization\":{\"primary product brand\":\"{argument name=\\\"primary product brand\\\" default=\\\"CeraVe\\\"}\",\"fashion palette\":\"{argument name=\\\"fashion color palette\\\" default=\\\"rosso, corallo, ottanio, verde, bianco, nero\\\"}\",\"model style\":\"{argument name=\\\"model style\\\" default=\\\"modelle diverse di alta moda con volti sfocati\\\"}\"},\"visual_style\":\"fotografia commerciale iper-realistica, flash da studio, sfondo bianco pulito senza giunture, prodotti nitidi, pose delle modelle leggermente dinamiche, primi piani grandangolari con mani, collage editoriale da rivista, schede arrotondate, ombre sottili, tipografia del packaging accurata e leggibile, estetica premium per modelli social media\",\"quality\":\"ultra dettagliato, fotorealistico, alta risoluzione, composizione pubblicitaria raffinata\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"modelo de prompt de colagem de produto editorial para GPT image 2.0\",\"canvas\":\"quadrado 1:1 com fundo de estúdio branco, painéis de imagem retangulares com cantos arredondados suaves, layout de publicidade de moda luxuosa e limpa, muito espaço em branco\",\"header\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT image 2.0\\\"}\",\"subtext\":\"{argument name=\\\"subtitle text\\\" default=\\\"Modelo de Prompt\\\"}\",\"position\":\"superior esquerdo\",\"style\":\"título elegante em serifa preta com subtítulo pequeno em itálico manuscrito\"},\"concept\":\"Crie uma colagem de estúdio de alta moda onde produtos cosméticos e de estilo de vida em tamanho grande são segurados perto da câmera por uma mão, com modelos de moda em corpo inteiro posando atrás ou ao lado deles. Os rostos devem ser intencionalmente obscurecidos ou levemente desfocados por privacidade. Use fotografia realista, renderização nítida de texto de produto, perspectiva grande-angular dramática, iluminação comercial brilhante e poses dinâmicas e divertidas.\",\"layout\":{\"total_panels\":6,\"panels\":[{\"position\":\"superior esquerdo\",\"shape\":\"retângulo arredondado\",\"product\":\"tubo grande de brilho labial rosa transparente segurado em direção à câmera\",\"model\":\"mulher de macacão cargo vermelho brilhante e top rosa, pose em ângulo baixo, saltos plataforma rosa, jaqueta vermelha aberta\",\"mood\":\"editorial de beleza ousado\"},{\"position\":\"superior central\",\"shape\":\"retângulo arredondado\",\"product\":\"frasco de skincare SK-II de vidro fosco com tampa prateada segurado perto da lente\",\"model\":\"mulher de top rosa choque e calça vermelha de perna larga caminhando de lado com saltos vermelhos\",\"mood\":\"moda premium de skincare\"},{\"position\":\"superior direito\",\"shape\":\"retângulo arredondado\",\"product\":\"frasco de esmalte Chanel vermelho segurado em mão com unhas feitas em coral\",\"model\":\"mulher de jaqueta curta azul-petróleo, saia de tule coral, saltos pretos, carregando uma pequena bolsa escura\",\"mood\":\"editorial chique de cosméticos estilo urbano\"},{\"position\":\"inferior esquerdo grande\",\"shape\":\"retângulo grande arredondado cobrindo a parte inferior esquerda\",\"product\":\"frasco pump de hidratante de limpeza CeraVe em tamanho grande segurado perto da lente, rótulo verde e azul legível\",\"model\":\"mulher sentada em pose relaxada vestindo top branco, jaqueta azul brilhante, calça solta verde, tênis branco\",\"mood\":\"campanha de skincare fresca e limpa\"},{\"position\":\"centro direito\",\"shape\":\"retângulo arredondado\",\"product\":\"frasco conta-gotas de sérum de niacinamida Anua vermelho segurado perto da lente\",\"model\":\"mulher de blusa fluida azul-petróleo e saia coral inclinando-se dinamicamente atrás do produto\",\"mood\":\"anúncio de beleza de sérum radiante\"},{\"position\":\"inferior direito\",\"shape\":\"retângulo arredondado\",\"product\":\"tênis Nike Air Force 1 branco com swoosh preto segurado para frente\",\"model\":\"mulher vestindo jaqueta curta creme, top branco, saia plissada preta e creme\",\"mood\":\"foto de produto de moda esporte-luxo\"}]},\"product_customization\":{\"primary product brand\":\"{argument name=\\\"primary product brand\\\" default=\\\"CeraVe\\\"}\",\"fashion palette\":\"{argument name=\\\"fashion color palette\\\" default=\\\"vermelho, coral, azul-petróleo, verde, branco, preto\\\"}\",\"model style\":\"{argument name=\\\"model style\\\" default=\\\"modelos femininas diversas de alta moda com rostos desfocados\\\"}\"},\"visual_style\":\"fotografia comercial de produto hiper-realista, flash de estúdio, fundo branco limpo e contínuo, produtos nítidos, poses de modelo com leve movimento, close-up grande-angular de mãos, colagem de revista editorial, cartões arredondados, sombras sutis, tipografia de embalagem precisa e legível, estética de modelo para redes sociais premium\",\"quality\":\"ultra detalhado, fotorrealista, alta resolução, composição publicitária polida\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Fashion Product Collage Template",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 时尚产品拼贴模板",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Plantilla de collage de productos de moda",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Fashion-Produkt-Collagen-Vorlage",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Modèle de collage de produits de mode",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Modello di collage per prodotti di moda",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Modelo de Colagem de Produtos de Moda",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a square editorial collage combining six close-up product advertisements with dynamic fashion model poses for beauty, skincare, and lifestyle campaigns.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个方形编辑风格的拼贴画，结合了六个产品特写广告与充满活力的时尚模特姿势，适用于美妆、护肤和生活方式类营销活动。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un collage éditorial carré combinant six publicités de produits en gros plan avec des poses de mannequins dynamiques pour des campagnes de beauté, de soins de la peau et de style de vie.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/MrMamba_NFT/status/2051322333692899623#reversed-0",
+      "originalId": "https://x.com/MrMamba_NFT/status/2051322333692899623#reversed-0",
+      "authors": [
+        {
+          "name": "Mr|Mamba",
+          "url": "https://x.com/MrMamba_NFT"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3951
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d4f7095ef539c0ee",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971085663_mwu667_HHfCx8-WsAEVOmx.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971085663_mwu667_HHfCx8-WsAEVOmx.jpg",
+      "localPath": "public/assets/prompt_237b5ccb123362b0d6f5/0b078ab3926c.jpg",
+      "alt": "Product Marketing - Fashion Product Collage Template - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.847Z"
+  }
+}

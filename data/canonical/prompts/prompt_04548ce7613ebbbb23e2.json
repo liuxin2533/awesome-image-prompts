@@ -1,0 +1,163 @@
+{
+  "id": "prompt_04548ce7613ebbbb23e2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Transform the uploaded image into cinematic 3-frame sequential film stills (horizontal frames stacked vertically), full bleed edge-to-edge. Each frame should show a different moment from the same scene, with clear progression. Vary the composition, camera angle, and distances to create a sense of movement and storytelling. Use a cinematic, {argument name=\"color tone\" default=\"cooler-toned\"}, high-contrast, deep-space blacks film with a natural color grade. Add subtle film grain, slight motion blur, and natural imperfections to emulate analog photography. Keep the composition candid and emotionally grounded, with a sense of movement and quiet storytelling. Overall aesthetic: cinematic, nostalgic, and organic, like raw film stills.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Cinematic film stills transformation prompt",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - Cinematic film stills transformation prompt",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for converting an image into a vertical stack of three sequential cinematic film stills.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/harboriis/status/2048791077587759547",
+      "originalId": "https://x.com/harboriis/status/2048791077587759547",
+      "authors": [
+        {
+          "name": "Harboris",
+          "url": "https://x.com/harboriis"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3633
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b7c31f008431aa63",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367259942_s0ic2c_HG7EoEHagAAvsPJ.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367259942_s0ic2c_HG7EoEHagAAvsPJ.jpg",
+      "localPath": "public/assets/prompt_04548ce7613ebbbb23e2/b1f69285a135.jpg",
+      "alt": "Comic / Storyboard - Cinematic film stills transformation prompt - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.563Z"
+  }
+}

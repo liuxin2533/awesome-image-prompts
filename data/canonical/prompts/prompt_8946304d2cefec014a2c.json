@@ -1,0 +1,106 @@
+{
+  "id": "prompt_8946304d2cefec014a2c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Show me the attached image as a snapshot from an actual anime",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "将附件中的图像显示为来自真实动漫的快照",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:45.016Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime Snapshot Conversion",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫快照转换",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:46.959Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Thereallo1026/status/2044241997163311569",
+      "originalId": "case-1",
+      "authors": [
+        {
+          "name": "Thereallo1026",
+          "url": "https://x.com/Thereallo1026"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 5
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3d4e46e7e27545b2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case1/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case1/output.jpg",
+      "localPath": "public/assets/prompt_8946304d2cefec014a2c/474e16331af6.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

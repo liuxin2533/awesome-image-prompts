@@ -1,0 +1,108 @@
+{
+  "id": "prompt_7dcd053c2abca7c4b675",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Ultra-realistic high-fashion magazine cover, black and white cinematic portrait of a confident young female model, slightly messy wet-look hair, sharp jawline, intense gaze, natural glossy lips, wearing a premium black leather trench coat over a minimal outfit.\nThe model is posing slightly tilted forward with attitude, hands adjusting the coat, accessorized with multiple rings, ear piercings, and layered chain necklaces.\nLighting is dramatic studio lighting with soft shadows, high contrast, editorial Vogue-style aesthetic, ultra-detailed skin texture, 8K resolution, sharp focus.\nBackground is minimal gradient grey with soft light streaks for depth.\nMagazine cover layout included:\nLarge bold serif title at top: “VOID ELITE”\nSubtitle small: “Edition 07 / 2026”\nLeft text: “NOT BUILT TO FOLLOW — BUILT TO DOMINATE”\nBottom left: “HIGH-FASHION STREET LUXURY”\nRight vertical text: “UNTOUCHABLE PRESENCE”\nBottom right: “SILENCE IS POWER”\nAdd a small holographic glitch-style label over the eyes with text “ICON”\nStyle: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic, modern typography, clean layout, ultra premium branding\n--ar 2:3 --style raw --quality 2 --sharp focus --photorealistic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超写实高级时尚杂志封面，自信年轻女性模特的黑白电影感肖像，略微凌乱湿润效果的头发，清晰的下颌线，锐利的眼神，自然有光泽的嘴唇，穿着高级黑色皮革风衣，搭配简约着装。\n模特以略向前倾斜的姿态摆出造型，充满自信，双手正在调整风衣，配饰包括多个戒指、耳钉和层叠的链条项链。\n灯光是戏剧性的影棚灯光，带有柔和的阴影和高对比度，编辑风格的Vogue美学，超精细的皮肤纹理，8K分辨率，锐利对焦。\n背景是简约的灰色渐变，带有柔和的光线条纹以增加深度。\n杂志封面布局包括：\n顶部大号粗衬线标题：\"VOID ELITE\"\n小号副标题：\"Edition 07 / 2026\"\n左侧文字：\"NOT BUILT TO FOLLOW — BUILT TO DOMINATE\"\n左下：\"HIGH-FASHION STREET LUXURY\"\n右侧垂直文字：\"UNTOUCHABLE PRESENCE\"\n右下：\"SILENCE IS POWER\"\n在眼睛上方添加一个带有\"ICON\"文字的全息故障风格小标签\n风格：奢华时尚编辑，Vogue，Harper's Bazaar，单色美学，现代排版，简洁布局，超高级品牌\n--ar 2:3 --style raw --quality 2 --sharp focus --photorealistic",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:59:01.330Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Monochrome Fashion Cover",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Field: title.translations.zh-CN\n\n单色时尚封面",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:58:42.198Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/sha_zdiii/status/2049088961008848905",
+      "originalId": "case-172",
+      "authors": [
+        {
+          "name": "sha_zdiii",
+          "url": "https://x.com/sha_zdiii"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1727
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_adb4ecb4323d4a43",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg",
+      "localPath": "public/assets/prompt_7dcd053c2abca7c4b675/a16fa51033e5.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-28T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.551Z"
+  }
+}

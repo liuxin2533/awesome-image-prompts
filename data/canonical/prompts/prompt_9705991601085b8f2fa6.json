@@ -1,0 +1,196 @@
+{
+  "id": "prompt_9705991601085b8f2fa6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-quality cinematic portrait in a 9:16 vertical aspect ratio showing {argument name=\"foreground person\" default=\"Sam Altman\"} standing in the left foreground outdoors in front of a traditional ornate dark wood Chinese-style building with intricate green lattice windows and carved architectural details. He faces the camera and wears a black zip-up jacket with a clearly visible white OpenAI logo on the chest. His arm is extended toward the viewer, holding 1 cigarette extremely close to the lens in the lower-left foreground, making the cigarette and hand large, soft, and out of focus with strong depth-of-field blur. Slightly behind him on the right stands {argument name=\"background person\" default=\"Elon Musk\"}, looking at the camera while holding 1 cigarette near his mouth, wearing a black T-shirt with a white xAI logo on the chest, with his other hand tucked into a pocket. Use warm golden-hour sunlight from the side, creating sharp shadows, realistic skin texture, high contrast, and a moody amber tone across the faces, clothing, and wooden facade. The composition should feel candid but polished, tightly cropped from about mid-thigh upward, with the foreground figure dominating the frame and the second figure partially overlapped behind him. Emphasize realistic photography, cinematic color grading, shallow depth of field, natural facial proportions, subtle smoke mood, and crisp branding details on the {argument name=\"left chest logo\" default=\"OpenAI\"} jacket and {argument name=\"right chest logo\" default=\"xAI\"} shirt.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张高质量的电影感肖像，采用 9:16 竖屏比例。画面中 {argument name=\"foreground person\" default=\"Sam Altman\"} 站在左侧前景，背景为一座传统的华丽深色木质中式建筑，配有精致的绿色格栅窗和雕刻建筑细节。他面向镜头，身穿黑色拉链夹克，胸前清晰可见白色的 OpenAI 标志。他的手臂向观众方向伸出，在左下角前景处握着 1 支香烟，使其极其靠近镜头，令香烟和手部显得巨大、柔和且失焦，呈现出强烈的景深模糊效果。在他右后方稍远处站着 {argument name=\"background person\" default=\"Elon Musk\"}，他正看向镜头，手中拿着 1 支香烟靠近嘴边，身穿黑色 T 恤，胸前印有白色 xAI 标志，另一只手插在口袋里。利用侧向的温暖黄金时刻阳光，营造出锐利的阴影、逼真的皮肤纹理、高对比度，并在面部、服装和木质外墙上呈现出富有情绪感的琥珀色调。构图应具有抓拍感但又不失精致，从大腿中部向上紧凑裁剪，前景人物占据画面主体，第二个人物在其后方部分重叠。强调写实摄影、电影级调色、浅景深、自然的脸部比例、微妙的烟雾氛围，以及 {argument name=\"left chest logo\" default=\"OpenAI\"} 夹克和 {argument name=\"right chest logo\" default=\"xAI\"} 衬衫上清晰的品牌细节。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Một bức chân dung điện ảnh chất lượng cao với tỷ lệ khung hình dọc 9:16, hiển thị {argument name=\"foreground person\" default=\"Sam Altman\"} đang đứng ở tiền cảnh bên trái, phía ngoài trời trước một tòa nhà truyền thống kiểu Trung Hoa bằng gỗ tối màu, với các cửa sổ lưới màu xanh lá cây tinh xảo và các chi tiết kiến trúc chạm khắc. Anh ấy hướng mặt về phía máy ảnh và mặc một chiếc áo khoác khóa kéo màu đen với logo OpenAI màu trắng hiển thị rõ ràng trên ngực. Cánh tay của anh ấy vươn về phía người xem, cầm 1 điếu thuốc ở vị trí cực gần ống kính tại tiền cảnh phía dưới bên trái, làm cho điếu thuốc và bàn tay trở nên lớn, mềm mại và mất nét với hiệu ứng xóa phông mạnh. Hơi lùi về phía sau bên phải là {argument name=\"background person\" default=\"Elon Musk\"}, đang nhìn vào máy ảnh trong khi cầm 1 điếu thuốc gần miệng, mặc áo phông đen với logo xAI màu trắng trên ngực, tay còn lại đút vào túi quần. Sử dụng ánh sáng mặt trời giờ vàng ấm áp từ một bên, tạo ra những bóng đổ sắc nét, kết cấu da chân thực, độ tương phản cao và tông màu hổ phách đầy tâm trạng trên khuôn mặt, quần áo và mặt tiền bằng gỗ. Bố cục mang lại cảm giác tự nhiên nhưng chỉn chu, được cắt cúp chặt từ khoảng giữa đùi trở lên, với nhân vật ở tiền cảnh chiếm ưu thế trong khung hình và nhân vật thứ hai bị che khuất một phần phía sau. Nhấn mạnh vào nhiếp ảnh chân thực, chỉnh màu điện ảnh, độ sâu trường ảnh nông, tỷ lệ khuôn mặt tự nhiên, hiệu ứng khói tinh tế và các chi tiết thương hiệu sắc nét trên chiếc áo khoác {argument name=\"left chest logo\" default=\"OpenAI\"} và chiếc áo {argument name=\"right chest logo\" default=\"xAI\"}.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un retrato cinematográfico de alta calidad en una relación de aspecto vertical 9:16 que muestra a {argument name=\"foreground person\" default=\"Sam Altman\"} de pie en el primer plano izquierdo, al aire libre, frente a un edificio tradicional de estilo chino de madera oscura, con intrincadas ventanas de celosía verde y detalles arquitectónicos tallados. Mira a la cámara y viste una chaqueta negra con cremallera con un logotipo de OpenAI blanco claramente visible en el pecho. Su brazo está extendido hacia el espectador, sosteniendo 1 cigarrillo extremadamente cerca del lente en el primer plano inferior izquierdo, haciendo que el cigarrillo y la mano se vean grandes, suaves y fuera de foco con un fuerte desenfoque de profundidad de campo. Ligeramente detrás de él, a la derecha, se encuentra {argument name=\"background person\" default=\"Elon Musk\"}, mirando a la cámara mientras sostiene 1 cigarrillo cerca de su boca, vistiendo una camiseta negra con un logotipo de xAI blanco en el pecho, con la otra mano metida en el bolsillo. Utiliza la cálida luz solar de la hora dorada desde un costado, creando sombras nítidas, textura de piel realista, alto contraste y un tono ámbar atmosférico en los rostros, la ropa y la fachada de madera. La composición debe sentirse espontánea pero pulida, con un encuadre ajustado desde aproximadamente la mitad del muslo hacia arriba, con la figura del primer plano dominando el encuadre y la segunda figura parcialmente superpuesta detrás de él. Enfatiza la fotografía realista, la gradación de color cinematográfica, la profundidad de campo reducida, las proporciones faciales naturales, un sutil ambiente de humo y detalles de marca nítidos en la chaqueta con {argument name=\"left chest logo\" default=\"OpenAI\"} y la camiseta con {argument name=\"right chest logo\" default=\"xAI\"}.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein hochwertiges, filmreifes Porträt im vertikalen 9:16-Format, das {argument name=\"foreground person\" default=\"Sam Altman\"} zeigt, wie er im linken Vordergrund im Freien vor einem traditionellen, reich verzierten Gebäude im chinesischen Stil mit komplexen grünen Gitterfenstern und geschnitzten architektonischen Details steht. Er blickt in die Kamera und trägt eine schwarze Reißverschlussjacke mit einem deutlich sichtbaren weißen OpenAI-Logo auf der Brust. Sein Arm ist in Richtung des Betrachters ausgestreckt und hält 1 Zigarette extrem nah an das Objektiv im linken unteren Vordergrund, wodurch die Zigarette und die Hand groß, weich und mit starker Tiefenunschärfe dargestellt werden. Etwas hinter ihm auf der rechten Seite steht {argument name=\"background person\" default=\"Elon Musk\"}, der in die Kamera blickt, während er 1 Zigarette nahe an seinem Mund hält; er trägt ein schwarzes T-Shirt mit einem weißen xAI-Logo auf der Brust, die andere Hand steckt in der Tasche. Verwenden Sie warmes Sonnenlicht der goldenen Stunde von der Seite, um scharfe Schatten, realistische Hauttexturen, hohen Kontrast und einen stimmungsvollen Bernsteinton auf den Gesichtern, der Kleidung und der Holzfassade zu erzeugen. Die Komposition sollte authentisch, aber poliert wirken, eng beschnitten ab etwa der Mitte der Oberschenkel, wobei die Vordergrundfigur den Bildausschnitt dominiert und die zweite Figur teilweise dahinter überlappt. Betonen Sie realistische Fotografie, filmisches Color Grading, geringe Schärfentiefe, natürliche Gesichtsproportionen, eine subtile Rauchstimmung und präzise Markendetails auf der Jacke mit dem {argument name=\"left chest logo\" default=\"OpenAI\"}-Logo und dem {argument name=\"right chest logo\" default=\"xAI\"}-Shirt.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un portrait cinématographique de haute qualité au format vertical 9:16 montrant {argument name=\"foreground person\" default=\"Sam Altman\"} debout au premier plan à gauche, en extérieur devant un bâtiment traditionnel chinois en bois sombre orné de fenêtres à treillis vert complexes et de détails architecturaux sculptés. Il fait face à l'appareil photo et porte une veste zippée noire avec un logo OpenAI blanc clairement visible sur la poitrine. Son bras est tendu vers le spectateur, tenant 1 cigarette extrêmement près de l'objectif au premier plan en bas à gauche, rendant la cigarette et la main grandes, douces et floues avec un fort effet de profondeur de champ. Légèrement derrière lui, sur la droite, se tient {argument name=\"background person\" default=\"Elon Musk\"}, regardant l'appareil photo tout en tenant 1 cigarette près de sa bouche, portant un t-shirt noir avec un logo xAI blanc sur la poitrine, son autre main étant glissée dans une poche. Utilisez la lumière chaude du soleil à l'heure dorée venant de côté, créant des ombres marquées, une texture de peau réaliste, un contraste élevé et une teinte ambrée atmosphérique sur les visages, les vêtements et la façade en bois. La composition doit paraître spontanée mais soignée, avec un cadrage serré à partir du milieu des cuisses, la figure au premier plan dominant le cadre et la seconde figure partiellement superposée derrière lui. Mettez l'accent sur une photographie réaliste, un étalonnage cinématographique, une faible profondeur de champ, des proportions faciales naturelles, une ambiance de fumée subtile et des détails de marque nets sur la veste {argument name=\"left chest logo\" default=\"OpenAI\"} et le t-shirt {argument name=\"right chest logo\" default=\"xAI\"}.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Un ritratto cinematografico di alta qualità con proporzioni verticali 9:16 che mostra {argument name=\"foreground person\" default=\"Sam Altman\"} in piedi in primo piano a sinistra, all'aperto, davanti a un tradizionale edificio in stile cinese in legno scuro, caratterizzato da intricate finestre a grata verdi e dettagli architettonici intagliati. Guarda verso la fotocamera e indossa una giacca nera con zip e il logo OpenAI bianco chiaramente visibile sul petto. Il suo braccio è teso verso l'osservatore, tenendo 1 sigaretta estremamente vicina all'obiettivo in basso a sinistra, rendendo la sigaretta e la mano grandi, morbide e fuori fuoco con un forte effetto di profondità di campo. Leggermente dietro di lui, sulla destra, si trova {argument name=\"background person\" default=\"Elon Musk\"}, che guarda verso la fotocamera mentre tiene 1 sigaretta vicino alla bocca, indossando una maglietta nera con il logo xAI bianco sul petto e l'altra mano in tasca. Utilizza la calda luce solare dell'ora d'oro proveniente dal lato, creando ombre nette, texture della pelle realistica, contrasto elevato e un tono ambrato suggestivo sui volti, sull'abbigliamento e sulla facciata in legno. La composizione deve risultare spontanea ma curata, con un taglio stretto da metà coscia in su, con la figura in primo piano che domina l'inquadratura e la seconda figura parzialmente sovrapposta dietro di lui. Enfatizza la fotografia realistica, la color correction cinematografica, la profondità di campo ridotta, le proporzioni facciali naturali, un'atmosfera sottile di fumo e dettagli nitidi del brand sulla giacca con {argument name=\"left chest logo\" default=\"OpenAI\"} e sulla maglietta con {argument name=\"right chest logo\" default=\"xAI\"}.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Um retrato cinematográfico de alta qualidade em proporção vertical 9:16 mostrando {argument name=\"foreground person\" default=\"Sam Altman\"} em pé no primeiro plano à esquerda, ao ar livre, em frente a um edifício tradicional chinês de madeira escura e ornamentada, com janelas de treliça verde intrincadas e detalhes arquitetônicos esculpidos. Ele está de frente para a câmera e veste uma jaqueta preta com zíper, com um logotipo branco da OpenAI claramente visível no peito. Seu braço está estendido em direção ao espectador, segurando 1 cigarro extremamente próximo à lente no canto inferior esquerdo, tornando o cigarro e a mão grandes, suaves e fora de foco com um forte desfoque de profundidade de campo. Ligeiramente atrás dele, à direita, está {argument name=\"background person\" default=\"Elon Musk\"}, olhando para a câmera enquanto segura 1 cigarro perto da boca, vestindo uma camiseta preta com um logotipo branco da xAI no peito, com a outra mão no bolso. Use a luz solar quente da \"golden hour\" vindo de lado, criando sombras nítidas, textura de pele realista, alto contraste e um tom âmbar atmosférico nos rostos, roupas e fachada de madeira. A composição deve parecer espontânea, porém polida, com corte justo da altura da coxa para cima, com a figura em primeiro plano dominando o quadro e a segunda figura parcialmente sobreposta atrás dele. Enfatize a fotografia realista, a gradação de cores cinematográfica, a profundidade de campo rasa, as proporções faciais naturais, a atmosfera sutil de fumaça e os detalhes nítidos das marcas na jaqueta com {argument name=\"left chest logo\" default=\"OpenAI\"} e na camisa com {argument name=\"right chest logo\" default=\"xAI\"}.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Cinematic Tech Leaders Smoking Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 科技领袖电影感吸烟肖像",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình thu nhỏ trên YouTube - Chân dung điện ảnh các nhà lãnh đạo công nghệ đang hút thuốc",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Retrato cinematográfico de líderes tecnológicos fumando",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Filmreifes Porträt von Tech-Größen beim Rauchen",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Portrait cinématographique de leaders de la tech en train de fumer",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Ritratto cinematografico di leader tecnologici che fumano",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Retrato Cinematográfico de Líderes de Tecnologia Fumando",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a dramatic vertical golden-hour portrait of two well-known tech figures in branded black clothing, useful for editorial-style AI photography and social media comparisons.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示词可生成两名知名科技人物身着品牌黑色服装、在黄金时刻拍摄的戏剧性竖版肖像，适用于编辑风格的 AI 摄影及社交媒体对比图。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ce prompt génère un portrait vertical dramatique à l'heure dorée de deux figures emblématiques de la tech vêtues de vêtements noirs de marque, idéal pour la photographie IA de style éditorial et les comparaisons sur les réseaux sociaux.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/harboriis/status/2049679797681598900#reversed-0",
+      "originalId": "https://x.com/harboriis/status/2049679797681598900#reversed-0",
+      "authors": [
+        {
+          "name": "Harboris",
+          "url": "https://x.com/harboriis"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2939
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_82bafafd00ff0b07",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777625706817_e7sxkl_HHHs6NGbYAAU9rf.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777625706817_e7sxkl_HHHs6NGbYAAU9rf.jpg",
+      "localPath": "public/assets/prompt_9705991601085b8f2fa6/2464595a000b.jpg",
+      "alt": "YouTube Thumbnail - Cinematic Tech Leaders Smoking Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_44035d6e162d951c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777625706761_28k9ua_HHHs6cOakAAUCLa.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777625706761_28k9ua_HHHs6cOakAAUCLa.jpg",
+      "localPath": "public/assets/prompt_9705991601085b8f2fa6/c409206fd600.jpg",
+      "alt": "YouTube Thumbnail - Cinematic Tech Leaders Smoking Portrait - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.624Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.882Z"
+  }
+}

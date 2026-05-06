@@ -1,0 +1,229 @@
+{
+  "id": "prompt_366a884dc4c2f9fc0ab9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "An anime-style illustration of a {argument name=\"action type\" default=\"high-impact martial arts battle\"} between two young female fighters in a {argument name=\"setting\" default=\"traditional wooden martial arts dojo\"}. In the foreground, a girl with black hair in a high bun wears a {argument name=\"character 1 color theme\" default=\"red and white\"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name=\"character 2 color theme\" default=\"green and purple\"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text \"{argument name=\"sign text\" default=\"武術会\"}\". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一幅极具动态感的动漫插画，描绘了两名少女在传统木质道场内进行激烈武术对决的场景。在前景中，一名留着 {argument name=\"character 1 hair\" default=\"黑色高丸子头配红色丝带\"} 的少女摆出强有力的低位武术架势，正奋力挥拳。她身穿 {argument name=\"character 1 outfit\" default=\"带有红色流苏的白色中式上衣和红色宽松长裤\"}，强烈的红色能量斩击环绕着她挥动的四肢。在右侧半空中，一名留着 {argument name=\"character 2 hair\" default=\"浅紫色双丸子头\"} 的少女优雅地跃起，自信地微笑着，身穿 {argument name=\"character 2 outfit\" default=\"带有金色刺绣的深绿色连衣裙和黑色紧身裤\"}，伴随着扫过的蓝色水流状能量轨迹。背景是质朴的木质寺庙内部，上方悬挂着一块写有“{argument name=\"sign text\" default=\"武術会\"}”的醒目招牌。场景充满了爆发性的动作感，飞扬的尘土、破碎的木质地板、发光的彩色粒子特效，以及将角色与精细背景完美区分开来的戏剧性低角度光影。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una ilustración de anime altamente dinámica de dos chicas enfrascadas en una feroz batalla de artes marciales dentro de un dojo de madera tradicional. En primer plano, una chica con {argument name=\"character 1 hair\" default=\"cabello negro en un moño alto con cintas rojas\"} adopta una postura de artes marciales baja y poderosa, lanzando su puño hacia adelante. Viste una {argument name=\"character 1 outfit\" default=\"blusa blanca estilo chino con borlas rojas y pantalones rojos holgados\"}, con intensos cortes de energía roja girando alrededor de sus extremidades al atacar. Suspendida en el aire a la derecha, una chica con {argument name=\"character 2 hair\" default=\"cabello morado claro en dos moños\"} salta con gracia, sonriendo con confianza mientras viste un {argument name=\"character 2 outfit\" default=\"vestido verde oscuro con bordados dorados y mallas negras\"}, acompañada por estelas de energía azul similares al agua. El fondo presenta el interior de un templo de madera rústico con un letrero prominente en la parte superior que dice \"{argument name=\"sign text\" default=\"武術会\"}\". La escena está llena de acción explosiva, polvo volando, tablas de madera destrozadas, efectos de partículas coloridas y brillantes, y una iluminación dramática en ángulo contrapicado que separa perfectamente a los personajes del detallado fondo.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Eine hochdynamische Anime-Illustration von zwei Mädchen in einem heftigen Kampfsport-Duell in einem traditionellen Dojo aus Holz. Im Vordergrund nimmt ein Mädchen mit {argument name=\"character 1 hair\" default=\"schwarzem Haar in einem hohen Dutt mit roten Bändern\"} eine kraftvolle, tiefe Kampfstellung ein und stößt ihre Faust nach vorne. Sie trägt ein {argument name=\"character 1 outfit\" default=\"weißes Oberteil im chinesischen Stil mit roten Quasten und einer weiten roten Hose\"}, während intensive rote Energieschleier um ihre schlagenden Gliedmaßen wirbeln. In der Luft auf der rechten Seite springt ein Mädchen mit {argument name=\"character 2 hair\" default=\"hellviolettem Haar in zwei Dutts\"} anmutig und lächelt selbstbewusst; sie trägt ein {argument name=\"character 2 outfit\" default=\"dunkelgrünes Kleid mit Goldstickerei und schwarzer Strumpfhose\"}, begleitet von weitläufigen, wasserartigen blauen Energiespuren. Der Hintergrund zeigt das Innere eines rustikalen Holztempels mit einem markanten Schild über dem Eingang, auf dem „{argument name=\"sign text\" default=\"武術会\"}“ steht. Die Szene ist voller explosiver Action, aufwirbelndem Staub, zerbrochenen Holzdielen, leuchtenden, farbenfrohen Partikeleffekten und einer dramatischen Low-Angle-Beleuchtung, die die Charaktere perfekt vom detaillierten Hintergrund abhebt.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une illustration anime hautement dynamique de deux filles engagées dans un féroce combat d'arts martiaux à l'intérieur d'un dojo traditionnel en bois. Au premier plan, une fille avec {argument name=\"character 1 hair\" default=\"des cheveux noirs en chignon haut avec des rubans rouges\"} adopte une posture d'arts martiaux puissante et basse, projetant son poing vers l'avant. Elle porte un {argument name=\"character 1 outfit\" default=\"haut blanc de style chinois avec des pompons rouges et un pantalon rouge ample\"}, avec d'intenses traînées d'énergie rouge tourbillonnant autour de ses membres en mouvement. En plein vol sur la droite, une fille avec {argument name=\"character 2 hair\" default=\"des cheveux violet clair en doubles chignons\"} bondit avec grâce, souriant avec assurance tout en portant une {argument name=\"character 2 outfit\" default=\"robe vert foncé avec des broderies dorées et des collants noirs\"}, accompagnée de traînées d'énergie bleue semblables à de l'eau. L'arrière-plan présente l'intérieur d'un temple rustique en bois avec une enseigne suspendue bien visible portant l'inscription \"{argument name=\"sign text\" default=\"武術会\"}\". La scène est remplie d'action explosive, de poussière en suspension, de lattes de parquet brisées, d'effets de particules colorées lumineuses et d'un éclairage dramatique en contre-plongée qui détache parfaitement les personnages de l'arrière-plan détaillé.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Un'illustrazione anime altamente dinamica di due ragazze impegnate in un feroce combattimento di arti marziali all'interno di un tradizionale dojo in legno. In primo piano, una ragazza con {argument name=\"character 1 hair\" default=\"capelli neri raccolti in uno chignon alto con nastri rossi\"} assume una potente posizione di arti marziali, spingendo il pugno in avanti. Indossa un {argument name=\"character 1 outfit\" default=\"top bianco in stile cinese con nappe rosse e pantaloni rossi larghi\"}, con intensi fendenti di energia rossa che vorticano attorno ai suoi arti. A mezz'aria sulla destra, una ragazza con {argument name=\"character 2 hair\" default=\"capelli viola chiaro raccolti in due chignon\"} salta con grazia, sorridendo con sicurezza e indossando un {argument name=\"character 2 outfit\" default=\"abito verde scuro con ricami dorati e calzamaglia nera\"}, accompagnata da scie di energia blu simili ad acqua. Lo sfondo presenta l'interno di un tempio rustico in legno con un'evidente insegna sospesa che recita \"{argument name=\"sign text\" default=\"武術会\"}\". La scena è ricca di azione esplosiva, polvere sollevata, assi del pavimento in legno frantumate, effetti particellari colorati e luminosi, e una drammatica illuminazione dal basso che separa perfettamente i personaggi dallo sfondo dettagliato.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma ilustração de anime altamente dinâmica de duas garotas envolvidas em uma batalha feroz de artes marciais dentro de um dojo de madeira tradicional. Em primeiro plano, uma garota com {argument name=\"character 1 hair\" default=\"cabelo preto em um coque alto com fitas vermelhas\"} assume uma postura de artes marciais poderosa e baixa, golpeando com o punho para frente. Ela veste um {argument name=\"character 1 outfit\" default=\"top estilo chinês branco com borlas vermelhas e calças vermelhas largas\"}, com intensos cortes de energia vermelha girando ao redor de seus membros em movimento. No ar, à direita, uma garota com {argument name=\"character 2 hair\" default=\"cabelo roxo claro em dois coques\"} salta graciosamente, sorrindo com confiança enquanto veste um {argument name=\"character 2 outfit\" default=\"vestido verde escuro com bordados dourados e meia-calça preta\"}, acompanhada por rastros de energia azul semelhantes a água. O fundo apresenta o interior de um templo de madeira rústico com uma placa suspensa proeminente lendo \"{argument name=\"sign text\" default=\"武術会\"}\". A cena é repleta de ação explosiva, poeira voando, tábuas de madeira estilhaçadas, efeitos de partículas coloridas brilhantes e uma iluminação dramática em ângulo baixo que separa perfeitamente os personagens do fundo detalhado.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime Martial Arts Battle Illustration",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫武术对决",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Batalla de artes marciales estilo anime",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Anime-Kampfsport-Duell",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Combat d'arts martiaux style anime",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Battaglia di arti marziali in stile anime",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Batalha de Artes Marciais em Estilo Anime",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a dynamic, high-impact anime illustration of two female characters fighting in a traditional dojo with elemental energy effects.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个动态的动漫风格动作场景，展示两个角色在传统道场中伴随元素光环进行战斗。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène d'action dynamique de style anime montrant deux personnages s'affrontant avec des auras élémentaires dans un dojo traditionnel.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Tanemomi_Ver2/status/2046063806846214265",
+      "originalId": "case-10",
+      "authors": [
+        {
+          "name": "Tanemomi_Ver2",
+          "url": "https://x.com/Tanemomi_Ver2"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 143
+        }
+      ]
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-22",
+      "originalId": "case-22",
+      "authors": [
+        {
+          "name": "Tanemomi_Ver2",
+          "url": "https://x.com/Tanemomi_Ver2"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 471
+        }
+      ],
+      "rawSource": "[@Tanemomi\\_Ver2](https://x.com/Tanemomi_Ver2)"
+    },
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0",
+      "originalId": "https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0",
+      "authors": [
+        {
+          "name": "たねもみ 2.0 / Tanemomi Ver2.0",
+          "url": "https://x.com/Tanemomi_Ver2"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 414
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_831fbbf7f95b6f11",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case10/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case10/output.jpg",
+      "localPath": "public/assets/prompt_366a884dc4c2f9fc0ab9/59739d351f1a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_d94b73e195cf05a2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case22.jpg",
+      "upstreamPath": "../data/images/case22.jpg",
+      "localPath": "public/assets/prompt_366a884dc4c2f9fc0ab9/b6595634d269.jpg",
+      "alt": "action type",
+      "status": "pending"
+    },
+    {
+      "id": "asset_d1f30bf59370a317",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg",
+      "localPath": "public/assets/prompt_366a884dc4c2f9fc0ab9/04a8ca342cb1.jpg",
+      "alt": "Anime Martial Arts Battle Illustration - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.553Z"
+  }
+}

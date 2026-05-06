@@ -1,0 +1,164 @@
+{
+  "id": "prompt_065f164b143f4917177f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dramatic Japanese light-novel cover illustration in high-detail anime fantasy style, square composition, showing a heroic ensemble posed for battle in a ruined mountain pass at sunset with cherry blossoms blowing through the air. The scene centers on {argument name=\"hero title\" default=\"Momotaro\"}, a young black-haired male warrior in glossy red samurai armor, crouched in the foreground and gripping a katana diagonally across his body. Beside him in the front-right foreground is a black-haired young woman in matching red armor with a high ponytail, also drawing a katana in a dynamic combat-ready pose. Around them stand 5 additional companions for a total of 7 characters: 1 brown-haired short-haired girl at front-left holding a short blade, 1 silver-haired angelic woman at upper-left with large white wings and a drawn bow, 1 tall red-haired warrior at top-center carrying a large weapon over the shoulder, 1 long straight black-haired shrine-maiden-like girl at upper-center-right in white and red with light armor, and 1 blonde girl at right holding a large ornate war hammer. Add a distant Japanese castle on the right background, jagged rocks and broken ground, glowing embers, drifting petals, and a luminous cloudy sky with strong backlight behind the group. Use cinematic fantasy lighting, epic adventure mood, polished painterly rendering, sharp detailed armor, flowing hair, layered depth, and a bold heroic poster feel. Include large Japanese title text across the top in metallic gold with black outline reading {argument name=\"top title text\" default=\"《御伽話ファンタジー》シン・桃太郎伝\"}, with a smaller Japanese subtitle beneath it in white with dark outline reading {argument name=\"top subtitle text\" default=\"～追放・転生した元神は、おとぎ話の世界の美少女たちと世界を救う!!\"}. Include large Japanese promotional text across the bottom in bright red with white outline reading {argument name=\"bottom catch text\" default=\"追放、転生した神・桃太郎。御伽話の美少女たちと試練乗り越えて鬼退治！\"}. Make it look like a commercial fantasy web novel or manga cover image, energetic, crowded, and visually striking.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Epic Momotaro Fantasy Cover",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - Epic Momotaro Fantasy Cover",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a dramatic ensemble-style anime fantasy cover with seven battle-ready characters, Japanese promotional text, and a polished light-novel or webtoon key visual look.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/hyzatu/status/2048784433076195518#reversed-3",
+      "originalId": "https://x.com/hyzatu/status/2048784433076195518#reversed-3",
+      "authors": [
+        {
+          "name": "ざつ＠『竜の姫と絆のユニゾン』『星槍とオムライス』『リリアンのプロの流儀』『B級グルメ革命』",
+          "url": "https://x.com/hyzatu"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3667
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c9937d258a38ec47",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367339611_8yalzt_HG6-WwPakAA20ML.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367339611_8yalzt_HG6-WwPakAA20ML.jpg",
+      "localPath": "public/assets/prompt_065f164b143f4917177f/ca87f8e0a225.jpg",
+      "alt": "Comic / Storyboard - Epic Momotaro Fantasy Cover - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.563Z"
+  }
+}

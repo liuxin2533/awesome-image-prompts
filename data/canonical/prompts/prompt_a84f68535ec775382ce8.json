@@ -1,0 +1,170 @@
+{
+  "id": "prompt_a84f68535ec775382ce8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "generate one board with three zones: \\n— Camera A ({argument name=\"camera a view\" default=\"front view, facing window\"}) \\n— Camera B ({argument name=\"camera b view\" default=\"true 180° reverse, sofa back in foreground\"})  — Prop detail strip: {argument name=\"prop list\" default=\"① lava lamp ②throw blanket ③mug ④CRT TV\"}\\n—each numbered, each with a close-up tile",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个包含三个区域的项目：\n— 摄像机 A ({argument name=\"camera a view\" default=\"正面视角，面向窗户\"})\n— 摄像机 B ({argument name=\"camera b view\" default=\"真实 180° 反打，前景为沙发靠背\"})\n— 道具细节条：{argument name=\"prop list\" default=\"①熔岩灯 ②毛毯 ③马克杯 ④CRT 电视机\"}\n— 每个道具均已编号，且每个都配有特写图块",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "genera un tablero con tres zonas: \\n— Cámara A ({argument name=\"camera a view\" default=\"vista frontal, frente a la ventana\"}) \\n— Cámara B ({argument name=\"camera b view\" default=\"reverso real de 180°, respaldo del sofá en primer plano\"}) — Franja de detalle de utilería: {argument name=\"prop list\" default=\"① lámpara de lava ② manta ③ taza ④ televisor CRT\"}\\n— cada uno numerado, cada uno con un recuadro de primer plano",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein Board mit drei Zonen: \n— Kamera A ({argument name=\"camera a view\" default=\"Frontansicht, Blick zum Fenster\"}) \n— Kamera B ({argument name=\"camera b view\" default=\"echte 180°-Gegenschuss, Sofarücken im Vordergrund\"}) — Requisiten-Detailstreifen: {argument name=\"prop list\" default=\"① Lavalampe ② Überwurfdecke ③ Tasse ④ Röhrenfernseher\"}\n— jede nummeriert, jeweils mit einem Nahaufnahme-Kachel",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "générer un tableau avec trois zones : \\n— Caméra A ({argument name=\"camera a view\" default=\"vue de face, face à la fenêtre\"}) \\n— Caméra B ({argument name=\"camera b view\" default=\"vrai 180° inversé, dossier du canapé au premier plan\"}) — Bande de détails des accessoires : {argument name=\"prop list\" default=\"① lampe à lave ② plaid ③ mug ④ téléviseur CRT\"}\\n— chaque élément numéroté, accompagné d'une vignette en gros plan",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "genera una tavola con tre zone: \\n— Camera A ({argument name=\"camera a view\" default=\"vista frontale, rivolta verso la finestra\"}) \\n— Camera B ({argument name=\"camera b view\" default=\"inversione a 180° reale, schienale del divano in primo piano\"}) — Striscia dei dettagli degli oggetti di scena: {argument name=\"prop list\" default=\"① lampada di lava ②coperta ③tazza ④TV CRT\"}\\n—ognuno numerato, ciascuno con un riquadro per il primo piano",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "gere um quadro com três zonas: \\n— Câmera A ({argument name=\"camera a view\" default=\"vista frontal, de frente para a janela\"}) \\n— Câmera B ({argument name=\"camera b view\" default=\"reverso real de 180°, encosto do sofá em primeiro plano\"}) — Faixa de detalhes de objetos: {argument name=\"prop list\" default=\"① luminária de lava ②manta ③caneca ④TV de tubo\"}\\n—cada um numerado, cada um com um quadro de close-up",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Spatial Art Director Storyboard",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 空间艺术总监项目",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Storyboard de Director de Arte Espacial",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Storyboard de directeur artistique spatial",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Storyboard per Art Director Spaziale",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Storyboard de Diretor de Arte Espacial",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A structured prompt for generating a spatial location board with multiple camera angles and numbered prop details, acting as a set dressing guide.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个结构化的提示词，用于生成包含多个摄像机角度和编号道具细节的空间位置项目，作为场景布置指南。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt structuré pour générer un plan de situation spatiale avec plusieurs angles de caméra et des détails d'accessoires numérotés, servant de guide pour l'habillage de plateau.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Iancu_ai/status/2051287273581203888",
+      "originalId": "https://x.com/Iancu_ai/status/2051287273581203888",
+      "authors": [
+        {
+          "name": "Mr.Iancu",
+          "url": "https://x.com/Iancu_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3701
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e12b63b72f9ff2ab",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971026338_xmtsvl_HHZ8ksxWUAEhBxd.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971026338_xmtsvl_HHZ8ksxWUAEhBxd.jpg",
+      "localPath": "public/assets/prompt_a84f68535ec775382ce8/5ac81bb823c3.jpg",
+      "alt": "Comic / Storyboard - Spatial Art Director Storyboard - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.865Z"
+  }
+}

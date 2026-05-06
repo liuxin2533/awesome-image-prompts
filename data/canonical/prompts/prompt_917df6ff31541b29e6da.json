@@ -1,0 +1,134 @@
+{
+  "id": "prompt_917df6ff31541b29e6da",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{argument name=\"subject\" default=\"A beautiful internet celebrity\"} is live-streaming a {argument name=\"activity\" default=\"game\"}.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{argument name=\"subject\" default=\"A beautiful internet celebrity\"} is live-streaming a {argument name=\"activity\" default=\"game\"}.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:56:55.216Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "综合应用场景图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Comprehensive Application Scenario Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:57:23.801Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_00ed43dcfb",
+      "value": "综合应用场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-108",
+      "originalId": "case-108",
+      "authors": [
+        {
+          "name": "underwoodxie96",
+          "url": "https://x.com/underwoodxie96"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4178
+        }
+      ],
+      "rawSource": "[@underwoodxie96](https://x.com/underwoodxie96)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-109",
+      "originalId": "case-109",
+      "authors": [
+        {
+          "name": "underwoodxie96",
+          "url": "https://x.com/underwoodxie96"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4194
+        }
+      ],
+      "rawSource": "[@underwoodxie96](https://x.com/underwoodxie96)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f8b98ca39c91a098",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case108.jpg",
+      "upstreamPath": "../data/images/case108.jpg",
+      "localPath": "public/assets/prompt_917df6ff31541b29e6da/7764727babc3.jpg",
+      "alt": "subject",
+      "status": "pending"
+    },
+    {
+      "id": "asset_b33d2c2f887668f6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case109.jpg",
+      "upstreamPath": "../data/images/case109.jpg",
+      "localPath": "public/assets/prompt_917df6ff31541b29e6da/f4ed984717d4.jpg",
+      "alt": "subject",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "diagram"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

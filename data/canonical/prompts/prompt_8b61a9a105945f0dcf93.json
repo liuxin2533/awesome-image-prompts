@@ -1,0 +1,101 @@
+{
+  "id": "prompt_8b61a9a105945f0dcf93",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A polished anime-style portrait of {argument name=\"character\" default=\"a blonde female VTuber-inspired maid\"} seated indoors in a cozy sunlit cafe, framed from upper thighs to head in a slightly high, intimate angle. She has short to medium-length tousled {argument name=\"hair color\" default=\"golden blonde\"} hair with soft layers, a white frilled maid headband, and a teal ribbon hair accessory with a small gold ornament on the right side. Her face is mostly obscured by the hair falling forward, creating a mysterious hidden-face composition. She wears an elegant black-and-white maid dress with puff sleeves, white ruffles, gold trim, a fitted bodice, a white apron, and a large white waist bow visible at the side and back. Add 2 teal bows with gold star-like charms: 1 at the collar and 1 on the wrist. Her right hand gently touches the bow at her chest, and her left hand is raised delicately near her shoulder holding a loose strand of hair. Include a frilly lace garter on her exposed thigh with a small teal-and-gold ribbon decoration. The background is a warmly lit European-style cafe interior with wooden beams, framed botanical art on the walls, a softly blurred cake stand on the left, window light streaming in, and tiny glowing dust-like sparkles in the air. Use soft golden afternoon lighting, shallow depth of field, glossy detailed fabric rendering, delicate skin shading, subtle romantic atmosphere, and highly detailed refined anime illustration quality.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个精致动漫风格的肖像画，描绘了{argument name=\"character\" default=\"一位金色女性虚拟主播风格的女仆\"}坐在室内舒适的阳光咖啡馆中，从大腿上部到头部以略微偏高、亲密的角度构图。她有短至中长度的凌乱{argument name=\"hair color\" default=\"金金色\"}头发，带有柔软的层次，白色褶皱女仆发带，以及右侧有一个小金色装饰的蓝绿色丝带发饰。她的脸大部分被向前垂落的头发遮挡，形成神秘的隐藏面部构图。她穿着优雅的黑白女仆装，带有泡泡袖、白色褶边、金色镶边、合身紧身胸衣、白色围裙，以及侧面和背部可见的大白色蝴蝶结。添加2个带有金色星形装饰物的蓝绿色蝴蝶结：1个在衣领处，1个在手腕处。她的右手轻触胸前的蝴蝶结，左手优雅地抬至肩膀附近，拿着一缕松散的头发。在她暴露的大腿上添加一个带小蓝绿色和金色丝带装饰的蕾丝吊袜带。背景是温暖照明的欧式咖啡馆内部，有木梁、墙上装裱的植物艺术、左侧柔和模糊的蛋糕架、透入的窗光，以及空气中微小的发光尘埃般的光点。使用柔和的金色下午光线，浅景深，有光泽的精细织物渲染，细腻的皮肤阴影，微妙的浪漫氛围，以及高度精细的精美动漫插画质量。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:24:08.825Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Blonde Maid in Warm Cafe",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/yume00112211/status/2048072808606089230",
+      "originalId": "case-90",
+      "authors": [
+        {
+          "name": "yume00112211",
+          "url": "https://x.com/yume00112211"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 545
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f416c2187ae55b4d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case90/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case90/output.jpg",
+      "localPath": "public/assets/prompt_8b61a9a105945f0dcf93/008002d114af.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.558Z"
+  }
+}

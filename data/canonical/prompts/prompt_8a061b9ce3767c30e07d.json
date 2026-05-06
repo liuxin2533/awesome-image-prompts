@@ -1,0 +1,107 @@
+{
+  "id": "prompt_8a061b9ce3767c30e07d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "帮我生成一个介绍杭州西湖的海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "帮我生成一个介绍杭州西湖的海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:28.956Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Hangzhou West Lake Travel Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "杭州西湖旅游海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:31.007Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/BNBOKBt5/status/2047210189741605082",
+      "originalId": "case-63",
+      "authors": [
+        {
+          "name": "BNBOKBt5",
+          "url": "https://x.com/BNBOKBt5"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 820
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dffc5f1dc41fec84",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg",
+      "localPath": "public/assets/prompt_8a061b9ce3767c30e07d/4621bf252d0d.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

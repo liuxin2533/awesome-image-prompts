@@ -1,0 +1,94 @@
+{
+  "id": "prompt_e755f9ce478560fc0865",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A trendy young woman sitting at an outdoor café table, holding a hot coffee cup near her lips. She has short curly black hair and wears oversized tinted sunglasses, a cropped beige sweater, loose brown high-waisted pants, and chunky white sneakers. A tote bag with minimal coffee-themed illustrations hangs on her shoulder.\n\nThe scene blends realistic photography with playful 2D cartoon overlays. Floating around her are animated coffee elements: a smiling cappuccino cup with heart-shaped latte art, cute coffee beans with tiny faces, and stylized splashes of caramel forming comic-style shapes. Soft doodle steam rises into hearts and stars.\n\nOn the table: a croissant, a notebook with sketch drawings, and a second coffee cup.\n\nBackground: a realistic cozy café street with brick walls, plants, warm golden hour lighting, and soft shadows. Slight depth of field, subject in sharp focus.\n\nStyle: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, high saturation but warm tones, clean composition, Instagram-worthy, soft glow, 4k detail.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "咖啡馆写实照片与 2D 涂鸦叠加",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "2d",
+      "value": "咖啡馆写实照片与 2D 涂鸦叠加",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-366",
+      "originalId": "case-366",
+      "authors": [
+        {
+          "name": "Jawad_Rahman_",
+          "url": "https://x.com/Jawad_Rahman_/status/2049796647237066971"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6572
+        }
+      ],
+      "rawSource": "[@Jawad\\_Rahman\\_](https://x.com/Jawad_Rahman_/status/2049796647237066971)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b70ff4c2228e6eca",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case366.jpg",
+      "upstreamPath": "../data/images/case366.jpg",
+      "localPath": "public/assets/prompt_e755f9ce478560fc0865/69bfd5a6e421.jpg",
+      "alt": "咖啡馆写实照片与 2D 涂鸦叠加",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.866Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.932Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "prompt_f6a917cb3aaeb0c33148",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Ultra-realistic conceptual portrait of a young woman with long wavy hair and soft defined features, wearing rose-tinted rectangular sunglasses, an oversized ivory cropped t-shirt, fitted light-wash denim jeans, and clean white sneakers. She is sitting casually with a confident yet relaxed posture.\n\nThe twist: she is seated on a large, hyper-realistic version of her own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.\n\nComposition: centered, full-body shot, neutral studio background with soft blush and cream tones, minimal aesthetic. Clean negative space.\n\nTypography integrated into the background:\n\nHandwritten-style text at the top: \"OVERTHINKING\"\n\nBelow it, smaller text: \"TRAPPED IN MY OWN HEART\" with \"HEART\" crossed out\n\nLarge, rough, scribbled text in deep pink: \"MIND\"\n\nLighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.\n\nStyle: blend of surrealism and modern luxury streetwear campaign, pastel feminine aesthetic, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.\n\nMood: introspective, emotional weight, identity, self-awareness, quiet confidence.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Ultra-realistic conceptual portrait of a young woman with long wavy hair and soft defined features, wearing rose-tinted rectangular sunglasses, an oversized ivory cropped t-shirt, fitted light-wash denim jeans, and clean white sneakers. She is sitting casually with a confident yet relaxed posture.\n\nThe twist: she is seated on a large, hyper-realistic version of her own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.\n\nComposition: centered, full-body shot, neutral studio background with soft blush and cream tones, minimal aesthetic. Clean negative space.\n\nTypography integrated into the background:\n\nHandwritten-style text at the top: \"OVERTHINKING\"\n\nBelow it, smaller text: \"TRAPPED IN MY OWN HEART\" with \"HEART\" crossed out\n\nLarge, rough, scribbled text in deep pink: \"MIND\"\n\nLighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.\n\nStyle: blend of surrealism and modern luxury streetwear campaign, pastel feminine aesthetic, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.\n\nMood: introspective, emotional weight, identity, self-awareness, quiet confidence.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:43:37.161Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "过度思考超现实街头 Campaign",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Overthinking Surreal Street Campaign",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:43:42.314Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "campaign",
+      "value": "过度思考超现实街头 Campaign",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-356",
+      "originalId": "case-356",
+      "authors": [
+        {
+          "name": "AIwithAliya",
+          "url": "https://x.com/AIwithAliya/status/2049044716642316758"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6209
+        }
+      ],
+      "rawSource": "[@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8febda7c4edd02ad",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case356.jpg",
+      "upstreamPath": "../data/images/case356.jpg",
+      "localPath": "public/assets/prompt_f6a917cb3aaeb0c33148/ad68496d9139.jpg",
+      "alt": "过度思考超现实街头 Campaign",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "prompt_608df0d4ae3b0448e7a7",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "可爱地解释一下大语言模型训练过程",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Cute explanation of the large language model training process",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "萌系大模型训练图解",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_ceb81f74f4",
+      "value": "萌系大模型训练图解",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-210",
+      "originalId": "case-210",
+      "authors": [
+        {
+          "name": "op7418",
+          "url": "https://x.com/op7418/status/2046502136973001143"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1367
+        }
+      ],
+      "rawSource": "[@op7418](https://x.com/op7418/status/2046502136973001143)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cd3d56e649407c54",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case210.jpg",
+      "upstreamPath": "../data/images/case210.jpg",
+      "localPath": "public/assets/prompt_608df0d4ae3b0448e7a7/dcaca9beb71a.jpg",
+      "alt": "萌系大模型训练图解",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

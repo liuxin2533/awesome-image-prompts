@@ -1,0 +1,166 @@
+{
+  "id": "prompt_cd4598f3d378ed85fa5d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A polished anime-style illustration of a young shrine maiden named {argument name=\"character name\" default=\"音慰\"} standing inside a traditional Japanese shrine amulet office, shown from about thigh-up behind a wooden counter. She has long, straight {argument name=\"hair color\" default=\"black\"} hair with a center part and soft shine, pale skin, and a calm, gentle presence. Her face is centered and front-facing, but the facial area is obscured by a rectangular blur block. She wears a crisp white kimono-style top with wide sleeves and a deep red hakama tied in a large bow at the waist, conveying a classic miko outfit. Both hands are presenting a white embroidered omamori charm toward the viewer, holding it carefully at chest level; the charm has a gold cord knot at the top and the vertical kanji text \"御守\" on the front. In the foreground on the counter is a wooden display tray containing exactly 10 visible omamori charms in multiple colors: white, pink, red, purple, and gold-patterned variants, each with decorative cords and gold or white embroidery. To the right on the counter are 3 neat stacks of paper shrine talismans or packets, each labeled in Japanese; the rightmost stack is tied with a red-and-gold mizuhiki cord. On the left side of the counter is a small wooden price sign reading \"初穂料 800円\". The shrine interior is warmly lit with natural sunlight entering from a large wooden-framed window on the left, creating a serene, clean atmosphere. Through the window, a red railing and softly blurred shrine grounds and greenery are visible. In the background are wooden shelves and traditional decor, plus a vertical hanging sign with Japanese text reading \"御守 御札\" and smaller text \"各種祈願承ります\". The composition is centered on the miko and the offered charm, with soft depth of field, delicate fabric folds, realistic hands, refined linework, and a high-quality modern anime rendering style that emphasizes the subject more than the environment.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Shrine Maiden Offering an Omamori",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Shrine Maiden Offering an Omamori",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a clean anime-style shrine scene featuring a miko presenting an omamori at a shrine counter, ideal for character art with culturally detailed background props.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Mar35x/status/2048760631311184325#reversed-1",
+      "originalId": "https://x.com/Mar35x/status/2048760631311184325#reversed-1",
+      "authors": [
+        {
+          "name": "ᴍᴀʀ",
+          "url": "https://x.com/Mar35x"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 985
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ab4f47bf7bdce3c6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367325615_2nck18_HG6o749b0AA-Mzf.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367325615_2nck18_HG6o749b0AA-Mzf.jpg",
+      "localPath": "public/assets/prompt_cd4598f3d378ed85fa5d/f0acace30b05.jpg",
+      "alt": "Profile / Avatar - Shrine Maiden Offering an Omamori - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.569Z"
+  }
+}

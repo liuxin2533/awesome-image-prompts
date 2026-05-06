@@ -1,0 +1,109 @@
+{
+  "id": "prompt_39546e9002db2908df7f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic nighttime photo of [your photo as reference] sitting alone at a wet bus\n\nstop bench, eating a burger. Rain-soaked street with orange bokeh city lights\n\nreflecting on the ground. Neon tube lights overhead. Red jacket, tan corduroy\n\npants. Moody, dark, atmospheric street photography.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张电影感的夜间照片，[your photo as reference]独自坐在湿漉漉的公交站长椅上，吃着汉堡。被雨水浸湿的街道上，橙色的城市灯光虚影映在地上。头顶上有霓虹灯管。红色夹克，灯芯绒裤子。忧郁、黑暗、有氛围感的街头摄影。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:45:10.583Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Rainy Bus Stop Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "雨天公交站肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:45:12.132Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/harboriis/status/2049081194156020046",
+      "originalId": "case-103",
+      "authors": [
+        {
+          "name": "harboriis",
+          "url": "https://x.com/harboriis"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 717
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8bec99bc0cb74520",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case103/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case103/output.jpg",
+      "localPath": "public/assets/prompt_39546e9002db2908df7f/a6c447f8b532.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-28T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

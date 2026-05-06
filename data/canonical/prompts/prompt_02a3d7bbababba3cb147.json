@@ -1,0 +1,108 @@
+{
+  "id": "prompt_02a3d7bbababba3cb147",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "横長のパワポ画像ここで生成してみて　どのモデル使ってるか判定するから、今のAIゲーム開発の概要をまとめた1枚パワポで　日本語で\n\nゲーム開発の技術に関して、工数ベースでどこにパワーかかるかの分析資料といかに量産が大事かについての説明とかのパワポ画も作って",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "尝试在这里生成横向的PowerPoint图像，因为我会判断使用的是哪个模型。用一张日语的PowerPoint总结当前AI游戏开发的概况。关于游戏开发技术，制作基于工时分析需要投入力量的资料，以及关于量产重要性的说明等PowerPoint图像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:35.424Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Japanese AI Game Dev Overview Slide Prompt",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本人工智能游戏开发概述幻灯片提示",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:32.431Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ailovedirector/status/2046905387274891296",
+      "originalId": "case-40",
+      "authors": [
+        {
+          "name": "ailovedirector",
+          "url": "https://x.com/ailovedirector"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 247
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b0a966deaf09e283",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case40/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case40/output.jpg",
+      "localPath": "public/assets/prompt_02a3d7bbababba3cb147/93a656b501b9.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T22:57:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

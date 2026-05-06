@@ -1,0 +1,105 @@
+{
+  "id": "prompt_83a151efa2fc315821af",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一套亚马逊 A+=详情图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a set of Amazon A+= detail images",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "亚马逊详情图设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Amazon detail page design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:53:00.528Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_622a4c27f0",
+      "value": "亚马逊详情图设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-178",
+      "originalId": "case-178",
+      "authors": [
+        {
+          "name": "xin_pai88825",
+          "url": "https://x.com/xin_pai88825/status/2046576100592201946"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 303
+        }
+      ],
+      "rawSource": "[@xin\\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0c5662a5a72f0da7",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case178.jpg",
+      "upstreamPath": "../data/images/case178.jpg",
+      "localPath": "public/assets/prompt_83a151efa2fc315821af/b3d23a028d2e.jpg",
+      "alt": "亚马逊详情图设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "amazon"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.592Z"
+  }
+}

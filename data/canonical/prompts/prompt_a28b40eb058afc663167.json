@@ -1,0 +1,105 @@
+{
+  "id": "prompt_a28b40eb058afc663167",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张潮菜馆菜单图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a Teochew restaurant menu image.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "精美潮汕菜馆菜单图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Exquisite Chaoshan Restaurant Menu Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:10:23.864Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a5d11c3f2a",
+      "value": "精美潮汕菜馆菜单图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-294",
+      "originalId": "case-294",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2044824800909054181"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3713
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2044824800909054181)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7f28caba3c5e2d05",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case294.jpg",
+      "upstreamPath": "../data/images/case294.jpg",
+      "localPath": "public/assets/prompt_a28b40eb058afc663167/c4ebd14b2df6.jpg",
+      "alt": "精美潮汕菜馆菜单图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

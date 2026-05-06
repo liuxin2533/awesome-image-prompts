@@ -1,0 +1,105 @@
+{
+  "id": "prompt_54e744e3fa206dc478b4",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "一张平放着的打开的笔记本的业余照片，里面填满了用黑色圆珠笔写的手写笔记。笔迹随意且略显凌乱，就像个人笔记，自然的瑕疵，划掉的单词，划线的标题。从略高角度拍摄，来自窗户的自然日光，未使用闪光灯。随意的桌面设置，用 iPhone 拍摄。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "桌面上的黑色圆珠笔手写笔记",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Black ballpoint pen handwritten notes on the desktop",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:17:49.456Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_57333345d9",
+      "value": "桌面上的黑色圆珠笔手写笔记",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-266",
+      "originalId": "case-266",
+      "authors": [
+        {
+          "name": "patrickassale",
+          "url": "https://x.com/patrickassale/status/2044569086013718958"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3071
+        }
+      ],
+      "rawSource": "[@patrickassale](https://x.com/patrickassale/status/2044569086013718958)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_46263fdeef0a873a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case266.jpg",
+      "upstreamPath": "../data/images/case266.jpg",
+      "localPath": "public/assets/prompt_54e744e3fa206dc478b4/1bee45dff54c.jpg",
+      "alt": "桌面上的黑色圆珠笔手写笔记",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

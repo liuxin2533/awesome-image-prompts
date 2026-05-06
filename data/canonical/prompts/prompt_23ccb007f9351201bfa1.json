@@ -1,0 +1,107 @@
+{
+  "id": "prompt_23ccb007f9351201bfa1",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "参考图是角色人设图，为参考图的少女绘制一副日系唯美奇幻风格插画。 \r\n【构图】这是一个宏大的中景日系奇幻插画构图，画面中心是完全保留了完整细节的可爱少女，她站立在无边的、如镜面般平滑的水面中心。天空呈现出高饱和度的粉紫与深蓝交织，一条耀眼的蓝色巨型流星划破天际，配合着边缘发光的瑰丽层云。女孩处于背光状态，形成一个暗调但依然清晰可辨其服装和紫色明亮眼眸的剪影，被流星和星空的边缘光细腻勾勒，她微微仰头，一只手轻轻张开。下方的水面完美、对称地反射出整个壮丽的星空、流星、云彩，以及女孩清晰的倒影，点缀着微小的发光点，营造出天人合一、空灵静谧的唯美梦境意境。 \r\n【日系唯美奇幻风格说明】该风格以高饱和度的粉紫冷暖色调交织出浩瀚星空，并辅以壮丽的流星与边缘发光的层云作为视觉奇观；画面巧妙利用“天空之镜”般的完美水面反射，将宏大的宇宙背景与孤独静立的人物剪影相融合，通过极具电影感的光影渲染与高对比度的表现手法，营造出一种空灵、静谧且带有超现实宿命感的梦境氛围。 \r\n【要求】生成图片的比例9:16，分辨率 4k。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "This is a grand medium-shot Japanese-style fantasy illustration composition. At the center of the frame is a cute girl with complete details preserved, standing in the middle of an endless, mirror-smooth water surface. The sky displays a high-saturation blend of pink-purple and deep blue, with a dazzling blue giant meteor streaking across the sky, accompanied by gorgeous layered clouds with glowing edges. The girl is backlit, creating a silhouette that is dark yet still clearly shows her clothing and bright purple eyes, delicately outlined by the rim light from the meteor and starry sky. She slightly tilts her head upward, with one hand gently open. The water below perfectly and symmetrically reflects the entire magnificent starry sky, meteor, clouds, and the girl's clear reflection, dotted with small glowing points, creating a harmonious, ethereal, tranquil, and beautiful dreamlike atmosphere.\n\nThis style uses high-saturation pink-purple warm and cool tones to weave a vast starry sky, complemented by magnificent meteors and glowing-edged layered clouds as visual spectacles. The composition cleverly utilizes the perfect water reflection like a \"sky mirror\" to blend the grand cosmic background with the lonely standing figure's silhouette, creating an ethereal, tranquil dreamlike atmosphere with a surreal sense of destiny through cinematic light and shadow rendering and high-contrast expression techniques.\n\nGenerate an image with a 9:16 aspect ratio and 4K resolution.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:57:01.822Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "插画艺术创作图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Artistic Illustration Creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:46.987Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a46adb8134",
+      "value": "插画艺术创作图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-6",
+      "originalId": "case-6",
+      "authors": [
+        {
+          "name": "yi_xiao_jiu",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 101
+        }
+      ],
+      "rawSource": "小红书号yi\\_xiao\\_jiu"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_54a4f0183d3c8a68",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case6.jpg",
+      "upstreamPath": "../data/images/case6.jpg",
+      "localPath": "public/assets/prompt_23ccb007f9351201bfa1/d1ff8de2dca4.jpg",
+      "alt": "参考图是角色人设图，为参考图的少女绘制一副日系唯美...",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "id": "prompt_cad5e784278f2d28466b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Adorable 3D food advertisement scene featuring a delicious {argument name=\"food item\" default=\"oversized sandwich / cheesy snack\"} placed on a clean pastel platform, surrounded by tiny chibi-style children interacting with the food (climbing ladders, sitting on top, eating, celebrating). Soft rounded design, playful storytelling composition. Creamy melted cheese, fresh ingredients, glossy textures, ultra-detailed food realism. Mini characters with Pixar-style proportions, expressive faces, soft 3D rendering. {argument name=\"background colors\" default=\"Pastel green and warm beige\"} background with smooth gradients, minimal aesthetic props (balls, shapes). Floating speech bubbles with cute text. Big soft 3D typography headline at the top in a rounded, inflated style. Soft studio lighting, subtle shadows, cozy and cheerful mood, high-end commercial food poster, ultra-clean, 4K.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "可爱的 3D 美食广告场景，展示了放置在干净的马卡龙色平台上的美味 {argument name=\"food item\" default=\"超大三明治 / 芝士零食\"}，周围环绕着与食物互动（爬梯子、坐在上面、吃东西、庆祝）的微型 Q 版儿童。柔和的圆润设计，充满趣味的叙事构图。奶油般的融化芝士、新鲜食材、光泽质感、超细节的美食写实感。具有皮克斯风格比例的迷你角色，表情生动，柔和的 3D 渲染。{argument name=\"background colors\" default=\"淡绿色和暖米色\"} 背景，带有平滑的渐变，极简的审美道具（球体、几何形状）。带有可爱文字的浮动对话气泡。顶部有圆润充气风格的大型柔和 3D 字体标题。柔和的摄影棚灯光，细腻的阴影，舒适愉悦的氛围，高端商业美食海报，超洁净，4K。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Adorable escena publicitaria de comida en 3D que presenta un delicioso {argument name=\"food item\" default=\"sándwich gigante / snack con queso\"} colocado sobre una plataforma limpia de colores pastel, rodeado de pequeños niños estilo chibi interactuando con la comida (subiendo escaleras, sentados encima, comiendo, celebrando). Diseño de formas redondeadas, composición narrativa y lúdica. Queso derretido cremoso, ingredientes frescos, texturas brillantes, realismo gastronómico ultra detallado. Mini personajes con proporciones estilo Pixar, rostros expresivos, renderizado 3D suave. Fondo de {argument name=\"background colors\" default=\"verde pastel y beige cálido\"} con degradados suaves, accesorios estéticos minimalistas (esferas, formas). Burbujas de diálogo flotantes con texto tierno. Titular con tipografía 3D grande y suave en la parte superior, con un estilo redondeado e inflado. Iluminación de estudio suave, sombras sutiles, ambiente acogedor y alegre, póster comercial de comida de alta gama, ultra limpio, 4K.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Entzückende 3D-Lebensmittelwerbeszene mit einem köstlichen {argument name=\"food item\" default=\"überdimensionalen Sandwich / käsigen Snack\"}, platziert auf einer sauberen, pastellfarbenen Plattform, umgeben von winzigen Kindern im Chibi-Stil, die mit dem Essen interagieren (Leitern erklimmen, darauf sitzen, essen, feiern). Weiches, abgerundetes Design, verspielte Storytelling-Komposition. Cremiger geschmolzener Käse, frische Zutaten, glänzende Texturen, ultra-detaillierter Lebensmittel-Realismus. Mini-Charaktere mit Proportionen im Pixar-Stil, ausdrucksstarke Gesichter, weiches 3D-Rendering. {argument name=\"background colors\" default=\"Pastellgrün und warmes Beige\"} Hintergrund mit sanften Verläufen, minimale ästhetische Requisiten (Bälle, Formen). Schwebende Sprechblasen mit niedlichem Text. Große, weiche 3D-Typografie-Überschrift oben in einem abgerundeten, aufgeblasenen Stil. Weiche Studiobeleuchtung, subtile Schatten, gemütliche und fröhliche Stimmung, hochwertiges kommerzielles Lebensmittelplakat, ultra-sauber, 4K.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Adorable scène publicitaire 3D de nourriture mettant en vedette un délicieux {argument name=\"food item\" default=\"sandwich surdimensionné / snack au fromage\"} placé sur une plateforme pastel épurée, entouré de minuscules enfants style chibi interagissant avec la nourriture (grimpant sur des échelles, assis dessus, mangeant, célébrant). Design aux formes arrondies, composition narrative ludique. Fromage fondu crémeux, ingrédients frais, textures brillantes, réalisme alimentaire ultra-détaillé. Mini personnages aux proportions style Pixar, visages expressifs, rendu 3D doux. Fond {argument name=\"background colors\" default=\"vert pastel et beige chaud\"} avec des dégradés fluides, accessoires esthétiques minimalistes (balles, formes). Bulles de dialogue flottantes avec du texte mignon. Grand titre en typographie 3D douce en haut, dans un style arrondi et gonflé. Éclairage de studio doux, ombres subtiles, ambiance chaleureuse et joyeuse, affiche publicitaire alimentaire haut de gamme, ultra-propre, 4K.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Adorabile scena pubblicitaria 3D di cibo con un delizioso {argument name=\"food item\" default=\"panino gigante / snack al formaggio\"} posizionato su una piattaforma pulita dai colori pastello, circondato da minuscoli bambini in stile chibi che interagiscono con il cibo (si arrampicano su scale, ci si siedono sopra, mangiano, festeggiano). Design morbido e arrotondato, composizione narrativa giocosa. Formaggio fuso cremoso, ingredienti freschi, texture lucide, realismo alimentare ultra-dettagliato. Mini personaggi con proporzioni in stile Pixar, volti espressivi, rendering 3D morbido. Sfondo {argument name=\"background colors\" default=\"Verde pastello e beige caldo\"} con sfumature uniformi, oggetti di scena dall'estetica minimale (palline, forme). Nuvolette di testo fluttuanti con scritte carine. Grande titolo in tipografia 3D morbida in alto, in uno stile arrotondato e gonfio. Illuminazione da studio soffusa, ombre delicate, atmosfera accogliente e allegra, poster alimentare commerciale di alta gamma, ultra-pulito, 4K.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Cena de anúncio de comida em 3D adorável, apresentando um delicioso {argument name=\"food item\" default=\"sanduíche gigante / lanche com queijo\"} colocado sobre uma plataforma limpa em tons pastéis, cercado por crianças minúsculas em estilo chibi interagindo com a comida (subindo em escadas, sentadas no topo, comendo, celebrando). Design arredondado e suave, composição narrativa lúdica. Queijo derretido cremoso, ingredientes frescos, texturas brilhantes, realismo alimentar ultra-detalhado. Mini personagens com proporções estilo Pixar, rostos expressivos, renderização 3D suave. Fundo com {argument name=\"background colors\" default=\"verde pastel e bege quente\"} com gradientes suaves, adereços estéticos minimalistas (bolas, formas). Balões de fala flutuantes com textos fofos. Título em tipografia 3D grande e suave no topo, em um estilo arredondado e inflado. Iluminação de estúdio suave, sombras sutis, clima aconchegante e alegre, pôster comercial de comida de alta qualidade, ultra-limpo, 4K.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - 3D Chibi Food Advertisement Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 3D Q 版美食广告场景",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Escena publicitaria de comida estilo Chibi 3D",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - 3D-Chibi-Lebensmittelwerbeszene",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Scène publicitaire 3D de nourriture style Chibi",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Scena pubblicitaria 3D di cibo in stile Chibi",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Cena de anúncio de comida em 3D estilo Chibi",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A delightful prompt for creating a 3D food advertisement featuring oversized snacks and adorable chibi characters in a Pixar-style rendering, perfect for high-end commercial posters.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个令人愉悦的提示词，用于创作 3D 美食广告，包含超大号零食和皮克斯风格的可爱 Q 版角色，非常适合高端商业海报。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt ravissant pour créer une publicité alimentaire 3D mettant en vedette des snacks surdimensionnés et d'adorables personnages chibi dans un rendu style Pixar, parfait pour des affiches commerciales haut de gamme.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Taaruk_/status/2051320349330145670",
+      "originalId": "https://x.com/Taaruk_/status/2051320349330145670",
+      "authors": [
+        {
+          "name": "Taaruk",
+          "url": "https://x.com/Taaruk_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4019
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fd84a881f7c368ac",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971008958_d6robe_HHfA9quaMAAjz7t.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971008958_d6robe_HHfA9quaMAAjz7t.jpg",
+      "localPath": "public/assets/prompt_cad5e784278f2d28466b/ea525bbd7e3b.jpg",
+      "alt": "Product Marketing - 3D Chibi Food Advertisement Scene - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_09251e91013ab0b7",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971009995_k1n9b0_HHfA9qQbcAAArjH.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971009995_k1n9b0_HHfA9qQbcAAArjH.jpg",
+      "localPath": "public/assets/prompt_cad5e784278f2d28466b/90c4daaee50d.jpg",
+      "alt": "Product Marketing - 3D Chibi Food Advertisement Scene - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_c923bb7431e3c9c5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971008968_yg4i1q_HHfA9sHbkAEQDVT.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971008968_yg4i1q_HHfA9sHbkAEQDVT.jpg",
+      "localPath": "public/assets/prompt_cad5e784278f2d28466b/3c85986f406a.jpg",
+      "alt": "Product Marketing - 3D Chibi Food Advertisement Scene - Image 3",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.867Z"
+  }
+}

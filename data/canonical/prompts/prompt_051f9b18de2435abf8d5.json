@@ -1,0 +1,104 @@
+{
+  "id": "prompt_051f9b18de2435abf8d5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "9:16 垂直方向 — 一个3x3网格拼贴（九张图片）形成韩国偶像肖像拍摄系列。每帧都展现同一位年轻的韩国女性偶像，在所有九张照片中保持面部特征、比例、发型和身份的100%一致性。   自然、超真实的皮肤纹理，无修饰，无平滑处理。干净的偶像风格淡妆，柔和的光泽，细微的瑕疵。   头发：长而蓬松的深色头发，略微凌乱，在所有帧中保持一致（自然的松散流动，轻微的动感）。  服装：统一的韩国偶像拍摄造型 — 白色衬衫 + 短款下装（或简单的中性色调服装），年轻、干净、略微休闲但精心搭配。所有帧中服装相同。  场景：极简工作室或简单的室内环境（纯色墙壁、柔和的窗光、干净的背景）。重点在主体，而非环境。  光线：柔和的漫射自然光，柔和的高光，低对比度，略微通透的色调，微妙的胶片般柔和感。  相机风格：亲密的肖像摄影，略微手持感，细微的瑕疵（轻微的颗粒感，动态帧中的轻微模糊，不完美的构图）。  帧分解（3x3网格）：  顶行： - 左上：自然站立，略微侧视，放松的表情 - 顶中：面向相机，随意的中等动作（头发或身体轻微移动） - 右上：略微侧角，柔和的凝视，自然的抓拍感  中行： - 左中：略微向上看，柔和的沉思表情 - 中心：特写肖像，直接的眼神接触，温和的偶像微笑 - 右中：身体略微转身，中等动作的抓拍  底行： - 左下：随意坐着或倚靠，放松的姿势 - 底中：背部略微转向，回头看向相机 - 右下：靠近帧站立，略微俏皮或柔和的表情  氛围：韩国偶像写真/卡牌美学，亲密、柔和、自然、日常魅力。  质量：超真实，8K细节，微妙的模拟胶片颗粒，自然的瑕疵，柔和梦幻的色调",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:00:58.475Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Korean Idol 3x3 Collage Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/BubbleBrain/status/2046151898621993364",
+      "originalId": "case-13",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 145
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c9ea5c417f12b758",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case13/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case13/output.jpg",
+      "localPath": "public/assets/prompt_051f9b18de2435abf8d5/96ed52f0dc3a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "写真"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

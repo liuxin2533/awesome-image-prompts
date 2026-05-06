@@ -1,0 +1,249 @@
+{
+  "id": "prompt_3ffff259512b9d2752b1",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A massive pile of rice, and on one single grain of rice there is tiny text that reads \"wOw\"",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一大堆米，其中有一粒米上写着极小的文字“wOw”",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "一大堆米，其中有一粒米上寫著極小的文字「wOw」。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "大量の米の山があり、そのうち 1 粒の米にだけ \"wOw\" と読める極小の文字が書かれている",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "거대한 쌀 더미가 있고, 그중 단 한 알의 쌀 위에 \"wOw\" 라는 아주 작은 글자가 적혀 있다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un énorme tas de riz, et sur un seul grain apparaît un minuscule texte qui dit \"wOw\".",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein riesiger Haufen Reis, und auf genau einem einzelnen Reiskorn steht winziger Text: \"wOw\".",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un enorme montón de arroz y, en un solo grano, un texto diminuto que dice \"wOw\".",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Rice Grain Micro Typography",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "米粒微型文字",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "米粒微型字樣",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "米粒の極小タイポグラフィ",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "쌀알 위 초미세 텍스트",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Micro-typographie sur un grain de riz",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Mikrotypografie auf einem Reiskorn",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Microtipografía en un grano de arroz",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "photography-photorealism",
+      "value": "📷 Photography & Photorealism",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b86a19e20b",
+      "value": "📷 摄影与照片级写实",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_a5e53fe73d",
+      "value": "📷 攝影與照片級寫實",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_8daac8fb34",
+      "value": "📷 写真・フォトリアリズム",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_82cbd23eff",
+      "value": "📷 사진과 포토리얼리즘",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "photographie-et-photorealisme",
+      "value": "📷 Photographie et photoréalisme",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografie-und-fotorealismus",
+      "value": "📷 Fotografie und Fotorealismus",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografia-y-fotorrealismo",
+      "value": "📷 Fotografía y fotorrealismo",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/adonis_singh/status/2046673729082560919",
+      "originalId": "https://x.com/adonis_singh/status/2046673729082560919",
+      "authors": [
+        {
+          "name": "adonis_singh",
+          "url": "https://x.com/adonis_singh/status/2046673729082560919"
+        },
+        {
+          "name": " @adonis_singh ",
+          "url": "https://x.com/adonis_singh/status/2046673729082560919"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 95
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 98
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 98
+        },
+        {
+          "file": "README:ja",
+          "line": 98
+        },
+        {
+          "file": "README:ko",
+          "line": 98
+        },
+        {
+          "file": "README:fr",
+          "line": 98
+        },
+        {
+          "file": "README:de",
+          "line": 98
+        },
+        {
+          "file": "README:es",
+          "line": 98
+        }
+      ],
+      "rawSource": "[@adonis_singh](https://x.com/adonis_singh/status/2046673729082560919)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_340f8a346281314e",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGc-2eKWYAATrs9?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGc-2eKWYAATrs9?format=jpg&name=large",
+      "localPath": "public/assets/prompt_3ffff259512b9d2752b1/67cd2a46a4e7.jpg",
+      "alt": "Rice Grain Micro Typography",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写真",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

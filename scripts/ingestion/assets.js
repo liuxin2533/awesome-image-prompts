@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const { Report } = require('./core/report');
-const { ensureDir, readJson, writeDerivedData } = require('./core/persist');
+const { ensureDir, readCanonicalDataset, writeDerivedData } = require('./core/persist');
 const { refreshCurrentReport } = require('./report-current');
 
 function defaultProjectRoot() {
@@ -52,7 +52,7 @@ function workspacePath(projectRoot, relativePath) {
 async function mirrorMissingAssets(options = {}) {
   const projectRoot = options.projectRoot || defaultProjectRoot();
   const datasetPath = path.join(projectRoot, 'data', 'canonical', 'prompts.json');
-  const dataset = options.dataset || readJson(datasetPath);
+  const dataset = options.dataset || readCanonicalDataset(datasetPath);
   const fetchAsset = options.fetchAsset || fetchRemoteAsset;
   const report = options.report || new Report();
   const force = Boolean(options.force);

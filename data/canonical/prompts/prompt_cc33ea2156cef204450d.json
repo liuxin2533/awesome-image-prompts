@@ -1,0 +1,106 @@
+{
+  "id": "prompt_cc33ea2156cef204450d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"pose reference sheet\",\"subject\":{\"count\":1,\"description\":\"a fit young woman dancer shown repeatedly in a clean studio reference layout\",\"appearance\":{\"gender\":\"female\",\"age\":\"young adult\",\"build\":\"athletic, toned midriff\",\"skin tone\":\"light to medium tan\",\"hair\":{\"color\":\"dark brown\",\"style\":\"high messy ponytail with loose strands framing the face\"},\"expression\":\"neutral to focused\"},\"wardrobe\":{\"top\":\"charcoal gray sports bra or cropped athletic bralette\",\"bottom\":\"oversized dark gray parachute cargo pants with gathered ankles\",\"shoes\":\"white sneakers\",\"accessories\":[\"black wristband or fingerless glove on one hand\",\"subtle sporty styling\"]}},\"layout\":{\"background\":\"plain white seamless studio background\",\"grid\":{\"rows\":4,\"columns\":4,\"count\":16,\"cell labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"]},\"style\":\"clean contact-sheet or choreography chart with thin black dividers between panels and small black numbers at the upper left of each panel\"},\"poses\":[{\"label\":\"1\",\"description\":\"relaxed standing pose, weight on one leg, one hand near hip, slight contrapposto\"},{\"label\":\"2\",\"description\":\"wide low dance stance, one arm bent behind the head, the other arm extended and pointing to the right\"},{\"label\":\"3\",\"description\":\"legs spread in a grounded stance, torso slightly tilted, one hand resting near the upper thigh\"},{\"label\":\"4\",\"description\":\"very low wide squat facing forward, torso leaning back, one hand near the face and the other near the thigh\"},{\"label\":\"5\",\"description\":\"wide side lunge stance, one arm arched overhead, the other arm extended outward in a stylized dance line\"},{\"label\":\"6\",\"description\":\"balancing on one leg with the other knee lifted high, one hand near the face in a punchy hip-hop pose\"},{\"label\":\"7\",\"description\":\"floorwork pose supported by one hand on the ground, torso reclined sideways, legs bent and lifted in a dynamic breakdance-like position\"},{\"label\":\"8\",\"description\":\"casual upright pose with one hand behind the head and one knee bent upward\"},{\"label\":\"9\",\"description\":\"one-legged balance pose with the lifted knee bent, both arms extended outward for motion and rhythm\"},{\"label\":\"10\",\"description\":\"low kneeling or crouched pose, one knee up and one knee down, one arm thrust forward toward the viewer\"},{\"label\":\"11\",\"description\":\"deep squat with legs apart, one arm curved overhead in a dramatic arc\"},{\"label\":\"12\",\"description\":\"standing lean to one side with one arm extended sideways and the other hand near the hip or thigh\"},{\"label\":\"13\",\"description\":\"reclining floor pose supported by one hand behind the body, one leg bent and one leg extended\"},{\"label\":\"14\",\"description\":\"upright standing pose with one arm fully extended and pointing to the right\"},{\"label\":\"15\",\"description\":\"front-facing pose stepping forward with one knee lifted, one arm reaching or pointing forward\"},{\"label\":\"16\",\"description\":\"wide confident stance with one arm pointing diagonally upward to the right\"}],\"rendering\":{\"medium\":\"photorealistic studio fashion and dance reference image\",\"lighting\":\"soft even studio lighting with faint shadows beneath the feet and body\",\"camera\":\"full-body framing, straight-on view, consistent distance in every panel\",\"quality\":\"sharp, high-resolution, realistic anatomy and fabric folds\"}}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"姿势参考表\",\"subject\":{\"count\":1,\"description\":\"一位健康的年轻女舞者在干净的工作室参考布局中重复展示\",\"appearance\":{\"gender\":\"女性\",\"age\":\"青年\",\"build\":\"运动员身材，紧实的中腹部\",\"skin tone\":\"浅至中等肤色\",\"hair\":{\"color\":\"深棕色\",\"style\":\"高马尾，凌乱，有散落的发丝框住脸部\"},\"expression\":\"中性至专注\"},\"wardrobe\":{\"top\":\"炭灰色运动内衣或短款运动文胸\",\"bottom\":\"超大号深灰色降落伞式工装裤，脚踝处收紧\",\"shoes\":\"白色运动鞋\",\"accessories\":[\"一只手腕戴黑色腕带或露指手套\",\"低调的运动风格\"]}},\"layout\":{\"background\":\"纯白色无缝工作室背景\",\"grid\":{\"rows\":4,\"columns\":4,\"count\":16,\"cell标签\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"]},\"style\":\"干净的接触表或编舞图，面板之间有细黑分隔线，每个面板左上角有小黑数字\"},\"poses\":[{\"label\":\"1\",\"description\":\"放松的站立姿势，重心在一条腿上，一只手靠近臀部，轻微的contrapposto姿势\"},{\"label\":\"2\",\"description\":\"宽阔的低舞蹈站姿，一只手臂弯曲在头后，另一只手臂伸展并指向右侧\"},{\"label\":\"3\",\"description\":\"双腿分开站立，躯干略微倾斜，一只手放在大腿上部\"},{\"label\":\"4\",\"description\":\"非常低的宽蹲姿，面向前方，躯干向后倾斜，一只手靠近脸部，另一只手靠近大腿\"},{\"label\":\"5\",\"description\":\"宽阔的侧弓步站姿，一只手臂在头顶上方呈拱形，另一只手臂以风格化的舞蹈线条向外伸展\"},{\"label\":\"6\",\"description\":\"单腿平衡，另一条膝盖高高抬起，一只手靠近脸部，呈有力的嘻哈姿势\"},{\"label\":\"7\",\"description\":\"地面动作姿势，一只手支撑在地面上，躯干侧倾，双腿弯曲并抬起，呈动态的霹雳舞姿势\"},{\"label\":\"8\",\"description\":\"随意的直立姿势，一只手放在头后，一条膝盖向上弯曲\"},{\"label\":\"9\",\"description\":\"单腿平衡姿势，抬起的膝盖弯曲，双臂向外伸展以表现动作和节奏\"},{\"label\":\"10\",\"description\":\"低跪或蹲姿，一条膝盖抬起，一条膝盖放下，一只手臂向前伸向观众\"},{\"label\":\"11\",\"description\":\"深蹲，双腿分开，一只手臂在头顶上方呈戏剧性的弧形弯曲\"},{\"label\":\"12\",\"description\":\"向一侧倾斜站立，一只手臂向侧面伸展，另一只手靠近臀部或大腿\"},{\"label\":\"13\",\"description\":\"躺卧地面姿势，一只手支撑在身体后方，一条腿弯曲，一条腿伸展\"},{\"label\":\"14\",\"description\":\"直立站姿，一只手臂完全伸展并指向右侧\"},{\"label\":\"15\",\"description\":\"面向前方的姿势，一条腿向前迈步，膝盖抬起，一只手臂向前伸展或指向\"},{\"label\":\"16\",\"description\":\"宽阔自信的站姿，一只手臂对角线指向右上方\"}],\"rendering\":{\"medium\":\"逼真的工作室时尚和舞蹈参考图像\",\"lighting\":\"柔和均匀的工作室照明，脚部和身体下方有淡淡的阴影\",\"camera\":\"全身构图，正面视角，每个面板保持一致的距离\",\"quality\":\"清晰，高分辨率，逼真的解剖结构和布料褶皱\"}}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:30:55.264Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "16-Panel Female Dance Pose Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "16格女性舞蹈姿势参考图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:30:59.013Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ExquisitMe/status/2048143577264402629",
+      "originalId": "case-135",
+      "authors": [
+        {
+          "name": "ExquisitMe",
+          "url": "https://x.com/ExquisitMe"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1414
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_704d36638598471d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case135/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case135/output.jpg",
+      "localPath": "public/assets/prompt_cc33ea2156cef204450d/1911c476892c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "prompt_91a43dbdd4ee3a31e405",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-end commercial skincare product photo on a light marble bathroom counter, centered on a clear glass dropper bottle filled with warm amber-orange serum. The bottle is covered in realistic condensation droplets and has a white rubber pipette top with a shiny metallic gold collar. The front label is elegant and minimal, reading {argument name=\"brand name\" default=\"HydraGlow\"} with smaller lines {argument name=\"product name\" default=\"Vitamin C Serum - 30ml\"} and {argument name=\"benefit line\" default=\"Brightening & Anti-Aging Formula\"}, plus a simple gold botanical lotus-style logo above the brand name. Soft natural morning light streams in from the side, creating gentle highlights, subtle shadows, and a clean luxury spa atmosphere. In the blurred background, include 1 ribbed clear glass vase with green leafy branches on the left, 1 stack of 3 folded white towels on the right, 1 shallow white dish with faint gold veining on the left foreground, and 1 small white bowl with a thin gold rim on the right foreground. Use shallow depth of field, crisp focus on the bottle, neutral cream and white palette, premium e-commerce advertising aesthetic, photorealistic textures, and refined wellness branding style.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Luxury Vitamin C Serum Product Shot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "產品行銷 - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロダクトマーケティング - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "제품 마케팅 - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोडक्ट मार्केटिंग - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Luxury Vitamin C Serum Product Shot",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a premium photorealistic skincare product image for e-commerce, beauty ads, and luxury wellness branding.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/MatiasSchrank/status/2048891860999983249#reversed-0",
+      "originalId": "https://x.com/MatiasSchrank/status/2048891860999983249#reversed-0",
+      "authors": [
+        {
+          "name": "Matías Schrank",
+          "url": "https://x.com/MatiasSchrank"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3942
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_643c7c47b671253b",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367355647_b7jlob_HG8gRiabQAA9UAM.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367355647_b7jlob_HG8gRiabQAA9UAM.jpg",
+      "localPath": "public/assets/prompt_91a43dbdd4ee3a31e405/3be73416ac69.jpg",
+      "alt": "Product Marketing - Luxury Vitamin C Serum Product Shot - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "e-commerce",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.567Z"
+  }
+}

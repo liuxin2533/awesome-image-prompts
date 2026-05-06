@@ -1,0 +1,175 @@
+{
+  "id": "prompt_3ebf4ece16bf69b8b69c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"ornate Japanese palm reading certificate infographic\",\"language\":\"Japanese\",\"format\":\"single-page vertical A4 report\",\"style\":\"clean elegant fortune-telling report, white parchment background, thin gold decorative border with floral corner ornaments, soft beige and gold dividers, delicate serif Japanese typography, pastel accent colors, polished GPT Image 2 layout with legible Japanese text\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI手相鑑定書\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"あなたの手のひらに刻まれた運命のメッセージ\\\"}\",\"date_badge\":{\"position\":\"top right\",\"shape\":\"gold laurel wreath circle\",\"text\":\"鑑定日\\n本日\\n（撮影日）\"},\"main_layout\":{\"top_left_section\":{\"title\":\"左手\",\"position\":\"upper left\",\"content\":\"large minimal line drawing of an open left palm in gold outline, palm lines drawn in faint pastel colors, small sparkle icons and botanical leaf accents\",\"side_notes_count\":2,\"side_notes\":[\"先天的な才能\",\"内面・潜在能力\"]},\"top_right_section\":{\"title\":\"主要な線の読み取り\",\"position\":\"upper right\",\"count\":5,\"items\":[{\"label\":\"感情線\",\"color\":\"pink\",\"description\":\"長めで緩やかにカーブしており、愛情深く思いやりのある性格。人の気持ちに寄り添える優しさがあります。\"},{\"label\":\"頭脳線\",\"color\":\"blue\",\"description\":\"比較的まっすぐ長く伸びており、論理的で現実的な思考の持ち主。計画性があり、物事を冷静に判断できます。\"},{\"label\":\"生命線\",\"color\":\"green\",\"description\":\"長くはっきりしており、体力・生命力が安定しています。粘り強く、困難にも立ち向かう強さを持っています。\"},{\"label\":\"運命線\",\"color\":\"purple\",\"description\":\"手のひら中央にうっすら伸びる線。自力で道を切り開くタイプで、努力が将来の成功につながります。\"},{\"label\":\"太陽線\",\"color\":\"orange\",\"description\":\"薬指の下にうっすらと見える線。才能が認められ、人気や評価を得やすい運勢を持っています。\"}]}},\"middle_sections\":{\"count\":2,\"sections\":[{\"title\":\"強み 3つ\",\"position\":\"middle left\",\"items_count\":3,\"items\":[{\"icon\":\"gold star in circle\",\"label\":\"努力家で粘り強い\",\"text\":\"目標に向かってコツコツ積み上げ、最後までやり抜く力があります。\"},{\"icon\":\"gold heart in circle\",\"label\":\"思いやりと共感力\",\"text\":\"人の気持ちを理解し、サポートできる優しさがあります。\"},{\"icon\":\"gold mountain in circle\",\"label\":\"現実的な判断力\",\"text\":\"冷静に物事を分析し、最善の選択ができる力を持っています。\"}]},{\"title\":\"注意点 3つ\",\"position\":\"middle right\",\"items_count\":3,\"items\":[{\"icon\":\"gray cloud in circle\",\"label\":\"考えすぎてしまう\",\"text\":\"慎重になりすぎて、決断に時間がかかることがあります。\"},{\"icon\":\"gray water drop in circle\",\"label\":\"完璧を求めやすい\",\"text\":\"理想が高く、自分に厳しくなりすぎる傾向があります。\"},{\"icon\":\"gray crescent moon in circle\",\"label\":\"無理をしてしまう\",\"text\":\"責任感が強く、抱え込みすぎて疲れてしまうことがあります。\"}]}]},\"lower_tendency_cards\":{\"count\":3,\"cards\":[{\"title\":\"恋愛傾向\",\"icon\":\"pink heart\",\"border_color\":\"soft pink\",\"text\":\"一途で誠実な愛情を注ぐタイプ。相手を大切に思い、安心できる穏やかな関係を築きます。信頼を重ねることで、長く続く深い絆を育みます。\"},{\"title\":\"仕事傾向\",\"icon\":\"blue briefcase\",\"border_color\":\"soft blue\",\"text\":\"計画性があり、責任感も強いため、任されると力を発揮します。サポート役や調整役、専門性を活かせる分野で成功しやすいです。コツコツ型の実務派です。\"},{\"title\":\"金運傾向\",\"icon\":\"green money bag\",\"border_color\":\"soft green\",\"text\":\"堅実にお金を管理できるタイプ。一攫千金よりも、コツコツと貯めていくことで安定します。知識やスキルが収入アップの鍵になります。\"}]},\"bottom_advice_section\":{\"title\":\"開運アドバイス\",\"position\":\"bottom full width\",\"left_panel\":{\"icon\":\"gold clover\",\"text\":\"自分のペースを大切にし、焦らず一歩ずつ進むことが開運の秘訣です。小さな成功体験を積み重ねることで、自信と運気がどんどん高まります。リラックスできる時間を意識的に作り、心と体のバランスを整えましょう。\"},\"mini_tips_count\":3,\"mini_tips\":[{\"icon\":\"sun\",\"title\":\"朝日を浴びてリズムを整える\",\"text\":\"運気の流れがスムーズになります。\"},{\"icon\":\"flower\",\"title\":\"自然や緑を感じる時間を持つ\",\"text\":\"心が癒され、エネルギーが高まります。\"},{\"icon\":\"notebook and pencil\",\"title\":\"目標や夢を書き出す\",\"text\":\"思考が整理され、行動力と運気が上がります。\"}]},\"footer\":\"AI鑑定書\",\"composition_notes\":\"Use symmetrical grid layout with clearly separated cards, generous margins, thin gold rules, tiny sparkle decorations, and highly readable Japanese text. The overall mood should feel premium, gentle, mystical, and shareable on social media.\",\"customization_subject\":\"Design the certificate as if generated for {argument name=\\\"reading subject\\\" default=\\\"a calm, diligent person with strong empathy and practical judgment\\\"}.\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"华丽的日式手相鉴定证书信息图\",\"language\":\"日语\",\"format\":\"单页垂直 A4 报告\",\"style\":\"简洁优雅的占卜报告，白色羊皮纸背景，带有花卉边角的细金装饰边框，柔和的米色与金色分隔线，精致的衬线日文字体，柔和的强调色，优化的 GPT Image 2 布局，日文文字清晰易读\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI 手相鉴定书\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"刻在你掌心的命运讯息\\\"}\",\"date_badge\":{\"position\":\"右上角\",\"shape\":\"金色月桂花环圆圈\",\"text\":\"鉴定日期\\n今日\\n（拍摄日期）\"},\"main_layout\":{\"top_left_section\":{\"title\":\"左手\",\"position\":\"左上\",\"content\":\"金色轮廓的开掌极简线条画，掌纹以淡淡的柔和色彩绘制，带有小星星图标和植物叶片装饰\",\"side_notes_count\":2,\"side_notes\":[\"先天才能\",\"内在与潜能\"]},\"top_right_section\":{\"title\":\"主要掌纹解读\",\"position\":\"右上\",\"count\":5,\"items\":[{\"label\":\"感情线\",\"color\":\"粉色\",\"description\":\"较长且平缓弯曲，性格深情且富有同情心。拥有能够体贴他人感受的温柔。\"},{\"label\":\"头脑线\",\"color\":\"蓝色\",\"description\":\"相对笔直且长，拥有逻辑性和现实性的思考方式。有计划性，能冷静判断事物。\"},{\"label\":\"生命线\",\"color\":\"绿色\",\"description\":\"长而清晰，体力与生命力稳定。具有坚韧不拔、勇于面对困难的力量。\"},{\"label\":\"命运线\",\"color\":\"紫色\",\"description\":\"在手掌中央隐约延伸的线条。属于靠自己开辟道路的类型，努力将转化为未来的成功。\"},{\"label\":\"太阳线\",\"color\":\"橙色\",\"description\":\"在无名指下方隐约可见的线条。拥有容易获得认可、人气与评价的运势。\"}]}},\"middle_sections\":{\"count\":2,\"sections\":[{\"title\":\"3 大优势\",\"position\":\"中左\",\"items_count\":3,\"items\":[{\"icon\":\"圆圈金星\",\"label\":\"努力且坚韧\",\"text\":\"有朝着目标不断积累、坚持到底的能力。\"},{\"icon\":\"圆圈金心\",\"label\":\"同理心与共情力\",\"text\":\"拥有能够理解他人感受并提供支持的温柔。\"},{\"icon\":\"圆圈金山\",\"label\":\"现实判断力\",\"text\":\"具备冷静分析事物并做出最佳选择的能力。\"}]},{\"title\":\"3 点注意事项\",\"position\":\"中右\",\"items_count\":3,\"items\":[{\"icon\":\"圆圈灰云\",\"label\":\"容易想太多\",\"text\":\"有时会过于谨慎，导致决策时间过长。\"},{\"icon\":\"圆圈灰水滴\",\"label\":\"容易追求完美\",\"text\":\"理想较高，有对自己过于严苛的倾向。\"},{\"icon\":\"圆圈灰新月\",\"label\":\"容易勉强自己\",\"text\":\"责任感强，有时会因承担过多而感到疲惫。\"}]}]},\"lower_tendency_cards\":{\"count\":3,\"cards\":[{\"title\":\"恋爱倾向\",\"icon\":\"粉色爱心\",\"border_color\":\"柔粉色\",\"text\":\"专一且诚实的爱情类型。珍视对方，建立安心平稳的关系。通过积累信任，培养出长久深厚的羁绊。\"},{\"title\":\"工作倾向\",\"icon\":\"蓝色公文包\",\"border_color\":\"柔蓝色\",\"text\":\"有计划性且责任感强，一旦被委以重任便能发挥实力。在支持、协调或发挥专业性的领域容易获得成功。属于脚踏实地的实务派。\"},{\"title\":\"金钱倾向\",\"icon\":\"绿色钱袋\",\"border_color\":\"柔绿色\",\"text\":\"擅长稳健管理金钱的类型。比起一夜暴富，通过点滴积累更能获得稳定。知识与 技能 是提升收入的关键。\"}]},\"bottom_advice_section\":{\"title\":\"开运建议\",\"position\":\"底部全宽\",\"left_panel\":{\"icon\":\"金色三叶草\",\"text\":\"珍惜自己的节奏，不慌不忙地一步步前进是开运的秘诀。通过积累小小的成功体验，自信心与运势会不断提升。有意识地创造放松时间，调整身心平衡。\"},\"mini_tips_count\":3,\"mini_tips\":[{\"icon\":\"太阳\",\"title\":\"沐浴晨光，调整节奏\",\"text\":\"运气的流动会变得更加顺畅。\"},{\"icon\":\"花朵\",\"title\":\"感受自然与绿意\",\"text\":\"心灵得到治愈，能量随之提升。\"},{\"icon\":\"笔记本与铅笔\",\"title\":\"写下目标与梦想\",\"text\":\"整理思绪，提升行动力与运势。\"}]},\"footer\":\"AI 鉴定书\",\"composition_notes\":\"使用对称网格布局，卡片分隔清晰，留白充裕，使用细金线和微小的闪光装饰，确保日文文字高度可读。整体氛围应显得高级、柔和、神秘，并适合在社交媒体上分享。\",\"customization_subject\":\"将证书设计为针对 {argument name=\\\"reading subject\\\" default=\\\"一位冷静、勤奋且富有同理心与现实判断力的人\\\"} 生成。\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"infografía de certificado de quiromancia japonesa ornamentada\",\"language\":\"japonés\",\"format\":\"informe A4 vertical de una sola página\",\"style\":\"informe de adivinación limpio y elegante, fondo de pergamino blanco, borde decorativo dorado fino con adornos florales en las esquinas, divisores en beige suave y dorado, tipografía japonesa serif delicada, colores de acento pastel, diseño pulido de GPT Image 2 con texto en japonés legible\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI手相鑑定書\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"あなたの手のひらに刻まれた運命のメッセージ\\\"}\",\"date_badge\":{\"position\":\"superior derecha\",\"shape\":\"círculo de corona de laurel dorada\",\"text\":\"鑑定日\\n本日\\n（撮影日）\"},\"main_layout\":{\"top_left_section\":{\"title\":\"左手\",\"position\":\"superior izquierda\",\"content\":\"dibujo lineal grande y minimalista de una palma izquierda abierta en contorno dorado, líneas de la mano dibujadas en colores pastel tenues, pequeños íconos de destellos y acentos de hojas botánicas\",\"side_notes_count\":2,\"side_notes\":[\"先天的な才能\",\"内面・潜在能力\"]},\"top_right_section\":{\"title\":\"主要な線の読み取り\",\"position\":\"superior derecha\",\"count\":5,\"items\":[{\"label\":\"感情線\",\"color\":\"rosa\",\"description\":\"長めで緩やかにカーブしており、愛情深く思いやりのある性格。人の気持ちに寄り添える優しさがあります。\"},{\"label\":\"頭脳線\",\"color\":\"azul\",\"description\":\"比較的まっすぐ長く伸びており、論理的で現実的な思考の持ち主。計画性があり、物事を冷静に判断できます。\"},{\"label\":\"生命線\",\"color\":\"verde\",\"description\":\"長くはっきりしており、体力・生命力が安定しています。粘り強く、困難にも立ち向かう強さを持っています。\"},{\"label\":\"運命線\",\"color\":\"púrpura\",\"description\":\"手のひら中央にうっすら伸びる線。自力で道を切り開くタイプで、努力が将来の成功につながります。\"},{\"label\":\"太陽線\",\"color\":\"naranja\",\"description\":\"薬指の下にうっすらと見える線。才能が認められ、人気や評価を得やすい運勢を持っています。\"}]}},\"middle_sections\":{\"count\":2,\"sections\":[{\"title\":\"強み 3つ\",\"position\":\"medio izquierda\",\"items_count\":3,\"items\":[{\"icon\":\"estrella dorada en círculo\",\"label\":\"努力家で粘り強い\",\"text\":\"目標に向かってコツコツ積み上げ、最後までやり抜く力があります。\"},{\"icon\":\"corazón dorado en círculo\",\"label\":\"思いやりと共感力\",\"text\":\"人の気持ちを理解し、サポートできる優しさがあります。\"},{\"icon\":\"montaña dorada en círculo\",\"label\":\"現実的な判断力\",\"text\":\"冷静に物事を分析し、最善の選択ができる力を持っています。\"}]},{\"title\":\"注意点 3つ\",\"position\":\"medio derecha\",\"items_count\":3,\"items\":[{\"icon\":\"nube gris en círculo\",\"label\":\"考えすぎてしまう\",\"text\":\"慎重になりすぎて、決断に時間がかかることがあります。\"},{\"icon\":\"gota de agua gris en círculo\",\"label\":\"完璧を求めやすい\",\"text\":\"理想が高く、自分に厳しくなりすぎる傾向があります。\"},{\"icon\":\"media luna gris en círculo\",\"label\":\"無理をしてしまう\",\"text\":\"責任感が強く、抱え込みすぎて疲れてしまうことがあります。\"}]}]},\"lower_tendency_cards\":{\"count\":3,\"cards\":[{\"title\":\"恋愛傾向\",\"icon\":\"corazón rosa\",\"border_color\":\"rosa suave\",\"text\":\"一途で誠実な愛情を注ぐタイプ。相手を大切に思い、安心できる穏やかな関係を築きます。信頼を重ねることで、長く続く深い絆を育みます。\"},{\"title\":\"仕事傾向\",\"icon\":\"maletín azul\",\"border_color\":\"azul suave\",\"text\":\"計画性があり、責任感も強いため、任されると力を発揮します。サポート役や調整役、専門性を活かせる分野で成功しやすいです。コツコツ型の実務派です。\"},{\"title\":\"金運傾向\",\"icon\":\"bolsa de dinero verde\",\"border_color\":\"verde suave\",\"text\":\"堅実にお金を管理できるタイプ。一攫千金よりも、コツコツと貯めていくことで安定します。知識やスキルが収入アップの鍵になります。\"}]},\"bottom_advice_section\":{\"title\":\"開運アドバイス\",\"position\":\"inferior ancho completo\",\"left_panel\":{\"icon\":\"trébol dorado\",\"text\":\"自分のペースを大切にし、焦らず一歩ずつ進むことが開運の秘訣です。小さな成功体験を積み重ねることで、自信と運気がどんどん高まります。リラックスできる時間を意識的に作り、心と体のバランスを整えましょう。\"},\"mini_tips_count\":3,\"mini_tips\":[{\"icon\":\"sol\",\"title\":\"朝日を浴びてリズムを整える\",\"text\":\"運気の流れがスムーズになります。\"},{\"icon\":\"flor\",\"title\":\"自然や緑を感じる時間を持つ\",\"text\":\"心が癒され、エネルギーが高まります。\"},{\"icon\":\"cuaderno y lápiz\",\"title\":\"目標や夢を書き出す\",\"text\":\"思考が整理され、行動力と運気が上がります。\"}]},\"footer\":\"AI鑑定書\",\"composition_notes\":\"Utiliza un diseño de cuadrícula simétrica con tarjetas claramente separadas, márgenes generosos, líneas divisorias doradas finas, pequeñas decoraciones de destellos y texto en japonés altamente legible. El ambiente general debe sentirse premium, suave, místico y fácil de compartir en redes sociales.\",\"customization_subject\":\"Diseña el certificado como si fuera generado para {argument name=\\\"reading subject\\\" default=\\\"a calm, diligent person with strong empathy and practical judgment\\\"}.\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"verziertes japanisches Handlese-Zertifikat als Infografik\",\"language\":\"Japanisch\",\"format\":\"einseitiger, vertikaler A4-Bericht\",\"style\":\"sauberer, eleganter Wahrsagebericht, weißer Pergamenthintergrund, dünner goldener Zierrahmen mit floralen Eckornamenten, sanfte beige- und goldfarbene Trennlinien, feine japanische Serifenschrift, pastellfarbene Akzente, poliertes GPT Image 2-Layout mit gut lesbarem japanischem Text\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI手相鑑定書\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"あなたの手のひらに刻まれた運命のメッセージ\\\"}\",\"date_badge\":{\"position\":\"oben rechts\",\"shape\":\"goldener Lorbeerkranz-Kreis\",\"text\":\"鑑定日\\n本日\\n（撮影日）\"},\"main_layout\":{\"top_left_section\":{\"title\":\"左手\",\"position\":\"oben links\",\"content\":\"große, minimalistische Strichzeichnung einer offenen linken Handfläche in goldenem Umriss, Handlinien in zarten Pastellfarben gezeichnet, kleine Glitzer-Icons und botanische Blattakzente\",\"side_notes_count\":2,\"side_notes\":[\"先天的な才能\",\"内面・潜在能力\"]},\"top_right_section\":{\"title\":\"主要な線の読み取り\",\"position\":\"oben rechts\",\"count\":5,\"items\":[{\"label\":\"感情線\",\"color\":\"pink\",\"description\":\"長めで緩やかにカーブしており、愛情深く思いやりのある性格。人の気持ちに寄り添える優しさがあります。\"},{\"label\":\"頭脳線\",\"color\":\"blue\",\"description\":\"比較的まっすぐ長く伸びており、論理的で現実的な思考の持ち主。計画性があり、物事を冷静に判断できます。\"},{\"label\":\"生命線\",\"color\":\"green\",\"description\":\"長くはっきりしており、体力・生命力が安定しています。粘り強く、困難にも立ち向かう強さを持っています。\"},{\"label\":\"運命線\",\"color\":\"purple\",\"description\":\"手のひら中央にうっすら伸びる線。自力で道を切り開くタイプで、努力が将来の成功につながります。\"},{\"label\":\"太陽線\",\"color\":\"orange\",\"description\":\"薬指の下にうっすらと見える線。才能が認められ、人気や評価を得やすい運勢を持っています。\"}]}},\"middle_sections\":{\"count\":2,\"sections\":[{\"title\":\"強み 3つ\",\"position\":\"mitte links\",\"items_count\":3,\"items\":[{\"icon\":\"gold star in circle\",\"label\":\"努力家で粘り強い\",\"text\":\"目標に向かってコツコツ積み上げ、最後までやり抜く力があります。\"},{\"icon\":\"gold heart in circle\",\"label\":\"思いやりと共感力\",\"text\":\"人の気持ちを理解し、サポートできる優しさがあります。\"},{\"icon\":\"gold mountain in circle\",\"label\":\"現実的な判断力\",\"text\":\"冷静に物事を分析し、最善の選択ができる力を持っています。\"}]},{\"title\":\"注意点 3つ\",\"position\":\"mitte rechts\",\"items_count\":3,\"items\":[{\"icon\":\"gray cloud in circle\",\"label\":\"考えすぎてしまう\",\"text\":\"慎重になりすぎて、決断に時間がかかることがあります。\"},{\"icon\":\"gray water drop in circle\",\"label\":\"完璧を求めやすい\",\"text\":\"理想が高く、自分に厳しくなりすぎる傾向があります。\"},{\"icon\":\"gray crescent moon in circle\",\"label\":\"無理をしてしまう\",\"text\":\"責任感が強く、抱え込みすぎて疲れてしまうことがあります。\"}]}]},\"lower_tendency_cards\":{\"count\":3,\"cards\":[{\"title\":\"恋愛傾向\",\"icon\":\"pink heart\",\"border_color\":\"soft pink\",\"text\":\"一途で誠実な愛情を注ぐタイプ。相手を大切に思い、安心できる穏やかな関係を築きます。信頼を重ねることで、長く続く深い絆を育みます。\"},{\"title\":\"仕事傾向\",\"icon\":\"blue briefcase\",\"border_color\":\"soft blue\",\"text\":\"計画性があり、責任感も強いため、任されると力を発揮します。サポート役や調整役、専門性を活かせる分野で成功しやすいです。コツコツ型の実務派です。\"},{\"title\":\"金運傾向\",\"icon\":\"green money bag\",\"border_color\":\"soft green\",\"text\":\"堅実にお金を管理できるタイプ。一攫千金よりも、コツコツと貯めていくことで安定します。知識やスキルが収入アップの鍵になります。\"}]},\"bottom_advice_section\":{\"title\":\"開運アドバイス\",\"position\":\"unten volle Breite\",\"left_panel\":{\"icon\":\"gold clover\",\"text\":\"自分のペースを大切にし、焦らず一歩ずつ進むことが開運の秘訣です。小さな成功体験を積み重ねることで、自信と運気がどんどん高まります。リラックスできる時間を意識的に作り、心と体のバランスを整えましょう。\"},\"mini_tips_count\":3,\"mini_tips\":[{\"icon\":\"sun\",\"title\":\"朝日を浴びてリズムを整える\",\"text\":\"運気の流れがスムーズになります。\"},{\"icon\":\"flower\",\"title\":\"自然や緑を感じる時間を持つ\",\"text\":\"心が癒され、エネルギーが高まります。\"},{\"icon\":\"notebook and pencil\",\"title\":\"目標や夢を書き出す\",\"text\":\"思考が整理され、行動力と運気が上がります。\"}]},\"footer\":\"AI鑑定書\",\"composition_notes\":\"Verwenden Sie ein symmetrisches Raster-Layout mit klar getrennten Karten, großzügigen Rändern, dünnen goldenen Linien, winzigen Glitzer-Dekorationen und sehr gut lesbarem japanischem Text. Die Gesamtstimmung sollte hochwertig, sanft, mystisch und gut in sozialen Medien teilbar sein.\",\"customization_subject\":\"Gestalten Sie das Zertifikat so, als wäre es für {argument name=\\\"reading subject\\\" default=\\\"a calm, diligent person with strong empathy and practical judgment\\\"} generiert worden.\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"infographie de certificat de chiromancie japonaise ornée\",\"language\":\"Japonais\",\"format\":\"rapport A4 vertical sur une page\",\"style\":\"rapport de divination élégant et épuré, fond parchemin blanc, fine bordure décorative dorée avec ornements floraux dans les coins, séparateurs beige doux et dorés, typographie japonaise serif délicate, couleurs d'accent pastel, mise en page GPT Image 2 soignée avec texte japonais lisible\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI手相鑑定書\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"あなたの手のひらに刻まれた運命のメッセージ\\\"}\",\"date_badge\":{\"position\":\"en haut à droite\",\"shape\":\"cercle couronne de laurier doré\",\"text\":\"鑑定日\\n本日\\n（撮影日）\"},\"main_layout\":{\"top_left_section\":{\"title\":\"左手\",\"position\":\"en haut à gauche\",\"content\":\"grand dessin au trait minimaliste d'une paume gauche ouverte en contour doré, lignes de la main dessinées dans des couleurs pastel pâles, petites icônes d'étincelles et accents de feuilles botaniques\",\"side_notes_count\":2,\"side_notes\":[\"先天的な才能\",\"内面・潜在能力\"]},\"top_right_section\":{\"title\":\"主要な線の読み取り\",\"position\":\"en haut à droite\",\"count\":5,\"items\":[{\"label\":\"感情線\",\"color\":\"rose\",\"description\":\"長めで緩やかにカーブしており、愛情深く思いやりのある性格。人の気持ちに寄り添える優しさがあります。\"},{\"label\":\"頭脳線\",\"color\":\"bleu\",\"description\":\"比較的まっすぐ長く伸びており、論理的で現実的な思考の持ち主。計画性があり、物事を冷静に判断できます。\"},{\"label\":\"生命線\",\"color\":\"vert\",\"description\":\"長くはっきりしており、体力・生命力が安定しています。粘り強く、困難にも立ち向かう強さを持っています。\"},{\"label\":\"運命線\",\"color\":\"violet\",\"description\":\"手のひら中央にうっすら伸びる線。自力で道を切り開くタイプで、努力が将来の成功につながります。\"},{\"label\":\"太陽線\",\"color\":\"orange\",\"description\":\"薬指の下にうっすらと見える線。才能が認められ、人気や評価を得やすい運勢を持っています。\"}]}},\"middle_sections\":{\"count\":2,\"sections\":[{\"title\":\"強み 3つ\",\"position\":\"au milieu à gauche\",\"items_count\":3,\"items\":[{\"icon\":\"étoile dorée dans un cercle\",\"label\":\"努力家で粘り強い\",\"text\":\"目標に向かってコツコツ積み上げ、最後までやり抜く力があります。\"},{\"icon\":\"cœur doré dans un cercle\",\"label\":\"思いやりと共感力\",\"text\":\"人の気持ちを理解し、サポートできる優しさがあります。\"},{\"icon\":\"montagne dorée dans un cercle\",\"label\":\"現実的な判断力\",\"text\":\"冷静に物事を分析し、最善の選択ができる力を持っています。\"}]},{\"title\":\"注意点 3つ\",\"position\":\"au milieu à droite\",\"items_count\":3,\"items\":[{\"icon\":\"nuage gris dans un cercle\",\"label\":\"考えすぎてしまう\",\"text\":\"慎重になりすぎて、決断に時間がかかることがあります。\"},{\"icon\":\"goutte d'eau grise dans un cercle\",\"label\":\"完璧を求めやすい\",\"text\":\"理想が高く、自分に厳しくなりすぎる傾向があります。\"},{\"icon\":\"croissant de lune gris dans un cercle\",\"label\":\"無理をしてしまう\",\"text\":\"責任感が強く、抱え込みすぎて疲れてしまうことがあります。\"}]}]},\"lower_tendency_cards\":{\"count\":3,\"cards\":[{\"title\":\"恋愛傾向\",\"icon\":\"cœur rose\",\"border_color\":\"rose doux\",\"text\":\"一途で誠実な愛情を注ぐタイプ。相手を大切に思い、安心できる穏やかな関係を築きます。信頼を重ねることで、長く続く深い絆を育みます。\"},{\"title\":\"仕事傾向\",\"icon\":\"mallette bleue\",\"border_color\":\"bleu doux\",\"text\":\"計画性があり、責任感も強いため、任されると力を発揮します。サポート役や調整役、専門性を活かせる分野で成功しやすいです。コツコツ型の実務派です。\"},{\"title\":\"金運傾向\",\"icon\":\"sac d'argent vert\",\"border_color\":\"vert doux\",\"text\":\"堅実にお金を管理できるタイプ。一攫千金よりも、コツコツと貯めていくことで安定します。知識やスキルが収入アップの鍵になります。\"}]},\"bottom_advice_section\":{\"title\":\"開運アドバイス\",\"position\":\"en bas pleine largeur\",\"left_panel\":{\"icon\":\"trèfle doré\",\"text\":\"自分のペースを大切にし、焦らず一歩ずつ進むことが開運の秘訣です。小さな成功体験を積み重ねることで、自信と運気がどんどん高まります。リラックスできる時間を意識的に作り、心と体のバランスを整えましょう。\"},\"mini_tips_count\":3,\"mini_tips\":[{\"icon\":\"soleil\",\"title\":\"朝日を浴びてリズムを整える\",\"text\":\"運気の流れがスムーズになります。\"},{\"icon\":\"fleur\",\"title\":\"自然や緑を感じる時間を持つ\",\"text\":\"心が癒され、エネルギーが高まります。\"},{\"icon\":\"cahier et crayon\",\"title\":\"目標や夢を書き出す\",\"text\":\"思考が整理され、行動力と運気が上がります。\"}]},\"footer\":\"AI鑑定書\",\"composition_notes\":\"Utilisez une mise en page en grille symétrique avec des cartes clairement séparées, des marges généreuses, de fines lignes dorées, de minuscules décorations d'étincelles et un texte japonais hautement lisible. L'ambiance générale doit être premium, douce, mystique et facile à partager sur les réseaux sociaux.\",\"customization_subject\":\"Concevez le certificat comme s'il était généré pour {argument name=\\\"reading subject\\\" default=\\\"a calm, diligent person with strong empathy and practical judgment\\\"}.\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"infografica certificato di lettura della mano in stile giapponese\",\"language\":\"Giapponese\",\"format\":\"referto A4 verticale a pagina singola\",\"style\":\"referto di divinazione pulito ed elegante, sfondo in pergamena bianca, sottile bordo decorativo dorato con ornamenti floreali agli angoli, divisori in beige tenue e oro, delicata tipografia serif giapponese, colori pastello, layout GPT Image 2 raffinato con testo giapponese leggibile\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI手相鑑定書\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"あなたの手のひらに刻まれた運命のメッセージ\\\"}\",\"date_badge\":{\"position\":\"in alto a destra\",\"shape\":\"cerchio con corona d'alloro dorata\",\"text\":\"鑑定日\\n本日\\n（撮影日）\"},\"main_layout\":{\"top_left_section\":{\"title\":\"左手\",\"position\":\"in alto a sinistra\",\"content\":\"ampio disegno al tratto minimale di un palmo sinistro aperto con contorno dorato, linee del palmo disegnate in tenui colori pastello, piccole icone scintillanti e accenti di foglie botaniche\",\"side_notes_count\":2,\"side_notes\":[\"先天的な才能\",\"内面・潜在能力\"]},\"top_right_section\":{\"title\":\"主要な線の読み取り\",\"position\":\"in alto a destra\",\"count\":5,\"items\":[{\"label\":\"感情線\",\"color\":\"rosa\",\"description\":\"長めで緩やかにカーブしており、愛情深く思いやりのある性格。人の気持ちに寄り添える優しさがあります。\"},{\"label\":\"頭脳線\",\"color\":\"blu\",\"description\":\"比較的まっすぐ長く伸びており、論理的で現実的な思考の持ち主。計画性があり、物事を冷静に判断できます。\"},{\"label\":\"生命線\",\"color\":\"verde\",\"description\":\"長くはっきりしており、体力・生命力が安定しています。粘り強く、困難にも立ち向かう強さを持っています。\"},{\"label\":\"運命線\",\"color\":\"viola\",\"description\":\"手のひら中央にうっすら伸びる線。自力で道を切り開くタイプで、努力が将来の成功につながります。\"},{\"label\":\"太陽線\",\"color\":\"arancione\",\"description\":\"薬指の下にうっすらと見える線。才能が認められ、人気や評価を得やすい運勢を持っています。\"}]}},\"middle_sections\":{\"count\":2,\"sections\":[{\"title\":\"強み 3つ\",\"position\":\"centro a sinistra\",\"items_count\":3,\"items\":[{\"icon\":\"stella dorata in un cerchio\",\"label\":\"努力家で粘り強い\",\"text\":\"目標に向かってコツコツ積み上げ、最後までやり抜く力があります。\"},{\"icon\":\"cuore dorato in un cerchio\",\"label\":\"思いやりと共感力\",\"text\":\"人の気持ちを理解し、サポートできる優しさがあります。\"},{\"icon\":\"montagna dorata in un cerchio\",\"label\":\"現実的な判断力\",\"text\":\"冷静に物事を分析し、最善の選択ができる力を持っています。\"}]},{\"title\":\"注意点 3つ\",\"position\":\"centro a destra\",\"items_count\":3,\"items\":[{\"icon\":\"nuvola grigia in un cerchio\",\"label\":\"考えすぎてしまう\",\"text\":\"慎重になりすぎて、決断に時間がかかることがあります。\"},{\"icon\":\"goccia d'acqua grigia in un cerchio\",\"label\":\"完璧を求めやすい\",\"text\":\"理想が高く、自分に厳しくなりすぎる傾向があります。\"},{\"icon\":\"mezzaluna grigia in un cerchio\",\"label\":\"無理をしてしまう\",\"text\":\"責任感が強く、抱え込みすぎて疲れてしまうことがあります。\"}]}]},\"lower_tendency_cards\":{\"count\":3,\"cards\":[{\"title\":\"恋愛傾向\",\"icon\":\"cuore rosa\",\"border_color\":\"rosa tenue\",\"text\":\"一途で誠実な愛情を注ぐタイプ。相手を大切に思い、安心できる穏やかな関係を築きます。信頼を重ねることで、長く続く深い絆を育みます。\"},{\"title\":\"仕事傾向\",\"icon\":\"valigetta blu\",\"border_color\":\"blu tenue\",\"text\":\"計画性があり、責任感も強いため、任されると力を発揮します。サポート役や調整役、専門性を活かせる分野で成功しやすいです。コツコツ型の実務派です。\"},{\"title\":\"金運傾向\",\"icon\":\"sacchetto di denaro verde\",\"border_color\":\"verde tenue\",\"text\":\"堅実にお金を管理できるタイプ。一攫千金よりも、コツコツと貯めていくことで安定します。知識やスキルが収入アップの鍵になります。\"}]},\"bottom_advice_section\":{\"title\":\"開運アドバイス\",\"position\":\"parte inferiore a tutta larghezza\",\"left_panel\":{\"icon\":\"quadrifoglio dorato\",\"text\":\"自分のペースを大切にし、焦らず一歩ずつ進むことが開運の秘訣です。小さな成功体験を積み重ねることで、自信と運気がどんどん高まります。リラックスできる時間を意識的に作り、心と体のバランスを整えましょう。\"},\"mini_tips_count\":3,\"mini_tips\":[{\"icon\":\"sole\",\"title\":\"朝日を浴びてリズムを整える\",\"text\":\"運気の流れがスムーズになります。\"},{\"icon\":\"fiore\",\"title\":\"自然や緑を感じる時間を持つ\",\"text\":\"心が癒され、エネルギーが高まります。\"},{\"icon\":\"quaderno e matita\",\"title\":\"目標や夢を書き出す\",\"text\":\"思考が整理され、行動力と運気が上がります。\"}]},\"footer\":\"AI鑑定書\",\"composition_notes\":\"Utilizzare un layout a griglia simmetrico con schede chiaramente separate, margini generosi, sottili linee dorate, piccole decorazioni scintillanti e testo giapponese altamente leggibile. L'atmosfera generale deve risultare premium, delicata, mistica e condivisibile sui social media.\",\"customization_subject\":\"Progetta il certificato come se fosse generato per {argument name=\\\"reading subject\\\" default=\\\"a calm, diligent person with strong empathy and practical judgment\\\"}.\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"infográfico de certificado de leitura de mãos japonês ornamentado\",\"language\":\"Japonês\",\"format\":\"relatório A4 vertical de página única\",\"style\":\"relatório de adivinhação limpo e elegante, fundo de pergaminho branco, borda decorativa dourada fina com ornamentos florais nos cantos, divisórias em bege suave e dourado, tipografia japonesa serifada delicada, cores de destaque em tons pastel, layout polido do GPT Image 2 com texto em japonês legível\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI手相鑑定書\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"あなたの手のひらに刻まれた運命のメッセージ\\\"}\",\"date_badge\":{\"position\":\"top right\",\"shape\":\"círculo de coroa de louros dourada\",\"text\":\"鑑定日\\n本日\\n（撮影日）\"},\"main_layout\":{\"top_left_section\":{\"title\":\"左手\",\"position\":\"upper left\",\"content\":\"desenho de linha minimalista grande de uma palma esquerda aberta em contorno dourado, linhas da palma desenhadas em cores pastel suaves, pequenos ícones de brilho e detalhes de folhas botânicas\",\"side_notes_count\":2,\"side_notes\":[\"先天的な才能\",\"内面・潜在能力\"]},\"top_right_section\":{\"title\":\"主要な線の読み取り\",\"position\":\"upper right\",\"count\":5,\"items\":[{\"label\":\"感情線\",\"color\":\"pink\",\"description\":\"長めで緩やかにカーブしており、愛情深く思いやりのある性格。人の気持ちに寄り添える優しさがあります。\"},{\"label\":\"頭脳線\",\"color\":\"blue\",\"description\":\"比較的まっすぐ長く伸びており、論理的で現実的な思考の持ち主。計画性があり、物事を冷静に判断できます。\"},{\"label\":\"生命線\",\"color\":\"green\",\"description\":\"長くはっきりしており、体力・生命力が安定しています。粘り強く、困難にも立ち向かう強さを持っています。\"},{\"label\":\"運命線\",\"color\":\"purple\",\"description\":\"手のひら中央にうっすら伸びる線。自力で道を切り開くタイプで、努力が将来の成功につながります。\"},{\"label\":\"太陽線\",\"color\":\"orange\",\"description\":\"薬指の下にうっすらと見える線。才能が認められ、人気や評価を得やすい運勢を持っています。\"}]}},\"middle_sections\":{\"count\":2,\"sections\":[{\"title\":\"強み 3つ\",\"position\":\"middle left\",\"items_count\":3,\"items\":[{\"icon\":\"gold star in circle\",\"label\":\"努力家で粘り強い\",\"text\":\"目標に向かってコツコツ積み上げ、最後までやり抜く力があります。\"},{\"icon\":\"gold heart in circle\",\"label\":\"思いやりと共感力\",\"text\":\"人の気持ちを理解し、サポートできる優しさがあります。\"},{\"icon\":\"gold mountain in circle\",\"label\":\"現実的な判断力\",\"text\":\"冷静に物事を分析し、最善の選択ができる力を持っています。\"}]},{\"title\":\"注意点 3つ\",\"position\":\"middle right\",\"items_count\":3,\"items\":[{\"icon\":\"gray cloud in circle\",\"label\":\"考えすぎてしまう\",\"text\":\"慎重になりすぎて、決断に時間がかかることがあります。\"},{\"icon\":\"gray water drop in circle\",\"label\":\"完璧を求めやすい\",\"text\":\"理想が高く、自分に厳しくなりすぎる傾向があります。\"},{\"icon\":\"gray crescent moon in circle\",\"label\":\"無理をしてしまう\",\"text\":\"責任感が強く、抱え込みすぎて疲れてしまうことがあります。\"}]}]},\"lower_tendency_cards\":{\"count\":3,\"cards\":[{\"title\":\"恋愛傾向\",\"icon\":\"pink heart\",\"border_color\":\"soft pink\",\"text\":\"一途で誠実な愛情を注ぐタイプ。相手を大切に思い、安心できる穏やかな関係を築きます。信頼を重ねることで、長く続く深い絆を育みます。\"},{\"title\":\"仕事傾向\",\"icon\":\"blue briefcase\",\"border_color\":\"soft blue\",\"text\":\"計画性があり、責任感も強いため、任されると力を発揮します。サポート役や調整役、専門性を活かせる分野で成功しやすいです。コツコツ型の実務派です。\"},{\"title\":\"金運傾向\",\"icon\":\"green money bag\",\"border_color\":\"soft green\",\"text\":\"堅実にお金を管理できるタイプ。一攫千金よりも、コツコツと貯めていくことで安定します。知識やスキルが収入アップの鍵になります。\"}]},\"bottom_advice_section\":{\"title\":\"開運アドバイス\",\"position\":\"bottom full width\",\"left_panel\":{\"icon\":\"gold clover\",\"text\":\"自分のペースを大切にし、焦らず一歩ずつ進むことが開運の秘訣です。小さな成功体験を積み重ねることで、自信と運気がどんどん高まります。リラックスできる時間を意識的に作り、心と体のバランスを整えましょう。\"},\"mini_tips_count\":3,\"mini_tips\":[{\"icon\":\"sun\",\"title\":\"朝日を浴びてリズムを整える\",\"text\":\"運気の流れがスムーズになります。\"},{\"icon\":\"flower\",\"title\":\"自然や緑を感じる時間を持つ\",\"text\":\"心が癒され、エネルギーが高まります。\"},{\"icon\":\"notebook and pencil\",\"title\":\"目標や夢を書き出す\",\"text\":\"思考が整理され、行動力と運気が上がります。\"}]},\"footer\":\"AI鑑定書\",\"composition_notes\":\"Use symmetrical grid layout with clearly separated cards, generous margins, thin gold rules, tiny sparkle decorations, and highly readable Japanese text. The overall mood should feel premium, gentle, mystical, and shareable on social media.\",\"customization_subject\":\"Design the certificate as if generated for {argument name=\\\"reading subject\\\" default=\\\"a calm, diligent person with strong empathy and practical judgment\\\"}.\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Japanese AI Palm Reading Certificate",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 日式 AI 手相鉴定证书",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Certificado de Quiromancia con IA al estilo japonés",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Japanisches KI-Handlese-Zertifikat",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Certificat de chiromancie IA japonais",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Certificato di lettura della mano AI in stile giapponese",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Certificado de Leitura de Mãos com IA Japonesa",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates an elegant Japanese palmistry report layout with a hand diagram, line interpretations, strengths, cautions, life tendencies, and advice.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一份精美的日式手相报告布局，包含手部图示、掌纹解读、优势、注意事项、生活倾向及建议。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une élégante mise en page de rapport de chiromancie japonaise avec un schéma de la main, des interprétations des lignes, des points forts, des mises en garde, des tendances de vie et des conseils.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ChatgptAIskill/status/2051422854269530228#reversed-1",
+      "originalId": "https://x.com/ChatgptAIskill/status/2051422854269530228#reversed-1",
+      "authors": [
+        {
+          "name": "ケンイチ | AIスキルアカデミー『誰でもわかるAI活用術』",
+          "url": "https://x.com/ChatgptAIskill"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1894
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_12066abbe840a147",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971080026_8mgh67_HHgeNPNbwAAlSlM.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971080026_8mgh67_HHgeNPNbwAAlSlM.jpg",
+      "localPath": "public/assets/prompt_3ebf4ece16bf69b8b69c/14121ba2a8c6.jpg",
+      "alt": "Infographic / Edu Visual - Japanese AI Palm Reading Certificate - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "信息图",
+      "报告"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.851Z"
+  }
+}

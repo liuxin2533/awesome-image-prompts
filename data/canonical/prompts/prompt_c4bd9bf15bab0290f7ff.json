@@ -1,0 +1,107 @@
+{
+  "id": "prompt_c4bd9bf15bab0290f7ff",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word \"STRENGTH\" behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:22:42.478Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "健身品牌力量 Campaign",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Fitness Brand Power Campaign",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:22:41.147Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "campaign",
+      "value": "健身品牌力量 Campaign",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-351",
+      "originalId": "case-351",
+      "authors": [
+        {
+          "name": "AIwithSynthia",
+          "url": "https://x.com/AIwithSynthia/status/2048601383545577614"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5846
+        }
+      ],
+      "rawSource": "[@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7fc2d54d4c104adf",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case351.jpg",
+      "upstreamPath": "../data/images/case351.jpg",
+      "localPath": "public/assets/prompt_c4bd9bf15bab0290f7ff/29e867b663c0.jpg",
+      "alt": "健身品牌力量 Campaign",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "brand",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.601Z"
+  }
+}

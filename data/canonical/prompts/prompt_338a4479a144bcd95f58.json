@@ -1,0 +1,100 @@
+{
+  "id": "prompt_338a4479a144bcd95f58",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Epic 3D scene: a weathered seed packet lying open on a potting bench, its promise erupting into the garden it describes. The illustration on the front becomes real. {argument name=\"plant type\" default=\"[PLANT / FLOWER]\"} growing at full scale from the paper, roots visible through the packet's base pushing into soil below.\n{argument name=\"detail left\" default=\"[DETAIL 1]\"} in full bloom at one corner. {argument name=\"detail right\" default=\"[DETAIL 2]\"} mid-growth at the other, not yet what it will be.\nTiny insects that belong to this plant, {argument name=\"insect type\" default=\"[BEE / BUTTERFLY / BEETLE]\"}, hovering at correct scale.\nThe written instructions on the back become garden calendar, \"sow in spring\" manifests as actual spring light. \"full sun\" manifests as a single shaft of it, hitting the tallest bloom perfectly.\nScattered seeds between packet and soil each showing their germination stage, split coat, first root, first shoot, first leaf.\nThe packet's torn top edge becomes a treeline.\nPotting bench surface with soil scatter and water droplets.\nTilt-shift depth of field, greenhouse morning light, the packet as the garden it always intended.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "史诗级3D场景：一个饱经风霜的种子袋敞开着放在园艺工作台上，它所承诺的花园从袋中爆发出来。前面的插图变成了现实。{argument name=\"plant type\" default=\"[PLANT / FLOWER]\"}从纸上以全尺寸生长，根部从袋子底部可见，伸入下方的土壤。\n{argument name=\"detail left\" default=\"[DETAIL 1]\"}在一个角落完全盛开。{argument name=\"detail right\" default=\"[DETAIL 2]\"}在另一边处于生长中期，还不是它最终的样子。\n属于这种植物的微小昆虫，{argument name=\"insect type\" default=\"[BEE / BUTTERFLY / BEETLE]\"}，以正确的比例悬停。\n背面的种植说明变成了花园日历，\"春天播种\"显现为实际的春光。\"全日照\"显现为一束阳光，完美地照射在最高的花朵上。\n种子袋和土壤之间的散落种子，每个都显示其发芽阶段：种皮裂开，第一根根，第一片芽，第一片叶子。\n种子袋撕裂的顶部边缘变成了一排树林。\n园艺工作台表面有散落的土壤和水滴。\n移轴景深，温室晨光，种子袋成为了它一直想要成为的花园。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:05:15.339Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Magical Seed Packet Diorama",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AllaAisling/status/2048156345518768190",
+      "originalId": "case-143",
+      "authors": [
+        {
+          "name": "AllaAisling",
+          "url": "https://x.com/AllaAisling"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 386
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1ce99f0d366f9c70",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case143/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case143/output.jpg",
+      "localPath": "public/assets/prompt_338a4479a144bcd95f58/f655e969ca89.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.553Z"
+  }
+}

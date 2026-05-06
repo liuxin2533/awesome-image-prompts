@@ -1,0 +1,92 @@
+{
+  "id": "prompt_f4065e2687776ac4e1b5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a hyper-realistic fashion poster for “SPLASH” featuring the same girl from the reference image (keep her face 100% identical). She is sitting confidently on a glossy, liquid-style 3D SPLASH logo with water splash effects. One leg relaxed, one bent, strong editorial pose.\nBackground has massive bold “SPLASH” text filling the frame, partially behind her. Add small tagline: “Own Your Style.”\nOutfit: modern black street-fashion (blazer, fitted top, trousers, sneakers).\nLighting: cinematic studio, soft key light + rim light, reflective highlights on liquid logo.\nStyle: luxury brand campaign (Zara / H&M), clean glossy environment.\nCamera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "SPLASH Fashion Brand Hyper-Realistic Campaign Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/miratechtool/status/2047780974709346606",
+      "originalId": "case-80",
+      "authors": [
+        {
+          "name": "miratechtool",
+          "url": "https://x.com/miratechtool"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1069
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4fdabaf18c489c6e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case80/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case80/output.jpg",
+      "localPath": "public/assets/prompt_f4065e2687776ac4e1b5/fa02944c29be.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

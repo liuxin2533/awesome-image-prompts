@@ -1,0 +1,188 @@
+{
+  "id": "prompt_4e4f81ae2d813b96dc69",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Vertical high-definition portrait, realistic editorial photography of a {argument name=\"subject\" default=\"young Korean Idol\"} with an elegant, mature “cool beauty” aura, refined facial features, fluffy short black hair with soft wispy strands, and polished red-lip makeup. She is seated in a relaxed, graceful cross-legged pose on a black leather sofa, holding a whip in one hand. Her posture feels open, poised, and naturally confident, with a healthy, elegant body line. Outfit: an {argument name=\"outfit\" default=\"oversized black structured blazer, a white collared shirt, and a black tie\"}, paired with a black short skirt. The styling feels sophisticated, office-inspired, and fashion-forward, with a strong “boss lady” aesthetic. Minimal ring accessories add a subtle refined touch. Scene: a modern minimalist indoor portrait setting with a black leather sofa, framed wall art, and a suit hanging on the wall. The background is clean, high-end, minimal, and styled like a fashion magazine set. Lighting and mood: dark cinematic lighting, side backlighting that outlines her silhouette, strong contrast between light and shadow, cool-toned atmosphere, rich retro film texture, moody and immersive. Skin texture is delicate and translucent, hair strands are crisp and defined, and the textures of the clothing fabric, short skirt, and vintage camera are rendered with realistic detail. Style: high-end mature office-fashion magazine portrait, realistic human portrait, 8K ultra-detailed, premium visual quality, extremely detailed, natural and believable, no AI awkwardness, aesthetically refined, tasteful, and fully platform-safe. Add a small white handwriting signature text \"{argument name=\"signature\" default=\"BubbleBrain\"}\" on the bottom right corner",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "竖版高清肖像，写实编辑摄影风格，主角为一位 {argument name=\"subject\" default=\"年轻韩系偶像\"}，散发着优雅、成熟的“冷艳”气质，五官精致，蓬松的黑色短发带有柔和的碎发，妆容搭配精致红唇。她以放松、优雅的姿态盘腿坐在黑色皮质沙发上，单手持鞭。姿态舒展、从容且充满自信，展现出健康、优雅的身材线条。服装：{argument name=\"outfit\" default=\"廓形黑色剪裁西装外套，搭配白色衬衫和黑色领带\"}，下身穿着黑色短裙。造型高级、职场风且前卫，具有强烈的“霸道女总裁”美感。简约的戒指配饰增添了一抹细腻的质感。场景：现代极简室内肖像环境，配有黑色皮质沙发、墙面艺术画框以及悬挂在墙上的西装。背景干净、高端、极简，呈现出时尚杂志拍摄现场的质感。光影与氛围：深色电影感光效，侧逆光勾勒出人物轮廓，明暗对比强烈，冷色调氛围，丰富的复古胶片质感，情绪感十足且极具沉浸感。皮肤纹理细腻通透，发丝清晰分明，衣物面料、短裙以及复古相机的质感渲染得真实细腻。风格：高端成熟职场时尚杂志肖像，写实人像，8K 超高清细节，顶级视觉质量，细节极其丰富，自然真实，无 AI 畸变，审美高级，品味出众，完全符合平台安全规范。在右下角添加一行白色手写签名文字 “{argument name=\"signature\" default=\"BubbleBrain\"}”",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Ảnh chân dung dọc độ phân giải cao, nhiếp ảnh biên tập chân thực về một {argument name=\"subject\" default=\"thần tượng Hàn Quốc trẻ tuổi\"} với khí chất \"lạnh lùng, sang chảnh\" thanh lịch và trưởng thành, đường nét khuôn mặt tinh tế, mái tóc ngắn màu đen bồng bềnh với những sợi tóc mai mềm mại, cùng lớp trang điểm môi đỏ sắc sảo. Cô ấy đang ngồi trong tư thế vắt chéo chân thư thái, duyên dáng trên chiếc ghế sofa da màu đen, một tay cầm chiếc roi da. Tư thế của cô ấy trông cởi mở, đĩnh đạc và tự tin một cách tự nhiên, với đường nét cơ thể khỏe khoắn, thanh lịch. Trang phục: một chiếc {argument name=\"outfit\" default=\"áo blazer đen phom rộng có cấu trúc, áo sơ mi trắng cổ bẻ và cà vạt đen\"}, phối cùng chân váy ngắn màu đen. Phong cách thời trang tinh tế, lấy cảm hứng từ công sở và dẫn đầu xu hướng, mang đậm thẩm mỹ \"nữ tổng tài\". Phụ kiện nhẫn tối giản tạo thêm điểm nhấn tinh tế. Bối cảnh: không gian chụp chân dung trong nhà hiện đại, tối giản với ghế sofa da đen, tranh treo tường và một bộ vest treo trên tường. Phông nền sạch sẽ, cao cấp, tối giản, được dàn dựng như một buổi chụp hình cho tạp chí thời trang. Ánh sáng và tâm trạng: ánh sáng điện ảnh tối, đèn nền chiếu từ bên cạnh làm nổi bật đường nét cơ thể, độ tương phản mạnh giữa ánh sáng và bóng tối, không khí tông màu lạnh, kết cấu phim cổ điển phong phú, đầy cảm xúc và lôi cuốn. Kết cấu da tinh tế và trong suốt, các sợi tóc sắc nét và rõ ràng, kết cấu vải của trang phục, chân váy ngắn và máy ảnh cổ điển được thể hiện với chi tiết chân thực. Phong cách: chân dung tạp chí thời trang công sở trưởng thành cao cấp, chân dung người thật, siêu chi tiết 8K, chất lượng hình ảnh cao cấp, cực kỳ chi tiết, tự nhiên và đáng tin cậy, không có sự gượng gạo của AI, thẩm mỹ tinh tế, có gu và hoàn toàn an toàn trên mọi nền tảng. Thêm một dòng chữ ký viết tay nhỏ màu trắng \"{argument name=\"signature\" default=\"BubbleBrain\"}\" ở góc dưới bên phải",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Retrato vertical en alta definición, fotografía editorial realista de una {argument name=\"subject\" default=\"joven ídolo coreana\"} con un aura elegante, madura y de \"belleza fría\", rasgos faciales refinados, cabello corto y esponjoso de color negro con mechones suaves y ligeros, y maquillaje con labios rojos pulidos. Está sentada en una pose relajada y elegante con las piernas cruzadas en un sofá de cuero negro, sosteniendo un látigo en una mano. Su postura se siente abierta, serena y naturalmente segura, con una línea corporal saludable y elegante. Atuendo: un {argument name=\"outfit\" default=\"blazer negro estructurado de gran tamaño, una camisa blanca con cuello y una corbata negra\"}, combinado con una falda corta negra. El estilo se siente sofisticado, inspirado en la oficina y a la vanguardia de la moda, con una fuerte estética de \"jefa\". Accesorios de anillos minimalistas añaden un toque sutil y refinado. Escena: un entorno de retrato interior moderno y minimalista con un sofá de cuero negro, arte de pared enmarcado y un traje colgado en la pared. El fondo es limpio, de alta gama, minimalista y diseñado como un set de revista de moda. Iluminación y ambiente: iluminación cinematográfica oscura, retroiluminación lateral que perfila su silueta, fuerte contraste entre luz y sombra, atmósfera de tonos fríos, rica textura de película retro, melancólica e inmersiva. La textura de la piel es delicada y translúcida, los mechones de cabello son nítidos y definidos, y las texturas de la tela de la ropa, la falda corta y la cámara vintage están renderizadas con detalles realistas. Estilo: retrato de revista de moda de oficina madura de alta gama, retrato humano realista, 8K ultra detallado, calidad visual premium, extremadamente detallado, natural y creíble, sin torpezas de IA, estéticamente refinado, de buen gusto y totalmente seguro para la plataforma. Añade un pequeño texto de firma manuscrita en blanco \"{argument name=\"signature\" default=\"BubbleBrain\"}\" en la esquina inferior derecha",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Vertikales hochauflösendes Porträt, realistische redaktionelle Fotografie eines {argument name=\"subject\" default=\"jungen koreanischen Idols\"} mit einer eleganten, reifen „Cool Beauty“-Aura, feinen Gesichtszügen, flauschigem kurzem schwarzem Haar mit weichen, feinen Strähnen und poliertem Make-up mit roten Lippen. Sie sitzt in einer entspannten, anmutigen Pose mit überschlagenen Beinen auf einem schwarzen Ledersofa und hält eine Peitsche in einer Hand. Ihre Haltung wirkt offen, gelassen und natürlich selbstbewusst, mit einer gesunden, eleganten Körperlinie. Outfit: ein {argument name=\"outfit\" default=\"übergroßer, strukturierter schwarzer Blazer, ein weißes Hemd mit Kragen und eine schwarze Krawatte\"}, kombiniert mit einem schwarzen kurzen Rock. Das Styling wirkt anspruchsvoll, büroinspiriert und modisch, mit einer starken „Boss Lady“-Ästhetik. Dezente Ring-Accessoires verleihen eine subtile, raffinierte Note. Szene: ein modernes, minimalistisches Innenraum-Porträt-Setting mit einem schwarzen Ledersofa, gerahmter Wandkunst und einem an der Wand hängenden Anzug. Der Hintergrund ist sauber, hochwertig, minimalistisch und wie ein Modemagazin-Set gestaltet. Beleuchtung und Stimmung: dunkle filmische Beleuchtung, seitliches Gegenlicht, das ihre Silhouette hervorhebt, starker Kontrast zwischen Licht und Schatten, kühl getönte Atmosphäre, satte Retro-Filmtextur, stimmungsvoll und immersiv. Die Hautstruktur ist zart und durchscheinend, die Haarsträhnen sind scharf und definiert, und die Texturen des Kleidungsstoffs, des kurzen Rocks und der Vintage-Kamera sind mit realistischen Details wiedergegeben. Stil: hochwertiges, reifes Büro-Modemagazin-Porträt, realistisches menschliches Porträt, 8K ultra-detailliert, erstklassige visuelle Qualität, extrem detailliert, natürlich und glaubwürdig, keine KI-typischen Fehler, ästhetisch raffiniert, geschmackvoll und vollständig plattformkonform. Fügen Sie unten rechts einen kleinen weißen handschriftlichen Signaturtext „{argument name=\"signature\" default=\"BubbleBrain\"}“ hinzu.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Portrait vertical haute définition, photographie éditoriale réaliste d'une {argument name=\"subject\" default=\"jeune idole coréenne\"} avec une aura élégante, mature et « cool beauty », des traits du visage raffinés, des cheveux noirs courts et vaporeux avec des mèches légères, et un maquillage aux lèvres rouges soigné. Elle est assise dans une pose décontractée et gracieuse, les jambes croisées sur un canapé en cuir noir, tenant un fouet dans une main. Sa posture est ouverte, assurée et naturellement confiante, avec une ligne de corps saine et élégante. Tenue : un {argument name=\"outfit\" default=\"blazer structuré noir oversize, une chemise blanche à col et une cravate noire\"}, associé à une jupe courte noire. Le style est sophistiqué, inspiré du monde du travail et avant-gardiste, avec une esthétique affirmée de « boss lady ». Des bagues minimalistes ajoutent une touche subtile et raffinée. Scène : un décor de portrait intérieur moderne et minimaliste avec un canapé en cuir noir, des cadres muraux et un costume suspendu au mur. L'arrière-plan est épuré, haut de gamme, minimaliste et stylisé comme un plateau de magazine de mode. Éclairage et ambiance : éclairage cinématographique sombre, contre-jour latéral soulignant sa silhouette, fort contraste entre ombre et lumière, atmosphère aux tons froids, riche texture de film rétro, mélancolique et immersive. La texture de la peau est délicate et translucide, les mèches de cheveux sont nettes et définies, et les textures du tissu des vêtements, de la jupe courte et de l'appareil photo vintage sont rendues avec des détails réalistes. Style : portrait de magazine de mode de bureau mature haut de gamme, portrait humain réaliste, 8K ultra-détaillé, qualité visuelle premium, extrêmement détaillé, naturel et crédible, sans maladresse liée à l'IA, esthétiquement raffiné, de bon goût et entièrement conforme aux règles de la plateforme. Ajoutez un petit texte de signature manuscrite blanche \"{argument name=\"signature\" default=\"BubbleBrain\"}\" dans le coin inférieur droit",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Ritratto verticale in alta definizione, fotografia editoriale realistica di una {argument name=\"subject\" default=\"giovane Idol coreana\"} con un'aura elegante e matura da \"cool beauty\", lineamenti raffinati, capelli neri corti e voluminosi con ciocche morbide e sfilate, e un trucco con labbra rosse curate. È seduta in una posa rilassata ed elegante a gambe incrociate su un divano in pelle nera, tenendo una frusta in una mano. La sua postura appare aperta, composta e naturalmente sicura di sé, con una linea del corpo sana ed elegante. Outfit: un {argument name=\"outfit\" default=\"blazer nero strutturato oversize, camicia bianca con colletto e cravatta nera\"}, abbinato a una gonna corta nera. Lo styling è sofisticato, ispirato all'ufficio e all'avanguardia nella moda, con una forte estetica da \"boss lady\". Accessori minimali come anelli aggiungono un tocco sottile e raffinato. Scena: un moderno set per ritratti in interni minimalista con un divano in pelle nera, quadri alle pareti e un completo appeso. Lo sfondo è pulito, di alta gamma, minimale e in stile set di una rivista di moda. Illuminazione e atmosfera: illuminazione cinematografica scura, retroilluminazione laterale che delinea la silhouette, forte contrasto tra luci e ombre, atmosfera dai toni freddi, ricca texture da pellicola retrò, suggestiva e coinvolgente. La texture della pelle è delicata e traslucida, le ciocche dei capelli sono nitide e definite, e le texture del tessuto dell'abbigliamento, della gonna corta e della fotocamera vintage sono rese con dettagli realistici. Stile: ritratto per rivista di moda d'ufficio matura di alta gamma, ritratto umano realistico, 8K ultra-dettagliato, qualità visiva premium, estremamente dettagliato, naturale e credibile, nessuna imperfezione tipica dell'IA, esteticamente raffinato, di buon gusto e completamente sicuro per la piattaforma. Aggiungi una piccola firma scritta a mano in bianco \"{argument name=\"signature\" default=\"BubbleBrain\"}\" nell'angolo in basso a destra",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Retrato vertical em alta definição, fotografia editorial realista de uma {argument name=\"subject\" default=\"jovem Idol Coreana\"} com uma aura elegante, madura e de \"beleza fria\", traços faciais refinados, cabelo curto preto volumoso com mechas suaves e soltas, e maquiagem com lábios vermelhos polidos. Ela está sentada em uma pose relaxada e graciosa, com as pernas cruzadas em um sofá de couro preto, segurando um chicote em uma das mãos. Sua postura é aberta, equilibrada e naturalmente confiante, com uma linha corporal saudável e elegante. Traje: um {argument name=\"outfit\" default=\"blazer estruturado preto oversized, camisa branca de colarinho e gravata preta\"}, combinado com uma saia curta preta. O estilo é sofisticado, inspirado em escritórios e vanguardista, com uma forte estética de \"mulher poderosa\". Acessórios de anéis minimalistas adicionam um toque sutil e refinado. Cenário: um ambiente de retrato interno moderno e minimalista com um sofá de couro preto, arte de parede emoldurada e um terno pendurado na parede. O fundo é limpo, sofisticado, minimalista e estilizado como um set de revista de moda. Iluminação e atmosfera: iluminação cinematográfica escura, contraluz lateral que delineia sua silhueta, forte contraste entre luz e sombra, atmosfera de tons frios, textura rica de filme retrô, temperamental e imersiva. A textura da pele é delicada e translúcida, os fios de cabelo são nítidos e definidos, e as texturas do tecido da roupa, da saia curta e da câmera vintage são renderizadas com detalhes realistas. Estilo: retrato de revista de moda executiva madura de alto padrão, retrato humano realista, 8K ultra detalhado, qualidade visual premium, extremamente detalhado, natural e verossímil, sem imperfeições de IA, esteticamente refinado, de bom gosto e totalmente seguro para a plataforma. Adicione um pequeno texto de assinatura manuscrita em branco \"{argument name=\"signature\" default=\"BubbleBrain\"}\" no canto inferior direito",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Cool Beauty Korean Idol Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 冷艳韩系偶像肖像",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Chân dung thần tượng Hàn Quốc với phong cách lạnh lùng, sang chảnh",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Retrato de ídolo coreana con estética 'cool beauty'",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Cooles Beauty-Porträt eines koreanischen Idols",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Portrait d'idole coréenne au style « cool beauty »",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Ritratto di Idol coreana dallo stile 'Cool Beauty'",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Retrato de Idol Coreana com Estilo 'Cool Beauty'",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed editorial photography prompt for a Korean idol with a sophisticated 'boss lady' aesthetic on a minimalist set.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这是一份高度精细的编辑摄影提示词，旨在呈现一位具有简约“霸道女总裁”美感的韩系偶像。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie éditoriale très détaillé pour une idole coréenne avec une esthétique sophistiquée de « boss lady » sur un plateau minimaliste.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/BubbleBrain/status/2051395269246480722",
+      "originalId": "https://x.com/BubbleBrain/status/2051395269246480722",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 864
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b1a4d98589cb4e2c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777970995991_he1k6n_HHgFFzjbYAAvEY5.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777970995991_he1k6n_HHgFFzjbYAAvEY5.jpg",
+      "localPath": "public/assets/prompt_4e4f81ae2d813b96dc69/7546d2240312.jpg",
+      "alt": "Profile / Avatar - Cool Beauty Korean Idol Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "人像",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.852Z"
+  }
+}

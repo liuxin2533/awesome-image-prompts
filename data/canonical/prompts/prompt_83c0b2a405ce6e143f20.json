@@ -1,0 +1,106 @@
+{
+  "id": "prompt_83c0b2a405ce6e143f20",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "苏轼被贬第一天小红书截图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Su Shi's first day of exile Xiaohongshu screenshot",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "苏轼被贬首日朋友圈曝光",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Su Shi's Social Media Feed on the First Day of His Exile",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:53:09.694Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_964e2afa4d",
+      "value": "苏轼被贬首日朋友圈曝光",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-176",
+      "originalId": "case-176",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046585220393324553"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 263
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046585220393324553)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c71982e4edfad67b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case176.jpg",
+      "upstreamPath": "../data/images/case176.jpg",
+      "localPath": "public/assets/prompt_83c0b2a405ce6e143f20/c7e8429ac2c4.jpg",
+      "alt": "苏轼被贬首日朋友圈曝光",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "social",
+      "小红书"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.592Z"
+  }
+}

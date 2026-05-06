@@ -1,0 +1,250 @@
+{
+  "id": "prompt_1ca6b8c1f8ef255bc4b3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a \"Where is [Your Name]\" crowd search poster set in the city of your choosing",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 “Where is [你的名字]” 风格的人群搜寻海报，背景城市由你选择",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張「Where is [Your Name]」風格的人群尋找海報，背景城市可自由選擇。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "好きな都市を舞台にした \"Where is [Your Name]\" 群衆探索ポスターを作成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "원하는 도시를 배경으로 \"Where is [Your Name]\" 스타일 군중 찾기 포스터를 만든다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une affiche de recherche dans la foule \"Where is [Your Name]\" située dans la ville de ton choix.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein „Where is [Your Name]“-Poster zur Personensuche in einer frei gewählten Stadt.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un póster de búsqueda entre multitudes \"Where is [Your Name]\" ambientado en la ciudad que elijas.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Where Is [Your Name] Crowd Search Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "“Where is [Your Name]” 人群搜寻海报",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "“Where is [Your Name]” 人群尋找海報",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "“Where is [Your Name]” 群衆探索ポスター",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "“Where is [Your Name]” 군중 찾기 포스터",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche “Where is [Your Name]”",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "„Where is [Your Name]“-Suchposter",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster “Where is [Your Name]”",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "The author mentions the full prompt is in the comments, but the core reusable prompt pattern is given in the post text.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "video-animation-collage",
+      "value": "🎬 Video, Animation & Collage",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7b63ef6af1",
+      "value": "🎬 视频、动画与拼贴",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a494631ab",
+      "value": "🎬 影片、動畫與拼貼",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_101c74ae24",
+      "value": "🎬 動画・アニメーション・コラージュ",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_dde97347ed",
+      "value": "🎬 영상, 애니메이션, 콜라주",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animation-et-collage",
+      "value": "🎬 Vidéo, animation et collage",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animation-und-collage",
+      "value": "🎬 Video, Animation und Collage",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animacion-y-collage",
+      "value": "🎬 Video, animación y collage",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/icreatelife/status/2046639884421550482",
+      "originalId": "https://x.com/icreatelife/status/2046639884421550482",
+      "authors": [
+        {
+          "name": "icreatelife",
+          "url": "https://x.com/icreatelife/status/2046639884421550482"
+        },
+        {
+          "name": " @icreatelife ",
+          "url": "https://x.com/icreatelife/status/2046639884421550482"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 470
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 376
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 332
+        },
+        {
+          "file": "README:ja",
+          "line": 376
+        },
+        {
+          "file": "README:ko",
+          "line": 332
+        },
+        {
+          "file": "README:fr",
+          "line": 332
+        },
+        {
+          "file": "README:de",
+          "line": 332
+        },
+        {
+          "file": "README:es",
+          "line": 332
+        }
+      ],
+      "rawSource": "[@icreatelife](https://x.com/icreatelife/status/2046639884421550482)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5dfdfefcff4ba5a1",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGcgIHWWgAEph1p?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGcgIHWWgAEph1p?format=jpg&name=large",
+      "localPath": "public/assets/prompt_1ca6b8c1f8ef255bc4b3/93eefe3ee3db.jpg",
+      "alt": "Where Is [Your Name] Crowd Search Poster",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

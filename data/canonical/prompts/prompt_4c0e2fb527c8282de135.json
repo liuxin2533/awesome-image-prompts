@@ -1,0 +1,195 @@
+{
+  "id": "prompt_4c0e2fb527c8282de135",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Ultra-realistic cinematic motorsport poster of a professional {argument name=\"driver type\" default=\"Formula 1 driver\"} standing confidently in front of a {argument name=\"car style\" default=\"modern F1 race car\"}. The driver is, wearing black racing suit with subtle sponsor logos (Pirelli, TAG Heuer, Mobil 1 style branding), reflective premium sunglasses, hands in pockets, looking slightly to the side with a calm, determined expression.The Formula 1 car is sleek, aggressive, and futuristic, {argument name=\"car finish\" default=\"matte black with glowing red accents\"}, detailed aerodynamic elements, and illuminated red highlights on tires and edges. The car features minimal branding with “SPEEDAI07” text integrated into the design. Background features a large glowing red Formula 1-style logo, with a dark studio environment, glossy reflective floor, and dramatic red neon lighting. Strong cinematic contrast, rim lighting, and soft reflections enhance the scene.Composition is wide-angle, full body shot, centered subject, with the car slightly behind and to the side. Hyper-detailed textures, sharp focus, photorealistic rendering, 8K resolution, high dynamic range, studio lighting. Color palette: black and deep red, high contrast, glossy reflections, cyberpunk-inspired motorsport aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超写实电影质感赛车海报，画面中一位职业 {argument name=\"driver type\" default=\"一级方程式赛车手\"} 自信地站在一辆 {argument name=\"car style\" default=\"现代 F1 赛车\"} 前。车手身穿黑色赛车服，带有精致的赞助商标志（如 Pirelli、TAG Heuer、Mobil 1 风格品牌），佩戴反光高级墨镜，双手插兜，侧头看向一侧，表情冷静而坚定。F1 赛车线条流畅、极具攻击性且充满未来感，采用 {argument name=\"car finish\" default=\"哑光黑配发光红色点缀\"}，细节丰富的空气动力学组件，轮胎和边缘带有红色发光高光。车身品牌标识极简，设计中融入了“SPEEDAI07”字样。背景为一个巨大的发光红色 F1 风格标志，置于暗色摄影棚环境中，地面为光亮反光材质，配以戏剧性的红色霓虹灯光。强烈的电影对比度、轮廓光和柔和的反射增强了场景质感。构图采用广角全身照，主体居中，赛车位于后方侧面。超精细纹理，焦点清晰，照片级渲染，8K 分辨率，高动态范围，摄影棚灯光。配色方案：黑色与深红色，高对比度，光亮反射，赛博朋克风格的赛车美学。",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปสเตอร์มอเตอร์สปอร์ตสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษของ {argument name=\"driver type\" default=\"นักแข่ง Formula 1\"} มืออาชีพ ยืนอย่างมั่นใจหน้า {argument name=\"car style\" default=\"รถแข่ง F1 ทันสมัย\"} นักแข่งสวมชุดแข่งสีดำที่มีโลโก้ผู้สนับสนุนแบบจางๆ (สไตล์แบรนด์ Pirelli, TAG Heuer, Mobil 1) สวมแว่นกันแดดพรีเมียมแบบสะท้อนแสง มือล้วงกระเป๋า มองไปด้านข้างเล็กน้อยด้วยสีหน้าสงบและมุ่งมั่น ตัวรถ Formula 1 มีความโฉบเฉี่ยว ดุดัน และล้ำสมัย {argument name=\"car finish\" default=\"สีดำด้านพร้อมรายละเอียดสีแดงเรืองแสง\"} มีองค์ประกอบทางอากาศพลศาสตร์ที่ละเอียด และไฮไลท์สีแดงที่ส่องสว่างบนยางและขอบรถ ตัวรถมีการติดแบรนด์เพียงเล็กน้อยโดยมีข้อความ “SPEEDAI07” ผสมผสานอยู่ในการออกแบบ พื้นหลังมีโลโก้สไตล์ Formula 1 ขนาดใหญ่ที่เรืองแสงสีแดง ท่ามกลางสภาพแวดล้อมสตูดิโอที่มืด พื้นเงาสะท้อน และแสงไฟนีออนสีแดงที่ดูมีพลัง สร้างคอนทราสต์แบบภาพยนตร์ที่ชัดเจน แสงขอบ (rim lighting) และการสะท้อนที่นุ่มนวลช่วยเสริมให้ฉากดูโดดเด่น องค์ประกอบภาพเป็นมุมกว้าง ถ่ายเต็มตัว โดยมีตัวแบบอยู่ตรงกลางและรถอยู่ด้านหลังเยื้องไปทางด้านข้าง พื้นผิวมีความละเอียดสูง โฟกัสคมชัด การเรนเดอร์ที่สมจริงระดับภาพถ่าย ความละเอียด 8K และช่วงไดนามิกสูง แสงสตูดิโอ โทนสี: ดำและแดงเข้ม คอนทราสต์สูง การสะท้อนที่เงางาม และสุนทรียศาสตร์มอเตอร์สปอร์ตที่ได้รับแรงบันดาลใจจากไซเบอร์พังค์",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster de automovilismo cinematográfico ultrarrealista de un {argument name=\"driver type\" default=\"piloto de Fórmula 1\"} profesional de pie con confianza frente a un {argument name=\"car style\" default=\"auto de carreras de F1 moderno\"}. El piloto viste un traje de carreras negro con logotipos de patrocinadores sutiles (estilo Pirelli, TAG Heuer, Mobil 1), lentes de sol premium reflectantes, manos en los bolsillos, mirando ligeramente hacia un lado con una expresión tranquila y decidida. El auto de Fórmula 1 es elegante, agresivo y futurista, {argument name=\"car finish\" default=\"negro mate con detalles en rojo brillante\"}, con elementos aerodinámicos detallados y reflejos rojos iluminados en los neumáticos y los bordes. El auto presenta una marca mínima con el texto “SPEEDAI07” integrado en el diseño. El fondo presenta un gran logotipo brillante al estilo de Fórmula 1 en rojo, con un entorno de estudio oscuro, piso reflectante brillante e iluminación de neón roja dramática. Un fuerte contraste cinematográfico, iluminación de contorno y reflejos suaves realzan la escena. La composición es de gran angular, plano de cuerpo completo, sujeto centrado, con el auto ligeramente detrás y a un lado. Texturas hiperdetalladas, enfoque nítido, renderizado fotorrealista, resolución 8K, alto rango dinámico, iluminación de estudio. Paleta de colores: negro y rojo intenso, alto contraste, reflejos brillantes, estética de automovilismo inspirada en el cyberpunk.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ultrarealistisches, cinematisches Motorsport-Poster eines professionellen {argument name=\"driver type\" default=\"Formel-1-Fahrers\"}, der selbstbewusst vor einem {argument name=\"car style\" default=\"modernen F1-Rennwagen\"} steht. Der Fahrer trägt einen schwarzen Rennanzug mit dezenten Sponsorenlogos (im Stil von Pirelli, TAG Heuer, Mobil 1), eine reflektierende Premium-Sonnenbrille, die Hände in den Taschen, und blickt mit einem ruhigen, entschlossenen Ausdruck leicht zur Seite. Der Formel-1-Wagen ist schnittig, aggressiv und futuristisch, {argument name=\"car finish\" default=\"mattschwarz mit leuchtend roten Akzenten\"}, mit detaillierten aerodynamischen Elementen und beleuchteten roten Highlights an Reifen und Kanten. Das Auto weist ein minimalistisches Branding mit dem Schriftzug „SPEEDAI07“ auf, der in das Design integriert ist. Der Hintergrund zeigt ein großes, rot leuchtendes Logo im Formel-1-Stil in einer dunklen Studio-Umgebung mit glänzendem, reflektierendem Boden und dramatischer roter Neonbeleuchtung. Starker cinematischer Kontrast, Rim-Light und sanfte Reflexionen unterstreichen die Szene. Die Komposition ist ein Weitwinkel-Ganzkörperfoto mit zentriertem Motiv, wobei das Auto leicht versetzt dahinter positioniert ist. Hyperdetaillierte Texturen, scharfer Fokus, fotorealistisches Rendering, 8K-Auflösung, hoher Dynamikumfang, Studiobeleuchtung. Farbpalette: Schwarz und tiefes Rot, hoher Kontrast, glänzende Reflexionen, von Cyberpunk inspirierte Motorsport-Ästhetik.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche de sport automobile cinématographique ultra-réaliste représentant un {argument name=\"driver type\" default=\"pilote de Formule 1\"} professionnel se tenant fièrement devant une {argument name=\"car style\" default=\"voiture de course F1 moderne\"}. Le pilote porte une combinaison de course noire avec des logos de sponsors subtils (style Pirelli, TAG Heuer, Mobil 1), des lunettes de soleil haut de gamme réfléchissantes, les mains dans les poches, regardant légèrement sur le côté avec une expression calme et déterminée. La voiture de Formule 1 est élégante, agressive et futuriste, avec une {argument name=\"car finish\" default=\"finition noir mat aux accents rouge vif\"}, des éléments aérodynamiques détaillés et des reflets rouges illuminés sur les pneus et les contours. La voiture présente un marquage minimaliste avec le texte « SPEEDAI07 » intégré au design. L'arrière-plan présente un grand logo lumineux de style Formule 1 rouge, dans un environnement de studio sombre, un sol brillant réfléchissant et un éclairage néon rouge spectaculaire. Un contraste cinématographique marqué, un éclairage de contour et des reflets doux rehaussent la scène. La composition est en grand angle, plan pied, sujet centré, avec la voiture légèrement en retrait sur le côté. Textures hyper-détaillées, mise au point nette, rendu photoréaliste, résolution 8K, plage dynamique élevée, éclairage de studio. Palette de couleurs : noir et rouge profond, contraste élevé, reflets brillants, esthétique de sport automobile inspirée du cyberpunk.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Poster cinematografico di motorsport ultra-realistico con un {argument name=\"driver type\" default=\"pilota di Formula 1\"} professionista che posa con sicurezza davanti a una {argument name=\"car style\" default=\"moderna auto da corsa di F1\"}. Il pilota indossa una tuta da gara nera con loghi degli sponsor discreti (stile Pirelli, TAG Heuer, Mobil 1), occhiali da sole premium riflettenti, mani in tasca, sguardo leggermente rivolto di lato con un'espressione calma e determinata. L'auto di Formula 1 è elegante, aggressiva e futuristica, {argument name=\"car finish\" default=\"nera opaca con accenti rosso brillante\"}, con elementi aerodinamici dettagliati e riflessi rossi illuminati su pneumatici e bordi. L'auto presenta un branding minimale con la scritta \"SPEEDAI07\" integrata nel design. Lo sfondo presenta un grande logo in stile Formula 1 rosso brillante, in un ambiente da studio scuro, pavimento lucido riflettente e una drammatica illuminazione al neon rossa. Forte contrasto cinematografico, rim lighting e riflessi morbidi esaltano la scena. Composizione grandangolare, inquadratura a figura intera, soggetto centrato, con l'auto leggermente dietro e di lato. Texture iper-dettagliate, messa a fuoco nitida, rendering fotorealistico, risoluzione 8K, alta gamma dinamica, illuminazione da studio. Palette colori: nero e rosso intenso, alto contrasto, riflessi lucidi, estetica motorsport ispirata al cyberpunk.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Pôster de automobilismo cinematográfico ultrarrealista de um {argument name=\"driver type\" default=\"piloto de Fórmula 1\"} profissional posicionado com confiança à frente de um {argument name=\"car style\" default=\"carro de corrida de F1 moderno\"}. O piloto está vestindo um traje de corrida preto com logotipos de patrocinadores sutis (estilo Pirelli, TAG Heuer, Mobil 1), óculos de sol premium reflexivos, mãos nos bolsos, olhando levemente para o lado com uma expressão calma e determinada. O carro de Fórmula 1 é elegante, agressivo e futurista, {argument name=\"car finish\" default=\"preto fosco com detalhes em vermelho brilhante\"}, com elementos aerodinâmicos detalhados e destaques em vermelho iluminado nos pneus e nas bordas. O carro apresenta branding minimalista com o texto “SPEEDAI07” integrado ao design. O fundo apresenta um grande logotipo estilo Fórmula 1 em vermelho brilhante, com um ambiente de estúdio escuro, piso reflexivo brilhante e iluminação neon vermelha dramática. Contraste cinematográfico forte, iluminação de contorno e reflexos suaves realçam a cena. A composição é grande angular, plano de corpo inteiro, sujeito centralizado, com o carro levemente atrás e ao lado. Texturas hiperdetalhadas, foco nítido, renderização fotorrealista, resolução 8K, alta faixa dinâmica, iluminação de estúdio. Paleta de cores: preto e vermelho profundo, alto contraste, reflexos brilhantes, estética de automobilismo inspirada em cyberpunk.",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profesyonel bir {argument name=\"driver type\" default=\"Formula 1 sürücüsünün\"} {argument name=\"car style\" default=\"modern bir F1 yarış aracının\"} önünde kendinden emin bir şekilde durduğu, ultra gerçekçi sinematik motor sporları posteri. Sürücü, üzerinde ince sponsor logoları (Pirelli, TAG Heuer, Mobil 1 tarzı markalama) bulunan siyah bir yarış tulumu giymiş, yansıtıcı premium güneş gözlükleri takmış, elleri ceplerinde, sakin ve kararlı bir ifadeyle hafifçe yana bakıyor. Formula 1 aracı şık, agresif ve fütüristik; {argument name=\"car finish\" default=\"parlayan kırmızı detaylara sahip mat siyah\"} kaplamalı, detaylı aerodinamik unsurlara sahip ve lastik ile kenarlarda aydınlatılmış kırmızı vurgular bulunuyor. Araç, tasarımına entegre edilmiş “SPEEDAI07” metniyle minimal bir markalamaya sahip. Arka planda büyük, parlayan kırmızı bir Formula 1 tarzı logo, karanlık bir stüdyo ortamı, parlak yansıtıcı zemin ve dramatik kırmızı neon aydınlatma yer alıyor. Güçlü sinematik kontrast, kenar aydınlatması ve yumuşak yansımalar sahneyi zenginleştiriyor. Kompozisyon geniş açılı, tam boy çekim, merkezlenmiş özne ve araç hafifçe arkada ve yanda olacak şekilde ayarlanmıştır. Hiper detaylı dokular, keskin odak, fotogerçekçi render, 8K çözünürlük, yüksek dinamik aralık, stüdyo aydınlatması. Renk paleti: siyah ve koyu kırmızı, yüksek kontrast, parlak yansımalar, siberpunk esintili motor sporları estetiği.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Cinematic Formula 1 Driver Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 电影质感一级方程式赛车手海报",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - โปสเตอร์นักแข่ง Formula 1 สไตล์ภาพยนตร์",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Póster cinematográfico de piloto de Fórmula 1",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Cinematisches Formel-1-Fahrer-Poster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Affiche cinématographique de pilote de Formule 1",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Poster cinematografico di un pilota di Formula 1",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Pôster Cinematográfico de Piloto de Fórmula 1",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Sinematik Formula 1 Sürücüsü Posteri",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for an ultra-realistic motorsport poster featuring a professional driver and a futuristic F1 car in a studio setting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款用于生成超写实赛车海报的提示词，包含一位职业车手和一辆未来感 F1 赛车，背景设定为摄影棚。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour une affiche de sport automobile ultra-réaliste mettant en scène un pilote professionnel et une voiture de F1 futuriste dans un studio.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/SPEEDAI07/status/2051370408079953960",
+      "originalId": "https://x.com/SPEEDAI07/status/2051370408079953960",
+      "authors": [
+        {
+          "name": "SPEEDYAI",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3839
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5a0065365c2722e0",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971002299_gniwz8_HHfug8CbgAA8JEL.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971002299_gniwz8_HHfug8CbgAA8JEL.jpg",
+      "localPath": "public/assets/prompt_4c0e2fb527c8282de135/4563238603bc.jpg",
+      "alt": "Product Marketing - Cinematic Formula 1 Driver Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.852Z"
+  }
+}

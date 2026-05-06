@@ -1,0 +1,259 @@
+{
+  "id": "prompt_32ea47821dd5c33cb9a3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate an image of a handwritten Chinese medicine or Western medicine prescription",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张手写中药或西药处方的图像",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張手寫中藥或西藥處方的圖像。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "手書きの中国医学または西洋医学の処方箋画像を生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "손글씨 중국 의학 또는 서양 의학 처방전 이미지를 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère l'image d'une ordonnance manuscrite de médecine chinoise ou occidentale.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein Bild eines handschriftlichen Rezepts aus der chinesischen oder westlichen Medizin.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una imagen de una receta médica manuscrita de medicina china o occidental.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Handwritten Chinese Medical Prescription",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "手写中文医药处方",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "手寫中文醫藥處方",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "手書き中国語の処方箋",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "손글씨 중국어 의약 처방전",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ordonnance manuscrite chinoise",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Handschriftliches chinesisches Rezept",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Receta médica manuscrita en chino",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Reference images for the prescription layout, handwriting, or stamp style can produce much better results.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046514998965371144"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 749
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 636
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 489
+        },
+        {
+          "file": "README:ja",
+          "line": 636
+        },
+        {
+          "file": "README:ko",
+          "line": 489
+        },
+        {
+          "file": "README:fr",
+          "line": 489
+        },
+        {
+          "file": "README:de",
+          "line": 489
+        },
+        {
+          "file": "README:es",
+          "line": 489
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a51b35c873ed914e",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGaqaO2W4AA2W-6?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGaqaO2W4AA2W-6?format=jpg&name=large",
+      "localPath": "public/assets/prompt_32ea47821dd5c33cb9a3/76bb0f8ba4b5.jpg",
+      "alt": "Traditional Chinese Medicine",
+      "status": "pending"
+    },
+    {
+      "id": "asset_6516aacf5d2e70dd",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGaqaO4XYAARyRR?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGaqaO4XYAARyRR?format=jpg&name=large",
+      "localPath": "public/assets/prompt_32ea47821dd5c33cb9a3/6c6cf55ebcf4.jpg",
+      "alt": "Western Medicine",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

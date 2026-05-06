@@ -1,0 +1,174 @@
+{
+  "id": "prompt_60cf1ad7048258f51a0e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a warm, candid, photorealistic vertical 35mm-style indoor snapshot of a cozy, slightly messy apartment living room at night. The main subject is {argument name=\"subject description\" default=\"a young East Asian woman with black messy hair and round glasses\"} lying upside down across a dark gray fabric sofa, head near the front-right edge of the couch, one arm bent behind her head and the other relaxed outward, eyes closed or half-closed with a tired, peaceful expression. She wears {argument name=\"top color\" default=\"a muted blue sleeveless tank top\"} and {argument name=\"shorts color\" default=\"light gray drawstring lounge shorts\"}, bare legs stretched along the sofa, with a rumpled beige throw blanket around her waist and cushions nearby. The room should feel lived-in and intimate: stacks of magazines and papers on a chair and side surfaces, shelves full of books and records in the background, a low wooden coffee table on the right holding exactly three black remote controls and one ceramic mug, and a pile of blankets on an ottoman or floor cushion in the back. Include exactly three warm light sources: a large floor lamp on the left foreground, a small lamp on a cabinet in the rear center, and another glowing lamp near the right rear curtains. Use {argument name=\"lighting mood\" default=\"warm tungsten evening light\"}, shallow depth of field, soft film grain, natural skin tones, slight motion softness, realistic clutter, and an unposed documentary-photo composition shot from above the sofa looking diagonally through the room. Avoid glamour styling; make it feel like an ordinary quiet night at home.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张温暖、真实、抓拍风格的 35mm 胶片感室内快照，呈现夜晚温馨且略显杂乱的公寓客厅。主体为 {argument name=\"subject description\" default=\"一位留着黑色凌乱短发、戴着圆框眼镜的年轻东亚女性\"}，她头朝前右侧边缘，倒卧在深灰色布艺沙发上，一只手臂弯曲在脑后，另一只手臂自然向外舒展，双眼闭合或半闭，表情疲惫而宁静。她身穿 {argument name=\"top color\" default=\"一件柔和的蓝色无袖背心\"} 和 {argument name=\"shorts color\" default=\"浅灰色抽绳居家短裤\"}，赤裸的双腿沿沙发伸展，腰间围着一条褶皱的米色盖毯，身旁放着靠垫。房间应充满生活气息且私密：椅子和侧面桌面上堆放着杂志和纸张，背景书架上摆满了书籍和唱片，右侧的低矮木质咖啡桌上整齐地放着 3 个黑色遥控器和 1 个陶瓷马克杯，后方的脚凳或地垫上堆着一叠毯子。画面需包含 3 个温暖的光源：左前方的落地灯、后方中央柜子上的小台灯，以及右后方窗帘旁发光的另一盏灯。使用 {argument name=\"lighting mood\" default=\"温暖的钨丝灯夜光\"}，浅景深，柔和的胶片颗粒感，自然的肤色，轻微的动态模糊，真实的杂乱感，以及从沙发上方斜向俯瞰整个房间的非摆拍式纪实构图。避免过度美化，营造出普通而宁静的居家夜晚氛围。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una instantánea de interiores vertical estilo 35mm, cálida, cándida y fotorrealista, de una sala de estar de apartamento acogedora y ligeramente desordenada por la noche. El sujeto principal es {argument name=\"subject description\" default=\"una joven mujer de Asia Oriental con cabello negro desordenado y lentes redondos\"} recostada boca abajo en un sofá de tela gris oscuro, con la cabeza cerca del borde delantero derecho del sofá, un brazo doblado detrás de la cabeza y el otro relajado hacia afuera, con los ojos cerrados o entrecerrados con una expresión de cansancio y paz. Viste {argument name=\"top color\" default=\"una camiseta sin mangas de color azul apagado\"} y {argument name=\"shorts color\" default=\"shorts de descanso con cordón de color gris claro\"}, con las piernas desnudas estiradas a lo largo del sofá, con una manta beige arrugada alrededor de la cintura y cojines cerca. La habitación debe sentirse vivida e íntima: pilas de revistas y papeles en una silla y superficies laterales, estantes llenos de libros y discos al fondo, una mesa de centro de madera baja a la derecha que sostiene exactamente tres controles remotos negros y una taza de cerámica, y una pila de mantas en un otomán o cojín de piso en la parte posterior. Incluye exactamente tres fuentes de luz cálida: una lámpara de pie grande en el primer plano izquierdo, una lámpara pequeña en un gabinete en el centro posterior y otra lámpara brillante cerca de las cortinas traseras derechas. Usa {argument name=\"lighting mood\" default=\"luz cálida de tungsteno de atardecer\"}, profundidad de campo reducida, grano de película suave, tonos de piel naturales, ligera suavidad de movimiento, desorden realista y una composición de fotografía documental sin poses tomada desde arriba del sofá mirando diagonalmente a través de la habitación. Evita el estilo glamuroso; haz que se sienta como una noche tranquila y ordinaria en casa.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle einen warmen, ungezwungenen, fotorealistischen vertikalen Schnappschuss im 35mm-Stil von einem gemütlichen, leicht unordentlichen Wohnzimmer bei Nacht. Das Hauptmotiv ist {argument name=\"subject description\" default=\"eine junge ostasiatische Frau mit schwarzem, zerzaustem Haar und runder Brille\"}, die kopfüber auf einem dunkelgrauen Stoffsofa liegt. Ihr Kopf befindet sich nahe der vorderen rechten Kante des Sofas, ein Arm ist hinter dem Kopf angewinkelt, der andere entspannt ausgestreckt, die Augen geschlossen oder halb geschlossen mit einem müden, friedlichen Ausdruck. Sie trägt {argument name=\"top color\" default=\"ein schlichtes, ärmelloses blaues Tanktop\"} und {argument name=\"shorts color\" default=\"hellgraue Lounge-Shorts mit Kordelzug\"}, die nackten Beine entlang des Sofas ausgestreckt, mit einer zerknitterten beigen Wohndecke um die Taille und Kissen in der Nähe. Der Raum sollte bewohnt und intim wirken: Stapel von Zeitschriften und Papieren auf einem Stuhl und Ablageflächen, Regale voller Bücher und Schallplatten im Hintergrund, ein niedriger Couchtisch aus Holz auf der rechten Seite mit genau drei schwarzen Fernbedienungen und einer Keramiktasse sowie ein Stapel Decken auf einem Ottomanen oder Bodenkissen im hinteren Bereich. Integriere genau drei warme Lichtquellen: eine große Stehlampe im linken Vordergrund, eine kleine Lampe auf einem Schrank in der hinteren Mitte und eine weitere leuchtende Lampe in der Nähe der Vorhänge hinten rechts. Verwende {argument name=\"lighting mood\" default=\"warmes Wolfram-Abendlicht\"}, geringe Schärfentiefe, sanftes Filmkorn, natürliche Hauttöne, leichte Bewegungsunschärfe, realistisches Chaos und eine ungestellte Dokumentar-Foto-Komposition, die von oberhalb des Sofas diagonal durch den Raum blickt. Vermeide Glamour-Styling; es soll sich wie ein gewöhnlicher, ruhiger Abend zu Hause anfühlen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un cliché d'intérieur vertical de style 35 mm, chaleureux, spontané et photoréaliste, représentant un salon d'appartement confortable et légèrement en désordre en soirée. Le sujet principal est {argument name=\"subject description\" default=\"une jeune femme d'Asie de l'Est aux cheveux noirs ébouriffés et aux lunettes rondes\"} allongée à l'envers sur un canapé en tissu gris foncé, la tête près du bord avant droit du canapé, un bras plié derrière la tête et l'autre détendu vers l'extérieur, les yeux fermés ou mi-clos avec une expression fatiguée et paisible. Elle porte {argument name=\"top color\" default=\"un débardeur bleu sourd\"} et {argument name=\"shorts color\" default=\"un short de détente gris clair à cordon\"}, les jambes nues étendues le long du canapé, avec un plaid beige froissé autour de la taille et des coussins à proximité. La pièce doit paraître habitée et intime : des piles de magazines et de papiers sur une chaise et des surfaces latérales, des étagères remplies de livres et de disques en arrière-plan, une table basse en bois sur la droite contenant exactement trois télécommandes noires et une tasse en céramique, et un tas de couvertures sur un pouf ou un coussin de sol à l'arrière. Incluez exactement trois sources de lumière chaude : un grand lampadaire au premier plan à gauche, une petite lampe sur un meuble au centre à l'arrière et une autre lampe lumineuse près des rideaux à l'arrière droit. Utilisez {argument name=\"lighting mood\" default=\"une lumière de soirée chaude au tungstène\"}, une faible profondeur de champ, un grain de film doux, des tons de peau naturels, un léger flou de mouvement, un désordre réaliste et une composition de photo documentaire non posée, prise depuis le dessus du canapé en regardant en diagonale à travers la pièce. Évitez le style glamour ; faites en sorte que cela ressemble à une soirée ordinaire et tranquille à la maison.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'istantanea d'interni calda, spontanea e fotorealistica in stile 35mm verticale, che ritragga un accogliente soggiorno di un appartamento leggermente disordinato durante la notte. Il soggetto principale è {argument name=\"subject description\" default=\"una giovane donna dell'Asia orientale con capelli neri spettinati e occhiali rotondi\"} sdraiata a testa in giù su un divano in tessuto grigio scuro, con la testa vicino al bordo anteriore destro del divano, un braccio piegato dietro la testa e l'altro rilassato verso l'esterno, gli occhi chiusi o socchiusi con un'espressione stanca e serena. Indossa {argument name=\"top color\" default=\"una canotta smanicata color blu tenue\"} e {argument name=\"shorts color\" default=\"pantaloncini da casa grigio chiaro con coulisse\"}, con le gambe nude distese lungo il divano, una coperta beige stropicciata intorno alla vita e cuscini nelle vicinanze. La stanza deve trasmettere un senso di vissuto e intimità: pile di riviste e fogli su una sedia e sulle superfici laterali, scaffali pieni di libri e dischi sullo sfondo, un tavolino basso in legno sulla destra che sostiene esattamente tre telecomandi neri e una tazza in ceramica, e una pila di coperte su un pouf o un cuscino da pavimento sul retro. Includi esattamente tre fonti di luce calda: una grande lampada da terra in primo piano a sinistra, una piccola lampada su un mobiletto al centro sul retro e un'altra lampada accesa vicino alle tende posteriori a destra. Utilizza {argument name=\"lighting mood\" default=\"una calda luce serale al tungsteno\"}, una profondità di campo ridotta, una leggera grana cinematografica, tonalità della pelle naturali, una lieve morbidezza da movimento, un disordine realistico e una composizione fotografica documentaristica non in posa, scattata dall'alto del divano guardando diagonalmente attraverso la stanza. Evita uno stile glamour; fai in modo che sembri una normale e tranquilla serata a casa.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um snapshot interno vertical estilo 35mm, quente, espontâneo e fotorrealista, de uma sala de estar aconchegante e levemente bagunçada à noite. O sujeito principal é {argument name=\"subject description\" default=\"uma jovem mulher do Leste Asiático com cabelo preto bagunçado e óculos redondos\"} deitada de cabeça para baixo em um sofá de tecido cinza-escuro, com a cabeça perto da borda frontal direita do sofá, um braço dobrado atrás da cabeça e o outro relaxado para fora, olhos fechados ou semicerrados com uma expressão cansada e pacífica. Ela veste {argument name=\"top color\" default=\"uma regata azul suave\"} e {argument name=\"shorts color\" default=\"shorts de descanso cinza-claro com cordão\"}, pernas nuas esticadas ao longo do sofá, com um cobertor bege amassado na cintura e almofadas por perto. O ambiente deve parecer vivido e íntimo: pilhas de revistas e papéis em uma cadeira e superfícies laterais, prateleiras cheias de livros e discos ao fundo, uma mesa de centro de madeira baixa à direita contendo exatamente três controles remotos pretos e uma caneca de cerâmica, e uma pilha de cobertores em um pufe ou almofada de chão ao fundo. Inclua exatamente três fontes de luz quente: um abajur de chão grande no primeiro plano esquerdo, uma luminária pequena em um armário no centro traseiro e outra luminária brilhante perto das cortinas traseiras direitas. Use {argument name=\"lighting mood\" default=\"luz noturna quente de tungstênio\"}, profundidade de campo rasa, granulação de filme suave, tons de pele naturais, leve suavidade de movimento, bagunça realista e uma composição de foto documental não posada, tirada de cima do sofá olhando diagonalmente através da sala. Evite estilo glamouroso; faça parecer uma noite comum e tranquila em casa.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Cozy Night Living Room Candid",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 温馨夜晚客厅抓拍",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Escena cándida de sala de estar en una noche acogedora",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Gemütliche Wohnzimmer-Szene bei Nacht",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Scène de salon chaleureuse en soirée",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Scatto spontaneo in soggiorno in una serata accogliente",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Foto Espontânea de Sala de Estar em Noite Aconchegante",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a warm photorealistic candid apartment scene with a relaxed person lying on a sofa amid realistic nighttime clutter.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张温暖、写实、抓拍风格的公寓场景，展现一个人在充满真实夜晚生活气息的客厅沙发上放松休息的画面。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène d'appartement chaleureuse, photoréaliste et spontanée, montrant une personne détendue allongée sur un canapé au milieu d'un désordre réaliste en soirée.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/iki2Gyodajin_AI/status/2051278728366559369#reversed-0",
+      "originalId": "https://x.com/iki2Gyodajin_AI/status/2051278728366559369#reversed-0",
+      "authors": [
+        {
+          "name": "いきいき行田人_AI & TSF用",
+          "url": "https://x.com/iki2Gyodajin_AI"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1064
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c1d199f91fcfd601",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971063858_potput_HHebIR0aEAAnPOG.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971063858_potput_HHebIR0aEAAnPOG.jpg",
+      "localPath": "public/assets/prompt_60cf1ad7048258f51a0e/174cb05e3c55.jpg",
+      "alt": "Profile / Avatar - Cozy Night Living Room Candid - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "interior",
+      "room",
+      "室内"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.854Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "prompt_a7af65b632694c554eba",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Please create a mathematical visualization infographic about \"[math concept / topic].\" The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Please create a mathematical visualization infographic about \"[math concept / topic].\" The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:12:42.575Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "AP Calculus 学习表信息图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "AP Calculus Study Sheet Infographic",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:12:45.374Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ap-calculus",
+      "value": "AP Calculus 学习表信息图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-341",
+      "originalId": "case-341",
+      "authors": [
+        {
+          "name": "hqmank",
+          "url": "https://x.com/hqmank/status/2048587150544028084"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5601
+        }
+      ],
+      "rawSource": "[@hqmank](https://x.com/hqmank/status/2048587150544028084)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1e96e3c428462269",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case341.jpg",
+      "upstreamPath": "../data/images/case341.jpg",
+      "localPath": "public/assets/prompt_a7af65b632694c554eba/f2a6636ebbef.jpg",
+      "alt": "AP Calculus 学习表信息图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "education",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.596Z"
+  }
+}

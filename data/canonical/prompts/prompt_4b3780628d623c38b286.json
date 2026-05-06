@@ -1,0 +1,109 @@
+{
+  "id": "prompt_4b3780628d623c38b286",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A realistic photograph of a whiteboard with a highly detailed {argument name=\"marker color\" default=\"green\"} dry-erase marker drawing of {argument name=\"subject\" default=\"a samurai with a messy topknot and facial hair, hands clasped in prayer\"}. The character is drawn in a {argument name=\"art style\" default=\"detailed manga sketch\"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads \"{argument name=\"text line 1\" default=\"VAGABOND\"}\" with \"{argument name=\"text line 2\" default=\"MUSASHI\"}\" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A realistic photograph of a whiteboard with a highly detailed {argument name=\"marker color\" default=\"green\"} dry-erase marker drawing of {argument name=\"subject\" default=\"a samurai with a messy topknot and facial hair, hands clasped in prayer\"}. The character is drawn in a {argument name=\"art style\" default=\"detailed manga sketch\"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads \"{argument name=\"text line 1\" default=\"VAGABOND\"}\" with \"{argument name=\"text line 2\" default=\"MUSASHI\"}\" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:17:12.369Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "写实摄影风格图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Realistic photography style image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:13:08.146Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_07d3a360f5",
+      "value": "写实摄影风格图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-52",
+      "originalId": "case-52",
+      "authors": [
+        {
+          "name": "nicdunz",
+          "url": "https://x.com/nicdunz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1260
+        }
+      ],
+      "rawSource": "[@nicdunz](https://x.com/nicdunz)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_64696b8437b40e8e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case52.jpg",
+      "upstreamPath": "../data/images/case52.jpg",
+      "localPath": "public/assets/prompt_4b3780628d623c38b286/e6850d305537.jpg",
+      "alt": "marker color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.585Z"
+  }
+}

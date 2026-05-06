@@ -1,0 +1,110 @@
+{
+  "id": "prompt_10d34e5d6a6980a4b25d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\"type\": \"YouTube desktop dark mode UI mockup\", \"header\": {\"logo\": \"YouTube\", \"search_bar\": \"Search\", \"icons_count\": 5, \"icons\": [\"search\", \"mic\", \"create\", \"notifications\", \"profile\"]}, \"video_player\": {\"top_left_badge\": \"LIVE\", \"left_side\": {\"subject\": \"{argument name=\\\"presenter description\\\" default=\\\"man in green sweater at wooden podium\\\"}\", \"podium_logo\": \"OpenAI\"}, \"right_side_presentation\": {\"text_elements\": [\"OpenAI\", \"INTRODUCING\", \"{argument name=\\\"product name\\\" default=\\\"GPT-Image-2\\\"}\", \"{argument name=\\\"tagline\\\" default=\\\"More Realistic. More Useful. More Creative.\\\"}\"], \"sample_images_count\": 4, \"sample_images\": [\"mountain lake with boat\", \"woman portrait with dappled light\", \"cute robot with lantern in forest\", \"starry night cafe painting\"]}, \"bottom_controls_count\": 10, \"bottom_controls\": [\"pause\", \"next\", \"volume\", \"LIVE\", \"red progress bar\", \"CC\", \"settings\", \"miniplayer\", \"theater mode\", \"fullscreen\"]}, \"video_details\": {\"title\": \"{argument name=\\\"video title\\\" default=\\\"OpenAI Live: Introducing GPT-Image-2\\\"}\", \"channel\": {\"name\": \"{argument name=\\\"channel name\\\" default=\\\"OpenAI\\\"}\", \"verified\": true, \"subscribers\": \"1.36M\", \"button\": \"Subscribe\"}, \"action_buttons_count\": 5, \"action_buttons\": [\"Like 12K\", \"Dislike 497\", \"Share\", \"Save\", \"More\"], \"description_box\": {\"stats\": \"95,237 watching now Started streaming 7 minutes ago\", \"tags\": \"#OpenAI #GPTImage2 #AI\", \"text\": \"Join us for a special live event as we introduce GPT-Image-2, our latest and most advanced image generation model. See new capabilities, live demos, and hear from the team ...more\"}}}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\"type\": \"YouTube desktop dark mode UI mockup\", \"header\": {\"logo\": \"YouTube\", \"search_bar\": \"Search\", \"icons_count\": 5, \"icons\": [\"search\", \"mic\", \"create\", \"notifications\", \"profile\"]}, \"video_player\": {\"top_left_badge\": \"LIVE\", \"left_side\": {\"subject\": \"{argument name=\\\"presenter description\\\" default=\\\"man in green sweater at wooden podium\\\"}\", \"podium_logo\": \"OpenAI\"}, \"right_side_presentation\": {\"text_elements\": [\"OpenAI\", \"INTRODUCING\", \"{argument name=\\\"product name\\\" default=\\\"GPT-Image-2\\\"}\", \"{argument name=\\\"tagline\\\" default=\\\"More Realistic. More Useful. More Creative.\\\"}\"], \"sample_images_count\": 4, \"sample_images\": [\"mountain lake with boat\", \"woman portrait with dappled light\", \"cute robot with lantern in forest\", \"starry night cafe painting\"]}, \"bottom_controls_count\": 10, \"bottom_controls\": [\"pause\", \"next\", \"volume\", \"LIVE\", \"red progress bar\", \"CC\", \"settings\", \"miniplayer\", \"theater mode\", \"fullscreen\"]}, \"video_details\": {\"title\": \"{argument name=\\\"video title\\\" default=\\\"OpenAI Live: Introducing GPT-Image-2\\\"}\", \"channel\": {\"name\": \"{argument name=\\\"channel name\\\" default=\\\"OpenAI\\\"}\", \"verified\": true, \"subscribers\": \"1.36M\", \"button\": \"Subscribe\"}, \"action_buttons_count\": 5, \"action_buttons\": [\"Like 12K\", \"Dislike 497\", \"Share\", \"Save\", \"More\"], \"description_box\": {\"stats\": \"95,237 watching now Started streaming 7 minutes ago\", \"tags\": \"#OpenAI #GPTImage2 #AI\", \"text\": \"Join us for a special live event as we introduce GPT-Image-2, our latest and most advanced image generation model. See new capabilities, live demos, and hear from the team ...more\"}}}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:49:50.536Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "应用界面样机图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Application Interface Mockup",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:49:52.597Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_369832755f",
+      "value": "应用界面样机图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-107",
+      "originalId": "case-107",
+      "authors": [
+        {
+          "name": "tehno_maniak",
+          "url": "https://x.com/tehno_maniak"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4162
+        }
+      ],
+      "rawSource": "[@tehno\\_maniak](https://x.com/tehno_maniak)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5f38f067a3eb5cb2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case107.jpg",
+      "upstreamPath": "../data/images/case107.jpg",
+      "localPath": "public/assets/prompt_10d34e5d6a6980a4b25d/d4fbcab4164b.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "mockup",
+      "youtube",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

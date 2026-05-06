@@ -1,0 +1,94 @@
+{
+  "id": "prompt_dbe72778fa36c710a442",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{argument name=\"voice\" default=\"chatgpt voice\"} if it were a character",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "人物角色设定图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e8758dc0b4",
+      "value": "人物角色设定图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-162",
+      "originalId": "case-162",
+      "authors": [
+        {
+          "name": "nicdunz",
+          "url": "https://x.com/nicdunz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6701
+        }
+      ],
+      "rawSource": "[@nicdunz](https://x.com/nicdunz)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_aa10b3abee09a916",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case162.jpg",
+      "upstreamPath": "../data/images/case162.jpg",
+      "localPath": "public/assets/prompt_dbe72778fa36c710a442/3acbf96d8f29.jpg",
+      "alt": "voice",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "角色",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.604Z"
+  }
+}

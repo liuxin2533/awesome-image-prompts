@@ -1,0 +1,101 @@
+{
+  "id": "prompt_d01bdb28c2706018dbfc",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A warm, editorial-style lifestyle product photo shot indoors from a low close-up angle, focused on a woman's lower legs and feet as she tries on 1 pair of black leather backless loafers with tan faux-fur lining. One loafer is worn on the right foot and the left foot is bare, hovering just above the textured cream shag rug, while the second matching loafer lies on the rug in the lower left foreground. The shoes have smooth black leather uppers, a rounded almond toe, open mule-style heel, plush brown fur spilling out around the opening, and a small polished gold horsebit hardware detail across the vamp. The model wears cropped medium-blue denim jeans with a raw frayed hem. The setting is a cozy minimalist interior with a cream rug featuring 2 thin irregular black lines, a neutral wall, and a leaning rectangular mirror with a medium wood frame in the upper right background, softly reflecting the rug and part of the scene. Use soft natural window light, shallow depth of field, subtle film grain, realistic skin texture, muted beige and black palette, relaxed candid composition, premium fashion catalog mood, high detail, photorealistic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张温暖的、编辑风格的生活方式产品照片，从低角度近距离拍摄，聚焦于一位女性的小腿和双脚，她正在试穿一双黑色皮革露跟乐福鞋，配有棕褐色人造毛皮衬里。一只乐福鞋穿在右脚上，左脚赤裸，悬停在纹理丰富的米色长绒地毯上方，而另一只配套的乐福鞋则放在左前方的地毯上。鞋子有光滑的黑色皮革鞋面，圆润的杏仁形鞋头，开放式穆勒鞋跟，蓬松的棕色毛皮从开口处溢出，以及一个小的抛光金色马衔硬件细节横跨鞋面。模特穿着中蓝色牛仔短裤，带有原始的毛边裤脚。场景是一个舒适的极简主义室内，配有米色地毯，上面有2条细的不规则黑线，一面中性色调的墙壁，以及一个在上右背景中倾斜的矩形镜子，带有中等木质框架，柔和地反射着地毯和部分场景。使用柔和的自然窗光，浅景深，微妙的胶片颗粒，逼真的皮肤纹理，柔和的米色和黑色调色板，放松的抓拍构图，高级时尚目录氛围，高细节，照片级真实感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:31:10.593Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/dynamicwangs/status/2047580984342925545",
+      "originalId": "case-117",
+      "authors": [
+        {
+          "name": "dynamicwangs",
+          "url": "https://x.com/dynamicwangs"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 65
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_378ab866c1e407fc",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg",
+      "localPath": "public/assets/prompt_d01bdb28c2706018dbfc/55201a17637f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.560Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "prompt_ff76ae2717697774b56b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT-image-2でこの手相を診断して詳細な鑑定書を作って\n生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を、線の形状・濃淡・枝分かれ・起点終点まで分析すること。\n助言を重点的に高品質な占い鑑定書にまとめること。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用GPT-image-2诊断这个手相，制作详细的鉴定书。\n分析生命线、智慧线、感情线、命运线、太阳线、财运线、婚姻线，包括线条的形状、浓淡、分支、起点和终点。\n将建议重点整理成高质量的占星鉴定书。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:12:11.631Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Palm Reading Diagnosis Report",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "手相诊断报告",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:12:13.644Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/agi_aibusi/status/2046530764871696750",
+      "originalId": "case-32",
+      "authors": [
+        {
+          "name": "agi_aibusi",
+          "url": "https://x.com/agi_aibusi"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 138
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3b61d354d2740137",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case32/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case32/output.jpg",
+      "localPath": "public/assets/prompt_ff76ae2717697774b56b/27657d1cabe0.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

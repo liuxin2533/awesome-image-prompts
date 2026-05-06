@@ -1,0 +1,101 @@
+{
+  "id": "prompt_42e3847c661da24b70e9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A heavily damaged old family snapshot in faded black and white with a slight sepia cast, shown as a worn physical photograph scanned straight-on. The image depicts a seated woman holding a small child on her lap indoors, both centered in a simple portrait composition. The woman has short dark wavy hair and wears a dark sleeveless dress or pinafore layered over a lighter short-sleeved blouse. The child appears to be a toddler with very short light hair, wearing a light-colored outfit, facing the camera while sitting against the woman’s chest and arm. Behind them is a patterned curtain with small floral or leaf motifs, and above it a dark window area with a pale vertical window frame is visible near the top center. The print is severely deteriorated: extensive scratches, creases, emulsion damage, stains, blotches, and peeling cover the entire surface, with especially heavy white abrasion and loss of detail across the bottom third and scattered cracking throughout. Keep the overall look authentic to a mid-20th-century vernacular photo, low contrast, soft focus, and visibly aged paper texture. Add a rectangular blurred censor block over the woman’s face only, while the child’s face remains visible but faded. No text, no border, just the distressed archival photograph filling the frame.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张严重损坏的旧家庭快照，呈现褪色的黑白照片并带有轻微的棕褐色调，显示为一张磨损的实物照片正面扫描。图片描绘了一位室内坐着的女性，膝上抱着一个小孩子，两者在简单的肖像构图中居中。这位女性有深色波浪短发，穿着深色无袖连衣裙或围裙，内搭一件浅色短袖衬衫。孩子似乎是个幼儿，有非常浅色的短发，穿着浅色服装，面对相机坐在女性的胸部和手臂上。在他们身后是一带有小花或叶纹图案的窗帘，上方有一个深色窗户区域，顶部中心附近可见一个浅色的垂直窗框。照片严重退化：大面积的划痕、折痕、乳剂损伤、污渍、斑点和剥落覆盖整个表面，特别是在底部三分之一区域有严重的白色磨损和细节丢失，以及整个照片上分布的裂纹。保持整体外观真实，符合20世纪中期普通照片的特点，低对比度，柔焦，以及可见的老化纸张纹理。只在女性脸上添加一个矩形模糊的审查遮挡块，而孩子的脸保持可见但已褪色。无文字，无边框，只有受损的档案照片填满整个画面。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:07:57.178Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Damaged Vintage Mother and Child Photo",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/gdb/status/2048184797374325031",
+      "originalId": "case-83",
+      "authors": [
+        {
+          "name": "gdb",
+          "url": "https://x.com/gdb"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 461
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_54d6157f2e0aca48",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case83/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case83/output.jpg",
+      "localPath": "public/assets/prompt_42e3847c661da24b70e9/3edc1161c348.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

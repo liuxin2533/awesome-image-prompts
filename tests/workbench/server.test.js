@@ -52,6 +52,19 @@ test('workbench server exposes report and masked config endpoints', async () => 
   });
 });
 
+test('workbench server exposes editable canonical category rules', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-server-categories-'));
+
+  await withServer({ projectRoot }, async baseUrl => {
+    const response = await fetch(`${baseUrl}/api/categories`);
+    const payload = await response.json();
+
+    assert.equal(response.status, 200);
+    assert.equal(payload.categories.some(category => category.id === 'poster-illustration'), true);
+    assert.equal(payload.categories.some(category => category.title['zh-CN'] === '海报与插画'), true);
+  });
+});
+
 test('workbench server saves AI config and rejects unsupported actions', async () => {
   const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-server-actions-'));
   const runner = createActionRunner({
@@ -126,5 +139,43 @@ test('workbench server runs a single report issue by index', async () => {
     const action = await accepted.json();
     assert.equal(action.type, 'issue');
     assert.deepEqual(action.args, ['translate', '--', '--missing', '--lang', 'zh-CN', '--refresh-report', '--target-languages', 'en,zh-CN', '--prompt-id', 'prompt_single', '--field-path', 'title.translations.zh-CN']);
+  });
+});
+
+test('workbench server passes selected category when fixing a classification issue', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-server-classify-issue-'));
+  writeJson(path.join(projectRoot, 'data/reports/latest.json'), {
+    generatedAt: '2026-05-06T00:00:00.000Z',
+    issues: [
+      {
+        severity: 'warning',
+        code: 'unclassified_category',
+        message: 'Prompt needs category review.',
+        promptId: 'prompt_needs_category',
+        fieldPath: 'classification.categoryId',
+        resolutionCommand: 'pnpm classify -- --prompt-id prompt_needs_category --category <category-id>'
+      }
+    ]
+  });
+
+  const commands = [];
+  const runner = createActionRunner({
+    projectRoot,
+    runCommand: async commandSpec => {
+      commands.push(commandSpec);
+      return { exitCode: 0 };
+    }
+  });
+
+  await withServer({ projectRoot, runner }, async baseUrl => {
+    const accepted = await fetch(`${baseUrl}/api/actions/issue`, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ index: 0, categoryId: 'poster-illustration' })
+    });
+    assert.equal(accepted.status, 202);
+    const action = await accepted.json();
+    assert.equal(action.type, 'issue');
+    assert.deepEqual(action.args, ['classify', '--', '--prompt-id', 'prompt_needs_category', '--category', 'poster-illustration', '--refresh-report', '--target-languages', 'en,zh-CN']);
   });
 });

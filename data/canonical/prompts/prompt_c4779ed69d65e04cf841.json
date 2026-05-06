@@ -1,0 +1,164 @@
+{
+  "id": "prompt_c4779ed69d65e04cf841",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A black-and-white manga page spread with 5 panels on a clean white background and thin black gutters, drawn in highly detailed modern seinen/shoujo hybrid line art with soft screentones, reflective highlights, and a quiet melancholic mood. The setting is a nighttime music studio classroom with large windows showing a city skyline full of lit buildings against a dark sky. Main subject: a slender high school girl with very long straight light hair and blunt bangs, delicate features, and a serious introspective expression, wearing a Japanese school uniform consisting of a white button-up shirt, loosened striped ribbon tie, and plaid skirt, seated and playing a solid-body electric guitar that resembles a Stratocaster. In the large upper-left panel, show her in three-quarter view holding the guitar across her lap, left hand on the fretboard and right hand near the pickups, surrounded by studio equipment including 1 drum kit in the back left, 2 stacked guitar amplifiers on the right, and a wall sign reading \"Beat Box\" near the door. In the narrow upper-right panel, show a close-up of the guitar neck and her fretting hand, with the small vertical Japanese sound effect text \"トン…\". In the tall middle-right panel, show a close side-profile close-up of the girl looking down at the instrument with a pensive, almost disappointed expression, with the night city lights blurred through the window behind her. In the lower-left panel, show 1 teenage boy in a school blazer and loosened tie, seated indoors and turned slightly to the side; his face is obscured by a large soft gray rectangular censor block, and beside him is 1 vertical speech balloon containing the Japanese text \"……やっぱり違う\". In the lower-right panel, show a closer view of the same boy from the chest up against a soft bokeh screentone background; his face is again obscured by a large gray censor block. Add printed page numbers centered at the bottom margins: \"5\" under the left page and \"6\" under the right page. Emphasize a subtle narrative theme of realizing that the sound feels wrong, as if this is a continuation page from a dramatic school-band manga. Keep everything monochrome, polished, cinematic, and emotionally restrained.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Monochrome Manga Guitar Studio Page",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - Monochrome Manga Guitar Studio Page",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a detailed black-and-white manga page of a high school girl playing electric guitar in a night studio, ideal for dramatic AI manga storytelling scenes.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/yume00112211/status/2048780858505748864#reversed-3",
+      "originalId": "https://x.com/yume00112211/status/2048780858505748864#reversed-3",
+      "authors": [
+        {
+          "name": "ユメ・アスタAI漫画イラストレーター",
+          "url": "https://x.com/yume00112211"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3909
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_095c0385abc46c2d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367311577_qyy0zf_HG67VXdbIAAIRlC.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367311577_qyy0zf_HG67VXdbIAAIRlC.jpg",
+      "localPath": "public/assets/prompt_c4779ed69d65e04cf841/b3230d6d2dde.jpg",
+      "alt": "Comic / Storyboard - Monochrome Manga Guitar Studio Page - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.569Z"
+  }
+}

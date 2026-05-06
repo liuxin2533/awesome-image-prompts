@@ -1,0 +1,108 @@
+{
+  "id": "prompt_fb51767785522cd5f1ca",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Use the character in image 1 as the main subject. Create a vertical poster ad in American fast food diner style. Low angle, wide lens. Red / yellow / white palette with ketchup splashes, melting cheese graphics, comic burst shapes, retro diner typography, and bold fast food poster collage aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用图片1中的角色作为主要主体。创建一个美式快餐餐厅风格的垂直海报广告。低角度，广角镜头。红色/黄色/白色配色，带有番茄酱飞溅、融化的奶酪图形、漫画爆炸形状、复古餐厅字体和大胆的快餐海报拼贴美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:59:04.555Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Fast Food Character Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "快餐角色海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:59:15.533Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/LoovaAI/status/2049085173015425354",
+      "originalId": "case-173",
+      "authors": [
+        {
+          "name": "LoovaAI",
+          "url": "https://x.com/LoovaAI"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1752
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_059fb7594eaba5e0",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg",
+      "localPath": "public/assets/prompt_fb51767785522cd5f1ca/3700ff97771c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-28T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.551Z"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "prompt_3f238aaf1b6502580d4b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.\n\nSubject: young woman (18–23) with soft feminine beauty, smooth glowing skin, natural texture.\nPose (strict): seated on a wooden chair, body angled sideways (45–70°), legs crossed naturally, upper body slightly leaning forward, head turned away from camera, gaze to the side. She holds a drink cup with a straw using both hands.\nFraming: full-body vertical (9:16), head to shoes visible, centered but slightly offset for natural composition.\nOutfit: light pink varsity jacket with white stripes, soft pink inner top, modest knee-length pleated skirt, white sneakers.\nAccessories: beige newsboy cap, sunglasses (on face or cap), pink shoulder bag, small earrings.\nHair: neat low bun with soft loose strands.\nEnvironment: outdoor flower shop street scene with pastel flowers (pink, soft tones), decorative plants, floral storefront.\nLighting: bright natural daylight, soft glossy skin highlights, balanced exposure, soft shadows.\nCamera: low/frog angle (slightly below, looking up), 50mm lens, shallow depth of field.\nColor grading: warm pastel palette (pink, cream), clean bright lifestyle aesthetic.\nQuality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.\nNegative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.\n--ar 9:16 --style raw --quality high",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "樱花咖啡户外人像",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d9cdc2f534",
+      "value": "樱花咖啡户外人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-377",
+      "originalId": "case-377",
+      "authors": [
+        {
+          "name": "xRahultripathi",
+          "url": "https://x.com/xRahultripathi/status/2050677614168391716"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6886
+        }
+      ],
+      "rawSource": "[@xRahultripathi](https://x.com/xRahultripathi/status/2050677614168391716)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b90aae0b365f18c6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case377.jpg",
+      "upstreamPath": "../data/images/case377.jpg",
+      "localPath": "public/assets/prompt_3f238aaf1b6502580d4b/f82645bceaff.jpg",
+      "alt": "樱花咖啡户外人像",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photo",
+      "camera",
+      "人像"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.908Z"
+  }
+}

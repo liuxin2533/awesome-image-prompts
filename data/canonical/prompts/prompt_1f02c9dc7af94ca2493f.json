@@ -1,0 +1,212 @@
+{
+  "id": "prompt_1f02c9dc7af94ca2493f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n\"style\": \"{argument name=\"art style\" default=\"semi-realistic 3D pop-art comic illustration\"}\",\n\n\"subject\": {\n\"identity\": \"{argument name=\"identity\" default=\"strict facial identity preservation from reference image, no change in structure, proportions, or likeness\"}\",\n\"appearance\": \"smooth luminous skin, expressive eyes, natural lips, well-defined eyebrows, clean hairstyle preserved exactly\",\n\"expression\": \"calm, confident, matching reference\",\n\"pose\": \"natural relaxed standing pose\"\n},\n\n\"outfit\": {\n\"top\": \"{argument name=\"clothing\" default=\"stylish casual sweater or polo with subtle emblem\"}\",\n\"bottom\": \"tailored pants\",\n\"style\": \"clean, modern, minimal\"\n},\n\n\"composition\": {\n\"framing\": \"main subject centered, occupying ~60% of frame\",\n\"perspective\": \"slightly angled but mostly forward-facing\"\n},\n\n\"background\": {\n\"type\": \"structured 6-panel comic grid\",\n\"depth\": \"subtle layered depth separation\"\n},\n\n\"panels\": [\n\"Top Left: adjusting hair naturally (candid motion)\",\n\"Top Right: clean side profile view\",\n\"Middle Panels (2): soft halftone textures\",\n\"Bottom Left: turned back looking toward camera\",\n\"Bottom Right: abstract comic burst with bold 'ZAP' text\"\n],\n\n\"environment\": \"urban street with soft graffiti textures, lightly blurred\",\n\n\"style_details\": {\n\"primary\": \"high-detail semi-realistic 3D rendering\",\n\"secondary\": \"pop-art comic overlay\",\n\"linework\": \"bold black outlines\",\n\"shading\": \"soft cel-shading\",\n\"color\": \"controlled vibrant tones with warm balance\"\n},\n\n\"lighting\": \"warm cinematic soft lighting with clean highlights\",\n\n\"camera\": {\n\"lens\": \"50mm portrait\",\n\"depth_of_field\": \"shallow\"\n},\n\n\"quality\": \"ultra-detailed, smooth rendering, 4K\",\n\n\"aspect_ratio\": \"4:5\",\n\n\"output_goal\": \"perfect facial consistency with stylish comic storytelling layout\"\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n\"style\": \"{argument name=\"art style\" default=\"半写实 3D 波普艺术漫画插画\"}\",\n\n\"subject\": {\n\"identity\": \"{argument name=\"identity\" default=\"严格保持参考图像的面部特征，结构、比例或相似度均无变化\"}\",\n\"appearance\": \"光滑透亮的皮肤、富有表现力的眼睛、自然的嘴唇、轮廓分明的眉毛、完全保留整洁的发型\",\n\"expression\": \"冷静、自信，与参考图一致\",\n\"pose\": \"自然放松的站姿\"\n},\n\n\"outfit\": {\n\"top\": \"{argument name=\"clothing\" default=\"带有精致徽标的时尚休闲毛衣或 Polo 衫\"}\",\n\"bottom\": \"修身长裤\",\n\"style\": \"简洁、现代、极简\"\n},\n\n\"composition\": {\n\"framing\": \"主体居中，占据画面的约 60%\",\n\"perspective\": \"略有角度但主要为正面\"\n},\n\n\"background\": {\n\"type\": \"结构化的 6 格漫画网格\",\n\"depth\": \"微妙的分层深度感\"\n},\n\n\"panels\": [\n\"左上：自然地整理头发（抓拍动态）\",\n\"右上：清晰的侧面轮廓视图\",\n\"中间两格：柔和的半色调纹理\",\n\"左下：转身看向镜头\",\n\"右下：带有粗体“ZAP”字样的抽象漫画爆发效果\"\n],\n\n\"environment\": \"带有柔和涂鸦纹理的城市街道，轻微模糊\",\n\n\"style_details\": {\n\"primary\": \"高细节半写实 3D 渲染\",\n\"secondary\": \"波普艺术漫画叠加\",\n\"linework\": \"粗黑轮廓线\",\n\"shading\": \"柔和的赛璐珞阴影\",\n\"color\": \"受控的鲜艳色调，色彩平衡温暖\"\n},\n\n\"lighting\": \"温暖的电影级柔光，带有清晰的高光\",\n\n\"camera\": {\n\"lens\": \"50mm 人像镜头\",\n\"depth_of_field\": \"浅景深\"\n},\n\n\"quality\": \"超精细、平滑渲染、4K\",\n\n\"aspect_ratio\": \"4:5\",\n\n\"output_goal\": \"完美的脸部一致性与时尚的漫画叙事布局\"\n}",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "{\n\"style\": \"{argument name=\"art style\" default=\"ภาพประกอบคอมิกป๊อปอาร์ต 3D กึ่งสมจริง\"}\",\n\n\"subject\": {\n\"identity\": \"{argument name=\"identity\" default=\"รักษาเอกลักษณ์ของใบหน้าจากภาพอ้างอิงอย่างเคร่งครัด ไม่เปลี่ยนแปลงโครงสร้าง สัดส่วน หรือเค้าโครงเดิม\"}\",\n\"appearance\": \"ผิวเรียบเนียนเปล่งประกาย ดวงตาแสดงอารมณ์ ริมฝีปากดูเป็นธรรมชาติ คิ้วได้รูปชัดเจน และทรงผมที่สะอาดตาตามต้นฉบับ\",\n\"expression\": \"สงบนิ่ง มั่นใจ ตรงตามภาพอ้างอิง\",\n\"pose\": \"ท่ายืนผ่อนคลายอย่างเป็นธรรมชาติ\"\n},\n\n\"outfit\": {\n\"top\": \"{argument name=\"clothing\" default=\"เสื้อสเวตเตอร์หรือเสื้อโปโลสไตล์ลำลองที่มีสัญลักษณ์เล็กน้อย\"}\",\n\"bottom\": \"กางเกงทรงเข้ารูป\",\n\"style\": \"สะอาดตา ทันสมัย และมินิมอล\"\n},\n\n\"composition\": {\n\"framing\": \"ตัวละครหลักอยู่ตรงกลาง กินพื้นที่ประมาณ 60% ของเฟรม\",\n\"perspective\": \"มุมเอียงเล็กน้อยแต่เน้นหันหน้าไปทางด้านหน้าเป็นหลัก\"\n},\n\n\"background\": {\n\"type\": \"ตารางคอมิก 6 ช่องที่มีโครงสร้างชัดเจน\",\n\"depth\": \"การแยกเลเยอร์ความลึกอย่างนุ่มนวล\"\n},\n\n\"panels\": [\n\"บนซ้าย: จัดแต่งทรงผมอย่างเป็นธรรมชาติ (ท่าทางแบบแคนดิด)\",\n\"บนขวา: มุมมองด้านข้างที่ชัดเจน\",\n\"ช่องกลาง (2 ช่อง): พื้นผิวแบบฮาล์ฟโทนที่นุ่มนวล\",\n\"ล่างซ้าย: หันหลังและมองกลับมาที่กล้อง\",\n\"ล่างขวา: เอฟเฟกต์ระเบิดแบบคอมิกนามธรรมพร้อมข้อความ 'ZAP' ตัวหนา\"\n],\n\n\"environment\": \"ถนนในเมืองที่มีพื้นผิวภาพกราฟฟิตี้แบบนุ่มนวลและเบลอเล็กน้อย\",\n\n\"style_details\": {\n\"primary\": \"การเรนเดอร์ 3D กึ่งสมจริงที่มีรายละเอียดสูง\",\n\"secondary\": \"การซ้อนทับด้วยสไตล์คอมิกป๊อปอาร์ต\",\n\"linework\": \"เส้นขอบสีดำที่ชัดเจน\",\n\"shading\": \"การลงเงาแบบเซลเฉดดิ้ง (cel-shading) ที่นุ่มนวล\",\n\"color\": \"โทนสีสดใสที่ควบคุมได้พร้อมความสมดุลของโทนอุ่น\"\n},\n\n\"lighting\": \"แสงนุ่มนวลแบบภาพยนตร์โทนอุ่นพร้อมไฮไลท์ที่สะอาดตา\",\n\n\"camera\": {\n\"lens\": \"เลนส์พอร์ตเทรต 50 มม.\",\n\"depth_of_field\": \"ระยะชัดตื้น\"\n},\n\n\"quality\": \"รายละเอียดสูงพิเศษ การเรนเดอร์ที่เรียบเนียน ความละเอียด 4K\",\n\"aspect_ratio\": \"4:5\",\n\"output_goal\": \"ความสม่ำเสมอของใบหน้าที่สมบูรณ์แบบพร้อมเลย์เอาต์การเล่าเรื่องแบบคอมิกที่มีสไตล์\"\n}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\n\"style\": \"{argument name=\"art style\" default=\"ilustración de cómic 3D pop-art semirrealista\"}\",\n\n\"subject\": {\n\"identity\": \"{argument name=\"identity\" default=\"preservación estricta de la identidad facial a partir de la imagen de referencia, sin cambios en estructura, proporciones o parecido\"}\",\n\"appearance\": \"piel luminosa y suave, ojos expresivos, labios naturales, cejas bien definidas, peinado limpio preservado exactamente\",\n\"expression\": \"tranquila, segura, a juego con la referencia\",\n\"pose\": \"pose natural y relajada de pie\"\n},\n\n\"outfit\": {\n\"top\": \"{argument name=\"clothing\" default=\"suéter casual elegante o polo con emblema sutil\"}\",\n\"bottom\": \"pantalones a medida\",\n\"style\": \"limpio, moderno, minimalista\"\n},\n\n\"composition\": {\n\"framing\": \"sujeto principal centrado, ocupando ~60% del encuadre\",\n\"perspective\": \"ligeramente angulado pero mayormente de frente\"\n},\n\n\"background\": {\n\"type\": \"cuadrícula de cómic estructurada de 6 paneles\",\n\"depth\": \"separación de profundidad sutil por capas\"\n},\n\n\"panels\": [\n\"Superior izquierda: ajustando el cabello de forma natural (movimiento espontáneo)\",\n\"Superior derecha: vista de perfil limpio\",\n\"Paneles centrales (2): texturas de semitono suaves\",\n\"Inferior izquierda: de espaldas mirando hacia la cámara\",\n\"Inferior derecha: explosión de cómic abstracta con texto 'ZAP' en negrita\"\n],\n\n\"environment\": \"calle urbana con texturas de grafiti suaves, ligeramente desenfocada\",\n\n\"style_details\": {\n\"primary\": \"renderizado 3D semirrealista de alto detalle\",\n\"secondary\": \"superposición de cómic pop-art\",\n\"linework\": \"contornos negros definidos\",\n\"shading\": \"cel-shading suave\",\n\"color\": \"tonos vibrantes controlados con equilibrio cálido\"\n},\n\n\"lighting\": \"iluminación cinematográfica cálida y suave con reflejos limpios\",\n\n\"camera\": {\n\"lens\": \"retrato de 50mm\",\n\"depth_of_field\": \"poca profundidad de campo\"\n},\n\n\"quality\": \"ultra detallado, renderizado suave, 4K\",\n\"aspect_ratio\": \"4:5\",\n\"output_goal\": \"consistencia facial perfecta con un diseño de narrativa de cómic elegante\"\n}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\n\"style\": \"{argument name=\"art style\" default=\"semi-realistische 3D-Pop-Art-Comic-Illustration\"}\",\n\n\"subject\": {\n\"identity\": \"{argument name=\"identity\" default=\"strenge Beibehaltung der Gesichtszüge vom Referenzbild, keine Änderung der Struktur, Proportionen oder Ähnlichkeit\"}\",\n\"appearance\": \"glatte, leuchtende Haut, ausdrucksstarke Augen, natürliche Lippen, klar definierte Augenbrauen, exakt beibehaltene, gepflegte Frisur\",\n\"expression\": \"ruhig, selbstbewusst, passend zur Referenz\",\n\"pose\": \"natürliche, entspannte Stehpose\"\n},\n\n\"outfit\": {\n\"top\": \"{argument name=\"clothing\" default=\"stylischer Freizeitpullover oder Polohemd mit dezentem Emblem\"}\",\n\"bottom\": \"maßgeschneiderte Hose\",\n\"style\": \"sauber, modern, minimalistisch\"\n},\n\n\"composition\": {\n\"framing\": \"Hauptmotiv zentriert, nimmt ca. 60 % des Bildausschnitts ein\",\n\"perspective\": \"leicht angewinkelt, aber größtenteils frontal\"\n},\n\n\"background\": {\n\"type\": \"strukturiertes 6-Panel-Comic-Raster\",\n\"depth\": \"subtile, mehrschichtige Tiefentrennung\"\n},\n\n\"panels\": [\n\"Oben links: Haare natürlich richten (spontane Bewegung)\",\n\"Oben rechts: sauberes Seitenprofil\",\n\"Mittlere Panels (2): weiche Halbtontexturen\",\n\"Unten links: abgewandt, Blick zur Kamera\",\n\"Unten rechts: abstrakter Comic-Burst mit fettem 'ZAP'-Text\"\n],\n\n\"environment\": \"städtische Straße mit sanften Graffiti-Texturen, leicht unscharf\",\n\n\"style_details\": {\n\"primary\": \"hochdetailliertes, semi-realistisches 3D-Rendering\",\n\"secondary\": \"Pop-Art-Comic-Overlay\",\n\"linework\": \"fette schwarze Konturen\",\n\"shading\": \"weiches Cel-Shading\",\n\"color\": \"kontrollierte, lebendige Töne mit warmer Balance\"\n},\n\n\"lighting\": \"warme, filmische, weiche Beleuchtung mit sauberen Highlights\",\n\n\"camera\": {\n\"lens\": \"50mm Porträt\",\n\"depth_of_field\": \"gering\"\n},\n\n\"quality\": \"ultradetailliert, glattes Rendering, 4K\",\n\"aspect_ratio\": \"4:5\",\n\"output_goal\": \"perfekte Konsistenz der Gesichtszüge mit stylischem Comic-Storytelling-Layout\"\n}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\n\"style\": \"{argument name=\"art style\" default=\"illustration de bande dessinée pop-art 3D semi-réaliste\"}\",\n\n\"subject\": {\n\"identity\": \"{argument name=\"identity\" default=\"préservation stricte de l'identité faciale à partir de l'image de référence, aucun changement dans la structure, les proportions ou la ressemblance\"}\",\n\"appearance\": \"peau lisse et lumineuse, yeux expressifs, lèvres naturelles, sourcils bien définis, coiffure propre préservée à l'identique\",\n\"expression\": \"calme, confiant, correspondant à la référence\",\n\"pose\": \"pose debout naturelle et détendue\"\n},\n\n\"outfit\": {\n\"top\": \"{argument name=\"clothing\" default=\"pull ou polo décontracté élégant avec un emblème subtil\"}\",\n\"bottom\": \"pantalon ajusté\",\n\"style\": \"épuré, moderne, minimaliste\"\n},\n\n\"composition\": {\n\"framing\": \"sujet principal centré, occupant environ 60 % du cadre\",\n\"perspective\": \"légèrement incliné mais principalement de face\"\n},\n\n\"background\": {\n\"type\": \"grille de bande dessinée structurée à 6 panneaux\",\n\"depth\": \"séparation de profondeur subtile en couches\"\n},\n\n\"panels\": [\n\"Haut gauche : ajustement naturel des cheveux (mouvement spontané)\",\n\"Haut droite : vue de profil nette\",\n\"Panneaux centraux (2) : textures en demi-teintes douces\",\n\"Bas gauche : dos tourné regardant vers la caméra\",\n\"Bas droite : explosion de bande dessinée abstraite avec texte 'ZAP' en gras\"\n],\n\n\"environment\": \"rue urbaine avec des textures de graffiti douces, légèrement floues\",\n\n\"style_details\": {\n\"primary\": \"rendu 3D semi-réaliste très détaillé\",\n\"secondary\": \"superposition de bande dessinée pop-art\",\n\"linework\": \"contours noirs épais\",\n\"shading\": \"ombrage cel-shading doux\",\n\"color\": \"tons vibrants contrôlés avec un équilibre chaud\"\n},\n\n\"lighting\": \"éclairage cinématographique chaud et doux avec des reflets nets\",\n\n\"camera\": {\n\"lens\": \"portrait 50 mm\",\n\"depth_of_field\": \"faible\"\n},\n\n\"quality\": \"ultra-détaillé, rendu lisse, 4K\",\n\"aspect_ratio\": \"4:5\",\n\"output_goal\": \"cohérence faciale parfaite avec une mise en page narrative de bande dessinée élégante\"\n}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\n\"style\": \"{argument name=\"art style\" default=\"illustrazione a fumetti 3D semi-realistica pop-art\"}\",\n\n\"subject\": {\n\"identity\": \"{argument name=\"identity\" default=\"rigorosa conservazione dell'identità facciale dall'immagine di riferimento, nessuna modifica alla struttura, alle proporzioni o alla somiglianza\"}\",\n\"appearance\": \"pelle liscia e luminosa, occhi espressivi, labbra naturali, sopracciglia ben definite, acconciatura pulita preservata esattamente\",\n\"expression\": \"calma, sicura, corrispondente al riferimento\",\n\"pose\": \"posa naturale e rilassata in piedi\"\n},\n\n\"outfit\": {\n\"top\": \"{argument name=\"clothing\" default=\"elegante maglione casual o polo con stemma discreto\"}\",\n\"bottom\": \"pantaloni sartoriali\",\n\"style\": \"pulito, moderno, minimale\"\n},\n\n\"composition\": {\n\"framing\": \"soggetto principale centrato, che occupa circa il 60% dell'inquadratura\",\n\"perspective\": \"leggermente angolata ma prevalentemente frontale\"\n},\n\n\"background\": {\n\"type\": \"griglia per fumetti strutturata a 6 pannelli\",\n\"depth\": \"sottile separazione della profondità a strati\"\n},\n\n\"panels\": [\n\"In alto a sinistra: sistemarsi i capelli in modo naturale (movimento spontaneo)\",\n\"In alto a destra: vista di profilo pulita\",\n\"Pannelli centrali (2): texture a mezzatinta morbide\",\n\"In basso a sinistra: voltato di schiena mentre guarda verso la fotocamera\",\n\"In basso a destra: esplosione fumettistica astratta con testo 'ZAP' in grassetto\"\n],\n\n\"environment\": \"strada urbana con texture di graffiti tenui, leggermente sfocata\",\n\n\"style_details\": {\n\"primary\": \"rendering 3D semi-realistico ad alto dettaglio\",\n\"secondary\": \"sovrapposizione fumettistica pop-art\",\n\"linework\": \"contorni neri marcati\",\n\"shading\": \"cel-shading morbido\",\n\"color\": \"toni vibranti controllati con bilanciamento caldo\"\n},\n\n\"lighting\": \"illuminazione cinematografica calda e morbida con riflessi puliti\",\n\"camera\": {\n\"lens\": \"ritratto 50mm\",\n\"depth_of_field\": \"ridotta\"\n},\n\n\"quality\": \"ultra-dettagliato, rendering fluido, 4K\",\n\n\"aspect_ratio\": \"4:5\",\n\n\"output_goal\": \"perfetta coerenza facciale con un elegante layout di narrazione a fumetti\"\n}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\n\"style\": \"{argument name=\"art style\" default=\"ilustração de quadrinhos pop-art 3D semirrealista\"}\",\n\n\"subject\": {\n\"identity\": \"{argument name=\"identity\" default=\"preservação estrita da identidade facial a partir da imagem de referência, sem alterações na estrutura, proporções ou semelhança\"}\",\n\"appearance\": \"pele luminosa e lisa, olhos expressivos, lábios naturais, sobrancelhas bem definidas, penteado limpo preservado exatamente\",\n\"expression\": \"calmo, confiante, condizente com a referência\",\n\"pose\": \"pose natural e relaxada de pé\"\n},\n\n\"outfit\": {\n\"top\": \"{argument name=\"clothing\" default=\"suéter casual estiloso ou polo com emblema sutil\"}\",\n\"bottom\": \"calças sob medida\",\n\"style\": \"limpo, moderno, minimalista\"\n},\n\n\"composition\": {\n\"framing\": \"sujeito principal centralizado, ocupando ~60% do quadro\",\n\"perspective\": \"levemente angulado, mas majoritariamente voltado para frente\"\n},\n\n\"background\": {\n\"type\": \"grade de quadrinhos estruturada de 6 painéis\",\n\"depth\": \"separação de profundidade em camadas sutis\"\n},\n\n\"panels\": [\n\"Superior Esquerdo: ajustando o cabelo naturalmente (movimento espontâneo)\",\n\"Superior Direito: vista de perfil limpa\",\n\"Painéis Centrais (2): texturas suaves de meio-tom\",\n\"Inferior Esquerdo: de costas olhando para a câmera\",\n\"Inferior Direito: explosão abstrata de quadrinhos com texto 'ZAP' em negrito\"\n],\n\n\"environment\": \"rua urbana com texturas de grafite suaves, levemente desfocadas\",\n\n\"style_details\": {\n\"primary\": \"renderização 3D semirrealista de alto detalhe\",\n\"secondary\": \"sobreposição de quadrinhos pop-art\",\n\"linework\": \"contornos pretos em negrito\",\n\"shading\": \"cel-shading suave\",\n\"color\": \"tons vibrantes controlados com equilíbrio quente\"\n},\n\n\"lighting\": \"iluminação cinematográfica quente e suave com destaques limpos\",\n\"camera\": {\n\"lens\": \"retrato 50mm\",\n\"depth_of_field\": \"rasa\"\n},\n\n\"quality\": \"ultra-detalhado, renderização suave, 4K\",\n\n\"aspect_ratio\": \"4:5\",\n\n\"output_goal\": \"consistência facial perfeita com layout de narrativa em quadrinhos estiloso\"\n}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - 3D Pop-Art Comic Grid",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 3D 波普艺术漫画网格",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - ตารางคอมิกป๊อปอาร์ต 3D",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Cuadrícula de cómic 3D Pop-Art",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - 3D-Pop-Art-Comic-Raster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Grille de bande dessinée Pop-Art 3D",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Griglia per fumetti 3D Pop-Art",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Grade de Quadrinhos Pop-Art 3D",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A complex layout prompt for creating a 6-panel comic grid in a semi-realistic 3D pop-art style with facial consistency.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个复杂的布局提示词，用于创建 6 格漫画网格，采用半写实 3D 波普艺术风格，并保持面部一致性。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de mise en page complexe pour créer une grille de bande dessinée à 6 panneaux dans un style pop-art 3D semi-réaliste avec une cohérence faciale.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Goodmanprotocol/status/2051333814807663055",
+      "originalId": "https://x.com/Goodmanprotocol/status/2051333814807663055",
+      "authors": [
+        {
+          "name": "Saul Goodman",
+          "url": "https://x.com/Goodmanprotocol"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3525
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_762d98a60bfcb9de",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971005381_whh19g_HHfNMfobwAAuhQo.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971005381_whh19g_HHfNMfobwAAuhQo.jpg",
+      "localPath": "public/assets/prompt_1f02c9dc7af94ca2493f/1c5ee5038edc.jpg",
+      "alt": "Comic / Storyboard - 3D Pop-Art Comic Grid - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_e86ae976ffe639fb",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971005372_qwrjbn_HHfNMgQbYAAOxPc.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971005372_qwrjbn_HHfNMgQbYAAOxPc.jpg",
+      "localPath": "public/assets/prompt_1f02c9dc7af94ca2493f/e5082426f3b2.jpg",
+      "alt": "Comic / Storyboard - 3D Pop-Art Comic Grid - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_8715da188a58e0f6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971005437_gc4vr9_HHfNMj0a0AAjWkF.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971005437_gc4vr9_HHfNMj0a0AAjWkF.jpg",
+      "localPath": "public/assets/prompt_1f02c9dc7af94ca2493f/1ac2acd07be4.jpg",
+      "alt": "Comic / Storyboard - 3D Pop-Art Comic Grid - Image 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_bf05a0914666a3fe",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971005926_us4cqy_HHfNMtjbEAAHjBj.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971005926_us4cqy_HHfNMtjbEAAHjBj.jpg",
+      "localPath": "public/assets/prompt_1f02c9dc7af94ca2493f/54c05caf1e28.jpg",
+      "alt": "Comic / Storyboard - 3D Pop-Art Comic Grid - Image 4",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "portrait",
+      "camera",
+      "人像",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.847Z"
+  }
+}

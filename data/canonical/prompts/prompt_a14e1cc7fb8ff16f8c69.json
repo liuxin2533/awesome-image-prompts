@@ -1,0 +1,108 @@
+{
+  "id": "prompt_a14e1cc7fb8ff16f8c69",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n  \"image_type\": \"Commercial Fashion Infographic\",\n  \"subject\": {\n    \"model\": \"Young Asian woman with elegant features and dark hair tied in a loose bun\",\n    \"attire\": \"Satin midi dress with spaghetti straps and a draped cowl neckline\",\n    \"fit\": \"Bodycon / slim fit with side ruching and a subtle leg slit\"\n  },\n  \"layout_structure\": {\n    \"composition\": \"Multi-panel editorial layout\",\n    \"header\": \"Bold serif typography reading 'DRESS COLLECTION'\",\n    \"main_feature\": \"Large centered portrait of the model, a young Asian woman, wearing a wine-red satin dress\",\n    \"secondary_panels\": [\n      \"Dress Features grid with minimalist icons\",\n      \"Dress Guide sidebar detailing neckline, sleeve, and length\",\n      \"Color Collection row showing the dress in Black, Emerald Green, Navy, Champagne, and Royal Blue\",\n      \"Dress Style Guide footer featuring the model in various atmospheric evening settings\"\n    ]\n  },\n  \"aesthetic_style\": {\n    \"color_palette\": \"Deep jewel tones (Wine Red, Emerald, Navy, Royal Blue) contrasted with Champagne and Black against a warm cream or beige background\",\n    \"lighting\": \"Soft studio lighting with elegant highlights on the satin fabric texture\",\n    \"vibe\": \"Luxurious, timeless, and sophisticated commercial advertising\"\n  },\n  \"typography\": {\n    \"primary\": \"Classic Serif for titles\",\n    \"secondary\": \"Clean Sans-Serif for body text and technical details\"\n  }\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n  \"image_type\": \"商业时尚信息图\",\n  \"subject\": {\n    \"model\": \"年轻亚洲女性，拥有优雅的面容和深色头发，松松地挽成发髻\",\n    \"attire\": \"缎面中长款连衣裙，细肩带，垂坠式U型领口\",\n    \"fit\": \"紧身/修身款式，侧面有褶皱设计，腿部有细微开衩\"\n  },\n  \"layout_structure\": {\n    \"composition\": \"多版面编辑布局\",\n    \"header\": \"粗衬线字体标题，显示'服装系列'\",\n    \"main_feature\": \"大型居中肖像，模特为年轻亚洲女性，穿着酒红色缎面连衣裙\",\n    \"secondary_panels\": [\n      \"服装特点网格，配有极简图标\",\n      \"服装指南侧边栏，详细说明领口、袖型和长度\",\n      \"色彩系列行，展示黑色、祖母绿、海军蓝、香槟色和皇家蓝色的连衣裙\",\n      \"服装风格指南页脚，模特出现在各种氛围浓郁的晚间场景中\"\n    ]\n  },\n  \"aesthetic_style\": {\n    \"color_palette\": \"深色宝石色调（酒红色、祖母绿、海军蓝、皇家蓝）与香槟色和黑色形成对比，背景为温暖的奶油色或米色\",\n    \"lighting\": \"柔和的影棚灯光，在缎面织物纹理上呈现出优雅的高光\",\n    \"vibe\": \"奢华、永恒且精致的商业广告风格\"\n  },\n  \"typography\": {\n    \"primary\": \"经典衬线字体用于标题\",\n    \"secondary\": \"简洁的无衬线字体用于正文和技术细节\"\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:59:05.124Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Fashion Dress Collection Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "时尚服装系列信息图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:58:57.603Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/cellinlab/status/2049073530738754042",
+      "originalId": "case-171",
+      "authors": [
+        {
+          "name": "cellinlab",
+          "url": "https://x.com/cellinlab"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1688
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5893267c52c15bef",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg",
+      "localPath": "public/assets/prompt_a14e1cc7fb8ff16f8c69/857c87695798.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-28T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "信息图",
+      "技术"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.551Z"
+  }
+}

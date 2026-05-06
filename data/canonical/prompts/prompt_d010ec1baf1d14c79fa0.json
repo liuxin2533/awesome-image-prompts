@@ -1,0 +1,88 @@
+{
+  "id": "prompt_d010ec1baf1d14c79fa0",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "create a minecraft skin inspired by {argument name=\"reference\" default=\"my look\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "create a minecraft skin inspired by {argument name=\"reference\" default=\"my look\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:26:31.965Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "综合应用场景图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Comprehensive Application Scenario Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:26:34.147Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_00ed43dcfb",
+      "value": "综合应用场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-25",
+      "originalId": "case-25",
+      "authors": [
+        {
+          "name": "nicdunz",
+          "url": "https://x.com/nicdunz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 559
+        }
+      ],
+      "rawSource": "[@nicdunz](https://x.com/nicdunz)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7e3878a6dca02010",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case25.jpg",
+      "upstreamPath": "../data/images/case25.jpg",
+      "localPath": "public/assets/prompt_d010ec1baf1d14c79fa0/93234e85d738.jpg",
+      "alt": "reference",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

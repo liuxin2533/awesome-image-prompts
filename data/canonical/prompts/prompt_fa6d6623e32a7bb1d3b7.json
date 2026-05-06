@@ -1,0 +1,178 @@
+{
+  "id": "prompt_fa6d6623e32a7bb1d3b7",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"Chinese magazine-style AI palm reading visual analysis report poster\",\"format\":\"vertical 3:4 infographic poster\",\"overall_style\":\"luxury mystic technology aesthetic, dark navy starry background, antique gold borders, clean editorial layout, high-end Chinese magazine typography, realistic photo mixed with flat infographic graphics, not fortune-telling but a visual observation report\",\"main_subject\":{\"position\":\"left half\",\"description\":\"a large realistic open human palm facing forward, wrist visible at bottom, fingers extended upward, softly lit skin texture, centered within a faint golden astrological compass circle\",\"hand_photo\":\"{argument name=\"hand photo description\" default=\"realistic left palm photo, open hand, fingers upright, natural skin tone\"}\"},\"left_palm_overlay\":{\"count\":7,\"description\":\"seven colorful annotated palm lines drawn directly on the palm with glowing curved strokes, numbered circular markers, small rounded Chinese labels, thin connector dots\",\"lines\":[{\"number\":1,\"label\":\"生命线\",\"color\":\"cyan blue\",\"position\":\"curving around the thumb mound\"},{\"number\":2,\"label\":\"智慧线\",\"color\":\"pink\",\"position\":\"diagonal line across the upper palm\"},{\"number\":3,\"label\":\"感情线\",\"color\":\"yellow\",\"position\":\"upper right palm near finger bases\"},{\"number\":4,\"label\":\"事业线\",\"color\":\"green\",\"position\":\"vertical line rising through the center palm\"},{\"number\":5,\"label\":\"创造力\",\"color\":\"purple\",\"position\":\"diagonal line toward lower right palm\"},{\"number\":6,\"label\":\"能量\",\"color\":\"teal\",\"position\":\"lower left palm near wrist\"},{\"number\":7,\"label\":\"专注力\",\"color\":\"orange\",\"position\":\"dotted vertical curve near lower center palm\"}]},\"left_background_text\":{\"top_left\":\"科技读纹\\n洞见未来\",\"vertical_english\":\"AI PALM READING\",\"bottom_left\":\"掌心藏宇宙\\n纹路见未来\"},\"right_panel\":{\"position\":\"right half\",\"description\":\"tall bordered report card with dark navy header and cream content panels, gold trim and art deco corners\",\"headline\":\"{argument name=\"headline text\" default=\"AI 手相解析\"}\",\"subtitle\":\"{argument name=\"subtitle text\" default=\"视觉洞察报告\"}\",\"header_icon\":\"yin-yang symbol in a golden circle with radiating lines\",\"sections_count\":5,\"sections\":[{\"title\":\"性格地图\",\"icon\":\"profile head silhouette in a navy-and-gold circle\",\"text_bullets_count\":4,\"text_bullets\":[\"直觉敏锐\",\"独立思考\",\"共情力强\",\"行动果敢\"],\"visual\":\"teal radar chart with five axes\"},{\"title\":\"事业能量\",\"icon\":\"briefcase in a navy-and-gold circle\",\"text_bullets_count\":4,\"text_bullets\":[\"目标清晰\",\"执行力强\",\"适合领导\",\"持续成长\"],\"visual\":\"teal rising bar chart with upward arrow\"},{\"title\":\"关系风格\",\"icon\":\"heart outline in a navy-and-gold circle\",\"text_bullets_count\":4,\"text_bullets\":[\"重情重义\",\"真诚专一\",\"善于沟通\",\"温暖可靠\"],\"visual\":\"pink two-person relationship icon with floating hearts\"},{\"title\":\"创造潜力\",\"icon\":\"light bulb in a navy-and-gold circle\",\"text_bullets_count\":4,\"text_bullets\":[\"想象力丰富\",\"审美力在线\",\"点子多元\",\"创新突破\"],\"visual\":\"golden spiral galaxy swirl\"},{\"title\":\"2026 关键词\",\"icon\":\"key in a navy-and-gold circle\",\"keywords_count\":6,\"keywords\":[\"突破\",\"成长\",\"机遇\",\"专注\",\"平衡\",\"蜕变\"]}],\"footer\":\"娱乐向 AI 视觉报告\"},\"color_palette\":\"deep navy, cream white, antique gold, cyan, pink, yellow, green, purple, orange, teal\",\"typography\":\"large bold elegant Chinese serif headline, smaller Chinese sans-serif bullet text, decorative gold separators\",\"customization_notes\":\"Keep all Chinese text sharp and legible, preserve the exact section layout and counts, emphasize the combination of realistic palm photography and polished infographic analysis.\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"中国杂志风格 AI 手相视觉分析报告海报\",\"format\":\"3:4 竖版信息图海报\",\"overall_style\":\"奢华神秘科技美学，深海军蓝星空背景，古董金边框，整洁的编辑排版，高端中文杂志字体，写实照片与扁平化信息图结合，非算命性质，而是视觉观察报告\",\"main_subject\":{\"position\":\"左半部分\",\"description\":\"一只巨大的写实张开人手正面朝前，手腕位于底部，手指向上伸展，皮肤纹理柔和，位于淡淡的金色占星罗盘圆圈中心\",\"hand_photo\":\"{argument name=\"hand photo description\" default=\"写实左手照片，张开手掌，手指向上，自然肤色\"}\"},\"left_palm_overlay\":{\"count\":7,\"description\":\"七条色彩缤纷的标注掌纹直接绘制在手掌上，带有发光的曲线笔触、数字圆形标记、小型圆角中文标签以及细连接点\",\"lines\":[{\"number\":1,\"label\":\"生命线\",\"color\":\"青蓝色\",\"position\":\"环绕拇指丘\"},{\"number\":2,\"label\":\"智慧线\",\"color\":\"粉色\",\"position\":\"横穿上掌心的斜线\"},{\"number\":3,\"label\":\"感情线\",\"color\":\"黄色\",\"position\":\"手指根部附近的上掌心\"},{\"number\":4,\"label\":\"事业线\",\"color\":\"绿色\",\"position\":\"穿过掌心中心的垂直线\"},{\"number\":5,\"label\":\"创造力\",\"color\":\"紫色\",\"position\":\"指向右下掌心的斜线\"},{\"number\":6,\"label\":\"能量\",\"color\":\"蓝绿色\",\"position\":\"手腕附近的左下掌心\"},{\"number\":7,\"label\":\"专注力\",\"color\":\"橙色\",\"position\":\"下中心附近的虚线垂直曲线\"}]},\"left_background_text\":{\"top_left\":\"科技读纹\\n洞见未来\",\"vertical_english\":\"AI PALM READING\",\"bottom_left\":\"掌心藏宇宙\\n纹路见未来\"},\"right_panel\":{\"position\":\"右半部分\",\"description\":\"带有深海军蓝标题栏和奶油色内容面板的高挑边框报告卡，金色饰边和装饰艺术风格边角\",\"headline\":\"{argument name=\"headline text\" default=\"AI 手相解析\"}\",\"subtitle\":\"{argument name=\"subtitle text\" default=\"视觉洞察报告\"}\",\"header_icon\":\"金色圆圈内的阴阳符号，带有放射状线条\",\"sections_count\":5,\"sections\":[{\"title\":\"性格地图\",\"icon\":\"海军蓝与金色圆圈中的侧脸剪影\",\"text_bullets_count\":4,\"text_bullets\":[\"直觉敏锐\",\"独立思考\",\"共情力强\",\"行动果敢\"],\"visual\":\"五轴蓝绿色雷达图\"},{\"title\":\"事业能量\",\"icon\":\"海军蓝与金色圆圈中的公文包\",\"text_bullets_count\":4,\"text_bullets\":[\"目标清晰\",\"执行力强\",\"适合领导\",\"持续成长\"],\"visual\":\"带有向上箭头的蓝绿色上升柱状图\"},{\"title\":\"关系风格\",\"icon\":\"海军蓝与金色圆圈中的心形轮廓\",\"text_bullets_count\":4,\"text_bullets\":[\"重情重义\",\"真诚专一\",\"善于沟通\",\"温暖可靠\"],\"visual\":\"带有漂浮爱心的粉色双人关系图标\"},{\"title\":\"创造潜力\",\"icon\":\"海军蓝与金色圆圈中的灯泡\",\"text_bullets_count\":4,\"text_bullets\":[\"想象力丰富\",\"审美力在线\",\"点子多元\",\"创新突破\"],\"visual\":\"金色螺旋星系漩涡\"},{\"title\":\"2026 关键词\",\"icon\":\"海军蓝与金色圆圈中的钥匙\",\"keywords_count\":6,\"keywords\":[\"突破\",\"成长\",\"机遇\",\"专注\",\"平衡\",\"蜕变\"]}],\"footer\":\"娱乐向 AI 视觉报告\"},\"color_palette\":\"深海军蓝，奶油白，古董金，青色，粉色，黄色，绿色，紫色，橙色，蓝绿色\",\"typography\":\"大号粗体优雅中文衬线标题，较小的中文无衬线要点文字，装饰性金色分隔线\",\"customization_notes\":\"保持所有中文文字清晰易读，保留精确的板块布局和数量，强调写实手部摄影与精致信息图分析的结合。\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"póster de informe de análisis visual de lectura de palma con IA al estilo de revista china\",\"format\":\"póster infográfico vertical 3:4\",\"overall_style\":\"estética de tecnología mística de lujo, fondo azul marino estrellado, bordes de oro antiguo, diseño editorial limpio, tipografía de revista china de alta gama, foto realista mezclada con gráficos infográficos planos, no es adivinación sino un informe de observación visual\",\"main_subject\":{\"position\":\"mitad izquierda\",\"description\":\"una palma humana abierta, grande y realista, orientada hacia adelante, muñeca visible en la parte inferior, dedos extendidos hacia arriba, textura de piel suavemente iluminada, centrada dentro de un tenue círculo de brújula astrológica dorada\",\"hand_photo\":\"{argument name=\"hand photo description\" default=\"foto realista de palma izquierda, mano abierta, dedos hacia arriba, tono de piel natural\"}\"},\"left_palm_overlay\":{\"count\":7,\"description\":\"siete líneas de palma coloridas anotadas dibujadas directamente sobre la palma con trazos curvos brillantes, marcadores circulares numerados, pequeñas etiquetas chinas redondeadas, puntos conectores delgados\",\"lines\":[{\"number\":1,\"label\":\"生命线\",\"color\":\"cian azul\",\"position\":\"curvándose alrededor de la base del pulgar\"},{\"number\":2,\"label\":\"智慧线\",\"color\":\"rosa\",\"position\":\"línea diagonal a través de la parte superior de la palma\"},{\"number\":3,\"label\":\"感情线\",\"color\":\"amarillo\",\"position\":\"parte superior derecha de la palma cerca de la base de los dedos\"},{\"number\":4,\"label\":\"事业线\",\"color\":\"verde\",\"position\":\"línea vertical que sube por el centro de la palma\"},{\"number\":5,\"label\":\"创造力\",\"color\":\"púrpura\",\"position\":\"línea diagonal hacia la parte inferior derecha de la palma\"},{\"number\":6,\"label\":\"能量\",\"color\":\"verde azulado\",\"position\":\"parte inferior izquierda de la palma cerca de la muñeca\"},{\"number\":7,\"label\":\"专注力\",\"color\":\"naranja\",\"position\":\"curva vertical punteada cerca de la parte inferior central de la palma\"}]},\"left_background_text\":{\"top_left\":\"科技读纹\\n洞见未来\",\"vertical_english\":\"AI PALM READING\",\"bottom_left\":\"掌心藏宇宙\\n纹路见未来\"},\"right_panel\":{\"position\":\"mitad derecha\",\"description\":\"tarjeta de informe alta con bordes, encabezado azul marino y paneles de contenido color crema, adornos dorados y esquinas art déco\",\"headline\":\"{argument name=\"headline text\" default=\"AI 手相解析\"}\",\"subtitle\":\"{argument name=\"subtitle text\" default=\"视觉洞察报告\"}\",\"header_icon\":\"símbolo yin-yang en un círculo dorado con líneas radiantes\",\"sections_count\":5,\"sections\":[{\"title\":\"性格地图\",\"icon\":\"silueta de cabeza de perfil en un círculo azul marino y dorado\",\"text_bullets_count\":4,\"text_bullets\":[\"直觉敏锐\",\"独立思考\",\"共情力强\",\"行动果敢\"],\"visual\":\"gráfico de radar verde azulado con cinco ejes\"},{\"title\":\"事业能量\",\"icon\":\"maletín en un círculo azul marino y dorado\",\"text_bullets_count\":4,\"text_bullets\":[\"目标清晰\",\"执行力强\",\"适合领导\",\"持续成长\"],\"visual\":\"gráfico de barras ascendente verde azulado con flecha hacia arriba\"},{\"title\":\"关系风格\",\"icon\":\"contorno de corazón en un círculo azul marino y dorado\",\"text_bullets_count\":4,\"text_bullets\":[\"重情重义\",\"真诚专一\",\"善于沟通\",\"温暖可靠\"],\"visual\":\"icono de relación de dos personas rosa con corazones flotantes\"},{\"title\":\"创造潜力\",\"icon\":\"bombilla en un círculo azul marino y dorado\",\"text_bullets_count\":4,\"text_bullets\":[\"想象力丰富\",\"审美力在线\",\"点子多元\",\"创新突破\"],\"visual\":\"espiral de galaxia dorada\"},{\"title\":\"2026 关键词\",\"icon\":\"llave en un círculo azul marino y dorado\",\"keywords_count\":6,\"keywords\":[\"突破\",\"成长\",\"机遇\",\"专注\",\"平衡\",\"蜕变\"]}],\"footer\":\"娱乐向 AI 视觉报告\"},\"color_palette\":\"azul marino profundo, blanco crema, oro antiguo, cian, rosa, amarillo, verde, púrpura, naranja, verde azulado\",\"typography\":\"titular con serif chino grande, audaz y elegante, texto de viñetas sans-serif chino más pequeño, separadores dorados decorativos\",\"customization_notes\":\"Mantenga todo el texto chino nítido y legible, preserve el diseño y conteo exacto de las secciones, enfatice la combinación de fotografía de palma realista y análisis infográfico pulido.\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"KI-Handanalyse-Berichtsposter im chinesischen Magazin-Stil\",\"format\":\"vertikales 3:4 Infografik-Poster\",\"overall_style\":\"luxuriöse mystische Technologie-Ästhetik, dunkelblauer Sternenhintergrund, antikgoldene Ränder, klares Editorial-Layout, hochwertige chinesische Magazin-Typografie, realistische Fotos kombiniert mit flachen Infografik-Elementen, keine Wahrsagerei, sondern ein visueller Beobachtungsbericht\",\"main_subject\":{\"position\":\"linke Hälfte\",\"description\":\"eine große, realistische, offene menschliche Handfläche nach vorne gerichtet, Handgelenk unten sichtbar, Finger nach oben gestreckt, weich beleuchtete Hauttextur, zentriert in einem schwachen goldenen astrologischen Kompasskreis\",\"hand_photo\":\"{argument name=\\\"hand photo description\\\" default=\\\"realistisches Foto einer linken Handfläche, offene Hand, Finger aufrecht, natürlicher Hautton\\\"}\"},\"left_palm_overlay\":{\"count\":7,\"description\":\"sieben farbenfrohe, kommentierte Handlinien, die direkt mit leuchtenden, geschwungenen Strichen auf die Handfläche gezeichnet sind, nummerierte kreisförmige Marker, kleine abgerundete chinesische Beschriftungen, dünne Verbindungspunkte\",\"lines\":[{\"number\":1,\"label\":\"生命线\",\"color\":\"cyanblau\",\"position\":\"um den Daumenballen geschwungen\"},{\"number\":2,\"label\":\"智慧线\",\"color\":\"pink\",\"position\":\"diagonale Linie über die obere Handfläche\"},{\"number\":3,\"label\":\"感情线\",\"color\":\"gelb\",\"position\":\"obere rechte Handfläche nahe der Fingerbasis\"},{\"number\":4,\"label\":\"事业线\",\"color\":\"grün\",\"position\":\"vertikale Linie, die durch die Mitte der Handfläche aufsteigt\"},{\"number\":5,\"label\":\"创造力\",\"color\":\"lila\",\"position\":\"diagonale Linie zur unteren rechten Handfläche\"},{\"number\":6,\"label\":\"能量\",\"color\":\"türkis\",\"position\":\"untere linke Handfläche nahe dem Handgelenk\"},{\"number\":7,\"label\":\"专注力\",\"color\":\"orange\",\"position\":\"gepunktete vertikale Kurve nahe der unteren Mitte der Handfläche\"}]},\"left_background_text\":{\"top_left\":\"科技读纹\\n洞见未来\",\"vertical_english\":\"AI PALM READING\",\"bottom_left\":\"掌心藏宇宙\\n纹路见未来\"},\"right_panel\":{\"position\":\"rechte Hälfte\",\"description\":\"hohe, gerahmte Berichtskarte mit dunkelblauem Header und cremefarbenen Inhaltsfeldern, Goldverzierungen und Art-déco-Ecken\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI 手相解析\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"视觉洞察报告\\\"}\",\"header_icon\":\"Yin-Yang-Symbol in einem goldenen Kreis mit strahlenden Linien\",\"sections_count\":5,\"sections\":[{\"title\":\"性格地图\",\"icon\":\"Profil-Kopf-Silhouette in einem marine-goldenen Kreis\",\"text_bullets_count\":4,\"text_bullets\":[\"直觉敏锐\",\"独立思考\",\"共情力强\",\"行动果敢\"],\"visual\":\"türkises Radardiagramm mit fünf Achsen\"},{\"title\":\"事业能量\",\"icon\":\"Aktentasche in einem marine-goldenen Kreis\",\"text_bullets_count\":4,\"text_bullets\":[\"目标清晰\",\"执行力强\",\"适合领导\",\"持续成长\"],\"visual\":\"türkises aufsteigendes Balkendiagramm mit Pfeil nach oben\"},{\"title\":\"关系风格\",\"icon\":\"Herz-Umriss in einem marine-goldenen Kreis\",\"text_bullets_count\":4,\"text_bullets\":[\"重情重义\",\"真诚专一\",\"善于沟通\",\"温暖可靠\"],\"visual\":\"pinkes Symbol für eine Zweierbeziehung mit schwebenden Herzen\"},{\"title\":\"创造潜力\",\"icon\":\"Glühbirne in einem marine-goldenen Kreis\",\"text_bullets_count\":4,\"text_bullets\":[\"想象力丰富\",\"审美力在线\",\"点子多元\",\"创新突破\"],\"visual\":\"goldene Spiralgalaxie\"},{\"title\":\"2026 关键词\",\"icon\":\"Schlüssel in einem marine-goldenen Kreis\",\"keywords_count\":6,\"keywords\":[\"突破\",\"成长\",\"机遇\",\"专注\",\"平衡\",\"蜕变\"]}],\"footer\":\"娱乐向 AI 视觉报告\"},\"color_palette\":\"dunkles Marineblau, Cremeweiß, Antikgold, Cyan, Pink, Gelb, Grün, Lila, Orange, Türkis\",\"typography\":\"große, fette, elegante chinesische Serifenschrift-Überschrift, kleinere chinesische serifenlose Aufzählungstexte, dekorative Goldtrenner\",\"customization_notes\":\"Halten Sie den gesamten chinesischen Text scharf und lesbar, bewahren Sie das exakte Layout und die Anzahl der Abschnitte bei, betonen Sie die Kombination aus realistischer Handfotografie und polierter Infografik-Analyse.\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"Affiche de rapport d'analyse visuelle chiromantique par IA style magazine chinois\",\"format\":\"affiche infographique verticale 3:4\",\"overall_style\":\"esthétique technologique mystique de luxe, fond bleu marine étoilé, bordures or antique, mise en page éditoriale épurée, typographie de magazine chinois haut de gamme, photo réaliste mélangée à des graphiques infographiques, rapport d'observation visuelle et non de divination\",\"main_subject\":{\"position\":\"moitié gauche\",\"description\":\"une grande paume humaine ouverte et réaliste tournée vers l'avant, poignet visible en bas, doigts étendus vers le haut, texture de peau doucement éclairée, centrée dans un léger cercle de boussole astrologique doré\",\"hand_photo\":\"{argument name=\"hand photo description\" default=\"photo réaliste de paume gauche, main ouverte, doigts vers le haut, teint naturel\"}\"},\"left_palm_overlay\":{\"count\":7,\"description\":\"sept lignes de la main colorées et annotées, dessinées directement sur la paume avec des traits courbes lumineux, marqueurs circulaires numérotés, petites étiquettes chinoises arrondies, points de connexion fins\",\"lines\":[{\"number\":1,\"label\":\"Ligne de vie\",\"color\":\"bleu cyan\",\"position\":\"courbe autour du mont du pouce\"},{\"number\":2,\"label\":\"Ligne de tête\",\"color\":\"rose\",\"position\":\"ligne diagonale sur la partie supérieure de la paume\"},{\"number\":3,\"label\":\"Ligne de cœur\",\"color\":\"jaune\",\"position\":\"paume supérieure droite près de la base des doigts\"},{\"number\":4,\"label\":\"Ligne de destinée\",\"color\":\"vert\",\"position\":\"ligne verticale montant au centre de la paume\"},{\"number\":5,\"label\":\"Créativité\",\"color\":\"violet\",\"position\":\"ligne diagonale vers le bas à droite de la paume\"},{\"number\":6,\"label\":\"Énergie\",\"color\":\"sarcelle\",\"position\":\"bas gauche de la paume près du poignet\"},{\"number\":7,\"label\":\"Concentration\",\"color\":\"orange\",\"position\":\"courbe verticale pointillée près du centre inférieur de la paume\"}]},\"left_background_text\":{\"top_left\":\"Lecture de lignes par IA\\nPerspectives d'avenir\",\"vertical_english\":\"AI PALM READING\",\"bottom_left\":\"L'univers dans la paume\\nL'avenir dans les lignes\"},\"right_panel\":{\"position\":\"moitié droite\",\"description\":\"fiche de rapport haute avec bordures, en-tête bleu marine et panneaux de contenu crème, garnitures dorées et coins art déco\",\"headline\":\"{argument name=\"headline text\" default=\"Analyse chiromantique par IA\"}\",\"subtitle\":\"{argument name=\"subtitle text\" default=\"Rapport d'analyse visuelle\"}\",\"header_icon\":\"symbole yin-yang dans un cercle doré avec des lignes rayonnantes\",\"sections_count\":5,\"sections\":[{\"title\":\"Carte de personnalité\",\"icon\":\"silhouette de tête de profil dans un cercle bleu marine et or\",\"text_bullets_count\":4,\"text_bullets\":[\"Intuition vive\",\"Esprit indépendant\",\"Forte empathie\",\"Action audacieuse\"],\"visual\":\"graphique radar sarcelle à cinq axes\"},{\"title\":\"Énergie professionnelle\",\"icon\":\"porte-documents dans un cercle bleu marine et or\",\"text_bullets_count\":4,\"text_bullets\":[\"Objectifs clairs\",\"Forte exécution\",\"Profil de leader\",\"Croissance continue\"],\"visual\":\"graphique à barres ascendant sarcelle avec flèche vers le haut\"},{\"title\":\"Style relationnel\",\"icon\":\"contour de cœur dans un cercle bleu marine et or\",\"text_bullets_count\":4,\"text_bullets\":[\"Loyauté profonde\",\"Sincérité et fidélité\",\"Bon communicant\",\"Chaleureux et fiable\"],\"visual\":\"icône rose de relation à deux personnes avec cœurs flottants\"},{\"title\":\"Potentiel créatif\",\"icon\":\"ampoule dans un cercle bleu marine et or\",\"text_bullets_count\":4,\"text_bullets\":[\"Imagination riche\",\"Sens esthétique\",\"Idées variées\",\"Innovation et percée\"],\"visual\":\"spirale galactique dorée\"},{\"title\":\"Mots-clés 2026\",\"icon\":\"clé dans un cercle bleu marine et or\",\"keywords_count\":6,\"keywords\":[\"Percée\",\"Croissance\",\"Opportunité\",\"Concentration\",\"Équilibre\",\"Transformation\"]}],\"footer\":\"Rapport visuel IA à but récréatif\"},\"color_palette\":\"bleu marine profond, blanc crème, or antique, cyan, rose, jaune, vert, violet, orange, sarcelle\",\"typography\":\"grand titre chinois avec empattement élégant, texte de puce chinois sans empattement plus petit, séparateurs décoratifs dorés\",\"customization_notes\":\"Gardez tout le texte chinois net et lisible, préservez la mise en page et le nombre exacts des sections, soulignez la combinaison de la photographie réaliste de la paume et de l'analyse infographique soignée.\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"poster con report di analisi visiva della mano tramite AI in stile rivista cinese\",\"format\":\"poster infografico verticale 3:4\",\"overall_style\":\"estetica tecnologica mistica di lusso, sfondo blu navy stellato, bordi in oro antico, layout editoriale pulito, tipografia da rivista cinese di alta gamma, foto realistica mescolata con grafica infografica piatta, non si tratta di divinazione ma di un report di osservazione visiva\",\"main_subject\":{\"position\":\"metà sinistra\",\"description\":\"un grande palmo umano aperto e realistico rivolto in avanti, polso visibile in basso, dita estese verso l'alto, texture della pelle illuminata delicatamente, centrato all'interno di un tenue cerchio dorato con bussola astrologica\",\"hand_photo\":\"{argument name=\"descrizione foto mano\" default=\"foto realistica di un palmo sinistro, mano aperta, dita verso l'alto, tonalità della pelle naturale\"}\"},\"left_palm_overlay\":{\"count\":7,\"description\":\"sette linee della mano colorate e annotate, disegnate direttamente sul palmo con tratti curvi luminosi, indicatori circolari numerati, piccole etichette cinesi arrotondate, sottili punti di connessione\",\"lines\":[{\"number\":1,\"label\":\"生命线\",\"color\":\"ciano blu\",\"position\":\"che curva attorno al monte del pollice\"},{\"number\":2,\"label\":\"智慧线\",\"color\":\"rosa\",\"position\":\"linea diagonale attraverso la parte superiore del palmo\"},{\"number\":3,\"label\":\"感情线\",\"color\":\"giallo\",\"position\":\"parte superiore destra del palmo vicino alla base delle dita\"},{\"number\":4,\"label\":\"事业线\",\"color\":\"verde\",\"position\":\"linea verticale che sale attraverso il centro del palmo\"},{\"number\":5,\"label\":\"创造力\",\"color\":\"viola\",\"position\":\"linea diagonale verso la parte inferiore destra del palmo\"},{\"number\":6,\"label\":\"能量\",\"color\":\"verde acqua\",\"position\":\"parte inferiore sinistra del palmo vicino al polso\"},{\"number\":7,\"label\":\"专注力\",\"color\":\"arancione\",\"position\":\"curva verticale tratteggiata vicino alla parte inferiore centrale del palmo\"}]},\"left_background_text\":{\"top_left\":\"科技读纹\\n洞见未来\",\"vertical_english\":\"AI PALM READING\",\"bottom_left\":\"掌心藏宇宙\\n纹路见未来\"},\"right_panel\":{\"position\":\"metà destra\",\"description\":\"scheda informativa alta con bordo, intestazione blu navy e pannelli di contenuto color crema, finiture dorate e angoli art déco\",\"headline\":\"{argument name=\"testo titolo\" default=\"AI 手相解析\"}\",\"subtitle\":\"{argument name=\"testo sottotitolo\" default=\"视觉洞察报告\"}\",\"header_icon\":\"simbolo yin-yang in un cerchio dorato con linee radianti\",\"sections_count\":5,\"sections\":[{\"title\":\"性格地图\",\"icon\":\"silhouette di testa di profilo in un cerchio blu navy e oro\",\"text_bullets_count\":4,\"text_bullets\":[\"直觉敏锐\",\"独立思考\",\"共情力强\",\"行动果敢\"],\"visual\":\"grafico a radar verde acqua con cinque assi\"},{\"title\":\"事业能量\",\"icon\":\"valigetta in un cerchio blu navy e oro\",\"text_bullets_count\":4,\"text_bullets\":[\"目标清晰\",\"执行力强\",\"适合领导\",\"持续成长\"],\"visual\":\"grafico a barre ascendente verde acqua con freccia verso l'alto\"},{\"title\":\"关系风格\",\"icon\":\"contorno di cuore in un cerchio blu navy e oro\",\"text_bullets_count\":4,\"text_bullets\":[\"重情重义\",\"真诚专一\",\"善于沟通\",\"温暖可靠\"],\"visual\":\"icona rosa di relazione a due persone con cuori fluttuanti\"},{\"title\":\"创造潜力\",\"icon\":\"lampadina in un cerchio blu navy e oro\",\"text_bullets_count\":4,\"text_bullets\":[\"想象力丰富\",\"审美力在线\",\"点子多元\",\"创新突破\"],\"visual\":\"spirale galattica dorata\"},{\"title\":\"2026 关键词\",\"icon\":\"chiave in un cerchio blu navy e oro\",\"keywords_count\":6,\"keywords\":[\"突破\",\"成长\",\"机遇\",\"专注\",\"平衡\",\"蜕变\"]}],\"footer\":\"娱乐向 AI 视觉报告\"},\"color_palette\":\"blu navy profondo, bianco crema, oro antico, ciano, rosa, giallo, verde, viola, arancione, verde acqua\",\"typography\":\"titolo cinese grande, audace ed elegante con grazie, testo elenco cinese sans-serif più piccolo, separatori decorativi dorati\",\"customization_notes\":\"Mantieni tutto il testo cinese nitido e leggibile, preserva l'esatto layout e il conteggio delle sezioni, enfatizza la combinazione di fotografia realistica della mano e analisi infografica raffinata.\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"pôster de relatório de análise visual de leitura de mão por IA no estilo de revista chinesa\",\"format\":\"infográfico vertical 3:4\",\"overall_style\":\"estética de tecnologia mística de luxo, fundo azul-marinho estrelado, bordas em ouro antigo, layout editorial limpo, tipografia de revista chinesa sofisticada, foto realista misturada com gráficos de infográfico planos, não é adivinhação, mas um relatório de observação visual\",\"main_subject\":{\"position\":\"metade esquerda\",\"description\":\"uma grande palma da mão humana realista aberta voltada para frente, pulso visível na parte inferior, dedos estendidos para cima, textura de pele suavemente iluminada, centralizada dentro de um círculo de bússola astrológica dourada tênue\",\"hand_photo\":\"{argument name=\"hand photo description\" default=\"foto realista da palma da mão esquerda, mão aberta, dedos para cima, tom de pele natural\"}\"},\"left_palm_overlay\":{\"count\":7,\"description\":\"sete linhas da palma coloridas e anotadas desenhadas diretamente na palma com traços curvos brilhantes, marcadores circulares numerados, pequenos rótulos chineses arredondados, pontos conectores finos\",\"lines\":[{\"number\":1,\"label\":\"Linha da Vida\",\"color\":\"ciano azul\",\"position\":\"curvando-se ao redor da base do polegar\"},{\"number\":2,\"label\":\"Linha da Sabedoria\",\"color\":\"rosa\",\"position\":\"linha diagonal através da parte superior da palma\"},{\"number\":3,\"label\":\"Linha do Coração\",\"color\":\"amarelo\",\"position\":\"parte superior direita da palma perto da base dos dedos\"},{\"number\":4,\"label\":\"Linha do Destino\",\"color\":\"verde\",\"position\":\"linha vertical subindo pelo centro da palma\"},{\"number\":5,\"label\":\"Criatividade\",\"color\":\"roxo\",\"position\":\"linha diagonal em direção à parte inferior direita da palma\"},{\"number\":6,\"label\":\"Energia\",\"color\":\"azul-petróleo\",\"position\":\"parte inferior esquerda da palma perto do pulso\"},{\"number\":7,\"label\":\"Foco\",\"color\":\"laranja\",\"position\":\"curva vertical pontilhada perto do centro inferior da palma\"}]},\"left_background_text\":{\"top_left\":\"Leitura de Mão por IA\\nVisão do Futuro\",\"vertical_english\":\"AI PALM READING\",\"bottom_left\":\"O universo na palma da mão\\nO futuro nas linhas\"},\"right_panel\":{\"position\":\"metade direita\",\"description\":\"cartão de relatório alto com bordas, cabeçalho azul-marinho e painéis de conteúdo creme, acabamento dourado e cantos art déco\",\"headline\":\"{argument name=\"headline text\" default=\"Análise de Mão por IA\"}\",\"subtitle\":\"{argument name=\"subtitle text\" default=\"Relatório de Insights Visuais\"}\",\"header_icon\":\"símbolo yin-yang em um círculo dourado com linhas radiantes\",\"sections_count\":5,\"sections\":[{\"title\":\"Mapa de Personalidade\",\"icon\":\"silhueta de cabeça de perfil em um círculo azul-marinho e dourado\",\"text_bullets_count\":4,\"text_bullets\":[\"Intuição aguçada\",\"Pensamento independente\",\"Empatia forte\",\"Ação decisiva\"],\"visual\":\"gráfico de radar azul-petróleo com cinco eixos\"},{\"title\":\"Energia de Carreira\",\"icon\":\"pasta em um círculo azul-marinho e dourado\",\"text_bullets_count\":4,\"text_bullets\":[\"Objetivos claros\",\"Forte execução\",\"Perfil de liderança\",\"Crescimento contínuo\"],\"visual\":\"gráfico de barras ascendente azul-petróleo com seta para cima\"},{\"title\":\"Estilo de Relacionamento\",\"icon\":\"contorno de coração em um círculo azul-marinho e dourado\",\"text_bullets_count\":4,\"text_bullets\":[\"Lealdade profunda\",\"Sinceridade e dedicação\",\"Boa comunicação\",\"Caloroso e confiável\"],\"visual\":\"ícone de relacionamento de duas pessoas rosa com corações flutuantes\"},{\"title\":\"Potencial Criativo\",\"icon\":\"lâmpada em um círculo azul-marinho e dourado\",\"text_bullets_count\":4,\"text_bullets\":[\"Imaginação rica\",\"Senso estético apurado\",\"Ideias diversas\",\"Inovação disruptiva\"],\"visual\":\"espiral galáctica dourada\"},{\"title\":\"Palavras-chave 2026\",\"icon\":\"chave em um círculo azul-marinho e dourado\",\"keywords_count\":6,\"keywords\":[\"Avanço\",\"Crescimento\",\"Oportunidade\",\"Foco\",\"Equilíbrio\",\"Transformação\"]}],\"footer\":\"Relatório visual de IA para entretenimento\"},\"color_palette\":\"azul-marinho profundo, branco creme, ouro antigo, ciano, rosa, amarelo, verde, roxo, laranja, azul-petróleo\",\"typography\":\"manchete chinesa com serifa grande, ousada e elegante, texto de tópicos chinês sem serifa menor, separadores decorativos dourados\",\"customization_notes\":\"Mantenha todo o texto chinês nítido e legível, preserve o layout e a contagem exata das seções, enfatize a combinação de fotografia realista da palma da mão e análise infográfica polida.\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - AI Palm Reading Report Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - AI 手相分析报告海报",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Póster de informe de lectura de palma con IA",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - KI-Handanalyse-Berichtsposter",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Affiche de rapport d'analyse chiromantique par IA",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Poster con report di lettura della mano tramite AI",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Pôster de Relatório de Leitura de Mão por IA",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a Chinese editorial-style AI palm analysis infographic with a realistic hand, seven labeled palm lines, and five visual report sections.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张中国杂志编辑风格的 AI 手相分析信息图，包含写实手部图像、七条标注掌纹以及五个可视化报告板块。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une infographie d'analyse chiromantique par IA dans un style éditorial chinois, avec une main réaliste, sept lignes de la main annotées et cinq sections de rapport visuel.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/qy_upup/status/2051301110585970925#reversed-0",
+      "originalId": "https://x.com/qy_upup/status/2051301110585970925#reversed-0",
+      "authors": [
+        {
+          "name": "yue qian",
+          "url": "https://x.com/qy_upup"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2053
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d0673ba06743b7b5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971048716_tydxpn_HHeveWDXsAEnV5k.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971048716_tydxpn_HHeveWDXsAEnV5k.jpg",
+      "localPath": "public/assets/prompt_fa6d6623e32a7bb1d3b7/a63187c04d3a.jpg",
+      "alt": "Infographic / Edu Visual - AI Palm Reading Report Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "chart",
+      "map",
+      "信息图",
+      "可视化",
+      "报告"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.872Z"
+  }
+}

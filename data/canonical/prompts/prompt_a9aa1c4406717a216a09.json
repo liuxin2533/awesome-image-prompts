@@ -1,0 +1,101 @@
+{
+  "id": "prompt_a9aa1c4406717a216a09",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A soft anime-style bedroom portrait of {argument name=\"character name\" default=\"Nekomata Okayu\"}, shown from the chest up sitting on a bed at night, centered in the frame. She has short fluffy {argument name=\"hair color\" default=\"lavender\"} hair with layered bangs partially covering one eye, large cat ears on top of her head with white inner fur, and a cute sleepy catgirl appearance. Her expression is gentle and relaxed, with one hand raised near her cheek in a shy, cozy pose. She wears oversized {argument name=\"pajama color\" default=\"light lavender\"} button-up pajamas with dark purple piping, a small chest pocket, and paw-print shaped buttons and paw-print decoration on the pocket. The room is lit with dreamy purple ambient lighting. In the background, show a nighttime window with a crescent moon and stars visible outside, soft curtains, a bedside table with a glowing cat-shaped lamp, a neatly rumpled bed with pillows and blankets in matching purple tones, and a small framed wall picture featuring a simple cat face and hearts. Use a cute pastel palette, soft shading, polished digital anime rendering, subtle highlights in the hair, intimate cozy composition, and a calm bedtime atmosphere.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个柔和的动漫风格卧室肖像，展示{argument name=\"character name\" default=\"Nekomata Okayu\"}从胸部以上的形象，夜晚坐在床上，位于画面中央。她有短而蓬松的{argument name=\"hair color\" default=\"lavender\"}色分层刘海头发，部分遮住一只眼睛，头顶上有大猫耳朵，内侧是白色绒毛，外观是可爱的睡意猫娘。她的表情温柔放松，一只手抬到脸颊附近，做出害羞舒适的姿势。她穿着宽松的{argument name=\"pajama color\" default=\"light lavender\"}色纽扣睡衣，有深紫色镶边，一个小胸袋，以及口袋上的爪形纽扣和爪形装饰。房间用梦幻的紫色环境光照明。背景中，显示一个夜晚的窗户，外面可以看到新月和星星，柔软的窗帘，一个带发光猫形台灯的床头柜，一个整齐凌乱的床，配有匹配紫色色调的枕头和毯子，以及一面小相框墙画，上面有简单的猫脸和心形图案。使用可爱的柔和色调，柔和的阴影，精致的数码动漫渲染，头发上的微妙高光，亲密舒适的构图，以及平静的睡前氛围。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:06.291Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Cozy Catgirl Pajama Night Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/yume00112211/status/2047951384734228617",
+      "originalId": "case-101",
+      "authors": [
+        {
+          "name": "yume00112211",
+          "url": "https://x.com/yume00112211"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 677
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_63cb7f10b6de8f4e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case101/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case101/output.jpg",
+      "localPath": "public/assets/prompt_a9aa1c4406717a216a09/b38222febdd6.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

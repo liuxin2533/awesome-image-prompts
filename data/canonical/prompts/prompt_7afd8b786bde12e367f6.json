@@ -1,0 +1,74 @@
+{
+  "id": "prompt_7afd8b786bde12e367f6",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "彩色潦草小狗线条风格绘制该图，童趣和doodle加入其中，务必使用毫无章法的绘制手法，凌乱和草率即可。",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "彩色潦草小狗线条风格重绘",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_c1a9723ced",
+      "value": "彩色潦草小狗线条风格重绘",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-374",
+      "originalId": "case-374",
+      "authors": [
+        {
+          "name": "berryxia",
+          "url": "https://x.com/berryxia/status/2050226420681757102"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6833
+        }
+      ],
+      "rawSource": "[@berryxia](https://x.com/berryxia/status/2050226420681757102)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7a4b10d41eacc3ab",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case374.jpg",
+      "upstreamPath": "../data/images/case374.jpg",
+      "localPath": "public/assets/prompt_7afd8b786bde12e367f6/2bba1e29ac19.jpg",
+      "alt": "彩色潦草小狗线条风格重绘",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:06:54.916Z"
+  }
+}

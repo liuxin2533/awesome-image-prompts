@@ -1,0 +1,133 @@
+{
+  "id": "prompt_178dd24127ee942c4153",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a polished vertical real-estate promotional flyer in a clean, modern social-media ad style, 4:5 poster composition. Use a bright daytime outdoor theme with a pale blue sky, soft clouds, and leafy green tree branches framing the top left and top right corners. The layout should feel like a premium property investment advertisement with bold typography, glossy marketing design, and a teal, red, white, and gray color palette. At the upper left, place a small uppercase headline reading {argument name=\"headline text\" default=\"LIVE BETTER. INVEST SMARTER.\"}. Directly below it, add a very large stacked main headline: {argument name=\"main headline line 1\" default=\"OWN YOUR\"} in deep teal and {argument name=\"main headline line 2\" default=\"DREAM HOME\"} in vivid red, using a bold condensed sans-serif font. Beneath that, add a teal ribbon banner with white uppercase text reading {argument name=\"tagline text\" default=\"LUXURY LIVING. LASTING VALUE.\"}. Under the tagline, show exactly 3 circular feature icons arranged horizontally with thin vertical separators between them: a shield icon with the caption \"SECURE YOUR FUTURE\", a rising bar-chart icon with the caption \"HIGH VALUE INVESTMENT\", and a house icon with the caption \"MODERN & ELEGANT\". In the middle left and lower center, feature a large photorealistic contemporary luxury house with 2 stories, white and gray exterior walls, black trim, large glass windows, a balcony, landscaped shrubs, and a paved driveway, shown from a front three-quarter angle. On the right side, place a waist-up adult Black man in a green knit sweater, facing forward and pointing directly at the viewer with an assertive sales-poster pose; his body overlaps the house and extends into the foreground. Near his lower torso, add a glossy red circular badge with a slight 3D effect containing large white uppercase text {argument name=\"callout text\" default=\"BUY NOW!\"}, and attach a small dark teal angled banner across its bottom edge reading \"LIMITED UNITS AVAILABLE!\". Across the bottom, create a dark teal panel containing exactly 3 rounded rectangular property cards with white borders and equal spacing. Card 1 should show a row of modern townhouses and the label \"MODERN TERRACES\"; beneath it place exactly 2 small features: \"Spacious Rooms\" and \"24/7 Security\". Card 2 should show a luxury villa with a pool and the label \"LUXURY VILLAS\"; beneath it place exactly 2 small features: \"Premium Amenities\" and \"Prime Locations\". Card 3 should show a detached upscale modern home and the label \"EXCLUSIVE HOMES\"; beneath it place exactly 2 small features: \"Registered Title\" and \"Trusted Developer\". At the very bottom, include one large empty white rounded rectangle spanning most of the width as a placeholder area for contact details or footer information. Make the overall image crisp, high-contrast, commercial, aspirational, and professionally designed like a premium real-estate marketing poster.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Luxury Dream Home Real Estate Flyer",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Luxury Dream Home Real Estate Flyer",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Luxury Dream Home Real Estate Flyer",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Luxury Dream Home Real Estate Flyer",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Luxury Dream Home Real Estate Flyer",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Luxury Dream Home Real Estate Flyer",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Luxury Dream Home Real Estate Flyer",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A bold vertical real-estate ad poster promoting luxury homes and property investment, ideal for social media marketing or sales flyers.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ba_awoyemi/status/2048884160303857880#reversed-2",
+      "originalId": "https://x.com/ba_awoyemi/status/2048884160303857880#reversed-2",
+      "authors": [
+        {
+          "name": "Babátúndé Awóyẹmí",
+          "url": "https://x.com/ba_awoyemi"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3976
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0c670b582da5d476",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367287417_h8xwnh_HG8ZQdBboAAHABV.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367287417_h8xwnh_HG8ZQdBboAAHABV.jpg",
+      "localPath": "public/assets/prompt_178dd24127ee942c4153/b73426963c65.jpg",
+      "alt": "Product Marketing - Luxury Dream Home Real Estate Flyer - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.564Z"
+  }
+}

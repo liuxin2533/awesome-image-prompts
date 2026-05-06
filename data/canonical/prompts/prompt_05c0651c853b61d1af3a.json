@@ -1,0 +1,176 @@
+{
+  "id": "prompt_05c0651c853b61d1af3a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-end studio advertising photo of a single aluminum soda can standing upright at the exact center of the frame on a wet reflective black surface, shot straight-on at product height. The can is dark navy to black metallic with heavy cold condensation droplets and a sleek modern label. The visible label has 4 text elements: a white water-drop icon near the top, the large word {argument name=\"brand name\" default=\"REFRESH\"} in bold condensed uppercase with a subtle red outline, the smaller line {argument name=\"product subtitle\" default=\"CHILLED COLA\"} beneath it, and the lower line {argument name=\"tagline text\" default=\"ICE COLD\"}. A dramatic crown-like water splash explodes around the can from both sides and behind it, with dozens of frozen droplets suspended in midair, crisp high-speed photography style, dynamic arcs and scattered beads of water, plus smaller splashes at the base. Lighting is cinematic and commercial: strong cool white rim lights from both sides, glossy specular highlights on the aluminum, deep shadows, bright reflections in the splash, and a dark moody background fading to near-black. Emphasize ultra-sharp detail on the can and splash, premium beverage advertising, refreshing icy mood, photorealistic macro product photography, vertical composition, shallow depth of field but with the main splash sharply frozen, luxury e-commerce hero image quality.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张高端摄影棚商业广告照片，画面正中央竖立着一个铝制汽水罐，置于潮湿且具反射效果的黑色表面上，采用产品高度平视拍摄。罐体呈深海军蓝至黑色金属质感，表面布满厚重的冷凝水珠，标签设计现代简约。可见标签包含 4 个文本元素：顶部附近的一个白色水滴图标，中间是加粗压缩大写字母的 {argument name=\"brand name\" default=\"REFRESH\"} 字样并带有微妙的红色轮廓，下方是较小的 {argument name=\"product subtitle\" default=\"CHILLED COLA\"} 字样，最底部是 {argument name=\"tagline text\" default=\"ICE COLD\"} 字样。罐体两侧及后方爆发出皇冠状的水花飞溅效果，数十颗冰冻水珠悬浮在半空中，呈现出清晰的高速摄影风格，动态弧线与散落的水珠交织，底部伴有小型溅射。灯光采用电影级商业布光：两侧强烈的冷白色轮廓光，铝罐表面呈现出光泽感的高光，阴影深邃，水花中带有明亮的反光，背景为深邃且富有情绪感的渐变黑。强调罐体与水花的超锐利细节，高端饮料广告质感，清爽冰凉的氛围，照片级真实感的微距产品摄影，竖构图，浅景深但主要水花部分保持锐利冻结，具备奢侈品电商主图级的品质。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una fotografía publicitaria de estudio de alta gama de una sola lata de refresco de aluminio colocada en posición vertical exactamente en el centro del encuadre sobre una superficie negra húmeda y reflectante, tomada de frente a la altura del producto. La lata es de color azul marino oscuro a negro metálico con gotas de condensación fría y una etiqueta moderna y elegante. La etiqueta visible tiene 4 elementos de texto: un icono de gota de agua blanca cerca de la parte superior, la palabra grande {argument name=\"brand name\" default=\"REFRESH\"} en mayúsculas condensadas y negritas con un sutil contorno rojo, la línea más pequeña {argument name=\"product subtitle\" default=\"CHILLED COLA\"} debajo, y la línea inferior {argument name=\"tagline text\" default=\"ICE COLD\"}. Una dramática salpicadura de agua en forma de corona explota alrededor de la lata desde ambos lados y por detrás, con docenas de gotas congeladas suspendidas en el aire, estilo de fotografía de alta velocidad, arcos dinámicos y gotas de agua dispersas, además de salpicaduras más pequeñas en la base. La iluminación es cinematográfica y comercial: luces de contorno blancas y frías desde ambos lados, reflejos especulares brillantes en el aluminio, sombras profundas, reflejos brillantes en la salpicadura y un fondo oscuro y atmosférico que se desvanece hacia el negro. Enfatice el detalle ultra nítido en la lata y la salpicadura, publicidad de bebidas premium, ambiente refrescante y helado, fotografía de producto macro fotorrealista, composición vertical, profundidad de campo reducida pero con la salpicadura principal nítidamente congelada, calidad de imagen principal para comercio electrónico de lujo.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein hochwertiges Studio-Werbefoto einer einzelnen Aluminium-Limonadendose, die aufrecht genau in der Bildmitte auf einer nassen, reflektierenden schwarzen Oberfläche steht, aufgenommen in direkter Augenhöhe des Produkts. Die Dose ist in einem metallischen Dunkelblau bis Schwarz gehalten, mit schweren, kalten Kondenswassertropfen und einem eleganten, modernen Etikett. Das sichtbare Etikett enthält 4 Textelemente: ein weißes Wassertropfen-Symbol nahe der Oberseite, das große Wort {argument name=\"brand name\" default=\"REFRESH\"} in fetter, kondensierter Großschrift mit einer dezenten roten Umrandung, die kleinere Zeile {argument name=\"product subtitle\" default=\"CHILLED COLA\"} darunter sowie die untere Zeile {argument name=\"tagline text\" default=\"ICE COLD\"}. Ein dramatischer, kronenartiger Wasserspritzer explodiert von beiden Seiten und von hinten um die Dose herum, mit Dutzenden gefrorenen Tropfen, die in der Luft hängen – im Stil der gestochen scharfen Hochgeschwindigkeitsfotografie, mit dynamischen Bögen und verstreuten Wassertropfen sowie kleineren Spritzern an der Basis. Die Beleuchtung ist filmisch und kommerziell: starke, kühle weiße Konturlichter von beiden Seiten, glänzende Glanzlichter auf dem Aluminium, tiefe Schatten, helle Reflexionen im Spritzwasser und ein dunkler, stimmungsvoller Hintergrund, der in ein fast reines Schwarz übergeht. Betonen Sie die ultrascharfen Details der Dose und des Spritzwassers, erstklassige Getränkewerbung, erfrischende, eisige Stimmung, fotorealistische Makro-Produktfotografie, vertikale Komposition, geringe Schärfentiefe, wobei der Hauptspritzer scharf eingefroren ist, Bildqualität eines Luxus-E-Commerce-Hero-Shots.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une photo publicitaire de studio haut de gamme montrant une canette de soda en aluminium, debout au centre exact du cadre sur une surface noire humide et réfléchissante, prise de vue frontale à hauteur de produit. La canette est d'un bleu marine à noir métallique, couverte de gouttelettes de condensation glacées et dotée d'une étiquette moderne et élégante. L'étiquette visible comporte 4 éléments textuels : une icône de goutte d'eau blanche près du sommet, le grand mot {argument name=\"brand name\" default=\"REFRESH\"} en majuscules condensées et grasses avec un léger contour rouge, la ligne plus petite {argument name=\"product subtitle\" default=\"CHILLED COLA\"} en dessous, et la ligne inférieure {argument name=\"tagline text\" default=\"ICE COLD\"}. Une éclaboussure d'eau spectaculaire en forme de couronne explose autour de la canette, des deux côtés et par l'arrière, avec des dizaines de gouttelettes gelées suspendues dans les airs, style photographie haute vitesse nette, arcs dynamiques et perles d'eau dispersées, ainsi que de plus petites éclaboussures à la base. L'éclairage est cinématographique et commercial : lumières de contour blanc froid puissantes des deux côtés, reflets spéculaires brillants sur l'aluminium, ombres profondes, reflets lumineux dans l'éclaboussure et arrière-plan sombre et atmosphérique s'estompant vers le noir. Mettez l'accent sur les détails ultra-nets de la canette et de l'éclaboussure, la publicité pour boisson premium, l'ambiance rafraîchissante et glacée, la photographie macro de produit photoréaliste, la composition verticale, la faible profondeur de champ tout en gardant l'éclaboussure principale parfaitement nette, qualité d'image héroïque pour le commerce électronique de luxe.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Una foto pubblicitaria in studio di alta qualità di una singola lattina di soda in alluminio posizionata verticalmente al centro esatto dell'inquadratura su una superficie nera riflettente e bagnata, scattata frontalmente all'altezza del prodotto. La lattina è di colore blu navy scuro tendente al nero metallizzato, con pesanti goccioline di condensa fredda e un'etichetta moderna ed elegante. L'etichetta visibile presenta 4 elementi testuali: un'icona a forma di goccia d'acqua bianca vicino alla parte superiore, la grande parola {argument name=\"brand name\" default=\"REFRESH\"} in grassetto condensato maiuscolo con un sottile contorno rosso, la riga più piccola {argument name=\"product subtitle\" default=\"CHILLED COLA\"} sottostante e la riga inferiore {argument name=\"tagline text\" default=\"ICE COLD\"}. Uno splash d'acqua drammatico a forma di corona esplode attorno alla lattina da entrambi i lati e da dietro, con dozzine di goccioline ghiacciate sospese a mezz'aria, stile fotografia ad alta velocità nitida, archi dinamici e perle d'acqua sparse, oltre a spruzzi più piccoli alla base. L'illuminazione è cinematografica e commerciale: forti luci di contorno bianco freddo da entrambi i lati, riflessi speculari lucidi sull'alluminio, ombre profonde, riflessi luminosi nello splash e uno sfondo scuro e suggestivo che sfuma verso il nero. Enfatizzare i dettagli ultra-nitidi sulla lattina e sullo splash, pubblicità di bevande premium, atmosfera rinfrescante e ghiacciata, fotografia macro di prodotto fotorealistica, composizione verticale, profondità di campo ridotta ma con lo splash principale nitidamente congelato, qualità immagine hero per e-commerce di lusso.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma foto publicitária de estúdio de alta qualidade de uma única lata de refrigerante de alumínio posicionada verticalmente no centro exato do quadro sobre uma superfície preta reflexiva e molhada, fotografada de frente na altura do produto. A lata é azul-marinho escuro a preto metálico, com gotas de condensação de frio intenso e um rótulo moderno e elegante. O rótulo visível possui 4 elementos de texto: um ícone de gota d'água branca perto do topo, a palavra grande {argument name=\"brand name\" default=\"REFRESH\"} em negrito condensado e letras maiúsculas com um contorno vermelho sutil, a linha menor {argument name=\"product subtitle\" default=\"CHILLED COLA\"} abaixo dela, e a linha inferior {argument name=\"tagline text\" default=\"ICE COLD\"}. Um splash de água dramático, semelhante a uma coroa, explode ao redor da lata por ambos os lados e por trás, com dezenas de gotas congeladas suspensas no ar, estilo de fotografia de alta velocidade nítida, arcos dinâmicos e gotas de água espalhadas, além de splashes menores na base. A iluminação é cinematográfica e comercial: luzes de contorno brancas frias e fortes em ambos os lados, reflexos especulares brilhantes no alumínio, sombras profundas, reflexos brilhantes no splash e um fundo escuro e atmosférico que desaparece para um tom quase preto. Enfatize detalhes ultra nítidos na lata e no splash, publicidade de bebidas premium, atmosfera refrescante e gelada, fotografia macro de produto fotorrealista, composição vertical, profundidade de campo rasa, mas com o splash principal nitidamente congelado, qualidade de imagem hero para e-commerce de luxo.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Ice-Cold Cola Splash Ad",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 冰爽可乐飞溅广告",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Anuncio de refresco con salpicadura helada",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Eiskalte Cola-Splash-Werbung",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Publicité pour boisson gazeuse glacée",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Pubblicità Coca-Cola Ghiacciata",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Anúncio de Cola com Efeito Splash Gelado",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A dramatic commercial beverage product shot showing a chilled soda can with a frozen water splash, ideal for e-commerce or advertising visuals.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张极具视觉冲击力的商业饮料产品照，展示了带有冰冻水花飞溅效果的冷藏汽水罐，非常适合电商或广告视觉展示。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une prise de vue publicitaire spectaculaire pour une boisson, mettant en scène une canette de soda fraîche avec une éclaboussure d'eau glacée, idéale pour le commerce électronique ou les visuels publicitaires.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/StableTom/status/2050150667600253191#reversed-0",
+      "originalId": "https://x.com/StableTom/status/2050150667600253191#reversed-0",
+      "authors": [
+        {
+          "name": "Creative Diffusion",
+          "url": "https://x.com/StableTom"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4783
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_273007e1c10baf04",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711129817_xev8ss_HHOYQvSWcAAWgkE.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711129817_xev8ss_HHOYQvSWcAAWgkE.jpg",
+      "localPath": "public/assets/prompt_05c0651c853b61d1af3a/f25452e56dd2.jpg",
+      "alt": "E-commerce Main Image - Ice-Cold Cola Splash Ad - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-30T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.877Z"
+  }
+}

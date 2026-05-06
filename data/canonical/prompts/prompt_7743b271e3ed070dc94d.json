@@ -1,0 +1,240 @@
+{
+  "id": "prompt_7743b271e3ed070dc94d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a high-end skincare e-commerce hero poster for \"澄光维稳精华\" (\"Clarifying Stabilizing Essence\"). The style should be clean, light-luxury, and strongly science-skincare oriented. In the center, place a semi-transparent frosted-glass essence bottle filled with golden liquid and subtle water-droplet reflections. Use an off-white to warm gray gradient background with liquid-flow elements and microscopic molecular-structure decoration.\n\nThe poster must include the following exact Chinese copy:\n\"澄光\"\n\"维稳精华\"\n\"修护屏障\"\n\"舒缓泛红\"\n\"细腻透亮\"\n\"第 2 代升级配方\"\n\"核心成分\"\n\"神经酰胺\"\n\"泛醇 B5\"\n\"积雪草提取物\"\n\"微囊脂质体\"\n\"适合人群\"\n\"敏感肌\"\n\"熬夜肌\"\n\"换季不稳定肌\"\n\"限时到手价 229 元\"\n\"买 1 送 3\"\n\"赠洁面 15ml\"\n\"赠精华 5ml\"\n\"赠面霜 10g\"\n\nFine print:\n\"实际效果因人而异，请坚持使用\"\n\nFocus on product selling points, pricing hierarchy, gift-list modules, product naming, and short functional phrases. The result should feel premium and not tacky or overly live-commerce styled.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为“澄光维稳精华”创建一张高端护肤品电商主视觉海报。风格应当干净、轻奢，并且明显带有科学护肤气质。中央放置一只半透明磨砂玻璃精华瓶，瓶内是金色液体，并带有细微水珠反光。背景使用米白到暖灰的渐变，并加入液体流动元素和微观分子结构装饰。\n\n海报必须包含以下精确中文文案：\n\"澄光\"\n\"维稳精华\"\n\"修护屏障\"\n\"舒缓泛红\"\n\"细腻透亮\"\n\"第 2 代升级配方\"\n\"核心成分\"\n\"神经酰胺\"\n\"泛醇 B5\"\n\"积雪草提取物\"\n\"微囊脂质体\"\n\"适合人群\"\n\"敏感肌\"\n\"熬夜肌\"\n\"换季不稳定肌\"\n\"限时到手价 229 元\"\n\"买 1 送 3\"\n\"赠洁面 15ml\"\n\"赠精华 5ml\"\n\"赠面霜 10g\"\n\n小字：\n\"实际效果因人而异，请坚持使用\"\n\n重点突出产品卖点、价格层级、赠品清单模块、产品命名和简短功能短语。成品应显得高级，不要廉价，也不要过于像直播电商风。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "為「澄光维稳精华」製作一張高端護膚品電商主視覺海報，風格乾淨、輕奢、偏科學護膚。中央放置半透明磨砂玻璃精華瓶與金色液體，背景採用米白到暖灰漸層並搭配液體流動與分子裝飾。需要精確包含原 prompt 中列出的中文文案，如「澄光」「维稳精华」「修护屏障」「限时到手价 229 元」「买 1 送 3」等，以及細字「实际效果因人而异，请坚持使用」，並突出賣點、價格層級與贈品模組。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "\"澄光维稳精华\" の高級スキンケア EC ヒーローポスターを作成する。スタイルはクリーンで軽い高級感があり、サイエンス系スキンケアの印象を強く出す。中央に金色の液体が入った半透明フロストガラスの美容液ボトルを置き、微細な水滴反射を加える。背景はオフホワイトからウォームグレーへのグラデーションにし、液体の流れと分子構造の装飾を加える。\n\n以下の正確な中国語コピーを入れる:\n\"澄光\"\n\"维稳精华\"\n\"修护屏障\"\n\"舒缓泛红\"\n\"细腻透亮\"\n\"第 2 代升级配方\"\n\"核心成分\"\n\"神经酰胺\"\n\"泛醇 B5\"\n\"积雪草提取物\"\n\"微囊脂质体\"\n\"适合人群\"\n\"敏感肌\"\n\"熬夜肌\"\n\"换季不稳定肌\"\n\"限时到手价 229 元\"\n\"买 1 送 3\"\n\"赠洁面 15ml\"\n\"赠精华 5ml\"\n\"赠面霜 10g\"\n\n細字:\n\"实际效果因人而异，请坚持使用\"\n\n商品の訴求点、価格階層、ギフト一覧、商品名、短い機能訴求を明確にする。仕上がりは高級感があり、安っぽくもライブコマース風にもならないようにする。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "\"澄光维稳精华\" 를 위한 고급 스킨케어 제품 포스터를 만든다. 반투명 서리 유리 에센스 병과 금빛 액체를 중심에 두고, 과학 스킨케어 느낌을 강하게 준다. 원문에 있는 중국어 카피(예: \"澄光\", \"维稳精华\", \"修护屏障\", \"限时到手价 229 元\")와 작은 문구 \"实际效果因人而异，请坚持使用\" 을 정확히 포함한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une affiche e-commerce haut de gamme pour \"澄光维稳精华\" avec flacon givré semi-transparent, liquide doré, décor moléculaire et textes chinois exacts du prompt original comme \"澄光\", \"维稳精华\", \"修护屏障\" ou \"限时到手价 229 元\".",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein hochwertiges E-Commerce-Hero-Poster für \"澄光维稳精华\" mit halbtransparentem, mattiertem Serumflakon, goldener Flüssigkeit, Molekül-Dekor und den exakten chinesischen Texten aus dem Originalprompt wie \"澄光\", \"维稳精华\", \"修护屏障\" und \"限时到手价 229 元\".",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un póster e-commerce premium para \"澄光维稳精华\" con frasco de vidrio esmerilado semitransparente, líquido dorado, decoración molecular y los textos chinos exactos del prompt original, como \"澄光\", \"维稳精华\", \"修护屏障\" y \"限时到手价 229 元\".",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "High-End Skincare Product Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端护肤品海报",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "高端護膚品海報",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "高級スキンケア商品ポスター",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프리미엄 스킨케어 포스터",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche premium de soin de la peau",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Premium-Hautpflegeposter",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster premium de skincare",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://github.com/ZeroLu/awesome-gpt-image",
+      "originalId": "https://github.com/user-attachments/assets/e1ddd78f-3b18-490f-bdd9-a4e5bbee147d",
+      "authors": [],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 624
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 511
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 412
+        },
+        {
+          "file": "README:ja",
+          "line": 511
+        },
+        {
+          "file": "README:ko",
+          "line": 412
+        },
+        {
+          "file": "README:fr",
+          "line": 412
+        },
+        {
+          "file": "README:de",
+          "line": 412
+        },
+        {
+          "file": "README:es",
+          "line": 412
+        }
+      ],
+      "rawSource": ""
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_70b8e1db218c2ee6",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/e1ddd78f-3b18-490f-bdd9-a4e5bbee147d",
+      "upstreamPath": "https://github.com/user-attachments/assets/e1ddd78f-3b18-490f-bdd9-a4e5bbee147d",
+      "localPath": "public/assets/prompt_7743b271e3ed070dc94d/c45676304563.jpg",
+      "alt": "image_1776389679_010",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "产品",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

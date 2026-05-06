@@ -1,0 +1,258 @@
+{
+  "id": "prompt_cab2ecd8743c036487f8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create an ultra-realistic urban street group photo at a convenience store entrance at 10 PM summer night. 3-4 young people briefly chatting at the entrance, someone holding drinks, someone sitting on plastic outdoor chairs, someone standing looking at their phone. Bright white light streaming through the glass doors and windows, warm yellow street lights and distant car headlights outside. Characters wearing everyday clothes: T-shirts, shirts, shorts, jeans, sneakers. No internet celebrity styling. Faces and postures must look like real pedestrians, not overly polished. Environment must include real convenience store elements: freezer stickers, promotional posters, trash cans, entrance mats, glass reflections, shared bikes on roadside, water droplets from drink bottles on ground. The image should look like a very authentic life slice captured by a photographer in the city. Focus on testing natural multi-person interactions, night convenience store lighting, glass reflections, and ordinary people's vibe restoration.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "在夏夜晚上 10 点的便利店门口，生成一张超写实的城市街头多人合影。3 到 4 个年轻人在门口短暂聊天，有人拿着饮料，有人坐在室外塑料椅上，有人站着看手机。玻璃门窗内透出明亮白光，外面有暖黄色路灯和远处汽车车灯。人物穿着日常服装：T 恤、衬衫、短裤、牛仔裤、运动鞋。不要网红造型。面部和姿态必须像真实路人，不能过度精修。环境中必须包含真实便利店元素：冰柜贴纸、促销海报、垃圾桶、门口地垫、玻璃反光、路边共享单车、地面上的饮料瓶水珠。整张图应像摄影师在城市里抓拍到的真实生活切片。重点测试自然的多人互动、夜间便利店光线、玻璃反射，以及普通人的生活氛围还原。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "在夏夜晚上 10 點的便利商店門口，生成一張超寫實的城市街頭多人合照。3 到 4 位年輕人在門口短暫聊天，有人拿著飲料、有人坐在戶外塑膠椅上、有人站著看手機。玻璃門窗透出明亮白光，外面有暖黃色街燈與遠處車燈。人物穿著 T 恤、襯衫、短褲、牛仔褲、球鞋等日常服飾，不要網紅感。臉部與姿態必須像真實路人，不可過度精修。環境需包含真實便利商店元素：冷櫃貼紙、促銷海報、垃圾桶、門口地墊、玻璃反射、路邊共享單車、地上的飲料瓶水珠。整張圖應像城市攝影師抓拍到的真實生活切片，重點是自然多人互動、夜間便利商店光線、玻璃反光，以及一般人的氛圍還原。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "夏の夜 10 時、コンビニの入口前で撮られた超リアルな都市のグループ写真を作成する。入口では 3〜4 人の若者が少し会話しており、飲み物を持っている人、屋外のプラスチック椅子に座っている人、スマホを見ながら立っている人がいる。ガラス扉と窓からは明るい白色光が差し込み、外には暖かい黄色の街灯と遠くの車のヘッドライトが見える。人物の服装は T シャツ、シャツ、ショートパンツ、ジーンズ、スニーカーなどの日常着。インフルエンサー風の styling は不要。顔や姿勢は磨かれすぎず、現実の通行人らしく見えること。環境には実在感のあるコンビニ要素を入れること。冷凍ケースのステッカー、販促ポスター、ゴミ箱、入口マット、ガラスの反射、路肩のシェア自転車、地面に落ちた飲料ボトルの水滴など。全体として、都市で写真家が切り取った本物の生活の一場面に見えるようにする。自然な複数人のやり取り、夜のコンビニ照明、ガラス反射、普通の人々の空気感の再現に重点を置く。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "여름 밤 10시 편의점 입구 앞에서 찍은 초현실적인 도시 단체 사진을 만든다. 3~4명의 젊은이가 잠깐 대화하고 있고, 누군가는 음료를 들고 있고, 누군가는 야외 플라스틱 의자에 앉아 있으며, 누군가는 휴대폰을 보고 서 있다. 유리문과 창문에서는 밝은 흰빛이 새어나오고, 바깥에는 따뜻한 노란 가로등과 멀리서 오는 자동차 헤드라이트가 보인다. 인물은 티셔츠, 셔츠, 반바지, 청바지, 운동화 같은 평범한 옷을 입고 있으며, 인플루언서풍 스타일은 피한다. 얼굴과 자세는 과도하게 다듬지 말고 실제 보행자처럼 보여야 한다. 냉동고 스티커, 프로모션 포스터, 쓰레기통, 입구 매트, 유리 반사, 길가의 공유 자전거, 바닥의 음료 물방울 같은 현실적인 편의점 요소를 포함한다. 전체 이미지는 도시 사진가가 포착한 매우 진짜 같은 일상 장면이어야 하며, 자연스러운 다인 상호작용과 야간 편의점 조명, 유리 반사, 평범한 사람들의 분위기 재현에 집중한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une photo de groupe urbaine ultra réaliste devant l'entrée d'une supérette à 22 h, une nuit d'été. Il y a 3 à 4 jeunes qui discutent brièvement, l'un tient des boissons, l'un est assis sur une chaise en plastique, un autre regarde son téléphone. Une lumière blanche intense sort des portes vitrées, avec des réverbères jaunes et des phares lointains dehors. Les personnages portent des vêtements ordinaires. Aucun style d'influenceur. Les visages et postures doivent ressembler à de vrais passants. Ajoute des éléments crédibles de supérette : autocollants de congélateur, affiches promotionnelles, poubelles, tapis d'entrée, reflets sur le verre, vélos partagés, gouttes d'eau au sol. L'image doit ressembler à une vraie tranche de vie photographiée en ville.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein ultra-realistisches urbanes Gruppenfoto vor dem Eingang eines Convenience Stores um 22 Uhr in einer Sommernacht. Drei bis vier junge Leute unterhalten sich kurz, jemand hält Getränke, jemand sitzt auf Plastikstühlen draußen, jemand schaut aufs Handy. Helles weißes Licht scheint durch die Glastüren, draußen sieht man warme Straßenlaternen und entfernte Autoscheinwerfer. Die Kleidung ist alltäglich, ohne Influencer-Styling. Gesichter und Körperhaltung sollen wie echte Passanten wirken. Füge reale Store-Details wie Gefriertruhen-Sticker, Werbeplakate, Mülleimer, Eingangsmatten, Glasreflexionen, Leihfahrräder und Wassertropfen auf dem Boden hinzu. Das Bild soll wie ein echter Stadtmoment wirken.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una foto grupal urbana ultra realista en la entrada de una tienda de conveniencia a las 10 p. m. de una noche de verano. Hay 3 o 4 jóvenes conversando brevemente, alguien con bebidas, alguien sentado en sillas plásticas exteriores y otra persona mirando el móvil. Desde las puertas de cristal sale una luz blanca intensa; afuera hay farolas amarillas cálidas y faros lejanos de coches. La ropa es cotidiana. Nada de estética de influencer. Los rostros y posturas deben parecer peatones reales. Incluye elementos verosímiles de una tienda de conveniencia: pegatinas del congelador, pósteres promocionales, papeleras, tapetes de entrada, reflejos en el cristal, bicicletas compartidas y gotas de agua de botellas en el suelo. La imagen debe parecer una escena auténtica de vida cotidiana capturada por un fotógrafo urbano.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Convenience Store Night Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "便利店夜景",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "便利商店夏夜街景",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コンビニ前の夏夜景",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "여름 밤 편의점 앞 거리 장면",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Scène de nuit devant une supérette",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Nächtliche Szene vor einem Convenience Store",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Escena nocturna frente a una tienda de conveniencia",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "photography-photorealism",
+      "value": "📷 Photography & Photorealism",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b86a19e20b",
+      "value": "📷 摄影与照片级写实",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_a5e53fe73d",
+      "value": "📷 攝影與照片級寫實",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_8daac8fb34",
+      "value": "📷 写真・フォトリアリズム",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_82cbd23eff",
+      "value": "📷 사진과 포토리얼리즘",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "photographie-et-photorealisme",
+      "value": "📷 Photographie et photoréalisme",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografie-und-fotorealismus",
+      "value": "📷 Fotografie und Fotorealismus",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografia-y-fotorrealismo",
+      "value": "📷 Fotografía y fotorrealismo",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew",
+      "originalId": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew",
+      "authors": [
+        {
+          "name": "卡尔的AI沃茨",
+          "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew"
+        },
+        {
+          "name": "卡爾的AI沃茨",
+          "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 55
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 58
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 58
+        },
+        {
+          "file": "README:ja",
+          "line": 58
+        },
+        {
+          "file": "README:ko",
+          "line": 58
+        },
+        {
+          "file": "README:fr",
+          "line": 58
+        },
+        {
+          "file": "README:de",
+          "line": 58
+        },
+        {
+          "file": "README:es",
+          "line": 58
+        }
+      ],
+      "rawSource": "[卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_46bcb9738e992eec",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/d529419b-8f8f-4dd4-a5f2-46d5fcbcf607",
+      "upstreamPath": "https://github.com/user-attachments/assets/d529419b-8f8f-4dd4-a5f2-46d5fcbcf607",
+      "localPath": "public/assets/prompt_cab2ecd8743c036487f8/4bbfaa514757.jpg",
+      "alt": "image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_fa4f227c0761bf02",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/91c95d69-1094-472e-9410-8a86bad9b086",
+      "upstreamPath": "https://github.com/user-attachments/assets/91c95d69-1094-472e-9410-8a86bad9b086",
+      "localPath": "public/assets/prompt_cab2ecd8743c036487f8/e19dd8abf1c1.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写真",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

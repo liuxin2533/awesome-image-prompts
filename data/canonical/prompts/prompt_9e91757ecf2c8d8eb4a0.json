@@ -1,0 +1,177 @@
+{
+  "id": "prompt_9e91757ecf2c8d8eb4a0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n  \"type\": \"live stream UI mockup\",\n  \"subject\": {\n    \"description\": \"portrait of {argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}, smiling, wearing a black t-shirt with a white technical schematic graphic\",\n    \"background\": \"left side shows a screen with '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}' text, right side shows a red '{argument name=\\\"right background logo\\\" default=\\\"Tesla T logo\\\"}' and a dark car\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"avatar, name '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}', subtext '55.6万本场点赞', red '关注' button\",\n      \"rank_badge\": \"gold coin icon with '全站第1名'\",\n      \"viewer_stats\": \"3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button\",\n      \"right_links\": \"'更多直播 >', '礼物展馆 0/24' with blue '经典' tag\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"avatar '科技爱好者', '送小心心', heart icon x 1314\",\n        \"avatar '星辰大海', '送火箭', rocket icon x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"level 37 badge '宇宙漫游者 加入了直播间'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"小火箭: 马斯克！未来可期！🚀\",\n        \"future: 特斯拉Model 2什么时候出？\",\n        \"星空梦想家: SpaceX今年能上火星吗？\",\n        \"AI探索者: Neuralink进展如何？\",\n        \"帅气的网友: 马总好！\",\n        \"Mars: 第一次来你的直播，超激动！\",\n        \"用户123: 讲讲AI吧，会取代人类吗？\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"orange '热卖 x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"特斯拉Cybertruck 电动皮卡\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1,618,000\\\"}\",\n      \"button\": \"red '抢' button\",\n      \"floating_animation\": \"translucent hearts floating up the right edge\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'说点什么...'\",\n      \"icons\": [\"smiley face\", \"three dots\", \"shopping cart\", \"gift box\", \"share\"]\n    }\n  }\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n  \"type\": \"直播 UI 样机\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"} 的肖像，面带微笑，身穿印有白色技术示意图的黑色 T 恤\",\n    \"background\": \"左侧显示带有 '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}' 文字的屏幕，右侧显示红色的 '{argument name=\\\"right background logo\\\" default=\\\"Tesla T logo\\\"}' 和一辆深色汽车\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"头像，名称 '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}'，副标题 '55.6万本场点赞'，红色 '关注' 按钮\",\n      \"rank_badge\": \"带有 '全站第1名' 的金币图标\",\n      \"viewer_stats\": \"3 个顶部观众头像，显示 '12.3w'、'8.6w'、'5.7w'，总计 '68.7万'，'X' 关闭按钮\",\n      \"right_links\": \"'更多直播 >'，'礼物展馆 0/24'（带有蓝色 '经典' 标签）\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"头像 '科技爱好者'，'送小心心'，爱心图标 x 1314\",\n        \"头像 '星辰大海'，'送火箭'，火箭图标 x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"37 级勋章 '宇宙漫游者 加入了直播间'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"小火箭: 马斯克！未来可期！🚀\",\n        \"future: 特斯拉Model 2什么时候出？\",\n        \"星空梦想家: SpaceX今年能上火星吗？\",\n        \"AI探索者: Neuralink进展如何？\",\n        \"帅气的网友: 马总好！\",\n        \"Mars: 第一次来你的直播，超激动！\",\n        \"用户123: 讲讲AI吧，会取代人类吗？\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"橙色 '热卖 x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"特斯拉Cybertruck 电动皮卡\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1,618,000\\\"}\",\n      \"button\": \"红色 '抢' 按钮\",\n      \"floating_animation\": \"半透明爱心沿右侧边缘向上浮动\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'说点什么...'\",\n      \"icons\": [\"笑脸\", \"三个点\", \"购物车\", \"礼物盒\", \"分享\"]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\n  \"type\": \"mockup de interfaz de transmisión en vivo\",\n  \"subject\": {\n    \"description\": \"retrato de {argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}, sonriendo, vistiendo una camiseta negra con un gráfico técnico esquemático en blanco\",\n    \"background\": \"el lado izquierdo muestra una pantalla con el texto '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}', el lado derecho muestra un '{argument name=\\\"right background logo\\\" default=\\\"logotipo T de Tesla\\\"}' rojo y un automóvil oscuro\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"avatar, nombre '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}', subtexto '556 mil me gusta en esta transmisión', botón rojo 'Seguir'\",\n      \"rank_badge\": \"icono de moneda dorada con 'N.º 1 en toda la plataforma'\",\n      \"viewer_stats\": \"3 avatares de espectadores principales con '123 mil', '86 mil', '57 mil', total '687 mil', botón de cierre 'X'\",\n      \"right_links\": \"'Más transmisiones >', 'Galería de regalos 0/24' con etiqueta azul 'Clásico'\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"avatar 'Amante de la tecnología', 'envió un corazoncito', icono de corazón x 1314\",\n        \"avatar 'Mar de estrellas', 'envió un cohete', icono de cohete x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"insignia de nivel 37 'Viajero del universo se unió a la transmisión'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"Pequeño Cohete: ¡Musk! ¡El futuro es prometedor! 🚀\",\n        \"future: ¿Cuándo sale el Tesla Model 2?\",\n        \"Soñador del cielo estrellado: ¿Podrá SpaceX llegar a Marte este año?\",\n        \"Explorador de IA: ¿Cómo va el progreso de Neuralink?\",\n        \"Usuario genial: ¡Hola, Sr. Musk!\",\n        \"Mars: ¡Es la primera vez que veo tu transmisión, estoy muy emocionado!\",\n        \"Usuario123: Habla sobre la IA, ¿reemplazará a los humanos?\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"naranja 'Más vendido x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Camioneta eléctrica Tesla Cybertruck\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1,618,000\\\"}\",\n      \"button\": \"botón rojo 'Comprar'\",\n      \"floating_animation\": \"corazones translúcidos flotando hacia arriba en el borde derecho\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'Di algo...'\",\n      \"icons\": [\"cara sonriente\", \"tres puntos\", \"carrito de compras\", \"caja de regalo\", \"compartir\"]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\n  \"type\": \"Livestream-UI-Mockup\",\n  \"subject\": {\n    \"description\": \"Porträt von {argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}, lächelnd, trägt ein schwarzes T-Shirt mit einer weißen technischen Grafik\",\n    \"background\": \"linke Seite zeigt einen Bildschirm mit dem Text '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}', rechte Seite zeigt ein rotes '{argument name=\\\"right background logo\\\" default=\\\"Tesla T-Logo\\\"}' und ein dunkles Auto\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"Avatar, Name '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}', Untertext '556.000 Likes in dieser Session', roter 'Folgen'-Button\",\n      \"rank_badge\": \"Goldmünzen-Symbol mit 'Platz 1 im gesamten Netzwerk'\",\n      \"viewer_stats\": \"3 Avatare der Top-Zuschauer mit '123.000', '86.000', '57.000', insgesamt '687.000', 'X'-Schließen-Button\",\n      \"right_links\": \"'Mehr Live-Streams >', 'Geschenkgalerie 0/24' mit blauem 'Klassisch'-Tag\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"Avatar 'Technik-Fan', 'sendet Herzchen', Herz-Symbol x 1314\",\n        \"Avatar 'Sternenmeer', 'sendet Rakete', Raketen-Symbol x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"Level 37 Abzeichen 'Weltraum-Wanderer ist dem Livestream beigetreten'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"Kleine Rakete: Musk! Die Zukunft ist vielversprechend! 🚀\",\n        \"future: Wann kommt das Tesla Model 2 raus?\",\n        \"Sternenhimmel-Träumer: Schafft es SpaceX dieses Jahr zum Mars?\",\n        \"AI-Entdecker: Wie ist der Fortschritt bei Neuralink?\",\n        \"Cooler User: Hallo Herr Musk!\",\n        \"Mars: Bin zum ersten Mal in deinem Stream, total aufgeregt!\",\n        \"User123: Erzähl mal was über KI, wird sie die Menschen ersetzen?\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"orange 'Bestseller x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Tesla Cybertruck Elektro-Pickup\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1.618.000\\\"}\",\n      \"button\": \"roter 'Kaufen'-Button\",\n      \"floating_animation\": \"durchscheinende Herzen, die am rechten Rand nach oben schweben\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'Schreib etwas...'\",\n      \"icons\": [\"Smiley\", \"drei Punkte\", \"Einkaufswagen\", \"Geschenkbox\", \"Teilen\"]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\n  \"type\": \"maquette d'interface de live stream\",\n  \"subject\": {\n    \"description\": \"portrait de {argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}, souriant, portant un t-shirt noir avec un graphique technique blanc\",\n    \"background\": \"le côté gauche affiche un écran avec le texte '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}', le côté droit affiche un '{argument name=\\\"right background logo\\\" default=\\\"logo Tesla T\\\"}' rouge et une voiture sombre\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"avatar, nom '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}', sous-texte '556 k likes', bouton rouge 'Suivre'\",\n      \"rank_badge\": \"icône de pièce d'or avec '1er du classement'\",\n      \"viewer_stats\": \"3 avatars de spectateurs principaux avec '123 k', '86 k', '57 k', total '687 k', bouton de fermeture 'X'\",\n      \"right_links\": \"'Plus de lives >', 'Galerie de cadeaux 0/24' avec un tag bleu 'Classique'\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"avatar 'Amateur de technologie', 'envoie un cœur', icône cœur x 1314\",\n        \"avatar 'Océan d'étoiles', 'envoie une fusée', icône fusée x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"badge niveau 37 'Explorateur de l'univers a rejoint le live'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"Petite Fusée : Musk ! L'avenir est prometteur ! 🚀\",\n        \"future : Quand sortira la Tesla Model 2 ?\",\n        \"Rêveur d'étoiles : SpaceX peut-il aller sur Mars cette année ?\",\n        \"Explorateur IA : Où en est Neuralink ?\",\n        \"Internaute stylé : Bonjour M. Musk !\",\n        \"Mars : C'est la première fois que je regarde votre live, super excité !\",\n        \"Utilisateur123 : Parlez-nous de l'IA, va-t-elle remplacer les humains ?\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"orange 'Vente flash x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Pick-up électrique Tesla Cybertruck\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"1 618 000 ¥\\\"}\",\n      \"button\": \"bouton rouge 'Acheter'\",\n      \"floating_animation\": \"cœurs translucides flottant sur le bord droit\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'Dites quelque chose...'\",\n      \"icons\": [\"smiley\", \"trois points\", \"panier\", \"cadeau\", \"partager\"]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\n  \"type\": \"mockup dell'interfaccia di live streaming\",\n  \"subject\": {\n    \"description\": \"ritratto di {argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}, sorridente, che indossa una t-shirt nera con una grafica tecnica schematica bianca\",\n    \"background\": \"il lato sinistro mostra uno schermo con il testo '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}', il lato destro mostra un '{argument name=\\\"right background logo\\\" default=\\\"logo Tesla T\\\"}' rosso e un'auto scura\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"avatar, nome '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}', sottotesto '556k like in questa sessione', pulsante rosso 'Segui'\",\n      \"rank_badge\": \"icona moneta d'oro con '1° posto globale'\",\n      \"viewer_stats\": \"3 avatar dei principali spettatori con '123k', '86k', '57k', totale '687k', pulsante di chiusura 'X'\",\n      \"right_links\": \"'Altre dirette >', 'Galleria regali 0/24' con tag blu 'Classico'\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"avatar 'Appassionato di tecnologia', 'invia un cuoricino', icona cuore x 1314\",\n        \"avatar 'Mare di stelle', 'invia un razzo', icona razzo x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"badge livello 37 'Esploratore spaziale si è unito alla diretta'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"Piccolo Razzo: Musk! Il futuro è promettente! 🚀\",\n        \"future: Quando uscirà la Tesla Model 2?\",\n        \"Sognatore stellare: SpaceX riuscirà ad andare su Marte quest'anno?\",\n        \"Esploratore AI: A che punto è Neuralink?\",\n        \"Utente simpatico: Ciao grande capo!\",\n        \"Mars: È la prima volta che seguo la tua diretta, sono emozionatissimo!\",\n        \"Utente123: Parla dell'IA, sostituirà gli esseri umani?\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"arancione 'Più venduto x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Pickup elettrico Tesla Cybertruck\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1.618.000\\\"}\",\n      \"button\": \"pulsante rosso 'Acquista'\",\n      \"floating_animation\": \"cuori traslucidi che fluttuano lungo il bordo destro\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'Scrivi qualcosa...'\",\n      \"icons\": [\"faccina sorridente\", \"tre puntini\", \"carrello\", \"scatola regalo\", \"condividi\"]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\n  \"type\": \"mockup de interface de live stream\",\n  \"subject\": {\n    \"description\": \"retrato de {argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}, sorrindo, vestindo uma camiseta preta com um gráfico técnico esquemático em branco\",\n    \"background\": \"o lado esquerdo mostra uma tela com o texto '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}', o lado direito mostra um '{argument name=\\\"right background logo\\\" default=\\\"logotipo T da Tesla\\\"}' vermelho e um carro escuro\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"avatar, nome '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}', subtítulo '556 mil curtidas', botão vermelho 'Seguir'\",\n      \"rank_badge\": \"ícone de moeda dourada com '1º lugar geral'\",\n      \"viewer_stats\": \"3 avatares de espectadores principais com '123 mil', '86 mil', '57 mil', total '687 mil', botão de fechar 'X'\",\n      \"right_links\": \"'Mais lives >', 'Galeria de presentes 0/24' com etiqueta azul 'Clássico'\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"avatar 'Entusiasta de Tecnologia', 'enviou um coração', ícone de coração x 1314\",\n        \"avatar 'Mar de Estrelas', 'enviou um foguete', ícone de foguete x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"distintivo de nível 37 'Viajante do Universo entrou na live'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"Pequeno Foguete: Musk! O futuro é promissor! 🚀\",\n        \"future: Quando sai o Tesla Model 2?\",\n        \"Sonhador do Espaço: A SpaceX consegue chegar a Marte este ano?\",\n        \"Explorador de IA: Como está o progresso da Neuralink?\",\n        \"Usuário Legal: Olá, Sr. Musk!\",\n        \"Mars: Primeira vez na sua live, muito empolgado!\",\n        \"Usuário123: Fale sobre IA, ela vai substituir os humanos?\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"laranja 'Mais vendido x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Picape Elétrica Tesla Cybertruck\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1.618.000\\\"}\",\n      \"button\": \"botão vermelho 'Comprar'\",\n      \"floating_animation\": \"corações translúcidos flutuando pela borda direita\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'Diga algo...'\",\n      \"icons\": [\"rosto sorridente\", \"três pontos\", \"carrinho de compras\", \"caixa de presente\", \"compartilhar\"]\n    }\n  }\n}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Live Stream UI Mockup",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商直播 UI 样机",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Mockup de interfaz de transmisión en vivo para e-commerce",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Livestream-UI-Mockup",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Maquette d'interface de live stream e-commerce",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Mockup dell'interfaccia di live streaming per e-commerce",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Mockup de Interface de Live Stream para E-commerce",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a realistic social media live stream interface overlaying a portrait, featuring customizable chat messages, gift popups, and a product purchase card.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成逼真的社交媒体直播界面，叠加在人物肖像之上，包含可自定义的聊天消息、礼物弹窗和商品购买卡片。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une interface de live stream réaliste pour les réseaux sociaux en superposition sur un portrait, incluant des messages de chat personnalisables, des popups de cadeaux et une fiche produit.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-live-stream-ui-mockup",
+      "value": "E-commerce Live Stream UI Mockup",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/sjbbxhz/status/2045684734714380687#reversed-0",
+      "originalId": "https://x.com/sjbbxhz/status/2045684734714380687#reversed-0",
+      "authors": [
+        {
+          "name": "神经病不想好转",
+          "url": "https://x.com/sjbbxhz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 333
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f382df632ff19af6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1776699445498_ga2ry5_HGO7H0DWkAApdKK.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1776699445498_ga2ry5_HGO7H0DWkAApdKK.jpg",
+      "localPath": "public/assets/prompt_9e91757ecf2c8d8eb4a0/206dec34b04d.jpg",
+      "alt": "E-commerce Live Stream UI Mockup - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-18T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.620Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "social",
+      "mockup",
+      "界面",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

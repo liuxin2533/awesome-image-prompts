@@ -80,16 +80,29 @@ function reportPath(projectRoot = defaultProjectRoot()) {
   return path.join(projectRoot, 'data', 'reports', 'latest.json');
 }
 
+function latestRunPath(projectRoot = defaultProjectRoot()) {
+  return path.join(projectRoot, 'data', 'runs', 'latest.json');
+}
+
+function readLatestRun(projectRoot = defaultProjectRoot()) {
+  const filePath = latestRunPath(projectRoot);
+  if (!fs.existsSync(filePath)) return null;
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+}
+
 function readReport(projectRoot = defaultProjectRoot()) {
   const filePath = reportPath(projectRoot);
+  const latestRun = readLatestRun(projectRoot);
   if (!fs.existsSync(filePath)) {
-    return summarizeReport({ generatedAt: null, issues: [] });
+    return { ...summarizeReport({ generatedAt: null, issues: [] }), latestRun };
   }
-  return summarizeReport(JSON.parse(fs.readFileSync(filePath, 'utf-8')));
+  return { ...summarizeReport(JSON.parse(fs.readFileSync(filePath, 'utf-8'))), latestRun };
 }
 
 module.exports = {
+  latestRunPath,
   readReport,
+  readLatestRun,
   reportPath,
   summarizeReport
 };

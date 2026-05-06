@@ -1,0 +1,106 @@
+{
+  "id": "prompt_59b9da4eb286c86b57a1",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "特朗普在抖音直播间卖老干妈，手里举着「老干妈风味」新品，背景还是 SpaceX 那种科技感，左下角弹幕飘着「特斯拉车主：求上链接」。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Trump is selling Lao Gan Ma in a Douyin livestream, holding the new 'Lao Gan Ma flavor' product, with a SpaceX-like tech-savvy background, and a comment floating in the bottom left corner saying 'Tesla owner: Please provide the link.'",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:22:08.398Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "老干妈风味",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Lao Gan Ma Flavor",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:22:13.551Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_8eba0b2b2f",
+      "value": "老干妈风味",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-4",
+      "originalId": "case-4",
+      "authors": [
+        {
+          "name": "989137706",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 69
+        }
+      ],
+      "rawSource": "小红书号989137706"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dba576e2b505384a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case4.jpg",
+      "upstreamPath": "../data/images/case4.jpg",
+      "localPath": "public/assets/prompt_59b9da4eb286c86b57a1/dff35893004e.jpg",
+      "alt": "老干妈风味",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "product"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.587Z"
+  }
+}

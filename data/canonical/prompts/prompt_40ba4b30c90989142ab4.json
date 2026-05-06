@@ -1,0 +1,249 @@
+{
+  "id": "prompt_40ba4b30c90989142ab4",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Sam Altman, Donald Trump, and Elon Musk working behind the counter of a busy movie theater",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "山姆·奥特曼、唐纳德·特朗普和埃隆·马斯克在一家繁忙电影院的柜台后面工作",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "山姆・奧特曼、唐納德・川普與伊隆・馬斯克在一家忙碌電影院的櫃檯後方工作。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "サム・アルトマン、ドナルド・トランプ、イーロン・マスクが、混雑した映画館のカウンターの内側で働いている",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "샘 알트만, 도널드 트럼프, 일론 머스크가 붐비는 영화관 매표소 뒤에서 일하고 있다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Sam Altman, Donald Trump et Elon Musk travaillant derrière le comptoir d'un cinéma très fréquenté.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Sam Altman, Donald Trump und Elon Musk arbeiten hinter dem Tresen eines stark besuchten Kinos.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Sam Altman, Donald Trump y Elon Musk trabajando detrás del mostrador de un cine muy concurrido.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Celebrity in real life",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "现实中的名人",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "現實中的名人",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "現実世界の有名人",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "현실 속 유명인",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Célébrités dans la vraie vie",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Prominente im echten Leben",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Celebridades en la vida real",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "photography-photorealism",
+      "value": "📷 Photography & Photorealism",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b86a19e20b",
+      "value": "📷 摄影与照片级写实",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_a5e53fe73d",
+      "value": "📷 攝影與照片級寫實",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_8daac8fb34",
+      "value": "📷 写真・フォトリアリズム",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_82cbd23eff",
+      "value": "📷 사진과 포토리얼리즘",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "photographie-et-photorealisme",
+      "value": "📷 Photographie et photoréalisme",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografie-und-fotorealismus",
+      "value": "📷 Fotografie und Fotorealismus",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografia-y-fotorrealismo",
+      "value": "📷 Fotografía y fotorrealismo",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/flowersslop/status/2044334054380552438",
+      "originalId": "https://x.com/flowersslop/status/2044334054380552438",
+      "authors": [
+        {
+          "name": "flowersslop",
+          "url": "https://x.com/flowersslop/status/2044334054380552438"
+        },
+        {
+          "name": " @flowersslop ",
+          "url": "https://x.com/flowersslop/status/2044334054380552438"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 46
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 49
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 49
+        },
+        {
+          "file": "README:ja",
+          "line": 49
+        },
+        {
+          "file": "README:ko",
+          "line": 49
+        },
+        {
+          "file": "README:fr",
+          "line": 49
+        },
+        {
+          "file": "README:de",
+          "line": 49
+        },
+        {
+          "file": "README:es",
+          "line": 49
+        }
+      ],
+      "rawSource": "[@flowersslop](https://x.com/flowersslop/status/2044334054380552438)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_59f4d55a7cf1bacc",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/45e4f24f-4f73-4426-947d-e6ed51291956",
+      "upstreamPath": "https://github.com/user-attachments/assets/45e4f24f-4f73-4426-947d-e6ed51291956",
+      "localPath": "public/assets/prompt_40ba4b30c90989142ab4/aea64eeaaa12.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写真",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "prompt_7bd48af0926043b8666e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"video game screenshot mockup\",\r\n  \"perspective\": \"third-person over-the-shoulder\",\r\n  \"character\": {\r\n    \"description\": \"male protagonist seen from behind\",\r\n    \"clothing\": \"grey tank top with graphic '{argument name=\\\"shirt graphic\\\" default=\\\"LEONIDA MARINE CENTER\\\"}', camouflage cargo shorts\"\r\n  },\r\n  \"environment\": {\r\n    \"setting\": \"tropical coastal town, dirt road, sunny daytime with scattered clouds\",\r\n    \"left_side\": \"wooden welcome sign reading 'Welcome to {argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"} YOUR PARADISE', pink plastic flamingo, tropical foliage, distant water tower\",\r\n    \"center\": \"green building with 'FISH' sign and marlin graphic, sign reading 'BAIT TACKLE ICE BEER WINE', pedestrians walking\",\r\n    \"right_side\": \"two-story wooden building 'Brian's Boat Works & Marina', 'Brian's Bar' neon sign, parked pickup truck, jet skis on a trailer\"\r\n  },\r\n  \"ui_elements\": {\r\n    \"count\": 5,\r\n    \"components\": [\r\n      {\r\n        \"position\": \"top-left\",\r\n        \"type\": \"mission objective\",\r\n        \"text\": \"{argument name=\\\"mission title\\\" default=\\\"MEET RAUL\\\"}\\n{argument name=\\\"mission description\\\" default=\\\"Raul has some work for you at his boatyard\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"top-right\",\r\n        \"type\": \"status HUD\",\r\n        \"text\": \"13:47\\n$1,142\",\r\n        \"icon\": \"pink palm tree\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-left\",\r\n        \"type\": \"minimap\",\r\n        \"description\": \"circular map with purple border, white map icons including 'N' for north\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-left, right of minimap\",\r\n        \"type\": \"location text\",\r\n        \"text\": \"{argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"}\\nPALM ISLAND\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-right\",\r\n        \"type\": \"watermark\",\r\n        \"text\": \"{argument name=\\\"game title\\\" default=\\\"GTA VI\\\"}\\nPRE-ALPHA FOOTAGE\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"video game screenshot mockup\",\n  \"perspective\": \"third-person over-the-shoulder\",\n  \"character\": {\n    \"description\": \"male protagonist seen from behind\",\n    \"clothing\": \"grey tank top with graphic '{argument name=\\\"shirt graphic\\\" default=\\\"LEONIDA MARINE CENTER\\\"}', camouflage cargo shorts\"\n  },\n  \"environment\": {\n    \"setting\": \"tropical coastal town, dirt road, sunny daytime with scattered clouds\",\n    \"left_side\": \"wooden welcome sign reading 'Welcome to {argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"} YOUR PARADISE', pink plastic flamingo, tropical foliage, distant water tower\",\n    \"center\": \"green building with 'FISH' sign and marlin graphic, sign reading 'BAIT TACKLE ICE BEER WINE', pedestrians walking\",\n    \"right_side\": \"two-story wooden building 'Brian's Boat Works & Marina', 'Brian's Bar' neon sign, parked pickup truck, jet skis on a trailer\"\n  },\n  \"ui_elements\": {\n    \"count\": 5,\n    \"components\": [\n      {\n        \"position\": \"top-left\",\n        \"type\": \"mission objective\",\n        \"text\": \"{argument name=\\\"mission title\\\" default=\\\"MEET RAUL\\\"}\\n{argument name=\\\"mission description\\\" default=\\\"Raul has some work for you at his boatyard\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"type\": \"status HUD\",\n        \"text\": \"13:47\\n$1,142\",\n        \"icon\": \"pink palm tree\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"type\": \"minimap\",\n        \"description\": \"circular map with purple border, white map icons including 'N' for north\"\n      },\n      {\n        \"position\": \"bottom-left, right of minimap\",\n        \"type\": \"location text\",\n        \"text\": \"{argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"}\\nPALM ISLAND\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"type\": \"watermark\",\n        \"text\": \"{argument name=\\\"game title\\\" default=\\\"GTA VI\\\"}\\nPRE-ALPHA FOOTAGE\"\n      }\n    ]\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:50:14.754Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "应用界面样机图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_369832755f",
+      "value": "应用界面样机图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-161",
+      "originalId": "case-161",
+      "authors": [
+        {
+          "name": "DanDaniDaniel01",
+          "url": "https://x.com/DanDaniDaniel01"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6641
+        }
+      ],
+      "rawSource": "[@DanDaniDaniel01](https://x.com/DanDaniDaniel01)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f5a9865053011760",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case161.jpg",
+      "upstreamPath": "../data/images/case161.jpg",
+      "localPath": "public/assets/prompt_7bd48af0926043b8666e/60048cbf48b0.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "mockup",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

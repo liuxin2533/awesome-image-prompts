@@ -1,0 +1,105 @@
+{
+  "id": "prompt_0a20ec6baf8d21adb5a2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a new animation sheet, but this time it's a storyboard between an Indian man and an Indian woman in a dramatic scene inside an apartment. Ensure the elements of the apartment are in the scene, and include dialogue boxes, this is for 15 seconds so be careful of the cadence (sentences not too long), when a character speaks they should be the only one in frame.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "前卫时尚广告， oversized guitar positioned like sculpture， a guitarist in jeans casually seated on the a button as if furniture， giant word \"Plism Art\" behind in bold white typography，粉彩工作室背景，反射地板，奢侈眼镜广告美学，超简洁布局，杂志编辑风格，Bold quote \" What are you listening\"，标签：创造自己的改变",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:33.217Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Apartment Drama Animation Storyboard Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "前卫吉他雕塑时尚广告",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:13.477Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/CurieuxExplorer/status/2049709975040401601",
+      "originalId": "case-81",
+      "authors": [
+        {
+          "name": "CurieuxExplorer",
+          "url": "https://x.com/CurieuxExplorer"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 764
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f9ae100fd9db5f0f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case81/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case81/output.jpg",
+      "localPath": "public/assets/prompt_0a20ec6baf8d21adb5a2/57f0dfa01687.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

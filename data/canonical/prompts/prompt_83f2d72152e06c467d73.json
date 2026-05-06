@@ -1,0 +1,259 @@
+{
+  "id": "prompt_83f2d72152e06c467d73",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in USA, a momentary blur. The subway is in motion. In front of the subway, there is an elderly woman and man.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张完全 RAW 质感、未经处理、未经编辑、具备完整 iPhone 相机画质的图像。场景是美国的一处地铁站，带有一瞬间的运动模糊。地铁正在行驶。地铁前方站着一位老年女性和一位老年男性。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張完全 RAW 品質、未經處理、未經編輯、保留完整 iPhone 相機畫質的圖像。場景是美國的一座地鐵站，帶有一瞬間的動態模糊。地鐵正在行駛，前方站著一位老年女性與一位老年男性。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "完全に RAW 品質で、未処理・未編集、iPhone カメラ本来の画質を持つ画像を作成する。舞台はアメリカの地下鉄駅で、一瞬のモーションブラーがある。地下鉄は走行中。地下鉄の前には高齢の女性と男性が立っている。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "완전히 RAW 품질이며 보정이나 편집이 없는, 아이폰 카메라 본연의 화질을 가진 이미지를 만든다. 배경은 미국의 지하철역이고 순간적인 모션 블러가 있다. 지하철은 움직이고 있으며, 그 앞에는 노년의 여성과 남성이 서 있다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une image totalement RAW, non traitée, non retouchée, avec toute la qualité d'un appareil photo iPhone. La scène se passe dans une station de métro aux États-Unis avec un léger flou de mouvement. Le métro est en train d'arriver ou de passer. Devant lui se trouvent une femme âgée et un homme âgé.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein vollständig unbearbeitetes RAW-Bild mit voller iPhone-Kameraqualität. Die Szene spielt in einer U-Bahn-Station in den USA, mit einem kurzen Bewegungsunschärfe-Moment. Die U-Bahn ist in Bewegung, davor stehen eine ältere Frau und ein älterer Mann.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una imagen completamente RAW, sin procesar ni editar, con toda la calidad de cámara de un iPhone. La escena es una estación de metro en Estados Unidos, con un leve desenfoque momentáneo. El metro está en movimiento. Delante hay una mujer mayor y un hombre mayor.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "RAW iPhone Quality - Subway Station",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "RAW iPhone 质感：地铁站",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "RAW iPhone 質感地鐵站",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "RAW iPhone 品質の地下鉄駅",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "RAW 아이폰 품질의 지하철역",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Qualité RAW iPhone, station de métro",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "RAW-iPhone-Qualität in einer U-Bahn-Station",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Calidad RAW de iPhone en estación de metro",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "photography-photorealism",
+      "value": "📷 Photography & Photorealism",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b86a19e20b",
+      "value": "📷 摄影与照片级写实",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_a5e53fe73d",
+      "value": "📷 攝影與照片級寫實",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_8daac8fb34",
+      "value": "📷 写真・フォトリアリズム",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_82cbd23eff",
+      "value": "📷 사진과 포토리얼리즘",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "photographie-et-photorealisme",
+      "value": "📷 Photographie et photoréalisme",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografie-und-fotorealismus",
+      "value": "📷 Fotografie und Fotorealismus",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "fotografia-y-fotorrealismo",
+      "value": "📷 Fotografía y fotorrealismo",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/WolfRiccardo/status/2041192232623972441",
+      "originalId": "https://x.com/WolfRiccardo/status/2041192232623972441",
+      "authors": [
+        {
+          "name": "WolfRiccardo",
+          "url": "https://x.com/WolfRiccardo/status/2041192232623972441"
+        },
+        {
+          "name": " @WolfRiccardo ",
+          "url": "https://x.com/WolfRiccardo/status/2041192232623972441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 66
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 69
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 69
+        },
+        {
+          "file": "README:ja",
+          "line": 69
+        },
+        {
+          "file": "README:ko",
+          "line": 69
+        },
+        {
+          "file": "README:fr",
+          "line": 69
+        },
+        {
+          "file": "README:de",
+          "line": 69
+        },
+        {
+          "file": "README:es",
+          "line": 69
+        }
+      ],
+      "rawSource": "[@WolfRiccardo](https://x.com/WolfRiccardo/status/2041192232623972441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d85eee342fbfe58d",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFPFd4ZbkAMW8ox?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFPFd4ZbkAMW8ox?format=jpg&name=large",
+      "localPath": "public/assets/prompt_83f2d72152e06c467d73/9d5761f24e49.jpg",
+      "alt": "Nano Banana 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_4f0ed9cf64d10637",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFPFe0VbkAYeflZ?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFPFe0VbkAYeflZ?format=jpg&name=large",
+      "localPath": "public/assets/prompt_83f2d72152e06c467d73/8db36c4ebb95.jpg",
+      "alt": "GPT-Image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影",
+      "写真",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.592Z"
+  }
+}

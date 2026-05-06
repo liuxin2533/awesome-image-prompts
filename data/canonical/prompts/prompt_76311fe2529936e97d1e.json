@@ -1,0 +1,94 @@
+{
+  "id": "prompt_76311fe2529936e97d1e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A realistic vertical smartphone photo of a spilled green iced drink on outdoor stone pavement, a transparent disposable plastic cup lying on its side inside the green puddle, clear plastic lid nearby, scattered ice cubes floating in the drink, small foam bubbles on the surface, green liquid naturally spreading across rough square floor tiles, strong midday sunlight, harsh realistic shadows, a dark human shadow silhouette cast across the ground and partially over the spill, accidental street moment, urban documentary photography, handheld phone camera perspective, slightly top-down angle, natural colors, realistic pavement texture, raw unedited photo look, high detail, authentic everyday scene, 9:16 vertical composition\n\nNegative Prompt:\ncartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, overly perfect composition, overly clean floor, fake liquid, unrealistic reflections, plastic-looking liquid, oversaturated green, blurry, low resolution, distorted cup, melted plastic, extra cups, duplicated objects, readable brand logo, messy text, watermark, poster design, dramatic artificial lighting, excessive sharpening, over-processed, unrealistic shadow, floating ice, deformed perspective",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "泼洒抹茶街头手机照片",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_2251b0308c",
+      "value": "泼洒抹茶街头手机照片",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-376",
+      "originalId": "case-376",
+      "authors": [
+        {
+          "name": "Shinning1010",
+          "url": "https://x.com/Shinning1010/status/2050693240253214894"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6867
+        }
+      ],
+      "rawSource": "[@Shinning1010](https://x.com/Shinning1010/status/2050693240253214894) / [提示词回复](https://x.com/Shinning1010/status/2050693246247207087)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5d1f960c106df7f1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case376.jpg",
+      "upstreamPath": "../data/images/case376.jpg",
+      "localPath": "public/assets/prompt_76311fe2529936e97d1e/b2107196e39d.jpg",
+      "alt": "泼洒抹茶街头手机照片",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.916Z"
+  }
+}

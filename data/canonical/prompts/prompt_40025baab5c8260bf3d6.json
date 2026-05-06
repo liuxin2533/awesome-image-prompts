@@ -1,0 +1,101 @@
+{
+  "id": "prompt_40025baab5c8260bf3d6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a vibrant tropical commercial poster for a citrus soda bottle, in a bright summer advertising style. Show a single large plastic bottle of {argument name=\"product name\" default=\"Soda\"} centered slightly to the right, tilted a little left, with a yellow cap and transparent bottle covered in cold condensation droplets, filled with glowing golden-orange soda. The label should feature sliced oranges and citrus artwork with the brand text \"{argument name=\"product name\" default=\"Soda\"}\", the phrase \"aux agrumes d'été\", and a small green \"500 ml\" mark. Use a sunny beach background with vivid blue sky, turquoise ocean, soft clouds, and blurred tropical palm leaves entering from the upper right corner. Add dramatic water splashes around the base of the bottle, scattered clear ice cubes, and 5 visible citrus pieces in the foreground: 2 orange wedges, 1 lime half, 1 grapefruit half, and 1 partial orange slice at the far right edge. Place large French promotional text on the left: a huge white headline \"{argument name=\"headline text\" default=\"Soda\"}\" with a small splash accent above it, then yellow script text \"aux agrumes d'été\" underneath. Add a yellow paint-stroke badge at mid-left with the text \"LA FRAÎCHEUR QUI PÉTILLE !\". Add a vertical feature list on the lower left with 3 round icons and French captions: \"SAVEURS NATURELLES\", \"SANS COLORANTS ARTIFICIELS\", and \"EXTRA RAFRAÎCHISSANT\". Add a green brushstroke banner at the bottom left reading \"FORMAT PRATIQUE 500 ml\". Add a round beige eco-style seal at the bottom right with green outline and leaf motif, containing the text \"{argument name=\"seal text\" default=\"PLAISIR FRUITÉ À CHAQUE GORGÉE\"}\". Lighting should be glossy and high-energy with strong sun flare from the upper left, saturated citrus colors, crisp packaging detail, realistic droplets, and polished supermarket-ad realism.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个充满活力的柑橘味苏打水瓶的热带商业海报，采用明亮的夏季广告风格。展示一个大型塑料瓶{argument name=\"product name\" default=\"Soda}\"，略微居右，稍微向左倾斜，带有黄色瓶盖和透明瓶身，布满冷凝水滴，装满发光的金橙色苏打水。标签应展示切片橙子和柑橘艺术图案，带有品牌文本\"{argument name=\"product name\" default=\"Soda}\"，短语\"aux agrumes d'été\"，以及一个小型的绿色\"500 ml\"标记。使用阳光明媚的海滩背景，包括鲜艳的蓝色天空、绿松石色海洋、柔软的云朵，以及从右上角进入的模糊热带棕榈叶。在瓶底周围添加戏剧性的水花，散落的透明冰块，以及前景中5个可见的柑橘片：2个橙子角，1个青柠半片，1个葡萄柚半片，以及最右边缘的1个部分橙子切片。在左侧放置大型法语促销文本：一个巨大的白色标题\"{argument name=\"headline text\" default=\"Soda}\"，上方有一个小水花装饰，然后在下方是黄色手写体文本\"aux agrumes d'été\"。在左侧中间添加一个黄色笔触徽章，上面有文字\"LA FRAÎCHEUR QUI PÉTILLE !\"。在左下角添加一个垂直功能列表，包含3个圆形图标和法语标题：\"SAVEURS NATURELLES\"，\"SANS COLORANTS ARTIFICIELS\"，和\"EXTRA RAFRAÎCHISSANT\"。在左下角添加一个绿色笔触横幅，上面写着\"FORMAT PRATIQUE 500 ml\"。在右下角添加一个米色环保风格圆形印章，带有绿色轮廓和叶子图案，包含文本\"{argument name=\"seal text\" default=\"PLAISIR FRUITÉ À CHAQUE GORGÉE}\"。灯光应具有光泽和高能量，来自左上方的强烈阳光晕影，饱和的柑橘色彩，清晰的包装细节，逼真的水滴，以及 polished 超市广告的写实风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:07:02.754Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Tropical Citrus Soda Ad Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/edimakorfr/status/2047635133466124726",
+      "originalId": "case-115",
+      "authors": [
+        {
+          "name": "edimakorfr",
+          "url": "https://x.com/edimakorfr"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 29
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dfd6e0052bdc5c36",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg",
+      "localPath": "public/assets/prompt_40025baab5c8260bf3d6/57164b3bc693.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.554Z"
+  }
+}

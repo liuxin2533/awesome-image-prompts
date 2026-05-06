@@ -1,0 +1,100 @@
+{
+  "id": "prompt_29b3b9a7547aafa03096",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A highly detailed, realistic first-person video game screenshot of a next-generation voxel-based world. At the top center, a large, bold 3D logo reads \"{argument name=\"game title\" default=\"MINECRAFT 2\"}\". The scene features a {argument name=\"environment\" default=\"lush, blocky landscape with a river, a small wooden cabin, a windmill, a waterfall, and majestic mountains in the background\"}. The world blends realistic lighting, volumetric clouds, and high-resolution textures with cubic, voxel geometry. In the foreground on the left, a {argument name=\"mob 1\" default=\"blocky green creeper\"} stands on the grass, while a {argument name=\"mob 2\" default=\"blocky brown wolf\"} stands on the dirt path to the right. On the far right, the player's hand holds a {argument name=\"held item\" default=\"pixelated blue diamond sword\"} in a first-person perspective. At the bottom of the screen is a game user interface featuring a health bar with 10 red hearts, a green experience bar with the number '16', a hunger bar with 10 brown meat icons, and a 9-slot inventory hotbar. The hotbar contains, from left to right: a selected blue tool with a green highlight box, a green tool, a knife, a wrench with the number '3', a piece of meat with '6', a lantern with '24', a dirt block with '10', a bucket, and a sponge block.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "游戏界面截图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Game interface screenshot",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:03:56.958Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_92c86b6903",
+      "value": "游戏界面截图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-91",
+      "originalId": "case-91",
+      "authors": [
+        {
+          "name": "wolfaidev",
+          "url": "https://x.com/wolfaidev"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3481
+        }
+      ],
+      "rawSource": "[@wolfaidev](https://x.com/wolfaidev)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1db06bfdd112eda5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case91.jpg",
+      "upstreamPath": "../data/images/case91.jpg",
+      "localPath": "public/assets/prompt_29b3b9a7547aafa03096/4507d7fd090d.jpg",
+      "alt": "{argument name=",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

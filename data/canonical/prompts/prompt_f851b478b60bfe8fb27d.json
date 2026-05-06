@@ -1,0 +1,167 @@
+{
+  "id": "prompt_f851b478b60bfe8fb27d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A realistic casual indoor selfie of a {argument name=\"person\" default=\"adult woman\"} taken at arm’s length on a smartphone, framed from mid-chest up in a square composition. She has shoulder-length, slightly messy wavy {argument name=\"hair color\" default=\"auburn red\"} hair with natural volume and soft frizz, center-parted, lit by warm golden-hour sunlight coming from a large window or sliding glass door on the left side of the frame. She wears a simple {argument name=\"shirt color\" default=\"white\"} short-sleeve V-neck T-shirt. The pose is relaxed and natural with both forearms faintly visible from holding the phone, creating an authentic unpolished selfie perspective. The setting is a real apartment or home interior: bright vertical window and door frames on the left, beige walls, and a dark brown sofa in the back right. Lighting is soft, warm, and organic, with sun highlights on the hair, shoulders, and arms, mild indoor shadows, realistic skin texture, and no glamor retouching. Overall look should feel candid, believable, and minimally styled, like a genuine phone photo rather than a polished AI portrait. Use natural proportions, subtle image noise, ordinary home background detail, and straightforward smartphone camera realism.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Realistic Golden-Hour Indoor Selfie",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Realistic Golden-Hour Indoor Selfie",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A natural-looking smartphone selfie prompt for generating believable casual indoor portraits with warm sunset window light.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/f3dericobartoli/status/2048821037513560430#reversed-0",
+      "originalId": "https://x.com/f3dericobartoli/status/2048821037513560430#reversed-0",
+      "authors": [
+        {
+          "name": "🍀 Federico Bartoli",
+          "url": "https://x.com/f3dericobartoli"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 804
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_174d27dcfc255eb4",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367285758_ymgstt_HG7f3skaQAA9vaa.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367285758_ymgstt_HG7f3skaQAA9vaa.jpg",
+      "localPath": "public/assets/prompt_f851b478b60bfe8fb27d/cc65a3ef4d05.jpg",
+      "alt": "Profile / Avatar - Realistic Golden-Hour Indoor Selfie - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.571Z"
+  }
+}

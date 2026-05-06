@@ -1,0 +1,105 @@
+{
+  "id": "prompt_7804b87bae6b5a0f23b2",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "9:16 的图片比例，生成一张抖音直播的截图，里面是 xxx 在直播，xxx 手里拿着牌子，牌子里写着 xxxx。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is xxx live streaming, xxx is holding a sign in their hand, the sign says xxxx.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "抖音直播截图画面",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "TikTok live stream screenshot",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:48:15.463Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_2a7ac74f4a",
+      "value": "抖音直播截图画面",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-308",
+      "originalId": "case-308",
+      "authors": [
+        {
+          "name": "_FORAB",
+          "url": "https://x.com/_FORAB/status/2044744023261519920"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 4079
+        }
+      ],
+      "rawSource": "[@\\_FORAB](https://x.com/_FORAB/status/2044744023261519920)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_78090ded2981115f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case308.jpg",
+      "upstreamPath": "../data/images/case308.jpg",
+      "localPath": "public/assets/prompt_7804b87bae6b5a0f23b2/e3b79f56bb43.jpg",
+      "alt": "抖音直播截图画面",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "抖音"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

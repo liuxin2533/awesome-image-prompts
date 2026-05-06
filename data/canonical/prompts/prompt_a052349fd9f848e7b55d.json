@@ -1,0 +1,132 @@
+{
+  "id": "prompt_a052349fd9f848e7b55d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A warm, cozy Japanese home evening scene photographed in a natural lifestyle style. In the foreground, a right hand holds up a tall clear pint glass of golden beer with a thick creamy white foam head, positioned slightly right of center as if making a solo toast. In the softly blurred background, a small clay pot of oden simmers on a portable tabletop gas stove, with clearly visible ingredients including 1 shiitake mushroom, 2 round white items, several tofu pieces, and other assorted simmered items in broth. The setting is a tatami room with warm ambient indoor lighting, shallow depth of field, and a relaxed intimate atmosphere. Overlay large white handwritten Japanese text across the image reading {argument name=\"message text\" default=\"今日も\\nおつかれさま。\"}, in an emotional hand-drawn marker style with uneven strokes, casual spacing, and a personal note-like feel. Emphasize comforting colors, soft bokeh, realistic skin tones, and the contrast between the crisp beer glass and the gently out-of-focus hot pot behind it.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Cozy Beer Toast with Oden",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Cozy Beer Toast with Oden",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Cozy Beer Toast with Oden",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Cozy Beer Toast with Oden",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Cozy Beer Toast with Oden",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Cozy Beer Toast with Oden",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Cozy Beer Toast with Oden",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A warm Japanese home-style evening photo with a hand holding beer in front of simmering oden, ideal for comforting social posts or handwritten-message lifestyle visuals.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/akira_papa_IT/status/2048899628180078992#reversed-3",
+      "originalId": "https://x.com/akira_papa_IT/status/2048899628180078992#reversed-3",
+      "authors": [
+        {
+          "name": "あきらパパ【生成AI活用エンジニア&３児のパパ】",
+          "url": "https://x.com/akira_papa_IT"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1358
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5e692e5249967b15",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367320346_2gg269_G6G78ECakAAaHoY.png",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367320346_2gg269_G6G78ECakAAaHoY.png",
+      "localPath": "public/assets/prompt_a052349fd9f848e7b55d/576301462797.png",
+      "alt": "Social Media Post - Cozy Beer Toast with Oden - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.568Z"
+  }
+}

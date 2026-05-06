@@ -1,0 +1,93 @@
+{
+  "id": "prompt_cff389a98462e7c03373",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "科学家收藏级玩具发布板",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_aa36566424",
+      "value": "科学家收藏级玩具发布板",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-365",
+      "originalId": "case-365",
+      "authors": [
+        {
+          "name": "Gdgtify",
+          "url": "https://x.com/Gdgtify/status/2049766203392921897"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6556
+        }
+      ],
+      "rawSource": "[@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5bbfe5cb057f535a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case365.jpg",
+      "upstreamPath": "../data/images/case365.jpg",
+      "localPath": "public/assets/prompt_cff389a98462e7c03373/bdc84378eb16.jpg",
+      "alt": "科学家收藏级玩具发布板",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.866Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "product",
+      "e-commerce"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.929Z"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "prompt_a17ef5aa783616df4d3d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"photorealistic futuristic idol pop-up shop concept render\",\"scene\":\"A warm, upscale indoor retail event space for a fictional idol group AR photo zone, shot from a slightly elevated wide angle with realistic lighting, wood flooring, dark charcoal walls, glass partitions, pink neon accents, and polished commercial interior design.\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"NEONVEIL\\\"}\",\"style\":\"minimal luxury idol fandom branding, glowing pink-white neon logo, black signage, subtle cyber aesthetic\"},\"main_subjects\":{\"count\":2,\"people\":[\"one female visitor seen from behind standing inside the AR photo zone, wearing an oversized black NEONVEIL hoodie, black pleated mini skirt, black ankle boots, holding a smartphone vertically to take a photo\",\"one female staff member on the right wearing a black NEONVEIL work jacket and black pants with a radio clipped at the waist, gesturing toward the photo zone; face softly anonymized\" ]},\"layout\":{\"left_installation\":{\"position\":\"left foreground\",\"count\":3,\"items\":[{\"description\":\"large black vertical sign with glowing white and pink text\",\"visible_text\":[\"09\",\"ARホログラム風\",\"フォト撮影\",\"コーナー\"]},{\"description\":\"interactive black neon control panel branded NEONVEIL\",\"visible_text\":[\"NEONVEIL\",\"メンバー選択\",\"1人\",\"2人\",\"全員\",\"おまかせ\",\"AIリアルタイムポーズ\",\"ON\",\"カメラに合わせてメンバーを撮影します\",\"メンバーが自然にポーズを提案します\"],\"button_count\":4,\"buttons\":[\"1人\",\"2人\",\"全員\",\"おまかせ\"]},{\"description\":\"small illuminated instruction stand below the panel\",\"visible_text\":[\"撮影の流れ\",\"1 メンバー選択\",\"2 位置に立つ\",\"3 撮影スタート！\"],\"step_count\":3,\"steps\":[\"select a member\",\"stand in position\",\"start shooting\"]}]},\"floor_ar_zone\":{\"position\":\"center foreground\",\"description\":\"pink neon dashed rectangular boundary projected on the wooden floor, with rounded AR corner brackets, a circular standing marker under the visitor, a simple foot icon, and Japanese instruction text\",\"visible_text\":\"こちらにお立ちください\"},\"right_signage\":{\"position\":\"right foreground\",\"count\":1,\"description\":\"freestanding black recommendation sign with pink neon icons and white Japanese text\",\"visible_text\":[\"おすすめポイント\",\"メンバーがあなたの動きに反応！\",\"いろんな組み合わせで何度でも楽しめる！\",\"撮影データはその場でダウンロード\"],\"point_count\":3,\"points\":[\"member reacts to your movements\",\"enjoy many combinations repeatedly\",\"download shooting data on the spot\"]},\"background\":{\"count\":2,\"areas\":[{\"description\":\"dark back wall with glowing NEONVEIL logo and tagline\",\"visible_text\":[\"NEONVEIL\",\"推しと、いまを残そう。\",\"未来の思い出に。\"]},{\"description\":\"adjacent room entrance on the far right labeled as another experience booth with pink neon lighting, monitor, stool, and microphone stands\",\"visible_text\":[\"10\",\"インストアイベント\"]}]}},\"visual_style\":{\"rendering\":\"highly realistic architectural visualization, cinematic event photography, not anime, not illustration\",\"lighting\":\"soft overhead spotlights mixed with pink neon glow reflected on the floor\",\"colors\":\"black, charcoal gray, warm wood brown, muted pink neon, soft white text\",\"camera\":\"wide 4:3 composition, eye-level to slightly high vantage, 24mm lens feel, deep focus\",\"mood\":\"premium, immersive, fan-event technology showcase\"},\"customization\":{\"zone number\":\"{argument name=\\\"zone number\\\" default=\\\"09\\\"}\",\"main sign title\":\"{argument name=\\\"main sign title\\\" default=\\\"ARホログラム風 フォト撮影 コーナー\\\"}\",\"floor instruction\":\"{argument name=\\\"floor instruction\\\" default=\\\"こちらにお立ちください\\\"}\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"推しと、いまを残そう。未来の思い出に。\\\"}\"},\"negative_prompt\":\"avoid cartoon style, avoid cluttered crowds, avoid low-resolution text, avoid messy unreadable signage, avoid exaggerated sci-fi, avoid empty sterile showroom\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"写实风格未来感偶像快闪店概念渲染图\",\"scene\":\"一个温馨、高端的室内零售活动空间，用于虚构偶像团体的 AR 拍照区，采用略微仰视的广角拍摄，具有逼真的光影效果、木质地板、深炭灰色墙壁、玻璃隔断、粉色霓虹灯点缀以及精致的商业室内设计。\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"NEONVEIL\\\"}\",\"style\":\"极简奢华偶像粉丝品牌风格，发光的粉白色霓虹灯 Logo，黑色标牌，微妙的赛博美学\"},\"main_subjects\":{\"count\":2,\"people\":[\"一名女性访客背影，站在 AR 拍照区内，身穿超大款黑色 NEONVEIL 连帽衫、黑色百褶短裙、黑色短靴，垂直手持智能手机进行拍摄\",\"一名女性工作人员在右侧，身穿黑色 NEONVEIL 工作夹克和黑色长裤，腰间别着对讲机，正向拍照区示意；面部经过柔和的匿名化处理\" ]},\"layout\":{\"left_installation\":{\"position\":\"左侧前景\",\"count\":3,\"items\":[{\"description\":\"大型黑色竖式标牌，带有发光的白色和粉色文字\",\"visible_text\":[\"09\",\"AR 全息风格\",\"拍照\",\"区\"]},{\"description\":\"带有 NEONVEIL 品牌的互动式黑色霓虹控制面板\",\"visible_text\":[\"NEONVEIL\",\"成员选择\",\"1 人\",\"2 人\",\"全员\",\"随机\",\"AI 实时姿势\",\"开启\",\"根据相机拍摄成员\",\"成员将自然地建议姿势\"],\"button_count\":4,\"buttons\":[\"1 人\",\"2 人\",\"全员\",\"随机\"]},{\"description\":\"面板下方的小型发光说明立牌\",\"visible_text\":[\"拍摄流程\",\"1 选择成员\",\"2 站在指定位置\",\"3 开始拍摄！\"],\"step_count\":3,\"steps\":[\"选择成员\",\"站在指定位置\",\"开始拍摄\"]}]},\"floor_ar_zone\":{\"position\":\"中心前景\",\"description\":\"投射在木地板上的粉色霓虹虚线矩形边界，带有圆角 AR 角标、访客脚下的圆形站立标记、简单的脚印图标以及日语说明文字\",\"visible_text\":\"请站在此处\"},\"right_signage\":{\"position\":\"右侧前景\",\"count\":1,\"description\":\"独立的黑色推荐标牌，带有粉色霓虹图标和白色日语文字\",\"visible_text\":[\"推荐亮点\",\"成员会对你的动作做出反应！\",\"多种组合，反复体验！\",\"拍摄数据可现场下载\"],\"point_count\":3,\"points\":[\"成员会对你的动作做出反应\",\"多种组合，反复体验\",\"拍摄数据可现场下载\"]},\"background\":{\"count\":2,\"areas\":[{\"description\":\"深色背景墙，带有发光的 NEONVEIL Logo 和标语\",\"visible_text\":[\"NEONVEIL\",\"与偶像一起，定格此刻。\",\"留存未来的回忆。\"]},{\"description\":\"最右侧相邻房间的入口，标注为另一个体验展位，配有粉色霓虹灯、显示器、凳子和麦克风支架\",\"visible_text\":[\"10\",\"店内活动\"]}]}},\"visual_style\":{\"rendering\":\"高度写实的建筑可视化，电影级活动摄影，非动漫，非插画\",\"lighting\":\"柔和的头顶聚光灯与反射在地板上的粉色霓虹光混合\",\"colors\":\"黑色、炭灰色、暖木棕色、柔和的粉色霓虹、柔和的白色文字\",\"camera\":\"4:3 广角构图，视平线至略高视角，24mm 镜头感，深景深\",\"mood\":\"高端、沉浸式、粉丝活动技术展示\"},\"customization\":{\"zone number\":\"{argument name=\\\"zone number\\\" default=\\\"09\\\"}\",\"main sign title\":\"{argument name=\\\"main sign title\\\" default=\\\"AR 全息风格 拍照区\\\"}\",\"floor instruction\":\"{argument name=\\\"floor instruction\\\" default=\\\"请站在此处\\\"}\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"与偶像一起，定格此刻。留存未来的回忆。\\\"}\"},\"negative_prompt\":\"避免卡通风格，避免拥挤的人群，避免低分辨率文字，避免杂乱且难以辨认的标牌，避免夸张的科幻感，避免空洞无物的展示厅\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"render conceptual de tienda pop-up de idols futurista y fotorrealista\",\"scene\":\"Un espacio de evento minorista interior cálido y exclusivo para una zona de fotos AR de un grupo de idols ficticio, tomado desde un ángulo amplio ligeramente elevado con iluminación realista, pisos de madera, paredes de color carbón oscuro, divisiones de vidrio, acentos de neón rosa y diseño interior comercial pulido.\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"NEONVEIL\\\"}\",\"style\":\"branding de fandom de idols de lujo minimalista, logotipo de neón rosa y blanco brillante, señalización negra, estética ciber sutil\"},\"main_subjects\":{\"count\":2,\"people\":[\"una visitante femenina vista desde atrás de pie dentro de la zona de fotos AR, vistiendo una sudadera negra extragrande de NEONVEIL, falda plisada negra, botines negros, sosteniendo un teléfono inteligente verticalmente para tomar una foto\",\"una empleada a la derecha vistiendo una chaqueta de trabajo negra de NEONVEIL y pantalones negros con una radio enganchada en la cintura, señalando hacia la zona de fotos; rostro suavemente anonimizado\" ]},\"layout\":{\"left_installation\":{\"position\":\"primer plano izquierdo\",\"count\":3,\"items\":[{\"description\":\"letrero vertical negro grande con texto brillante en blanco y rosa\",\"visible_text\":[\"09\",\"ARホログラム風\",\"フォト撮影\",\"コーナー\"]},{\"description\":\"panel de control de neón negro interactivo con la marca NEONVEIL\",\"visible_text\":[\"NEONVEIL\",\"メンバー選択\",\"1人\",\"2人\",\"全員\",\"おまかせ\",\"AIリアルタイムポーズ\",\"ON\",\"カメラに合わせてメンバーを撮影します\",\"メンバーが自然にポーズを提案します\"],\"button_count\":4,\"buttons\":[\"1人\",\"2人\",\"全員\",\"おまかせ\"]},{\"description\":\"pequeño soporte de instrucciones iluminado debajo del panel\",\"visible_text\":[\"撮影の流れ\",\"1 メンバー選択\",\"2 位置に立つ\",\"3 撮影スタート！\"],\"step_count\":3,\"steps\":[\"selecciona un miembro\",\"colócate en posición\",\"comienza a tomar fotos\"]}]},\"floor_ar_zone\":{\"position\":\"primer plano central\",\"description\":\"límite rectangular discontinuo de neón rosa proyectado en el piso de madera, con soportes de esquina AR redondeados, un marcador circular de pie debajo del visitante, un ícono de pie simple y texto de instrucciones en japonés\",\"visible_text\":\"こちらにお立ちください\"},\"right_signage\":{\"position\":\"primer plano derecho\",\"count\":1,\"description\":\"letrero de recomendación negro independiente con íconos de neón rosa y texto en japonés blanco\",\"visible_text\":[\"おすすめポイント\",\"メンバーがあなたの動きに反応！\",\"いろんな組み合わせで何度でも楽しめる！\",\"撮影データはその場でダウンロード\"],\"point_count\":3,\"points\":[\"¡el miembro reacciona a tus movimientos!\",\"¡disfruta de muchas combinaciones repetidamente!\",\"descarga los datos de la sesión al instante\"]},\"background\":{\"count\":2,\"areas\":[{\"description\":\"pared trasera oscura con el logotipo brillante de NEONVEIL y eslogan\",\"visible_text\":[\"NEONVEIL\",\"推しと、いまを残そう。\",\"未来の思い出に。\"]},{\"description\":\"entrada a la sala adyacente en el extremo derecho etiquetada como otro stand de experiencia con iluminación de neón rosa, monitor, taburete y soportes de micrófono\",\"visible_text\":[\"10\",\"インストアイベント\"]}]}},\"visual_style\":{\"rendering\":\"visualización arquitectónica altamente realista, fotografía de eventos cinematográfica, no anime, no ilustración\",\"lighting\":\"focos superiores suaves mezclados con el brillo del neón rosa reflejado en el piso\",\"colors\":\"negro, gris carbón, marrón madera cálido, neón rosa suave, texto blanco suave\",\"camera\":\"composición amplia 4:3, nivel de los ojos a punto de vista ligeramente alto, sensación de lente de 24 mm, enfoque profundo\",\"mood\":\"premium, inmersivo, escaparate tecnológico de eventos para fans\"},\"customization\":{\"zone number\":\"{argument name=\\\"zone number\\\" default=\\\"09\\\"}\",\"main sign title\":\"{argument name=\\\"main sign title\\\" default=\\\"ARホログラム風 フォト撮影 コーナー\\\"}\",\"floor instruction\":\"{argument name=\\\"floor instruction\\\" default=\\\"こちらにお立ちください\\\"}\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"推しと、いまを残そう。未来の思い出に。\\\"}\"},\"negative_prompt\":\"evitar estilo caricatura, evitar multitudes desordenadas, evitar texto de baja resolución, evitar señalización desordenada e ilegible, evitar ciencia ficción exagerada, evitar sala de exposición estéril y vacía\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"fotorealistisches, futuristisches Konzept-Rendering eines Idol-Pop-up-Stores\",\"scene\":\"Ein warmer, gehobener Innenraum für eine AR-Fotozone einer fiktiven Idol-Gruppe, aufgenommen aus einer leicht erhöhten Weitwinkelperspektive mit realistischer Beleuchtung, Holzboden, dunkelgrauen Wänden, Glastrennwänden, pinkfarbenen Neonakzenten und einem eleganten kommerziellen Innendesign.\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"NEONVEIL\\\"}\",\"style\":\"minimalistisches Luxus-Idol-Fandom-Branding, leuchtendes pink-weißes Neon-Logo, schwarze Beschilderung, dezente Cyber-Ästhetik\"},\"main_subjects\":{\"count\":2,\"people\":[\"eine weibliche Besucherin von hinten, die in der AR-Fotozone steht, bekleidet mit einem übergroßen schwarzen NEONVEIL-Hoodie, schwarzem Faltenrock, schwarzen Stiefeletten und einem vertikal gehaltenen Smartphone für ein Foto\",\"eine Mitarbeiterin auf der rechten Seite in einer schwarzen NEONVEIL-Arbeitsjacke und schwarzer Hose mit einem Funkgerät am Gürtel, die auf die Fotozone deutet; Gesicht dezent anonymisiert\" ]},\"layout\":{\"left_installation\":{\"position\":\"linker Vordergrund\",\"count\":3,\"items\":[{\"description\":\"großes schwarzes vertikales Schild mit leuchtend weißem und pinkfarbenem Text\",\"visible_text\":[\"09\",\"AR-Hologramm-Stil\",\"Foto-Ecke\",\"Aufnahme\"]},{\"description\":\"interaktives schwarzes Neon-Bedienfeld mit NEONVEIL-Branding\",\"visible_text\":[\"NEONVEIL\",\"Mitglied auswählen\",\"1 Person\",\"2 Personen\",\"Alle\",\"Zufall\",\"KI-Echtzeit-Pose\",\"AN\",\"Kamera erkennt Mitglied\",\"Mitglieder schlagen natürliche Posen vor\"],\"button_count\":4,\"buttons\":[\"1 Person\",\"2 Personen\",\"Alle\",\"Zufall\"]},{\"description\":\"kleiner beleuchteter Hinweispfosten unter dem Bedienfeld\",\"visible_text\":[\"Ablauf der Aufnahme\",\"1 Mitglied wählen\",\"2 Auf Position stellen\",\"3 Aufnahme starten!\"],\"step_count\":3,\"steps\":[\"Mitglied auswählen\",\"Auf Position stellen\",\"Aufnahme starten\"]}},\"floor_ar_zone\":{\"position\":\"zentraler Vordergrund\",\"description\":\"pinkfarbene, gestrichelte rechteckige Neon-Begrenzung auf dem Holzboden, mit abgerundeten AR-Eckmarkierungen, einem kreisförmigen Standmarker unter der Besucherin, einem einfachen Fuß-Symbol und japanischem Hinweistext\",\"visible_text\":\"Bitte hier aufstellen\"},\"right_signage\":{\"position\":\"rechter Vordergrund\",\"count\":1,\"description\":\"freistehendes schwarzes Empfehlungsschild mit pinkfarbenen Neon-Symbolen und weißem japanischem Text\",\"visible_text\":[\"Empfehlungen\",\"Das Mitglied reagiert auf deine Bewegungen!\",\"Genieße unzählige Kombinationen!\",\"Aufnahmedaten direkt vor Ort herunterladen\"],\"point_count\":3,\"points\":[\"Mitglied reagiert auf deine Bewegungen\",\"Genieße unzählige Kombinationen\",\"Aufnahmedaten direkt vor Ort herunterladen\"]},\"background\":{\"count\":2,\"areas\":[{\"description\":\"dunkle Rückwand mit leuchtendem NEONVEIL-Logo und Slogan\",\"visible_text\":[\"NEONVEIL\",\"Halte den Moment mit deinem Idol fest.\",\"Erinnerungen für die Zukunft.\"]},{\"description\":\"Eingang zum angrenzenden Raum ganz rechts, gekennzeichnet als weiterer Erlebnisbereich mit pinkfarbener Neonbeleuchtung, Monitor, Hocker und Mikrofonständern\",\"visible_text\":[\"10\",\"In-Store-Event\"]}]}},\"visual_style\":{\"rendering\":\"hochrealistische Architekturvisualisierung, filmische Event-Fotografie, kein Anime, keine Illustration\",\"lighting\":\"weiche Deckenstrahler kombiniert mit pinkfarbenem Neonlicht, das sich auf dem Boden spiegelt\",\"colors\":\"Schwarz, Anthrazit, warmes Holzbraun, gedämpftes Neon-Pink, weicher weißer Text\",\"camera\":\"4:3-Weitwinkelkomposition, Augenhöhe bis leicht erhöhter Standpunkt, 24mm-Objektiv-Optik, tiefe Schärfe\",\"mood\":\"hochwertig, immersiv, Technologie-Showcase für Fan-Events\"},\"customization\":{\"zone number\":\"{argument name=\\\"zone number\\\" default=\\\"09\\\"}\",\"main sign title\":\"{argument name=\\\"main sign title\\\" default=\\\"AR-Hologramm-Stil Foto-Ecke Aufnahme\\\"}\",\"floor instruction\":\"{argument name=\\\"floor instruction\\\" default=\\\"Bitte hier aufstellen\\\"}\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"Halte den Moment mit deinem Idol fest. Erinnerungen für die Zukunft.\\\"}\"},\"negative_prompt\":\"kein Cartoon-Stil, keine überfüllten Menschenmengen, kein verpixelter Text, keine unleserliche Beschilderung, kein übertriebener Sci-Fi-Stil, kein leerer steriler Showroom\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"rendu conceptuel photoréaliste de boutique éphémère d'idoles futuriste\",\"scene\":\"Un espace événementiel de vente au détail intérieur chaleureux et haut de gamme pour une zone photo AR de groupe d'idoles fictif, pris sous un angle large légèrement surélevé avec un éclairage réaliste, parquet, murs gris anthracite, cloisons vitrées, accents néon rose et design intérieur commercial soigné.\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"NEONVEIL\\\"}\",\"style\":\"image de marque minimaliste et luxueuse pour fans d'idoles, logo néon rose et blanc brillant, signalétique noire, esthétique cyber subtile\"},\"main_subjects\":{\"count\":2,\"people\":[\"une visiteuse vue de dos debout à l'intérieur de la zone photo AR, portant un sweat à capuche NEONVEIL noir oversize, une mini-jupe plissée noire, des bottines noires, tenant un smartphone verticalement pour prendre une photo\",\"une membre du personnel à droite portant une veste de travail NEONVEIL noire et un pantalon noir avec une radio clipsée à la taille, faisant un geste vers la zone photo ; visage doucement anonymisé\" ]},\"layout\":{\"left_installation\":{\"position\":\"premier plan gauche\",\"count\":3,\"items\":[{\"description\":\"grand panneau vertical noir avec texte blanc et rose brillant\",\"visible_text\":[\"09\",\"Coin photo\",\"hologramme AR\",\" \"]},{\"description\":\"panneau de contrôle néon noir interactif de marque NEONVEIL\",\"visible_text\":[\"NEONVEIL\",\"Sélection du membre\",\"1 personne\",\"2 personnes\",\"Tous\",\"Aléatoire\",\"Pose IA en temps réel\",\"ON\",\"Photographiez le membre en fonction de la caméra\",\"Le membre propose des poses naturellement\"],\"button_count\":4,\"buttons\":[\"1 personne\",\"2 personnes\",\"Tous\",\"Aléatoire\"]},{\"description\":\"petit présentoir d'instructions éclairé sous le panneau\",\"visible_text\":[\"Déroulement de la séance\",\"1 Sélection du membre\",\"2 Se placer à l'emplacement\",\"3 Début de la séance !\"],\"step_count\":3,\"steps\":[\"sélectionnez un membre\",\"placez-vous à l'emplacement\",\"commencez la séance\"]}]},\"floor_ar_zone\":{\"position\":\"premier plan central\",\"description\":\"délimitation rectangulaire en pointillés néon rose projetée sur le parquet, avec des coins AR arrondis, un marqueur de position circulaire sous la visiteuse, une icône de pied simple et un texte d'instruction en japonais\",\"visible_text\":\"Veuillez vous placer ici\"},\"right_signage\":{\"position\":\"premier plan droit\",\"count\":1,\"description\":\"panneau de recommandation noir sur pied avec icônes néon rose et texte japonais blanc\",\"visible_text\":[\"Points forts\",\"Le membre réagit à vos mouvements !\",\"Profitez de nombreuses combinaisons à volonté !\",\"Téléchargez les photos sur place\"],\"point_count\":3,\"points\":[\"le membre réagit à vos mouvements\",\"profitez de nombreuses combinaisons à volonté\",\"téléchargez les photos sur place\"]},\"background\":{\"count\":2,\"areas\":[{\"description\":\"mur arrière sombre avec logo NEONVEIL brillant et slogan\",\"visible_text\":[\"NEONVEIL\",\"Capturez l'instant avec votre idole.\",\"Des souvenirs pour le futur.\"]},{\"description\":\"entrée d'une pièce adjacente tout à droite étiquetée comme un autre stand d'expérience avec éclairage néon rose, moniteur, tabouret et pieds de micro\",\"visible_text\":[\"10\",\"Événement en magasin\"]}]}},\"visual_style\":{\"rendering\":\"visualisation architecturale hautement réaliste, photographie d'événement cinématographique, pas d'anime, pas d'illustration\",\"lighting\":\"spots aériens doux mélangés à une lueur néon rose réfléchie sur le sol\",\"colors\":\"noir, gris anthracite, brun bois chaleureux, néon rose atténué, texte blanc doux\",\"camera\":\"composition large 4:3, hauteur des yeux à légèrement surélevée, rendu objectif 24mm, mise au point profonde\",\"mood\":\"premium, immersif, vitrine technologique pour événement de fans\"},\"customization\":{\"zone number\":\"{argument name=\\\"zone number\\\" default=\\\"09\\\"}\",\"main sign title\":\"{argument name=\\\"main sign title\\\" default=\\\"Coin photo hologramme AR\\\"}\",\"floor instruction\":\"{argument name=\\\"floor instruction\\\" default=\\\"Veuillez vous placer ici\\\"}\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"Capturez l'instant avec votre idole. Des souvenirs pour le futur.\\\"}\"},\"negative_prompt\":\"éviter le style dessin animé, éviter les foules encombrées, éviter le texte basse résolution, éviter la signalétique désordonnée illisible, éviter la science-fiction exagérée, éviter le showroom stérile et vide\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"rendering concettuale fotorealistico di un pop-up shop futuristico per idol\",\"scene\":\"Uno spazio eventi retail interno, caldo ed elegante, dedicato a una zona foto AR per un gruppo idol immaginario, ripreso da un'angolazione ampia leggermente rialzata con illuminazione realistica, pavimenti in legno, pareti grigio antracite, pareti divisorie in vetro, accenti al neon rosa e un design d'interni commerciale raffinato.\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"NEONVEIL\\\"}\",\"style\":\"branding minimalista di lusso per fandom di idol, logo al neon rosa-bianco brillante, insegne nere, sottile estetica cyber\"},\"main_subjects\":{\"count\":2,\"people\":[\"una visitatrice vista di spalle all'interno della zona foto AR, che indossa una felpa oversize nera NEONVEIL, una minigonna a pieghe nera, stivaletti neri, mentre tiene uno smartphone in verticale per scattare una foto\",\"un membro dello staff sulla destra che indossa una giacca da lavoro nera NEONVEIL e pantaloni neri con una radio agganciata in vita, mentre indica la zona foto; volto leggermente anonimizzato\"]},\"layout\":{\"left_installation\":{\"position\":\"primo piano a sinistra\",\"count\":3,\"items\":[{\"description\":\"grande insegna nera verticale con testo luminoso bianco e rosa\",\"visible_text\":[\"09\",\"ARホログラム風\",\"フォト撮影\",\"コーナー\"]},{\"description\":\"pannello di controllo interattivo nero al neon con marchio NEONVEIL\",\"visible_text\":[\"NEONVEIL\",\"メンバー選択\",\"1人\",\"2人\",\"全員\",\"おまかせ\",\"AIリアルタイムポーズ\",\"ON\",\"カメラに合わせてメンバーを撮影します\",\"メンバーが自然にポーズを提案します\"],\"button_count\":4,\"buttons\":[\"1人\",\"2人\",\"全員\",\"おまかせ\"]},{\"description\":\"piccolo stand informativo illuminato sotto il pannello\",\"visible_text\":[\"撮影の流れ\",\"1 メンバー選択\",\"2 位置に立つ\",\"3 撮影スタート！\"],\"step_count\":3,\"steps\":[\"seleziona un membro\",\"posizionati\",\"inizia a scattare\"]}]},\"floor_ar_zone\":{\"position\":\"primo piano al centro\",\"description\":\"perimetro rettangolare tratteggiato al neon rosa proiettato sul pavimento in legno, con angoli arrotondati AR, un segnaposto circolare sotto il visitatore, una semplice icona del piede e testo informativo in giapponese\",\"visible_text\":\"こちらにお立ちください\"},\"right_signage\":{\"position\":\"primo piano a destra\",\"count\":1,\"description\":\"insegna nera indipendente con icone al neon rosa e testo bianco in giapponese\",\"visible_text\":[\"おすすめポイント\",\"メンバーがあなたの動きに反応！\",\"いろんな組み合わせで何度でも楽しめる！\",\"撮影データはその場でダウンロード\"],\"point_count\":3,\"points\":[\"il membro reagisce ai tuoi movimenti\",\"divertiti con tante combinazioni diverse\",\"scarica le foto scattate sul momento\"]},\"background\":{\"count\":2,\"areas\":[{\"description\":\"parete di fondo scura con logo NEONVEIL luminoso e tagline\",\"visible_text\":[\"NEONVEIL\",\"推しと、いまを残そう。\",\"未来の思い出に。\"]},{\"description\":\"ingresso di una stanza adiacente all'estrema destra etichettata come un altro stand esperienziale con illuminazione al neon rosa, monitor, sgabello e aste per microfono\",\"visible_text\":[\"10\",\"インストアイベント\"]}]}},\"visual_style\":{\"rendering\":\"visualizzazione architettonica altamente realistica, fotografia cinematografica di eventi, non anime, non illustrazione\",\"lighting\":\"faretti a soffitto soffusi mescolati con il bagliore del neon rosa riflesso sul pavimento\",\"colors\":\"nero, grigio antracite, marrone legno caldo, neon rosa tenue, testo bianco morbido\",\"camera\":\"composizione ampia 4:3, altezza occhi o leggermente rialzata, effetto lente 24mm, profondità di campo\",\"mood\":\"premium, immersivo, vetrina tecnologica per eventi di fan\"},\"customization\":{\"zone number\":\"{argument name=\\\"zone number\\\" default=\\\"09\\\"}\",\"main sign title\":\"{argument name=\\\"main sign title\\\" default=\\\"ARホログラム風 フォト撮影 コーナー\\\"}\",\"floor instruction\":\"{argument name=\\\"floor instruction\\\" default=\\\"こちらにお立ちください\\\"}\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"推しと、いまを残そう。未来の思い出に。\\\"}\"},\"negative_prompt\":\"evita stile cartone animato, evita folle disordinate, evita testo a bassa risoluzione, evita insegne disordinate e illeggibili, evita fantascienza esagerata, evita showroom vuoti e sterili\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"renderização conceitual fotorrealista de loja pop-up de ídolos futurista\",\"scene\":\"Um espaço de evento de varejo interno, aconchegante e sofisticado para uma zona de fotos AR de um grupo de ídolos fictício, capturado de um ângulo amplo levemente elevado com iluminação realista, piso de madeira, paredes em cinza carvão, divisórias de vidro, detalhes em neon rosa e design de interiores comercial polido.\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"NEONVEIL\\\"}\",\"style\":\"branding de fandom de ídolos de luxo minimalista, logotipo neon rosa e branco brilhante, sinalização preta, estética cyber sutil\"},\"main_subjects\":{\"count\":2,\"people\":[\"uma visitante feminina vista de costas em pé dentro da zona de fotos AR, vestindo um moletom oversized preto NEONVEIL, saia plissada preta, botas pretas de cano curto, segurando um smartphone verticalmente para tirar uma foto\",\"uma funcionária à direita vestindo uma jaqueta de trabalho preta NEONVEIL e calças pretas com um rádio preso na cintura, gesticulando em direção à zona de fotos; rosto suavemente anonimizado\" ]},\"layout\":{\"left_installation\":{\"position\":\"primeiro plano esquerdo\",\"count\":3,\"items\":[{\"description\":\"grande placa preta vertical com texto brilhante em branco e rosa\",\"visible_text\":[\"09\",\"ARホログラム風\",\"フォト撮影\",\"コーナー\"]},{\"description\":\"painel de controle neon preto interativo com a marca NEONVEIL\",\"visible_text\":[\"NEONVEIL\",\"メンバー選択\",\"1人\",\"2人\",\"全員\",\"おまかせ\",\"AIリアルタイムポーズ\",\"ON\",\"カメラに合わせてメンバーを撮影します\",\"メンバーが自然にポーズを提案します\"],\"button_count\":4,\"buttons\":[\"1人\",\"2人\",\"全員\",\"おまかせ\"]},{\"description\":\"pequeno suporte de instruções iluminado abaixo do painel\",\"visible_text\":[\"撮影の流れ\",\"1 メンバー選択\",\"2 位置に立つ\",\"3 撮影スタート！\"],\"step_count\":3,\"steps\":[\"selecione um membro\",\"fique na posição\",\"comece a fotografar\"]}]},\"floor_ar_zone\":{\"position\":\"primeiro plano central\",\"description\":\"limite retangular tracejado em neon rosa projetado no piso de madeira, com cantos arredondados de AR, um marcador circular de pé sob o visitante, um ícone de pé simples e texto de instrução em japonês\",\"visible_text\":\"こちらにお立ちください\"},\"right_signage\":{\"position\":\"primeiro plano direito\",\"count\":1,\"description\":\"placa de recomendação preta independente com ícones de neon rosa e texto em japonês branco\",\"visible_text\":[\"おすすめポイント\",\"メンバーがあなたの動きに反応！\",\"いろんな組み合わせで何度でも楽しめる！\",\"撮影データはその場でダウンロード\"],\"point_count\":3,\"points\":[\"o membro reage aos seus movimentos\",\"aproveite várias combinações repetidamente\",\"baixe os dados da foto na hora\"]},\"background\":{\"count\":2,\"areas\":[{\"description\":\"parede escura ao fundo com logotipo NEONVEIL brilhante e slogan\",\"visible_text\":[\"NEONVEIL\",\"推しと、いまを残そう。\",\"未来の思い出に。\"]},{\"description\":\"entrada de sala adjacente na extrema direita rotulada como outro estande de experiência com iluminação neon rosa, monitor, banqueta e suportes de microfone\",\"visible_text\":[\"10\",\"インストアイベント\"]}]}},\"visual_style\":{\"rendering\":\"visualização arquitetônica altamente realista, fotografia de evento cinematográfica, não anime, não ilustração\",\"lighting\":\"holofotes superiores suaves misturados com brilho de neon rosa refletido no chão\",\"colors\":\"preto, cinza carvão, marrom madeira quente, neon rosa suave, texto branco suave\",\"camera\":\"composição ampla 4:3, nível dos olhos a levemente elevado, sensação de lente 24mm, foco profundo\",\"mood\":\"premium, imersivo, vitrine de tecnologia para eventos de fãs\"},\"customization\":{\"zone number\":\"{argument name=\\\"zone number\\\" default=\\\"09\\\"}\",\"main sign title\":\"{argument name=\\\"main sign title\\\" default=\\\"ARホログラム風 フォト撮影 コーナー\\\"}\",\"floor instruction\":\"{argument name=\\\"floor instruction\\\" default=\\\"こちらにお立ちください\\\"}\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"推しと、いまを残そう。未来の思い出に。\\\"}\"},\"negative_prompt\":\"evite estilo cartoon, evite multidões desordenadas, evite texto de baixa resolução, evite sinalização confusa e ilegível, evite ficção científica exagerada, evite showroom estéril e vazio\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - NEONVEIL AR Photo Zone",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - NEONVEIL AR 拍照区",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Zona de fotos AR NEONVEIL",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - NEONVEIL AR-Fotozone",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Zone photo AR NEONVEIL",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - NEONVEIL AR Photo Zone",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Zona de Fotos AR NEONVEIL",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A photorealistic concept scene for an idol pop-up shop AR hologram photo corner with neon signage, visitor interaction, and instructional displays.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于偶像快闪店 AR 全息拍照区的写实概念场景，包含霓虹灯牌、访客互动和说明展示。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une scène conceptuelle photoréaliste pour un coin photo hologramme AR dans une boutique éphémère d'idoles, avec signalétique néon, interaction des visiteurs et panneaux d'instructions.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/saskr_13/status/2051316419711901894#reversed-1",
+      "originalId": "https://x.com/saskr_13/status/2051316419711901894#reversed-1",
+      "authors": [
+        {
+          "name": "sasakura｜宅録ナレーター×占星術×AI愛好家🇯🇵",
+          "url": "https://x.com/saskr_13"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4065
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9a3fa030331ca89c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971074300_edjrif_HHe9EXJaEAA-Xcm.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971074300_edjrif_HHe9EXJaEAA-Xcm.jpg",
+      "localPath": "public/assets/prompt_a17ef5aa783616df4d3d/fcaf0d64af2f.jpg",
+      "alt": "Product Marketing - NEONVEIL AR Photo Zone - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.863Z"
+  }
+}

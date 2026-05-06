@@ -1,0 +1,81 @@
+{
+  "id": "prompt_af42994d19d10c0f3a08",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个由三层书架组成的木质书架：顶层应该有一本书，第二层应该有三本书，底层应该有七本书。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:08:54.759Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Wooden Bookshelf Prompt Test",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/chetaslua/status/2044331451077013749",
+      "originalId": "case-5",
+      "authors": [
+        {
+          "name": "chetaslua",
+          "url": "https://x.com/chetaslua"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 5
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e256da56ac483b3a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case5/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case5/output.jpg",
+      "localPath": "public/assets/prompt_af42994d19d10c0f3a08/d8b72a43ff8d.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

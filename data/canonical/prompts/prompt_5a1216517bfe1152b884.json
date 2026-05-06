@@ -1,0 +1,102 @@
+{
+  "id": "prompt_5a1216517bfe1152b884",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n  \"type\": \"live stream UI mockup\",\n  \"subject\": {\n    \"description\": \"portrait of {argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}, smiling, wearing a black t-shirt with a white technical schematic graphic\",\n    \"background\": \"left side shows a screen with '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}' text, right side shows a red '{argument name=\\\"right background logo\\\" default=\\\"Tesla T logo\\\"}' and a dark car\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"avatar, name '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}', subtext '55.6万本场点赞', red '关注' button\",\n      \"rank_badge\": \"gold coin icon with '全站第1名'\",\n      \"viewer_stats\": \"3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button\",\n      \"right_links\": \"'更多直播 >', '礼物展馆 0/24' with blue '经典' tag\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"avatar '科技爱好者', '送小心心', heart icon x 1314\",\n        \"avatar '星辰大海', '送火箭', rocket icon x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"level 37 badge '宇宙漫游者 加入了直播间'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"小火箭: 马斯克!未来可期!🚀\",\n        \"future: 特斯拉Model 2什么时候出?\",\n        \"星空梦想家: SpaceX今年能上火星吗?\",\n        \"AI探索者: Neuralink进展如何?\",\n        \"帅气的网友: 马总好!\",\n        \"Mars: 第一次来你的直播,超激动!\",\n        \"用户123: 讲讲AI吧,会取代人类吗?\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"orange '热卖 x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"特斯拉Cybertruck 电动皮卡\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1,618,000\\\"}\",\n      \"button\": \"red '抢' button\",\n      \"floating_animation\": \"translucent hearts floating up the right edge\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'说点什么...'\",\n      \"icons\": [\"smiley face\", \"three dots\", \"shopping cart\", \"gift box\", \"share\"]\n    }\n  }\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n  \"type\": \"直播界面UI设计图\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}的肖像，面带微笑，穿着带有白色技术原理图的黑色T恤\",\n    \"background\": \"左侧显示带有'{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}'文字的屏幕，右侧显示红色的'{argument name=\\\"right background logo\\\" default=\\\"Tesla T logo\\\"}'标志和一辆深色汽车\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"头像，名字'{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}'，副文本'55.6万本场点赞'，红色的'关注'按钮\",\n      \"rank_badge\": \"金币图标，带有'全站第1名'\",\n      \"viewer_stats\": \"3个顶部观众头像，显示'12.3w'、'8.6w'、'5.7w'，总计'68.7万'，'X'关闭按钮\",\n      \"right_links\": \"'更多直播 >'，'礼物展馆 0/24'带有蓝色'经典'标签\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"头像'科技爱好者'，'送小心心'，爱心图标 x 1314\",\n        \"头像'星辰大海'，'送火箭'，火箭图标 x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"37级徽章'宇宙漫游者 加入了直播间'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"小火箭: 马斯克!未来可期!🚀\",\n        \"future: 特斯拉Model 2什么时候出?\",\n        \"星空梦想家: SpaceX今年能上火星吗?\",\n        \"AI探索者: Neuralink进展如何?\",\n        \"帅气的网友: 马总好!\",\n        \"Mars: 第一次来你的直播,超激动!\",\n        \"用户123: 讲讲AI吧,会取代人类吗?\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"橙色'热卖 x 1888'\",\n      \"image\": \"特斯拉Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"特斯拉Cybertruck 电动皮卡\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1,618,000\\\"}\",\n      \"button\": \"红色'抢'按钮\",\n      \"floating_animation\": \"半透明的心形从右侧边缘向上漂浮\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'说点什么...'\",\n      \"icons\": [\"笑脸\", \"三个点\", \"购物车\", \"礼物盒\", \"分享\"]\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:11:31.449Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Live Stream UI Mockup",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/sjbbxhz/status/2045684734714380687",
+      "originalId": "case-89",
+      "authors": [
+        {
+          "name": "sjbbxhz",
+          "url": "https://x.com/sjbbxhz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 242
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_322ca2cf0bc7e97b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg",
+      "localPath": "public/assets/prompt_5a1216517bfe1152b884/12d7d250f4b4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.555Z"
+  }
+}

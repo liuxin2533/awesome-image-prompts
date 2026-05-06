@@ -1,0 +1,101 @@
+{
+  "id": "prompt_31c773bc5f8466081264",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic.\nThe main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style.\nCreate a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption.\nAdd realistic newspaper elements:\nColumns of small text (in the style of lorem ipsum, but framed like real news)\nAt the top is the fictitious name of the publication (for example, The Daily Prompts, AI Times or similar - think creatively, according to the picture)\nDate, issue number and location\nDecorative lines, dividers, and vintage typography\nSmall additional articles or captions to the main image\nOptional stamps, doodles, or editorial notes to add personality.\nStyle:\nBlack and white or slightly faded monochrome paper\nFine paper texture, grain, and ink defects\nSmall shadows and creases that mimic real printed paper\nThe aesthetics of a clean but slightly worn vintage newspaper\nMood: Give the design personality, expressiveness and plot, as if the plot is part of the main article.\nAspect ratio: 4:5 or 1:1\nHigh-detail, ultra-realistic hybrid of editorial photography and print design.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个最逼真的复古报纸头版设计，以主角为特色。布局应采用真实印刷报纸的风格，具有电影感的黑白美学。\n主照片应突出放置在中央，有边框，就像文章标题中的图像一样。照片中的主体应保持不变，在自然光下清晰可辨，并略微增加对比度，以匹配引人注目的编辑风格。\n在顶部创建一个大胆、引人注目的标题（创建一个与照片精神相匹配的独特标题 - 可以是浪漫的、神秘的、有趣的或戏剧性的）。在它下面添加一个较小的副标题，看起来像真实的报纸标题。\n添加真实的报纸元素：\n小文本栏（以lorem ipsum的风格，但像真实的新闻一样有框架）\n顶部是刊物的虚构名称（例如，每日提示、AI时代或类似名称 - 根据图片创造性地思考）\n日期、期号和位置\n装饰线条、分隔符和复古字体\n主图像的小型附加文章或标题\n可选的印章、涂鸦或编辑笔记，以增加个性。\n风格：\n黑白或略微褪色的单色纸张\n精细的纸张纹理、颗粒和墨水缺陷\n模仿真实印刷纸张的小阴影和折痕\n干净但略微磨损的复古报纸美学\n情绪：给设计个性、表现力和情节，仿佛情节是主要文章的一部分。\n宽高比：4:5 或 1:1\n高细节、超现实的编辑摄影和印刷设计混合体。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:29.794Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Create the most realistic front page design of a vintage newspaper featuring ...",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Naiknelofar788/status/2047207812800147647",
+      "originalId": "case-19",
+      "authors": [
+        {
+          "name": "Naiknelofar788",
+          "url": "https://x.com/Naiknelofar788"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 218
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c6ab282a904e481d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case70/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case70/output.jpg",
+      "localPath": "public/assets/prompt_31c773bc5f8466081264/996fdf087147.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "prompt_a07beb65f35a58d9abef",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a photorealistic travel-documentary image of a small sweet-shop storefront in Old Delhi at midday. A painted shop signboard above the door reads \"मिठाई की दुकान\" in large bold yellow hand-painted Devanagari on a deep red background, with \"SWEET SHOP\" in smaller roman letters beneath. Realistic hand-painted texture, slight wear, natural shadow. Authentic script proportion. Spelling and characters exact. No extra signage in frame, no watermark.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个关于老德里小型糖果店的中午纪实摄影图像。门上方有一个手绘的招牌，上面用深红色背景上的粗体黄色手写天城文写着'मिठाई की दुकान'，下面有较小的罗马字母写着'SWEET SHOP'。逼真的手绘纹理，轻微磨损，自然阴影。真实的字体比例。拼写和字符精确。画面中无额外标志，无水印。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:27.603Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Old Delhi Sweet Shop Storefront Documentary Photo",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait",
+      "value": "portrait",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/commanderdgr8/status/2047889839123521635",
+      "originalId": "case-28",
+      "authors": [
+        {
+          "name": "commanderdgr8",
+          "url": "https://x.com/commanderdgr8"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 382
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0e995b06fc7e65ac",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case28/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case28/output.jpg",
+      "localPath": "public/assets/prompt_a07beb65f35a58d9abef/b328a35ae86c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

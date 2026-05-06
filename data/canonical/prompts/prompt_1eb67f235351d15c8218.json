@@ -1,0 +1,102 @@
+{
+  "id": "prompt_1eb67f235351d15c8218",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A candid, magazine-cover quality documentary photograph of a young musician with curly hair, casually carrying a worn guitar case, stepping out of a classic downtown bodega at 11 PM. The lighting features a complex mixed color temperature: a bright neon \"OPEN\" sign casts an intense, warm red glow across his face, while a yellow streetlamp provides a striking backlight behind him. The image perfectly emulates 35mm film shot on a Canon AE-1 with a 50mm f/1.4 lens wide open, exhibiting a shallow depth of field with the background beautifully blurred. It captures the exact aesthetics of CineStill 800T film, specifically featuring the distinctive soft red halation bloom radiating outward from the neon light sources, a tungsten white balance, and moody, slightly green-tinted shadows in the darkest areas. Cinematic night photography, photorealistic, highly detailed.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一位卷发年轻音乐家的候抓拍、杂志封面级别的纪实照片，他随意地拿着一个磨损的吉他盒，晚上11点走出一家经典的城市街区小商店。光线具有复杂的混合色温：明亮的霓虹灯\"OPEN\"标志在他的脸上投射出强烈的暖红色光芒，而黄色路灯在他身后提供了引人注目的背光。图像完美地模拟了使用佳能AE-1相机搭配50mm f/1.4镜头全开拍摄的35毫米胶片，展现出浅景深，背景被美丽地模糊化。它捕捉了CineStill 800T胶片的精确美学，特别是从霓虹光源向外辐射的独特的柔和红色光晕效果，钨丝白平衡，以及在最暗区域带有情绪化、略微绿色调的阴影。电影感夜景摄影，写实逼真，高度细节。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:14:27.059Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Musician Leaving Bodega Night Cinematic Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait",
+      "value": "portrait",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/commanderdgr8/status/2047934886124867684",
+      "originalId": "case-27",
+      "authors": [
+        {
+          "name": "commanderdgr8",
+          "url": "https://x.com/commanderdgr8"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 369
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e4137fdf88424d4d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case27/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case27/output.jpg",
+      "localPath": "public/assets/prompt_1eb67f235351d15c8218/c022ad091f2a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

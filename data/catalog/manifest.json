@@ -1,16 +1,17 @@
 {
   "schemaVersion": "2026-05-04",
-  "generatedAt": "2026-05-05T17:36:14.785Z",
+  "generatedAt": "2026-05-06T11:10:22.517Z",
   "defaultLanguage": "en",
   "languages": [
     "en",
     "zh-CN"
   ],
-  "totalCount": 723,
+  "totalCount": 1009,
   "sourceCount": {
-    "EvoLinkAI/awesome-gpt-image-2-prompts": 303,
-    "YouMind-OpenLab/awesome-gpt-image-2": 126,
-    "freestylefly/awesome-gpt-image-2": 358
+    "EvoLinkAI/awesome-gpt-image-2-prompts": 362,
+    "YouMind-OpenLab/awesome-gpt-image-2": 222,
+    "freestylefly/awesome-gpt-image-2": 392,
+    "ZeroLu/awesome-gpt-image": 79
   },
   "files": {
     "prompts": {

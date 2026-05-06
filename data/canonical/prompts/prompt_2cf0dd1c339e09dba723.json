@@ -1,0 +1,87 @@
+{
+  "id": "prompt_2cf0dd1c339e09dba723",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly people should not blindly urge marriage, iPhone size",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "拒绝盲目催婚的暖心视频号截图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Heartwarming Video Account Screenshot Rejecting Blind Marriage Pressure",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:04:44.312Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_229279671a",
+      "value": "拒绝盲目催婚的暖心视频号截图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-269",
+      "originalId": "case-269",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2045373105041007013"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3131
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2045373105041007013)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_948fc67c11fd84ea",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case269.jpg",
+      "upstreamPath": "../data/images/case269.jpg",
+      "localPath": "public/assets/prompt_2cf0dd1c339e09dba723/47865d58b306.jpg",
+      "alt": "拒绝盲目催婚的暖心视频号截图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

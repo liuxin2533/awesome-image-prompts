@@ -1,0 +1,168 @@
+{
+  "id": "prompt_a3c44e86a8fcab753e04",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic night street portrait of a young woman standing in a bustling city illuminated by neon lights. She has long slightly messy dark hair with soft bangs, wearing a {argument name=\"clothing\" default=\"black leather jacket\"}. She turns her head toward the camera with a calm, slightly intense expression. The scene is lit with contrasting {argument name=\"lighting colors\" default=\"red and blue neon lighting\"} casting dramatic highlights on her face and hair. Background filled with soft bokeh from streetlights, cars, and neon signs, creating a {argument name=\"setting style\" default=\"Tokyo cyberpunk vibe\"}. Shallow depth of field, 85mm lens look, ultra-realistic skin texture, cinematic color grading, moody atmosphere, high detail, 8K, professional photography.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Cyberpunk Neon Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Cyberpunk Neon Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic night portrait prompt featuring neon lighting and Tokyo cyberpunk aesthetics.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Taaruk_/status/2048713970891239636",
+      "originalId": "https://x.com/Taaruk_/status/2048713970891239636",
+      "authors": [
+        {
+          "name": "Taaruk",
+          "url": "https://x.com/Taaruk_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1189
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_338dbaf9aa454110",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367271042_7nclyu_HG5-cOFbgAA9-hL.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367271042_7nclyu_HG5-cOFbgAA9-hL.jpg",
+      "localPath": "public/assets/prompt_a3c44e86a8fcab753e04/9f97f10957a3.jpg",
+      "alt": "Profile / Avatar - Cyberpunk Neon Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.568Z"
+  }
+}

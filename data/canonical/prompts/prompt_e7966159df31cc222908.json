@@ -1,0 +1,87 @@
+{
+  "id": "prompt_e7966159df31cc222908",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "武则天自拍登记发微博",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Wu Zetian taking a selfie, registering and posting on Weibo.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "武则天发微博自拍太魔性了",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Wu Zetian's Weibo selfie is spellbinding",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:40:46.351Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_257939497c",
+      "value": "武则天发微博自拍太魔性了",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-185",
+      "originalId": "case-185",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046585220393324553"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 528
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046585220393324553)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_98ce064f4907f4e9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case185.jpg",
+      "upstreamPath": "../data/images/case185.jpg",
+      "localPath": "public/assets/prompt_e7966159df31cc222908/401a41773f18.jpg",
+      "alt": "武则天发微博自拍太魔性了",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

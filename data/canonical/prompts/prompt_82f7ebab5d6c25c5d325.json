@@ -1,0 +1,92 @@
+{
+  "id": "prompt_82f7ebab5d6c25c5d325",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A premium fast food advertisement poster with a cinematic composition and a clean white textured background with soft grey shading for depth.\nAt the top center, place a bold, modern logo text: “EMPIRE” with a minimal crown icon above it, sleek and premium typography.\nBelow the logo, add a large, dramatic headline in bold modern font:\n“NEW EMPIRE INFERNO BURGER”\n– The word INFERNO should have a fiery texture with flame elements integrated into the typography.\nAdd subtext below the headline in smaller clean font:\n“with signature hot sauce”\nMain composition (center focus):\nA hyper-realistic, ultra-detailed crispy chicken burger placed on a wooden board:\n– Thick, golden crunchy fried chicken fillet\n– Melted cheese dripping naturally\n– Fresh green lettuce and sliced jalapeños\n– Glossy toasted sesame bun\n– Spicy sauce visibly oozing out\n– Subtle steam/smoke rising to show heat and freshness\nAdditional food items:\n– A premium spicy pizza in the foreground with melted cheese, jalapeños, and spicy toppings\n– A black cup of creamy loaded fries (cheese sauce + jalapeños) placed to the side\nSide element:\n– A sleek glass bottle labeled “EMPIRE Signature Hot Sauce” with a premium black and red label design\nLighting:\n– High contrast studio lighting\n– Warm highlights on food\n– Soft shadows\n– Slight rim lighting for separation\nColor palette:\n– White and soft grey background\n– Fiery reds and oranges for spice\n– Golden browns for fried textures\n– Deep blacks for contrast elements\nExtra design elements:\n– Minimal spice icons or flame accents\n– Clean, modern layout with strong hierarchy\nBottom section:\n– Minimal icons and labels like: “Premium Chicken”, “Signature Hot Sauce”, “Fresh Ingredients”\n– NO order button or app store icons\nStyle:\nUltra-realistic, 8K food photography, commercial advertising, sharp focus, dramatic, premium global fast-food branding, highly detailed textures, mouthwatering presentation.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Empire Inferno Burger Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/iamsofiaijaz/status/2051258805070282960",
+      "originalId": "case-187",
+      "authors": [
+        {
+          "name": "iamsofiaijaz",
+          "url": "https://x.com/iamsofiaijaz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1965
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a7cb9e4f95107929",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case187/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case187/output.jpg",
+      "localPath": "public/assets/prompt_82f7ebab5d6c25c5d325/498681b1f7f9.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

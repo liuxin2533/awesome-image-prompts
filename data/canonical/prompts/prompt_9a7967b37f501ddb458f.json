@@ -1,0 +1,99 @@
+{
+  "id": "prompt_9a7967b37f501ddb458f",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张黑神话·潘金莲的游戏介绍画面，人物十分的迷人",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a game introduction screen for Black Myth: Pan Jinlian, the character is extremely charming.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "黑神话潘金莲绝美游戏封面",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_7f275c94ae",
+      "value": "黑神话潘金莲绝美游戏封面",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-207",
+      "originalId": "case-207",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai/status/2046576160952443082"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1279
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai/status/2046576160952443082)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e6e24c3456febe56",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case207.jpg",
+      "upstreamPath": "../data/images/case207.jpg",
+      "localPath": "public/assets/prompt_9a7967b37f501ddb458f/926ef2af4d55.jpg",
+      "alt": "黑神话潘金莲绝美游戏封面",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.594Z"
+  }
+}

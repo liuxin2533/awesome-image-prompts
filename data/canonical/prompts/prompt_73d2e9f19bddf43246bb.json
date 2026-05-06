@@ -1,0 +1,106 @@
+{
+  "id": "prompt_73d2e9f19bddf43246bb",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A watercolor illustration of a children's picture book cover. The main subject is a {argument name=\"character appearance\" default=\"cute furry kemonomimi girl with short green hair, cat ears, and green eyes\"}. She is {argument name=\"action\" default=\"smiling happily while holding up her middle finger\"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads \"{argument name=\"main title\" default=\"なかゆびさん\"}\". Below it, brown Japanese text reads \"{argument name=\"subtitle\" default=\"こんにちは\"}\". On the middle-left, smaller black text reads \"{argument name=\"author text\" default=\"さく・え：とらの\"}\". The image has a visible book spine on the left edge, emphasizing the physical book format.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A watercolor illustration of a children's picture book cover. The main subject is a {argument name=\"character appearance\" default=\"cute furry kemonomimi girl with short green hair, cat ears, and green eyes\"}. She is {argument name=\"action\" default=\"smiling happily while holding up her middle finger\"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads \"{argument name=\"main title\" default=\"なかゆびさん\"}\". Below it, brown Japanese text reads \"{argument name=\"subtitle\" default=\"こんにちは\"}\". On the middle-left, smaller black text reads \"{argument name=\"author text\" default=\"さく・え：とらの\"}\". The image has a visible book spine on the left edge, emphasizing the physical book format.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:43:47.545Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "绘画艺术风格图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Art style painting image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:43:49.965Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_fe58da4579",
+      "value": "绘画艺术风格图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-129",
+      "originalId": "case-129",
+      "authors": [
+        {
+          "name": "TlanoVRC",
+          "url": "https://x.com/TlanoVRC"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4987
+        }
+      ],
+      "rawSource": "[@TlanoVRC](https://x.com/TlanoVRC)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a0663a9a7bc2e508",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case129.png",
+      "upstreamPath": "../data/images/case129.png",
+      "localPath": "public/assets/prompt_73d2e9f19bddf43246bb/3de91592be8a.png",
+      "alt": "character appearance",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

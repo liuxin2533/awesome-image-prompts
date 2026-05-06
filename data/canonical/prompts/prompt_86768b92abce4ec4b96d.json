@@ -1,0 +1,106 @@
+{
+  "id": "prompt_86768b92abce4ec4b96d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design\nPHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds\nPHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and environment\nPHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes\n\nSwap: [ITEM] / [MATERIAL] / [LABEL STYLE]",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design\nPHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds\nPHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and environment\nPHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes\n\nSwap: [ITEM] / [MATERIAL] / [LABEL STYLE]",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:53:53.201Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "四季包装 Campaign 宫格",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Four Seasons Packaging Campaign Grid",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:53:56.097Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "campaign",
+      "value": "四季包装 Campaign 宫格",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-342",
+      "originalId": "case-342",
+      "authors": [
+        {
+          "name": "SRKDAN",
+          "url": "https://x.com/SRKDAN/status/2048582939504431195"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5619
+        }
+      ],
+      "rawSource": "[@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2ba0eff877fa1354",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case342.jpg",
+      "upstreamPath": "../data/images/case342.jpg",
+      "localPath": "public/assets/prompt_86768b92abce4ec4b96d/3b745890a847.jpg",
+      "alt": "四季包装 Campaign 宫格",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "product"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.592Z"
+  }
+}

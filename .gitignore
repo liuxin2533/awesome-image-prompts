@@ -7,6 +7,7 @@ node_modules/
 # 日志
 *.log
 npm-debug.log*
+data/runs/run_*.json
 
 # 本地环境变量
 .env

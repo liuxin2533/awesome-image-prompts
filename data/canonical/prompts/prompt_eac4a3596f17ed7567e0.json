@@ -1,0 +1,101 @@
+{
+  "id": "prompt_eac4a3596f17ed7567e0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A restored vintage family snapshot, photographed indoors in soft natural light, showing a {argument name=\"adult subject\" default=\"young mother\"} seated and holding a {argument name=\"child subject\" default=\"toddler\"} on her lap in a close, centered waist-up portrait. The adult has short softly curled auburn hair in a voluminous 1960s-inspired bob, wears a sleeveless black dress and a thin gold necklace, and wraps both arms protectively around the child. The child has fine light blond hair and wears a plain white long-sleeve outfit. Compose the image with a warm nostalgic color cast, gentle film softness, subtle grain, and the look of a carefully repaired old printed photograph. Place them in front of a cream-colored curtain patterned with small brown teddy bear motifs, with a softly blurred interior window frame visible along the top background. Preserve realistic skin tones, natural posture, and the intimate family-photo feeling, as if an old damaged photograph has been professionally reimagined and restored. Square crop, centered composition, shallow depth of field, authentic analog photo texture, no modern styling, no text.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张修复的复古家庭快照，在室内柔和的自然光下拍摄，展示一位{argument name=\"adult subject\" default=\"年轻母亲\"}坐着，怀里抱着一个{argument name=\"child subject\" default=\"幼儿\"}，形成一张近距离、居中的腰部以上肖像。这位成年人有着蓬松的1960年代风格波波头，是短而柔软的赤褐色卷发，穿着无袖黑色连衣裙和一条细金项链，并用双臂保护性地环抱着孩子。孩子有着细软的金色头发，穿着一件简单的白色长袖服装。构图采用温暖怀旧的色调，柔和的胶片柔化效果，微妙的颗粒感，以及一张精心修复的旧印刷照片的外观。将他们放置在奶油色窗帘前，窗帘上有小棕色泰迪熊图案，顶部背景处可见柔和模糊的室内窗框。保持真实的肤色、自然的姿势和亲密的家庭照片感，就像一张受损的旧照片被专业地重新想象和修复了一样。方形裁剪，居中构图，浅景深，真实的模拟照片质感，无现代风格，无文字。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:33:37.177Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Restored Vintage Mother and Child Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/gdb/status/2048184797374325031",
+      "originalId": "case-82",
+      "authors": [
+        {
+          "name": "gdb",
+          "url": "https://x.com/gdb"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 449
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8563b76c89625e9a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case82/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case82/output.jpg",
+      "localPath": "public/assets/prompt_eac4a3596f17ed7567e0/563d0bd2226e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.562Z"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "prompt_034b6a009f1f0e9ec37e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a hairstyle analysis graphic using this picture. Show side-by-side hairstyle comparisons to highlight which hairstyles suit the subject best. Make it visual-first, with short labels only and details about the haircut.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Hairstyle Comparison Analysis",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "The original post says the prompt is in a reply; this prompt is reconstructed from the visible output and tweet context.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/garenaguinaldox/status/2047384051322081738",
+      "originalId": "https://x.com/garenaguinaldox/status/2047384051322081738",
+      "authors": [
+        {
+          "name": "garenaguinaldox",
+          "url": "https://x.com/garenaguinaldox/status/2047384051322081738"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 908
+        }
+      ],
+      "rawSource": "[@garenaguinaldox](https://x.com/garenaguinaldox/status/2047384051322081738)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_94956b6f603ab6e6",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGnE60casAAcDLF?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGnE60casAAcDLF?format=jpg&name=large",
+      "localPath": "public/assets/prompt_034b6a009f1f0e9ec37e/fe03ea3e3d1e.jpg",
+      "alt": "Hairstyle Comparison Analysis",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "infographic",
+      "education"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

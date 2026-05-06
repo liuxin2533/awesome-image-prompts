@@ -1,0 +1,276 @@
+{
+  "id": "prompt_f076251837dd5744dbb9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate an e-commerce product detail page for [product name]",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 [商品名称] 生成一张电商商品详情页",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "為 [商品名稱] 生成一張電商商品詳情頁。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[product name] の EC 商品詳細ページを生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[product name] 의 전자상거래 상품 상세 페이지를 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une page de détail e-commerce pour [nom du produit].",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge eine E-Commerce-Produktdetailseite für [Produktname].",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una página de detalle e-commerce para [nombre del producto].",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Product Detail Page",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商商品详情页",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "電商商品詳情頁",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "EC 商品詳細ページ",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "전자상거래 상품 상세 페이지",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Page de détail e-commerce",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Produktdetailseite",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Página de detalle e-commerce",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046544209117634735"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 726
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 613
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 466
+        },
+        {
+          "file": "README:ja",
+          "line": 613
+        },
+        {
+          "file": "README:ko",
+          "line": 466
+        },
+        {
+          "file": "README:fr",
+          "line": 466
+        },
+        {
+          "file": "README:de",
+          "line": 466
+        },
+        {
+          "file": "README:es",
+          "line": 466
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dded8c4474f83270",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa6X8CW4AEonBd?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa6X8CW4AEonBd?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f076251837dd5744dbb9/1fbbcfe8a76f.jpg",
+      "alt": "Protein Powder",
+      "status": "pending"
+    },
+    {
+      "id": "asset_b78b6fc12e6fec9c",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa6bLFWIAAhhmc?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa6bLFWIAAhhmc?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f076251837dd5744dbb9/418aa3c6d84b.jpg",
+      "alt": "AI Glasses",
+      "status": "pending"
+    },
+    {
+      "id": "asset_43713f72526d9620",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa66zgWMAApBcR?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa66zgWMAApBcR?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f076251837dd5744dbb9/464a67443eeb.jpg",
+      "alt": "Summer Dress",
+      "status": "pending"
+    },
+    {
+      "id": "asset_493b66f3bdb5957c",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa69eHXQAALWHS?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa69eHXQAALWHS?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f076251837dd5744dbb9/244c01a85507.jpg",
+      "alt": "Coffee Machine",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "电商",
+      "详情页"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

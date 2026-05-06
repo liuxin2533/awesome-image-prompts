@@ -1,0 +1,175 @@
+{
+  "id": "prompt_8e1f31eec15d8d225f01",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate an image of these {argument name=\"number of people\" default=\"two\"} characters taking a photo in a {argument name=\"situation\" default=\"purikura booth\"}, focusing on realism. The background should be a realistic live-action style, while the characters should be in an anime-style 3D rendering, looking like they are close friends.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 {argument name=\"number of people\" default=\"两人\"} 角色在 {argument name=\"situation\" default=\"大头贴机\"} 中拍照的图片，重点在于真实感。背景应呈现真实的实景风格，而角色应采用动漫风格的 3D 渲染，看起来就像亲密的好友一样。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una imagen de estos {argument name=\"number of people\" default=\"dos\"} personajes tomándose una foto en una {argument name=\"situation\" default=\"cabina de purikura\"}, enfocándote en el realismo. El fondo debe tener un estilo de acción real, mientras que los personajes deben estar en un renderizado 3D estilo anime, luciendo como si fueran amigos cercanos.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Generiere ein Bild von diesen {argument name=\"number of people\" default=\"zwei\"} Charakteren, die ein Foto in einer {argument name=\"situation\" default=\"Purikura-Kabine\"} machen, wobei der Fokus auf Realismus liegt. Der Hintergrund sollte einen realistischen Live-Action-Stil aufweisen, während die Charaktere in einem Anime-3D-Rendering dargestellt werden und so aussehen, als wären sie enge Freunde.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Générez une image de ces {argument name=\"number of people\" default=\"deux\"} personnages prenant une photo dans une {argument name=\"situation\" default=\"cabine purikura\"}, en mettant l'accent sur le réalisme. L'arrière-plan doit être dans un style live-action réaliste, tandis que les personnages doivent être en rendu 3D style anime, donnant l'impression qu'ils sont des amis proches.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Genera un'immagine di questi {argument name=\"number of people\" default=\"due\"} personaggi mentre scattano una foto in una {argument name=\"situation\" default=\"cabina per purikura\"}, concentrandoti sul realismo. Lo sfondo dovrebbe avere uno stile live-action realistico, mentre i personaggi dovrebbero essere in un rendering 3D in stile anime, con l'aspetto di amici intimi.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Gere uma imagem destes {argument name=\"number of people\" default=\"dois\"} personagens tirando uma foto em uma {argument name=\"situation\" default=\"cabine de fotos purikura\"}, focando no realismo. O fundo deve ter um estilo live-action realista, enquanto os personagens devem estar em uma renderização 3D estilo anime, parecendo amigos próximos.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Anime Characters in Real Purikura Booth",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 置身于真实大头贴机中的动漫角色",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Personajes de anime en una cabina de fotos Purikura real",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Anime-Charaktere in einer echten Purikura-Fotokabine",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Personnages d'anime dans une véritable cabine Purikura",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Personaggi anime in una vera cabina per Purikura",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Personagens de anime em uma cabine de fotos Purikura real",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt that blends 3D anime characters with a realistic photography setting, specifically designed for a purikura (photo booth) aesthetic with high realism.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个将 3D 动漫角色与写实摄影场景相结合的提示词，专为追求高真实感的大头贴（purikura）美学而设计。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt qui mélange des personnages d'anime en 3D avec un décor photographique réaliste, spécifiquement conçu pour une esthétique purikura (cabine photo) avec un haut niveau de réalisme.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Barometz3891/status/2051243741768515611",
+      "originalId": "https://x.com/Barometz3891/status/2051243741768515611",
+      "authors": [
+        {
+          "name": "バロメッツ 🐏 barometz",
+          "url": "https://x.com/Barometz3891"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1258
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6597884b1929a4e6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971031986_ebi302_HHd7FG-bcAAab4-.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971031986_ebi302_HHd7FG-bcAAab4-.jpg",
+      "localPath": "public/assets/prompt_8e1f31eec15d8d225f01/2a9b9f8c724f.jpg",
+      "alt": "Profile / Avatar - Anime Characters in Real Purikura Booth - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.858Z"
+  }
+}

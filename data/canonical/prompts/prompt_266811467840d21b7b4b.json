@@ -1,0 +1,185 @@
+{
+  "id": "prompt_266811467840d21b7b4b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using the uploaded logo, create a highly detailed manga-style infographic poster: \n\nTitle: \"What This Brand Feels Like\"\nGoal: Transform the brand into a \"living individual\" and visually demonstrate how it acts, speaks, and interacts with the world.\nFusion: Brand Strategy + Character Design + Manga Storytelling\n\nCore Rule: All content must derive from the logo itself (colors, style, tone, personality). No generic personality descriptions.\n\nStructure: {argument name=\"layout\" default=\"Vertical 4:5 poster\"}, information-dense multi-panel layout, {argument name=\"style\" default=\"manga + infographic hybrid style\"}.\n\nMain Character: Create a core character representing the brand's personification. Clothing, posture, and expression must reflect the brand identity.\nPanels: 6–8 manga panels showing behaviors in scenarios like customer interaction, handling competition, or social media presence.\nTraits: Modular sections showing tone style, energy level, and communication methods using icons.\nDo/Don't: Visual guide on brand-consistent vs inconsistent behaviors.\nFinal Feel: Should look like a personified brand strategy board worth collecting, not flat or generic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用上传的 Logo，创作一张高度详细的漫画风格信息图海报：\n\n标题：“品牌给人的感觉”\n目标：将品牌转化为一个“活生生的个体”，并直观地展示它如何行动、说话以及与世界互动。\n融合：品牌策略 + 角色设计 + 漫画叙事\n\n核心规则：所有内容必须源自 Logo 本身（颜色、风格、基调、个性）。禁止使用通用的个性描述。\n\n结构：{argument name=\"layout\" default=\"竖版 4:5 海报\"}，信息密集的多面板布局，{argument name=\"style\" default=\"漫画与信息图混合风格\"}。\n\n主角：创建一个代表品牌拟人化的核心角色。服装、姿态和表情必须反映品牌形象。\n面板：6–8 个漫画面板，展示在客户互动、应对竞争或社交媒体表现等场景下的行为。\n特征：使用图标的模块化部分，展示语气风格、能量水平和沟通方式。\n做与不做：关于品牌一致行为与不一致行为的视觉指南。\n最终效果：应看起来像一张值得收藏的拟人化品牌策略项目，而非平庸或通用的设计。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Sử dụng logo đã tải lên, hãy tạo một tấm poster infographic phong cách manga cực kỳ chi tiết: \n\nTiêu đề: \"Cảm nhận về thương hiệu này\"\nMục tiêu: Biến thương hiệu thành một \"cá thể sống\" và trực quan hóa cách thương hiệu hành động, giao tiếp và tương tác với thế giới.\nSự kết hợp: Chiến lược thương hiệu + Thiết kế nhân vật + Kể chuyện qua Manga\n\nQuy tắc cốt lõi: Tất cả nội dung phải bắt nguồn từ chính logo (màu sắc, phong cách, tông màu, tính cách). Không sử dụng các mô tả tính cách chung chung.\n\nCấu trúc: {argument name=\"layout\" default=\"Poster dọc 4:5\"}, bố cục đa khung hình giàu thông tin, {argument name=\"style\" default=\"phong cách lai giữa manga và infographic\"}.\n\nNhân vật chính: Tạo một nhân vật cốt lõi đại diện cho sự nhân cách hóa của thương hiệu. Trang phục, tư thế và biểu cảm phải phản ánh đúng bản sắc thương hiệu.\nCác khung hình: 6–8 khung tranh manga thể hiện hành vi trong các tình huống như tương tác với khách hàng, xử lý cạnh tranh hoặc sự hiện diện trên mạng xã hội.\nĐặc điểm: Các phần mô-đun hiển thị phong cách tông giọng, mức năng lượng và phương thức giao tiếp bằng biểu tượng.\nNên/Không nên: Hướng dẫn trực quan về các hành vi nhất quán và không nhất quán với thương hiệu.\nCảm nhận cuối cùng: Phải trông giống như một bảng chiến lược thương hiệu được nhân cách hóa đáng để sưu tầm, không được phẳng hoặc chung chung.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Utilizando el logotipo cargado, crea un póster infográfico altamente detallado al estilo manga: \n\nTítulo: \"Lo que esta marca transmite\"\nObjetivo: Transformar la marca en un \"individuo vivo\" y demostrar visualmente cómo actúa, habla e interactúa con el mundo.\nFusión: Estrategia de marca + Diseño de personajes + Narrativa manga\n\nRegla fundamental: Todo el contenido debe derivar del propio logotipo (colores, estilo, tono, personalidad). Nada de descripciones de personalidad genéricas.\n\nEstructura: {argument name=\"layout\" default=\"Póster vertical 4:5\"}, diseño de múltiples paneles con alta densidad de información, {argument name=\"style\" default=\"estilo híbrido manga e infografía\"}.\n\nPersonaje principal: Crea un personaje central que represente la personificación de la marca. La vestimenta, la postura y la expresión deben reflejar la identidad de la marca.\nPaneles: 6–8 paneles de manga que muestren comportamientos en escenarios como la interacción con el cliente, el manejo de la competencia o la presencia en redes sociales.\nRasgos: Secciones modulares que muestren el estilo de tono, el nivel de energía y los métodos de comunicación mediante iconos.\nQué hacer/Qué no hacer: Guía visual sobre comportamientos coherentes e incoherentes con la marca.\nResultado final: Debe parecer un tablero de estrategia de marca personificado que valga la pena coleccionar, no algo plano o genérico.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstellen Sie unter Verwendung des hochgeladenen Logos ein hochdetailliertes Infografik-Poster im Manga-Stil: \n\nTitel: „Wie sich diese Marke anfühlt“\nZiel: Verwandeln Sie die Marke in ein „lebendiges Individuum“ und demonstrieren Sie visuell, wie sie agiert, spricht und mit der Welt interagiert.\nFusion: Markenstrategie + Charakterdesign + Manga-Storytelling\n\nGrundregel: Alle Inhalte müssen sich direkt aus dem Logo ableiten (Farben, Stil, Tonalität, Persönlichkeit). Keine generischen Persönlichkeitsbeschreibungen.\n\nStruktur: {argument name=\"layout\" default=\"Vertikales 4:5 Poster\"}, informationsdichtes Multi-Panel-Layout, {argument name=\"style\" default=\"Manga-Infografik-Hybridstil\"}.\n\nHauptfigur: Erstellen Sie eine Kernfigur, die die Personifizierung der Marke darstellt. Kleidung, Haltung und Ausdruck müssen die Markenidentität widerspiegeln.\nPanels: 6–8 Manga-Panels, die Verhaltensweisen in Szenarien wie Kundeninteraktion, Umgang mit Wettbewerbern oder Präsenz in sozialen Medien zeigen.\nEigenschaften: Modulare Abschnitte, die mithilfe von Symbolen den Tonfall, das Energieniveau und die Kommunikationsmethoden darstellen.\nDo/Don't: Visueller Leitfaden für markenkonformes versus nicht konformes Verhalten.\nEndergebnis: Sollte wie ein personifiziertes Markenstrategie-Board aussehen, das man sammeln möchte, nicht flach oder generisch.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "En utilisant le logo téléchargé, créez une affiche infographique détaillée de style manga :\n\nTitre : « L'essence de cette marque »\nObjectif : Transformer la marque en un « individu vivant » et démontrer visuellement comment elle agit, s'exprime et interagit avec le monde.\nFusion : Stratégie de marque + Design de personnage + Narration manga\n\nRègle fondamentale : Tout le contenu doit découler directement du logo (couleurs, style, ton, personnalité). Aucune description de personnalité générique.\n\nStructure : {argument name=\"layout\" default=\"Affiche verticale 4:5\"}, mise en page multi-panneaux riche en informations, {argument name=\"style\" default=\"style hybride manga + infographie\"}.\n\nPersonnage principal : Créez un personnage central représentant la personnification de la marque. Les vêtements, la posture et l'expression doivent refléter l'identité de la marque.\nPanneaux : 6 à 8 panneaux de manga illustrant des comportements dans des scénarios tels que l'interaction client, la gestion de la concurrence ou la présence sur les réseaux sociaux.\nTraits : Sections modulaires présentant le ton, le niveau d'énergie et les méthodes de communication à l'aide d'icônes.\nÀ faire/À ne pas faire : Guide visuel sur les comportements cohérents et incohérents avec la marque.\nRésultat final : L'ensemble doit ressembler à un tableau de stratégie de marque personnifié digne d'être collectionné, évitant tout aspect plat ou générique.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Utilizzando il logo caricato, crea un'infografica dettagliata in stile poster manga:\n\nTitolo: \"Cosa trasmette questo brand\"\nObiettivo: Trasformare il brand in un \"individuo vivente\" e dimostrare visivamente come agisce, parla e interagisce con il mondo.\nFusione: Strategia del brand + Character Design + Narrazione manga\n\nRegola fondamentale: Tutti i contenuti devono derivare dal logo stesso (colori, stile, tono, personalità). Niente descrizioni di personalità generiche.\n\nStruttura: {argument name=\"layout\" default=\"Poster verticale 4:5\"}, layout a più riquadri ricco di informazioni, {argument name=\"style\" default=\"stile ibrido manga + infografica\"}.\n\nPersonaggio principale: Crea un personaggio centrale che rappresenti la personificazione del brand. L'abbigliamento, la postura e l'espressione devono riflettere l'identità del brand.\nRiquadri: 6–8 riquadri manga che mostrano comportamenti in scenari come l'interazione con il cliente, la gestione della concorrenza o la presenza sui social media.\nTratti: Sezioni modulari che mostrano lo stile del tono, il livello di energia e i metodi di comunicazione utilizzando icone.\nCosa fare/Cosa non fare: Guida visiva sui comportamenti coerenti e incoerenti con il brand.\nRisultato finale: Deve apparire come una tavola strategica di brand personificato da collezione, non come qualcosa di piatto o generico.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Usando o logotipo enviado, crie um pôster infográfico altamente detalhado no estilo mangá: \n\nTítulo: \"Como esta marca se sente\"\nObjetivo: Transformar a marca em um \"indivíduo vivo\" e demonstrar visualmente como ela age, fala e interage com o mundo.\nFusão: Estratégia de Marca + Design de Personagem + Narrativa de Mangá\n\nRegra Principal: Todo o conteúdo deve derivar do próprio logotipo (cores, estilo, tom, personalidade). Nada de descrições de personalidade genéricas.\n\nEstrutura: {argument name=\"layout\" default=\"Pôster vertical 4:5\"}, layout de vários painéis rico em informações, {argument name=\"style\" default=\"estilo híbrido de mangá + infográfico\"}.\n\nPersonagem Principal: Crie um personagem central que represente a personificação da marca. As roupas, a postura e a expressão devem refletir a identidade da marca.\nPainéis: 6 a 8 painéis de mangá mostrando comportamentos em cenários como interação com o cliente, lidar com a concorrência ou presença nas redes sociais.\nCaracterísticas: Seções modulares mostrando o estilo de tom, nível de energia e métodos de comunicação usando ícones.\nO que fazer/Não fazer: Guia visual sobre comportamentos consistentes versus inconsistentes com a marca.\nSensação Final: Deve parecer um quadro de estratégia de marca personificado que vale a pena colecionar, não algo plano ou genérico.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Manga Style Brand Identity Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 漫画风格品牌形象信息图",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Infographic / Hình ảnh giáo dục - Infographic nhận diện thương hiệu phong cách Manga",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Infografía de identidad de marca estilo manga",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Infografik zur Markenidentität im Manga-Stil",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Infographie d'identité de marque style manga",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Infografica sull'identità del brand in stile manga",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Infográfico de Identidade de Marca em Estilo Mangá",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed prompt that transforms a brand logo into a personified manga-style character, displayed in a multi-panel layout showing various scenarios and traits.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高度详细的提示词，旨在将品牌 Logo 转化为拟人化的漫画风格角色，并通过多面板布局展示各种场景与特征。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt extrêmement détaillé qui transforme un logo de marque en un personnage personnifié de style manga, présenté dans une mise en page multi-panneaux illustrant divers scénarios et traits de caractère.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/you1873118/status/2051355742150762898",
+      "originalId": "https://x.com/you1873118/status/2051355742150762898",
+      "authors": [
+        {
+          "name": "serein",
+          "url": "https://x.com/you1873118"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1962
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_84b5b1caf2173635",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971019409_hnyskv_HHfhKxxaYAA0tBI.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971019409_hnyskv_HHfhKxxaYAA0tBI.jpg",
+      "localPath": "public/assets/prompt_266811467840d21b7b4b/2e82eec58e47.jpg",
+      "alt": "Infographic / Edu Visual - Manga Style Brand Identity Infographic - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "identity",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.847Z"
+  }
+}

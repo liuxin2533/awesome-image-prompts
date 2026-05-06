@@ -1,0 +1,106 @@
+{
+  "id": "prompt_0fdb20b11d2198a28ac9",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "图像生成: 商品广告照片, 适合夏天的季节商品, 碳酸饮料, 名称=\"夏柑SODA\", 形状=PET瓶500ml, 研究2025年作为饮料广告的高CTA设计后设计并生成图像规格, 宽高比3:4",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Image generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name=\"Summer Citrus SODA\", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "夏日柑橘苏打高转化广告图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Summer Citrus Soda High Conversion Advertisement Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:48:35.486Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_b6c9df6ba6",
+      "value": "夏日柑橘苏打高转化广告图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-237",
+      "originalId": "case-237",
+      "authors": [
+        {
+          "name": "old_pgmrs_will",
+          "url": "https://x.com/old_pgmrs_will/status/2045852114673635507"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2463
+        }
+      ],
+      "rawSource": "[@old\\_pgmrs\\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0989dbd8de8da20e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case237.jpg",
+      "upstreamPath": "../data/images/case237.jpg",
+      "localPath": "public/assets/prompt_0fdb20b11d2198a28ac9/197f364fad5d.jpg",
+      "alt": "夏日柑橘苏打高转化广告图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "product",
+      "商品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

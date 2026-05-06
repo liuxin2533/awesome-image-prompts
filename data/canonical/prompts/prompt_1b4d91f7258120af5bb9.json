@@ -1,0 +1,174 @@
+{
+  "id": "prompt_1b4d91f7258120af5bb9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a whimsical, high-quality fantasy portrait of a young girl styled like {argument name=\"character theme\" default=\"Alice in Wonderland\"} reclining in an oversized green leaf boat floating down a narrow, gently curving blue stream. She has {argument name=\"hair color\" default=\"long blonde\"} wavy hair with a blue bow headband and wears a blue puff-sleeve dress with a white apron, layered white ruffled skirt, pink shoes, and mismatched thigh-high striped stockings: one blue-and-white stripe and one pink-and-white stripe. The leaf boat is shaped like a curled natural leaf with a raised stem at the back, glossy veins, and pointed bow, padded with soft pastel pillows in pale blue, pink, and yellow. The girl lies relaxed with her arms resting along the sides of the leaf and her legs extended toward the pointed tip, drifting diagonally through the frame from lower left toward upper right. Surround the stream with lush bright green mossy banks, rounded hedges, large storybook trees, and colorful oversized flowers in pink, purple, blue, yellow, and orange. The water should be rich teal-blue with small ripples, foam, and sparkling highlights around the leaf boat. Use a dreamy fairytale garden atmosphere, vibrant saturated colors, shallow depth of field, soft bokeh background, cinematic composition, realistic 3D storybook illustration style, detailed textures on the leaf, fabric, water, and flowers, vertical portrait orientation, magical and serene mood.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张异想天开的高品质奇幻肖像，画面主角是一位风格类似于 {argument name=\"character theme\" default=\"爱丽丝梦游仙境\"} 的年轻女孩，她正斜倚在一艘巨大的绿色叶舟中，在一条狭窄且蜿蜒的蓝色溪流上漂流。她留着 {argument name=\"hair color\" default=\"金色长发\"} 波浪卷，戴着蓝色蝴蝶结发带，身穿蓝色泡泡袖连衣裙，外搭白色围裙，内衬白色荷叶边裙摆，脚穿粉色鞋子，并穿着不对称的过膝条纹袜：一只为蓝白条纹，另一只为粉白条纹。叶舟呈卷曲的天然叶片状，后部有隆起的叶柄，叶脉清晰，船头尖锐，内部铺有淡蓝色、粉色和黄色的柔和色调靠垫。女孩姿态放松，双臂搭在叶舟两侧，双腿向尖端伸展，沿画面从左下角向右上角对角线漂流。溪流周围环绕着郁郁葱葱的亮绿色苔藓河岸、圆润的树篱、巨大的童话树木，以及粉色、紫色、蓝色、黄色和橙色的超大号彩色花朵。水面应呈现浓郁的青蓝色，叶舟周围伴有细小的涟漪、泡沫和闪烁的波光。采用梦幻般的童话花园氛围，色彩鲜艳饱和，浅景深，柔和的背景虚化，电影级构图，逼真的 3D 童话插画风格，叶片、织物、水面和花朵的纹理细节丰富，采用竖屏肖像构图，营造出神奇而宁静的意境。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un retrato de fantasía caprichoso y de alta calidad de una niña con el estilo de {argument name=\"character theme\" default=\"Alicia en el país de las maravillas\"} recostada en un barco de hoja verde de gran tamaño que flota por un arroyo azul estrecho y suavemente curvado. Tiene el cabello ondulado {argument name=\"hair color\" default=\"largo y rubio\"} con una diadema de lazo azul y viste un vestido azul de mangas abullonadas con un delantal blanco, una falda con volantes blancos superpuestos, zapatos rosas y medias altas a rayas desiguales: una a rayas azules y blancas y otra a rayas rosas y blancas. El barco de hoja tiene forma de hoja natural curvada con un tallo elevado en la parte posterior, venas brillantes y una proa puntiaguda, acolchado con suaves cojines de colores pastel en azul pálido, rosa y amarillo. La niña yace relajada con los brazos descansando a los lados de la hoja y las piernas extendidas hacia la punta, navegando en diagonal a través del encuadre desde la parte inferior izquierda hacia la superior derecha. Rodea el arroyo con exuberantes orillas de musgo verde brillante, setos redondeados, grandes árboles de cuento de hadas y coloridas flores gigantes en rosa, morado, azul, amarillo y naranja. El agua debe ser de un azul verdoso intenso con pequeñas ondas, espuma y reflejos brillantes alrededor del barco de hoja. Utiliza una atmósfera de jardín de cuento de hadas de ensueño, colores vibrantes y saturados, poca profundidad de campo, fondo con bokeh suave, composición cinematográfica, estilo de ilustración de cuento de hadas en 3D realista, texturas detalladas en la hoja, la tela, el agua y las flores, orientación vertical de retrato, ambiente mágico y sereno.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein skurriles, hochwertiges Fantasy-Porträt eines jungen Mädchens im Stil von {argument name=\"character theme\" default=\"Alice im Wunderland\"}, das entspannt in einem übergroßen grünen Blätterboot liegt, welches einen schmalen, sanft geschwungenen blauen Bach hinuntertreibt. Sie hat {argument name=\"hair color\" default=\"langes blondes\"} welliges Haar mit einem blauen Schleifen-Haarband und trägt ein blaues Kleid mit Puffärmeln, einer weißen Schürze, einem mehrlagigen weißen Rüschenrock, rosa Schuhen und ungleichen, oberschenkelhohen Ringelstrümpfen: einer blau-weiß gestreiften und einer rosa-weiß gestreiften. Das Blätterboot ist wie ein natürlich eingerolltes Blatt geformt, mit einem erhöhten Stiel am Heck, glänzenden Blattadern und einem spitzen Bug, ausgepolstert mit weichen Pastellkissen in Hellblau, Rosa und Gelb. Das Mädchen liegt entspannt da, die Arme an den Seiten des Blattes abgestützt und die Beine in Richtung der spitzen Vorderseite ausgestreckt, während sie diagonal von unten links nach oben rechts durch das Bild treibt. Umgib den Bach mit üppigen, hellgrünen, moosbewachsenen Ufern, abgerundeten Hecken, großen Märchenbäumen und farbenfrohen, überdimensionalen Blumen in Rosa, Lila, Blau, Gelb und Orange. Das Wasser sollte ein sattes Blaugrün aufweisen, mit kleinen Wellen, Schaumkronen und funkelnden Lichtreflexen um das Blätterboot herum. Nutze eine verträumte Märchengarten-Atmosphäre, lebendige, gesättigte Farben, eine geringe Schärfentiefe, einen weichen Bokeh-Hintergrund, eine filmische Komposition, einen realistischen 3D-Märchenbuch-Illustrationsstil, detaillierte Texturen auf dem Blatt, dem Stoff, dem Wasser und den Blumen, vertikale Porträtausrichtung, magische und heitere Stimmung.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un portrait fantastique, fantaisiste et de haute qualité d'une jeune fille inspirée de {argument name=\"character theme\" default=\"Alice au pays des merveilles\"} allongée dans un bateau en forme de feuille verte géante flottant sur un ruisseau bleu étroit et légèrement sinueux. Elle a des cheveux ondulés {argument name=\"hair color\" default=\"blonds longs\"} avec un serre-tête à nœud bleu et porte une robe bleue à manches bouffantes avec un tablier blanc, une jupe à volants blancs superposés, des chaussures roses et des bas dépareillés montant jusqu'aux cuisses : une rayure bleue et blanche et une rayure rose et blanche. Le bateau-feuille a la forme d'une feuille naturelle recourbée avec une tige surélevée à l'arrière, des nervures brillantes et une proue pointue, agrémenté de coussins pastel doux bleu pâle, rose et jaune. La jeune fille est allongée, détendue, les bras reposant sur les côtés de la feuille et les jambes étendues vers la pointe, dérivant en diagonale à travers le cadre, du bas à gauche vers le haut à droite. Entourez le ruisseau de rives moussues d'un vert vif et luxuriant, de haies arrondies, de grands arbres de livre de contes et de fleurs géantes colorées en rose, violet, bleu, jaune et orange. L'eau doit être d'un bleu sarcelle riche avec de petites ondulations, de l'écume et des reflets scintillants autour du bateau-feuille. Utilisez une atmosphère de jardin de conte de fées onirique, des couleurs vives et saturées, une faible profondeur de champ, un arrière-plan avec un doux bokeh, une composition cinématographique, un style d'illustration de livre de contes en 3D réaliste, des textures détaillées sur la feuille, le tissu, l'eau et les fleurs, une orientation portrait verticale, une ambiance magique et sereine.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un ritratto fantasy stravagante e di alta qualità di una giovane ragazza nello stile di {argument name=\"character theme\" default=\"Alice nel Paese delle Meraviglie\"} che si rilassa su una barca a forma di foglia verde gigante, galleggiante lungo uno stretto ruscello blu che curva dolcemente. Ha capelli mossi {argument name=\"hair color\" default=\"lunghi e biondi\"} con un cerchietto con fiocco blu e indossa un abito blu con maniche a sbuffo, grembiule bianco, gonna a balze bianca, scarpe rosa e calze autoreggenti a righe spaiate: una a righe bianche e blu e l'altra a righe bianche e rosa. La barca a foglia ha la forma di una foglia naturale arricciata con un gambo rialzato sul retro, venature lucide e una prua appuntita, imbottita con morbidi cuscini color pastello in azzurro, rosa e giallo. La ragazza è sdraiata in modo rilassato con le braccia lungo i lati della foglia e le gambe distese verso la punta, mentre la barca scorre diagonalmente nell'inquadratura, dal basso a sinistra verso l'alto a destra. Circonda il ruscello con rigogliose sponde coperte di muschio verde brillante, siepi arrotondate, grandi alberi da fiaba e coloratissimi fiori giganti nei toni del rosa, viola, blu, giallo e arancione. L'acqua deve essere di un ricco blu-verde acqua con piccole increspature, schiuma e riflessi scintillanti attorno alla barca a foglia. Usa un'atmosfera da giardino fiabesco e sognante, colori vivaci e saturi, profondità di campo ridotta, sfondo con morbido bokeh, composizione cinematografica, stile illustrazione 3D realistica da libro di fiabe, texture dettagliate sulla foglia, sui tessuti, sull'acqua e sui fiori, orientamento verticale, atmosfera magica e serena.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um retrato de fantasia extravagante e de alta qualidade de uma jovem estilizada como {argument name=\"character theme\" default=\"Alice no País das Maravilhas\"} reclinada em um barco de folha verde gigante flutuando em um riacho azul estreito e suavemente curvo. Ela tem cabelos ondulados {argument name=\"hair color\" default=\"longos e loiros\"} com uma tiara de laço azul e veste um vestido azul de mangas bufantes com um avental branco, saia branca com babados em camadas, sapatos rosas e meias 7/8 listradas descombinadas: uma com listras azuis e brancas e outra com listras rosas e brancas. O barco de folha tem o formato de uma folha natural enrolada com um caule elevado na parte de trás, veios brilhantes e proa pontiaguda, acolchoado com almofadas em tons pastéis suaves de azul claro, rosa e amarelo. A garota está deitada relaxada com os braços descansando nas laterais da folha e as pernas estendidas em direção à ponta, navegando diagonalmente pelo quadro, do canto inferior esquerdo para o superior direito. Cerque o riacho com margens musgosas verde-brilhantes e exuberantes, sebes arredondadas, grandes árvores de contos de fadas e flores coloridas e gigantes em tons de rosa, roxo, azul, amarelo e laranja. A água deve ser de um azul-petróleo rico com pequenas ondulações, espuma e reflexos brilhantes ao redor do barco de folha. Use uma atmosfera de jardim de conto de fadas onírico, cores vibrantes e saturadas, profundidade de campo rasa, fundo com bokeh suave, composição cinematográfica, estilo de ilustração de livro de histórias em 3D realista, texturas detalhadas na folha, tecido, água e flores, orientação de retrato vertical, clima mágico e sereno.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Alice-Inspired Leaf Boat Fantasy",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 爱丽丝风格的叶舟奇幻场景",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Fantasía de barco de hoja inspirada en Alicia",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Alice-inspirierte Blätterboot-Fantasie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Fantaisie inspirée d'Alice sur un bateau-feuille",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Fantasia in barca a foglia ispirata ad Alice",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Fantasia de Barco de Folha Inspirada em Alice",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a whimsical storybook garden scene of an Alice-inspired girl drifting down a stream in a giant leaf boat.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个异想天开的童话花园场景，描绘一位受爱丽丝启发的女孩乘坐巨大的叶舟在溪流中漂流。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène de jardin féerique et fantaisiste représentant une jeune fille inspirée d'Alice dérivant sur un ruisseau à bord d'un bateau en forme de feuille géante.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Excelsior_AI/status/2051328442025574630#reversed-0",
+      "originalId": "https://x.com/Excelsior_AI/status/2051328442025574630#reversed-0",
+      "authors": [
+        {
+          "name": "Tom Löwe",
+          "url": "https://x.com/Excelsior_AI"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1684
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_188a89d0f4790d0b",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971038802_nb2jsi_HHfIQMdXAAA2y1v.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971038802_nb2jsi_HHfIQMdXAAA2y1v.jpg",
+      "localPath": "public/assets/prompt_1b4d91f7258120af5bb9/8c3028eeab37.jpg",
+      "alt": "Social Media Post - Alice-Inspired Leaf Boat Fantasy - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.845Z"
+  }
+}

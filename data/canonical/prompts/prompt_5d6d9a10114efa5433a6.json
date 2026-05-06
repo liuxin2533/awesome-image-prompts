@@ -1,0 +1,107 @@
+{
+  "id": "prompt_5d6d9a10114efa5433a6",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "健身蛋白粉电商详情图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Fitness protein powder e-commerce detail image",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "健身蛋白粉电商详情页",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Fitness Protein Powder E-commerce Detail Page",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:29:00.613Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_aa55ef58b9",
+      "value": "健身蛋白粉电商详情页",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-194",
+      "originalId": "case-194",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046544209117634735"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 744
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046544209117634735)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_84940d917b70ae5f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case194.jpg",
+      "upstreamPath": "../data/images/case194.jpg",
+      "localPath": "public/assets/prompt_5d6d9a10114efa5433a6/413d2e92176f.jpg",
+      "alt": "健身蛋白粉电商详情页",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "e-commerce",
+      "电商",
+      "详情页"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

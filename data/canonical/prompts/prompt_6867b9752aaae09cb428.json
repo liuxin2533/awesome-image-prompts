@@ -1,0 +1,246 @@
+{
+  "id": "prompt_6867b9752aaae09cb428",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张关于景德镇青花瓷的详细解析图，并配套详细的中文知识解读。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張景德鎮青花瓷的詳細解析圖，並附上詳細的中文知識分析。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "景徳鎮の青花磁器について、詳細な中国語の知識解説付き説明図を生成する。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "경덕진 청화백자에 대한 자세한 설명 다이어그램을 생성하고, 자세한 중국어 지식 해설을 함께 제공한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un schéma explicatif détaillé de la porcelaine bleu et blanc de Jingdezhen, accompagné d'une analyse de connaissances détaillée en chinois.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein detailliertes erklärendes Diagramm zu Jingdezhen-Blauweiß-Porzellan, ergänzt um eine ausführliche chinesische Wissensanalyse.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera un diagrama explicativo detallado sobre la porcelana azul y blanca de Jingdezhen, acompañado de un análisis de conocimiento detallado en chino.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Jingdezhen Blue-and-White Porcelain Diagram",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "景德镇青花瓷解析图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "景德鎮青花瓷解析圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "景徳鎮の青花磁器ダイアグラム",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "경덕진 청화백자 해설도",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Diagramme de porcelaine bleu et blanc de Jingdezhen",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Jingdezhen-Blauweiß-Porzellan-Diagramm",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Diagrama de porcelana azul y blanca de Jingdezhen",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/joshesye/status/2045764695827562686",
+      "originalId": "https://x.com/joshesye/status/2045764695827562686",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/jingdezhen-blue-white-porcelain-diagram"
+        },
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2045764695827562686"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 591
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 478
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 394
+        },
+        {
+          "file": "README:ja",
+          "line": 478
+        },
+        {
+          "file": "README:ko",
+          "line": 394
+        },
+        {
+          "file": "README:fr",
+          "line": 394
+        },
+        {
+          "file": "README:de",
+          "line": 394
+        },
+        {
+          "file": "README:es",
+          "line": 394
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/jingdezhen-blue-white-porcelain-diagram) | [@joshesye](https://x.com/joshesye/status/2045764695827562686)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ff3af454fcfa0df2",
+      "role": "unknown",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/jingdezhen-blue-white-porcelain-diagram.jpeg",
+      "upstreamPath": "assets/opennana/jingdezhen-blue-white-porcelain-diagram.jpeg",
+      "localPath": "public/assets/prompt_6867b9752aaae09cb428/b99003ef0e99.jpeg",
+      "alt": "Jingdezhen Blue-and-White Porcelain Diagram",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.589Z"
+  }
+}

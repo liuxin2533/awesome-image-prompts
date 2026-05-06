@@ -1,0 +1,168 @@
+{
+  "id": "prompt_741e9d5437de76fd74d7",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-end editorial product poster in a minimalist studio, featuring an oversized translucent pink glass bong standing on the right side of the frame, nearly as tall as the composition, with a round water chamber half-filled with pale pink liquid, a long vertical neck releasing soft white smoke from the top, and a diagonal downstem visible inside the glass. A slim athletic woman with dark skin and long dreadlocks tied up in a high bun stands leaning casually against the bong near the center-left, her face intentionally obscured with a soft rectangular blur, wearing a dark olive sports bra, loose cream jogger pants, white crew socks with green stripes, and chunky off-white sneakers. She poses with one leg crossed in front of the other and one arm resting on the bong’s angled bowl. Behind them, place enormous bold dark green condensed numbers reading {argument name=\"headline text\" default=\"4:20\"} spanning almost the full height of the background on a warm light beige wall. In the lower left corner, add a small block of uppercase Spanish copy in a clean sans-serif font reading {argument name=\"quote\" default=\"DEJÓ DE SER EXCEPCIÓN. — YA FORMA PARTE DEL PAISAJE.\"}. The overall look should feel like a luxury lifestyle ad campaign: clean composition, muted earthy palette, soft diffused studio lighting, subtle shadows, sharp product detail, fashion-editorial styling, realistic glass reflections, and a polished contemporary cannabis culture aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Luxury Editorial 4:20 Product Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "產品行銷 - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロダクトマーケティング - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "제품 마케팅 - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोडक्ट मार्केटिंग - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Luxury Editorial 4:20 Product Poster",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a stylish studio ad image combining an oversized smoking product with fashion-editorial typography, ideal for cannabis lifestyle campaigns or conceptual product posters.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ArcaArtificial/status/2048841835171156334#reversed-0",
+      "originalId": "https://x.com/ArcaArtificial/status/2048841835171156334#reversed-0",
+      "authors": [
+        {
+          "name": "Arca Artificial by Lordwind Enrique",
+          "url": "https://x.com/ArcaArtificial"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4247
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_eb06e0904e49a41d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367355926_4qmzfl_HG7yqeeaIAAoDOA.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367355926_4qmzfl_HG7yqeeaIAAoDOA.jpg",
+      "localPath": "public/assets/prompt_741e9d5437de76fd74d7/7a1c2845bb60.jpg",
+      "alt": "Product Marketing - Luxury Editorial 4:20 Product Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

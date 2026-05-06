@@ -1,0 +1,106 @@
+{
+  "id": "prompt_23114e9a34a17617436d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで\nこのクオリティ　細かい説明呪文なし　すごいぜ！",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "that \"Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game\" with just a few images\nthis quality without any detailed explanation spells is amazing!",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "小恶魔莉莉香超任游戏海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Little Devil Lilixiang Super Nintendo Game Poster",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:36.549Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_1a25300a32",
+      "value": "小恶魔莉莉香超任游戏海报",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-283",
+      "originalId": "case-283",
+      "authors": [
+        {
+          "name": "lilimliliychan",
+          "url": "https://x.com/lilimliliychan/status/2045114760937804187"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3486
+        }
+      ],
+      "rawSource": "[@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_75d3bea104b9c471",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case283.jpg",
+      "upstreamPath": "../data/images/case283.jpg",
+      "localPath": "public/assets/prompt_23114e9a34a17617436d/c710ec8a1f8c.jpg",
+      "alt": "小恶魔莉莉香超任游戏海报",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

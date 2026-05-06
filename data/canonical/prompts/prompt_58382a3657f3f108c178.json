@@ -1,0 +1,174 @@
+{
+  "id": "prompt_58382a3657f3f108c178",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a photorealistic documentary street photograph of {argument name=\"location and era\" default=\"Akihabara, Tokyo in the 1990s\"}, shot from eye level in a narrow electronics shopping street at dusk or late afternoon. The scene contains about 30 visible pedestrians, mostly adult men in casual 1990s clothing such as denim jackets, plaid sweaters, light-wash jeans, bomber jackets, business suits, shoulder bags, and shopping bags; faces are soft, indistinct, or motion-blurred like an old candid TV still. The street is packed but not chaotic, with people standing, browsing, walking away from camera, and gathering near storefronts. Both sides of the street are lined with tall commercial buildings covered in dense Japanese electronics-store signage, including large vertical and horizontal signs with readable fragments such as {argument name=\"main sign text\" default=\"オノデン\"}, {argument name=\"store brand text\" default=\"Panasonic\"}, “FAN,” “BEST,” and other katakana shop signs. The left side has a prominent blue and yellow electronics storefront canopy, while the right side has an orange-and-blue shop awning, shelves, posters, and boxed merchandise displayed at the entrance. Overhead utility wires crisscross the bright washed-out sky between mid-rise buildings. Use a realistic 1990s Japanese consumer camcorder or VHS broadcast aesthetic: 4:3 aspect ratio, slightly low resolution, interlaced softness, muted colors, mild film grain, blown highlights in the sky, subtle barrel distortion, natural crowd clutter, and no modern smartphones, LED billboards, contemporary fashion, or futuristic elements.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张照片级写实的纪录片风格街拍，内容为 {argument name=\"location and era\" default=\"20 世纪 90 年代的东京秋叶原\"}，视角为平视，拍摄于黄昏或傍晚时分狭窄的电子产品购物街。场景中约有 30 名行人，多为穿着 20 世纪 90 年代休闲服饰的成年男性，如牛仔夹克、格纹毛衣、浅色水洗牛仔裤、飞行员夹克、商务西装、单肩包和购物袋；面部柔和、模糊或带有类似旧电视抓拍的动态模糊感。街道拥挤但不混乱，人们有的站立、有的浏览、有的背对镜头行走、有的聚集在店面附近。街道两侧林立着高大的商业建筑，覆盖着密集的日本电子商店招牌，包括大型竖排和横排标志，上面有可辨认的片段，如 {argument name=\"main sign text\" default=\"オノデン\"}、{argument name=\"store brand text\" default=\"Panasonic\"}、“FAN”、“BEST” 以及其他片假名商店招牌。左侧有一个显眼的蓝黄色电子商店雨棚，右侧则有橙蓝色遮阳篷、货架、海报以及陈列在入口处的盒装商品。头顶上方的电线在中层建筑之间交错，映衬着明亮而泛白的天空。采用 20 世纪 90 年代日本消费级摄像机或 VHS 广播美学：4:3 画幅、略低的解析度、交错扫描的柔和感、柔和的色彩、轻微的胶片颗粒感、天空处过曝的高光、细微的桶形畸变、自然的拥挤感，且不包含现代智能手机、LED 广告牌、当代时尚元素或未来主义元素。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una fotografía documental fotorrealista de {argument name=\"location and era\" default=\"Akihabara, Tokio en la década de 1990\"}, tomada a la altura de los ojos en una estrecha calle comercial de electrónica al atardecer o a última hora de la tarde. La escena contiene alrededor de 30 peatones visibles, en su mayoría hombres adultos con ropa casual de los 90, como chaquetas de mezclilla, suéteres de cuadros, jeans de lavado claro, chaquetas tipo bomber, trajes de negocios, bolsos de hombro y bolsas de compras; los rostros son suaves, indistintos o con desenfoque de movimiento, como una vieja captura de pantalla de televisión. La calle está llena pero no caótica, con personas de pie, mirando escaparates, caminando lejos de la cámara y reunidas cerca de las tiendas. Ambos lados de la calle están bordeados por altos edificios comerciales cubiertos de densa señalización de tiendas de electrónica japonesas, incluyendo grandes letreros verticales y horizontales con fragmentos legibles como {argument name=\"main sign text\" default=\"オノデン\"}, {argument name=\"store brand text\" default=\"Panasonic\"}, “FAN”, “BEST” y otros letreros de tiendas en katakana. El lado izquierdo tiene un prominente toldo azul y amarillo de una tienda de electrónica, mientras que el lado derecho tiene un toldo naranja y azul, estantes, carteles y mercancía en cajas exhibida en la entrada. Los cables de servicios públicos se cruzan sobre el cielo brillante y deslavado entre los edificios de mediana altura. Utiliza una estética realista de videocámara de consumo japonesa de los 90 o de transmisión VHS: relación de aspecto 4:3, resolución ligeramente baja, suavidad entrelazada, colores apagados, grano de película suave, luces altas quemadas en el cielo, sutil distorsión de barril, desorden natural de la multitud y sin teléfonos inteligentes modernos, vallas publicitarias LED, moda contemporánea o elementos futuristas.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstellen Sie ein fotorealistisches Dokumentar-Straßenfoto von {argument name=\"location and era\" default=\"Akihabara, Tokio in den 1990er Jahren\"}, aufgenommen auf Augenhöhe in einer engen Elektronik-Einkaufsstraße in der Dämmerung oder am späten Nachmittag. Die Szene enthält etwa 30 sichtbare Fußgänger, hauptsächlich erwachsene Männer in lässiger 1990er-Jahre-Kleidung wie Jeansjacken, karierten Pullovern, hellen Jeans, Bomberjacken, Business-Anzügen, Umhängetaschen und Einkaufstüten; die Gesichter sind weich, undeutlich oder bewegungsunscharf wie bei einem alten, spontanen TV-Standbild. Die Straße ist belebt, aber nicht chaotisch; Menschen stehen herum, stöbern, gehen von der Kamera weg oder versammeln sich vor den Ladenfronten. Beide Seiten der Straße sind gesäumt von hohen Geschäftsgebäuden, die mit dichter japanischer Elektronik-Werbung bedeckt sind, einschließlich großer vertikaler und horizontaler Schilder mit lesbaren Fragmenten wie {argument name=\"main sign text\" default=\"オノデン\"}, {argument name=\"store brand text\" default=\"Panasonic\"}, „FAN“, „BEST“ und anderen Katakana-Ladenschildern. Die linke Seite hat ein markantes blau-gelbes Vordach eines Elektronikgeschäfts, während die rechte Seite eine orange-blaue Markise, Regale, Poster und verpackte Waren am Eingang aufweist. Über dem Kopf kreuzen sich Stromleitungen vor dem hellen, verwaschenen Himmel zwischen den mittelhohen Gebäuden. Verwenden Sie eine realistische Ästhetik japanischer Consumer-Camcorder oder VHS-Übertragungen aus den 1990er Jahren: 4:3-Seitenverhältnis, leicht niedrige Auflösung, interlaced Weichheit, gedämpfte Farben, leichtes Filmkorn, überstrahlte Lichter im Himmel, subtile tonnenförmige Verzeichnung, natürliches Gedränge und keine modernen Smartphones, LED-Werbetafeln, zeitgenössische Mode oder futuristische Elemente.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une photographie de rue documentaire photoréaliste de {argument name=\"location and era\" default=\"Akihabara, Tokyo dans les années 1990\"}, prise à hauteur d'homme dans une rue commerçante étroite dédiée à l'électronique au crépuscule ou en fin d'après-midi. La scène contient environ 30 piétons visibles, principalement des hommes adultes portant des vêtements décontractés des années 1990 tels que des vestes en jean, des pulls à carreaux, des jeans délavés, des blousons, des costumes, des sacs à bandoulière et des sacs de courses ; les visages sont doux, indistincts ou flous, comme sur une vieille capture d'écran télévisée prise sur le vif. La rue est bondée mais pas chaotique, avec des gens debout, en train de regarder les vitrines, s'éloignant de l'appareil photo ou se rassemblant près des devantures. Les deux côtés de la rue sont bordés de grands immeubles commerciaux couverts d'enseignes denses de magasins d'électronique japonais, incluant de grands panneaux verticaux et horizontaux avec des fragments lisibles tels que {argument name=\"main sign text\" default=\"オノデン\"}, {argument name=\"store brand text\" default=\"Panasonic\"}, « FAN », « BEST » et d'autres enseignes de magasins en katakana. Le côté gauche présente un auvent de magasin d'électronique bleu et jaune proéminent, tandis que le côté droit comporte un store orange et bleu, des étagères, des affiches et des marchandises en boîte exposées à l'entrée. Des câbles électriques aériens s'entrecroisent dans le ciel clair et délavé entre les immeubles de taille moyenne. Utilisez une esthétique réaliste de caméscope grand public ou de diffusion VHS japonaise des années 1990 : format 4:3, résolution légèrement basse, douceur entrelacée, couleurs atténuées, léger grain de film, hautes lumières surexposées dans le ciel, subtile distorsion en barillet, encombrement naturel de la foule, et aucune trace de smartphones modernes, panneaux publicitaires LED, mode contemporaine ou éléments futuristes.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una fotografia di strada documentaristica fotorealistica di {argument name=\"location and era\" default=\"Akihabara, Tokyo negli anni '90\"}, scattata ad altezza occhi in una stretta via dello shopping di elettronica al crepuscolo o nel tardo pomeriggio. La scena contiene circa 30 pedoni visibili, per lo più uomini adulti con abbigliamento casual anni '90 come giacche di jeans, maglioni a quadri, jeans chiari, giubbotti bomber, abiti formali, borse a tracolla e buste della spesa; i volti sono morbidi, indistinti o sfocati dal movimento, come in un vecchio fermo immagine televisivo. La strada è affollata ma non caotica, con persone in piedi, intente a guardare le vetrine, che si allontanano dalla fotocamera o si radunano vicino ai negozi. Entrambi i lati della strada sono fiancheggiati da alti edifici commerciali coperti da una fitta segnaletica di negozi di elettronica giapponesi, inclusi grandi cartelli verticali e orizzontali con frammenti leggibili come {argument name=\"main sign text\" default=\"オノデン\"}, {argument name=\"store brand text\" default=\"Panasonic\"}, “FAN”, “BEST” e altre insegne di negozi in katakana. Il lato sinistro presenta una prominente tettoia blu e gialla di un negozio di elettronica, mentre il lato destro ha una tenda da sole arancione e blu, scaffali, poster e merce in scatola esposta all'ingresso. Cavi elettrici aerei si incrociano nel cielo luminoso e sbiadito tra gli edifici di media altezza. Utilizza un'estetica realistica da videocamera consumer giapponese degli anni '90 o da trasmissione VHS: formato 4:3, risoluzione leggermente bassa, morbidezza interlacciata, colori tenui, leggera grana della pellicola, alte luci bruciate nel cielo, sottile distorsione a barilotto, naturale disordine della folla e assenza di smartphone moderni, cartelloni LED, moda contemporanea o elementi futuristici.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma fotografia de rua documental fotorrealista de {argument name=\"location and era\" default=\"Akihabara, Tóquio nos anos 1990\"}, capturada na altura dos olhos em uma rua estreita de lojas de eletrônicos ao entardecer ou no final da tarde. A cena contém cerca de 30 pedestres visíveis, a maioria homens adultos com roupas casuais dos anos 1990, como jaquetas jeans, suéteres xadrez, jeans de lavagem clara, jaquetas bomber, ternos sociais, bolsas de ombro e sacolas de compras; os rostos são suaves, indistintos ou com desfoque de movimento, como uma imagem de TV antiga e espontânea. A rua está cheia, mas não caótica, com pessoas paradas, olhando vitrines, caminhando para longe da câmera e se reunindo perto das fachadas das lojas. Ambos os lados da rua são ladeados por edifícios comerciais altos cobertos por densa sinalização de lojas de eletrônicos japonesas, incluindo grandes placas verticais e horizontais com fragmentos legíveis como {argument name=\"main sign text\" default=\"オノデン\"}, {argument name=\"store brand text\" default=\"Panasonic\"}, “FAN”, “BEST” e outras placas de lojas em katakana. O lado esquerdo possui uma marquise de loja de eletrônicos azul e amarela proeminente, enquanto o lado direito tem um toldo laranja e azul, prateleiras, pôsteres e mercadorias encaixotadas expostas na entrada. Fios elétricos aéreos cruzam o céu brilhante e desbotado entre os edifícios de altura média. Use uma estética realista de filmadora doméstica japonesa dos anos 1990 ou transmissão VHS: proporção de aspecto 4:3, resolução ligeiramente baixa, suavidade entrelaçada, cores suaves, granulação de filme leve, realces estourados no céu, distorção de barril sutil, aglomeração natural de pessoas e sem smartphones modernos, outdoors de LED, moda contemporânea ou elementos futuristas.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - 1990s Akihabara Street Photo",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 20 世纪 90 年代秋叶原街景照片",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Foto callejera de Akihabara en los años 90",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Straßenfoto aus Akihabara in den 1990er Jahren",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Photo de rue d'Akihabara dans les années 1990",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Foto di strada di Akihabara anni '90",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Foto de Rua de Akihabara nos anos 1990",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a realistic VHS-style 1990s Akihabara electronics district street scene for retro documentary or historical urban imagery.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张写实的 VHS 风格 20 世纪 90 年代秋叶原电子街场景，适用于复古纪录片或历史城市影像。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène de rue réaliste du quartier électronique d'Akihabara dans les années 1990, style VHS, pour un documentaire rétro ou une imagerie urbaine historique.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/pipipimayomayo/status/2051300477275660460#reversed-0",
+      "originalId": "https://x.com/pipipimayomayo/status/2051300477275660460#reversed-0",
+      "authors": [
+        {
+          "name": "早朝さん",
+          "url": "https://x.com/pipipimayomayo"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1860
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ed89bd4fa9c5fc4d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971070679_ltevk4_HHeu6VDbAAAijQh.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971070679_ltevk4_HHeu6VDbAAAijQh.jpg",
+      "localPath": "public/assets/prompt_58382a3657f3f108c178/8e86dc8f4de1.jpg",
+      "alt": "Social Media Post - 1990s Akihabara Street Photo - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.853Z"
+  }
+}

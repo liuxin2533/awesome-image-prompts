@@ -1,0 +1,87 @@
+{
+  "id": "prompt_9b927669243069c6b204",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬\n\n图片2：霸天虎全员列阵外星战舰甲板，威震天坐于王座俯视全军",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"promptText\": {\n    \"translations\": {\n      \"zh-CN\": [\n        \"图片1：汽车人全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬\",\n        \"图片2：霸天虎全员列阵外星战舰甲板，威震天坐于王座俯视全军\"\n      ]\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:12.878Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Autobots Assembled at Lunar Base",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "汽车人在月球基地集结",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:15.007Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/songguoxiansen/status/2046952548469530716",
+      "originalId": "case-67",
+      "authors": [
+        {
+          "name": "songguoxiansen",
+          "url": "https://x.com/songguoxiansen"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 534
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ba32de06cd8b83ff",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case111/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case111/output.jpg",
+      "localPath": "public/assets/prompt_9b927669243069c6b204/313e9b7b5baa.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

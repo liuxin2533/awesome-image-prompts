@@ -1,0 +1,100 @@
+{
+  "id": "prompt_12dcfef6602471577c6b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "analyze this photo and give me a detailed JSON prompt that recreates it. break down the color grading and every exact color in the photo\n\n(use Opus, not Sonnet. Opus has stronger visual analysis and writes more detailed JSON)\n\npaste that JSON into ChatGPT\nupload your product image and prompt:\nusing this JSON as reference, generate a person holding my product\nsave that generated photo as your character reference\n\nattach it to every future generation for facial consistency\n\nyou now have a consistent UGC model that works across any product\n\nthe JSON controls the lighting and color grading. GPT image-2 handles the character. you control the product placement.\n\nthe #1 tell on AI photos is flat colors and a grainy look. this method removes both.\n5 minutes to set up. unlimited variations after.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n\"分析这张照片并给我一个详细的JSON提示来重现它。分解照片的色彩分级和每一种精确的颜色\"\n\n(使用Opus，而不是Sonnet。Opus具有更强的视觉分析能力，能写出更详细的JSON)\n\n\"将那个JSON粘贴到ChatGPT中\"\n\"上传你的产品图片和提示：\"\n\"使用这个JSON作为参考，生成一个拿着我产品的人\"\n\"将生成的照片保存为你的角色参考\"\n\n\"将其附加到未来的每一次生成中以保持面部一致性\"\n\n\"你现在有了一个可以在任何产品上使用的统一UGC模型\"\n\n\"JSON控制着光照和色彩分级。GPT image-2处理角色。你控制产品放置。\"\n\n\"AI照片最明显的特征是平坦的颜色和颗粒感的外观。这个方法消除了这两个问题。\"\n\"5分钟设置。之后无限变化。\"\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:13:40.386Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "analyze this photo and give me a detailed JSON prompt that recreates it. brea...",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/pavellaslov/status/2047182214304055339",
+      "originalId": "case-21",
+      "authors": [
+        {
+          "name": "pavellaslov",
+          "url": "https://x.com/pavellaslov"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 259
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_911a3c9840fda86e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case77/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case77/output.jpg",
+      "localPath": "public/assets/prompt_12dcfef6602471577c6b/499e67239e4a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

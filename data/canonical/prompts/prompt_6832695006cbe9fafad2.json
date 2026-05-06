@@ -1,0 +1,94 @@
+{
+  "id": "prompt_6832695006cbe9fafad2",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\n  \"type\": \"scene reference board — 90s apartment living room, cinematic night\",\n  \"style\": \"cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality\",\n  \"layout\": {\n    \"main_panel_center_left\": {\n      \"label\": \"CAMERA A — FRONT VIEW\",\n      \"scene\": \"Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain.\"\n    },\n    \"main_panel_center_right\": {\n      \"label\": \"CAMERA B — REVERSE VIEW\",\n      \"scene\": \"Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow.\"\n    },\n    \"prop_strip_bottom\": \"6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery\",\n    \"top_right_inset\": \"SOURCE REF thumbnail — original photo\",\n    \"footer\": \"2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM\"\n  },\n  \"background\": \"deep charcoal #1a1a1a, thin white separators\",\n  \"dimensions\": \"wide landscape 3:1, high resolution\"\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "90 年代公寓场景参考板",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "90",
+      "value": "90 年代公寓场景参考板",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-381",
+      "originalId": "case-381",
+      "authors": [
+        {
+          "name": "Iancu_ai",
+          "url": "https://x.com/Iancu_ai/status/2051287273581203888"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7111
+        }
+      ],
+      "rawSource": "[@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888) / [提示词回复](https://x.com/Iancu_ai/status/2051287283140096253)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_de1a0722ec52455e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case381.jpg",
+      "upstreamPath": "../data/images/case381.jpg",
+      "localPath": "public/assets/prompt_6832695006cbe9fafad2/304522435be7.jpg",
+      "alt": "90 年代公寓场景参考板",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.914Z"
+  }
+}

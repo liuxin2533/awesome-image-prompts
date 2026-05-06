@@ -1,0 +1,167 @@
+{
+  "id": "prompt_195b3e8b41bdbdc14d2a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A candid street-food cafe photo in a narrow old Taiwanese breakfast shop, shot in a realistic smartphone-photo style with soft natural daylight and a slightly warm documentary look. A young East Asian woman with {argument name=\"hair color\" default=\"black\"} shoulder-length straight hair sits on a small red plastic stool at a red laminate table, facing the camera and holding a hot scallion pancake wrap with both hands at chest height. Her face is intentionally obscured with a large soft blurred rectangle. She wears a white camisole with thin straps and tiny bow details, light blue high-waisted denim shorts, and a silver heart pendant necklace. Her pose is relaxed, seated slightly angled, with bare legs visible under the table. On the table are exactly 2 white plates of sliced stuffed scallion pancakes, 1 steaming paper cup with red Chinese text, 1 white bowl of soup with dark greens and tofu or curd pieces and a white soup spoon, plus scattered crumbs and paper wrappers. Steam should be clearly rising beside the cup and bowl. The food wrap in her hands looks overstuffed with egg, scallion pancake layers, and fillings peeking out. The background shows a busy, authentic local eatery interior: exactly 2 workers behind a glass display case, a Coca-Cola refrigerator, fluorescent tube lights overhead, an electric fan, tiled walls, and several Chinese menu signs and food posters with prices in New Taiwan dollars. Include visible traditional Chinese signage such as scallion pancakes, egg pancake rolls, soy milk, and prices around 30 to 55 yuan/TWD. Show a glass case on the right containing stacked fried dough sticks or pastries. On the left side, reveal part of the open storefront to the street with scooters and neighboring buildings faintly visible. Composition is vertical, full-body seated crop from head to knees, centered subject, shallow depth of field but enough detail to keep the shop readable, realistic skin tones, casual morning breakfast atmosphere, bustling everyday Taipei street-food aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Taiwan Breakfast Shop Candid Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Taiwan Breakfast Shop Candid Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a realistic vertical photo of a young woman eating breakfast in a busy Taiwanese street-side diner, ideal for lifestyle, travel, or food-scene imagery.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-1",
+      "originalId": "https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-1",
+      "authors": [
+        {
+          "name": "浅野 美咲（Asano Misaki）",
+          "url": "https://x.com/Asan0_Misaki"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1561
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_89a214fe78bf3e65",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367333404_5vgfp5_HG8hi45aQAALgGU.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367333404_5vgfp5_HG8hi45aQAALgGU.jpg",
+      "localPath": "public/assets/prompt_195b3e8b41bdbdc14d2a/aa937e20b295.jpg",
+      "alt": "Social Media Post - Taiwan Breakfast Shop Candid Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.564Z"
+  }
+}

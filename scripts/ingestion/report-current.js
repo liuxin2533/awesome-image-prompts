@@ -5,7 +5,8 @@ const path = require('path');
 const { Report } = require('./core/report');
 const { validateDataset } = require('./core/schema');
 const { emitMissingTranslationIssues } = require('./core/normalize');
-const { ensureDir, readJson, writeJson } = require('./core/persist');
+const { ensureDir, readCanonicalDataset, writeJson } = require('./core/persist');
+const { emitClassificationIssues } = require('./classification');
 
 function defaultProjectRoot() {
   return path.join(__dirname, '..', '..');
@@ -46,12 +47,13 @@ function refreshCurrentReport(options = {}) {
   const targetLanguages = options.targetLanguages?.length
     ? options.targetLanguages
     : parseList(process.env.TARGET_LANGUAGES, ['en', 'zh-CN']);
-  const dataset = options.dataset || readJson(path.join(projectRoot, 'data', 'canonical', 'prompts.json'));
+  const dataset = options.dataset || readCanonicalDataset(path.join(projectRoot, 'data', 'canonical', 'prompts.json'));
   const report = options.report || new Report();
 
   for (const prompt of dataset.prompts || []) {
     emitMissingTranslationIssues(prompt, targetLanguages, report);
   }
+  emitClassificationIssues(dataset, report);
   emitAssetIssues(dataset, report);
   report.merge(validateDataset(dataset));
 

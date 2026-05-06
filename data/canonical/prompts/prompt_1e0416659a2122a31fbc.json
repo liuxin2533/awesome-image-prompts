@@ -1,0 +1,87 @@
+{
+  "id": "prompt_1e0416659a2122a31fbc",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "帮我生成一张特朗普对战哈梅内伊在英雄联盟中路对线的截图。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "英雄联盟特朗普中路对决哈梅内伊",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "League of Legends Trump mid lane showdown Khamenei",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:06.178Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_76111a1725",
+      "value": "英雄联盟特朗普中路对决哈梅内伊",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-197",
+      "originalId": "case-197",
+      "authors": [
+        {
+          "name": "underwoodxie96",
+          "url": "https://x.com/underwoodxie96/status/2046529342415790275"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 901
+        }
+      ],
+      "rawSource": "[@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5f9735cdbe927b3f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case197.jpg",
+      "upstreamPath": "../data/images/case197.jpg",
+      "localPath": "public/assets/prompt_1e0416659a2122a31fbc/d9e4841f06ff.jpg",
+      "alt": "英雄联盟特朗普中路对决哈梅内伊",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

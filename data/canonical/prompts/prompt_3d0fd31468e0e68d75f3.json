@@ -1,0 +1,168 @@
+{
+  "id": "prompt_3d0fd31468e0e68d75f3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A sleek {argument name=\"product color\" default=\"white\"} {argument name=\"product\" default=\"sunscreen lotion tube\"} stands upright on a {argument name=\"setting\" default=\"sunlit rock by the sea\"}. Light reflects off the gentle blue waves behind it, while fine droplets sparkle on the surface of the tube. The background sky fades into soft cyan, creating a clean and luxurious summer aesthetic. Simple composition, minimalist tone, bright daylight photography, ultra-sharp details, high-definition realism, stock photo quality.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Luxury Sunscreen Product Shot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "產品行銷 - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロダクトマーケティング - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "제품 마케팅 - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोडक्ट मार्केटिंग - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Luxury Sunscreen Product Shot",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A minimalist, high-definition stock photo prompt for luxury skincare branding set against a coastal backdrop.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Strength04_X/status/2048792190948938130",
+      "originalId": "https://x.com/Strength04_X/status/2048792190948938130",
+      "authors": [
+        {
+          "name": "𝐌",
+          "url": "https://x.com/Strength04_X"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4401
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9ad8058bd9c0b2d5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367265344_yjh0ve_HG7FkohaQAA_Vak.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367265344_yjh0ve_HG7FkohaQAA_Vak.jpg",
+      "localPath": "public/assets/prompt_3d0fd31468e0e68d75f3/076beadcd02e.jpg",
+      "alt": "Product Marketing - Luxury Sunscreen Product Shot - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.565Z"
+  }
+}

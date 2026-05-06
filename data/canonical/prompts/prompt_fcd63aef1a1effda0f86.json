@@ -1,0 +1,102 @@
+{
+  "id": "prompt_fcd63aef1a1effda0f86",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic anime-inspired digital illustration set at night inside a cozy artist's room with large window panes and a warm city glow outside. On the left, a young male artist with {argument name=\"hair color\" default=\"dark brown\"} messy hair sits at a cluttered desk in side profile, leaning forward with one hand near his mouth and the other drawing with a pen on a tablet or sketchbook. The desk is covered with exactly 1 pen cup filled with pencils, 1 coffee mug, 1 open laptop or pen-display showing a sunset landscape, 1 spiral sketchbook with manga-style character drawings, 2 additional drawing books or pads, 1 small stack of about 4 books, and many scattered art cards and printed illustrations. On the right, a luminous ethereal anime girl made of blue-white light appears life-sized, facing the artist with both hands gently extended toward him. Her form is translucent, delicate, and composed of glowing contour lines, starry particles, and flowing strands of light, with long windblown hair and a soft dress-like silhouette. Between them, a magical stream of golden and white light spirals upward from the artist's desk into the air, connecting creator and creation. Inside this swirling ribbon are exactly 12 to 16 floating image fragments and sketch pages: monochrome character sketches, scenic sunset paintings, small photo-like panels, and tiny icon-like cards, all orbiting in a curved arc from lower center to upper left and upper center. Around the upper half of the image, dozens of glowing musical notes float through the air, mixed with sparkling particles, creating the feeling that inspiration has become visible sound and memory. The palette is rich warm gold and amber on the artist's side, contrasted with cool electric blue and white on the spirit girl's side, with dramatic rim light, volumetric glow, intricate particles, and a dreamy emotional atmosphere. Composition is vertical, highly detailed, intimate, and poetic, evoking the relationship between {argument name=\"person one\" default=\"you\"} and {argument name=\"person two\" default=\"me\"} as artist and imagined muse, where drawings, music, memories, and fantasy physically manifest in the room. Add a small handwritten note card on the desk with {argument name=\"note text\" default=\"二人だけの物語\"}, and display one prominent artwork on the desk and one floating scenic panel using {argument name=\"scene theme\" default=\"sunset sky over a distant city\"}.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "夜晚在一个舒适的艺术家房间里，有大窗户和外面温暖的城市场景，电影感的动漫风格数字插画。左边，一位头发凌乱的年轻男性艺术家（{argument name=\"hair color\" default=\"dark brown\"}）侧坐在杂乱的桌前，身体前倾，一只手靠近嘴巴，另一只手在平板电脑或素描本上用笔画画。桌子上放着一个装满铅笔的笔筒（1个）、一个咖啡杯（1个）、一台显示日落风景的打开的笔记本电脑或数位屏（1个）、一本有动漫风格人物素描的螺旋素描本（1本）、两本额外的绘画书或画板（2本）、一小叠约4本书（1叠），以及许多散落的艺术卡和印刷插画。右边，一个由蓝白光组成的发光的空灵动漫女孩以真实大小出现，面对艺术家，双手温柔地向他伸出。她的形态是半透明的、精致的，由发光的轮廓线、星尘粒子和流动的光线组成，有着长长的飘动头发和柔和的连衣裙般的轮廓。在他们之间，一道金白相间的魔法光流从艺术家的桌面螺旋上升至空中，连接着创造者和被创造物。在这个旋转的丝带内有12到16个漂浮的图像片段和素描页面：单色人物素描、风景日落画、小照片般的面板和小图标般的卡片，所有这些都沿着从中心下方到左上方和中心上方的弯曲轨道运行。在图像的上半部分，数十个发光的音符在空中漂浮，与闪烁的粒子混合在一起，创造出灵感已成为可见的声音和记忆的感觉。调色板上，艺术家一侧是丰富的暖金色和琥珀色，与精神女孩一侧的冷电蓝色和白色形成对比，具有戏剧性的轮廓光、体积感光效、精细粒子和梦幻的情感氛围。构图是垂直的、高度详细的、亲密的、富有诗意的，唤起了{argument name=\"person one\" default=\"you\"}和{argument name=\"person two\" default=\"me\"}之间作为艺术家和想象中的缪斯的关系，其中绘画、音乐、记忆和幻想在房间里物理地显现。在桌子上添加一张手写的小卡片，上面写着{argument name=\"note text\" default=\"二人だけの物語\"}，并在桌子上展示一幅突出的艺术品，以及一个使用{argument name=\"scene theme\" default=\"sunset sky over a distant city\"}的漂浮风景面板。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:34:42.140Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Artist and Ethereal Muse at Night",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/almimeister/status/2048309710118687101",
+      "originalId": "case-120",
+      "authors": [
+        {
+          "name": "almimeister",
+          "url": "https://x.com/almimeister"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 805
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8e7d98f548a97358",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case120/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case120/output.jpg",
+      "localPath": "public/assets/prompt_fcd63aef1a1effda0f86/df548cc4473c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "character",
+      "card",
+      "profile",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.563Z"
+  }
+}

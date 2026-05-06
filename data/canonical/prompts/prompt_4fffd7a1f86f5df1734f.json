@@ -1,0 +1,99 @@
+{
+  "id": "prompt_4fffd7a1f86f5df1734f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "请以四格漫画的形式描绘我是如何对待你的。首先请提供一个约800字的情节文本，当我说\"画出来\"时，请根据这个情节画出四格漫画。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:03:37.066Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "A/B Test Signed Output",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/saskr_13/status/2044744396932079934",
+      "originalId": "case-16",
+      "authors": [
+        {
+          "name": "saskr_13",
+          "url": "https://x.com/saskr_13"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 41
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1b0853454f59e31e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case16/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case16/output.jpg",
+      "localPath": "public/assets/prompt_4fffd7a1f86f5df1734f/602770453479.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "漫画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.574Z"
+  }
+}

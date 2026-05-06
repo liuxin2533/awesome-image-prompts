@@ -1,0 +1,101 @@
+{
+  "id": "prompt_cdc9ceec3117c3bdfc58",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding CALMING GREEN TEA -- 7 Days to Soothed Skin, pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "舒缓绿茶精华套组正面展示，打开的盒子展示柔和鼠尾草绿色的薄膜袋和带有哑光银色瓶盖的透明安瓿瓶，产品居中放置，带有清晰的品牌标识\"舒缓绿茶 -- 7天舒缓肌肤\"，柔和的绿色背景，带有植物图形装饰，三个简约图标（叶子、波浪、平衡）围绕产品漂浮，强调功效，摄影风格，超精细，超逼真，栩栩如生，8K，高细节，柔和的专业灯光。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:06.012Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ZaraIrahh/status/2047180061657452601",
+      "originalId": "case-22",
+      "authors": [
+        {
+          "name": "ZaraIrahh",
+          "url": "https://x.com/ZaraIrahh"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 287
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_aabc87921ab81a16",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case78/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case78/output.jpg",
+      "localPath": "public/assets/prompt_cdc9ceec3117c3bdfc58/83d381875357.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

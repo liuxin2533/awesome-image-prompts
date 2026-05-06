@@ -1,0 +1,108 @@
+{
+  "id": "prompt_0f40992bc687dad3ce09",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "『神層37区 特級執行官 神巫サバト』この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "『神层37区 特级执行官 神巫萨巴特』请以专业设计师的身份，为这个名称的角色和世界观制作一个竖向海报的视觉形象。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:01:13.881Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Character Visual Vertical Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "角色视觉垂直海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:01:13.686Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/tebasaki3D/status/2046371076402503709",
+      "originalId": "case-38",
+      "authors": [
+        {
+          "name": "tebasaki3D",
+          "url": "https://x.com/tebasaki3D"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 262
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a24989ab94b5be17",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg",
+      "localPath": "public/assets/prompt_0f40992bc687dad3ce09/fce52ef80b40.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

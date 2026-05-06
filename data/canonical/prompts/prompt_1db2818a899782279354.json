@@ -1,0 +1,175 @@
+{
+  "id": "prompt_1db2818a899782279354",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"corporate consulting presentation slide\",\"language\":\"Japanese with small English subtitles\",\"format\":\"16:9 widescreen slide, clean white background, navy and royal blue business style\",\"title\":\"{argument name=\\\"main title\\\" default=\\\"市場構造と成長余地\\\"}\",\"subtitle\":\"Market Landscape\",\"top_right_label\":\"Confidential | Sample\",\"page_number\":\"02\",\"theme\":{\"primary_color\":\"deep navy\",\"accent_color\":\"royal blue\",\"secondary_color\":\"pale blue\",\"lines\":\"thin navy divider lines\",\"typography\":\"modern sans-serif, bold Japanese headings, restrained consulting-deck style\"},\"layout\":{\"top\":{\"position\":\"upper left\",\"content\":\"large bold Japanese title with smaller English subtitle underneath; confidentiality label at upper right\"},\"key_message_banner\":{\"position\":\"full width below title\",\"background\":\"very pale blue rectangle\",\"text\":\"{argument name=\\\"key message\\\" default=\\\"示唆：成長余地は大きいが、競争軸は『集客量』から『顧客体験』へ変化\\\"}\",\"style\":\"centered bold navy Japanese text\"},\"main_content\":{\"columns\":2,\"divider\":\"thin vertical gray line between columns\",\"left_section\":{\"title\":\"市場規模推移\",\"type\":\"bar chart\",\"position\":\"left half\",\"chart_details\":{\"badge\":\"CAGR 8%\",\"y_axis_label\":\"(兆円)\",\"y_axis_range\":\"0.0 to 3.0\",\"gridlines\":\"light gray dotted horizontal gridlines\",\"bar_count\":5,\"bars\":[{\"year\":\"2022\",\"value_label\":\"1.8兆円\"},{\"year\":\"2023\",\"value_label\":\"1.9兆円\"},{\"year\":\"2024\",\"value_label\":\"2.1兆円\"},{\"year\":\"2025E\",\"value_label\":\"2.3兆円\"},{\"year\":\"2026E\",\"value_label\":\"2.5兆円\"}],\"bar_style\":\"solid royal blue vertical bars\"},\"note_box\":{\"count\":2,\"bullets\":[\"市場拡大は継続する一方、獲得競争は激化\",\"高付加価値カテゴリの伸長が全体成長を牽引\"],\"style\":\"outlined white box with navy left accent line\"}},\"right_section\":{\"title\":\"競争ポジション\",\"type\":\"2x2 positioning matrix\",\"position\":\"right half\",\"matrix_details\":{\"x_axis\":\"価格競争力\",\"x_axis_left\":\"低\",\"x_axis_right\":\"高\",\"y_axis\":\"顧客体験\",\"y_axis_bottom\":\"低\",\"y_axis_top\":\"高\",\"axis_arrows\":\"black arrows pointing right and upward\",\"crosshair\":\"light gray dotted vertical and horizontal midpoint lines\",\"bubble_count\":4,\"bubbles\":[{\"label\":\"競合A\",\"position\":\"upper left\",\"style\":\"pale blue circle\"},{\"label\":\"自社\",\"position\":\"upper right\",\"style\":\"dark royal blue circle with white text\"},{\"label\":\"競合C\",\"position\":\"lower left\",\"style\":\"very pale blue circle\"},{\"label\":\"競合B\",\"position\":\"lower right\",\"style\":\"very pale blue circle\"}]},\"note_box\":{\"text\":\"{argument name=\\\"right insight text\\\" default=\\\"勝ち筋：価格訴求ではなく、UX・CRM・配送品質の一体改善\\\"}\",\"style\":\"outlined white box with navy left accent line\"}}},\"bottom_navigation\":{\"position\":\"bottom center\",\"tab_count\":3,\"tabs\":[\"Market Growth\",\"Competitive Shift\",\"Premiumization\"],\"style\":\"three thin outlined rectangular tabs in navy, evenly spaced\"}},\"composition\":\"precise slide grid, generous margins, horizontal navy rules separating header/content/footer, polished strategy-consulting PowerPoint aesthetic, no photos or illustrations, sharp vector graphics\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"企业咨询演示 Slides\",\"language\":\"日语，配有少量英语副标题\",\"format\":\"16:9 宽屏 Slides，干净的白色背景，海军蓝与宝蓝色商务风格\",\"title\":\"{argument name=\\\"main title\\\" default=\\\"市场结构与增长空间\\\"}\",\"subtitle\":\"Market Landscape\",\"top_right_label\":\"机密 | 样本\",\"page_number\":\"02\",\"theme\":{\"primary_color\":\"深海军蓝\",\"accent_color\":\"宝蓝色\",\"secondary_color\":\"淡蓝色\",\"lines\":\"细海军蓝分割线\",\"typography\":\"现代无衬线字体，粗体日语标题，克制的咨询演示文稿风格\"},\"layout\":{\"top\":{\"position\":\"左上角\",\"content\":\"大号粗体日语标题，下方配有较小的英语副标题；右上角为机密标签\"},\"key_message_banner\":{\"position\":\"标题下方全宽\",\"background\":\"极淡蓝色矩形\",\"text\":\"{argument name=\\\"key message\\\" default=\\\"示唆：市场增长空间巨大，但竞争核心已从“获客量”转向“客户体验”\\\"}\",\"style\":\"居中粗体海军蓝日语文本\"},\"main_content\":{\"columns\":2,\"divider\":\"列间细垂直灰线\",\"left_section\":{\"title\":\"市场规模趋势\",\"type\":\"柱状图\",\"position\":\"左半部分\",\"chart_details\":{\"badge\":\"CAGR 8%\",\"y_axis_label\":\"(万亿日元)\",\"y_axis_range\":\"0.0 到 3.0\",\"gridlines\":\"浅灰色虚线水平网格线\",\"bar_count\":5,\"bars\":[{\"year\":\"2022\",\"value_label\":\"1.8 万亿日元\"},{\"year\":\"2023\",\"value_label\":\"1.9 万亿日元\"},{\"year\":\"2024\",\"value_label\":\"2.1 万亿日元\"},{\"year\":\"2025E\",\"value_label\":\"2.3 万亿日元\"},{\"year\":\"2026E\",\"value_label\":\"2.5 万亿日元\"}],\"bar_style\":\"实心宝蓝色垂直柱\"},\"note_box\":{\"count\":2,\"bullets\":[\"市场持续扩大，但获客竞争日益激烈\",\"高附加值类别的增长带动了整体市场提升\"],\"style\":\"带海军蓝左侧强调线的白色边框框\"}},\"right_section\":{\"title\":\"竞争定位\",\"type\":\"2x2 定位矩阵\",\"position\":\"右半部分\",\"matrix_details\":{\"x_axis\":\"价格竞争力\",\"x_axis_left\":\"低\",\"x_axis_right\":\"高\",\"y_axis\":\"客户体验\",\"y_axis_bottom\":\"低\",\"y_axis_top\":\"高\",\"axis_arrows\":\"指向右侧和上方的黑色箭头\",\"crosshair\":\"浅灰色虚线垂直和水平中线\",\"bubble_count\":4,\"bubbles\":[{\"label\":\"竞品 A\",\"position\":\"左上\",\"style\":\"淡蓝色圆圈\"},{\"label\":\"自社\",\"position\":\"右上\",\"style\":\"深宝蓝色圆圈，白色文字\"},{\"label\":\"竞品 C\",\"position\":\"左下\",\"style\":\"极淡蓝色圆圈\"},{\"label\":\"竞品 B\",\"position\":\"右下\",\"style\":\"极淡蓝色圆圈\"}]},\"note_box\":{\"text\":\"{argument name=\\\"right insight text\\\" default=\\\"胜算：非价格诉求，而是 UX、CRM 及配送质量的一体化改善\\\"}\",\"style\":\"带海军蓝左侧强调线的白色边框框\"}}},\"bottom_navigation\":{\"position\":\"底部居中\",\"tab_count\":3,\"tabs\":[\"市场增长\",\"竞争格局转变\",\"高端化\"],\"style\":\"三个海军蓝细边框矩形标签，均匀分布\"}},\"composition\":\"精确的 Slides 网格，宽裕的页边距，分隔页眉/内容/页脚的水平海军蓝线，精致的战略咨询 PowerPoint 美学，无照片或插图，清晰的矢量图形\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"diapositiva de presentación de consultoría corporativa\",\"language\":\"japonés con pequeños subtítulos en inglés\",\"format\":\"diapositiva panorámica 16:9, fondo blanco limpio, estilo empresarial en azul marino y azul real\",\"title\":\"{argument name=\\\"main title\\\" default=\\\"市場構造と成長余地\\\"}\",\"subtitle\":\"Panorama del mercado\",\"top_right_label\":\"Confidencial | Muestra\",\"page_number\":\"02\",\"theme\":{\"primary_color\":\"azul marino profundo\",\"accent_color\":\"azul real\",\"secondary_color\":\"azul pálido\",\"lines\":\"líneas divisorias finas en azul marino\",\"typography\":\"sans-serif moderna, encabezados en japonés en negrita, estilo de presentación de consultoría sobrio\"},\"layout\":{\"top\":{\"position\":\"superior izquierda\",\"content\":\"título grande en japonés en negrita con un subtítulo más pequeño en inglés debajo; etiqueta de confidencialidad en la parte superior derecha\"},\"key_message_banner\":{\"position\":\"ancho completo debajo del título\",\"background\":\"rectángulo azul muy pálido\",\"text\":\"{argument name=\\\"key message\\\" default=\\\"示唆：成長余地は大きいが、競争軸は『集客量』から『顧客体験』へ変化\\\"}\",\"style\":\"texto en japonés centrado, en negrita y color azul marino\"},\"main_content\":{\"columns\":2,\"divider\":\"línea vertical gris fina entre columnas\",\"left_section\":{\"title\":\"市場規模推移\",\"type\":\"gráfico de barras\",\"position\":\"mitad izquierda\",\"chart_details\":{\"badge\":\"CAGR 8%\",\"y_axis_label\":\"(兆円)\",\"y_axis_range\":\"0.0 a 3.0\",\"gridlines\":\"líneas de cuadrícula horizontales punteadas en gris claro\",\"bar_count\":5,\"bars\":[{\"year\":\"2022\",\"value_label\":\"1.8兆円\"},{\"year\":\"2023\",\"value_label\":\"1.9兆円\"},{\"year\":\"2024\",\"value_label\":\"2.1兆円\"},{\"year\":\"2025E\",\"value_label\":\"2.3兆円\"},{\"year\":\"2026E\",\"value_label\":\"2.5兆円\"}],\"bar_style\":\"barras verticales sólidas en azul real\"},\"note_box\":{\"count\":2,\"bullets\":[\"市場拡大は継続する一方、獲得競争は激化\",\"高付加価値カテゴリの伸長が全体成長を牽引\"],\"style\":\"caja blanca con borde y línea de acento izquierda en azul marino\"}},\"right_section\":{\"title\":\"競争ポジション\",\"type\":\"matriz de posicionamiento 2x2\",\"position\":\"mitad derecha\",\"matrix_details\":{\"x_axis\":\"価格競争力\",\"x_axis_left\":\"低\",\"x_axis_right\":\"高\",\"y_axis\":\"顧客体験\",\"y_axis_bottom\":\"低\",\"y_axis_top\":\"高\",\"axis_arrows\":\"flechas negras apuntando a la derecha y hacia arriba\",\"crosshair\":\"líneas de punto medio verticales y horizontales punteadas en gris claro\",\"bubble_count\":4,\"bubbles\":[{\"label\":\"競合A\",\"position\":\"upper left\",\"style\":\"círculo azul pálido\"},{\"label\":\"自社\",\"position\":\"upper right\",\"style\":\"círculo azul real oscuro con texto blanco\"},{\"label\":\"競合C\",\"position\":\"lower left\",\"style\":\"círculo azul muy pálido\"},{\"label\":\"競合B\",\"position\":\"lower right\",\"style\":\"círculo azul muy pálido\"}]},\"note_box\":{\"text\":\"{argument name=\\\"right insight text\\\" default=\\\"勝ち筋：価格訴求ではなく、UX・CRM・配送品質の一体改善\\\"}\",\"style\":\"caja blanca con borde y línea de acento izquierda en azul marino\"}}},\"bottom_navigation\":{\"position\":\"centro inferior\",\"tab_count\":3,\"tabs\":[\"Crecimiento del mercado\",\"Cambio competitivo\",\"Premiumización\"],\"style\":\"tres pestañas rectangulares finas con borde en azul marino, espaciadas uniformemente\"}},\"composition\":\"cuadrícula de diapositiva precisa, márgenes generosos, reglas horizontales en azul marino que separan el encabezado, el contenido y el pie de página, estética pulida de PowerPoint para consultoría estratégica, sin fotos ni ilustraciones, gráficos vectoriales nítidos\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"Unternehmensberatungs-Präsentationsfolie\",\"language\":\"Japanisch mit kleinen englischen Untertiteln\",\"format\":\"16:9 Breitbild-Folie, sauberer weißer Hintergrund, Business-Stil in Marine- und Königsblau\",\"title\":\"{argument name=\\\"main title\\\" default=\\\"Marktstruktur und Wachstumspotenzial\\\"}\",\"subtitle\":\"Marktlandschaft\",\"top_right_label\":\"Vertraulich | Beispiel\",\"page_number\":\"02\",\"theme\":{\"primary_color\":\"Dunkelmarineblau\",\"accent_color\":\"Königsblau\",\"secondary_color\":\"Hellblau\",\"lines\":\"dünne marineblaue Trennlinien\",\"typography\":\"moderne serifenlose Schrift, fette japanische Überschriften, zurückhaltender Consulting-Stil\"},\"layout\":{\"top\":{\"position\":\"oben links\",\"content\":\"großer, fetter japanischer Titel mit kleinerem englischen Untertitel darunter; Vertraulichkeitshinweis oben rechts\"},\"key_message_banner\":{\"position\":\"volle Breite unter dem Titel\",\"background\":\"sehr hellblaues Rechteck\",\"text\":\"{argument name=\\\"key message\\\" default=\\\"Erkenntnis: Großes Wachstumspotenzial, aber der Wettbewerbsfokus verschiebt sich von der 'Kundengewinnung' hin zum 'Kundenerlebnis'\\\"}\",\"style\":\"zentrierter, fetter marineblauer japanischer Text\"},\"main_content\":{\"columns\":2,\"divider\":\"dünne vertikale graue Linie zwischen den Spalten\",\"left_section\":{\"title\":\"Marktgrößenentwicklung\",\"type\":\"Balkendiagramm\",\"position\":\"linke Hälfte\",\"chart_details\":{\"badge\":\"CAGR 8%\",\"y_axis_label\":\"(Billionen Yen)\",\"y_axis_range\":\"0,0 bis 3,0\",\"gridlines\":\"hellgraue gepunktete horizontale Gitterlinien\",\"bar_count\":5,\"bars\":[{\"year\":\"2022\",\"value_label\":\"1,8 Bio. Yen\"},{\"year\":\"2023\",\"value_label\":\"1,9 Bio. Yen\"},{\"year\":\"2024\",\"value_label\":\"2,1 Bio. Yen\"},{\"year\":\"2025E\",\"value_label\":\"2,3 Bio. Yen\"},{\"year\":\"2026E\",\"value_label\":\"2,5 Bio. Yen\"}],\"bar_style\":\"solide königsblaue vertikale Balken\"},\"note_box\":{\"count\":2,\"bullets\":[\"Marktexpansion hält an, während der Akquisitionswettbewerb zunimmt\",\"Wachstum in hochwertigen Kategorien treibt die Gesamtentwicklung an\"],\"style\":\"umrandetes weißes Feld mit marineblauer Akzentlinie auf der linken Seite\"}},\"right_section\":{\"title\":\"Wettbewerbspositionierung\",\"type\":\"2x2-Positionierungsmatrix\",\"position\":\"rechte Hälfte\",\"matrix_details\":{\"x_axis\":\"Preiswettbewerbsfähigkeit\",\"x_axis_left\":\"Niedrig\",\"x_axis_right\":\"Hoch\",\"y_axis\":\"Kundenerlebnis\",\"y_axis_bottom\":\"Niedrig\",\"y_axis_top\":\"Hoch\",\"axis_arrows\":\"schwarze Pfeile nach rechts und oben\",\"crosshair\":\"hellgraue gepunktete vertikale und horizontale Mittellinien\",\"bubble_count\":4,\"bubbles\":[{\"label\":\"Wettbewerber A\",\"position\":\"oben links\",\"style\":\"hellblauer Kreis\"},{\"label\":\"Eigenes Unternehmen\",\"position\":\"oben rechts\",\"style\":\"dunkelblauer Kreis mit weißem Text\"},{\"label\":\"Wettbewerber C\",\"position\":\"unten links\",\"style\":\"sehr hellblauer Kreis\"},{\"label\":\"Wettbewerber B\",\"position\":\"unten rechts\",\"style\":\"sehr hellblauer Kreis\"}]},\"note_box\":{\"text\":\"{argument name=\\\"right insight text\\\" default=\\\"Erfolgsfaktor: Nicht Preisdruck, sondern ganzheitliche Verbesserung von UX, CRM und Lieferqualität\\\"}\",\"style\":\"umrandetes weißes Feld mit marineblauer Akzentlinie auf der linken Seite\"}}},\"bottom_navigation\":{\"position\":\"unten mittig\",\"tab_count\":3,\"tabs\":[\"Marktwachstum\",\"Wettbewerbsverschiebung\",\"Premiumisierung\"],\"style\":\"drei dünne, umrandete rechteckige Reiter in Marineblau, gleichmäßig verteilt\"}},\"composition\":\"präzises Foliengitter, großzügige Ränder, horizontale marineblaue Linien zur Trennung von Kopfzeile, Inhalt und Fußzeile, polierte Strategie-Consulting-PowerPoint-Ästhetik, keine Fotos oder Illustrationen, scharfe Vektorgrafiken\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"diapositive de présentation de conseil en entreprise\",\"language\":\"japonais avec petits sous-titres en anglais\",\"format\":\"diapositive 16:9 panoramique, fond blanc épuré, style professionnel bleu marine et bleu roi\",\"title\":\"{argument name=\\\"main title\\\" default=\\\"市場構造と成長余地\\\"}\",\"subtitle\":\"Paysage du marché\",\"top_right_label\":\"Confidentiel | Échantillon\",\"page_number\":\"02\",\"theme\":{\"primary_color\":\"bleu marine profond\",\"accent_color\":\"bleu roi\",\"secondary_color\":\"bleu pâle\",\"lines\":\"fines lignes de séparation bleu marine\",\"typography\":\"sans-serif moderne, titres japonais en gras, style de présentation de conseil sobre\"},\"layout\":{\"top\":{\"position\":\"en haut à gauche\",\"content\":\"grand titre japonais en gras avec un sous-titre anglais plus petit en dessous ; étiquette de confidentialité en haut à droite\"},\"key_message_banner\":{\"position\":\"pleine largeur sous le titre\",\"background\":\"rectangle bleu très pâle\",\"text\":\"{argument name=\\\"key message\\\" default=\\\"示唆：成長余地は大きいが、競争軸は『集客量』から『顧客体験』へ変化\\\"}\",\"style\":\"texte japonais bleu marine centré en gras\"},\"main_content\":{\"columns\":2,\"divider\":\"fine ligne verticale grise entre les colonnes\",\"left_section\":{\"title\":\"Évolution de la taille du marché\",\"type\":\"graphique à barres\",\"position\":\"moitié gauche\",\"chart_details\":{\"badge\":\"TCAC 8%\",\"y_axis_label\":\"(trillions de yens)\",\"y_axis_range\":\"0.0 à 3.0\",\"gridlines\":\"lignes de grille horizontales pointillées gris clair\",\"bar_count\":5,\"bars\":[{\"year\":\"2022\",\"value_label\":\"1.8 trillion de yens\"},{\"year\":\"2023\",\"value_label\":\"1.9 trillion de yens\"},{\"year\":\"2024\",\"value_label\":\"2.1 trillions de yens\"},{\"year\":\"2025E\",\"value_label\":\"2.3 trillions de yens\"},{\"year\":\"2026E\",\"value_label\":\"2.5 trillions de yens\"}],\"bar_style\":\"barres verticales bleu roi pleines\"},\"note_box\":{\"count\":2,\"bullets\":[\"L'expansion du marché se poursuit tandis que la concurrence s'intensifie\",\"La croissance des catégories à haute valeur ajoutée tire la croissance globale\"],\"style\":\"boîte blanche encadrée avec ligne d'accentuation bleu marine à gauche\"}},\"right_section\":{\"title\":\"Positionnement concurrentiel\",\"type\":\"matrice de positionnement 2x2\",\"position\":\"moitié droite\",\"matrix_details\":{\"x_axis\":\"Compétitivité prix\",\"x_axis_left\":\"Faible\",\"x_axis_right\":\"Élevée\",\"y_axis\":\"Expérience client\",\"y_axis_bottom\":\"Faible\",\"y_axis_top\":\"Élevée\",\"axis_arrows\":\"flèches noires pointant vers la droite et le haut\",\"crosshair\":\"lignes médianes verticales et horizontales pointillées gris clair\",\"bubble_count\":4,\"bubbles\":[{\"label\":\"Concurrent A\",\"position\":\"en haut à gauche\",\"style\":\"cercle bleu pâle\"},{\"label\":\"Notre entreprise\",\"position\":\"en haut à droite\",\"style\":\"cercle bleu roi foncé avec texte blanc\"},{\"label\":\"Concurrent C\",\"position\":\"en bas à gauche\",\"style\":\"cercle bleu très pâle\"},{\"label\":\"Concurrent B\",\"position\":\"en bas à droite\",\"style\":\"cercle bleu très pâle\"}]},\"note_box\":{\"text\":\"{argument name=\\\"right insight text\\\" default=\\\"勝ち筋：価格訴求ではなく、UX・CRM・配送品質の一体改善\\\"}\",\"style\":\"boîte blanche encadrée avec ligne d'accentuation bleu marine à gauche\"}}},\"bottom_navigation\":{\"position\":\"en bas au centre\",\"tab_count\":3,\"tabs\":[\"Croissance du marché\",\"Changement concurrentiel\",\"Montée en gamme\"],\"style\":\"trois onglets rectangulaires fins encadrés en bleu marine, espacés uniformément\"}},\"composition\":\"grille de diapositive précise, marges généreuses, règles horizontales bleu marine séparant l'en-tête, le contenu et le pied de page, esthétique PowerPoint de conseil en stratégie soignée, pas de photos ni d'illustrations, graphiques vectoriels nets\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"slide di presentazione di consulenza aziendale\",\"language\":\"giapponese con brevi sottotitoli in inglese\",\"format\":\"slide 16:9 widescreen, sfondo bianco pulito, stile business in blu navy e blu reale\",\"title\":\"{argument name=\\\"main title\\\" default=\\\"Struttura del mercato e potenziale di crescita\\\"}\",\"subtitle\":\"Market Landscape\",\"top_right_label\":\"Confidenziale | Esempio\",\"page_number\":\"02\",\"theme\":{\"primary_color\":\"blu navy intenso\",\"accent_color\":\"blu reale\",\"secondary_color\":\"azzurro pallido\",\"lines\":\"linee divisorie sottili blu navy\",\"typography\":\"sans-serif moderno, titoli in giapponese in grassetto, stile sobrio da deck di consulenza\"},\"layout\":{\"top\":{\"position\":\"in alto a sinistra\",\"content\":\"titolo grande in giapponese in grassetto con sottotitolo in inglese più piccolo sotto; etichetta di riservatezza in alto a destra\"},\"key_message_banner\":{\"position\":\"larghezza intera sotto il titolo\",\"background\":\"rettangolo azzurro molto chiaro\",\"text\":\"{argument name=\\\"key message\\\" default=\\\"Insight: ampio potenziale di crescita, ma il focus competitivo si sposta dal 'volume di acquisizione' alla 'customer experience'\\\"}\",\"style\":\"testo in giapponese blu navy centrato in grassetto\"},\"main_content\":{\"columns\":2,\"divider\":\"linea verticale grigia sottile tra le colonne\",\"left_section\":{\"title\":\"Andamento delle dimensioni del mercato\",\"type\":\"grafico a barre\",\"position\":\"metà sinistra\",\"chart_details\":{\"badge\":\"CAGR 8%\",\"y_axis_label\":\"(trilioni di yen)\",\"y_axis_range\":\"0.0 a 3.0\",\"gridlines\":\"linee griglia orizzontali tratteggiate grigio chiaro\",\"bar_count\":5,\"bars\":[{\"year\":\"2022\",\"value_label\":\"1,8 trilioni di yen\"},{\"year\":\"2023\",\"value_label\":\"1,9 trilioni di yen\"},{\"year\":\"2024\",\"value_label\":\"2,1 trilioni di yen\"},{\"year\":\"2025E\",\"value_label\":\"2,3 trilioni di yen\"},{\"year\":\"2026E\",\"value_label\":\"2,5 trilioni di yen\"}],\"bar_style\":\"barre verticali solide blu reale\"},\"note_box\":{\"count\":2,\"bullets\":[\"L'espansione del mercato continua, ma la competizione per l'acquisizione si intensifica\",\"La crescita delle categorie ad alto valore aggiunto traina la crescita complessiva\"],\"style\":\"box bianco con bordo e linea di accento blu navy a sinistra\"}},\"right_section\":{\"title\":\"Posizionamento competitivo\",\"type\":\"matrice di posizionamento 2x2\",\"position\":\"metà destra\",\"matrix_details\":{\"x_axis\":\"Competitività di prezzo\",\"x_axis_left\":\"Bassa\",\"x_axis_right\":\"Alta\",\"y_axis\":\"Customer Experience\",\"y_axis_bottom\":\"Bassa\",\"y_axis_top\":\"Alta\",\"axis_arrows\":\"frecce nere rivolte a destra e verso l'alto\",\"crosshair\":\"linee mediane verticali e orizzontali tratteggiate grigio chiaro\",\"bubble_count\":4,\"bubbles\":[{\"label\":\"Competitor A\",\"position\":\"in alto a sinistra\",\"style\":\"cerchio azzurro pallido\"},{\"label\":\"Azienda\",\"position\":\"in alto a destra\",\"style\":\"cerchio blu reale scuro con testo bianco\"},{\"label\":\"Competitor C\",\"position\":\"in basso a sinistra\",\"style\":\"cerchio azzurro molto chiaro\"},{\"label\":\"Competitor B\",\"position\":\"in basso a destra\",\"style\":\"cerchio azzurro molto chiaro\"}]},\"note_box\":{\"text\":\"{argument name=\\\"right insight text\\\" default=\\\"Strategia vincente: non puntare sul prezzo, ma sul miglioramento integrato di UX, CRM e qualità della consegna\\\"}\",\"style\":\"box bianco con bordo e linea di accento blu navy a sinistra\"}}},\"bottom_navigation\":{\"position\":\"in basso al centro\",\"tab_count\":3,\"tabs\":[\"Crescita del mercato\",\"Spostamento competitivo\",\"Premiumizzazione\"],\"style\":\"tre schede rettangolari sottili con bordo blu navy, equamente distanziate\"}},\"composition\":\"griglia della slide precisa, margini generosi, linee orizzontali blu navy che separano intestazione/contenuto/piè di pagina, estetica da consulenza strategica PowerPoint, nessuna foto o illustrazione, grafica vettoriale nitida\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"slide de apresentação de consultoria corporativa\",\"language\":\"japonês com pequenas legendas em inglês\",\"format\":\"slide widescreen 16:9, fundo branco limpo, estilo de negócios em azul marinho e azul royal\",\"title\":\"{argument name=\\\"main title\\\" default=\\\"市場構造と成長余地\\\"}\",\"subtitle\":\"Panorama do Mercado\",\"top_right_label\":\"Confidencial | Amostra\",\"page_number\":\"02\",\"theme\":{\"primary_color\":\"azul marinho profundo\",\"accent_color\":\"azul royal\",\"secondary_color\":\"azul claro\",\"lines\":\"linhas divisórias finas em azul marinho\",\"typography\":\"sans-serif moderna, títulos em japonês em negrito, estilo de deck de consultoria contido\"},\"layout\":{\"top\":{\"position\":\"superior esquerdo\",\"content\":\"título grande em japonês em negrito com subtítulo menor em inglês abaixo; etiqueta de confidencialidade no canto superior direito\"},\"key_message_banner\":{\"position\":\"largura total abaixo do título\",\"background\":\"retângulo azul muito claro\",\"text\":\"{argument name=\\\"key message\\\" default=\\\"示唆：成長余地は大きいが、競争軸は『集客量』から『顧客体験』へ変化\\\"}\",\"style\":\"texto em japonês centralizado em negrito azul marinho\"},\"main_content\":{\"columns\":2,\"divider\":\"linha vertical cinza fina entre as colunas\",\"left_section\":{\"title\":\"Tendência do Tamanho do Mercado\",\"type\":\"gráfico de barras\",\"position\":\"metade esquerda\",\"chart_details\":{\"badge\":\"CAGR 8%\",\"y_axis_label\":\"(trilhões de ienes)\",\"y_axis_range\":\"0.0 a 3.0\",\"gridlines\":\"linhas de grade horizontais pontilhadas cinza claro\",\"bar_count\":5,\"bars\":[{\"year\":\"2022\",\"value_label\":\"1.8 trilhões de ienes\"},{\"year\":\"2023\",\"value_label\":\"1.9 trilhões de ienes\"},{\"year\":\"2024\",\"value_label\":\"2.1 trilhões de ienes\"},{\"year\":\"2025E\",\"value_label\":\"2.3 trilhões de ienes\"},{\"year\":\"2026E\",\"value_label\":\"2.5 trilhões de ienes\"}],\"bar_style\":\"barras verticais sólidas em azul royal\"},\"note_box\":{\"count\":2,\"bullets\":[\"A expansão do mercado continua, enquanto a competição por aquisição se intensifica\",\"O crescimento de categorias de alto valor agregado impulsiona o crescimento geral\"],\"style\":\"caixa branca com contorno e linha de destaque lateral em azul marinho\"}},\"right_section\":{\"title\":\"Posicionamento Competitivo\",\"type\":\"matriz de posicionamento 2x2\",\"position\":\"metade direita\",\"matrix_details\":{\"x_axis\":\"Competitividade de Preço\",\"x_axis_left\":\"Baixa\",\"x_axis_right\":\"Alta\",\"y_axis\":\"Experiência do Cliente\",\"y_axis_bottom\":\"Baixa\",\"y_axis_top\":\"Alta\",\"axis_arrows\":\"setas pretas apontando para a direita e para cima\",\"crosshair\":\"linhas de ponto médio verticais e horizontais pontilhadas cinza claro\",\"bubble_count\":4,\"bubbles\":[{\"label\":\"Concorrente A\",\"position\":\"superior esquerdo\",\"style\":\"círculo azul claro\"},{\"label\":\"Nossa Empresa\",\"position\":\"superior direito\",\"style\":\"círculo azul royal escuro com texto branco\"},{\"label\":\"Concorrente C\",\"position\":\"inferior esquerdo\",\"style\":\"círculo azul muito claro\"},{\"label\":\"Concorrente B\",\"position\":\"inferior direito\",\"style\":\"círculo azul muito claro\"}]},\"note_box\":{\"text\":\"{argument name=\\\"right insight text\\\" default=\\\"勝ち筋：価格訴求ではなく、UX・CRM・配送品質の一体改善\\\"}\",\"style\":\"caixa branca com contorno e linha de destaque lateral em azul marinho\"}}},\"bottom_navigation\":{\"position\":\"centro inferior\",\"tab_count\":3,\"tabs\":[\"Crescimento de Mercado\",\"Mudança Competitiva\",\"Premiumização\"],\"style\":\"três abas retangulares finas com contorno em azul marinho, espaçadas uniformemente\"}},\"composition\":\"grade de slide precisa, margens generosas, réguas horizontais em azul marinho separando cabeçalho/conteúdo/rodapé, estética polida de PowerPoint de consultoria estratégica, sem fotos ou ilustrações, gráficos vetoriais nítidos\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Japanese Market Landscape Slide",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 日本市场概况 Slides",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Diapositiva del panorama del mercado japonés",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Folie zur japanischen Marktlandschaft",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Diapositive sur le paysage du marché japonais",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Slide sul panorama del mercato giapponese",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Slide de Panorama do Mercado Japonês",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a polished Japanese consulting slide with a market growth bar chart, competitive positioning matrix, insight boxes, and footer navigation.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张精美的日本咨询风格 Slides，包含市场增长柱状图、竞争定位矩阵、洞察框以及页脚导航。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une diapositive de conseil japonaise soignée avec un graphique à barres de croissance du marché, une matrice de positionnement concurrentiel, des encadrés d'analyse et une navigation en pied de page.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/houyaji/status/2051201015710687698#reversed-0",
+      "originalId": "https://x.com/houyaji/status/2051201015710687698#reversed-0",
+      "authors": [
+        {
+          "name": "やじるし",
+          "url": "https://x.com/houyaji"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2341
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ff0f76afb8b8d789",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971087956_4x8w0g_HGtRO8naoAAmqkW.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971087956_4x8w0g_HGtRO8naoAAmqkW.jpg",
+      "localPath": "public/assets/prompt_1db2818a899782279354/6336693ec2af.jpg",
+      "alt": "Infographic / Edu Visual - Japanese Market Landscape Slide - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "chart",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.846Z"
+  }
+}

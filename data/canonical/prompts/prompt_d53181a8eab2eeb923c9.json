@@ -1,0 +1,107 @@
+{
+  "id": "prompt_d53181a8eab2eeb923c9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Aspect Ratio: 9:16 Vertical\n\n【IDENTITY & REALISM (CRITICAL PRIORITY)】\n\nThe subject is an adult female whose facial features and bone structure must 100% perfectly match the provided FACE_REF image. Eye spacing, nose bridge, jawline, and cheekbone structure must be exact; no identity drift is allowed. Skin texture must be photorealistic, showing pores and fine details—do not over-smooth or apply an Instagram filter look.\n\n【PHOTOGRAPHY & CINEMATOGRAPHY】\n\nA high-end editorial fashion photograph with a cinematic quality, rivaling covers of Vogue, Harper’s Bazaar, or ELLE.\n\nLens & Focus: Use an 85mm lens (for medium shot) or 50mm/70mm (for full body) with a shallow depth of field. The subject's eyes must be perfectly sharp.\n\nLighting: Natural winter daylight supplemented by soft, professional fill light. Gold ornaments and precious stones should have realistic specular highlights without being blown out. Embroidery textures must be incredibly sharp and tactile.\n\nColor Grading: Rich, cinematic colors. The red walls and the attire's main color must be distinct and clean, not muddy. The overall image should feel deep, textured, and expensive.\n\nComposition: A clean magazine cover layout with deliberate negative space at the top or sides for typography. No torn paper or hand-drawn effects.\n\n【SETTING: FORBIDDEN CITY WINTER】\n\nThe location is a red-walled long corridor in the Beijing Forbidden City.\n\nEnvironment: Visible details include vermilion walls, red pillars, intricate carved windows, and painted wooden beams with strong perspective depth. The scene must be clean: no tourists, modern signs, or watermarks.\n\nWeather Condition (Selected Randomly):\n\n[If Snowfall selected]: Fine snowflakes are gently falling.\n\n[If Post-Snow selected]: The air is crisp and clear, with remnant snow on the eaves and steps.\n\n【WARDROBE: MING DYNASTY HEAVY INDUSTRY COUTURE】\n\nThe subject wears opulent, multi-layered Ming Dynasty ceremonial Hanfu. The aesthetic is gold-heavy, dense tassels, phoenix crown, large-area woven gold embroidery, complex layering, dignified and luxurious.\n\nStructure: A visible, crisp white standing inner collar provides a clean boundary. Over this is a structured duijin ao (jacket) with wide sleeves, topped by a heavy xiapei/pibo (stole) structure held by a large central yajin ornament.\n\nFabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with palpable fiber texture. The embroidery is heavy industry—using panjin goldwork, couched gold",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "【身份与真实感（关键优先级）】\n\n主体是一位成年女性，其面部特征和骨骼结构必须100%完美匹配提供的FACE_REF图像。眼距、鼻梁、下颌线和颧骨结构必须精确；不允许身份漂移。皮肤纹理必须具有照片级真实感，显示毛孔和细节——不要过度平滑或应用Instagram滤镜效果。\n\n【摄影与电影感】\n\n高端时尚编辑摄影，具有电影质感，可与Vogue、Harper's Bazaar或ELLE的封面相媲美。\n\n镜头与对焦：使用85mm镜头（中景）或50mm/70mm镜头（全身）配合浅景深。主体的眼睛必须完全清晰。\n\n灯光：自然冬季日光辅以柔和的专业补光。金饰和宝石应具有真实的镜面高光，但不要过曝。刺绣纹理必须极其锐利和触感真实。\n\n色彩分级：丰富、电影感的色彩。红色墙壁和服装主色必须鲜明干净，不要浑浊。整体图像应感觉深邃、纹理丰富且昂贵。\n\n构图：干净的杂志封面布局，顶部或侧面有刻意留白以供排版。不要撕纸或手绘效果。\n\n【场景：紫禁城冬季】\n\n地点是北京紫禁城的红墙长廊。\n\n环境：可见细节包括朱红色墙壁、红色柱子、精致的雕花窗户和带有强烈透视深度的彩绘木梁。场景必须干净：没有游客、现代标志或水印。\n\n天气条件（随机选择）：\n\n[如果选择下雪]：细小的雪花轻轻飘落。\n\n[如果选择雪后]：空气清新明澈，屋檐和台阶上残留着积雪。\n\n【服装：明代重工高级定制】\n\n主体穿着华丽的多层明代典礼汉服。美学风格以金色为主，密集的流苏，凤冠，大面积的金线刺绣，复杂的层次感，庄重而奢华。\n\n结构：可见的 crisp white standing inner collar 提供清晰的边界。其上是一件结构化的对襟袄（jacket），配以宽袖，顶部是一条厚重的霞帔/披帛结构，由中央的大压金饰品固定。\n\n面料与工艺：主面料是真正的织金锦（zhijin jin），具有可触摸的纤维质感。刺绣是重工——使用盘金绣，盘金线工艺",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:25.882Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Aspect Ratio: 9:16 Vertical",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Field: title.translations.zh-CN\n\n宽高比: 9:16 纵向",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:16.392Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/GeekCatX/status/2047220831491858766",
+      "originalId": "case-62",
+      "authors": [
+        {
+          "name": "GeekCatX",
+          "url": "https://x.com/GeekCatX"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 772
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9cf052e9cb8c435e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg",
+      "localPath": "public/assets/prompt_d53181a8eab2eeb923c9/ff0846dd4183.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

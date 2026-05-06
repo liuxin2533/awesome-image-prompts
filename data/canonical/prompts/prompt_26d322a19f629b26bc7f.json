@@ -1,0 +1,175 @@
+{
+  "id": "prompt_26d322a19f629b26bc7f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create an ultra-realistic cinematic coffee commercial image featuring one tall clear glass of {argument name=\"drink type\" default=\"creamy latte\"} suspended mid-air at a slight diagonal tilt, as if slowly spinning. The glass has distinct caramel coffee layers, a thick white foam cap, and a dusting of {argument name=\"topping\" default=\"cocoa powder\"} across the top. Warm steam rises in soft curling wisps from the foam. Surround the glass with exactly 2 large sculptural milk splash ribbons spiraling around it, one sweeping upward along the left side and one curling around the lower right, plus many suspended coffee droplets, milk droplets, and floating coffee beans frozen in slow motion. Add a vertical cloud of fine cocoa dust particles glowing on the right side of the frame. Use a dark cozy café background with golden bokeh lights, blurred shelves and bottles, warm amber highlights, shallow depth of field, dramatic rim lighting, glossy reflections on the glass, high-speed macro photography look, premium beverage advertising style, sharp focus on the latte and splashes, rich contrast, vertical composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张超写实电影级咖啡广告图像，画面中心为一杯悬浮在半空中、略微倾斜的透明高脚杯，杯中盛放着 {argument name=\"drink type\" default=\"奶油拿铁\"}，仿佛正在缓慢旋转。玻璃杯呈现出层次分明的焦糖咖啡色泽，顶部覆盖着厚实的白色奶泡，并撒有 {argument name=\"topping\" default=\"可可粉\"}。温暖的蒸汽从奶泡中升起，形成柔和的卷曲烟雾。在玻璃杯周围环绕 2 条大型雕塑感牛奶飞溅带，一条沿左侧向上扫过，另一条在右下方卷曲，同时配以大量悬浮的咖啡滴、牛奶滴和在慢动作中定格的咖啡豆。在画面右侧添加一团垂直的细微可可粉尘，并使其呈现发光效果。背景采用温馨的深色咖啡馆环境，配以金色虚化灯光、模糊的货架和瓶子，营造温暖的琥珀色高光，使用浅景深、戏剧性的轮廓光、玻璃杯上的光泽反射，呈现高速微距摄影质感，具备高端饮料广告风格，焦点清晰地聚焦在拿铁和飞溅物上，对比度丰富，采用竖构图。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una imagen comercial de café cinematográfica ultra realista que presente un vaso alto y transparente de {argument name=\"drink type\" default=\"creamy latte\"} suspendido en el aire con una ligera inclinación diagonal, como si estuviera girando lentamente. El vaso tiene capas de café con caramelo bien definidas, una capa gruesa de espuma blanca y un espolvoreado de {argument name=\"topping\" default=\"cocoa powder\"} en la parte superior. Un vapor cálido se eleva en suaves volutas desde la espuma. Rodea el vaso con exactamente 2 grandes cintas de salpicadura de leche esculturales que giran a su alrededor, una barriendo hacia arriba por el lado izquierdo y otra curvándose alrededor de la parte inferior derecha, además de muchas gotas de café suspendidas, gotas de leche y granos de café flotantes congelados en cámara lenta. Añade una nube vertical de partículas finas de cacao en polvo que brillen en el lado derecho del encuadre. Utiliza un fondo de cafetería acogedor y oscuro con luces bokeh doradas, estantes y botellas desenfocadas, reflejos ámbar cálidos, poca profundidad de campo, iluminación de contorno dramática, reflejos brillantes en el vaso, aspecto de fotografía macro de alta velocidad, estilo de publicidad de bebidas premium, enfoque nítido en el café con leche y las salpicaduras, contraste intenso, composición vertical.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein ultrarealistisches, filmreifes Werbebild für Kaffee, das ein hohes, klares Glas mit {argument name=\"drink type\" default=\"creamy latte\"} zeigt, das leicht schräg in der Luft schwebt, als würde es sich langsam drehen. Das Glas weist deutliche Karamell-Kaffee-Schichten, eine dicke weiße Schaumkrone und eine Bestäubung aus {argument name=\"topping\" default=\"cocoa powder\"} auf der Oberseite auf. Warmer Dampf steigt in sanften, kräuselnden Schwaden vom Schaum auf. Umgib das Glas mit genau 2 großen, skulpturalen Milchspritzer-Bändern, die sich darum winden – eines schwingt an der linken Seite nach oben und eines krümmt sich um die untere rechte Seite –, ergänzt durch viele schwebende Kaffeetropfen, Milchtropfen und in Zeitlupe eingefrorene Kaffeebohnen. Füge eine vertikale Wolke aus feinen Kakaopulver-Partikeln hinzu, die auf der rechten Seite des Bildes leuchtet. Verwende einen dunklen, gemütlichen Café-Hintergrund mit goldenen Bokeh-Lichtern, unscharfen Regalen und Flaschen, warmen bernsteinfarbenen Highlights, geringer Schärfentiefe, dramatischer Konturbeleuchtung, glänzenden Reflexionen auf dem Glas, High-Speed-Makrofotografie-Optik, erstklassigem Getränkewerbe-Stil, scharfem Fokus auf den Latte und die Spritzer, sattem Kontrast, vertikale Komposition.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une image publicitaire cinématique ultra-réaliste pour un café, mettant en scène un grand verre transparent de {argument name=\"drink type\" default=\"latte crémeux\"} suspendu dans les airs, légèrement incliné comme s'il tournait lentement. Le verre présente des couches distinctes de café au caramel, une épaisse couche de mousse blanche et une pincée de {argument name=\"topping\" default=\"poudre de cacao\"} sur le dessus. Une vapeur chaude s'élève de la mousse en volutes douces. Entourez le verre de 2 grandes éclaboussures de lait sculpturales en forme de rubans qui s'enroulent autour de lui, l'une balayant vers le haut sur le côté gauche et l'autre s'enroulant autour de la partie inférieure droite, accompagnées de nombreuses gouttelettes de café et de lait en suspension, ainsi que de grains de café flottants figés au ralenti. Ajoutez un nuage vertical de fines particules de cacao brillant sur le côté droit du cadre. Utilisez un arrière-plan de café chaleureux et sombre avec des lumières bokeh dorées, des étagères et des bouteilles floues, des reflets ambrés chauds, une faible profondeur de champ, un éclairage de contour dramatique, des reflets brillants sur le verre, un aspect de photographie macro à haute vitesse, un style publicitaire de boisson haut de gamme, une mise au point nette sur le latte et les éclaboussures, un contraste riche, composition verticale.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'immagine pubblicitaria cinematografica ultra-realistica di un caffè, con un bicchiere alto e trasparente di {argument name=\"drink type\" default=\"creamy latte\"} sospeso a mezz'aria con una leggera inclinazione diagonale, come se stesse ruotando lentamente. Il bicchiere presenta distinti strati di caffè al caramello, una spessa schiuma bianca e una spolverata di {argument name=\"topping\" default=\"cocoa powder\"} sulla parte superiore. Un vapore caldo si alza in soffici volute dalla schiuma. Circonda il bicchiere con esattamente 2 grandi nastri scultorei di schizzi di latte che spiraleggiano attorno ad esso, uno che si protende verso l'alto lungo il lato sinistro e uno che si avvolge attorno alla parte inferiore destra, oltre a numerose goccioline di caffè e latte sospese e chicchi di caffè fluttuanti, il tutto immortalato in slow motion. Aggiungi una nuvola verticale di fini particelle di cacao che brillano sul lato destro dell'inquadratura. Usa uno sfondo da caffetteria accogliente e scuro con luci bokeh dorate, scaffali e bottiglie sfocati, caldi riflessi ambrati, profondità di campo ridotta, illuminazione drammatica sui bordi, riflessi lucidi sul vetro, un look da fotografia macro ad alta velocità, stile pubblicitario per bevande premium, messa a fuoco nitida sul latte e sugli schizzi, contrasto ricco, composizione verticale.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma imagem publicitária de café cinematográfica ultra-realista apresentando um copo alto e transparente de {argument name=\"drink type\" default=\"creamy latte\"} suspenso no ar em uma leve inclinação diagonal, como se estivesse girando lentamente. O copo possui camadas distintas de café com caramelo, uma espessa camada de espuma branca e uma pitada de {argument name=\"topping\" default=\"cocoa powder\"} no topo. Vapor quente sobe em volutas suaves e ondulantes a partir da espuma. Cerque o copo com exatamente 2 grandes fitas esculturais de splash de leite espiralando ao redor dele, uma varrendo para cima ao longo do lado esquerdo e outra curvando-se ao redor da parte inferior direita, além de muitas gotas de café suspensas, gotas de leite e grãos de café flutuantes congelados em câmera lenta. Adicione uma nuvem vertical de partículas finas de cacau em pó brilhando no lado direito do quadro. Use um fundo de cafeteria aconchegante e escuro com luzes bokeh douradas, prateleiras e garrafas desfocadas, reflexos âmbar quentes, profundidade de campo rasa, iluminação de contorno dramática, reflexos brilhantes no vidro, visual de fotografia macro de alta velocidade, estilo de publicidade de bebidas premium, foco nítido no latte e nos splashes, contraste rico, composição vertical.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Cinematic Spinning Latte Splash",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 电影级旋转拿铁飞溅效果",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Salpicadura de café con leche giratorio cinematográfico",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Filmreifer wirbelnder Latte-Spritzer",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Splash de latte cinématique en rotation",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Splash di latte cinematografico in rotazione",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Splash de Latte Cinematográfico em Rotação",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a premium ultra-realistic coffee commercial shot of a floating latte surrounded by milk splashes, droplets, steam, and golden café bokeh.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张高级超写实咖啡广告镜头，展示悬浮的拿铁，周围环绕着牛奶飞溅、水滴、蒸汽和金色的咖啡馆虚化背景。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un plan publicitaire ultra-réaliste de qualité supérieure pour un café, mettant en scène un latte flottant entouré d'éclaboussures de lait, de gouttelettes, de vapeur et d'un bokeh de café doré.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Strength04_X/status/2051333079684563044#reversed-0",
+      "originalId": "https://x.com/Strength04_X/status/2051333079684563044#reversed-0",
+      "authors": [
+        {
+          "name": "𝐌",
+          "url": "https://x.com/Strength04_X"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3873
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b46dff52b38468c4",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971041623_ry1wop_HHfMZs6bQAEGMxT.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971041623_ry1wop_HHfMZs6bQAEGMxT.jpg",
+      "localPath": "public/assets/prompt_26d322a19f629b26bc7f/4a82b248580f.jpg",
+      "alt": "Product Marketing - Cinematic Spinning Latte Splash - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.848Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_3b64248875333140c794",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name=\"brand name\" default=\"LUMIÉRE\"} and {argument name=\"product type\" default=\"MOISTURE RICH CREAM\"} with \"AGING CARE*\" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name=\"main headline\" default=\"肌に、静かな贅沢を。\"} above a small decorative gold divider and the text {argument name=\"subheadline\" default=\"高保湿×エイジングケア*\"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name=\"button text\" default=\"詳しく見る\"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name=\"brand name\" default=\"LUMIÉRE\"} and {argument name=\"product type\" default=\"MOISTURE RICH CREAM\"} with \"AGING CARE*\" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name=\"main headline\" default=\"肌に、静かな贅沢を。\"} above a small decorative gold divider and the text {argument name=\"subheadline\" default=\"高保湿×エイジングケア*\"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name=\"button text\" default=\"詳しく見る\"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:08:40.462Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:08:43.063Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-144",
+      "originalId": "case-144",
+      "authors": [
+        {
+          "name": "panchaaan_2",
+          "url": "https://x.com/panchaaan_2"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5928
+        }
+      ],
+      "rawSource": "[@panchaaan\\_2](https://x.com/panchaaan_2)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_648ad2e26c6b9da6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case144.jpg",
+      "upstreamPath": "../data/images/case144.jpg",
+      "localPath": "public/assets/prompt_3b64248875333140c794/f4cf1fa5491c.jpg",
+      "alt": "brand name",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

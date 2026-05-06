@@ -1,0 +1,174 @@
+{
+  "id": "prompt_9337a31fb42986af7e61",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Edit the image while keeping the original photo completely unchanged, including the person, face, body, pose, lighting, and gym background. Add multiple small, cute {argument name=\"sticker style\" default=\"chibi-style “mini versions”\"} of her around the image. Each mini character should have a big head, expressive facial features, and match her hairstyle and outfit. Depict each mini version doing different {argument name=\"activity theme\" default=\"gym-related activities\"}: one cheering with arms raised, one running in running shoes, one drinking from a shaker bottle, one wearing sporty running glasses, one climbing near her leg. Enhance the image with playful, hand-drawn doodles and handwritten notes in {argument name=\"accent colors\" default=\"white and pink ink\"}, in a scrapbook style. Include elements like arrows, stars, hearts, sparkles, and sketchy lines. Add cute, handwritten gym-themed motivational phrases: “lift strong”, “stronger every rep”, “no pain no gain”, “sweat now, shine later”, “progress over perfection”, “train hard, stay soft”. The overall vibe should feel fun, energetic, and feminine",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "编辑图像，同时保持原始照片完全不变，包括人物、面部、身体、姿势、光影和健身房背景。在图像周围添加多个可爱的 {argument name=\"sticker style\" default=\"Q 版“迷你形象”\"}。每个迷你角色都应拥有大头、生动的面部特征，并与她本人的发型和服装相匹配。描绘每个迷你版本正在进行不同的 {argument name=\"activity theme\" default=\"健身相关活动\"}：一个举起双臂欢呼，一个穿着跑鞋奔跑，一个拿着摇摇杯喝水，一个戴着运动跑步眼镜，一个在她腿边攀爬。用 {argument name=\"accent colors\" default=\"白色和粉色墨水\"} 的俏皮手绘涂鸦和手写笔记来增强图像，营造剪贴簿风格。包含箭头、星星、爱心、闪光和简笔线条等元素。添加可爱的健身主题手写励志短语：“lift strong”、“stronger every rep”、“no pain no gain”、“sweat now, shine later”、“progress over perfection”、“train hard, stay soft”。整体氛围应充满趣味、活力和女性气息。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Edita la imagen manteniendo la foto original completamente intacta, incluyendo a la persona, el rostro, el cuerpo, la pose, la iluminación y el fondo del gimnasio. Añade múltiples {argument name=\"sticker style\" default=\"“mini versiones” estilo chibi\"} pequeños y lindos de ella alrededor de la imagen. Cada mini personaje debe tener una cabeza grande, rasgos faciales expresivos y coincidir con su peinado y atuendo. Representa a cada mini versión realizando diferentes {argument name=\"activity theme\" default=\"actividades relacionadas con el gimnasio\"}: una animando con los brazos en alto, una corriendo con zapatillas de deporte, una bebiendo de un shaker, una usando lentes deportivos para correr, una escalando cerca de su pierna. Mejora la imagen con garabatos divertidos dibujados a mano y notas escritas a mano en {argument name=\"accent colors\" default=\"tinta blanca y rosa\"}, con un estilo de álbum de recortes. Incluye elementos como flechas, estrellas, corazones, destellos y líneas de boceto. Añade frases motivacionales lindas y escritas a mano sobre el gimnasio: “lift strong”, “stronger every rep”, “no pain no gain”, “sweat now, shine later”, “progress over perfection”, “train hard, stay soft”. El ambiente general debe sentirse divertido, enérgico y femenino.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Bearbeite das Bild, während das Originalfoto vollständig unverändert bleibt, einschließlich der Person, des Gesichts, des Körpers, der Pose, der Beleuchtung und des Fitnessstudio-Hintergrunds. Füge mehrere kleine, niedliche {argument name=\"sticker style\" default=\"Chibi-Stil „Mini-Versionen“\"} von ihr um das Bild herum hinzu. Jede Mini-Figur sollte einen großen Kopf und ausdrucksstarke Gesichtszüge haben und ihre Frisur sowie ihr Outfit widerspiegeln. Stelle jede Mini-Version bei verschiedenen {argument name=\"activity theme\" default=\"fitnessbezogenen Aktivitäten\"} dar: eine jubelnd mit erhobenen Armen, eine beim Laufen in Laufschuhen, eine beim Trinken aus einem Shaker, eine mit sportlicher Laufbrille, eine beim Klettern in der Nähe ihres Beins. Bereichere das Bild mit verspielten, handgezeichneten Doodles und handschriftlichen Notizen in {argument name=\"accent colors\" default=\"weißer und pinker Tinte\"} im Scrapbook-Stil. Füge Elemente wie Pfeile, Sterne, Herzen, Glitzer und skizzenhafte Linien hinzu. Ergänze niedliche, handschriftliche Motivationssprüche zum Thema Fitness: „lift strong“, „stronger every rep“, „no pain no gain“, „sweat now, shine later“, „progress over perfection“, „train hard, stay soft“. Die allgemeine Stimmung sollte spaßig, energiegeladen und feminin wirken.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Modifiez l'image tout en conservant la photo originale totalement intacte, y compris la personne, le visage, le corps, la pose, l'éclairage et l'arrière-plan de la salle de sport. Ajoutez plusieurs petits {argument name=\"sticker style\" default=\"« mini versions » de style chibi\"} mignons autour d'elle dans l'image. Chaque mini personnage doit avoir une grosse tête, des traits du visage expressifs et correspondre à sa coiffure et à sa tenue. Représentez chaque mini version en train de faire différentes {argument name=\"activity theme\" default=\"activités liées à la salle de sport\"} : une qui encourage avec les bras levés, une qui court avec des chaussures de running, une qui boit dans un shaker, une qui porte des lunettes de sport, une qui grimpe près de sa jambe. Améliorez l'image avec des gribouillages ludiques dessinés à la main et des notes manuscrites dans des {argument name=\"accent colors\" default=\"encres blanche et rose\"}, dans un style scrapbooking. Incluez des éléments comme des flèches, des étoiles, des cœurs, des étincelles et des lignes esquissées. Ajoutez des phrases de motivation mignonnes et manuscrites sur le thème du sport : « lift strong », « stronger every rep », « no pain no gain », « sweat now, shine later », « progress over perfection », « train hard, stay soft ». L'ambiance générale doit être amusante, énergique et féminine.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Modifica l'immagine mantenendo la foto originale completamente invariata, inclusi la persona, il viso, il corpo, la posa, l'illuminazione e lo sfondo della palestra. Aggiungi diverse piccole e graziose {argument name=\"sticker style\" default=\"“mini versioni” in stile chibi\"} di lei attorno all'immagine. Ogni mini personaggio deve avere una testa grande, tratti del viso espressivi e corrispondere alla sua acconciatura e al suo outfit. Rappresenta ogni mini versione mentre svolge diverse {argument name=\"activity theme\" default=\"attività legate alla palestra\"}: una che esulta con le braccia alzate, una che corre con scarpe da running, una che beve da uno shaker, una che indossa occhiali sportivi, una che si arrampica vicino alla sua gamba. Arricchisci l'immagine con scarabocchi giocosi disegnati a mano e note scritte a mano in {argument name=\"accent colors\" default=\"inchiostro bianco e rosa\"}, in stile scrapbook. Includi elementi come frecce, stelle, cuori, brillantini e linee tratteggiate. Aggiungi graziose frasi motivazionali a tema palestra scritte a mano: “lift strong”, “stronger every rep”, “no pain no gain”, “sweat now, shine later”, “progress over perfection”, “train hard, stay soft”. L'atmosfera generale deve risultare divertente, energica e femminile.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Edite a imagem mantendo a foto original completamente inalterada, incluindo a pessoa, o rosto, o corpo, a pose, a iluminação e o fundo da academia. Adicione várias pequenas e fofas {argument name=\"sticker style\" default=\"“mini versões” em estilo chibi\"} dela ao redor da imagem. Cada mini personagem deve ter uma cabeça grande, traços faciais expressivos e combinar com seu penteado e roupa. Represente cada mini versão fazendo diferentes {argument name=\"activity theme\" default=\"atividades relacionadas à academia\"}: uma torcendo com os braços levantados, uma correndo com tênis de corrida, uma bebendo de uma coqueteleira, uma usando óculos esportivos de corrida, uma escalando perto da perna dela. Aprimore a imagem com rabiscos divertidos feitos à mão e notas manuscritas em {argument name=\"accent colors\" default=\"tinta branca e rosa\"}, em um estilo de scrapbook. Inclua elementos como setas, estrelas, corações, brilhos e linhas esboçadas. Adicione frases motivacionais fofas e manuscritas com o tema de academia: “lift strong”, “stronger every rep”, “no pain no gain”, “sweat now, shine later”, “progress over perfection”, “train hard, stay soft”. A atmosfera geral deve ser divertida, energética e feminina.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Gym Chibi Sticker Overlay",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 健身 Q 版贴纸叠加效果",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Superposición de stickers chibi de gimnasio",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Gym Chibi Sticker Overlay",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Overlay d'autocollants Chibi pour salle de sport",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Overlay adesivo Chibi da palestra",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Sobreposição de Adesivos Chibi de Academia",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt to edit a gym photo by adding multiple chibi versions of the subject performing various workout activities.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个通过添加多个 Q 版角色形象来编辑健身照片的提示词，这些角色正在进行各种健身活动。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour modifier une photo de salle de sport en ajoutant plusieurs versions chibi du sujet effectuant diverses activités sportives.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/mehvishs25/status/2051336962012037617",
+      "originalId": "https://x.com/mehvishs25/status/2051336962012037617",
+      "authors": [
+        {
+          "name": "Meem",
+          "url": "https://x.com/mehvishs25"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1616
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0e01d1d4fdb2a741",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971003348_8rwu2w_HHfQFmPaYAAtDF1.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971003348_8rwu2w_HHfQFmPaYAAtDF1.jpg",
+      "localPath": "public/assets/prompt_9337a31fb42986af7e61/b166df3542fe.jpg",
+      "alt": "Social Media Post - Gym Chibi Sticker Overlay - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.859Z"
+  }
+}

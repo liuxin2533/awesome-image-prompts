@@ -1,0 +1,107 @@
+{
+  "id": "prompt_8f83edbb5fc9b054770f",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling.\n\nSTRUCTURE:\nTop-heavy hierarchical layout. The upper half features a large, highly recognizable silhouette of [SUBJECT]'s head / face / mask / upper body, forming a bold, iconic primary shape. The silhouette should be instantly identifiable.\n\nThe middle-lower section contains the full-body version of [SUBJECT] as a secondary subject, standing in a stable pose or subtle action stance, forming the visual core.\n\nCOMPOSITION STYLE:\nInside the large silhouette and around the character, use double exposure and collage storytelling. Integrate multiple elements:\n- key scenes related to [SUBJECT]\n- symbolic imagery and environment\n- small narrative figures and interactions\n- supporting visual motifs\n\nBlend everything seamlessly using clouds, mist, ink diffusion, and negative space.\n\nVISUAL FLOW:\nCreate a continuous flowing visual path from top to bottom, connecting:\n- upper silhouette\n- inner collage elements\n- full-body subject\n\nEnsure smooth eye guidance and compositional cohesion.\n\nSIDE ELEMENTS:\nAdd balanced supporting elements on left and right sides to create tension, depth, and spatial variation.\n\nSTYLE & ATMOSPHERE:\n- Large areas of negative space\n- Ink-wash diffusion edges, soft fading, subtle fragmentation\n- Eastern aesthetic: balance of emptiness and detail\n- Calm, premium, restrained, cinematic tone\n\nQUALITY:\nUltra-detailed, high resolution, layered depth, soft lighting, atmospheric perspective, cohesive series-style design.\n\nOUTPUT:\n9:16 aspect ratio, poster-ready composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling.\n\nSTRUCTURE:\nTop-heavy hierarchical layout. The upper half features a large, highly recognizable silhouette of [SUBJECT]'s head / face / mask / upper body, forming a bold, iconic primary shape. The silhouette should be instantly identifiable.\n\nThe middle-lower section contains the full-body version of [SUBJECT] as a secondary subject, standing in a stable pose or subtle action stance, forming the visual core.\n\nCOMPOSITION STYLE:\nInside the large silhouette and around the character, use double exposure and collage storytelling. Integrate multiple elements:\n- key scenes related to [SUBJECT]\n- symbolic imagery and environment\n- small narrative figures and interactions\n- supporting visual motifs\n\nBlend everything seamlessly using clouds, mist, ink diffusion, and negative space.\n\nVISUAL FLOW:\nCreate a continuous flowing visual path from top to bottom, connecting:\n- upper silhouette\n- inner collage elements\n- full-body subject\n\nEnsure smooth eye guidance and compositional cohesion.\n\nSIDE ELEMENTS:\nAdd balanced supporting elements on left and right sides to create tension, depth, and spatial variation.\n\nSTYLE & ATMOSPHERE:\n- Large areas of negative space\n- Ink-wash diffusion edges, soft fading, subtle fragmentation\n- Eastern aesthetic: balance of emptiness and detail\n- Calm, premium, restrained, cinematic tone\n\nQUALITY:\nUltra-detailed, high resolution, layered depth, soft lighting, atmospheric perspective, cohesive series-style design.\n\nOUTPUT:\n9:16 aspect ratio, poster-ready composition.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:55:40.110Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "水墨双重曝光人物海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Ink wash double exposure character poster",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:55:43.361Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_1b7307fbce",
+      "value": "水墨双重曝光人物海报",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-359",
+      "originalId": "case-359",
+      "authors": [
+        {
+          "name": "Goodmanprotocol",
+          "url": "https://x.com/Goodmanprotocol/status/2049002279051895243"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6277
+        }
+      ],
+      "rawSource": "[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dd717cf2af99ee88",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case359.jpg",
+      "upstreamPath": "../data/images/case359.jpg",
+      "localPath": "public/assets/prompt_8f83edbb5fc9b054770f/fc840547e254.jpg",
+      "alt": "水墨双重曝光人物海报",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

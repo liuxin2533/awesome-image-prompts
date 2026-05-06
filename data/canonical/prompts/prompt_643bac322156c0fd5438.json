@@ -1,0 +1,128 @@
+{
+  "id": "prompt_643bac322156c0fd5438",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name=\"celebrity\" default=\"Liu Yifei\"} is broadcasting, holding a sign that says \"{argument name=\"sign text\" default=\"Streaming tonight, welcome to join Yifei's chat!\"}\"",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "直播界面设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Live streaming interface design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:31:55.397Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_66670ab4a4",
+      "value": "直播界面设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-48",
+      "originalId": "case-48",
+      "authors": [
+        {
+          "name": "kylegeeks",
+          "url": "https://x.com/kylegeeks"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1155
+        }
+      ],
+      "rawSource": "[@kylegeeks](https://x.com/kylegeeks)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-49",
+      "originalId": "case-49",
+      "authors": [
+        {
+          "name": "kylegeeks",
+          "url": "https://x.com/kylegeeks"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1171
+        }
+      ],
+      "rawSource": "[@kylegeeks](https://x.com/kylegeeks)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_17416ddb1b87802a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case48.jpg",
+      "upstreamPath": "../data/images/case48.jpg",
+      "localPath": "public/assets/prompt_643bac322156c0fd5438/f732862b0ccd.jpg",
+      "alt": "celebrity",
+      "status": "pending"
+    },
+    {
+      "id": "asset_eebacb307b549320",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case49.jpg",
+      "upstreamPath": "../data/images/case49.jpg",
+      "localPath": "public/assets/prompt_643bac322156c0fd5438/794b33c804d3.jpg",
+      "alt": "celebrity",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.589Z"
+  }
+}

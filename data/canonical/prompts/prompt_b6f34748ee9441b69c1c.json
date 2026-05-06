@@ -1,0 +1,106 @@
+{
+  "id": "prompt_b6f34748ee9441b69c1c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a premium luxury sportswear campaign poster featuring a confident female athlete in a modern studio environment. Full body pose with strong fashion attitude, standing tall while holding a basketball at her side, chin raised slightly, direct powerful expression. Athletic toned physique, sleek pulled back hair, clean glowing skin, sharp editorial posture.\n\nOutfit includes an oversized cropped varsity jacket, fitted sports bra, tailored biker shorts, white crew socks, and modern high top sneakers. Neutral monochrome styling with subtle premium branding.\n\nBackground is a clean light gray studio wall with giant bold condensed black typography reading “POWER” stretched vertically across the backdrop behind the model. Text should feel oversized and dominant, framing the athlete in the center.\n\nFloor is glossy reflective studio surface with subtle court markings and soft reflections. A few basketballs placed naturally around the floor for depth and campaign styling.\n\nLighting is bright luxury studio lighting with crisp highlights, soft shadows, and polished commercial finish. Sharp focus, ultra realistic skin texture, premium fabric texture, cinematic contrast.\n\nStyle should feel modern, minimal, elite, bold, high fashion sports campaign, luxury brand advertisement, clean composition, balanced negative space, strong visual impact, high resolution, square format.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"promptText\": {\n    \"translations\": {\n      \"zh-CN\": \"创建一个高级奢侈运动服活动海报，展示一位自信的女性运动员在现代工作室环境中。全身姿势，具有强烈时尚态度，挺直站立，手持篮球置于身侧，下巴略微抬起，直接有力的表情。运动型健美体态，光滑的向后梳的头发，干净发光的皮肤，锐利的编辑姿态。\\n\\n服装包括 oversized cropped varsity jacket，合身的运动内衣，量身定制的自行车短裤，白色中筒袜，和现代高帮运动鞋。中性单色风格，带有微妙的奢侈品牌标识。\\n\\n背景是干净浅灰色的工作室墙壁，巨大的粗体压缩黑色字体\"POWER\"垂直拉伸在模特背后的背景上。文字应该感觉过大且占主导地位，将运动员框在中心。\\n\\n地板是光滑反射的工作室表面，带有微妙的球场标记和柔和的反射。几个篮球自然地放置在地板周围，以增加深度和活动风格。\\n\\n照明是明亮的奢侈工作室照明，具有鲜明的高光，柔和的阴影，和抛光的商业完成效果。锐利的焦点，超现实的皮肤纹理，高级面料纹理，电影般的对比度。\\n\\n风格应感觉现代，简约，精英，大胆，高级时尚运动活动，奢侈品牌广告，干净的构图，平衡的负空间，强烈的视觉冲击，高分辨率，方形格式。\"\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:19:09.656Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Luxury Sportswear Basketball Athlete Campaign Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "奢华运动服篮球运动员活动海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:59.014Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Shorelyn_/status/2047949711181832558",
+      "originalId": "case-70",
+      "authors": [
+        {
+          "name": "Shorelyn_",
+          "url": "https://x.com/Shorelyn_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 913
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5f11032ab05c0e31",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case70/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case70/output.jpg",
+      "localPath": "public/assets/prompt_b6f34748ee9441b69c1c/7894f44d8f63.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.598Z"
+  }
+}

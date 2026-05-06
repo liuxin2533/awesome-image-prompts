@@ -1,0 +1,108 @@
+{
+  "id": "prompt_c571141582dd5bd1953f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "想象一个超级任天堂游戏的海报，上面有小恶魔莉莉丝酱",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:09:19.219Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Super Famicom Poster Style",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超级任天堂海报风格",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:09:22.861Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/lilimliliychan/status/2045114760937804187",
+      "originalId": "case-9",
+      "authors": [
+        {
+          "name": "lilimliliychan",
+          "url": "https://x.com/lilimliliychan"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 97
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_92d61e8586fbeb48",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg",
+      "localPath": "public/assets/prompt_c571141582dd5bd1953f/ec08bcbc96f9.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

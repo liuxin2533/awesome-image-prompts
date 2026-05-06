@@ -1,0 +1,190 @@
+{
+  "id": "prompt_d9b03e1696bc4440b9a1",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create {argument name=\"quantity\" default=\"24\"} LINE stickers of {argument name=\"animals\" default=\"animals\"} in a quirky hand-drawn style. Target {argument name=\"target audience\" default=\"Japanese Gen Z\"} with a trendy style that can aim for top downloads.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create {argument name=\"quantity\" default=\"24\"} LINE stickers of {argument name=\"animals\" default=\"animals\"} in a quirky hand-drawn style. Target {argument name=\"target audience\" default=\"Japanese Gen Z\"} with a trendy style that can aim for top downloads.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:30:11.175Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "综合应用场景图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Comprehensive Application Scenario Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:30:13.790Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_00ed43dcfb",
+      "value": "综合应用场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-37",
+      "originalId": "case-37",
+      "authors": [
+        {
+          "name": "midori_tatsuta",
+          "url": "https://x.com/midori_tatsuta"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 863
+        }
+      ],
+      "rawSource": "[@midori\\_tatsuta](https://x.com/midori_tatsuta)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-38",
+      "originalId": "case-38",
+      "authors": [
+        {
+          "name": "midori_tatsuta",
+          "url": "https://x.com/midori_tatsuta"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 879
+        }
+      ],
+      "rawSource": "[@midori\\_tatsuta](https://x.com/midori_tatsuta)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-39",
+      "originalId": "case-39",
+      "authors": [
+        {
+          "name": "midori_tatsuta",
+          "url": "https://x.com/midori_tatsuta"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 895
+        }
+      ],
+      "rawSource": "[@midori\\_tatsuta](https://x.com/midori_tatsuta)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-40",
+      "originalId": "case-40",
+      "authors": [
+        {
+          "name": "midori_tatsuta",
+          "url": "https://x.com/midori_tatsuta"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 911
+        }
+      ],
+      "rawSource": "[@midori\\_tatsuta](https://x.com/midori_tatsuta)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_059413ca55a8ee81",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case37.jpg",
+      "upstreamPath": "../data/images/case37.jpg",
+      "localPath": "public/assets/prompt_d9b03e1696bc4440b9a1/24ca2af3207c.jpg",
+      "alt": "quantity",
+      "status": "pending"
+    },
+    {
+      "id": "asset_c07b0b7c78642a35",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case38.jpg",
+      "upstreamPath": "../data/images/case38.jpg",
+      "localPath": "public/assets/prompt_d9b03e1696bc4440b9a1/94cfe02dbfc2.jpg",
+      "alt": "quantity",
+      "status": "pending"
+    },
+    {
+      "id": "asset_b3d6a4ada28ed6b6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case39.jpg",
+      "upstreamPath": "../data/images/case39.jpg",
+      "localPath": "public/assets/prompt_d9b03e1696bc4440b9a1/b0779280f442.jpg",
+      "alt": "quantity",
+      "status": "pending"
+    },
+    {
+      "id": "asset_3ed94f1e32f76f17",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case40.jpg",
+      "upstreamPath": "../data/images/case40.jpg",
+      "localPath": "public/assets/prompt_d9b03e1696bc4440b9a1/758dadbe6f0c.jpg",
+      "alt": "quantity",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.604Z"
+  }
+}

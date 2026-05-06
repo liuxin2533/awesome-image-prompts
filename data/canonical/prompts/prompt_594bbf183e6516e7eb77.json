@@ -1,0 +1,109 @@
+{
+  "id": "prompt_594bbf183e6516e7eb77",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"sports match infographic poster\",\r\n  \"theme\": \"UEFA Champions League\",\r\n  \"background\": \"dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom\",\r\n  \"header\": {\r\n    \"logo\": \"UEFA Champions League\",\r\n    \"title\": \"{argument name=\\\"stage\\\" default=\\\"HALBFINALE\\\"}\",\r\n    \"subtitle\": \"DAS ZIEL: {argument name=\\\"location\\\" default=\\\"BUDAPEST 2026\\\"}\",\r\n    \"venue\": \"PUSKÁS ARÉNA\"\r\n  },\r\n  \"matchup\": {\r\n    \"player_left\": \"{argument name=\\\"team 1 player\\\" default=\\\"Harry Kane\\\"} in red FC Bayern kit\",\r\n    \"player_right\": \"{argument name=\\\"team 2 player\\\" default=\\\"Ousmane Dembélé\\\"} in blue PSG kit\",\r\n    \"center_logos\": \"FC Bayern München and Paris Saint-Germain with VS\",\r\n    \"date_box\": \"calendar icon, MITTWOCH, {argument name=\\\"date\\\" default=\\\"06.05.2026\\\"}\"\r\n  },\r\n  \"facts_section\": {\r\n    \"title\": \"FACTS\",\r\n    \"count\": 5,\r\n    \"items\": [\r\n      \"Trophy icon: DIE KÖNIGSKLASSE 2025/26\",\r\n      \"Bar chart icon: KANE IN TOPFORM\",\r\n      \"Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER\",\r\n      \"Two people icon: BISHER 14 DUELLE\",\r\n      \"Stadium icon: BUDAPEST RUFT\"\r\n    ]\r\n  },\r\n  \"footer\": {\r\n    \"trophy\": \"Champions League trophy on right\",\r\n    \"stadium_image\": \"Puskás Aréna at night\",\r\n    \"tagline\": \"EIN TRAUM. EIN ZIEL. EIN TITEL.\",\r\n    \"bottom_text\": \"ROAD TO BUDAPEST 2026\"\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"sports match infographic poster\",\n  \"theme\": \"UEFA Champions League\",\n  \"background\": \"dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom\",\n  \"header\": {\n    \"logo\": \"UEFA Champions League\",\n    \"title\": \"{argument name=\\\"stage\\\" default=\\\"HALBFINALE\\\"}\",\n    \"subtitle\": \"THE GOAL: {argument name=\\\"location\\\" default=\\\"BUDAPEST 2026\\\"}\",\n    \"venue\": \"PUSKÁS ARÉNA\"\n  },\n  \"matchup\": {\n    \"player_left\": \"{argument name=\\\"team 1 player\\\" default=\\\"Harry Kane\\\"} in red FC Bayern kit\",\n    \"player_right\": \"{argument name=\\\"team 2 player\\\" default=\\\"Ousmane Dembélé\\\"} in blue PSG kit\",\n    \"center_logos\": \"FC Bayern München and Paris Saint-Germain with VS\",\n    \"date_box\": \"calendar icon, WEDNESDAY, {argument name=\\\"date\\\" default=\\\"06.05.2026\\\"}\"\n  },\n  \"facts_section\": {\n    \"title\": \"FACTS\",\n    \"count\": 5,\n    \"items\": [\n      \"Trophy icon: THE ROYAL CLASS 2025/26\",\n      \"Bar chart icon: KANE IN TOP FORM\",\n      \"Lightning bolt icon: DEMBÉLÉ FLYING HIGH\",\n      \"Two people icon: 14 DUELLES SO FAR\",\n      \"Stadium icon: BUDAPEST CALLS\"\n    ]\n  },\n  \"footer\": {\n    \"trophy\": \"Champions League trophy on right\",\n    \"stadium_image\": \"Puskás Aréna at night\",\n    \"tagline\": \"A DREAM. A GOAL. A TITLE.\",\n    \"bottom_text\": \"ROAD TO BUDAPEST 2026\"\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:21:59.487Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic Visualization Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:22:01.280Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-83",
+      "originalId": "case-83",
+      "authors": [
+        {
+          "name": "NumeroBTC",
+          "url": "https://x.com/NumeroBTC"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3095
+        }
+      ],
+      "rawSource": "[@NumeroBTC](https://x.com/NumeroBTC)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_22f8e31f69d9a902",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case83.jpg",
+      "upstreamPath": "../data/images/case83.jpg",
+      "localPath": "public/assets/prompt_594bbf183e6516e7eb77/c76db19ab3be.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "chart",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.587Z"
+  }
+}

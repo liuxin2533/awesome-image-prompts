@@ -1,0 +1,101 @@
+{
+  "id": "prompt_f035ba6cd06d494e61e8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A black-and-white hand-drawn family portrait in the style of detailed pen-and-ink crosshatching on textured white paper, showing 4 people seated closely together in a casual candid composition. On the left, an adult man in a dark baseball cap worn backward and a dark T-shirt leans into the frame, with a crossbody sling bag worn across his chest and visible zipper details. On the right, an adult woman with curly hair tied up in a loose high bun wears a light T-shirt with large collegiate block letters reading {argument name=\"shirt text\" default=\"CITY\"}. In the center are 2 young children sitting close together, both with short curly hair and matching light-colored T-shirts printed all over with strawberries. The child on the left leans inward with one arm crossing the other child, and the child on the right tilts their head slightly upward. The adults frame the children protectively, creating a warm family snapshot feeling. Render the whole image as a monochrome etched illustration with dense fine-line hatching, engraved shadows, crisp contour lines, and a realistic yet artistic likeness, with no color, no background setting beyond a plain light paper texture, and a vertical portrait crop.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一幅黑白手绘家庭肖像，采用在纹理白色纸上的精细钢笔交叉阴影风格，展示4人紧密坐在一起的随意自然构图。左侧，一名成年男子戴着反戴的深色棒球帽和深色T恤，身体倾向画面，胸前斜挎着一个单肩包，可见拉链细节。右侧，一名成年女子将卷发松松地扎成高马尾，穿着浅色T恤，上面印有大学风格的大号字母，内容为{argument name=\"shirt text\" default=\"CITY\"}。中心是两名紧密坐在一起的小孩，两人都有短卷发，穿着相同的浅色T恤，上面印满了草莓图案。左侧的孩子向内倾斜，一只手臂交叉在另一个孩子身上，右侧的孩子略微向上抬头。成年人保护性地环绕着孩子们，营造出温馨的家庭快照感。将整个图像渲染为单色蚀刻插图，具有密集的细线阴影、雕刻阴影、清晰的轮廓线和逼真而艺术性的相似度，无色彩，背景仅为简单的浅纸纹理，采用垂直肖像构图。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:33:34.554Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Ink-Etched Family Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/gdb/status/2048184698195870102",
+      "originalId": "case-84",
+      "authors": [
+        {
+          "name": "gdb",
+          "url": "https://x.com/gdb"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 473
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3622e2946cb50755",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case84/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case84/output.jpg",
+      "localPath": "public/assets/prompt_f035ba6cd06d494e61e8/0fcd5cc5789c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.562Z"
+  }
+}

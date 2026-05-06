@@ -1,5 +1,6 @@
 const state = {
   report: null,
+  categories: [],
   issues: [],
   selectedIssue: null,
   currentActionId: null
@@ -31,12 +32,13 @@ function setOptions(select, values, label) {
 }
 
 function canAutoFix(issue) {
-  return issue.code === 'missing_translation' || issue.code === 'asset_not_cached';
+  return issue.code === 'missing_translation' || issue.code === 'asset_not_cached' || issue.code === 'unclassified_category';
 }
 
 function actionMeaning(issue) {
   if (issue.code === 'missing_translation') return '用智谱 AI 只补齐这一条缺失翻译。';
   if (issue.code === 'asset_not_cached') return '只下载并缓存这一条资源。';
+  if (issue.code === 'unclassified_category') return '使用右侧选择的标准分类，人工归类这一条 prompt。';
   return '这类问题需要人工处理，当前没有自动修正。';
 }
 
@@ -45,6 +47,9 @@ function renderMetrics(report) {
   $('#metric-warnings').textContent = report.summary.warning || 0;
   $('#metric-info').textContent = report.summary.info || 0;
   $('#metric-generated').textContent = report.generatedAt ? new Date(report.generatedAt).toLocaleString() : '-';
+  $('#metric-added').textContent = report.latestRun?.summary?.added || 0;
+  $('#metric-updated').textContent = report.latestRun?.summary?.updated || 0;
+  $('#metric-unchanged').textContent = report.latestRun?.summary?.unchanged || 0;
 }
 
 function issueMatches(issue) {
@@ -116,6 +121,18 @@ async function loadConfig() {
   $('#config-status').textContent = config.hasApiKey ? `已配置 Key：${config.maskedApiKey}` : '还没有配置 API Key。';
 }
 
+async function loadCategories() {
+  const rules = await requestJson('/api/categories');
+  state.categories = rules.categories || [];
+  const select = $('#classification-category');
+  select.innerHTML = '';
+  select.append(new Option('选择标准分类', ''));
+  for (const category of state.categories) {
+    const label = `${category.title?.['zh-CN'] || category.title?.en || category.id} (${category.id})`;
+    select.append(new Option(label, category.id));
+  }
+}
+
 async function saveConfig() {
   const apiKey = $('#ai-key').value.trim();
   const payload = {
@@ -158,6 +175,7 @@ async function startAction(button) {
   const action = button.dataset.action;
   const payload = {};
   if (button.dataset.language) payload.language = button.dataset.language;
+  if (action === 'classify') payload.categoryId = $('#classification-category').value || null;
   const limit = $('#action-limit').value.trim();
   if (limit) payload.limit = Number(limit);
   const record = await requestJson(`/api/actions/${action}`, {
@@ -176,7 +194,10 @@ async function fixIssue(issue) {
   const record = await requestJson('/api/actions/issue', {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ index: issue.index })
+    body: JSON.stringify({
+      index: issue.index,
+      categoryId: issue.code === 'unclassified_category' ? $('#classification-category').value : null
+    })
   });
   state.currentActionId = record.id;
   $('#run-log').textContent = `已开始单条修正：${issue.code}`;
@@ -200,7 +221,7 @@ async function init() {
   for (const button of document.querySelectorAll('[data-action]')) {
     button.addEventListener('click', () => startAction(button).catch(showError));
   }
-  await Promise.all([loadReport(), loadConfig()]);
+  await Promise.all([loadReport(), loadConfig(), loadCategories()]);
 }
 
 init().catch(showError);

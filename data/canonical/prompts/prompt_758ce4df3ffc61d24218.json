@@ -1,0 +1,108 @@
+{
+  "id": "prompt_758ce4df3ffc61d24218",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown branch in the middle of dense rainforest foliage. The entire image is rendered as a tight grid of tiny square tiles with visible black outlines, creating a stained-glass or LED-screen effect. The bird is shown in side profile facing right, with a large curved black beak, a pale cream face, a bright red-orange forehead and throat, vivid green upper body, and long wings and tail in saturated blue and cyan. The surrounding jungle is filled edge to edge with layered green leaves in many shades, with a soft light green glow behind the parrot to separate it from the background. High color contrast, rich tropical palette, crisp tile pattern, centered composition, decorative digital mosaic aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "充满活力的像素艺术风格马赛克，展示一只热带鹦鹉栖息在茂密热带雨林植被中间的一根小棕色树枝上。整个图像被渲染为紧密排列的小方形瓷砖网格，带有可见的黑色轮廓，创造出彩色玻璃或LED屏幕的效果。这只鸟以右侧面的形象展示，带有大型弯曲的黑色喙、淡奶油色的脸、明亮的红橙色额头和喉咙、鲜艳的绿色上半身，以及饱和的蓝色和青色长翅膀和尾巴。周围的丛林从边缘到边缘都充满了许多不同深浅的分层绿色树叶，鹦鹉身后有柔和的浅绿色光芒以将其与背景分离。高色彩对比度，丰富的热带色彩，清晰的瓷砖图案，居中构图，装饰性数字马赛克美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:19:55.700Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Tropical Parrot Pixel Mosaic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "热带鹦鹉像素马赛克",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:19:52.327Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/erikmackinnon/status/2048190288179675290",
+      "originalId": "case-103",
+      "authors": [
+        {
+          "name": "erikmackinnon",
+          "url": "https://x.com/erikmackinnon"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 601
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ee835d555d14c326",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case103/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case103/output.jpg",
+      "localPath": "public/assets/prompt_758ce4df3ffc61d24218/8397aac312f7.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

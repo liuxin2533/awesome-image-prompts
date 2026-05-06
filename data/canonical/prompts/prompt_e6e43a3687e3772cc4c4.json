@@ -1,0 +1,110 @@
+{
+  "id": "prompt_e6e43a3687e3772cc4c4",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"complex urban systems atlas infographic\",\r\n  \"style\": \"{argument name=\\\"color palette\\\" default=\\\"dark background with glowing blue, gold, and purple accents\\\"}, highly detailed technical illustration, 3D isometric cutaway\",\r\n  \"header\": {\r\n    \"title\": \"{argument name=\\\"chinese city name\\\" default=\\\"上海\\\"}城市系统剖面 {argument name=\\\"english city name\\\" default=\\\"SHANGHAI\\\"} URBAN SYSTEMS ATLAS\",\r\n    \"subtitles\": [\r\n      \"地表之上，是城市；地表之下，是秩序 {argument name=\\\"english subtitle\\\" default=\\\"Beneath the skyline lies the machine.\\\"}\",\r\n      \"一座城市如何运转 How a Megacity Actually Works\"\r\n    ]\r\n  },\r\n  \"layout\": {\r\n    \"top_left\": \"Compass rose and city map labeled '上海市域位置 SHANGHAI LOCATION'\",\r\n    \"top_right\": \"Data table titled '城市数据 CITY DATA' with 7 rows of statistics\",\r\n    \"centerpiece\": {\r\n      \"description\": \"{argument name=\\\"centerpiece style\\\" default=\\\"highly detailed 3D isometric cutaway render\\\"} of a megacity river landscape\",\r\n      \"layers\": [\r\n        \"地面层 SURFACE\",\r\n        \"排水层 DRAINAGE LAYER\",\r\n        \"电力层 POWER LAYER\",\r\n        \"通信层 COMMUNICATION LAYER\",\r\n        \"轨道交通层 METRO LAYER\",\r\n        \"道路隧道层 ROAD TUNNEL LAYER\",\r\n        \"管廊综合层 UTILITY CORRIDOR LAYER\"\r\n      ]\r\n    },\r\n    \"side_panels\": [\r\n      { \"id\": \"01\", \"title\": \"城市主骨架 URBAN SKELETON\", \"elements\": \"Map with 8 legend items\" },\r\n      { \"id\": \"02\", \"title\": \"排水与地下水网 DRAINAGE + STORMWATER\", \"elements\": \"Cross-section diagram '典型排水剖面 DRAINAGE SECTION' with 5 legend items\" },\r\n      { \"id\": \"03\", \"title\": \"电网与能源分配 POWER GRID + ENERGY\", \"elements\": \"Cross-section diagram '典型变电站剖面 SUBSTATION SECTION' with 6 legend items\" },\r\n      { \"id\": \"04\", \"title\": \"通信与网络骨干 TELECOM + INTERNET\", \"elements\": \"Cross-section diagram '数据中心剖面 DATA CENTER SECTION' with 6 legend items\" },\r\n      { \"id\": \"05\", \"title\": \"地铁与地下交通 METRO + SUBSURFACE MOBILITY\", \"elements\": \"Cross-section diagram '人民广场站剖面 PEOPLE'S SQUARE STATION' with 6 legend items\" },\r\n      { \"id\": \"06\", \"title\": \"道路、高架与循环 ROADS + ELEVATED MOBILITY\", \"elements\": \"Cross-section diagram '南浦大桥剖面 NANPU BRIDGE SECTION' with 6 legend items\" },\r\n      { \"id\": \"07\", \"title\": \"管廊与地下设施 UTILITY CORRIDORS + PLUMBING\", \"elements\": \"Cross-section diagram '综合管廊 UTILITY CORRIDOR' with 8 legend items\" },\r\n      { \"id\": \"08\", \"title\": \"城市流量与系统协同 URBAN FLOWS + COORDINATION\", \"elements\": \"Map diagram '城市运行指挥中心 CITY OPERATIONS CENTER' with 6 legend items\" }\r\n    ],\r\n    \"bottom_panels\": {\r\n      \"system_logic\": {\r\n        \"title\": \"城市系统协同逻辑 SYSTEM COORDINATION LOGIC\",\r\n        \"steps\": 4,\r\n        \"labels\": [\"感知层 SENSING LAYER\", \"网络层 NETWORK LAYER\", \"平台层 PLATFORM LAYER\", \"应用层 APPLICATION LAYER\"]\r\n      },\r\n      \"city_brain\": {\r\n        \"title\": \"城市大脑 CITY BRAIN\",\r\n        \"central_node\": 1,\r\n        \"peripheral_nodes\": 8\r\n      },\r\n      \"references\": {\r\n        \"depth_scale\": { \"title\": \"深度与尺度 DEPTH & SCALE REFERENCE\", \"icons\": 5 },\r\n        \"map_scale\": { \"title\": \"比例尺 SCALE\", \"markers\": 4 }\r\n      }\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"complex urban systems atlas infographic\",\n  \"style\": \"{argument name=\\\"color palette\\\" default=\\\"dark background with glowing blue, gold, and purple accents\\\"}, highly detailed technical illustration, 3D isometric cutaway\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"chinese city name\\\" default=\\\"上海\\\"}Urban Systems Profile {argument name=\\\"english city name\\\" default=\\\"SHANGHAI\\\"} URBAN SYSTEMS ATLAS\",\n    \"subtitles\": [\n      \"Above ground is the city; below ground is order {argument name=\\\"english subtitle\\\" default=\\\"Beneath the skyline lies the machine.\\\"}\",\n      \"How a Megacity Actually Works\"\n    ]\n  },\n  \"layout\": {\n    \"top_left\": \"Compass rose and city map labeled 'Shanghai City Location SHANGHAI LOCATION'\",\n    \"top_right\": \"Data table titled 'City Data CITY DATA' with 7 rows of statistics\",\n    \"centerpiece\": {\n      \"description\": \"{argument name=\\\"centerpiece style\\\" default=\\\"highly detailed 3D isometric cutaway render\\\"} of a megacity river landscape\",\n      \"layers\": [\n        \"Surface Layer SURFACE\",\n        \"Drainage Layer DRAINAGE LAYER\",\n        \"Power Layer POWER LAYER\",\n        \"Communication Layer COMMUNICATION LAYER\",\n        \"Metro Rail Layer METRO LAYER\",\n        \"Road Tunnel Layer ROAD TUNNEL LAYER\",\n        \"Utility Corridor Layer UTILITY CORRIDOR LAYER\"\n      ]\n    },\n    \"side_panels\": [\n      { \"id\": \"01\", \"title\": \"Urban Main Framework URBAN SKELETON\", \"elements\": \"Map with 8 legend items\" },\n      { \"id\": \"02\", \"title\": \"Drainage and Groundwater Network DRAINAGE + STORMWATER\", \"elements\": \"Cross-section diagram 'Typical Drainage Profile DRAINAGE SECTION' with 5 legend items\" },\n      { \"id\": \"03\", \"title\": \"Power Grid and Energy Distribution POWER GRID + ENERGY\", \"elements\": \"Cross-section diagram 'Typical Substation Profile SUBSTATION SECTION' with 6 legend items\" },\n      { \"id\": \"04\", \"title\": \"Communication and Network Backbone TELECOM + INTERNET\", \"elements\": \"Cross-section diagram 'Data Center Profile DATA CENTER SECTION' with 6 legend items\" },\n      { \"id\": \"05\", \"title\": \"Metro and Underground Transportation METRO + SUBSURFACE MOBILITY\", \"elements\": \"Cross-section diagram 'People's Square Station Profile PEOPLE'S SQUARE STATION' with 6 legend items\" },\n      { \"id\": \"06\", \"title\": \"Roads, Elevated Roads and Circulation ROADS + ELEVATED MOBILITY\", \"elements\": \"Cross-section diagram 'Nanpu Bridge Profile NANPU BRIDGE SECTION' with 6 legend items\" },\n      { \"id\": \"07\", \"title\": \"Utility Corridors and Underground Facilities UTILITY CORRIDORS + PLUMBING\", \"elements\": \"Cross-section diagram 'Comprehensive Utility Corridor UTILITY CORRIDOR' with 8 legend items\" },\n      { \"id\": \"08\", \"title\": \"Urban Flows and System Coordination URBAN FLOWS + COORDINATION\", \"elements\": \"Map diagram 'City Operations Center CITY OPERATIONS CENTER' with 6 legend items\" }\n    ],\n    \"bottom_panels\": {\n      \"system_logic\": {\n        \"title\": \"Urban System Coordination Logic SYSTEM COORDINATION LOGIC\",\n        \"steps\": 4,\n        \"labels\": [\"Sensing Layer SENSING LAYER\", \"Network Layer NETWORK LAYER\", \"Platform Layer PLATFORM LAYER\", \"Application Layer APPLICATION LAYER\"]\n      },\n      \"city_brain\": {\n        \"title\": \"Urban Brain CITY BRAIN\",\n        \"central_node\": 1,\n        \"peripheral_nodes\": 8\n      },\n      \"references\": {\n        \"depth_scale\": { \"title\": \"Depth and Scale DEPTH & SCALE REFERENCE\", \"icons\": 5 },\n        \"map_scale\": { \"title\": \"Scale SCALE\", \"markers\": 4 }\n      }\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:40:58.780Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic visualization design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:39:51.222Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-73",
+      "originalId": "case-73",
+      "authors": [
+        {
+          "name": "hx831126",
+          "url": "https://x.com/hx831126"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2327
+        }
+      ],
+      "rawSource": "[@hx831126](https://x.com/hx831126)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e0b1e2f69a888326",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case73.jpg",
+      "upstreamPath": "../data/images/case73.jpg",
+      "localPath": "public/assets/prompt_e6e43a3687e3772cc4c4/a19456fca64a.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "map",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

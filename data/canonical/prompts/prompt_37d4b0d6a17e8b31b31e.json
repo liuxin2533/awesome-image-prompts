@@ -1,0 +1,175 @@
+{
+  "id": "prompt_37d4b0d6a17e8b31b31e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using REFERENCE_0 as the character base, create a clean animation movement sheet that turns the character into a full-body jump sequence study while preserving the same outfit, badge, bald head, shoes, stylized ink-and-color illustration look, and the censored/blurred face treatment. Expand the view from the cropped portrait into a wide beige paper-textured layout with a ground line, subtle motion lines, small impact marks, and instructional typography. Add the title text {argument name=\"title text\" default=\"SQUASH AND STRETCH\"} at the upper left with the subtitle {argument name=\"subtitle text\" default=\"JUMP SEQUENCE — 7 STAGES\"}. Show exactly 7 numbered poses arranged left to right across the page: 1 “ANTICIPATION (CROUCHING)” with the character crouched and arms back; 2 “EXTREME SQUASH (COMPRESSED)” with a deeper compact crouch; 3 “EXTREME STRETCH (TAKEOFF)” with the character elongated upward, arms raised, feet leaving the ground; 4 “APEX (MID-AIR ARC)” with the character tucked in midair; 5 “STRETCH (DOWNWARD ACCELERATION)” with the character stretched vertically while descending; 6 “SQUASH (IMPACT LANDING)” with the character compressed on landing, one hand touching the ground; 7 “RECOVERY (RETURN TO STANCE)” with the character standing relaxed with hands in pockets. Use bold black uppercase labels under each numbered stage, keep consistent character proportions across poses except for the intentional squash-and-stretch deformation, and make the sheet read like a professional 2D animation reference chart.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "以 REFERENCE_0 为角色基础，制作一张清晰的动画动作表，将角色转化为全身跳跃序列研究，同时保留相同的服装、徽章、光头、鞋子、风格化水墨插画外观以及面部遮挡/模糊处理。将视图从裁剪后的肖像扩展为带有地面线、细微运动线、小型冲击标记和教学排版的米色纸张纹理宽幅布局。在左上角添加标题文本 {argument name=\"title text\" default=\"SQUASH AND STRETCH\"} 和副标题 {argument name=\"subtitle text\" default=\"JUMP SEQUENCE — 7 STAGES\"}。展示从左至右排列的 7 个编号姿势：1 “ANTICIPATION (CROUCHING)”（预备动作：蹲伏），角色蹲伏且双臂后摆；2 “EXTREME SQUASH (COMPRESSED)”（极限挤压：压缩），角色更深地紧凑蹲伏；3 “EXTREME STRETCH (TAKEOFF)”（极限拉伸：起跳），角色向上拉伸，双臂抬起，双脚离地；4 “APEX (MID-AIR ARC)”（顶点：空中弧线），角色在半空中收缩；5 “STRETCH (DOWNWARD ACCELERATION)”（拉伸：向下加速），角色在下降时垂直拉伸；6 “SQUASH (IMPACT LANDING)”（挤压：着陆冲击），角色着陆时压缩，单手触地；7 “RECOVERY (RETURN TO STANCE)”（恢复：回到站姿），角色双手插兜，放松站立。在每个编号阶段下方使用粗体黑色大写标签，除刻意的挤压与拉伸变形外，保持各姿势中角色比例的一致性，并使该表呈现出专业 2D 动画参考图表的效果。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Usando REFERENCE_0 como base del personaje, crea una hoja de movimiento de animación limpia que convierta al personaje en un estudio de secuencia de salto de cuerpo completo, preservando el mismo atuendo, insignia, cabeza calva, zapatos, estilo de ilustración de tinta y color, y el tratamiento de rostro censurado/difuminado. Amplía la vista del retrato recortado a un diseño amplio con textura de papel beige que incluya una línea de suelo, líneas de movimiento sutiles, pequeñas marcas de impacto y tipografía instructiva. Agrega el título {argument name=\"title text\" default=\"SQUASH AND STRETCH\"} en la parte superior izquierda con el subtítulo {argument name=\"subtitle text\" default=\"JUMP SEQUENCE — 7 STAGES\"}. Muestra exactamente 7 poses numeradas dispuestas de izquierda a derecha a lo largo de la página: 1 “ANTICIPATION (CROUCHING)” con el personaje agachado y los brazos hacia atrás; 2 “EXTREME SQUASH (COMPRESSED)” con un agachado más compacto; 3 “EXTREME STRETCH (TAKEOFF)” con el personaje alargado hacia arriba, brazos levantados y pies despegándose del suelo; 4 “APEX (MID-AIR ARC)” con el personaje encogido en el aire; 5 “STRETCH (DOWNWARD ACCELERATION)” con el personaje estirado verticalmente mientras desciende; 6 “SQUASH (IMPACT LANDING)” con el personaje comprimido al aterrizar, con una mano tocando el suelo; 7 “RECOVERY (RETURN TO STANCE)” con el personaje de pie y relajado con las manos en los bolsillos. Usa etiquetas en negrita, mayúsculas y color negro debajo de cada etapa numerada, mantén proporciones consistentes del personaje en todas las poses, excepto por la deformación intencional de squash y stretch, y haz que la hoja se lea como una tabla de referencia profesional de animación 2D.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle auf Basis von REFERENCE_0 ein sauberes Animations-Bewegungsblatt, das den Charakter in eine Ganzkörper-Sprungsequenz-Studie verwandelt. Behalte dabei das Outfit, das Abzeichen, den kahlen Kopf, die Schuhe, den stilisierten Tusch- und Farb-Illustrationsstil sowie die zensierte/verschwommene Gesichtsbehandlung bei. Erweitere die Ansicht vom zugeschnittenen Porträt zu einem breiten Layout mit beigefarbener Papiertextur, einer Bodenlinie, subtilen Bewegungslinien, kleinen Aufprallmarkierungen und instruktiver Typografie. Füge den Titeltext {argument name=\"title text\" default=\"SQUASH AND STRETCH\"} oben links und den Untertitel {argument name=\"subtitle text\" default=\"JUMP SEQUENCE — 7 STAGES\"} hinzu. Zeige genau 7 nummerierte Posen, die von links nach rechts auf der Seite angeordnet sind: 1 „ANTICIPATION (CROUCHING)“ mit dem Charakter in der Hocke und den Armen nach hinten; 2 „EXTREME SQUASH (COMPRESSED)“ mit einer tieferen, kompakten Hocke; 3 „EXTREME STRETCH (TAKEOFF)“ mit dem Charakter in die Länge gezogen, Arme erhoben, Füße verlassen den Boden; 4 „APEX (MID-AIR ARC)“ mit dem Charakter in der Luft zusammengezogen; 5 „STRETCH (DOWNWARD ACCELERATION)“ mit dem Charakter vertikal gestreckt während des Abstiegs; 6 „SQUASH (IMPACT LANDING)“ mit dem Charakter komprimiert bei der Landung, eine Hand berührt den Boden; 7 „RECOVERY (RETURN TO STANCE)“ mit dem Charakter entspannt stehend, Hände in den Taschen. Verwende unter jeder nummerierten Stufe fettgedruckte, schwarze Großbuchstaben-Beschriftungen, bewahre konsistente Charakterproportionen über alle Posen hinweg (abgesehen von der beabsichtigten Squash-and-Stretch-Deformation) und gestalte das Blatt wie eine professionelle 2D-Animationsreferenztabelle.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "En utilisant REFERENCE_0 comme base pour le personnage, créez une fiche de mouvement d'animation propre qui transforme le personnage en une étude de séquence de saut complet, tout en conservant la même tenue, le badge, le crâne chauve, les chaussures, le style d'illustration à l'encre et en couleur, ainsi que le traitement du visage censuré/flouté. Élargissez la vue du portrait recadré vers une mise en page large sur papier beige texturé avec une ligne de sol, des lignes de mouvement subtiles, de petites marques d'impact et une typographie pédagogique. Ajoutez le titre {argument name=\"title text\" default=\"SQUASH AND STRETCH\"} en haut à gauche avec le sous-titre {argument name=\"subtitle text\" default=\"JUMP SEQUENCE — 7 STAGES\"}. Affichez exactement 7 poses numérotées disposées de gauche à droite sur la page : 1 « ANTICIPATION (CROUCHING) » avec le personnage accroupi et les bras en arrière ; 2 « EXTREME SQUASH (COMPRESSED) » avec un accroupissement plus compact ; 3 « EXTREME STRETCH (TAKEOFF) » avec le personnage étiré vers le haut, bras levés, pieds quittant le sol ; 4 « APEX (MID-AIR ARC) » avec le personnage replié en plein vol ; 5 « STRETCH (DOWNWARD ACCELERATION) » avec le personnage étiré verticalement lors de la descente ; 6 « SQUASH (IMPACT LANDING) » avec le personnage compressé à l'atterrissage, une main touchant le sol ; 7 « RECOVERY (RETURN TO STANCE) » avec le personnage debout, détendu, mains dans les poches. Utilisez des étiquettes en majuscules noires et grasses sous chaque étape numérotée, maintenez des proportions cohérentes pour le personnage à travers les poses, à l'exception de la déformation intentionnelle de squash-and-stretch, et faites en sorte que la fiche ressemble à un tableau de référence professionnel pour l'animation 2D.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Utilizzando REFERENCE_0 come base per il personaggio, crea un foglio di movimento animato pulito che trasformi il personaggio in uno studio sequenziale di un salto a figura intera, preservando lo stesso abbigliamento, distintivo, testa calva, scarpe, lo stile di illustrazione a inchiostro e colore, e il trattamento di censura/sfocatura del volto. Espandi la visualizzazione dal ritratto ritagliato a un layout ampio con texture di carta beige, includendo una linea del terreno, sottili linee di movimento, piccoli segni di impatto e tipografia didattica. Aggiungi il titolo {argument name=\"title text\" default=\"SQUASH AND STRETCH\"} in alto a sinistra con il sottotitolo {argument name=\"subtitle text\" default=\"JUMP SEQUENCE — 7 STAGES\"}. Mostra esattamente 7 pose numerate disposte da sinistra a destra lungo la pagina: 1 “ANTICIPATION (CROUCHING)” con il personaggio accovacciato e le braccia all'indietro; 2 “EXTREME SQUASH (COMPRESSED)” con un accovacciamento più profondo e compatto; 3 “EXTREME STRETCH (TAKEOFF)” con il personaggio allungato verso l'alto, braccia sollevate, piedi che lasciano il suolo; 4 “APEX (MID-AIR ARC)” con il personaggio rannicchiato a mezz'aria; 5 “STRETCH (DOWNWARD ACCELERATION)” con il personaggio allungato verticalmente durante la discesa; 6 “SQUASH (IMPACT LANDING)” con il personaggio compresso all'atterraggio, una mano che tocca terra; 7 “RECOVERY (RETURN TO STANCE)” con il personaggio in piedi, rilassato, con le mani in tasca. Utilizza etichette in grassetto nero in maiuscolo sotto ogni fase numerata, mantieni proporzioni coerenti del personaggio tra le pose, eccetto per la deformazione intenzionale di squash-and-stretch, e rendi il foglio simile a un grafico di riferimento professionale per l'animazione 2D.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Usando REFERENCE_0 como base do personagem, crie uma folha de movimento de animação limpa que transforme o personagem em um estudo de sequência de pulo de corpo inteiro, preservando o mesmo traje, distintivo, cabeça careca, sapatos, estilo de ilustração estilizada com tinta e cor, e o tratamento de rosto censurado/desfocado. Expanda a visualização do retrato cortado para um layout amplo com textura de papel bege, com uma linha de solo, linhas de movimento sutis, pequenas marcas de impacto e tipografia instrucional. Adicione o texto do título {argument name=\"title text\" default=\"SQUASH AND STRETCH\"} no canto superior esquerdo com o subtítulo {argument name=\"subtitle text\" default=\"JUMP SEQUENCE — 7 STAGES\"}. Mostre exatamente 7 poses numeradas organizadas da esquerda para a direita na página: 1 “ANTICIPATION (CROUCHING)” com o personagem agachado e braços para trás; 2 “EXTREME SQUASH (COMPRESSED)” com um agachamento compacto mais profundo; 3 “EXTREME STRETCH (TAKEOFF)” com o personagem alongado para cima, braços levantados, pés saindo do chão; 4 “APEX (MID-AIR ARC)” com o personagem encolhido no ar; 5 “STRETCH (DOWNWARD ACCELERATION)” com o personagem esticado verticalmente enquanto desce; 6 “SQUASH (IMPACT LANDING)” com o personagem comprimido ao aterrissar, uma mão tocando o chão; 7 “RECOVERY (RETURN TO STANCE)” com o personagem em pé, relaxado, com as mãos nos bolsos. Use rótulos em negrito, pretos e em letras maiúsculas abaixo de cada estágio numerado, mantenha proporções consistentes do personagem entre as poses, exceto pela deformação intencional de squash-and-stretch, e faça com que a folha seja lida como um gráfico de referência profissional de animação 2D.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Squash and Stretch Jump Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 挤压与拉伸跳跃动作表",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Hoja de estudio de salto: Squash and Stretch",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Squash-and-Stretch-Sprungblatt",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Fiche d'étude de mouvement : Squash and Stretch",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Foglio di studio per Squash and Stretch del salto",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Folha de Estudo de Squash and Stretch para Pulos",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a seven-stage animation movement sheet from a character reference for studying jump timing, squash, stretch, and recovery poses.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于角色参考生成七阶段动画动作表，用于研究跳跃时机、挤压、拉伸及恢复姿势。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une fiche d'animation en sept étapes à partir d'une référence de personnage pour étudier le timing de saut, le squash, le stretch et les poses de récupération.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/techhalla/status/2051273934356595196#reversed-1",
+      "originalId": "https://x.com/techhalla/status/2051273934356595196#reversed-1",
+      "authors": [
+        {
+          "name": "TechHalla",
+          "url": "https://x.com/techhalla"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3769
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1ab36f7677346015",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971046177_dbw6gh_HHeUIYyXYAA9plV.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971046177_dbw6gh_HHeUIYyXYAA9plV.jpg",
+      "localPath": "public/assets/prompt_37d4b0d6a17e8b31b31e/8157b014dc61.jpg",
+      "alt": "Comic / Storyboard - Squash and Stretch Jump Sheet - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.850Z"
+  }
+}

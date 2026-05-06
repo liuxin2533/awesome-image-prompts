@@ -1,0 +1,110 @@
+{
+  "id": "prompt_8a6cbb5b6371a37f5560",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic, ultra-realistic night scene of a {argument name=\"artist\" default=\"young male street artist\"} painting a large-scale {argument name=\"mural subject\" default=\"mural of a woman’s face\"} in a {argument name=\"setting\" default=\"narrow urban alley\"}. The camera angle is slightly low, creating a dramatic, powerful perspective. The artist has medium-length, slightly messy dark hair and light stubble or a short beard, giving him a rugged, creative look.\n\nHe wears a loose white t-shirt and casual jeans, slightly oversized, with a relaxed streetwear vibe. His posture is focused and engaged as he stands close to the wall, actively spray-painting.\n\nHe is creating a massive, hyper-realistic mural of a woman’s face on a textured brick wall. The mural is incredibly detailed—smooth skin tones, realistic lighting, expressive eyes, and glossy lips—appearing almost like a photograph. Fine mist from the spray paint is visible in the air, catching light and adding motion and atmosphere.\n\nThe setting is a narrow urban alley at night, surrounded by tall buildings. The environment is gritty and textured—aged brick walls, paint splashes, subtle grime, and urban wear. Neon signs and distant streetlights cast vibrant reflections in teal, magenta, and blue tones, creating a cinematic, slightly cyberpunk mood.\n\nLighting is dramatic and layered: cool ambient light fills the alley, while warmer neon highlights create contrast. A subtle rim light outlines the artist’s silhouette, separating him from the dark background. The mural is partially illuminated, acting as a strong focal point.\n\nAtmosphere includes light fog or mist, enhancing depth and making the lighting glow softly. The scene feels immersive, quiet, and artistically intense.\n\nDepth of field is moderately shallow: the artist and mural are in sharp focus, while the background fades into soft blur with bokeh highlights.\n\nStyle: hyper-realistic, cinematic photography, street art aesthetic, ultra-detailed textures, high dynamic range, subtle film grain.\n\nCamera details: 35mm or 50mm lens, f/1.8–f/2.8 aperture, low-light photography, slight low-angle shot, natural perspective.\n\nComposition: vertical frame (4:5 or 9:16), subject slightly off-center, mural dominating the frame for strong visual storytelling.\nGenerate image using uploaded image as reference",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影感的、超写实的夜景，{argument name=\"artist\" default=\"年轻男性街头艺术家\"}正在{argument name=\"setting\" default=\"狭窄的城市小巷\"}中绘制一幅大型{argument name=\"mural subject\" default=\"女性面孔壁画\"}。相机角度略低，创造出戏剧性的、有力的视角。这位艺术家有中等长度的、略微凌乱的深色头发和轻柔的胡茬或短须，赋予他粗犷、富有创造力的外表。\n\n他穿着宽松的白色T恤和休闲牛仔裤，略微宽松，带有轻松的街头时尚感。他的姿势专注而投入，他站在墙边，积极地进行喷漆创作。\n\n他正在一面纹理分明的砖墙上创作一幅巨大的、超写实的女性面孔壁画。壁画极其细腻——平滑的肤色、逼真的光线、富有表现力的眼睛和光泽的嘴唇——看起来几乎像一张照片。喷漆产生的细小雾气在空气中可见，捕捉光线，增添了动感和氛围。\n\n场景是夜晚狭窄的城市小巷，被高楼大厦环绕。环境粗犷而富有纹理——陈旧的砖墙、油漆飞溅、微妙的污垢和城市磨损痕迹。霓虹灯和远处的路灯在青绿色、品红色和蓝色调中投射出鲜艳的反光，营造出电影感、略赛博朋克的氛围。\n\n光线戏剧化且层次分明：冷色调的环境光充满小巷，而更温暖的霓虹高光形成对比。微妙的轮廓光勾勒出艺术家的剪影，使他与黑暗背景分离。壁画部分被照亮，成为强烈的焦点。\n\n氛围包含轻雾或薄雾，增强了深度，使光线柔和发光。场景感觉沉浸、安静，且艺术氛围浓厚。\n\n景深中等浅：艺术家和壁画清晰对焦，而背景则柔和模糊，带有散景高光。\n\n风格：超写实、电影摄影、街头艺术美学、超精细纹理、高动态范围、微妙的胶片颗粒。\n\n相机细节：35mm或50mm镜头，f/1.8-f/2.8光圈，低光摄影，轻微低角度拍摄，自然透视。\n\n构图：垂直画幅（4:5或9:16），主体略微偏离中心，壁画占据画面主导地位，以实现强烈的视觉叙事。\n使用上传的图像作为参考生成图像",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:23:55.981Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Urban Alley Mural Artist",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "城市小巷壁画艺术家",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:23:50.683Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Professor_134/status/2048066672398102896",
+      "originalId": "case-139",
+      "authors": [
+        {
+          "name": "Professor_134",
+          "url": "https://x.com/Professor_134"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1462
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7878fefe479861b9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case139/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case139/output.jpg",
+      "localPath": "public/assets/prompt_8a6cbb5b6371a37f5560/6108e84e77c4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.558Z"
+  }
+}

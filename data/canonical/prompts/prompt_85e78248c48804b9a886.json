@@ -1,0 +1,107 @@
+{
+  "id": "prompt_85e78248c48804b9a886",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "创建一个包含 10x10 网格的图像，每个对象名称都以字母 a 开头。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "create an image with 10x10 grid of objects that have the names starting with letter a.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic visualization design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:53:28.832Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-171",
+      "originalId": "case-171",
+      "authors": [
+        {
+          "name": "umesh_ai",
+          "url": "https://x.com/umesh_ai/status/2046510988367945983"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 67
+        }
+      ],
+      "rawSource": "[@umesh\\_ai](https://x.com/umesh_ai/status/2046510988367945983)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f42eb5e58c8c8088",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case171.jpg",
+      "upstreamPath": "../data/images/case171.jpg",
+      "localPath": "public/assets/prompt_85e78248c48804b9a886/959946a4662e.jpg",
+      "alt": "百件A字头物品矩阵图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.592Z"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "prompt_9d118ce9893cf33b77d9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"clean Japanese business infographic poster\",\"format\":\"vertical A4-like page with rounded black outer border on white background\",\"style\":\"friendly flat line illustration, minimal teal and coral accent colors, soft rounded rectangles, hand-drawn business sketch feel, black Japanese gothic headline typography, thin teal dividers, small sparkle and plant icons\",\"language\":\"Japanese\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AIを現実のビジネスに接続する\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"ながらAI 4トピックス\\\"}\",\"layout\":{\"top\":\"large centered headline with small decorative sparkles, subtitle below between dotted horizontal lines with teal and pink dots\",\"main_grid\":\"four equal rounded cards arranged in a 2 by 2 grid, connected by teal arrow icons showing flow from 1 to 2, down to 3, across to 4\",\"bottom_banner\":\"rounded summary strip with a lightbulb icon at left, Japanese closing sentence in the center, and two friendly characters at right\"},\"sections\":[{\"number\":\"1\",\"position\":\"top left\",\"title\":\"{argument name=\\\"section 1 title\\\" default=\\\"小さく始める\\\"}\",\"main_illustration\":\"young person in teal hoodie working on a laptop at a desk, smartphone beside them showing a cute AI robot chat interface, speech bubble with three people, small icons for basket, walking person, chat message, plant and mug\",\"description\":\"身近な課題をAIで解き、MVPで反応を見る\",\"bullet_count\":3,\"bullets\":[\"身近な困りごとを見つける\",\"小さく作って、すぐ試す\",\"使う人の声をもとに改良する\"]},{\"number\":\"2\",\"position\":\"top right\",\"title\":\"{argument name=\\\"section 2 title\\\" default=\\\"幻想を見極める\\\"}\",\"main_illustration\":\"person looking at a smartphone inside a pink idea cloud with car, phone, bag and bubbles; second person thinking while writing in an open notebook, wall chart with pie chart and rising bar graph, plant, mug, magnifying glass icon\",\"description\":\"AI副業は魔法ではなく、事業の本質が先\",\"bullet_count\":3,\"bullets\":[\"甘い話や一時のブームに惑わされない\",\"価値提供と収益設計を最優先する\",\"継続できる仕組みを作る\"]},{\"number\":\"3\",\"position\":\"bottom left\",\"title\":\"{argument name=\\\"section 3 title\\\" default=\\\"制作を拡張する\\\"}\",\"main_illustration\":\"designer seated with pen tablet facing a desktop monitor showing an image editing interface, vertical tool icons at left, small AI robot assistant in circular bubble, tablet, stylus, pen cup, network lightbulb icon\",\"description\":\"AdobeとClaude連携でデザインの流れが変わる\",\"bullet_count\":3,\"bullets\":[\"AIがアイデア出しや要素生成をサポート\",\"Photoshop・Illustratorで効率的に編集\",\"人の創造性が、もっと加速する\"]},{\"number\":\"4\",\"position\":\"bottom right\",\"title\":\"{argument name=\\\"section 4 title\\\" default=\\\"現実に出力する\\\"}\",\"main_illustration\":\"desktop monitor with 3D cube modeling software connected by dotted teal lines to a 3D printer printing a small cute robot figure, geometric crystal in speech bubble, finished robot mascot on the floor\",\"description\":\"AIの3Dデータが、プリンターで形になる\",\"bullet_count\":3,\"bullets\":[\"デジタルのアイデアを3Dデータ化\",\"プリンターで試作・製品化\",\"アイデアを現実の価値に変える\"]}],\"bottom_summary\":{\"icon\":\"lightbulb in a pale pink circle\",\"text\":\"小さく試し、現実を見極め、創造を拡張し、形にする。\\nそれが、AIをビジネスにつなげる一番の近道。\",\"characters\":\"two smiling young people, one in teal hoodie pointing upward and one woman in pink top, with small sparkle marks\"},\"visual_requirements\":\"Use exactly 4 numbered topic cards, exactly 3 bullet points in each card, Japanese text must be crisp and readable, maintain generous margins, rounded corners, teal card borders, coral bullet dots in sections 2 and 4, teal bullet dots in sections 1 and 3, no photorealism.\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"简洁的日本商业信息图海报\",\"format\":\"垂直 A4 页面，白色背景，黑色圆角外边框\",\"style\":\"友好的扁平化线条插图，以青色和珊瑚色为点缀，柔和的圆角矩形，手绘商业草图风格，黑色日文哥特体标题，细青色分割线，带有小闪光和植物图标\",\"language\":\"日语\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"将 AI 连接到现实商业中\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"AI 应用的 4 个话题\\\"}\",\"layout\":{\"top\":\"大型居中标题，带有装饰性小闪光，副标题位于虚线水平线之间，配有青色和粉色圆点\",\"main_grid\":\"四个等大的圆角卡片，排列成 2x2 网格，通过青色箭头图标连接，展示从 1 到 2，再到 3，最后到 4 的流程\",\"bottom_banner\":\"圆角总结条，左侧带有灯泡图标，中间为日文结束语，右侧为两个友好的人物形象\"},\"sections\":[{\"number\":\"1\",\"position\":\"左上\",\"title\":\"{argument name=\\\"section 1 title\\\" default=\\\"从小处着手\\\"}\",\"main_illustration\":\"身穿青色连帽衫的年轻人坐在桌前使用笔记本电脑，旁边手机显示可爱的 AI 机器人聊天界面，带有三个人的对话气泡，以及购物篮、步行者、聊天信息、植物和马克杯的小图标\",\"description\":\"用 AI 解决身边的问题，并通过 MVP 观察反馈\",\"bullet_count\":3,\"bullets\":[\"发现身边的困扰\",\"小规模制作并立即尝试\",\"根据使用者的反馈进行改进\"]},{\"number\":\"2\",\"position\":\"右上\",\"title\":\"{argument name=\\\"section 2 title\\\" default=\\\"看清幻想\\\"}\",\"main_illustration\":\"一个人在粉色创意云中看着手机，云中包含汽车、电话、包和气泡；第二个人在思考并记录在打开的笔记本中，墙上挂着饼图和上升的柱状图，配有植物、马克杯、放大镜图标\",\"description\":\"AI 副业不是魔法，业务本质优先\",\"bullet_count\":3,\"bullets\":[\"不被甜言蜜语或短期热潮所迷惑\",\"将价值提供和收益设计放在首位\",\"建立可持续的机制\"]},{\"number\":\"3\",\"position\":\"左下\",\"title\":\"{argument name=\\\"section 3 title\\\" default=\\\"扩展创作\\\"}\",\"main_illustration\":\"设计师坐在数位板前，面对显示图像编辑界面的桌面显示器，左侧有垂直工具图标，圆形气泡中有小型 AI 机器人助手，配有平板电脑、触控笔、笔筒、网络灯泡图标\",\"description\":\"Adobe 与 Claude 的联动改变了设计流程\",\"bullet_count\":3,\"bullets\":[\"AI 辅助创意构思和元素生成\",\"通过 Photoshop 和 Illustrator 高效编辑\",\"让人的创造力进一步加速\"]},{\"number\":\"4\",\"position\":\"右下\",\"title\":\"{argument name=\\\"section 4 title\\\" default=\\\"输出到现实\\\"}\",\"main_illustration\":\"桌面显示器显示 3D 立方体建模软件，通过虚线青色线条连接到正在打印小型可爱机器人模型的 3D 打印机，对话气泡中有几何晶体，地面上有完成的机器人吉祥物\",\"description\":\"AI 的 3D 数据通过打印机化为实体\",\"bullet_count\":3,\"bullets\":[\"将数字创意转化为 3D 数据\",\"通过打印机进行原型制作和产品化\",\"将创意转化为现实价值\"]}],\"bottom_summary\":{\"icon\":\"淡粉色圆圈中的灯泡\",\"text\":\"从小处尝试，看清现实，扩展创造，并将其成型。\\n这就是将 AI 连接到商业的最快途径。\",\"characters\":\"两个微笑的年轻人，一个身穿青色连帽衫指向前方，另一个女性身穿粉色上衣，带有小闪光标记\"},\"visual_requirements\":\"使用 4 张编号主题卡片，每张卡片包含 3 个要点，日文文本必须清晰易读，保持宽裕的页边距，圆角设计，青色卡片边框，第 2 和第 4 部分使用珊瑚色圆点，第 1 和第 3 部分使用青色圆点，避免写实风格。\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"póster de infografía de negocios en japonés con diseño limpio\",\"format\":\"página vertical tipo A4 con borde exterior negro redondeado sobre fondo blanco\",\"style\":\"ilustración de línea plana amigable, colores de acento minimalistas en verde azulado y coral, rectángulos redondeados suaves, estilo de boceto de negocios dibujado a mano, tipografía de titular gótica japonesa en negro, divisores delgados en verde azulado, pequeños iconos de destellos y plantas\",\"language\":\"Japonés\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AIを現実のビジネスに接続する\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"ながらAI 4トピックス\\\"}\",\"layout\":{\"top\":\"titular grande centrado con pequeños destellos decorativos, subtítulo debajo entre líneas horizontales punteadas con puntos en verde azulado y rosa\",\"main_grid\":\"cuatro tarjetas redondeadas iguales dispuestas en una cuadrícula de 2 por 2, conectadas por iconos de flechas en verde azulado que muestran el flujo del 1 al 2, bajando al 3 y cruzando al 4\",\"bottom_banner\":\"franja de resumen redondeada con un icono de bombilla a la izquierda, oración de cierre en japonés en el centro y dos personajes amigables a la derecha\"},\"sections\":[{\"number\":\"1\",\"position\":\"superior izquierda\",\"title\":\"{argument name=\\\"section 1 title\\\" default=\\\"小さく始める\\\"}\",\"main_illustration\":\"persona joven con sudadera verde azulado trabajando en una computadora portátil en un escritorio, teléfono inteligente al lado mostrando una interfaz de chat de robot de IA, globo de texto con tres personas, iconos pequeños de cesta, persona caminando, mensaje de chat, planta y taza\",\"description\":\"身近な課題をAIで解き、MVPで反応を見る\",\"bullet_count\":3,\"bullets\":[\"身近な困りごとを見つける\",\"小さく作って、すぐ試す\",\"使う人の声をもとに改良する\"]},{\"number\":\"2\",\"position\":\"superior derecha\",\"title\":\"{argument name=\\\"section 2 title\\\" default=\\\"幻想を見極める\\\"}\",\"main_illustration\":\"persona mirando un teléfono inteligente dentro de una nube de ideas rosa con coche, teléfono, bolso y burbujas; segunda persona pensando mientras escribe en un cuaderno abierto, gráfico de pared con gráfico circular y gráfico de barras ascendente, planta, taza, icono de lupa\",\"description\":\"AI副業は魔法ではなく、事業の本質が先\",\"bullet_count\":3,\"bullets\":[\"甘い話や一時のブームに惑わされない\",\"価値提供と収益設計を最優先する\",\"継続できる仕組みを作る\"]},{\"number\":\"3\",\"position\":\"inferior izquierda\",\"title\":\"{argument name=\\\"section 3 title\\\" default=\\\"制作を拡張する\\\"}\",\"main_illustration\":\"diseñador sentado con tableta digitalizadora frente a un monitor de escritorio que muestra una interfaz de edición de imágenes, iconos de herramientas verticales a la izquierda, pequeño robot asistente de IA en una burbuja circular, tableta, lápiz óptico, portalápices, icono de bombilla de red\",\"description\":\"AdobeとClaude連携でデザインの流れが変わる\",\"bullet_count\":3,\"bullets\":[\"AIがアイデア出しや要素生成をサポート\",\"Photoshop・Illustratorで効率的に編集\",\"人の創造性が、もっと加速する\"]},{\"number\":\"4\",\"position\":\"inferior derecha\",\"title\":\"{argument name=\\\"section 4 title\\\" default=\\\"現実に出力する\\\"}\",\"main_illustration\":\"monitor de escritorio con software de modelado de cubos 3D conectado por líneas punteadas en verde azulado a una impresora 3D que imprime una pequeña figura de robot linda, cristal geométrico en globo de texto, mascota robot terminada en el suelo\",\"description\":\"AIの3Dデータが、プリンターで形になる\",\"bullet_count\":3,\"bullets\":[\"デジタルのアイデアを3Dデータ化\",\"プリンターで試作・製品化\",\"アイデアを現実の価値に変える\"]}],\"bottom_summary\":{\"icon\":\"bombilla en un círculo rosa pálido\",\"text\":\"小さく試し、現実を見極め、創造を拡張し、形にする。\\nそれが、AIをビジネスにつなげる一番の近道。\",\"characters\":\"dos jóvenes sonrientes, uno con sudadera verde azulado señalando hacia arriba y una mujer con top rosa, con pequeñas marcas de destellos\"},\"visual_requirements\":\"Usa exactamente 4 tarjetas de temas numeradas, exactamente 3 viñetas en cada tarjeta, el texto en japonés debe ser nítido y legible, mantén márgenes generosos, esquinas redondeadas, bordes de tarjeta en verde azulado, puntos de viñeta coral en las secciones 2 y 4, puntos de viñeta verde azulado en las secciones 1 y 3, sin fotorrealismo.\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"saubere japanische Business-Infografik im Poster-Stil\",\"format\":\"vertikale A4-ähnliche Seite mit abgerundetem schwarzem Außenrand auf weißem Hintergrund\",\"style\":\"freundliche Flat-Line-Illustration, minimale Akzentfarben in Türkis und Koralle, weich abgerundete Rechtecke, handgezeichneter Business-Skizzen-Stil, schwarze japanische Gothic-Schrift für Überschriften, dünne türkisfarbene Trennlinien, kleine Funkel- und Pflanzensymbole\",\"language\":\"Japanisch\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AIを現実のビジネスに接続する\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"ながらAI 4トピックス\\\"}\",\"layout\":{\"top\":\"große zentrierte Überschrift mit kleinen dekorativen Funkel-Symbolen, Untertitel darunter zwischen gepunkteten horizontalen Linien mit türkisfarbenen und rosafarbenen Punkten\",\"main_grid\":\"vier gleich große abgerundete Karten in einem 2x2-Raster, verbunden durch türkisfarbene Pfeilsymbole, die den Fluss von 1 zu 2, hinunter zu 3 und herüber zu 4 zeigen\",\"bottom_banner\":\"abgerundeter Zusammenfassungsstreifen mit einem Glühbirnen-Symbol links, japanischem Schlusssatz in der Mitte und zwei freundlichen Charakteren rechts\"},\"sections\":[{\"number\":\"1\",\"position\":\"oben links\",\"title\":\"{argument name=\\\"section 1 title\\\" default=\\\"小さく始める\\\"}\",\"main_illustration\":\"junge Person im türkisfarbenen Hoodie arbeitet an einem Laptop an einem Schreibtisch, Smartphone daneben zeigt eine niedliche KI-Roboter-Chat-Oberfläche, Sprechblase mit drei Personen, kleine Symbole für Korb, gehende Person, Chat-Nachricht, Pflanze und Tasse\",\"description\":\"身近な課題をAIで解き、MVPで反応を見る\",\"bullet_count\":3,\"bullets\":[\"身近な困りごとを見つける\",\"小さく作って、すぐ試す\",\"使う人の声をもとに改良する\"]},{\"number\":\"2\",\"position\":\"oben rechts\",\"title\":\"{argument name=\\\"section 2 title\\\" default=\\\"幻想を見極める\\\"}\",\"main_illustration\":\"Person schaut auf ein Smartphone innerhalb einer rosafarbenen Ideenwolke mit Auto, Telefon, Tasche und Blasen; zweite Person denkt nach, während sie in ein offenes Notizbuch schreibt, Wandtafel mit Tortendiagramm und steigendem Balkendiagramm, Pflanze, Tasse, Lupensymbol\",\"description\":\"AI副業は魔法ではなく、事業の本質が先\",\"bullet_count\":3,\"bullets\":[\"甘い話や一時のブームに惑わされない\",\"価値提供と収益設計を最優先する\",\"継続できる仕組みを作る\"]},{\"number\":\"3\",\"position\":\"unten links\",\"title\":\"{argument name=\\\"section 3 title\\\" default=\\\"制作を拡張する\\\"}\",\"main_illustration\":\"Designer sitzt mit Stifttablett vor einem Desktop-Monitor, der eine Bildbearbeitungsoberfläche zeigt, vertikale Werkzeugsymbole links, kleiner KI-Roboter-Assistent in einer kreisförmigen Blase, Tablet, Stift, Stiftebecher, Netzwerk-Glühbirnen-Symbol\",\"description\":\"AdobeとClaude連携でデザインの流れが変わる\",\"bullet_count\":3,\"bullets\":[\"AIがアイデア出しや要素生成をサポート\",\"Photoshop・Illustratorで効率的に編集\",\"人の創造性が、もっと加速する\"]},{\"number\":\"4\",\"position\":\"unten rechts\",\"title\":\"{argument name=\\\"section 4 title\\\" default=\\\"現実に出力する\\\"}\",\"main_illustration\":\"Desktop-Monitor mit 3D-Modellierungssoftware, verbunden durch gepunktete türkisfarbene Linien mit einem 3D-Drucker, der eine kleine niedliche Roboterfigur druckt, geometrischer Kristall in Sprechblase, fertiges Roboter-Maskottchen auf dem Boden\",\"description\":\"AIの3Dデータが、プリンターで形になる\",\"bullet_count\":3,\"bullets\":[\"デジタルのアイデアを3Dデータ化\",\"プリンターで試作・製品化\",\"アイデアを現実の価値に変える\"]}],\"bottom_summary\":{\"icon\":\"Glühbirne in einem blassrosa Kreis\",\"text\":\"小さく試し、現実を見極め、創造を拡張し、形にする。\\nそれが、AIをビジネスにつなげる一番の近道。\",\"characters\":\"zwei lächelnde junge Leute, einer im türkisfarbenen Hoodie, der nach oben zeigt, und eine Frau im rosa Oberteil, mit kleinen Funkel-Symbolen\"},\"visual_requirements\":\"Verwenden Sie genau 4 nummerierte Themenkarten, genau 3 Aufzählungspunkte in jeder Karte, der japanische Text muss scharf und lesbar sein, großzügige Ränder beibehalten, abgerundete Ecken, türkisfarbene Kartenränder, korallenfarbene Aufzählungspunkte in den Abschnitten 2 und 4, türkisfarbene Aufzählungspunkte in den Abschnitten 1 und 3, kein Fotorealismus.\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"infographie professionnelle japonaise épurée\",\"format\":\"page verticale type A4 avec bordure extérieure noire arrondie sur fond blanc\",\"style\":\"illustration au trait plate et conviviale, accents minimalistes bleu sarcelle et corail, rectangles aux coins arrondis, style croquis professionnel dessiné à la main, typographie gothique japonaise noire pour les titres, fins séparateurs bleu sarcelle, petites icônes d'étincelles et de plantes\",\"language\":\"Japonais\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AIを現実のビジネスに接続する\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"ながらAI 4トピックス\\\"}\",\"layout\":{\"top\":\"grand titre centré avec petites étincelles décoratives, sous-titre en dessous entre des lignes horizontales pointillées avec des points bleu sarcelle et rose\",\"main_grid\":\"quatre cartes arrondies égales disposées en grille 2x2, reliées par des icônes de flèches bleu sarcelle montrant le flux de 1 vers 2, vers 3, puis vers 4\",\"bottom_banner\":\"bandeau de résumé arrondi avec une icône d'ampoule à gauche, phrase de conclusion en japonais au centre, et deux personnages amicaux à droite\"},\"sections\":[{\"number\":\"1\",\"position\":\"en haut à gauche\",\"title\":\"{argument name=\\\"section 1 title\\\" default=\\\"小さく始める\\\"}\",\"main_illustration\":\"jeune personne en sweat à capuche bleu sarcelle travaillant sur un ordinateur portable à un bureau, smartphone à côté montrant une interface de chat avec un robot IA mignon, bulle de dialogue avec trois personnes, petites icônes de panier, personne qui marche, message de chat, plante et mug\",\"description\":\"身近な課題をAIで解き、MVPで反応を見る\",\"bullet_count\":3,\"bullets\":[\"身近な困りごとを見つける\",\"小さく作って、すぐ試す\",\"使う人の声をもとに改良する\"]},{\"number\":\"2\",\"position\":\"en haut à droite\",\"title\":\"{argument name=\\\"section 2 title\\\" default=\\\"幻想を見極める\\\"}\",\"main_illustration\":\"personne regardant un smartphone à l'intérieur d'un nuage d'idées rose avec voiture, téléphone, sac et bulles ; deuxième personne réfléchissant en écrivant dans un carnet ouvert, tableau mural avec graphique en secteurs et graphique à barres ascendant, plante, mug, icône de loupe\",\"description\":\"AI副業は魔法ではなく、事業の本質が先\",\"bullet_count\":3,\"bullets\":[\"甘い話や一時のブームに惑わされない\",\"価値提供と収益設計を最優先する\",\"継続できる仕組みを作る\"]},{\"number\":\"3\",\"position\":\"en bas à gauche\",\"title\":\"{argument name=\\\"section 3 title\\\" default=\\\"制作を拡張する\\\"}\",\"main_illustration\":\"designer assis avec une tablette graphique face à un écran d'ordinateur affichant une interface d'édition d'image, icônes d'outils verticales à gauche, petit robot assistant IA dans une bulle circulaire, tablette, stylet, pot à crayons, icône d'ampoule réseau\",\"description\":\"AdobeとClaude連携でデザインの流れが変わる\",\"bullet_count\":3,\"bullets\":[\"AIがアイデア出しや要素生成をサポート\",\"Photoshop・Illustratorで効率的に編集\",\"人の創造性が、もっと加速する\"]},{\"number\":\"4\",\"position\":\"en bas à droite\",\"title\":\"{argument name=\\\"section 4 title\\\" default=\\\"現実に出力する\\\"}\",\"main_illustration\":\"écran d'ordinateur avec logiciel de modélisation 3D cubique relié par des lignes pointillées bleu sarcelle à une imprimante 3D imprimant une petite figurine de robot mignon, cristal géométrique dans une bulle de dialogue, mascotte robot terminée au sol\",\"description\":\"AIの3Dデータが、プリンターで形になる\",\"bullet_count\":3,\"bullets\":[\"デジタルのアイデアを3Dデータ化\",\"プリンターで試作・製品化\",\"アイデアを現実の価値に変える\"]}],\"bottom_summary\":{\"icon\":\"ampoule dans un cercle rose pâle\",\"text\":\"小さく試し、現実を見極め、創造を拡張し、形にする。\\nそれが、AIをビジネスにつなげる一番の近道。\",\"characters\":\"deux jeunes personnes souriantes, l'une en sweat à capuche bleu sarcelle pointant vers le haut et une femme en haut rose, avec de petites marques d'étincelles\"},\"visual_requirements\":\"Utilisez exactement 4 cartes de sujets numérotées, exactement 3 puces par carte, le texte japonais doit être net et lisible, maintenez des marges généreuses, des coins arrondis, des bordures de carte bleu sarcelle, des points de puce corail dans les sections 2 et 4, des points de puce bleu sarcelle dans les sections 1 et 3, pas de photoréalisme.\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"poster infografico aziendale pulito in giapponese\",\"format\":\"pagina verticale in formato A4 con bordo esterno nero arrotondato su sfondo bianco\",\"style\":\"illustrazione a linee piatte e amichevole, colori accentati minimali verde acqua e corallo, rettangoli arrotondati morbidi, stile schizzo aziendale disegnato a mano, tipografia gotica giapponese nera per i titoli, sottili divisori verde acqua, piccole icone di scintille e piante\",\"language\":\"giapponese\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AIを現実のビジネスに接続する\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"ながらAI 4トピックス\\\"}\",\"layout\":{\"top\":\"titolo grande centrato con piccole scintille decorative, sottotitolo sottostante tra linee orizzontali tratteggiate con punti verde acqua e rosa\",\"main_grid\":\"quattro schede arrotondate uguali disposte in una griglia 2 per 2, collegate da icone a freccia verde acqua che mostrano il flusso da 1 a 2, giù a 3, fino a 4\",\"bottom_banner\":\"striscia riassuntiva arrotondata con un'icona a forma di lampadina a sinistra, frase conclusiva in giapponese al centro e due personaggi amichevoli a destra\"},\"sections\":[{\"number\":\"1\",\"position\":\"in alto a sinistra\",\"title\":\"{argument name=\\\"section 1 title\\\" default=\\\"小さく始める\\\"}\",\"main_illustration\":\"giovane con felpa verde acqua che lavora al computer portatile su una scrivania, smartphone accanto che mostra una simpatica interfaccia di chat con robot IA, fumetto con tre persone, piccole icone per cestino, persona che cammina, messaggio di chat, pianta e tazza\",\"description\":\"身近な課題をAIで解き、MVPで反応を見る\",\"bullet_count\":3,\"bullets\":[\"身近な困りごとを見つける\",\"小さく作って、すぐ試す\",\"使う人の声をもとに改良する\"]},{\"number\":\"2\",\"position\":\"in alto a destra\",\"title\":\"{argument name=\\\"section 2 title\\\" default=\\\"幻想を見極める\\\"}\",\"main_illustration\":\"persona che guarda uno smartphone all'interno di una nuvola di idee rosa con auto, telefono, borsa e bolle; seconda persona che pensa mentre scrive in un taccuino aperto, grafico a parete con grafico a torta e grafico a barre in crescita, pianta, tazza, icona della lente d'ingrandimento\",\"description\":\"AI副業は魔法ではなく、事業の本質が先\",\"bullet_count\":3,\"bullets\":[\"甘い話や一時のブームに惑わされない\",\"価値提供と収益設計を最優先する\",\"継続できる仕組みを作る\"]},{\"number\":\"3\",\"position\":\"in basso a sinistra\",\"title\":\"{argument name=\\\"section 3 title\\\" default=\\\"制作を拡張する\\\"}\",\"main_illustration\":\"designer seduto con tablet grafico di fronte a un monitor desktop che mostra un'interfaccia di editing di immagini, icone degli strumenti verticali a sinistra, piccolo robot assistente IA in una bolla circolare, tablet, stilo, portapenne, icona della lampadina di rete\",\"description\":\"AdobeとClaude連携でデザインの流れが変わる\",\"bullet_count\":3,\"bullets\":[\"AIがアイデア出しや要素生成をサポート\",\"Photoshop・Illustratorで効率的に編集\",\"人の創造性が、もっと加速する\"]},{\"number\":\"4\",\"position\":\"in basso a destra\",\"title\":\"{argument name=\\\"section 4 title\\\" default=\\\"現実に出力する\\\"}\",\"main_illustration\":\"monitor desktop con software di modellazione 3D a cubi collegato da linee tratteggiate verde acqua a una stampante 3D che stampa una piccola e simpatica figura di robot, cristallo geometrico nel fumetto, mascotte robot finita sul pavimento\",\"description\":\"AIの3Dデータが、プリンターで形になる\",\"bullet_count\":3,\"bullets\":[\"デジタルのアイデアを3Dデータ化\",\"プリンターで試作・製品化\",\"アイデアを現実の価値に変える\"]}],\"bottom_summary\":{\"icon\":\"lampadina in un cerchio rosa pallido\",\"text\":\"小さく試し、現実を見極め、創造を拡張し、形にする。\\nそれが、AIをビジネスにつなげる一番の近道。\",\"characters\":\"due giovani sorridenti, uno con felpa verde acqua che punta verso l'alto e una donna con top rosa, con piccoli segni di scintille\"},\"visual_requirements\":\"Usa esattamente 4 schede tematiche numerate, esattamente 3 punti elenco in ogni scheda, il testo giapponese deve essere nitido e leggibile, mantieni margini generosi, angoli arrotondati, bordi delle schede verde acqua, punti elenco corallo nelle sezioni 2 e 4, punti elenco verde acqua nelle sezioni 1 e 3, niente fotorealismo.\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"pôster de infográfico de negócios japonês limpo\",\"format\":\"página vertical tipo A4 com borda externa preta arredondada em fundo branco\",\"style\":\"ilustração de linha plana amigável, cores de destaque azul-petróleo e coral minimalistas, retângulos arredondados suaves, toque de esboço de negócios feito à mão, tipografia gótica japonesa preta para o título, divisores finos em azul-petróleo, pequenos ícones de brilho e plantas\",\"language\":\"Japonês\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AIを現実のビジネスに接続する\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"ながらAI 4トピックス\\\"}\",\"layout\":{\"top\":\"título grande centralizado com pequenos brilhos decorativos, subtítulo abaixo entre linhas horizontais pontilhadas com pontos azul-petróleo e rosa\",\"main_grid\":\"quatro cartões arredondados iguais organizados em uma grade 2 por 2, conectados por ícones de seta azul-petróleo mostrando o fluxo de 1 para 2, descendo para 3 e cruzando para 4\",\"bottom_banner\":\"faixa de resumo arredondada com um ícone de lâmpada à esquerda, frase de encerramento em japonês no centro e dois personagens amigáveis à direita\"},\"sections\":[{\"number\":\"1\",\"position\":\"superior esquerdo\",\"title\":\"{argument name=\\\"section 1 title\\\" default=\\\"小さく始める\\\"}\",\"main_illustration\":\"jovem com moletom azul-petróleo trabalhando em um laptop em uma mesa, smartphone ao lado mostrando uma interface de chat de robô de IA fofo, balão de fala com três pessoas, pequenos ícones de cesta, pessoa caminhando, mensagem de chat, planta e caneca\",\"description\":\"身近な課題をAIで解き、MVPで反応を見る\",\"bullet_count\":3,\"bullets\":[\"身近な困りごとを見つける\",\"小さく作って、すぐ試す\",\"使う人の声をもとに改良する\"]},{\"number\":\"2\",\"position\":\"superior direito\",\"title\":\"{argument name=\\\"section 2 title\\\" default=\\\"幻想を見極める\\\"}\",\"main_illustration\":\"pessoa olhando para um smartphone dentro de uma nuvem de ideias rosa com carro, telefone, bolsa e bolhas; segunda pessoa pensando enquanto escreve em um caderno aberto, gráfico de parede com gráfico de pizza e gráfico de barras ascendente, planta, caneca, ícone de lupa\",\"description\":\"AI副業は魔法ではなく、事業の本質が先\",\"bullet_count\":3,\"bullets\":[\"甘い話や一時のブームに惑わされない\",\"価値提供と収益設計を最優先する\",\"継続できる仕組みを作る\"]},{\"number\":\"3\",\"position\":\"inferior esquerdo\",\"title\":\"{argument name=\\\"section 3 title\\\" default=\\\"制作を拡張する\\\"}\",\"main_illustration\":\"designer sentado com mesa digitalizadora de frente para um monitor de desktop mostrando uma interface de edição de imagem, ícones de ferramentas verticais à esquerda, pequeno robô assistente de IA em balão circular, tablet, caneta, porta-canetas, ícone de lâmpada de rede\",\"description\":\"AdobeとClaude連携でデザインの流れが変わる\",\"bullet_count\":3,\"bullets\":[\"AIがアイデア出しや要素生成をサポート\",\"Photoshop・Illustratorで効率的に編集\",\"人の創造性が、もっと加速する\"]},{\"number\":\"4\",\"position\":\"inferior direito\",\"title\":\"{argument name=\\\"section 4 title\\\" default=\\\"現実に出力する\\\"}\",\"main_illustration\":\"monitor de desktop com software de modelagem de cubo 3D conectado por linhas pontilhadas azul-petróleo a uma impressora 3D imprimindo uma pequena figura de robô fofa, cristal geométrico em balão de fala, mascote robô acabado no chão\",\"description\":\"AIの3Dデータが、プリンターで形になる\",\"bullet_count\":3,\"bullets\":[\"デジタルのアイデアを3Dデータ化\",\"プリンターで試作・製品化\",\"アイデアを現実の価値に変える\"]}],\"bottom_summary\":{\"icon\":\"lâmpada em um círculo rosa claro\",\"text\":\"小さく試し、現実を見極め、創造を拡張し、形にする。\\nそれが、AIをビジネスにつなげる一番の近道。\",\"characters\":\"dois jovens sorridentes, um com moletom azul-petróleo apontando para cima e uma mulher com blusa rosa, com pequenas marcas de brilho\"},\"visual_requirements\":\"Use exatamente 4 cartões de tópicos numerados, exatamente 3 marcadores em cada cartão, o texto em japonês deve ser nítido e legível, mantenha margens generosas, cantos arredondados, bordas de cartão azul-petróleo, pontos de marcador coral nas seções 2 e 4, pontos de marcador azul-petróleo nas seções 1 e 3, sem fotorrealismo.\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Japanese AI Business Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 日本 AI 商业信息图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Infografía de negocios con IA en japonés",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Japanische KI-Business-Infografik",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Infographie sur l'IA pour les entreprises japonaises",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Infografica aziendale sull'IA in giapponese",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Infográfico de Negócios com IA em Japonês",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a clean four-step Japanese infographic explaining how to connect AI ideas to practical business workflows.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张简洁的四步日本风格信息图，解释如何将 AI 创意与实际业务流程相结合。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une infographie japonaise épurée en quatre étapes expliquant comment connecter les idées liées à l'IA aux flux de travail professionnels concrets.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/makio_study/status/2051200314251071628#reversed-0",
+      "originalId": "https://x.com/makio_study/status/2051200314251071628#reversed-0",
+      "authors": [
+        {
+          "name": "まき｜SWC｜Podcastまとめ",
+          "url": "https://x.com/makio_study"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2375
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b63d6864173f68ba",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971062502_g3roc8_HHdTX03awAAF22n.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971062502_g3roc8_HHdTX03awAAF22n.jpg",
+      "localPath": "public/assets/prompt_9d118ce9893cf33b77d9/880e13882c8c.jpg",
+      "alt": "Infographic / Edu Visual - Japanese AI Business Infographic - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "character",
+      "mascot",
+      "card",
+      "人物",
+      "吉祥物"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.861Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_9b598fe886b2460e624f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境\n\n图片2：东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境\n\n图片2：东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:08.524Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Dongfang Bubai Wuxia Character Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "东方不败武侠人物海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:08.481Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/songguoxiansen/status/2047204566559756707",
+      "originalId": "case-64",
+      "authors": [
+        {
+          "name": "songguoxiansen",
+          "url": "https://x.com/songguoxiansen"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 832
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_692e1cbf548b6767",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg",
+      "localPath": "public/assets/prompt_9b598fe886b2460e624f/09704de6b30f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "prompt_bb1eeb4075c343336bbe",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A frosted green glass tube of {argument name=\"product\" default=\"aloe gel\"} labeled \"{argument name=\"label\" default=\"Pure Aloe\"}\" standing on glossy surface, surrounded by vibrant arcs of aloe juice and shattered aloe vera leaves splashing in mid-air. Crisp clean background, natural green highlights, high-end skincare commercial style.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一支磨砂绿色玻璃管，标签上印有“{argument name=\"label\" default=\"Pure Aloe\"}”，放置在光亮的表面上，周围环绕着充满活力的芦荟汁弧线和在空中飞溅的破碎芦荟叶片。背景清爽干净，带有自然的绿色高光，呈现高端护肤品广告风格。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Một tuýp thủy tinh mờ màu xanh lá chứa {argument name=\"product\" default=\"gel lô hội\"} với nhãn dán \"{argument name=\"label\" default=\"Pure Aloe\"}\" đặt trên bề mặt bóng loáng, bao quanh là những tia nước lô hội sống động và các mảnh lá lô hội vỡ đang bắn tung tóe giữa không trung. Phông nền sạch sẽ, sắc nét, điểm xuyết các mảng màu xanh lá tự nhiên, mang phong cách quảng cáo chăm sóc da cao cấp.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un tubo de vidrio verde esmerilado de {argument name=\"product\" default=\"gel de aloe\"} con la etiqueta \"{argument name=\"label\" default=\"Pure Aloe\"}\" sobre una superficie brillante, rodeado de arcos vibrantes de jugo de aloe y hojas de aloe vera fragmentadas salpicando en el aire. Fondo limpio y nítido, reflejos verdes naturales, estilo comercial de cuidado de la piel de alta gama.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Eine mattierte grüne Glastube mit {argument name=\"product\" default=\"Aloe-Gel\"}, beschriftet mit \"{argument name=\"label\" default=\"Pure Aloe\"}\", steht auf einer glänzenden Oberfläche, umgeben von dynamischen Bögen aus Aloe-Saft und zerteilten Aloe-Vera-Blättern, die in der Luft spritzen. Klarer, sauberer Hintergrund, natürliche grüne Highlights, hochwertiger Stil für Hautpflege-Werbung.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un tube en verre dépoli vert de {argument name=\"product\" default=\"gel d'aloe vera\"} portant l'étiquette \"{argument name=\"label\" default=\"Pure Aloe\"}\" posé sur une surface brillante, entouré d'arcs éclatants de jus d'aloe et de feuilles d'aloe vera fragmentées en suspension. Arrière-plan net et épuré, reflets verts naturels, style publicitaire haut de gamme pour soin de la peau.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Un tubo di vetro verde satinato di {argument name=\"product\" default=\"gel all'aloe\"} con etichetta \"{argument name=\"label\" default=\"Pure Aloe\"}\" appoggiato su una superficie lucida, circondato da archi vibranti di succo d'aloe e foglie di aloe vera frantumate che schizzano a mezz'aria. Sfondo nitido e pulito, riflessi verdi naturali, stile spot pubblicitario di skincare di alta gamma.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Um tubo de vidro verde fosco de {argument name=\"product\" default=\"gel de aloe\"} com o rótulo \"{argument name=\"label\" default=\"Pure Aloe\"}\" sobre uma superfície brilhante, cercado por arcos vibrantes de suco de aloe e folhas de aloe vera estilhaçadas respingando no ar. Fundo limpo e nítido, destaques em verde natural, estilo de comercial de cuidados com a pele de alto padrão.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Pure Aloe Skincare Commercial",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - Pure Aloe 护肤品广告",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình ảnh chính thương mại điện tử - Quảng cáo sản phẩm chăm sóc da Pure Aloe",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Comercial de cuidado de la piel Pure Aloe",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Werbespot für Pure Aloe Hautpflege",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Publicité pour soin de la peau Pure Aloe",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Spot pubblicitario per skincare Pure Aloe",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Comercial de cuidados com a pele Pure Aloe",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A high-end skincare commercial style prompt for a product shot of aloe gel, featuring vibrant arcs of juice and shattered leaves in mid-air.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款高端护肤品广告风格的提示词，用于拍摄芦荟胶产品，画面包含充满活力的芦荟汁弧线和空中破碎的叶片。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de style publicitaire haut de gamme pour un produit de soin à base de gel d'aloe vera, mettant en scène des arcs de jus éclatants et des feuilles fragmentées en suspension.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Strength04_X/status/2050520820657840227",
+      "originalId": "https://x.com/Strength04_X/status/2050520820657840227",
+      "authors": [
+        {
+          "name": "𝐌",
+          "url": "https://x.com/Strength04_X"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4564
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_319b09e34f16960d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777797554837_98hymz_HHTpjPRbwAA3WCx.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777797554837_98hymz_HHTpjPRbwAA3WCx.jpg",
+      "localPath": "public/assets/prompt_bb1eeb4075c343336bbe/37ca47db198a.jpg",
+      "alt": "E-commerce Main Image - Pure Aloe Skincare Commercial - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-01T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.877Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_037c95494268c2f25b64",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "十二黄金圣斗士卡牌合集",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Twelve Gold Saints Card Collection",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:40:14.957Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e3d3ba7c79",
+      "value": "十二黄金圣斗士卡牌合集",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-166",
+      "originalId": "case-166",
+      "authors": [
+        {
+          "name": "songguoxiansen",
+          "url": "https://x.com/songguoxiansen/status/2046476566537080849"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7
+        }
+      ],
+      "rawSource": "[@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6e77d15888facf64",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case166.jpg",
+      "upstreamPath": "../data/images/case166.jpg",
+      "localPath": "public/assets/prompt_037c95494268c2f25b64/c9a90d256ebd.jpg",
+      "alt": "十二黄金圣斗士卡牌合集",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "card",
+      "卡牌",
+      "圣斗士"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.577Z"
+  }
+}

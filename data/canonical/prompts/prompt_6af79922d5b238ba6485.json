@@ -1,0 +1,258 @@
+{
+  "id": "prompt_6af79922d5b238ba6485",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a high-fidelity Chinese music app player interface screenshot in mobile portrait orientation, with refined visuals similar to a modern streaming player. Use dark mode, with the background derived from a blurred and diffused version of the album cover colors. Place a large square album cover in the center with subtle shadow and rounded corners.\n\nInterface requirements:\n- top status bar with time 18:26\n- navigation bar with a back arrow on the left, a centered title, and a more-options icon on the right\n- playback progress bar showing current time 01:42 and total duration 04:18\n- playback controls for shuffle, previous, play/pause, next, and repeat\n- lyrics section showing 5 to 7 scrolling lines, with the current line highlighted\n- action row with like, comment, download, add to playlist, and share\n- bottom area with device casting and playback queue entry\n\nUse these exact Chinese labels and names:\n- title: \"正在播放\"\n- song name: \"海边的晚风\"\n- artist: \"林秋\"\n- album: \"夏夜实验室\"\n\nThe lyrics layout, button icons, reflections, shadows, and dark-mode layering should feel like a real production interface rather than a Dribbble concept.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个高保真的中文音乐 App 播放器界面截图，采用手机竖屏比例，视觉精致，类似现代流媒体播放器。使用深色模式，背景来自专辑封面颜色的模糊扩散版本。中央放置一张大型方形专辑封面，带有细腻阴影和圆角。\n\n界面要求：\n- 顶部状态栏时间为 18:26\n- 导航栏左侧是返回箭头，中间是标题，右侧是更多操作图标\n- 播放进度条显示当前时间 01:42，总时长 04:18\n- 包含随机播放、上一首、播放/暂停、下一首、循环播放控制按钮\n- 歌词区显示 5 到 7 行滚动歌词，当前行高亮\n- 操作栏包含喜欢、评论、下载、加入歌单、分享\n- 底部区域包含设备投播入口和播放队列入口\n\n使用以下精确中文标签与名称：\n- title: \"正在播放\"\n- song name: \"海边的晚风\"\n- artist: \"林秋\"\n- album: \"夏夜实验室\"\n\n歌词排版、按钮图标、反光、阴影和深色层级都应该像真实量产界面，而不是 Dribbble 概念图。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "建立一張高擬真的中文音樂 App 播放器截圖，使用手機直式比例與深色模式，背景來自專輯封面色彩的模糊擴散版本，中央放置大型方形專輯封面。需要包含 18:26 狀態列、返回按鈕、標題、更多操作、01:42 / 04:18 播放進度、播放控制鍵、5 到 7 行歌詞、按讚／留言／下載／加入歌單／分享，以及投放裝置與播放佇列入口。需使用原 prompt 中列出的精確中文標籤：「正在播放」「海边的晚风」「林秋」「夏夜实验室」，並讓整體質感更像量產產品而不是概念稿。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "モバイル縦画面の高忠実度な中国語音楽アプリのプレイヤー UI スクリーンショットを作成する。現代的なストリーミングプレイヤーのように洗練された見た目にする。ダークモードを使い、背景はアルバムジャケットの色をぼかして拡散したものから作る。中央には大きな正方形のアルバムカバーを置き、さりげない影と角丸を付ける。\n\nUI 要件:\n- 上部ステータスバーの時刻は 18:26\n- ナビゲーションバーは左に戻る矢印、中央にタイトル、右にその他アイコン\n- 再生進行バーに現在 01:42、総時間 04:18\n- シャッフル、前へ、再生 / 一時停止、次へ、リピートの操作\n- 歌詞エリアに 5〜7 行のスクロール歌詞、現在行を強調\n- いいね、コメント、ダウンロード、プレイリスト追加、共有のアクション列\n- 下部にデバイスキャストと再生キューの入口\n\n以下の正確な中国語ラベルと名称を使う:\n- title: \"正在播放\"\n- song name: \"海边的晚风\"\n- artist: \"林秋\"\n- album: \"夏夜实验室\"\n\n歌詞レイアウト、ボタンアイコン、反射、影、ダークモードのレイヤー感は、Dribbble のコンセプトではなく実在の量産 UI のようにする。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "세로형 모바일 비율의 고충실도 중국어 음악 앱 플레이어 스크린샷을 만든다. 다크 모드, 앨범 커버 색을 블러 처리한 배경, 중앙 대형 앨범 커버, 18:26 상태 바, 재생 진행 바, 가사 영역, 좋아요/댓글/다운로드/공유, 캐스팅과 재생 대기열을 포함한다. 또한 원문에 있는 정확한 중국어 라벨 \"正在播放\", \"海边的晚风\", \"林秋\", \"夏夜实验室\" 를 사용한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une interface mobile de lecteur musical chinois très réaliste en mode sombre, avec grande pochette centrale, barre de progression, commandes de lecture, paroles défilantes, actions sociales et accès au cast / à la file. Utiliser les libellés chinois exacts \"正在播放\", \"海边的晚风\", \"林秋\", \"夏夜实验室\".",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge einen hochrealistischen chinesischen Musikplayer-Screenshot im Hochformat mit Dark Mode, großem Albumcover, Fortschrittsleiste, Player-Steuerung, scrollenden Songtexten, Social-Buttons und Ausgabegeräte-/Queue-Bereich. Nutze die exakten chinesischen Bezeichnungen \"正在播放\", \"海边的晚风\", \"林秋\", \"夏夜实验室\".",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una captura de una app musical china en modo oscuro, con portada central grande, barra de progreso, controles de reproducción, letras desplazándose y acciones sociales. Debe usar los nombres exactos del prompt original: \"正在播放\", \"海边的晚风\", \"林秋\", \"夏夜实验室\".",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Music Player Interface",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "音乐播放器界面",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "音樂播放器介面",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "音楽プレイヤー UI",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "음악 플레이어 인터페이스",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Interface de lecteur musical",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Musikplayer-Interface",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Interfaz de reproductor musical",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 與社群媒體",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX・ソーシャルメディア",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 와 소셜 미디어",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-et-reseaux-sociaux",
+      "value": "📱 UI / UX et réseaux sociaux",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-und-social-media",
+      "value": "📱 UI / UX und Social Media",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-y-redes-sociales",
+      "value": "📱 UI / UX y redes sociales",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew",
+      "originalId": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew",
+      "authors": [
+        {
+          "name": "卡尔的AI沃茨",
+          "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew"
+        },
+        {
+          "name": "卡爾的AI沃茨",
+          "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 375
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 308
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 286
+        },
+        {
+          "file": "README:ja",
+          "line": 308
+        },
+        {
+          "file": "README:ko",
+          "line": 286
+        },
+        {
+          "file": "README:fr",
+          "line": 286
+        },
+        {
+          "file": "README:de",
+          "line": 286
+        },
+        {
+          "file": "README:es",
+          "line": 286
+        }
+      ],
+      "rawSource": "[卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b41143f0e3984630",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/88f33c6a-c307-4e7a-af7e-5f692cbf41a1",
+      "upstreamPath": "https://github.com/user-attachments/assets/88f33c6a-c307-4e7a-af7e-5f692cbf41a1",
+      "localPath": "public/assets/prompt_6af79922d5b238ba6485/81f0a2234f88.jpg",
+      "alt": "image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_bd9aed8708d9e73d",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/ee3d40db-3918-4974-8b82-68cd166c97b2",
+      "upstreamPath": "https://github.com/user-attachments/assets/ee3d40db-3918-4974-8b82-68cd166c97b2",
+      "localPath": "public/assets/prompt_6af79922d5b238ba6485/9faa49b54057.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.733Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "social",
+      "界面",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.915Z"
+  }
+}

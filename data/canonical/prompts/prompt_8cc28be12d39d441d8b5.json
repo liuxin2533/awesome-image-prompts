@@ -1,0 +1,174 @@
+{
+  "id": "prompt_8cc28be12d39d441d8b5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a soft, high-detail anime illustration of a cute young woman sitting at an outdoor café on a sunny day, shown in a close-up upper-body portrait from a slightly elevated angle. Her face is intentionally covered by a centered solid square censor block in a warm peach skin tone, obscuring the eyes, nose, and mouth while leaving the hair, ears, neck, clothing, and ice cream visible. She has very long flowing {argument name=\"hair color\" default=\"pale honey blonde\"} hair with fine individual strands, loose bangs, glossy highlights, and warm backlighting. She wears a feminine spring outfit: an off-white cardigan over a white ruffled blouse with small pale floral embroidery and a thin brown shoulder strap crossing diagonally. She holds a vanilla soft-serve ice cream cone near her mouth in one hand; the cone has a pink paper sleeve with small English text reading “ice cream.” In the softly blurred background, include a sidewalk café or dessert shop window, a leafy green potted plant on the right, wooden bench or railing elements, and exactly 1 standing menu sign on the left showing Japanese text “ミルク バニラ” and the price “¥350” with a small vanilla cone illustration. Use pastel colors, delicate line art, luminous golden sunlight, gentle bokeh, soft shadows, shallow depth of field, and a wholesome romantic slice-of-life mood. Vertical composition, polished modern anime style, highly detailed hair and clothing textures, no extra people, no additional signs, no watermark.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张柔和且高细节的动漫插画，描绘一位可爱的年轻女性在阳光明媚的日子坐在户外咖啡馆，采用略微俯视的角度进行上半身特写。她的面部被一个居中的纯色方形马赛克有意遮挡，马赛克颜色为温暖的桃肤色，遮住了眼睛、鼻子和嘴巴，但保留了头发、耳朵、脖子、服装和冰淇淋的可见度。她拥有非常飘逸的 {argument name=\"hair color\" default=\"浅蜜金色\"} 长发，发丝细腻，带有凌乱的刘海、光泽感高光和温暖的背光。她穿着女性化的春季服装：米白色开衫内搭白色荷叶边衬衫，衬衫上有细小的淡色花卉刺绣，并有一条细棕色肩带斜跨。她的一只手拿着一个香草软冰淇淋蛋筒靠近嘴边；蛋筒带有粉色纸套，上面印有英文“ice cream”。在柔和模糊的背景中，包含一家人行道咖啡馆或甜点店橱窗、右侧一盆绿叶盆栽、木质长椅或栏杆元素，以及左侧 1 个立式菜单牌，上面显示日文“ミルク バニラ”和价格“¥350”，并配有小巧的香草冰淇淋插图。使用柔和的色调、细腻的线条、明亮的金色阳光、柔和的焦外成像、柔和的阴影、浅景深以及温馨浪漫的日常番氛围。竖构图，精致的现代动漫风格，高度细腻的头发和服装纹理，画面中没有其他人、没有额外的招牌、没有水印。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una ilustración anime suave y altamente detallada de una joven linda sentada en una cafetería al aire libre en un día soleado, mostrada en un retrato de primer plano de la parte superior del cuerpo desde un ángulo ligeramente elevado. Su rostro está cubierto intencionalmente por un bloque de censura cuadrado y sólido centrado en un tono de piel durazno cálido, ocultando los ojos, la nariz y la boca, mientras deja visibles el cabello, las orejas, el cuello, la ropa y el helado. Tiene un cabello muy largo y fluido de color {argument name=\"hair color\" default=\"rubio miel pálido\"} con mechones individuales finos, flequillo suelto, reflejos brillantes y una cálida iluminación de fondo. Viste un atuendo primaveral femenino: un cárdigan color crema sobre una blusa blanca con volantes, pequeños bordados florales pálidos y una fina correa de hombro marrón que cruza diagonalmente. Sostiene un cono de helado de vainilla cerca de su boca con una mano; el cono tiene una funda de papel rosa con un pequeño texto en inglés que dice “ice cream”. En el fondo suavemente desenfocado, incluye una cafetería con terraza o la ventana de una tienda de postres, una planta verde frondosa a la derecha, elementos de banco o barandilla de madera y exactamente 1 letrero de menú de pie a la izquierda que muestra el texto en japonés “ミルク バニラ” y el precio “¥350” con una pequeña ilustración de un cono de vainilla. Usa colores pastel, arte lineal delicado, luz solar dorada luminosa, bokeh suave, sombras tenues, poca profundidad de campo y un ambiente romántico y sano de estilo slice-of-life. Composición vertical, estilo anime moderno pulido, texturas de cabello y ropa altamente detalladas, sin personas adicionales, sin letreros adicionales, sin marcas de agua.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine weiche, detailreiche Anime-Illustration einer süßen jungen Frau, die an einem sonnigen Tag in einem Straßencafé sitzt, dargestellt als Nahaufnahme des Oberkörpers aus einer leicht erhöhten Perspektive. Ihr Gesicht ist absichtlich durch einen mittig platzierten, einfarbigen quadratischen Zensurbalken in einem warmen Pfirsichton verdeckt, der Augen, Nase und Mund verbirgt, während Haare, Ohren, Hals, Kleidung und Eiscreme sichtbar bleiben. Sie hat sehr langes, fließendes {argument name=\"hair color\" default=\"blass honigblondes\"} Haar mit feinen einzelnen Strähnen, lockerem Pony, glänzenden Highlights und warmem Gegenlicht. Sie trägt ein feminines Frühlingsoutfit: eine cremeweiße Strickjacke über einer weißen Rüschenbluse mit kleiner blasser Blumenstickerei und einem dünnen braunen Schulterriemen, der diagonal verläuft. Sie hält eine Vanille-Softeiswaffel mit einer Hand in Mundnähe; die Waffel hat eine rosa Papierhülle mit dem kleinen englischen Text „ice cream“. Im sanft verschwommenen Hintergrund sind ein Straßencafé oder ein Dessertladen-Fenster, eine grüne Topfpflanze auf der rechten Seite, Elemente einer Holzbank oder eines Geländers sowie genau 1 stehendes Menüschild auf der linken Seite zu sehen, das den japanischen Text „ミルク バニラ“ (Milch-Vanille) und den Preis „¥350“ mit einer kleinen Abbildung einer Vanillewaffel zeigt. Verwende Pastellfarben, feine Linienführung, leuchtendes goldenes Sonnenlicht, sanftes Bokeh, weiche Schatten, geringe Schärfentiefe und eine heilsame, romantische Slice-of-Life-Stimmung. Vertikale Komposition, polierter moderner Anime-Stil, hochdetaillierte Haar- und Kleidungstexturen, keine weiteren Personen, keine zusätzlichen Schilder, kein Wasserzeichen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une illustration anime douce et très détaillée d'une jeune femme mignonne assise à la terrasse d'un café par une journée ensoleillée, présentée en portrait en plan rapproché avec un angle légèrement en plongée. Son visage est intentionnellement recouvert par un bloc de censure carré solide centré, d'une teinte pêche chaude, masquant les yeux, le nez et la bouche tout en laissant visibles les cheveux, les oreilles, le cou, les vêtements et la glace. Elle a de très longs cheveux fluides de couleur {argument name=\"hair color\" default=\"blond miel pâle\"} avec des mèches fines, une frange décontractée, des reflets brillants et un rétroéclairage chaleureux. Elle porte une tenue printanière féminine : un cardigan blanc cassé sur un chemisier blanc à volants avec de petites broderies florales pâles et une fine bandoulière marron croisée en diagonale. Elle tient un cornet de glace à la vanille près de sa bouche d'une main ; le cornet possède une pochette en papier rose avec un petit texte en anglais indiquant « ice cream ». En arrière-plan légèrement flou, incluez la terrasse d'un café ou la vitrine d'une boutique de desserts, une plante verte en pot sur la droite, des éléments de banc ou de rambarde en bois, et exactement 1 panneau de menu debout sur la gauche affichant le texte japonais « ミルク バニラ » et le prix « ¥350 » avec une petite illustration de cornet de vanille. Utilisez des couleurs pastel, un trait délicat, une lumière dorée lumineuse, un bokeh doux, des ombres légères, une faible profondeur de champ et une atmosphère romantique de « slice-of-life ». Composition verticale, style anime moderne et soigné, textures de cheveux et de vêtements hautement détaillées, pas d'autres personnes, pas de panneaux supplémentaires, pas de filigrane.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'illustrazione anime delicata e ricca di dettagli di una graziosa giovane donna seduta a un caffè all'aperto in una giornata di sole, mostrata in un ritratto a mezzo busto con un'angolazione leggermente dall'alto. Il suo volto è intenzionalmente coperto da un blocco censura quadrato a tinta unita color pesca caldo, che oscura occhi, naso e bocca, lasciando visibili capelli, orecchie, collo, abbigliamento e gelato. Ha capelli molto lunghi e fluenti {argument name=\"hair color\" default=\"biondo miele pallido\"} con singole ciocche definite, frangia sfilata, riflessi lucidi e una calda retroilluminazione. Indossa un outfit primaverile femminile: un cardigan color bianco sporco sopra una camicetta bianca con volant, piccoli ricami floreali pallidi e una sottile tracolla marrone che attraversa diagonalmente il busto. Tiene in mano un cono gelato alla vaniglia vicino alla bocca; il cono ha una fascetta di carta rosa con il testo in inglese \"ice cream\". Nello sfondo leggermente sfocato, includi un caffè con tavolini o la vetrina di una gelateria, una pianta verde in vaso sulla destra, elementi di una panchina o ringhiera in legno e esattamente 1 insegna da terra sulla sinistra che mostra il testo giapponese \"ミルク バニラ\" e il prezzo \"¥350\" con una piccola illustrazione di un cono alla vaniglia. Usa colori pastello, linee delicate, luce solare dorata e luminosa, un leggero effetto bokeh, ombre morbide, profondità di campo ridotta e un'atmosfera romantica e rassicurante tipica dello slice-of-life. Composizione verticale, stile anime moderno e curato, texture di capelli e abiti altamente dettagliate, nessuna persona extra, nessun cartello aggiuntivo, nessuna filigrana.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma ilustração de anime suave e altamente detalhada de uma jovem fofa sentada em um café ao ar livre em um dia ensolarado, exibida em um retrato de close-up da parte superior do corpo a partir de um ângulo ligeiramente elevado. O rosto dela é intencionalmente coberto por um bloco de censura quadrado sólido centralizado em um tom de pele pêssego quente, obscurecendo os olhos, nariz e boca, enquanto deixa visíveis o cabelo, orelhas, pescoço, roupas e o sorvete. Ela tem cabelos muito longos e esvoaçantes {argument name=\"hair color\" default=\"loiro mel pálido\"} com fios individuais finos, franja solta, reflexos brilhantes e iluminação de fundo quente. Ela veste um traje feminino de primavera: um cardigã off-white sobre uma blusa branca com babados, pequenos bordados florais pálidos e uma alça de ombro marrom fina cruzando diagonalmente. Ela segura uma casquinha de sorvete de baunilha perto da boca com uma das mãos; a casquinha tem uma manga de papel rosa com um pequeno texto em inglês escrito “ice cream”. No fundo suavemente desfocado, inclua uma calçada de café ou vitrine de loja de sobremesas, uma planta verde frondosa à direita, elementos de banco ou grade de madeira e exatamente 1 placa de menu em pé à esquerda mostrando o texto em japonês “ミルク バニラ” e o preço “¥350” com uma pequena ilustração de casquinha de baunilha. Use cores pastéis, arte de linha delicada, luz solar dourada luminosa, bokeh suave, sombras suaves, profundidade de campo rasa e uma atmosfera romântica e saudável de fatia de vida. Composição vertical, estilo de anime moderno polido, texturas de cabelo e roupas altamente detalhadas, sem pessoas extras, sem sinais adicionais, sem marca d'água.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Blonde Anime Girl with Ice Cream",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 金发动漫少女与冰淇淋",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Chica anime rubia con helado",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Blondes Anime-Mädchen mit Eiscreme",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Fille anime blonde avec une glace",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Ragazza anime bionda con gelato",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Garota de anime loira com sorvete",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a pastel anime café portrait of a long-haired girl holding a vanilla soft-serve cone with her face hidden by a square censor block.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张柔和的动漫咖啡馆肖像，画面中是一位长发少女手持香草软冰淇淋，其面部被一个方形马赛克遮挡。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un portrait anime de style pastel dans un café, représentant une jeune fille aux longs cheveux tenant un cornet de glace à la vanille, son visage étant masqué par un bloc de censure carré.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Ped_IA/status/2051354236013711611#reversed-0",
+      "originalId": "https://x.com/Ped_IA/status/2051354236013711611#reversed-0",
+      "authors": [
+        {
+          "name": "ペディア",
+          "url": "https://x.com/Ped_IA"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 898
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ee3eb1330b27ae92",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971068099_dm06p7_HHffycnWUAAywqi.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971068099_dm06p7_HHffycnWUAAywqi.jpg",
+      "localPath": "public/assets/prompt_8cc28be12d39d441d8b5/e7703c582160.jpg",
+      "alt": "Profile / Avatar - Blonde Anime Girl with Ice Cream - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.857Z"
+  }
+}

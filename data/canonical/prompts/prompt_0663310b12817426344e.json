@@ -1,0 +1,88 @@
+{
+  "id": "prompt_0663310b12817426344e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Help me generate a long scroll image of \"Chibi Huaigu\" with the complete text of \"Chibi Fu\"",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:41:29.648Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "《赤壁怀古》长卷图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Long Scroll Painting of \"Remembering the Past at Red Cliff\"",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:41:30.468Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e2faefc55d",
+      "value": "《赤壁怀古》长卷图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-338",
+      "originalId": "case-338",
+      "authors": [
+        {
+          "name": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5453
+        }
+      ],
+      "rawSource": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_826e38199f0e6eb1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case338.png",
+      "upstreamPath": "../data/images/case338.png",
+      "localPath": "public/assets/prompt_0663310b12817426344e/a13cfe2f2e6a.png",
+      "alt": "赤壁怀古长卷图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.577Z"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "prompt_eaf88401aea75030a1b6",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，设计师对于设计的中文文字解读和作品呈现。排版统一规则",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and artwork presentations. Unified layout rules",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "九位大师的机械键盘设计图鉴",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Nine Masters' Mechanical Keyboard Design Collection",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:07.629Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_534c6b861c",
+      "value": "九位大师的机械键盘设计图鉴",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-302",
+      "originalId": "case-302",
+      "authors": [
+        {
+          "name": "TanShilong",
+          "url": "https://x.com/TanShilong/status/2045148649869692982"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3925
+        }
+      ],
+      "rawSource": "[@TanShilong](https://x.com/TanShilong/status/2045148649869692982)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8a318d4befd18087",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case302.jpg",
+      "upstreamPath": "../data/images/case302.jpg",
+      "localPath": "public/assets/prompt_eaf88401aea75030a1b6/f984cc0577c2.jpg",
+      "alt": "九位大师的机械键盘设计图鉴",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

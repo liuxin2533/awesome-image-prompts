@@ -1,0 +1,132 @@
+{
+  "id": "prompt_b540e563516948dba8ec",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"pastel anime personality infographic poster\",\"topic\":\"ユーザー像インフォグラフィック\",\"theme\":\"a gentle, introverted, thoughtful person represented as a cozy black-haired cat-eared anime boy in a lavender room\",\"style\":{\"aesthetic\":\"soft pastel lavender and gray, clean Japanese infographic design, delicate line icons, rounded white panels, airy spacing, subtle paw-print motifs\",\"rendering\":\"high-quality anime illustration with soft shading, cozy slice-of-life atmosphere\",\"background\":\"off-white with faint lavender watercolor circles and tiny decorative dots\"},\"subject\":{\"character\":{\"presentation\":\"androgynous anime boy avatar\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"black\\\"}\",\"style\":\"messy short layered hair with long bangs\"},\"accessories\":[\"black cat ears on the head\",\"large over-ear headphones around the ears\"],\"outfit\":[\"black oversized hoodie with a subtle spiral emblem on the chest\",\"dark gray jogger pants\",\"black sneakers\",\"white bandage wraps on forearms and lower legs\"],\"pose\":\"sitting relaxed in a large lavender beanbag chair, one knee raised, holding a dark mug with a paw-print mark\",\"expression\":\"calm, shy, gentle\"},\"companion\":{\"count\":1,\"description\":\"sleeping gray cat curled on a small round lavender cushion at the character's feet\"},\"props\":{\"count\":6,\"items\":[\"dark paw-print mug in hand\",\"smartphone on the floor with a music note on screen\",\"open notebook on the floor\",\"pen beside the notebook\",\"small bunch of lavender flowers near the floor\",\"tea cup and lavender in a vase at the bottom right corner\"]}},\"layout\":{\"format\":\"vertical poster\",\"sections\":[{\"title\":\"ユーザー像インフォグラフィック\",\"position\":\"top-left header\",\"count\":1,\"labels\":[\"共感と安心を大切にする、優しい繊細さん\"]},{\"title\":\"大切にしていること\",\"position\":\"top-right\",\"count\":3,\"labels\":[\"信頼できる人との心地よいつながり\",\"好きなことに集中する時間\",\"穏やかで安心できる日常\"]},{\"title\":\"思考\",\"position\":\"upper-left\",\"count\":4,\"labels\":[\"物事を深く考え、慎重に行動する\",\"完璧を求めすぎてしまうこともある\",\"一度決めたことは、最後までやり切りたい\",\"自分の世界観やこだわりを大切にしている\",\"他人の気持ちに敏感で、よく気づく\"]},{\"title\":\"強み\",\"position\":\"upper-right\",\"count\":5,\"labels\":[\"継続力がある\",\"観察力・共感力が高い\",\"創造力がある\",\"真面目で誠実\",\"柔軟性がある\"]},{\"title\":\"感情\",\"position\":\"mid-left\",\"count\":4,\"labels\":[\"安心・楽しい\",\"穏やか・満たされる\",\"不安・疲れやすい\",\"落ち込みやすい\"]},{\"title\":\"接し方のポイント\",\"position\":\"mid-right\",\"count\":5,\"labels\":[\"否定せず、まずは話を聞いてほしい\",\"急かさず、ペースを尊重してほしい\",\"小さな変化や努力を褒めてほしい\",\"安心できる言葉や雰囲気を大切にしてほしい\",\"一緒に楽しめる時間も共有したい\"]},{\"title\":\"関係性\",\"position\":\"lower-left upper box\",\"count\":4,\"labels\":[\"信頼できる少数の人を大切にするタイプ\",\"相手の気持ちを考えて行動できる\",\"優しい言葉や気遣いに弱い\",\"一緒にいて自然体でいられる関係を望む\"]},{\"title\":\"日常のひとコマ\",\"position\":\"lower-middle strip\",\"count\":5,\"labels\":[\"音楽を聴いてリラックス\",\"好きな飲み物とゆったり時間\",\"アイデアや想いをノートに書き留める\",\"猫と一緒にまったり過ごす\",\"ゲームや趣味に没頭する\",\"早めに休んで心を整える\"]},{\"title\":\"疲れたり不安なとき\",\"position\":\"bottom-left\",\"count\":5,\"labels\":[\"気を遣いすぎてどっと疲れてしまう\",\"自信をなくしてしまうことがある\",\"未来のことを考えすぎて不安になる\",\"誰かに迷惑をかけていないか心配になる\",\"頑張りすぎて、心が追いつかなくなることも\"]},{\"title\":\"そんなときに求めているサポート\",\"position\":\"bottom-center arrow\",\"count\":1,\"labels\":[\"そんなときに求めているサポート\"]},{\"title\":\"support list\",\"position\":\"bottom-right\",\"count\":5,\"labels\":[\"安心できる言葉をかけてほしい\",\"話をゆっくり聞いてほしい\",\"そっとしておいてほしい時間も大切にしてほしい\",\"一緒に好きなことを楽しみたい\",\"無理せず、ペースを尊重してほしい\"]},{\"title\":\"ひとことまとめ\",\"position\":\"bottom full-width footer\",\"count\":1,\"labels\":[\"優しくて繊細で、心のつながりを何より大切にする人。安心できる場所と人がいると、もっと輝ける。\"]}],\"centerpiece\":\"large seated full-body anime character in the center, overlapping multiple text panels\",\"decorative_elements\":{\"count\":8,\"items\":[\"paw-print icon near title\",\"musical note speech bubble near character\",\"small cloud doodle on left\",\"tiny sleeping cat doodle with Zzz near right panel\",\"lavender watercolor blobs\",\"small floating dots\",\"rounded rectangle panels with gray outlines\",\"tiny monochrome icons beside section titles and bullets\"]}},\"text_language\":\"Japanese\",\"customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"ユーザー像インフォグラフィック\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"共感と安心を大切にする、優しい繊細さん\\\"}\",\"character archetype\":\"{argument name=\\\"character type\\\" default=\\\"gentle sensitive person\\\"}\",\"accent color\":\"{argument name=\\\"accent color\\\" default=\\\"soft lavender\\\"}\"}}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Pastel Anime User Persona Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - Pastel Anime User Persona Infographic",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Pastel Anime User Persona Infographic",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Pastel Anime User Persona Infographic",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Pastel Anime User Persona Infographic",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Pastel Anime User Persona Infographic",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Pastel Anime User Persona Infographic",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A vertically structured Japanese infographic poster showing a soft anime cat-eared avatar with multiple labeled personality sections, ideal for generating stylized self-image or user-persona visuals.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/mksb911/status/2048878987204784454#reversed-0",
+      "originalId": "https://x.com/mksb911/status/2048878987204784454#reversed-0",
+      "authors": [
+        {
+          "name": "きおう ろん",
+          "url": "https://x.com/mksb911"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2053
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_93bfa713c6f8123a",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367322854_d2ii9g_HG8UlD9a4AAZZPt.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367322854_d2ii9g_HG8UlD9a4AAZZPt.jpg",
+      "localPath": "public/assets/prompt_b540e563516948dba8ec/41efa0f884bb.jpg",
+      "alt": "Infographic / Edu Visual - Pastel Anime User Persona Infographic - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.568Z"
+  }
+}

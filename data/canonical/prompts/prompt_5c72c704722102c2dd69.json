@@ -1,0 +1,93 @@
+{
+  "id": "prompt_5c72c704722102c2dd69",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"anime-style livestream thumbnail\",\r\n  \"character\": {\r\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"short silver hair with cyan underlights\\\"}\",\r\n    \"eyes\": \"large bright blue\",\r\n    \"outfit\": \"white collared shirt, black tie with silver accents, black jacket, black beret with a large blue heart jewel, blue jewel brooch, black choker\",\r\n    \"pose\": \"smiling gently, looking at viewer, positioned on the right side\"\r\n  },\r\n  \"background\": \"pastel blue with white clouds, sparkles, stars, small bows, and a subtle grid pattern\",\r\n  \"typography_and_ui\": {\r\n    \"top_left_speech_bubble\": \"まったりおしゃべりしよ〜♡\",\r\n    \"main_title\": {\r\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\",\r\n      \"style\": \"large, soft blue gradient, white outline, decorated with small hearts, positioned on the middle-left\"\r\n    },\r\n    \"bottom_left_badges\": {\r\n      \"count\": 3,\r\n      \"style\": \"white pill-shaped buttons with a purple heart icon on the left\",\r\n      \"labels\": [\r\n        \"{argument name=\\\"badge 1 text\\\" default=\\\"初見さん〇\\\"}\",\r\n        \"{argument name=\\\"badge 2 text\\\" default=\\\"ポイント回収〇\\\"}\",\r\n        \"{argument name=\\\"badge 3 text\\\" default=\\\"ROM〇\\\"}\"\r\n      ]\r\n    },\r\n    \"bottom_right_cloud_bubble\": \"気軽にコメントしてね♡\"\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "品牌视觉识别图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_abe5286e8e",
+      "value": "品牌视觉识别图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-95",
+      "originalId": "case-95",
+      "authors": [
+        {
+          "name": "sayaka_aiart",
+          "url": "https://x.com/sayaka_aiart"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3634
+        }
+      ],
+      "rawSource": "[@sayaka\\_aiart](https://x.com/sayaka_aiart)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ca8bbdf7b5896b87",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case95.jpg",
+      "upstreamPath": "../data/images/case95.jpg",
+      "localPath": "public/assets/prompt_5c72c704722102c2dd69/b6e97fa47202.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "ui",
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "prompt_c60ce3f41a9541e14ed0",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"VTuber stream thumbnail\",\r\n  \"theme\": \"pastel pink, soft, cute, lace, ribbons, hearts, bunny motif\",\r\n  \"character\": {\r\n    \"position\": \"right side, waist-up\",\r\n    \"appearance\": \"anime girl, {argument name=\\\"hair color\\\" default=\\\"pastel pink\\\"} long wavy hair, large grey eyes, blush, pink heart earrings\",\r\n    \"accessories\": \"white bunny ears, large pink bow on head\",\r\n    \"outfit\": \"white frilly dress with lace, large pink ribbon bow at collar with heart gem\"\r\n  },\r\n  \"layout\": {\r\n    \"background\": \"soft pink with subtle sparkles, lace patterns, floating hearts\",\r\n    \"text_elements\": [\r\n      {\r\n        \"type\": \"main title\",\r\n        \"position\": \"top left\",\r\n        \"style\": \"large stylized pink text with white outline\",\r\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\"\r\n      },\r\n      {\r\n        \"type\": \"speech bubble\",\r\n        \"position\": \"above main title\",\r\n        \"text\": \"まったり\"\r\n      },\r\n      {\r\n        \"type\": \"circular badge\",\r\n        \"position\": \"top right\",\r\n        \"details\": \"lace-edged with small pink bow\",\r\n        \"text\": \"きてくれてありがとう♡\"\r\n      },\r\n      {\r\n        \"type\": \"heart badge\",\r\n        \"position\": \"bottom right\",\r\n        \"details\": \"large lace-edged heart\",\r\n        \"text\": \"みんなとおしゃべりできるの楽しみにしてるね♡\"\r\n      }\r\n    ],\r\n    \"list_section\": {\r\n      \"position\": \"bottom left\",\r\n      \"count\": 3,\r\n      \"style\": \"horizontal pill-shaped banners with lace edges, each featuring a pink heart with white bunny ears and a tiny bow on the left\",\r\n      \"items\": [\r\n        \"{argument name=\\\"list item 1\\\" default=\\\"初見さん〇\\\"}\",\r\n        \"{argument name=\\\"list item 2\\\" default=\\\"ポイント回収〇\\\"}\",\r\n        \"{argument name=\\\"list item 3\\\" default=\\\"ROM〇\\\"}\"\r\n      ]\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"VTuber stream thumbnail\",\n  \"theme\": \"pastel pink, soft, cute, lace, ribbons, hearts, bunny motif\",\n  \"character\": {\n    \"position\": \"right side, waist-up\",\n    \"appearance\": \"anime girl, {argument name=\\\"hair color\\\" default=\\\"pastel pink\\\"} long wavy hair, large grey eyes, blush, pink heart earrings\",\n    \"accessories\": \"white bunny ears, large pink bow on head\",\n    \"outfit\": \"white frilly dress with lace, large pink ribbon bow at collar with heart gem\"\n  },\n  \"layout\": {\n    \"background\": \"soft pink with subtle sparkles, lace patterns, floating hearts\",\n    \"text_elements\": [\n      {\n        \"type\": \"main title\",\n        \"position\": \"top left\",\n        \"style\": \"large stylized pink text with white outline\",\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"chat stream\\\"}\"\n      },\n      {\n        \"type\": \"speech bubble\",\n        \"position\": \"above main title\",\n        \"text\": \"chill\"\n      },\n      {\n        \"type\": \"circular badge\",\n        \"position\": \"top right\",\n        \"details\": \"lace-edged with small pink bow\",\n        \"text\": \"Thank you for coming♡\"\n      },\n      {\n        \"type\": \"heart badge\",\n        \"position\": \"bottom right\",\n        \"details\": \"large lace-edged heart\",\n        \"text\": \"Looking forward to chatting with everyone♡\"\n      }\n    ],\n    \"list_section\": {\n      \"position\": \"bottom left\",\n      \"count\": 3,\n      \"style\": \"horizontal pill-shaped banners with lace edges, each featuring a pink heart with white bunny ears and a tiny bow on the left\",\n      \"items\": [\n        \"{argument name=\\\"list item 1\\\" default=\\\"First time viewers〇\\\"}\",\n        \"{argument name=\\\"list item 2\\\" default=\\\"Point collection〇\\\"}\",\n        \"{argument name=\\\"list item 3\\\" default=\\\"ROM〇\\\"}\"\n      ]\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:24:17.526Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "绘画艺术风格图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Art style painting image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:24:20.138Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_fe58da4579",
+      "value": "绘画艺术风格图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-94",
+      "originalId": "case-94",
+      "authors": [
+        {
+          "name": "sayaka_aiart",
+          "url": "https://x.com/sayaka_aiart"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3571
+        }
+      ],
+      "rawSource": "[@sayaka\\_aiart](https://x.com/sayaka_aiart)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d8fff175864140ad",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case94.jpg",
+      "upstreamPath": "../data/images/case94.jpg",
+      "localPath": "public/assets/prompt_c60ce3f41a9541e14ed0/592884ab1b3f.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

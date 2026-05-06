@@ -1,0 +1,105 @@
+{
+  "id": "prompt_c7379b6981df8ce6f147",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Based on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "古风明朝帝王群像长卷",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Ancient Style Scroll of Ming Dynasty Emperors",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:24:55.871Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_30a40edc07",
+      "value": "古风明朝帝王群像长卷",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-226",
+      "originalId": "case-226",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai/status/2045071977279635962"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1975
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai/status/2045071977279635962)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_383cc385c809c6b6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case226.jpg",
+      "upstreamPath": "../data/images/case226.jpg",
+      "localPath": "public/assets/prompt_c7379b6981df8ce6f147/96030bdc7568.jpg",
+      "alt": "古风明朝帝王群像长卷",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "古风"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

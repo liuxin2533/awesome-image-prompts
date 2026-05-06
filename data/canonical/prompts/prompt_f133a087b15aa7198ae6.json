@@ -1,0 +1,110 @@
+{
+  "id": "prompt_f133a087b15aa7198ae6",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"mobile social media app UI mockup\",\r\n  \"platform\": \"Twitter/X dark mode\",\r\n  \"header\": {\r\n    \"status_bar\": \"time 19:28, bird icon, signal, wifi, battery\",\r\n    \"navigation\": \"back arrow, 'Tweet' title\"\r\n  },\r\n  \"post\": {\r\n    \"author\": {\r\n      \"avatar\": \"portrait of a Chinese emperor in red robes and black hat\",\r\n      \"display_name\": \"{argument name=\\\"display name\\\" default=\\\"Emperor Zhu Yuanzhang\\\"} 👑 [verified badge]\",\r\n      \"handle\": \"{argument name=\\\"handle\\\" default=\\\"@Emperor_Ming\\\"}\"\r\n    },\r\n    \"content\": {\r\n      \"text\": \"{argument name=\\\"tweet text\\\" default=\\\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\\\"}\",\r\n      \"hashtags\": \"#MingDynasty #HongwuEra #NewBeginning\",\r\n      \"media_grid\": {\r\n        \"count\": 3,\r\n        \"images\": [\r\n          \"emperor seated on an ornate golden throne in red and gold robes\",\r\n          \"wide shot of a grand Chinese palace courtyard with a large crowd\",\r\n          \"emperor on horseback leading an army with a red dragon banner\"\r\n        ]\r\n      }\r\n    },\r\n    \"metadata\": {\r\n      \"timestamp\": \"{argument name=\\\"timestamp\\\" default=\\\"1:36 PM · Jan 23, 1368\\\"}\",\r\n      \"engagement\": \"5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views\"\r\n    },\r\n    \"actions\": \"reply, retweet, like (red heart with '1'), share, upload\"\r\n  },\r\n  \"footer\": {\r\n    \"reply_bar\": {\r\n      \"avatar\": \"woman in red\",\r\n      \"placeholder\": \"Reply to Emperor Zhu Yuanzhang...\"\r\n    },\r\n    \"navigation_bar\": \"home, search, notifications (red '1' badge), messages\"\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"mobile social media app UI mockup\",\n  \"platform\": \"Twitter/X dark mode\",\n  \"header\": {\n    \"status_bar\": \"time 19:28, bird icon, signal, wifi, battery\",\n    \"navigation\": \"back arrow, 'Tweet' title\"\n  },\n  \"post\": {\n    \"author\": {\n      \"avatar\": \"portrait of a Chinese emperor in red robes and black hat\",\n      \"display_name\": \"{argument name=\\\"display name\\\" default=\\\"Emperor Zhu Yuanzhang\\\"} 👑 [verified badge]\",\n      \"handle\": \"{argument name=\\\"handle\\\" default=\\\"@Emperor_Ming\\\"}\"\n    },\n    \"content\": {\n      \"text\": \"{argument name=\\\"tweet text\\\" default=\\\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\\\"}\",\n      \"hashtags\": \"#MingDynasty #HongwuEra #NewBeginning\",\n      \"media_grid\": {\n        \"count\": 3,\n        \"images\": [\n          \"emperor seated on an ornate golden throne in red and gold robes\",\n          \"wide shot of a grand Chinese palace courtyard with a large crowd\",\n          \"emperor on horseback leading an army with a red dragon banner\"\n        ]\n      }\n    },\n    \"metadata\": {\n      \"timestamp\": \"{argument name=\\\"timestamp\\\" default=\\\"1:36 PM · Jan 23, 1368\\\"}\",\n      \"engagement\": \"5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views\"\n    },\n    \"actions\": \"reply, retweet, like (red heart with '1'), share, upload\"\n  },\n  \"footer\": {\n    \"reply_bar\": {\n      \"avatar\": \"woman in red\",\n      \"placeholder\": \"Reply to Emperor Zhu Yuanzhang...\"\n    },\n    \"navigation_bar\": \"home, search, notifications (red '1' badge), messages\"\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:42:30.584Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Interface Interaction Design Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:42:21.727Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-57",
+      "originalId": "case-57",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1431
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7addde97cd44ad99",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case57.jpg",
+      "upstreamPath": "../data/images/case57.jpg",
+      "localPath": "public/assets/prompt_f133a087b15aa7198ae6/a1160f37a80b.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "social",
+      "mockup",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

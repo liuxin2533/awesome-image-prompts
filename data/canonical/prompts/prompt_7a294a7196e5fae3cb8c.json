@@ -1,0 +1,167 @@
+{
+  "id": "prompt_7a294a7196e5fae3cb8c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A realistic organic smartphone selfie of a {argument name=\"subject age\" default=\"middle-aged\"} woman sitting outdoors on a porch or patio in warm late-afternoon golden-hour sunlight, framed from the chest up in a casual slightly imperfect front-facing composition. She has shoulder-length softly wavy auburn hair with a center part, natural texture, and a few loose flyaways, light skin with visible freckles and real skin texture on the chest and neck, and an everyday relaxed presence. She wears a light gray open-front cardigan over a pale lace-trim camisole. The setting shows a white exterior door and wall behind her, with a dark blue fabric-covered chair or cushion visible on the left side and strong sun casting soft warm highlights and natural shadows across her clothing and skin. The image should feel unfiltered, candid, and convincingly real rather than polished: subtle asymmetry, normal phone camera perspective, slightly tight crop, authentic household background, natural color, gentle contrast, and documentary-level photographic realism.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Realistic Golden-Hour Porch Selfie",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Realistic Golden-Hour Porch Selfie",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A natural-looking casual selfie prompt for generating an authentic organic smartphone portrait with warm sunlight and everyday realism.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/f3dericobartoli/status/2048821037513560430#reversed-3",
+      "originalId": "https://x.com/f3dericobartoli/status/2048821037513560430#reversed-3",
+      "authors": [
+        {
+          "name": "🍀 Federico Bartoli",
+          "url": "https://x.com/f3dericobartoli"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 736
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e35f4fe4426d57c5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367287051_q0i782_HG7f3scbYAAigq7.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367287051_q0i782_HG7f3scbYAAigq7.jpg",
+      "localPath": "public/assets/prompt_7a294a7196e5fae3cb8c/2189b47d60c2.jpg",
+      "alt": "Profile / Avatar - Realistic Golden-Hour Porch Selfie - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.567Z"
+  }
+}

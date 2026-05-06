@@ -1,0 +1,187 @@
+{
+  "id": "prompt_30865de51eede04cca79",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a flashy Japanese YouTube thumbnail in a dark futuristic cyber-tech style, 16:9 landscape composition, with a deep navy-to-black background filled with glowing blue circuit-board patterns, connected network nodes, tiny digital squares, and electric energy lines. At the top center, place a small white Japanese headline reading {argument name=\"headline text\" default=\"センスに頼らないAI時代の新常識\"}. In the center, add a massive 2-line Japanese title in metallic silver-white beveled lettering with intense neon-blue outer glow, electric lightning cracking behind and through the letters, reading {argument name=\"main title\" default=\"AIツール 完全攻略\"}. Beneath the main title, place one black horizontal banner with thin gold trim and white serif Japanese text reading {argument name=\"subheadline text\" default=\"Claude Code 解説LIVE 本日21:00〜\"}. On the right side, include 1 cute chibi sheep mascot standing on a glowing blue circular platform, with fluffy light blue and lavender fur, small horns, simple dot eyes, a neutral expression, outlined in purple-blue light, holding a short stick, and surrounded by a red-orange flame aura behind its body. Along the bottom, place 3 glowing futuristic rounded rectangular panels with blue neon borders and dark interiors, evenly spaced left to right. The left panel contains 1 white head-with-circuit icon and the Japanese text {argument name=\"bottom left label\" default=\"AI生成から次へ進化\"}. The center panel contains 1 white upward-trend chart icon and the text \"AIでブランディング\". The right panel contains 1 white group-and-gear icon and the text \"人もAIも動かす戦略\". Use extremely high contrast, glossy metallic text effects, layered blue rim lighting, energetic lightning, subtle lens glows, and a premium high-impact webinar thumbnail aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个炫目的日本YouTube缩略图，采用深色未来赛博科技风格，16:9横向构图，背景为深蓝到黑色，充满发光的蓝色电路板图案、连接的网络节点、小型数字方块和电能线条。在顶部中央，放置一个小型白色日语标题，内容为{argument name=\"headline text\" default=\"センスに頼らないAI時代の新常識\"}。在中央，添加一个巨大的两行日语标题，使用金属银白色斜面字体，带有强烈的霓虹蓝色外发光，字母后方和内部有闪电裂纹，内容为{argument name=\"main title\" default=\"AIツール 完全攻略\"}。在主标题下方，放置一个黑色水平横幅，带有细金色装饰边和白色衬线日语文本，内容为{argument name=\"subheadline text\" default=\"Claude Code 解説LIVE 本日21:00〜\"}。在右侧，包含1个可爱的羊吉祥物，站在发光的蓝色圆形平台上，有蓬松的浅蓝色和薰衣草色毛发，小角，简单的点状眼睛，中性表情，紫蓝色光轮廓，手持短棍，身体周围有红橙色火焰光环。沿底部放置3个发光的未来感圆角矩形面板，带有蓝色霓虹边框和深色内部，从左到右均匀分布。左侧面板包含1个带电路的白色头部图标和日语文本{argument name=\"bottom left label\" default=\"AI生成から次へ進化\"}。中央面板包含1个白色上升趋势图表图标和文本\"AIでブランディング\"。右侧面板包含1个白色齿轮组图标和文本\"人もAIも動かす戦略\"。使用极高对比度，光泽金属文字效果，分层蓝色边缘照明，动感闪电，微妙镜头光晕，以及高质量高影响力的网络研讨会缩略图美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:37.932Z"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tạo một hình thu nhỏ YouTube phong cách Nhật Bản bắt mắt với chủ đề cyber-tech tương lai tối giản, bố cục ngang 16:9, với nền xanh navy đậm đến đen được lấp đầy bởi các họa tiết bảng mạch phát sáng màu xanh dương, các nút mạng kết nối, các ô vuông kỹ thuật số nhỏ và các đường năng lượng điện. Ở chính giữa phía trên, đặt một tiêu đề nhỏ màu trắng bằng tiếng Nhật với nội dung {argument name=\"headline text\" default=\"センスに頼らないAI時代の新常識\"}. Ở trung tâm, thêm một tiêu đề lớn 2 dòng bằng tiếng Nhật với kiểu chữ vát cạnh màu bạc kim loại, có viền phát sáng neon xanh dương cường độ cao, phía sau và xuyên qua các chữ cái là hiệu ứng tia chớp điện, với nội dung {argument name=\"main title\" default=\"AIツール 完全攻略\"}. Bên dưới tiêu đề chính, đặt một biểu ngữ ngang màu đen với viền vàng mỏng và văn bản tiếng Nhật có chân màu trắng với nội dung {argument name=\"subheadline text\" default=\"Claude Code 解説LIVE 本日21:00〜\"}. Ở phía bên phải, bao gồm 1 linh vật cừu chibi dễ thương đang đứng trên một bệ tròn phát sáng màu xanh dương, với bộ lông màu xanh nhạt và tím oải hương mềm mại, sừng nhỏ, mắt chấm đơn giản, biểu cảm trung tính, được viền bằng ánh sáng tím xanh, cầm một chiếc gậy ngắn và được bao quanh bởi hào quang ngọn lửa màu đỏ cam phía sau cơ thể. Dọc theo phía dưới, đặt 3 bảng hình chữ nhật bo góc tương lai phát sáng với viền neon xanh dương và nội thất tối màu, được đặt cách đều nhau từ trái sang phải. Bảng bên trái chứa 1 biểu tượng đầu người với mạch điện màu trắng và văn bản tiếng Nhật {argument name=\"bottom left label\" default=\"AI生成から次へ進化\"}. Bảng ở giữa chứa 1 biểu tượng biểu đồ xu hướng tăng màu trắng và văn bản \"AIでブランディング\". Bảng bên phải chứa 1 biểu tượng nhóm và bánh răng màu trắng và văn bản \"人もAIも動かす戦略\". Sử dụng độ tương phản cực cao, hiệu ứng chữ kim loại bóng bẩy, ánh sáng viền xanh dương nhiều lớp, tia chớp tràn đầy năng lượng, hiệu ứng ánh sáng ống kính tinh tế và thẩm mỹ hình thu nhỏ webinar cao cấp đầy ấn tượng.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una llamativa miniatura de YouTube al estilo ciber-tech futurista oscuro japonés, composición horizontal 16:9, con un fondo de azul marino a negro lleno de patrones de circuitos brillantes en azul, nodos de red conectados, pequeños cuadrados digitales y líneas de energía eléctrica. En la parte superior central, coloca un pequeño titular japonés en blanco que diga {argument name=\"headline text\" default=\"センスに頼らないAI時代の新常識\"}. En el centro, añade un título masivo en japonés de 2 líneas con letras biseladas en color plata metálica con un intenso brillo exterior azul neón, rayos eléctricos resquebrajándose detrás y a través de las letras, que diga {argument name=\"main title\" default=\"AIツール 完全攻略\"}. Debajo del título principal, coloca un banner horizontal negro con un borde dorado fino y texto japonés con serifa en blanco que diga {argument name=\"subheadline text\" default=\"Claude Code 解説LIVE 本日21:00〜\"}. En el lado derecho, incluye 1 linda mascota de oveja chibi parada sobre una plataforma circular azul brillante, con pelaje esponjoso azul claro y lavanda, cuernos pequeños, ojos de punto simples, expresión neutral, delineada con luz azul púrpura, sosteniendo un bastón corto y rodeada por un aura de llama rojo-naranja detrás de su cuerpo. A lo largo de la parte inferior, coloca 3 paneles rectangulares redondeados futuristas brillantes con bordes de neón azul e interiores oscuros, espaciados uniformemente de izquierda a derecha. El panel izquierdo contiene 1 icono de cabeza con circuito en blanco y el texto en japonés {argument name=\"bottom left label\" default=\"AI生成から次へ進化\"}. El panel central contiene 1 icono de gráfico de tendencia ascendente en blanco y el texto \"AIでブランディング\". El panel derecho contiene 1 icono de grupo y engranaje en blanco y el texto \"人もAIも動かす戦略\". Utiliza un contraste extremadamente alto, efectos de texto metálico brillante, iluminación de borde azul en capas, rayos energéticos, sutiles destellos de lente y una estética premium de alto impacto para miniaturas de seminarios web.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein auffälliges japanisches YouTube-Thumbnail im futuristischen Cyber-Tech-Stil, 16:9-Querformat, mit einem tiefdunkelblauen bis schwarzen Hintergrund, gefüllt mit leuchtenden blauen Schaltkreismustern, vernetzten Knotenpunkten, winzigen digitalen Quadraten und elektrischen Energielinien. Platziere mittig oben eine kleine weiße japanische Überschrift mit dem Text {argument name=\"headline text\" default=\"センスに頼らないAI時代の新常識\"}. Füge in der Mitte einen massiven, zweizeiligen japanischen Titel in metallisch silber-weißer, abgeschrägter Schrift mit intensivem neonblauem Außenglühen hinzu, hinter und durch den die Buchstaben elektrische Blitze zucken, mit dem Text {argument name=\"main title\" default=\"AIツール 完全攻略\"}. Platziere unter dem Haupttitel ein schwarzes horizontales Banner mit dünner Goldumrandung und weißem japanischem Serifentext mit dem Inhalt {argument name=\"subheadline text\" default=\"Claude Code 解説LIVE 本日21:00〜\"}. Füge auf der rechten Seite ein niedliches Chibi-Schaf-Maskottchen hinzu, das auf einer leuchtend blauen kreisförmigen Plattform steht, mit flauschigem hellblauem und lavendelfarbenem Fell, kleinen Hörnern, einfachen Punktaugen, einem neutralen Ausdruck, umrandet von violett-blauem Licht, einen kurzen Stab haltend und umgeben von einer rot-orangen Flammen-Aura hinter seinem Körper. Platziere entlang des unteren Randes 3 leuchtende, futuristische, abgerundete rechteckige Felder mit blauen Neonrändern und dunklem Innenbereich, gleichmäßig von links nach rechts verteilt. Das linke Feld enthält 1 weißes Icon eines Kopfes mit Schaltkreis und den japanischen Text {argument name=\"bottom left label\" default=\"AI生成から次へ進化\"}. Das mittlere Feld enthält 1 weißes Icon eines Aufwärtstrend-Diagramms und den Text \"AIでブランディング\". Das rechte Feld enthält 1 weißes Icon einer Gruppe mit Zahnrad und den Text \"人もAIも動かす戦略\". Verwende extrem hohen Kontrast, glänzende metallische Texteffekte, geschichtete blaue Kantenbeleuchtung, energetische Blitze, subtile Linseneffekte und eine erstklassige, wirkungsstarke Webinar-Thumbnail-Ästhetik.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une miniature YouTube japonaise percutante dans un style cyber-tech futuriste sombre, composition paysage 16:9, avec un fond bleu marine profond à noir rempli de motifs de circuits imprimés lumineux, de nœuds de réseau connectés, de minuscules carrés numériques et de lignes d'énergie électrique. Au centre en haut, placez un petit titre japonais en blanc affichant {argument name=\"headline text\" default=\"センスに頼らないAI時代の新常識\"}. Au centre, ajoutez un titre japonais massif sur 2 lignes en lettres biseautées argentées métallisées avec un éclat extérieur bleu néon intense, des éclairs électriques crépitant derrière et à travers les lettres, affichant {argument name=\"main title\" default=\"AIツール 完全攻略\"}. Sous le titre principal, placez une bannière horizontale noire avec une fine bordure dorée et un texte japonais à empattements blanc affichant {argument name=\"subheadline text\" default=\"Claude Code 解説LIVE 本日21:00〜\"}. Sur le côté droit, incluez 1 mascotte mouton chibi mignonne debout sur une plateforme circulaire bleu lumineux, avec une fourrure duveteuse bleu clair et lavande, de petites cornes, des yeux en points simples, une expression neutre, soulignée par une lumière bleu-violet, tenant un bâton court et entourée d'une aura de flammes rouge-orange derrière son corps. Le long du bas, placez 3 panneaux rectangulaires arrondis futuristes lumineux avec des bordures néon bleu et des intérieurs sombres, espacés uniformément de gauche à droite. Le panneau de gauche contient 1 icône blanche de tête avec circuit et le texte japonais {argument name=\"bottom left label\" default=\"AI生成から次へ進化\"}. Le panneau central contient 1 icône blanche de graphique de tendance à la hausse et le texte \"AIでブランディング\". Le panneau de droite contient 1 icône blanche de groupe et d'engrenage et le texte \"人もAIも動かす戦略\". Utilisez un contraste extrêmement élevé, des effets de texte métallisés brillants, un éclairage de contour bleu superposé, des éclairs énergétiques, des reflets d'objectif subtils et une esthétique de miniature de webinaire premium à fort impact.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una miniatura YouTube giapponese appariscente in stile cyber-tech futuristico scuro, composizione orizzontale 16:9, con uno sfondo dal blu navy al nero pieno di motivi a circuito stampato blu brillante, nodi di rete connessi, minuscoli quadrati digitali e linee di energia elettrica. Al centro in alto, inserisci un piccolo titolo giapponese bianco che recita {argument name=\"headline text\" default=\"センスに頼らないAI時代の新常識\"}. Al centro, aggiungi un enorme titolo giapponese su 2 righe in caratteri metallici bianco-argento smussati con un intenso bagliore esterno blu neon, fulmini elettrici che si sprigionano dietro e attraverso le lettere, che recita {argument name=\"main title\" default=\"AIツール 完全攻略\"}. Sotto il titolo principale, posiziona un banner orizzontale nero con sottili finiture dorate e testo giapponese serif bianco che recita {argument name=\"subheadline text\" default=\"Claude Code 解説LIVE 本日21:00〜\"}. Sul lato destro, includi 1 graziosa mascotte pecora chibi in piedi su una piattaforma circolare blu brillante, con soffice pelliccia azzurra e lavanda, piccole corna, semplici occhi a punto, espressione neutra, contornata da una luce viola-blu, che tiene un bastoncino corto e circondata da un'aura di fiamma rosso-arancio dietro il corpo. Lungo la parte inferiore, posiziona 3 pannelli rettangolari arrotondati futuristici e luminosi con bordi blu neon e interni scuri, distanziati uniformemente da sinistra a destra. Il pannello sinistro contiene 1 icona bianca testa-con-circuito e il testo giapponese {argument name=\"bottom left label\" default=\"AI生成から次へ進化\"}. Il pannello centrale contiene 1 icona bianca grafico-di-tendenza-al-rialzo e il testo \"AIでブランディング\". Il pannello destro contiene 1 icona bianca gruppo-e-ingranaggio e il testo \"人もAIも動かす戦略\". Utilizza un contrasto estremamente elevato, effetti di testo metallico lucido, illuminazione a bordo blu a strati, fulmini energetici, sottili bagliori dell'obiettivo e un'estetica premium ad alto impatto per la miniatura del webinar.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma miniatura chamativa para YouTube em estilo japonês, com uma estética cibernética futurista e sombria, composição paisagem 16:9, com um fundo azul-marinho profundo a preto, preenchido com padrões de placas de circuito azul brilhante, nós de rede conectados, pequenos quadrados digitais e linhas de energia elétrica. No topo central, coloque um pequeno título em japonês na cor branca lendo {argument name=\"headline text\" default=\"センスに頼らないAI時代の新常識\"}. No centro, adicione um título massivo em japonês de 2 linhas em letras chanfradas de prata metálica com um brilho externo neon azul intenso, com raios elétricos rachando atrás e através das letras, lendo {argument name=\"main title\" default=\"AIツール 完全攻略\"}. Abaixo do título principal, coloque um banner horizontal preto com um fino acabamento dourado e texto em japonês com serifa branca lendo {argument name=\"subheadline text\" default=\"Claude Code 解説LIVE 本日21:00〜\"}. No lado direito, inclua 1 mascote ovelha chibi fofa em pé sobre uma plataforma circular azul brilhante, com pelo fofo azul-claro e lavanda, chifres pequenos, olhos simples em formato de ponto, expressão neutra, contornada por uma luz azul-púrpura, segurando um pequeno bastão e cercada por uma aura de chama vermelho-alaranjada atrás do corpo. Ao longo da parte inferior, coloque 3 painéis retangulares arredondados futuristas e brilhantes com bordas neon azuis e interiores escuros, espaçados uniformemente da esquerda para a direita. O painel esquerdo contém 1 ícone branco de cabeça com circuito e o texto em japonês {argument name=\"bottom left label\" default=\"AI生成から次へ進化\"}. O painel central contém 1 ícone branco de gráfico de tendência ascendente e o texto \"AIでブランディング\". O painel direito contém 1 ícone branco de grupo e engrenagem e o texto \"人もAIも動かす戦略\". Use contraste extremamente alto, efeitos de texto metálico brilhante, iluminação de contorno azul em camadas, raios energéticos, brilhos sutis de lente e uma estética premium de alto impacto para miniaturas de webinar.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Cyber AI Webinar Thumbnail",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - Cyber AI 网络研讨会缩略图",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình thu nhỏ trên YouTube - Hình thu nhỏ Webinar Cyber AI",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Miniatura para seminario web de Cyber AI",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Cyber AI Webinar Thumbnail",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Miniature de webinaire Cyber AI",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Miniatura Webinar Cyber AI",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Miniatura de Webinar de IA Cibernética",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a bold Japanese cyber-style livestream thumbnail with electric typography, a mascot character, and three feature panels for tech talks, AI webinars, or promotional streams.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一个大胆的日本赛博风格直播缩略图，带有电子风格字体、一个吉祥物角色和三个特色面板，用于技术讲座、AI网络研讨会或推广直播。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:31.846Z"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ce prompt génère une miniature de livestream audacieuse au style cyber japonais, avec une typographie électrique, une mascotte et trois panneaux de fonctionnalités pour des conférences tech, des webinaires AI ou des streams promotionnels.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/emi_aifuku/status/2048761642872348947#reversed-0",
+      "originalId": "https://x.com/emi_aifuku/status/2048761642872348947#reversed-0",
+      "authors": [
+        {
+          "name": "えみ｜AI × クライアントワーク",
+          "url": "https://x.com/emi_aifuku"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3113
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_abf351ba2eecd34c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367312466_19d40h_HG6p2oxaoAA87gy.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367312466_19d40h_HG6p2oxaoAA87gy.jpg",
+      "localPath": "public/assets/prompt_30865de51eede04cca79/63f426319e2c.jpg",
+      "alt": "YouTube Thumbnail - Cyber AI Webinar Thumbnail - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "character",
+      "mascot",
+      "角色",
+      "吉祥物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.564Z"
+  }
+}

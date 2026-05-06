@@ -1,0 +1,112 @@
+{
+  "id": "prompt_a5b86d7de34e8c2ed86d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A 9:16 vertical version, high-detail realistic style Chinese TikTok live screenshot, Elon Musk is talking to the mobile phone camera in the live broadcast room, excited, smiling, and the live atmosphere is warm and real. He held a white handwritten sign in one hand, which clearly said: \"Thank you Shinning\". There are obvious Chinese TikTok interface elements in the live broadcast screen, including likes, comments and share icons arranged vertically on the right, scrolling Chinese bullet screens and interactive comments below, and the \"live broadcast\" logo at the top, which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: \"Shinning sent TikTok No. 1\", with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment, with a mobile phone holder, a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural, like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy, the characters are clear, the expression is vivid, the details are rich, the sense of real photography, the depth of field, high definition, cinematic, photorealistic, realistic livestream screenshot, social media UI, Chinese Douyin live room, detailed lighting, natural skin texture.\n\nNegative prompts:\n\nLow definition, blur, cartoon, illustration, too strong CG sense, two-dimensional, deformed fingers, wrong text, scrambled code, multiple mobile phones, multiple brands, character repetition, face collapse, facial features distortion, excessive skin polishing, overexposure, too dark, messy background, wrong UI, non-Chinese short video interface, too many English bullet screens, gift special effects are not obvious, cropping error, proportional error\n\nSupplementary reinforcement words:\n\nReal mobile phone screen recording screenshot feeling, the live broadcast UI is complete, the gift prompt box conforms to the style of the Chinese short video platform, the Chinese comment area is active, the number of people online in the live broadcast room is clearly displayed, and the time, power and signal bar are visible.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "9:16竖版，高细节写实风格的中国TikTok直播截图，埃隆·马斯克在直播间对着手机摄像头说话，神情兴奋，面带微笑，直播氛围温暖真实。他一手拿着一张白色手写牌，上面清晰写着：\"感谢Shinning\"。直播屏幕中有明显的中国TikTok界面元素，包括右侧垂直排列的点赞、评论和分享图标，下方有滚动的中文弹幕和互动评论，顶部有\"直播\"标志，看起来像真实的手机截图。屏幕中有一个醒目的礼物提示特效：\"Shinning送出抖音NO.1\"，带有礼物动画光效和平台风格的提示框。马斯克处于专业的直播环境中，面前有手机支架、环形补光灯和桌面麦克风。背景是现代化的科技直播间，灯光明亮，带有轻微的霓虹氛围。构图真实自然，如同中国短视频平台的直播截图。界面信息丰富但不杂乱，人物清晰，表情生动，细节丰富，有真实摄影感，景深，高清，电影感，照片级真实，真实的直播截图，社交媒体UI，中国抖音直播间，详细光照，自然皮肤质感。\n\n负面提示：\n\n低分辨率，模糊，卡通，插画，过强的CG感，二维，变形的手指，错误的文字，乱码，多个手机，多个品牌，人物重复，面部崩塌，面部特征扭曲，过度皮肤磨皮，过曝，太暗，杂乱的背景，错误的UI，非中国短视频界面，过多的英文弹幕，礼物特效不明显，裁剪错误，比例错误\n\n补充强化词：\n\n真实手机录屏截图感，直播UI完整，礼物提示框符合中国短视频平台风格，中文评论区活跃，直播间在线人数清晰显示，时间、电量、信号条可见。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:08:05.817Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Elon Musk Douyin Livestream Screenshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "埃隆·马斯克抖音直播截图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:08:08.239Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Shinning1010/status/2046501587762188535",
+      "originalId": "case-36",
+      "authors": [
+        {
+          "name": "Shinning1010",
+          "url": "https://x.com/Shinning1010"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 188
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_88b51c11903af22a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case36/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case36/output.jpg",
+      "localPath": "public/assets/prompt_a5b86d7de34e8c2ed86d/6703316d77f0.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "social",
+      "mockup",
+      "界面",
+      "抖音",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

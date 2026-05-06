@@ -1,0 +1,98 @@
+{
+  "id": "prompt_1fba7dd4c9555336057b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A 48-panel grid is no longer enough for me. I need a 100-panel image, 8K.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "48 宫格已经满足不了我了，我需要 100 宫格画面 8k",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Ximen Qing 100-Panel Storyboard",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "video-animation-collage",
+      "value": "🎬 Video, Animation & Collage",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/ianneo_ai/status/2047260183769043119",
+      "originalId": "https://x.com/ianneo_ai/status/2047260183769043119",
+      "authors": [
+        {
+          "name": "ianneo_ai",
+          "url": "https://x.com/ianneo_ai/status/2047260183769043119"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 451
+        }
+      ],
+      "rawSource": "[@ianneo_ai](https://x.com/ianneo_ai/status/2047260183769043119)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2fae5aad1ed43a6a",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGlTpVAboAAfXBg?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGlTpVAboAAfXBg?format=jpg&name=large",
+      "localPath": "public/assets/prompt_1fba7dd4c9555336057b/c83da5619e7d.jpg",
+      "alt": "Ximen Qing 100-Panel Storyboard",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "story"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

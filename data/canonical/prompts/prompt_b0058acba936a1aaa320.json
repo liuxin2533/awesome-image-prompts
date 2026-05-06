@@ -1,0 +1,94 @@
+{
+  "id": "prompt_b0058acba936a1aaa320",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n  \"type\": \"brand identity and merchandise design board\",\n  \"theme\": {\n    \"color_palette\": \"{argument name=\\\"theme color\\\" default=\\\"pastel pink\\\"} and white\",\n    \"motif\": \"{argument name=\\\"motif\\\" default=\\\"cherry blossoms\\\"} and pink hearts\"\n  },\n  \"character\": {\n    \"description\": \"anime girl with short brown bob hair, pink eyes, wearing a white hoodie, gentle smile\"\n  },\n  \"branding\": {\n    \"main_logo\": \"{argument name=\\\"character name\\\" default=\\\"癒音ちー\\\"}\",\n    \"sub_logo\": \"{argument name=\\\"character subtext\\\" default=\\\"ゆおんちー\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"type\": \"header banner\",\n        \"position\": \"top\",\n        \"elements\": [\"large main logo\", \"sub logo\", \"cherry blossom graphics\", \"character portrait on the right\"]\n      },\n      {\n        \"type\": \"product packaging\",\n        \"position\": \"middle left\",\n        \"elements\": [\"1 square box with heart-shaped transparent window showing pink heart candies\", \"character illustration on box\", \"2 individual candy wrappers\", \"5 scattered heart candies\"]\n      },\n      {\n        \"type\": \"promotional poster\",\n        \"position\": \"middle right\",\n        \"elements\": [\"character portrait\", \"heart-shaped candy bowl\", \"main logo\", \"text '4.26 NEW OPEN'\", \"text '{argument name=\\\"social handle\\\" default=\\\"@yuonchii\\\"}'\"]\n      },\n      {\n        \"type\": \"horizontal web banner\",\n        \"position\": \"lower middle\",\n        \"elements\": [\"main logo\", \"cherry blossoms\", \"character portrait on the right\"]\n      },\n      {\n        \"type\": \"social media profile mockup\",\n        \"position\": \"bottom left\",\n        \"elements\": [\"header image with logo\", \"1 circular profile picture\", \"handle '{argument name=\\\"social handle\\\" default=\\\"@yuonchii\\\"}'\", \"1 follow button\", \"mock bio text\"]\n      },\n      {\n        \"type\": \"merchandise collection\",\n        \"position\": \"bottom right\",\n        \"count\": 9,\n        \"items\": [\"1 white t-shirt with logo\", \"1 white mug with character\", \"4 round pin badges\", \"1 acrylic keychain\", \"2 candy packets\"]\n      }\n    ]\n  }\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime Character Brand Identity & Merch Board",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/chi_vc_/status/2046061073720369228",
+      "originalId": "case-112",
+      "authors": [
+        {
+          "name": "chi_vc_",
+          "url": "https://x.com/chi_vc_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 112
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d6dcb62b4ff3db41",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg",
+      "localPath": "public/assets/prompt_b0058acba936a1aaa320/95d86d22a355.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:39.680Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.560Z"
+  }
+}

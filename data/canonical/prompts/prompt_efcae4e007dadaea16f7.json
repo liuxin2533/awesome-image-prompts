@@ -1,0 +1,203 @@
+{
+  "id": "prompt_efcae4e007dadaea16f7",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Ultra-realistic cinematic close-up portrait of a {argument name=\"subject\" default=\"rugged man with wet hair and a beard\"}, wearing {argument name=\"accessories\" default=\"round glasses\"}, {argument name=\"eye color\" default=\"intense blue eye\"} in sharp focus, dramatic moody lighting, cold color grading, snowflakes and ice particles on hair and fur coat, extreme skin texture detail, pores and wrinkles visible, shallow depth of field, 85mm lens look, soft background blur, winter atmosphere, dark teal and grey tones, high contrast, film still style, masterpiece, 8K, hyper-detailed, cinematic composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超写实电影感特写人像，主体为 {argument name=\"subject\" default=\"头发湿润且留着胡须的坚毅男子\"}，佩戴 {argument name=\"accessories\" default=\"圆框眼镜\"}，{argument name=\"eye color\" default=\"深邃的蓝色眼眸\"} 聚焦清晰，戏剧性情绪光影，冷色调处理，头发和毛皮大衣上带有雪花与冰晶，极致的皮肤纹理细节，毛孔与皱纹清晰可见，浅景深，85mm 镜头质感，柔和的背景虚化，冬季氛围，深青色与灰色调，高对比度，电影剧照风格，杰作，8K，超高细节，电影级构图。",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ภาพพอร์ตเทรตระยะใกล้สไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษของ {argument name=\"subject\" default=\"ชายมาดเข้มผมเปียกและมีเครา\"}, สวมใส่ {argument name=\"accessories\" default=\"แว่นตาทรงกลม\"}, {argument name=\"eye color\" default=\"ดวงตาสีฟ้าเข้ม\"} โฟกัสคมชัด, การจัดแสงแบบดราม่ามู้ดดี้, การปรับโทนสีแบบเย็น, เกล็ดหิมะและละอองน้ำแข็งบนเส้นผมและเสื้อโค้ทขนสัตว์, รายละเอียดพื้นผิวผิวหนังระดับสูง, เห็นรูขุมขนและริ้วรอยชัดเจน, ระยะชัดลึกตื้น, ให้ลุคเลนส์ 85 มม., พื้นหลังเบลอละมุน, บรรยากาศฤดูหนาว, โทนสีเขียวอมฟ้าและสีเทา, คอนทราสต์สูง, สไตล์ภาพจากภาพยนตร์, ผลงานชิ้นเอก, 8K, รายละเอียดสูงมาก, องค์ประกอบภาพแบบภาพยนตร์",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Chân dung cận cảnh điện ảnh siêu thực của {argument name=\"subject\" default=\"người đàn ông phong trần với mái tóc ướt và bộ râu\"}, đeo {argument name=\"accessories\" default=\"kính tròn\"}, {argument name=\"eye color\" default=\"đôi mắt xanh thẳm\"} sắc nét, ánh sáng kịch tính đầy tâm trạng, tông màu lạnh, những bông tuyết và hạt băng trên tóc và áo khoác lông, chi tiết da cực kỳ sắc nét, nhìn rõ lỗ chân lông và nếp nhăn, độ sâu trường ảnh nông, hiệu ứng ống kính 85mm, hậu cảnh xóa phông mềm mại, không khí mùa đông, tông màu xanh mòng két và xám, độ tương phản cao, phong cách ảnh phim, kiệt tác, 8K, siêu chi tiết, bố cục điện ảnh.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Retrato cinematográfico en primer plano ultrarrealista de un {argument name=\"subject\" default=\"hombre rudo con cabello mojado y barba\"}, usando {argument name=\"accessories\" default=\"lentes redondos\"}, {argument name=\"eye color\" default=\"ojos azul intenso\"} con enfoque nítido, iluminación dramática y temperamental, gradación de color fría, copos de nieve y partículas de hielo en el cabello y abrigo de piel, detalle extremo de la textura de la piel, poros y arrugas visibles, profundidad de campo reducida, estilo de lente de 85 mm, desenfoque de fondo suave, atmósfera invernal, tonos gris y verde azulado oscuro, alto contraste, estilo de fotograma de película, obra maestra, 8K, hiperdetallado, composición cinematográfica.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ultrarealistisches, cinematisches Nahaufnahme-Porträt eines {argument name=\"subject\" default=\"markanten Mannes mit nassem Haar und Bart\"}, trägt {argument name=\"accessories\" default=\"runde Brille\"}, {argument name=\"eye color\" default=\"intensiv blaues Auge\"} im scharfen Fokus, dramatische, stimmungsvolle Beleuchtung, kühles Color Grading, Schneeflocken und Eispartikel auf Haar und Pelzmantel, extreme Hauttextur-Details, Poren und Falten sichtbar, geringe Schärfentiefe, 85mm-Objektiv-Look, weiche Hintergrundunschärfe, winterliche Atmosphäre, dunkle Blaugrün- und Grautöne, hoher Kontrast, Filmstill-Stil, Meisterwerk, 8K, hyperdetailliert, cinematische Komposition.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Portrait en gros plan cinématographique ultra-réaliste d'un {argument name=\"subject\" default=\"homme au visage buriné avec les cheveux mouillés et une barbe\"}, portant {argument name=\"accessories\" default=\"des lunettes rondes\"}, {argument name=\"eye color\" default=\"un regard bleu intense\"} mis au point, éclairage dramatique et sombre, étalonnage des couleurs froid, flocons de neige et particules de glace sur les cheveux et le manteau en fourrure, détail extrême de la texture de la peau, pores et rides visibles, faible profondeur de champ, rendu d'objectif 85mm, flou d'arrière-plan doux, atmosphère hivernale, tons bleu sarcelle foncé et gris, contraste élevé, style image de film, chef-d'œuvre, 8K, hyper-détaillé, composition cinématographique.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Primo piano cinematografico ultra-realistico di un {argument name=\"subject\" default=\"uomo dall'aspetto rude con capelli bagnati e barba\"}, che indossa {argument name=\"accessories\" default=\"occhiali tondi\"}, {argument name=\"eye color\" default=\"intenso occhio blu\"} a fuoco nitido, illuminazione drammatica e suggestiva, color grading freddo, fiocchi di neve e particelle di ghiaccio su capelli e cappotto di pelliccia, dettaglio estremo della texture della pelle, pori e rughe visibili, profondità di campo ridotta, look da obiettivo 85mm, sfocatura dello sfondo morbida, atmosfera invernale, toni verde acqua scuro e grigio, alto contrasto, stile fotogramma cinematografico, capolavoro, 8K, iper-dettagliato, composizione cinematografica.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Retrato em close-up cinematográfico ultrarrealista de um {argument name=\"subject\" default=\"homem rústico com cabelo molhado e barba\"}, usando {argument name=\"accessories\" default=\"óculos redondos\"}, {argument name=\"eye color\" default=\"olhos azuis intensos\"} em foco nítido, iluminação dramática e temperamental, gradação de cores frias, flocos de neve e partículas de gelo no cabelo e no casaco de pele, detalhe extremo da textura da pele, poros e rugas visíveis, profundidade de campo rasa, visual de lente 85mm, desfoque de fundo suave, atmosfera de inverno, tons de azul-petróleo escuro e cinza, alto contraste, estilo de cena de filme, obra-prima, 8K, hiperdetalhado, composição cinematográfica.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Cinematic Winter Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 电影感冬季人像",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตฤดูหนาวสไตล์ภาพยนตร์",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Chân dung mùa đông đậm chất điện ảnh",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Retrato cinematográfico de invierno",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Cinematisches Winterporträt",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Portrait hivernal cinématographique",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Ritratto invernale cinematografico",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Retrato Cinematográfico de Inverno",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed prompt for generating an ultra-realistic cinematic portrait of a rugged man in a winter setting with dramatic lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于生成超写实电影感人像的高细节提示词，描绘了冬季背景下神情坚毅的男子，并配有戏剧性光影。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt très détaillé pour générer un portrait cinématographique ultra-réaliste d'un homme au visage buriné dans un décor hivernal avec un éclairage dramatique.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/de_mon010/status/2051244267910443174",
+      "originalId": "https://x.com/de_mon010/status/2051244267910443174",
+      "authors": [
+        {
+          "name": "Karlos",
+          "url": "https://x.com/de_mon010"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1184
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_575a481afec11d3c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777970997254_t98o9l_HHd7x-9aoAAXVO1.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777970997254_t98o9l_HHd7x-9aoAAXVO1.jpg",
+      "localPath": "public/assets/prompt_efcae4e007dadaea16f7/b7767eacaf67.jpg",
+      "alt": "Profile / Avatar - Cinematic Winter Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_c47fe8ce6189734d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777970997254_0y04sk_HHd7yL2a8AA3Oci.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777970997254_0y04sk_HHd7yL2a8AA3Oci.jpg",
+      "localPath": "public/assets/prompt_efcae4e007dadaea16f7/8254f5780435.jpg",
+      "alt": "Profile / Avatar - Cinematic Winter Portrait - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "人像",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.870Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_1e80a4e7b39c4e09a9c8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "generate an image of a racing car poster with its spec and pricing",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张赛车海报，包含其规格和价格",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:14:08.814Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "generate an image of a racing car poster with its spec and pricing",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张赛车海报，包含其规格和价格",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:14:11.145Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/verysmallwoods/status/2047033599229137126",
+      "originalId": "case-68",
+      "authors": [
+        {
+          "name": "verysmallwoods",
+          "url": "https://x.com/verysmallwoods"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 886
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9b280693bad4c5b6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg",
+      "localPath": "public/assets/prompt_1e80a4e7b39c4e09a9c8/5f1923ec0b5c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

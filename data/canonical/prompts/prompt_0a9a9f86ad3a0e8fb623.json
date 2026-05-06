@@ -1,0 +1,109 @@
+{
+  "id": "prompt_0a9a9f86ad3a0e8fb623",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A bright, summery commercial product photography shot featuring a refreshing beverage on a weathered wooden table. In the sharp foreground, there is 1 tall glass filled with a golden, bubbly iced drink garnished with 1 lemon slice and a sprig of rosemary, sitting next to 1 silver aluminum can covered in cold condensation. The can prominently displays the English text {argument name=\"product name\" default=\"TOKYO HIGHBALL\"} below a small gold star logo, featuring a graphic of the drink itself and the Japanese text \"アルコール分 7%\" near the bottom. To the right of the can, 2 cut lemon wedges rest on the table. In the softly blurred background, a sunny beach scene unfolds with sparkling turquoise water and a clear blue sky. Standing to the left in the background is 1 young woman with long brown hair, wearing a white sleeveless top and a light blue skirt, looking out toward the ocean. Floating elegantly in the sky above the scene is the Japanese text {argument name=\"catchphrase\" default=\"夏、これがいい。\"}. The overall lighting is radiant and inviting, with sparkling bokeh and lens flares emphasizing the crisp, cold, and refreshing atmosphere of a perfect summer day.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A bright, summery commercial product photography shot featuring a refreshing beverage on a weathered wooden table. In the sharp foreground, there is 1 tall glass filled with a golden, bubbly iced drink garnished with 1 lemon slice and a sprig of rosemary, sitting next to 1 silver aluminum can covered in cold condensation. The can prominently displays the English text {argument name=\"product name\" default=\"TOKYO HIGHBALL\"} below a small gold star logo, featuring a graphic of the drink itself and the Japanese text \"アルコール分 7%\" near the bottom. To the right of the can, 2 cut lemon wedges rest on the table. In the softly blurred background, a sunny beach scene unfolds with sparkling turquoise water and a clear blue sky. Standing to the left in the background is 1 young woman with long brown hair, wearing a white sleeveless top and a light blue skirt, looking out toward the ocean. Floating elegantly in the sky above the scene is the Japanese text {argument name=\"catchphrase\" default=\"夏、これがいい。\"}. The overall lighting is radiant and inviting, with sparkling bokeh and lens flares emphasizing the crisp, cold, and refreshing atmosphere of a perfect summer day.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:47:17.143Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "品牌徽标设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Brand Logo Design Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:47:19.459Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_b6bce82d85",
+      "value": "品牌徽标设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-150",
+      "originalId": "case-150",
+      "authors": [
+        {
+          "name": "highball_cho",
+          "url": "https://x.com/highball_cho"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6089
+        }
+      ],
+      "rawSource": "[@highball\\_cho](https://x.com/highball_cho)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2557219f43b7efc7",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case150.jpg",
+      "upstreamPath": "../data/images/case150.jpg",
+      "localPath": "public/assets/prompt_0a9a9f86ad3a0e8fb623/80c4d4b9a410.jpg",
+      "alt": "product name",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "品牌",
+      "徽标"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

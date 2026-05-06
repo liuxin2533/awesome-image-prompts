@@ -1,0 +1,109 @@
+{
+  "id": "prompt_b0a4698707e69b45485f",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "根据【主题】生成一张高质量竖版「科普百科图」。 \r\n这张图不是普通海报，也不是单纯插画，而是一张兼具图鉴感、百科感、信息结构感和收藏感的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡，以及社交媒体上更容易传播的信息图风格。 \r\n让画面包含： \r\n一个清晰好看的主题主视觉 \r\n若干局部特征放大细节 \r\n多个圆角模块化信息分区 \r\n清楚的标题层级与重点标签 \r\n简洁但信息丰富的百科内容 \r\n可视化评分、要点总结或 Top 5 模块 \r\n内容栏目请根据主题自动适配，优先从这些方向里选择并合理组合： \r\n基础档案、分类信息、外观特征、习性生态、形成机制或结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。 \r\n视觉要求： \r\n浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整体排版整洁清爽。信息密度要丰富，但不能显得拥挤，阅读体验要舒服。最终效果要像真正可以发布、阅读、收藏、批量做成系列内容的科普百科卡，而不是广告感很重的宣传海报。 \r\n不要做成普通商业宣传海报，要重点突出“知识整理”“模块信息”“图鉴式展示”这几个特征。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a high-quality vertical \"educational infographic\" based on the [Theme].\nThis image is not an ordinary poster, nor is it simply an illustration, but a modular educational infographic that combines the feel of a field guide, encyclopedia, information structure, and collectibility. The overall style should reference advanced natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and infographic styles that are more shareable on social media.\nInclude in the image:\nA clear and attractive main visual for the theme\nSeveral enlarged details of local features\nMultiple rounded modular information sections\nClear title hierarchy and key labels\nConcise but information-rich encyclopedia content\nVisual ratings, key points summary, or Top 5 modules\nContent sections should automatically adapt to the theme, selecting and reasonably combining from these directions:\nBasic Profile, Classification Information, Appearance Characteristics, Habits and Ecology, Formation Mechanism or Structural Composition, Growth or Usage Conditions, Maintenance or Care Suggestions, Risks and Precautions, Suitable Audiences or Application Scenarios, Pros and Cons Comparison, Quick Rating Card.\nVisual requirements:\nLight and clean background, soft color scheme, light shadows, exquisite small icons, rounded information boxes, and an overall neat and fresh layout. The information density should be rich but not crowded, and the reading experience should be comfortable. The final effect should look like a real educational encyclopedia card that can be published, read, collected, and made into a series of content, rather than a heavily promotional advertisement.\nDo not create an ordinary commercial promotional poster. Focus on highlighting the characteristics of \"knowledge organization,\" \"modular information,\" and \"field guide-style presentation.\"",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:15:22.466Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "科普百科图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Popular Science Encyclopedia Illustration",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:15:26.270Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0193cb2c92",
+      "value": "科普百科图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-8",
+      "originalId": "case-8",
+      "authors": [
+        {
+          "name": "1055699679",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 136
+        }
+      ],
+      "rawSource": "小红书号1055699679"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_aa6ff28f9e7f2156",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case8.jpg",
+      "upstreamPath": "../data/images/case8.jpg",
+      "localPath": "public/assets/prompt_b0a4698707e69b45485f/f49425cc1936.jpg",
+      "alt": "科普百科图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

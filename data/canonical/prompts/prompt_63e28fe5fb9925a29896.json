@@ -1,0 +1,99 @@
+{
+  "id": "prompt_63e28fe5fb9925a29896",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A WeChat Moments-style feed for the Xuanwu Gate Incident.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "玄武门之变的朋友圈",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Xuanwu Gate Incident Moments Feed",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/Tz_2022/status/2046523491940225366",
+      "originalId": "https://x.com/Tz_2022/status/2046523491940225366",
+      "authors": [
+        {
+          "name": "Tz_2022",
+          "url": "https://x.com/Tz_2022/status/2046523491940225366"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 426
+        }
+      ],
+      "rawSource": "[@Tz_2022](https://x.com/Tz_2022/status/2046523491940225366)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d83e259282493395",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGa2ROUX0AAadhO?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGa2ROUX0AAadhO?format=jpg&name=large",
+      "localPath": "public/assets/prompt_63e28fe5fb9925a29896/cdeed695b61f.jpg",
+      "alt": "Xuanwu Gate Incident Moments Feed",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "ui",
+      "social"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.589Z"
+  }
+}

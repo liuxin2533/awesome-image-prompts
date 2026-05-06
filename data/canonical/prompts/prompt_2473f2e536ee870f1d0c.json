@@ -1,0 +1,168 @@
+{
+  "id": "prompt_2473f2e536ee870f1d0c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic studio photograph of an open {argument name=\"book type\" default=\"pop-up book\"} on a clean white surface, viewed from a low front angle, with a dramatic {argument name=\"main subject\" default=\"T-rex\"} made entirely of intricate white origami and laser-cut paper bursting upward from the center fold. The dinosaur is large and dominant, facing right in a roaring pose with open jaws, sharp paper teeth, tiny forearms, powerful legs, and a long tail sweeping left. Its body is built from hundreds of delicate layered paper slats and cutout perforations, glowing from strong internal and under-page illumination so the creature appears backlit and semi-luminous. Around the base, exactly 7 paper plant silhouettes rise from the pages: 3 darker branching shrubs in the foreground and 4 pale fern-like foliage shapes behind them, all also cut from paper. The open pages show faint printed text on the right-hand spread, while the center gutter emits a bright white light that shines upward through the structure. A soft cool-blue ambient environment contrasts with the warm white glow from inside the book, creating a magical children's advertisement feel. Strong spotlighting from above and behind the dinosaur produces crisp shadows cast across the next spread and onto the tabletop. Minimal background, high detail, elegant product-ad aesthetic, volumetric haze, shallow depth of field, monochrome white and blue palette, ultra-clean composition, surreal handcrafted realism.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Origami Pop-Up T-Rex Book Ad",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "產品行銷 - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロダクトマーケティング - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "제품 마케팅 - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोडक्ट मार्केटिंग - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Origami Pop-Up T-Rex Book Ad",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a cinematic product-style image of a glowing paper-engineered T-rex emerging from an open pop-up book, ideal for children's publishing or imaginative advertising visuals.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Gdgtify/status/2048870299894939916#reversed-0",
+      "originalId": "https://x.com/Gdgtify/status/2048870299894939916#reversed-0",
+      "authors": [
+        {
+          "name": "Gadgetify",
+          "url": "https://x.com/Gdgtify"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4179
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_78501270c1ed77a0",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367287481_qb2uv8_HGt_lR9a0AEsJQK.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367287481_qb2uv8_HGt_lR9a0AEsJQK.jpg",
+      "localPath": "public/assets/prompt_2473f2e536ee870f1d0c/ad9de0f32a86.jpg",
+      "alt": "Product Marketing - Origami Pop-Up T-Rex Book Ad - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.564Z"
+  }
+}

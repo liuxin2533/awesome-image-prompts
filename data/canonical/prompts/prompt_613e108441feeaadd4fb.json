@@ -1,0 +1,80 @@
+{
+  "id": "prompt_613e108441feeaadd4fb",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "使用附图中的图案，由专业设计师打造 4 款时尚单品，采用不同的色彩搭配与排版设计，附带穿搭效果图。以雅致的构图凸显图案的美感。格式为 2:3，希望将图像生成模型从 duct-tape-1 指定为 duct-tape-2、3。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Use the patterns in the attached image, crafted by professional designers to create 4 fashion items, using different color schemes and layout designs, accompanied by outfit effect pictures. Highlight the beauty of the patterns with an elegant composition. The format is 2:3, hoping to specify the image generation model from duct-tape-1 to duct-tape-2, 3.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "雅致图案四款时尚单品设计",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0f85751f21",
+      "value": "雅致图案四款时尚单品设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-216",
+      "originalId": "case-216",
+      "authors": [
+        {
+          "name": "aiehon_aya",
+          "url": "https://x.com/aiehon_aya/status/2046348182301683954"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1555
+        }
+      ],
+      "rawSource": "[@aiehon\\_aya](https://x.com/aiehon_aya/status/2046348182301683954)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fcab1eaca97cce93",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case216.png",
+      "upstreamPath": "../data/images/case216.png",
+      "localPath": "public/assets/prompt_613e108441feeaadd4fb/3edcebe6673d.png",
+      "alt": "雅致图案四款时尚单品设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

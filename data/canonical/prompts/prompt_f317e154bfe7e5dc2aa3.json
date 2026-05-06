@@ -1,0 +1,107 @@
+{
+  "id": "prompt_f317e154bfe7e5dc2aa3",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\"type\": \"2x2 grid of promotional banner ads\", \"theme\": \"{argument name=\\\"course theme\\\" default=\\\"Social Media Content Creation School\\\"}\", \"panels\": [{\"position\": \"top-left\", \"color_palette\": \"light blue and pink pastel gradient\", \"subject\": \"young woman smiling, resting chin on hand, smartphone and ring light in foreground\", \"typography\": {\"headline\": \"{argument name=\\\"top left headline\\\" default=\\\"発信を仕事に変える SNSスクール\\\"}\", \"subheadings\": [\"好きが、私の未来になる！\", \"クリエイター志望歓迎！\"]}, \"layout_elements\": {\"bullet_points_count\": 3, \"call_to_action_button\": \"pink button labeled '無料体験 >'\"}}, {\"position\": \"top-right\", \"color_palette\": \"deep blue and cyan geometric\", \"subject\": \"young man looking intently at a professional camera on a tripod with a ring light\", \"typography\": {\"headline\": \"{argument name=\\\"top right headline\\\" default=\\\"魅せる投稿が学べる\\\"}\", \"subheadings\": [\"企画・撮影・運用サポート\"]}, \"layout_elements\": {\"circular_icons_count\": 3, \"icon_types\": [\"lightbulb\", \"camera\", \"bar chart\"], \"call_to_action_button\": \"yellow button labeled '詳細はこちら >'\"}}, {\"position\": \"bottom-left\", \"color_palette\": \"soft beige and white aesthetic\", \"subject\": \"young woman looking thoughtfully to the side, mood board background\", \"typography\": {\"headline\": \"{argument name=\\\"bottom left headline\\\" default=\\\"自分の世界観を育てる\\\"}\", \"subheadings\": [\"あなたらしさが、一番の強みになる。\", \"SNSブランディング講座\"]}, \"layout_elements\": {\"horizontal_icons_count\": 3, \"icon_types\": [\"palette\", \"person\", \"heart\"], \"call_to_action_button\": \"pink button labeled '今すぐ見る >'\"}}, {\"position\": \"bottom-right\", \"color_palette\": \"vibrant pink and magenta pop design\", \"subject\": \"young woman smiling brightly, pointing at text, messy bun, smartphone on tripod\", \"typography\": {\"headline\": \"{argument name=\\\"bottom right headline\\\" default=\\\"好きな発信でファンをつくる\\\"}\", \"subheadings\": [\"実践型レッスン\"]}, \"layout_elements\": {\"bullet_points_count\": 4, \"call_to_action_button\": \"yellow button labeled '申し込む >'\"}}]}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\"type\": \"2x2 grid of promotional banner ads\", \"theme\": \"{argument name=\\\"course theme\\\" default=\\\"Social Media Content Creation School\\\"}\", \"panels\": [{\"position\": \"top-left\", \"color_palette\": \"light blue and pink pastel gradient\", \"subject\": \"young woman smiling, resting chin on hand, smartphone and ring light in foreground\", \"typography\": {\"headline\": \"{argument name=\\\"top left headline\\\" default=\\\"Turn your content creation into a career with our Social Media School\\\"}\", \"subheadings\": [\"What you love becomes your future!\", \"Aspiring creators welcome!\"]}, \"layout_elements\": {\"bullet_points_count\": 3, \"call_to_action_button\": \"pink button labeled 'Free Trial >'\"}}, {\"position\": \"top-right\", \"color_palette\": \"deep blue and cyan geometric\", \"subject\": \"young man looking intently at a professional camera on a tripod with a ring light\", \"typography\": {\"headline\": \"{argument name=\\\"top right headline\\\" default=\\\"Learn to create eye-catching posts\\\"}\", \"subheadings\": [\"Planning, shooting, and operation support\"]}, \"layout_elements\": {\"circular_icons_count\": 3, \"icon_types\": [\"lightbulb\", \"camera\", \"bar chart\"], \"call_to_action_button\": \"yellow button labeled 'Learn More >'\"}}, {\"position\": \"bottom-left\", \"color_palette\": \"soft beige and white aesthetic\", \"subject\": \"young woman looking thoughtfully to the side, mood board background\", \"typography\": {\"headline\": \"{argument name=\\\"bottom left headline\\\" default=\\\"Develop your unique worldview\\\"}\", \"subheadings\": [\"Your uniqueness is your greatest strength.\", \"SNS Branding Course\"]}, \"layout_elements\": {\"horizontal_icons_count\": 3, \"icon_types\": [\"palette\", \"person\", \"heart\"], \"call_to_action_button\": \"pink button labeled 'View Now >'\"}}, {\"position\": \"bottom-right\", \"color_palette\": \"vibrant pink and magenta pop design\", \"subject\": \"young woman smiling brightly, pointing at text, messy bun, smartphone on tripod\", \"typography\": {\"headline\": \"{argument name=\\\"bottom right headline\\\" default=\\\"Build fans through content you love creating\\\"}\", \"subheadings\": [\"Hands-on lessons\"]}, \"layout_elements\": {\"bullet_points_count\": 4, \"call_to_action_button\": \"yellow button labeled 'Sign Up >'\"}}]}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:43:10.674Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:42:37.207Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-63",
+      "originalId": "case-63",
+      "authors": [
+        {
+          "name": "masapark95",
+          "url": "https://x.com/masapark95"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1771
+        }
+      ],
+      "rawSource": "[@masapark95](https://x.com/masapark95)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d7da755f064c5d31",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case63.jpg",
+      "upstreamPath": "../data/images/case63.jpg",
+      "localPath": "public/assets/prompt_f317e154bfe7e5dc2aa3/811025dceb18.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

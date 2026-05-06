@@ -1,0 +1,93 @@
+{
+  "id": "prompt_3c9dd4440988c3880c96",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "爱情公寓 电视剧主题 像素养成类游戏概念图，包括场景全局内容，周围环绕各人物形象三视图，底部是场景特写，右下角是剧情梗概。\n\n随机一个经典国内古装电视剧，生成古装电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物形象三视图，底部是场景特写，右下角是剧情梗概。\n\n「XXX」电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物（人物别重复）形象三视图，底部是场景特写，右下角是剧情梗概。",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Pixel game concept board from TV drama theme",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/sciencedegens/status/2049359171594903856",
+      "originalId": "case-15",
+      "authors": [
+        {
+          "name": "sciencedegens",
+          "url": "https://x.com/sciencedegens"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 205
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5bd62ed6cb5fd1d7",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case15/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case15/output.jpg",
+      "localPath": "public/assets/prompt_3c9dd4440988c3880c96/9a4ec9ab006e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:20:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

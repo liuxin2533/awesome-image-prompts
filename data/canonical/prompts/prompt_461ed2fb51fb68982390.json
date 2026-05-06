@@ -1,0 +1,96 @@
+{
+  "id": "prompt_461ed2fb51fb68982390",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n  \"type\": \"UI/UX landing page mockup\",\n  \"theme\": \"dark mode, sleek modern aesthetic, glassmorphism, {argument name=\\\"primary accent color\\\" default=\\\"neon purple and blue\\\"} glowing accents\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"goViralX\\\"}\",\n    \"top_right_tag\": \"VIRAL CAMPAIGN CASE STUDY\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"name\": \"Hero\",\n        \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"How We Created 10M+ Viral Impact\\\"}\",\n        \"subheadline\": \"3天引爆全网, 助力品牌实现指数级增长\",\n        \"stats_row\": {\n          \"count\": 4,\n          \"labels\": [\"总播放量\", \"互动率\", \"转化咨询\", \"执行周期\"],\n          \"values\": [\"{argument name=\\\"main statistic\\\" default=\\\"10,240,000+\\\"}\", \"18.7%\", \"3,200+\", \"72小时\"]\n        },\n        \"visual\": \"cinematic shot of a person in a hoodie looking at glowing digital screens and graphs, large play button overlay\"\n      },\n      {\n        \"name\": \"Strategy\",\n        \"title\": \"Our 3-Day Execution Strategy\",\n        \"layout_type\": \"vertical timeline\",\n        \"steps_count\": 3,\n        \"elements_per_step\": [\"timeline node\", \"title\", \"bullet points\", \"video thumbnail with play button\", \"description box\"]\n      },\n      {\n        \"name\": \"Performance\",\n        \"title\": \"Data-Driven Performance\",\n        \"left_column\": {\n          \"stat_cards_count\": 4,\n          \"values\": [\"10M+\", \"43%\", \"28,000+\", \"3,200+\"]\n        },\n        \"right_column\": {\n          \"charts_count\": 2,\n          \"chart_1\": \"line graph showing 7-day growth peaking at Day 3\",\n          \"chart_2\": \"horizontal segmented bar chart showing platform distribution (TikTok 52%, Instagram 24%, X 15%, YouTube 9%)\"\n        }\n      },\n      {\n        \"name\": \"Keys to Success\",\n        \"title\": \"The 3 Keys to Viral Success\",\n        \"cards_count\": 3,\n        \"card_elements\": [\"glowing icon (fire, target, antenna)\", \"title\", \"description\", \"VIEW DETAIL link\"]\n      },\n      {\n        \"name\": \"Social Proof\",\n        \"title\": \"TRUSTED BY CREATORS & BRANDS\",\n        \"left_column\": {\n          \"logos_count\": 8,\n          \"grid\": \"2x4\",\n          \"brands\": [\"SHEIN\", \"SHOPLINE\", \"Blueglass\", \"instacart\", \"lemon8\", \"mi\", \"CIDER\", \"bellroy\"]\n        },\n        \"right_column\": {\n          \"testimonial_cards_count\": 2,\n          \"elements\": [\"quote\", \"author title (SaaS Founder, Growth Manager)\"]\n        }\n      },\n      {\n        \"name\": \"Call to Action\",\n        \"title\": \"READY TO GO VIRAL?\",\n        \"interactive_elements\": [\"text input field\", \"glowing button with text '{argument name=\\\"call to action text\\\" default=\\\"获取专属增长方案 ->\\\"}'\"],\n        \"visual\": \"3D render of a rocket ship taking off with purple and blue flames\"\n      }\n    ]\n  }\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Dark Mode Marketing Case Study UI",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/IndieDevHailey/status/2044974254769463312",
+      "originalId": "case-108",
+      "authors": [
+        {
+          "name": "IndieDevHailey",
+          "url": "https://x.com/IndieDevHailey"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 172
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1d99504b27387d42",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg",
+      "localPath": "public/assets/prompt_461ed2fb51fb68982390/e65e3615a729.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:39.680Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "youtube",
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.558Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "prompt_881c8284948f53677447",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT Image 2 on ChatGPT App Create a hyper-realistic vertical commercial food photography poster for a premium [PRODUCT TYPE], designed in a refined luxury advertisement style, 2:3 aspect ratio. Place [MAIN PRODUCT] as the central hero subject, positioned [COMPOSITION / ANGLE], with premium realistic details such as [TEXTURE DETAILS], [SURFACE FINISH], and [FOOD-SPECIFIC FEATURES]. Surround the product with [FLOATING INGREDIENTS / MOTION ELEMENTS], arranged dynamically but cleanly to create movement, depth, and visual balance. Add [LIQUID / SPLASH / DRIP / POWDER EFFECT] interacting with the product in a natural high-speed freeze-frame style, showing realistic viscosity, droplets, suspended particles, soft shadows, and crisp highlights. Use a [BACKGROUND STYLE] with a cohesive color palette of [COLOR PALETTE], keeping the composition clean, appetizing, and premium. Lighting should be [LIGHTING STYLE], emphasizing gloss, creaminess, texture, and material contrast. Include [TYPOGRAPHY / BRANDING DETAILS] if required, placed with elegant spacing and modern commercial balance. Ultra-detailed textures, photorealistic rendering, high-end dessert or beverage advertisement aesthetic, sharp focus on the hero product, slight depth falloff on outer elements, clean studio composition, luxurious, fresh, indulgent, 8K resolution. Cheat Sheet [PRODUCT TYPE]: matcha drink, ice cream bar, pistachio cone, dessert poster [MAIN PRODUCT]: cup, bar, cone, packaged dessert [COMPOSITION / ANGLE]: overhead flat-lay, centered vertical, mid-air diagonal [TEXTURE DETAILS]: crumbs, powder, nuts, cream ridges, ice cubes [SURFACE FINISH]: glossy chocolate, matte powder, creamy swirl, transparent plastic [FLOATING INGREDIENTS]: almonds, tea leaves, pistachios, cherry pieces [MOTION EFFECT]: splash, drip, swirl, powder burst, frozen particles [BACKGROUND STYLE]: soft gradient, textured powder surface, clean studio backdrop [COLOR PALETTE]: matcha green, chocolate brown, cherry pink, pistachio sage [TYPOGRAPHY]: brand name, product title, tagline, offer badge, CTA button",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Luxury Food Poster Template",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SPEEDAI07/status/2050470348454551902",
+      "originalId": "case-178",
+      "authors": [
+        {
+          "name": "SPEEDAI07",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1813
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e9ea3df7ae67604a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case178/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case178/output.jpg",
+      "localPath": "public/assets/prompt_881c8284948f53677447/42c67c3e22c4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T17:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.549Z"
+  }
+}

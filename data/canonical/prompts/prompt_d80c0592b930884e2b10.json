@@ -1,0 +1,109 @@
+{
+  "id": "prompt_d80c0592b930884e2b10",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using the provided reference photo, recreate the same museum facade and frontal composition as a polished theatrical anime background illustration. Keep the architecture, signage, 3 flagpoles, broad steps, and overall layout consistent, but convert the image from realistic photography into a highly detailed hand-painted anime film style with clean linework, soft cel shading, gentle pastel stone colors, and crisp atmospheric lighting. Add dramatic sunlight from the upper right so the glass pyramid casts a large geometric lattice shadow across the central wall and left side of the entrance. Simplify and stylize the people into anime background characters, keeping the 2 visible groups: 1 lone figure on the left and 1 small cluster of 7 people near the center-right entrance. Preserve the clear blue-sky daytime mood while making the scene feel elegant, refined, and cinematic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用提供的参考照片，将相同的博物馆立面和正面构图重新创作成精美的戏剧性动漫背景插画。保持建筑、标志、3根旗杆、宽阔的台阶和整体布局的一致性，但将图像从写实摄影转换为高度精细的手绘动漫电影风格，具有清晰的线条、柔和的赛璐璐着色、柔和的粉彩色石材和清晰的大气照明。从右上方添加戏剧性的阳光，使玻璃金字塔在中央墙壁和入口左侧投射出大型几何格子阴影。将人物简化和风格化为动漫背景角色，保持2个可见群体：左侧的1个孤独人物和中心右侧入口附近的7人小群。保持清晰的蓝天白天的氛围，同时使场景显得优雅、精致和电影感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:31:57.375Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime Museum Background Conversion",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫博物馆背景转换",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:32:01.933Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Dakiny/status/2048175219966394695",
+      "originalId": "case-132",
+      "authors": [
+        {
+          "name": "Dakiny",
+          "url": "https://x.com/Dakiny"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1378
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6be840b761e5d814",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case132/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case132/output.jpg",
+      "localPath": "public/assets/prompt_d80c0592b930884e2b10/c2cc803174b4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.561Z"
+  }
+}

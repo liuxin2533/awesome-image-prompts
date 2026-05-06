@@ -217,6 +217,10 @@ test('exportCatalogData writes localized datasets, search indexes, and taxonomy'
   assert.equal(zhPrompts.prompts[1].title, 'Clay Camera UI');
   assert.equal(zhPrompts.prompts[1].previewImage, 'https://raw.githubusercontent.com/acme/awesome-image-prompts/main/public/assets/prompt_beta/camera.jpg');
   assert.equal(zhPrompts.prompts[1].localization.title.isFallback, true);
+  assert.equal(zhPrompts.prompts[1].localization.promptText.isFallback, true);
+  assert.equal(zhPrompts.prompts[1].hasPromptTextTranslation, false);
+  assert.deepEqual(zhPrompts.prompts[1].availableLanguages.promptText, ['en']);
+  assert.equal(zhPrompts.prompts[0].hasPromptTextTranslation, true);
 
   const enSearch = readJson(path.join(projectRoot, 'data/catalog/search.en.json'));
   assert.equal(enSearch.index.length, 2);

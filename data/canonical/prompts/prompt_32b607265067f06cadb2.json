@@ -1,0 +1,74 @@
+{
+  "id": "prompt_32b607265067f06cadb2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Speed is livestreaming Grand Theft Auto 6",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "GTA 6 Livestream Gameplay Screenshot",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/marmaduke091/status/2046732155829604550",
+      "originalId": "https://x.com/marmaduke091/status/2046732155829604550",
+      "authors": [
+        {
+          "name": "marmaduke091",
+          "url": "https://x.com/marmaduke091/status/2046732155829604550"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 277
+        }
+      ],
+      "rawSource": "[@marmaduke091](https://x.com/marmaduke091/status/2046732155829604550)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3465b5394b6d1180",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGdz3AJWYAA-1Er?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGdz3AJWYAA-1Er?format=jpg&name=large",
+      "localPath": "public/assets/prompt_32b607265067f06cadb2/b28d730ab58a.jpg",
+      "alt": "GTA 6 Livestream Gameplay Screenshot",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

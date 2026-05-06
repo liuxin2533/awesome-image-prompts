@@ -1,0 +1,87 @@
+{
+  "id": "prompt_d92172d6acbe13ccd0ce",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:32.611Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Lu Bu Boss Design Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "吕布 Boss 设计图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:32.264Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/songguoxiansen/status/2047198090009190441",
+      "originalId": "case-51",
+      "authors": [
+        {
+          "name": "songguoxiansen",
+          "url": "https://x.com/songguoxiansen"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 298
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d5476cbc904d929c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case91/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case91/output.jpg",
+      "localPath": "public/assets/prompt_d92172d6acbe13ccd0ce/5dc676d50407.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.604Z"
+  }
+}

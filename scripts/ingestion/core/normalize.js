@@ -150,6 +150,8 @@ function normalizeRawRecord(raw, options = {}) {
   const id = stablePromptId(originalPrompt);
   const now = new Date().toISOString();
 
+  const sourceCategories = uniqueBy((raw.sourceCategories || []).filter(item => item?.value).map(normalizeCategory), item => `${item.language}:${item.value.toLowerCase()}:${item.source}`);
+
   const prompt = {
     id,
     contentHash: contentHash(dedupeKey),
@@ -157,7 +159,8 @@ function normalizeRawRecord(raw, options = {}) {
     promptText: fieldFromLocalized(localized, 'promptText', primaryLanguage),
     title: fieldFromLocalized(localized, 'title', primaryLanguage),
     description: fieldFromLocalized(localized, 'description', primaryLanguage),
-    categories: uniqueBy((raw.sourceCategories || []).filter(item => item?.value).map(normalizeCategory), item => `${item.language}:${item.value.toLowerCase()}:${item.source}`),
+    sourceCategories,
+    categories: [...sourceCategories],
     tags: uniqueBy((raw.tags || []).filter(item => item?.value).map(normalizeTag), item => `${item.language}:${item.value.toLowerCase()}`),
     sources: raw.references && raw.references.length ? raw.references : [{
       sourceKey: raw.sourceKey,

@@ -1,0 +1,110 @@
+{
+  "id": "prompt_a3eba6947caa1afdd42e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:07:47.871Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Epic Silhouette World Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "title.translations.zh-CN: 史诗般的剪影世界海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:07:51.335Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Ghhhh3owi/status/2045803217251102897",
+      "originalId": "case-15",
+      "authors": [
+        {
+          "name": "Ghhhh3owi",
+          "url": "https://x.com/Ghhhh3owi"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 172
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_24e16df8265d171b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg",
+      "localPath": "public/assets/prompt_a3eba6947caa1afdd42e/754527bacb28.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报",
+      "插画",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "prompt_419d8f7ad85ed6a28427",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic journey through time where {argument name=\"themes\" default=\"childhood, love, solitude, and dreams\"} blur into one emotional story.\n\nCinematic memory replay montage, ultra-realistic, emotional storytelling a close-up of a {argument name=\"subject\" default=\"thoughtful man\"} blended with layered scenes: {argument name=\"scenery\" default=\"a child running through a golden sunset field, a couple laughing softly, a man sitting alone in a dim room by a window, rainy city streets at night, a person overlooking a glowing city at dusk\"}, old photographs in hand, soft warm and cool lighting mix, shallow depth of field, double exposure effect, film grain, nostalgic mood, 4K, dramatic lighting, seamless transitions, dreamlike atmosphere.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一段穿越时空的电影级旅程，其中 {argument name=\"themes\" default=\"童年、爱情、孤独和梦想\"} 融合成一个感人的故事。\n\n电影级记忆回放蒙太奇，超写实，感性叙事，一个 {argument name=\"subject\" default=\"沉思的男人\"} 的特写与分层场景融合：{argument name=\"scenery\" default=\"一个孩子在金色的日落田野中奔跑，一对情侣在轻声欢笑，一个男人独自坐在昏暗房间的窗边，雨夜的城市街道，一个人在黄昏时分俯瞰发光的城市\"}，手中拿着旧照片，柔和的冷暖光混合，浅景深，双重曝光效果，胶片颗粒感，怀旧氛围，4K，戏剧性灯光，无缝转场，梦幻般的氛围。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un viaje cinematográfico a través del tiempo donde {argument name=\"themes\" default=\"la infancia, el amor, la soledad y los sueños\"} se fusionan en una sola historia emocional.\n\nMontaje de reproducción de recuerdos cinematográficos, ultrarrealista, narrativa emocional, un primer plano de {argument name=\"subject\" default=\"un hombre pensativo\"} mezclado con escenas superpuestas: {argument name=\"scenery\" default=\"un niño corriendo por un campo al atardecer, una pareja riendo suavemente, un hombre sentado solo en una habitación oscura junto a una ventana, calles lluviosas de la ciudad por la noche, una persona contemplando una ciudad brillante al atardecer\"}, fotografías antiguas en mano, mezcla de iluminación suave cálida y fría, profundidad de campo reducida, efecto de doble exposición, grano de película, ambiente nostálgico, 4K, iluminación dramática, transiciones fluidas, atmósfera onírica.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Eine cineastische Zeitreise, bei der {argument name=\"themes\" default=\"Kindheit, Liebe, Einsamkeit und Träume\"} zu einer emotionalen Geschichte verschmelzen.\n\nCineastische Erinnerungs-Montage, ultra-realistisch, emotionales Storytelling, eine Nahaufnahme von {argument name=\"subject\" default=\"einem nachdenklichen Mann\"}, überlagert mit verschiedenen Szenen: {argument name=\"scenery\" default=\"ein Kind, das durch ein goldenes Sonnenuntergangsfeld rennt, ein lachendes Paar, ein Mann, der allein in einem dunklen Raum am Fenster sitzt, regnerische nächtliche Stadtstraßen, eine Person, die in der Dämmerung auf eine leuchtende Stadt blickt\"}, alte Fotos in der Hand, Mischung aus weichem warmem und kühlem Licht, geringe Schärfentiefe, Doppelbelichtungseffekt, Filmkörnung, nostalgische Stimmung, 4K, dramatische Beleuchtung, nahtlose Übergänge, traumhafte Atmosphäre.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un voyage cinématographique à travers le temps où {argument name=\"themes\" default=\"l'enfance, l'amour, la solitude et les rêves\"} se fondent en une seule histoire émotionnelle.\n\nMontage de relecture de souvenirs cinématographiques, ultra-réaliste, narration émotionnelle, gros plan sur un {argument name=\"subject\" default=\"homme pensif\"} mélangé à des scènes superposées : {argument name=\"scenery\" default=\"un enfant courant dans un champ au coucher du soleil doré, un couple riant doucement, un homme assis seul dans une pièce sombre près d'une fenêtre, des rues de ville pluvieuses la nuit, une personne surplombant une ville scintillante au crépuscule\"}, vieilles photographies à la main, mélange d'éclairage doux chaud et froid, faible profondeur de champ, effet de double exposition, grain de film, ambiance nostalgique, 4K, éclairage dramatique, transitions fluides, atmosphère onirique.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Un viaggio cinematografico nel tempo in cui {argument name=\"themes\" default=\"infanzia, amore, solitudine e sogni\"} si fondono in un'unica storia emozionale.\n\nMontaggio cinematografico di rievocazione della memoria, ultra-realistico, narrazione emozionale, un primo piano di {argument name=\"subject\" default=\"un uomo pensieroso\"} mescolato con scene stratificate: {argument name=\"scenery\" default=\"un bambino che corre in un campo al tramonto dorato, una coppia che ride dolcemente, un uomo seduto da solo in una stanza buia vicino a una finestra, strade cittadine piovose di notte, una persona che osserva una città illuminata al crepuscolo\"}, vecchie fotografie in mano, mix di luci calde e fredde, profondità di campo ridotta, effetto doppia esposizione, grana della pellicola, atmosfera nostalgica, 4K, illuminazione drammatica, transizioni fluide, atmosfera onirica.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma jornada cinematográfica através do tempo onde {argument name=\"themes\" default=\"infância, amor, solidão e sonhos\"} se fundem em uma única história emocionante.\n\nMontagem de reprodução de memórias cinematográficas, ultrarrealista, narrativa emocional, um close-up de {argument name=\"subject\" default=\"um homem pensativo\"} misturado com cenas em camadas: {argument name=\"scenery\" default=\"uma criança correndo por um campo ao pôr do sol dourado, um casal rindo suavemente, um homem sentado sozinho em um quarto escuro perto de uma janela, ruas chuvosas da cidade à noite, uma pessoa observando uma cidade brilhante ao anoitecer\"}, fotografias antigas nas mãos, mistura de iluminação suave quente e fria, profundidade de campo rasa, efeito de dupla exposição, granulação de filme, clima nostálgico, 4K, iluminação dramática, transições perfeitas, atmosfera onírica.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Dreamlike Double Exposure Montage",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 梦幻般的双重曝光蒙太奇",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Montaje de doble exposición onírico",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Traumhafte Doppelbelichtungs-Montage",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Montage en double exposition onirique",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Montaggio a doppia esposizione onirico",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Montagem de Dupla Exposição Onírica",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic prompt that creates an emotional, layered journey through time using double exposure and dreamlike lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个电影级的提示词，通过双重曝光和梦幻般的灯光，创造出一段穿越时空的感性旅程。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt cinématographique qui crée un voyage émotionnel et stratifié à travers le temps en utilisant la double exposition et un éclairage onirique.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/YaZoraiz/status/2051236657869848982",
+      "originalId": "https://x.com/YaZoraiz/status/2051236657869848982",
+      "authors": [
+        {
+          "name": "Zoraiz Ai",
+          "url": "https://x.com/YaZoraiz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3803
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_50239f20a7c02d4d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971035117_ipv1hy_HHd03EOa0AAUlkF.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971035117_ipv1hy_HHd03EOa0AAUlkF.jpg",
+      "localPath": "public/assets/prompt_419d8f7ad85ed6a28427/75196dab4cc1.jpg",
+      "alt": "Comic / Storyboard - Dreamlike Double Exposure Montage - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.851Z"
+  }
+}

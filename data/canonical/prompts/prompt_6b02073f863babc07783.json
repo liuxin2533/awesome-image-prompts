@@ -1,0 +1,95 @@
+{
+  "id": "prompt_6b02073f863babc07783",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A side-by-side comparison graphic on a black background demonstrating a camera-angle change in the same restaurant scene. At the top, large white sans-serif text reads: \"Show me the POV from someone standing behind the bar looking out over this crowded restaurant. Change NOTHING in the scene other than the pov\". Below, place 2 stacked rectangular photos centered vertically: the top image labeled \"Source\" in large white text on the left, and the bottom image labeled \"Output\" in large white text on the left. The top photo shows a warmly lit, upscale, crowded restaurant interior seen from the dining room side, facing a tall back bar filled with many illuminated liquor bottles on wall-to-wall shelves, with bartenders and guests in front, amber lighting, globe pendant lights, wood ceiling, beige columns, and tightly packed seated diners in the foreground. The bottom photo shows the exact same restaurant, same crowd density, same warm lighting, same decor, same bar shelving, same globe pendant lights, and same overall composition elements, but now from the point of view of someone standing behind the bar and looking outward across the crowded restaurant; the foreground includes the bar counter with glassware, metal bar tools, bottles, and a point-of-sale screen visible at the lower left, while guests and staff fill the middle ground and the dining room extends into the background. Preserve the sense that only the camera position changed between the 2 images, with no other scene alterations.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Restaurant POV Change Comparison",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/chesnyfcb/status/2047714457774637213",
+      "originalId": "case-70",
+      "authors": [
+        {
+          "name": "chesnyfcb",
+          "url": "https://x.com/chesnyfcb"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 620
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6c48bff6ade0ebdd",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case70/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case70/output.jpg",
+      "localPath": "public/assets/prompt_6b02073f863babc07783/75275e9bcb3e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "youtube",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.556Z"
+  }
+}

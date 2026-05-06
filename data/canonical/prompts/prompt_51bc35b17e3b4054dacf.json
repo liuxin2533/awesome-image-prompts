@@ -1,0 +1,109 @@
+{
+  "id": "prompt_51bc35b17e3b4054dacf",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"5-panel collage\",\r\n  \"layout\": \"grid with 3 top panels and 2 bottom panels\",\r\n  \"panels\": [\r\n    {\r\n      \"position\": \"top-left\",\r\n      \"subject\": \"analog clock\",\r\n      \"details\": \"teal background, time showing {argument name=\\\"clock time\\\" default=\\\"7:42\\\"}\",\r\n      \"style\": \"flat vector illustration\"\r\n    },\r\n    {\r\n      \"position\": \"top-middle\",\r\n      \"subject\": \"woman holding playing cards\",\r\n      \"details\": \"holding 5 cards: {argument name=\\\"card hand\\\" default=\\\"Ace of Spades, King of Hearts, Queen of Clubs, Jack of Diamonds, 10 of Spades\\\"}\",\r\n      \"style\": \"classic oil painting portrait\"\r\n    },\r\n    {\r\n      \"position\": \"top-right\",\r\n      \"subject\": \"glass of red liquid\",\r\n      \"details\": \"{argument name=\\\"glass type\\\" default=\\\"wine glass\\\"} filled to the brim with dark red liquid, marble surface\",\r\n      \"style\": \"photorealistic studio photography\"\r\n    },\r\n    {\r\n      \"position\": \"bottom-left\",\r\n      \"subject\": \"chessboard\",\r\n      \"details\": \"wooden board with 32 pieces in standard starting position\",\r\n      \"style\": \"photorealistic high-angle shot\"\r\n    },\r\n    {\r\n      \"position\": \"bottom-right\",\r\n      \"subject\": \"two dice\",\r\n      \"details\": \"left die shows {argument name=\\\"left die top\\\" default=\\\"5\\\"} on top, right die shows {argument name=\\\"right die top\\\" default=\\\"2\\\"} on top\",\r\n      \"style\": \"pop art comic book halftone with red and blue burst\"\r\n    }\r\n  ]\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"5-panel collage\",\n  \"layout\": \"grid with 3 top panels and 2 bottom panels\",\n  \"panels\": [\n    {\n      \"position\": \"top-left\",\n      \"subject\": \"analog clock\",\n      \"details\": \"teal background, time showing {argument name=\\\"clock time\\\" default=\\\"7:42\\\"}\",\n      \"style\": \"flat vector illustration\"\n    },\n    {\n      \"position\": \"top-middle\",\n      \"subject\": \"woman holding playing cards\",\n      \"details\": \"holding 5 cards: {argument name=\\\"card hand\\\" default=\\\"Ace of Spades, King of Hearts, Queen of Clubs, Jack of Diamonds, 10 of Spades\\\"}\",\n      \"style\": \"classic oil painting portrait\"\n    },\n    {\n      \"position\": \"top-right\",\n      \"subject\": \"glass of red liquid\",\n      \"details\": \"{argument name=\\\"glass type\\\" default=\\\"wine glass\\\"} filled to the brim with dark red liquid, marble surface\",\n      \"style\": \"photorealistic studio photography\"\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"subject\": \"chessboard\",\n      \"details\": \"wooden board with 32 pieces in standard starting position\",\n      \"style\": \"photorealistic high-angle shot\"\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"subject\": \"two dice\",\n      \"details\": \"left die shows {argument name=\\\"left die top\\\" default=\\\"5\\\"} on top, right die shows {argument name=\\\"right die top\\\" default=\\\"2\\\"} on top\",\n      \"style\": \"pop art comic book halftone with red and blue burst\"\n    }\n  ]\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:15:21.514Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "漫画分镜叙事设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Comic Storyboard Narrative Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:15:24.809Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_7fd0556ab4",
+      "value": "漫画分镜叙事设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-60",
+      "originalId": "case-60",
+      "authors": [
+        {
+          "name": "Gc_qube",
+          "url": "https://x.com/Gc_qube"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1572
+        }
+      ],
+      "rawSource": "[@Gc\\_qube](https://x.com/Gc_qube)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d4013de58d2ab952",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case60.jpg",
+      "upstreamPath": "../data/images/case60.jpg",
+      "localPath": "public/assets/prompt_51bc35b17e3b4054dacf/7eeb0707df6f.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "分镜"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

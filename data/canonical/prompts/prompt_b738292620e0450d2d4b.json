@@ -1,0 +1,93 @@
+{
+  "id": "prompt_b738292620e0450d2d4b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A highly realistic low-angle shot of a confident young woman with long, vibrant red hair, holding a watermelon juice can close to the camera in a dramatic perspective. The can appears large in the foreground due to forced perspective, with sharp focus on the product. The woman has fair skin, natural makeup, and a subtle confident expression, looking slightly down toward the camera.\n\nShe is wearing a fitted blue sleeveless crop top and light gray sweatpants. Her posture is relaxed yet bold, with one arm extended forward holding the can.\n\nThe background is a smooth, colorful gradient blending blue, orange, and red tones, creating a vibrant summer aesthetic. Bright natural sunlight illuminates the scene with soft shadows and high contrast, giving a clean commercial photography look.\n\nThe juice can design features a watermelon theme with red and green colors, minimal modern typography, and realistic texture details like condensation droplets.\n\nUltra-detailed, photorealistic, 8K resolution, sharp focus, shallow depth of field, professional product photography, vibrant colors, cinematic lighting.\n\nAdd text: \"Your name\" in small clean white font at the upper right corner.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Photography Juice Ad",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Jawad_Rahman_/status/2051671878608228630",
+      "originalId": "case-194",
+      "authors": [
+        {
+          "name": "Jawad_Rahman_",
+          "url": "https://x.com/Jawad_Rahman_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 2162
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_329880f61079c715",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case194/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case194/output.jpg",
+      "localPath": "public/assets/prompt_b738292620e0450d2d4b/af072e8babad.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

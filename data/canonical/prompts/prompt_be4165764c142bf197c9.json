@@ -1,0 +1,93 @@
+{
+  "id": "prompt_be4165764c142bf197c9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic, high-fashion portrait of a confident stylish woman wearing an elegant tailored white suit with a high-neck design and sleek oval sunglasses. She is holding a thin medium cigar with soft smoke rising, and a slightly burning King of Hearts playing card with minimal flame detail. Soft wisps of smoke drift upward. The background is a bold, vibrant solid red seamless backdrop. High-key professional studio lighting with soft shadows and gentle warm highlights reflecting on her face. Ultra-realistic skin texture, sharp focus on facial features, shallow depth of field, soft bokeh, 35mm lens look. Crisp contrast, modern editorial fashion photography, clean luxury aesthetic, refined, powerful, and slightly rebellious mood.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "White Suit Red Backdrop Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/iamsofiaijaz/status/2051153792725667873",
+      "originalId": "case-113",
+      "authors": [
+        {
+          "name": "iamsofiaijaz",
+          "url": "https://x.com/iamsofiaijaz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 879
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_adb1267215f679d5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case113/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case113/output.jpg",
+      "localPath": "public/assets/prompt_be4165764c142bf197c9/fb6f73d2ef5e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.600Z"
+  }
+}

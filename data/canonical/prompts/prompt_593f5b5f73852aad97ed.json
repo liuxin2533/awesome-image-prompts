@@ -1,0 +1,110 @@
+{
+  "id": "prompt_593f5b5f73852aad97ed",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-style scramble crossing on a bright clear day, viewed at street level with a wide cinematic composition. The city blends modern realism with mythic fantasy: dense high-rise buildings covered in giant billboards, a red broadcast tower in the middle distance, blue sky with fluffy clouds, and a crowded crosswalk full of pedestrians. In the foreground, show 7 prominent character figures: a silver-haired elf woman in a flowing white dress holding an iced drink and tote bag on the far left; a central schoolgirl with long dark hair, black animal ears, a navy school blazer, plaid skirt, blue ribbon, and large navy shoulder bag, lifting one hand to her head; a young man in a dark suit looking down at a smartphone; an androgynous white-haired angelic figure in an elegant white-and-gold ceremonial outfit with large white wings; a small blonde girl in an ornate pastel pink frilled dress beside the angel; a dark-haired woman in a black coat in right foreground profile; and a small blue-haired cat-eared child in a blue dress with a bow standing near a cave entrance on the right. In the midground crowd, include mixed humans and fantasy races walking together naturally. Add 4 clearly visible nonhuman or supernatural background beings: 1 dragon flying in the sky, 1 winged female angel descending above the street, 1 lizard-headed businessman in a suit near the angelic figure, and 1 tall red-skinned horned demon with crossed arms standing by the hillside path. On the right side, transition the city into a lush shrine hillside with large green trees, a red torii gate, stone steps, and a wooden signboard reading Japanese kanji. Below it, place a rocky cave-like tunnel entrance glowing blue, with a wooden sign over the entrance and several figures descending into an underground shared district lit by crystals. Show 6 major billboard/sign elements across the cityscape: a huge left billboard reading \"Shinpi Sekai 神秘世界\" with a cosmic planet image; a large central political poster with Japanese text and a raised fist icon; 2 rooftop signs reading \"未来研究所\" on separate buildings; a large right billboard with Japanese text about coexistence and silhouettes of different beings; and 1 vertical banner with Japanese text on a nearby building. Emphasize the theme of coexistence between ordinary modern city life and hidden fantasy societies. Crisp anime linework, polished light novel key visual rendering, rich textures, soft sunlight, subtle atmospheric perspective, vibrant but believable colors, intricate clothing details, and a sense of awe, everyday bustle, and worldbuilding depth.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高度详细的动漫风格都市奇幻插画，设置在一个繁忙的东京风格十字路口，天气晴朗明亮，以街道水平视角呈现，采用宽银幕构图。城市融合了现代现实主义与神话奇幻：密集的高楼大厦覆盖着巨大的广告牌，远处有一座红色广播塔，蓝天上飘着蓬松的云朵，拥挤的人行道上满是行人。前景中展示7个主要人物形象：最左边是一位银发精灵女子，穿着飘逸的白色连衣裙，手持冰饮和手提袋；中央是一位留有深色长发的女学生，有着黑色动物耳朵、海军蓝校服、格子裙、蓝色丝带和大型海军蓝肩包，一只手抬到头上；一位穿深色西装的年轻男子低头看着智能手机；一个雌雄同体的白发天使形象，穿着优雅的白金色仪式服装，配有巨大的白色翅膀；天使旁边是一位穿着精致粉红色褶边连衣裙的金发小女孩；右前景是一位侧面的黑发女子，穿着黑色外套；以及一个蓝色头发、猫耳、穿蓝色连衣裙配蝴蝶结的小孩子，站在右侧的洞穴入口处。在中景人群中，自然地混合着人类和奇幻种族。添加4个清晰可见的非人类或超自然背景生物：1只在天空飞行的龙，1只在街道上空下降的有翅膀的女性天使，1只在天使形象附近的蜥蜴头商人穿着西装，以及1个站在山坡小径旁的高个子红色皮肤长角恶魔，双臂交叉。右侧，城市过渡到一个郁郁葱葱的神社山坡，有高大的绿树、红色鸟居、石阶和一块写着日文汉字的木制招牌。下方，放置一个发着蓝光的岩石状洞穴入口，入口上方有木制招牌，几个人正进入一个由水晶照亮的地下共享区域。在城市景观中展示6个主要的广告牌/标志元素：左侧巨大的广告牌上写着\"Shinpi Sekai 神秘世界\"，配有宇宙行星图像；中央大型政治海报上有日文文本和举起的拳头图标；两栋不同建筑上的屋顶标志写着\"未来研究所\"；右侧大型广告牌上有关于共存的不同生物剪影和日文文本；以及附近建筑上的垂直横幅，上面有日文文本。强调普通现代城市生活与隐藏的奇幻社会共存的主题。清晰的动漫线条，精炼的轻小说关键视觉渲染，丰富的纹理，柔和的阳光，微妙的大气透视，生动而可信的色彩，复杂的服装细节，以及一种敬畏、日常繁忙和世界观深度的感觉。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:18:39.201Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Urban Fantasy Coexistence Crossing",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "都市奇幻共存穿越",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:18:42.238Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Ray_CROWN0/status/2048024227664494775",
+      "originalId": "case-142",
+      "authors": [
+        {
+          "name": "Ray_CROWN0",
+          "url": "https://x.com/Ray_CROWN0"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1517
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1489fb3084d934fb",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case142/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case142/output.jpg",
+      "localPath": "public/assets/prompt_593f5b5f73852aad97ed/11ae502ad3b5.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.555Z"
+  }
+}

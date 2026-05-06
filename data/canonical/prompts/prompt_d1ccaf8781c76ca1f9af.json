@@ -1,0 +1,101 @@
+{
+  "id": "prompt_d1ccaf8781c76ca1f9af",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dramatic anime concert illustration seen from behind the performers onstage, showing 4 teenage girls standing shoulder to shoulder at the front of a huge indoor arena, arms around each other in a triumphant post-performance moment. The camera is positioned slightly behind and below them, facing out toward the audience and the giant venue screen. The atmosphere is dazzling and emotional, filled with dense blue-and-gold confetti, sparkling particles, and strong white stage spotlights pouring down from above. The crowd fills the entire arena as a sea of tiny glowing blue lights. At center top, a giant rectangular screen displays elegant serif concert text: {argument name=\"band name\" default=\"ELEMAYU\"}, \"1st LIVE at 日本武道館\", {argument name=\"concert date\" default=\"2024.6.15\"}, and \"SOLD OUT\". On both upper side walls of the arena, the large venue name \"日本武道館\" is visible. The 4 girls all wear matching dark stage outfits: black or very dark navy hooded jackets with subtle decorative back prints, short pleated skirts, and live-performance styling. Count and depict all 4 members distinctly from left to right: 1) a girl with short wavy silver-lavender hair holding a bass guitar slung over her shoulder, 2) a girl with long straight black hair holding a red electric guitar, 3) a girl with fluffy shoulder-length blonde hair holding a dark guitar, 4) a girl with brown hair in a high ponytail, no visible instrument, raising one arm high and holding a drumstick or baton in celebration while the other arm wraps around the blonde member. Show their backs and silhouettes rim-lit by stage light, with soft highlights on their hair. Include stage equipment: a microphone stand and part of a bass neck at the far left, and a visible drum kit with cymbals at the right edge. The stage floor is glossy and reflective, covered with scattered confetti and several blue flower bouquets near the bottom foreground. Use rich midnight blues, violet shadows, warm golden sparkles, and cinematic bloom. The mood should feel like a sold-out dream performance finale, sentimental, victorious, and breathtakingly luminous, in highly detailed painterly anime style.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "从表演者身后看到的戏剧性动漫音乐会插图，展示4位少女在巨大室内舞台前排肩并肩站立，表演结束后以胜利的姿态互相搭着肩膀。相机位置略低于她们身后，朝向观众和巨大的场馆屏幕。氛围令人眼花缭乱且充满情感，充满了密集的蓝金色彩纸屑、闪烁的粒子，以及从上方倾泻而下的强烈白色舞台聚光灯。人群填满了整个场馆，如同一片微小的蓝色发光灯光之海。顶部中央，一个巨大的矩形屏幕显示着优雅的衬线音乐会文字：{argument name=\"band name\" default=\"ELEMAYU\"}, \"1st LIVE at 日本武道館\", {argument name=\"concert date\" default=\"2024.6.15\"}, 和 \"SOLD OUT\"。在场馆的两侧上墙，可见大型场馆名称\"日本武道館\"。4位少女都穿着相同的深色舞台服装：黑色或非常深蓝色的连帽夹克，带有精致的后背装饰图案，短褶裙，以及现场表演风格的造型。从左到右分别描绘所有4位成员：1) 一位短波浪银薰衣草色头发的女孩，背着低音吉他；2) 一位长直黑发女孩，拿着红色电吉他；3) 一位蓬松肩长金发女孩，拿着深色吉他；4) 一位高马尾棕色头发女孩，没有可见乐器，高举一只手臂庆祝，手持鼓棒或指挥棒，另一只手臂环绕着金发成员。展示她们的背部和剪影，被舞台灯光勾勒轮廓，头发上有柔和的高光。包括舞台设备：最左侧有一个麦克风支架和部分低音琴颈，右边缘可见一套带有钹的架子鼓。舞台地板光滑且有反射性，散落着彩纸屑，底部前景处有几束蓝色花束。使用丰富的午夜蓝、紫色阴影、温暖的金色闪烁和电影般的辉光。氛围应感觉像是售罄的梦幻表演终章，感性、胜利、令人惊叹地明亮，采用高度详细的绘画式动漫风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:31:35.375Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime Band Finale at Budokan",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SDAI1807097011/status/2048127178592915583",
+      "originalId": "case-107",
+      "authors": [
+        {
+          "name": "SDAI1807097011",
+          "url": "https://x.com/SDAI1807097011"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 649
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9d0bd601f2c405e9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg",
+      "localPath": "public/assets/prompt_d1ccaf8781c76ca1f9af/b558dc9dc3c5.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.560Z"
+  }
+}

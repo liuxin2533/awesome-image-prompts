@@ -1,0 +1,109 @@
+{
+  "id": "prompt_dcd5fec21d71c6c2dadf",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"biomimetic aerospace concept poster\",\"subject\":{\"vehicle\":\"futuristic aircraft concept\",\"name\":\"{argument name=\\\"vehicle name\\\" default=\\\"SKYRAY\\\"}\",\"inspiration\":\"{argument name=\\\"animal inspiration\\\" default=\\\"stingray\\\"}\",\"design\":\"blended-wing-body aircraft shaped like a manta ray or stingray, wide triangular planform, smooth organic curves, sharp pointed nose, slightly raised central spine, tapered wing tips curling subtly upward, dark graphite-black metallic skin with fine panel lines and faint blue illuminated accents along edges and seams\"},\"style\":{\"mood\":\"premium futuristic industrial design presentation\",\"rendering\":\"hyper-detailed cinematic 3D concept art mixed with blueprint visualization\",\"color_palette\":\"black, charcoal, gunmetal, silver, deep ocean blue, electric cyan highlights\",\"lighting\":\"low-key dramatic studio lighting with glossy reflections, cool rim light, subtle underwater ambience in the top inspiration strip\"},\"layout\":{\"background\":\"full black poster with faint technical grid lines and soft vignetting\",\"sections\":[{\"title\":\"header\",\"position\":\"top\",\"count\":3,\"labels\":[\"emblem mark\",\"SKYRAY\",\"INSPIRED BY THE SEA. ENGINEERED FOR THE SKY.\"]},{\"title\":\"evolution strip\",\"position\":\"upper middle\",\"count\":5,\"labels\":[\"realistic stingray underwater at far left\",\"top-view biological stingray study\",\"abstract aerodynamic line sketch\",\"faceted aircraft blueprint transition drawing\",\"final sleek aircraft concept at far right\"]},{\"title\":\"hero render\",\"position\":\"center\",\"count\":1,\"labels\":[\"large three-quarter view of the aircraft\"]},{\"title\":\"technical views grid\",\"position\":\"lower middle\",\"count\":6,\"labels\":[\"TOP\",\"SIDE\",\"FRONT\",\"REAR\",\"UNDERSIDE\",\"DETAIL\"]},{\"title\":\"footer text\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"{argument name=\\\"body text\\\" default=\\\"A biomimetic high-speed aircraft concept shaped by the hydrodynamic elegance of the stingray. Its blended wing body, low-drag silhouette, and fluid control surfaces translate ocean-born efficiency into atmospheric performance.\\\"}\"]}],\"technical views\":{\"TOP\":\"top orthographic view with measurement ticks\",\"SIDE\":\"thin side profile with long smooth belly curve\",\"FRONT\":\"front orthographic view emphasizing broad wingspan and central cockpit hump\",\"REAR\":\"rear orthographic view showing narrow tail end and wing sweep\",\"UNDERSIDE\":\"underside three-quarter view\",\"DETAIL\":\"close-up crop of metallic skin, seam lines, and glowing blue edge strip\"}},\"graphics\":{\"logo\":\"minimal four-point symmetrical emblem above title, resembling a stylized ray silhouette\",\"arrows\":\"4 thin cyan arrows connecting the 5 stages in the evolution strip\",\"typography\":\"widely spaced modern sans-serif uppercase text, clean luxury-tech branding\"},\"camera\":{\"hero render\":\"slightly elevated front-left three-quarter angle\",\"technical views\":\"orthographic\",\"inspiration image\":\"underwater side angle with light rays from above\"},\"quality\":\"ultra-clean, polished, high contrast, sharp, poster-ready, concept design board for aerospace branding or speculative industrial design\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n\"type\":\"仿生航空航天概念海报\",\n\"subject\":{\n\"vehicle\":\"未来飞机概念\",\n\"name\":\"{argument name=\\\"vehicle name\\\" default=\\\"SKYRAY\\\"}\",\n\"inspiration\":\"{argument name=\\\"animal inspiration\\\" default=\\\"stingray\\\"}\",\n\"design\":\"融合机翼机身飞机，形如鳐鱼或蝠鲼，宽三角形平面布局，流畅的有机曲线，尖锐的锥形机头，略微抬升的中心脊线，逐渐收窄的翼尖微妙向上弯曲，深石墨黑金属皮肤，带有精细的接缝线和边缘处微弱的蓝色发光装饰\"},\n\"style\":{\n\"mood\":\"高端未来工业设计展示\",\n\"rendering\":\"超精细电影级3D概念艺术与蓝图可视化相结合\",\n\"color_palette\":\"黑色，炭灰，枪金属色，银色，深海蓝，电青色高光\",\n\"lighting\":\"低调戏剧性影棚灯光，带光泽反射，冷色轮廓光，顶部灵感区域有微妙的水下氛围\"},\n\"layout\":{\n\"background\":\"全黑海报，带有微弱的技术网格线和柔和的暗角效果\",\n\"sections\":[\n{\"title\":\"header\",\"position\":\"top\",\"count\":3,\"labels\":[\"标志\",\"SKYRAY\",\"灵感源于海洋，工程专为天空。\"]},\n{\"title\":\"evolution strip\",\"position\":\"upper middle\",\"count\":5,\"labels\":[\"左侧远处的真实水下鳐鱼\",\"顶部视角的鳐鱼生物学研究\",\"抽象空气动力学线条草图\",\"多面飞机蓝图过渡图\",\"右侧远处的最终流线型飞机概念\"]},\n{\"title\":\"hero render\",\"position\":\"center\",\"count\":1,\"labels\":[\"飞机的大幅四分之三视角图\"]},\n{\"title\":\"technical views grid\",\"position\":\"lower middle\",\"count\":6,\"labels\":[\"顶部\",\"侧面\",\"正面\",\"背面\",\"底部\",\"细节\"]},\n{\"title\":\"footer text\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"{argument name=\\\"body text\\\" default=\\\"受鳐鱼流体动力学优雅启发的仿生高速飞机概念。其融合机翼机身、低阻力轮廓和流畅的控制表面将海洋中诞生的效率转化为大气层性能。\\\"}\"]}\n],\n\"technical views\":{\n\"TOP\":\"带测量刻度的正交顶部视图\",\n\"SIDE\":\"带有长而流畅的腹部曲线的薄侧面轮廓\",\n\"FRONT\":\"强调宽阔翼展和中央驾驶舱隆起的正交前视图\",\n\"REAR\":\"显示窄尾翼和机翼后掠的正交后视图\",\n\"UNDERSIDE\":\"底部四分之三视角\",\n\"DETAIL\":\"金属皮肤、接缝线和发光蓝色边缘条的特写\"}},\n\"graphics\":{\n\"logo\":\"标题上方简约的四点对称标志，类似风格化的鳐鱼轮廓\",\n\"arrows\":\"4条细青色箭头连接进化条中的5个阶段\",\n\"typography\":\"宽间距的现代无衬线大写字母文本，简洁的豪华科技品牌风格\"},\n\"camera\":{\n\"hero render\":\"略微抬升的前左四分之三角度\",\n\"technical views\":\"正交视图\",\n\"inspiration image\":\"带有上方光线的侧面水下角度\"},\n\"quality\":\"超洁净，精致，高对比度，锐利，海报就绪，航空航天品牌或推测性工业设计的概念设计板\"}\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:32:39.498Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Biomimetic Skyray Aircraft Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "仿生天光飞机海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:32:42.156Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/_simonsmith/status/2048172203946996041",
+      "originalId": "case-119",
+      "authors": [
+        {
+          "name": "_simonsmith",
+          "url": "https://x.com/_simonsmith"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1197
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a5ccde8c7702a520",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case119/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case119/output.jpg",
+      "localPath": "public/assets/prompt_dcd5fec21d71c6c2dadf/91565e74c51c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "品牌",
+      "标志"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.561Z"
+  }
+}

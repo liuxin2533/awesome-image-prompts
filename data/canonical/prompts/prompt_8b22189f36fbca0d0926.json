@@ -1,0 +1,110 @@
+{
+  "id": "prompt_8b22189f36fbca0d0926",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a Science fiction movie poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个科幻电影海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:49.997Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Science Fiction Movie Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "科幻电影海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:51.945Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/underwoodxie96/status/2046514205529088501",
+      "originalId": "case-45",
+      "authors": [
+        {
+          "name": "underwoodxie96",
+          "url": "https://x.com/underwoodxie96"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 353
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ce49035fed9ff5da",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg",
+      "localPath": "public/assets/prompt_8b22189f36fbca0d0926/2c9de1860b8a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "movie poster",
+      "海报",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

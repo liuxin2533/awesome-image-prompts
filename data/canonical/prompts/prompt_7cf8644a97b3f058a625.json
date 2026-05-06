@@ -1,0 +1,93 @@
+{
+  "id": "prompt_7cf8644a97b3f058a625",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"skincare e-commerce landing page mockup\",\r\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"DERMA CALM\\\"}\",\r\n  \"color_palette\": [\"white\", \"light blue\", \"{argument name=\\\"primary color\\\" default=\\\"dark blue\\\"}\"],\r\n  \"layout\": {\r\n    \"header\": {\r\n      \"logo\": \"left-aligned brand name with Japanese subtext\",\r\n      \"navigation_links\": {\r\n        \"count\": 6,\r\n        \"labels\": [\"ABOUT\", \"PRODUCT\", \"FEATURE\", \"INGREDIENT\", \"VOICE\", \"Q&A\"]\r\n      },\r\n      \"buttons\": {\r\n        \"count\": 2,\r\n        \"labels\": [\"マイページ\", \"今すぐ購入する\"]\r\n      }\r\n    },\r\n    \"hero_section\": {\r\n      \"left_column\": {\r\n        \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"敏感な肌にも、毎日つづけられる安心ケア。\\\"}\",\r\n        \"subtext\": \"paragraph detailing low irritation, moisturizing, fragrance-free, and alcohol-free benefits\",\r\n        \"buttons\": {\r\n          \"count\": 2,\r\n          \"labels\": [\"今すぐ購入する\", \"詳しく見る\"]\r\n        }\r\n      },\r\n      \"center_column\": {\r\n        \"product\": \"white pump bottle with clear cap labeled {argument name=\\\"product type\\\" default=\\\"Moisture Barrier Serum\\\"}\",\r\n        \"props\": [\"dollop of white cream\", \"circular badge reading 皮膚科医監修\"]\r\n      },\r\n      \"right_column\": {\r\n        \"subject\": \"{argument name=\\\"model description\\\" default=\\\"young East Asian woman with clear glowing skin touching her cheek\\\"}\",\r\n        \"background\": \"blurred laboratory glassware in a bright, clean clinical setting\"\r\n      }\r\n    },\r\n    \"bottom_features_panel\": {\r\n      \"left_cards\": {\r\n        \"count\": 3,\r\n        \"descriptions\": [\"95% satisfaction with 5 stars\", \"shield icon for low irritation formula\", \"drop icon for skin barrier support\"]\r\n      },\r\n      \"right_badges\": {\r\n        \"count\": 3,\r\n        \"descriptions\": [\"no fragrance icon\", \"no alcohol icon\", \"patch tested icon\"]\r\n      },\r\n      \"footer\": \"fine print disclaimers at the bottom\"\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-134",
+      "originalId": "case-134",
+      "authors": [
+        {
+          "name": "ryuya__31",
+          "url": "https://x.com/ryuya__31"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5367
+        }
+      ],
+      "rawSource": "[@ryuya\\_\\_31](https://x.com/ryuya__31)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1aeccc08330da269",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case134.jpg",
+      "upstreamPath": "../data/images/case134.jpg",
+      "localPath": "public/assets/prompt_7cf8644a97b3f058a625/2029be843102.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "product",
+      "e-commerce"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

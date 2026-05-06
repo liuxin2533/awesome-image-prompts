@@ -1,0 +1,98 @@
+{
+  "id": "prompt_8f33346cb5bbdc45ab3d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "(被写体) in the style of super bad child drawing, toddler art, scribbles, messy crayon lines on white background, completely lack of technique, terrible composition, chaotic colors, barely recognizable shapes, very raw, honest art, pure naivety, unrefined style, 4:3\nNegative:\ngood drawing, nice lines, clear shapes, neat, pretty, smooth, realistic, talented art, coherent composition, artistic style, professional, skilled, masterpiece, beautiful, detailed",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "(被写体) 以超级糟糕的儿童绘画风格，幼儿艺术，涂鸦，白色背景上凌乱的蜡笔线条，完全缺乏技巧，糟糕的构图，混乱的色彩，几乎无法辨认的形状，非常原始，诚实的艺术，纯粹的幼稚，未精炼的风格，4:3\nNegative:\n好的绘画，漂亮的线条，清晰的形状，整洁，漂亮，平滑，逼真，有才华的艺术，连贯的构图，艺术风格，专业的，熟练的，杰作，美丽，详细",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:47.247Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Toddler Crayon Scribble Art Style Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait",
+      "value": "portrait",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/akakageAI/status/2047812983389356276",
+      "originalId": "case-31",
+      "authors": [
+        {
+          "name": "akakageAI",
+          "url": "https://x.com/akakageAI"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 435
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6dbd793c7a0bc02c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case31/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case31/output.jpg",
+      "localPath": "public/assets/prompt_8f33346cb5bbdc45ab3d/c6ef79cf9ff2.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "portrait"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

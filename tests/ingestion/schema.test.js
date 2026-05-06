@@ -84,3 +84,18 @@ test('validateDataset detects duplicate stable ids', () => {
   assert.equal(issues.length, 1);
   assert.equal(issues[0].code, 'duplicate_prompt_id');
 });
+
+test('validateDataset reports an unhydrated canonical manifest as one actionable issue', () => {
+  const issues = validateDataset({
+    schemaVersion: '2026-05-04',
+    prompts: [
+      { id: 'prompt_aaaaaaaaaaaaaaaaaaaa', file: 'prompts/prompt_aaaaaaaaaaaaaaaaaaaa.json' },
+      { id: 'prompt_bbbbbbbbbbbbbbbbbbbb', file: 'prompts/prompt_bbbbbbbbbbbbbbbbbbbb.json' }
+    ]
+  });
+
+  assert.equal(issues.length, 1);
+  assert.equal(issues[0].code, 'canonical_manifest_not_hydrated');
+  assert.equal(issues[0].severity, 'error');
+  assert.match(issues[0].message, /manifest/);
+});

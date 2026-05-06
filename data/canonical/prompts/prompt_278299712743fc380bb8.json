@@ -1,0 +1,107 @@
+{
+  "id": "prompt_278299712743fc380bb8",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A dynamic anime illustration of a girl with spiky {argument name=\"hair color\" default=\"blonde\"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name=\"outfit style\" default=\"dark purple and black magical uniform with gold trim and diamond gems\"}. She is in an intense crouching superhero landing pose, one hand pressed to the ground and the other raised, casting {argument name=\"magic color\" default=\"glowing purple\"} magic circles. She is shattering through a glass barrier, with sharp, jagged glass shards flying outward toward the viewer. Through the broken frame behind her, a {argument name=\"background scene\" default=\"stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky\"} is visible. The artwork features {argument name=\"art style\" default=\"sharp angles, high contrast cel-shading, and vibrant colors\"}.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A dynamic anime illustration of a girl with spiky {argument name=\"hair color\" default=\"blonde\"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name=\"outfit style\" default=\"dark purple and black magical uniform with gold trim and diamond gems\"}. She is in an intense crouching superhero landing pose, one hand pressed to the ground and the other raised, casting {argument name=\"magic color\" default=\"glowing purple\"} magic circles. She is shattering through a glass barrier, with sharp, jagged glass shards flying outward toward the viewer. Through the broken frame behind her, a {argument name=\"background scene\" default=\"stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky\"} is visible. The artwork features {argument name=\"art style\" default=\"sharp angles, high contrast cel-shading, and vibrant colors\"}.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:02:47.425Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "建筑空间场景图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Architectural space scene image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:02:50.419Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5b3affe95c",
+      "value": "建筑空间场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-120",
+      "originalId": "case-120",
+      "authors": [
+        {
+          "name": "UNIBRACITY",
+          "url": "https://x.com/UNIBRACITY"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4594
+        }
+      ],
+      "rawSource": "[@UNIBRACITY](https://x.com/UNIBRACITY)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4519d6c7423b4a3f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case120.jpg",
+      "upstreamPath": "../data/images/case120.jpg",
+      "localPath": "public/assets/prompt_278299712743fc380bb8/7f2fbd195ded.jpg",
+      "alt": "hair color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

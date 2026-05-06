@@ -1,0 +1,92 @@
+{
+  "id": "prompt_63bc5230104bffb9b116",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "一、品牌基础设定\n品牌名称：[请填写，例如：PRIME STEAK / OCEAN PRIME]\n品牌标语：[请填写，例如：Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered]\n主色调：[请填写，例如：黑金 / 深红+金 / 深蓝+银]\n字体风格：\n标题：[请填写，例如：金色衬线体，大写，奢华感]\n正文：[请填写，例如：细衬线体/无衬线体]\n二、核心视觉元素\n台面材质：[请填写，例如：大理石/黑色石板]\n背景调性：[请填写，例如：深色渐变/暗调餐厅环境]\n光线风格：[请填写，例如：聚光/侧光/顶部照明]\n三、主产品定义（必填）\n产品名称/类型：[请填写，例如：和牛牛排 / 帝王蟹 / 北极甜虾]\n产品数量/摆放：[请填写，例如：1份单品 / 3块整齐摆放]\n呈现方式：[请填写，例如：切片展示 / 带骨展示 / 原壳展示]\n产品特色/质感提示：[请填写，例如：肉质纹理清晰、多汁感 / 光泽晶亮 / 肉眼可见油花]",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "高端肉类海鲜品牌英雄图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_64e34a19d5",
+      "value": "高端肉类海鲜品牌英雄图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-373",
+      "originalId": "case-373",
+      "authors": [
+        {
+          "name": "xpg0970",
+          "url": "https://x.com/xpg0970/status/2050108279385419965"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6802
+        }
+      ],
+      "rawSource": "[@xpg0970](https://x.com/xpg0970/status/2050108279385419965)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b0b05f581e79c386",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case373.jpg",
+      "upstreamPath": "../data/images/case373.jpg",
+      "localPath": "public/assets/prompt_63bc5230104bffb9b116/ddb56d668305.jpg",
+      "alt": "高端肉类海鲜品牌英雄图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "产品"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.914Z"
+  }
+}

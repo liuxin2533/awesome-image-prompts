@@ -1,0 +1,178 @@
+{
+  "id": "prompt_457fde0e1d7410ac8852",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"stylized social media profile page illustration\",\"overall_style\":\"Vagabond-inspired monochrome sumi-e ink sketch on aged parchment paper, rough brush calligraphy, black ink splatters, red accent strokes, hand-drawn UI outlines, gritty samurai manga atmosphere\",\"theme\":\"wandering samurai discipline and truth\",\"palette\":\"warm beige parchment background, black charcoal ink, muted gray washes, deep crimson red accents\",\"text_treatment\":\"all interface text appears hand-lettered in expressive brush or casual handwritten script\",\"profile\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"PARAM\\\"}\",\"handle\":\"{argument name=\\\"profile handle\\\" default=\\\"@Your_PARAM\\\"}\",\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"3rd ug\\\"}\",\"link\":\"https://github.com/paramcodes\",\"joined\":\"Joined June 2023\",\"stats\":{\"count\":2,\"items\":[\"436 Following\",\"122 Followers\"]}},\"header\":{\"position\":\"top\",\"large_word\":\"{argument name=\\\"main title\\\" default=\\\"PARAM\\\"}\",\"lettering\":\"huge jagged black brush letters across the top, with the A painted as a red slash-like character\",\"decorations\":{\"count\":4,\"items\":[\"black ink splatters around the title\",\"two small flying black birds near the title\",\"vertical Japanese text on the upper right reading 歩みを止めるな\",\"small red square seal stamp beside the vertical text\"]}},\"banner\":{\"position\":\"upper middle\",\"shape\":\"wide rounded rectangle cover image\",\"scene\":\"dark ink landscape with a lone ronin standing on a grassy hill at right, sword at his side, stormy sky and distant horizon\",\"center_text\":\"{argument name=\\\"banner word\\\" default=\\\"truth.\\\"}\",\"profile_avatar_overlap\":\"large circular avatar overlapping the lower-left of the banner, showing a messy-haired black-ink samurai portrait in profile; the face area is deliberately obscured by a soft rectangular blur\",\"button\":\"Edit profile button drawn as a rounded rectangle on the lower-right edge of the banner\"},\"main_profile_area\":{\"position\":\"middle\",\"left_column\":\"large brush-written profile name, handle, bio, GitHub icon and link, calendar icon and joined date, following and follower counts\",\"right_decoration\":\"large black Japanese calligraphy 武士道 beside a red sun disk, with ink splashes and a small flying bird\"},\"navigation_tabs\":{\"count\":4,\"labels\":[\"Posts\",\"Replies\",\"Highlights\",\"Articles\"],\"style\":\"handwritten labels with a dark underline beneath the tab row\"},\"pinned_post\":{\"position\":\"bottom\",\"container\":\"rounded rectangular tweet card with hand-drawn border and ink-wash background\",\"label\":\"Pinned with pushpin icon\",\"author_line\":\"PARAM @Your_PARAM · Jun 10\",\"quote\":\"{argument name=\\\"pinned quote\\\" default=\\\"Discipline is choosing what you want most over what you want now.\\\"}\",\"quote_style\":\"large handwritten black script with red underline emphasis under the words most and now\",\"thumbnail_avatar\":\"small circular samurai portrait at top-left of the post\",\"illustration\":\"right side shows a seated lone samurai viewed from behind beside an upright sword, with moon, clouds, brush grass, and barren tree ink strokes\",\"engagement_metrics\":{\"count\":5,\"items\":[\"reply icon 12\",\"repost icon 18\",\"red heart icon 94\",\"bar chart icon 1.2K\",\"share icon with no number\"]}},\"composition\":\"portrait 2:3 mobile screenshot layout, centered profile mockup, balanced negative space, many expressive ink splashes and brush marks, authentic Japanese martial arts mood, no photorealism\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"风格化社交媒体个人资料页面插图\",\"overall_style\":\"受《浪客行》启发的复古羊皮纸单色水墨素描，粗犷的毛笔书法，黑色墨迹飞溅，红色点缀笔触，手绘 UI 轮廓，充满颗粒感的武士漫画氛围\",\"theme\":\"流浪武士的纪律与真理\",\"palette\":\"暖米色羊皮纸背景，炭黑色墨水，柔和的灰色渲染，深绯红色点缀\",\"text_treatment\":\"所有界面文字均呈现为富有表现力的毛笔字或随性的手写体\",\"profile\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"PARAM\\\"}\",\"handle\":\"{argument name=\\\"profile handle\\\" default=\\\"@Your_PARAM\\\"}\",\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"3rd ug\\\"}\",\"link\":\"https://github.com/paramcodes\",\"joined\":\"2023 年 6 月加入\",\"stats\":{\"count\":2,\"items\":[\"436 正在关注\",\"122 位关注者\"]}},\"header\":{\"position\":\"顶部\",\"large_word\":\"{argument name=\\\"main title\\\" default=\\\"PARAM\\\"}\",\"lettering\":\"顶部巨大的锯齿状黑色毛笔字，其中 A 被画成红色斜杠状字符\",\"decorations\":{\"count\":4,\"items\":[\"标题周围的黑色墨迹飞溅\",\"标题附近两只飞翔的小鸟\",\"右上角垂直书写的日文“歩みを止めるな”\",\"垂直文字旁的小型红色方形印章\"]}},\"banner\":{\"position\":\"中上部\",\"shape\":\"宽圆角矩形封面图\",\"scene\":\"深色水墨风景，右侧山坡上站着一名孤独的浪人，腰间佩剑，暴风雨天空与远方地平线\",\"center_text\":\"{argument name=\\\"banner word\\\" default=\\\"truth.\\\"}\",\"profile_avatar_overlap\":\"大型圆形头像与横幅左下角重叠，显示乱发黑色水墨武士侧面肖像；面部区域被柔和的矩形模糊处理\",\"button\":\"横幅右下角绘制的圆角矩形“编辑个人资料”按钮\"},\"main_profile_area\":{\"position\":\"中部\",\"left_column\":\"巨大的毛笔书写个人资料名称、账号、简介、GitHub 图标和链接、日历图标及加入日期、关注与粉丝数\",\"right_decoration\":\"红色太阳圆盘旁巨大的黑色日文书法“武士道”，伴有墨迹飞溅和一只飞鸟\"},\"navigation_tabs\":{\"count\":4,\"labels\":[\"帖子\",\"回复\",\"精选\",\"文章\"],\"style\":\"手写标签，标签行下方带有深色下划线\"},\"pinned_post\":{\"position\":\"底部\",\"container\":\"带有手绘边框和水墨背景的圆角矩形推文卡片\",\"label\":\"带有图钉图标的置顶\",\"author_line\":\"PARAM @Your_PARAM · 6 月 10 日\",\"quote\":\"{argument name=\\\"pinned quote\\\" default=\\\"Discipline is choosing what you want most over what you want now.\\\"}\",\"quote_style\":\"大型手写黑色字体，在 most 和 now 词下有红色下划线强调\",\"thumbnail_avatar\":\"帖子左上角的小型圆形武士肖像\",\"illustration\":\"右侧展示一名背对观众坐着的孤独武士，身旁立着一把剑，配有月亮、云朵、毛笔草丛和枯树水墨笔触\",\"engagement_metrics\":{\"count\":5,\"items\":[\"回复图标 12\",\"转发图标 18\",\"红色心形图标 94\",\"柱状图图标 1.2K\",\"分享图标（无数字）\"]}},\"composition\":\"2:3 比例竖屏手机截图布局，居中的个人资料模型，平衡的留白，大量富有表现力的墨迹飞溅和笔触，纯正的日本武术氛围，非写实风格\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"ilustración de página de perfil de redes sociales estilizada\",\"overall_style\":\"boceto a tinta sumi-e monocromático inspirado en Vagabond sobre papel pergamino envejecido, caligrafía de pincel rugoso, salpicaduras de tinta negra, trazos de acento en rojo, contornos de interfaz dibujados a mano, atmósfera de manga samurái cruda\",\"theme\":\"disciplina y verdad del samurái errante\",\"palette\":\"fondo de pergamino beige cálido, tinta de carbón negro, lavados grisáceos tenues, acentos en rojo carmesí intenso\",\"text_treatment\":\"todo el texto de la interfaz aparece escrito a mano con pincel expresivo o caligrafía casual\",\"profile\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"PARAM\\\"}\",\"handle\":\"{argument name=\\\"profile handle\\\" default=\\\"@Your_PARAM\\\"}\",\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"3rd ug\\\"}\",\"link\":\"https://github.com/paramcodes\",\"joined\":\"Se unió en junio de 2023\",\"stats\":{\"count\":2,\"items\":[\"436 Siguiendo\",\"122 Seguidores\"]}},\"header\":{\"position\":\"parte superior\",\"large_word\":\"{argument name=\\\"main title\\\" default=\\\"PARAM\\\"}\",\"lettering\":\"letras grandes y dentadas de pincel negro en la parte superior, con la A pintada como un carácter rojo similar a un corte\",\"decorations\":{\"count\":4,\"items\":[\"salpicaduras de tinta negra alrededor del título\",\"dos pequeños pájaros negros volando cerca del título\",\"texto japonés vertical en la parte superior derecha que dice 歩みを止めるな\",\"pequeño sello cuadrado rojo al lado del texto vertical\"]}},\"banner\":{\"position\":\"parte superior central\",\"shape\":\"imagen de portada rectangular ancha y redondeada\",\"scene\":\"paisaje de tinta oscura con un ronin solitario de pie en una colina cubierta de hierba a la derecha, espada al costado, cielo tormentoso y horizonte lejano\",\"center_text\":\"{argument name=\\\"banner word\\\" default=\\\"truth.\\\"}\",\"profile_avatar_overlap\":\"avatar circular grande que se superpone a la parte inferior izquierda del banner, mostrando un retrato de samurái a tinta negra con cabello desordenado de perfil; el área del rostro está deliberadamente oscurecida por un desenfoque rectangular suave\",\"button\":\"botón de editar perfil dibujado como un rectángulo redondeado en el borde inferior derecho del banner\"},\"main_profile_area\":{\"position\":\"medio\",\"left_column\":\"nombre de perfil escrito con pincel grande, handle, biografía, icono y enlace de GitHub, icono de calendario y fecha de unión, conteo de seguidores y seguidos\",\"right_decoration\":\"gran caligrafía japonesa en negro 武士道 junto a un disco solar rojo, con salpicaduras de tinta y un pequeño pájaro volando\"},\"navigation_tabs\":{\"count\":4,\"labels\":[\"Publicaciones\",\"Respuestas\",\"Destacados\",\"Artículos\"],\"style\":\"etiquetas escritas a mano con un subrayado oscuro debajo de la fila de pestañas\"},\"pinned_post\":{\"position\":\"parte inferior\",\"container\":\"tarjeta de tweet rectangular redondeada con borde dibujado a mano y fondo de aguada de tinta\",\"label\":\"Fijado con icono de chincheta\",\"author_line\":\"PARAM @Your_PARAM · 10 de jun.\",\"quote\":\"{argument name=\\\"pinned quote\\\" default=\\\"Discipline is choosing what you want most over what you want now.\\\"}\",\"quote_style\":\"letra cursiva negra grande escrita a mano con énfasis de subrayado rojo debajo de las palabras most y now\",\"thumbnail_avatar\":\"pequeño retrato circular de samurái en la parte superior izquierda de la publicación\",\"illustration\":\"el lado derecho muestra a un samurái solitario sentado visto desde atrás junto a una espada erguida, con trazos de tinta de luna, nubes, hierba de pincel y un árbol estéril\",\"engagement_metrics\":{\"count\":5,\"items\":[\"icono de respuesta 12\",\"icono de repost 18\",\"icono de corazón rojo 94\",\"icono de gráfico de barras 1.2K\",\"icono de compartir sin número\"]}},\"composition\":\"diseño de captura de pantalla móvil en formato vertical 2:3, maqueta de perfil centrada, espacio negativo equilibrado, muchas salpicaduras de tinta expresivas y marcas de pincel, ambiente auténtico de artes marciales japonesas, sin fotorrealismo\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"stilisierte Social-Media-Profilseiten-Illustration\",\"overall_style\":\"Von Vagabond inspirierte monochrome Sumi-e-Tuschezeichnung auf gealtertem Pergamentpapier, grobe Pinselkalligrafie, schwarze Tintenspritzer, rote Akzentstriche, handgezeichnete UI-Umrisse, düstere Samurai-Manga-Atmosphäre\",\"theme\":\"Disziplin und Wahrheit eines wandernden Samurai\",\"palette\":\"Hintergrund in warmem Beige-Pergament, schwarze Holzkohletinte, gedämpfte Grautöne, tiefrote Akzente\",\"text_treatment\":\"Der gesamte Interface-Text erscheint handgeschrieben in ausdrucksstarker Pinselschrift oder lockerer Handschrift\",\"profile\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"PARAM\\\"}\",\"handle\":\"{argument name=\\\"profile handle\\\" default=\\\"@Your_PARAM\\\"}\",\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"3rd ug\\\"}\",\"link\":\"https://github.com/paramcodes\",\"joined\":\"Beigetreten Juni 2023\",\"stats\":{\"count\":2,\"items\":[\"436 Ich folge\",\"122 Follower\"]}},\"header\":{\"position\":\"oben\",\"large_word\":\"{argument name=\\\"main title\\\" default=\\\"PARAM\\\"}\",\"lettering\":\"riesige, gezackte schwarze Pinselbuchstaben am oberen Rand, wobei das A wie ein roter, schlitzartiger Charakter gemalt ist\",\"decorations\":{\"count\":4,\"items\":[\"schwarze Tintenspritzer um den Titel\",\"zwei kleine fliegende schwarze Vögel in der Nähe des Titels\",\"vertikaler japanischer Text oben rechts: 歩みを止めるな\",\"kleiner roter quadratischer Siegelstempel neben dem vertikalen Text\"]}},\"banner\":{\"position\":\"oben Mitte\",\"shape\":\"breites, abgerundetes rechteckiges Titelbild\",\"scene\":\"dunkle Tuschelandschaft mit einem einsamen Ronin, der rechts auf einem grasbewachsenen Hügel steht, das Schwert an seiner Seite, stürmischer Himmel und ferner Horizont\",\"center_text\":\"{argument name=\\\"banner word\\\" default=\\\"truth.\\\"}\",\"profile_avatar_overlap\":\"großer kreisförmiger Avatar, der den unteren linken Teil des Banners überlappt und ein Samurai-Porträt im Profil mit zerzaustem Haar in schwarzer Tinte zeigt; der Gesichtsbereich ist absichtlich durch eine weiche rechteckige Unschärfe verdeckt\",\"button\":\"Profil bearbeiten-Button, gezeichnet als abgerundetes Rechteck am unteren rechten Rand des Banners\"},\"main_profile_area\":{\"position\":\"Mitte\",\"left_column\":\"großer, mit dem Pinsel geschriebener Profilname, Handle, Bio, GitHub-Icon und Link, Kalender-Icon und Beitrittsdatum, Anzahl der gefolgten Personen und Follower\",\"right_decoration\":\"große schwarze japanische Kalligrafie 武士道 neben einer roten Sonnenscheibe, mit Tintenspritzern und einem kleinen fliegenden Vogel\"},\"navigation_tabs\":{\"count\":4,\"labels\":[\"Beiträge\",\"Antworten\",\"Highlights\",\"Artikel\"],\"style\":\"handgeschriebene Beschriftungen mit einer dunklen Unterstreichung unter der Tab-Zeile\"},\"pinned_post\":{\"position\":\"unten\",\"container\":\"abgerundete rechteckige Tweet-Karte mit handgezeichnetem Rand und Tusche-Hintergrund\",\"label\":\"Angepinnt mit Reißzwecken-Icon\",\"author_line\":\"PARAM @Your_PARAM · 10. Juni\",\"quote\":\"{argument name=\\\"pinned quote\\\" default=\\\"Disziplin bedeutet, das zu wählen, was man am meisten will, anstatt das, was man jetzt will.\\\"}\",\"quote_style\":\"große handgeschriebene schwarze Schrift mit roter Unterstreichung zur Betonung der Wörter am meisten und jetzt\",\"thumbnail_avatar\":\"kleines kreisförmiges Samurai-Porträt oben links im Beitrag\",\"illustration\":\"die rechte Seite zeigt einen sitzenden einsamen Samurai von hinten neben einem aufrechten Schwert, mit Mond, Wolken, Pinselgras und kahlen Baum-Tuschestrichen\",\"engagement_metrics\":{\"count\":5,\"items\":[\"Antworten-Icon 12\",\"Repost-Icon 18\",\"rotes Herz-Icon 94\",\"Balkendiagramm-Icon 1.2K\",\"Teilen-Icon ohne Nummer\"]}},\"composition\":\"Porträt 2:3 Mobile-Screenshot-Layout, zentriertes Profil-Mockup, ausgewogener Leerraum, viele ausdrucksstarke Tintenspritzer und Pinselstriche, authentische japanische Kampfkunst-Stimmung, kein Fotorealismus\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"illustration de page de profil de réseau social stylisée\",\"overall_style\":\"Esquisse à l'encre sumi-e monochrome inspirée de Vagabond sur papier parchemin vieilli, calligraphie au pinceau brut, éclaboussures d'encre noire, touches de rouge, contours d'interface dessinés à la main, atmosphère manga samouraï granuleuse\",\"theme\":\"discipline et vérité du samouraï errant\",\"palette\":\"fond parchemin beige chaud, encre fusain noire, lavis gris sourds, accents rouge cramoisi profond\",\"text_treatment\":\"tout le texte de l'interface apparaît écrit à la main dans un style pinceau expressif ou une écriture manuscrite décontractée\",\"profile\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"PARAM\\\"}\",\"handle\":\"{argument name=\\\"profile handle\\\" default=\\\"@Your_PARAM\\\"}\",\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"3rd ug\\\"}\",\"link\":\"https://github.com/paramcodes\",\"joined\":\"A rejoint en juin 2023\",\"stats\":{\"count\":2,\"items\":[\"436 abonnements\",\"122 abonnés\"]}},\"header\":{\"position\":\"haut\",\"large_word\":\"{argument name=\\\"main title\\\" default=\\\"PARAM\\\"}\",\"lettering\":\"immenses lettres au pinceau noir déchiquetées en haut, avec le A peint comme un caractère en forme de coup de sabre rouge\",\"decorations\":{\"count\":4,\"items\":[\"éclaboussures d'encre noire autour du titre\",\"deux petits oiseaux noirs en vol près du titre\",\"texte japonais vertical en haut à droite signifiant 歩みを止めるな (Ne t'arrête jamais de marcher)\",\"petit sceau carré rouge à côté du texte vertical\"]}},\"banner\":{\"position\":\"milieu supérieur\",\"shape\":\"large image de couverture rectangulaire aux coins arrondis\",\"scene\":\"paysage à l'encre sombre avec un ronin solitaire debout sur une colline herbeuse à droite, épée au côté, ciel orageux et horizon lointain\",\"center_text\":\"{argument name=\\\"banner word\\\" default=\\\"vérité.\\\"}\",\"profile_avatar_overlap\":\"grand avatar circulaire chevauchant le bas à gauche de la bannière, montrant un portrait de samouraï à l'encre noire aux cheveux ébouriffés de profil ; la zone du visage est délibérément obscurcie par un flou rectangulaire doux\",\"button\":\"Bouton Modifier le profil dessiné comme un rectangle arrondi sur le bord inférieur droit de la bannière\"},\"main_profile_area\":{\"position\":\"milieu\",\"left_column\":\"nom de profil écrit au grand pinceau, identifiant, bio, icône et lien GitHub, icône de calendrier et date d'inscription, nombres d'abonnements et d'abonnés\",\"right_decoration\":\"grande calligraphie japonaise noire 武士道 (Bushido) à côté d'un disque solaire rouge, avec des éclaboussures d'encre et un petit oiseau en vol\"},\"navigation_tabs\":{\"count\":4,\"labels\":[\"Posts\",\"Réponses\",\"Highlights\",\"Articles\"],\"style\":\"étiquettes manuscrites avec un soulignement sombre sous la rangée d'onglets\"},\"pinned_post\":{\"position\":\"bas\",\"container\":\"carte de tweet rectangulaire arrondie avec bordure dessinée à la main et fond lavis d'encre\",\"label\":\"Épinglé avec icône de punaise\",\"author_line\":\"PARAM @Your_PARAM · 10 juin\",\"quote\":\"{argument name=\\\"pinned quote\\\" default=\\\"La discipline, c'est choisir ce que l'on veut le plus plutôt que ce que l'on veut maintenant.\\\"}\",\"quote_style\":\"grande écriture manuscrite noire avec soulignement rouge pour accentuer les mots le plus et maintenant\",\"thumbnail_avatar\":\"petit portrait de samouraï circulaire en haut à gauche du post\",\"illustration\":\"le côté droit montre un samouraï solitaire assis vu de dos à côté d'une épée dressée, avec lune, nuages, herbes au pinceau et traits d'encre d'arbre dénudé\",\"engagement_metrics\":{\"count\":5,\"items\":[\"icône de réponse 12\",\"icône de repost 18\",\"icône de cœur rouge 94\",\"icône de graphique 1.2K\",\"icône de partage sans nombre\"]}},\"composition\":\"format portrait 2:3 capture d'écran mobile, maquette de profil centrée, espace négatif équilibré, nombreuses éclaboussures d'encre expressives et marques de pinceau, ambiance authentique d'arts martiaux japonais, pas de photoréalisme\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"illustrazione di pagina profilo social media stilizzata\",\"overall_style\":\"schizzo a inchiostro sumi-e monocromatico ispirato a Vagabond su carta pergamena invecchiata, calligrafia a pennello grezza, schizzi di inchiostro nero, tratti rossi d'accento, contorni dell'interfaccia disegnati a mano, atmosfera manga samurai cruda\",\"theme\":\"disciplina e verità del samurai errante\",\"palette\":\"sfondo pergamena beige caldo, inchiostro nero carbone, lavaggi grigi tenui, accenti rosso cremisi intenso\",\"text_treatment\":\"tutto il testo dell'interfaccia appare scritto a mano con pennello espressivo o corsivo casuale\",\"profile\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"PARAM\\\"}\",\"handle\":\"{argument name=\\\"profile handle\\\" default=\\\"@Your_PARAM\\\"}\",\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"3rd ug\\\"}\",\"link\":\"https://github.com/paramcodes\",\"joined\":\"Iscritto a giugno 2023\",\"stats\":{\"count\":2,\"items\":[\"436 Seguiti\",\"122 Follower\"]}},\"header\":{\"position\":\"in alto\",\"large_word\":\"{argument name=\\\"main title\\\" default=\\\"PARAM\\\"}\",\"lettering\":\"grandi lettere a pennello nere frastagliate nella parte superiore, con la A dipinta come un carattere rosso simile a un taglio\",\"decorations\":{\"count\":4,\"items\":[\"schizzi di inchiostro nero attorno al titolo\",\"due piccoli uccelli neri in volo vicino al titolo\",\"testo giapponese verticale in alto a destra che recita 歩みを止めるな\",\"piccolo sigillo quadrato rosso accanto al testo verticale\"]}},\"banner\":{\"position\":\"centro-alto\",\"shape\":\"immagine di copertina rettangolare ampia e arrotondata\",\"scene\":\"paesaggio a inchiostro scuro con un ronin solitario in piedi su una collina erbosa a destra, spada al fianco, cielo tempestoso e orizzonte lontano\",\"center_text\":\"{argument name=\\\"banner word\\\" default=\\\"truth.\\\"}\",\"profile_avatar_overlap\":\"grande avatar circolare che si sovrappone in basso a sinistra al banner, mostrando un ritratto di samurai a inchiostro nero dai capelli spettinati di profilo; l'area del volto è deliberatamente oscurata da una sfocatura rettangolare morbida\",\"button\":\"Pulsante Modifica profilo disegnato come un rettangolo arrotondato sul bordo in basso a destra del banner\"},\"main_profile_area\":{\"position\":\"centro\",\"left_column\":\"nome profilo scritto a pennello grande, handle, bio, icona e link GitHub, icona calendario e data di iscrizione, conteggio seguiti e follower\",\"right_decoration\":\"grande calligrafia giapponese nera 武士道 accanto a un disco solare rosso, con schizzi d'inchiostro e un piccolo uccello in volo\"},\"navigation_tabs\":{\"count\":4,\"labels\":[\"Post\",\"Risposte\",\"In evidenza\",\"Articoli\"],\"style\":\"etichette scritte a mano con una sottolineatura scura sotto la riga delle schede\"},\"pinned_post\":{\"position\":\"in basso\",\"container\":\"scheda tweet rettangolare arrotondata con bordo disegnato a mano e sfondo a inchiostro\",\"label\":\"Fissato con icona puntina\",\"author_line\":\"PARAM @Your_PARAM · 10 giu\",\"quote\":\"{argument name=\\\"pinned quote\\\" default=\\\"La disciplina è scegliere ciò che vuoi di più rispetto a ciò che vuoi ora.\\\"}\",\"quote_style\":\"grande corsivo nero scritto a mano con enfasi sottolineata in rosso sotto le parole 'di più' e 'ora'\",\"thumbnail_avatar\":\"piccolo ritratto circolare di samurai in alto a sinistra del post\",\"illustration\":\"il lato destro mostra un samurai solitario seduto visto di spalle accanto a una spada in verticale, con luna, nuvole, erba a pennello e tratti d'inchiostro di un albero spoglio\",\"engagement_metrics\":{\"count\":5,\"items\":[\"icona risposta 12\",\"icona repost 18\",\"icona cuore rosso 94\",\"icona grafico a barre 1.2K\",\"icona condivisione senza numero\"]}},\"composition\":\"layout screenshot mobile 2:3 verticale, mockup profilo centrato, spazio negativo bilanciato, molti schizzi d'inchiostro espressivi e segni di pennello, autentico umore da arti marziali giapponesi, nessuna fotorealismo\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"ilustração de página de perfil de rede social estilizada\",\"overall_style\":\"esboço em sumi-e monocromático inspirado em Vagabond sobre papel pergaminho envelhecido, caligrafia de pincel rústica, respingos de tinta preta, traços de destaque em vermelho, contornos de interface desenhados à mão, atmosfera de mangá samurai visceral\",\"theme\":\"disciplina e verdade do samurai errante\",\"palette\":\"fundo de pergaminho bege quente, tinta carvão preta, lavagens em cinza suave, detalhes em vermelho carmesim profundo\",\"text_treatment\":\"todo o texto da interface aparece escrito à mão em pincel expressivo ou caligrafia casual\",\"profile\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"PARAM\\\"}\",\"handle\":\"{argument name=\\\"profile handle\\\" default=\\\"@Your_PARAM\\\"}\",\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"3rd ug\\\"}\",\"link\":\"https://github.com/paramcodes\",\"joined\":\"Entrou em junho de 2023\",\"stats\":{\"count\":2,\"items\":[\"436 Seguindo\",\"122 Seguidores\"]}},\"header\":{\"position\":\"topo\",\"large_word\":\"{argument name=\\\"main title\\\" default=\\\"PARAM\\\"}\",\"lettering\":\"letras grandes e irregulares de pincel preto no topo, com o A pintado como um caractere em forma de corte vermelho\",\"decorations\":{\"count\":4,\"items\":[\"respingos de tinta preta ao redor do título\",\"dois pequenos pássaros pretos voando perto do título\",\"texto japonês vertical no canto superior direito lendo 歩みを止めるな\",\"pequeno selo quadrado vermelho ao lado do texto vertical\"]}},\"banner\":{\"position\":\"parte superior central\",\"shape\":\"imagem de capa retangular larga e arredondada\",\"scene\":\"paisagem de tinta escura com um ronin solitário em pé em uma colina gramada à direita, espada ao lado, céu tempestuoso e horizonte distante\",\"center_text\":\"{argument name=\\\"banner word\\\" default=\\\"truth.\\\"}\",\"profile_avatar_overlap\":\"avatar circular grande sobrepondo a parte inferior esquerda do banner, mostrando um retrato de samurai em tinta preta com cabelo bagunçado de perfil; a área do rosto é deliberadamente obscurecida por um borrão retangular suave\",\"button\":\"botão Editar perfil desenhado como um retângulo arredondado na borda inferior direita do banner\"},\"main_profile_area\":{\"position\":\"meio\",\"left_column\":\"nome do perfil escrito com pincel grande, handle, bio, ícone e link do GitHub, ícone de calendário e data de entrada, contagens de seguidores e seguindo\",\"right_decoration\":\"grande caligrafia japonesa preta 武士道 ao lado de um disco solar vermelho, com respingos de tinta e um pequeno pássaro voando\"},\"navigation_tabs\":{\"count\":4,\"labels\":[\"Posts\",\"Respostas\",\"Destaques\",\"Artigos\"],\"style\":\"rótulos escritos à mão com um sublinhado escuro abaixo da linha de abas\"},\"pinned_post\":{\"position\":\"parte inferior\",\"container\":\"cartão de tweet retangular arredondado com borda desenhada à mão e fundo de lavagem de tinta\",\"label\":\"Fixado com ícone de percevejo\",\"author_line\":\"PARAM @Your_PARAM · 10 de jun\",\"quote\":\"{argument name=\\\"pinned quote\\\" default=\\\"Discipline is choosing what you want most over what you want now.\\\"}\",\"quote_style\":\"grande caligrafia preta escrita à mão com ênfase em sublinhado vermelho sob as palavras most e now\",\"thumbnail_avatar\":\"pequeno retrato circular de samurai no canto superior esquerdo do post\",\"illustration\":\"o lado direito mostra um samurai solitário sentado visto por trás ao lado de uma espada ereta, com lua, nuvens, grama de pincel e traços de tinta de árvore seca\",\"engagement_metrics\":{\"count\":5,\"items\":[\"ícone de resposta 12\",\"ícone de repost 18\",\"ícone de coração vermelho 94\",\"ícone de gráfico de barras 1.2K\",\"ícone de compartilhar sem número\"]}},\"composition\":\"layout de captura de tela móvel em retrato 2:3, mockup de perfil centralizado, espaço negativo equilibrado, muitos respingos de tinta expressivos e marcas de pincel, clima autêntico de artes marciais japonesas, sem fotorrealismo\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Samurai Ink Social Profile",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Samurai Ink 社交媒体个人资料",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Perfil social de Samurai Ink",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Samurai Ink Social-Media-Profil",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Profil social Samurai Ink",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Profilo Social Samurai Ink",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Perfil Social Samurai Ink",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a parchment-style hand-drawn social media profile mockup with Vagabond-inspired samurai artwork, calligraphy, and motivational pinned post.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张羊皮纸风格的手绘社交媒体个人资料模型，融合了《浪客行》风格的武士艺术、书法和励志置顶帖。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une maquette de profil de réseau social dessinée à la main, style parchemin, avec des illustrations de samouraï inspirées de Vagabond, de la calligraphie et un post épinglé motivationnel.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Your_PARAM/status/2051241284833300552#reversed-0",
+      "originalId": "https://x.com/Your_PARAM/status/2051241284833300552#reversed-0",
+      "authors": [
+        {
+          "name": "PARAM",
+          "url": "https://x.com/Your_PARAM"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1292
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e1e1baf8b0416d2e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971038326_e9lkj0_HHd41j6aYAAZ9ag.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971038326_e9lkj0_HHd41j6aYAAZ9ag.jpg",
+      "localPath": "public/assets/prompt_457fde0e1d7410ac8852/ed8624d2178b.jpg",
+      "alt": "Profile / Avatar - Samurai Ink Social Profile - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "social",
+      "mockup",
+      "thumbnail",
+      "界面",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.852Z"
+  }
+}

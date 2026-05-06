@@ -1,0 +1,101 @@
+{
+  "id": "prompt_df9072d9b5f1b5310cea",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个超现实的UI/UX模型，展示在放置在简约木桌上的纤薄现代笔记本电脑上，配有柔和的自然日光。屏幕显示一个干净的SaaS仪表板，具有优雅的排版、玻璃态卡片、平滑渐变、微妙的投影和整齐间隔的组件。可见的图表、分析面板、侧边栏导航和微交互。逼真的macOS风格窗口框架，屏幕上的柔和反射，浅景深，舒适的工作空间氛围，以逼真的产品摄影风格拍摄，超详细。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:54.521Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ZaraIrahh/status/2047179669011616172",
+      "originalId": "case-24",
+      "authors": [
+        {
+          "name": "ZaraIrahh",
+          "url": "https://x.com/ZaraIrahh"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 321
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_562692d7cf34ef50",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case80/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case80/output.jpg",
+      "localPath": "public/assets/prompt_df9072d9b5f1b5310cea/33e03e5c90b1.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

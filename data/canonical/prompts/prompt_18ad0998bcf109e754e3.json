@@ -1,0 +1,177 @@
+{
+  "id": "prompt_18ad0998bcf109e754e3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"vertical four-panel anime manga page combining photoreal coastal scenery with cel-shaded schoolgirl characters\",\"format\":\"single page, black panel borders, diagonal manga gutters, clean high-resolution color illustration\",\"setting\":\"{argument name=\\\"setting\\\" default=\\\"a sunny rocky Japanese seashore with blue ocean waves, a Shinto torii gate standing on offshore rocks, bright blue sky and scattered white clouds\\\"}\",\"style\":\"anime characters composited over detailed realistic seaside backgrounds, vibrant daylight, crisp line art, soft shading, expressive shoujo manga faces, speech bubbles with vertical Japanese text\",\"characters\":[{\"name\":\"{argument name=\\\"red haired girl name\\\" default=\\\"Ayumu\\\"}\",\"appearance\":\"teenage schoolgirl with short coral-red hair, side-swept bangs, small braided bun pinned at the back, large green eyes, cheerful expression\",\"outfit\":\"dark navy school blazer with gold buttons, white shirt, red ribbon bow, light plaid skirt, shoulder bag\"},{\"name\":\"{argument name=\\\"brown haired girl name\\\" default=\\\"Miho\\\"}\",\"appearance\":\"teenage schoolgirl with short light-brown bob hair and bangs, friendly demeanor; in the second panel her face is covered by a square soft blur/censor block\",\"outfit\":\"white sailor-style school uniform with green trim, black neckerchief, green pleated skirt, small cross-shaped necklace detail\"}],\"layout\":{\"panel count\":4,\"speech bubble count\":5,\"panels\":[{\"number\":1,\"position\":\"top wide panel\",\"composition\":\"red-haired girl shown in right profile from waist up, smiling and looking left toward the sea; rocky coast and torii gate on the left; one large oval speech bubble at upper right\",\"dialogue\":[\"{argument name=\\\"first dialogue\\\" default=\\\"わぁ…きれいな場所だね！\\\"}\"]},{\"number\":2,\"position\":\"second slanted panel\",\"composition\":\"brown-haired sailor-uniform girl stands in a seaside town street near the coast, waving with one hand; her face is deliberately obscured by a square blur; one oval speech bubble on the left\",\"dialogue\":[\"歩夢ちゃん！大洗へようこそ！\"]},{\"number\":3,\"position\":\"third wide panel\",\"composition\":\"two girls face each other happily in front of the ocean and torii gate; red-haired girl clasps her hands with excitement, brown-haired girl smiles in profile; two speech bubbles, one on each side\",\"dialogue\":[\"みほちゃん！会えて嬉しいよ！\",\"私もだよ！一緒にいろいろ回ろうね！\"]},{\"number\":4,\"position\":\"bottom wide panel\",\"composition\":\"rear view of both girls standing side by side at a wooden railing, looking out over the sparkling sea, rocks, and distant torii gate; peaceful ending panel; one oval speech bubble at left\",\"dialogue\":[\"うん！楽しみ！\"]}]},\"details\":\"include ocean foam, dark volcanic rocks, distant horizon, a small town sign in the second panel, natural sunlight, clean manga lettering, white speech balloons with black outlines, no narration boxes\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"垂直四格动漫漫画页面，结合了写实海岸风景与赛璐珞风格的女高中生角色\",\"format\":\"单页，黑色分镜框，对角线漫画装订线，清晰的高分辨率彩色插图\",\"setting\":\"{argument name=\\\"setting\\\" default=\\\"阳光明媚的日本岩石海岸，蓝色海浪，海中岩石上矗立着一座神道教鸟居，明亮的蓝天和零星的白云\\\"}\",\"style\":\"动漫角色与细腻写实的海岸背景合成，充满活力的日光，清晰的线条，柔和的阴影，富有表现力的少女漫画脸，带有竖排日语文字的对话气泡\",\"characters\":[{\"name\":\"{argument name=\\\"red haired girl name\\\" default=\\\"Ayumu\\\"}\",\"appearance\":\"十几岁的女高中生，留着珊瑚红短发，斜刘海，后脑勺扎着小辫子，大大的绿眼睛，表情开朗\",\"outfit\":\"深蓝色校服西装，金色纽扣，白衬衫，红色蝴蝶结，浅色格子裙，肩包\"},{\"name\":\"{argument name=\\\"brown haired girl name\\\" default=\\\"Miho\\\"}\",\"appearance\":\"十几岁的女高中生，留着浅棕色波波头和刘海，态度友好；在第二格中，她的脸被一个方形的柔和模糊/马赛克遮挡\",\"outfit\":\"白色水手服，绿色镶边，黑色领巾，绿色百褶裙，带有小十字架项链细节\"}],\"layout\":{\"panel count\":4,\"speech bubble count\":5,\"panels\":[{\"number\":1,\"position\":\"顶部宽幅分镜\",\"composition\":\"红发女孩右侧半身像，微笑着看向左侧的大海；左侧为岩石海岸和鸟居；右上角有一个大的椭圆形对话气泡\",\"dialogue\":[\"{argument name=\\\"first dialogue\\\" default=\\\"わぁ…きれいな場所だね！\\\"}\"]},{\"number\":2,\"position\":\"第二个倾斜分镜\",\"composition\":\"棕发水手服女孩站在海岸附近的城镇街道上，单手挥手；她的脸被方形模糊效果刻意遮挡；左侧有一个椭圆形对话气泡\",\"dialogue\":[\"歩夢ちゃん！大洗へようこそ！\"]},{\"number\":3,\"position\":\"第三个宽幅分镜\",\"composition\":\"两个女孩在海洋和鸟居前开心地面对面；红发女孩兴奋地双手合十，棕发女孩侧身微笑；两侧各有一个对话气泡\",\"dialogue\":[\"みほちゃん！会えて嬉しいよ！\",\"私もだよ！一緒にいろいろ回ろうね！\"]},{\"number\":4,\"position\":\"底部宽幅分镜\",\"composition\":\"两个女孩并肩站在木栏杆后的背影，眺望波光粼粼的大海、岩石和远处的鸟居；宁静的结尾分镜；左侧有一个椭圆形对话气泡\",\"dialogue\":[\"うん！楽しみ！\"]}]},\"details\":\"包含海浪泡沫、深色火山岩、远方地平线、第二格中的小城镇标志、自然阳光、清晰的漫画字体、带有黑色轮廓的白色对话气泡，无旁白框\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"página de manga anime vertical de cuatro paneles que combina paisajes costeros fotorrealistas con personajes de colegialas en cel-shading\",\"format\":\"página única, bordes de panel negros, canaletas de manga diagonales, ilustración en color de alta resolución y limpia\",\"setting\":\"{argument name=\\\"setting\\\" default=\\\"una soleada costa rocosa japonesa con olas azules, un torii sintoísta sobre rocas en el mar, cielo azul brillante y nubes blancas dispersas\\\"}\",\"style\":\"personajes de anime compuestos sobre fondos costeros realistas detallados, luz diurna vibrante, arte lineal nítido, sombreado suave, rostros expresivos de manga shoujo, globos de texto con texto vertical en japonés\",\"characters\":[{\"name\":\"{argument name=\\\"red haired girl name\\\" default=\\\"Ayumu\\\"}\",\"appearance\":\"colegiala adolescente con cabello corto color rojo coral, flequillo de lado, pequeño moño trenzado recogido atrás, ojos verdes grandes, expresión alegre\",\"outfit\":\"blazer escolar azul marino con botones dorados, camisa blanca, lazo rojo, falda a cuadros clara, bolso de hombro\"},{\"name\":\"{argument name=\\\"brown haired girl name\\\" default=\\\"Miho\\\"}\",\"appearance\":\"colegiala adolescente con corte bob corto de color castaño claro y flequillo, actitud amistosa; en el segundo panel su rostro está cubierto por un bloque de desenfoque/censura cuadrado\",\"outfit\":\"uniforme escolar blanco estilo marinero con ribete verde, pañuelo negro, falda plisada verde, detalle de collar pequeño en forma de cruz\"}],\"layout\":{\"panel count\":4,\"speech bubble count\":5,\"panels\":[{\"number\":1,\"position\":\"panel superior ancho\",\"composition\":\"chica de cabello rojo vista de perfil derecho desde la cintura hacia arriba, sonriendo y mirando a la izquierda hacia el mar; costa rocosa y torii a la izquierda; un globo de texto ovalado grande en la parte superior derecha\",\"dialogue\":[\"{argument name=\\\"first dialogue\\\" default=\\\"わぁ…きれいな場所だね！\\\"}\"]},{\"number\":2,\"position\":\"segundo panel inclinado\",\"composition\":\"chica con uniforme de marinera de cabello castaño de pie en una calle costera cerca de la costa, saludando con una mano; su rostro está deliberadamente oscurecido por un desenfoque cuadrado; un globo de texto ovalado a la izquierda\",\"dialogue\":[\"歩夢ちゃん！大洗へようこそ！\"]},{\"number\":3,\"position\":\"tercer panel ancho\",\"composition\":\"dos chicas frente a frente felizmente frente al océano y el torii; la chica de cabello rojo junta sus manos con emoción, la chica de cabello castaño sonríe de perfil; dos globos de texto, uno a cada lado\",\"dialogue\":[\"みほちゃん！会えて嬉しいよ！\",\"私もだよ！一緒にいろいろ回ろうね！\"]},{\"number\":4,\"position\":\"panel inferior ancho\",\"composition\":\"vista trasera de ambas chicas de pie una al lado de la otra en una barandilla de madera, mirando hacia el mar brillante, las rocas y el torii a lo lejos; panel final pacífico; un globo de texto ovalado a la izquierda\",\"dialogue\":[\"うん！楽しみ！\"]}]},\"details\":\"incluye espuma de mar, rocas volcánicas oscuras, horizonte lejano, un letrero de pueblo pequeño en el segundo panel, luz solar natural, letras de manga limpias, globos de texto blancos con contornos negros, sin cuadros de narración\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"vertikale viergeteilte Anime-Manga-Seite, die fotorealistische Küstenlandschaften mit cel-shadierten Schulmädchen-Charakteren kombiniert\",\"format\":\"einzelne Seite, schwarze Panel-Rahmen, diagonale Manga-Gutter, saubere hochauflösende Farbillustration\",\"setting\":\"{argument name=\\\"setting\\\" default=\\\"eine sonnige japanische Felsenküste mit blauen Meereswellen, einem Shinto-Torii-Tor auf vorgelagerten Felsen, strahlend blauem Himmel und vereinzelten weißen Wolken\\\"}\",\"style\":\"Anime-Charaktere vor detaillierten, realistischen Hintergründen am Meer, lebhaftes Tageslicht, klare Linienführung, weiche Schattierungen, ausdrucksstarke Shoujo-Manga-Gesichter, Sprechblasen mit vertikalem japanischem Text\",\"characters\":[{\"name\":\"{argument name=\\\"red haired girl name\\\" default=\\\"Ayumu\\\"}\",\"appearance\":\"jugendliches Schulmädchen mit kurzem korallenrotem Haar, seitlichem Pony, kleinem geflochtenem Dutt am Hinterkopf, großen grünen Augen, fröhlicher Ausdruck\",\"outfit\":\"dunkelblauer Schulblazer mit goldenen Knöpfen, weißes Hemd, rote Schleife, heller karierter Rock, Umhängetasche\"},{\"name\":\"{argument name=\\\"brown haired girl name\\\" default=\\\"Miho\\\"}\",\"appearance\":\"jugendliches Schulmädchen mit kurzem hellbraunem Bob und Pony, freundliches Auftreten; im zweiten Panel ist ihr Gesicht durch einen quadratischen, weichen Unschärfe-/Zensurblock verdeckt\",\"outfit\":\"weiße Schuluniform im Matrosenstil mit grünem Besatz, schwarzes Halstuch, grüner Faltenrock, kleines kreuzförmiges Halskettendetail\"}],\"layout\":{\"panel count\":4,\"speech bubble count\":5,\"panels\":[{\"number\":1,\"position\":\"oberes breites Panel\",\"composition\":\"rothaariges Mädchen im rechten Profil von der Taille aufwärts, lächelnd und nach links auf das Meer blickend; Felsenküste und Torii-Tor auf der linken Seite; eine große ovale Sprechblase oben rechts\",\"dialogue\":[\"{argument name=\\\"first dialogue\\\" default=\\\"わぁ…きれいな場所だね！\\\"}\"]},{\"number\":2,\"position\":\"zweites schräges Panel\",\"composition\":\"braunhaariges Mädchen in Matrosenuniform steht in einer Küstenstraße nahe der Küste und winkt mit einer Hand; ihr Gesicht ist bewusst durch einen quadratischen Unschärfeblock verdeckt; eine ovale Sprechblase auf der linken Seite\",\"dialogue\":[\"歩夢ちゃん！大洗へようこそ！\"]},{\"number\":3,\"position\":\"drittes breites Panel\",\"composition\":\"zwei Mädchen stehen sich glücklich vor dem Ozean und dem Torii-Tor gegenüber; rothaariges Mädchen faltet aufgeregt die Hände, braunhaariges Mädchen lächelt im Profil; zwei Sprechblasen, eine auf jeder Seite\",\"dialogue\":[\"みほちゃん！会えて嬉しいよ！\",\"私もだよ！一緒にいろいろ回ろうね！\"]},{\"number\":4,\"position\":\"unteres breites Panel\",\"composition\":\"Rückansicht beider Mädchen, die nebeneinander an einem Holzgeländer stehen und auf das glitzernde Meer, die Felsen und das ferne Torii-Tor blicken; friedliches Abschluss-Panel; eine ovale Sprechblase links\",\"dialogue\":[\"うん！楽しみ！\"]}]},\"details\":\"Meeresgischt, dunkle Vulkangesteine, ferner Horizont, ein kleines Ortsschild im zweiten Panel, natürliches Sonnenlicht, saubere Manga-Schrift, weiße Sprechblasen mit schwarzen Umrandungen, keine Erzählboxen\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"page de manga anime verticale en quatre cases combinant un paysage côtier photoréaliste et des personnages d'écolières en cel-shading\",\"format\":\"page unique, bordures de cases noires, gouttières de manga en diagonale, illustration couleur haute résolution nette\",\"setting\":\"{argument name=\\\"setting\\\" default=\\\"un bord de mer rocheux japonais ensoleillé avec des vagues bleues, un torii shinto sur des rochers au large, un ciel bleu éclatant et des nuages blancs épars\\\"}\",\"style\":\"personnages d'anime superposés sur des arrière-plans de bord de mer réalistes et détaillés, lumière du jour vibrante, trait net, ombrage doux, visages de style manga shoujo expressifs, bulles de dialogue avec texte japonais vertical\",\"characters\":[{\"name\":\"{argument name=\\\"red haired girl name\\\" default=\\\"Ayumu\\\"}\",\"appearance\":\"écolière adolescente avec des cheveux courts rouge corail, frange sur le côté, petit chignon tressé épinglé à l'arrière, grands yeux verts, expression joyeuse\",\"outfit\":\"blazer d'écolière bleu marine avec boutons dorés, chemise blanche, nœud papillon rouge, jupe à carreaux claire, sac à bandoulière\"},{\"name\":\"{argument name=\\\"brown haired girl name\\\" default=\\\"Miho\\\"}\",\"appearance\":\"écolière adolescente avec un carré court brun clair et une frange, attitude amicale ; dans la deuxième case, son visage est recouvert d'un bloc de flou/censure carré\",\"outfit\":\"uniforme scolaire blanc style marin avec bordures vertes, foulard noir, jupe plissée verte, petit détail de collier en forme de croix\"}],\"layout\":{\"panel count\":4,\"speech bubble count\":5,\"panels\":[{\"number\":1,\"position\":\"panneau large supérieur\",\"composition\":\"fille aux cheveux rouges vue de profil droit à partir de la taille, souriante et regardant vers la gauche en direction de la mer ; côte rocheuse et torii sur la gauche ; une grande bulle de dialogue ovale en haut à droite\",\"dialogue\":[\"{argument name=\\\"first dialogue\\\" default=\\\"わぁ…きれいな場所だね！\\\"}\"]},{\"number\":2,\"position\":\"deuxième panneau incliné\",\"composition\":\"fille en uniforme marin aux cheveux bruns debout dans une rue de ville côtière près du rivage, faisant signe de la main ; son visage est délibérément masqué par un flou carré ; une bulle de dialogue ovale sur la gauche\",\"dialogue\":[\"歩夢ちゃん！大洗へようこそ！\"]},{\"number\":3,\"position\":\"troisième panneau large\",\"composition\":\"les deux filles se font face joyeusement devant l'océan et le torii ; la fille aux cheveux rouges joint ses mains avec excitation, la fille aux cheveux bruns sourit de profil ; deux bulles de dialogue, une de chaque côté\",\"dialogue\":[\"みほちゃん！会えて嬉しいよ！\",\"私もだよ！一緒にいろいろ回ろうね！\"]},{\"number\":4,\"position\":\"panneau large inférieur\",\"composition\":\"vue arrière des deux filles debout côte à côte à une rambarde en bois, regardant la mer scintillante, les rochers et le torii au loin ; panneau de fin paisible ; une bulle de dialogue ovale sur la gauche\",\"dialogue\":[\"うん！楽しみ！\"]}]},\"details\":\"inclure l'écume de mer, des rochers volcaniques sombres, l'horizon lointain, un panneau de ville dans la deuxième case, lumière naturelle, lettrage manga net, bulles de dialogue blanches avec contours noirs, pas de cartouches de narration\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"pagina manga anime a quattro vignette verticali che combina scenari costieri fotorealistici con personaggi in stile anime cel-shaded\",\"format\":\"pagina singola, bordi neri delle vignette, spaziature diagonali tipiche dei manga, illustrazione a colori pulita ad alta risoluzione\",\"setting\":\"{argument name=\\\"setting\\\" default=\\\"una soleggiata costa rocciosa giapponese con onde blu dell'oceano, un portale torii shintoista che sorge su rocce al largo, cielo azzurro brillante e nuvole bianche sparse\\\"}\",\"style\":\"personaggi anime sovrapposti a sfondi marini realistici e dettagliati, luce diurna vibrante, linee nitide, ombreggiature morbide, volti espressivi in stile manga shoujo, fumetti con testo giapponese verticale\",\"characters\":[{\"name\":\"{argument name=\\\"red haired girl name\\\" default=\\\"Ayumu\\\"}\",\"appearance\":\"studentessa adolescente con capelli corti color rosso corallo, frangia laterale, piccolo chignon intrecciato fissato sul retro, grandi occhi verdi, espressione allegra\",\"outfit\":\"blazer scolastico blu scuro con bottoni dorati, camicia bianca, fiocco rosso, gonna a quadri chiara, borsa a tracolla\"},{\"name\":\"{argument name=\\\"brown haired girl name\\\" default=\\\"Miho\\\"}\",\"appearance\":\"studentessa adolescente con caschetto corto castano chiaro e frangia, atteggiamento amichevole; nella seconda vignetta il suo volto è coperto da un blocco di censura/sfocatura quadrato\",\"outfit\":\"uniforme scolastica bianca alla marinara con rifiniture verdi, fazzoletto nero al collo, gonna a pieghe verde, piccolo dettaglio a forma di croce sulla collana\"}],\"layout\":{\"panel count\":4,\"speech bubble count\":5,\"panels\":[{\"number\":1,\"position\":\"vignetta ampia in alto\",\"composition\":\"la ragazza dai capelli rossi mostrata di profilo destro dalla vita in su, sorridente e rivolta a sinistra verso il mare; costa rocciosa e portale torii sulla sinistra; un grande fumetto ovale in alto a destra\",\"dialogue\":[\"{argument name=\\\"first dialogue\\\" default=\\\"わぁ…きれいな場所だね！\\\"}\"]},{\"number\":2,\"position\":\"seconda vignetta inclinata\",\"composition\":\"la ragazza con l'uniforme alla marinara dai capelli castani si trova in una strada cittadina vicino alla costa, saluta con una mano; il suo volto è deliberatamente oscurato da una sfocatura quadrata; un fumetto ovale sulla sinistra\",\"dialogue\":[\"歩夢ちゃん！大洗へようこそ！\"]},{\"number\":3,\"position\":\"terza vignetta ampia\",\"composition\":\"le due ragazze si guardano felicemente davanti all'oceano e al portale torii; la ragazza dai capelli rossi giunge le mani per l'emozione, la ragazza dai capelli castani sorride di profilo; due fumetti, uno per lato\",\"dialogue\":[\"みほちゃん！会えて嬉しいよ！\",\"私もだよ！一緒にいろいろ回ろうね！\"]},{\"number\":4,\"position\":\"vignetta ampia in basso\",\"composition\":\"vista posteriore di entrambe le ragazze che stanno fianco a fianco a una ringhiera di legno, guardando verso il mare scintillante, le rocce e il lontano portale torii; vignetta finale pacifica; un fumetto ovale a sinistra\",\"dialogue\":[\"うん！楽しみ！\"]}]},\"details\":\"includere schiuma marina, rocce vulcaniche scure, orizzonte lontano, un piccolo cartello cittadino nella seconda vignetta, luce solare naturale, scritte manga pulite, fumetti bianchi con contorni neri, nessuna didascalia\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"página de mangá de anime vertical de quatro painéis combinando cenário costeiro fotorrealista com personagens de estudantes em estilo cel-shaded\",\"format\":\"página única, bordas de painel pretas, calhas de mangá diagonais, ilustração colorida limpa de alta resolução\",\"setting\":\"{argument name=\\\"setting\\\" default=\\\"uma costa rochosa ensolarada do Japão com ondas azuis do oceano, um portão torii xintoísta em rochas offshore, céu azul brilhante e nuvens brancas dispersas\\\"}\",\"style\":\"personagens de anime compostas sobre fundos realistas detalhados à beira-mar, luz do dia vibrante, arte de linha nítida, sombreamento suave, rostos expressivos de mangá shoujo, balões de fala com texto vertical em japonês\",\"characters\":[{\"name\":\"{argument name=\\\"red haired girl name\\\" default=\\\"Ayumu\\\"}\",\"appearance\":\"estudante adolescente com cabelo curto vermelho-coral, franja lateral, pequeno coque trançado preso atrás, olhos verdes grandes, expressão alegre\",\"outfit\":\"blazer escolar azul-marinho escuro com botões dourados, camisa branca, laço de fita vermelha, saia xadrez clara, bolsa de ombro\"},{\"name\":\"{argument name=\\\"brown haired girl name\\\" default=\\\"Miho\\\"}\",\"appearance\":\"estudante adolescente com cabelo curto castanho-claro estilo chanel e franja, comportamento amigável; no segundo painel seu rosto está coberto por um bloco de desfoque/censura quadrado suave\",\"outfit\":\"uniforme escolar branco estilo marinheiro com detalhes verdes, lenço de pescoço preto, saia plissada verde, detalhe de colar em forma de cruz pequena\"}],\"layout\":{\"panel count\":4,\"speech bubble count\":5,\"panels\":[{\"number\":1,\"position\":\"painel superior largo\",\"composition\":\"garota de cabelo vermelho mostrada de perfil direito da cintura para cima, sorrindo e olhando para a esquerda em direção ao mar; costa rochosa e portão torii à esquerda; um grande balão de fala oval no canto superior direito\",\"dialogue\":[\"{argument name=\\\"first dialogue\\\" default=\\\"わぁ…きれいな場所だね！\\\"}\"]},{\"number\":2,\"position\":\"segundo painel inclinado\",\"composition\":\"garota de uniforme de marinheiro de cabelo castanho em uma rua da cidade litorânea perto da costa, acenando com uma mão; seu rosto está deliberadamente obscurecido por um desfoque quadrado; um balão de fala oval à esquerda\",\"dialogue\":[\"歩夢ちゃん！大洗へようこそ！\"]},{\"number\":3,\"position\":\"terceiro painel largo\",\"composition\":\"duas garotas se encaram alegremente em frente ao oceano e ao portão torii; garota de cabelo vermelho junta as mãos com entusiasmo, garota de cabelo castanho sorri de perfil; dois balões de fala, um de cada lado\",\"dialogue\":[\"みほちゃん！会えて嬉しいよ！\",\"私もだよ！一緒にいろいろ回ろうね！\"]},{\"number\":4,\"position\":\"painel inferior largo\",\"composition\":\"vista traseira de ambas as garotas lado a lado em um corrimão de madeira, olhando para o mar cintilante, rochas e o portão torii distante; painel de encerramento pacífico; um balão de fala oval à esquerda\",\"dialogue\":[\"うん！楽しみ！\"]}]},\"details\":\"inclua espuma do mar, rochas vulcânicas escuras, horizonte distante, uma placa de cidade pequena no segundo painel, luz solar natural, letras de mangá limpas, balões de fala brancos com contornos pretos, sem caixas de narração\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Seaside Anime Crossover Manga Page",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 海滨动漫联动漫画页面",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Página de manga crossover de anime en la costa",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Anime-Crossover-Manga-Seite am Meer",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Page de manga crossover anime au bord de la mer",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Pagina manga crossover anime sul mare",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Página de Mangá Crossover de Anime à Beira-mar",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a four-panel anime manga scene of two schoolgirls meeting at a scenic Japanese rocky coast with a torii gate and Japanese speech bubbles.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个四格动漫漫画场景，描绘两名女高中生在风景优美的日本岩石海岸（带有鸟居）相遇，并配有日语对话气泡。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène de manga anime en quatre cases montrant deux écolières se rencontrant sur une côte rocheuse japonaise pittoresque avec un torii et des bulles de dialogue en japonais.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/yua_artlove/status/2051333838467637449#reversed-0",
+      "originalId": "https://x.com/yua_artlove/status/2051333838467637449#reversed-0",
+      "authors": [
+        {
+          "name": "ゆあ",
+          "url": "https://x.com/yua_artlove"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3491
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_08ad8fe70bc3f24d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971072846_ypiuy6_HHfNQJ5a0AA1M9K.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971072846_ypiuy6_HHfNQJ5a0AA1M9K.jpg",
+      "localPath": "public/assets/prompt_18ad0998bcf109e754e3/b97b3285f668.jpg",
+      "alt": "Comic / Storyboard - Seaside Anime Crossover Manga Page - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "分镜",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.844Z"
+  }
+}

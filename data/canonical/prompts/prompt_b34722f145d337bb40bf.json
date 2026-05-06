@@ -1,0 +1,132 @@
+{
+  "id": "prompt_b34722f145d337bb40bf",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a premium Korean palm reading guide image based on the uploaded palm photo.\r\n\r\nAll visible text in the final image must be Korean only. Use clean Korean sans-serif typography. The title must be exactly “손금 분석 가이드”.\r\n\r\nCreate a refined two-panel layout:\r\nLeft panel: place the uploaded real palm photo inside a clean rounded card. Preserve the original hand shape, palm lines, skin texture, and natural details. Do not distort or redraw the hand.\r\nRight panel: create a separate black-and-white palm contour interpretation diagram based on the same hand. Highlight the main palm lines with thin precise lines and label them in Korean.\r\n\r\nInclude Korean labels and sections:\r\n“손금 분석 가이드”, “전체 요약”, “생명선”, “두뇌선”, “감정선”, “운명선”, “재물선”, “태양선”, “결혼선”, “성격”, “직업운”, “재물운”, “연애운”, “조언”, “확인 불가”.\r\n\r\nAnalyze palm shape, finger proportions, life line, head line, heart line, fate line, wealth line, sun line, marriage line, line depth, length, direction, breaks, branches, and overlaps. If something is unclear, write “확인 불가”. Keep the Korean interpretation short, realistic, calm, and advisory.\r\n\r\nDesign style:\r\n1:1 square format, white background, black and warm dark gray text, thin hairline dividers, rounded cards, subtle shadows, large margins, generous negative space, precise grid, minimal line pictograms, luxury editorial report, high-end wellness analysis, elegant and expensive-looking.\r\n\r\nNo English text, no roman letters, no broken Korean, no random glyphs, no colorful decoration, no cartoon style, no occult symbols, no tarot imagery, no horror mood, no messy background, no watermark.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Premium Korean Palm Reading Guide",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - Premium Korean Palm Reading Guide",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Premium Korean Palm Reading Guide",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Premium Korean Palm Reading Guide",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Premium Korean Palm Reading Guide",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Premium Korean Palm Reading Guide",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Premium Korean Palm Reading Guide",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed instruction set for analyzing a hand photo to generate a luxury-style palm reading report in Korean, featuring a two-panel layout with real and diagrammatic views.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ai_2tonghee/status/2048765643332465010",
+      "originalId": "https://x.com/ai_2tonghee/status/2048765643332465010",
+      "authors": [
+        {
+          "name": "동동",
+          "url": "https://x.com/ai_2tonghee"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2506
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a1311edaa9d71e35",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367279399_31um5p_HG6temWboAAJUpu.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367279399_31um5p_HG6temWboAAJUpu.jpg",
+      "localPath": "public/assets/prompt_b34722f145d337bb40bf/062429404e75.jpg",
+      "alt": "Infographic / Edu Visual - Premium Korean Palm Reading Guide - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.124Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.568Z"
+  }
+}

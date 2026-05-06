@@ -1,0 +1,175 @@
+{
+  "id": "prompt_0325b44927db2112e613",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a polished anime-style full-body illustration of {argument name=\"character description\" default=\"a fashionable young woman with long silvery-gray twin-tails\"} walking toward the viewer on a narrow rural village road on a bright summer day, with her face intentionally obscured by a soft square blur. She has voluminous wavy twin-tails tied high, a purple rose hair accessory, pale skin, a black choker, a black scrunchie bracelet, and glossy legs with a black floral vine tattoo on one calf. She wears an oversized slightly translucent wet-look white T-shirt with the bold text {argument name=\"shirt text\" default=\"HIMAINU\"} printed across the chest and a simple emoticon-style face underneath, paired with a short black frilly skirt with pale lavender ruffle trim and black Mary Jane platform shoes. In her left hand she holds a black leash attached to {argument name=\"dog description\" default=\"a small cream-colored curly toy poodle\"} walking beside her, tongue out and looking cheerful. The setting is {argument name=\"setting\" default=\"a scenic Japanese countryside village with rice fields, traditional wooden houses, roadside flowers, utility poles, and forested mountains\"}; include a dirt-and-gravel path, irrigation channels, lush green fields, deep blue sky, bright white cumulus clouds, strong midday sunlight, crisp shadows, vibrant saturated colors, and highly detailed anime background art. Use a vertical composition, eye-level perspective, centered character, dog in the lower left foreground, cinematic summer atmosphere, clean linework, delicate fabric highlights, detailed hair strands, and rich environmental depth.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张精致的动漫风格全身插画，画面中 {argument name=\"character description\" default=\"一位留着银灰色长双马尾的时尚年轻女性\"} 在明媚的夏日正午，沿着狭窄的乡村小道向观众走来，她的面部被刻意处理为柔和的方形模糊效果。她扎着高高的蓬松波浪双马尾，戴着紫色玫瑰发饰，皮肤白皙，颈部佩戴黑色项圈，手腕戴着黑色发圈，双腿光洁亮泽，其中一侧小腿上有黑色花藤纹身。她身穿一件超大号、略带半透明湿感效果的白色 T 恤，胸前印有醒目的 {argument name=\"shirt text\" default=\"HIMAINU\"} 字样，下方配有一个简单的表情符号，下身搭配一条带有淡紫色荷叶边装饰的黑色短褶裙，脚穿黑色玛丽珍厚底鞋。她的左手牵着一根黑色牵引绳，绳子另一端是 {argument name=\"dog description\" default=\"一只奶油色卷毛玩具贵宾犬\"}，小狗正吐着舌头，神情愉悦地走在她身旁。背景设定为 {argument name=\"setting\" default=\"风景优美的日本乡村，有稻田、传统木屋、路边野花、电线杆和森林覆盖的山脉\"}；画面需包含泥土碎石路、灌溉渠、郁郁葱葱的田野、深蓝色的天空、明亮的白色积云、强烈的正午阳光、清晰的阴影、鲜艳饱和的色彩以及细节丰富的动漫背景艺术。采用竖构图、平视视角、角色居中，小狗位于左下角前景，营造出电影般的夏日氛围，线条干净利落，织物高光细腻，发丝细节丰富，环境层次感强。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una ilustración de cuerpo completo estilo anime pulido de {argument name=\"character description\" default=\"una joven a la moda con coletas largas de color gris plateado\"} caminando hacia el espectador por un camino estrecho en un pueblo rural en un día brillante de verano, con su rostro intencionalmente oscurecido por un suave desenfoque cuadrado. Tiene coletas onduladas y voluminosas atadas en lo alto, un accesorio de rosa morada en el cabello, piel pálida, una gargantilla negra, una pulsera de scrunchie negra y piernas brillantes con un tatuaje de enredadera floral negra en una pantorrilla. Viste una camiseta blanca extragrande, ligeramente translúcida y con efecto mojado, con el texto en negrita {argument name=\"shirt text\" default=\"HIMAINU\"} impreso en el pecho y una cara sencilla estilo emoticono debajo, combinada con una falda corta negra con volantes y ribetes de color lavanda pálido, y zapatos negros de plataforma tipo Mary Jane. En su mano izquierda sostiene una correa negra unida a {argument name=\"dog description\" default=\"un pequeño caniche toy rizado de color crema\"} que camina a su lado, con la lengua afuera y luciendo alegre. El entorno es {argument name=\"setting\" default=\"un pintoresco pueblo rural japonés con campos de arroz, casas tradicionales de madera, flores a la orilla del camino, postes de luz y montañas boscosas\"}; incluye un camino de tierra y grava, canales de riego, campos verdes exuberantes, cielo azul profundo, nubes cúmulos blancas y brillantes, fuerte luz solar de mediodía, sombras nítidas, colores vibrantes y saturados, y un fondo de anime altamente detallado. Usa una composición vertical, perspectiva a la altura de los ojos, personaje centrado, perro en el primer plano inferior izquierdo, atmósfera cinematográfica de verano, líneas limpias, reflejos delicados en la tela, mechones de cabello detallados y una rica profundidad ambiental.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine hochwertige Ganzkörper-Illustration im Anime-Stil von {argument name=\"character description\" default=\"einer modischen jungen Frau mit langen silber-grauen Zöpfen\"}, die an einem hellen Sommertag auf einer schmalen Dorfstraße auf den Betrachter zuläuft, wobei ihr Gesicht absichtlich durch eine sanfte quadratische Unschärfe verdeckt ist. Sie hat voluminöse, wellige, hochgebundene Zöpfe, ein lilafarbenes Rosen-Haaraccessoire, blasse Haut, ein schwarzes Halsband, ein schwarzes Scrunchie-Armband und glänzende Beine mit einem schwarzen Blumenranken-Tattoo an einer Wade. Sie trägt ein übergroßes, leicht transparentes, weißes T-Shirt im Wet-Look mit dem fetten Schriftzug {argument name=\"shirt text\" default=\"HIMAINU\"} auf der Brust und einem einfachen Emoticon-Gesicht darunter, kombiniert mit einem kurzen schwarzen Rüschenrock mit helllavendelfarbenem Saum und schwarzen Mary-Jane-Plateauschuhen. In ihrer linken Hand hält sie eine schwarze Leine, die an {argument name=\"dog description\" default=\"einem kleinen cremefarbenen, lockigen Zwergpudel\"} befestigt ist, der neben ihr läuft, die Zunge herausstreckt und fröhlich aussieht. Der Schauplatz ist {argument name=\"setting\" default=\"ein malerisches japanisches Dorf auf dem Land mit Reisfeldern, traditionellen Holzhäusern, Blumen am Straßenrand, Strommasten und bewaldeten Bergen\"}; füge einen Feld- und Kiesweg, Bewässerungskanäle, üppig grüne Felder, einen tiefblauen Himmel, strahlend weiße Kumuluswolken, starkes Mittagssonnenlicht, scharfe Schatten, lebendige, gesättigte Farben und einen hochdetaillierten Anime-Hintergrund hinzu. Verwende eine vertikale Komposition, eine Perspektive auf Augenhöhe, eine zentrierte Figur, den Hund im linken unteren Vordergrund, eine filmische Sommeratmosphäre, klare Linienführung, zarte Stoffreflexionen, detaillierte Haarsträhnen und eine reiche räumliche Tiefe.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une illustration complète de style anime soigné représentant {argument name=\"character description\" default=\"une jeune femme élégante avec de longues couettes gris argenté\"} marchant vers le spectateur sur un chemin étroit dans un village rural par une journée d'été lumineuse, son visage étant volontairement masqué par un léger flou carré. Elle porte des couettes ondulées volumineuses attachées haut, un accessoire de cheveux en forme de rose violette, une peau pâle, un tour de cou noir, un bracelet chouchou noir et des jambes brillantes avec un tatouage de vigne florale noire sur un mollet. Elle porte un T-shirt blanc oversize légèrement translucide à l'aspect mouillé avec le texte en gras {argument name=\"shirt text\" default=\"HIMAINU\"} imprimé sur la poitrine et un visage simple de style émoticône en dessous, associé à une courte jupe noire à volants avec une bordure lavande pâle et des chaussures Mary Jane à plateforme noires. Dans sa main gauche, elle tient une laisse noire attachée à {argument name=\"dog description\" default=\"un petit caniche toy frisé de couleur crème\"} qui marche à ses côtés, la langue tirée et l'air joyeux. Le décor est {argument name=\"setting\" default=\"un village pittoresque de la campagne japonaise avec des rizières, des maisons traditionnelles en bois, des fleurs sauvages au bord de la route, des poteaux électriques et des montagnes boisées\"} ; incluez un chemin de terre et de gravier, des canaux d'irrigation, des champs verdoyants, un ciel bleu profond, des nuages cumulus blancs éclatants, un fort soleil de midi, des ombres nettes, des couleurs saturées vibrantes et un arrière-plan anime très détaillé. Utilisez une composition verticale, une perspective à hauteur d'yeux, un personnage centré, le chien au premier plan en bas à gauche, une atmosphère estivale cinématographique, un trait net, des reflets délicats sur le tissu, des mèches de cheveux détaillées et une riche profondeur environnementale.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'illustrazione anime a figura intera e curata di {argument name=\"character description\" default=\"una giovane donna alla moda con lunghe code color grigio argento\"} che cammina verso l'osservatore su una stretta strada di un villaggio rurale in una luminosa giornata estiva, con il volto intenzionalmente oscurato da un leggero effetto sfocato quadrato. Ha voluminose code ondulate legate in alto, un accessorio per capelli a forma di rosa viola, pelle chiara, un choker nero, un braccialetto elastico nero e gambe lucide con un tatuaggio floreale a vite su un polpaccio. Indossa una T-shirt bianca oversize, leggermente traslucida e dall'effetto bagnato, con il testo in grassetto {argument name=\"shirt text\" default=\"HIMAINU\"} stampato sul petto e un semplice volto in stile emoticon sotto, abbinata a una gonna corta nera con volant color lavanda pallido e scarpe Mary Jane nere con plateau. Nella mano sinistra tiene un guinzaglio nero attaccato a {argument name=\"dog description\" default=\"un piccolo barboncino toy color crema\"} che cammina al suo fianco, con la lingua di fuori e un'espressione allegra. L'ambientazione è {argument name=\"setting\" default=\"un pittoresco villaggio rurale giapponese con risaie, case tradizionali in legno, fiori lungo la strada, pali della luce e montagne boscose\"}; includi un sentiero di terra e ghiaia, canali di irrigazione, campi verdeggianti, cielo blu intenso, luminose nuvole cumulo bianche, forte luce solare di mezzogiorno, ombre nette, colori vivaci e saturi e uno sfondo anime altamente dettagliato. Usa una composizione verticale, prospettiva ad altezza occhi, personaggio centrato, cane in primo piano in basso a sinistra, atmosfera estiva cinematografica, linee pulite, delicati riflessi sul tessuto, ciocche di capelli dettagliate e una ricca profondità ambientale.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma ilustração de corpo inteiro em estilo anime refinado de {argument name=\"character description\" default=\"uma jovem estilosa com longas maria-chiquinhas cinza-prateadas\"} caminhando em direção ao observador em uma estrada estreita de uma vila rural em um dia ensolarado de verão, com seu rosto intencionalmente obscurecido por um desfoque quadrado suave. Ela tem maria-chiquinhas volumosas e onduladas presas no alto, um acessório de cabelo de rosa roxa, pele pálida, uma gargantilha preta, uma pulseira de scrunchie preta e pernas brilhantes com uma tatuagem de videira floral preta em uma das panturrilhas. Ela veste uma camiseta branca oversized, levemente translúcida e com efeito molhado, com o texto em negrito {argument name=\"shirt text\" default=\"HIMAINU\"} estampado no peito e um rosto simples estilo emoticon abaixo, combinada com uma saia preta curta com babados, acabamento em lavanda claro e sapatos plataforma Mary Jane pretos. Em sua mão esquerda, ela segura uma guia preta presa a {argument name=\"dog description\" default=\"um pequeno poodle toy encaracolado cor de creme\"} que caminha ao seu lado, com a língua para fora e uma expressão alegre. O cenário é {argument name=\"setting\" default=\"uma pitoresca vila rural japonesa com campos de arroz, casas de madeira tradicionais, flores à beira da estrada, postes de luz e montanhas arborizadas\"}; inclua um caminho de terra e cascalho, canais de irrigação, campos verdejantes, céu azul profundo, nuvens cúmulos brancas e brilhantes, luz solar forte do meio-dia, sombras nítidas, cores vibrantes e saturadas e arte de fundo em anime altamente detalhada. Use uma composição vertical, perspectiva ao nível dos olhos, personagem centralizada, cachorro no primeiro plano inferior esquerdo, atmosfera cinematográfica de verão, traços limpos, destaques delicados no tecido, fios de cabelo detalhados e rica profundidade ambiental.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Anime Countryside Dog Walk T-Shirt Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 动漫乡村遛狗 T 恤场景",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Escena de camiseta con perro en el campo estilo anime",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Anime-Szene: Spaziergang mit Hund auf dem Land",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Scène de T-shirt avec chien dans la campagne façon anime",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Scena T-shirt Anime: Passeggiata con cane in campagna",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Cena de Camiseta com Cachorro no Campo em Estilo Anime",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a vibrant anime illustration of a fashionable girl in a custom T-shirt walking a small dog through a sunny rural Japanese village.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张充满活力的动漫插画，描绘了一位穿着定制 T 恤的时尚女孩在阳光明媚的日本乡村小道上遛小狗的场景。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une illustration anime vibrante d'une jeune fille stylée portant un T-shirt personnalisé, promenant un petit chien dans un village rural japonais ensoleillé.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/am_azarashi_/status/2051298905892241605#reversed-0",
+      "originalId": "https://x.com/am_azarashi_/status/2051298905892241605#reversed-0",
+      "authors": [
+        {
+          "name": "AMアザラシ🦭Ph.D.",
+          "url": "https://x.com/am_azarashi_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3667
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dcaf9880a8036847",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971052498_xam4k1_HHetetIa4AAJKk4.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971052498_xam4k1_HHetetIa4AAJKk4.jpg",
+      "localPath": "public/assets/prompt_0325b44927db2112e613/2eb9dd3bbd1f.jpg",
+      "alt": "Comic / Storyboard - Anime Countryside Dog Walk T-Shirt Scene - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.842Z"
+  }
+}

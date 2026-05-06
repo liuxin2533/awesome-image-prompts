@@ -1,0 +1,107 @@
+{
+  "id": "prompt_33ed2a44cfbfc3070da2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "縦型3:4の、高級商業ポスターを制作してください。\n\nテーマは、架空の新商品広告です。商品は「BRAND PRESS 01（ブランドプレス・ゼロワン）」という、Pollo AIを搭載した架空の広告ポスター生成プリンターです。\n\nこの商品は、まだ存在しないブランド名・商品ジャンル・世界観・ターゲット層を入力すると、Pollo AIがコピー、ビジュアル、レイアウトまで完成された商業広告ポスターを自動生成し、高精細な印刷物としてその場で出力する未来型プリンターです。単なるAIサービスの概念広告ではなく、実際に販売されていそうな架空商品の広告として成立させてください。\n\nメインコンセプト: 「まだないブランドに、最初の一目惚れを。」\n\n商品ビジュアル: 画面中央に実物の商品「BRAND PRESS 01」を大きく配置。未来型の高級プロ用印刷デバイスとして、黒い金属筐体、シルバーのエッジ、透明カバー、青白く発光するAIコア、精密な印刷ヘッド、ローラー、タッチパネル、排紙スロット、ポスター受けトレイを備える。排紙スロットから、架空の高級香水ブランド広告ポスターが紙として大きく出力されている構図。\n\n構図: ややローアングル、斜め45度。背景は暗いネイビーから黒の高級広告制作スタジオ。映画的でドラマチックな高級プロダクト広告。\n\n広告レイアウト: 上部に大きなキャッチコピー、中央にプリンター本体と排出中のポスター、右側に機能説明、左下に価格と発売日、下部にCTA。\n\n入れる文字: 「まだないブランドに、最初の一目惚れを。」 / BRAND PRESS 01 / 「Pollo AI搭載・広告ポスター生成プリンター」 / 「名前だけのアイデアを、完成された商業ポスターとして出力。」 / 「構想、コピー、ビジュアル、印刷まで。1台で。」",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个动态的2×2网格拼贴，展示现代户外运动服装广告海报，每个面板代表不同的冒险生活方式品牌。高能量、编辑风格的构图，配以粗体字体和纹理图形设计。\n\n左上角面板：\n运动型男模特穿着亮蓝色保暖冬季夹克、黑色滑雪裤、手套和太阳镜，在雪地环境中向前迈步。雪花飞舞，戏剧性动作。背景有粗糙的蓝色画笔笔触。粗体做旧字体显示：\"NEVER STOP EXPLORING。\"附加小文本：\"Built for extremes。\"高对比度，粗犷的冬季探索主题。\n\n右上角面板：\n健壮的男性登山者攀爬岩石地形，穿着橄榄绿衬衫、黑色徒步裤，以及带有橙色肩带的黑色大背包。尘土和碎屑从地面扬起。背景包括橙色笔触和素描山脉图形。粗体文字：\"BUILT FOR HERE – INDIA TESTED。\"手写印地语口音和箭头。温暖的土色调。\n\n左下角面板：\n平静的户外场景，一名男性模特坐在岩石上，穿着绿色夹克、针织帽、太阳镜和徒步鞋。背景有简约的山景插图，色调柔和的绿色。字体显示：\"ESCAPE THE NOISE – JUST GO OUTSIDE。\"干净、放松、以自然为中心的美学，带有微妙的图形元素。\n\n右下角面板：\n充满活力的女性跑步者穿着紫色运动T恤、黑色短裤和跑鞋。明亮、活泼的背景，有紫色和黄色油漆飞溅、涂鸦、箭头和太阳插图。粗体字体：\"READY FOR EVERYONE – START YOUR JOURNEY。\"年轻、充满活力的健身能量。\n\n整体风格：\n\n高分辨率、照片写实的运动服装活动\n大胆的笔触纹理和做旧叠加\n混合字体：做旧、手写和现代无衬线字体\n每个面板强烈的色彩分区（蓝色、橙色、绿色、紫色）\n传达运动、力量和冒险的动态姿势\n干净的网格布局，间距均衡\n商业广告/品牌活动美学（耐克、迪卡侬风格）\n照明：专业、电影级照明，细节清晰，对比度高\n氛围：充满活力、冒险、激励人心\n宽高比：1:1（方形拼贴）",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:45:03.301Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Luxury poster for fictional AI ad printer",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "户外运动服网格活动",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:45:05.456Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ad-creative-cases",
+      "value": "Ad Creative Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/nijisora_yuma/status/2049462065639858687",
+      "originalId": "case-168",
+      "authors": [
+        {
+          "name": "nijisora_yuma",
+          "url": "https://x.com/nijisora_yuma"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 547
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_bd88845f41288fe8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg",
+      "localPath": "public/assets/prompt_33ed2a44cfbfc3070da2/624511538630.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:10:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

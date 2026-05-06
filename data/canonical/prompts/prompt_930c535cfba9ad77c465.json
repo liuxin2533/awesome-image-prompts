@@ -1,0 +1,108 @@
+{
+  "id": "prompt_930c535cfba9ad77c465",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"4-panel satirical product advertisement grid\",\r\n  \"layout\": {\r\n    \"grid\": \"2x2\",\r\n    \"panels\": [\r\n      {\r\n        \"position\": \"top-left\",\r\n        \"product_name\": \"{argument name=\\\"top left product name\\\" default=\\\"座る石\\\"}\",\r\n        \"visual\": \"man in white shirt and dark pants sitting on a large round stone in a park\",\r\n        \"catchphrase\": \"いつでも、どこでも、落ち着ける。\",\r\n        \"sales_badge\": \"累計販売数 12,000個 突破!\",\r\n        \"vertical_text\": \"公園のベンチが埋まっていた日に。\",\r\n        \"features_count\": 3,\r\n        \"features_labels\": [\r\n          \"重さ約8kgで安定感抜群\",\r\n          \"底面フェルト加工で傷つけにくい\",\r\n          \"付属の専用ベルトで持ち運び簡単\"\r\n        ],\r\n        \"extra_visual\": \"small inset image of the stone with a leather carrying strap\",\r\n        \"specs\": [\r\n          \"耐荷重 150kg\",\r\n          \"安心の日本製\"\r\n        ]\r\n      },\r\n      {\r\n        \"position\": \"top-right\",\r\n        \"product_name\": \"{argument name=\\\"top right product name\\\" default=\\\"磨きたくない人の歯ブラシ\\\"}\",\r\n        \"visual\": \"sleek light blue toothbrush angled diagonally on a dark blue background\",\r\n        \"toothbrush_text\": \"I don't want to brush my yeeth.\",\r\n        \"catchphrase\": \"持っているだけで安心感\",\r\n        \"vertical_text\": \"歯を磨く代わりに、これを持つ。\",\r\n        \"sales_badge\": \"シリーズ累計販売数 85,000本 突破!\",\r\n        \"features_count\": 3,\r\n        \"features_labels\": [\r\n          \"気持ちを落ち着けるお守り代わりに\",\r\n          \"会議や商談前のエチケットに\",\r\n          \"磨かない選択を、もっと自由に。\"\r\n        ],\r\n        \"bottom_banner\": \"歯磨きストレスから、あなたを解放する。\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-left\",\r\n        \"product_name\": \"{argument name=\\\"bottom left product name\\\" default=\\\"雲の貯金箱\\\"}\",\r\n        \"visual\": \"hand inserting a coin into a fluffy white cloud-shaped piggy bank\",\r\n        \"catchphrase\": \"空気より軽い、安心感。\",\r\n        \"sales_badge\": \"累計販売数 23,567個 突破!\",\r\n        \"features_count\": 3,\r\n        \"features_labels\": [\r\n          \"ふわふわの触り心地\",\r\n          \"割れないから安心\",\r\n          \"インテリアに馴染むデザイン\"\r\n        ],\r\n        \"color_variants_count\": 3,\r\n        \"color_variants_labels\": [\r\n          \"blue\",\r\n          \"pink\",\r\n          \"white\"\r\n        ],\r\n        \"price\": \"¥2,980 (税込)\",\r\n        \"bottom_text\": \"今日から、空に向かってコツコツ貯めよう。\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-right\",\r\n        \"product_name\": \"{argument name=\\\"bottom right product name\\\" default=\\\"叱ってくれる石\\\"}\",\r\n        \"visual\": \"round stone on a wooden desk with a pen, text written on the stone\",\r\n        \"stone_text\": \"{argument name=\\\"scolding phrase\\\" default=\\\"いいかげんやれ\\\"}\",\r\n        \"catchphrase\": \"やる気が出ないあなたへ。\",\r\n        \"sales_badge\": \"累計販売数 18,000個 突破!\",\r\n        \"features_count\": 3,\r\n        \"features_labels\": [\r\n          \"見るたびに心を奮い立たせる\",\r\n          \"厳選された言葉をランダム表示\",\r\n          \"電池不要、半永久的に叱ってくれる\"\r\n        ],\r\n        \"phrase_variants_count\": 10,\r\n        \"phrase_variants_labels\": [\r\n          \"甘えるな\",\r\n          \"考えるな\",\r\n          \"動け\",\r\n          \"現実を見ろ\",\r\n          \"逃げるな\",\r\n          \"寝るな\",\r\n          \"やればできる\",\r\n          \"お前ならできる\",\r\n          \"寝るな\",\r\n          \"もう言い訳するな\"\r\n        ],\r\n        \"price\": \"¥3,500 (税込)\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"4-panel satirical product advertisement grid\",\n  \"layout\": {\n    \"grid\": \"2x2\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"product_name\": \"{argument name=\\\"top left product name\\\" default=\\\"Sitting Stone\\\"}\",\n        \"visual\": \"man in white shirt and dark pants sitting on a large round stone in a park\",\n        \"catchphrase\": \"Relax anytime, anywhere.\",\n        \"sales_badge\": \"Total sales exceeded 12,000 units!\",\n        \"vertical_text\": \"On the day when all the park benches were full.\",\n        \"features_count\": 3,\n        \"features_labels\": [\n          \"Stable with weight of about 8kg\",\n          \"Felt bottom prevents scratches\",\n          \"Easy to carry with included dedicated strap\"\n        ],\n        \"extra_visual\": \"small inset image of the stone with a leather carrying strap\",\n        \"specs\": [\n          \"Load capacity: 150kg\",\n          \"Reliable Japanese made\"\n        ]\n      },\n      {\n        \"position\": \"top-right\",\n        \"product_name\": \"{argument name=\\\"top right product name\\\" default=\\\"Toothbrush for people who don't want to brush\\\"}\",\n        \"visual\": \"sleek light blue toothbrush angled diagonally on a dark blue background\",\n        \"toothbrush_text\": \"I don't want to brush my yeeth.\",\n        \"catchphrase\": \"Peace of mind just by having it\",\n        \"vertical_text\": \"Instead of brushing your teeth, hold this.\",\n        \"sales_badge\": \"Series total sales exceeded 85,000 units!\",\n        \"features_count\": 3,\n        \"features_labels\": [\n          \"As a substitute for a calming charm\",\n          \"As etiquette before meetings or business negotiations\",\n          \"More freedom in choosing not to brush.\"\n        ],\n        \"bottom_banner\": \"Liberating you from the stress of brushing your teeth.\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"product_name\": \"{argument name=\\\"bottom left product name\\\" default=\\\"Cloud Piggy Bank\\\"}\",\n        \"visual\": \"hand inserting a coin into a fluffy white cloud-shaped piggy bank\",\n        \"catchphrase\": \"Peace of mind lighter than air.\",\n        \"sales_badge\": \"Total sales exceeded 23,567 units!\",\n        \"features_count\": 3,\n        \"features_labels\": [\n          \"Fluffy soft touch\",\n          \"Unbreakable for peace of mind\",\n          \"Design that blends with interior decor\"\n        ],\n        \"color_variants_count\": 3,\n        \"color_variants_labels\": [\n          \"blue\",\n          \"pink\",\n          \"white\"\n        ],\n        \"price\": \"¥2,980 (tax included)\",\n        \"bottom_text\": \"Starting today, let's save bit by bit toward the sky.\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"product_name\": \"{argument name=\\\"bottom right product name\\\" default=\\\"Stone that scolds you\\\"}\",\n        \"visual\": \"round stone on a wooden desk with a pen, text written on the stone\",\n        \"stone_text\": \"{argument name=\\\"scolding phrase\\\" default=\\\"Stop messing around\\\"}\",\n        \"catchphrase\": \"For those who lack motivation.\",\n        \"sales_badge\": \"Total sales exceeded 18,000 units!\",\n        \"features_count\": 3,\n        \"features_labels\": [\n          \"Motivates you every time you look at it\",\n          \"Displays carefully selected phrases randomly\",\n          \"No batteries needed, scolds you semi-permanently\"\n        ],\n        \"phrase_variants_count\": 10,\n        \"phrase_variants_labels\": [\n          \"Don't be spoiled\",\n          \"Don't think\",\n          \"Move\",\n          \"Face reality\",\n          \"Don't run away\",\n          \"Don't sleep\",\n          \"You can do it if you try\",\n          \"You can do it\",\n          \"Don't sleep\",\n          \"Stop making excuses\"\n        ],\n        \"price\": \"¥3,500 (tax included)\"\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:58:34.378Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "人物角色设定图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Character design sheet",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:58:36.635Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e8758dc0b4",
+      "value": "人物角色设定图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-54",
+      "originalId": "case-54",
+      "authors": [
+        {
+          "name": "fukumy_ai",
+          "url": "https://x.com/fukumy_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1292
+        }
+      ],
+      "rawSource": "[@fukumy\\_ai](https://x.com/fukumy_ai)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c04501757fa226cc",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case54.jpg",
+      "upstreamPath": "../data/images/case54.jpg",
+      "localPath": "public/assets/prompt_930c535cfba9ad77c465/cc687cc6a1e1.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "角色",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

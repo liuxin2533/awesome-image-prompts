@@ -1,0 +1,106 @@
+{
+  "id": "prompt_6b1867ea2f785253e10a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "夏季女裙电商详情图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Summer women's dress e-commerce detail image",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "清新夏日女装连衣裙电商展示",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Fresh Summer Women's Dresses E-commerce Showcase",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:40:15.908Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_dde9e34d34",
+      "value": "清新夏日女装连衣裙电商展示",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-189",
+      "originalId": "case-189",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046544209117634735"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 632
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046544209117634735)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3d4ecca806c7c6fd",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case189.jpg",
+      "upstreamPath": "../data/images/case189.jpg",
+      "localPath": "public/assets/prompt_6b1867ea2f785253e10a/8e032a4f73d8.jpg",
+      "alt": "清新夏日女装连衣裙电商展示",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "e-commerce",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "prompt_b6f7f45ba8bb29a860f3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A luxurious editorial product photograph of a single perfume bottle nestled into dense, plush faux fur in rich golden caramel and honey-brown tones. Center the composition on one clear oval glass bottle filled with warm amber liquid, with a glossy rounded black cap and a clean white rectangular label. The label text should read {argument name=\"brand name\" default=\"BYREDO\"} at the top, {argument name=\"product name\" default=\"BAL D’AFRIQUE\"} large in the middle, and {argument name=\"product type\" default=\"EAU DE PARFUM\"} in small text near the bottom. Shoot it as a close-up still life with soft studio lighting, subtle highlights on the glass and cap, gentle shadows in the folds of the fur, and a warm cinematic color palette. The bottle should sit slightly embedded in the fur so the surrounding texture frames it from all sides, creating a premium fashion editorial mood, minimal composition, shallow depth of field, crisp focus on the label, and a high-end beauty campaign aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Editorial Perfume Bottle in Golden Fur",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ad-creative-cases",
+      "value": "Ad Creative Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Salmaaboukarr/status/2048103506125463983",
+      "originalId": "case-149",
+      "authors": [
+        {
+          "name": "Salmaaboukarr",
+          "url": "https://x.com/Salmaaboukarr"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 465
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f6a5b53b422a9d0f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case149/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case149/output.jpg",
+      "localPath": "public/assets/prompt_b6f7f45ba8bb29a860f3/d59e29b73186.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "营销",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.599Z"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "prompt_f94979e66a5f8dcc0e97",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a product creative for '{argument name=\"brand name\" default=\"Over.X\"},' a {argument name=\"product type\" default=\"hair restoration shampoo\"}, featuring a {argument name=\"model\" default=\"cute woman\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为“{argument name=\"brand name\" default=\"Over.X\"}”创作一个产品创意，这是一款“{argument name=\"product type\" default=\"防脱洗发水\"}”，画面中包含一位“{argument name=\"model\" default=\"可爱的女性\"}”",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un contenido creativo de producto para '{argument name=\"brand name\" default=\"Over.X\"},' un {argument name=\"product type\" default=\"champú de restauración capilar\"}, que incluya a una {argument name=\"model\" default=\"mujer atractiva\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein Produkt-Creative für '{argument name=\"brand name\" default=\"Over.X\"}', ein {argument name=\"product type\" default=\"Haarwuchsshampoo\"}, mit einer {argument name=\"model\" default=\"attraktiven Frau\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un visuel créatif pour « {argument name=\"brand name\" default=\"Over.X\"} », un {argument name=\"product type\" default=\"shampoing de restauration capillaire\"}, mettant en scène {argument name=\"model\" default=\"une femme mignonne\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un contenuto creativo per '{argument name=\"brand name\" default=\"Over.X\"}', uno {argument name=\"product type\" default=\"shampoo ristrutturante\"}, con una {argument name=\"model\" default=\"donna dall'aspetto grazioso\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um criativo de produto para '{argument name=\"brand name\" default=\"Over.X\"}', um {argument name=\"product type\" default=\"shampoo de restauração capilar\"}, apresentando uma {argument name=\"model\" default=\"mulher atraente\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Shampoo Product Creative Prompt",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 洗发水产品创意提示词",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Prompt creativo para producto de champú",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Produkt-Creative-Prompt für Shampoo",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Prompt créatif pour produit de shampoing",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Prompt creativo per prodotto shampoo",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Prompt Criativo para Produto de Shampoo",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A simple prompt for generating product creative for a hair restoration shampoo featuring a female model.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于生成洗发水产品创意的简单提示词，展示一位女性模特使用防脱洗发水。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt simple pour générer un visuel créatif pour un shampoing de restauration capillaire mettant en scène un modèle féminin.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/boostkun/status/2048250748559892771",
+      "originalId": "https://x.com/boostkun/status/2048250748559892771",
+      "authors": [
+        {
+          "name": "Mr.ぶーすとくん",
+          "url": "https://x.com/boostkun"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4737
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_bda22e9b87252e22",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280781741_r5q47s_HGzZMdQXUAAlzgT.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280781741_r5q47s_HGzZMdQXUAAlzgT.jpg",
+      "localPath": "public/assets/prompt_f94979e66a5f8dcc0e97/5a8afda02421.jpg",
+      "alt": "E-commerce Main Image - Shampoo Product Creative Prompt - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-25T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

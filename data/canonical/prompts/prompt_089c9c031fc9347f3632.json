@@ -1,0 +1,111 @@
+{
+  "id": "prompt_089c9c031fc9347f3632",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "根据【XXX主题】自动生成一张收藏版史诗叙事海报：巨大优雅的人物侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围。整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光式联想，但更偏电影海报与梦幻水彩插画融合风格；柔和空气透视，轻雾化过渡，纸张颗粒，边缘飞白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感强。风格、色彩、场景、材质全部根据主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。画面中需自然加入专属签名“WHY”，作为海报设计的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像收藏版海报的作者落款或设计签章；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀廉价。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Based on 【XXX theme】, automatically generate a collectible epic narrative poster: a large, elegant silhouette of a person's profile as the outer outline, with the interior automatically growing a complete world view, iconic scenes, character relationships, symbolic elements, key architecture, creatures, props, and atmosphere that best match the theme. The overall composition is not a regular collage, but an advanced silhouette-filled narrative synthesis with double-exposure-like associations, leaning more toward a fusion of movie poster and dreamy watercolor illustration style; soft aerial perspective, light misty transitions, paper grain, white edges and brush strokes, ample white space, restrained and sophisticated layout, quiet, grand, sacred, nostalgic, poetic, and strongly legendary. Style, color, scene, and materials all automatically adapt to the theme, all elements must be strongly bound to the theme, instantly recognizable, not cluttered, not forced collage, not templated backgrounds, not cheap fantasy assets. The image must naturally include the exclusive signature \"WHY\" as part of the poster design, placed discreetly but clearly, which can be in the bottom left, bottom right, or near the title, with a style that must be unified with the overall layout, like an autograph or designer's seal for a collectible poster; the signature font should be exquisite, restrained, and sophisticated, not too large, not disrupting the main composition, not appearing cheap or out of place.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:44:29.325Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Theme poster layout design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:44:31.762Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-5",
+      "originalId": "case-5",
+      "authors": [
+        {
+          "name": "6455654397",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 85
+        }
+      ],
+      "rawSource": "小红书号6455654397"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_820cfc191bc3eab3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case5.jpg",
+      "upstreamPath": "../data/images/case5.jpg",
+      "localPath": "public/assets/prompt_089c9c031fc9347f3632/08c0a4abc615.jpg",
+      "alt": "根据【XXX主题】自动生成一张收藏版史诗叙事海报：...",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "movie poster",
+      "海报",
+      "插画",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

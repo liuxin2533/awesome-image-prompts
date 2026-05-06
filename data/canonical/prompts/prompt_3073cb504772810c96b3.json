@@ -1,0 +1,101 @@
+{
+  "id": "prompt_3073cb504772810c96b3",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"2x2 advertising banner grid\",\r\n  \"layout\": \"4 distinct quadrants, each featuring a different industry advertisement\",\r\n  \"quadrants\": [\r\n    {\r\n      \"position\": \"top-left\",\r\n      \"industry\": \"skincare\",\r\n      \"visuals\": \"Asian woman touching cheek, floating water droplets, white pump bottle\",\r\n      \"brand\": \"BALANCÉE\",\r\n      \"copy\": {\r\n        \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"素肌が、目覚める。\\\"}\",\r\n        \"subheadline\": \"透明感あふれる、新しいわたしへ。\",\r\n        \"features_count\": 3,\r\n        \"features_labels\": [\"高保湿\", \"肌荒れ予防\", \"美白ケア*\"]\r\n      }\r\n    },\r\n    {\r\n      \"position\": \"top-right\",\r\n      \"industry\": \"restaurant food\",\r\n      \"visuals\": \"close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting\",\r\n      \"brand\": \"Trattoria Luce\",\r\n      \"copy\": {\r\n        \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"このパスタ、事件級。\\\"}\",\r\n        \"badge\": \"期間限定\",\r\n        \"description\": \"黒毛和牛のボロネーゼ 〜トリュフの香り〜\"\r\n      }\r\n    },\r\n    {\r\n      \"position\": \"bottom-left\",\r\n      \"industry\": \"travel\",\r\n      \"visuals\": \"woman with backpack facing a scenic mountain lake, bright daylight\",\r\n      \"brand\": \"NATURE JOURNEY\",\r\n      \"copy\": {\r\n        \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"わたしを、解き放つ旅へ。\\\"}\",\r\n        \"subheadline\": \"自然の中で、心が動き出す。\",\r\n        \"script\": \"Find your freedom.\",\r\n        \"banner_details\": [\"初夏の特別キャンペーン\", \"6.1 SAT - 6.30 SUN\", \"最大 20%OFF\", \"今だけの特別プラン多数！\"]\r\n      }\r\n    },\r\n    {\r\n      \"position\": \"bottom-right\",\r\n      \"industry\": \"SaaS app\",\r\n      \"visuals\": \"smartphone displaying a task management app interface with 4 schedule items\",\r\n      \"brand\": \"{argument name=\\\"app brand name\\\" default=\\\"Taskme\\\"}\",\r\n      \"copy\": {\r\n        \"headline\": \"{argument name=\\\"app headline\\\" default=\\\"タスク管理を、もっとシンプルに、スマートに。\\\"}\",\r\n        \"circle_badge\": \"1日を、デザインしよう。\",\r\n        \"features_count\": 3,\r\n        \"features_labels\": [\"直感的な操作性\", \"チームで共有可能\", \"どこでもアクセス\"],\r\n        \"bottom_banner\": \"7日間無料トライアル実施中！\"\r\n      }\r\n    }\r\n  ]\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"2x2 advertising banner grid\",\n  \"layout\": \"4 distinct quadrants, each featuring a different industry advertisement\",\n  \"quadrants\": [\n    {\n      \"position\": \"top-left\",\n      \"industry\": \"skincare\",\n      \"visuals\": \"Asian woman touching cheek, floating water droplets, white pump bottle\",\n      \"brand\": \"BALANCÉE\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"Bare skin awakens.\\\"}\",\n        \"subheadline\": \"Toward a new me, full of radiance.\",\n        \"features_count\": 3,\n        \"features_labels\": [\"High hydration\", \"Prevents skin irritation\", \"Whitening care*\"]\n      }\n    },\n    {\n      \"position\": \"top-right\",\n      \"industry\": \"restaurant food\",\n      \"visuals\": \"close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting\",\n      \"brand\": \"Trattoria Luce\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"This pasta is legendary.\\\"}\",\n        \"badge\": \"Limited time\",\n        \"description\": \"Wagyu beef bolognese ~ Truffle aroma ~\"\n      }\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"industry\": \"travel\",\n      \"visuals\": \"woman with backpack facing a scenic mountain lake, bright daylight\",\n      \"brand\": \"NATURE JOURNEY\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"A journey to set me free.\\\"}\",\n        \"subheadline\": \"In nature, my heart begins to move.\",\n        \"script\": \"Find your freedom.\",\n        \"banner_details\": [\"Early summer special campaign\", \"6.1 SAT - 6.30 SUN\", \"Up to 20% OFF\", \"Many special plans available now!\"]\n      }\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"industry\": \"SaaS app\",\n      \"visuals\": \"smartphone displaying a task management app interface with 4 schedule items\",\n      \"brand\": \"{argument name=\\\"app brand name\\\" default=\\\"Taskme\\\"}\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"app headline\\\" default=\\\"Make task management simpler and smarter.\\\"}\",\n        \"circle_badge\": \"Design your day.\",\n        \"features_count\": 3,\n        \"features_labels\": [\"Intuitive operation\", \"Shareable with team\", \"Accessible anywhere\"],\n        \"bottom_banner\": \"Free 7-day trial now available!\"\n      }\n    }\n  ]\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:10:32.101Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-151",
+      "originalId": "case-151",
+      "authors": [
+        {
+          "name": "kitune_fire45",
+          "url": "https://x.com/kitune_fire45"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6105
+        }
+      ],
+      "rawSource": "[@kitune\\_fire45](https://x.com/kitune_fire45)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9e09db0ca2c30b5e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case151.jpg",
+      "upstreamPath": "../data/images/case151.jpg",
+      "localPath": "public/assets/prompt_3073cb504772810c96b3/4bfb43be940b.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "prompt_0861a57a55f97e8eb894",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "日出时分薰衣草田中女子的水平三联画。\n上部：半身像，闭着眼睛，淡紫色连衣裙，一只手放在头发里，模糊的薰衣草前景。\n中部：特写镜头，看着镜头，蓬乱的头发，薄纱围巾，脸上的阳光。\n下部：四分之三镜头，手持薰衣草花束，飘逸的裙子，柔和的粉彩天空，温暖的梦幻色调。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Horizontal triptych of a woman in a lavender field at sunrise.\nTop: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender foreground.\nMiddle: Close-up, looking at camera, tousled hair, sheer scarf, sunlight on face.\nBottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel sky, warm dreamy tones.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "晨曦薰衣草田梦幻少女三联画",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Dreamy Maiden Triptych in Morning Lavender Field",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:44:07.643Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0a15975017",
+      "value": "晨曦薰衣草田梦幻少女三联画",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-311",
+      "originalId": "case-311",
+      "authors": [
+        {
+          "name": "Naiknelofar788",
+          "url": "https://x.com/Naiknelofar788/status/2028417667846341062"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 4188
+        }
+      ],
+      "rawSource": "[@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_82e86d67de9dcf5d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case311.jpg",
+      "upstreamPath": "../data/images/case311.jpg",
+      "localPath": "public/assets/prompt_0861a57a55f97e8eb894/f761997c7bba.jpg",
+      "alt": "晨曦薰衣草田梦幻少女三联画",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "prompt_336f31a47e786612f194",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a premium modern beverage advertisement poster in a vertical 3:4 format featuring a stylish young female model crouching confidently in a bright urban indoor hallway with colorful graffiti wall art on one side and clean minimal architecture on the other. In the foreground, a giant realistic fruit juice bottle is held toward the camera in forced perspective, with fictional branding like “VIVAJUICE”. Add brand logo, tagline, huge bold overlapping typography, four icon-based feature badges, and three smaller bottle variants at bottom right. Use soft natural lighting mixed with commercial studio polish, realistic shadows, shallow depth of field, glossy floor reflections, and a premium energetic eCommerce campaign aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端咖啡馆风格的产品照片，展示一个装满冰咖啡的透明玻璃杯，中心放置在柔和的米色和奶油色无缝工作室背景前。饮品呈现出浓郁的深咖啡底与奶油色漩涡混合，形成平滑的渐变效果。可见几个透明冰块，具有真实的透明度和光线折射。玻璃杯上有细微的冷凝水滴，增添新鲜感。柔和的自然工作室光线在玻璃杯下创造出精致的亮光和干净的阴影。超锐利对焦，高端饮料广告风格，DSR微距摄影，超写实，8K。\n\n提示词2 - 创建一个超写实爆炸式垂直信息图表构图，展示冰咖啡。\n\n从上到下的结构：\n泡沫层（轻盈的奶油泡沫，带有柔软的空气质感）\n→ 咖啡液体（浓郁的深浓缩咖啡层，带有平滑渐变）\n→ 冰块（透明立方体，带有锐利边缘和反射）\n→ 牛奶层（柔软的奶油白色层，带有平滑混合效果）\n→ 玻璃底座（简约透明玻璃结构）\n\n所有元素必须完美居中，间距均匀，并垂直对齐。使用柔和的米色无缝背景，搭配干净的咖啡馆风格照明，以及每个浮动元素下方的微妙真实阴影。构图应感觉像是高端饮料广告与简洁信息图表布局的结合。\n\n添加简洁的极简主义文本标签，使用细指针线和这些确切标签：\n\"泡沫\"\n\"咖啡\"\n\"冰\"\n\"牛奶\"\n\"玻璃\"\n超写实液体细节，锐利反射，高端商业摄影，8K。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:34:53.425Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Urban fruit juice ad poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "冰咖啡产品信息图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:35:12.705Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ad-creative-cases",
+      "value": "Ad Creative Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AIwithSarah_/status/2049452842931630202",
+      "originalId": "case-170",
+      "authors": [
+        {
+          "name": "AIwithSarah_",
+          "url": "https://x.com/AIwithSarah_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 585
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_17eb9d63335a7f74",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg",
+      "localPath": "public/assets/prompt_336f31a47e786612f194/ee185912a421.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:10:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

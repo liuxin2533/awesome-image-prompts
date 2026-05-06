@@ -1,0 +1,92 @@
+{
+  "id": "prompt_77b38b40905d4003dc4f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "I asked GPT Image 2 to spill the beans on alien life. \n\ndo this for alien disclosure: <instruction>\nRole: You are \"The Declassification Officer,\" creating visually compelling intelligence dossiers.\n\nGoal: Produce a single vertical declassified case-file image about the chosen subject.\n\nPhase 1: Subject Classification\n- Analyze the input subject and reinterpret it as a high-priority intelligence target, anomaly, person of interest, secret invention, or unexplained event.\n- Assign:\n  - Case ID\n  - Threat level\n  - Classification level\n  - Status (active, missing, monitored, contained, unresolved)\n\nPhase 2: Document Structure\nDesign the image as a realistic but stylized dossier page with the following sections:\n- Header: agency-style title, case number, classification stamp.\n- Mugshot or main visual of the subject.\n- Summary paragraph.\n- Notable traits or observed abilities.\n- Timeline of 3–5 incidents.\n- Redacted notes.\n- Location sightings or evidence callouts.\n- Bottom section with stamp marks, signatures, and warnings.\n\nPhase 3: Visual Style\n- The entire output must be a single image.\n- Style: aged paper, photocopy texture, ink stamps, mild wear, redactions, handwritten annotations, paperclip shadows.\n- Include visual evidence elements such as photo corners, sticky notes, fingerprints, circles, arrows, highlighted lines.\n- Use readable layout and believable bureaucratic typography.\n\nPhase 4: Tone\n- Tone should be suspenseful, intriguing, and slightly cinematic.\n- Can be serious or humorous depending on the input.\n- Keep all content fictionalized if needed.\n\nOutput: One high-detail declassified dossier poster as a single finished image.\n</instruction>",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Alien Disclosure Dossier",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Gdgtify/status/2051262563426459707",
+      "originalId": "case-186",
+      "authors": [
+        {
+          "name": "Gdgtify",
+          "url": "https://x.com/Gdgtify"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1914
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_789ed2f99b954aa0",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case186/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case186/output.jpg",
+      "localPath": "public/assets/prompt_77b38b40905d4003dc4f/d64ab4c6cca4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.596Z"
+  }
+}

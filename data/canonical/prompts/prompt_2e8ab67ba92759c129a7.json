@@ -1,0 +1,106 @@
+{
+  "id": "prompt_2e8ab67ba92759c129a7",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{argument name=\"game\" default=\"GTA 6\"} in {argument name=\"bar name\" default=\"La Jetée Bar\"} (that pays homage to Chris Marker) in {argument name=\"location\" default=\"Shinjuku, Tokyo\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{argument name=\"game\" default=\"GTA 6\"} 里的 {argument name=\"bar name\" default=\"La Jetée Bar\"} （向克里斯·马凯致敬的）在 {argument name=\"location\" default=\"Shinjuku, Tokyo\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:18:40.899Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "GTA 6 Shinjuku Bar Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GTA 6 新宿酒吧场景",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:05:05.278Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ismajc/status/2048166630933282995",
+      "originalId": "case-12",
+      "authors": [
+        {
+          "name": "ismajc",
+          "url": "https://x.com/ismajc"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 167
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_57345f85de1d2460",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case12/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case12/output.jpg",
+      "localPath": "public/assets/prompt_2e8ab67ba92759c129a7/6cd662ab1a50.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "character"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.552Z"
+  }
+}

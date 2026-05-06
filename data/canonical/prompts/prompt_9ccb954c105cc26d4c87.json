@@ -1,0 +1,102 @@
+{
+  "id": "prompt_9ccb954c105cc26d4c87",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "High-quality 3D CGI render of {argument name=\"character\" default=\"[character]\"} in a charming cartoon style, portrait composition showing head and shoulders. Highly stylized caricature with exaggerated, expressive features that are both playful and humorous. Smooth, polished rendering with clean materials and soft ambient lighting creating gentle shadows. Dynamic camera angle with stylish perspective. Minimalist bright {argument name=\"background color\" default=\"[color]\"} background that makes the character pop and stand out. Professional Pixar-like quality with glossy finish and cheerful mood.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高质量3D CGI渲染，{argument name=\"character\" default=\"[character]\"}，采用迷人的卡通风格，构图为肖像，展示头部和肩部。高度风格化的卡通形象，具有夸张、富有表现力的特征，既有趣又幽默。平滑、精细的渲染，材质干净，柔和的环境光产生柔和的阴影。动态相机角度，时尚的视角。简约明亮的{argument name=\"background color\" default=\"[color]\"}背景，使角色突出并脱颖而出。专业的皮克斯风格质量，光泽处理，愉悦的氛围。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:26:21.906Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "3D Cartoon Character Render",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Inshrah_ali_/status/2048121503367995753",
+      "originalId": "case-87",
+      "authors": [
+        {
+          "name": "Inshrah_ali_",
+          "url": "https://x.com/Inshrah_ali_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 509
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_99aa299152ed02c9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case87/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case87/output.jpg",
+      "localPath": "public/assets/prompt_9ccb954c105cc26d4c87/0e938eb4c780.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

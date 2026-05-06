@@ -1,0 +1,203 @@
+{
+  "id": "prompt_ca09570a0225f88bf2e2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A {argument name=\"subject\" default=\"young girl\"} inside a {argument name=\"location\" default=\"convenience store\"}, top-down angle shot, slightly wide perspective, looking up sideways with a soft natural expression, short straight black hair with slightly wet bangs, holding a red potato chips bag in a playful candid pose, wearing a {argument name=\"outfit\" default=\"black outfit\"} with a casual street style vibe, standing in a narrow aisle surrounded by neatly arranged snacks and drinks, food shelves on both sides, display shelves positioned near a large window, warm golden sunset light streaming through the window, casting soft orange highlights and long shadows across the products and her face, natural glow on skin, cozy evening atmosphere, cinematic composition, soft contrast, subtle film grain, realistic textures, high detail, shallow depth of field, slightly fisheye distortion, editorial photography style, candid moment, warm tones, nostalgic mood",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一位 {argument name=\"subject\" default=\"年轻女孩\"} 在 {argument name=\"location\" default=\"便利店\"} 内，俯拍视角，略带广角，侧头向上看，表情自然柔和，黑色短直发，刘海微湿，手里拿着一袋红色薯片，姿态俏皮自然，身穿 {argument name=\"outfit\" default=\"黑色服装\"}，展现休闲街头风格，站在狭窄的过道中，周围是摆放整齐的零食和饮料，两侧均为货架，展示架靠近大窗户，温暖的金色夕阳透过窗户射入，在商品和她的脸上投下柔和的橙色高光和长长的阴影，皮肤散发自然光泽，舒适的傍晚氛围，电影级构图，柔和对比度，细腻的胶片颗粒感，真实的质感，高细节，浅景深，轻微鱼眼畸变，杂志摄影风格，抓拍瞬间，暖色调，怀旧氛围",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una {argument name=\"subject\" default=\"joven\"} dentro de una {argument name=\"location\" default=\"tienda de conveniencia\"}, toma en ángulo cenital, perspectiva ligeramente amplia, mirando hacia arriba de lado con una expresión natural y suave, cabello negro corto y lacio con flequillo ligeramente húmedo, sosteniendo una bolsa de papas fritas roja en una pose espontánea y juguetona, vistiendo un {argument name=\"outfit\" default=\"atuendo negro\"} con un estilo urbano casual, de pie en un pasillo estrecho rodeada de bocadillos y bebidas ordenadamente dispuestos, estantes de comida a ambos lados, estantes de exhibición colocados cerca de una ventana grande, luz cálida y dorada del atardecer entrando por la ventana, proyectando reflejos naranjas suaves y sombras largas sobre los productos y su rostro, brillo natural en la piel, atmósfera acogedora de atardecer, composición cinematográfica, contraste suave, grano de película sutil, texturas realistas, alto detalle, profundidad de campo reducida, ligera distorsión de ojo de pez, estilo de fotografía editorial, momento espontáneo, tonos cálidos, ambiente nostálgico",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein {argument name=\"subject\" default=\"junges Mädchen\"} in einem {argument name=\"location\" default=\"Convenience Store\"}, Aufsicht, leicht weitwinklige Perspektive, blickt seitlich nach oben mit einem sanften, natürlichen Ausdruck, kurzes, glattes schwarzes Haar mit leicht feuchtem Pony, hält eine rote Chipstüte in einer verspielten, ungezwungenen Pose, trägt ein {argument name=\"outfit\" default=\"schwarzes Outfit\"} im lässigen Street-Style, steht in einem schmalen Gang umgeben von ordentlich angeordneten Snacks und Getränken, Lebensmittelregale auf beiden Seiten, Verkaufsregale in der Nähe eines großen Fensters, warmes goldenes Sonnenlicht fällt durch das Fenster, wirft sanfte orangefarbene Glanzlichter und lange Schatten auf die Produkte und ihr Gesicht, natürlicher Glanz auf der Haut, gemütliche Abendatmosphäre, cineastische Komposition, weicher Kontrast, dezentes Filmkorn, realistische Texturen, hohe Detailgenauigkeit, geringe Schärfentiefe, leichte Fischaugen-Verzerrung, Editorial-Fotografie-Stil, authentischer Moment, warme Töne, nostalgische Stimmung",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un {argument name=\"subject\" default=\"jeune fille\"} à l'intérieur d'une {argument name=\"location\" default=\"supérette\"}, prise de vue en plongée, perspective légèrement grand-angle, regardant vers le haut de côté avec une expression naturelle et douce, cheveux noirs courts et raides avec une frange légèrement humide, tenant un paquet de chips rouge dans une pose spontanée et ludique, portant une {argument name=\"outfit\" default=\"tenue noire\"} au style urbain décontracté, debout dans une allée étroite entourée de snacks et de boissons soigneusement rangés, étagères de nourriture des deux côtés, présentoirs positionnés près d'une grande fenêtre, lumière chaude du coucher de soleil traversant la fenêtre, projetant des reflets orange doux et de longues ombres sur les produits et son visage, éclat naturel sur la peau, atmosphère de soirée chaleureuse, composition cinématographique, contraste doux, grain de film subtil, textures réalistes, haute définition, faible profondeur de champ, légère distorsion fisheye, style photographie éditoriale, moment spontané, tons chauds, ambiance nostalgique",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Una {argument name=\"subject\" default=\"ragazza giovane\"} all'interno di un {argument name=\"location\" default=\"minimarket\"}, ripresa dall'alto, prospettiva leggermente grandangolare, sguardo rivolto verso l'alto di lato con un'espressione naturale e dolce, capelli neri corti e lisci con frangia leggermente umida, tiene in mano un sacchetto di patatine rosso in una posa spontanea e giocosa, indossa un {argument name=\"outfit\" default=\"outfit nero\"} con un'atmosfera casual e street style, in piedi in un corridoio stretto circondata da snack e bevande disposti ordinatamente, scaffali di cibo su entrambi i lati, espositori posizionati vicino a una grande vetrata, calda luce dorata del tramonto che filtra dalla finestra, proiettando morbidi riflessi arancioni e lunghe ombre sui prodotti e sul suo viso, bagliore naturale sulla pelle, atmosfera serale accogliente, composizione cinematografica, contrasto morbido, sottile grana della pellicola, texture realistiche, alta definizione, profondità di campo ridotta, leggera distorsione fisheye, stile fotografia editoriale, momento spontaneo, toni caldi, atmosfera nostalgica",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma {argument name=\"subject\" default=\"jovem garota\"} dentro de uma {argument name=\"location\" default=\"loja de conveniência\"}, ângulo de visão de cima para baixo, perspectiva levemente ampla, olhando para cima de lado com uma expressão natural suave, cabelo preto curto e liso com franja levemente úmida, segurando um pacote de batatas fritas vermelho em uma pose espontânea e divertida, vestindo um {argument name=\"outfit\" default=\"traje preto\"} com uma vibe de estilo urbano casual, parada em um corredor estreito cercado por lanches e bebidas organizados, prateleiras de alimentos em ambos os lados, prateleiras de exibição posicionadas perto de uma grande janela, luz quente de pôr do sol dourado entrando pela janela, projetando reflexos alaranjados suaves e longas sombras sobre os produtos e seu rosto, brilho natural na pele, atmosfera noturna aconchegante, composição cinematográfica, contraste suave, granulação de filme sutil, texturas realistas, alto detalhe, profundidade de campo rasa, leve distorção olho de peixe, estilo de fotografia editorial, momento espontâneo, tons quentes, clima nostálgico",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Convenience Store Candid Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 便利店抓拍人像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Retrato espontáneo en tienda de conveniencia",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Porträt-Schnappschuss im Convenience Store",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Portrait spontané dans une supérette",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Ritratto spontaneo in un minimarket",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Retrato Espontâneo em Loja de Conveniência",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic photography prompt for a candid evening portrait in a convenience store featuring warm golden sunset lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于便利店傍晚抓拍人像的电影感摄影提示词，呈现温暖的金色夕阳光影。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie cinématographique pour un portrait spontané en soirée dans une supérette, avec un éclairage chaud de coucher de soleil.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Kashberg_0/status/2051327659674915188",
+      "originalId": "https://x.com/Kashberg_0/status/2051327659674915188",
+      "authors": [
+        {
+          "name": "Kashberg",
+          "url": "https://x.com/Kashberg_0"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 932
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dd9730eaa4648f29",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971008689_uufdml_HHfHoGNbwAAypyh.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971008689_uufdml_HHfHoGNbwAAypyh.jpg",
+      "localPath": "public/assets/prompt_ca09570a0225f88bf2e2/f3a67739bbf6.jpg",
+      "alt": "Profile / Avatar - Convenience Store Candid Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_bd0cea6aee753270",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971007289_6xninx_HHfHoENaQAE652S.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971007289_6xninx_HHfHoENaQAE652S.jpg",
+      "localPath": "public/assets/prompt_ca09570a0225f88bf2e2/04682c2e791c.jpg",
+      "alt": "Profile / Avatar - Convenience Store Candid Portrait - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_6d85501547429688",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971007294_ehykbt_HHfHoGQbcAAMm2W.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971007294_ehykbt_HHfHoGQbcAAMm2W.jpg",
+      "localPath": "public/assets/prompt_ca09570a0225f88bf2e2/3d0a60b4fb36.jpg",
+      "alt": "Profile / Avatar - Convenience Store Candid Portrait - Image 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_dba9fb02c5a6ca6f",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971008256_ka33d3_HHfHoHrbgAALkYY.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971008256_ka33d3_HHfHoHrbgAALkYY.jpg",
+      "localPath": "public/assets/prompt_ca09570a0225f88bf2e2/d1511e5e8d45.jpg",
+      "alt": "Profile / Avatar - Convenience Store Candid Portrait - Image 4",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影",
+      "人像"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.867Z"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "prompt_f59053765bcc532f871e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-end lifestyle e-commerce photo of a stylish woman walking along a quiet Parisian street in autumn, captured from behind in a candid editorial moment. She is centered slightly left, mid-stride on a cobblestone-and-pavement sidewalk, turning her head gently toward the elegant Haussmann apartment buildings lined with wrought-iron balconies and flower boxes. She wears a long tailored wool coat in {argument name=\"coat color\" default=\"camel beige\"}, dark straight-leg trousers, and dark brown leather ankle boots, with a structured leather crossbody satchel in {argument name=\"bag color\" default=\"warm tan\"} hanging at her hip. She has shoulder-length wavy dark brown hair and holds a folded newspaper or magazine in one hand. The street includes exactly 6 black metal bollards visible in the foreground and midground, scattered dry autumn leaves on the ground, and tall trees on the right side with golden-brown foliage. In the background, softly blurred pedestrians walk down the boulevard, and a corner café with the visible sign {argument name=\"cafe sign\" default=\"CAFÉ LE PARISIEN\"} appears on the left, with the same café name faintly repeated farther down the street. Warm golden-hour lighting, shallow depth of field, natural skin tones, creamy background bokeh, refined neutral color palette, luxury travel editorial styling, realistic photography, vertical composition, 4:5 aspect ratio, premium advertising image quality.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张高端生活方式电商照片，展示了一位时尚女性走在秋日宁静的巴黎街道上，以背影捕捉其不经意的编辑时刻。她位于画面偏左侧，正迈步走在鹅卵石与人行道交汇处，微微转头看向优雅的奥斯曼风格公寓建筑，建筑外墙装饰着锻铁阳台和花箱。她身穿一件 {argument name=\"coat color\" default=\"驼米色\"} 的长款修身羊毛大衣，搭配深色直筒长裤和深棕色皮革短靴，腰间斜挎着一个 {argument name=\"bag color\" default=\"暖棕褐色\"} 的结构感皮革斜挎包。她留着齐肩波浪形深棕色长发，一只手拿着一份折叠的报纸或杂志。街道前景和中景处可见 6 根黑色金属防撞柱，地面散落着干燥的秋叶，右侧的高大树木枝叶呈现金棕色。背景中，行人模糊地走在林荫大道上，左侧可见一家挂着 {argument name=\"cafe sign\" default=\"CAFÉ LE PARISIEN\"} 招牌的街角咖啡馆，远处街道上隐约重复出现相同的咖啡馆名称。温暖的黄金时刻光线，浅景深，自然的肤色，奶油般的背景虚化，精致的中性色调，奢华旅游编辑风格，写实摄影，竖构图，4:5 比例，优质广告图像质量。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una foto de estilo de vida de alta gama para comercio electrónico de una mujer elegante caminando por una tranquila calle parisina en otoño, capturada desde atrás en un momento editorial espontáneo. Está centrada ligeramente a la izquierda, a mitad de paso sobre una acera de adoquines y pavimento, girando la cabeza suavemente hacia los elegantes edificios de apartamentos estilo Haussmann, alineados con balcones de hierro forjado y jardineras. Viste un abrigo largo de lana a medida en {argument name=\"coat color\" default=\"beige camello\"}, pantalones oscuros de corte recto y botines de cuero marrón oscuro, con un bolso bandolera de cuero estructurado en {argument name=\"bag color\" default=\"bronceado cálido\"} colgando de su cadera. Tiene el cabello castaño oscuro ondulado hasta los hombros y sostiene un periódico o revista doblado en una mano. La calle incluye exactamente 6 bolardos de metal negro visibles en el primer plano y plano medio, hojas de otoño secas esparcidas por el suelo y árboles altos en el lado derecho con follaje marrón dorado. Al fondo, peatones suavemente desenfocados caminan por el bulevar, y un café en la esquina con el letrero visible {argument name=\"cafe sign\" default=\"CAFÉ LE PARISIEN\"} aparece a la izquierda, con el mismo nombre del café repetido tenuemente más adelante en la calle. Iluminación cálida de hora dorada, profundidad de campo reducida, tonos de piel naturales, bokeh de fondo cremoso, paleta de colores neutros refinados, estilo editorial de viajes de lujo, fotografía realista, composición vertical, relación de aspecto 4:5, calidad de imagen publicitaria premium.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein hochwertiges Lifestyle-E-Commerce-Foto einer stilvollen Frau, die im Herbst eine ruhige Pariser Straße entlanggeht, aufgenommen von hinten in einem natürlichen Editorial-Moment. Sie ist leicht links von der Mitte platziert, mitten im Schritt auf einem Gehweg aus Kopfsteinpflaster und Platten, und dreht ihren Kopf sanft in Richtung der eleganten Haussmann-Apartmenthäuser mit ihren schmiedeeiernen Balkonen und Blumenkästen. Sie trägt einen langen, maßgeschneiderten Wollmantel in {argument name=\"coat color\" default=\"kamelbeige\"}, eine dunkle, gerade geschnittene Hose und dunkelbraune Lederstiefeletten, mit einer strukturierten Leder-Umhängetasche in {argument name=\"bag color\" default=\"warmem Hellbraun\"}, die an ihrer Hüfte hängt. Sie hat schulterlanges, welliges, dunkelbraunes Haar und hält eine gefaltete Zeitung oder ein Magazin in der Hand. Auf der Straße sind im Vorder- und Mittelgrund genau 6 schwarze Metallpoller zu sehen, auf dem Boden liegen verstreut trockene Herbstblätter und auf der rechten Seite stehen hohe Bäume mit goldbraunem Laub. Im Hintergrund gehen sanft unscharf abgebildete Passanten den Boulevard entlang, und auf der linken Seite erscheint ein Eckcafé mit dem sichtbaren Schild {argument name=\"cafe sign\" default=\"CAFÉ LE PARISIEN\"}, wobei der gleiche Café-Name weiter hinten in der Straße schwach wiederholt wird. Warmes Licht zur goldenen Stunde, geringe Schärfentiefe, natürliche Hauttöne, cremiges Hintergrund-Bokeh, raffinierte neutrale Farbpalette, luxuriöses Reise-Editorial-Styling, realistische Fotografie, vertikale Komposition, Seitenverhältnis 4:5, erstklassige Werbebildqualität.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une photo lifestyle haut de gamme pour le commerce électronique montrant une femme élégante marchant le long d'une rue parisienne calme en automne, capturée de dos dans un moment éditorial spontané. Elle est légèrement décentrée vers la gauche, en plein milieu d'une enjambée sur un trottoir pavé, tournant doucement la tête vers les élégants immeubles haussmanniens bordés de balcons en fer forgé et de jardinières. Elle porte un long manteau en laine ajusté de couleur {argument name=\"coat color\" default=\"beige camel\"}, un pantalon droit foncé et des bottines en cuir marron foncé, avec un sac bandoulière structuré de couleur {argument name=\"bag color\" default=\"havane chaud\"} suspendu à sa hanche. Elle a des cheveux châtain foncé ondulés arrivant aux épaules et tient un journal ou un magazine plié dans une main. La rue comprend exactement 6 bornes en métal noir visibles au premier plan et au second plan, des feuilles d'automne sèches éparpillées sur le sol et de grands arbres sur le côté droit au feuillage doré. En arrière-plan, des piétons légèrement flous marchent sur le boulevard, et un café d'angle avec l'enseigne visible {argument name=\"cafe sign\" default=\"CAFÉ LE PARISIEN\"} apparaît sur la gauche, le nom du café étant faiblement répété plus loin dans la rue. Éclairage chaleureux de l'heure dorée, faible profondeur de champ, tons de peau naturels, bokeh d'arrière-plan crémeux, palette de couleurs neutres raffinées, style éditorial de voyage de luxe, photographie réaliste, composition verticale, format 4:5, qualité d'image publicitaire premium.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Una foto lifestyle di alta gamma per e-commerce che ritrae una donna elegante mentre cammina lungo una tranquilla strada parigina in autunno, ripresa di spalle in un momento editoriale spontaneo. È posizionata leggermente a sinistra, a metà passo su un marciapiede in acciottolato e lastricato, mentre gira delicatamente la testa verso gli eleganti palazzi in stile haussmaniano fiancheggiati da balconi in ferro battuto e fioriere. Indossa un lungo cappotto di lana sartoriale color {argument name=\"coat color\" default=\"beige cammello\"}, pantaloni dritti scuri e stivaletti in pelle marrone scuro, con una borsa a tracolla strutturata in pelle color {argument name=\"bag color\" default=\"marrone cuoio caldo\"} che le pende sul fianco. Ha capelli castano scuro mossi lunghi fino alle spalle e tiene in mano un giornale o una rivista piegata. La strada include esattamente 6 dissuasori in metallo nero visibili in primo piano e sullo sfondo, foglie autunnali secche sparse a terra e alberi alti sul lato destro con fogliame color marrone dorato. Sullo sfondo, pedoni leggermente sfocati camminano lungo il viale e un caffè d'angolo con l'insegna visibile {argument name=\"cafe sign\" default=\"CAFÉ LE PARISIEN\"} appare sulla sinistra, con lo stesso nome del caffè ripetuto debolmente più avanti lungo la strada. Illuminazione calda dell'ora d'oro, profondità di campo ridotta, tonalità della pelle naturali, bokeh di sfondo cremoso, palette di colori neutri raffinati, stile editoriale di viaggi di lusso, fotografia realistica, composizione verticale, rapporto d'aspetto 4:5, qualità dell'immagine pubblicitaria premium.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma foto de e-commerce de estilo de vida de alto padrão de uma mulher elegante caminhando por uma rua parisiense tranquila no outono, capturada de costas em um momento editorial espontâneo. Ela está centralizada ligeiramente à esquerda, no meio de um passo em uma calçada de paralelepípedos e pavimentação, virando a cabeça suavemente em direção aos elegantes edifícios de apartamentos Haussmann, alinhados com varandas de ferro forjado e jardineiras. Ela veste um casaco de lã longo e sob medida na cor {argument name=\"coat color\" default=\"bege camelo\"}, calças retas escuras e botas de cano curto de couro marrom escuro, com uma bolsa tiracolo de couro estruturada na cor {argument name=\"bag color\" default=\"bronze quente\"} pendurada no quadril. Ela tem cabelos castanhos escuros ondulados na altura dos ombros e segura um jornal ou revista dobrado em uma das mãos. A rua inclui exatamente 6 pilares de metal preto visíveis no primeiro plano e plano médio, folhas secas de outono espalhadas pelo chão e árvores altas no lado direito com folhagem marrom-dourada. Ao fundo, pedestres suavemente desfocados caminham pelo boulevard, e um café de esquina com a placa visível {argument name=\"cafe sign\" default=\"CAFÉ LE PARISIEN\"} aparece à esquerda, com o mesmo nome do café levemente repetido mais adiante na rua. Iluminação quente de hora dourada, profundidade de campo rasa, tons de pele naturais, bokeh de fundo cremoso, paleta de cores neutras refinadas, estilo editorial de viagem de luxo, fotografia realista, composição vertical, proporção 4:5, qualidade de imagem publicitária premium.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Paris Autumn Street Style Photo",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 巴黎秋季街拍风格照片",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Foto de estilo urbano en París durante el otoño",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Streetstyle-Foto aus Paris im Herbst",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Photo de style de rue parisien en automne",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Foto di street style autunnale a Parigi",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Foto de Street Style de Outono em Paris",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This generates a polished luxury editorial-style fashion photo of a woman walking through a Paris street in autumn, ideal for e-commerce, travel, and lifestyle advertising.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示词可生成一张精致的奢华编辑风格时尚照片，展示一位女性走在秋日的巴黎街头，非常适合电子商务、旅游和生活方式广告。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une photo de mode éditoriale de luxe raffinée représentant une femme marchant dans une rue de Paris en automne, idéale pour le commerce électronique, le voyage et la publicité lifestyle.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/StableTom/status/2050150667600253191#reversed-2",
+      "originalId": "https://x.com/StableTom/status/2050150667600253191#reversed-2",
+      "authors": [
+        {
+          "name": "Creative Diffusion",
+          "url": "https://x.com/StableTom"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4743
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0fe6f62d82d13fd9",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711129819_v62la1_HHOYUNjXYAAOuPi.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711129819_v62la1_HHOYUNjXYAAOuPi.jpg",
+      "localPath": "public/assets/prompt_f59053765bcc532f871e/d252da1da4dc.jpg",
+      "alt": "E-commerce Main Image - Paris Autumn Street Style Photo - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_55fe5dc3d55ea427",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711129872_mfwhc6_HHOYWjSW8AA7ISK.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711129872_mfwhc6_HHOYWjSW8AA7ISK.jpg",
+      "localPath": "public/assets/prompt_f59053765bcc532f871e/6eda42a14b3d.jpg",
+      "alt": "E-commerce Main Image - Paris Autumn Street Style Photo - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-30T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.880Z"
+  }
+}

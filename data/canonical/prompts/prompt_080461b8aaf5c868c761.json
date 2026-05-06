@@ -1,0 +1,190 @@
+{
+  "id": "prompt_080461b8aaf5c868c761",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A {argument name=\"platform\" default=\"Taobao\"} product detail page for {argument name=\"robot model\" default=\"T-800 robot\"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A {argument name=\"platform\" default=\"Taobao\"} product detail page for {argument name=\"robot model\" default=\"T-800 robot\"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:43:57.256Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "综合应用场景图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Comprehensive Application Scene Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:43:59.630Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_00ed43dcfb",
+      "value": "综合应用场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-145",
+      "originalId": "case-145",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5944
+        }
+      ],
+      "rawSource": "[@alanlovelq](https://x.com/alanlovelq)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-146",
+      "originalId": "case-146",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5960
+        }
+      ],
+      "rawSource": "[@alanlovelq](https://x.com/alanlovelq)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-147",
+      "originalId": "case-147",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5976
+        }
+      ],
+      "rawSource": "[@alanlovelq](https://x.com/alanlovelq)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-148",
+      "originalId": "case-148",
+      "authors": [
+        {
+          "name": "alanlovelq",
+          "url": "https://x.com/alanlovelq"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5992
+        }
+      ],
+      "rawSource": "[@alanlovelq](https://x.com/alanlovelq)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d8c0f2f85ffbe8af",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case145.jpg",
+      "upstreamPath": "../data/images/case145.jpg",
+      "localPath": "public/assets/prompt_080461b8aaf5c868c761/05e6a3bbf990.jpg",
+      "alt": "platform",
+      "status": "pending"
+    },
+    {
+      "id": "asset_fe15a855e85177f2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case146.jpg",
+      "upstreamPath": "../data/images/case146.jpg",
+      "localPath": "public/assets/prompt_080461b8aaf5c868c761/ae2b7c97a066.jpg",
+      "alt": "platform",
+      "status": "pending"
+    },
+    {
+      "id": "asset_8bec2424a0c236a5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case147.jpg",
+      "upstreamPath": "../data/images/case147.jpg",
+      "localPath": "public/assets/prompt_080461b8aaf5c868c761/3809f69eb245.jpg",
+      "alt": "platform",
+      "status": "pending"
+    },
+    {
+      "id": "asset_9a2710a55be9f057",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case148.jpg",
+      "upstreamPath": "../data/images/case148.jpg",
+      "localPath": "public/assets/prompt_080461b8aaf5c868c761/163bd0adc86a.jpg",
+      "alt": "platform",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "product"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

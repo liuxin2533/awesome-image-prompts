@@ -1,0 +1,187 @@
+{
+  "id": "prompt_dbfd8f0919949f6cb90c",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Please generate a high-design character relationship map poster based on {argument name=\"theme\" default=\"Demon Slayer\"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.\r\n\r\nPlease automatically complete the following:\r\n- Identify the work and core settings corresponding to the theme\r\n- Extract the most representative 6–12 key characters, not exceeding 15 if necessary\r\n- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.\r\n- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution\r\n- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements\r\n- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster\r\n- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter\r\n- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy\r\n- Ensure every character name is legible, with identity or faction labels if necessary\r\n\r\nThe final product should satisfy:\r\n- Immediate understanding of character hierarchy and key relationships\r\n- Obvious alignment with the original work's temperament and setting\r\n- Combines the clarity of an infographic with the premium design of a poster\r\n- Unified, exquisite, complete, and suitable for social media sharing or poster display\r\n- Avoids a cheap flowchart feel, messy piling, and information overload.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Field: promptText.translations.en\n\nPlease generate a high-design character relationship map poster based on {argument name=\"theme\" default=\"Demon Slayer\"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.\n\nPlease automatically complete the following:\n- Identify the work and core settings corresponding to the theme\n- Extract the most representative 6–12 key characters, not exceeding 15 if necessary\n- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.\n- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution\n- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements\n- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster\n- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter\n- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy\n- Ensure every character name is legible, with identity or faction labels if necessary\n\nThe final product should satisfy:\n- Immediate understanding of character hierarchy and key relationships\n- Obvious alignment with the original work's temperament and setting\n- Combines the clarity of an infographic with the premium design of a poster\n- Unified, exquisite, complete, and suitable for social media sharing or poster display\n- Avoids a cheap flowchart feel, messy piling, and information overload.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:37:37.758Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "关系图谱信息图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0acd3267c4",
+      "value": "关系图谱信息图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-84",
+      "originalId": "case-84",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3144
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-85",
+      "originalId": "case-85",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3178
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-86",
+      "originalId": "case-86",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3212
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-87",
+      "originalId": "case-87",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3246
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cf2e1e3b7346c6ce",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case84.jpg",
+      "upstreamPath": "../data/images/case84.jpg",
+      "localPath": "public/assets/prompt_dbfd8f0919949f6cb90c/d93357b16095.jpg",
+      "alt": "theme",
+      "status": "pending"
+    },
+    {
+      "id": "asset_150875905ae4692b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case85.jpg",
+      "upstreamPath": "../data/images/case85.jpg",
+      "localPath": "public/assets/prompt_dbfd8f0919949f6cb90c/1861e8ba3d48.jpg",
+      "alt": "theme",
+      "status": "pending"
+    },
+    {
+      "id": "asset_2aefdc2d27073123",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case86.jpg",
+      "upstreamPath": "../data/images/case86.jpg",
+      "localPath": "public/assets/prompt_dbfd8f0919949f6cb90c/7c4a68a885a4.jpg",
+      "alt": "theme",
+      "status": "pending"
+    },
+    {
+      "id": "asset_6fa8dfe3912abc85",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case87.jpg",
+      "upstreamPath": "../data/images/case87.jpg",
+      "localPath": "public/assets/prompt_dbfd8f0919949f6cb90c/b1a14b424441.jpg",
+      "alt": "theme",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "chart",
+      "map",
+      "信息图",
+      "图谱"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_ba97412ee40a1c6eafe6",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"2x2 grid of banner advertisements\",\r\n  \"theme\": \"{argument name=\\\"main theme\\\" default=\\\"SNSスクール\\\"} for {argument name=\\\"target audience\\\" default=\\\"ママ\\\"}\",\r\n  \"design_style\": \"soft, approachable, bright lighting, featuring {argument name=\\\"color palette\\\" default=\\\"soft green, white, and natural beige tones\\\"}\",\r\n  \"layout\": {\r\n    \"sections\": [\r\n      {\r\n        \"position\": \"top-left\",\r\n        \"visual_style\": \"photography\",\r\n        \"image_description\": \"Smiling woman working on a laptop at a table, a toddler playing with toys in the blurred background.\",\r\n        \"headlines\": [\"ママの“やってみたい”を応援！\", \"子育てしながら学べる\", \"SNSスクール\"],\r\n        \"features\": {\r\n          \"count\": 1,\r\n          \"type\": \"icon with text\",\r\n          \"labels\": [\"自宅で無理なくスキルアップ (with house icon)\"]\r\n        },\r\n        \"call_to_action_button\": \"無料相談\"\r\n      },\r\n      {\r\n        \"position\": \"top-right\",\r\n        \"visual_style\": \"photography\",\r\n        \"image_description\": \"Smiling woman holding a white mug, looking at a laptop.\",\r\n        \"headlines\": [\"ちょっとの時間が、大きな一歩に。\", \"スキマ時間を未来につなげる\", \"動画講座で学びやすい\"],\r\n        \"features\": {\r\n          \"count\": 3,\r\n          \"type\": \"circular icons with text below\",\r\n          \"labels\": [\"スマホでも学べる (smartphone icon)\", \"1日15分からOK (clock icon)\", \"繰り返し視聴できる (play button icon)\"]\r\n        },\r\n        \"call_to_action_button\": \"詳しく見る\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-left\",\r\n        \"visual_style\": \"watercolor illustration\",\r\n        \"image_description\": \"Illustration of a woman with hair in a bun, smiling at a laptop with a green mug nearby.\",\r\n        \"headlines\": [\"はじめてでも大丈夫！ (with beginner mark)\", \"在宅でできるSNSの仕事\", \"未経験OK\"],\r\n        \"features\": {\r\n          \"count\": 3,\r\n          \"type\": \"circular icons with text below\",\r\n          \"labels\": [\"サポート充実 (heart icon)\", \"パソコンが苦手でも安心 (laptop icon)\", \"収入の柱をつくれる (yen coin icon)\"]\r\n        },\r\n        \"call_to_action_button\": \"体験してみる\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-right\",\r\n        \"visual_style\": \"photography\",\r\n        \"image_description\": \"Smiling mother and young daughter sitting on a sofa reading a picture book together.\",\r\n        \"headlines\": [\"家族との時間も大切に\", \"自分らしい働き方へ\", \"ママの笑顔がいちばんの未来になる。\"],\r\n        \"features\": {\r\n          \"count\": 3,\r\n          \"type\": \"checkmark bullet points\",\r\n          \"labels\": [\"場所や時間に縛られない\", \"やりがいも収入も叶う\", \"子どもの成長をそばで見守れる\"]\r\n        },\r\n        \"extra_graphics\": \"Small illustration of a house and trees at the bottom left.\",\r\n        \"call_to_action_button\": \"説明会へ\"\r\n      }\r\n    ],\r\n    \"common_elements\": \"All panels feature a {argument name=\\\"button style\\\" default=\\\"rounded green pill button with white text and a right-pointing arrow icon\\\"} at the bottom.\"\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"2x2 grid of banner advertisements\",\n  \"theme\": \"{argument name=\\\"main theme\\\" default=\\\"SNS School\\\"} for {argument name=\\\"target audience\\\" default=\\\"mothers\\\"}\",\n  \"design_style\": \"soft, approachable, bright lighting, featuring {argument name=\\\"color palette\\\" default=\\\"soft green, white, and natural beige tones\\\"}\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"position\": \"top-left\",\n        \"visual_style\": \"photography\",\n        \"image_description\": \"Smiling woman working on a laptop at a table, a toddler playing with toys in the blurred background.\",\n        \"headlines\": [\"Supporting mothers' 'I want to try!'\", \"Learn while raising children\", \"SNS School\"],\n        \"features\": {\n          \"count\": 1,\n          \"type\": \"icon with text\",\n          \"labels\": [\"Skill up comfortably at home (with house icon)\"]\n        },\n        \"call_to_action_button\": \"Free consultation\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"visual_style\": \"photography\",\n        \"image_description\": \"Smiling woman holding a white mug, looking at a laptop.\",\n        \"headlines\": [\"A little time, a big step.\", \"Connect your spare time to your future\", \"Easy to learn with video courses\"],\n        \"features\": {\n          \"count\": 3,\n          \"type\": \"circular icons with text below\",\n          \"labels\": [\"Learnable on smartphone (smartphone icon)\", \"OK from 15 minutes a day (clock icon)\", \"Can be rewatched (play button icon)\"]\n        },\n        \"call_to_action_button\": \"Learn more\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"visual_style\": \"watercolor illustration\",\n        \"image_description\": \"Illustration of a woman with hair in a bun, smiling at a laptop with a green mug nearby.\",\n        \"headlines\": [\"No problem even for beginners! (with beginner mark)\", \"SNS work you can do from home\", \"OK for inexperienced\"],\n        \"features\": {\n          \"count\": 3,\n          \"type\": \"circular icons with text below\",\n          \"labels\": [\"Full support (heart icon)\", \"Peace of mind even if you're not good with computers (laptop icon)\", \"Can create a pillar of income (yen coin icon)\"]\n        },\n        \"call_to_action_button\": \"Try it out\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"visual_style\": \"photography\",\n        \"image_description\": \"Smiling mother and young daughter sitting on a sofa reading a picture book together.\",\n        \"headlines\": [\"Also cherish time with family\", \"Toward a work style that's true to yourself\", \"A mother's smile becomes the best future.\"],\n        \"features\": {\n          \"count\": 3,\n          \"type\": \"checkmark bullet points\",\n          \"labels\": [\"Not bound by location or time\", \"Both fulfillment and income can be achieved\", \"Can watch over your child's growth by their side\"]\n        },\n        \"extra_graphics\": \"Small illustration of a house and trees at the bottom left.\",\n        \"call_to_action_button\": \"To information session\"\n      }\n    ],\n    \"common_elements\": \"All panels feature a {argument name=\\\"button style\\\" default=\\\"rounded green pill button with white text and a right-pointing arrow icon\\\"} at the bottom.\"\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:21:02.946Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "插画艺术风格创作",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Illustration Art Style Creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:21:05.175Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_f1beb538aa",
+      "value": "插画艺术风格创作",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-62",
+      "originalId": "case-62",
+      "authors": [
+        {
+          "name": "masapark95",
+          "url": "https://x.com/masapark95"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1697
+        }
+      ],
+      "rawSource": "[@masapark95](https://x.com/masapark95)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_35d096ad70525354",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case62.jpg",
+      "upstreamPath": "../data/images/case62.jpg",
+      "localPath": "public/assets/prompt_ba97412ee40a1c6eafe6/014d09e85b70.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.600Z"
+  }
+}

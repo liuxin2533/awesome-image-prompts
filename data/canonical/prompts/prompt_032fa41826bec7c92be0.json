@@ -1,0 +1,167 @@
+{
+  "id": "prompt_032fa41826bec7c92be0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dramatic Brazilian political campaign poster in a square social-media format, hyper-stylized and cinematic, with a dark blue and black color grade, intense contrast, gritty textures, and heroic propaganda-poster composition. On the right half, a middle-aged man wearing a bright royal-blue polo shirt faces the camera from the chest up, extending one hand toward the viewer and prominently holding a blue ballpoint pen upright as the central symbolic object. His pose is confident, assertive, and campaign-like, with the pen close to the lens for forced perspective. Behind him, two large waving flags fill the upper background: the Puerto Rico flag on the upper left side behind the subject and the Brazil flag on the upper right side. The lower background shows a dark crowd silhouette and a distant city skyline at sunset with glowing orange light on the horizon, adding a rally atmosphere. On the left side, create a vertical stack of 4 bold campaign statements, each preceded by a large blue X marker. The 4 text blocks must read exactly: \"ELE NÃO TEM A MIDIA\", \"ELE NÃO TEM PROJETOS\", \"ELE TAMBÉM NÃO TEM O POVO\", and \"O RESTO ELE VAI DESCOBRIR NA HORA\". Use condensed uppercase typography, mixing white and electric blue emphasis words, with each statement separated by thin horizontal blue divider lines. At the bottom, place an oversized distressed headline in uppercase reading \"CANETA AZUL\", with \"CANETA\" in weathered white and \"AZUL\" in vivid blue, spanning almost the full width. Below it, add a secondary subtitle in uppercase blue italic condensed text reading \"PARA DEPUTADO\", flanked by thin blue horizontal lines. The overall design should feel like a viral meme campaign ad, bold, satirical, aggressive, and highly shareable, with dramatic rim lighting, sharpened details, realistic skin and fabric texture, and polished poster-quality compositing.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Blue Pen Campaign Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Blue Pen Campaign Poster",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Blue Pen Campaign Poster",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a dramatic meme-style political campaign poster for social media featuring a man holding a blue pen, bold Portuguese slogans, and Brazilian patriotic visual cues.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/virto_exe/status/2048826970012541284#reversed-0",
+      "originalId": "https://x.com/virto_exe/status/2048826970012541284#reversed-0",
+      "authors": [
+        {
+          "name": "Virto",
+          "url": "https://x.com/virto_exe"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1696
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a1cbea96a1f2426e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367357213_w2pgi3_HG7lLOzbsAAJuJy.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367357213_w2pgi3_HG7lLOzbsAAJuJy.jpg",
+      "localPath": "public/assets/prompt_032fa41826bec7c92be0/9325900a0300.jpg",
+      "alt": "Social Media Post - Blue Pen Campaign Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.563Z"
+  }
+}

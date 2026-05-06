@@ -1,0 +1,108 @@
+{
+  "id": "prompt_94fd45d9119741162c2b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A high-energy VTuber thumbnail illustration of a smiling anime girl with {argument name=\"hair color\" default=\"bright blue\"} hair in a high ponytail wearing a white shirt. The background is an explosive burst of rainbow light rays and golden sparkles. A golden retro microphone sits in the bottom left. Massive, shiny 3D gold text on the left reads \"{argument name=\"main title text\" default=\"初配信\"}\". A 3D gold and blue subtitle reads \"{argument name=\"subtitle text\" default=\"一緒に最高の時間を！\"}\". An ornate blue and gold oval badge in the bottom right displays \"{argument name=\"character name\" default=\"エリン Erin\"}\". A red top-right badge reads \"{argument name=\"badge text\" default=\"LIVE\"}\".",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A high-energy VTuber thumbnail illustration of a smiling anime girl with {argument name=\"hair color\" default=\"bright blue\"} hair in a high ponytail wearing a white shirt. The background is an explosive burst of rainbow light rays and golden sparkles. A golden retro microphone sits in the bottom left. Massive, shiny 3D gold text on the left reads \"{argument name=\"main title text\" default=\"初配信\"}\". A 3D gold and blue subtitle reads \"{argument name=\"subtitle text\" default=\"一緒に最高の時間を！\"}\". An ornate blue and gold oval badge in the bottom right displays \"{argument name=\"character name\" default=\"エリン Erin\"}\". A red top-right badge reads \"{argument name=\"badge text\" default=\"LIVE\"}\".",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:59:28.879Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "动漫插画创作图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Anime Illustration Creation Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:59:31.964Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a729c2c261",
+      "value": "动漫插画创作图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-105",
+      "originalId": "case-105",
+      "authors": [
+        {
+          "name": "Yuupapa_free",
+          "url": "https://x.com/Yuupapa_free"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4066
+        }
+      ],
+      "rawSource": "[@Yuupapa\\_free](https://x.com/Yuupapa_free)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0e1c5b599831ac97",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case105.jpg",
+      "upstreamPath": "../data/images/case105.jpg",
+      "localPath": "public/assets/prompt_94fd45d9119741162c2b/fb73c8d71114.jpg",
+      "alt": "hair color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.594Z"
+  }
+}

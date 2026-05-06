@@ -1,0 +1,248 @@
+{
+  "id": "prompt_9bdb04c0446fa62deb52",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a 10 × 10 grid of 100 different topics representing recent technological progress. Use a realistic, polished editorial illustration style. Each topic should appear in its own square with a short clear label underneath. Keep the grid neat on a white background. Make every topic visually different and every label correctly spelled. Use these row themes: Row 1: AI models and agents Row 2: robotics Row 3: semiconductors and compute Row 4: networks and smart devices Row 5: biotech and health technology Row 6: energy and power systems Row 7: transport and autonomy Row 8: space and aerospace Row 9: manufacturing and materials Row 10: climate and environmental technology. Show each tile as a realistic mini-scene, product-class object, lab instrument, robot, chip, vehicle, or device that clearly conveys the topic. Keep the overall style consistent, modern, realistic, and visually impressive.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个 10 × 10 网格，展示 100 个代表近期技术进展的不同主题。采用真实、精致的编辑插画风格。每个主题占据自己的方格，并在下方附上简短清晰的标签。保持白色背景上的网格整齐。让每个主题在视觉上都不同，并确保每个标签拼写正确。使用这些行主题：第 1 行：AI 模型与智能体；第 2 行：机器人；第 3 行：半导体与算力；第 4 行：网络与智能设备；第 5 行：生物科技与健康科技；第 6 行：能源与电力系统；第 7 行：交通与自动驾驶；第 8 行：航天与航空航天；第 9 行：制造与材料；第 10 行：气候与环境技术。把每个格子表现为真实的小场景、产品级物件、实验室仪器、机器人、芯片、载具或设备，清楚传达该主题。整体风格保持统一、现代、真实且具有视觉冲击力。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "建立一個 10 × 10 的網格，展示 100 個代表近期科技進展的不同主題。風格要真實、精緻、統一且具有編輯插畫感。每個方格都有獨立視覺與清楚標籤，涵蓋 AI 模型與智能體、機器人、半導體、網路與智慧裝置、生技與健康科技、能源、交通與自動駕駛、航太、製造與材料、氣候與環境科技等 10 行主題。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "最近の技術進歩を表す 100 種類のトピックを 10 × 10 グリッドで作成する。リアルで洗練された編集イラスト風にする。各トピックは独立したマスに入り、下に短く明瞭なラベルを付ける。白背景で整然としたグリッドに保ち、すべてのトピックを視覚的に異ならせ、ラベルの綴りを正確にする。各行のテーマ: 1 行目 AI モデルとエージェント、2 行目 ロボティクス、3 行目 半導体と計算資源、4 行目 ネットワークとスマートデバイス、5 行目 バイオテックとヘルステック、6 行目 エネルギーと電力システム、7 行目 輸送と自律性、8 行目 宇宙と航空宇宙、9 行目 製造と材料、10 行目 気候と環境技術。各タイルはミニシーン、製品クラスの物体、研究機器、ロボット、チップ、車両、装置として描き、トピックがはっきり分かるようにする。全体として統一感があり、現代的でリアル、視覚的に印象深いものにする。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "최근 기술 진보를 대표하는 100개 주제를 10 × 10 그리드로 만든다. AI 모델과 에이전트, 로보틱스, 반도체, 네트워크, 바이오테크, 에너지, 운송, 우주항공, 제조, 기후 기술을 각 행 주제로 나눠 현실적이고 정돈된 편집 일러스트 스타일로 표현한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une grille 10 × 10 présentant 100 sujets illustrant les progrès technologiques récents, de l'IA à la robotique, en passant par les semi-conducteurs, la biotech, l'énergie, le spatial et les technologies climatiques.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein 10 × 10-Raster mit 100 verschiedenen Themen des jüngsten technologischen Fortschritts, von KI und Robotik bis Klima- und Raumfahrttechnik, in einem einheitlichen, realistischen Editorial-Illustrationsstil.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una cuadrícula 10 × 10 con 100 temas distintos que representen avances tecnológicos recientes, desde IA y agentes hasta robótica, semiconductores, biotecnología, energía, transporte autónomo, espacio, manufactura y tecnología climática.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "100 Technology Topics Grid",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "100 个科技主题网格",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "100 個科技主題網格",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "100 の技術トピックグリッド",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "100개 기술 주제 그리드",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Grille de 100 sujets technologiques",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "100 Technologie-Themen im Raster",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cuadrícula de 100 temas tecnológicos",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e156bfaa6d",
+      "value": "📚 信息图、教育与文档",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e5cd4ed1b2",
+      "value": "📚 資訊圖、教育與文件",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a835d8e9f",
+      "value": "📚 インフォグラフィック・教育・文書",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b316df1fa2",
+      "value": "📚 인포그래픽, 교육, 문서",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infographies-education-et-documents",
+      "value": "📚 Infographies, éducation et documents",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografiken-bildung-und-dokumente",
+      "value": "📚 Infografiken, Bildung und Dokumente",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografias-educacion-y-documentos",
+      "value": "📚 Infografías, educación y documentos",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/chetaslua/status/2046489044243403029",
+      "originalId": "https://x.com/chetaslua/status/2046489044243403029",
+      "authors": [
+        {
+          "name": "chetaslua",
+          "url": "https://x.com/chetaslua/status/2046489044243403029"
+        },
+        {
+          "name": " @chetaslua ",
+          "url": "https://x.com/chetaslua/status/2046489044243403029"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 823
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 703
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 538
+        },
+        {
+          "file": "README:ja",
+          "line": 702
+        },
+        {
+          "file": "README:ko",
+          "line": 538
+        },
+        {
+          "file": "README:fr",
+          "line": 538
+        },
+        {
+          "file": "README:de",
+          "line": 538
+        },
+        {
+          "file": "README:es",
+          "line": 538
+        }
+      ],
+      "rawSource": "[@chetaslua](https://x.com/chetaslua/status/2046489044243403029)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_961976153d52d7e8",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGaW8ECaEAAq-LZ?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGaW8ECaEAAq-LZ?format=jpg&name=large",
+      "localPath": "public/assets/prompt_9bdb04c0446fa62deb52/a3e155a4550b.jpg",
+      "alt": "100 Technology Topics Grid",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "education",
+      "信息图",
+      "技术"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

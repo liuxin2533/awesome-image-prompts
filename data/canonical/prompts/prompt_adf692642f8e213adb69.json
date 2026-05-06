@@ -1,0 +1,108 @@
+{
+  "id": "prompt_adf692642f8e213adb69",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large negative space.Calm, thoughtful, slightly open-ended atmosphere.\n\nChild character (around 12 years old).Subtle visual metaphors like light, shadow, perspective, reflection.Hand-painted picture book style, not cartoon, not anime, not 3D.\n\nTwo children in calm conversation,soft connection forming.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "柔和的诗意儿童插画，带有水彩和树胶水彩的质感。清澈柔和的日光，带有稍亮的亮点。柔和的粉彩色调，带有柔和的蓝色和温暖的色调。可见的笔触和纸张纹理。极简构图，带有大面积的留白。平静、沉思、略带开放性的氛围。\n\n儿童角色（约12岁）。微妙的视觉隐喻，如光线、阴影、透视、反射。手绘图画书风格，不是卡通，不是动漫，不是3D。\n\n两个孩子在平静交谈，形成柔和的联系。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:45.213Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Soft poetic children's book illustration with watercolor and gouache textures...",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "柔和的诗意儿童插画，带有水彩和树胶水彩的质感...",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:42.631Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/dotey/status/2047174895293849972",
+      "originalId": "case-61",
+      "authors": [
+        {
+          "name": "dotey",
+          "url": "https://x.com/dotey"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 756
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6aaddd95a3e9101e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg",
+      "localPath": "public/assets/prompt_adf692642f8e213adb69/fc80028867ff.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

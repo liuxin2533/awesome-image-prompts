@@ -1,0 +1,277 @@
+{
+  "id": "prompt_fb254879561432dec0a2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a calligraphy copybook practice sheet in [script style]",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 [书体风格] 的书法字帖练习页",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張 [書體風格] 的書法字帖練習頁。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[script style] の書道練習用 copybook シートを生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[script style] 의 서예 카피북 연습지를 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une feuille d'entraînement de calligraphie dans le style [script style].",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein Kalligrafie-Übungsblatt im Stil [script style].",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una hoja de práctica de caligrafía en el estilo [script style].",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Chinese Calligraphy Copybook Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "中国书法字帖练习页",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "中國書法字帖練習頁",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "中国書道練習シート",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "중국 서예 연습지",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Feuille d'entraînement de calligraphie chinoise",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Chinesisches Kalligrafie-Übungsblatt",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Hoja de práctica de caligrafía china",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "If you have a reference image for the exact calligraphy style, upload it as an image reference for stronger fidelity.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046510310253539764"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 693
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 580
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 443
+        },
+        {
+          "file": "README:ja",
+          "line": 580
+        },
+        {
+          "file": "README:ko",
+          "line": 443
+        },
+        {
+          "file": "README:fr",
+          "line": 443
+        },
+        {
+          "file": "README:de",
+          "line": 443
+        },
+        {
+          "file": "README:es",
+          "line": 443
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046510310253539764)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fed250b36a961135",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb7IZWaoAA8DCz?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb7IZWaoAA8DCz?format=jpg&name=large",
+      "localPath": "public/assets/prompt_fb254879561432dec0a2/5dbad887db9b.jpg",
+      "alt": "Wang Xizhi Style",
+      "status": "pending"
+    },
+    {
+      "id": "asset_24c0b9379fe7afec",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb7IZpbUAAG0yL?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb7IZpbUAAG0yL?format=jpg&name=large",
+      "localPath": "public/assets/prompt_fb254879561432dec0a2/2a66852714cd.jpg",
+      "alt": "Cursive Script",
+      "status": "pending"
+    },
+    {
+      "id": "asset_365b62f8db132ad2",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb7IWbbgAEg7Kc?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb7IWbbgAEg7Kc?format=jpg&name=large",
+      "localPath": "public/assets/prompt_fb254879561432dec0a2/2aad84d35da6.jpg",
+      "alt": "Running Script",
+      "status": "pending"
+    },
+    {
+      "id": "asset_0f7c68aa12440e11",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb7IWdbIAAhLEE?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb7IWdbIAAhLEE?format=jpg&name=large",
+      "localPath": "public/assets/prompt_fb254879561432dec0a2/4c67a43a7952.jpg",
+      "alt": "Regular Script",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.609Z"
+  }
+}

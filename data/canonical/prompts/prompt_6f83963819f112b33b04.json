@@ -1,0 +1,92 @@
+{
+  "id": "prompt_6f83963819f112b33b04",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic.\n\nBottom left panel: close-up portrait of the athlete with glowing skin, minimal makeup, soft light, text “FOCUS” and “FUEL” placed subtly.\n\nBottom right panel: full-body crouched pose holding racket, strong posture, text “DISCIPLINE DRIVES DOMINANCE”, grid-based layout lines, premium sports branding feel.\n\nConsistent color grading, dark green and white palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "运动时尚三联 Campaign",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "campaign",
+      "value": "运动时尚三联 Campaign",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-349",
+      "originalId": "case-349",
+      "authors": [
+        {
+          "name": "AIwithkhan",
+          "url": "https://x.com/AIwithkhan/status/2048606301039820821"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5788
+        }
+      ],
+      "rawSource": "[@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_da9f61c7b5aa78b6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case349.jpg",
+      "upstreamPath": "../data/images/case349.jpg",
+      "localPath": "public/assets/prompt_6f83963819f112b33b04/8867d39649bc.jpg",
+      "alt": "运动时尚三联 Campaign",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "portrait"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

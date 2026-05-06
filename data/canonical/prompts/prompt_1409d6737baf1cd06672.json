@@ -1,0 +1,101 @@
+{
+  "id": "prompt_1409d6737baf1cd06672",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n  \"type\": \"2x2 grid of Japanese digital advertisement banners\",\n  \"layout\": {\n    \"structure\": \"4 equal quadrants\",\n    \"quadrants\": [\n      {\n        \"position\": \"top-left\",\n        \"theme\": \"Travel\",\n        \"subject\": \"A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.\",\n        \"elements\": [\"red hibiscus flower in bottom left corner\"],\n        \"text_labels\": [\n          \"今年こそ、解き放て。\",\n          \"{argument name=\\\"travel destination\\\" default=\\\"沖縄旅行\\\"}\",\n          \"3日間の癒やし旅\",\n          \"航空券+ホテル\",\n          \"39,800円〜\",\n          \"絶景、グルメ、体験 ぜんぶ叶う!\"\n        ],\n        \"icons\": {\n          \"count\": 3,\n          \"descriptions\": [\"airplane\", \"hotel building\", \"car\"]\n        }\n      },\n      {\n        \"position\": \"top-right\",\n        \"theme\": \"Skincare\",\n        \"subject\": \"Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.\",\n        \"elements\": [\n          \"soft pink gradient background\",\n          \"dynamic water splash effects\",\n          \"pink cosmetic jar labeled '{argument name=\\\"skincare product name\\\" default=\\\"LUMIÈRE\\\"} Brightening Gel'\"\n        ],\n        \"text_labels\": [\n          \"毛穴・くすみ卒業!\",\n          \"透明感あふれる\",\n          \"水光肌へ\",\n          \"新感覚スキンケア\",\n          \"初回限定 78%OFF\",\n          \"{argument name=\\\"discount price\\\" default=\\\"1,980円\\\"}\"\n        ],\n        \"badges\": {\n          \"count\": 3,\n          \"style\": \"gold circular\",\n          \"labels\": [\"毛穴ケア\", \"高保湿\", \"ハリ・ツヤ\"]\n        }\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"theme\": \"Gourmet Food\",\n        \"subject\": \"Thick, sliced, medium-rare steak sizzling on a dark grill plate.\",\n        \"elements\": [\n          \"garlic chips\",\n          \"rosemary sprig\",\n          \"dark background with smoke and glowing embers\"\n        ],\n        \"text_labels\": [\n          \"とろける旨さ!\",\n          \"{argument name=\\\"food item\\\" default=\\\"黒毛和牛\\\"}\",\n          \"贅沢ステーキ\",\n          \"期間限定\",\n          \"特別価格\",\n          \"通常価格 8,980円\",\n          \"4,980円\"\n        ],\n        \"badges\": {\n          \"count\": 1,\n          \"style\": \"red circular\",\n          \"labels\": [\"A4 A5等級\"]\n        }\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"theme\": \"Online Education\",\n        \"subject\": \"Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.\",\n        \"elements\": [\"bright indoor lighting\", \"desk environment\"],\n        \"text_labels\": [\n          \"スキマ時間で\",\n          \"{argument name=\\\"education goal\\\" default=\\\"最短合格!\\\"}\",\n          \"オンライン資格講座\",\n          \"スマホで完結\",\n          \"効率学習で差がつく!\",\n          \"今だけ! 受講料 20%OFF\"\n        ],\n        \"badges\": {\n          \"count\": 1,\n          \"style\": \"blue circular\",\n          \"labels\": [\"受講者数 10万人 突破!\"]\n        },\n        \"icons\": {\n          \"count\": 2,\n          \"descriptions\": [\"smartphone\", \"open book\"]\n        }\n      }\n    ]\n  }\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n  \"type\": \"2x2 日本数字广告横幅网格\",\n  \"layout\": {\n    \"structure\": \"4个相等的象限\",\n    \"quadrants\": [\n      {\n        \"position\": \"左上\",\n        \"theme\": \"旅行\",\n        \"subject\": \"一对情侣在白色沙滩上手牵手，望着碧蓝的海洋水，在明亮的蓝色天空下。\",\n        \"elements\": [\"左下角的红色芙蓉花\"],\n        \"text_labels\": [\n          \"今年，终于解放。\",\n          \"{argument name=\\\"travel destination\\\" default=\\\"沖縄旅行\\\"}\",\n          \"3天的治愈之旅\",\n          \"机票+酒店\",\n          \"39,800日元起\",\n          \"绝景、美食、体验 全部实现!\"\n        ],\n        \"icons\": {\n          \"count\": 3,\n          \"descriptions\": [\"飞机\", \"酒店建筑\", \"汽车\"]\n        }\n      },\n      {\n        \"position\": \"右上\",\n        \"theme\": \"护肤\",\n        \"subject\": \"年轻女子的特写肖像，皮肤发光、水润，眼睛闭上，轻触脸颊。\",\n        \"elements\": [\n          \"柔和的粉色渐变背景\",\n          \"动态水花效果\",\n          \"标记为'{argument name=\\\"skincare product name\\\" default=\\\"LUMIÈRE\\\"} 亮肤凝胶'的粉色化妆品罐\"\n        ],\n        \"text_labels\": [\n          \"毛孔・暗沉毕业!\",\n          \"充满透明感\",\n          \"水光肌\",\n          \"新感觉护肤\",\n          \"首次限定 78%折扣\",\n          \"{argument name=\\\"discount price\\\" default=\\\"1,980円\\\"}\"\n        ],\n        \"badges\": {\n          \"count\": 3,\n          \"style\": \"金色圆形\",\n          \"labels\": [\"毛孔护理\", \"高保湿\", \"弹性・光泽\"]\n        }\n      },\n      {\n        \"position\": \"左下\",\n        \"theme\": \"美食\",\n        \"subject\": \"厚切、五分熟牛排，在深色烤盘上滋滋作响。\",\n        \"elements\": [\n          \"蒜片\",\n          \"迷迭香枝\",\n          \"带有烟雾和发光余烬的深色背景\"\n        ],\n        \"text_labels\": [\n          \"融化般的美味!\",\n          \"{argument name=\\\"food item\\\" default=\\\"黒毛和牛\\\"}\",\n          \"奢华牛排\",\n          \"限时\",\n          \"特别价格\",\n          \"常规价格 8,980日元\",\n          \"4,980日元\"\n        ],\n        \"badges\": {\n          \"count\": 1,\n          \"style\": \"红色圆形\",\n          \"labels\": [\"A4 A5等级\"]\n        }\n      },\n      {\n        \"position\": \"右下\",\n        \"theme\": \"在线教育\",\n        \"subject\": \"穿蓝色衬衫的年轻男子在书桌前学习，在打开的笔记本电脑旁写笔记本。\",\n        \"elements\": [\"明亮的室内照明\", \"书桌环境\"],\n        \"text_labels\": [\n          \"利用碎片时间\",\n          \"{argument name=\\\"education goal\\\" default=\\\"最短合格!\\\"}\",\n          \"在线资格课程\",\n          \"用智能手机完成\",\n          \"高效学习创造差距!\",\n          \"仅限现在! 学费 20%折扣\"\n        ],\n        \"badges\": {\n          \"count\": 1,\n          \"style\": \"蓝色圆形\",\n          \"labels\": [\"学员数突破10万人!\"]\n        },\n        \"icons\": {\n          \"count\": 2,\n          \"descriptions\": [\"智能手机\", \"打开的书\"]\n        }\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:01:36.063Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "4-Panel Japanese Digital Ad Banner Grid",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/makaneko_AI/status/2045764016858087720",
+      "originalId": "case-90",
+      "authors": [
+        {
+          "name": "makaneko_AI",
+          "url": "https://x.com/makaneko_AI"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 5
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e43fdfe77eced40a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case90/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case90/output.jpg",
+      "localPath": "public/assets/prompt_1409d6737baf1cd06672/a69abb484c02.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.552Z"
+  }
+}

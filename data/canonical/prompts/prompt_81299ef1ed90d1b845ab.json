@@ -1,0 +1,176 @@
+{
+  "id": "prompt_81299ef1ed90d1b845ab",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using the provided reference image as the product base, transform the simple perfume-bottle shot into a studio-quality fashion advertising mockup. Keep the perfume bottle design, label text, black cap, amber liquid, and glass shape accurate and readable, but place it in the foreground being held close to the camera by one model's hand. Add exactly 1 fashion model in the background, posed dynamically in a low-angle wide-lens composition, wearing a {argument name=\"suit color\" default=\"bright orange\"} suit with a black shirt, black belt, and glossy black dress shoes. The model should stand in a confident editorial stance with one leg extended forward and the product exaggerated in scale by perspective. Use a clean warm beige studio backdrop, professional softbox lighting, crisp commercial product reflections, shallow depth of field, and a premium luxury fragrance campaign look. Keep the face unobtrusive or softly blurred so the product remains the hero. Overall mood: bold, modern, high-fashion, polished studio mockup.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "以提供的参考图作为产品基础，将简单的香水瓶拍摄画面转换为摄影棚级别的时尚广告样机。保持香水瓶设计、标签文字、黑色瓶盖、琥珀色液体及玻璃形状的准确与清晰，将其置于前景，由一只模特的手靠近镜头握持。在背景中添加 1 位时尚模特，采用低角度广角构图进行动态摆拍，身着 {argument name=\"suit color\" default=\"亮橙色\"} 西装，内搭黑色衬衫，系黑色腰带，穿着亮面黑色正装皮鞋。模特需呈现自信的编辑风格姿态，一条腿向前伸展，并通过透视效果夸大产品比例。使用干净的暖米色摄影棚背景、专业的柔光箱照明、清晰的商业产品反射、浅景深效果，营造高端奢华香水广告的质感。保持面部不显眼或轻微模糊，以确保产品始终是视觉焦点。整体氛围：大胆、现代、高级时尚、精致的摄影棚样机。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Utilizando la imagen de referencia proporcionada como base del producto, transforma la toma simple de la botella de perfume en un mockup de publicidad de moda con calidad de estudio. Mantén el diseño de la botella de perfume, el texto de la etiqueta, la tapa negra, el líquido ámbar y la forma del vidrio precisos y legibles, pero colócala en primer plano siendo sostenida cerca de la cámara por la mano de un modelo. Añade exactamente 1 modelo de moda en el fondo, posando dinámicamente en una composición de ángulo contrapicado con lente gran angular, vistiendo un traje de color {argument name=\"suit color\" default=\"naranja brillante\"} con camisa negra, cinturón negro y zapatos de vestir negros brillantes. El modelo debe adoptar una postura editorial segura con una pierna extendida hacia adelante y el producto con una escala exagerada por la perspectiva. Utiliza un fondo de estudio en color beige cálido y limpio, iluminación profesional con softbox, reflejos de producto comerciales nítidos, profundidad de campo reducida y un aspecto de campaña de fragancia de lujo premium. Mantén el rostro discreto o suavemente desenfocado para que el producto siga siendo el protagonista. Ambiente general: audaz, moderno, alta costura, mockup de estudio pulido.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Verwenden Sie das bereitgestellte Referenzbild als Produktbasis und verwandeln Sie die einfache Aufnahme der Parfümflasche in ein Fashion-Werbe-Mockup in Studioqualität. Achten Sie darauf, dass das Design der Parfümflasche, der Text auf dem Etikett, der schwarze Verschluss, die bernsteinfarbene Flüssigkeit und die Glasform präzise und lesbar bleiben, platzieren Sie das Produkt jedoch im Vordergrund, sodass es von der Hand eines Models nah an die Kamera gehalten wird. Fügen Sie genau 1 Fashion-Model im Hintergrund hinzu, das dynamisch in einer Froschperspektive mit Weitwinkelobjektiv posiert und einen {argument name=\"suit color\" default=\"leuchtend orangen\"} Anzug mit schwarzem Hemd, schwarzem Gürtel und glänzenden schwarzen Anzugschuhen trägt. Das Model sollte eine selbstbewusste, editoriale Haltung einnehmen, bei der ein Bein nach vorne gestreckt ist und das Produkt durch die Perspektive in seiner Größe übertrieben wirkt. Verwenden Sie einen sauberen, warmbeigen Studiohintergrund, professionelle Softbox-Beleuchtung, scharfe kommerzielle Produktreflexionen, eine geringe Schärfentiefe und den Look einer erstklassigen Luxus-Parfümkampagne. Halten Sie das Gesicht dezent oder leicht unscharf, damit das Produkt der Star bleibt. Gesamtstimmung: mutig, modern, High-Fashion, poliertes Studio-Mockup.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "En utilisant l'image de référence fournie comme base pour le produit, transformez la simple photo du flacon de parfum en une maquette publicitaire de mode de qualité studio. Conservez le design du flacon, le texte de l'étiquette, le bouchon noir, le liquide ambré et la forme du verre de manière précise et lisible, mais placez-le au premier plan, tenu près de l'objectif par la main d'un mannequin. Ajoutez exactement 1 mannequin en arrière-plan, posant de manière dynamique dans une composition en contre-plongée avec un objectif grand angle, portant un costume {argument name=\"suit color\" default=\"orange vif\"} avec une chemise noire, une ceinture noire et des chaussures de ville noires brillantes. Le mannequin doit adopter une posture éditoriale assurée, une jambe étendue vers l'avant, avec le produit dont l'échelle est exagérée par la perspective. Utilisez un fond de studio beige chaud et épuré, un éclairage professionnel de type softbox, des reflets nets typiques de la photographie commerciale, une faible profondeur de champ et un rendu de campagne de parfum haut de gamme. Gardez le visage discret ou légèrement flouté afin que le produit reste l'élément central. Ambiance générale : audacieuse, moderne, haute couture, maquette de studio soignée.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Utilizzando l'immagine di riferimento fornita come base per il prodotto, trasforma il semplice scatto della boccetta di profumo in un mockup pubblicitario di moda di qualità professionale. Mantieni il design della boccetta, il testo dell'etichetta, il tappo nero, il liquido ambrato e la forma del vetro accurati e leggibili, ma posizionala in primo piano, tenuta vicino alla fotocamera dalla mano di un modello. Aggiungi esattamente 1 modello di moda sullo sfondo, in una posa dinamica con un'inquadratura dal basso e obiettivo grandangolare, che indossa un abito {argument name=\"suit color\" default=\"arancione brillante\"} con camicia nera, cintura nera e scarpe eleganti nere lucide. Il modello deve assumere una posa editoriale sicura con una gamba estesa in avanti e il prodotto deve apparire ingrandito per effetto della prospettiva. Utilizza uno sfondo da studio color beige caldo e pulito, un'illuminazione softbox professionale, riflessi nitidi tipici della fotografia commerciale, una profondità di campo ridotta e un look da campagna pubblicitaria di fragranze di lusso. Mantieni il volto discreto o leggermente sfocato affinché il prodotto rimanga il protagonista. Atmosfera generale: audace, moderna, alta moda, mockup da studio raffinato.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Usando a imagem de referência fornecida como base do produto, transforme a foto simples do frasco de perfume em um mockup de publicidade de moda com qualidade de estúdio. Mantenha o design do frasco de perfume, o texto do rótulo, a tampa preta, o líquido âmbar e o formato do vidro precisos e legíveis, mas coloque-o em primeiro plano, sendo segurado próximo à câmera pela mão de um modelo. Adicione exatamente 1 modelo de moda ao fundo, posicionado dinamicamente em uma composição de ângulo baixo com lente grande-angular, vestindo um terno {argument name=\"suit color\" default=\"laranja vibrante\"} com camisa preta, cinto preto e sapatos sociais pretos brilhantes. O modelo deve estar em uma postura editorial confiante, com uma perna estendida para frente e o produto com escala exagerada pela perspectiva. Use um fundo de estúdio bege quente e limpo, iluminação profissional de softbox, reflexos de produto comercial nítidos, profundidade de campo rasa e um visual de campanha de fragrância de luxo premium. Mantenha o rosto discreto ou levemente desfocado para que o produto permaneça como o protagonista. Clima geral: ousado, moderno, alta-costura, mockup de estúdio polido.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Luxury Perfume Fashion Mockup",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 奢华香水时尚样机",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Mockup de moda para perfume de lujo",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Luxus-Parfüm-Fashion-Mockup",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Maquette publicitaire de parfum de luxe",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Mockup di moda per profumo di lusso",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Mockup de Moda para Perfume de Luxo",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Transforms a basic perfume bottle reference into a polished studio fashion advertisement with a model holding the product prominently.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "将基础的香水瓶参考图转换为精致的摄影棚时尚广告，并由模特突出展示产品。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Transforme une référence de flacon de parfum basique en une publicité de mode studio raffinée, mettant en scène un mannequin tenant le produit en évidence.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/UTBRsDesignes/status/2050609819799912837#reversed-1",
+      "originalId": "https://x.com/UTBRsDesignes/status/2050609819799912837#reversed-1",
+      "authors": [
+        {
+          "name": "Uttam Bakori",
+          "url": "https://x.com/UTBRsDesignes"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4462
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fe74de16359744e8",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777797602250_jk62l3_HHU6DSBakAAN9M9.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777797602250_jk62l3_HHU6DSBakAAN9M9.jpg",
+      "localPath": "public/assets/prompt_81299ef1ed90d1b845ab/96aef58cae41.jpg",
+      "alt": "E-commerce Main Image - Luxury Perfume Fashion Mockup - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-01T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.877Z"
+  }
+}

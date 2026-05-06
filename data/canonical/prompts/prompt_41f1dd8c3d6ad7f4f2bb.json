@@ -1,0 +1,101 @@
+{
+  "id": "prompt_41f1dd8c3d6ad7f4f2bb",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy waffle cone, styled with a clean, modern premium aesthetic. The soft serve is a vibrant natural pink, thick and creamy, sculpted into a smooth swirl with a softly curled peak, lightly topped with delicate strawberry dust or tiny fruit specks for a fresh, appetizing look. The cone has a rustic, crunchy texture with slightly uneven edges for an artisanal feel.\nThe background is soft beige with natural sunlight casting subtle leaf shadows, creating a calm, organic atmosphere. Include softly blurred greenery in the foreground for depth. The composition is minimal, balanced, and uses negative space effectively, similar to high-end American food brand ads.\nOn the left side, include modern English typography in a clean, elegant layout (not vertical).\nMain headline:\nSweet Strawberry Bliss.\nSupporting line (smaller text):\nMade with real strawberries. Smooth. Creamy. Irresistible.\nAdd a small circular badge showing the price:\n$5.80.\nLighting: soft natural daylight, warm highlights, shallow depth of field, high-end commercial food photography style.\nMood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert branding.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超逼真的产品摄影，展示一份丰富的草莓软冰淇淋放在酥脆的华夫饼筒中，采用干净、现代的高端美学风格。冰淇淋是鲜艳的天然粉色，浓稠丝滑，被塑造成一个光滑的漩涡，顶端微微卷曲，轻轻点缀着精致的草莓粉或微小的水果颗粒，呈现出新鲜、诱人的外观。华夫饼筒具有质朴、酥脆的质感，边缘略微不均匀，营造出手工制作的质感。\n背景是柔和的米色，自然阳光投射出微妙的树叶阴影，营造出宁静、有机的氛围。前景中包含柔和模糊的绿色植物以增加深度。构图简约、平衡，有效利用负空间，类似于高端美国食品品牌的广告。\n在左侧，包含现代英语排版，采用干净、优雅的布局（非垂直）。\n主标题：\n甜蜜草莓乐园。\n副标题（较小文字）：\n使用真实草莓制作。丝滑。浓郁。无法抗拒。\n添加一个小圆形徽章显示价格：\n$5.80。\n灯光：柔和的自然日光，温暖的亮点，浅景深，高端商业食品摄影风格。\n氛围：清新、高端、现代且诱人 — 与高端美国甜点品牌保持一致。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:02.201Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Ultra-realistic product photography of a rich strawberry soft-serve ice cream...",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ZaraIrahh/status/2047179916161212542",
+      "originalId": "case-23",
+      "authors": [
+        {
+          "name": "ZaraIrahh",
+          "url": "https://x.com/ZaraIrahh"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 299
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_202ada6940dcaa81",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case79/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case79/output.jpg",
+      "localPath": "public/assets/prompt_41f1dd8c3d6ad7f4f2bb/0f1962ed3522.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

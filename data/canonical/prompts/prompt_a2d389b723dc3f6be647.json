@@ -1,0 +1,106 @@
+{
+  "id": "prompt_a2d389b723dc3f6be647",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "手机竖屏界面，短视频直播平台风格，一位年轻亚洲女主播在家中直播带货，主播穿着贴身瑜伽裤与简约上衣，身材曲线自然，正在侧身展示裤子的线条与弹性，动作自然不夸张；",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Mobile vertical screen interface, short video live streaming platform style, a young Asian female streamer selling goods through live streaming at home, the streamer is wearing tight yoga pants and a simple top, natural body curves, turning sideways to show the lines and elasticity of the pants, natural movements without exaggeration;",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "瑜伽裤女主播展示身材曲线",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Female streamer shows off her curves in yoga pants",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:10:31.134Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_31a3d12aa1",
+      "value": "瑜伽裤女主播展示身材曲线",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-255",
+      "originalId": "case-255",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2044796366950703316"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2825
+        }
+      ],
+      "rawSource": "[@joshesye](https://x.com/joshesye/status/2044796366950703316)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cb2d3dd236c13e12",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case255.jpg",
+      "upstreamPath": "../data/images/case255.jpg",
+      "localPath": "public/assets/prompt_a2d389b723dc3f6be647/389e38640b77.jpg",
+      "alt": "瑜伽裤女主播展示身材曲线",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "prompt_6af7088b3d14cacc025a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a bright whimsical anime-style wide illustration of exactly 3 cute chibi figures running and dancing across a mirror-like shallow water surface under a vivid blue sky: 1 chibi boy on the left, 1 small mascot robot in the center, and 1 chibi girl on the right. The left child is {argument name=\"left child outfit\" default=\"a green hoodie, dark blue cuffed jeans, and green sneakers\"}, with messy short black hair, arms spread as if skipping, one leg lifted, and the face intentionally covered by a soft square blur. The center character is {argument name=\"mascot design\" default=\"a white and lime-green round robot mascot with big blue eyes, green heart emblem on its chest, leaf-like green ear panels, rounded segmented limbs, and a small sprout antenna ending in a white flower\"}, smiling happily and waving while stepping forward. The right child is {argument name=\"right child outfit\" default=\"a pink hoodie, blue pleated skirt, white socks, and pink sneakers\"}, with short brown bobbed hair, running lightly with one fist raised, and the face intentionally covered by a soft square blur. Set the scene on an expansive reflective water plain like a dreamlike salt flat, with crisp reflections of all 3 figures beneath them. Use {argument name=\"background setting\" default=\"distant low mountains on the horizon, fluffy sunlit clouds, and a radiant blue afternoon sky\"}. Fill the air and water with many glowing star-shaped sparkles and warm golden light flares, creating a magical cheerful atmosphere. Use polished Japanese children’s book anime rendering, soft watercolor-like shading, clean line art, pastel colors, luminous highlights, high detail, wide 16:9 composition, no text, no logos.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张明亮且充满奇幻色彩的宽屏动漫风格插画，画面中恰好有 3 个可爱的 Q 版角色在湛蓝天空下，如镜面般的浅水滩上奔跑跳跃：左侧为 1 名 Q 版男孩，中间为 1 个小型吉祥物机器人，右侧为 1 名 Q 版女孩。左侧儿童穿着 {argument name=\"left child outfit\" default=\"绿色连帽衫、深蓝色翻边牛仔裤和绿色运动鞋\"}，留着凌乱的黑色短发，双臂张开如同在跳跃，一条腿抬起，面部刻意用柔和的方形模糊处理。中间角色为 {argument name=\"mascot design\" default=\"一个白色和青柠绿相间的圆形机器人吉祥物，拥有蓝色大眼睛、胸前有绿色爱心标志、叶片状的绿色耳板、圆润的分段式肢体，以及一个顶端开着小白花的嫩芽天线\"}，正开心地微笑着挥手前行。右侧儿童穿着 {argument name=\"right child outfit\" default=\"粉色连帽衫、蓝色百褶裙、白色短袜和粉色运动鞋\"}，留着棕色波波头短发，轻快地奔跑并举起一只拳头，面部刻意用柔和的方形模糊处理。场景设定在广阔且具有反射效果的水面上，如同梦幻般的盐滩，水面清晰地倒映着 3 个角色。使用 {argument name=\"background setting\" default=\"地平线上遥远的低矮山脉、蓬松的阳光云朵以及灿烂的午后蓝天\"} 作为背景。空气和水面中充盈着许多闪烁的星形光芒和温暖的金色光晕，营造出神奇而欢快的氛围。采用精致的日本童书动漫渲染风格，运用柔和的水彩质感阴影、干净的线条、柔和的色调、明亮的高光，画面细节丰富，采用 16:9 宽屏构图，无文字，无 Logo。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una ilustración panorámica brillante y caprichosa al estilo anime de exactamente 3 lindos personajes chibi corriendo y bailando sobre una superficie de agua poco profunda similar a un espejo bajo un cielo azul intenso: 1 niño chibi a la izquierda, 1 pequeño robot mascota en el centro y 1 niña chibi a la derecha. El niño de la izquierda lleva {argument name=\"left child outfit\" default=\"una sudadera con capucha verde, jeans azul oscuro con dobladillo y zapatillas verdes\"}, con cabello negro corto y desordenado, los brazos extendidos como si estuviera saltando, una pierna levantada y el rostro cubierto intencionalmente por un suave desenfoque cuadrado. El personaje central es {argument name=\"mascot design\" default=\"un robot mascota redondo de color blanco y verde lima con grandes ojos azules, un emblema de corazón verde en el pecho, paneles auditivos verdes en forma de hoja, extremidades redondeadas y segmentadas, y una pequeña antena con un brote que termina en una flor blanca\"}, que sonríe alegremente y saluda mientras da un paso adelante. La niña de la derecha lleva {argument name=\"right child outfit\" default=\"una sudadera con capucha rosa, falda plisada azul, calcetines blancos y zapatillas rosas\"}, con cabello castaño corto tipo bob, corriendo ligeramente con un puño levantado y el rostro cubierto intencionalmente por un suave desenfoque cuadrado. Ubica la escena en una extensa llanura de agua reflectante como un salar de ensueño, con reflejos nítidos de las 3 figuras debajo de ellos. Usa {argument name=\"background setting\" default=\"montañas bajas distantes en el horizonte, nubes esponjosas iluminadas por el sol y un radiante cielo azul por la tarde\"}. Llena el aire y el agua con muchos destellos brillantes en forma de estrella y destellos de luz dorada cálida, creando una atmósfera mágica y alegre. Utiliza un renderizado de anime pulido tipo libro infantil japonés, sombreado suave similar a la acuarela, arte lineal limpio, colores pastel, reflejos luminosos, alto detalle, composición panorámica 16:9, sin texto, sin logotipos.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine helle, skurrile Illustration im Anime-Stil im Breitbildformat mit genau 3 niedlichen Chibi-Figuren, die über eine spiegelnde, flache Wasseroberfläche unter einem leuchtend blauen Himmel laufen und tanzen: 1 Chibi-Junge auf der linken Seite, 1 kleines Roboter-Maskottchen in der Mitte und 1 Chibi-Mädchen auf der rechten Seite. Das linke Kind trägt {argument name=\"left child outfit\" default=\"einen grünen Kapuzenpullover, eine dunkelblaue Jeans mit Umschlag und grüne Sneaker\"}, hat kurzes, zerzaustes schwarzes Haar, die Arme ausgebreitet, als würde es hüpfen, ein Bein angehoben und das Gesicht ist absichtlich durch einen weichen, quadratischen Unschärfeeffekt verdeckt. Die Figur in der Mitte ist {argument name=\"mascot design\" default=\"ein weiß-lindgrüner, runder Roboter mit großen blauen Augen, einem grünen Herz-Emblem auf der Brust, blattartigen grünen Ohr-Elementen, abgerundeten, segmentierten Gliedmaßen und einer kleinen Spross-Antenne, die in einer weißen Blume endet\"}, lächelt fröhlich und winkt beim Vorwärtsschreiten. Das rechte Kind trägt {argument name=\"right child outfit\" default=\"einen rosa Kapuzenpullover, einen blauen Faltenrock, weiße Socken und rosa Sneaker\"}, hat kurzes braunes Bob-Haar, läuft leichtfüßig mit einer erhobenen Faust und das Gesicht ist absichtlich durch einen weichen, quadratischen Unschärfeeffekt verdeckt. Die Szene spielt auf einer weitläufigen, spiegelnden Wasserebene, ähnlich einer traumhaften Salzwüste, mit klaren Reflexionen aller 3 Figuren darunter. Verwende {argument name=\"background setting\" default=\"entfernte, niedrige Berge am Horizont, flauschige, sonnenbeschienene Wolken und einen strahlend blauen Nachmittagshimmel\"}. Fülle die Luft und das Wasser mit vielen leuchtenden, sternförmigen Glanzlichtern und warmen goldenen Lichtreflexen, um eine magische, fröhliche Atmosphäre zu schaffen. Nutze den Stil polierter japanischer Kinderbuch-Animes, weiche aquarellartige Schattierungen, klare Linienführung, Pastellfarben, leuchtende Highlights, hohe Detailgenauigkeit, 16:9-Breitbildkomposition, kein Text, keine Logos.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une illustration large de style anime, lumineuse et fantaisiste, montrant exactement 3 personnages chibi mignons en train de courir et de danser sur une surface d'eau peu profonde semblable à un miroir sous un ciel bleu éclatant : 1 garçon chibi à gauche, 1 petit robot mascotte au centre et 1 fille chibi à droite. L'enfant de gauche porte {argument name=\"left child outfit\" default=\"un sweat à capuche vert, un jean bleu foncé à revers et des baskets vertes\"}, a des cheveux noirs courts et ébouriffés, les bras écartés comme s'il sautillait, une jambe levée, et le visage intentionnellement masqué par un flou carré doux. Le personnage central est {argument name=\"mascot design\" default=\"une mascotte robot ronde blanche et vert citron avec de grands yeux bleus, un emblème de cœur vert sur la poitrine, des panneaux d'oreilles verts en forme de feuille, des membres arrondis segmentés et une petite antenne en forme de pousse se terminant par une fleur blanche\"}, souriant joyeusement et faisant signe de la main tout en avançant. L'enfant de droite porte {argument name=\"right child outfit\" default=\"un sweat à capuche rose, une jupe plissée bleue, des chaussettes blanches et des baskets roses\"}, a un carré court châtain, court légèrement avec un poing levé, et le visage intentionnellement masqué par un flou carré doux. Placez la scène sur une vaste plaine aquatique réfléchissante semblable à un désert de sel onirique, avec des reflets nets des 3 personnages en dessous. Utilisez {argument name=\"background setting\" default=\"des montagnes basses lointaines à l'horizon, des nuages duveteux éclairés par le soleil et un ciel bleu d'après-midi radieux\"}. Remplissez l'air et l'eau de nombreuses étincelles en forme d'étoiles scintillantes et de reflets dorés chaleureux, créant une atmosphère magique et joyeuse. Utilisez un rendu d'anime de livre pour enfants japonais soigné, des ombrages doux de type aquarelle, un trait net, des couleurs pastel, des reflets lumineux, un niveau de détail élevé, une composition large 16:9, sans texte, sans logos.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'illustrazione anime panoramica, luminosa e stravagante, con esattamente 3 simpatiche figure chibi che corrono e danzano su una superficie d'acqua bassa simile a uno specchio sotto un vivido cielo blu: 1 bambino chibi a sinistra, 1 piccolo robot mascotte al centro e 1 bambina chibi a destra. Il bambino a sinistra indossa {argument name=\"left child outfit\" default=\"una felpa con cappuccio verde, jeans blu scuro con risvolto e scarpe da ginnastica verdi\"}, ha capelli neri corti e spettinati, le braccia aperte come se stesse saltellando, una gamba sollevata e il volto intenzionalmente coperto da una sfocatura quadrata morbida. Il personaggio centrale è {argument name=\"mascot design\" default=\"un robot mascotte rotondo bianco e verde lime con grandi occhi blu, un emblema a cuore verde sul petto, pannelli auricolari verdi a forma di foglia, arti arrotondati e segmentati e una piccola antenna a germoglio che termina con un fiore bianco\"}, che sorride felicemente e saluta mentre avanza. La bambina a destra indossa {argument name=\"right child outfit\" default=\"una felpa con cappuccio rosa, una gonna a pieghe blu, calzini bianchi e scarpe da ginnastica rosa\"}, ha un caschetto castano corto, corre leggera con un pugno sollevato e il volto intenzionalmente coperto da una sfocatura quadrata morbida. Ambienta la scena su un'ampia distesa d'acqua riflettente simile a una salina onirica, con riflessi nitidi di tutte e 3 le figure sotto di loro. Usa {argument name=\"background setting\" default=\"montagne basse in lontananza all'orizzonte, soffici nuvole illuminate dal sole e un radioso cielo blu pomeridiano\"}. Riempi l'aria e l'acqua con molti bagliori a forma di stella e caldi riflessi di luce dorata, creando un'atmosfera magica e allegra. Utilizza uno stile di rendering anime tipico dei libri per bambini giapponesi, ombreggiature morbide simili all'acquerello, linee pulite, colori pastello, riflessi luminosi, dettagli elevati, composizione panoramica 16:9, senza testo, senza loghi.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma ilustração wide brilhante e extravagante em estilo anime com exatamente 3 figuras chibi fofas correndo e dançando sobre uma superfície de água rasa semelhante a um espelho sob um céu azul vívido: 1 menino chibi à esquerda, 1 pequeno robô mascote no centro e 1 menina chibi à direita. A criança à esquerda está {argument name=\"left child outfit\" default=\"com um moletom verde, jeans azul-escuro com barra dobrada e tênis verdes\"}, com cabelo curto e bagunçado, braços abertos como se estivesse saltitando, uma perna levantada e o rosto intencionalmente coberto por um desfoque quadrado suave. O personagem central é {argument name=\"mascot design\" default=\"um robô mascote redondo branco e verde-limão com grandes olhos azuis, emblema de coração verde no peito, painéis auriculares verdes em forma de folha, membros segmentados arredondados e uma pequena antena de broto terminando em uma flor branca\"}, sorrindo alegremente e acenando enquanto caminha para frente. A criança à direita está {argument name=\"right child outfit\" default=\"com um moletom rosa, saia plissada azul, meias brancas e tênis rosa\"}, com cabelo curto estilo chanel castanho, correndo levemente com um punho levantado e o rosto intencionalmente coberto por um desfoque quadrado suave. Defina a cena em uma vasta planície aquática reflexiva como um salar onírico, com reflexos nítidos de todas as 3 figuras abaixo delas. Use {argument name=\"background setting\" default=\"montanhas baixas distantes no horizonte, nuvens fofas iluminadas pelo sol e um céu azul radiante de tarde\"}. Preencha o ar e a água com muitos brilhos em forma de estrela e reflexos de luz dourada quente, criando uma atmosfera mágica e alegre. Use renderização de anime de livro infantil japonês polido, sombreamento suave tipo aquarela, arte de linha limpa, cores pastéis, destaques luminosos, alto detalhe, composição wide 16:9, sem texto, sem logotipos.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Chibi Friends on Sparkling Water",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 气泡水上的 Q 版小伙伴",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Amigos chibi sobre agua brillante",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Chibi-Freunde auf glitzerndem Wasser",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Amis chibi sur une eau scintillante",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Amici Chibi sull'acqua scintillante",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Amigos Chibi sobre Água Cintilante",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cheerful wide anime scene of two chibi children and a cute robot mascot running across a reflective magical water landscape.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张欢快的宽屏动漫场景，画面中有两个 Q 版儿童和一个可爱的机器人吉祥物，它们正在如镜面般梦幻的水面上奔跑。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène d'anime large et joyeuse représentant deux enfants chibi et une adorable mascotte robot courant sur un paysage aquatique magique et réfléchissant.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/saskr_13/status/2051322832295264711#reversed-0",
+      "originalId": "https://x.com/saskr_13/status/2051322832295264711#reversed-0",
+      "authors": [
+        {
+          "name": "sasakura｜宅録ナレーター×占星術×AI愛好家🇯🇵",
+          "url": "https://x.com/saskr_13"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3633
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2e26f870c6f24df7",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971077901_9x3dhb_HHfCfEJawAEwINT.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971077901_9x3dhb_HHfCfEJawAEwINT.jpg",
+      "localPath": "public/assets/prompt_6af7088b3d14cacc025a/a6279b819305.jpg",
+      "alt": "Comic / Storyboard - Chibi Friends on Sparkling Water - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "character",
+      "mascot",
+      "角色",
+      "吉祥物"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.855Z"
+  }
+}

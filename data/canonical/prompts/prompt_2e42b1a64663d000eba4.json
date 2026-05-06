@@ -1,0 +1,105 @@
+{
+  "id": "prompt_2e42b1a64663d000eba4",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一个抖音直播的截图 里面是一个美女在直播",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a screenshot of a Douyin livestream, inside there is a beautiful woman livestreaming",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "抖音直播间的绝美女主播",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Stunning female livestream host on Douyin",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:04:54.006Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_bf89236936",
+      "value": "抖音直播间的绝美女主播",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-256",
+      "originalId": "case-256",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2044796366950703316"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2845
+        }
+      ],
+      "rawSource": "[@joshesye](https://x.com/joshesye/status/2044796366950703316)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ffa8895fc8ed8a3b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case256.jpg",
+      "upstreamPath": "../data/images/case256.jpg",
+      "localPath": "public/assets/prompt_2e42b1a64663d000eba4/a7ff7ac2df6b.jpg",
+      "alt": "抖音直播间的绝美女主播",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "抖音"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

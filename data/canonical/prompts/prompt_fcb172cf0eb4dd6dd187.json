@@ -1,0 +1,176 @@
+{
+  "id": "prompt_fcb172cf0eb4dd6dd187",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"viral Japanese social media infographic / meme thumbnail\",\"theme\":\"same day in Japan has wildly different weather across regions\",\"canvas\":\"square 1:1 composition, high contrast, bold YouTube-thumbnail energy, glitchy RGB chromatic aberration, comic-book impact lines, exaggerated weather icons, thick black outlines, saturated colors\",\"headline\":{\"position\":\"top full-width black banner\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"同じ日の日本、カオスすぎるwww\\\"}\",\"style\":\"huge bold Japanese lettering, white text with red emphasis on カオス, distressed glitch effects, slight 3D shadow\"},\"layout\":{\"panel_count\":3,\"panels\":[{\"position\":\"top weather panel\",\"region_label\":\"{argument name=\\\"first region label\\\" default=\\\"北海道\\\"}\",\"background\":\"icy blue blizzard scene with swirling snow, snowflakes, wind streaks\",\"map\":\"white silhouette map of Hokkaido on the left\",\"weather_icons_count\":2,\"weather_icons\":[\"cute snowman wearing a navy knit hat and scarf with twig arms\",\"blue thermometer showing freezing temperature\"],\"temperature\":\"-5°C\",\"condition_text\":\"積雪・吹雪\",\"region_text_style\":\"massive white Japanese characters with dark blue outline on black brush-stroke patch\"},{\"position\":\"middle weather panel\",\"region_label\":\"{argument name=\\\"second region label\\\" default=\\\"東京\\\"}\",\"background\":\"bright yellow-orange summer heat burst with sun rays, Tokyo skyline and Skytree on the right\",\"map\":\"white silhouette map of the Kanto/Tokyo area on the left with a red star marker\",\"weather_icons_count\":2,\"weather_icons\":[\"smiling blazing sun wearing black sunglasses, sweating\",\"red thermometer showing hot temperature with heat squiggles\"],\"temperature\":\"28°C\",\"condition_text\":\"夏日・半袖余裕\",\"region_text_style\":\"huge orange Japanese characters with black outline on black brush-stroke patch\"},{\"position\":\"bottom weather panel\",\"region_label\":\"{argument name=\\\"third region label\\\" default=\\\"沖縄\\\"}\",\"background\":\"stormy teal ocean with heavy rain, waves, palm trees bending in wind, dark cyclone sky\",\"map\":\"white silhouette map of Okinawa islands on the left\",\"weather_icons_count\":2,\"weather_icons\":[\"frightened Okinawan shisa lion dog holding a blue umbrella, mouth open, rain splashing around\",\"black-and-white spiral typhoon symbol\"],\"wind_speed\":\"27m/s\",\"condition_text\":\"強風・大雨\",\"alert_text\":\"台風接近中\",\"region_text_style\":\"giant purple Japanese characters with black outline, yellow alert text underneath\"}]},\"footer\":{\"position\":\"bottom full-width comic caption banner\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"日本、広すぎ問題 😂💦 どこに住むかで季節が違う説www\\\"}\",\"style\":\"white jagged speech-bubble strip with thick black border, bold black Japanese text, red emphasis on 季節が違う, laughing-with-sweat emoji\"},\"overall_style\":\"Japanese meme infographic, chaotic but readable, three horizontal bands separated by white borders, dramatic typography, crisp vector-cartoon icons mixed with photo-like city detail, vivid blue/yellow/teal palette, playful exaggerated disaster-weather humor\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"病毒式日本社交媒体信息图 / 梗图缩略图\",\"theme\":\"日本同一天内各地区天气迥异\",\"canvas\":\"1:1 正方形构图，高对比度，强烈的 YouTube 缩略图风格，故障风 RGB 色差，漫画式冲击线，夸张的天气图标，粗黑轮廓，高饱和度色彩\",\"headline\":{\"position\":\"顶部全宽黑色横幅\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"同じ日の日本、カオスすぎるwww\\\"}\",\"style\":\"巨大的粗体日文字体，白色文字，在“カオス”处使用红色强调，带有故障效果，轻微 3D 阴影\"},\"layout\":{\"panel_count\":3,\"panels\":[{\"position\":\"顶部天气面板\",\"region_label\":\"{argument name=\\\"first region label\\\" default=\\\"北海道\\\"}\",\"background\":\"冰蓝色暴风雪场景，伴随旋转的雪花、雪片和风痕\",\"map\":\"左侧北海道的白色剪影地图\",\"weather_icons_count\":2,\"weather_icons\":[\"戴着海军蓝针织帽和围巾、长着树枝手臂的可爱雪人\",\"显示冰点温度的蓝色温度计\"],\"temperature\":\"-5°C\",\"condition_text\":\"积雪・暴风雪\",\"region_text_style\":\"巨大的白色日文字符，带有深蓝色轮廓，置于黑色笔触色块上\"},{\"position\":\"中部天气面板\",\"region_label\":\"{argument name=\\\"second region label\\\" default=\\\"东京\\\"}\",\"background\":\"明亮的黄橙色夏季热浪，伴随阳光，右侧为东京天际线和晴空塔\",\"map\":\"左侧关东/东京地区的白色剪影地图，带有一个红色星形标记\",\"weather_icons_count\":2,\"weather_icons\":[\"戴着黑色墨镜、正在流汗的微笑烈日\",\"显示高温的红色温度计，带有热浪波纹\"],\"temperature\":\"28°C\",\"condition_text\":\"夏日・短袖无压力\",\"region_text_style\":\"巨大的橙色日文字符，带有黑色轮廓，置于黑色笔触色块上\"},{\"position\":\"底部天气面板\",\"region_label\":\"{argument name=\\\"third region label\\\" default=\\\"冲绳\\\"}\",\"background\":\"暴风雨中的青色海洋，伴随大雨、海浪、在风中弯曲的棕榈树以及阴暗的台风天\",\"map\":\"左侧冲绳群岛的白色剪影地图\",\"weather_icons_count\":2,\"weather_icons\":[\"受惊的冲绳风狮爷，撑着蓝色雨伞，张着嘴，周围有雨水飞溅\",\"黑白螺旋台风符号\"],\"wind_speed\":\"27m/s\",\"condition_text\":\"强风・大雨\",\"alert_text\":\"台风接近中\",\"region_text_style\":\"巨大的紫色日文字符，带有黑色轮廓，下方有黄色警示文字\"}]},\"footer\":{\"position\":\"底部全宽漫画标题横幅\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"日本、広すぎ問題 😂💦 どこに住むかで季節が違う説www\\\"}\",\"style\":\"白色锯齿状对话气泡条，带有粗黑色边框，粗体黑色日文，在“季节不同”处使用红色强调，带有流汗笑的表情符号\"},\"overall_style\":\"日本梗图信息图，混乱但易读，三个水平带由白色边框分隔，戏剧性的排版，清晰的矢量卡通图标与照片般的城市细节相结合，生动的蓝/黄/青色调，俏皮夸张的灾难天气幽默\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"infografía viral para redes sociales japonesas / miniatura de meme\",\"theme\":\"el mismo día en Japón tiene climas drásticamente diferentes según la región\",\"canvas\":\"composición cuadrada 1:1, alto contraste, energía de miniatura de YouTube, aberración cromática RGB tipo glitch, líneas de impacto de cómic, iconos climáticos exagerados, contornos negros gruesos, colores saturados\",\"headline\":{\"position\":\"banda negra superior de ancho completo\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"¡El mismo día en Japón, demasiado caótico! www\\\"}\",\"style\":\"letras japonesas enormes y audaces, texto blanco con énfasis en rojo en 'caótico', efectos de glitch desgastado, ligera sombra 3D\"},\"layout\":{\"panel_count\":3,\"panels\":[{\"position\":\"panel climático superior\",\"region_label\":\"{argument name=\\\"first region label\\\" default=\\\"Hokkaido\\\"}\",\"background\":\"escena de ventisca azul gélido con nieve arremolinada, copos de nieve, ráfagas de viento\",\"map\":\"silueta blanca del mapa de Hokkaido a la izquierda\",\"weather_icons_count\":2,\"weather_icons\":[\"muñeco de nieve lindo con gorro de punto azul marino y bufanda con brazos de ramita\",\"termómetro azul que muestra temperatura bajo cero\"],\"temperature\":\"-5°C\",\"condition_text\":\"Acumulación de nieve / Ventisca\",\"region_text_style\":\"caracteres japoneses blancos masivos con contorno azul oscuro sobre un parche de pincelada negra\"},{\"position\":\"panel climático central\",\"region_label\":\"{argument name=\\\"second region label\\\" default=\\\"Tokio\\\"}\",\"background\":\"explosión de calor veraniego amarillo-naranja con rayos de sol, horizonte de Tokio y Skytree a la derecha\",\"map\":\"silueta blanca del mapa del área de Kanto/Tokio a la izquierda con un marcador de estrella roja\",\"weather_icons_count\":2,\"weather_icons\":[\"sol radiante sonriente con gafas de sol negras, sudando\",\"termómetro rojo que muestra temperatura alta con ondas de calor\"],\"temperature\":\"28°C\",\"condition_text\":\"Día de verano / Mangas cortas\",\"region_text_style\":\"caracteres japoneses naranjas enormes con contorno negro sobre un parche de pincelada negra\"},{\"position\":\"panel climático inferior\",\"region_label\":\"{argument name=\\\"third region label\\\" default=\\\"Okinawa\\\"}\",\"background\":\"océano verde azulado tormentoso con lluvia intensa, olas, palmeras doblándose con el viento, cielo de ciclón oscuro\",\"map\":\"silueta blanca del mapa de las islas de Okinawa a la izquierda\",\"weather_icons_count\":2,\"weather_icons\":[\"perro león shisa de Okinawa asustado sosteniendo un paraguas azul, boca abierta, lluvia salpicando\",\"símbolo de tifón en espiral blanco y negro\"],\"wind_speed\":\"27m/s\",\"condition_text\":\"Viento fuerte / Lluvia intensa\",\"alert_text\":\"Tifón acercándose\",\"region_text_style\":\"caracteres japoneses morados gigantes con contorno negro, texto de alerta amarillo debajo\"}]},\"footer\":{\"position\":\"banda inferior de pie de página tipo cómic de ancho completo\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"Japón, el problema de ser demasiado grande 😂💦 ¿La teoría de que la estación cambia según dónde vivas? www\\\"}\",\"style\":\"tira de burbuja de diálogo dentada blanca con borde negro grueso, texto japonés negro audaz, énfasis en rojo en 'la estación cambia', emoji de risa con sudor\"},\"overall_style\":\"infografía de meme japonés, caótica pero legible, tres bandas horizontales separadas por bordes blancos, tipografía dramática, iconos vectoriales de dibujos animados nítidos mezclados con detalles de ciudad tipo fotografía, paleta vívida de azul/amarillo/verde azulado, humor juguetón y exagerado sobre desastres climáticos\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"virale japanische Social-Media-Infografik / Meme-Thumbnail\",\"theme\":\"dasselbe Datum in Japan mit extrem unterschiedlichem Wetter in verschiedenen Regionen\",\"canvas\":\"quadratische 1:1-Komposition, hoher Kontrast, auffälliger YouTube-Thumbnail-Stil, glitchige RGB-chromatische Aberration, Comic-Impact-Linien, übertriebene Wettersymbole, dicke schwarze Umrandungen, gesättigte Farben\",\"headline\":{\"position\":\"oberes Banner über die volle Breite in Schwarz\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"Japan am selben Tag, einfach zu chaotisch www\\\"}\",\"style\":\"riesige, fette japanische Schriftzeichen, weißer Text mit roter Hervorhebung bei カオス (Chaos), distressed Glitch-Effekte, leichter 3D-Schatten\"},\"layout\":{\"panel_count\":3,\"panels\":[{\"position\":\"oberes Wetter-Panel\",\"region_label\":\"{argument name=\\\"first region label\\\" default=\\\"Hokkaido\\\"}\",\"background\":\"eisblaue Schneesturmszene mit wirbelndem Schnee, Schneeflocken, Windstreifen\",\"map\":\"weiße Silhouettenkarte von Hokkaido auf der linken Seite\",\"weather_icons_count\":2,\"weather_icons\":[\"süßer Schneemann mit dunkelblauer Strickmütze und Schal sowie Zweig-Armen\",\"blaues Thermometer mit Gefriertemperatur\"],\"temperature\":\"-5°C\",\"condition_text\":\"Schneefall・Schneesturm\",\"region_text_style\":\"massive weiße japanische Schriftzeichen mit dunkelblauer Umrandung auf schwarzem Pinselstrich-Fleck\"},{\"position\":\"mittleres Wetter-Panel\",\"region_label\":\"{argument name=\\\"second region label\\\" default=\\\"Tokio\\\"}\",\"background\":\"hellgelb-oranger Sommerhitze-Ausbruch mit Sonnenstrahlen, Skyline von Tokio und Skytree auf der rechten Seite\",\"map\":\"weiße Silhouettenkarte der Region Kanto/Tokio auf der linken Seite mit roter Sternmarkierung\",\"weather_icons_count\":2,\"weather_icons\":[\"lächelnde, brennende Sonne mit schwarzer Sonnenbrille, schwitzend\",\"rotes Thermometer mit Hitze-Symbolen\"],\"temperature\":\"28°C\",\"condition_text\":\"Sommertag・kurze Ärmel\",\"region_text_style\":\"riesige orangefarbene japanische Schriftzeichen mit schwarzer Umrandung auf schwarzem Pinselstrich-Fleck\"},{\"position\":\"unteres Wetter-Panel\",\"region_label\":\"{argument name=\\\"third region label\\\" default=\\\"Okinawa\\\"}\",\"background\":\"stürmischer türkisfarbener Ozean mit starkem Regen, Wellen, im Wind biegende Palmen, dunkler Zyklon-Himmel\",\"map\":\"weiße Silhouettenkarte der Okinawa-Inseln auf der linken Seite\",\"weather_icons_count\":2,\"weather_icons\":[\"verängstigter Okinawan Shisa-Löwenhund mit blauem Regenschirm, offenes Maul, spritzender Regen\",\"schwarz-weißes spiralförmiges Taifun-Symbol\"],\"wind_speed\":\"27m/s\",\"condition_text\":\"Starker Wind・Starkregen\",\"alert_text\":\"Taifun nähert sich\",\"region_text_style\":\"riesige violette japanische Schriftzeichen mit schwarzer Umrandung, gelber Alarmtext darunter\"}]},\"footer\":{\"position\":\"unteres Comic-Caption-Banner über die volle Breite\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"Japan ist einfach zu groß 😂💦 Die Theorie, dass sich die Jahreszeit je nach Wohnort unterscheidet www\\\"}\",\"style\":\"weißer, gezackter Sprechblasenstreifen mit dickem schwarzem Rand, fetter schwarzer japanischer Text, rote Hervorhebung bei 季節が違う (Jahreszeiten unterschiedlich), lachendes Emoji mit Schweißtropfen\"},\"overall_style\":\"japanische Meme-Infografik, chaotisch aber lesbar, drei horizontale Bänder getrennt durch weiße Ränder, dramatische Typografie, knackige Vektor-Cartoon-Icons gemischt mit fotoähnlichen Stadtdetails, lebendige blau-gelb-türkise Farbpalette, verspielter, übertriebener Katastrophenwetter-Humor\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"infographie virale pour les réseaux sociaux japonais / miniature de mème\",\"theme\":\"la même journée au Japon avec une météo radicalement différente selon les régions\",\"canvas\":\"composition carrée 1:1, contraste élevé, style miniature YouTube percutant, aberration chromatique RVB, lignes d'impact type bande dessinée, icônes météo exagérées, contours noirs épais, couleurs saturées\",\"headline\":{\"position\":\"bandeau noir pleine largeur en haut\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"同じ日の日本、カオスすぎるwww\\\"}\",\"style\":\"immenses caractères japonais en gras, texte blanc avec emphase rouge sur カオス, effets de glitch, légère ombre 3D\"},\"layout\":{\"panel_count\":3,\"panels\":[{\"position\":\"panneau météo supérieur\",\"region_label\":\"{argument name=\\\"first region label\\\" default=\\\"北海道\\\"}\",\"background\":\"scène de blizzard bleu glacial avec neige tourbillonnante, flocons, traînées de vent\",\"map\":\"silhouette blanche de la carte d'Hokkaido sur la gauche\",\"weather_icons_count\":2,\"weather_icons\":[\"bonhomme de neige mignon portant un bonnet en tricot bleu marine et une écharpe avec des bras en brindilles\",\"thermomètre bleu indiquant une température glaciale\"],\"temperature\":\"-5°C\",\"condition_text\":\"積雪・吹雪\",\"region_text_style\":\"caractères japonais blancs massifs avec contour bleu foncé sur fond de coup de pinceau noir\"},{\"position\":\"panneau météo central\",\"region_label\":\"{argument name=\\\"second region label\\\" default=\\\"東京\\\"}\",\"background\":\"explosion de chaleur estivale jaune-orange vif avec rayons de soleil, horizon de Tokyo et Skytree sur la droite\",\"map\":\"silhouette blanche de la carte de la région de Kanto/Tokyo sur la gauche avec un marqueur étoile rouge\",\"weather_icons_count\":2,\"weather_icons\":[\"soleil souriant et brûlant portant des lunettes de soleil noires, en train de transpirer\",\"thermomètre rouge indiquant une température chaude avec des ondes de chaleur\"],\"temperature\":\"28°C\",\"condition_text\":\"夏日・半袖余裕\",\"region_text_style\":\"immenses caractères japonais orange avec contour noir sur fond de coup de pinceau noir\"},{\"position\":\"panneau météo inférieur\",\"region_label\":\"{argument name=\\\"third region label\\\" default=\\\"沖縄\\\"}\",\"background\":\"océan bleu sarcelle orageux avec forte pluie, vagues, palmiers se courbant sous le vent, ciel de cyclone sombre\",\"map\":\"silhouette blanche de la carte des îles d'Okinawa sur la gauche\",\"weather_icons_count\":2,\"weather_icons\":[\"lion-chien shisa d'Okinawa effrayé tenant un parapluie bleu, bouche ouverte, éclaboussures de pluie\",\"symbole de typhon en spirale noir et blanc\"],\"wind_speed\":\"27m/s\",\"condition_text\":\"強風・大雨\",\"alert_text\":\"台風接近中\",\"region_text_style\":\"caractères japonais violets géants avec contour noir, texte d'alerte jaune en dessous\"}]},\"footer\":{\"position\":\"bandeau de légende type bande dessinée pleine largeur en bas\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"日本、広すぎ問題 😂💦 どこに住むかで季節が違う説www\\\"}\",\"style\":\"bande de bulle de dialogue blanche dentelée avec bordure noire épaisse, texte japonais noir en gras, emphase rouge sur 季節が違う, émoji rire avec sueur\"},\"overall_style\":\"infographie mème japonaise, chaotique mais lisible, trois bandes horizontales séparées par des bordures blanches, typographie dramatique, icônes vectorielles nettes mélangées à des détails de ville réalistes, palette vive bleu/jaune/bleu sarcelle, humour ludique et exagéré sur les catastrophes météo\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"infografica virale per social media giapponesi / miniatura meme\",\"theme\":\"lo stesso giorno in Giappone presenta condizioni meteo drasticamente diverse tra le regioni\",\"canvas\":\"composizione quadrata 1:1, contrasto elevato, energia tipica delle miniature YouTube, aberrazione cromatica RGB glitch, linee d'impatto in stile fumetto, icone meteo esagerate, contorni neri spessi, colori saturi\",\"headline\":{\"position\":\"banner nero a tutta larghezza in alto\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"同じ日の日本、カオスすぎるwww\\\"}\",\"style\":\"enormi caratteri giapponesi in grassetto, testo bianco con enfasi in rosso su カオス, effetti glitch usurati, leggera ombra 3D\"},\"layout\":{\"panel_count\":3,\"panels\":[{\"position\":\"pannello meteo superiore\",\"region_label\":\"{argument name=\\\"first region label\\\" default=\\\"北海道\\\"}\",\"background\":\"scena di tormenta blu ghiaccio con neve vorticosa, fiocchi di neve, scie di vento\",\"map\":\"sagoma bianca della mappa di Hokkaido sulla sinistra\",\"weather_icons_count\":2,\"weather_icons\":[\"simpatico pupazzo di neve con cappello di lana blu e sciarpa, braccia a rametto\",\"termometro blu che indica temperatura gelida\"],\"temperature\":\"-5°C\",\"condition_text\":\"積雪・吹雪\",\"region_text_style\":\"massicci caratteri giapponesi bianchi con contorno blu scuro su una macchia a pennellata nera\"},{\"position\":\"pannello meteo centrale\",\"region_label\":\"{argument name=\\\"second region label\\\" default=\\\"東京\\\"}\",\"background\":\"esplosione di calore estivo giallo-arancio con raggi solari, skyline di Tokyo e Skytree sulla destra\",\"map\":\"sagoma bianca della mappa dell'area di Kanto/Tokyo sulla sinistra con un marcatore a stella rossa\",\"weather_icons_count\":2,\"weather_icons\":[\"sole splendente sorridente con occhiali da sole neri, che suda\",\"termometro rosso che indica temperatura calda con linee di calore\"],\"temperature\":\"28°C\",\"condition_text\":\"夏日・半袖余裕\",\"region_text_style\":\"enormi caratteri giapponesi arancioni con contorno nero su una macchia a pennellata nera\"},{\"position\":\"pannello meteo inferiore\",\"region_label\":\"{argument name=\\\"third region label\\\" default=\\\"沖縄\\\"}\",\"background\":\"oceano verde acqua tempestoso con pioggia battente, onde, palme che si piegano al vento, cielo scuro da ciclone\",\"map\":\"sagoma bianca della mappa delle isole di Okinawa sulla sinistra\",\"weather_icons_count\":2,\"weather_icons\":[\"spaventato leone shisa di Okinawa che tiene un ombrello blu, bocca aperta, pioggia che schizza intorno\",\"simbolo del tifone a spirale in bianco e nero\"],\"wind_speed\":\"27m/s\",\"condition_text\":\"強風・大雨\",\"alert_text\":\"台風接近中\",\"region_text_style\":\"caratteri giapponesi viola giganti con contorno nero, testo di allerta giallo sottostante\"}]},\"footer\":{\"position\":\"banner a fumetto a tutta larghezza in basso\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"日本、広すぎ問題 😂💦 どこに住むかで季節が違う説www\\\"}\",\"style\":\"striscia a fumetto frastagliata bianca con bordo nero spesso, testo giapponese nero in grassetto, enfasi in rosso su 季節が違う, emoji che ride con sudore\"},\"overall_style\":\"infografica meme giapponese, caotica ma leggibile, tre fasce orizzontali separate da bordi bianchi, tipografia drammatica, icone in stile cartoon vettoriale nitido mescolate a dettagli urbani simili a foto, palette vivace blu/giallo/verde acqua, umorismo giocoso ed esagerato sul meteo disastroso\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"infográfico viral de mídia social japonesa / miniatura de meme\",\"theme\":\"o mesmo dia no Japão tem climas drasticamente diferentes entre as regiões\",\"canvas\":\"composição quadrada 1:1, alto contraste, energia de miniatura do YouTube, aberração cromática RGB com falhas, linhas de impacto de histórias em quadrinhos, ícones climáticos exagerados, contornos pretos grossos, cores saturadas\",\"headline\":{\"position\":\"faixa preta superior de largura total\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"Mesmo dia no Japão, caos total www\\\"}\",\"style\":\"letras japonesas enormes e em negrito, texto branco com ênfase em vermelho em カオス (caos), efeitos de falha (glitch) desgastados, leve sombra 3D\"},\"layout\":{\"panel_count\":3,\"panels\":[{\"position\":\"painel climático superior\",\"region_label\":\"{argument name=\\\"first region label\\\" default=\\\"Hokkaido\\\"}\",\"background\":\"cena de nevasca azul gelada com neve rodopiante, flocos de neve, rajadas de vento\",\"map\":\"silhueta branca do mapa de Hokkaido à esquerda\",\"weather_icons_count\":2,\"weather_icons\":[\"boneco de neve fofo usando um gorro de tricô azul-marinho e cachecol com braços de galho\",\"termômetro azul mostrando temperatura de congelamento\"],\"temperature\":\"-5°C\",\"condition_text\":\"Acúmulo de neve / Nevasca\",\"region_text_style\":\"caracteres japoneses brancos massivos com contorno azul escuro sobre uma mancha de pincel preta\"},{\"position\":\"painel climático central\",\"region_label\":\"{argument name=\\\"second region label\\\" default=\\\"Tóquio\\\"}\",\"background\":\"explosão de calor de verão amarelo-alaranjado com raios de sol, horizonte de Tóquio e Skytree à direita\",\"map\":\"silhueta branca do mapa da área de Kanto/Tóquio à esquerda com um marcador de estrela vermelha\",\"weather_icons_count\":2,\"weather_icons\":[\"sol escaldante sorridente usando óculos escuros pretos, suando\",\"termômetro vermelho mostrando temperatura quente com linhas de calor\"],\"temperature\":\"28°C\",\"condition_text\":\"Dia de verão / Manga curta tranquilo\",\"region_text_style\":\"caracteres japoneses laranja enormes com contorno preto sobre uma mancha de pincel preta\"},{\"position\":\"painel climático inferior\",\"region_label\":\"{argument name=\\\"third region label\\\" default=\\\"Okinawa\\\"}\",\"background\":\"oceano azul-petróleo tempestuoso com chuva forte, ondas, palmeiras dobrando com o vento, céu escuro de ciclone\",\"map\":\"silhueta branca do mapa das ilhas de Okinawa à esquerda\",\"weather_icons_count\":2,\"weather_icons\":[\"leão guardião shisa de Okinawa assustado segurando um guarda-chuva azul, boca aberta, chuva espirrando ao redor\",\"símbolo de tufão espiral em preto e branco\"],\"wind_speed\":\"27m/s\",\"condition_text\":\"Vento forte / Chuva pesada\",\"alert_text\":\"Tufão se aproximando\",\"region_text_style\":\"caracteres japoneses roxos gigantes com contorno preto, texto de alerta amarelo abaixo\"}]},\"footer\":{\"position\":\"faixa de legenda de quadrinhos inferior de largura total\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"Japão, grande demais 😂💦 A teoria de que a estação muda dependendo de onde você mora www\\\"}\",\"style\":\"faixa de balão de fala irregular branca com borda preta grossa, texto japonês preto em negrito, ênfase em vermelho em 季節が違う (estação diferente), emoji rindo com suor\"},\"overall_style\":\"infográfico de meme japonês, caótico mas legível, três faixas horizontais separadas por bordas brancas, tipografia dramática, ícones de desenho vetorial nítidos misturados com detalhes de cidade realistas, paleta vívida de azul/amarelo/azul-petróleo, humor lúdico e exagerado sobre desastres climáticos\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Chaotic Japan Weather Meme",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 日本天气混乱梗图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Meme del clima caótico en Japón",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Chaotisches Japan-Wetter-Meme",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Mème sur la météo chaotique au Japon",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Meme sul meteo caotico in Giappone",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Meme de clima caótico no Japão",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a bold Japanese meme infographic showing three regional weather extremes on the same day, suitable for viral social posts or thumbnail-style commentary.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张醒目的日本梗图信息图，展示同一天内三个地区的极端天气，适合病毒式社交媒体帖文或缩略图风格的评论。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une infographie mème japonaise audacieuse montrant trois extrêmes météorologiques régionaux le même jour, idéale pour les publications virales sur les réseaux sociaux ou les miniatures de commentaires.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/zubora_designer/status/2051309591162667198#reversed-0",
+      "originalId": "https://x.com/zubora_designer/status/2051309591162667198#reversed-0",
+      "authors": [
+        {
+          "name": "はく | ずぼらデザイン×AI",
+          "url": "https://x.com/zubora_designer"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1826
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6adeb26348b801de",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971060161_ma6uau_HHe275Pa8AAkBIL.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971060161_ma6uau_HHe275Pa8AAkBIL.jpg",
+      "localPath": "public/assets/prompt_fcb172cf0eb4dd6dd187/ee2848f03f77.jpg",
+      "alt": "Social Media Post - Chaotic Japan Weather Meme - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "youtube",
+      "thumbnail",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.873Z"
+  }
+}

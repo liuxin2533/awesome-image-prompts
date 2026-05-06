@@ -1,0 +1,109 @@
+{
+  "id": "prompt_e3e532edb4fa3b36be7d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"promotional banner design set\",\r\n  \"theme\": \"strawberry advertisement campaign\",\r\n  \"style\": \"anime illustration, bright, cheerful, commercial graphic design\",\r\n  \"color_palette\": \"{argument name=\\\"primary color theme\\\" default=\\\"pastel pink and vibrant red\\\"}\",\r\n  \"character\": \"{argument name=\\\"character description\\\" default=\\\"anime girl with brown side ponytail and bunny ears, wearing a pastel blue and pink jacket\\\"}\",\r\n  \"product\": \"{argument name=\\\"product\\\" default=\\\"fresh red strawberries\\\"}\",\r\n  \"layout\": {\r\n    \"sections\": [\r\n      {\r\n        \"type\": \"large landscape banner\",\r\n        \"position\": \"top left\",\r\n        \"visuals\": \"character winking and holding a strawberry next to a large basket of strawberries\",\r\n        \"main_text\": \"{argument name=\\\"main headline\\\" default=\\\"いちごたっぷり\\\"}\",\r\n        \"sub_text\": [\"笑顔あふれる、甘〜いひととき♪\", \"とびきりおいしい！\", \"ひと粒で、しあわせ広がる♡\", \"あまっ♡\", \"旬のおいしさをお届け！\"],\r\n        \"badges\": {\r\n          \"count\": 3,\r\n          \"labels\": [\"あま〜くてジューシー！\", \"いろんなサイズを楽しめる♪\", \"新鮮朝採れ！\"]\r\n        }\r\n      },\r\n      {\r\n        \"type\": \"vertical banner\",\r\n        \"position\": \"right\",\r\n        \"visuals\": \"character eating a strawberry with a pile of strawberries below\",\r\n        \"main_text\": \"いちごたっぷり\",\r\n        \"sub_text\": [\"旬のいちごをお届け！\", \"{argument name=\\\"secondary headline\\\" default=\\\"あま〜くて、ジューシー！\\\"}\", \"とろけるおいしさ〜♡\"],\r\n        \"badges\": {\r\n          \"count\": 3,\r\n          \"labels\": [\"朝採れ新鮮！\", \"いろんなサイズを楽しめる♪\", \"甘くてジューシー！\"]\r\n        }\r\n      },\r\n      {\r\n        \"type\": \"wide horizontal banner\",\r\n        \"position\": \"middle\",\r\n        \"visuals\": \"character with closed eyes eating a strawberry, flanked by strawberries\",\r\n        \"main_text\": \"いちごたっぷり！\",\r\n        \"sub_text\": [\"あまくて、ジューシーな幸せ♡\", \"旬の美味しさをお届けします！\", \"おいし〜っ♡\"]\r\n      },\r\n      {\r\n        \"type\": \"small square banner\",\r\n        \"position\": \"bottom left\",\r\n        \"visuals\": \"character smiling holding strawberry\",\r\n        \"text\": [\"いちごたっぷり\", \"あま〜くてジューシー！\"]\r\n      },\r\n      {\r\n        \"type\": \"small square banner\",\r\n        \"position\": \"bottom mid-left\",\r\n        \"visuals\": \"pile of strawberries with one cut in half\",\r\n        \"text\": [\"旬のいちご！\", \"あまくてとろけるおいしさ♡\"]\r\n      },\r\n      {\r\n        \"type\": \"small horizontal banner\",\r\n        \"position\": \"bottom mid-right\",\r\n        \"visuals\": \"character holding strawberry\",\r\n        \"text\": [\"いちごたっぷり\", \"朝採れ新鮮！\", \"あまくてジューシー！\"]\r\n      },\r\n      {\r\n        \"type\": \"circular icons\",\r\n        \"position\": \"bottom right\",\r\n        \"count\": 4,\r\n        \"items\": [\r\n          { \"visual\": \"basket of strawberries\", \"label\": \"朝採れ新鮮！\" },\r\n          { \"visual\": \"half strawberry\", \"label\": \"あまくてジューシー！\" },\r\n          { \"visual\": \"whole strawberry\", \"label\": \"いろんなサイズ！\" },\r\n          { \"visual\": \"character face\", \"label\": \"とろけるおいしさ♡\" }\r\n        ]\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"promotional banner design set\",\n  \"theme\": \"strawberry advertisement campaign\",\n  \"style\": \"anime illustration, bright, cheerful, commercial graphic design\",\n  \"color_palette\": \"{argument name=\\\"primary color theme\\\" default=\\\"pastel pink and vibrant red\\\"}\",\n  \"character\": \"{argument name=\\\"character description\\\" default=\\\"anime girl with brown side ponytail and bunny ears, wearing a pastel blue and pink jacket\\\"}\",\n  \"product\": \"{argument name=\\\"product\\\" default=\\\"fresh red strawberries\\\"}\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"type\": \"large landscape banner\",\n        \"position\": \"top left\",\n        \"visuals\": \"character winking and holding a strawberry next to a large basket of strawberries\",\n        \"main_text\": \"{argument name=\\\"main headline\\\" default=\\\"Full of strawberries\\\"}\",\n        \"sub_text\": [\"A moment full of smiles, sweet~♪\", \"Super delicious!\", \"With one berry, happiness spreads♡\", \"Sweet♡\", \"Delicious seasonal flavors delivered!\"],\n        \"badges\": {\n          \"count\": 3,\n          \"labels\": [\"Sweet~ and Juicy!\", \"Enjoy various sizes♪\", \"Freshly picked in the morning!\"]\n        }\n      },\n      {\n        \"type\": \"vertical banner\",\n        \"position\": \"right\",\n        \"visuals\": \"character eating a strawberry with a pile of strawberries below\",\n        \"main_text\": \"Full of strawberries\",\n        \"sub_text\": [\"Delivering seasonal strawberries!\", \"{argument name=\\\"secondary headline\\\" default=\\\"Sweet~ and Juicy!\\\"}\", \"Melting deliciousness~♡\"],\n        \"badges\": {\n          \"count\": 3,\n          \"labels\": [\"Freshly picked in the morning!\", \"Enjoy various sizes♪\", \"Sweet and Juicy!\"]\n        }\n      },\n      {\n        \"type\": \"wide horizontal banner\",\n        \"position\": \"middle\",\n        \"visuals\": \"character with closed eyes eating a strawberry, flanked by strawberries\",\n        \"main_text\": \"Full of strawberries!\",\n        \"sub_text\": [\"Sweet and Juicy happiness♡\", \"Delivering delicious seasonal flavors!\", \"Deliciouss~♡\"]\n      },\n      {\n        \"type\": \"small square banner\",\n        \"position\": \"bottom left\",\n        \"visuals\": \"character smiling holding strawberry\",\n        \"text\": [\"Full of strawberries\", \"Sweet~ and Juicy!\"]\n      },\n      {\n        \"type\": \"small square banner\",\n        \"position\": \"bottom mid-left\",\n        \"visuals\": \"pile of strawberries with one cut in half\",\n        \"text\": [\"Seasonal strawberries!\", \"Sweet and melting deliciousness♡\"]\n      },\n      {\n        \"type\": \"small horizontal banner\",\n        \"position\": \"bottom mid-right\",\n        \"visuals\": \"character holding strawberry\",\n        \"text\": [\"Full of strawberries\", \"Freshly picked in the morning!\", \"Sweet and Juicy!\"]\n      },\n      {\n        \"type\": \"circular icons\",\n        \"position\": \"bottom right\",\n        \"count\": 4,\n        \"items\": [\n          { \"visual\": \"basket of strawberries\", \"label\": \"Freshly picked in the morning!\" },\n          { \"visual\": \"half strawberry\", \"label\": \"Sweet and Juicy!\" },\n          { \"visual\": \"whole strawberry\", \"label\": \"Various sizes!\" },\n          { \"visual\": \"character face\", \"label\": \"Melting deliciousness♡\" }\n        ]\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:39:46.602Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "电商商品展示设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "E-commerce product display design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:38:41.884Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_c8e9dff7f8",
+      "value": "电商商品展示设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-141",
+      "originalId": "case-141",
+      "authors": [
+        {
+          "name": "takadtmnu",
+          "url": "https://x.com/takadtmnu"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5774
+        }
+      ],
+      "rawSource": "[@takadtmnu](https://x.com/takadtmnu)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4f5246c4ece4939a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case141.jpg",
+      "upstreamPath": "../data/images/case141.jpg",
+      "localPath": "public/assets/prompt_e3e532edb4fa3b36be7d/617b41ea3167.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

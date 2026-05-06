@@ -1,0 +1,109 @@
+{
+  "id": "prompt_0711bff68d134a0c427b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"two-page manga spread\",\r\n  \"style\": \"highly detailed realistic manga, monochrome, screentones, dramatic lighting, psychological thriller\",\r\n  \"global_elements\": {\r\n    \"protagonist\": \"{argument name=\\\"main character description\\\" default=\\\"young Japanese salaryman in a suit\\\"}\",\r\n    \"theme\": \"{argument name=\\\"core concept\\\" default=\\\"surrounded by a massive crowd of identical clones of himself\\\"}\"\r\n  },\r\n  \"layout\": {\r\n    \"left_page\": {\r\n      \"type\": \"full page splash panel\",\r\n      \"setting\": \"{argument name=\\\"setting\\\" default=\\\"Shibuya scramble crossing at night\\\"}\",\r\n      \"visuals\": \"Protagonist standing alone in the center of the crossing, looking around in shock at a massive crowd where every single person is an exact clone of him.\",\r\n      \"text_elements\": [\r\n        {\"type\": \"manga title logo\", \"text\": \"{argument name=\\\"manga title\\\" default=\\\"俺だらけの街\\\"}\"},\r\n        {\"type\": \"subtitle\", \"text\": \"第1話 交代\"},\r\n        {\"type\": \"narration box\", \"text\": \"その夜、世界は静かに俺をやめた。\"},\r\n        {\"type\": \"sound effect\", \"text\": \"ザワ…\"}\r\n      ]\r\n    },\r\n    \"right_page\": {\r\n      \"type\": \"5-panel vertical layout\",\r\n      \"panels\": [\r\n        {\r\n          \"panel_number\": 1,\r\n          \"visuals\": \"Extreme close-up of protagonist's eyes, wide with shock, sweating.\",\r\n          \"text_elements\": [\r\n            {\"type\": \"speech bubble\", \"text\": \"……は？ なんで……みんな、俺なんだ？\"},\r\n            {\"type\": \"sound effect\", \"text\": \"ドクン\"}\r\n          ]\r\n        },\r\n        {\r\n          \"panel_number\": 2,\r\n          \"visuals\": \"A horizontal row of 8 identical clones in suits staring blankly forward.\",\r\n          \"text_elements\": [\r\n            {\"type\": \"sound effect\", \"text\": \"ザワ…\"}\r\n          ]\r\n        },\r\n        {\r\n          \"panel_number\": 3,\r\n          \"visuals\": \"A clone leaning in to whisper into the shocked protagonist's ear.\",\r\n          \"text_elements\": [\r\n            {\"type\": \"speech bubble\", \"text\": \"お前の代わりは、もう足りてる。\"},\r\n            {\"type\": \"sound effect\", \"text\": \"スッ\"}\r\n          ]\r\n        },\r\n        {\r\n          \"panel_number\": 4,\r\n          \"visuals\": \"Close-up of a smartphone screen held in a hand, showing a push notification.\",\r\n          \"text_elements\": [\r\n            {\"type\": \"screen text\", \"text\": \"交代を開始します。\"},\r\n            {\"type\": \"sound effect\", \"text\": \"ピロン\"}\r\n          ]\r\n        },\r\n        {\r\n          \"panel_number\": 5,\r\n          \"visuals\": \"Wide shot of the endless crowd of clones in the city street.\",\r\n          \"text_elements\": [\r\n            {\"type\": \"narration box\", \"text\": \"最初に消えるのは、名前でも命でもない。居場所だ。\"},\r\n            {\"type\": \"bottom left text\", \"text\": \"俺は、ここにいていいのか——？\"},\r\n            {\"type\": \"bottom right text\", \"text\": \"{argument name=\\\"cliffhanger text\\\" default=\\\"次号へつづく！\\\"}\"},\r\n            {\"type\": \"sound effect\", \"text\": \"ザワ… ザワ… ザワ…\"}\r\n          ]\r\n        }\r\n      ]\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"two-page manga spread\",\n  \"style\": \"highly detailed realistic manga, monochrome, screentones, dramatic lighting, psychological thriller\",\n  \"global_elements\": {\n    \"protagonist\": \"{argument name=\\\"main character description\\\" default=\\\"young Japanese salaryman in a suit\\\"}\",\n    \"theme\": \"{argument name=\\\"core concept\\\" default=\\\"surrounded by a massive crowd of identical clones of himself\\\"}\"\n  },\n  \"layout\": {\n    \"left_page\": {\n      \"type\": \"full page splash panel\",\n      \"setting\": \"{argument name=\\\"setting\\\" default=\\\"Shibuya scramble crossing at night\\\"}\",\n      \"visuals\": \"Protagonist standing alone in the center of the crossing, looking around in shock at a massive crowd where every single person is an exact clone of him.\",\n      \"text_elements\": [\n        {\"type\": \"manga title logo\", \"text\": \"{argument name=\\\"manga title\\\" default=\\\"A City Full of Me\\\"}\"},\n        {\"type\": \"subtitle\", \"text\": \"Chapter 1: The Shift\"},\n        {\"type\": \"narration box\", \"text\": \"That night, the world quietly gave up on me.\"},\n        {\"type\": \"sound effect\", \"text\": \"Zawa…\"}\n      ]\n    },\n    \"right_page\": {\n      \"type\": \"5-panel vertical layout\",\n      \"panels\": [\n        {\n          \"panel_number\": 1,\n          \"visuals\": \"Extreme close-up of protagonist's eyes, wide with shock, sweating.\",\n          \"text_elements\": [\n            {\"type\": \"speech bubble\", \"text\": \"…Huh? Why… is everyone… me?\"},\n            {\"type\": \"sound effect\", \"text\": \"Dokun\"}\n          ]\n        },\n        {\n          \"panel_number\": 2,\n          \"visuals\": \"A horizontal row of 8 identical clones in suits staring blankly forward.\",\n          \"text_elements\": [\n            {\"type\": \"sound effect\", \"text\": \"Zawa…\"}\n          ]\n        },\n        {\n          \"panel_number\": 3,\n          \"visuals\": \"A clone leaning in to whisper into the shocked protagonist's ear.\",\n          \"text_elements\": [\n            {\"type\": \"speech bubble\", \"text\": \"Your replacement is already sufficient.\"},\n            {\"type\": \"sound effect\", \"text\": \"Ssu\"}\n          ]\n        },\n        {\n          \"panel_number\": 4,\n          \"visuals\": \"Close-up of a smartphone screen held in a hand, showing a push notification.\",\n          \"text_elements\": [\n            {\"type\": \"screen text\", \"text\": \"Shift beginning.\"},\n            {\"type\": \"sound effect\", \"text\": \"Piron\"}\n          ]\n        },\n        {\n          \"panel_number\": 5,\n          \"visuals\": \"Wide shot of the endless crowd of clones in the city street.\",\n          \"text_elements\": [\n            {\"type\": \"narration box\", \"text\": \"The first thing to disappear isn't your name or your life. It's your place.\"},\n            {\"type\": \"bottom left text\", \"text\": \"Am I… even supposed to be here—?\"},\n            {\"type\": \"bottom right text\", \"text\": \"{argument name=\\\"cliffhanger text\\\" default=\\\"To be continued in next issue!\\\"}\"},\n            {\"type\": \"sound effect\", \"text\": \"Zawa… Zawa… Zawa…\"}\n          ]\n        }\n      ]\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:52:13.763Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "品牌视觉识别图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Brand Visual Identity Graphics",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:41:43.667Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_abe5286e8e",
+      "value": "品牌视觉识别图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-115",
+      "originalId": "case-115",
+      "authors": [
+        {
+          "name": "onofumi_AI",
+          "url": "https://x.com/onofumi_AI"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4361
+        }
+      ],
+      "rawSource": "[@onofumi\\_AI](https://x.com/onofumi_AI)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_96c85c96c5421ab2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case115.jpg",
+      "upstreamPath": "../data/images/case115.jpg",
+      "localPath": "public/assets/prompt_0711bff68d134a0c427b/a7873b3a6577.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "identity",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.577Z"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": "prompt_a109cf8e6558fe647c24",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "An abstract background based on {argument name=\"style\" default=\"pop art and street art\"} with influences from contemporary anime and manga. No people, characters, or text. Composed mainly of sharp, clean line art and flat shading, with vibrant, high-contrast {argument name=\"colors\" default=\"neon colors (pink, cyan, yellow, purple, electric blue)\"}. A dynamic layout featuring overlapping complex geometric patterns and bold shapes. Emphasis on gradients and textures using Ben-Day dots and screen tones. Adds street art elements like paint splatters and ink drips, resulting in a stylish and energetic 2D illustration background that merges retro comics with modern anime expressions.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款基于 {argument name=\"style\" default=\"波普艺术和街头艺术\"} 并融合了当代动漫与漫画影响的抽象背景。不包含人物、角色或文字。主要由锐利、简洁的线条艺术和扁平阴影构成，并采用鲜艳、高对比度的 {argument name=\"colors\" default=\"霓虹色（粉色、青色、黄色、紫色、电光蓝）\"}。动态布局呈现出重叠的复杂几何图案和大胆的形状。强调使用本戴点（Ben-Day dots）和网点纸（screen tones）带来的渐变与纹理效果。加入了油漆飞溅和墨水滴落等街头艺术元素，呈现出一款时尚且充满活力的 2D 插画背景，将复古漫画与现代动漫表现手法完美融合。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un fondo abstracto basado en {argument name=\"style\" default=\"pop art y arte callejero\"} con influencias del anime y manga contemporáneos. Sin personas, personajes ni texto. Compuesto principalmente por arte lineal limpio y definido con sombreado plano, utilizando {argument name=\"colors\" default=\"colores neón vibrantes (rosa, cian, amarillo, morado, azul eléctrico)\"} de alto contraste. Un diseño dinámico que presenta patrones geométricos complejos superpuestos y formas audaces. Énfasis en degradados y texturas utilizando puntos Ben-Day y tramas. Incorpora elementos de arte callejero como salpicaduras de pintura y gotas de tinta, resultando en un fondo de ilustración 2D elegante y enérgico que fusiona los cómics retro con expresiones modernas del anime.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein abstrakter Hintergrund basierend auf {argument name=\"style\" default=\"Pop-Art und Street-Art\"} mit Einflüssen aus zeitgenössischem Anime und Manga. Keine Personen, Charaktere oder Texte. Bestehend hauptsächlich aus scharfer, klarer Linienführung und flachen Schattierungen mit leuchtenden, kontrastreichen {argument name=\"colors\" default=\"Neonfarben (Pink, Cyan, Gelb, Lila, Elektroblau)\"}. Ein dynamisches Layout mit überlappenden, komplexen geometrischen Mustern und kräftigen Formen. Fokus auf Verläufe und Texturen unter Verwendung von Ben-Day-Punkten und Rasterfolien. Ergänzt durch Street-Art-Elemente wie Farbspritzer und Tintentropfen, was zu einem stilvollen und energiegeladenen 2D-Illustrationshintergrund führt, der Retro-Comics mit modernen Anime-Ausdrucksformen verbindet.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un arrière-plan abstrait basé sur {argument name=\"style\" default=\"pop art et street art\"} avec des influences d'anime et de manga contemporains. Sans personnes, personnages ou texte. Composé principalement de lignes nettes et épurées et d'aplats de couleurs, avec des {argument name=\"colors\" default=\"couleurs néon vibrantes et contrastées (rose, cyan, jaune, violet, bleu électrique)\"}. Une mise en page dynamique présentant des motifs géométriques complexes superposés et des formes audacieuses. Accent mis sur les dégradés et les textures utilisant des points Ben-Day et des trames. Ajoute des éléments de street art tels que des éclaboussures de peinture et des coulures d'encre, résultant en un arrière-plan d'illustration 2D élégant et énergique qui fusionne les comics rétro avec les expressions de l'anime moderne.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Uno sfondo astratto basato su {argument name=\"style\" default=\"pop art e street art\"} con influenze tratte dall'anime e dal manga contemporaneo. Senza persone, personaggi o testo. Composto principalmente da line art nitida e pulita e ombreggiature piatte, con {argument name=\"colors\" default=\"colori neon vivaci (rosa, ciano, giallo, viola, blu elettrico)\"} ad alto contrasto. Un layout dinamico caratterizzato da complessi motivi geometrici sovrapposti e forme audaci. Enfasi su sfumature e texture che utilizzano puntini Ben-Day e retini. Include elementi di street art come schizzi di vernice e gocce d'inchiostro, risultando in uno sfondo illustrato 2D elegante ed energico che fonde i fumetti retrò con le espressioni degli anime moderni.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Um fundo abstrato baseado em {argument name=\"style\" default=\"pop art e arte de rua\"} com influências de anime e mangá contemporâneos. Sem pessoas, personagens ou texto. Composto principalmente por arte de linha nítida e limpa e sombreamento plano, com {argument name=\"colors\" default=\"cores neon vibrantes e de alto contraste (rosa, ciano, amarelo, roxo, azul elétrico)\"}. Um layout dinâmico com padrões geométricos complexos sobrepostos e formas ousadas. Ênfase em gradientes e texturas usando pontos Ben-Day e tons de tela. Adiciona elementos de arte de rua como respingos de tinta e gotas de nanquim, resultando em um fundo de ilustração 2D elegante e energético que funde quadrinhos retrô com expressões modernas de anime.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Pop Art Street Abstract Background",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 波普艺术街头抽象背景",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Fondo abstracto de arte callejero estilo Pop Art",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Abstrakter Pop-Art-Street-Art-Hintergrund",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Arrière-plan abstrait style Pop Art et Street Art",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Sfondo astratto in stile Pop Art e Street Art",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Fundo Abstrato de Arte de Rua Pop Art",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "An abstract background prompt inspired by the fusion of contemporary anime, pop art, and street art styles. It features sharp lines, vibrant neon colors, and dynamic geometric patterns without any characters or text.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款融合了当代动漫、波普艺术和街头艺术风格的抽象背景提示词。它具有锐利的线条、鲜艳的霓虹色彩和动态的几何图案，且不包含任何人物或文字。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour un arrière-plan abstrait inspiré par la fusion des styles anime contemporain, pop art et street art. Il présente des lignes nettes, des couleurs néon vibrantes et des motifs géométriques dynamiques, sans aucun personnage ni texte.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/notoro_ai/status/2051417586102071647",
+      "originalId": "https://x.com/notoro_ai/status/2051417586102071647",
+      "authors": [
+        {
+          "name": "のとろ",
+          "url": "https://x.com/notoro_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1462
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_308ea017084fa4aa",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971026844_1bhxm1_HHgZa0WaEAAhF8b.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971026844_1bhxm1_HHgZa0WaEAAhF8b.jpg",
+      "localPath": "public/assets/prompt_a109cf8e6558fe647c24/3297e5c4fcf8.jpg",
+      "alt": "Social Media Post - Pop Art Street Abstract Background - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_ebf5b88b592474cf",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971027242_p49cni_HHgZa0WbIAAwGHv.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971027242_p49cni_HHgZa0WbIAAwGHv.jpg",
+      "localPath": "public/assets/prompt_a109cf8e6558fe647c24/e72718d51f1a.jpg",
+      "alt": "Social Media Post - Pop Art Street Abstract Background - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.861Z"
+  }
+}

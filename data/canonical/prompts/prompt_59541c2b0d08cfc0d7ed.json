@@ -1,0 +1,166 @@
+{
+  "id": "prompt_59541c2b0d08cfc0d7ed",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A TV screen capture (16:9) of a Japanese variety information program. A style similar to programs like \"The World Unknown to [Person].\"\r\n\r\nScreen Composition:\r\n\r\nMain Video: An extreme close-up of {argument name=\"food item\" default=\"soy sauce ramen\"} from {argument name=\"restaurant name\" default=\"Mona Hanten\"} (showing steam, chashu pork, green onions, and soft-boiled egg beautifully).\r\n\r\nTelop groups (the program-specific grammar of massive on-screen text):\r\n- Top banner telop (white text on a red background): \"{argument name=\"show title\" default=\"The World of Neighborhood Chinese Restaurants\"}\"\r\n- Bottom main telop (bold yellow characters with shadows): \"Lines at a small shop in Osaka! The legendary Chinese cooking girl\"\r\n- Bottom right wipe (small window): A silhouette of an MC with a surprised expression\r\n- Program logo in the top left\r\n- \"During VTR\" telop in the top right\r\n\r\nAdditional telops (reaction-style from performers):\r\n\"What, this level of skill at 18!?\" (speech bubble telop)\r\n\r\nThe overall format is identical to a TV screen capture of a variety show. The sense of multi-layered telops is realistic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - TV Variety Show Screen Capture",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "YouTube 縮圖 - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "YouTube サムネイル - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "YouTube 썸네일 - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ภาพขนาดย่อของ YouTube - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình thu nhỏ trên YouTube - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "YouTube थंबनेल - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - TV Variety Show Screen Capture",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "YouTube Küçük Resmi - TV Variety Show Screen Capture",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for recreating the complex multi-layered aesthetic of Japanese variety show television screens, including specific overlay types like telops and wipes.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/xc5_/status/2048681792341958807",
+      "originalId": "https://x.com/xc5_/status/2048681792341958807",
+      "authors": [
+        {
+          "name": "萌奈のおすそわけ♥️AI動画クリエイター🩷AI & Web3 KOL🧡💛💚",
+          "url": "https://x.com/xc5_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2763
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4e17b1df6b21a54f",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367277112_35qppq_HG5hEAdbsAAK9WO.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367277112_35qppq_HG5hEAdbsAAK9WO.jpg",
+      "localPath": "public/assets/prompt_59541c2b0d08cfc0d7ed/c3b13a4651b4.jpg",
+      "alt": "YouTube Thumbnail - TV Variety Show Screen Capture - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.124Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "youtube",
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

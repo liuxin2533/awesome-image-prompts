@@ -1,0 +1,227 @@
+{
+  "id": "prompt_37a39606469219969e0b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a Black Myth: Wukong game scene where Wukong is knocked away by Erlang Shen",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个《黑神话：悟空》的游戏场景，画面中悟空被二郎神击飞",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一個《黑神話：悟空》的遊戲場景，畫面中悟空被二郎神擊飛。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "二郎神に吹き飛ばされる悟空が登場する『黒神話：悟空』のゲームシーンを生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "오공이 이랑신에게 날아가는 장면이 포함된 《Black Myth: Wukong》 스타일 게임 장면을 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène de jeu Black Myth: Wukong où Wukong est projeté au loin par Erlang Shen.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge eine Black-Myth-Wukong-Szene, in der Wukong von Erlang Shen weggeschleudert wird.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una escena de Black Myth: Wukong en la que Erlang Shen lanza a Wukong por los aires.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Black Myth: Wukong Game Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "《黑神话：悟空》游戏场景",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "《黑神話：悟空》遊戲場景",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "黒神話：悟空のゲームシーン",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "검은 신화: 오공 게임 장면",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Scène Black Myth: Wukong",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Black Myth: Wukong Spielszenen",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Escena de Black Myth: Wukong",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_27263954ca",
+      "value": "🎮 游戏与娱乐",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_cfebc9acfe",
+      "value": "🎮 遊戲與娛樂",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7c91be168a",
+      "value": "🎮 ゲーム・エンターテインメント",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_716e2fa67b",
+      "value": "🎮 게임과 엔터테인먼트",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "jeu-et-divertissement",
+      "value": "🎮 Jeu et divertissement",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "spiele-und-unterhaltung",
+      "value": "🎮 Spiele und Unterhaltung",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "juegos-y-entretenimiento",
+      "value": "🎮 Juegos y entretenimiento",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://github.com/ZeroLu/awesome-gpt-image",
+      "originalId": "https://github.com/user-attachments/assets/49e41036-4ad4-4908-a3a8-88a2f28f1148|https://github.com/user-attachments/assets/3e6a725a-a983-4556-93de-e4eb2ed135ed",
+      "authors": [],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 193
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 142
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 142
+        },
+        {
+          "file": "README:ja",
+          "line": 142
+        },
+        {
+          "file": "README:ko",
+          "line": 142
+        },
+        {
+          "file": "README:fr",
+          "line": 142
+        },
+        {
+          "file": "README:de",
+          "line": 142
+        },
+        {
+          "file": "README:es",
+          "line": 142
+        }
+      ],
+      "rawSource": ""
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cc56e7aa93db9234",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/49e41036-4ad4-4908-a3a8-88a2f28f1148",
+      "upstreamPath": "https://github.com/user-attachments/assets/49e41036-4ad4-4908-a3a8-88a2f28f1148",
+      "localPath": "public/assets/prompt_37a39606469219969e0b/96ce990e567d.jpg",
+      "alt": "image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_0a6b3db21cba2ffc",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/3e6a725a-a983-4556-93de-e4eb2ed135ed",
+      "upstreamPath": "https://github.com/user-attachments/assets/3e6a725a-a983-4556-93de-e4eb2ed135ed",
+      "localPath": "public/assets/prompt_37a39606469219969e0b/507c9e5fa403.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

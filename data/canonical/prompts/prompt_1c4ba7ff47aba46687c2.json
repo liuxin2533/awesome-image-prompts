@@ -1,0 +1,177 @@
+{
+  "id": "prompt_1c4ba7ff47aba46687c2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A studio-style close-up editorial portrait of a person with {argument name=\"facial features\" default=\"strong, well-defined facial features\"} and slightly imperfect, natural skin texture. The subject wears a {argument name=\"clothing\" default=\"black tailored turtleneck with sharp, clean lines\"}, layered under a high-collared black jacket in a minimalist contemporary fashion style.The subject wears {argument name=\"eyewear\" default=\"semi-transparent orange acetate sunglasses — rectangular frames with softly rounded edges, glossy finish, and amber gradient lenses\"} — serving as the only colored element in the image.Color concept: selective color photography — monochrome black-and-white image with only the sunglasses in vivid orange.\nMood is calm and confident, serious expression, direct gaze into the camera.\nLighting is soft frontal studio light with gentle shadows, even skin tones, cinematic contrast, and visible natural skin texture. Shot on a professional portrait camera, f/2.0, ISO 100, 1/125s. High resolution, ultra-sharp focus on the face.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张影棚风格的特写编辑级人像，人物具有 {argument name=\"facial features\" default=\"轮廓分明、特征鲜明\"} 的面部特征，皮肤纹理自然且略带瑕疵。主体穿着 {argument name=\"clothing\" default=\"线条利落、剪裁考究的黑色高领衫\"}，外搭一件高领黑色夹克，呈现极简现代时尚风格。主体佩戴 {argument name=\"eyewear\" default=\"半透明橙色醋酸纤维太阳镜——矩形镜框，边缘圆润，光泽感强，配有琥珀色渐变镜片\"}，这是画面中唯一的彩色元素。色彩概念：局部色彩摄影——黑白单色画面中仅太阳镜呈现鲜艳的橙色。\n氛围冷静自信，表情严肃，直视镜头。\n光线为柔和的正面影棚光，带有轻微阴影，肤色均匀，具有电影质感的对比度，且皮肤纹理清晰可见。使用专业人像相机拍摄，f/2.0，ISO 100，1/125s。高分辨率，面部对焦极其锐利。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un retrato editorial de primer plano estilo estudio de una persona con {argument name=\"facial features\" default=\"rasgos faciales fuertes y bien definidos\"} y una textura de piel natural, ligeramente imperfecta. El sujeto viste un {argument name=\"clothing\" default=\"cuello de tortuga negro a medida con líneas nítidas y limpias\"}, debajo de una chaqueta negra de cuello alto con un estilo de moda contemporáneo minimalista. El sujeto lleva {argument name=\"eyewear\" default=\"gafas de sol de acetato naranja semitransparente — monturas rectangulares con bordes suavemente redondeados, acabado brillante y lentes con degradado ámbar\"} — sirviendo como el único elemento a color en la imagen. Concepto de color: fotografía de color selectivo — imagen monocromática en blanco y negro con solo las gafas de sol en un naranja vívido.\nEl ambiente es tranquilo y seguro, expresión seria, mirada directa a la cámara.\nLa iluminación es una luz de estudio frontal suave con sombras tenues, tonos de piel uniformes, contraste cinematográfico y textura de piel natural visible. Capturado con una cámara de retrato profesional, f/2.0, ISO 100, 1/125s. Alta resolución, enfoque ultra nítido en el rostro.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein redaktionelles Nahaufnahme-Porträt im Studio-Stil einer Person mit {argument name=\"facial features\" default=\"markanten, klar definierten Gesichtszügen\"} und leicht unvollkommener, natürlicher Hauttextur. Die Person trägt einen {argument name=\"clothing\" default=\"schwarzen, maßgeschneiderten Rollkragenpullover mit scharfen, klaren Linien\"}, kombiniert mit einer schwarzen Jacke mit hohem Kragen in einem minimalistischen, zeitgenössischen Modestil. Die Person trägt {argument name=\"eyewear\" default=\"halbtransparente orangefarbene Acetat-Sonnenbrille – rechteckige Rahmen mit sanft abgerundeten Kanten, glänzendem Finish und bernsteinfarbenen Verlaufsgläsern\"} – das einzige farbige Element im Bild. Farbkonzept: selektive Farbfotografie – monochromes Schwarz-Weiß-Bild, bei dem nur die Sonnenbrille in leuchtendem Orange erscheint.\nDie Stimmung ist ruhig und selbstbewusst, ernster Ausdruck, direkter Blick in die Kamera.\nDie Beleuchtung ist weiches frontales Studiolicht mit sanften Schatten, gleichmäßigen Hauttönen, filmischem Kontrast und sichtbarer natürlicher Hauttextur. Aufgenommen mit einer professionellen Porträtkamera, f/2.0, ISO 100, 1/125s. Hohe Auflösung, ultrascharfer Fokus auf das Gesicht.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un portrait éditorial en gros plan de style studio d'une personne avec {argument name=\"facial features\" default=\"des traits du visage marqués et bien définis\"} et une texture de peau naturelle, légèrement imparfaite. Le sujet porte {argument name=\"clothing\" default=\"un col roulé noir ajusté aux lignes nettes et épurées\"}, superposé sous une veste noire à col haut dans un style mode contemporain minimaliste. Le sujet porte {argument name=\"eyewear\" default=\"des lunettes de soleil en acétate orange semi-transparent — montures rectangulaires aux bords légèrement arrondis, finition brillante et verres dégradés ambrés\"} — servant d'unique élément coloré dans l'image. Concept couleur : photographie en couleur sélective — image monochrome en noir et blanc avec uniquement les lunettes en orange vif.\nL'ambiance est calme et confiante, expression sérieuse, regard direct vers l'appareil photo.\nL'éclairage est une lumière de studio frontale douce avec des ombres légères, des tons de peau uniformes, un contraste cinématographique et une texture de peau naturelle visible. Prise de vue avec un appareil photo portrait professionnel, f/2.0, ISO 100, 1/125s. Haute résolution, mise au point ultra-nette sur le visage.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Un ritratto editoriale in primo piano in stile studio di una persona con {argument name=\"facial features\" default=\"lineamenti forti e ben definiti\"} e una texture della pelle naturale e leggermente imperfetta. Il soggetto indossa un {argument name=\"clothing\" default=\"dolcevita nero sartoriale dalle linee nette e pulite\"}, sotto una giacca nera a collo alto in uno stile minimalista contemporaneo. Il soggetto indossa {argument name=\"eyewear\" default=\"occhiali da sole in acetato arancione semi-trasparente — montatura rettangolare con bordi leggermente arrotondati, finitura lucida e lenti sfumate ambra\"} — che fungono da unico elemento colorato nell'immagine. Concetto cromatico: fotografia a colore selettivo — immagine monocromatica in bianco e nero con solo gli occhiali in arancione vivido. L'atmosfera è calma e sicura, espressione seria, sguardo diretto verso la fotocamera. L'illuminazione è una luce frontale da studio morbida con ombre delicate, tonalità della pelle uniformi, contrasto cinematografico e texture naturale della pelle visibile. Scattato con una fotocamera professionale per ritratti, f/2.0, ISO 100, 1/125s. Alta risoluzione, messa a fuoco ultra nitida sul volto.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Um retrato editorial em close-up estilo estúdio de uma pessoa com {argument name=\"facial features\" default=\"traços faciais fortes e bem definidos\"} e textura de pele natural, levemente imperfeita. O sujeito veste um {argument name=\"clothing\" default=\"suéter de gola alta preto sob medida com linhas nítidas e limpas\"}, sobreposto por uma jaqueta preta de gola alta em um estilo de moda contemporâneo minimalista. O sujeito usa {argument name=\"eyewear\" default=\"óculos de sol de acetato laranja semitransparente — armações retangulares com bordas suavemente arredondadas, acabamento brilhante e lentes com gradiente âmbar\"} — servindo como o único elemento colorido na imagem. Conceito de cor: fotografia de cor seletiva — imagem monocromática em preto e branco com apenas os óculos de sol em laranja vívido.\nO clima é calmo e confiante, expressão séria, olhar direto para a câmera.\nA iluminação é uma luz de estúdio frontal suave com sombras gentis, tons de pele uniformes, contraste cinematográfico e textura de pele natural visível. Capturado com uma câmera de retrato profissional, f/2.0, ISO 100, 1/125s. Alta resolução, foco ultra nítido no rosto.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Editorial Selective Color Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 编辑级局部色彩人像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Retrato editorial con color selectivo",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Editorial-Porträt mit selektiver Farbgebung",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Portrait éditorial en couleur sélective",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Ritratto editoriale con colore selettivo",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Retrato Editorial com Cor Seletiva",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A professional studio-style portrait prompt that uses selective color photography to emphasize a single colorful accessory within a monochrome scene.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一种专业的影棚风格人像提示词，利用局部色彩摄影技术，在黑白场景中突出单一的彩色配饰。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour portrait de style studio professionnel utilisant la photographie en couleur sélective pour mettre en valeur un accessoire coloré unique au sein d'une scène monochrome.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/SPEEDAI07/status/2051262381733618119",
+      "originalId": "https://x.com/SPEEDAI07/status/2051262381733618119",
+      "authors": [
+        {
+          "name": "SPEEDYAI",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4290
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4a7a2ca6ea0e7a0a",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971036238_emw2os_HHeMQ-Ra4AAzBib.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971036238_emw2os_HHeMQ-Ra4AAzBib.jpg",
+      "localPath": "public/assets/prompt_1c4ba7ff47aba46687c2/cf60f74fa812.jpg",
+      "alt": "Product Marketing - Editorial Selective Color Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "人像"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.845Z"
+  }
+}

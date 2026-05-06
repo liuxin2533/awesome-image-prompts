@@ -1,0 +1,100 @@
+{
+  "id": "prompt_2c116ea2226deb85898d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成不知火舞的小红书主页截图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a screenshot of Mai Shiranui's Xiaohongshu homepage",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "不知火舞的小红书主页",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_8ee47eaa4f",
+      "value": "不知火舞的小红书主页",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-287",
+      "originalId": "case-287",
+      "authors": [
+        {
+          "name": "rionaifantasy",
+          "url": "https://x.com/rionaifantasy/status/2045356799751303194"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3573
+        }
+      ],
+      "rawSource": "[@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_901e73f731efcac8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case287.jpg",
+      "upstreamPath": "../data/images/case287.jpg",
+      "localPath": "public/assets/prompt_2c116ea2226deb85898d/7cf90ef9b288.jpg",
+      "alt": "不知火舞的小红书主页",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "小红书",
+      "主页"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

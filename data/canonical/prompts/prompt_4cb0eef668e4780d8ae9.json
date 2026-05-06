@@ -1,0 +1,211 @@
+{
+  "id": "prompt_4cb0eef668e4780d8ae9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a jewelry advertisement for {argument name=\"jewelry piece\" default=\"[JEWELRY PIECE]\"}, macro sparkle, velvet surface, warm gold light, romantic shadow play, minimal headline, luxury boutique feel, ultra-detailed gem reflections, premium editorial composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 {argument name=\"jewelry piece\" default=\"[珠宝首饰]\"} 创作一则珠宝广告，要求呈现微距闪耀感、丝绒质感、暖金色光影、浪漫的光影交错、极简标题、奢华精品店氛围、超细腻的宝石反射效果，以及高级杂志编辑排版风格。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tạo một quảng cáo trang sức cho {argument name=\"jewelry piece\" default=\"[MÓN TRANG SỨC]\"}, độ lấp lánh macro, bề mặt nhung, ánh sáng vàng ấm áp, hiệu ứng đổ bóng lãng mạn, tiêu đề tối giản, cảm giác boutique sang trọng, phản chiếu đá quý siêu chi tiết, bố cục biên tập cao cấp.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un anuncio de joyería para {argument name=\"jewelry piece\" default=\"[PIEZA DE JOYERÍA]\"}, brillo macro, superficie de terciopelo, luz dorada cálida, juego de sombras romántico, titular minimalista, sensación de boutique de lujo, reflejos de gemas ultra detallados, composición editorial premium.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine Schmuckwerbung für {argument name=\"jewelry piece\" default=\"[SCHMUCKSTÜCK]\"}, Makro-Glanz, samtige Oberfläche, warmes Goldlicht, romantisches Schattenspiel, minimalistische Überschrift, luxuriöses Boutique-Gefühl, ultra-detaillierte Edelsteinreflexionen, erstklassige redaktionelle Komposition.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une publicité de bijoux pour {argument name=\"jewelry piece\" default=\"[PIÈCE DE BIJOUTERIE]\"}, éclat macro, surface en velours, lumière dorée chaleureuse, jeu d'ombres romantique, titre minimaliste, ambiance de boutique de luxe, reflets de pierres précieuses ultra-détaillés, composition éditoriale premium.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una pubblicità di gioielli per {argument name=\"jewelry piece\" default=\"[GIOIELLO]\"}, brillantezza macro, superficie in velluto, luce color oro caldo, romantico gioco di ombre, titolo minimalista, atmosfera da boutique di lusso, riflessi delle gemme ultra dettagliati, composizione editoriale premium.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um anúncio de joias para {argument name=\"jewelry piece\" default=\"[PEÇA DE JOALHERIA]\"}, brilho macro, superfície de veludo, luz dourada quente, jogo de sombras romântico, manchete minimalista, toque de boutique de luxo, reflexos de gemas ultra detalhados, composição editorial premium.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Luxury Jewelry Advertisement",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 奢华珠宝广告",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình ảnh chính thương mại điện tử - Quảng cáo trang sức cao cấp",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Anuncio de joyería de lujo",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Luxusschmuck-Werbung",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Publicité pour bijoux de luxe",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Pubblicità di gioielli di lusso",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Anúncio de Joias de Luxo",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for generating high-end jewelry advertisements with macro details, warm gold lighting, and romantic shadow play for a boutique aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "用于生成高端珠宝广告的提示词，包含微距细节、暖金色光影以及浪漫的光影交错，营造精品店美学风格。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour générer des publicités de bijoux haut de gamme avec des détails macro, un éclairage doré chaleureux et un jeu d'ombres romantique pour une esthétique de boutique.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Dheepanratnam/status/2048341734728331424",
+      "originalId": "https://x.com/Dheepanratnam/status/2048341734728331424",
+      "authors": [
+        {
+          "name": "Dheepan Ratnam",
+          "url": "https://x.com/Dheepanratnam"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4685
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_74bfa10bfb00dd1d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280764503_pzbufz_HG0qIsOaMAAPmCd.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280764503_pzbufz_HG0qIsOaMAAPmCd.jpg",
+      "localPath": "public/assets/prompt_4cb0eef668e4780d8ae9/1fb649f345c1.jpg",
+      "alt": "E-commerce Main Image - Luxury Jewelry Advertisement - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_9e2b52590bb79f32",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280764526_k7ejux_HG0qItBaIAEAkzv.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280764526_k7ejux_HG0qItBaIAEAkzv.jpg",
+      "localPath": "public/assets/prompt_4cb0eef668e4780d8ae9/433f8da6ed54.jpg",
+      "alt": "E-commerce Main Image - Luxury Jewelry Advertisement - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_7afaa1d5a7d31371",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280764725_s1wbom_HG0qItEasAAaZ2h.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280764725_s1wbom_HG0qItEasAAaZ2h.jpg",
+      "localPath": "public/assets/prompt_4cb0eef668e4780d8ae9/3928c684c91b.jpg",
+      "alt": "E-commerce Main Image - Luxury Jewelry Advertisement - Image 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_68d0889b941baee4",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280765130_tp6mh4_HG0qItIaYAA3clu.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280765130_tp6mh4_HG0qItIaYAA3clu.jpg",
+      "localPath": "public/assets/prompt_4cb0eef668e4780d8ae9/304c67b84721.jpg",
+      "alt": "E-commerce Main Image - Luxury Jewelry Advertisement - Image 4",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-25T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "e-commerce",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.571Z"
+  }
+}

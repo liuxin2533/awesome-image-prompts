@@ -1,0 +1,107 @@
+{
+  "id": "prompt_81f9751b520f667be71e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate an exploded view of AI glasses, including the name of each component and several key selling points of this product.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:52:39.518Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "AI 眼镜爆炸拆解图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "AI Glasses Exploded View Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:52:47.049Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ai",
+      "value": "AI 眼镜爆炸拆解图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-333",
+      "originalId": "case-333",
+      "authors": [
+        {
+          "name": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5373
+        }
+      ],
+      "rawSource": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_96cd56d81221aadf",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case333.png",
+      "upstreamPath": "../data/images/case333.png",
+      "localPath": "public/assets/prompt_81f9751b520f667be71e/e006bad4eb37.png",
+      "alt": "AI 眼镜爆炸拆解图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "product",
+      "产品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.592Z"
+  }
+}

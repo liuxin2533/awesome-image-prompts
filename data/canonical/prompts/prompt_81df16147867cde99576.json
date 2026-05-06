@@ -1,0 +1,108 @@
+{
+  "id": "prompt_81df16147867cde99576",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A polished vertical infographic poster in elegant East Asian editorial style, themed around the fire signs of the zodiac using one consistent female character reimagined in three different costumes. Cream parchment background with thin ornamental borders, small corner flourishes, tiny sparkles, and warm red-orange-gold accents throughout. Large Chinese headline at the top reading {argument name=\"headline text\" default=\"十二星座角色清單|火象星座\"}, with a smaller subheading beneath reading {argument name=\"subheading text\" default=\"熱情・行動・勇氣\"}, and a decorative flame icon at the top right. The layout contains exactly 3 stacked profile panels with rounded rectangular borders and generous margins: Aries on top, Leo in the middle, Sagittarius on the bottom. Each panel is split visually with the character on the left and a text/spec area on the right, plus a zodiac symbol badge on the far left and a small constellation diagram on the far right.\n\nUse the same young East Asian woman in all 3 panels, slim build, long dark hair in a high ponytail, shown from about thigh-up to waist-up, facing slightly toward camera, styled as a fashion-model zodiac character sheet. Keep facial features neutral and refined, clean beauty lighting, soft airbrushed illustration-photo composite look.\n\nPanel 1: Aries. Chinese title and English subtitle: \"牡羊座 Aries\". Dominant color scheme: vivid red with warm coral highlights. Zodiac symbol badge shows Aries glyph. Constellation on the right. Behind the character, faint circular mystical line art and flame motifs. Outfit: sporty warrior idol styling with a white crop top, red open short-sleeve jacket with gold trim, red belt, and red wrist wraps or fingerless arm accessories. Pose: confident, energetic, one fist raised near the shoulder and the other hand on her hip. Include exactly 6 info lines with small circular icons before each line, all in Chinese: 1) \"元素:火\" 2) \"概念:點火者,直覺先行\" 3) \"性格:熱情、直接、好勝\" 4) \"行動原則:先衝再修正\" 5) \"戀愛傾向:心動就追,喜歡熱烈互動\" 6) \"人際怪癖:嫌節奏太慢時會自己接手\".\n\nPanel 2: Leo. Chinese title and English subtitle: \"獅子座 Leo\". Dominant color scheme: gold, champagne, and soft amber. Zodiac symbol badge shows Leo glyph. Constellation on the right. Background includes radiant sunburst styling and a faint majestic lion illustration silhouette behind the character. Outfit: glamorous regal gown in pale gold with ornate embroidery, jeweled bodice details, flowing translucent cape sleeves, elegant necklace, and a small crown or tiara. Pose: poised and queenly, one hand lightly touching the chest or collarbone, shoulders open, projecting confidence and star power. Include exactly 6 info lines with small circular icons before each line, all in Chinese: 1) \"元素:火\" 2) \"概念:舞台中心,自帶光芒\" 3) \"性格:大方、自信、要面子\" 4) \"行動原則:先定氣場,再帶隊前進\" 5) \"戀愛傾向:喜歡被偏愛,也樂於寵人\" 6) \"人際怪癖:明明在意,卻要裝沒事\".\n\nPanel 3: Sagittarius. Chinese title and English subtitle: \"射手座 Sagittarius\". Dominant color scheme: rust red, burnt orange, brown leather, and warm ivory. Zodiac symbol badge shows Sagittarius glyph. Constellation on the right. Background features faint compass-circle graphics and flame accents. Outfit: adventurous archer styling with an ivory blouse, red scarf, brown leather harness straps, utility belt, and arm bracers. Pose: dynamic action shot drawing a bow, arrow aimed to the right, with a small glowing spark at the bow grip or arrow rest. Include exactly 6 info lines with small circular icons before each line, all in Chinese: 1) \"元素:火\" 2) \"概念:自由旅人,邊走邊發現\" 3) \"性格:樂觀、坦率、好奇\" 4) \"行動原則:先出發,路上再找答案\" 5) \"戀愛傾向:喜歡輕鬆真誠,不愛被綁住\" 6) \"人際怪癖:聊到一半常被新鮮事帶走\".\n\nOverall design should feel premium, feminine, mystical, and collectible, like a social-media-ready zodiac character list poster. Use elegant serif-style Chinese typography for the main sign names and italic calligraphic English for Aries, Leo, and Sagittarius. Keep all text crisp, aligned, and readable. Add one small decorative fire emblem centered near the bottom border. Aspect ratio 3:4 portrait.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "精美的垂直信息图表海报，采用优雅的东亚编辑风格，主题围绕黄道十二宫的火象星座，使用同一个女性角色重新想象为三种不同的服装造型。奶油羊皮纸背景，带有精致的装饰边框，小角落装饰，微小的闪光，以及贯穿整个设计的温暖红-橙-金色点缀。顶部有大型中文标题，内容为 {argument name=\"headline text\" default=\"十二星座角色清單|火象星座\"}，下方有较小的副标题，内容为 {argument name=\"subheading text\" default=\"熱情・行動・勇氣\"}，右上角有一个装饰性的火焰图标。布局包含恰好3个堆叠的简介面板，带有圆角矩形边框和充足的边距：顶部是白羊座，中间是狮子座，底部是射手座。每个面板在视觉上分为左右两部分：左侧是角色，右侧是文本/规格区域，最左侧是黄道十二宫符号徽章，最右侧是小型星座图。\n\n在所有3个面板中使用同一位年轻的东亚女性角色，身材苗条，深色长发扎成高马尾，显示范围从大腿中部到腰部以上，略微面向相机，风格为时尚模特黄道十二宫角色设定表。保持面部特征中性而精致，干净的美丽照明，柔和的喷绘插画-照片合成效果。\n\n面板1：白羊座。中文标题和英文副标题：\"牡羊座 Aries\"。主色调：鲜艳的红色，带有温暖的珊瑚色高光。黄道符号徽章显示白羊座符号。右侧是星座图。角色背后有微弱的圆形神秘线条艺术和火焰图案。服装：运动型战士偶像风格，白色露脐上衣，红色开襟短袖夹克带金色装饰，红色腰带，以及红色手腕绷带或露指手臂配饰。姿势：自信、充满活力，一只拳头举在肩部附近，另一只手放在臀部。包含恰好6条信息线，每条线前有小圆形图标，全部为中文：1) \"元素:火\" 2) \"概念:點火者,直覺先行\" 3) \"性格:熱情、直接、好勝\" 4) \"行動原則:先衝再修正\" 5) \"戀愛傾向:心動就追,喜歡熱烈互動\" 6) \"人際怪癖:嫌節奏太慢時會自己接手\"。\n\n面板2：狮子座。中文标题和英文副标题：\"獅子座 Leo\"。主色调：金色、香槟色和柔和的琥珀色。黄道符号徽章显示狮子座符号。右侧是星座图。背景包括辐射状的太阳光风格和角色背后微弱的威严狮子插图剪影。服装：华丽的皇家礼服，淡金色，带有精致刺绣，珠宝紧身胸衣细节，流动的透明披肩袖子，优雅的项链，以及小王冠或头饰。姿势：优雅而女王般，一只手轻触胸部或锁骨，肩膀打开，展现自信和明星气质。包含恰好6条信息线，每条线前有小圆形图标，全部为中文：1) \"元素:火\" 2) \"概念:舞台中心,自帶光芒\" 3) \"性格:大方、自信、要面子\" 4) \"行動原則:先定氣場,再帶隊前進\" 5) \"戀愛傾向:喜歡被偏愛,也樂於寵人\" 6) \"人際怪癖:明明在意,卻要裝沒事\"。\n\n面板3：射手座。中文标题和英文副标题：\"射手座 Sagittarius\"。主色调：铁锈红、烧焦橙、棕色皮革和温暖象牙色。黄道符号徽章显示射手座符号。右侧是星座图。背景有微弱的指南针圆形图形和火焰点缀。服装：冒险的弓箭手风格，象牙色衬衫，红色围巾，棕色皮革背带，多功能腰带，和手臂护腕。姿势：动态动作镜头，正在拉弓，箭矢朝向右侧，弓把或箭托处有微小的发光火花。包含恰好6条信息线，每条线前有小圆形图标，全部为中文：1) \"元素:火\" 2) \"概念:自由旅人,邊走邊發現\" 3) \"性格:樂觀、坦率、好奇\" 4) \"行動原則:先出發,路上再找答案\" 5) \"戀愛傾向:喜歡輕鬆真誠,不愛被綁住\" 6) \"人際怪癖:聊到一半常被新鮮事帶走\"。\n\n整体设计应感觉高级、女性化、神秘且具有收藏价值，就像适合社交媒体的黄道十二宫角色列表海报。使用优雅的衬线风格中文字体作为主要星座名称，使用斜体书法英文作为白羊座、狮子座和射手座。保持所有文本清晰、对齐且可读。在底部边框中央添加一个小装饰性火焰徽章。宽高比3:4纵向。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:04.038Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Fire Sign Zodiac Character Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "火象星座性格海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:21:53.688Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/komorimedia/status/2048114825398731143",
+      "originalId": "case-125",
+      "authors": [
+        {
+          "name": "komorimedia",
+          "url": "https://x.com/komorimedia"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1269
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2b2600b3b4f19ce5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case125/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case125/output.jpg",
+      "localPath": "public/assets/prompt_81df16147867cde99576/18287da55d4a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

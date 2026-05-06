@@ -1,0 +1,83 @@
+{
+  "id": "prompt_98f619dfdedc6c7c2d73",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Ultra-realistic satellite view from space, a clean modern editorial layout of 9 vertical panels arranged side-by-side on a white background, together forming the word \"MADPENCIL\", each panel containing one letter created entirely from natural Earth topography, no artificial text overlays:\n\nPanel 1 (M): rugged mountain ranges and deep valleys forming a sharp, angular \"M\", rocky textures, high elevation shadows\nPanel 2 (A): winding river cutting through dense green forest forming an organic \"A\", strong contrast between water and vegetation\nPanel 3 (D): desert dunes and wind-sculpted sand patterns shaping a smooth \"D\", warm tones, soft gradients\nPanel 4 (P): agricultural farmland grids and patchwork fields forming a structured \"P\", geometric patterns clearly visible\nPanel 5 (E): glacier and ice formations carving a crisp \"E\", bright whites and icy blues, fractured textures\nPanel 6 (N): braided river system across floodplains forming \"N\", branching channels with natural flow lines\nPanel 7 (C): coastal shoreline and ocean edge shaping a curved \"C\", waves and sediment gradients visible\nPanel 8 (I): narrow canyon or straight river cutting through terrain forming a minimal \"I\", strong vertical emphasis\nPanel 9 (L): volcanic terrain with lava flows forming an \"L\", dark rock with glowing red/orange lava accents\n\ntop-down satellite perspective, NASA Earth observation style, hyper-detailed textures, realistic geography, consistent scale and lighting across all panels, minimal clouds, high contrast, sharp focus, subtle atmospheric haze, natural color grading, ultra high resolution 8K, clean spacing between panels, modern gallery-style composition, visually cohesive but each panel distinctly different biome, letters clearly readable yet organically integrated into terrain",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Topographic Letter Satellite Panels",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/madpencil_/status/2049080259476349218",
+      "originalId": "case-169",
+      "authors": [
+        {
+          "name": "madpencil_",
+          "url": "https://x.com/madpencil_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1633
+        }
+      ]
+    }
+  ],
+  "assets": [],
+  "addedAt": "2026-04-28T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.551Z"
+  }
+}

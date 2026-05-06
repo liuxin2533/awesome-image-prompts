@@ -1,0 +1,108 @@
+{
+  "id": "prompt_9b184a0ee5bfaeac2e5f",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"anime-style animated movie poster\",\r\n  \"scene\": \"Magical glowing multi-story treehouse restaurant in a dark enchanted forest at night, illuminated by string lights and warm window glow.\",\r\n  \"subjects\": {\r\n    \"children\": \"2 children in center foreground facing the restaurant: a boy with a backpack and lantern, and a girl in a red coat and beret with a lantern.\",\r\n    \"animals\": \"4 anthropomorphic animals: a bear chef holding a MENU book (bottom left), an owl playing violin and a squirrel playing flute on a branch (top left), a badger playing cello (mid right), and a rabbit in a suit holding a sign (bottom right).\",\r\n    \"creatures\": \"3 small black soot-sprite-like creatures with glowing eyes (bottom right).\",\r\n    \"floating_food\": \"4 glowing food items floating in the air: soup, pancakes, omurice, and a fruit parfait.\"\r\n  },\r\n  \"layout\": {\r\n    \"top_text\": \"{argument name=\\\"top catchphrase\\\" default=\\\"おいしい奇跡が、今夜はじまる。\\\"}\",\r\n    \"building_sign\": \"{argument name=\\\"restaurant name\\\" default=\\\"森のレストラン\\\"}\",\r\n    \"left_board\": \"本日のおすすめ\\n・森のスープ\\n・星のオムライス\\n・ふわふわパンケーキ\\n・しあわせのパフェ\\n...and more!\",\r\n    \"right_board\": \"いらっしゃいませ！\\nここは、だれでも\\n笑顔になれる場所。\",\r\n    \"main_title\": {\r\n      \"text\": \"{argument name=\\\"movie title\\\" default=\\\"ふしぎな森のレストラン\\\"}\",\r\n      \"styling\": \"Large stylized typography with a chef hat, fork, and spoon motifs.\"\r\n    },\r\n    \"rabbit_sign\": \"ごちそうさま！またきてね！\",\r\n    \"bottom_left_badge\": \"{argument name=\\\"genre badge\\\" default=\\\"家族みんなで楽しめる！心あたたまる冒険ファンタジー\\\"}\",\r\n    \"bottom_center_credits\": \"Fictional cast and staff names in Japanese.\",\r\n    \"bottom_release_date\": \"{argument name=\\\"release date\\\" default=\\\"2025年 夏休みロードショー！\\\"}\",\r\n    \"bottom_right\": \"QR code with text '最新情報はこちら！'\"\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"anime-style animated movie poster\",\n  \"scene\": \"Magical glowing multi-story treehouse restaurant in a dark enchanted forest at night, illuminated by string lights and warm window glow.\",\n  \"subjects\": {\n    \"children\": \"2 children in center foreground facing the restaurant: a boy with a backpack and lantern, and a girl in a red coat and beret with a lantern.\",\n    \"animals\": \"4 anthropomorphic animals: a bear chef holding a MENU book (bottom left), an owl playing violin and a squirrel playing flute on a branch (top left), a badger playing cello (mid right), and a rabbit in a suit holding a sign (bottom right).\",\n    \"creatures\": \"3 small black soot-sprite-like creatures with glowing eyes (bottom right).\",\n    \"floating_food\": \"4 glowing food items floating in the air: soup, pancakes, omurice, and a fruit parfait.\"\n  },\n  \"layout\": {\n    \"top_text\": \"{argument name=\\\"top catchphrase\\\" default=\\\"A delicious miracle begins tonight.\\\"}\",\n    \"building_sign\": \"{argument name=\\\"restaurant name\\\" default=\\\"Forest Restaurant\\\"}\",\n    \"left_board\": \"Today's Recommendations\\n・Forest Soup\\n・Star Omurice\\n・Fluffy Pancakes\\n・Happiness Parfait\\n...and more!\",\n    \"right_board\": \"Welcome!\\nThis is a place where\\neveryone can smile.\",\n    \"main_title\": {\n      \"text\": \"{argument name=\\\"movie title\\\" default=\\\"The Enchanted Forest Restaurant\\\"}\",\n      \"styling\": \"Large stylized typography with a chef hat, fork, and spoon motifs.\"\n    },\n    \"rabbit_sign\": \"Thank you for the meal! Come again!\",\n    \"bottom_left_badge\": \"{argument name=\\\"genre badge\\\" default=\\\"Fun for the whole family! A heartwarming adventure fantasy\\\"}\",\n    \"bottom_center_credits\": \"Fictional cast and staff names in Japanese.\",\n    \"bottom_release_date\": \"{argument name=\\\"release date\\\" default=\\\"2025 Summer Roadshow!\\\"}\",\n    \"bottom_right\": \"QR code with text 'Latest information here!'\"\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:06:16.577Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "建筑空间场景渲染",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "title.translations.en: Architectural space scene rendering",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:06:23.710Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_f85b6d0b5c",
+      "value": "建筑空间场景渲染",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-128",
+      "originalId": "case-128",
+      "authors": [
+        {
+          "name": "masapark95",
+          "url": "https://x.com/masapark95"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4947
+        }
+      ],
+      "rawSource": "[@masapark95](https://x.com/masapark95)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_186ccac54683bc35",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case128.jpg",
+      "upstreamPath": "../data/images/case128.jpg",
+      "localPath": "public/assets/prompt_9b184a0ee5bfaeac2e5f/34ffacf6c32c.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "anime",
+      "movie poster"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.594Z"
+  }
+}

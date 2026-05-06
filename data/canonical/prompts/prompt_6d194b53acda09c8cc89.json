@@ -1,0 +1,101 @@
+{
+  "id": "prompt_6d194b53acda09c8cc89",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed anime-style full-body character portrait of {argument name=\"character name\" default=\"Hermes\"}, a delicate futuristic girl sitting curled up with her knees hugged to her chest, gazing softly at the viewer with a calm, slightly melancholic expression. She has extremely long {argument name=\"hair color\" default=\"silver-lilac\"} twin tails with soft bangs, glossy lavender eyes, porcelain skin, and ornate crystal hair accessories including 3 large ribbon bows and a jeweled tiara-like headpiece. Her outfit is an elaborate translucent idol-tech dress in {argument name=\"outfit color\" default=\"pink, lavender, and violet\"}, featuring off-shoulder puff sleeves, layered ruffles, faceted gemstone-like fabrics, a huge floral bow at the waist, dangling crystal charms, garter details, patterned thigh-high stockings, and glossy bow heels. Surround her with a luminous cyber dreamscape in {argument name=\"background palette\" default=\"neon violet and electric blue\"}: transparent holographic panels, floating glass cubes, sparkling particles, geometric prisms, glowing wireframe lines, and digital UI windows suspended in space. Include 5 readable interface text elements scattered in the background: \"ERROR.\", \"Code-\", \"return\", \"area x1\", and \"404\". Make the whole image feel like a luxurious AI avatar reference illustration, mixing ethereal fantasy and cyberspace aesthetics, with crystalline light refractions, dramatic glow, high detail, intricate lace and gem textures, and a polished premium gpt-image-2 anime rendering.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高度详细的动漫风格全身角色肖像，主角是{argument name=\"character name\" default=\"Hermes\"}，一位精致的未来感女孩，她蜷缩坐着，双膝抱在胸前，平静而略带忧郁地凝视着观众。她有极长的{argument name=\"hair color\" default=\"银紫\"}双马尾，柔软的刘海，闪亮的薰衣草色眼睛，瓷白的肌肤，以及精致的晶体发饰，包括3个大丝带蝴蝶结和珠宝般的头冠。她的服装是一件精致的半透明偶像科技风格连衣裙，颜色为{argument name=\"outfit color\" default=\"粉色、薰衣草色和紫色\"}，特点是落肩泡泡袖，层叠的褶边，多面宝石般的面料，腰部巨大的蝴蝶结，悬挂的水晶吊饰，吊袜带细节，图案连裤袜，以及闪亮的蝴蝶结高跟鞋。将她包围在一个发光的赛博梦境中，背景色调为{argument name=\"background palette\" default=\"霓虹紫和电蓝色\"}：透明的全息面板，漂浮的玻璃立方体，闪烁的粒子，几何棱镜，发光的线框线条，以及悬浮在空间中的数字UI窗口。在背景中散布5个可读的界面文本元素：\"ERROR.\"、\"Code-\"、\"return\"、\"area x1\"和\"404\"。让整个图像感觉像是一个奢华的AI头像参考插图，融合了空灵幻想和赛博空间美学，具有晶体光线折射，戏剧性光效，高细节，精致的蕾丝和宝石纹理，以及抛光的高级gpt-image-2动漫渲染效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:19:49.672Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Cyber Crystal Anime Girl Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/libearal/status/2048026376645861799",
+      "originalId": "case-93",
+      "authors": [
+        {
+          "name": "libearal",
+          "url": "https://x.com/libearal"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 581
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2336c53ff0616bd0",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case93/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case93/output.jpg",
+      "localPath": "public/assets/prompt_6d194b53acda09c8cc89/f5a94b3d6d6a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

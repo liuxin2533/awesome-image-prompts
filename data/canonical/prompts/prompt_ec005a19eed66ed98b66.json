@@ -1,0 +1,177 @@
+{
+  "id": "prompt_ec005a19eed66ed98b66",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"vintage manga/anime character reference sheet for a fantasy judo fighter\",\"style\":\"aged parchment paper, black ink manga linework, muted navy and cream palette, hand-drawn Japanese character sheet, rough brush headers, thin panel borders, dramatic sports-anime energy effects, slightly weathered print texture\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"reading\":\"そうりゅう\",\"profile\":\"dragon-god tribe boy, 16 years old, male\",\"face\":\"all visible faces are deliberately obscured by soft square pixel blur blocks\",\"hair\":\"spiky short white hair\",\"build\":\"lean athletic teenage martial artist\",\"outfit\":\"white judo gi with ornate blue dragon illustrations and gold cloud arabesque patterns across jacket and pants, black belt with gold embroidery, barefoot\",\"prop\":\"black shaker bottle labeled RYUJIN PROTEIN with a blue dragon emblem\"},\"main_left_panel\":{\"position\":\"left half\",\"content\":\"large full-body portrait from knees up, character confidently holding the protein shaker in his left hand and resting his right hand on his hip\",\"top_emblem\":\"circular black-and-blue dragon crest\",\"large_calligraphy_name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"鍛え、投げ、そして勝つ。それが俺の生きる道だ\\\"}\",\"vertical_tagline\":\"プロテインは裏切らない！\"},\"layout\":{\"sections\":[{\"title\":\"三面図\",\"position\":\"upper right\",\"count\":3,\"labels\":[\"正面\",\"側面\",\"背面\"],\"description\":\"three full-body turnaround views of the same fighter wearing the dragon-pattern gi, front view, side view, and back view\"},{\"title\":\"表情集\",\"position\":\"middle right\",\"count\":4,\"labels\":[\"通常\",\"笑顔\",\"トレーニング中\",\"怒り\"],\"description\":\"four head-and-shoulder expression portraits; normal side profile, smiling three-quarter view, drinking from shaker during training, and angry with blue lightning aura\"},{\"title\":\"能力パラメータ\",\"position\":\"lower middle-left\",\"count\":7,\"labels\":[\"体力 SS\",\"筋力 SS\",\"柔道技術 S\",\"スピード A\",\"精神力 AA\",\"龍神の力 AA\",\"勉強 C\"],\"description\":\"horizontal rating bars plus a blue radar chart labeled with the same attributes\"},{\"title\":\"愛用アイテム\",\"position\":\"bottom middle\",\"count\":3,\"labels\":[\"プロテインドリンク（龍神ブレンド）\",\"特注ダンベル（50kg）\",\"父の形見の黒帯\"],\"description\":\"three item illustrations: black RYUJIN protein bottle, heavy black dumbbell, and folded black belt with gold embroidery\"},{\"title\":\"必殺技\",\"position\":\"lower right\",\"count\":1,\"labels\":[\"神空投（しんくうなげ）\"],\"description\":\"dynamic action panel showing the white-haired fighter throwing an opponent while spiraling blue dragon-like energy and wind curl around them\"},{\"title\":\"基本情報\",\"position\":\"lower left\",\"count\":11,\"labels\":[\"種族\",\"年齢\",\"所属\",\"学年\",\"身長\",\"体重\",\"誕生日\",\"大好物\",\"嫌いなもの\",\"趣味・特技\",\"将来の夢\"],\"description\":\"compact bullet-style biography box in Japanese with small diamond markers\"}],\"bottom_message\":{\"title\":\"蒼龍からの一言\",\"text\":\"{argument name=\\\"bottom message\\\" default=\\\"毎日の積み重ねが、未来を変える。柔道も、ダンベルも、そしてプロテインも…全部、俺の力になる。いつか必ず、父の仇を討ち、皆が笑って暮らせる世界を作ってみせる！\\\"}\"}},\"composition\":\"dense single-page character sheet, balanced grid, left side dominated by the large portrait and basic info, right side filled with turnaround views, expressions, stats, items, and special move panel; add small dragon crest stamp in bottom right\",\"rendering_notes\":\"make Japanese typography look hand-brushed and printed on paper, keep panel text legible, use crisp manga hatching and blue ink accents, include ornate dragon patterns consistently on all gi views\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"复古漫画/动画角色参考设定集，针对奇幻柔道格斗家\",\"style\":\"陈旧羊皮纸质感，黑色墨水漫画线条，柔和的藏青色与奶油色调，手绘日式角色设定集，粗犷的毛笔标题，细边框分镜，极具运动番张力的能量特效，略带风化的印刷纹理\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"苍龙\\\"}\",\"reading\":\"そうりゅう\",\"profile\":\"龙神族少年，16 岁，男性\",\"face\":\"所有可见面部均刻意用柔和的方形像素模糊块遮挡\",\"hair\":\"刺猬头短白发\",\"build\":\"精瘦健壮的青少年武术家\",\"outfit\":\"白色柔道服，上衣和裤子上印有华丽的蓝色龙纹及金色云纹，黑带上绣有金线，赤脚\",\"prop\":\"黑色摇摇杯，标签印有 RYUJIN PROTEIN 字样及蓝色龙纹徽章\"},\"main_left_panel\":{\"position\":\"左半部分\",\"content\":\"大型全身肖像（膝盖以上），角色自信地左手握着蛋白粉摇摇杯，右手叉腰\",\"top_emblem\":\"圆形蓝黑龙纹徽章\",\"large_calligraphy_name\":\"{argument name=\\\"character name\\\" default=\\\"苍龙\\\"}\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"锻炼、投技，然后获胜。这就是我的生存之道。\\\"}\",\"vertical_tagline\":\"蛋白粉从不背叛！\"},\"layout\":{\"sections\":[{\"title\":\"三面图\",\"position\":\"右上\",\"count\":3,\"labels\":[\"正面\",\"侧面\",\"背面\"],\"description\":\"三张身穿龙纹柔道服的格斗家全身转面图，包含正面、侧面和背面\"},{\"title\":\"表情集\",\"position\":\"中右\",\"count\":4,\"labels\":[\"通常\",\"微笑\",\"训练中\",\"愤怒\"],\"description\":\"四张头肩部表情肖像；通常侧脸、微笑四分之三侧脸、训练时喝蛋白粉，以及带有蓝色闪电光环的愤怒表情\"},{\"title\":\"能力参数\",\"position\":\"中左下方\",\"count\":7,\"labels\":[\"体力 SS\",\"筋力 SS\",\"柔道技术 S\",\"速度 A\",\"精神力 AA\",\"龙神之力 AA\",\"学习 C\"],\"description\":\"水平评分条以及带有相同属性的蓝色雷达图\"},{\"title\":\"爱用道具\",\"position\":\"中下\",\"count\":3,\"labels\":[\"蛋白粉（龙神特调）\",\"特制哑铃（50kg）\",\"父亲遗留的黑带\"],\"description\":\"三件道具插图：黑色 RYUJIN 蛋白粉瓶、重型黑色哑铃、折叠好的金绣黑带\"},{\"title\":\"必杀技\",\"position\":\"右下\",\"count\":1,\"labels\":[\"神空投\"],\"description\":\"动态动作分镜，展示白发格斗家将对手投出，周围环绕着螺旋状的蓝色龙形能量与风刃\"},{\"title\":\"基本信息\",\"position\":\"左下\",\"count\":11,\"labels\":[\"种族\",\"年龄\",\"所属\",\"年级\",\"身高\",\"体重\",\"生日\",\"最爱\",\"讨厌的事物\",\"兴趣/特长\",\"未来梦想\"],\"description\":\"紧凑的日式子弹点式个人资料框，带有小型菱形标记\"}],\"bottom_message\":{\"title\":\"苍龙的寄语\",\"text\":\"{argument name=\\\"bottom message\\\" default=\\\"每日的积累，终将改变未来。无论是柔道、哑铃，还是蛋白粉……这一切都将成为我的力量。总有一天，我一定会为父亲报仇，创造一个大家都能笑着生活的世界！\\\"}\"}},\"composition\":\"密集型单页角色设定集，平衡的网格布局，左侧以大型肖像和基本信息为主，右侧填充转面图、表情、属性、道具及必杀技分镜；右下角添加小型龙纹印章\",\"rendering_notes\":\"使日文排版呈现手写毛笔字感并印在纸上，保持分镜文字清晰可读，使用干练的漫画排线和蓝色墨水点缀，确保所有柔道服视图上的龙纹图案保持一致\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"hoja de referencia de personaje de manga/anime vintage para un luchador de judo fantástico\",\"style\":\"papel pergamino envejecido, trazos de tinta negra estilo manga, paleta de azul marino y crema apagados, hoja de personaje dibujada a mano, encabezados con pincel rugoso, bordes de panel delgados, efectos dramáticos de anime deportivo, textura de impresión ligeramente desgastada\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"reading\":\"そうりゅう\",\"profile\":\"chico de la tribu del dios dragón, 16 años, masculino\",\"face\":\"todos los rostros visibles están deliberadamente oscurecidos por bloques de desenfoque de píxeles cuadrados suaves\",\"hair\":\"cabello corto y puntiagudo de color blanco\",\"build\":\"artista marcial adolescente atlético y delgado\",\"outfit\":\"gi de judo blanco con ilustraciones ornamentadas de dragones azules y patrones de arabescos de nubes doradas en la chaqueta y los pantalones, cinturón negro con bordado dorado, descalzo\",\"prop\":\"botella mezcladora negra etiquetada como RYUJIN PROTEIN con un emblema de dragón azul\"},\"main_left_panel\":{\"position\":\"mitad izquierda\",\"content\":\"retrato grande de cuerpo completo desde las rodillas hacia arriba, el personaje sostiene con confianza el mezclador de proteína en su mano izquierda y descansa su mano derecha en la cadera\",\"top_emblem\":\"emblema circular de dragón en negro y azul\",\"large_calligraphy_name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"鍛え、投げ、そして勝つ。それが俺の生きる道だ\\\"}\",\"vertical_tagline\":\"¡La proteína no traiciona!\"},\"layout\":{\"sections\":[{\"title\":\"三面図\",\"position\":\"superior derecha\",\"count\":3,\"labels\":[\"正面\",\"側面\",\"背面\"],\"description\":\"tres vistas de cuerpo completo del mismo luchador vistiendo el gi con patrón de dragón, vista frontal, vista lateral y vista posterior\"},{\"title\":\"表情集\",\"position\":\"centro derecha\",\"count\":4,\"labels\":[\"通常\",\"笑顔\",\"トレーニング中\",\"怒り\"],\"description\":\"cuatro retratos de cabeza y hombros; perfil normal, vista de tres cuartos sonriendo, bebiendo del mezclador durante el entrenamiento y enojado con un aura de rayos azules\"},{\"title\":\"能力パラメータ\",\"position\":\"inferior centro-izquierda\",\"count\":7,\"labels\":[\"体力 SS\",\"筋力 SS\",\"柔道技術 S\",\"スピード A\",\"精神力 AA\",\"龍神の力 AA\",\"勉強 C\"],\"description\":\"barras de calificación horizontales más un gráfico de radar azul etiquetado con los mismos atributos\"},{\"title\":\"愛用アイテム\",\"position\":\"inferior centro\",\"count\":3,\"labels\":[\"プロテインドリンク（龍神ブレンド）\",\"特注ダンベル（50kg）\",\"父の形見の黒帯\"],\"description\":\"tres ilustraciones de objetos: botella de proteína RYUJIN negra, mancuerna negra pesada y cinturón negro doblado con bordado dorado\"},{\"title\":\"必殺技\",\"position\":\"inferior derecha\",\"count\":1,\"labels\":[\"神空投（しんくうなげ）\"],\"description\":\"panel de acción dinámica que muestra al luchador de cabello blanco lanzando a un oponente mientras energía azul en espiral similar a un dragón y viento se arremolinan a su alrededor\"},{\"title\":\"基本情報\",\"position\":\"inferior izquierda\",\"count\":11,\"labels\":[\"種族\",\"年齢\",\"所属\",\"学年\",\"身長\",\"体重\",\"誕生日\",\"大好物\",\"嫌いなもの\",\"趣味・特技\",\"将来の夢\"],\"description\":\"caja de biografía compacta estilo viñeta en japonés con pequeños marcadores de diamante\"}],\"bottom_message\":{\"title\":\"蒼龍からの一言\",\"text\":\"{argument name=\\\"bottom message\\\" default=\\\"毎日の積み重ねが、未来を変える。柔道も、ダンベルも、そしてプロテインも…全部、俺の力になる。いつか必ず、父の仇を討ち、皆が笑って暮らせる世界を作ってみせる！\\\"}\"}},\"composition\":\"hoja de personaje densa de una sola página, cuadrícula equilibrada, lado izquierdo dominado por el retrato grande y la información básica, lado derecho lleno de vistas de giro, expresiones, estadísticas, objetos y panel de movimiento especial; añadir un pequeño sello de emblema de dragón en la parte inferior derecha\",\"rendering_notes\":\"haz que la tipografía japonesa parezca escrita a mano y impresa en papel, mantén el texto del panel legible, usa sombreado manga nítido y acentos de tinta azul, incluye patrones de dragón ornamentados de manera consistente en todas las vistas del gi\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"Vintage-Manga/Anime-Charakter-Referenzblatt für einen Fantasy-Judo-Kämpfer\",\"style\":\"gealtertes Pergamentpapier, schwarze Manga-Tuschzeichnungen, gedämpfte Marineblau- und Cremefarbpalette, handgezeichneter japanischer Charakterbogen, grobe Pinsel-Überschriften, dünne Panel-Rahmen, dramatische Sport-Anime-Energieeffekte, leicht verwitterte Drucktextur\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"reading\":\"Sōryū\",\"profile\":\"Junge vom Drachengott-Stamm, 16 Jahre alt, männlich\",\"face\":\"Alle sichtbaren Gesichter sind absichtlich durch weiche, quadratische Pixel-Unschärfe-Blöcke verdeckt\",\"hair\":\"kurze, stachelige weiße Haare\",\"build\":\"schlanker, athletischer jugendlicher Kampfsportler\",\"outfit\":\"weißer Judo-Gi mit kunstvollen blauen Drachenillustrationen und goldenen Wolken-Arabesken auf Jacke und Hose, schwarzer Gürtel mit Goldstickerei, barfuß\",\"prop\":\"schwarzer Shaker mit der Aufschrift RYUJIN PROTEIN und einem blauen Drachenemblem\"},\"main_left_panel\":{\"position\":\"linke Hälfte\",\"content\":\"großes Ganzkörperporträt von den Knien aufwärts, der Charakter hält selbstbewusst den Protein-Shaker in der linken Hand und stützt die rechte Hand in die Hüfte\",\"top_emblem\":\"kreisförmiges schwarz-blaues Drachenwappen\",\"large_calligraphy_name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"鍛え、投げ、そして勝つ。それが俺の生きる道だ\\\"}\",\"vertical_tagline\":\"Protein enttäuscht nie!\"},\"layout\":{\"sections\":[{\"title\":\"Drei-Ansichten-Zeichnung\",\"position\":\"oben rechts\",\"count\":3,\"labels\":[\"Vorderansicht\",\"Seitenansicht\",\"Rückansicht\"],\"description\":\"drei Ganzkörper-Ansichten desselben Kämpfers im Drachen-Gi: Vorderansicht, Seitenansicht und Rückansicht\"},{\"title\":\"Ausdruckssammlung\",\"position\":\"mitte rechts\",\"count\":4,\"labels\":[\"Normal\",\"Lächeln\",\"Beim Training\",\"Wütend\"],\"description\":\"vier Kopf-Schulter-Porträts: normales Seitenprofil, lächelnde Dreiviertelansicht, Trinken aus dem Shaker während des Trainings und wütend mit blauer Blitz-Aura\"},{\"title\":\"Fähigkeitsparameter\",\"position\":\"unten mitte-links\",\"count\":7,\"labels\":[\"Ausdauer SS\",\"Kraft SS\",\"Judo-Technik S\",\"Geschwindigkeit A\",\"Willenskraft AA\",\"Drachengott-Kraft AA\",\"Lernen C\"],\"description\":\"horizontale Bewertungsbalken sowie ein blaues Radardiagramm mit denselben Attributen\"},{\"title\":\"Lieblingsgegenstände\",\"position\":\"unten mitte\",\"count\":3,\"labels\":[\"Protein-Drink (Ryujin-Blend)\",\"Spezial-Hantel (50kg)\",\"Schwarzer Gürtel (Andenken des Vaters)\"],\"description\":\"drei Objektillustrationen: schwarze RYUJIN-Proteinflasche, schwere schwarze Hantel und gefalteter schwarzer Gürtel mit Goldstickerei\"},{\"title\":\"Spezialattacke\",\"position\":\"unten rechts\",\"count\":1,\"labels\":[\"Shinkū-Nage (Vakuumwurf)\"],\"description\":\"dynamisches Action-Panel, das den weißhaarigen Kämpfer zeigt, wie er einen Gegner wirft, während sich blaue, drachenartige Energie und Wind um sie winden\"},{\"title\":\"Basisinformationen\",\"position\":\"unten links\",\"count\":11,\"labels\":[\"Spezies\",\"Alter\",\"Zugehörigkeit\",\"Klasse\",\"Größe\",\"Gewicht\",\"Geburtstag\",\"Lieblingsessen\",\"Abneigungen\",\"Hobbys/Talente\",\"Zukunftstraum\"],\"description\":\"kompakte Biografie-Box im Listenstil mit kleinen Rauten-Markierungen\"}],\"bottom_message\":{\"title\":\"Ein Wort von Sōryū\",\"text\":\"{argument name=\\\"bottom message\\\" default=\\\"毎日の積み重ねが、未来を変える。柔道も、ダンベルも、そしてプロテインも…全部、俺の力になる。いつか必ず、父の仇を討ち、皆が笑って暮らせる世界を作ってみせる！\\\"}\"}},\"composition\":\"dichtes einseitiges Charakterblatt, ausgewogenes Raster, linke Seite dominiert vom großen Porträt und Basisinfos, rechte Seite gefüllt mit Ansichten, Ausdrücken, Statistiken, Gegenständen und Spezialattacken-Panel; füge ein kleines Drachenwappen-Siegel unten rechts hinzu\",\"rendering_notes\":\"Lasse die japanische Typografie handgepinselt und auf Papier gedruckt wirken, halte den Panel-Text lesbar, verwende knackige Manga-Schraffuren und blaue Tintenakzente, integriere die kunstvollen Drachenmuster konsistent in alle Gi-Ansichten\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"fiche de référence de personnage style manga/anime vintage pour un combattant de judo fantastique\",\"style\":\"papier parchemin vieilli, traits d'encre noire style manga, palette bleu marine et crème atténuée, fiche personnage japonaise dessinée à la main, titres au pinceau brut, bordures de panneaux fines, effets d'énergie dramatiques typiques des animes de sport, texture d'impression légèrement usée\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"reading\":\"Sōryū\",\"profile\":\"garçon de la tribu des dieux-dragons, 16 ans, masculin\",\"face\":\"tous les visages visibles sont délibérément masqués par des blocs de flou pixelisé\",\"hair\":\"cheveux courts blancs en épis\",\"build\":\"adolescent artiste martial athlétique et svelte\",\"outfit\":\"judogi blanc avec des illustrations de dragon bleu ornées et des motifs d'arabesques de nuages dorés sur la veste et le pantalon, ceinture noire avec broderies dorées, pieds nus\",\"prop\":\"shaker noir étiqueté RYUJIN PROTEIN avec un emblème de dragon bleu\"},\"main_left_panel\":{\"position\":\"moitié gauche\",\"content\":\"grand portrait en pied jusqu'aux genoux, le personnage tenant fièrement le shaker de protéines dans sa main gauche et posant sa main droite sur sa hanche\",\"top_emblem\":\"emblème circulaire de dragon noir et bleu\",\"large_calligraphy_name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"鍛え、投げ、そして勝つ。それが俺の生きる道だ\\\"}\",\"vertical_tagline\":\"La protéine ne trahit jamais !\"},\"layout\":{\"sections\":[{\"title\":\"Vues sous trois angles\",\"position\":\"en haut à droite\",\"count\":3,\"labels\":[\"Face\",\"Profil\",\"Dos\"],\"description\":\"trois vues complètes du même combattant portant le gi à motif de dragon, vue de face, vue de profil et vue de dos\"},{\"title\":\"Expressions\",\"position\":\"au milieu à droite\",\"count\":4,\"labels\":[\"Normal\",\"Sourire\",\"Entraînement\",\"Colère\"],\"description\":\"quatre portraits tête et épaules ; profil normal, vue de trois-quarts souriant, buvant au shaker pendant l'entraînement, et en colère avec une aura d'éclairs bleus\"},{\"title\":\"Paramètres de capacité\",\"position\":\"en bas au milieu à gauche\",\"count\":7,\"labels\":[\"Endurance SS\",\"Force SS\",\"Technique de judo S\",\"Vitesse A\",\"Force mentale AA\",\"Pouvoir du dieu-dragon AA\",\"Études C\"],\"description\":\"barres d'évaluation horizontales et graphique radar bleu étiqueté avec les mêmes attributs\"},{\"title\":\"Objets favoris\",\"position\":\"en bas au milieu\",\"count\":3,\"labels\":[\"Boisson protéinée (Mélange Ryujin)\",\"Haltère sur mesure (50kg)\",\"Ceinture noire héritée de son père\"],\"description\":\"trois illustrations d'objets : bouteille de protéine noire RYUJIN, haltère noir lourd et ceinture noire pliée avec broderie dorée\"},{\"title\":\"Technique spéciale\",\"position\":\"en bas à droite\",\"count\":1,\"labels\":[\"神空投 (Shinkū Nage)\"],\"description\":\"panneau d'action dynamique montrant le combattant aux cheveux blancs projetant un adversaire tandis qu'une énergie en spirale semblable à un dragon bleu et des tourbillons de vent les entourent\"},{\"title\":\"Informations de base\",\"position\":\"en bas à gauche\",\"count\":11,\"labels\":[\"Race\",\"Âge\",\"Affiliation\",\"Classe\",\"Taille\",\"Poids\",\"Anniversaire\",\"Plat préféré\",\"Ce qu'il déteste\",\"Hobbies/Talents\",\"Rêve d'avenir\"],\"description\":\"biographie compacte sous forme de liste à puces avec de petits marqueurs en losange\"}],\"bottom_message\":{\"title\":\"Un mot de Sōryū\",\"text\":\"{argument name=\\\"bottom message\\\" default=\\\"毎日の積み重ねが、未来を変える。柔道も、ダンベルも、そしてプロテインも…全部、俺の力になる。いつか必ず、父の仇を討ち、皆が笑って暮らせる世界を作ってみせる！\\\"}\"}},\"composition\":\"fiche personnage dense sur une seule page, grille équilibrée, côté gauche dominé par le grand portrait et les informations de base, côté droit rempli par les vues sous plusieurs angles, les expressions, les statistiques, les objets et le panneau de technique spéciale ; ajouter un petit tampon avec l'emblème du dragon en bas à droite\",\"rendering_notes\":\"donner à la typographie japonaise un aspect brossé à la main et imprimé sur papier, garder le texte des panneaux lisible, utiliser des hachures manga nettes et des accents d'encre bleue, inclure les motifs de dragon ornés de manière cohérente sur toutes les vues du gi\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"scheda di riferimento personaggio stile manga/anime vintage per un lottatore di judo fantasy\",\"style\":\"carta pergamena invecchiata, tratti a inchiostro nero tipici dei manga, palette blu navy e crema tenue, scheda personaggio giapponese disegnata a mano, titoli a pennello grezzo, bordi dei riquadri sottili, effetti dinamici da anime sportivo, texture di stampa leggermente usurata\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"reading\":\"そうりゅう\",\"profile\":\"ragazzo della tribù del dio drago, 16 anni, maschio\",\"face\":\"tutti i volti visibili sono deliberatamente oscurati da sfocature a pixel quadrati\",\"hair\":\"capelli bianchi corti a punta\",\"build\":\"fisico adolescenziale atletico da artista marziale\",\"outfit\":\"judogi bianco con decorazioni di draghi blu ornamentali e motivi arabescati di nuvole dorate su giacca e pantaloni, cintura nera con ricami dorati, a piedi nudi\",\"prop\":\"shaker nero etichettato RYUJIN PROTEIN con l'emblema di un drago blu\"},\"main_left_panel\":{\"position\":\"metà sinistra\",\"content\":\"ampio ritratto a figura intera dalle ginocchia in su, il personaggio tiene con sicurezza lo shaker proteico nella mano sinistra e appoggia la mano destra sul fianco\",\"top_emblem\":\"stemma circolare del drago in nero e blu\",\"large_calligraphy_name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"鍛え、投げ、そして勝つ。それが俺の生きる道だ\\\"}\",\"vertical_tagline\":\"Le proteine non tradiscono mai!\"},\"layout\":{\"sections\":[{\"title\":\"三面図\",\"position\":\"in alto a destra\",\"count\":3,\"labels\":[\"正面\",\"側面\",\"背面\"],\"description\":\"tre viste a figura intera del lottatore che indossa il gi con motivo a drago: vista frontale, laterale e posteriore\"},{\"title\":\"表情集\",\"position\":\"al centro a destra\",\"count\":4,\"labels\":[\"通常\",\"笑顔\",\"トレーニング中\",\"怒り\"],\"description\":\"quattro ritratti testa-spalle con espressioni: profilo normale, vista di tre quarti sorridente, mentre beve dallo shaker durante l'allenamento e arrabbiato con un'aura di fulmini blu\"},{\"title\":\"能力パラメータ\",\"position\":\"in basso al centro-sinistra\",\"count\":7,\"labels\":[\"体力 SS\",\"筋力 SS\",\"柔道技術 S\",\"スピード A\",\"精神力 AA\",\"龍神の力 AA\",\"勉強 C\"],\"description\":\"barre di valutazione orizzontali più un grafico a ragnatela blu etichettato con gli stessi attributi\"},{\"title\":\"愛用アイテム\",\"position\":\"in basso al centro\",\"count\":3,\"labels\":[\"プロテインドリンク（龍神ブレンド）\",\"特注ダンベル（50kg）\",\"父の形見の黒帯\"],\"description\":\"tre illustrazioni di oggetti: bottiglia proteica RYUJIN nera, manubrio nero pesante e cintura nera ripiegata con ricami dorati\"},{\"title\":\"必殺技\",\"position\":\"in basso a destra\",\"count\":1,\"labels\":[\"神空投（しんくうなげ）\"],\"description\":\"riquadro d'azione dinamico che mostra il lottatore dai capelli bianchi mentre lancia un avversario avvolto da energia a forma di drago blu e vortici di vento\"},{\"title\":\"基本情報\",\"position\":\"in basso a sinistra\",\"count\":11,\"labels\":[\"種族\",\"年齢\",\"所属\",\"学年\",\"身長\",\"体重\",\"誕生日\",\"大好物\",\"嫌いなもの\",\"趣味・特技\",\"将来の夢\"],\"description\":\"biografia compatta in stile elenco puntato in giapponese con piccoli marcatori a forma di diamante\"}],\"bottom_message\":{\"title\":\"蒼龍からの一言\",\"text\":\"{argument name=\\\"bottom message\\\" default=\\\"毎日の積み重ねが、未来を変える。柔道も、ダンベルも、そしてプロテインも…全部、俺の力になる。いつか必ず、父の仇を討ち、皆が笑って暮らせる世界を作ってみせる！\\\"}\"}},\"composition\":\"scheda personaggio densa su pagina singola, griglia bilanciata, lato sinistro dominato dal ritratto grande e dalle informazioni di base, lato destro riempito con viste a 360 gradi, espressioni, statistiche, oggetti e riquadro della mossa speciale; aggiungere un piccolo timbro con lo stemma del drago in basso a destra\",\"rendering_notes\":\"fai in modo che la tipografia giapponese sembri scritta a pennello e stampata su carta, mantieni leggibile il testo nei riquadri, usa tratteggi manga nitidi e accenti in inchiostro blu, includi motivi di draghi ornamentali in modo coerente su tutte le viste del gi\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"ficha de referência de personagem em estilo mangá/anime vintage para um lutador de judô de fantasia\",\"style\":\"papel pergaminho envelhecido, traços de mangá em tinta preta, paleta em azul marinho suave e creme, ficha de personagem japonesa desenhada à mão, cabeçalhos com pincel rústico, bordas de painel finas, efeitos dramáticos de energia de anime esportivo, textura de impressão levemente desgastada\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"reading\":\"そうりゅう\",\"profile\":\"garoto da tribo dos deuses-dragão, 16 anos, masculino\",\"face\":\"todos os rostos visíveis são deliberadamente obscurecidos por blocos de desfoque de pixel quadrado suave\",\"hair\":\"cabelo branco curto e espetado\",\"build\":\"lutador adolescente atlético e magro\",\"outfit\":\"judogi branco com ilustrações ornamentadas de dragão azul e padrões de arabescos de nuvens douradas na jaqueta e calças, faixa preta com bordado dourado, descalço\",\"prop\":\"coqueteleira preta rotulada como RYUJIN PROTEIN com um emblema de dragão azul\"},\"main_left_panel\":{\"position\":\"metade esquerda\",\"content\":\"retrato de corpo inteiro grande, dos joelhos para cima, personagem segurando a coqueteleira de proteína confiantemente na mão esquerda e descansando a mão direita no quadril\",\"top_emblem\":\"emblema circular de dragão em preto e azul\",\"large_calligraphy_name\":\"{argument name=\\\"character name\\\" default=\\\"蒼龍\\\"}\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"鍛え、投げ、そして勝つ。それが俺の生きる道だ\\\"}\",\"vertical_tagline\":\"プロテインは裏切らない！\"},\"layout\":{\"sections\":[{\"title\":\"三面図\",\"position\":\"superior direito\",\"count\":3,\"labels\":[\"正面\",\"側面\",\"背面\"],\"description\":\"três vistas de corpo inteiro do mesmo lutador vestindo o judogi com padrão de dragão, vista frontal, vista lateral e vista traseira\"},{\"title\":\"表情集\",\"position\":\"meio direito\",\"count\":4,\"labels\":[\"通常\",\"笑顔\",\"トレーニング中\",\"怒り\"],\"description\":\"quatro retratos de cabeça e ombros; perfil normal, sorriso em ângulo de três quartos, bebendo da coqueteleira durante o treino e irritado com aura de relâmpago azul\"},{\"title\":\"能力パラメータ\",\"position\":\"inferior centro-esquerda\",\"count\":7,\"labels\":[\"体力 SS\",\"筋力 SS\",\"柔道技術 S\",\"スピード A\",\"精神力 AA\",\"龍神の力 AA\",\"勉強 C\"],\"description\":\"barras de classificação horizontais mais um gráfico de radar azul rotulado com os mesmos atributos\"},{\"title\":\"愛用アイテム\",\"position\":\"inferior central\",\"count\":3,\"labels\":[\"プロテインドリンク（龍神ブレンド）\",\"特注ダンベル（50kg）\",\"父の形見の黒帯\"],\"description\":\"três ilustrações de itens: garrafa de proteína RYUJIN preta, haltere preto pesado e faixa preta dobrada com bordado dourado\"},{\"title\":\"必殺技\",\"position\":\"inferior direito\",\"count\":1,\"labels\":[\"神空投（しんくうなげ）\"],\"description\":\"painel de ação dinâmica mostrando o lutador de cabelos brancos arremessando um oponente enquanto energia espiralada em forma de dragão azul e vento giram ao redor deles\"},{\"title\":\"基本情報\",\"position\":\"inferior esquerdo\",\"count\":11,\"labels\":[\"種族\",\"年齢\",\"所属\",\"学年\",\"身長\",\"体重\",\"誕生日\",\"大好物\",\"嫌いなもの\",\"趣味・特技\",\"将来の夢\"],\"description\":\"caixa de biografia compacta em estilo lista com marcadores em japonês com pequenos marcadores de diamante\"}],\"bottom_message\":{\"title\":\"蒼龍からの一言\",\"text\":\"{argument name=\\\"bottom message\\\" default=\\\"毎日の積み重ねが、未来を変える。柔道も、ダンベルも、そしてプロテインも…全部、俺の力になる。いつか必ず、父の仇を討ち、皆が笑って暮らせる世界を作ってみせる！\\\"}\"}},\"composition\":\"ficha de personagem densa de página única, grade equilibrada, lado esquerdo dominado pelo retrato grande e informações básicas, lado direito preenchido com vistas de rotação, expressões, estatísticas, itens e painel de golpe especial; adicione um pequeno carimbo de brasão de dragão no canto inferior direito\",\"rendering_notes\":\"faça a tipografia japonesa parecer escrita à mão e impressa no papel, mantenha o texto do painel legível, use hachuras de mangá nítidas e detalhes em tinta azul, inclua padrões de dragão ornamentados consistentemente em todas as vistas do judogi\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Fantasy Judo Anime Character Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 奇幻柔道动漫角色设定集",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Hoja de personaje de anime de judo fantástico",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Fantasy-Judo-Anime-Charakterbogen",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Fiche personnage d'anime de judo fantastique",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Scheda personaggio anime: Judo fantasy",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Ficha de Personagem de Anime: Judoca Fantasia",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a dense Japanese manga-style reference sheet for a dragon-themed teenage judo character with poses, expressions, stats, items, and a special move.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张日式漫画风格的密集型参考设定集，主角为一名龙主题的柔道少年，包含姿势、表情、属性、道具及必杀技。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une fiche de référence dense dans le style manga japonais pour un personnage adolescent pratiquant le judo sur le thème du dragon, incluant poses, expressions, statistiques, objets et une technique spéciale.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Finedays_sunday/status/2051407857288118448#reversed-1",
+      "originalId": "https://x.com/Finedays_sunday/status/2051407857288118448#reversed-1",
+      "authors": [
+        {
+          "name": "fine",
+          "url": "https://x.com/Finedays_sunday"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3385
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1388afacf5a6cdc2",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971062821_yjt3yc_HHgQhh7a8AAxb62.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971062821_yjt3yc_HHgQhh7a8AAxb62.jpg",
+      "localPath": "public/assets/prompt_ec005a19eed66ed98b66/1caf121646a8.jpg",
+      "alt": "Comic / Storyboard - Fantasy Judo Anime Character Sheet - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "分镜",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.870Z"
+  }
+}

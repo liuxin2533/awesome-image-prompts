@@ -1,0 +1,107 @@
+{
+  "id": "prompt_77641c356c7d91a43ee8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "360 equirectangular image of Istiklal Street, Istanbul in 1900",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "1900年伊斯坦布尔独立大街的360度等距矩形图像",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:39.930Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "1900 Istiklal Street Panorama Prompt",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "1900年独立大街全景提示词",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:40.461Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ai_gezgini/status/2046903631509705030",
+      "originalId": "case-54",
+      "authors": [
+        {
+          "name": "ai_gezgini",
+          "url": "https://x.com/ai_gezgini"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 558
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d9fa1ed428d82493",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg",
+      "localPath": "public/assets/prompt_77641c356c7d91a43ee8/1f9896df800e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T22:57:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

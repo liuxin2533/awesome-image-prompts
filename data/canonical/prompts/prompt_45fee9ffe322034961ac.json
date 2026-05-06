@@ -1,0 +1,91 @@
+{
+  "id": "prompt_45fee9ffe322034961ac",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dynamic sports poster of a professional football player mid-strike, captured in a dramatic low-angle perspective, stadium lights blazing through light rain, water droplets frozen in motion, intense facial expression, muscular tension visible, cinematic lighting, high contrast shadows, ultra-detailed textures, motion blur on ball, sharp focus on athlete, bold typography overlay: \"NO EXCUSES. JUST RESULTS.\", modern sports branding style, Nike-style campaign aesthetic, 35mm lens, ultra-realistic",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Dynamic Sports Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SPEEDAI07/status/2051679223715365331",
+      "originalId": "case-192",
+      "authors": [
+        {
+          "name": "SPEEDAI07",
+          "url": "https://x.com/SPEEDAI07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 2136
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a4d03a0147c33244",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case192/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case192/output.jpg",
+      "localPath": "public/assets/prompt_45fee9ffe322034961ac/84fd9b4add64.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "poster"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

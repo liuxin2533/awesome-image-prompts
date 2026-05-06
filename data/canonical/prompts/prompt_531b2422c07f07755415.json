@@ -1,0 +1,108 @@
+{
+  "id": "prompt_531b2422c07f07755415",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用GPT Image 2，研究OpenClaw的信息，以大金刚广告海报的风格，就像贴在真实的大金刚上一样生成图像",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:03:46.379Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Don Quijote Promo Pop Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "堂吉诃德促销波普海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:03:50.176Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/loglogrog/status/2046437230127034774",
+      "originalId": "case-34",
+      "authors": [
+        {
+          "name": "loglogrog",
+          "url": "https://x.com/loglogrog"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 164
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6b1a349f7f2b04da",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg",
+      "localPath": "public/assets/prompt_531b2422c07f07755415/9af4f77b7532.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.574Z"
+  }
+}

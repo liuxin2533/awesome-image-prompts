@@ -1,0 +1,110 @@
+{
+  "id": "prompt_109b11f6713742227150",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"medical infographic poster\",\r\n  \"style\": \"highly detailed anatomical illustrations, clean structured layout, scientific diagrammatic style\",\r\n  \"color_palette\": \"{argument name=\\\"color palette\\\" default=\\\"medical red, blue, beige, and anatomical flesh tones\\\"}\",\r\n  \"language\": \"{argument name=\\\"language\\\" default=\\\"bilingual Chinese and English\\\"}\",\r\n  \"header\": {\r\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"糖尿病诞生的因果链\\\"}\",\r\n    \"english_title\": \"{argument name=\\\"english title\\\" default=\\\"THE CAUSAL CHAIN OF DIABETES\\\"}\",\r\n    \"subtitle\": \"从胰岛素失灵，到高血糖，到全身损伤\"\r\n  },\r\n  \"layout\": {\r\n    \"centerpiece\": \"{argument name=\\\"central subject\\\" default=\\\"transparent human body showing circulatory system and internal organs\\\"}\",\r\n    \"sections_count\": 14,\r\n    \"sections\": [\r\n      { \"id\": \"01\", \"title\": \"葡萄糖进入生命\", \"visuals\": [\"stomach and intestines\"] },\r\n      { \"id\": \"02\", \"title\": \"胰腺与胰岛素\", \"visuals\": [\"pancreas\", \"beta cell\"] },\r\n      { \"id\": \"03\", \"title\": \"正常胰岛素作用\", \"visuals\": [\"receptor signaling diagram\", \"muscle, liver, adipose icons\"] },\r\n      { \"id\": \"04\", \"title\": \"胰岛素抵抗: 2型通路开始\", \"visuals\": [\"receptor blockage diagram\", \"7 lifestyle icons\"] },\r\n      { \"id\": \"05\", \"title\": \"肝脏持续释放葡萄糖\", \"visuals\": [\"liver\"] },\r\n      { \"id\": \"06\", \"title\": \"β细胞衰竭: 代偿到失败\", \"visuals\": [\"beta-cell decline line chart\"] },\r\n      { \"id\": \"07\", \"title\": \"1型糖尿病分支\", \"visuals\": [\"autoimmune destruction diagram\"] },\r\n      { \"id\": \"08\", \"title\": \"高血糖与血液化学\", \"visuals\": [\"blood vessel with glucose\", \"glucose indicators table\", \"glucose variability chart\"] },\r\n      { \"id\": \"09\", \"title\": \"高血糖导致组织损伤\", \"visuals\": [\"4 pathways of damage diagrams\"] },\r\n      { \"id\": \"10\", \"title\": \"急性代谢后果\", \"visuals\": [\"7 symptom icons\"] },\r\n      { \"id\": \"11\", \"title\": \"微血管并发症\", \"visuals\": [\"eye\", \"kidney\", \"nerve cross-section\"] },\r\n      { \"id\": \"12\", \"title\": \"大血管并发症与组织损伤\", \"visuals\": [\"heart\", \"brain\", \"diabetic foot\"] },\r\n      { \"id\": \"13\", \"title\": \"器官系统长期代价\", \"visuals\": [\"text list\"] },\r\n      { \"id\": \"14\", \"title\": \"糖尿病是调控系统失灵\", \"visuals\": [\"metabolic control flowchart\"] }\r\n    ],\r\n    \"footer\": {\r\n      \"core_message\": \"核心信息 CORE MESSAGE\"\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"medical infographic poster\",\n  \"style\": \"highly detailed anatomical illustrations, clean structured layout, scientific diagrammatic style\",\n  \"color_palette\": \"{argument name=\\\"color palette\\\" default=\\\"medical red, blue, beige, and anatomical flesh tones\\\"}\",\n  \"language\": \"{argument name=\\\"language\\\" default=\\\"bilingual Chinese and English\\\"}\",\n  \"header\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"糖尿病诞生的因果链\\\"}\",\n    \"english_title\": \"{argument name=\\\"english title\\\" default=\\\"THE CAUSAL CHAIN OF DIABETES\\\"}\",\n    \"subtitle\": \"From insulin failure, to high blood sugar, to systemic damage\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"{argument name=\\\"central subject\\\" default=\\\"transparent human body showing circulatory system and internal organs\\\"}\",\n    \"sections_count\": 14,\n    \"sections\": [\n      { \"id\": \"01\", \"title\": \"Glucose enters the body\", \"visuals\": [\"stomach and intestines\"] },\n      { \"id\": \"02\", \"title\": \"Pancreas and Insulin\", \"visuals\": [\"pancreas\", \"beta cell\"] },\n      { \"id\": \"03\", \"title\": \"Normal Insulin Action\", \"visuals\": [\"receptor signaling diagram\", \"muscle, liver, adipose icons\"] },\n      { \"id\": \"04\", \"title\": \"Insulin Resistance: The Beginning of Type 2 Pathway\", \"visuals\": [\"receptor blockage diagram\", \"7 lifestyle icons\"] },\n      { \"id\": \"05\", \"title\": \"Liver Continuously Releasing Glucose\", \"visuals\": [\"liver\"] },\n      { \"id\": \"06\", \"title\": \"Beta Cell Failure: Compensation to Breakdown\", \"visuals\": [\"beta-cell decline line chart\"] },\n      { \"id\": \"07\", \"title\": \"Type 1 Diabetes Branch\", \"visuals\": [\"autoimmune destruction diagram\"] },\n      { \"id\": \"08\", \"title\": \"Hyperglycemia and Blood Chemistry\", \"visuals\": [\"blood vessel with glucose\", \"glucose indicators table\", \"glucose variability chart\"] },\n      { \"id\": \"09\", \"title\": \"Hyperglycemia Causes Tissue Damage\", \"visuals\": [\"4 pathways of damage diagrams\"] },\n      { \"id\": \"10\", \"title\": \"Acute Metabolic Consequences\", \"visuals\": [\"7 symptom icons\"] },\n      { \"id\": \"11\", \"title\": \"Microvascular Complications\", \"visuals\": [\"eye\", \"kidney\", \"nerve cross-section\"] },\n      { \"id\": \"12\", \"title\": \"Macrovascular Complications and Tissue Damage\", \"visuals\": [\"heart\", \"brain\", \"diabetic foot\"] },\n      { \"id\": \"13\", \"title\": \"Long-term Cost to Organ Systems\", \"visuals\": [\"text list\"] },\n      { \"id\": \"14\", \"title\": \"Diabetes is a Regulatory System Failure\", \"visuals\": [\"metabolic control flowchart\"] }\n    ],\n    \"footer\": {\n      \"core_message\": \"Core Message CORE MESSAGE\"\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:49:24.682Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic Visualization Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:49:26.996Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-67",
+      "originalId": "case-67",
+      "authors": [
+        {
+          "name": "hx831126",
+          "url": "https://x.com/hx831126"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1929
+        }
+      ],
+      "rawSource": "[@hx831126](https://x.com/hx831126)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4f91b50f2fdf75f1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case67.jpg",
+      "upstreamPath": "../data/images/case67.jpg",
+      "localPath": "public/assets/prompt_109b11f6713742227150/777d446f2aac.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "chart",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

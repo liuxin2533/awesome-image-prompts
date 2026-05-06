@@ -1,0 +1,101 @@
+{
+  "id": "prompt_0ddf877eeb1bebb98173",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.\nNegative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一位惊艳的18岁中国女孩，拥有年轻纯真的面容和逼真的皮肤质感，坐在她卧室里一张舒适、略凌乱的床上。她正用智能手机拍镜子自拍，捕捉一个自然而亲密的瞬间。穿着灰色休闲家居服和整洁的白色中筒袜。柔和的自然光（黄金时刻）从侧窗照射进来，营造出温暖、忧郁且电影般的氛围。35mm镜头，对镜中的主体进行锐利对焦，景深效果使背景美丽模糊（散景）。照片级真实感，8K，高分辨率，工作室品质，杰作。\n负面提示词：不要多余的肢体，不要变形的手，不要模糊，不要噪点，不要水印，不要文字，不要卡通/动漫风格。宽高比：3:4。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:01:11.404Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Mirror Selfie Bedroom Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Shinning1010/status/2045002808903020962",
+      "originalId": "case-5",
+      "authors": [
+        {
+          "name": "Shinning1010",
+          "url": "https://x.com/Shinning1010"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 49
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f951d27024668301",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case5/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case5/output.jpg",
+      "localPath": "public/assets/prompt_0ddf877eeb1bebb98173/11cc38a07fc4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

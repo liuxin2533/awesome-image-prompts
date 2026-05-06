@@ -1,0 +1,97 @@
+{
+  "id": "prompt_7f04a6fb9ddccdb22b60",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a personal color analysis using this picture. Use polo clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with explanations and tips.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Polo Shirt Color Comparison Analysis",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "The original post says the prompt is in a reply; this prompt is reconstructed from the visible output and tweet context.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/garenaguinaldox/status/2047384051322081738",
+      "originalId": "https://x.com/garenaguinaldox/status/2047384051322081738",
+      "authors": [
+        {
+          "name": "garenaguinaldox",
+          "url": "https://x.com/garenaguinaldox/status/2047384051322081738"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 898
+        }
+      ],
+      "rawSource": "[@garenaguinaldox](https://x.com/garenaguinaldox/status/2047384051322081738)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_652d52a1b9eecc03",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGnE60ebYAAgm08?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGnE60ebYAAgm08?format=jpg&name=large",
+      "localPath": "public/assets/prompt_7f04a6fb9ddccdb22b60/1e7360a1ea7d.jpg",
+      "alt": "Polo Shirt Color Comparison Analysis",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "infographic",
+      "education"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

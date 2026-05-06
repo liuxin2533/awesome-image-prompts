@@ -1,0 +1,278 @@
+{
+  "id": "prompt_8d84b6b1a306a7a69645",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a screenshot of [historical figure name] on [platform name]",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 [历史人物姓名] 出现在 [平台名称] 上的截图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張 [歷史人物姓名] 出現在 [平台名稱] 上的截圖。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[historical figure name] が [platform name] にいるスクリーンショットを生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[역사 인물 이름]이 [플랫폼 이름]에 있는 스크린샷을 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une capture de [nom de personnage historique] sur [nom de plateforme].",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge einen Screenshot von [Name der historischen Figur] auf [Plattformname].",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una captura de [nombre de figura histórica] en [nombre de plataforma].",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Ancient Figures on Modern Social Platforms",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "古人出现在现代社交平台",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "古人出現在現代社群平台",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "歴史人物が現代の SNS にいる図",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "고대 인물이 현대 플랫폼에 등장하는 화면",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Figures historiques sur plateformes modernes",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Historische Figuren auf modernen Plattformen",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Figuras históricas en plataformas modernas",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Add more story background to increase the meme quality, such as the historical moment, platform behavior, or the punchline you want the post to land.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 與社群媒體",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX・ソーシャルメディア",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 와 소셜 미디어",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-et-reseaux-sociaux",
+      "value": "📱 UI / UX et réseaux sociaux",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-und-social-media",
+      "value": "📱 UI / UX und Social Media",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-y-redes-sociales",
+      "value": "📱 UI / UX y redes sociales",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046585220393324553"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 329
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 262
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 262
+        },
+        {
+          "file": "README:ja",
+          "line": 262
+        },
+        {
+          "file": "README:ko",
+          "line": 262
+        },
+        {
+          "file": "README:fr",
+          "line": 262
+        },
+        {
+          "file": "README:de",
+          "line": 262
+        },
+        {
+          "file": "README:es",
+          "line": 262
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b36316e0301cdcff",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbtA0KagAADPAR?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbtA0KagAADPAR?format=jpg&name=large",
+      "localPath": "public/assets/prompt_8d84b6b1a306a7a69645/1dee71bdbc98.jpg",
+      "alt": "Douyin Live",
+      "status": "pending"
+    },
+    {
+      "id": "asset_766078e29242ac6c",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbtH6ua4AAyM34?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbtH6ua4AAyM34?format=jpg&name=large",
+      "localPath": "public/assets/prompt_8d84b6b1a306a7a69645/ea88a3513e68.jpg",
+      "alt": "Xiaohongshu Post",
+      "status": "pending"
+    },
+    {
+      "id": "asset_613082d714fed5f8",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbtJryboAAWff1?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbtJryboAAWff1?format=jpg&name=large",
+      "localPath": "public/assets/prompt_8d84b6b1a306a7a69645/7f10296a176a.jpg",
+      "alt": "Weibo Post",
+      "status": "pending"
+    },
+    {
+      "id": "asset_212aefa15d246c95",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbtP1CaIAA0FH_?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbtP1CaIAA0FH_?format=jpg&name=large",
+      "localPath": "public/assets/prompt_8d84b6b1a306a7a69645/2293652fd311.jpg",
+      "alt": "Moments Post",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

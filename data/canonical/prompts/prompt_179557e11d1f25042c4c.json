@@ -1,0 +1,110 @@
+{
+  "id": "prompt_179557e11d1f25042c4c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个十几岁的机甲少女，皮肤苍白，沾满烟灰和盐雾，锐利的琥珀色眼睛带有发光的HUD瞄准线，及腰的灰白色高马尾在海风中飘扬，哑光枪金属外骨骼装甲覆盖着她的肩膀、前臂和小腿，关节处暴露的液压活塞，胸前装有发光青色冷却液管路的装备，超大号沾满油污的机库夹克半滑落一边肩膀，巨大的轨道炮架在她的右肩上，狗牌和磨损的红色丝带挂在她的衣领上，站在倾斜钢平台的左侧锈蚀边缘，平台伸向黑暗的水面，重心放在一条腿上，左手握住炮带，头部略微转向相机，带着安静的蔑视目光，蒸汽从她的背部推进器喷出，她的马尾和夹克在盐风中横向飘动，广阔的废弃海城在黄昏时分，巨大的未知目的的巨型建筑从海洋中升起，形成错落的剪影，与藤壶状钢铁融合的骨白色独石塔，倾斜在破碎角度的独眼巨人环形结构，生锈的骨架桁架上缠绕着死电缆，支柱间翻滚着深色波浪，脚下半沉的沉船，浓密的海雾附着在底部，而上层结构刺入阴沉的天空，塔楼上散布着微弱的灯光闪烁，如同远处的眼睛，忧郁的低调照明，阴冷的天空带来的青色环境光，远处右侧结构泄漏的温暖琥珀色钠光，来自塔楼后方低太阳的硬背光勾勒出她的轮廓，体积光束穿透海雾，她装甲上的湿镜面高光，35毫米变形宽银幕镜头，略微低角度从她肩膀上方望向建筑，中广角镜头，浅景深，前景的锈迹处于柔焦状态，水平镜头光晕，精细的大气雾气将远处的巨型建筑压缩成分层剪影，电影动画关键视觉，具有清晰线条的绘画式数字插画，去饱和的海洋色调，青色、骨白色和锈色点缀着小型温暖强调光，电影颗粒，高对比度编辑海报美学。格式16:9。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:02:09.304Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Mecha Girl Sea-City Key Visual",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "机甲少女海上城市主视觉",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:02:00.231Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/old_pgmrs_will/status/2046144801071079612",
+      "originalId": "case-7",
+      "authors": [
+        {
+          "name": "old_pgmrs_will",
+          "url": "https://x.com/old_pgmrs_will"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 73
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1c0c7ce8779b9381",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg",
+      "localPath": "public/assets/prompt_179557e11d1f25042c4c/20c9fddb8d6e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

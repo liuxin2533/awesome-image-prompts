@@ -1,0 +1,98 @@
+{
+  "id": "prompt_31ffb395d764df83e452",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "设计一套杜蕾斯和茶颜悦色联名的宣传物料",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Design a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "杜蕾斯茶颜悦色联名海报设计",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_4721788216",
+      "value": "杜蕾斯茶颜悦色联名海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-244",
+      "originalId": "case-244",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2605
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f968209d4561ff30",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case244.jpg",
+      "upstreamPath": "../data/images/case244.jpg",
+      "localPath": "public/assets/prompt_31ffb395d764df83e452/8bc0ac9889a6.jpg",
+      "alt": "杜蕾斯茶颜悦色联名海报设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "id": "prompt_c47d514addb26e5bc638",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a screenshot of a TikTok live stream featuring a beautiful woman streaming.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 TikTok 直播截图，画面里是一位漂亮女性正在直播。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張 TikTok 直播截圖，畫面中是一位漂亮女性正在直播。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "美しい女性が配信している TikTok ライブのスクリーンショットを生成する。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "아름다운 여성이 스트리밍하는 TikTok 라이브 화면 스크린샷을 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une capture d'écran d'un live TikTok mettant en scène une belle femme en train de streamer.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge einen Screenshot eines TikTok-Livestreams mit einer attraktiven Frau beim Streamen.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una captura de pantalla de un directo de TikTok protagonizado por una mujer hermosa transmitiendo.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Live Streaming Screenshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "直播截图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "直播截圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ライブ配信のスクリーンショット",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "라이브 스트리밍 스크린샷",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Capture de live stream",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Livestream-Screenshot",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Captura de live stream",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 與社群媒體",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX・ソーシャルメディア",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 와 소셜 미디어",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-et-reseaux-sociaux",
+      "value": "📱 UI / UX et réseaux sociaux",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-und-social-media",
+      "value": "📱 UI / UX und Social Media",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-y-redes-sociales",
+      "value": "📱 UI / UX y redes sociales",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://github.com/ZeroLu/awesome-gpt-image",
+      "originalId": "https://github.com/user-attachments/assets/be639d3b-617b-4332-98eb-4deb2484ac66",
+      "authors": [],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 292
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 225
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 225
+        },
+        {
+          "file": "README:ja",
+          "line": 225
+        },
+        {
+          "file": "README:ko",
+          "line": 225
+        },
+        {
+          "file": "README:fr",
+          "line": 225
+        },
+        {
+          "file": "README:de",
+          "line": 225
+        },
+        {
+          "file": "README:es",
+          "line": 225
+        }
+      ],
+      "rawSource": ""
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d23ff0c172db1977",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/be639d3b-617b-4332-98eb-4deb2484ac66",
+      "upstreamPath": "https://github.com/user-attachments/assets/be639d3b-617b-4332-98eb-4deb2484ac66",
+      "localPath": "public/assets/prompt_c47d514addb26e5bc638/cb8d900cf3cf.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.601Z"
+  }
+}

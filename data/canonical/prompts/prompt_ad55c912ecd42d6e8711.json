@@ -1,0 +1,258 @@
+{
+  "id": "prompt_ad55c912ecd42d6e8711",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a high-fidelity mobile e-commerce app homepage screenshot inspired by mainstream Chinese e-commerce apps in 2026. The interface should look fully realistic, with complete mobile-app UI logic and strong commercial design polish.\n\nLayout requirements:\n- status bar with time 9:41, 5G signal, and battery icon\n- search area with a city selector on the left, a rounded search box in the center, and message plus scan icons on the right\n- horizontal category tabs below the search area\n- top promotional carousel banner\n- 10-icon function grid\n- flash-sale module with countdown and three product cards\n- \"guess you like\" two-column product waterfall with at least 6 product cards\n- bottom tab bar with five tabs\n\nUse these exact Chinese labels where appropriate:\n- city: \"杭州\"\n- search placeholder: \"搜索耳机、咖啡机、运动鞋\"\n- category tabs: \"推荐、数码、家电、服饰、美妆、食品、运动、家居\"\n- top banner: \"618 预售开启\" and \"每满300减50\"\n- function grid: \"超市、百亿补贴、秒杀、直播、充值中心、到家、领券、品牌馆、全球购、排行榜\"\n- flash sale title: \"限时秒杀\"\n- recommendation section: \"猜你喜欢\"\n- bottom tabs: \"首页、分类、购物车、消息、我的\"\n\nAll Chinese text must be clear and readable with realistic fonts. Spacing, icon style, white space, shadows, rounded corners, dividers, and tag treatments should closely resemble a real app screenshot rather than concept art.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张高保真的移动电商 App 首页截图，灵感来自 2026 年中国主流电商 App。界面需要完全真实，具备完整的移动端 UI 逻辑和强烈的商业设计完成度。\n\n布局要求：\n- 状态栏包含时间 9:41、5G 信号和电池图标\n- 搜索区左侧是城市选择器，中间是圆角搜索框，右侧是消息和扫码图标\n- 搜索区下方有横向分类标签\n- 顶部有促销轮播 Banner\n- 有 10 图标功能网格\n- 有带倒计时和 3 张商品卡片的限时秒杀模块\n- 有“猜你喜欢”双列商品瀑布流，至少 6 张商品卡片\n- 底部标签栏包含 5 个标签\n\n在合适的位置使用以下精确中文文案：\n- city: \"杭州\"\n- search placeholder: \"搜索耳机、咖啡机、运动鞋\"\n- category tabs: \"推荐、数码、家电、服饰、美妆、食品、运动、家居\"\n- top banner: \"618 预售开启\" and \"每满300减50\"\n- function grid: \"超市、百亿补贴、秒杀、直播、充值中心、到家、领券、品牌馆、全球购、排行榜\"\n- flash sale title: \"限时秒杀\"\n- recommendation section: \"猜你喜欢\"\n- bottom tabs: \"首页、分类、购物车、消息、我的\"\n\n所有中文文字都必须清晰可读，并使用真实字体。间距、图标风格、留白、阴影、圆角、分割线和标签处理都应尽量接近真实 App 截图，而不是概念设计图。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張高擬真的行動電商 App 首頁截圖，靈感來自 2026 年中國主流電商 App。介面必須完全真實，具備完整的行動 App UI 邏輯與成熟商業設計質感。需要包含狀態列、搜尋區、分類標籤、頂部輪播 Banner、10 圖示功能區、限時秒殺模組、猜你喜歡雙欄商品瀑布流，以及五欄底部 Tab。需要使用原 prompt 中列出的精確中文標籤，例如「杭州」「搜索耳机、咖啡机、运动鞋」「618 预售开启」「猜你喜欢」等，並確保所有中文字清晰可讀、字體真實，整體更像真實 App 截圖而非概念設計圖。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "2026 年の中国主要 EC アプリに着想を得た、高忠実度のモバイル EC アプリのホーム画面スクリーンショットを生成する。UI は完全に現実的で、モバイルアプリとして筋の通ったロジックと、商用デザインとしての完成度を持たせる。\n\nレイアウト要件:\n- ステータスバーに時刻 9:41、5G、バッテリーアイコン\n- 左に都市セレクター、中央に角丸検索ボックス、右にメッセージとスキャンのアイコン\n- 検索欄の下に横並びカテゴリタブ\n- 上部に販促カルーセルバナー\n- 10 アイコンの機能グリッド\n- カウントダウン付きフラッシュセールと 3 枚の商品カード\n- 「猜你喜欢」セクションとして 2 列ウォーターフォール、最低 6 商品\n- 下部に 5 タブのタブバー\n\n必要に応じて以下の正確な中国語ラベルを使用する:\n- city: \"杭州\"\n- search placeholder: \"搜索耳机、咖啡机、运动鞋\"\n- category tabs: \"推荐、数码、家电、服饰、美妆、食品、运动、家居\"\n- top banner: \"618 预售开启\" and \"每满300减50\"\n- function grid: \"超市、百亿补贴、秒杀、直播、充值中心、到家、领券、品牌馆、全球购、排行榜\"\n- flash sale title: \"限时秒杀\"\n- recommendation section: \"猜你喜欢\"\n- bottom tabs: \"首页、分类、购物车、消息、我的\"\n\n中国語テキストはすべて明確に読め、フォントも自然であること。余白、アイコン、影、角丸、区切り線、タグ表現などは、コンセプトアートではなく実在アプリのスクリーンショットに近づける。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "2026년 중국 주류 쇼핑 앱에서 영감을 받은 고충실도 모바일 이커머스 앱 홈 화면 스크린샷을 생성한다. 상태 바, 검색 영역, 카테고리 탭, 상단 프로모션 배너, 10개 기능 아이콘 그리드, 카운트다운이 있는 플래시 세일, \"猜你喜欢\" 상품 워터폴, 하단 5탭 바를 포함한다. 원문 프롬프트에 있는 정확한 중국어 라벨(예: \"杭州\", \"搜索耳机、咖啡机、运动鞋\", \"618 预售开启\")을 그대로 사용하고, 모든 중국어 텍스트가 실제 앱처럼 또렷하고 자연스럽게 보여야 한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une capture d'écran ultra fidèle de page d'accueil d'une app e-commerce mobile inspirée des grandes apps chinoises de 2026. Inclure barre d'état, recherche, onglets de catégories, bannière promo, grille de 10 fonctions, module flash sale, section \"猜你喜欢\" et barre d'onglets inférieure. Utiliser les libellés chinois exacts donnés dans le prompt d'origine, comme \"杭州\", \"618 预售开启\" ou \"首页、分类、购物车、消息、我的\".",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge einen hochrealistischen Screenshot der Startseite einer mobilen E-Commerce-App, inspiriert von großen chinesischen Shopping-Apps im Jahr 2026. Enthalten sein sollen Statusleiste, Suche, Kategorie-Tabs, Promo-Banner, 10-Funktions-Grid, Flash-Sale-Modul, \"猜你喜欢\"-Produktfeed und untere Tab-Bar. Verwende die im Originalprompt festgelegten exakten chinesischen Labels wie \"杭州\", \"搜索耳机、咖啡机、运动鞋\" oder \"首页、分类、购物车、消息、我的\".",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una captura de alta fidelidad de la página inicial de una app móvil de e-commerce inspirada en las apps chinas dominantes de 2026. Debe incluir barra de estado, área de búsqueda, pestañas de categoría, banner promocional, cuadrícula de funciones, módulo flash sale, sección \"猜你喜欢\" y barra inferior de cinco pestañas. Usa los textos chinos exactos del prompt original, por ejemplo \"杭州\", \"搜索耳机、咖啡机、运动鞋\" o \"首页、分类、购物车、消息、我的\".",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce App Homepage",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商 App 首页",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "電商 App 首頁",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "EC アプリのホーム画面",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "전자상거래 앱 홈 화면",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Page d'accueil d'app e-commerce",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Startseite einer E-Commerce-App",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Inicio de app de comercio electrónico",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 與社群媒體",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX・ソーシャルメディア",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 와 소셜 미디어",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-et-reseaux-sociaux",
+      "value": "📱 UI / UX et réseaux sociaux",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-und-social-media",
+      "value": "📱 UI / UX und Social Media",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-y-redes-sociales",
+      "value": "📱 UI / UX y redes sociales",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew",
+      "originalId": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew",
+      "authors": [
+        {
+          "name": "卡尔的AI沃茨",
+          "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew"
+        },
+        {
+          "name": "卡爾的AI沃茨",
+          "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 342
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 275
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 275
+        },
+        {
+          "file": "README:ja",
+          "line": 275
+        },
+        {
+          "file": "README:ko",
+          "line": 275
+        },
+        {
+          "file": "README:fr",
+          "line": 275
+        },
+        {
+          "file": "README:de",
+          "line": 275
+        },
+        {
+          "file": "README:es",
+          "line": 275
+        }
+      ],
+      "rawSource": "[卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6825a83a0d93d3df",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/6b709a24-b00a-4942-8c77-8f10ac03e8f8",
+      "upstreamPath": "https://github.com/user-attachments/assets/6b709a24-b00a-4942-8c77-8f10ac03e8f8",
+      "localPath": "public/assets/prompt_ad55c912ecd42d6e8711/68397286f9ce.jpg",
+      "alt": "image_1776389679_028",
+      "status": "pending"
+    },
+    {
+      "id": "asset_8360343e2cdf4953",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/c5589395-f03e-4e52-9a7f-a39adc9cc8bb",
+      "upstreamPath": "https://github.com/user-attachments/assets/c5589395-f03e-4e52-9a7f-a39adc9cc8bb",
+      "localPath": "public/assets/prompt_ad55c912ecd42d6e8711/9254feb51731.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.733Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "电商",
+      "咖啡机"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.923Z"
+  }
+}

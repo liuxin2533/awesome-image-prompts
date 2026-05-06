@@ -1,0 +1,105 @@
+{
+  "id": "prompt_c4fa379c092c8a8d52fb",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "创建一个宝玉（查阅 https://x.com/dotey 这个推主的主页及部分推文）穿越到明朝，登基之后依据其业务/个性，绘制的其新的X帖子页面。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on his business/personality.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "明朝登基宝玉的推文页面",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Bao Yu's Tweet Page from the Ming Dynasty",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:22:47.462Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_29ba818098",
+      "value": "明朝登基宝玉的推文页面",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-292",
+      "originalId": "case-292",
+      "authors": [
+        {
+          "name": "tuzi_ai",
+          "url": "https://x.com/tuzi_ai/status/2045193918736736365"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3673
+        }
+      ],
+      "rawSource": "[@tuzi\\_ai](https://x.com/tuzi_ai/status/2045193918736736365)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f686794da7e329f5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case292.jpg",
+      "upstreamPath": "../data/images/case292.jpg",
+      "localPath": "public/assets/prompt_c4fa379c092c8a8d52fb/198e689ce5da.jpg",
+      "alt": "明朝登基宝玉的推文页面",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "主页"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.601Z"
+  }
+}

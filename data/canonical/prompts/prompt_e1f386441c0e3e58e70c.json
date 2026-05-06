@@ -1,0 +1,87 @@
+{
+  "id": "prompt_e1f386441c0e3e58e70c",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "2000 年代面向中学生的日剧喜剧场景",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "2000s Japanese TV drama comedy scene aimed at middle school students",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "千禧年日系校园喜剧场景",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Millennium Japanese-style campus comedy scene",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:38:28.245Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_be9fdb4089",
+      "value": "千禧年日系校园喜剧场景",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-182",
+      "originalId": "case-182",
+      "authors": [
+        {
+          "name": "UminekoStudio",
+          "url": "https://x.com/UminekoStudio/status/2046488248256806981"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 384
+        }
+      ],
+      "rawSource": "[@UminekoStudio](https://x.com/UminekoStudio/status/2046488248256806981)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0b6ac64bf5ce2d3f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case182.jpg",
+      "upstreamPath": "../data/images/case182.jpg",
+      "localPath": "public/assets/prompt_e1f386441c0e3e58e70c/d9d3fc744fe1.jpg",
+      "alt": "千禧年日系校园喜剧场景",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

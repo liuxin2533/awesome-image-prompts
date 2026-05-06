@@ -1,0 +1,100 @@
+{
+  "id": "prompt_32605e7a67886973370d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "渲染一个专业的IOS APP首页UI图，该主题为AI Video Generator,英文界面。专业级设计，专业风格，暗黑色主题。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Render a professional iOS APP homepage UI image, the theme is AI Video Generator, English interface. Professional-level design, professional style, dark theme.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "智能视频生成器暗黑界面设计",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_60a2d75064",
+      "value": "智能视频生成器暗黑界面设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-261",
+      "originalId": "case-261",
+      "authors": [
+        {
+          "name": "austinit",
+          "url": "https://x.com/austinit/status/2044968740782272596"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2945
+        }
+      ],
+      "rawSource": "[@austinit](https://x.com/austinit/status/2044968740782272596)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9dd136ed1e63146c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case261.jpg",
+      "upstreamPath": "../data/images/case261.jpg",
+      "localPath": "public/assets/prompt_32605e7a67886973370d/caa6f4d7a88e.jpg",
+      "alt": "智能视频生成器暗黑界面设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_800a50f509e75184d8d3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "『热闹且吸引人的超市传单折页图像。顶部有\"特卖\"的大字和本周日期。彩色商品照片(蔬菜・水果・牛肉・鲜鱼)、红色边框的价格标签、\"超值商品\"\"家庭支持\"的标语...』",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:14.659Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Japanese Supermarket Sale Flyer",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本超市促销传单",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:16.776Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/weel_corp/status/2046514558064586782",
+      "originalId": "case-49",
+      "authors": [
+        {
+          "name": "weel_corp",
+          "url": "https://x.com/weel_corp"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 411
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7565c22ea7c167e8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg",
+      "localPath": "public/assets/prompt_800a50f509e75184d8d3/21c17e57d0c2.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

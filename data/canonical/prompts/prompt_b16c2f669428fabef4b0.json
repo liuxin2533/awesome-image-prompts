@@ -1,0 +1,121 @@
+{
+  "id": "prompt_b16c2f669428fabef4b0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "90s + point-and-shoot camera quality",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "90s Point-and-Shoot Aesthetic",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "photography-photorealism",
+      "value": "📷 Photography & Photorealism",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/sunyunran/status/2047241649957503308",
+      "originalId": "https://x.com/sunyunran/status/2047241649957503308",
+      "authors": [
+        {
+          "name": "sunyunran",
+          "url": "https://x.com/sunyunran/status/2047241649957503308"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 149
+        }
+      ],
+      "rawSource": "[@sunyunran](https://x.com/sunyunran/status/2047241649957503308)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7507324b892eccec",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGlDZasaMAAtLeg?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGlDZasaMAAtLeg?format=jpg&name=large",
+      "localPath": "public/assets/prompt_b16c2f669428fabef4b0/c8033a43cf94.jpg",
+      "alt": "Example 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_4666e5f2b9ebebdb",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGlDZacbcAAZXTj?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGlDZacbcAAZXTj?format=jpg&name=large",
+      "localPath": "public/assets/prompt_b16c2f669428fabef4b0/63aa01fd877e.jpg",
+      "alt": "Example 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_1e5a3410c04b0715",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGlDZafbIAA0iwq?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGlDZafbIAA0iwq?format=jpg&name=large",
+      "localPath": "public/assets/prompt_b16c2f669428fabef4b0/0ca6a068e54c.jpg",
+      "alt": "Example 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_be22b4d59e25cacd",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGlDZacbIAAdS9x?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGlDZacbIAAdS9x?format=jpg&name=large",
+      "localPath": "public/assets/prompt_b16c2f669428fabef4b0/5f079e0c0496.jpg",
+      "alt": "Example 4",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

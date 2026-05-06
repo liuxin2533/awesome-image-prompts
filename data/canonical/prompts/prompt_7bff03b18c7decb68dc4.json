@@ -1,0 +1,93 @@
+{
+  "id": "prompt_7bff03b18c7decb68dc4",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., \"molecular,\" \"cellular,\" \"structural\") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title \"[SUBJECT]: AT EVERY SCALE\" (or) \"ZOOM: THE WORLD OF [SUBJECT]\" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "冠状病毒尺度缩放科学信息图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_686c89afaa",
+      "value": "冠状病毒尺度缩放科学信息图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-380",
+      "originalId": "case-380",
+      "authors": [
+        {
+          "name": "Gdgtify",
+          "url": "https://x.com/Gdgtify/status/2051288232613351571"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7095
+        }
+      ],
+      "rawSource": "[@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f569309baf4ee2d8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case380.jpg",
+      "upstreamPath": "../data/images/case380.jpg",
+      "localPath": "public/assets/prompt_7bff03b18c7decb68dc4/ea4332ef7e28.jpg",
+      "alt": "冠状病毒尺度缩放科学信息图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "infographic",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.916Z"
+  }
+}

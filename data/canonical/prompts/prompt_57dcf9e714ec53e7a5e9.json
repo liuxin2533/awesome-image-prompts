@@ -1,0 +1,108 @@
+{
+  "id": "prompt_57dcf9e714ec53e7a5e9",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"movie poster grid\",\r\n  \"layout\": \"2x2 grid\",\r\n  \"posters\": [\r\n    {\r\n      \"position\": \"top-left\",\r\n      \"genre\": \"sci-fi comedy\",\r\n      \"visuals\": \"A Japanese salaryman sitting on a crowded train looking nervous, flanked by two aliens in business attire: a green frog-like alien looking at a smartphone, and a blue octopus-like alien reading a newspaper.\",\r\n      \"text_elements\": {\r\n        \"tagline_top\": \"隣の席のアイツ、実は宇宙人でした。\",\r\n        \"train_display\": \"次は 地球 (ちきゅう) Next Earth\",\r\n        \"tagline_side\": \"この星の常識、いつの間にかアップデートされていた。\",\r\n        \"main_title\": \"{argument name=\\\"poster 1 title\\\" default=\\\"となりの宇宙人\\\"}\",\r\n        \"cast\": \"星野サダオ タコヤキ・Z カエルダ・X\",\r\n        \"release_date\": \"6月13日(金) 全国公開\"\r\n      }\r\n    },\r\n    {\r\n      \"position\": \"top-right\",\r\n      \"genre\": \"surreal romance\",\r\n      \"visuals\": \"A man in a dark jacket affectionately hugging a giant onigiri (rice ball) topped with mentaiko (spicy cod roe) wrapped in seaweed. They are sitting on a rocky beach during a beautiful sunset.\",\r\n      \"text_elements\": {\r\n        \"tagline\": \"めんたいこは、裏切らない。\",\r\n        \"main_title\": \"{argument name=\\\"poster 2 title\\\" default=\\\"めんたいこ ひとすじ\\\"}\",\r\n        \"cast\": \"中尾シンイチ めんたい子 博多ミツル 高菜ユカリ のり平\",\r\n        \"release_date\": \"7月18日(金) 心にしみる、しお味系ラブストーリー\"\r\n      }\r\n    },\r\n    {\r\n      \"position\": \"bottom-left\",\r\n      \"genre\": \"heist comedy\",\r\n      \"visuals\": \"A joyful elderly woman in a leopard print blouse laughing maniacally while holding a fan of Japanese yen bills. Money is raining down around her. A happy raccoon is in the foreground.\",\r\n      \"text_elements\": {\r\n        \"tagline\": \"人生、まだまだ使いきってなんかない！\",\r\n        \"main_title\": \"{argument name=\\\"poster 3 title\\\" default=\\\"老後の逆襲\\\"}\",\r\n        \"subtitle\": \"〜いたずらタヌキと億万長者〜\",\r\n        \"cast\": \"ババンバ・バーバラ タヌキチ 金持ちババ 遺産マユミ 税理士ゴンザレス\",\r\n        \"release_date\": \"9月5日(金) 痛快！下剋上エンターテインメント！\"\r\n      }\r\n    },\r\n    {\r\n      \"position\": \"bottom-right\",\r\n      \"genre\": \"disaster thriller\",\r\n      \"visuals\": \"A dramatic disaster scene where laundry baskets, shirts, and clothes are being sucked up into a stormy, apocalyptic sky above a ruined Tokyo city skyline featuring the Tokyo Tower.\",\r\n      \"text_elements\": {\r\n        \"tagline\": \"それは、静かに、確実に、洗濯物を奪っていく。\",\r\n        \"main_title\": \"{argument name=\\\"poster 4 title\\\" default=\\\"洗濯物 ストーム\\\"}\",\r\n        \"cast\": \"森タクヤ 干場カオリ 風間ハルキ ピンチハンガー・タカ 洗濯バサミ・ケン\",\r\n        \"release_date\": \"8月29日(金) 全国の空が、危ない。\"\r\n      }\r\n    }\r\n  ]\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"movie poster grid\",\n  \"layout\": \"2x2 grid\",\n  \"posters\": [\n    {\n      \"position\": \"top-left\",\n      \"genre\": \"sci-fi comedy\",\n      \"visuals\": \"A Japanese salaryman sitting on a crowded train looking nervous, flanked by two aliens in business attire: a green frog-like alien looking at a smartphone, and a blue octopus-like alien reading a newspaper.\",\n      \"text_elements\": {\n        \"tagline_top\": \"The guy next to me, he was actually an alien.\",\n        \"train_display\": \"Next stop Earth (ちきゅう) Next Earth\",\n        \"tagline_side\": \"The common sense of this planet had been updated without me noticing.\",\n        \"main_title\": \"{argument name=\\\"poster 1 title\\\" default=\\\"The Alien Next Door\\\"}\",\n        \"cast\": \"Hoshino Sadao Takoyaki Z Keruda X\",\n        \"release_date\": \"June 13 (Fri) Nationwide Release\"\n      }\n    },\n    {\n      \"position\": \"top-right\",\n      \"genre\": \"surreal romance\",\n      \"visuals\": \"A man in a dark jacket affectionately hugging a giant onigiri (rice ball) topped with mentaiko (spicy cod roe) wrapped in seaweed. They are sitting on a rocky beach during a beautiful sunset.\",\n      \"text_elements\": {\n        \"tagline\": \"Mentaiko never betrays you.\",\n        \"main_title\": \"{argument name=\\\"poster 2 title\\\" default=\\\"Mentaiko Line\\\"}\",\n        \"cast\": \"Nakao Shinichi Mentaiko-ko Hakata Mitsuru Takana Yukari Norihei\",\n        \"release_date\": \"July 18 (Fri) A heartwarming salty romance story\"\n      }\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"genre\": \"heist comedy\",\n      \"visuals\": \"A joyful elderly woman in a leopard print blouse laughing maniacally while holding a fan of Japanese yen bills. Money is raining down around her. A happy raccoon is in the foreground.\",\n      \"text_elements\": {\n        \"tagline\": \"Life isn't over yet! I still have plenty left!\",\n        \"main_title\": \"{argument name=\\\"poster 3 title\\\" default=\\\"Retirement Revenge\\\"}\",\n        \"subtitle\": \"~The Mischievous Raccoon and the Billionaire~\",\n        \"cast\": \"Babanba Barbara Tanukichi Kanbaba Babayaumi Zeirigozarez\",\n        \"release_date\": \"September 5 (Fri) Thrilling! Underdog Entertainment!\"\n      }\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"genre\": \"disaster thriller\",\n      \"visuals\": \"A dramatic disaster scene where laundry baskets, shirts, and clothes are being sucked up into a stormy, apocalyptic sky above a ruined Tokyo city skyline featuring the Tokyo Tower.\",\n      \"text_elements\": {\n        \"tagline\": \"It quietly and surely steals your laundry.\",\n        \"main_title\": \"{argument name=\\\"poster 4 title\\\" default=\\\"Laundry Storm\\\"}\",\n        \"cast\": \"Mori Takuya Honami Kaori Kazama Haruki Pinch Hanger Taka Wash Clip Ken\",\n        \"release_date\": \"August 29 (Fri) The skies across the nation are in danger.\"\n      }\n    }\n  ]\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:19:46.069Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:19:49.214Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-122",
+      "originalId": "case-122",
+      "authors": [
+        {
+          "name": "pcneko_lab",
+          "url": "https://x.com/pcneko_lab"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4663
+        }
+      ],
+      "rawSource": "[@pcneko\\_lab](https://x.com/pcneko_lab)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_90623e5a8cbc622a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case122.jpg",
+      "upstreamPath": "../data/images/case122.jpg",
+      "localPath": "public/assets/prompt_57dcf9e714ec53e7a5e9/b13b1d74458b.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "movie poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.587Z"
+  }
+}

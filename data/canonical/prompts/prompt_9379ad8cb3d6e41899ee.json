@@ -1,0 +1,97 @@
+{
+  "id": "prompt_9379ad8cb3d6e41899ee",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"UI/UX landing page mockup\",\r\n  \"theme\": \"dark mode, sleek modern aesthetic, glassmorphism, {argument name=\\\"primary accent color\\\" default=\\\"neon purple and blue\\\"} glowing accents\",\r\n  \"header\": {\r\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"goViralX\\\"}\",\r\n    \"top_right_tag\": \"VIRAL CAMPAIGN CASE STUDY\"\r\n  },\r\n  \"layout\": {\r\n    \"sections\": [\r\n      {\r\n        \"name\": \"Hero\",\r\n        \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"How We Created 10M+ Viral Impact\\\"}\",\r\n        \"subheadline\": \"3天引爆全网, 助力品牌实现指数级增长\",\r\n        \"stats_row\": {\r\n          \"count\": 4,\r\n          \"labels\": [\"总播放量\", \"互动率\", \"转化咨询\", \"执行周期\"],\r\n          \"values\": [\"{argument name=\\\"main statistic\\\" default=\\\"10,240,000+\\\"}\", \"18.7%\", \"3,200+\", \"72小时\"]\r\n        },\r\n        \"visual\": \"cinematic shot of a person in a hoodie looking at glowing digital screens and graphs, large play button overlay\"\r\n      },\r\n      {\r\n        \"name\": \"Strategy\",\r\n        \"title\": \"Our 3-Day Execution Strategy\",\r\n        \"layout_type\": \"vertical timeline\",\r\n        \"steps_count\": 3,\r\n        \"elements_per_step\": [\"timeline node\", \"title\", \"bullet points\", \"video thumbnail with play button\", \"description box\"]\r\n      },\r\n      {\r\n        \"name\": \"Performance\",\r\n        \"title\": \"Data-Driven Performance\",\r\n        \"left_column\": {\r\n          \"stat_cards_count\": 4,\r\n          \"values\": [\"10M+\", \"43%\", \"28,000+\", \"3,200+\"]\r\n        },\r\n        \"right_column\": {\r\n          \"charts_count\": 2,\r\n          \"chart_1\": \"line graph showing 7-day growth peaking at Day 3\",\r\n          \"chart_2\": \"horizontal segmented bar chart showing platform distribution (TikTok 52%, Instagram 24%, X 15%, YouTube 9%)\"\r\n        }\r\n      },\r\n      {\r\n        \"name\": \"Keys to Success\",\r\n        \"title\": \"The 3 Keys to Viral Success\",\r\n        \"cards_count\": 3,\r\n        \"card_elements\": [\"glowing icon (fire, target, antenna)\", \"title\", \"description\", \"VIEW DETAIL link\"]\r\n      },\r\n      {\r\n        \"name\": \"Social Proof\",\r\n        \"title\": \"TRUSTED BY CREATORS & BRANDS\",\r\n        \"left_column\": {\r\n          \"logos_count\": 8,\r\n          \"grid\": \"2x4\",\r\n          \"brands\": [\"SHEIN\", \"SHOPLINE\", \"Blueglass\", \"instacart\", \"lemon8\", \"mi\", \"CIDER\", \"bellroy\"]\r\n        },\r\n        \"right_column\": {\r\n          \"testimonial_cards_count\": 2,\r\n          \"elements\": [\"quote\", \"author title (SaaS Founder, Growth Manager)\"]\r\n        }\r\n      },\r\n      {\r\n        \"name\": \"Call to Action\",\r\n        \"title\": \"READY TO GO VIRAL?\",\r\n        \"interactive_elements\": [\"text input field\", \"glowing button with text '{argument name=\\\"call to action text\\\" default=\\\"获取专属增长方案 ->\\\"}'\"],\r\n        \"visual\": \"3D render of a rocket ship taking off with purple and blue flames\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-131",
+      "originalId": "case-131",
+      "authors": [
+        {
+          "name": "IndieDevHailey",
+          "url": "https://x.com/IndieDevHailey"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5067
+        }
+      ],
+      "rawSource": "[@IndieDevHailey](https://x.com/IndieDevHailey)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5ef06753906aecba",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case131.jpg",
+      "upstreamPath": "../data/images/case131.jpg",
+      "localPath": "public/assets/prompt_9379ad8cb3d6e41899ee/23a84353fa20.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "youtube",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.919Z"
+  }
+}

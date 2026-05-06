@@ -1,0 +1,110 @@
+{
+  "id": "prompt_b3a0014dcaaa7d0e0ace",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"promotional banner / YouTube thumbnail\",\r\n  \"style\": \"high contrast, flashy, professional, {argument name=\\\"theme color\\\" default=\\\"gold and black\\\"} palette, glowing light rays, sparkling particles\",\r\n  \"subject\": {\r\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"confident young Asian man in a dark suit with arms crossed\\\"}\",\r\n    \"pose\": \"looking upwards to the right\",\r\n    \"props\": \"glowing open laptop in front of him\"\r\n  },\r\n  \"layout\": {\r\n    \"background\": \"dark with radiant gold light bursts\",\r\n    \"text_sections\": {\r\n      \"top_left_badge\": \"[保存版]\",\r\n      \"top_header\": \"{argument name=\\\"top text\\\" default=\\\"知識ゼロからでも今日から始められる！ AIで稼ぐ力を最短で手に入れる！\\\"}\",\r\n      \"main_title\": {\r\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"AI副業 完全攻略\\\"}\",\r\n        \"style\": \"large, bold, 3D gold and white typography\"\r\n      },\r\n      \"subtitle_box\": \"{argument name=\\\"subtitle\\\" default=\\\"初心者でも月10万\\\"}\",\r\n      \"top_right_badge\": {\r\n        \"style\": \"gold laurel wreath\",\r\n        \"text\": \"2026年版 最新版\"\r\n      },\r\n      \"middle_right_tags\": {\r\n        \"count\": 3,\r\n        \"style\": \"stacked gold-bordered boxes\",\r\n        \"labels\": [\"最短で収益化\", \"具体例つき\", \"誰でも始めやすい\"]\r\n      },\r\n      \"middle_right_ribbon\": {\r\n        \"style\": \"red ribbon banner\",\r\n        \"text\": \"手順を徹底解説\"\r\n      },\r\n      \"bottom_left_tags\": {\r\n        \"count\": 6,\r\n        \"style\": \"2x3 grid of gold-bordered boxes\",\r\n        \"labels\": [\"おすすめツール紹介\", \"収益化の流れがわかる\", \"失敗しない始め方\", \"作業時間を最小化\", \"テンプレ付き\", \"再現しやすい方法\"]\r\n      },\r\n      \"bottom_footer\": \"迷わず稼げる！AI副業の教科書\",\r\n      \"bottom_right_badge\": {\r\n        \"style\": \"gold laurel wreath\",\r\n        \"text\": \"テンプレ付き\"\r\n      }\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"promotional banner / YouTube thumbnail\",\n  \"style\": \"high contrast, flashy, professional, {argument name=\\\"theme color\\\" default=\\\"gold and black\\\"} palette, glowing light rays, sparkling particles\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"confident young Asian man in a dark suit with arms crossed\\\"}\",\n    \"pose\": \"looking upwards to the right\",\n    \"props\": \"glowing open laptop in front of him\"\n  },\n  \"layout\": {\n    \"background\": \"dark with radiant gold light bursts\",\n    \"text_sections\": {\n      \"top_left_badge\": \"[Save Version]\",\n      \"top_header\": \"{argument name=\\\"top text\\\" default=\\\"Even with zero knowledge, you can start today! Get the ability to earn with AI in the shortest time!\\\"}\",\n      \"main_title\": {\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"AI Side Hustle Complete Guide\\\"}\",\n        \"style\": \"large, bold, 3D gold and white typography\"\n      },\n      \"subtitle_box\": \"{argument name=\\\"subtitle\\\" default=\\\"Even beginners can earn 100,000 yen/month\\\"}\",\n      \"top_right_badge\": {\n        \"style\": \"gold laurel wreath\",\n        \"text\": \"2026 Edition Latest Version\"\n      },\n      \"middle_right_tags\": {\n        \"count\": 3,\n        \"style\": \"stacked gold-bordered boxes\",\n        \"labels\": [\"Monetize in the shortest time\", \"With specific examples\", \"Easy for anyone to start\"]\n      },\n      \"middle_right_ribbon\": {\n        \"style\": \"red ribbon banner\",\n        \"text\": \"Thorough explanation of steps\"\n      },\n      \"bottom_left_tags\": {\n        \"count\": 6,\n        \"style\": \"2x3 grid of gold-bordered boxes\",\n        \"labels\": [\"Recommended tools introduction\", \"Understand the monetization flow\", \"Fail-proof starting method\", \"Minimize work time\", \"Templates included\", \"Easy-to-reproduce methods\"]\n      },\n      \"bottom_footer\": \"Earn without hesitation! AI Side Hustle Textbook\",\n      \"bottom_right_badge\": {\n        \"style\": \"gold laurel wreath\",\n        \"text\": \"Templates included\"\n      }\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:17:23.546Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Interface Interaction Design Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:17:25.709Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-99",
+      "originalId": "case-99",
+      "authors": [
+        {
+          "name": "naga_zyashin",
+          "url": "https://x.com/naga_zyashin"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3799
+        }
+      ],
+      "rawSource": "[@naga\\_zyashin](https://x.com/naga_zyashin)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b979e74acd71ea1d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case99.jpg",
+      "upstreamPath": "../data/images/case99.jpg",
+      "localPath": "public/assets/prompt_b3a0014dcaaa7d0e0ace/278ee1d6a0a6.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "youtube",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.598Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "prompt_0fcc2926ceeceea598bf",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"VTuber stream thumbnail\",\r\n  \"character\": {\r\n    \"hair\": \"long blonde twin tails with pink gradient ends\",\r\n    \"eyes\": \"large pink anime eyes\",\r\n    \"expression\": \"cheerful smile with a small fang, making a peace sign near the eye\",\r\n    \"outfit\": \"black top with harness straps, black heart-ring choker, multiple ear piercings including a cross dangle, black nail polish\"\r\n  },\r\n  \"background\": \"vibrant neon pink and black leopard print with glowing yellow accents, sparkles, and floating hearts\",\r\n  \"typography_and_layout\": {\r\n    \"main_title\": {\r\n      \"position\": \"top left\",\r\n      \"style\": \"large, bold, 3D, pink and black with white outlines\",\r\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\"\r\n    },\r\n    \"top_right_text\": {\r\n      \"style\": \"casual handwritten style with a heart\",\r\n      \"text\": \"{argument name=\\\"top right text\\\" default=\\\"まったり話そ〜♡\\\"}\"\r\n    },\r\n    \"bottom_left_banners\": {\r\n      \"count\": 3,\r\n      \"style\": \"glowing pill-shaped banners with heart icons on the left\",\r\n      \"colors\": [\"pink\", \"yellow\", \"purple\"],\r\n      \"labels\": [\r\n        \"{argument name=\\\"banner 1 text\\\" default=\\\"初見さん〇\\\"}\",\r\n        \"{argument name=\\\"banner 2 text\\\" default=\\\"ポイント回収〇\\\"}\",\r\n        \"{argument name=\\\"banner 3 text\\\" default=\\\"ROM〇\\\"}\"\r\n      ]\r\n    },\r\n    \"bottom_right_text\": {\r\n      \"style\": \"casual handwritten style with a heart, yellow text with pink outline\",\r\n      \"text\": \"気軽にコメントしてねっ♡\"\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"VTuber stream thumbnail\",\n  \"character\": {\n    \"hair\": \"long blonde twin tails with pink gradient ends\",\n    \"eyes\": \"large pink anime eyes\",\n    \"expression\": \"cheerful smile with a small fang, making a peace sign near the eye\",\n    \"outfit\": \"black top with harness straps, black heart-ring choker, multiple ear piercings including a cross dangle, black nail polish\"\n  },\n  \"background\": \"vibrant neon pink and black leopard print with glowing yellow accents, sparkles, and floating hearts\",\n  \"typography_and_layout\": {\n    \"main_title\": {\n      \"position\": \"top left\",\n      \"style\": \"large, bold, 3D, pink and black with white outlines\",\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"Casual Chat Stream\\\"}\"\n    },\n    \"top_right_text\": {\n      \"style\": \"casual handwritten style with a heart\",\n      \"text\": \"{argument name=\\\"top right text\\\" default=\\\"Let's chat casually~♡\\\"}\"\n    },\n    \"bottom_left_banners\": {\n      \"count\": 3,\n      \"style\": \"glowing pill-shaped banners with heart icons on the left\",\n      \"colors\": [\"pink\", \"yellow\", \"purple\"],\n      \"labels\": [\n        \"{argument name=\\\"banner 1 text\\\" default=\\\"New viewers〇\\\"}\",\n        \"{argument name=\\\"banner 2 text\\\" default=\\\"Point collection〇\\\"}\",\n        \"{argument name=\\\"banner 3 text\\\" default=\\\"Room〇\\\"}\"\n      ]\n    },\n    \"bottom_right_text\": {\n      \"style\": \"casual handwritten style with a heart, yellow text with pink outline\",\n      \"text\": \"Feel free to comment~♡\"\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:48:25.525Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:48:28.199Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-96",
+      "originalId": "case-96",
+      "authors": [
+        {
+          "name": "sayaka_aiart",
+          "url": "https://x.com/sayaka_aiart"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3676
+        }
+      ],
+      "rawSource": "[@sayaka\\_aiart](https://x.com/sayaka_aiart)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5aeeaea9bd516bba",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case96.jpg",
+      "upstreamPath": "../data/images/case96.jpg",
+      "localPath": "public/assets/prompt_0fcc2926ceeceea598bf/1e73af9b7b91.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "anime",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

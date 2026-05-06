@@ -1,0 +1,176 @@
+{
+  "id": "prompt_0591ec567a629ab05941",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Minimalist commercial ad featuring {argument name=\"product\" default=\"oversized BLACK smartwatch\"}, ultra-clean design. A young Man in {argument name=\"outfit\" default=\"all-white and yellow outfit\"} leans casually against the giant watch, relaxed confident pose, eyes open in excitement expression , also wearing the same smartwatch on his wrist. Soft gradient blue background with large bold white “SMASUNG” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Shamus”. Bottom center tagline in small white font: “{argument name=\"tagline\" default=\"TIME IS TIDE.\"}”",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "极简商业广告，主角为 {argument name=\"product\" default=\"超大号黑色智能手表\"}，超洁净设计。一位年轻男性身着 {argument name=\"outfit\" default=\"全白配黄色的服装\"}，随意地靠在巨大的手表旁，姿态放松自信，双眼睁大，神情兴奋，手腕上也佩戴着同款智能手表。背景为柔和的蓝色渐变，后方有巨大的白色粗体“SMASUNG”字样。地面光亮且具有反射感，柔和的摄影棚灯光，现代高端时尚/产品摄影风格。右上角有小字“Designed by Shamus”。底部中心为白色小字标语：“{argument name=\"tagline\" default=\"TIME IS TIDE.\"}”",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Anuncio comercial minimalista con {argument name=\"product\" default=\"reloj inteligente NEGRO de gran tamaño\"}, diseño ultra limpio. Un hombre joven con {argument name=\"outfit\" default=\"atuendo totalmente blanco y amarillo\"} se apoya casualmente contra el reloj gigante, pose relajada y confiada, ojos abiertos con expresión de emoción, usando también el mismo reloj inteligente en su muñeca. Fondo azul con degradado suave y texto grande y llamativo en blanco \"SMASUNG\" detrás. Piso brillante y reflectante, iluminación de estudio suave, fotografía de moda/producto moderna de alta gama. Texto pequeño en la parte superior derecha \"Designed by Shamus\". Eslogan centrado en la parte inferior en fuente blanca pequeña: \"{argument name=\"tagline\" default=\"TIME IS TIDE.\"}\"",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Minimalistische Werbeanzeige mit {argument name=\"product\" default=\"übergroßer SCHWARZER Smartwatch\"}, ultra-sauberes Design. Ein junger Mann in {argument name=\"outfit\" default=\"einem komplett weißen und gelben Outfit\"} lehnt lässig an der riesigen Uhr, entspannte, selbstbewusste Pose, Augen offen mit aufgeregtem Ausdruck, trägt zudem dieselbe Smartwatch am Handgelenk. Weicher, blauer Verlaufs-Hintergrund mit großem, fettem, weißem „SMASUNG“-Text dahinter. Glänzender, reflektierender Boden, weiche Studiobeleuchtung, moderne High-End-Mode-/Produktfotografie. Kleiner Text oben rechts: „Designed by Shamus“. Tagline unten mittig in kleiner weißer Schrift: „{argument name=\"tagline\" default=\"TIME IS TIDE.\"}“",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publicité minimaliste mettant en vedette {argument name=\"product\" default=\"une montre connectée NOIRE surdimensionnée\"}, design ultra-épuré. Un jeune homme portant {argument name=\"outfit\" default=\"une tenue entièrement blanche et jaune\"} s'appuie nonchalamment contre la montre géante, pose détendue et confiante, yeux ouverts avec une expression enthousiaste, portant également la même montre connectée à son poignet. Fond bleu dégradé doux avec un grand texte blanc en gras « SMASUNG » en arrière-plan. Sol brillant et réfléchissant, éclairage studio doux, photographie de mode/produit moderne et haut de gamme. Petit texte en haut à droite « Designed by Shamus ». Slogan en bas au centre en petite police blanche : « {argument name=\"tagline\" default=\"TIME IS TIDE.\"} »",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Pubblicità commerciale minimalista con {argument name=\"product\" default=\"smartwatch NERO oversize\"}, design ultra-pulito. Un giovane uomo con {argument name=\"outfit\" default=\"un outfit bianco e giallo\"} si appoggia con disinvoltura all'orologio gigante, posa rilassata e sicura, occhi aperti con espressione entusiasta, indossa lo stesso smartwatch al polso. Sfondo sfumato blu tenue con grande testo bianco in grassetto \"SMASUNG\" sullo sfondo. Pavimento lucido riflettente, illuminazione da studio morbida, fotografia di moda/prodotto moderna di alta gamma. Piccolo testo in alto a destra \"Designed by Shamus\". Tagline in basso al centro in piccolo carattere bianco: \"{argument name=\"tagline\" default=\"TIME IS TIDE.\"}\"",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Anúncio comercial minimalista apresentando {argument name=\"product\" default=\"smartwatch PRETO oversized\"}, design ultra clean. Um jovem vestindo {argument name=\"outfit\" default=\"roupa toda branca e amarela\"} encosta-se casualmente no relógio gigante, pose relaxada e confiante, olhos abertos com expressão de entusiasmo, também usando o mesmo smartwatch no pulso. Fundo em degradê azul suave com o texto “SMASUNG” grande e em negrito em branco atrás. Piso reflexivo brilhante, iluminação de estúdio suave, fotografia de moda/produto moderna e de alto padrão. Pequeno texto no canto superior direito “Designed by Shamus”. Tagline centralizada na parte inferior em fonte branca pequena: “{argument name=\"tagline\" default=\"TIME IS TIDE.\"}”",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Minimalist Smartwatch Commercial Ad",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 极简智能手表商业广告",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Anuncio comercial de reloj inteligente minimalista",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Minimalistische Smartwatch-Werbung",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Publicité pour montre connectée minimaliste",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Pubblicità commerciale per smartwatch minimalista",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Anúncio Comercial de Smartwatch Minimalista",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A clean, high-end product photography prompt for a smartwatch advertisement featuring a modern fashion aesthetic and studio lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个干净、高端的智能手表广告产品摄影提示词，展现现代时尚美学与摄影棚灯光效果。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie de produit épuré et haut de gamme pour une publicité de montre connectée, mettant en avant une esthétique mode moderne et un éclairage studio.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/im_shahid7/status/2051172470548476197",
+      "originalId": "https://x.com/im_shahid7/status/2051172470548476197",
+      "authors": [
+        {
+          "name": "Al-Shamus",
+          "url": "https://x.com/im_shahid7"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4394
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2972d61f3ec59dc0",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971015653_6gc6bx_HHc6fLCbcAAikP-.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971015653_6gc6bx_HHc6fLCbcAAikP-.jpg",
+      "localPath": "public/assets/prompt_0591ec567a629ab05941/d2a82a83562e.jpg",
+      "alt": "E-commerce Main Image - Minimalist Smartwatch Commercial Ad - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.843Z"
+  }
+}

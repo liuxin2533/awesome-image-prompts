@@ -1,0 +1,87 @@
+{
+  "id": "prompt_42461b8009a785704182",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "模仿《无畏契约》的风格，生成一个三国神话的 FPS 游戏",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "神话三国枪战世界",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Mythical Three Kingdoms: Battle World",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:09:43.056Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3c9cc91a54",
+      "value": "神话三国枪战世界",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-209",
+      "originalId": "case-209",
+      "authors": [
+        {
+          "name": "op7418",
+          "url": "https://x.com/op7418/status/2046519666047426967"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1347
+        }
+      ],
+      "rawSource": "[@op7418](https://x.com/op7418/status/2046519666047426967)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_983dda7b73b4e1ab",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case209.jpg",
+      "upstreamPath": "../data/images/case209.jpg",
+      "localPath": "public/assets/prompt_42461b8009a785704182/14a0a4a0ecff.jpg",
+      "alt": "神话三国枪战世界",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

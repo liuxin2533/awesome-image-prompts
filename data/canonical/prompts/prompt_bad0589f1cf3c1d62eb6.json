@@ -1,0 +1,102 @@
+{
+  "id": "prompt_bad0589f1cf3c1d62eb6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A hyper-realistic cinematic street-food advertisement poster for {argument name=\"brand name\" default=\"Licious\"} frozen {argument name=\"product name\" default=\"Chicken Momos\"}, shot in a dark premium studio with dramatic moody lighting, deep navy-black background, glossy black tabletop, and high contrast commercial food photography styling. The composition is a square social-media ad layout with oversized bold condensed white sans-serif headline text on the left reading {argument name=\"headline text\" default=\"PERFECTLY MADE.\"} stacked across two lines, and a smaller white subheadline beneath it reading {argument name=\"tagline text\" default=\"PRECISION IN EVERY BITE.\"}. Along the far left edge, add thin vertical small caps text reading “FRESH • CLEAN • CONTROLLED”. Across the upper-right background, repeat the phrase “CUT / STEAM / SERVE / REPEAT” in a subtle dark gray pattern, and faintly repeat “CUT / STEAM / SERVE / REPEAT” again near the bottom-left floor area as perspective text. Feature exactly 6 momos total: 5 intact steamed chicken momos floating and arranged dynamically across the center and right side, and 1 split-open momo in the center revealing juicy orange-brown chicken filling with herbs, with a glossy red-orange sauce droplet dripping downward from the opened dumpling. Scatter small chili flakes, herb bits, and seasoning particles suspended in the air around the momos for explosive motion. Place exactly 3 retail product boxes on the right side, staggered in depth, black packaging with the {argument name=\"brand name\" default=\"Licious\"} logo and red product title “CHICKEN MOMOS,” including food photography of the dumplings on the box front. At the bottom right foreground, place 1 small black bowl filled with bright red dipping sauce. Add a thin footer line of small white text across the bottom reading “CHICKEN MOMOS • FRESHLY PREPARED • 2026 EDITION” and place “licious.com” in the lower-right corner. Use premium ad design, ultra-detailed food texture, glossy highlights on the dumplings, subtle steam sheen, crisp typography, shallow depth of field, and a polished high-end commercial campaign aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超写实的电影级街头食品广告海报，为{argument name=\"brand name\" default=\"Licious\"}品牌的冷冻{argument name=\"product name\" default=\"Chicken Momos\"}，在高级暗色影棚中拍摄，具有戏剧性的忧郁灯光，深海军黑背景，光亮的黑色桌面，和高对比度的商业食品摄影风格。构图为方形社交媒体广告布局，左侧有超大号粗体压缩白色无衬线标题文本，分两行显示{argument name=\"headline text\" default=\"PERFECTLY MADE.\"}，下方有较小的白色副标题，显示{argument name=\"tagline text\" default=\"PRECISION IN EVERY BITE.\"}。在最左边缘添加细长的垂直小写大写文本，显示\"FRESH • CLEAN • CONTROLLED\"。在右上角背景中，以微妙的深灰色图案重复\"CUT / STEAM / SERVE / REPEAT\"短语，并在左下角地板区域附近以透视文本再次微弱地重复\"CUT / STEAM / SERVE / REPEAT\"。总共展示6个饺子：5个完整的蒸鸡肉饺子漂浮并动态排列在中心和右侧，1个在中心切开的饺子露出多汁的橙褐色鸡肉馅料和香草，有一个光亮的红橙色酱汁滴从开口的饺子向下滴落。在饺子周围散落小辣椒片、香草碎片和调味料颗粒，悬浮在空中，呈现爆炸性动感。在右侧放置3个零售产品盒，深度错落排列，黑色包装上有{argument name=\"brand name\" default=\"Licious\"}标志和红色产品标题\"CHICKEN MOMOS\"，包括盒子前面的饺子食品摄影。在右下角前景处，放置1个装满鲜红色蘸酱的小黑碗。在底部添加一行细小的白色文本页脚，显示\"CHICKEN MOMOS • FRESHLY PREPARED • 2026 EDITION\"，并在右下角放置\"licious.com\"。使用高级广告设计，超详细的食品纹理，饺子上的光亮高光，微妙的蒸汽光泽，清晰的排版，浅景深，以及精致的高端商业活动美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:29:28.507Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Cinematic Chicken Momos Ad Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Diplomeme/status/2048060325925470358",
+      "originalId": "case-117",
+      "authors": [
+        {
+          "name": "Diplomeme",
+          "url": "https://x.com/Diplomeme"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 769
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_299f901c3cef3d15",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg",
+      "localPath": "public/assets/prompt_bad0589f1cf3c1d62eb6/e38fd8eb4a38.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.560Z"
+  }
+}

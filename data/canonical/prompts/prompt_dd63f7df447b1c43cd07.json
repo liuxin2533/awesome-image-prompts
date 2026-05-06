@@ -1,0 +1,87 @@
+{
+  "id": "prompt_dd63f7df447b1c43cd07",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一套运动类app的iconfont",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a set of iconfont for a sports app",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "运动健身图标字体设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Sports and Fitness Icon Font Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:37:53.840Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0906a96ede",
+      "value": "运动健身图标字体设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-247",
+      "originalId": "case-247",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2665
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f23632d6a31bc79d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case247.jpg",
+      "upstreamPath": "../data/images/case247.jpg",
+      "localPath": "public/assets/prompt_dd63f7df447b1c43cd07/42c4be07af6f.jpg",
+      "alt": "运动健身图标字体设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

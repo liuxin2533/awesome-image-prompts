@@ -1,0 +1,187 @@
+{
+  "id": "prompt_3050b7d8a702bb3cddfb",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Ultra realistic 4K commercial product photography of a premium beverage can named “{argument name=\"beverage name\" default=\"KESAR BADAM\"}”, centered and slightly tilted, covered in condensation droplets. The can features a {argument name=\"label style\" default=\"creamy beige and sky blue label design\"} with bold playful typography. A circular logo at the center of the can contains a portrait of a stylish young man standing and holding kesar badam in hand towards the camera , used as the brand identity mark. Surrounding the can are dynamic splashes of thick creamy milk and red saffron mixed with golden saffron liquid, forming dramatic fluid shapes in motion. Floating ingredients include {argument name=\"ingredients\" default=\"whole nuts and almonds, sliced almonds, cashews, saffron threads\"}, and golden droplets with icy suspended mid air. The background is dim green with warm yellow highlights, creating a rich, cinematic contrast. Studio lighting with strong rim light and glossy reflections enhances the metallic texture of the can. Depth of field is shallow, keeping the can sharp and the splashes slightly blurred for realism. Highly detailed textures, hyper realistic liquid physics, premium advertising style, sharp focus, high contrast, vibrant warm tones, professional food and beverage product shoot.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超写实 4K 商业产品摄影，拍摄一个名为“{argument name=\"beverage name\" default=\"KESAR BADAM\"}”的高级饮品罐，居中且略微倾斜，表面覆盖着冷凝水珠。罐身采用 {argument name=\"label style\" default=\"奶油米色和天蓝色标签设计\"}，搭配醒目且活泼的排版。罐身中央的圆形徽标内有一位时尚年轻男性的肖像，他站立着并将 Kesar Badam 捧在手中朝向镜头，作为品牌标识。罐身周围环绕着浓郁奶油牛奶和红色藏红花与金色藏红花液混合的动态飞溅，形成极具张力的流体形状。漂浮的配料包括 {argument name=\"ingredients\" default=\"整粒坚果和杏仁、杏仁片、腰果、藏红花丝\"}，以及悬浮在半空中的金色液滴和冰块。背景为暗绿色，带有暖黄色高光，营造出浓郁的电影感对比。摄影棚灯光配合强烈的轮廓光和光泽反射，增强了罐身的金属质感。景深较浅，使罐身保持清晰，飞溅部分略微模糊以增加真实感。高度细腻的纹理，超写实的流体物理效果，高级广告风格，焦点清晰，高对比度，鲜艳的暖色调，专业的食品和饮品产品拍摄。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Ảnh chụp sản phẩm thương mại 4K siêu thực của một lon đồ uống cao cấp có tên “{argument name=\"beverage name\" default=\"KESAR BADAM\"}”, được đặt ở chính giữa và hơi nghiêng, bao phủ bởi các giọt nước ngưng tụ. Lon nước có thiết kế {argument name=\"label style\" default=\"nhãn màu be kem và xanh da trời\"} với kiểu chữ đậm đầy tinh nghịch. Logo hình tròn ở chính giữa lon chứa chân dung một chàng trai trẻ sành điệu đang đứng và cầm trên tay sản phẩm kesar badam hướng về phía máy ảnh, được sử dụng làm dấu hiệu nhận diện thương hiệu. Xung quanh lon là những tia sữa đặc sánh và nhụy hoa nghệ tây đỏ hòa quyện cùng chất lỏng màu vàng nghệ tây, tạo thành những hình khối chất lỏng đầy kịch tính khi chuyển động. Các nguyên liệu trôi nổi bao gồm {argument name=\"ingredients\" default=\"hạt nguyên và hạnh nhân, hạnh nhân lát, hạt điều, sợi nhụy hoa nghệ tây\"}, cùng những giọt vàng óng ánh lơ lửng giữa không trung. Phông nền màu xanh lá cây mờ với các điểm nhấn màu vàng ấm, tạo nên sự tương phản điện ảnh phong phú. Ánh sáng studio với đèn viền mạnh và các phản chiếu bóng bẩy làm nổi bật kết cấu kim loại của lon. Độ sâu trường ảnh nông, giữ cho lon sắc nét và các tia nước hơi mờ để tạo độ chân thực. Kết cấu chi tiết cao, vật lý chất lỏng siêu thực, phong cách quảng cáo cao cấp, lấy nét sắc nét, độ tương phản cao, tông màu ấm rực rỡ, buổi chụp ảnh sản phẩm đồ uống chuyên nghiệp.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Fotografía de producto comercial 4K ultrarrealista de una lata de bebida premium llamada “{argument name=\"beverage name\" default=\"KESAR BADAM\"}”, centrada y ligeramente inclinada, cubierta de gotas de condensación. La lata presenta un {argument name=\"label style\" default=\"diseño de etiqueta en color beige cremoso y azul cielo\"} con tipografía llamativa y divertida. Un logotipo circular en el centro de la lata contiene el retrato de un joven elegante de pie, sosteniendo kesar badam en la mano hacia la cámara, utilizado como marca de identidad. Alrededor de la lata hay salpicaduras dinámicas de leche espesa y cremosa y azafrán rojo mezclado con líquido de azafrán dorado, formando dramáticas figuras fluidas en movimiento. Los ingredientes flotantes incluyen {argument name=\"ingredients\" default=\"nueces y almendras enteras, almendras fileteadas, anacardos, hebras de azafrán\"}, además de gotas doradas y hielo suspendidos en el aire. El fondo es de un verde tenue con reflejos amarillos cálidos, creando un contraste rico y cinematográfico. La iluminación de estudio con una fuerte luz de contorno y reflejos brillantes realza la textura metálica de la lata. La profundidad de campo es reducida, manteniendo la lata nítida y las salpicaduras ligeramente desenfocadas para mayor realismo. Texturas altamente detalladas, física de líquidos hiperrealista, estilo publicitario premium, enfoque nítido, alto contraste, tonos cálidos vibrantes, sesión fotográfica profesional de alimentos y bebidas.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ultrarealistische 4K-Werbefotografie einer Premium-Getränkedose mit dem Namen „{argument name=\"beverage name\" default=\"KESAR BADAM\"}“, zentriert und leicht geneigt, bedeckt mit Kondenswassertropfen. Die Dose verfügt über ein {argument name=\"label style\" default=\"cremefarbenes und himmelblaues Etikettendesign\"} mit fetter, verspielter Typografie. Ein kreisförmiges Logo in der Mitte der Dose enthält das Porträt eines stilvollen jungen Mannes, der steht und Kesar Badam in der Hand in Richtung Kamera hält, was als Markenidentitätsmerkmal dient. Um die Dose herum befinden sich dynamische Spritzer aus dicker, cremiger Milch und rotem Safran, vermischt mit goldener Safranflüssigkeit, die dramatische, fließende Formen in Bewegung bilden. Zu den schwebenden Zutaten gehören {argument name=\"ingredients\" default=\"ganze Nüsse und Mandeln, gehobelte Mandeln, Cashews, Safranfäden“} sowie goldene Tropfen, die eisig in der Luft hängen. Der Hintergrund ist in einem gedimmten Grün mit warmen gelben Highlights gehalten, was einen satten, filmischen Kontrast erzeugt. Studiobeleuchtung mit starkem Kantenlicht und glänzenden Reflexionen unterstreicht die metallische Textur der Dose. Die Schärfentiefe ist gering, sodass die Dose scharf bleibt und die Spritzer für mehr Realismus leicht unscharf wirken. Hochdetaillierte Texturen, hyperrealistische Flüssigkeitsphysik, Premium-Werbestil, scharfer Fokus, hoher Kontrast, lebendige warme Töne, professionelles Food- und Beverage-Produktshooting.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Photographie produit commerciale ultra-réaliste 4K d'une canette de boisson premium nommée « {argument name=\"beverage name\" default=\"KESAR BADAM\"} », centrée et légèrement inclinée, couverte de gouttelettes de condensation. La canette présente un {argument name=\"label style\" default=\"design d'étiquette beige crème et bleu ciel\"} avec une typographie audacieuse et ludique. Un logo circulaire au centre de la canette contient le portrait d'un jeune homme élégant debout, tenant du kesar badam dans sa main vers l'appareil photo, utilisé comme signe d'identité de marque. Autour de la canette, des éclaboussures dynamiques de lait crémeux épais et de safran rouge mélangé à un liquide safrané doré forment des formes fluides spectaculaires en mouvement. Les ingrédients flottants incluent {argument name=\"ingredients\" default=\"noix entières et amandes, amandes effilées, noix de cajou, filaments de safran\"}, ainsi que des gouttelettes dorées glacées suspendues dans les airs. L'arrière-plan est vert sombre avec des reflets jaune chaud, créant un contraste riche et cinématographique. Éclairage de studio avec un fort contre-jour et des reflets brillants qui rehaussent la texture métallique de la canette. La profondeur de champ est faible, gardant la canette nette et les éclaboussures légèrement floues pour plus de réalisme. Textures hautement détaillées, physique des fluides hyper-réaliste, style publicitaire premium, mise au point nette, contraste élevé, tons chauds vibrants, shooting photo professionnel de produits alimentaires et de boissons.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fotografia di prodotto commerciale 4K ultra realistica di una lattina di bevanda premium denominata “{argument name=\"beverage name\" default=\"KESAR BADAM\"}”, centrata e leggermente inclinata, coperta di goccioline di condensa. La lattina presenta un {argument name=\"label style\" default=\"design dell'etichetta color beige crema e azzurro cielo\"} con una tipografia audace e giocosa. Un logo circolare al centro della lattina contiene il ritratto di un giovane uomo elegante in piedi che tiene in mano del kesar badam verso la fotocamera, utilizzato come marchio di identità del brand. Attorno alla lattina si trovano schizzi dinamici di latte denso e cremoso e zafferano rosso mescolato con un liquido dorato allo zafferano, che formano spettacolari forme fluide in movimento. Gli ingredienti fluttuanti includono {argument name=\"ingredients\" default=\"noci intere e mandorle, mandorle a scaglie, anacardi, fili di zafferano\"} e goccioline dorate ghiacciate sospese a mezz'aria. Lo sfondo è verde tenue con riflessi giallo caldo, creando un contrasto ricco e cinematografico. L'illuminazione da studio con una forte luce di contorno e riflessi lucidi esalta la texture metallica della lattina. La profondità di campo è ridotta, mantenendo la lattina nitida e gli schizzi leggermente sfocati per un maggiore realismo. Texture altamente dettagliate, fisica dei liquidi iper-realistica, stile pubblicitario premium, messa a fuoco nitida, alto contrasto, toni caldi vibranti, servizio fotografico professionale per prodotti alimentari e bevande.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Fotografia de produto comercial 4K ultrarrealista de uma lata de bebida premium chamada “{argument name=\"beverage name\" default=\"KESAR BADAM\"}”, centralizada e levemente inclinada, coberta por gotas de condensação. A lata apresenta um {argument name=\"label style\" default=\"design de rótulo em bege cremoso e azul celeste\"} com tipografia ousada e divertida. Um logotipo circular no centro da lata contém o retrato de um jovem estiloso em pé, segurando kesar badam na mão em direção à câmera, usado como marca de identidade da marca. Ao redor da lata, há respingos dinâmicos de leite cremoso espesso e açafrão vermelho misturado com líquido de açafrão dourado, formando formas fluidas dramáticas em movimento. Os ingredientes flutuantes incluem {argument name=\"ingredients\" default=\"nozes inteiras e amêndoas, amêndoas fatiadas, castanhas de caju, fios de açafrão\"}, e gotas douradas com gelo suspensas no ar. O fundo é verde escuro com destaques em amarelo quente, criando um contraste rico e cinematográfico. Iluminação de estúdio com luz de contorno forte e reflexos brilhantes realça a textura metálica da lata. A profundidade de campo é rasa, mantendo a lata nítida e os respingos levemente desfocados para maior realismo. Texturas altamente detalhadas, física de líquidos hiper-realista, estilo publicitário premium, foco nítido, alto contraste, tons quentes vibrantes, ensaio fotográfico profissional de alimentos e bebidas.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Kesar Badam Beverage Photography",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Kesar Badam 饮品摄影",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Chụp ảnh sản phẩm đồ uống Kesar Badam",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Fotografía publicitaria de bebida Kesar Badam",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Kesar Badam Getränkefotografie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Photographie publicitaire pour boisson Kesar Badam",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Fotografia pubblicitaria per bevanda Kesar Badam",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Fotografia de Bebida Kesar Badam",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A high-end commercial product photography prompt for a premium beverage can featuring dynamic milk and saffron splashes.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于高端饮品罐的高级商业产品摄影提示词，包含动态牛奶和藏红花飞溅效果。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie produit commerciale haut de gamme pour une canette de boisson premium mettant en scène des éclaboussures dynamiques de lait et de safran.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/im_shahid7/status/2051258312612860104",
+      "originalId": "https://x.com/im_shahid7/status/2051258312612860104",
+      "authors": [
+        {
+          "name": "Al-Shamus",
+          "url": "https://x.com/im_shahid7"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4326
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e870724fe84e0f68",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777970996990_3j979d_HHeIjSnboAA-nwd.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777970996990_3j979d_HHeIjSnboAA-nwd.jpg",
+      "localPath": "public/assets/prompt_3050b7d8a702bb3cddfb/dd1ab01f6e95.jpg",
+      "alt": "Product Marketing - Kesar Badam Beverage Photography - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.849Z"
+  }
+}

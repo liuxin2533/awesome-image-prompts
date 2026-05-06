@@ -1,0 +1,106 @@
+{
+  "id": "prompt_f382c76c6d719c63b15d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成人教版小学三年级语文课本的一页",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "人教版三年级语文课本内页",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "People's Education Press Grade 3 Chinese Textbook Inner Page",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:42:41.696Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_361fa39bd6",
+      "value": "人教版三年级语文课本内页",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-303",
+      "originalId": "case-303",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2044824800909054181"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3945
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2044824800909054181)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4b7a03ed88a265b4",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case303.jpg",
+      "upstreamPath": "../data/images/case303.jpg",
+      "localPath": "public/assets/prompt_f382c76c6d719c63b15d/0c486f4cfbc7.jpg",
+      "alt": "人教版三年级语文课本内页",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "education",
+      "课本"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

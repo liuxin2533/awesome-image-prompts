@@ -1,0 +1,274 @@
+{
+  "id": "prompt_c1550fbabdc1b75dd7dd",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a Chinese fitness infographic for [topic].\r\n\r\nThe graphic should be both professional and practical for a normal adult to use as a training reference. Unless otherwise specified, assume the audience is a healthy adult with no major injuries, the goal is muscle gain plus basic strength improvement, the level is beginner to intermediate, the setting is a normal gym, and the total session length should stay within 40 to 60 minutes.\r\n\r\nChoose the output format automatically based on the training topic:\r\n\r\n1. If the topic is a muscle group or body part, such as chest, lats, biceps, abs, shoulders, or legs, generate a training-plan infographic for that body part.\r\n2. If the topic is an exercise or skill goal, such as pull-up, push-up, dips, or squat, generate an exercise-unlock or progression-plan infographic.\r\n\r\nUse a clear, modern, professional, easy-to-read Chinese infographic style in vertical format. The visual design should be clean and suitable for social sharing or personal training reference. Do not write long paragraphs. Each module should use short concise phrases, and numerical information should be prominent.\r\n\r\nThe infographic must include:\r\nA. Title area with main title and subtitle\r\nB. Training goal area\r\nC. Warm-up area\r\nD. Main training area with 4 to 6 core exercises\r\nE. Progression or unlock logic area\r\nF. Alternative exercises area\r\nG. Execution reminders area\r\nH. Recovery suggestions area\r\nI. Visual design requirements: modern, clean, professional, modular card layout\r\n\r\nThe final result should be a complete infographic rather than plain text paragraphs.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 [主题] 生成一张中文健身信息图。\r\n\r\n这张图既要专业，也要便于普通成年人作为训练参考。除非另有说明，否则默认受众是没有重大伤病的健康成年人，目标是增肌并提升基础力量，水平为新手到中级，训练场景是普通健身房，总训练时长控制在 40 到 60 分钟内。\r\n\r\n根据训练主题自动选择输出形式：\r\n\r\n1. 如果主题是胸、背阔肌、肱二头肌、腹肌、肩部或腿部等肌群 / 身体部位，就生成对应部位的训练计划信息图。\r\n2. 如果主题是引体向上、俯卧撑、双杠臂屈伸或深蹲等动作 / 技能目标，就生成动作解锁或进阶计划信息图。\r\n\r\n采用清晰、现代、专业、易读的中文竖版信息图风格。视觉设计应干净，适合社交分享或个人训练参考。不要写长段落。每个模块都应使用简短短语，数字信息要足够突出。\r\n\r\n信息图必须包含：\r\nA. 主标题与副标题区域\r\nB. 训练目标区域\r\nC. 热身区域\r\nD. 4 到 6 个核心动作组成的主要训练区域\r\nE. 进阶或解锁逻辑区域\r\nF. 替代动作区域\r\nG. 执行提醒区域\r\nH. 恢复建议区域\r\nI. 视觉要求：现代、干净、专业、模块化卡片布局\r\n\r\n最终结果应是一张完整信息图，而不是纯文字段落。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "為 [topic] 生成一張中文健身資訊圖。預設對象是健康成年人，目標是增肌與基礎力量提升，程度為初學到中階，場景為一般健身房，時長 40 到 60 分鐘。若主題是肌群，就輸出訓練計畫資訊圖；若主題是動作或技能，就輸出解鎖／進階路線資訊圖。需包含標題、副標、訓練目標、暖身、4 到 6 個核心動作、進階邏輯、替代動作、執行提醒與恢復建議，整體為清晰現代的中文直式資訊圖，而非長篇文字。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[topic] の中国語フィットネスインフォグラフィックを生成する。\r\n\r\nこのグラフィックは、一般的な成人がトレーニング参考として使えるよう、専門的で実用的であるべき。特に指定がなければ、対象は大きな怪我のない健康な成人、目的は筋肥大と基礎筋力の向上、レベルは初心者〜中級、場所は通常のジム、総時間は 40〜60 分を想定する。\r\n\r\nトレーニングテーマに応じて出力形式を自動選択する:\r\n1. 胸、広背筋、上腕二頭筋、腹筋、肩、脚などの筋群 / 部位なら、その部位向けのトレーニング計画インフォグラフィックを作る。\r\n2. 懸垂、腕立て伏せ、ディップス、スクワットなどの種目 / 技能目標なら、習得計画または進行計画インフォグラフィックを作る。\r\n\r\n明快で現代的、専門的で読みやすい中国語の縦型インフォグラフィックスタイルを使う。見た目はクリーンで、SNS 共有や個人練習の参考に向いていること。長文段落は避け、各モジュールは短いフレーズで、数値情報を目立たせる。\r\n\r\n含める要素:\r\nA. タイトルとサブタイトル\r\nB. トレーニング目標\r\nC. ウォームアップ\r\nD. 4〜6 個の主要種目を含むメイントレーニング\r\nE. 進行または習得ロジック\r\nF. 代替種目\r\nG. 実行上の注意\r\nH. 回復提案\r\nI. 近代的でクリーン、専門的なモジュールカード型レイアウト\r\n\r\n最終結果はテキスト段落ではなく、完成したインフォグラフィックにする。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[topic] 에 대한 중국어 피트니스 인포그래픽을 생성한다. 기본 대상은 건강한 성인이고, 목적은 근비대와 기초 근력 향상, 장소는 일반 헬스장, 시간은 40~60분이다. 부위 주제면 부위 훈련 계획, 동작 주제면 동작 해금/진행 계획을 만든다. 제목, 목표, 워밍업, 핵심 운동, 진행 로직, 대체 운동, 실행 팁, 회복 조언을 포함한 완성형 인포그래픽이어야 한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une infographie fitness en chinois pour [sujet], adaptée à un adulte en bonne santé, avec objectif prise de muscle et progression de force. Inclure objectif, échauffement, 4 à 6 exercices principaux, logique de progression, variantes, conseils d'exécution et récupération, sous forme d'infographie claire et moderne.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge eine chinesische Fitness-Infografik für [Thema], gedacht für gesunde Erwachsene mit Fokus auf Muskelaufbau und Grundkraft. Sie soll Zielbereich, Aufwärmen, 4 bis 6 Hauptübungen, Progressionslogik, Alternativen, Ausführungshinweise und Regeneration als moderne Infografik statt als Fließtext zeigen.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una infografía fitness en chino para [tema], pensada para adultos sanos con objetivo de ganar músculo y mejorar fuerza básica. Debe incluir objetivo, calentamiento, 4 a 6 ejercicios principales, lógica de progresión, alternativas, recordatorios de ejecución y sugerencias de recuperación, todo como infografía clara y moderna.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Fitness Training Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "健身训练信息图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "健身訓練資訊圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "フィットネストレーニング情報図",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "피트니스 트레이닝 인포그래픽",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie d'entraînement fitness",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Fitness-Trainingsinfografik",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía de entrenamiento fitness",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e156bfaa6d",
+      "value": "📚 信息图、教育与文档",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e5cd4ed1b2",
+      "value": "📚 資訊圖、教育與文件",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a835d8e9f",
+      "value": "📚 インフォグラフィック・教育・文書",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b316df1fa2",
+      "value": "📚 인포그래픽, 교육, 문서",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infographies-education-et-documents",
+      "value": "📚 Infographies, éducation et documents",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografiken-bildung-und-dokumente",
+      "value": "📚 Infografiken, Bildung und Dokumente",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografias-educacion-y-documentos",
+      "value": "📚 Infografías, educación y documentos",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046560406760505727"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 832
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 712
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 547
+        },
+        {
+          "file": "README:ja",
+          "line": 711
+        },
+        {
+          "file": "README:ko",
+          "line": 547
+        },
+        {
+          "file": "README:fr",
+          "line": 547
+        },
+        {
+          "file": "README:de",
+          "line": 547
+        },
+        {
+          "file": "README:es",
+          "line": 547
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9ec556f6569b3627",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbRt9DW8AA5V1S?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbRt9DW8AA5V1S?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c1550fbabdc1b75dd7dd/ed0de46de9da.jpg",
+      "alt": "Chest",
+      "status": "pending"
+    },
+    {
+      "id": "asset_e5f84e5808b4fb06",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbSwmNXIAIgywB?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbSwmNXIAIgywB?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c1550fbabdc1b75dd7dd/102303dcdede.jpg",
+      "alt": "Abs",
+      "status": "pending"
+    },
+    {
+      "id": "asset_b244faea7425a9eb",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbUNRHWwAAqDe8?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbUNRHWwAAqDe8?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c1550fbabdc1b75dd7dd/d18b5646f911.jpg",
+      "alt": "Pull-Up",
+      "status": "pending"
+    },
+    {
+      "id": "asset_1c0f53740384da87",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbW7-LXYAANNeF?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbW7-LXYAANNeF?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c1550fbabdc1b75dd7dd/5a4f887d3234.jpg",
+      "alt": "Dips",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.160Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.601Z"
+  }
+}

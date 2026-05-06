@@ -1,0 +1,185 @@
+{
+  "id": "prompt_fce9c4f3aac4eb17cd0b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A clean studio product photo of a realistic Canadian citizenship card lying flat on a light gray matte surface, centered with generous empty space around it. The card is shown in landscape orientation with rounded corners, subtle thickness, and a soft drop shadow, photographed from a nearly top-down angle with slight perspective. The design is a bilingual Canadian ID card with a pale pastel security background of fine guilloche lines in pink, blue, and gray, plus faint abstract wave patterns. In the top left are 2 small Canadian flags flanking the header text in bold black sans-serif: “CANADA – CANADIAN CITIZENSHIP CARD” on the first line and “CARTE DE CITOYENNETÉ CANADIENNE” on the second. On the left side is 1 passport-style head-and-shoulders portrait of a woman with straight dark brown hair, center part, wearing a navy crew-neck shirt, but the face is obscured by a solid rectangular blur block for privacy. To the right of the portrait is the main ID text in black, mixing uppercase labels and values, arranged in neat left-aligned lines. Use the visible bilingual fields and values exactly as follows: “Surname / Nom” then “MARTIN”; “Given names / Prénoms” then “ÉMILIE SOPHIE”; nationality line “CANADIAN / CANADIENNE”; “Citizenship Number / Numéro de citoyenneté” then “1234-5678”; “Date of birth / Date de naissance” then “14 APR 1996”; “Sex / Sexe” then “F”; “Place of birth / Lieu de naissance” then “MONTRÉAL, QC, CANADA”; “Issue date / Date d’émission” then “20 MAY 2024”; “Expiry date / Date d’expiration” then “20 MAY 2034”. In the upper right corner include 2 official security elements: a dark Canadian coat of arms emblem and beneath it a small metallic square with a maple leaf. In the lower right include 1 large iridescent holographic maple leaf security feature with rainbow shimmer. Along the bottom right add a cursive signature reading “Émilie S. Martin” with the caption beneath it “Holder’s Signature / Signature du titulaire”. The overall style is highly realistic government-issued document photography, sharp printed text, authentic ID layout, subtle paper-plastic card texture, neutral lighting, minimal background, no hands, no extra objects.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张干净的摄影棚产品照片，展示了一张平放在浅灰色哑光表面上的逼真加拿大公民卡，卡片居中，周围留有充足的空白。卡片呈横向，带有圆角和细微的厚度，并带有柔和的投影，从近乎俯视的角度拍摄，带有轻微的透视感。设计为双语加拿大身份证，背景为淡粉色、蓝色和灰色的精细扭索纹安全底纹，并带有淡淡的抽象波浪图案。左上角有 2 面小巧的加拿大国旗，中间夹着粗体黑色无衬线标题文本：第一行是“CANADA – CANADIAN CITIZENSHIP CARD”，第二行是“CARTE DE CITOYENNETÉ CANADIENNE”。左侧是 1 张护照风格的半身肖像，照片中的女性留着深棕色直发，中分，身穿海军蓝圆领衫，但面部被一个实心矩形模糊块遮盖以保护隐私。肖像右侧是黑色的主要身份信息文本，混合了大写标签和数值，按整齐的左对齐行排列。请严格使用以下可见的双语字段和数值：“Surname / Nom”后接“MARTIN”；“Given names / Prénoms”后接“ÉMILIE SOPHIE”；国籍行“CANADIAN / CANADIENNE”；“Citizenship Number / Numéro de citoyenneté”后接“1234-5678”；“Date of birth / Date de naissance”后接“14 APR 1996”；“Sex / Sexe”后接“F”；“Place of birth / Lieu de naissance”后接“MONTRÉAL, QC, CANADA”；“Issue date / Date d’émission”后接“20 MAY 2024”；“Expiry date / Date d’expiration”后接“20 MAY 2034”。右上角包含 2 个官方安全元素：深色的加拿大国徽标志，下方是一个带有枫叶的小金属方块。右下角包含 1 个带有彩虹光泽的大型虹彩全息枫叶安全防伪特征。右下角添加一个草书签名“Émilie S. Martin”，下方标注“Holder’s Signature / Signature du titulaire”。整体风格为高度逼真的政府签发证件摄影，印刷文字清晰，排版地道，具有纸塑卡片的质感，光线中性，背景简洁，无手部出现，无其他额外物品。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una fotografía de estudio limpia de una tarjeta de ciudadanía canadiense realista colocada sobre una superficie mate de color gris claro, centrada con un amplio espacio vacío a su alrededor. La tarjeta se muestra en orientación horizontal con esquinas redondeadas, un grosor sutil y una sombra paralela suave, fotografiada desde un ángulo casi cenital con una ligera perspectiva. El diseño es una tarjeta de identificación canadiense bilingüe con un fondo de seguridad en tonos pastel claros con finas líneas guilloché en rosa, azul y gris, además de tenues patrones de ondas abstractas. En la parte superior izquierda hay 2 pequeñas banderas canadienses flanqueando el texto del encabezado en negrita sans-serif negra: “CANADA – CANADIAN CITIZENSHIP CARD” en la primera línea y “CARTE DE CITOYENNETÉ CANADIENNE” en la segunda. En el lado izquierdo hay 1 retrato tipo pasaporte de cabeza y hombros de una mujer con cabello castaño oscuro lacio, raya al medio, vistiendo una camisa azul marino de cuello redondo, pero el rostro está oculto por un bloque rectangular borroso sólido por privacidad. A la derecha del retrato se encuentra el texto principal de identificación en negro, mezclando etiquetas y valores en mayúsculas, dispuestos en líneas ordenadas alineadas a la izquierda. Utilice los campos y valores bilingües visibles exactamente de la siguiente manera: “Surname / Nom” seguido de “MARTIN”; “Given names / Prénoms” seguido de “ÉMILIE SOPHIE”; la línea de nacionalidad “CANADIAN / CANADIENNE”; “Citizenship Number / Numéro de citoyenneté” seguido de “1234-5678”; “Date of birth / Date de naissance” seguido de “14 APR 1996”; “Sex / Sexe” seguido de “F”; “Place of birth / Lieu de naissance” seguido de “MONTRÉAL, QC, CANADA”; “Issue date / Date d’émission” seguido de “20 MAY 2024”; “Expiry date / Date d’expiration” seguido de “20 MAY 2034”. En la esquina superior derecha incluya 2 elementos de seguridad oficiales: un emblema oscuro del escudo de armas de Canadá y debajo un pequeño cuadrado metálico con una hoja de arce. En la parte inferior derecha incluya 1 gran elemento de seguridad de hoja de arce holográfica iridiscente con brillo de arcoíris. A lo largo de la parte inferior derecha añada una firma cursiva que diga “Émilie S. Martin” con la leyenda debajo “Holder’s Signature / Signature du titulaire”. El estilo general es de una fotografía de documento emitido por el gobierno altamente realista, con texto impreso nítido, diseño de identificación auténtico, textura sutil de tarjeta de papel-plástico, iluminación neutra, fondo minimalista, sin manos y sin objetos adicionales.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein sauberes Studio-Produktfoto einer realistischen kanadischen Staatsbürgerschaftskarte, die flach auf einer hellgrauen, matten Oberfläche liegt und mittig mit großzügigem Freiraum platziert ist. Die Karte wird im Querformat mit abgerundeten Ecken, dezenter Dicke und einem weichen Schlagschatten dargestellt, fotografiert aus einer fast direkten Draufsicht mit leichter Perspektive. Das Design ist ein zweisprachiger kanadischer Ausweis mit einem hellen, pastellfarbenen Sicherheitshintergrund aus feinen Guilloche-Linien in Pink, Blau und Grau sowie schwachen abstrakten Wellenmustern. Oben links befinden sich 2 kleine kanadische Flaggen, die den Kopftext in fetter, schwarzer serifenloser Schrift flankieren: „CANADA – CANADIAN CITIZENSHIP CARD“ in der ersten Zeile und „CARTE DE CITOYENNETÉ CANADIENNE“ in der zweiten. Auf der linken Seite befindet sich 1 Passfoto von Kopf und Schultern einer Frau mit glattem, dunkelbraunem Haar, Mittelscheitel und einem marineblauen Rundhals-Shirt, wobei das Gesicht aus Datenschutzgründen durch einen soliden rechteckigen Unschärfeblock verdeckt ist. Rechts neben dem Porträt befindet sich der Haupttext des Ausweises in Schwarz, wobei großgeschriebene Bezeichnungen und Werte in sauberen, linksbündigen Zeilen angeordnet sind. Verwenden Sie die sichtbaren zweisprachigen Felder und Werte exakt wie folgt: „Surname / Nom“ gefolgt von „MARTIN“; „Given names / Prénoms“ gefolgt von „ÉMILIE SOPHIE“; Nationalitätszeile „CANADIAN / CANADIENNE“; „Citizenship Number / Numéro de citoyenneté“ gefolgt von „1234-5678“; „Date of birth / Date de naissance“ gefolgt von „14 APR 1996“; „Sex / Sexe“ gefolgt von „F“; „Place of birth / Lieu de naissance“ gefolgt von „MONTRÉAL, QC, CANADA“; „Issue date / Date d’émission“ gefolgt von „20 MAY 2024“; „Expiry date / Date d’expiration“ gefolgt von „20 MAY 2034“. In der oberen rechten Ecke sind 2 offizielle Sicherheitselemente enthalten: ein dunkles kanadisches Wappenemblem und darunter ein kleines metallisches Quadrat mit einem Ahornblatt. Unten rechts befindet sich 1 großes, irisierendes holografisches Ahornblatt-Sicherheitsmerkmal mit Regenbogen-Schimmer. Unten rechts ist eine kursive Unterschrift mit dem Text „Émilie S. Martin“ sowie der darunter liegenden Beschriftung „Holder’s Signature / Signature du titulaire“ hinzugefügt. Der Gesamtstil ist eine hochrealistische Fotografie eines behördlichen Dokuments mit scharfem Druckbild, authentischem Ausweis-Layout, subtiler Papier-Kunststoff-Kartenstruktur, neutraler Beleuchtung, minimalem Hintergrund, ohne Hände und ohne zusätzliche Objekte.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une photo de produit en studio épurée d'une carte de citoyenneté canadienne réaliste posée à plat sur une surface mate gris clair, centrée avec un espace vide généreux tout autour. La carte est présentée en orientation paysage avec des coins arrondis, une épaisseur subtile et une ombre portée douce, photographiée sous un angle presque plongeant avec une légère perspective. Le design est celui d'une carte d'identité canadienne bilingue avec un fond de sécurité pastel pâle composé de fines lignes guillochées en rose, bleu et gris, ainsi que de légers motifs abstraits en forme de vagues. En haut à gauche, deux petits drapeaux canadiens encadrent le texte d'en-tête en caractères gras sans empattement : « CANADA – CANADIAN CITOYENSHIP CARD » sur la première ligne et « CARTE DE CITOYENNETÉ CANADIENNE » sur la seconde. Sur le côté gauche se trouve un portrait de type passeport (tête et épaules) d'une femme aux cheveux châtain foncé raides, avec une raie au milieu, portant un haut bleu marine à col rond, mais le visage est masqué par un bloc de flou rectangulaire pour des raisons de confidentialité. À droite du portrait se trouve le texte principal de la carte en noir, mélangeant étiquettes en majuscules et valeurs, disposées en lignes nettes alignées à gauche. Utilisez les champs et valeurs bilingues visibles exactement comme suit : « Surname / Nom » puis « MARTIN » ; « Given names / Prénoms » puis « ÉMILIE SOPHIE » ; ligne de nationalité « CANADIAN / CANADIENNE » ; « Citizenship Number / Numéro de citoyenneté » puis « 1234-5678 » ; « Date of birth / Date de naissance » puis « 14 AVR 1996 » ; « Sex / Sexe » puis « F » ; « Place of birth / Lieu de naissance » puis « MONTRÉAL, QC, CANADA » ; « Issue date / Date d’émission » puis « 20 MAI 2024 » ; « Expiry date / Date d’expiration » puis « 20 MAI 2034 ». Dans le coin supérieur droit, incluez deux éléments de sécurité officiels : un emblème des armoiries du Canada foncé et, en dessous, un petit carré métallique avec une feuille d'érable. En bas à droite, incluez un grand élément de sécurité holographique irisé en forme de feuille d'érable avec des reflets arc-en-ciel. Le long du bas à droite, ajoutez une signature manuscrite lisant « Émilie S. Martin » avec la légende en dessous « Holder’s Signature / Signature du titulaire ». Le style général est celui d'une photographie de document officiel hautement réaliste, avec un texte imprimé net, une mise en page d'identité authentique, une texture de carte papier-plastique subtile, un éclairage neutre, un arrière-plan minimal, sans mains ni objets supplémentaires.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Una foto di prodotto in studio, pulita e realistica, di una carta di cittadinanza canadese appoggiata su una superficie opaca grigio chiaro, centrata con ampio spazio vuoto attorno. La carta è mostrata in orientamento orizzontale con angoli arrotondati, spessore sottile e una leggera ombra portata, fotografata da un'angolazione quasi zenitale con una lieve prospettiva. Il design è quello di una carta d'identità canadese bilingue con uno sfondo di sicurezza color pastello tenue, caratterizzato da sottili linee guilloché in rosa, blu e grigio, oltre a lievi motivi a onde astratti. In alto a sinistra si trovano 2 piccole bandiere canadesi che affiancano il testo dell'intestazione in grassetto nero sans-serif: “CANADA – CANADIAN CITIZENSHIP CARD” sulla prima riga e “CARTE DE CITOYENNETÉ CANADIENNE” sulla seconda. Sul lato sinistro è presente 1 ritratto in stile passaporto (testa e spalle) di una donna con capelli castano scuro lisci, riga centrale, che indossa una maglietta girocollo blu navy, ma il volto è oscurato da un blocco rettangolare sfocato per motivi di privacy. A destra del ritratto si trova il testo principale dell'ID in nero, che alterna etichette in maiuscolo e valori, disposti in linee ben allineate a sinistra. Utilizzare i campi e i valori bilingui visibili esattamente come segue: “Surname / Nom” seguito da “MARTIN”; “Given names / Prénoms” seguito da “ÉMILIE SOPHIE”; riga della nazionalità “CANADIAN / CANADIENNE”; “Citizenship Number / Numéro de citoyenneté” seguito da “1234-5678”; “Date of birth / Date de naissance” seguito da “14 APR 1996”; “Sex / Sexe” seguito da “F”; “Place of birth / Lieu de naissance” seguito da “MONTRÉAL, QC, CANADA”; “Issue date / Date d’émission” seguito da “20 MAY 2024”; “Expiry date / Date d’expiration” seguito da “20 MAY 2034”. Nell'angolo in alto a destra includere 2 elementi di sicurezza ufficiali: l'emblema dello stemma canadese scuro e, sotto di esso, un piccolo quadrato metallico con una foglia d'acero. In basso a destra includere 1 grande elemento di sicurezza a forma di foglia d'acero olografica iridescente con riflessi arcobaleno. Lungo la parte inferiore destra aggiungere una firma in corsivo che recita “Émilie S. Martin” con la didascalia sottostante “Holder’s Signature / Signature du titulaire”. Lo stile generale è quello di una fotografia di documento emesso dal governo altamente realistica, con testo stampato nitido, layout di identificazione autentico, texture della carta plastificata sottile, illuminazione neutra, sfondo minimale, nessuna mano, nessun oggetto extra.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma foto de produto em estúdio, limpa, de um cartão de cidadania canadense realista posicionado horizontalmente sobre uma superfície fosca cinza-claro, centralizado com bastante espaço vazio ao redor. O cartão é exibido na orientação paisagem com cantos arredondados, espessura sutil e uma sombra projetada suave, fotografado de um ângulo quase superior com uma leve perspectiva. O design é um cartão de identificação canadense bilíngue com um fundo de segurança em tons pastéis claros, composto por linhas guilhochê finas em rosa, azul e cinza, além de padrões de ondas abstratos suaves. No canto superior esquerdo, há 2 pequenas bandeiras canadenses ladeando o cabeçalho em negrito, fonte sem serifa preta: “CANADA – CANADIAN CITIZENSHIP CARD” na primeira linha e “CARTE DE CITOYENNETÉ CANADIENNE” na segunda. No lado esquerdo, há 1 retrato estilo passaporte (cabeça e ombros) de uma mulher com cabelos castanhos escuros lisos, repartidos ao meio, vestindo uma camisa de gola careca azul-marinho, mas o rosto está obscurecido por um bloco retangular desfocado para privacidade. À direita do retrato, encontra-se o texto principal de identificação em preto, misturando rótulos em maiúsculas e valores, organizados em linhas alinhadas à esquerda. Use os campos e valores bilíngues visíveis exatamente da seguinte forma: “Surname / Nom” seguido de “MARTIN”; “Given names / Prénoms” seguido de “ÉMILIE SOPHIE”; linha de nacionalidade “CANADIAN / CANADIENNE”; “Citizenship Number / Numéro de citoyenneté” seguido de “1234-5678”; “Date of birth / Date de naissance” seguido de “14 APR 1996”; “Sex / Sexe” seguido de “F”; “Place of birth / Lieu de naissance” seguido de “MONTRÉAL, QC, CANADA”; “Issue date / Date d’émission” seguido de “20 MAY 2024”; “Expiry date / Date d’expiration” seguido de “20 MAY 2034”. No canto superior direito, inclua 2 elementos de segurança oficiais: um brasão de armas canadense escuro e, abaixo dele, um pequeno quadrado metálico com uma folha de bordo. No canto inferior direito, inclua 1 grande recurso de segurança de folha de bordo holográfica iridescente com brilho de arco-íris. Ao longo da parte inferior direita, adicione uma assinatura cursiva lendo “Émilie S. Martin” com a legenda abaixo: “Holder’s Signature / Signature du titulaire”. O estilo geral é de fotografia de documento emitido pelo governo altamente realista, texto impresso nítido, layout de identificação autêntico, textura sutil de cartão de plástico-papel, iluminação neutra, fundo minimalista, sem mãos, sem objetos extras.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Realistic Canadian Citizenship Card",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 逼真的加拿大公民卡",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Tarjeta de ciudadanía canadiense realista",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Realistische kanadische Staatsbürgerschaftskarte",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Carte de citoyenneté canadienne réaliste",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Carta di cittadinanza canadese realistica",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Cartão de Cidadania Canadense Realista",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A realistic studio-style government ID card image useful for document mockups, identity design concepts, or security card visualizations.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张逼真的摄影棚风格政府身份证件图片，适用于文档模型、身份设计概念或安全卡可视化。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une image réaliste de carte d'identité gouvernementale de style studio, utile pour des maquettes de documents, des concepts de design d'identité ou des visualisations de cartes de sécurité.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/stanleesells/status/2050198709493805419#reversed-0",
+      "originalId": "https://x.com/stanleesells/status/2050198709493805419#reversed-0",
+      "authors": [
+        {
+          "name": "$tan lee",
+          "url": "https://x.com/stanleesells"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4644
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8681a013a768594c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711079452_bd344z_HHPE1kSXkAAJoOn.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711079452_bd344z_HHPE1kSXkAAJoOn.jpg",
+      "localPath": "public/assets/prompt_fce9c4f3aac4eb17cd0b/c264616cfacc.jpg",
+      "alt": "E-commerce Main Image - Realistic Canadian Citizenship Card - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_8b5f9d49ac4fa50a",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711079524_bx6hje_HHPE2wDXgAAi5ye.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711079524_bx6hje_HHPE2wDXgAAi5ye.jpg",
+      "localPath": "public/assets/prompt_fce9c4f3aac4eb17cd0b/5abc7d413972.jpg",
+      "alt": "E-commerce Main Image - Realistic Canadian Citizenship Card - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-30T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.881Z"
+  }
+}

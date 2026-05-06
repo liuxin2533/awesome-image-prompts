@@ -1,0 +1,101 @@
+{
+  "id": "prompt_a284881fd156d0c9c080",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A luxurious cinematic product photograph of a classic rectangular perfume bottle inspired by {argument name=\"brand label\" default=\"N°5 CHANEL PARIS PARFUM\"}, placed upright on a glossy black marble surface with white veining. The bottle is centered slightly to the right, made of clear faceted glass with a large transparent crystal stopper, filled with rich amber-gold perfume that glows from within. Tiny condensation droplets cover the glass, adding texture and realism. Dramatic warm lighting from the upper left creates golden highlights, deep reflections on the marble, and a soft luminous bloom in the background. Wisps of elegant smoke curl around the bottle on both sides, enhancing a moody high-end advertisement feel. Dark background, shallow depth of field, ultra-detailed studio product photography, luxury beauty campaign aesthetic, crisp focus on the bottle, realistic reflections, warm black-and-gold color palette. Add a small white {argument name=\"corner logo\" default=\"Pollo.ai\"} in the top-right corner. Square composition, premium commercial ad, photorealistic, high contrast, refined and sophisticated.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张奢华的电影级产品摄影照片，展示一个灵感来源于 {argument name=\"brand label\" default=\"N°5 CHANEL PARIS PARFUM\"} 的经典矩形香水瓶，瓶身直立放置在带有白色纹理的光滑黑色大理石表面上。瓶子略微居右，由刻面透明玻璃制成，配有大型透明水晶瓶塞，瓶内装满散发着内在光芒的浓郁琥珀金色香水。微小的冷凝水珠覆盖在玻璃表面，增添了质感和真实感。来自左上方的戏剧性温暖光线创造出金色高光、大理石上的深邃反射以及背景中柔和的光晕。优雅的烟雾丝带在瓶子两侧缭绕，增强了高端广告的氛围感。深色背景，浅景深，超精细的影棚产品摄影，奢华美容广告美学，焦点清晰集中在瓶身上，逼真的反射效果，温暖的黑金色调。在右上角添加一个小型的白色 {argument name=\"corner logo\" default=\"Pollo.ai\"}。方形构图，高级商业广告，照片级真实感，高对比度，精致而优雅。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:26:36.747Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Luxury Amber Perfume Ad",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Polanco_IA/status/2047689647967609037",
+      "originalId": "case-113",
+      "authors": [
+        {
+          "name": "Polanco_IA",
+          "url": "https://x.com/Polanco_IA"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 5
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9a9f08d70f03705a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg",
+      "localPath": "public/assets/prompt_a284881fd156d0c9c080/9970c95a9e7f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

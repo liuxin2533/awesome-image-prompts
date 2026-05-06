@@ -1,0 +1,105 @@
+{
+  "id": "prompt_2a8cce53b0c7736ad6f5",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成图片:\n手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate image: The full text of Chu Shi Biao handwritten on a classroom blackboard, realistic chalk handwriting, taken with an iPhone in real life on a sunny day",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "黑板上的出师表全文",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "The Complete Text of Chu Shi Biao on a Blackboard",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:04:10.161Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_daf0cb947c",
+      "value": "黑板上的出师表全文",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-300",
+      "originalId": "case-300",
+      "authors": [
+        {
+          "name": "rionaifantasy",
+          "url": "https://x.com/rionaifantasy/status/2045356799751303194"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3874
+        }
+      ],
+      "rawSource": "[@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7fa38178a7b25927",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case300.jpg",
+      "upstreamPath": "../data/images/case300.jpg",
+      "localPath": "public/assets/prompt_2a8cce53b0c7736ad6f5/adede862118e.jpg",
+      "alt": "黑板上的出师表全文",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "room"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

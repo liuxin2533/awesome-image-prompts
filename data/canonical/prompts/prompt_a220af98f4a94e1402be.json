@@ -1,0 +1,197 @@
+{
+  "id": "prompt_a220af98f4a94e1402be",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using {argument name=\"characters\" default=\"these characters\"}, generate an image in the style of a special lottery-based merchandise page. Use multiple characters or variations of the same character to list items by rank, such as {argument name=\"prize ranks\" default=\"S-tier / A-tier / B-tier / C-tier\"}. It should have the realism of an actual e-commerce product page.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用 {argument name=\"characters\" default=\"这些角色\"}，生成一张具有特殊抽奖周边页面风格的图像。通过多个角色或同一角色的不同变体，按等级列出奖品，例如 {argument name=\"prize ranks\" default=\"S 级 / A 级 / B 级 / C 级\"}。页面应具备真实电商产品页面的质感。",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ใช้ {argument name=\"characters\" default=\"ตัวละครเหล่านี้\"} เพื่อสร้างภาพในสไตล์หน้าสินค้าลอตเตอรี่พิเศษ โดยใช้ตัวละครหลายตัวหรือตัวละครเดียวกันในรูปแบบต่างๆ เพื่อแสดงรายการสินค้าตามระดับรางวัล เช่น {argument name=\"prize ranks\" default=\"ระดับ S / ระดับ A / ระดับ B / ระดับ C\"} โดยให้มีความสมจริงเหมือนหน้าสินค้าบนเว็บไซต์อีคอมเมิร์ซ",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Sử dụng {argument name=\"characters\" default=\"các nhân vật này\"}, hãy tạo một hình ảnh theo phong cách trang bán hàng xổ số vật phẩm đặc biệt. Sử dụng nhiều nhân vật hoặc các biến thể của cùng một nhân vật để liệt kê các vật phẩm theo thứ hạng, ví dụ như {argument name=\"prize ranks\" default=\"Hạng S / Hạng A / Hạng B / Hạng C\"}. Hình ảnh cần có độ chân thực như một trang sản phẩm thương mại điện tử thực tế.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Usando {argument name=\"characters\" default=\"estos personajes\"}, genera una imagen al estilo de una página de lotería especial de mercancía. Utiliza múltiples personajes o variaciones del mismo personaje para listar los artículos por rango, como {argument name=\"prize ranks\" default=\"Nivel S / Nivel A / Nivel B / Nivel C\"}. Debe tener el realismo de una página de producto de comercio electrónico real.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle mithilfe von {argument name=\"characters\" default=\"diesen Charakteren\"} ein Bild im Stil einer speziellen Merchandise-Lotterieseite. Verwende mehrere Charaktere oder Variationen desselben Charakters, um die Artikel nach Rang aufzulisten, wie zum Beispiel {argument name=\"prize ranks\" default=\"S-Rang / A-Rang / B-Rang / C-Rang\"}. Das Design sollte den Realismus einer echten E-Commerce-Produktseite aufweisen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "En utilisant {argument name=\"characters\" default=\"ces personnages\"}, générez une image dans le style d'une page de loterie spéciale pour produits dérivés. Utilisez plusieurs personnages ou des variantes d'un même personnage pour lister les articles par rang, comme {argument name=\"prize ranks\" default=\"rang S / rang A / rang B / rang C\"}. Le résultat doit avoir le réalisme d'une véritable page produit e-commerce.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Utilizzando {argument name=\"characters\" default=\"questi personaggi\"}, genera un'immagine nello stile di una pagina di lotteria speciale per merchandising. Usa più personaggi o varianti dello stesso personaggio per elencare gli articoli per grado, come {argument name=\"prize ranks\" default=\"Grado S / Grado A / Grado B / Grado C\"}. Dovrebbe avere il realismo di un'effettiva pagina prodotto di e-commerce.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Usando {argument name=\"characters\" default=\"estes personagens\"}, gere uma imagem no estilo de uma página de sorteio de mercadorias especial. Use vários personagens ou variações do mesmo personagem para listar itens por categoria, como {argument name=\"prize ranks\" default=\"Categoria S / Categoria A / Categoria B / Categoria C\"}. Deve ter o realismo de uma página de produto de e-commerce real.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Lottery Merchandise Page Generator",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 抽奖周边商品页面生成器",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ภาพหลักสำหรับอีคอมเมิร์ซ - เครื่องมือสร้างหน้าสินค้าลอตเตอรี่",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình ảnh chính thương mại điện tử - Trình tạo trang bán hàng xổ số vật phẩm",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Generador de páginas de lotería de mercancía",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Generator für Lotterie-Merchandise-Seiten",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Générateur de page de loterie de produits dérivés",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Generatore di pagine per lotterie di merchandising",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Gerador de Página de Sorteio de Mercadorias",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for generating a character merchandise lottery page that lists various prize tiers like S, A, B, and C ranks, designed to look like a real e-commerce site.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于生成角色周边抽奖页面的提示词，包含 S、A、B 和 C 等不同奖项等级，设计风格如同真实的电商网站。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour générer une page de loterie de produits dérivés mettant en scène des personnages, avec des niveaux de prix (rangs S, A, B et C), conçue pour ressembler à un véritable site e-commerce.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/anirole_jp/status/2049817816602427797",
+      "originalId": "https://x.com/anirole_jp/status/2049817816602427797",
+      "authors": [
+        {
+          "name": "Anirole",
+          "url": "https://x.com/anirole_jp"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4850
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_26fa1225dbdbc36b",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777625685022_126a2s_HHJqATva8AA-uOb.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777625685022_126a2s_HHJqATva8AA-uOb.jpg",
+      "localPath": "public/assets/prompt_a220af98f4a94e1402be/11d05dbfe10e.jpg",
+      "alt": "E-commerce Main Image - Lottery Merchandise Page Generator - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.882Z"
+  }
+}

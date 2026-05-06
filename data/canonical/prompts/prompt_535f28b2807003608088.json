@@ -1,0 +1,88 @@
+{
+  "id": "prompt_535f28b2807003608088",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Alien-like OC, a stunningly beautiful woman with red makeup, located in a cluster of red spider lilies, with tension. Tang Wan \"Chai Tou Feng · The World is Fickle\": The world is fickle, human relationships are harsh, rain in the evening makes flowers fall easily. Morning wind dries, tear stains remain. Want to write down my feelings, speaking to myself alone by the leaning railing. Difficult, difficult, difficult!",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:17:40.794Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "彼岸花丛中的红妆女子",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A woman in red among the red spider lilies",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:17:34.162Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_8bc4524596",
+      "value": "彼岸花丛中的红妆女子",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-340",
+      "originalId": "case-340",
+      "authors": [
+        {
+          "name": "xiaofenggan",
+          "url": "https://x.com/xiaofenggan"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5583
+        }
+      ],
+      "rawSource": "[@xiaofenggan](https://x.com/xiaofenggan)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a83305b0d7d9f3ed",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case340.png",
+      "upstreamPath": "../data/images/case340.png",
+      "localPath": "public/assets/prompt_535f28b2807003608088/fca040543eb2.png",
+      "alt": "彼岸花丛中的红妆女子",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

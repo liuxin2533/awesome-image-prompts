@@ -1,0 +1,109 @@
+{
+  "id": "prompt_03eba2b3c22f3862ee30",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"e-commerce product infographic\",\r\n  \"theme\": \"dark mode with {argument name=\\\"accent color\\\" default=\\\"orange\\\"} accents\",\r\n  \"product\": {\r\n    \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"MEAN WELL\\\"}\",\r\n    \"model\": \"{argument name=\\\"product model\\\" default=\\\"ELG-100-24B\\\"}\",\r\n    \"description\": \"100W Constant Current LED Driver, rectangular silver metal housing with black cables on both ends and detailed specification label\"\r\n  },\r\n  \"layout\": {\r\n    \"sections\": [\r\n      {\r\n        \"name\": \"Hero Section\",\r\n        \"elements\": [\r\n          \"Brand logo top left\",\r\n          \"Headline: '{argument name=\\\"main headline\\\" default=\\\"Stable Power For Outdoors\\\"}'\",\r\n          \"Subtext: Wide input voltage, protected housing...\",\r\n          \"Large angled product shot\",\r\n          \"Faded '100W' watermark in background\"\r\n        ]\r\n      },\r\n      {\r\n        \"name\": \"Feature Highlights\",\r\n        \"count\": 3,\r\n        \"panels\": [\r\n          { \"title\": \"Precision Build\", \"visual\": \"Close-up of the specification label\" },\r\n          { \"title\": \"Secure Connection\", \"visual\": \"Close-up of the cable entry and mounting ear\" },\r\n          { \"title\": \"Key Features\", \"visual\": \"Angled product shot with 3 callout lines pointing to text: '100~305VAC Input', 'Constant Current', 'IP67 / IP65 Housing'\" }\r\n        ]\r\n      },\r\n      {\r\n        \"name\": \"Applications\",\r\n        \"count\": 4,\r\n        \"panels\": [\r\n          { \"title\": \"For Street Lighting\", \"visual\": \"Nighttime highway illuminated by streetlights\" },\r\n          { \"title\": \"For Outdoor Projects\", \"visual\": \"Modern building exterior with architectural landscape lighting\" },\r\n          { \"title\": \"For Indoor Systems\", \"visual\": \"Modern commercial hallway with linear ceiling lights\" },\r\n          { \"title\": \"For Dimming Control\", \"visual\": \"Electrical control box with 4 labels: '0-10V', 'PWM', 'RESISTOR', 'DALI'\" }\r\n        ]\r\n      },\r\n      {\r\n        \"name\": \"Environmental Protection\",\r\n        \"elements\": [\r\n          \"Product resting on a wet surface with water droplets and rain effect\",\r\n          \"Headline: 'Protected Performance'\",\r\n          \"Description text about indoor/outdoor use and active PFC\",\r\n          \"Badge: '{argument name=\\\"warranty years\\\" default=\\\"5\\\"}-Year Warranty'\"\r\n        ]\r\n      },\r\n      {\r\n        \"name\": \"Technical Specifications\",\r\n        \"elements\": [\r\n          \"Headline: 'Lighting Power Technology'\",\r\n          \"4 checkmark bullet points: '100~305VAC Input', 'Active PFC', 'Low Standby <0.5W', '0~10V / PWM / Resistor / DALI'\",\r\n          \"Product shot glowing on a high-tech circuit board background\"\r\n        ]\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"e-commerce product infographic\",\n  \"theme\": \"dark mode with {argument name=\\\"accent color\\\" default=\\\"orange\\\"} accents\",\n  \"product\": {\n    \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"MEAN WELL\\\"}\",\n    \"model\": \"{argument name=\\\"product model\\\" default=\\\"ELG-100-24B\\\"}\",\n    \"description\": \"100W Constant Current LED Driver, rectangular silver metal housing with black cables on both ends and detailed specification label\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"name\": \"Hero Section\",\n        \"elements\": [\n          \"Brand logo top left\",\n          \"Headline: '{argument name=\\\"main headline\\\" default=\\\"Stable Power For Outdoors\\\"}'\",\n          \"Subtext: Wide input voltage, protected housing...\",\n          \"Large angled product shot\",\n          \"Faded '100W' watermark in background\"\n        ]\n      },\n      {\n        \"name\": \"Feature Highlights\",\n        \"count\": 3,\n        \"panels\": [\n          { \"title\": \"Precision Build\", \"visual\": \"Close-up of the specification label\" },\n          { \"title\": \"Secure Connection\", \"visual\": \"Close-up of the cable entry and mounting ear\" },\n          { \"title\": \"Key Features\", \"visual\": \"Angled product shot with 3 callout lines pointing to text: '100~305VAC Input', 'Constant Current', 'IP67 / IP65 Housing'\" }\n        ]\n      },\n      {\n        \"name\": \"Applications\",\n        \"count\": 4,\n        \"panels\": [\n          { \"title\": \"For Street Lighting\", \"visual\": \"Nighttime highway illuminated by streetlights\" },\n          { \"title\": \"For Outdoor Projects\", \"visual\": \"Modern building exterior with architectural landscape lighting\" },\n          { \"title\": \"For Indoor Systems\", \"visual\": \"Modern commercial hallway with linear ceiling lights\" },\n          { \"title\": \"For Dimming Control\", \"visual\": \"Electrical control box with 4 labels: '0-10V', 'PWM', 'RESISTOR', 'DALI'\" }\n        ]\n      },\n      {\n        \"name\": \"Environmental Protection\",\n        \"elements\": [\n          \"Product resting on a wet surface with water droplets and rain effect\",\n          \"Headline: 'Protected Performance'\",\n          \"Description text about indoor/outdoor use and active PFC\",\n          \"Badge: '{argument name=\\\"warranty years\\\" default=\\\"5\\\"}-Year Warranty'\"\n        ]\n      },\n      {\n        \"name\": \"Technical Specifications\",\n        \"elements\": [\n          \"Headline: 'Lighting Power Technology'\",\n          \"4 checkmark bullet points: '100~305VAC Input', 'Active PFC', 'Low Standby <0.5W', '0~10V / PWM / Resistor / DALI'\",\n          \"Product shot glowing on a high-tech circuit board background\"\n        ]\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:41:22.133Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "电商商品展示设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "E-commerce Product Display Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:40:20.735Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_c8e9dff7f8",
+      "value": "电商商品展示设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-157",
+      "originalId": "case-157",
+      "authors": [
+        {
+          "name": "AmberPromptai",
+          "url": "https://x.com/AmberPromptai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6377
+        }
+      ],
+      "rawSource": "[@AmberPromptai](https://x.com/AmberPromptai)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_212f2079ccd5888d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case157.jpg",
+      "upstreamPath": "../data/images/case157.jpg",
+      "localPath": "public/assets/prompt_03eba2b3c22f3862ee30/e5370033f7e0.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.577Z"
+  }
+}

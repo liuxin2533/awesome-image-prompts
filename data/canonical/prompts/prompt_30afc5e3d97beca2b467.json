@@ -1,0 +1,98 @@
+{
+  "id": "prompt_30afc5e3d97beca2b467",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "李白在抖音直播月下起舞",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Li Bai dancing under the moon during a Douyin livestream",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "诗仙李白月下直播起舞",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_4037e7f338",
+      "value": "诗仙李白月下直播起舞",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-163",
+      "originalId": "case-163",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046585220393324553"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6719
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046585220393324553)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_342b68461ade1ee9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case163.jpg",
+      "upstreamPath": "../data/images/case163.jpg",
+      "localPath": "public/assets/prompt_30afc5e3d97beca2b467/09d93b824b5e.jpg",
+      "alt": "诗仙李白月下直播起舞",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "抖音"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

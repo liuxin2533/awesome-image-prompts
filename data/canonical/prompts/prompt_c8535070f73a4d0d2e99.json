@@ -1,0 +1,132 @@
+{
+  "id": "prompt_c8535070f73a4d0d2e99",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"four-panel educational science concept poster\",\"style\":\"cinematic 3D infographic illustration, premium educational poster, highly detailed floating diorama islands, realistic materials, soft studio lighting, clean modern typography, subtle scientific HUD icons and callout lines\",\"theme\":\"Science as conceptual entities\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"background\":\"split into 4 equal quadrants with different gradient color atmospheres\"},\"layout\":{\"grid\":\"2x2\",\"sections\":[{\"title\":\"ASTRONOMY\",\"subtitle\":\"Exploring the Universe\",\"position\":\"top-left\",\"count\":4,\"labels\":[\"title\",\"subtitle\",\"3 callout icons with labels\",\"central observatory diorama\"],\"background\":\"deep midnight blue sky with stars and a visible Milky Way band\",\"subject\":\"a large white observatory dome with an open slit and telescope inside, placed on a circular floating rocky island with a winding path, small trees, shrubs, rocks, and a lit entrance door\",\"callouts\":[\"TELESCOPES\",\"GALAXIES\",\"STARS\"]},{\"title\":\"BIOLOGY\",\"subtitle\":\"The Science of Life\",\"position\":\"top-right\",\"count\":5,\"labels\":[\"title\",\"subtitle\",\"3 callout icons with labels\",\"central microscope diorama\"],\"background\":\"clear cool blue gradient\",\"subject\":\"a cream-colored binocular microscope on a circular floating island covered with moss, grass, ferns, small plants, flowers, and rocks, with a small translucent bubble showing green cell-like organisms near the upper left of the microscope\",\"callouts\":[\"CELLS\",\"DNA\",\"ECOSYSTEMS\"]},{\"title\":\"CHEMISTRY\",\"subtitle\":\"Matter and Its Transformations\",\"position\":\"bottom-left\",\"count\":5,\"labels\":[\"title\",\"subtitle\",\"3 callout icons with labels\",\"central laboratory glassware diorama\"],\"background\":\"green to teal gradient\",\"subject\":\"a circular floating platform displaying chemistry lab equipment including tall flasks, beakers, test tubes, round-bottom flasks, retort stands, and a ball-and-stick molecular model, with colorful liquids in green, blue, amber, and red-orange\",\"callouts\":[\"ELEMENTS\",\"REACTIONS\",\"BONDS\"]},{\"title\":\"PHYSICS\",\"subtitle\":\"Understanding the Laws of Nature\",\"position\":\"bottom-right\",\"count\":5,\"labels\":[\"title\",\"subtitle\",\"3 callout icons with labels\",\"central Newton's cradle diorama\"],\"background\":\"warm beige to brown gradient\",\"subject\":\"a polished metal Newton's cradle on a circular floating wooden-and-metal platform, accompanied by 3 stacked books and an open notebook with visible pages\",\"callouts\":[\"MOTION\",\"ENERGY\",\"GRAVITY\"]}],\"dividers\":\"clean cross-shaped split between quadrants\"},\"objects\":{\"floating_platforms\":4,\"main_disciplines\":4,\"callout_label_count\":12},\"text_treatment\":{\"font\":\"bold geometric sans-serif uppercase for titles, smaller clean sans-serif for subtitles and callout descriptions\",\"title_color\":\"white\",\"callout_style\":\"thin white outline icons with fine connector lines and small explanatory text\"},\"quality\":\"ultra-detailed, polished, balanced composition, sharp focus, professional educational key visual\",\"customization\":{\"headline_theme\":\"{argument name=\\\"headline text\\\" default=\\\"Science\\\"}\",\"astronomy_title\":\"{argument name=\\\"astronomy title\\\" default=\\\"ASTRONOMY\\\"}\",\"biology_title\":\"{argument name=\\\"biology title\\\" default=\\\"BIOLOGY\\\"}\",\"chemistry_title\":\"{argument name=\\\"chemistry title\\\" default=\\\"CHEMISTRY\\\"}\",\"physics_title\":\"{argument name=\\\"physics title\\\" default=\\\"PHYSICS\\\"}\"}}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Four-Panel Science Concept Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - Four-Panel Science Concept Poster",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Four-Panel Science Concept Poster",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Four-Panel Science Concept Poster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Four-Panel Science Concept Poster",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Four-Panel Science Concept Poster",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Four-Panel Science Concept Poster",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A polished 3D educational infographic poster showing astronomy, biology, chemistry, and physics as separate floating dioramas, ideal for science concept art or academic visual design.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/TWnese/status/2048906317973360886#reversed-0",
+      "originalId": "https://x.com/TWnese/status/2048906317973360886#reversed-0",
+      "authors": [
+        {
+          "name": "TWnese",
+          "url": "https://x.com/TWnese"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1939
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9aac4253457bbcf4",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367300158_lsdbji_HG8strhasAAG98U.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367300158_lsdbji_HG8strhasAAG98U.jpg",
+      "localPath": "public/assets/prompt_c8535070f73a4d0d2e99/b8a6b507723a.jpg",
+      "alt": "Infographic / Edu Visual - Four-Panel Science Concept Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "education",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.569Z"
+  }
+}

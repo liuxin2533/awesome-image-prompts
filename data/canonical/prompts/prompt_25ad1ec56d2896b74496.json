@@ -1,0 +1,177 @@
+{
+  "id": "prompt_25ad1ec56d2896b74496",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-impact YouTube thumbnail about {argument name=\"topic text\" default=\"HARNESS ENGINEERING\"} in the AI age, 16:9 format, split-screen composition with 2 male presenters shown from the chest up, one on the left and one on the right, both facing forward in office or studio settings. The left presenter has dark hair, wears glasses and a white-and-blue striped shirt, seated in a desk chair with shelves and books blurred in the background. The right presenter has short dark hair, wears glasses and a light blue striped button-up shirt, speaking into a large black microphone, with a softly lit tech-themed background. A glowing electric-blue diagonal slash divides the two halves. In the center, overlay a futuristic circular AI icon with the letters “AI” inside a microchip-like interface, glowing neon blue. Add subtle HUD graphics on the right side: 3 upward chevrons near the top right, 1 gear icon at mid-right, and a faint grid of dots. Across the lower half, place 2 stacked headline lines in huge bold condensed uppercase text with heavy black outline, white outer stroke, and bright blue neon glow: top line smaller, white text reading {argument name=\"top headline\" default=\"IMPORTANT IN THE AI ERA\"}; bottom line much larger, yellow-to-gold gradient text reading {argument name=\"main headline\" default=\"HARNESS ENGINEERING\"}. Use dramatic contrast, cool blue color grading, glossy thumbnail polish, strong rim lighting, mild background blur, and an energetic tech-business aesthetic designed for maximum click-through rate.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张关于 AI 时代 {argument name=\"topic text\" default=\"HARNESS ENGINEERING\"} 的高影响力 YouTube 缩略图，16:9 比例，采用分屏构图，展示两位半身男性演讲者，分别位于左右两侧，均面向前方，背景为办公室或演播室环境。左侧演讲者深色头发，佩戴眼镜，身穿蓝白条纹衬衫，坐在办公椅上，背景为模糊的书架和书籍。右侧演讲者短深色头发，佩戴眼镜，身穿浅蓝色条纹衬衫，对着大型黑色麦克风讲话，背景为柔和的科技主题。一道发光的电光蓝斜线将画面一分为二。中心叠加一个未来感十足的圆形 AI 图标，图标内部为微芯片界面，带有“AI”字样，散发着霓虹蓝光。右侧添加微妙的 HUD 图形：右上角有 3 个向上箭头，中右侧有 1 个齿轮图标，以及淡淡的点阵网格。在下半部分，放置两行堆叠的超大加粗压缩大写标题，带有厚重的黑色轮廓、白色外描边和明亮的蓝色霓虹光效：顶行较小，白色文字显示 {argument name=\"top headline\" default=\"IMPORTANT IN THE AI ERA\"}；底行更大，黄色至金色的渐变文字显示 {argument name=\"main headline\" default=\"HARNESS ENGINEERING\"}。运用强烈的对比度、冷色调的蓝色分级、光泽感的缩略图质感、强烈的轮廓光、轻微的背景模糊，以及旨在实现最高点击率的活力科技商业美学。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una miniatura de YouTube de alto impacto sobre {argument name=\"topic text\" default=\"DOMINA LA INGENIERÍA\"} en la era de la IA, formato 16:9, composición de pantalla dividida con 2 presentadores masculinos mostrados de pecho hacia arriba, uno a la izquierda y otro a la derecha, ambos mirando al frente en entornos de oficina o estudio. El presentador de la izquierda tiene cabello oscuro, usa anteojos y una camisa a rayas blancas y azules, sentado en una silla de escritorio con estantes y libros desenfocados al fondo. El presentador de la derecha tiene cabello oscuro corto, usa anteojos y una camisa de botones a rayas azul claro, hablando frente a un micrófono negro grande, con un fondo de temática tecnológica suavemente iluminado. Una barra diagonal de color azul eléctrico brillante divide las dos mitades. En el centro, superpón un ícono de IA circular futurista con las letras “AI” dentro de una interfaz similar a un microchip, con un brillo de neón azul. Agrega gráficos HUD sutiles en el lado derecho: 3 chevrones hacia arriba cerca de la parte superior derecha, 1 ícono de engranaje a la derecha central y una cuadrícula de puntos tenue. En la mitad inferior, coloca 2 líneas de título apiladas en texto condensado, enorme, en negrita y mayúsculas con un contorno negro grueso, trazo exterior blanco y un brillo de neón azul intenso: la línea superior más pequeña, texto blanco que dice {argument name=\"top headline\" default=\"IMPORTANTE EN LA ERA DE LA IA\"}; la línea inferior mucho más grande, texto con degradado de amarillo a dorado que dice {argument name=\"main headline\" default=\"DOMINA LA INGENIERÍA\"}. Utiliza un contraste dramático, gradación de color azul frío, acabado brillante de miniatura, iluminación de contorno fuerte, desenfoque de fondo suave y una estética enérgica de negocios tecnológicos diseñada para maximizar la tasa de clics.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein wirkungsstarkes YouTube-Thumbnail über {argument name=\"topic text\" default=\"ENGINEERING NUTZEN\"} im KI-Zeitalter, 16:9-Format, Split-Screen-Komposition mit zwei männlichen Moderatoren, die von der Brust aufwärts zu sehen sind, einer links und einer rechts, beide nach vorne gerichtet in einer Büro- oder Studio-Umgebung. Der linke Moderator hat dunkles Haar, trägt eine Brille und ein weiß-blau gestreiftes Hemd, sitzt auf einem Bürostuhl mit Regalen und Büchern im unscharfen Hintergrund. Der rechte Moderator hat kurzes dunkles Haar, trägt eine Brille und ein hellblau gestreiftes Hemd, spricht in ein großes schwarzes Mikrofon, vor einem sanft beleuchteten Tech-Hintergrund. Ein leuchtender, elektrisch-blauer diagonaler Strich teilt die beiden Hälften. In der Mitte ist ein futuristisches, kreisförmiges KI-Symbol überlagert, das die Buchstaben „AI“ innerhalb einer mikrochipartigen Schnittstelle zeigt und neonblau leuchtet. Fügen Sie subtile HUD-Grafiken auf der rechten Seite hinzu: 3 nach oben gerichtete Chevrons oben rechts, 1 Zahnrad-Symbol mittig rechts und ein schwaches Punktgitter. Platzieren Sie in der unteren Hälfte zwei gestapelte Schlagzeilen in riesiger, fetter, kondensierter Großschrift mit starker schwarzer Kontur, weißem Außenstrich und hellem blauen Neonglanz: obere Zeile kleiner, weißer Text mit dem Inhalt {argument name=\"top headline\" default=\"WICHTIG IM KI-ZEITALTER\"}; untere Zeile deutlich größer, gelb-goldener Verlaufstext mit dem Inhalt {argument name=\"main headline\" default=\"ENGINEERING NUTZEN\"}. Verwenden Sie dramatischen Kontrast, kühles blaues Color Grading, glänzendes Thumbnail-Finish, starkes Kantenlicht, leichte Hintergrundunschärfe und eine energetische Tech-Business-Ästhetik, die für eine maximale Klickrate optimiert ist.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une miniature YouTube à fort impact sur le thème {argument name=\"topic text\" default=\"MAÎTRISEZ L'INGÉNIERIE\"} à l'ère de l'IA, format 16:9, composition en écran scindé avec 2 présentateurs masculins filmés du buste, l'un à gauche et l'autre à droite, tous deux face caméra dans un environnement de bureau ou de studio. Le présentateur de gauche a les cheveux foncés, porte des lunettes et une chemise à rayures blanches et bleues, assis sur une chaise de bureau avec des étagères et des livres floutés en arrière-plan. Le présentateur de droite a les cheveux courts et foncés, porte des lunettes et une chemise boutonnée à rayures bleu clair, parlant dans un grand microphone noir, avec un arrière-plan technologique à l'éclairage tamisé. Une barre diagonale bleu électrique lumineuse sépare les deux moitiés. Au centre, superposez une icône IA circulaire futuriste avec les lettres « AI » à l'intérieur d'une interface rappelant une micropuce, brillant d'un bleu néon. Ajoutez des graphismes HUD subtils sur le côté droit : 3 chevrons pointant vers le haut en haut à droite, 1 icône d'engrenage à mi-hauteur à droite et une grille de points légère. Sur la moitié inférieure, placez 2 lignes de titre empilées en texte condensé majuscule, gras et imposant, avec un contour noir épais, un trait extérieur blanc et une lueur néon bleu vif : ligne supérieure plus petite, texte blanc indiquant {argument name=\"top headline\" default=\"IMPORTANT À L'ÈRE DE L'IA\"} ; ligne inférieure beaucoup plus grande, texte en dégradé jaune vers doré indiquant {argument name=\"main headline\" default=\"MAÎTRISEZ L'INGÉNIERIE\"}. Utilisez un contraste dramatique, une colorimétrie bleu froid, un rendu brillant de type miniature, un éclairage de contour marqué, un léger flou d'arrière-plan et une esthétique tech-business énergique conçue pour maximiser le taux de clic.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Una miniatura YouTube di grande impatto su {argument name=\"topic text\" default=\"DOMINARE L'INGEGNERIA\"} nell'era dell'IA, formato 16:9, composizione a schermo diviso con 2 presentatori maschi ripresi dal busto in su, uno a sinistra e uno a destra, entrambi rivolti verso la telecamera in un ufficio o studio. Il presentatore a sinistra ha capelli scuri, indossa occhiali e una camicia a righe bianche e blu, seduto su una sedia da ufficio con scaffali e libri sfocati sullo sfondo. Il presentatore a destra ha capelli scuri corti, indossa occhiali e una camicia azzurra a righe, parla in un grande microfono nero, con uno sfondo a tema tecnologico soffuso. Un taglio diagonale blu elettrico luminoso divide le due metà. Al centro, sovrapponi un'icona IA circolare futuristica con le lettere “AI” all'interno di un'interfaccia simile a un microchip, che emana una luce neon blu. Aggiungi sottili grafiche HUD sul lato destro: 3 chevron verso l'alto in alto a destra, 1 icona a ingranaggio a metà destra e una debole griglia di punti. Nella metà inferiore, inserisci 2 righe di titolo sovrapposte in un testo maiuscolo condensato, enorme e in grassetto, con un pesante contorno nero, un tratto esterno bianco e un bagliore neon blu brillante: riga superiore più piccola, testo bianco che recita {argument name=\"top headline\" default=\"IMPORTANTE NELL'ERA DELL'IA\"}; riga inferiore molto più grande, testo con gradiente da giallo ad oro che recita {argument name=\"main headline\" default=\"DOMINARE L'INGEGNERIA\"}. Utilizza un contrasto drammatico, una color grading blu fredda, una finitura lucida da miniatura, un forte rim lighting, una leggera sfocatura dello sfondo e un'estetica tech-business energica progettata per il massimo tasso di clic.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma thumbnail de alto impacto para YouTube sobre {argument name=\"topic text\" default=\"DOMINE A ENGENHARIA\"} na era da IA, formato 16:9, composição em tela dividida com 2 apresentadores do sexo masculino exibidos do peito para cima, um à esquerda e outro à direita, ambos voltados para a frente em ambientes de escritório ou estúdio. O apresentador da esquerda tem cabelo escuro, usa óculos e uma camisa listrada de branco e azul, sentado em uma cadeira de escritório com estantes e livros desfocados ao fundo. O apresentador da direita tem cabelo curto e escuro, usa óculos e uma camisa social listrada azul-clara, falando em um grande microfone preto, com um fundo de temática tecnológica suavemente iluminado. Um corte diagonal em azul elétrico brilhante divide as duas metades. No centro, sobreponha um ícone circular futurista de IA com as letras “AI” dentro de uma interface que lembra um microchip, brilhando em neon azul. Adicione gráficos HUD sutis no lado direito: 3 divisas apontando para cima perto do topo direito, 1 ícone de engrenagem no meio à direita e uma grade de pontos tênue. Na metade inferior, coloque 2 linhas de título empilhadas em texto condensado, maiúsculo, grande e em negrito, com contorno preto pesado, traço externo branco e brilho neon azul vibrante: linha superior menor, texto em branco lendo {argument name=\"top headline\" default=\"IMPORTANTE NA ERA DA IA\"}; linha inferior muito maior, texto com gradiente de amarelo para dourado lendo {argument name=\"main headline\" default=\"DOMINE A ENGENHARIA\"}. Use contraste dramático, gradação de cores em azul frio, acabamento brilhante de thumbnail, iluminação de contorno forte, desfoque de fundo suave e uma estética energética de tecnologia e negócios projetada para máxima taxa de cliques.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - AI Era YouTube Thumbnail",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - AI 时代 YouTube 缩略图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Miniatura de YouTube para la era de la IA",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - YouTube-Thumbnail für das KI-Zeitalter",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Miniature YouTube pour l'ère de l'IA",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Miniatura YouTube per l'era dell'IA",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Thumbnail para YouTube na Era da IA",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A bold split-screen tech YouTube thumbnail featuring two presenters, glowing AI graphics, and oversized headline text for business or engineering content.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张醒目的分屏科技类 YouTube 缩略图，包含两位演讲者、发光的 AI 图形以及用于商业或工程内容的大号标题文字。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une miniature YouTube technologique audacieuse en écran scindé, mettant en vedette deux présentateurs, des graphismes IA lumineux et un titre surdimensionné pour du contenu business ou ingénierie.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/minheo93698092/status/2049756288490631326#reversed-0",
+      "originalId": "https://x.com/minheo93698092/status/2049756288490631326#reversed-0",
+      "authors": [
+        {
+          "name": "min heo",
+          "url": "https://x.com/minheo93698092"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2905
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3b26b1f7bbe40de9",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777625708408_jpy8au_HHIyeh4a4AAnRW7.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777625708408_jpy8au_HHIyeh4a4AAnRW7.jpg",
+      "localPath": "public/assets/prompt_25ad1ec56d2896b74496/e459d6357b10.jpg",
+      "alt": "YouTube Thumbnail - AI Era YouTube Thumbnail - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.624Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "social",
+      "youtube",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.881Z"
+  }
+}

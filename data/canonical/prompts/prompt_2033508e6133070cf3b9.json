@@ -1,0 +1,255 @@
+{
+  "id": "prompt_2033508e6133070cf3b9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Colorize this comic page and translate it into Chinese, placing the text in the original positions while maintaining composition and image details consistently",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "给这页漫画上色，并把它翻译成中文。文字要放回原来的位置，同时保持构图和图像细节的一致性。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "替這頁漫畫上色，並翻譯成中文，把文字放回原本的位置，同時維持構圖與圖像細節的一致性。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "この漫画ページをカラー化し、中国語に翻訳して、元の位置にテキストを配置しながら、構図と画像ディテールの一貫性を保つ",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "이 만화 페이지를 채색하고 중국어로 번역해, 원래 위치에 텍스트를 넣으면서 구성과 이미지 디테일의 일관성을 유지한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Colorise cette page de bande dessinée et traduis-la en chinois, en remettant le texte à sa place d'origine tout en conservant la composition et les détails de l'image.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Koloriere diese Comicseite und übersetze sie ins Chinesische, wobei der Text an die ursprünglichen Positionen gesetzt wird und Komposition sowie Bilddetails konsistent bleiben.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Colorea esta página de cómic y tradúcela al chino, colocando el texto en las posiciones originales y manteniendo la composición y los detalles de la imagen.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic Page Coloring & Translation",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画页面上色与翻译",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫頁面上色與翻譯",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "漫画ページの着色と翻訳",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 페이지 채색과 번역",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Colorisation et traduction d'une page de BD",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comicseite kolorieren und übersetzen",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Colorización y traducción de página de cómic",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "image-editing-style-transfer",
+      "value": "🖼️ Image Editing & Style Transfer",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_abc0b5168a",
+      "value": "🖼️ 图像编辑与风格迁移",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_a5072471ca",
+      "value": "🖼️ 圖像編輯與風格轉換",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_128b98af07",
+      "value": "🖼️ 画像編集・スタイル変換",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_c146b78b18",
+      "value": "🖼️ 이미지 편집과 스타일 전이",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "edition-d-image-et-transfert-de-style",
+      "value": "🖼️ Édition d'image et transfert de style",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "bildbearbeitung-und-stiltransfer",
+      "value": "🖼️ Bildbearbeitung und Stiltransfer",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "edicion-de-imagen-y-transferencia-de-estilo",
+      "value": "🖼️ Edición de imagen y transferencia de estilo",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://github.com/ZeroLu/awesome-gpt-image",
+      "originalId": "https://github.com/user-attachments/assets/d67a101c-2874-4e58-9855-05e8a86d891b|https://github.com/user-attachments/assets/47d1ea12-a998-4dd3-8485-6e998d8e7dfd|https://github.com/user-attachments/assets/11180e5f-430e-4706-bd03-9c09becf36be",
+      "authors": [],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1014
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 847
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 636
+        },
+        {
+          "file": "README:ja",
+          "line": 845
+        },
+        {
+          "file": "README:ko",
+          "line": 636
+        },
+        {
+          "file": "README:fr",
+          "line": 636
+        },
+        {
+          "file": "README:de",
+          "line": 636
+        },
+        {
+          "file": "README:es",
+          "line": 636
+        }
+      ],
+      "rawSource": ""
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_60051fbbb41070cc",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/d67a101c-2874-4e58-9855-05e8a86d891b",
+      "upstreamPath": "https://github.com/user-attachments/assets/d67a101c-2874-4e58-9855-05e8a86d891b",
+      "localPath": "public/assets/prompt_2033508e6133070cf3b9/f5baf7bf679a.jpg",
+      "alt": "image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_e3c7ba86b312de01",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/47d1ea12-a998-4dd3-8485-6e998d8e7dfd",
+      "upstreamPath": "https://github.com/user-attachments/assets/47d1ea12-a998-4dd3-8485-6e998d8e7dfd",
+      "localPath": "public/assets/prompt_2033508e6133070cf3b9/726ad19a0476.jpg",
+      "alt": "image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_037c2d2775dd2890",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/11180e5f-430e-4706-bd03-9c09becf36be",
+      "upstreamPath": "https://github.com/user-attachments/assets/11180e5f-430e-4706-bd03-9c09becf36be",
+      "localPath": "public/assets/prompt_2033508e6133070cf3b9/2a52cf52b98c.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "comic",
+      "漫画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

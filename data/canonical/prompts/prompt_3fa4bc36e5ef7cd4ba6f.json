@@ -1,0 +1,107 @@
+{
+  "id": "prompt_3fa4bc36e5ef7cd4ba6f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a clean vertical fashion infographic from the uploaded portrait. Preserve the same face identity, hairstyle, body shape, and overall outfit style. Place the full-body character in the center in a relaxed T-pose, facing forward. Surround the character with realistic photo-style outfit breakdown elements, connected by thin arrows.\n\nInclude separate cutout sections for: head details, cardigan, sailor top, inner blouse, plaid skirt, bag, socks, loafers, color palette, styling notes, and fabric texture. Add 3–4 head close-ups from different angles at the top. Use short English handwritten-style labels and concise bullet points.\n\nVisual style: soft pastel cream and blush-pink background, clean fashion board layout, elegant magazine-style composition, sweet preppy aesthetic, realistic fabric textures, delicate borders, small bow and heart doodles, airy and polished design. Keep the text short, readable, and fully in English. Original vertical aspect ratio.\n\nNegative Prompt:\n\nChinese text, long text, messy layout, old parchment background, yellow aged paper, blurry details, distorted face, changed identity, extra limbs, bad hands, duplicated body, unrealistic fabric, cartoon style, anime style, 3D render, watermark, logo, unreadable typography, overcrowded design, harsh colors, low resolution.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"中国生肖主题角色信息图表海报\",\"format\":\"竖版海报\",\"aspect_ratio\":\"3:4\",\"style\":\"柔和粉彩编辑风格信息图表，融合动漫时尚摄影，柔和魔法元素，优雅星座设计，高级杂志版面\",\"background\":{\"color\":\"暖象牙色\",\"border\":\"细装饰性金色边框，带有小型装饰角和小闪光点\",\"top_right_motif\":\"大型淡雅风元素漩涡装饰\"},\"title_block\":{\"headline\":\"十二星座角色清单|风象星座\",\"subheadline\":\"灵活・交流・思辨\",\"alignment\":\"顶部居中\",\"headline_color\":\"深饱和度蓝色\",\"subheadline_color\":\"柔和金色\"},\"subject\":{\"count\":3,\"description\":\"同一位年轻东亚女性作为基础角色出现在三个独立的星座面板中，每个面板从大腿上方到腰部上方展示，留有深色长发和柔和的女性风格，正面拍摄并融入粉彩星座背景插画\"},\"layout\":{\"sections\":[{\"title\":\"双子座 Gemini\",\"position\":\"顶部面板\",\"count\":1,\"theme_color\":\"黄油黄和奶油色\",\"zodiac_symbol\":\"左侧圆形内的双子座符号\",\"constellation\":\"右上角的小双子座星座\",\"character_pose\":\"俏皮地在脸旁举起双V字手势\",\"outfit\":\"淡黄色开衫配白色针织露脐上衣，浅色下装，黄色腰带，精致项链\",\"background_motifs_count\":4,\"background_motifs\":[\"对话气泡图标\",\"闪光\",\"曲线流动线条\",\"柔和圆点\"],\"text_items_count\":6,\"text_items\":[\"元素:风\",\"概念:信息玩家,灵感跳接\",\"性格:机灵、善聊、多变\",\"行动原则:先交流,再快速转向\",\"恋爱倾向:喜欢有趣互动与脑力火花\",\"人际怪癖:话题切换速度快到像开分页\"]},{\"title\":\"天秤座 Libra\",\"position\":\"中间面板\",\"count\":1,\"theme_color\":\"腮红粉和淡薰衣草色\",\"zodiac_symbol\":\"左侧圆形内的天秤座符号\",\"constellation\":\"右上角的小天秤座星座\",\"character_pose\":\"一只手张开手掌举起仿佛展示平衡，另一只手优雅地放在下巴附近做思考姿势\",\"outfit\":\"粉色西装外套搭在肩上，淡粉蓝色裹身裙，珠宝腰带，耳环，项链，手镯\",\"background_motifs_count\":4,\"background_motifs\":[\"天平插画\",\"流动的丝带状漩涡\",\"闪光\",\"柔和渐变薄雾\"],\"text_items_count\":6,\"text_items\":[\"元素:风\",\"概念:关系设计师,追求平衡\",\"性格:优雅、圆融、审美强\",\"行动原则:先衡量,再找最顺解法\",\"恋爱倾向:重氛围与互相体面\",\"人际怪癖:选太久,但又很会照顾场面\"]},{\"title\":\"水瓶座 Aquarius\",\"position\":\"底部面板\",\"count\":1,\"theme_color\":\"薰衣草色、冰蓝色和银色\",\"zodiac_symbol\":\"左侧圆形内的水瓶座符号\",\"constellation\":\"右上角的小水瓶座星座\",\"character_pose\":\"手持并倾斜一个未来感透明容器，发光的水状能量以循环流的形式倾泻而出\",\"outfit\":\"金属银色露脐上衣和短裙套装，搭配半透明彩虹色夹克，未来感肩带，反光配饰\",\"background_motifs_count\":4,\"background_motifs\":[\"发光圆形能量环\",\"星座连线\",\"闪光\",\"光迹\"],\"text_items_count\":6,\"text_items\":[\"元素:风\",\"概念:未来观察员,规则改革者\",\"性格:独立、理想派、脑洞大\",\"行动原则:先思考原理,再另辟路线\",\"恋爱倾向:重精神共鸣,也需要个人空间\",\"人际怪癖:忽冷忽热,其实是在充电\"]}],\"panel_count\":3},\"typography\":{\"languages\":[\"繁体中文\",\"英文名称\"],\"headline_font\":\"优雅高对比度衬线字体\",\"body_font\":\"清晰易读的中文字体混合衬线或无衬线字体\",\"zodiac_english\":\"斜体书法衬线字体\"},\"visual_rules\":{\"each_panel_has\":8,\"panel_elements\":[\"左侧星座符号徽章\",\"中左角色\",\"右侧文本块\",\"英文名称\",\"小星座\",\"粉彩背景插画\",\"细面板边框\",\"6个带图标的子弹式信息行\"],\"spacing\":\"宽边距和对称对齐\",\"render_quality\":\"高分辨率，清晰打印就绪的信息图表\"}}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:20:39.869Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Outfit Breakdown Chart",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "风象星座性格海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:19:58.922Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Shinning1010/status/2051230882069901713",
+      "originalId": "case-126",
+      "authors": [
+        {
+          "name": "Shinning1010",
+          "url": "https://x.com/Shinning1010"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 880
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ef00334b193de9ce",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case126/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case126/output.jpg",
+      "localPath": "public/assets/prompt_3fa4bc36e5ef7cd4ba6f/1323eac838d6.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "anime",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

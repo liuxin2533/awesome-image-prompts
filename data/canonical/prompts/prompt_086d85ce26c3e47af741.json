@@ -1,0 +1,108 @@
+{
+  "id": "prompt_086d85ce26c3e47af741",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "AI智能眼镜电商详情图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "AI smart glasses e-commerce detail image",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "电商商品展示图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "E-commerce product display image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:44:15.441Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_40bdfeb555",
+      "value": "电商商品展示图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-192",
+      "originalId": "case-192",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046544209117634735"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 692
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046544209117634735)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_baae37955e03a2a6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case192.jpg",
+      "upstreamPath": "../data/images/case192.jpg",
+      "localPath": "public/assets/prompt_086d85ce26c3e47af741/2c2a651270a8.jpg",
+      "alt": "未来科技感AI智能眼镜详情页",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

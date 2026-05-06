@@ -1,0 +1,128 @@
+{
+  "id": "prompt_5d9931a8de031e9ec5dc",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A whimsical anime fairytale illustration of {argument name=\"character name\" default=\"Rapunzel\"} leaning out from a high stone tower window, viewed from outside at a slightly elevated angle. She wears a soft lavender medieval-inspired princess dress with puff sleeves, white lace trim, and a fitted bodice, plus a pink-and-white bunny ear headband. Her extremely long {argument name=\"hair color\" default=\"dark brown\"} hair is styled into a single enormous thick braid that spills over the windowsill and drops straight down the full height of the image. A small fluffy white rabbit sits on her right shoulder, adding a cute fantasy touch. The tower is pale beige stone with a rounded balcony-like window ledge, an arched opening, deep purple interior curtains, and green ivy climbing around the walls and window frame. In the background, show a bright sunlit storybook landscape with a vivid blue sky, scattered white clouds, rolling green hills, a winding river, a stone bridge with 3 arches, and a distant European-style town with a castle or cathedral. The mood is triumphant, charming, and magical, like a polished high-end fantasy anime key visual. Detailed painterly rendering, soft natural daylight, clean linework, gentle atmospheric perspective, lush foliage, elegant composition, vertical format.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Anime Rapunzel Tower Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Anime Rapunzel Tower Scene",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Anime Rapunzel Tower Scene",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Anime Rapunzel Tower Scene",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Anime Rapunzel Tower Scene",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Anime Rapunzel Tower Scene",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A polished fantasy anime illustration of a Rapunzel-like princess with an extremely long braid leaning from an ivy-covered tower above a scenic river valley, ideal for fairytale-themed character art or storybook visuals.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/masukarasulove/status/2048888925352288465#reversed-0",
+      "originalId": "https://x.com/masukarasulove/status/2048888925352288465#reversed-0",
+      "authors": [
+        {
+          "name": "さつき＠AIお絵描き(うさぎ好き）",
+          "url": "https://x.com/masukarasulove"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3387
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_20514b66b8662c53",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367348035_d0q7fw_HG8dbSAacAAV452.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367348035_d0q7fw_HG8dbSAacAAV452.jpg",
+      "localPath": "public/assets/prompt_5d9931a8de031e9ec5dc/6f0b8eb64509.jpg",
+      "alt": "Comic / Storyboard - Anime Rapunzel Tower Scene - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.125Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

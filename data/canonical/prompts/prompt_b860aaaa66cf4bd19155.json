@@ -1,0 +1,107 @@
+{
+  "id": "prompt_b860aaaa66cf4bd19155",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成抖音直播间界面，内容是一个美女在直播",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a TikTok live stream interface, the content is a beautiful woman live streaming",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "抖音美女直播间界面设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "TikTok beauty live streaming room interface design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:18:46.024Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e00384f50d",
+      "value": "抖音美女直播间界面设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-288",
+      "originalId": "case-288",
+      "authors": [
+        {
+          "name": "msjiaozhu",
+          "url": "https://x.com/msjiaozhu/status/2045470160576999812"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3593
+        }
+      ],
+      "rawSource": "[@msjiaozhu](https://x.com/msjiaozhu/status/2045470160576999812)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ef0ca0231648d300",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case288.jpg",
+      "upstreamPath": "../data/images/case288.jpg",
+      "localPath": "public/assets/prompt_b860aaaa66cf4bd19155/1aae590749ea.jpg",
+      "alt": "抖音美女直播间界面设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "interface",
+      "界面",
+      "抖音"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.599Z"
+  }
+}

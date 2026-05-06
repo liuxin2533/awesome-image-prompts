@@ -1,0 +1,97 @@
+{
+  "id": "prompt_ea1be5433a7c8b0a9d76",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Un póster publicitario surrealista de alta costura para Aguardiente Amarillo. La escena se sitúa en un estudio minimalista y monocromático de color naranja claro, con un suelo semirreflectante.\nEl foco central es una botella de Aguardiente Amarillo de tamaño descomunal y gigante, colocada en ángulo diagonal y que sirve como respaldo. Un modelo masculino de moda, de cabello largo y oscuro, vestido con un conjunto impecable y totalmente blanco —compuesto por una sudadera y pantalones de pierna ancha—, apoya toda su espalda contra la botella gigante en una postura relajada e inclinada. Mira hacia la derecha, de perfil, con la vista al frente y una expresión serena; calza zapatillas blancas de tamaño estándar.\nEn el fondo, la palabra \"AGUARDIENTE\" aparece escrita con una tipografía sans-serif condensada, blanca, masiva y en negrita, parcialmente oculta por la botella gigante y por el modelo para crear una sensación de profundidad. En la esquina superior derecha se lee: \"Creado por @HMontilla_\".\nEn la parte inferior central, una frase publicitaria en tipografía sans-serif blanca reza: \"El Aguardiente Amarillo de Manzanares es un icónico licor colombiano, originario de 1885 en Manzanares, Caldas\". La iluminación es suave, fría y uniforme, proyectando sombras tenues y un reflejo sutil de los sujetos sobre el suelo azul brillante. La estética general es limpia, moderna y de alto concepto.\n\nEstablecer la relación de aspecto en 3:4.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个为阿瓜迪恩特·阿玛里奥（Aguardiente Amarillo）设计的超现实主义高级时装海报。场景设置在一个简约的单色工作室，采用浅橙色，地面为半反光材质。\n焦点是一个巨大的阿瓜迪恩特·阿玛里奥酒瓶，呈对角线放置，用作靠背。一位时尚男模特，留着深色长发，穿着一套完美无瑕的全白色服装——包括一件连帽衫和宽松的阔腿裤——以放松倾斜的姿态将整个背部靠在巨大的酒瓶上。他向右看，侧脸，目光向前，表情平静；脚穿标准尺寸的白色运动鞋。\n背景中，\"AGUARDIENTE\"一词以紧凑的白色粗体无衬线字体书写，部分被巨大的酒瓶和模特遮挡，以营造深度感。右上角显示：\"由 @HMontilla_ 创作\"。\n中央底部，一条白色无衬线字体的广告语写道：\"马纳雷斯黄阿瓜迪恩特是一种标志性的哥伦比亚烈酒，起源于1885年的卡尔达斯省马纳雷斯\"。照明柔和、冷调且均匀，在明亮的蓝色地面上投射出淡淡的阴影和主体微妙的倒影。整体美学风格简洁、现代且概念性强。\n\n设置宽高比为3:4。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:21:48.441Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Surrealist Liquor Brand High Fashion Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超现实主义的酒类品牌高级时尚海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:21:36.003Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/hmontilla_/status/2047884126343032995",
+      "originalId": "case-75",
+      "authors": [
+        {
+          "name": "hmontilla_",
+          "url": "https://x.com/hmontilla_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 996
+        }
+      ]
+    }
+  ],
+  "assets": [],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "brand",
+      "品牌",
+      "标志"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

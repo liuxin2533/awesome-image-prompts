@@ -1,0 +1,74 @@
+{
+  "id": "prompt_9f981035481833f20b1e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "[エリア]の観光エリアマップを画像で作成して",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "明洞旅游区域地图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_8e610d40fe",
+      "value": "明洞旅游区域地图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-369",
+      "originalId": "case-369",
+      "authors": [
+        {
+          "name": "so_ainsight",
+          "url": "https://x.com/so_ainsight/status/2050354639036654048"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6697
+        }
+      ],
+      "rawSource": "[@so\\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_45491d850f35d806",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case369.jpg",
+      "upstreamPath": "../data/images/case369.jpg",
+      "localPath": "public/assets/prompt_9f981035481833f20b1e/46857ebbe2a1.jpg",
+      "alt": "明洞旅游区域地图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.866Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:06:54.921Z"
+  }
+}

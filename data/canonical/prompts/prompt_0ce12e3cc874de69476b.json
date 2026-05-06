@@ -1,0 +1,176 @@
+{
+  "id": "prompt_0ce12e3cc874de69476b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a cinematic dark anime action illustration of {argument name=\"character name\" default=\"a young blonde female operative\"} vaulting over a tall chain-link security fence topped with barbed wire during a heavy nighttime rainstorm. She has short messy {argument name=\"hair color\" default=\"blonde\"} hair tied into a small low side ponytail, a tense athletic body, and a determined covert-ops posture; her face is obscured in shadow. She wears a black sleeveless tank top, black tactical shorts, black combat boots, and a simple wristband. Her right arm is stretched backward holding a compact black handgun, her left hand grips the top rail of the fence, one knee is raised high over the wire, and the other leg extends downward as she climbs across. Set the scene at {argument name=\"location\" default=\"a guarded military compound\"} with a dark watchtower on the left, glowing square floodlights, wet metal railings, distant industrial silhouettes, and a stormy cloud-filled sky. Use dramatic low-angle composition, wide cinematic framing, diagonal fence lines, rain streaks, wet reflections, cold blue-gray lighting, high contrast shadows, gritty suspenseful atmosphere, detailed anime line art, realistic proportions, dynamic motion, and a tense espionage prologue mood.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一幅电影级暗黑动漫动作插画，描绘 {argument name=\"character name\" default=\"一位金发年轻女特工\"} 在深夜暴雨中翻越顶部带有铁丝网的高大链式安全围栏。她留着凌乱的短 {argument name=\"hair color\" default=\"金色\"} 发，扎成一个低侧马尾，拥有紧致的运动型身材和坚定的隐蔽行动姿态；她的脸部隐没在阴影中。她身穿黑色无袖背心、黑色战术短裤、黑色作战靴，并佩戴着简单的腕带。她的右臂向后伸展，握着一把紧凑型黑色手枪，左手抓着围栏顶部的横杆，一只膝盖高高抬起越过铁丝网，另一条腿向下伸展，正在翻越围栏。场景设定在 {argument name=\"location\" default=\"一个守卫森严的军事基地\"}，左侧有一座黑暗的瞭望塔，闪烁着方形泛光灯，金属栏杆湿漉漉的，远处是工业建筑的剪影，天空乌云密布，暴雨倾盆。采用戏剧性的低角度构图、宽银幕电影画幅、对角线围栏线条、雨丝效果、湿润的倒影、冷蓝灰色调照明、高对比度阴影、充满悬疑感的粗犷氛围、细腻的动漫线条、逼真的比例、动态的动作感以及紧张的谍战序幕氛围。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una ilustración de acción de anime oscuro y cinematográfico de {argument name=\"character name\" default=\"una joven agente rubia\"} saltando sobre una cerca de seguridad alta de malla ciclónica rematada con alambre de púas durante una intensa tormenta nocturna. Tiene el cabello corto y alborotado de color {argument name=\"hair color\" default=\"rubio\"} atado en una pequeña coleta baja de lado, un cuerpo atlético y tenso, y una postura decidida de operaciones encubiertas; su rostro está oculto en la sombra. Viste una camiseta negra sin mangas, pantalones cortos tácticos negros, botas de combate negras y una muñequera sencilla. Su brazo derecho está estirado hacia atrás sosteniendo una pistola negra compacta, su mano izquierda se agarra del riel superior de la cerca, una rodilla está levantada por encima del alambre y la otra pierna se extiende hacia abajo mientras trepa. Ubica la escena en {argument name=\"location\" default=\"un complejo militar vigilado\"} con una torre de vigilancia oscura a la izquierda, reflectores cuadrados brillantes, barandillas de metal mojadas, siluetas industriales distantes y un cielo tormentoso lleno de nubes. Utiliza una composición dramática de ángulo bajo, encuadre cinematográfico amplio, líneas diagonales de la cerca, estelas de lluvia, reflejos húmedos, iluminación fría en tonos azul grisáceo, sombras de alto contraste, una atmósfera de suspenso crudo, arte lineal de anime detallado, proporciones realistas, movimiento dinámico y un ambiente tenso de prólogo de espionaje.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine filmreife, düstere Anime-Action-Illustration von {argument name=\"character name\" default=\"einer jungen blonden Agentin\"}, die während eines nächtlichen Starkregens über einen hohen Maschendrahtzaun mit Stacheldrahtkante springt. Sie hat kurzes, zerzaustes {argument name=\"hair color\" default=\"blondes\"} Haar, das zu einem kleinen, tiefen seitlichen Pferdeschwanz gebunden ist, einen angespannten, athletischen Körper und eine entschlossene Haltung für verdeckte Operationen; ihr Gesicht liegt im Schatten. Sie trägt ein schwarzes ärmelloses Tanktop, eine schwarze taktische Shorts, schwarze Kampfstiefel und ein schlichtes Armband. Ihr rechter Arm ist nach hinten gestreckt und hält eine kompakte schwarze Handfeuerwaffe, ihre linke Hand umklammert die Oberkante des Zauns, ein Knie ist hoch über den Draht gezogen, während das andere Bein beim Überklettern nach unten gestreckt ist. Platziere die Szene an {argument name=\"location\" default=\"einem bewachten Militärgelände\"} mit einem dunklen Wachturm auf der linken Seite, leuchtenden quadratischen Flutlichtern, nassen Metallgeländern, entfernten industriellen Silhouetten und einem stürmischen, wolkenverhangenen Himmel. Verwende eine dramatische Froschperspektive, einen weiten filmischen Bildausschnitt, diagonale Zaunlinien, Regenschlieren, nasse Reflexionen, kaltes blaugraues Licht, kontrastreiche Schatten, eine düstere, spannungsgeladene Atmosphäre, detaillierte Anime-Linienführung, realistische Proportionen, dynamische Bewegung und die Stimmung eines spannenden Spionage-Prologs.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une illustration d'action anime sombre et cinématographique de {argument name=\"character name\" default=\"une jeune opératrice blonde\"} sautant par-dessus une haute clôture de sécurité en grillage surmontée de barbelés pendant une forte tempête nocturne. Elle a des cheveux courts et ébouriffés de couleur {argument name=\"hair color\" default=\"blonde\"} attachés en une petite queue de cheval basse sur le côté, un corps athlétique tendu et une posture déterminée d'opérations secrètes ; son visage est dissimulé dans l'ombre. Elle porte un débardeur noir sans manches, un short tactique noir, des bottes de combat noires et un simple bracelet. Son bras droit est étendu vers l'arrière, tenant une arme de poing noire compacte, sa main gauche agrippe le rail supérieur de la clôture, un genou est levé haut au-dessus du fil barbelé et l'autre jambe est tendue vers le bas alors qu'elle franchit l'obstacle. Situez la scène dans {argument name=\"location\" default=\"un complexe militaire surveillé\"} avec une tour de guet sombre sur la gauche, des projecteurs carrés lumineux, des garde-corps en métal mouillé, des silhouettes industrielles au loin et un ciel orageux rempli de nuages. Utilisez une composition en contre-plongée dramatique, un cadrage cinématographique large, des lignes de clôture diagonales, des traînées de pluie, des reflets humides, un éclairage bleu-gris froid, des ombres à fort contraste, une atmosphère de suspense granuleuse, un art linéaire anime détaillé, des proportions réalistes, un mouvement dynamique et une ambiance de prologue d'espionnage tendue.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'illustrazione d'azione in stile dark anime cinematografico di {argument name=\"character name\" default=\"una giovane agente bionda\"} che scavalca un'alta recinzione di sicurezza in rete metallica sormontata da filo spinato durante un forte temporale notturno. Ha capelli corti e spettinati di colore {argument name=\"hair color\" default=\"biondo\"} legati in una piccola coda di cavallo laterale bassa, un corpo atletico teso e una postura determinata da operazione segreta; il suo volto è oscurato dall'ombra. Indossa una canotta nera senza maniche, pantaloncini tattici neri, stivali da combattimento neri e un semplice braccialetto. Il suo braccio destro è teso all'indietro e impugna una pistola nera compatta, la mano sinistra afferra il bordo superiore della recinzione, un ginocchio è sollevato sopra il filo spinato e l'altra gamba è estesa verso il basso mentre scavalca. Ambienta la scena presso {argument name=\"location\" default=\"un complesso militare sorvegliato\"} con una torre di guardia scura sulla sinistra, proiettori quadrati luminosi, ringhiere metalliche bagnate, sagome industriali in lontananza e un cielo tempestoso e nuvoloso. Utilizza una composizione drammatica dal basso, un'inquadratura cinematografica ampia, linee diagonali della recinzione, strisce di pioggia, riflessi sul bagnato, illuminazione fredda blu-grigia, ombre ad alto contrasto, un'atmosfera cruda e carica di suspense, dettagliata line art in stile anime, proporzioni realistiche, movimento dinamico e un tono da prologo di spionaggio ricco di tensione.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma ilustração de ação em estilo anime sombrio e cinematográfico de {argument name=\"character name\" default=\"uma jovem agente loira\"} saltando sobre uma cerca de arame farpado alta e protegida durante uma forte tempestade noturna. Ela tem cabelos curtos e bagunçados de cor {argument name=\"hair color\" default=\"loira\"} presos em um pequeno rabo de cavalo lateral baixo, um corpo atlético e tenso, e uma postura determinada de operações secretas; seu rosto está obscurecido pela sombra. Ela veste uma regata preta sem mangas, shorts táticos pretos, botas de combate pretas e uma pulseira simples. Seu braço direito está esticado para trás segurando uma pistola preta compacta, sua mão esquerda agarra o trilho superior da cerca, um joelho está levantado acima do arame e a outra perna se estende para baixo enquanto ela escala. Defina a cena em {argument name=\"location\" default=\"um complexo militar vigiado\"} com uma torre de vigia escura à esquerda, holofotes quadrados brilhantes, grades de metal molhadas, silhuetas industriais distantes e um céu tempestuoso cheio de nuvens. Use composição dramática de ângulo baixo, enquadramento cinematográfico amplo, linhas diagonais de cerca, rastros de chuva, reflexos molhados, iluminação azul-acinzentada fria, sombras de alto contraste, atmosfera tensa e realista, arte de linha detalhada em estilo anime, proporções realistas, movimento dinâmico e um clima tenso de prólogo de espionagem.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Rainy Anime Fence Escape",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 雨中动漫风格围栏逃脱",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Escape de anime bajo la lluvia en la cerca",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Anime-Flucht am Zaun bei Regen",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Évasion sous la pluie : style anime",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Fuga oltre la recinzione in stile anime sotto la pioggia",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Fuga na Cerca em Estilo Anime sob Chuva",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic anime-style night infiltration scene featuring an armed operative climbing over a guarded fence in heavy rain.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一幅电影级动漫风格的夜间潜入场景，描绘一名武装特工在暴雨中翻越守卫森严的围栏。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène d'infiltration nocturne cinématographique de style anime, mettant en scène un agent armé escaladant une clôture surveillée sous une pluie battante.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Shadowsync2070s/status/2051436145322659873#reversed-2",
+      "originalId": "https://x.com/Shadowsync2070s/status/2051436145322659873#reversed-2",
+      "authors": [
+        {
+          "name": "Shadow Sync",
+          "url": "https://x.com/Shadowsync2070s"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3249
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_04ea17fe21090470",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971066233_tcehgq_HHgpeHea0AAfckU.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971066233_tcehgq_HHgpeHea0AAfckU.jpg",
+      "localPath": "public/assets/prompt_0ce12e3cc874de69476b/c85c60636999.jpg",
+      "alt": "Comic / Storyboard - Rainy Anime Fence Escape - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.844Z"
+  }
+}

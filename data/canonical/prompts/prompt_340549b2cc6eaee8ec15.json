@@ -1,0 +1,80 @@
+{
+  "id": "prompt_340549b2cc6eaee8ec15",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Edit this image so that total amount changes to 244.5 baht. You can change the quantity of each of the stacks of coins until we hit the target total.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "编辑此图像，使总金额变为244.5泰铢。您可以改变每堆硬币的数量，直到达到目标总额。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:37.947Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Edit this image so that total amount changes to 244.5 baht. You can change th...",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/elliscrosby/status/2047211507596071235",
+      "originalId": "case-42",
+      "authors": [
+        {
+          "name": "elliscrosby",
+          "url": "https://x.com/elliscrosby"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 238
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cd190c2489cf46ef",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case66/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case66/output.jpg",
+      "localPath": "public/assets/prompt_340549b2cc6eaee8ec15/a24ba4546010.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

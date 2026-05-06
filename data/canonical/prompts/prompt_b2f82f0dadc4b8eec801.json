@@ -1,0 +1,108 @@
+{
+  "id": "prompt_b2f82f0dadc4b8eec801",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A vintage, late 90s amateur flash photograph of a young man repairing an arcade machine. He is kneeling on a dark, patterned arcade carpet, looking back over his shoulder directly at the camera with a neutral expression. He wears a dark short-sleeved t-shirt, baggy blue jeans, chunky white sneakers, and a dark baseball cap. The lower front panel of the arcade cabinet is wide open, exposing its complex internal electronics, including a tangle of wires, green circuit boards, a large speaker, and metal cooling fans at the base. The side of the cabinet features vibrant pink, black, and white graphics with the text \"{argument name=\"arcade game title\" default=\"Dancing Stage\"}\" and the brand \"{argument name=\"arcade brand\" default=\"KONAMI\"}\". The setting is a dimly lit arcade interior with other glowing game cabinets visible in the blurred background. A screwdriver lies on the carpet near the man's knee. The image features harsh direct flash lighting, a slightly grainy film texture, deep shadows, and a nostalgic Y2K aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A vintage, late 90s amateur flash photograph of a young man repairing an arcade machine. He is kneeling on a dark, patterned arcade carpet, looking back over his shoulder directly at the camera with a neutral expression. He wears a dark short-sleeved t-shirt, baggy blue jeans, chunky white sneakers, and a dark baseball cap. The lower front panel of the arcade cabinet is wide open, exposing its complex internal electronics, including a tangle of wires, green circuit boards, a large speaker, and metal cooling fans at the base. The side of the cabinet features vibrant pink, black, and white graphics with the text \"{argument name=\"arcade game title\" default=\"Dancing Stage\"}\" and the brand \"{argument name=\"arcade brand\" default=\"KONAMI\"}\". The setting is a dimly lit arcade interior with other glowing game cabinets visible in the blurred background. A screwdriver lies on the carpet near the man's knee. The image features harsh direct flash lighting, a slightly grainy film texture, deep shadows, and a nostalgic Y2K aesthetic.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:16:56.199Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "室内空间渲染图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Interior space rendering",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:16:58.317Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a10052b9de",
+      "value": "室内空间渲染图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-53",
+      "originalId": "case-53",
+      "authors": [
+        {
+          "name": "nicdunz",
+          "url": "https://x.com/nicdunz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1276
+        }
+      ],
+      "rawSource": "[@nicdunz](https://x.com/nicdunz)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_336722f715b2d249",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case53.jpg",
+      "upstreamPath": "../data/images/case53.jpg",
+      "localPath": "public/assets/prompt_b2f82f0dadc4b8eec801/4771e4cd806d.jpg",
+      "alt": "{argument name=",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "interior",
+      "室内",
+      "空间"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "prompt_3ac0939738ffdcb1ce93",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Using the uploaded logo, create a highly detailed, comic-style infographic poster:\n\n“What This Brand Feels Like”\n\nGOAL:\nTurn the brand into a living personality and visually explain how it behaves, speaks, and interacts with the world.\nThis must feel like a mix of: brand strategy + character design + comic storytelling.\n\n---\n\nCORE RULE:\nEverything must come from the logo:\n- colors\n- style\n- tone\n- personality\n\nNo generic personality traits.\n\n---\n\nMAIN STRUCTURE:\nVertical 4:5 poster\nDense layout with multiple panels\nComic + infographic hybrid\n\n---\n\nTOP SECTION:\n- Brand name\n- Short personality statement (max 6 words)\nExample: “Quiet confidence with sharp edges”\n\n---\n\nMAIN CHARACTER (VERY IMPORTANT):\nCreate a central character representing the brand:\n- humanized version of the brand\n- outfit reflects brand style\n- posture + expression reflect personality\n\n---\n\nAROUND THE CHARACTER:\nCreate 6–8 comic panels showing how the brand behaves in different situations.\n\n---\n\nSCENARIO IDEAS:\n- Talking to customers\n- Handling competition\n- Selling a product\n- Social media presence\n- Reacting to criticism\n- Daily “brand life” moment\n\n---\n\nFOR EACH PANEL:\nInclude:\n- short caption (max 6 words)\n- speech bubble or internal thought\n- clear visual action\n\n---\n\nTONE EXAMPLES:\nLuxury brand: calm, confident, minimal speech\nPlayful brand: loud, chaotic, expressive\nTech brand: precise, logical, clean\n\n---\n\nPERSONALITY TRAITS SECTION:\nAdd small labeled blocks:\n- Voice tone (e.g. calm, bold, playful)\n- Energy level (low / medium / high)\n- Social behavior (introvert / extrovert)\n- Communication style\n\nUse:\n- icons\n- short labels\n\n---\n\nDO / DON’T SECTION:\nAdd a split block:\nDO:\n- how the brand should act\nDON’T:\n- what breaks the identity\n\nKeep:\n- very short phrases\n\n---\n\nVISUAL ELEMENTS:\n- speech bubbles\n- icons\n- arrows\n- small reactions\n- exaggerated comic expressions\n\n---\n\nSTYLE:\n- comic + editorial hybrid\n- slightly exaggerated but still premium\n- expressive but not childish\n\n---\n\nCOLOR:\n- strictly based on logo palette\n- use color to reinforce personality\n\n---\n\nDEPTH:\n- 20–40 visual elements\n- multiple small panels\n- layered composition\n\n---\n\nIMPORTANT RULES:\n- must feel alive\n- must feel specific\n- no generic marketing words\n- no empty areas\n- keep text short but impactful\n\n---\n\nFINAL FEEL:\nLike:\n- a brand strategy turned into a character\n- a visual storytelling board\n- something people save and study\n\nNOT:\n- flat\n- generic\n- minimal",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "品牌人格漫画信息图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_2d47197412",
+      "value": "品牌人格漫画信息图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-379",
+      "originalId": "case-379",
+      "authors": [
+        {
+          "name": "CallumGrey",
+          "url": "https://x.com/CallumGrey/status/2051293342139584922"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6934
+        }
+      ],
+      "rawSource": "[@CallumGrey](https://x.com/CallumGrey/status/2051293342139584922) / [PhotoGPT prompt](https://www.photogptai.com/community-gallery/media/0d2fcf15-6ab2-48d3-04b3-71f58b296000)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_15b981786a5c9523",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case379.jpg",
+      "upstreamPath": "../data/images/case379.jpg",
+      "localPath": "public/assets/prompt_3ac0939738ffdcb1ce93/49da02e30b94.jpg",
+      "alt": "品牌人格漫画信息图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "identity",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.907Z"
+  }
+}

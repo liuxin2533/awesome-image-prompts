@@ -1,0 +1,257 @@
+{
+  "id": "prompt_f20b5c4331aaccf30bdb",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Theme: \\\"77 (cat's name) X KFC\\\" collaboration poster. Generate a collaboration poster featuring the same pet (absolutely consistent in appearance and coloring) with KFC brand identity (red-and-white color scheme, classic logo, restaurant scenes, etc.). Have the cat wear a KFC employee uniform, KFC employee hat, and name badge while standing at the counter, selling fried chicken, burgers, and combo meals, and interacting with chicken buckets, fries, soda, and other brand elements. The style should be lively and fun with a commercial co-branding feel, suitable for online promotion and event posters. Add appropriate Chinese copy freely for the poster.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "主题：“77（猫的名字）X KFC” 联名海报。生成一张联名海报，主角是同一只宠物（外观与毛色必须绝对一致），并融入 KFC 品牌识别元素（红白配色、经典 Logo、餐厅场景等）。让这只猫穿着 KFC 员工制服、员工帽和名牌，站在柜台前售卖炸鸡、汉堡和套餐，并与全家桶、薯条、可乐等品牌元素互动。整体风格应活泼有趣，具有商业联名感，适合线上宣传和活动海报。海报文案中的中文内容可以自由发挥添加。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "主題為「77（貓的名字）X KFC」聯名海報。生成一張以同一隻寵物為主角的聯名海報，外觀與毛色必須完全一致，並融入 KFC 品牌識別（紅白配色、經典 Logo、餐廳場景等）。讓這隻貓穿上 KFC 員工制服、帽子與名牌，站在櫃檯前販售炸雞、漢堡與套餐，並與全家桶、薯條、汽水等品牌元素互動。整體要活潑有趣、具商業聯名感，適合線上宣傳與活動海報，可自由加入適當的中文文案。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "テーマ: \"77 (cat's name) X KFC\" collaboration poster。同じペット（見た目と毛色が完全一致）を主役にし、KFC ブランドのアイデンティティ（赤白配色、クラシックロゴ、店舗シーンなど）を取り入れたコラボポスターを生成する。猫には KFC の制服、帽子、名札を着けさせ、カウンターに立ってフライドチキン、バーガー、セットメニューを売らせる。チキンバケツ、フライドポテト、ソーダなどのブランド要素とも相互作用させる。全体は活気があり楽しい商業コラボ風で、オンライン宣伝やイベントポスターに適したものにする。ポスターに入れる中国語コピーは適切に自由追加してよい。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "\"77 (cat's name) X KFC\" 콜라보 포스터. 같은 고양이의 외모와 색을 완전히 일치시키고, KFC의 빨강-흰색, 로고, 매장 장면을 넣는다. 고양이는 KFC 직원 유니폼과 모자를 쓰고 카운터에서 치킨, 버거, 세트를 판매하며 버킷, 감자튀김, 소다와 상호작용한다. 전체는 활기차고 상업적인 콜라보 포스터 느낌이어야 하며, 중국어 카피는 자유롭게 추가할 수 있다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Thème \"77 (cat's name) X KFC\". Génère une affiche de collaboration montrant exactement le même animal avec l'identité de marque KFC, son uniforme, son comptoir, du poulet frit, des burgers, des frites, des sodas et d'autres éléments de marque. Le ton doit être ludique et commercial, avec possibilité d'ajouter librement du texte chinois sur l'affiche.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Thema \"77 (cat's name) X KFC\". Erzeuge ein Kooperationsposter mit demselben Haustier in exakt gleichem Aussehen und Fell, kombiniert mit der Markenidentität von KFC. Die Katze trägt Uniform, Kappe und Namensschild und interagiert mit Theke, Chicken Buckets, Pommes und Softdrinks. Chinesischer Postertext kann frei ergänzt werden.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Tema \"77 (cat's name) X KFC\". Genera un póster de colaboración con la misma mascota, exactamente igual en apariencia y color, integrado con la identidad visual de KFC. El gato lleva uniforme, gorra y credencial de KFC, y aparece vendiendo pollo frito, hamburguesas y combos, interactuando con cubos de pollo, patatas fritas y refrescos. Se puede añadir libremente texto chino apropiado al póster.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Pet Brand Collaboration Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "宠物品牌联名海报",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "寵物品牌聯名海報",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ペットブランドコラボポスター",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "반려동물 브랜드 콜라보 포스터",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche de collaboration de marque avec animal",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Brand-Collab-Poster mit Haustier",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster de colaboración de marca con mascota",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "image-editing-style-transfer",
+      "value": "🖼️ Image Editing & Style Transfer",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_abc0b5168a",
+      "value": "🖼️ 图像编辑与风格迁移",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_a5072471ca",
+      "value": "🖼️ 圖像編輯與風格轉換",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_128b98af07",
+      "value": "🖼️ 画像編集・スタイル変換",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_c146b78b18",
+      "value": "🖼️ 이미지 편집과 스타일 전이",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "edition-d-image-et-transfert-de-style",
+      "value": "🖼️ Édition d'image et transfert de style",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "bildbearbeitung-und-stiltransfer",
+      "value": "🖼️ Bildbearbeitung und Stiltransfer",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "edicion-de-imagen-y-transferencia-de-estilo",
+      "value": "🖼️ Edición de imagen y transferencia de estilo",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://github.com/ZeroLu/awesome-gpt-image",
+      "originalId": "https://github.com/user-attachments/assets/7efff353-b76b-4986-9894-24823e630dd7|https://github.com/user-attachments/assets/7890dfd3-53d7-4630-99dd-63afe574142c|https://github.com/user-attachments/assets/11ad8953-e7dd-45f9-8529-e121bc487f3a",
+      "authors": [],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1004
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 837
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 626
+        },
+        {
+          "file": "README:ja",
+          "line": 835
+        },
+        {
+          "file": "README:ko",
+          "line": 626
+        },
+        {
+          "file": "README:fr",
+          "line": 626
+        },
+        {
+          "file": "README:de",
+          "line": 626
+        },
+        {
+          "file": "README:es",
+          "line": 626
+        }
+      ],
+      "rawSource": ""
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c0b1743bbb3539e9",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/7efff353-b76b-4986-9894-24823e630dd7",
+      "upstreamPath": "https://github.com/user-attachments/assets/7efff353-b76b-4986-9894-24823e630dd7",
+      "localPath": "public/assets/prompt_f20b5c4331aaccf30bdb/49d35995a3fd.jpg",
+      "alt": "image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_a239ae78bc6cc6a9",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/7890dfd3-53d7-4630-99dd-63afe574142c",
+      "upstreamPath": "https://github.com/user-attachments/assets/7890dfd3-53d7-4630-99dd-63afe574142c",
+      "localPath": "public/assets/prompt_f20b5c4331aaccf30bdb/28c17abc3a62.jpg",
+      "alt": "image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_a2caed6378c335c4",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/11ad8953-e7dd-45f9-8529-e121bc487f3a",
+      "upstreamPath": "https://github.com/user-attachments/assets/11ad8953-e7dd-45f9-8529-e121bc487f3a",
+      "localPath": "public/assets/prompt_f20b5c4331aaccf30bdb/5456fa39abb7.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "identity",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

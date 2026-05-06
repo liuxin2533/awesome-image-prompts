@@ -1,0 +1,177 @@
+{
+  "id": "prompt_f4a8d179b86b1c728799",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"Japanese YouTube thumbnail\",\"style\":\"high-impact flashy growth-marketing thumbnail, dramatic, glossy, fiery, attention-grabbing\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"black with orange fire sparks, glowing particles, light streaks, and lens flare\"},\"headline\":{\"top_text\":\"{argument name=\\\"headline text\\\" default=\\\"最短ルートで到達する方法\\\"}\",\"main_text\":[\"0から\",\"1万人\",\"伸ばす法則\"],\"sub_text\":\"やりがちなNG行動も完全解説\",\"main_text_style\":{\"font\":\"extra bold Japanese display font\",\"colors\":[\"white\",\"glowing orange-gold\"],\"effects\":\"thick black shadow, strong outer glow, metallic heat texture on the orange text, slight distress texture on the white text\"}},\"graphics\":{\"count\":6,\"items\":[{\"type\":\"giant upward arrow\",\"position\":\"top-right sweeping diagonally upward\",\"color\":\"bright orange-gold\",\"effect\":\"intense glow, spark trail\"},{\"type\":\"bar chart\",\"position\":\"right side behind character\",\"count\":4,\"labels\":[\"5,000\",\"7,000\",\"10,000\",\"\"],\"color\":\"orange-gold glow\"},{\"type\":\"lens flare starburst\",\"position\":\"top-left\",\"color\":\"golden orange\"},{\"type\":\"diagonal energy streak\",\"position\":\"bottom-left to center\",\"color\":\"orange\"},{\"type\":\"small spark particles\",\"position\":\"across entire background\",\"color\":\"orange and gold\"},{\"type\":\"small star icon\",\"position\":\"above character head\",\"color\":\"yellow glow\"}]},\"character\":{\"count\":1,\"subject\":\"cute mascot sheep avatar\",\"position\":\"bottom-right\",\"appearance\":{\"body_color\":\"light blue fluffy wool\",\"face\":\"cream white\",\"outline\":\"dark brown line art\",\"expression\":\"calm closed-eye smile\",\"accessories\":\"holding a yellow pointer stick in the right hoof\"}},\"bottom_panels\":{\"count\":3,\"style\":\"black rounded rectangular boxes with bright orange glowing borders\",\"items\":[{\"icon\":\"group of people\",\"text\":\"伸びるアカウントの共通点\",\"position\":\"bottom-left\"},{\"icon\":\"target with arrow\",\"text\":\"0フォロワー期の戦略\",\"position\":\"bottom-center\"},{\"icon\":\"rising bar chart with arrow\",\"text\":\"アルゴリズム攻略法\",\"position\":\"bottom-right\"}]},\"color_palette\":{\"primary\":[\"black\",\"white\",\"orange\",\"gold\"],\"accent\":[\"yellow\",\"light blue\"]},\"composition\":\"oversized central typography dominates the frame, with the largest emphasis on 1万人 and 伸ばす法則, supporting mascot on the right, and three informational callout boxes aligned along the bottom, all designed to look like a viral Japanese social media or YouTube growth tutorial thumbnail\",\"quality\":\"ultra sharp, high contrast, polished thumbnail design, cinematic glow effects\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"日本YouTube缩略图\",\"style\":\"高冲击力的闪亮增长营销缩略图，戏剧性，光泽感，火焰效果，引人注目\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"黑色背景配橙色火花，发光粒子，光线条纹和镜头光晕\"},\"headline\":{\"top_text\":\"{argument name=\\\"headline text\\\" default=\\\"通过最短路径到达的方法\\\"}\",\"main_text\":[\"从0开始\",\"到1万人\",\"增长法则\"],\"sub_text\":\"完全解析常见的错误行为\",\"main_text_style\":{\"font\":\"超粗体日文显示字体\",\"colors\":[\"白色\",\"发光的橙金色\"],\"effects\":\"粗黑色阴影，强烈外发光，橙色文字上的金属热感纹理，白色文字上的轻微磨损纹理\"}},\"graphics\":{\"count\":6,\"items\":[{\"type\":\"巨大的向上箭头\",\"position\":\"右上角对角向上扫\",\"color\":\"明亮的橙金色\",\"effect\":\"强烈发光，火花轨迹\"},{\"type\":\"条形图\",\"position\":\"角色右侧后方\",\"count\":4,\"labels\":[\"5,000\",\"7,000\",\"10,000\",\"\"],\"color\":\"橙金色发光\"},{\"type\":\"镜头光晕星爆\",\"position\":\"左上角\",\"color\":\"金色橙色\"},{\"type\":\"对角能量条纹\",\"position\":\"左下角到中心\",\"color\":\"橙色\"},{\"type\":\"小火花粒子\",\"position\":\"遍布整个背景\",\"color\":\"橙色和金色\"},{\"type\":\"小星星图标\",\"position\":\"角色头部上方\",\"color\":\"黄色发光\"}]},\"character\":{\"count\":1,\"subject\":\"可爱的吉祥物羊头像\",\"position\":\"右下角\",\"appearance\":{\"body_color\":\"浅蓝色蓬松羊毛\",\"face\":\"奶油白色\",\"outline\":\"深棕色线条艺术\",\"expression\":\"平静的闭眼微笑\",\"accessories\":\"右蹄拿着黄色指示棒\"}},\"bottom_panels\":{\"count\":3,\"style\":\"黑色圆角矩形框，带有明亮的橙色发光边框\",\"items\":[{\"icon\":\"人群\",\"text\":\"增长账号的共同点\",\"position\":\"左下角\"},{\"icon\":\"带箭头的目标\",\"text\":\"0粉丝期的策略\",\"position\":\"底部中央\"},{\"icon\":\"带箭头的上升条形图\",\"text\":\"算法攻略法\",\"position\":\"右下角\"}]},\"color_palette\":{\"primary\":[\"黑色\",\"白色\",\"橙色\",\"金色\"],\"accent\":[\"黄色\",\"浅蓝色\"]},\"composition\":\"超大中心字体占据画面，重点突出1万人和增长法则，右侧有辅助吉祥物，底部对齐三个信息提示框，整体设计成病毒式传播的日本社交媒体或YouTube增长教程缩略图\",\"quality\":\"超清晰，高对比度，精致的缩略图设计，电影级发光效果\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:56.512Z"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"Miniatura de YouTube japonesa\",\"style\":\"miniatura de marketing de crecimiento impactante y llamativa, dramática, brillante, ardiente, que capta la atención\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"negro con chispas de fuego naranjas, partículas brillantes, estelas de luz y destellos de lente\"},\"headline\":{\"top_text\":\"{argument name=\\\"headline text\\\" default=\\\"La ruta más rápida para lograrlo\\\"}\",\"main_text\":[\"De 0 a\",\"10,000\",\"seguidores\"],\"sub_text\":\"Explicación completa de los errores comunes a evitar\",\"main_text_style\":{\"font\":\"fuente japonesa extra negrita\",\"colors\":[\"blanco\",\"naranja dorado brillante\"],\"effects\":\"sombra negra gruesa, resplandor exterior intenso, textura de calor metálico en el texto naranja, ligera textura desgastada en el texto blanco\"}},\"graphics\":{\"count\":6,\"items\":[{\"type\":\"flecha gigante hacia arriba\",\"position\":\"arriba a la derecha, diagonal ascendente\",\"color\":\"naranja dorado brillante\",\"effect\":\"resplandor intenso, estela de chispas\"},{\"type\":\"gráfico de barras\",\"position\":\"lado derecho detrás del personaje\",\"count\":4,\"labels\":[\"5,000\",\"7,000\",\"10,000\",\"\"],\"color\":\"resplandor naranja dorado\"},{\"type\":\"destello de lente tipo estrella\",\"position\":\"arriba a la izquierda\",\"color\":\"naranja dorado\"},{\"type\":\"estela de energía diagonal\",\"position\":\"abajo a la izquierda hacia el centro\",\"color\":\"naranja\"},{\"type\":\"pequeñas partículas de chispas\",\"position\":\"en todo el fondo\",\"color\":\"naranja y dorado\"},{\"type\":\"pequeño icono de estrella\",\"position\":\"sobre la cabeza del personaje\",\"color\":\"resplandor amarillo\"}]},\"character\":{\"count\":1,\"subject\":\"avatar de mascota oveja linda\",\"position\":\"abajo a la derecha\",\"appearance\":{\"body_color\":\"lana esponjosa azul claro\",\"face\":\"blanco crema\",\"outline\":\"arte lineal marrón oscuro\",\"expression\":\"sonrisa tranquila con ojos cerrados\",\"accessories\":\"sosteniendo un puntero amarillo en la pezuña derecha\"}},\"bottom_panels\":{\"count\":3,\"style\":\"cajas rectangulares redondeadas negras con bordes brillantes de color naranja\",\"items\":[{\"icon\":\"grupo de personas\",\"text\":\"Puntos en común de cuentas exitosas\",\"position\":\"abajo a la izquierda\"},{\"icon\":\"objetivo con flecha\",\"text\":\"Estrategia para 0 seguidores\",\"position\":\"abajo al centro\"},{\"icon\":\"gráfico de barras ascendente con flecha\",\"text\":\"Cómo dominar el algoritmo\",\"position\":\"abajo a la derecha\"}]},\"color_palette\":{\"primary\":[\"negro\",\"blanco\",\"naranja\",\"dorado\"],\"accent\":[\"amarillo\",\"azul claro\"]},\"composition\":\"tipografía central de gran tamaño que domina el encuadre, con mayor énfasis en 10,000 y seguidores, mascota de apoyo a la derecha y tres cajas informativas alineadas en la parte inferior, todo diseñado para parecer una miniatura viral de tutorial de crecimiento en redes sociales o YouTube japonés\",\"quality\":\"ultra nítida, alto contraste, diseño de miniatura pulido, efectos de resplandor cinematográfico\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"Japanisches YouTube-Thumbnail\",\"style\":\"wirkungsvolles, auffälliges Thumbnail für Wachstumsmarketing, dramatisch, glänzend, feurig, aufmerksamkeitsstark\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"Schwarz mit orangefarbenen Feuerfunken, leuchtenden Partikeln, Lichtstreifen und Lens Flare\"},\"headline\":{\"top_text\":\"{argument name=\\\"headline text\\\" default=\\\"Der schnellste Weg zum Ziel\\\"}\",\"main_text\":[\"Von 0 auf\",\"10.000\",\"Follower wachsen\"],\"sub_text\":\"Vollständige Erklärung der häufigsten Fehler\",\"main_text_style\":{\"font\":\"extra fette japanische Display-Schriftart\",\"colors\":[\"weiß\",\"leuchtendes Orange-Gold\"],\"effects\":\"dicker schwarzer Schatten, starker äußerer Schein, metallische Hitzetextur auf dem orangefarbenen Text, leichte Abnutzungstextur auf dem weißen Text\"}},\"graphics\":{\"count\":6,\"items\":[{\"type\":\"riesiger Pfeil nach oben\",\"position\":\"oben rechts, diagonal nach oben verlaufend\",\"color\":\"helles Orange-Gold\",\"effect\":\"intensives Leuchten, Funkenspur\"},{\"type\":\"Balkendiagramm\",\"position\":\"rechte Seite hinter dem Charakter\",\"count\":4,\"labels\":[\"5.000\",\"7.000\",\"10.000\",\"\"],\"color\":\"orange-goldenes Leuchten\"},{\"type\":\"Lens-Flare-Stern\",\"position\":\"oben links\",\"color\":\"goldenes Orange\"},{\"type\":\"diagonaler Energiestreifen\",\"position\":\"unten links zur Mitte\",\"color\":\"orange\"},{\"type\":\"kleine Funkenpartikel\",\"position\":\"über den gesamten Hintergrund verteilt\",\"color\":\"orange und gold\"},{\"type\":\"kleines Sternsymbol\",\"position\":\"über dem Kopf des Charakters\",\"color\":\"gelbes Leuchten\"}]},\"character\":{\"count\":1,\"subject\":\"niedlicher Maskottchen-Schaf-Avatar\",\"position\":\"unten rechts\",\"appearance\":{\"body_color\":\"hellblaue flauschige Wolle\",\"face\":\"cremeweiß\",\"outline\":\"dunkelbraune Linienführung\",\"expression\":\"ruhiges Lächeln mit geschlossenen Augen\",\"accessories\":\"hält einen gelben Zeigestock im rechten Huf\"}},\"bottom_panels\":{\"count\":3,\"style\":\"schwarze abgerundete rechteckige Boxen mit hell leuchtenden orangefarbenen Rändern\",\"items\":[{\"icon\":\"Gruppe von Menschen\",\"text\":\"Gemeinsamkeiten wachsender Accounts\",\"position\":\"unten links\"},{\"icon\":\"Zielscheibe mit Pfeil\",\"text\":\"Strategien für 0 Follower\",\"position\":\"unten mittig\"},{\"icon\":\"steigendes Balkendiagramm mit Pfeil\",\"text\":\"Algorithmus-Strategien\",\"position\":\"unten rechts\"}]},\"color_palette\":{\"primary\":[\"schwarz\",\"weiß\",\"orange\",\"gold\"],\"accent\":[\"gelb\",\"hellblau\"]},\"composition\":\"Übergroße zentrale Typografie dominiert das Bild, mit dem größten Fokus auf 10.000 und Wachstumsregeln, unterstützendes Maskottchen auf der rechten Seite und drei informative Callout-Boxen entlang des unteren Randes, alles gestaltet wie ein virales japanisches Social-Media- oder YouTube-Wachstums-Tutorial-Thumbnail\",\"quality\":\"ultrascharf, hoher Kontrast, poliertes Thumbnail-Design, filmische Leuchteffekte\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"Miniature YouTube japonaise\",\"style\":\"miniature de marketing de croissance percutante et flashy, dramatique, brillante, enflammée, qui attire l'attention\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"noir avec des étincelles de feu orange, des particules lumineuses, des traînées de lumière et un effet de flare\"},\"headline\":{\"top_text\":\"{argument name=\\\"headline text\\\" default=\\\"最短ルートで到達する方法\\\"}\",\"main_text\":[\"De 0 à\",\"10 000\",\"la règle pour croître\"],\"sub_text\":\"Explication complète des erreurs à éviter\",\"main_text_style\":{\"font\":\"police d'affichage japonaise extra grasse\",\"colors\":[\"blanc\",\"or-orange brillant\"],\"effects\":\"ombre noire épaisse, fort halo extérieur, texture métallique chauffée sur le texte orange, légère texture vieillie sur le texte blanc\"}},\"graphics\":{\"count\":6,\"items\":[{\"type\":\"flèche géante vers le haut\",\"position\":\"en haut à droite, balayant en diagonale vers le haut\",\"color\":\"or-orange vif\",\"effect\":\"halo intense, traînée d'étincelles\"},{\"type\":\"graphique à barres\",\"position\":\"côté droit derrière le personnage\",\"count\":4,\"labels\":[\"5 000\",\"7 000\",\"10 000\",\"\"],\"color\":\"halo or-orange\"},{\"type\":\"effet étoile (lens flare)\",\"position\":\"en haut à gauche\",\"color\":\"orange doré\"},{\"type\":\"traînée d'énergie diagonale\",\"position\":\"du bas à gauche vers le centre\",\"color\":\"orange\"},{\"type\":\"petites particules d'étincelles\",\"position\":\"sur tout l'arrière-plan\",\"color\":\"orange et or\"},{\"type\":\"petite icône d'étoile\",\"position\":\"au-dessus de la tête du personnage\",\"color\":\"halo jaune\"}]},\"character\":{\"count\":1,\"subject\":\"avatar de mouton mascotte mignon\",\"position\":\"en bas à droite\",\"appearance\":{\"body_color\":\"laine duveteuse bleu clair\",\"face\":\"blanc crème\",\"outline\":\"art au trait brun foncé\",\"expression\":\"sourire calme les yeux fermés\",\"accessories\":\"tient un pointeur jaune dans le sabot droit\"}},\"bottom_panels\":{\"count\":3,\"style\":\"boîtes rectangulaires noires aux coins arrondis avec des bordures orange vif lumineuses\",\"items\":[{\"icon\":\"groupe de personnes\",\"text\":\"Points communs des comptes qui décollent\",\"position\":\"en bas à gauche\"},{\"icon\":\"cible avec flèche\",\"text\":\"Stratégie pour les 0 abonnés\",\"position\":\"en bas au centre\"},{\"icon\":\"graphique à barres ascendant avec flèche\",\"text\":\"Méthode pour maîtriser l'algorithme\",\"position\":\"en bas à droite\"}]},\"color_palette\":{\"primary\":[\"noir\",\"blanc\",\"orange\",\"or\"],\"accent\":[\"jaune\",\"bleu clair\"]},\"composition\":\"la typographie centrale surdimensionnée domine le cadre, avec une emphase maximale sur 10 000 et la règle pour croître, la mascotte de soutien sur la droite, et trois boîtes d'appel à l'action informatives alignées le long du bas, le tout conçu pour ressembler à une miniature virale de tutoriel de croissance sur les réseaux sociaux ou YouTube au Japon\",\"quality\":\"ultra net, contraste élevé, design de miniature soigné, effets de lumière cinématographiques\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"Miniatura YouTube giapponese\",\"style\":\"miniatura di growth-marketing ad alto impatto, appariscente, drammatica, lucida, infuocata, che cattura l'attenzione\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"nero con scintille di fuoco arancioni, particelle luminose, scie di luce e lens flare\"},\"headline\":{\"top_text\":\"{argument name=\\\"headline text\\\" default=\\\"Il metodo più veloce per arrivarci\\\"}\",\"main_text\":[\"Da 0 a\",\"10 mila\",\"la legge per crescere\"],\"sub_text\":\"Spiegazione completa degli errori da evitare\",\"main_text_style\":{\"font\":\"font display giapponese extra bold\",\"colors\":[\"bianco\",\"arancione-oro brillante\"],\"effects\":\"spessa ombra nera, forte bagliore esterno, texture metallica calda sul testo arancione, leggera texture usurata sul testo bianco\"}},\"graphics\":{\"count\":6,\"items\":[{\"type\":\"freccia gigante verso l'alto\",\"position\":\"in alto a destra che punta diagonalmente verso l'alto\",\"color\":\"arancione-oro brillante\",\"effect\":\"bagliore intenso, scia di scintille\"},{\"type\":\"grafico a barre\",\"position\":\"lato destro dietro il personaggio\",\"count\":4,\"labels\":[\"5.000\",\"7.000\",\"10.000\",\"\"],\"color\":\"bagliore arancione-oro\"},{\"type\":\"effetto lens flare starburst\",\"position\":\"in alto a sinistra\",\"color\":\"oro aranciato\"},{\"type\":\"scia energetica diagonale\",\"position\":\"da in basso a sinistra al centro\",\"color\":\"arancione\"},{\"type\":\"piccole particelle di scintille\",\"position\":\"su tutto lo sfondo\",\"color\":\"arancione e oro\"},{\"type\":\"piccola icona a stella\",\"position\":\"sopra la testa del personaggio\",\"color\":\"bagliore giallo\"}]},\"character\":{\"count\":1,\"subject\":\"avatar mascotte pecora carina\",\"position\":\"in basso a destra\",\"appearance\":{\"body_color\":\"lana soffice azzurro chiaro\",\"face\":\"bianco crema\",\"outline\":\"line art marrone scuro\",\"expression\":\"sorriso calmo a occhi chiusi\",\"accessories\":\"tiene un puntatore giallo nello zoccolo destro\"}},\"bottom_panels\":{\"count\":3,\"style\":\"riquadri rettangolari neri arrotondati con bordi luminosi arancioni\",\"items\":[{\"icon\":\"gruppo di persone\",\"text\":\"Punti comuni degli account in crescita\",\"position\":\"in basso a sinistra\"},{\"icon\":\"bersaglio con freccia\",\"text\":\"Strategia per la fase 0 follower\",\"position\":\"in basso al centro\"},{\"icon\":\"grafico a barre in crescita con freccia\",\"text\":\"Strategie per l'algoritmo\",\"position\":\"in basso a destra\"}]},\"color_palette\":{\"primary\":[\"nero\",\"bianco\",\"arancione\",\"oro\"],\"accent\":[\"giallo\",\"azzurro chiaro\"]},\"composition\":\"tipografia centrale sovradimensionata che domina l'inquadratura, con la massima enfasi su 10 mila e la legge per crescere, mascotte di supporto sulla destra e tre riquadri informativi allineati lungo la parte inferiore, il tutto progettato per apparire come una miniatura virale giapponese per tutorial di crescita su social media o YouTube\",\"quality\":\"ultra nitida, alto contrasto, design della miniatura rifinito, effetti di bagliore cinematografico\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"Thumbnail de YouTube japonês\",\"style\":\"thumbnail de marketing de crescimento chamativa e de alto impacto, dramática, brilhante, ígnea, que atrai a atenção\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"preto com faíscas de fogo laranja, partículas brilhantes, feixes de luz e reflexos de lente\"},\"headline\":{\"top_text\":\"{argument name=\\\"headline text\\\" default=\\\"最短ルートで到達する方法\\\"}\",\"main_text\":[\"De 0 a\",\"10 mil\",\"seguidores\"],\"sub_text\":\"Explicação completa dos erros comuns a evitar\",\"main_text_style\":{\"font\":\"fonte japonesa extra negrito para títulos\",\"colors\":[\"branco\",\"dourado-alaranjado brilhante\"],\"effects\":\"sombra preta espessa, brilho externo intenso, textura metálica de calor no texto laranja, leve textura de desgaste no texto branco\"}},\"graphics\":{\"count\":6,\"items\":[{\"type\":\"seta gigante para cima\",\"position\":\"superior direito, varrendo diagonalmente para cima\",\"color\":\"dourado-alaranjado brilhante\",\"effect\":\"brilho intenso, rastro de faíscas\"},{\"type\":\"gráfico de barras\",\"position\":\"lado direito atrás do personagem\",\"count\":4,\"labels\":[\"5.000\",\"7.000\",\"10.000\",\"\"],\"color\":\"brilho dourado-alaranjado\"},{\"type\":\"efeito starburst de lente\",\"position\":\"superior esquerdo\",\"color\":\"laranja dourado\"},{\"type\":\"faixa de energia diagonal\",\"position\":\"inferior esquerdo para o centro\",\"color\":\"laranja\"},{\"type\":\"pequenas partículas de faíscas\",\"position\":\"por todo o fundo\",\"color\":\"laranja e dourado\"},{\"type\":\"pequeno ícone de estrela\",\"position\":\"acima da cabeça do personagem\",\"color\":\"brilho amarelo\"}]},\"character\":{\"count\":1,\"subject\":\"avatar de ovelha mascote fofa\",\"position\":\"inferior direito\",\"appearance\":{\"body_color\":\"lã fofa azul claro\",\"face\":\"branco creme\",\"outline\":\"arte de linha marrom escuro\",\"expression\":\"sorriso calmo de olhos fechados\",\"accessories\":\"segurando um ponteiro amarelo na pata direita\"}},\"bottom_panels\":{\"count\":3,\"style\":\"caixas retangulares pretas arredondadas com bordas brilhantes em laranja\",\"items\":[{\"icon\":\"grupo de pessoas\",\"text\":\"Pontos em comum de contas que crescem\",\"position\":\"inferior esquerdo\"},{\"icon\":\"alvo com flecha\",\"text\":\"Estratégia para fase de 0 seguidores\",\"position\":\"inferior central\"},{\"icon\":\"gráfico de barras subindo com seta\",\"text\":\"Como dominar o algoritmo\",\"position\":\"inferior direito\"}]},\"color_palette\":{\"primary\":[\"preto\",\"branco\",\"laranja\",\"dourado\"],\"accent\":[\"amarelo\",\"azul claro\"]},\"composition\":\"tipografia central superdimensionada domina o quadro, com maior ênfase em 10 mil e seguidores, mascote de apoio à direita e três caixas de destaque informativo alinhadas na parte inferior, tudo projetado para parecer uma thumbnail viral de tutorial de crescimento em redes sociais ou YouTube japonês\",\"quality\":\"ultra nítido, alto contraste, design de thumbnail polido, efeitos de brilho cinematográfico\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Fiery Japanese Growth Thumbnail",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 火热的日本风格增长缩略图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Miniatura de crecimiento explosivo al estilo japonés",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Feuriges japanisches Thumbnail für Wachstum",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Miniature YouTube sur la croissance fulgurante au Japon",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Miniatura di crescita giapponese infuocata",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Thumbnail de Crescimento Estilo Japonês Vibrante",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A bold Japanese YouTube-style thumbnail for social media growth content, ideal for tutorials about growing an account from zero to ten thousand followers.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个大胆的日本YouTube风格缩略图，用于社交媒体增长内容，非常适合关于从零增长到一万粉丝的教程。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:51.898Z"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une miniature YouTube audacieuse de style japonais pour du contenu sur la croissance des réseaux sociaux, idéale pour des tutoriels sur la manière de faire passer un compte de zéro à dix mille abonnés.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/emi_aifuku/status/2048761642872348947#reversed-1",
+      "originalId": "https://x.com/emi_aifuku/status/2048761642872348947#reversed-1",
+      "authors": [
+        {
+          "name": "えみ｜AI × クライアントワーク",
+          "url": "https://x.com/emi_aifuku"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3046
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_46bd33f45402c332",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367313200_n0p0z3_HG6p2o0acAA0NRJ.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367313200_n0p0z3_HG6p2o0acAA0NRJ.jpg",
+      "localPath": "public/assets/prompt_f4a8d179b86b1c728799/d93bad741e75.jpg",
+      "alt": "YouTube Thumbnail - Fiery Japanese Growth Thumbnail - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "social",
+      "youtube",
+      "thumbnail",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.571Z"
+  }
+}

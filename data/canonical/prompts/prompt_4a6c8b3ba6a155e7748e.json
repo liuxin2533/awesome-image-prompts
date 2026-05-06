@@ -1,0 +1,166 @@
+{
+  "id": "prompt_4a6c8b3ba6a155e7748e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{argument name=\"subject\" default=\"A photo portrait of a Tudor-style young nobleman\"}. Pale blond hair, androgynous features, a quiet gaze. {argument name=\"clothing\" default=\"Black feathered hat, jewel-embroidered black outfit, white lace collar, fur-trimmed cloak\"}. {argument name=\"location\" default=\"Inside a Gothic cathedral, stone pillars and stained glass\"}, soft natural light, a solemn atmosphere, ultra-high definition, cinematic lighting.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Cinematic Tudor Noble Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Cinematic Tudor Noble Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A sophisticated prompt for a cinematic photo portrait of a Tudor-style young nobleman inside a Gothic cathedral with high-end lighting details.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/QrLcuAsc2COtX2h/status/2048758567688421521",
+      "originalId": "https://x.com/QrLcuAsc2COtX2h/status/2048758567688421521",
+      "authors": [
+        {
+          "name": "ドフトボルケ　🇯🇵",
+          "url": "https://x.com/QrLcuAsc2COtX2h"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1019
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_351e08f02955a012",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367280503_qageo7_HG6nDzaakAA_JlR.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367280503_qageo7_HG6nDzaakAA_JlR.jpg",
+      "localPath": "public/assets/prompt_4a6c8b3ba6a155e7748e/0c9adbc6b17f.jpg",
+      "alt": "Profile / Avatar - Cinematic Tudor Noble Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.565Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_835dc275925e4445140c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic wide aerial view of a tropical coastal city at sunset during a violent storm, split dramatically between dark storm clouds on the left and blazing golden sunlight on the right. In the foreground, a small single-engine light airplane with a high wing and visible tail is parked or perched precariously on a flat rooftop, seen from behind and slightly above, centered near the bottom of the frame. To the left midair, 1 helicopter flies low over the city with its searchlight cast downward. In the sky, include 1 faint lightning bolt on the far left. The city below is dense with wet streets, reflective pavement, low-rise commercial buildings, and a few taller modern towers, including 1 prominent striped high-rise near the center. A glowing red circular neon sign is visible near the middle distance. On the right side, a calm bay or inlet curves through the city, lined with 1 row of tall palm trees along the waterfront road, and crossed by 1 long low bridge in the distance. The water and streets glisten from recent rain, reflecting the orange sunlight breaking through the clouds. Mood is tense, dramatic, and slightly surreal, like a movie still from an urban disaster thriller. Photorealistic, ultra-detailed, high dynamic range lighting, volumetric sun rays, storm atmosphere, wet surfaces, rich contrast, deep shadows, golden highlights, wide-angle lens, epic composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影感的广角航拍视角，展现暴风雨期间热带沿海城市日落时分，左侧是黑暗的暴风云，右侧是炽热的金色阳光，形成戏剧性的分割。前景中，一架小型单引擎轻型飞机，高翼设计，尾部可见，危险地停泊或栖息在平坦的屋顶上，从后方和略微上方视角拍摄，位于画面底部中央。左侧半空中，一架直升机低飞掠过城市，探照灯向下投射。天空中，最左侧有一道微弱的闪电。下方的城市密集分布着湿漉的街道、反光的路面、低层商业建筑和几座较高的现代塔楼，包括中心附近一座醒目的条纹高楼。中景处可见一个发光的红色圆形霓虹灯标志。右侧，一个平静的海湾或水道蜿蜒穿过城市，沿滨水道路种植着一排高大的棕榈树，远处横跨着一座长长的低矮桥梁。水和街道因最近的雨水而闪闪发光，反射着穿透云层的橙色阳光。氛围紧张、戏剧化且略超现实，如同都市灾难惊悚片的电影剧照。照片级真实感，超精细细节，高动态范围光照，体积阳光，暴风雨氛围，湿润表面，丰富对比度，深邃阴影，金色高光，广角镜头，史诗级构图。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:36.116Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Stormy Tropical City With Rooftop Plane",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "暴风雨中的热带城市屋顶上的飞机",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:30.878Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Gerry/status/2048303505702629537",
+      "originalId": "case-165",
+      "authors": [
+        {
+          "name": "Gerry",
+          "url": "https://x.com/Gerry"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1577
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7ce1bb7028e1d113",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case165/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case165/output.jpg",
+      "localPath": "public/assets/prompt_835dc275925e4445140c/6b78285192f9.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

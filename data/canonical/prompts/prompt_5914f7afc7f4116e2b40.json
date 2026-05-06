@@ -1,0 +1,106 @@
+{
+  "id": "prompt_5914f7afc7f4116e2b40",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{ 角色名称 } 完全由天然树叶制成，创意树叶拼贴艺术，分层绿叶和干叶构成身体、面部和衣服，可见叶脉和纹理，手工植物艺术风格，干净的白色背景，俯视平铺构图，高度细节，柔和自然光，逼真树叶纹理，8k",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  CHARACTER NAME\n} made entirely from natural leaves,\ncreative leaf collage art,\nlayered green and dry leaves forming body,\nface and clothes,\nvisible leaf veins and textures,\nhandcrafted botanical art style,\nclean white background,\ntop-down flat lay composition,\nhighly detailed,\nsoft natural lighting,\nrealistic leaf textures,\n8k",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "创意树叶拼贴构成的角色画像",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Creative character portrait composed of leaf collage",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:21:16.138Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d60b5898ab",
+      "value": "创意树叶拼贴构成的角色画像",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-309",
+      "originalId": "case-309",
+      "authors": [
+        {
+          "name": "meng_dagg695",
+          "url": "https://x.com/meng_dagg695/status/2032019839070716170"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 4099
+        }
+      ],
+      "rawSource": "[@meng\\_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5d920b4f49d5077d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case309.jpg",
+      "upstreamPath": "../data/images/case309.jpg",
+      "localPath": "public/assets/prompt_5914f7afc7f4116e2b40/932ae0c6ac01.jpg",
+      "alt": "创意树叶拼贴构成的角色画像",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.587Z"
+  }
+}

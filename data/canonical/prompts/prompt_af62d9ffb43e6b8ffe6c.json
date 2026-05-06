@@ -1,0 +1,106 @@
+{
+  "id": "prompt_af62d9ffb43e6b8ffe6c",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "设计虚构动画的钥匙视觉图。主题是「科幻桃太郎」。设计有魅力的角色、背景、标志和宣传语，以一幅美丽插画的形式完成，让世界观在一张图中传达出来。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Design a key visual for a fictional animation. The theme is \"Sci-Fi Momotaro\". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowing the worldview to be conveyed in a single image.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "赛博科幻桃太郎主视觉图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Cyberpunk Sci-Fi Momotaro Main Visual",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:14:43.637Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_f3777685ef",
+      "value": "赛博科幻桃太郎主视觉图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-172",
+      "originalId": "case-172",
+      "authors": [
+        {
+          "name": "SSSS_CRYPTOMAN",
+          "url": "https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 87
+        }
+      ],
+      "rawSource": "[@SSSS\\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f0064b716f79ebad",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case172.jpg",
+      "upstreamPath": "../data/images/case172.jpg",
+      "localPath": "public/assets/prompt_af62d9ffb43e6b8ffe6c/df2ed7bce2fa.jpg",
+      "alt": "赛博科幻桃太郎主视觉图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

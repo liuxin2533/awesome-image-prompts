@@ -1,0 +1,184 @@
+{
+  "id": "prompt_96c9a4d571ac7f78bc91",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Futuristic fashion editorial, full-body side profile of a young woman walking, wearing a {argument name=\"outfit\" default=\"transparent waterproof tracksuit and sneakers\"}, {argument name=\"effect\" default=\"glowing neon green holographic effect\"}, soft smoke trails flowing around her, dark gradient background, cyberpunk aesthetic, ultra-detailed fabric reflections, volumetric lighting, realistic skin and hair, black sunglasses, {argument name=\"branding\" default=\"Nike-inspired sportswear branding\"}, cinematic composition, high contrast, 8k, studio lighting.\n\nStyle keywords:\nholographic glow, neon aura, transparent fabric, motion pose, minimal background, premium ad campaign",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "未来主义时尚大片，年轻女性行走的全身侧影，身穿 {argument name=\"outfit\" default=\"透明防水运动套装和运动鞋\"}，带有 {argument name=\"effect\" default=\"发光的霓虹绿全息效果\"}，柔和的烟雾轨迹环绕其身，深色渐变背景，赛博朋克美学，超精细的面料反射，体积光，逼真的皮肤和头发，黑色墨镜，{argument name=\"branding\" default=\"Nike 风格的运动品牌标识\"}，电影级构图，高对比度，8k 分辨率，影棚灯光。\n\n风格关键词：\n全息光芒，霓虹光晕，透明面料，动态姿势，极简背景，高端广告大片",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Ấn phẩm thời trang tương lai, ảnh chụp toàn thân góc nghiêng của một phụ nữ trẻ đang bước đi, mặc {argument name=\"outfit\" default=\"bộ đồ thể thao chống nước trong suốt và giày thể thao\"}, {argument name=\"effect\" default=\"hiệu ứng hình ảnh ba chiều màu xanh neon rực rỡ\"}, những vệt khói mờ ảo bao quanh, nền tối chuyển màu, thẩm mỹ cyberpunk, chi tiết vải phản chiếu cực kỳ sắc nét, ánh sáng khối, da và tóc chân thực, kính râm đen, {argument name=\"branding\" default=\"thương hiệu đồ thể thao lấy cảm hứng từ Nike\"}, bố cục điện ảnh, độ tương phản cao, 8k, ánh sáng studio.\n\nTừ khóa phong cách:\nánh sáng ba chiều, hào quang neon, vải trong suốt, tư thế chuyển động, nền tối giản, chiến dịch quảng cáo cao cấp",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Editorial de moda futurista, perfil lateral de cuerpo completo de una mujer joven caminando, vistiendo un {argument name=\"outfit\" default=\"conjunto deportivo impermeable transparente y zapatillas\"}, {argument name=\"effect\" default=\"efecto holográfico verde neón brillante\"}, estelas de humo suave fluyendo a su alrededor, fondo degradado oscuro, estética cyberpunk, reflejos de tela ultra detallados, iluminación volumétrica, piel y cabello realistas, gafas de sol negras, {argument name=\"branding\" default=\"marca de ropa deportiva inspirada en Nike\"}, composición cinematográfica, alto contraste, 8k, iluminación de estudio.\n\nPalabras clave de estilo:\nbrillo holográfico, aura de neón, tela transparente, pose en movimiento, fondo minimalista, campaña publicitaria premium",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Futuristisches Mode-Editorial, Ganzkörper-Seitenprofil einer jungen Frau beim Gehen, trägt einen {argument name=\"outfit\" default=\"transparenten, wasserfesten Trainingsanzug und Sneaker\"}, {argument name=\"effect\" default=\"leuchtenden, neongrünen holografischen Effekt\"}, sanfte Rauchschleier um sie herum, dunkler Verlaufs-Hintergrund, Cyberpunk-Ästhetik, ultra-detaillierte Stoffreflexionen, volumetrische Beleuchtung, realistische Haut und Haare, schwarze Sonnenbrille, {argument name=\"branding\" default=\"von Nike inspiriertes Sportswear-Branding\"}, filmische Komposition, hoher Kontrast, 8k, Studiobeleuchtung.\n\nStil-Keywords:\nholografisches Leuchten, Neon-Aura, transparenter Stoff, Bewegungspose, minimalistischer Hintergrund, Premium-Werbekampagne",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Éditorial de mode futuriste, profil latéral complet d'une jeune femme en train de marcher, portant un {argument name=\"outfit\" default=\"survêtement imperméable transparent et des baskets\"}, {argument name=\"effect\" default=\"effet holographique vert néon brillant\"}, traînées de fumée douce flottant autour d'elle, arrière-plan en dégradé sombre, esthétique cyberpunk, reflets de tissu ultra-détaillés, éclairage volumétrique, peau et cheveux réalistes, lunettes de soleil noires, {argument name=\"branding\" default=\"marquage de vêtements de sport inspiré de Nike\"}, composition cinématographique, contraste élevé, 8k, éclairage de studio.\n\nMots-clés de style :\néclat holographique, aura néon, tissu transparent, pose en mouvement, arrière-plan minimaliste, campagne publicitaire premium",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Editoriale di moda futuristica, profilo laterale a figura intera di una giovane donna che cammina, indossa {argument name=\"outfit\" default=\"una tuta impermeabile trasparente e scarpe da ginnastica\"}, {argument name=\"effect\" default=\"un effetto olografico verde neon brillante\"}, scie di fumo leggero che fluiscono attorno a lei, sfondo a gradiente scuro, estetica cyberpunk, riflessi del tessuto ultra-dettagliati, illuminazione volumetrica, pelle e capelli realistici, occhiali da sole neri, {argument name=\"branding\" default=\"branding di abbigliamento sportivo ispirato a Nike\"}, composizione cinematografica, alto contrasto, 8k, illuminazione da studio.\n\nParole chiave di stile:\nluminosità olografica, aura neon, tessuto trasparente, posa in movimento, sfondo minimale, campagna pubblicitaria premium",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Editorial de moda futurista, perfil lateral de corpo inteiro de uma jovem caminhando, vestindo um {argument name=\"outfit\" default=\"conjunto esportivo impermeável transparente e tênis\"}, {argument name=\"effect\" default=\"efeito holográfico em verde neon brilhante\"}, rastros de fumaça suave fluindo ao seu redor, fundo com degradê escuro, estética cyberpunk, reflexos de tecido ultra detalhados, iluminação volumétrica, pele e cabelo realistas, óculos escuros, {argument name=\"branding\" default=\"branding de roupas esportivas inspirado na Nike\"}, composição cinematográfica, alto contraste, 8k, iluminação de estúdio.\n\nPalavras-chave de estilo:\nbrilho holográfico, aura neon, tecido transparente, pose em movimento, fundo minimalista, campanha publicitária premium",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Cyberpunk Futuristic Fashion Editorial",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 赛博朋克未来主义时尚大片",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Ấn phẩm thời trang tương lai phong cách Cyberpunk",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Editorial de moda futurista cyberpunk",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Cyberpunk futuristisches Mode-Editorial",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Éditorial de mode futuriste cyberpunk",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Editoriale di moda cyberpunk futuristico",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Editorial de Moda Futurista Cyberpunk",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A high-contrast cyberpunk prompt for a futuristic fashion campaign featuring neon green holographic effects and studio lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高对比度的赛博朋克提示词，适用于包含霓虹绿全息效果和影棚灯光的未来主义时尚广告。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt cyberpunk à fort contraste pour une campagne de mode futuriste mettant en vedette des effets holographiques vert néon et un éclairage de studio.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ChillaiKalan__/status/2051326450847138170",
+      "originalId": "https://x.com/ChillaiKalan__/status/2051326450847138170",
+      "authors": [
+        {
+          "name": "K",
+          "url": "https://x.com/ChillaiKalan__"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1718
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_42dc570312f987cd",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971014808_832zqz_HHfGg71bMAAN-IF.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971014808_832zqz_HHfGg71bMAAN-IF.jpg",
+      "localPath": "public/assets/prompt_96c9a4d571ac7f78bc91/16874c2c3fd3.jpg",
+      "alt": "Social Media Post - Cyberpunk Futuristic Fashion Editorial - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.860Z"
+  }
+}

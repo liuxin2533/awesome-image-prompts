@@ -1,0 +1,107 @@
+{
+  "id": "prompt_9dac7a63ae8de453ede8",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "帮我生成一张 RAG 技术的详细讲解图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Please generate a detailed explanation diagram of RAG technology",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:08:41.853Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "RAG 技术详解图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "RAG Technology Detailed Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:08:45.987Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "rag",
+      "value": "RAG 技术详解图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-334",
+      "originalId": "case-334",
+      "authors": [
+        {
+          "name": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5389
+        }
+      ],
+      "rawSource": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ce598b005c10dd01",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case334.png",
+      "upstreamPath": "../data/images/case334.png",
+      "localPath": "public/assets/prompt_9dac7a63ae8de453ede8/fe30cf6e02c2.png",
+      "alt": "RAG 技术详解图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "diagram",
+      "技术"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "prompt_d11da630418b5b757970",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"cinematic sci-fi storyboard contact sheet\",\"subject\":{\"primary\":\"a small futuristic spacecraft descending into a massive gas giant storm system\",\"secondary\":\"an enormous leviathan-like silhouette hidden within the clouds\",\"mood\":\"oppressive, catastrophic, awe-struck, high tension, cosmic dread\",\"style\":\"photorealistic cinematic concept art with dark sci-fi realism, volumetric storm clouds, strong contrast, amber and black palette with occasional cold blue lightning\",\"aspect_ratio\":\"16:9\"},\"vehicle\":{\"design\":\"compact armored deep-atmosphere ship with 3 bright rear engines, angular industrial hull, worn metallic panels\",\"scale\":\"tiny compared to the planet and creature\"},\"layout\":{\"grid\":{\"rows\":3,\"columns\":4,\"count\":12},\"sections\":[{\"position\":\"row 1 col 1\",\"description\":\"wide exterior shot of the ship entering the upper atmosphere of a colossal gas giant at extreme speed, glowing clouds streaked with fire and friction around the vessel, curved planetary horizon visible\"},{\"position\":\"row 1 col 2\",\"description\":\"cockpit POV, dark interior filled with red and cyan holographic instruments, forward visibility collapsing into turbulent storm layers and electrical haze\"},{\"position\":\"row 1 col 3\",\"description\":\"exterior mid-wide shot of the ship diving into a gigantic rotating cloud funnel, surrounded by violent spiraling storm structure\"},{\"position\":\"row 1 col 4\",\"description\":\"extreme close exterior of the ship hull as bright lightning strikes dangerously close, white electric energy crawling across the metal surface\"},{\"position\":\"row 2 col 1\",\"description\":\"dashboard warning screen in red, showing a critical systems failure interface with the exact visible text count of 4 warning lines and 1 large percentage readout: ['WARNING','ENGINES COMPROMISED','THRUST FLUCTUATION','GRAVITY SPIKE DETECTED','DESCENT RATE -453%']\"},{\"position\":\"row 2 col 2\",\"description\":\"rear three-quarter exterior of the ship fighting turbulence inside dense storm clouds, engines burning hard while the craft barely holds course\"},{\"position\":\"row 2 col 3\",\"description\":\"massive circular disturbance forming in the clouds like an eye or maw, entire storm systems displaced by something huge moving beneath\"},{\"position\":\"row 2 col 4\",\"description\":\"second cockpit view with radar-like navigation display and red alert text, pilot making a blind evasive maneuver through lightning-filled darkness\"},{\"position\":\"row 3 col 1\",\"description\":\"first reveal of the colossal creature shape rising near the ship, black organic surface and immense curved anatomy emerging from darkness, ship tiny at lower left\"},{\"position\":\"row 3 col 2\",\"description\":\"spiral descent shot, ship caught inside a vortex tunnel of clouds, spinning downward with engines flaring as it struggles to recover\"},{\"position\":\"row 3 col 3\",\"description\":\"sudden breakthrough into a calm void, minimal composition, ship flying in eerie silence through dark open space with soft mist and no visible storm around it\"},{\"position\":\"row 3 col 4\",\"description\":\"final reveal, gigantic leviathan fully emerging behind or beside the ship in cleared space, backlit by a pale circular storm opening, enormous open maw-like silhouette dwarfing the craft\"}],\"continuity\":\"all 12 panels depict one continuous descent sequence from atmospheric entry to final creature reveal\"},\"lighting\":{\"primary\":\"glowing amber storm light\",\"secondary\":\"red cockpit interface glow\",\"accents\":\"blue-white lightning and engine exhaust\"},\"environment\":{\"location\":\"inside the upper and middle storm layers of a gigantic gas giant\",\"weather\":\"violent turbulence, electrical storms, vortex funnels, cloud walls, pressure chaos\",\"threat\":\"no safe zone, repeated near-failure, unknown colossal presence driving the storm\"}}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"type\": \"电影科幻分镜接触表\",\n  \"subject\": {\n    \"primary\": \"一艘小型未来主义宇宙飞船正在降入巨大的气态巨行星风暴系统\",\n    \"secondary\": \"一个巨大的利维坦般的轮廓隐藏在云层中\",\n    \"mood\": \"压抑、灾难性、敬畏、高度紧张、宇宙恐惧\",\n    \"style\": \"具有黑暗科幻现实感的照片级电影概念艺术，体积感的风暴云，强烈对比，琥珀色和黑色调，偶尔有冷蓝色闪电\",\n    \"aspect_ratio\": \"16:9\"\n  },\n  \"vehicle\": {\n    \"design\": \"紧凑型装甲深大气层飞船，有3个明亮的尾部引擎，棱角分明的工业船体，磨损的金属面板\",\n    \"scale\": \"与行星和生物相比非常小\"\n  },\n  \"layout\": {\n    \"grid\": {\n      \"rows\": 3,\n      \"columns\": 4,\n      \"count\": 12\n    },\n    \"sections\": [\n      {\n        \"position\": \"row 1 col 1\",\n        \"description\": \"飞船以极高速进入巨大气态巨行星上层大气的外部广角镜头，飞船周围有被火焰和摩擦划过的发光云层，可见弯曲的行星地平线\"\n      },\n      {\n        \"position\": \"row 1 col 2\",\n        \"description\": \"驾驶舱视角，黑暗的内部充满了红色和青色全息仪器，前方的视野崩塌成湍流风暴层和电气雾霾\"\n      },\n      {\n        \"position\": \"row 1 col 3\",\n        \"description\": \"飞船潜入巨大旋转云漏斗的外部中景镜头，周围是剧烈的螺旋风暴结构\"\n      },\n      {\n        \"position\": \"row 1 col 4\",\n        \"description\": \"飞船外壳的极端特写，明亮的闪电危险地击中附近，白色电能爬过金属表面\"\n      },\n      {\n        \"position\": \"row 2 col 1\",\n        \"description\": \"红色仪表盘警告屏幕，显示关键系统故障界面，确切可见文本数为4行警告和1个大百分比读数：['警告','引擎受损','推力波动','重力尖峰检测','下降速率 -453%']\"\n      },\n      {\n        \"position\": \"row 2 col 2\",\n        \"description\": \"飞船的后部四分之三外部视图，在密集的风暴云中与湍流搏斗，引擎全力燃烧，而飞船勉强保持航线\"\n      },\n      {\n        \"position\": \"row 2 col 3\",\n        \"description\": \"云层中形成巨大的圆形扰动，像眼睛或嘴巴，整个风暴系统被下方移动的庞然大物所取代\"\n      },\n      {\n        \"position\": \"row 2 col 4\",\n        \"description\": \"第二个驾驶舱视图，带有雷达导航显示和红色警报文本，飞行员在充满闪电的黑暗中进行盲目规避机动\"\n      },\n      {\n        \"position\": \"row 3 col 1\",\n        \"description\": \"首次展示靠近飞船的巨大生物形状，黑色有机表面和巨大的弯曲解剖结构从黑暗中出现，飞船在左下角显得很小\"\n      },\n      {\n        \"position\": \"row 3 col 2\",\n        \"description\": \"螺旋下降镜头，飞船被困在云的漩涡隧道中，向下旋转，引擎喷发，努力恢复\"\n      },\n      {\n        \"position\": \"row 3 col 3\",\n        \"description\": \"突然突破到一个平静的虚空，极简构图，飞船在黑暗的开放空间中诡异地无声飞行，周围有薄雾，没有可见的风暴\"\n      },\n      {\n        \"position\": \"row 3 col 4\",\n        \"description\": \"最终揭示，巨大的利维坦在清理过的空间中完全出现在飞船后方或旁边，被淡圆形风暴开口照亮，巨大的开口状轮廓使飞船相形见绌\"\n      }\n    ],\n    \"continuity\": \"所有12个面板描绘了一个从大气层进入到最后生物揭示的连续下降序列\"\n  },\n  \"lighting\": {\n    \"primary\": \"发光的琥珀色风暴光\",\n    \"secondary\": \"红色驾驶舱界面发光\",\n    \"accents\": \"蓝白色闪电和引擎尾焰\"\n  },\n  \"environment\": {\n    \"location\": \"在巨大气态巨行星的上层和中层风暴层内\",\n    \"weather\": \"剧烈湍流，雷暴，漩涡漏斗，云墙，压力混乱\",\n    \"threat\": \"没有安全区，反复接近失败，未知的巨大存在驱动着风暴\"\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:32:09.080Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Gas Giant Descent Storyboard",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "气态巨行星下降故事板",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:31:22.344Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/xRahultripathi/status/2048140775356354892",
+      "originalId": "case-137",
+      "authors": [
+        {
+          "name": "xRahultripathi",
+          "url": "https://x.com/xRahultripathi"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1438
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e46a50c31542f1aa",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case137/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case137/output.jpg",
+      "localPath": "public/assets/prompt_d11da630418b5b757970/99706a78aa13.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.560Z"
+  }
+}

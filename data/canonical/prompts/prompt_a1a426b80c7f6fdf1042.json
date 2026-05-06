@@ -1,0 +1,87 @@
+{
+  "id": "prompt_a1a426b80c7f6fdf1042",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "以 3:4 比例制作一家弹珠店那种闪闪发光的宣传单。放置一个真实、精细的现代可爱日本女性。充分利用闪闪发光、立体感丰富的豪华装饰彩虹字体等，务必做到极致奢华。并列介绍几个不存在的虚构新机型。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. Place a realistic, highly detailed modern cute Japanese woman. Make full use of sparkling, three-dimensional richly decorated rainbow typography, etc., and be sure to achieve extreme luxury. Introduce several non-existent fictional new models side by side.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "极致奢华的弹珠店梦幻宣传单",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Ultimate Luxury Pinball Shop Dreamy Flyer",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:10:12.350Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_c3269e5362",
+      "value": "极致奢华的弹珠店梦幻宣传单",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-291",
+      "originalId": "case-291",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3653
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dbd698f0f2c7ccbf",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case291.jpg",
+      "upstreamPath": "../data/images/case291.jpg",
+      "localPath": "public/assets/prompt_a1a426b80c7f6fdf1042/f30e4a434b5b.jpg",
+      "alt": "极致奢华的弹珠店梦幻宣传单",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

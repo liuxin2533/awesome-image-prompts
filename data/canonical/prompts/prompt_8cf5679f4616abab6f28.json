@@ -1,0 +1,177 @@
+{
+  "id": "prompt_8cf5679f4616abab6f28",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"black-and-white seinen manga page\",\"format\":\"single comic page, page number 1, realistic screentone manga art, cinematic night lighting, crisp panel borders, vertical Japanese narration boxes and hand-drawn sound effects\",\"setting\":\"quiet Japanese residential street at deep night, narrow asphalt road, concrete block walls, utility poles, overhead wires, streetlights, dense hedges, two-story houses, starry sky, strong monochrome contrast\",\"main_subjects\":{\"cat\":{\"description\":\"realistic tabby cat walking along the top of a concrete wall, wearing a tactical harness with a small cylindrical laser device mounted near the shoulder\",\"gear\":\"compact pet-beam cannon, normal standby state, straps, buckles, small metallic module with lens\"},\"human\":{\"description\":\"ordinary adult man in a hooded sweatshirt and dark pants, walking home with two plastic shopping bags, face deliberately obscured by a rectangular blur or blank censor block\",\"pose\":\"calmly walking, then stopping and turning toward the cat\"}},\"customizable_text\":{\"title_caption\":\"{argument name=\\\"opening caption\\\" default=\\\"深夜。\\\"}\",\"opening_narration\":\"{argument name=\\\"opening narration\\\" default=\\\"静寂が、道を包んでいる。\\\"}\",\"device_label\":\"{argument name=\\\"device label\\\" default=\\\"小型ビームキャノン（通常は待機状態）\\\"}\",\"mission_box\":\"{argument name=\\\"mission text\\\" default=\\\"いつも通り、任務をこなすだけ。\\\"}\",\"final_speech\":\"{argument name=\\\"final speech\\\" default=\\\"ん？\\\"}\"},\"layout\":{\"page_structure\":\"9 discrete panels arranged in a manga page grid with white gutters\",\"panels\":[{\"panel\":1,\"position\":\"top full-width wide establishing panel\",\"content\":\"cat on a left-side wall in profile, walking away through a deserted residential street under streetlights and stars\",\"text_count\":4,\"visible_text\":[\"のし…\",\"のし…\",\"深夜。\",\"静寂が、道を包んでいる。\"]},{\"panel\":2,\"position\":\"second row left large panel\",\"content\":\"close side view of the tabby cat walking on the wall, harness and small laser cannon clearly visible\",\"text_count\":2,\"visible_text\":[\"いつも通り、任務をこなすだけ。\",\"小型ビームキャノン（通常は待機状態）\"]},{\"panel\":3,\"position\":\"second row right panel\",\"content\":\"front view down the same road as the man walks toward the viewer holding two grocery bags, face censored\",\"text_count\":2,\"visible_text\":[\"人は、何も知らず日常を繰り返す。\",\"トッ トッ トッ\"]},{\"panel\":4,\"position\":\"third row full-width wide panel\",\"content\":\"wide shot from behind the man standing in the street while the cat remains high on the wall at left, emphasizing distance and surveillance\",\"text_count\":1,\"visible_text\":[\"その軌道は、静かに交わろうとしていた。\"]},{\"panel\":5,\"position\":\"fourth row full-width narrow confrontation panel\",\"content\":\"cat seen from behind on the wall at left facing the man at right in profile, dramatic empty space and speed-line gradient between them\",\"text_count\":3,\"visible_text\":[\"すれ違う、寸前。\",\"トッ\",\"トッ\"]},{\"panel\":6,\"position\":\"fifth row left small panel\",\"content\":\"rear close-up of the cat's head and shoulders as its ears twitch\",\"text_count\":1,\"visible_text\":[\"ピクッ\"]},{\"panel\":7,\"position\":\"fifth row center small panel\",\"content\":\"cat turns its face toward the viewer with narrowed, alert eyes\",\"text_count\":1,\"visible_text\":[\"クルッ\"]},{\"panel\":8,\"position\":\"fifth row right small panel\",\"content\":\"extreme close-up of the cat's intense eyes and the mounted device beginning to glow with a bright lens flare\",\"text_count\":1,\"visible_text\":[\"ニィ…\"]},{\"panel\":9,\"position\":\"bottom full-width action panel\",\"content\":\"the cat fires a brilliant horizontal laser beam from the shoulder cannon across the street directly into the man's censored face, explosive glow and radial speed lines, man reacts mildly\",\"text_count\":2,\"visible_text\":[\"ピシュッ\",\"ん？\"]}]},\"style_notes\":\"gritty photorealistic manga rendering, detailed fur texture, realistic suburban architecture, high-contrast black ink, halftone shading, dramatic lens flare, motion lines, suspense-comedy pacing, no color\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"黑白青年漫画页面\",\"format\":\"单页漫画，第 1 页，写实网点纸漫画风格，电影感夜间光影，清晰的分镜边框，竖排日文旁白框及手绘拟声词\",\"setting\":\"深夜寂静的日本住宅区街道，狭窄的柏油路，混凝土围墙，电线杆，架空电线，路灯，茂密的树篱，两层楼住宅，星空，强烈的黑白对比\",\"main_subjects\":{\"cat\":{\"description\":\"行走在混凝土墙顶的写实虎斑猫，佩戴着战术背带，肩部附近安装了一个小型圆柱形激光装置\",\"gear\":\"紧凑型宠物光束炮，正常待机状态，绑带，扣具，带有镜头的金属小模块\"},\"human\":{\"description\":\"一名穿着连帽衫和深色长裤的普通成年男子，提着两个塑料购物袋走在回家的路上，脸部被矩形模糊或空白遮挡块刻意遮盖\",\"pose\":\"平静地走着，随后停下并转向猫的方向\"}},\"customizable_text\":{\"title_caption\":\"{argument name=\\\"opening caption\\\" default=\\\"深夜。\\\"}\",\"opening_narration\":\"{argument name=\\\"opening narration\\\" default=\\\"静寂が、道を包んでいる。\\\"}\",\"device_label\":\"{argument name=\\\"device label\\\" default=\\\"小型ビームキャノン（通常は待機状態）\\\"}\",\"mission_box\":\"{argument name=\\\"mission text\\\" default=\\\"いつも通り、任務をこなすだけ。\\\"}\",\"final_speech\":\"{argument name=\\\"final speech\\\" default=\\\"ん？\\\"}\"},\"layout\":{\"page_structure\":\"9 个独立分镜，按漫画页面网格排列，带有白色间隙\",\"panels\":[{\"panel\":1,\"position\":\"顶部全宽宽幅开场分镜\",\"content\":\"猫在左侧墙上侧影，走在路灯和星空下的荒凉住宅街道上\",\"text_count\":4,\"visible_text\":[\"のし…\",\"のし…\",\"深夜。\",\"静寂が、道を包んでいる。\"]},{\"panel\":2,\"position\":\"第二行左侧大分镜\",\"content\":\"虎斑猫在墙上行走的近侧视图，背带和小型激光炮清晰可见\",\"text_count\":2,\"visible_text\":[\"いつも通り、任務をこなすだけ。\",\"小型ビームキャノン（通常は待機状態）\"]},{\"panel\":3,\"position\":\"第二行右侧分镜\",\"content\":\"从前方视角看同一条街道，男子提着两个购物袋向观众走来，脸部被遮挡\",\"text_count\":2,\"visible_text\":[\"人は、何も知らず日常を繰り返す。\",\"トッ トッ トッ\"]},{\"panel\":4,\"position\":\"第三行全宽宽幅分镜\",\"content\":\"从男子身后拍摄的广角镜头，猫留在左侧高处的墙上，强调距离感与监视感\",\"text_count\":1,\"visible_text\":[\"その軌道は、静かに交わろうとしていた。\"]},{\"panel\":5,\"position\":\"第四行全宽窄幅对峙分镜\",\"content\":\"猫在左侧墙上背对观众，右侧男子侧面，两者之间有戏剧性的留白和速度线渐变\",\"text_count\":3,\"visible_text\":[\"すれ違う、寸前。\",\"トッ\",\"トッ\"]},{\"panel\":6,\"position\":\"第五行左侧小分镜\",\"content\":\"猫头部和肩部的后方特写，耳朵抽动\",\"text_count\":1,\"visible_text\":[\"ピクッ\"]},{\"panel\":7,\"position\":\"第五行中间小分镜\",\"content\":\"猫转过脸看向观众，眼睛眯起，保持警觉\",\"text_count\":1,\"visible_text\":[\"クルッ\"]},{\"panel\":8,\"position\":\"第五行右侧小分镜\",\"content\":\"猫锐利双眼与安装装置的极度特写，装置开始发出明亮的镜头光晕\",\"text_count\":1,\"visible_text\":[\"ニィ…\"]},{\"panel\":9,\"position\":\"底部全宽动作分镜\",\"content\":\"猫从肩部炮管向街道发射出一道耀眼的水平激光束，直射男子被遮挡的脸部，伴随爆炸性光芒和放射状速度线，男子做出轻微反应\",\"text_count\":2,\"visible_text\":[\"ピシュッ\",\"ん？\"]}]},\"style_notes\":\"硬核写实漫画渲染，细腻的毛发质感，写实的郊区建筑，高对比度黑墨，网点阴影，戏剧性镜头光晕，动态线，悬疑喜剧节奏，无色彩\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"página de manga seinen en blanco y negro\",\"format\":\"página de cómic individual, página número 1, arte de manga con tramas realistas, iluminación cinematográfica nocturna, bordes de viñeta definidos, cuadros de narración verticales en japonés y efectos de sonido dibujados a mano\",\"setting\":\"calle residencial japonesa tranquila en plena noche, carretera de asfalto estrecha, muros de bloques de hormigón, postes de luz, cables aéreos, farolas, setos densos, casas de dos pisos, cielo estrellado, fuerte contraste monocromático\",\"main_subjects\":{\"cat\":{\"description\":\"gato atigrado realista caminando sobre un muro de hormigón, usando un arnés táctico con un pequeño dispositivo láser cilíndrico montado cerca del hombro\",\"gear\":\"cañón de rayos compacto para mascotas, estado de espera normal, correas, hebillas, pequeño módulo metálico con lente\"},\"human\":{\"description\":\"hombre adulto común con sudadera con capucha y pantalones oscuros, caminando a casa con dos bolsas de plástico de la compra, rostro deliberadamente oculto por un desenfoque rectangular o un bloque de censura en blanco\",\"pose\":\"caminando con calma, luego deteniéndose y girándose hacia el gato\"}},\"customizable_text\":{\"title_caption\":\"{argument name=\\\"opening caption\\\" default=\\\"深夜。\\\"}\",\"opening_narration\":\"{argument name=\\\"opening narration\\\" default=\\\"静寂が、道を包んでいる。\\\"}\",\"device_label\":\"{argument name=\\\"device label\\\" default=\\\"小型ビームキャノン（通常は待機状態）\\\"}\",\"mission_box\":\"{argument name=\\\"mission text\\\" default=\\\"いつも通り、任務をこなすだけ。\\\"}\",\"final_speech\":\"{argument name=\\\"final speech\\\" default=\\\"ん？\\\"}\"},\"layout\":{\"page_structure\":\"9 viñetas discretas dispuestas en una cuadrícula de página de manga con espacios en blanco\",\"panels\":[{\"panel\":1,\"position\":\"viñeta superior ancha de página completa\",\"content\":\"gato en un muro del lado izquierdo de perfil, caminando por una calle residencial desierta bajo las farolas y las estrellas\",\"text_count\":4,\"visible_text\":[\"のし…\",\"のし…\",\"深夜。\",\"静寂が、道を包んでいる。\"]},{\"panel\":2,\"position\":\"segunda fila, viñeta grande a la izquierda\",\"content\":\"vista lateral cercana del gato atigrado caminando sobre el muro, arnés y pequeño cañón láser claramente visibles\",\"text_count\":2,\"visible_text\":[\"いつも通り、任務をこなすだけ。\",\"小型ビームキャノン（通常は待機状態）\"]},{\"panel\":3,\"position\":\"segunda fila, viñeta a la derecha\",\"content\":\"vista frontal de la misma calle mientras el hombre camina hacia el espectador sosteniendo dos bolsas de la compra, rostro censurado\",\"text_count\":2,\"visible_text\":[\"人は、何も知らず日常を繰り返す。\",\"トッ トッ トッ\"]},{\"panel\":4,\"position\":\"tercera fila, viñeta ancha de página completa\",\"content\":\"plano general desde detrás del hombre parado en la calle mientras el gato permanece en lo alto del muro a la izquierda, enfatizando la distancia y la vigilancia\",\"text_count\":1,\"visible_text\":[\"その軌道は、静かに交わろうとしていた。\"]},{\"panel\":5,\"position\":\"cuarta fila, viñeta estrecha de confrontación de página completa\",\"content\":\"gato visto desde atrás en el muro a la izquierda frente al hombre a la derecha de perfil, espacio vacío dramático y gradiente de líneas de velocidad entre ellos\",\"text_count\":3,\"visible_text\":[\"すれ違う、寸前。\",\"トッ\",\"トッ\"]},{\"panel\":6,\"position\":\"quinta fila, viñeta pequeña a la izquierda\",\"content\":\"primer plano trasero de la cabeza y los hombros del gato mientras sus orejas se mueven\",\"text_count\":1,\"visible_text\":[\"ピクッ\"]},{\"panel\":7,\"position\":\"quinta fila, viñeta pequeña central\",\"content\":\"el gato gira su rostro hacia el espectador con ojos entrecerrados y alerta\",\"text_count\":1,\"visible_text\":[\"クルッ\"]},{\"panel\":8,\"position\":\"quinta fila, viñeta pequeña a la derecha\",\"content\":\"primer plano extremo de los ojos intensos del gato y el dispositivo montado comenzando a brillar con un destello de lente brillante\",\"text_count\":1,\"visible_text\":[\"ニィ…\"]},{\"panel\":9,\"position\":\"viñeta inferior de acción de página completa\",\"content\":\"el gato dispara un brillante rayo láser horizontal desde el cañón del hombro a través de la calle directamente al rostro censurado del hombre, brillo explosivo y líneas de velocidad radiales, el hombre reacciona levemente\",\"text_count\":2,\"visible_text\":[\"ピシュッ\",\"ん？\"]}]},\"style_notes\":\"renderizado de manga fotorrealista y crudo, textura de pelaje detallada, arquitectura suburbana realista, tinta negra de alto contraste, sombreado de medios tonos, destello de lente dramático, líneas de movimiento, ritmo de comedia de suspenso, sin color\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"schwarz-weiße Seinen-Manga-Seite\",\"format\":\"einzelne Comic-Seite, Seitennummer 1, realistischer Rasterfolien-Manga-Stil, filmische Nachtbeleuchtung, klare Panel-Rahmen, vertikale japanische Erzählboxen und handgezeichnete Soundeffekte\",\"setting\":\"ruhige japanische Wohnstraße bei tiefer Nacht, schmale Asphaltstraße, Betonblockmauern, Strommasten, Oberleitungen, Straßenlaternen, dichte Hecken, zweistöckige Häuser, Sternenhimmel, starker Monochrom-Kontrast\",\"main_subjects\":{\"cat\":{\"description\":\"realistische getigerte Katze, die auf einer Betonmauer entlangläuft und ein taktisches Geschirr mit einem kleinen zylindrischen Lasergerät in Schulternähe trägt\",\"gear\":\"kompakte Haustier-Strahlenkanone, normaler Standby-Zustand, Riemen, Schnallen, kleines metallisches Modul mit Linse\"},\"human\":{\"description\":\"gewöhnlicher erwachsener Mann in einem Kapuzenpullover und dunkler Hose, der mit zwei Plastikeinkaufstüten nach Hause geht, Gesicht absichtlich durch einen rechteckigen Unschärfe- oder leeren Zensurbalken verdeckt\",\"pose\":\"geht ruhig, bleibt dann stehen und dreht sich zur Katze um\"}},\"customizable_text\":{\"title_caption\":\"{argument name=\\\"opening caption\\\" default=\\\"深夜。\\\"}\",\"opening_narration\":\"{argument name=\\\"opening narration\\\" default=\\\"静寂が、道を包んでいる。\\\"}\",\"device_label\":\"{argument name=\\\"device label\\\" default=\\\"小型ビームキャノン（通常は待機状態）\\\"}\",\"mission_box\":\"{argument name=\\\"mission text\\\" default=\\\"いつも通り、任務をこなすだけ。\\\"}\",\"final_speech\":\"{argument name=\\\"final speech\\\" default=\\\"ん？\\\"}\"},\"layout\":{\"page_structure\":\"9 diskrete Panels, angeordnet in einem Manga-Seitengitter mit weißen Zwischenräumen\",\"panels\":[{\"panel\":1,\"position\":\"oberes, seitenbreites Establishing-Panel\",\"content\":\"Katze auf einer Mauer auf der linken Seite im Profil, geht durch eine verlassene Wohnstraße unter Straßenlaternen und Sternen\",\"text_count\":4,\"visible_text\":[\"のし…\",\"のし…\",\"深夜。\",\"静寂が、道を包んでいる。\"]},{\"panel\":2,\"position\":\"zweite Reihe, linkes großes Panel\",\"content\":\"nahe Seitenansicht der getigerten Katze, die auf der Mauer läuft, Geschirr und kleine Laserkanone deutlich sichtbar\",\"text_count\":2,\"visible_text\":[\"いつも通り、任務をこなすだけ。\",\"小型ビームキャノン（通常は待機状態）\"]},{\"panel\":3,\"position\":\"zweite Reihe, rechtes Panel\",\"content\":\"Frontalansicht die Straße hinunter, während der Mann mit zwei Einkaufstüten auf den Betrachter zugeht, Gesicht zensiert\",\"text_count\":2,\"visible_text\":[\"人は、何も知らず日常を繰り返す。\",\"トッ トッ トッ\"]},{\"panel\":4,\"position\":\"dritte Reihe, seitenbreites Panel\",\"content\":\"Weitwinkelaufnahme von hinten auf den Mann, der auf der Straße steht, während die Katze links hoch auf der Mauer bleibt, betont Distanz und Überwachung\",\"text_count\":1,\"visible_text\":[\"その軌道は、静かに交わろうとしていた。\"]},{\"panel\":5,\"position\":\"vierte Reihe, seitenbreites, schmales Konfrontations-Panel\",\"content\":\"Katze von hinten auf der Mauer links, dem Mann rechts im Profil zugewandt, dramatischer Leerraum und Geschwindigkeitslinien-Gradient zwischen ihnen\",\"text_count\":3,\"visible_text\":[\"すれ違う、寸前。\",\"トッ\",\"トッ\"]},{\"panel\":6,\"position\":\"fünfte Reihe, linkes kleines Panel\",\"content\":\"Nahaufnahme von hinten auf Kopf und Schultern der Katze, während ihre Ohren zucken\",\"text_count\":1,\"visible_text\":[\"ピクッ\"]},{\"panel\":7,\"position\":\"fünfte Reihe, mittleres kleines Panel\",\"content\":\"Katze dreht ihr Gesicht mit verengten, wachsamen Augen zum Betrachter\",\"text_count\":1,\"visible_text\":[\"クルッ\"]},{\"panel\":8,\"position\":\"fünfte Reihe, rechtes kleines Panel\",\"content\":\"extreme Nahaufnahme der intensiven Augen der Katze und des montierten Geräts, das mit einem hellen Lens Flare zu leuchten beginnt\",\"text_count\":1,\"visible_text\":[\"ニィ…\"]},{\"panel\":9,\"position\":\"unteres, seitenbreites Action-Panel\",\"content\":\"die Katze feuert einen brillanten horizontalen Laserstrahl aus der Schulterkanone über die Straße direkt in das zensierte Gesicht des Mannes, explosiver Glanz und radiale Geschwindigkeitslinien, Mann reagiert mild\",\"text_count\":2,\"visible_text\":[\"ピシュッ\",\"ん？\"]}]},\"style_notes\":\"grittiges, fotorealistisches Manga-Rendering, detaillierte Felltextur, realistische Vorstadtarchitektur, kontrastreiche schwarze Tinte, Halbtonschattierung, dramatischer Lens Flare, Bewegungslinien, Spannungs-Komödien-Pacing, keine Farbe\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"page de manga seinen en noir et blanc\",\"format\":\"page de bande dessinée unique, page numéro 1, art manga avec trames réalistes, éclairage nocturne cinématographique, bordures de cases nettes, bulles de narration verticales en japonais et effets sonores dessinés à la main\",\"setting\":\"rue résidentielle japonaise calme au cœur de la nuit, route étroite en asphalte, murs en blocs de béton, poteaux électriques, câbles aériens, lampadaires, haies denses, maisons à deux étages, ciel étoilé, fort contraste monochrome\",\"main_subjects\":{\"cat\":{\"description\":\"chat tigré réaliste marchant sur le haut d'un mur en béton, portant un harnais tactique avec un petit dispositif laser cylindrique monté près de l'épaule\",\"gear\":\"canon à faisceau compact pour animal, état de veille normal, sangles, boucles, petit module métallique avec lentille\"},\"human\":{\"description\":\"homme adulte ordinaire en sweat-shirt à capuche et pantalon sombre, rentrant chez lui avec deux sacs de courses en plastique, visage délibérément masqué par un flou rectangulaire ou un bloc de censure vide\",\"pose\":\"marche calmement, puis s'arrête et se tourne vers le chat\"}},\"customizable_text\":{\"title_caption\":\"{argument name=\\\"opening caption\\\" default=\\\"深夜。\\\"}\",\"opening_narration\":\"{argument name=\\\"opening narration\\\" default=\\\"静寂が、道を包んでいる。\\\"}\",\"device_label\":\"{argument name=\\\"device label\\\" default=\\\"小型ビームキャノン（通常は待機状態）\\\"}\",\"mission_box\":\"{argument name=\\\"mission text\\\" default=\\\"いつも通り、任務をこなすだけ。\\\"}\",\"final_speech\":\"{argument name=\\\"final speech\\\" default=\\\"ん？\\\"}\"},\"layout\":{\"page_structure\":\"9 cases distinctes disposées dans une grille de page de manga avec des gouttières blanches\",\"panels\":[{\"panel\":1,\"position\":\"panneau d'établissement large pleine largeur en haut\",\"content\":\"chat sur un mur à gauche de profil, s'éloignant dans une rue résidentielle déserte sous les lampadaires et les étoiles\",\"text_count\":4,\"visible_text\":[\"のし…\",\"のし…\",\"深夜。\",\"静寂が、道を包んでいる。\"]},{\"panel\":2,\"position\":\"grand panneau à gauche de la deuxième rangée\",\"content\":\"vue latérale rapprochée du chat tigré marchant sur le mur, harnais et petit canon laser clairement visibles\",\"text_count\":2,\"visible_text\":[\"いつも通り、任務をこなすだけ。\",\"小型ビームキャノン（通常は待機状態）\"]},{\"panel\":3,\"position\":\"panneau à droite de la deuxième rangée\",\"content\":\"vue de face sur la même route alors que l'homme marche vers le spectateur en tenant deux sacs de courses, visage censuré\",\"text_count\":2,\"visible_text\":[\"人は、何も知らず日常を繰り返す。\",\"トッ トッ トッ\"]},{\"panel\":4,\"position\":\"panneau large pleine largeur de la troisième rangée\",\"content\":\"plan large derrière l'homme debout dans la rue tandis que le chat reste en hauteur sur le mur à gauche, soulignant la distance et la surveillance\",\"text_count\":1,\"visible_text\":[\"その軌道は、静かに交わろうとしていた。\"]},{\"panel\":5,\"position\":\"panneau de confrontation étroit pleine largeur de la quatrième rangée\",\"content\":\"chat vu de dos sur le mur à gauche face à l'homme à droite de profil, espace vide dramatique et dégradé de lignes de vitesse entre eux\",\"text_count\":3,\"visible_text\":[\"すれ違う、寸前。\",\"トッ\",\"トッ\"]},{\"panel\":6,\"position\":\"petit panneau à gauche de la cinquième rangée\",\"content\":\"gros plan arrière de la tête et des épaules du chat alors que ses oreilles tressaillent\",\"text_count\":1,\"visible_text\":[\"ピクッ\"]},{\"panel\":7,\"position\":\"petit panneau central de la cinquième rangée\",\"content\":\"le chat tourne son visage vers le spectateur avec des yeux plissés et alertes\",\"text_count\":1,\"visible_text\":[\"クルッ\"]},{\"panel\":8,\"position\":\"petit panneau à droite de la cinquième rangée\",\"content\":\"très gros plan sur les yeux intenses du chat et le dispositif monté commençant à briller avec un éclat de lentille lumineux\",\"text_count\":1,\"visible_text\":[\"ニィ…\"]},{\"panel\":9,\"position\":\"panneau d'action pleine largeur en bas\",\"content\":\"le chat tire un brillant faisceau laser horizontal depuis le canon d'épaule à travers la rue directement sur le visage censuré de l'homme, éclat explosif et lignes de vitesse radiales, l'homme réagit légèrement\",\"text_count\":2,\"visible_text\":[\"ピシュッ\",\"ん？\"]}]},\"style_notes\":\"rendu manga photoréaliste granuleux, texture de fourrure détaillée, architecture suburbaine réaliste, encre noire à fort contraste, ombrage en demi-teintes, éclat de lentille dramatique, lignes de mouvement, rythme suspense-comédie, pas de couleur\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"pagina manga seinen in bianco e nero\",\"format\":\"singola pagina di fumetto, pagina numero 1, arte manga con retini realistici, illuminazione notturna cinematografica, bordi dei riquadri nitidi, didascalie verticali giapponesi ed effetti sonori disegnati a mano\",\"setting\":\"tranquilla strada residenziale giapponese nel cuore della notte, strada asfaltata stretta, muri in blocchi di cemento, pali della luce, cavi aerei, lampioni, siepi fitte, case a due piani, cielo stellato, forte contrasto monocromatico\",\"main_subjects\":{\"cat\":{\"description\":\"gatto soriano realistico che cammina sopra un muro di cemento, indossa un'imbracatura tattica con un piccolo dispositivo laser cilindrico montato vicino alla spalla\",\"gear\":\"cannone a raggio compatto per animali, stato di standby normale, cinghie, fibbie, piccolo modulo metallico con lente\"},\"human\":{\"description\":\"uomo adulto comune con felpa con cappuccio e pantaloni scuri, che torna a casa con due buste della spesa, volto deliberatamente oscurato da una sfocatura rettangolare o da un blocco di censura\",\"pose\":\"cammina con calma, poi si ferma e si gira verso il gatto\"}},\"customizable_text\":{\"title_caption\":\"{argument name=\\\"opening caption\\\" default=\\\"深夜。\\\"}\",\"opening_narration\":\"{argument name=\\\"opening narration\\\" default=\\\"静寂が、道を包んでいる。\\\"}\",\"device_label\":\"{argument name=\\\"device label\\\" default=\\\"小型ビームキャノン（通常は待機状態）\\\"}\",\"mission_box\":\"{argument name=\\\"mission text\\\" default=\\\"いつも通り、任務をこなすだけ。\\\"}\",\"final_speech\":\"{argument name=\\\"final speech\\\" default=\\\"ん？\\\"}\"},\"layout\":{\"page_structure\":\"9 riquadri distinti disposti in una griglia per pagina manga con spazi bianchi\",\"panels\":[{\"panel\":1,\"position\":\"riquadro panoramico a tutta larghezza in alto\",\"content\":\"gatto sul muro a sinistra di profilo, mentre si allontana lungo una strada residenziale deserta sotto lampioni e stelle\",\"text_count\":4,\"visible_text\":[\"のし…\",\"のし…\",\"深夜。\",\"静寂が、道を包んでいる。\"]},{\"panel\":2,\"position\":\"grande riquadro a sinistra nella seconda fila\",\"content\":\"vista laterale ravvicinata del gatto soriano che cammina sul muro, imbracatura e piccolo cannone laser chiaramente visibili\",\"text_count\":2,\"visible_text\":[\"いつも通り、任務をこなすだけ。\",\"小型ビームキャノン（通常は待機状態）\"]},{\"panel\":3,\"position\":\"riquadro a destra nella seconda fila\",\"content\":\"vista frontale lungo la stessa strada mentre l'uomo cammina verso lo spettatore tenendo due buste della spesa, volto censurato\",\"text_count\":2,\"visible_text\":[\"人は、何も知らず日常を繰り返す。\",\"トッ トッ トッ\"]},{\"panel\":4,\"position\":\"riquadro panoramico a tutta larghezza nella terza fila\",\"content\":\"ampia inquadratura da dietro l'uomo che sta in piedi sulla strada mentre il gatto rimane in alto sul muro a sinistra, enfatizzando la distanza e la sorveglianza\",\"text_count\":1,\"visible_text\":[\"その軌道は、静かに交わろうとしていた。\"]},{\"panel\":5,\"position\":\"riquadro di confronto stretto a tutta larghezza nella quarta fila\",\"content\":\"gatto visto da dietro sul muro a sinistra di fronte all'uomo a destra di profilo, drammatico spazio vuoto e gradiente di linee di velocità tra loro\",\"text_count\":3,\"visible_text\":[\"すれ違う、寸前。\",\"トッ\",\"トッ\"]},{\"panel\":6,\"position\":\"piccolo riquadro a sinistra nella quinta fila\",\"content\":\"primo piano posteriore della testa e delle spalle del gatto mentre le orecchie fremono\",\"text_count\":1,\"visible_text\":[\"ピクッ\"]},{\"panel\":7,\"position\":\"piccolo riquadro centrale nella quinta fila\",\"content\":\"il gatto gira il volto verso lo spettatore con occhi socchiusi e vigili\",\"text_count\":1,\"visible_text\":[\"クルッ\"]},{\"panel\":8,\"position\":\"piccolo riquadro a destra nella quinta fila\",\"content\":\"primo piano estremo degli occhi intensi del gatto e del dispositivo montato che inizia a brillare con un intenso riflesso della lente\",\"text_count\":1,\"visible_text\":[\"ニィ…\"]},{\"panel\":9,\"position\":\"riquadro d'azione a tutta larghezza in basso\",\"content\":\"il gatto spara un brillante raggio laser orizzontale dal cannone sulla spalla attraverso la strada direttamente sul volto censurato dell'uomo, bagliore esplosivo e linee di velocità radiali, l'uomo reagisce leggermente\",\"text_count\":2,\"visible_text\":[\"ピシュッ\",\"ん？\"]}]},\"style_notes\":\"resa manga fotorealistica cruda, texture del pelo dettagliata, architettura suburbana realistica, inchiostro nero ad alto contrasto, ombreggiatura a mezzitoni, drammatico riflesso della lente, linee di movimento, ritmo suspense-commedia, senza colore\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"página de mangá seinen em preto e branco\",\"format\":\"página única de quadrinhos, página número 1, arte de mangá com retícula realista, iluminação noturna cinematográfica, bordas de painel nítidas, caixas de narração verticais em japonês e efeitos sonoros desenhados à mão\",\"setting\":\"rua residencial japonesa silenciosa no meio da noite, estrada de asfalto estreita, muros de blocos de concreto, postes de luz, fios aéreos, postes de iluminação, cercas vivas densas, casas de dois andares, céu estrelado, forte contraste monocromático\",\"main_subjects\":{\"cat\":{\"description\":\"gato malhado realista andando no topo de um muro de concreto, vestindo um arnês tático com um pequeno dispositivo laser cilíndrico montado perto do ombro\",\"gear\":\"canhão de feixe compacto para animais de estimação, estado de espera normal, tiras, fivelas, pequeno módulo metálico com lente\"},\"human\":{\"description\":\"homem adulto comum vestindo um moletom com capuz e calças escuras, caminhando para casa com duas sacolas de compras de plástico, rosto deliberadamente obscurecido por um borrão retangular ou bloco de censura em branco\",\"pose\":\"caminhando calmamente, então parando e virando-se em direção ao gato\"}},\"customizable_text\":{\"title_caption\":\"{argument name=\\\"opening caption\\\" default=\\\"深夜。\\\"}\",\"opening_narration\":\"{argument name=\\\"opening narration\\\" default=\\\"静寂が、道を包んでいる。\\\"}\",\"device_label\":\"{argument name=\\\"device label\\\" default=\\\"小型ビームキャノン（通常は待機状態）\\\"}\",\"mission_box\":\"{argument name=\\\"mission text\\\" default=\\\"いつも通り、任務をこなすだけ。\\\"}\",\"final_speech\":\"{argument name=\\\"final speech\\\" default=\\\"ん？\\\"}\"},\"layout\":{\"page_structure\":\"9 painéis distintos organizados em uma grade de página de mangá com calhas brancas\",\"panels\":[{\"panel\":1,\"position\":\"painel de estabelecimento amplo na parte superior\",\"content\":\"gato em um muro do lado esquerdo de perfil, caminhando para longe através de uma rua residencial deserta sob postes de luz e estrelas\",\"text_count\":4,\"visible_text\":[\"のし…\",\"のし…\",\"深夜。\",\"静寂が、道を包んでいる。\"]},{\"panel\":2,\"position\":\"painel grande na segunda linha à esquerda\",\"content\":\"vista lateral próxima do gato malhado andando no muro, arnês e pequeno canhão laser claramente visíveis\",\"text_count\":2,\"visible_text\":[\"いつも通り、任務をこなすだけ。\",\"小型ビームキャノン（通常は待機状態）\"]},{\"panel\":3,\"position\":\"painel na segunda linha à direita\",\"content\":\"vista frontal da mesma estrada enquanto o homem caminha em direção ao espectador segurando duas sacolas de compras, rosto censurado\",\"text_count\":2,\"visible_text\":[\"人は、何も知らず日常を繰り返す。\",\"トッ トッ トッ\"]},{\"panel\":4,\"position\":\"painel amplo na terceira linha\",\"content\":\"plano aberto por trás do homem parado na rua enquanto o gato permanece no alto do muro à esquerda, enfatizando a distância e a vigilância\",\"text_count\":1,\"visible_text\":[\"その軌道は、静かに交わろうとしていた。\"]},{\"panel\":5,\"position\":\"painel de confronto estreito na quarta linha\",\"content\":\"gato visto por trás no muro à esquerda de frente para o homem à direita de perfil, espaço vazio dramático e gradiente de linhas de velocidade entre eles\",\"text_count\":3,\"visible_text\":[\"すれ違う、寸前。\",\"トッ\",\"トッ\"]},{\"panel\":6,\"position\":\"painel pequeno na quinta linha à esquerda\",\"content\":\"close-up traseiro da cabeça e ombros do gato enquanto suas orelhas se movem\",\"text_count\":1,\"visible_text\":[\"ピクッ\"]},{\"panel\":7,\"position\":\"painel pequeno no centro da quinta linha\",\"content\":\"gato vira o rosto em direção ao espectador com olhos estreitos e alertas\",\"text_count\":1,\"visible_text\":[\"クルッ\"]},{\"panel\":8,\"position\":\"painel pequeno na quinta linha à direita\",\"content\":\"close-up extremo dos olhos intensos do gato e o dispositivo montado começando a brilhar com um reflexo de lente brilhante\",\"text_count\":1,\"visible_text\":[\"ニィ…\"]},{\"panel\":9,\"position\":\"painel de ação amplo na parte inferior\",\"content\":\"o gato dispara um feixe de laser horizontal brilhante do canhão de ombro através da rua diretamente no rosto censurado do homem, brilho explosivo e linhas de velocidade radiais, homem reage levemente\",\"text_count\":2,\"visible_text\":[\"ピシュッ\",\"ん？\"]}]},\"style_notes\":\"renderização de mangá fotorrealista corajosa, textura de pelo detalhada, arquitetura suburbana realista, tinta preta de alto contraste, sombreamento de meio-tom, reflexo de lente dramático, linhas de movimento, ritmo de comédia de suspense, sem cor\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Midnight Laser Cat Manga Page",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 午夜激光猫漫画页面",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Página de manga: Gato láser de medianoche",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Midnight Laser Cat Manga-Seite",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Page de manga : Le chat laser de minuit",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Pagina Manga: Gatto Laser di Mezzanotte",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Página de Mangá: Gato Laser da Meia-Noite",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a monochrome Japanese manga page where a tactical tabby cat patrols a quiet night street and fires a laser at an unsuspecting passerby.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一页黑白日式漫画，讲述一只战术虎斑猫在寂静的深夜街道巡逻，并向一名毫无防备的行人发射激光的故事。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une page de manga japonais monochrome où un chat tigré tactique patrouille dans une rue calme la nuit et tire un laser sur un passant sans méfiance.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ggpopcat191069/status/2051375327205884165#reversed-0",
+      "originalId": "https://x.com/ggpopcat191069/status/2051375327205884165#reversed-0",
+      "authors": [
+        {
+          "name": "ajiConv",
+          "url": "https://x.com/ggpopcat191069"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3419
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c0b77d0b7dd82b40",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971089541_1sxi5c_HHfy4dvboAAktqE.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971089541_1sxi5c_HHfy4dvboAAktqE.jpg",
+      "localPath": "public/assets/prompt_8cf5679f4616abab6f28/246fa725e47e.jpg",
+      "alt": "Comic / Storyboard - Midnight Laser Cat Manga Page - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "分镜",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.858Z"
+  }
+}

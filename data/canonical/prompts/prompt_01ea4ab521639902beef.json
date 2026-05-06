@@ -1,0 +1,174 @@
+{
+  "id": "prompt_01ea4ab521639902beef",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a dramatic cinematic studio portrait of {argument name=\"subject\" default=\"a young man\"} in side profile, wearing {argument name=\"clothing\" default=\"a black hooded sweatshirt\"}, head bowed slightly with one hand pressed to his forehead as if stressed or deep in thought. Use intense {argument name=\"lighting color\" default=\"deep crimson red\"} lighting with strong rim light outlining messy curly dark hair, ear, neck, hand, and hoodie folds, while most of the figure falls into near-black shadow. Add atmospheric smoke or haze swirling through the background, illuminated by the red light, and include a large soft ghostly duplicate silhouette of the same head and shoulders in the background on the right, like a psychological double exposure. The composition is vertical, close-up from chest to head, subject facing left, with high contrast, moody noir styling, shallow depth of field, dark red and black color palette, subtle film grain, realistic photographic texture, and an emotional introspective mood. Keep the face mostly hidden in shadow and pose rather than clearly visible, emphasizing anonymity and tension.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张戏剧性的电影感摄影棚肖像，主体为 {argument name=\"subject\" default=\"一名年轻男子\"} 的侧面轮廓，身穿 {argument name=\"clothing\" default=\"黑色连帽卫衣\"}，头部微垂，一只手按在额头上，仿佛压力巨大或陷入沉思。使用强烈的 {argument name=\"lighting color\" default=\"深绯红色\"} 灯光，以浓重的轮廓光勾勒出凌乱的深色卷发、耳朵、颈部、手部和卫衣褶皱，而人物主体大部分沉浸在近乎纯黑的阴影中。在背景中加入弥漫的烟雾或薄雾，并被红光照亮；在右侧背景中加入一个巨大的、柔和且幽灵般的同款头部和肩部轮廓，营造出心理层面的双重曝光效果。构图为竖构图，从胸部到头部的特写，主体面向左侧，具有高对比度、忧郁的黑色电影风格、浅景深、深红与黑色调、细腻的胶片颗粒感、逼真的摄影质感以及内省的情绪氛围。保持面部大部分隐藏在阴影和姿势中，而非清晰可见，以强调匿名感和紧张感。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un retrato de estudio cinematográfico dramático de {argument name=\"subject\" default=\"un joven\"} de perfil, vistiendo {argument name=\"clothing\" default=\"una sudadera negra con capucha\"}, con la cabeza ligeramente inclinada y una mano presionada contra la frente como si estuviera estresado o sumido en sus pensamientos. Utiliza una intensa iluminación de {argument name=\"lighting color\" default=\"rojo carmesí profundo\"} con una fuerte luz de contorno que resalte el cabello oscuro, rizado y desordenado, la oreja, el cuello, la mano y los pliegues de la sudadera, mientras la mayor parte de la figura se pierde en sombras casi negras. Añade humo atmosférico o neblina girando por el fondo, iluminado por la luz roja, e incluye una silueta fantasmal grande y suave de la misma cabeza y hombros en el fondo a la derecha, como una doble exposición psicológica. La composición es vertical, en primer plano desde el pecho hasta la cabeza, con el sujeto mirando hacia la izquierda, con alto contraste, estilo noir melancólico, poca profundidad de campo, paleta de colores rojo oscuro y negro, grano de película sutil, textura fotográfica realista y un estado de ánimo emocional e introspectivo. Mantén el rostro mayormente oculto en la sombra y la pose en lugar de hacerlo claramente visible, enfatizando el anonimato y la tensión.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein dramatisches, filmisches Studio-Porträt von {argument name=\"subject\" default=\"einem jungen Mann\"} im Seitenprofil, bekleidet mit {argument name=\"clothing\" default=\"einem schwarzen Kapuzenpullover\"}, den Kopf leicht gesenkt und eine Hand an die Stirn gepresst, als wäre er gestresst oder in tiefe Gedanken versunken. Verwende eine intensive {argument name=\"lighting color\" default=\"tief karmesinrote\"} Beleuchtung mit starkem Streiflicht, das die zerzausten, dunklen Locken, das Ohr, den Hals, die Hand und die Falten des Kapuzenpullovers betont, während der Großteil der Figur in fast schwarzem Schatten liegt. Füge atmosphärischen Rauch oder Dunst hinzu, der durch den Hintergrund wirbelt und vom roten Licht beleuchtet wird. Integriere im Hintergrund auf der rechten Seite eine große, weiche, geisterhafte Silhouette desselben Kopfes und der Schultern, wie bei einer psychologischen Doppelbelichtung. Die Komposition ist vertikal, eine Nahaufnahme von der Brust bis zum Kopf, das Motiv blickt nach links, mit hohem Kontrast, düsterem Noir-Stil, geringer Schärfentiefe, einer dunkelroten und schwarzen Farbpalette, subtilem Filmkorn, realistischer fotografischer Textur und einer emotionalen, introspektiven Stimmung. Das Gesicht sollte größtenteils im Schatten verborgen bleiben und die Pose sollte Anonymität und Spannung betonen, anstatt das Gesicht klar erkennbar zu machen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un portrait studio cinématographique dramatique de {argument name=\"subject\" default=\"un jeune homme\"} de profil, portant {argument name=\"clothing\" default=\"un sweat à capuche noir\"}, la tête légèrement inclinée avec une main pressée contre son front comme s'il était stressé ou plongé dans ses pensées. Utilisez un éclairage intense {argument name=\"lighting color\" default=\"rouge cramoisi profond\"} avec un puissant contre-jour soulignant les cheveux bouclés sombres et ébouriffés, l'oreille, le cou, la main et les plis du sweat, tandis que la majeure partie de la silhouette est plongée dans une ombre presque totale. Ajoutez de la fumée ou une brume atmosphérique tourbillonnant en arrière-plan, illuminée par la lumière rouge, et incluez une grande silhouette fantomatique et douce de la même tête et des mêmes épaules en arrière-plan sur la droite, comme une double exposition psychologique. La composition est verticale, en gros plan de la poitrine à la tête, le sujet tourné vers la gauche, avec un contraste élevé, un style noir et sombre, une faible profondeur de champ, une palette de couleurs rouge foncé et noir, un grain de film subtil, une texture photographique réaliste et une atmosphère émotionnelle et introspective. Gardez le visage principalement caché dans l'ombre et la pose plutôt que clairement visible, en mettant l'accent sur l'anonymat et la tension.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un drammatico ritratto in studio cinematografico di {argument name=\"subject\" default=\"un giovane uomo\"} di profilo, che indossa {argument name=\"clothing\" default=\"una felpa nera con cappuccio\"}, con la testa leggermente china e una mano premuta sulla fronte come se fosse stressato o immerso nei pensieri. Utilizza un'intensa illuminazione {argument name=\"lighting color\" default=\"rosso cremisi profondo\"} con una forte luce di contorno che delinei i capelli scuri ricci e disordinati, l'orecchio, il collo, la mano e le pieghe della felpa, mentre gran parte della figura rimane in un'ombra quasi totale. Aggiungi fumo atmosferico o foschia che vortica sullo sfondo, illuminato dalla luce rossa, e includi una grande e soffusa silhouette spettrale della stessa testa e spalle sullo sfondo a destra, come una doppia esposizione psicologica. La composizione è verticale, in primo piano dal petto alla testa, con il soggetto rivolto verso sinistra, caratterizzata da alto contrasto, stile noir malinconico, profondità di campo ridotta, tavolozza di colori rosso scuro e nero, sottile grana della pellicola, texture fotografica realistica e un'atmosfera emotiva e introspettiva. Mantieni il volto per lo più nascosto nell'ombra e nella posa piuttosto che chiaramente visibile, enfatizzando l'anonimato e la tensione.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um retrato de estúdio cinematográfico dramático de {argument name=\"subject\" default=\"um jovem\"} de perfil, vestindo {argument name=\"clothing\" default=\"um moletom preto com capuz\"}, com a cabeça levemente inclinada e uma mão pressionada contra a testa, como se estivesse estressado ou em profunda reflexão. Use uma iluminação intensa de {argument name=\"lighting color\" default=\"vermelho carmesim profundo\"} com uma forte luz de contorno destacando o cabelo escuro, cacheado e bagunçado, a orelha, o pescoço, a mão e as dobras do moletom, enquanto a maior parte da figura permanece em sombras quase pretas. Adicione fumaça atmosférica ou névoa girando pelo fundo, iluminada pela luz vermelha, e inclua uma silhueta fantasmagórica grande e suave da mesma cabeça e ombros ao fundo, à direita, como uma dupla exposição psicológica. A composição é vertical, em close-up do peito à cabeça, com o sujeito voltado para a esquerda, alto contraste, estilo noir melancólico, profundidade de campo rasa, paleta de cores em vermelho escuro e preto, granulação de filme sutil, textura fotográfica realista e uma atmosfera emocional introspectiva. Mantenha o rosto majoritariamente escondido na sombra e na pose, em vez de claramente visível, enfatizando o anonimato e a tensão.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Crimson Moody Double Exposure Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 深红忧郁双重曝光肖像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Retrato de doble exposición con ambiente carmesí",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Düsteres Porträt mit Doppelbelichtung in Karmesinrot",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Portrait en double exposition au style sombre et cramoisi",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Ritratto in doppia esposizione dai toni cremisi",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Retrato de Dupla Exposição em Tons Carmesim",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic red-lit portrait of a stressed anonymous figure with smoke and a ghostly background silhouette for dramatic editorial use.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张电影感十足的红光肖像，描绘了一个处于压力中的匿名人物，背景带有烟雾和幽灵般的轮廓，适用于戏剧性的编辑用途。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un portrait cinématographique baigné de lumière rouge représentant une silhouette anonyme sous tension, avec de la fumée et une silhouette fantomatique en arrière-plan pour un usage éditorial dramatique.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/SoonCrush/status/2051311471678935099#reversed-0",
+      "originalId": "https://x.com/SoonCrush/status/2051311471678935099#reversed-0",
+      "authors": [
+        {
+          "name": "小小海草",
+          "url": "https://x.com/SoonCrush"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 984
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_bad3a853c21ad68e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971054862_xeljaa_HHe4mOIbwAAALoS.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971054862_xeljaa_HHe4mOIbwAAALoS.jpg",
+      "localPath": "public/assets/prompt_01ea4ab521639902beef/8f9272c85773.jpg",
+      "alt": "Profile / Avatar - Crimson Moody Double Exposure Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.840Z"
+  }
+}

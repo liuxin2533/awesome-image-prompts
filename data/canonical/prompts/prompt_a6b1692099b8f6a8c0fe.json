@@ -1,0 +1,163 @@
+{
+  "id": "prompt_a6b1692099b8f6a8c0fe",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic anime-style vertical book-cover illustration for a romantic comedy light novel with slight fantasy atmosphere, split by a thin apartment wall down the center. On the left side, a warm, cozy kitchen glows in amber light from a hanging pendant lamp. A {argument name=\"female character name\" default=\"Nanako Iida\"}, age 28, stands in three-quarter view holding a deep plate of freshly cooked food with visible steam rising in elegant curls. She has dark hair tied in a messy bun, soft bangs, a gentle mature expression, and wears a lavender knit sweater under a white apron. The kitchen contains exact visible details: 1 hanging lamp, 1 upper shelf with cookware, 5 hanging utensils, 1 cutting board, 1 knife block, and 6 small bottles or jars lined across the foreground counter. On the right side, a dim, cool-toned bachelor bedroom is lit in blue shadows. A {argument name=\"male character name\" default=\"Sota Ninomiya\"}, age 26, slim but muscular, with tousled dark hair and a fitted charcoal T-shirt, leans one hand against the wall as if sensing the aroma through it. His room contains 1 bed, 1 bookshelf, 1 desk lamp, and 1 wall poster. A ribbon of steam drifts from the dish across the center wall into his side, visually connecting them. The mood is intimate, sensual, and slightly teasing, emphasizing the contrast between warm home cooking and lonely nighttime restraint. Add elegant Japanese vertical catch copy on the wall and upper right, small white serif-style name labels beside both characters with their ages, and a large bold Japanese title block across the lower middle. Include these exact text elements: left name label \"Nanako Iida 28歳\", right name label \"Sota Ninomiya 26歳\", vertical wall text \"その香りが、ふたりの距離を、そっと溶かしていく。\", upper-right vertical text \"隣人は、優しい香りと、秘密のレシピ。\", large center title \"《飯テロ恋愛小説》\\n夜中に読まないでください〜\\n〜お隣のストイックくんは、\\n隣のお姉さんの愛の飯テロに勝てない〜\", and bottom tagline \"毎晩続く深夜の罪な料理の香り。\\n壁一枚の距離と心を溶かす\". Highly polished promotional cover art, soft bloom lighting, detailed fabric folds, realistic steam, romantic tension, glossy illustrated publishing design.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Anime Split-Apartment Romance Cover",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - Anime Split-Apartment Romance Cover",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a polished anime-style Japanese light novel cover showing neighboring adults divided by a wall, ideal for romance-comedy or food-themed book promotion.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/hyzatu/status/2048784433076195518#reversed-0",
+      "originalId": "https://x.com/hyzatu/status/2048784433076195518#reversed-0",
+      "authors": [
+        {
+          "name": "ざつ＠『竜の姫と絆のユニゾン』『星槍とオムライス』『リリアンのプロの流儀』『B級グルメ革命』",
+          "url": "https://x.com/hyzatu"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3735
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_de7ed29f1c27774c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367338248_ctvgpf_HG6-Pg5a8AAvrZJ.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367338248_ctvgpf_HG6-Pg5a8AAvrZJ.jpg",
+      "localPath": "public/assets/prompt_a6b1692099b8f6a8c0fe/db6da1cf9597.jpg",
+      "alt": "Comic / Storyboard - Anime Split-Apartment Romance Cover - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.568Z"
+  }
+}

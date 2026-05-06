@@ -1,0 +1,93 @@
+{
+  "id": "prompt_94afe84dccd6e1a0cb2b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Three-image luxury golf editorial collage featuring a professional female golfer on a pristine putting green, soft natural daylight, minimalistic and high-end sports photography style, ultra-realistic, cinematic color grading, clean composition, no text, no logos\nLayout: asymmetrical grid (one large frame + two smaller frames)\nFrame 1 (Left – Hero Wide Shot):\nFull-body low-angle shot of the golfer crouching and lining up a putt, golf ball in foreground near the hole, strong leading lines on the green, balanced composition, calm and focused posture, expansive sky background\nFrame 2 (Top Right – Close-Up Detail):\nExtreme close-up of her face and hands gripping the putter, intense concentration, visible skin texture and slight sweat glow, shallow depth of field, blurred background\nFrame 3 (Bottom Right – Action Shot):\nSide angle of golfer completing the putt, smooth follow-through, golf ball rolling across the green, natural motion feel, soft shadows, realistic lighting\nStyle Keywords:\nluxury sports campaign, editorial photography, Nike-style aesthetic, muted green tones, sharp focus, 85mm lens look, depth of field, cinematic lighting, premium composition, 4K, hyper-realistic",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Luxury Golf Editorial Collage",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AIwithkhan/status/2051275667354890345",
+      "originalId": "case-110",
+      "authors": [
+        {
+          "name": "AIwithkhan",
+          "url": "https://x.com/AIwithkhan"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 809
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c6af1b39ad6f2cbd",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case110/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/portrait_case110/output.jpg",
+      "localPath": "public/assets/prompt_94afe84dccd6e1a0cb2b/c936c24c8e81.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

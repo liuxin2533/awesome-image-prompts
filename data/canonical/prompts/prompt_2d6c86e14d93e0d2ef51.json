@@ -1,0 +1,255 @@
+{
+  "id": "prompt_2d6c86e14d93e0d2ef51",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a 16-panel expression grid of a silver-haired, blue-eyed anime girl. Her face shape, hairstyle, and clothing must remain highly consistent across all panels. The 16 expressions should include: happy, sad, angry, surprised, shy, speechless, evil grin, contemplative, curious, proud, wronged, disdainful, confused, scared, crying, and a heart expression.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一张 16 格表情图，主角是一位银发蓝眼的动漫少女。她的脸型、发型和服装必须在所有格子中保持高度一致。16 种表情应包含：开心、难过、生气、惊讶、害羞、无语、邪魅一笑、沉思、好奇、自豪、委屈、不屑、困惑、害怕、哭泣，以及爱心表情。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "建立一張銀髮藍眼動漫少女的 16 格表情圖。她的臉型、髮型與服裝在所有格子中都要保持高度一致，16 種表情包含開心、悲傷、生氣、驚訝、害羞、無語、邪魅笑、沉思、好奇、自豪、委屈、不屑、困惑、害怕、哭泣與愛心表情。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "銀髪で青い目を持つアニメ少女の 16 コマ表情グリッドを作成する。顔の形、髪型、服装はすべてのコマで高い一貫性を保つこと。16 種類の表情には、喜び、悲しみ、怒り、驚き、恥じらい、無言、邪悪な笑み、思案、好奇心、誇り、理不尽さ、不遜、混乱、恐怖、泣き顔、ハート表情を含める。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "은발과 파란 눈을 가진 애니메이션 소녀의 16패널 표정 그리드를 만든다. 얼굴형, 헤어스타일, 의상은 모든 패널에서 매우 일관되어야 한다. 행복, 슬픔, 분노, 놀람, 수줍음, 말문 막힘, 사악한 미소, 사색, 호기심, 자부심, 억울함, 경멸, 혼란, 공포, 울음, 하트 표정을 포함한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une grille de 16 expressions d'une fille d'anime aux cheveux argentés et aux yeux bleus, avec une cohérence très forte du visage, de la coiffure et des vêtements dans toutes les cases.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein 16-Felder-Ausdrucksraster einer silberhaarigen, blauäugigen Anime-Figur. Gesichtsform, Frisur und Kleidung sollen in allen Panels hoch konsistent bleiben.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una cuadrícula de 16 expresiones de una chica anime de cabello plateado y ojos azules. La forma del rostro, el peinado y la ropa deben mantenerse muy consistentes en todos los paneles.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "16-Panel Anime Expression Grid",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "16 格动漫表情图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "16 格動漫表情圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "16 コマのアニメ表情グリッド",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "16패널 애니메이션 표정 그리드",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Grille d'expressions anime en 16 cases",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "16-Panel-Anime-Expressionsgrid",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cuadrícula anime de 16 expresiones",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-consistency",
+      "value": "🎭 Character & Consistency",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2805bea459",
+      "value": "🎭 角色与一致性",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_8a1fe5fa03",
+      "value": "🎭 角色與一致性",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_0ac8518673",
+      "value": "🎭 キャラクター・一貫性",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_96eb558749",
+      "value": "🎭 캐릭터와 일관성",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "personnages-et-coherence",
+      "value": "🎭 Personnages et cohérence",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "figuren-und-konsistenz",
+      "value": "🎭 Figuren und Konsistenz",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "personajes-y-consistencia",
+      "value": "🎭 Personajes y consistencia",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew",
+      "originalId": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew",
+      "authors": [
+        {
+          "name": "卡尔的AI沃茨",
+          "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew"
+        },
+        {
+          "name": "卡爾的AI沃茨",
+          "url": "https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 960
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 802
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 597
+        },
+        {
+          "file": "README:ja",
+          "line": 800
+        },
+        {
+          "file": "README:ko",
+          "line": 597
+        },
+        {
+          "file": "README:fr",
+          "line": 597
+        },
+        {
+          "file": "README:de",
+          "line": 597
+        },
+        {
+          "file": "README:es",
+          "line": 597
+        }
+      ],
+      "rawSource": "[卡尔的AI沃茨](https://mp.weixin.qq.com/s/ASxig6mFVYxrIE8-8Fthew)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_feae46485bb8a063",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/27258fa9-086e-4dfa-b61e-d9ada90425b2",
+      "upstreamPath": "https://github.com/user-attachments/assets/27258fa9-086e-4dfa-b61e-d9ada90425b2",
+      "localPath": "public/assets/prompt_2d6c86e14d93e0d2ef51/52a2490e009d.jpg",
+      "alt": "image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_264aa037d5f4229f",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/81bf2289-6a5d-404a-a0d3-a781c47918e6",
+      "upstreamPath": "https://github.com/user-attachments/assets/81bf2289-6a5d-404a-a0d3-a781c47918e6",
+      "localPath": "public/assets/prompt_2d6c86e14d93e0d2ef51/b3ab58bd0bb0.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

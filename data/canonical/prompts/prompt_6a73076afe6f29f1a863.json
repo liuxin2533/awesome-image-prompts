@@ -1,0 +1,105 @@
+{
+  "id": "prompt_6a73076afe6f29f1a863",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张校园日报，主题AI教育",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a campus daily newspaper, theme AI education",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "聚焦人工智能的校园日报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "AI-focused campus daily newspaper",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:39:56.674Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_cd21c3d24d",
+      "value": "聚焦人工智能的校园日报",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-293",
+      "originalId": "case-293",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2044824800909054181"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3693
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2044824800909054181)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d6de9da81212c100",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case293.jpg",
+      "upstreamPath": "../data/images/case293.jpg",
+      "localPath": "public/assets/prompt_6a73076afe6f29f1a863/8c57b4c8e2f8.jpg",
+      "alt": "聚焦人工智能的校园日报",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "education"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

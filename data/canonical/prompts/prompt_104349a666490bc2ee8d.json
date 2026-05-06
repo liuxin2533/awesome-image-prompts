@@ -1,0 +1,102 @@
+{
+  "id": "prompt_104349a666490bc2ee8d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a minimalist black-and-white vector avatar logo of a mythic anime woman shown in elegant side profile facing right, cropped from the chest up on a plain white background. Give her long flowing {argument name=\"hair color\" default=\"black\"} hair with bold white highlight streaks and smooth graphic shapes, rendered as high-contrast ink silhouette art with clean sharp edges. She wears a winged headpiece reminiscent of Hermes or a messenger god helmet, with one large white feathered wing visible on the side of her head and a circular metallic earpiece detail. Dress her in a sleek high-collar garment with a luxury-fashion feel, and hang a prominent pendant or zipper pull shaped like the letter {argument name=\"monogram letter\" default=\"H\"} at the center of the collar. The face is intentionally obscured by a centered soft gray rectangular blur block covering most facial features, creating a censored anonymous profile-image effect. Overall style: luxury brand avatar, fashion logo, anime-inspired goddess silhouette, monochrome vector emblem, smooth negative-space highlights, balanced composition, modern and iconic, suitable for a social media profile picture.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个极简黑白矢量头像标志，展示一位神话动漫女性，优雅的右侧侧面轮廓，从胸部以上裁剪，背景为纯白色。给她长而飘逸的{argument name=\"hair color\" default=\"black\"}头发，带有醒目的白色高光条纹和流畅的图形形状，以高对比度的墨水剪影艺术呈现，边缘清晰锐利。她戴着带翅膀的头饰，让人想起赫尔墨斯或信使神的头盔，头部一侧可见一个大型白色羽毛翅膀，还有一个圆形金属耳饰细节。让她穿着一件时尚的高领服装，带有奢侈时尚感，并在衣领中心悬挂一个醒目的吊坠或拉链头，形状像字母{argument name=\"monogram letter\" default=\"H\"}。面部被居中的柔和灰色矩形模糊块有意遮挡，覆盖大部分面部特征，创造出被审查的匿名个人资料图片效果。整体风格：奢侈品牌头像，时尚标志，动漫风格女神剪影，单色矢量徽章，流畅的负空间高光，平衡的构图，现代和标志性，适合用作社交媒体个人资料图片。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:00:42.557Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Monochrome Hermes-Inspired Avatar",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/jiajia232016/status/2048044100793032976",
+      "originalId": "case-92",
+      "authors": [
+        {
+          "name": "jiajia232016",
+          "url": "https://x.com/jiajia232016"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 569
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_42ba0913edea4868",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case92/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case92/output.jpg",
+      "localPath": "public/assets/prompt_104349a666490bc2ee8d/1e10437371a3.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "品牌",
+      "标志"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.551Z"
+  }
+}

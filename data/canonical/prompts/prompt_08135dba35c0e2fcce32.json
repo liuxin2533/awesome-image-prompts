@@ -1,0 +1,132 @@
+{
+  "id": "prompt_08135dba35c0e2fcce32",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"educational infographic\",\"subject\":\"periodic table of the elements in Japanese\",\"style\":\"clean flat textbook poster, crisp vector lines, white background, black text, minimalist scientific layout\",\"language\":\"Japanese\",\"canvas\":{\"orientation\":\"landscape\",\"aspect_ratio\":\"16:9\",\"background\":\"white\",\"margin\":\"generous outer whitespace\"},\"table\":{\"grid\":\"standard 18-column periodic table\",\"cell_style\":{\"border\":\"thin dark gray outline\",\"corner_style\":\"square\",\"fill\":\"pastel by block\",\"number_position\":\"top-left\",\"symbol_position\":\"large centered uppercase Latin letters\",\"name_position\":\"small Japanese text near bottom\"},\"color_coding\":{\"s_block\":\"pale blue\",\"d_block\":\"pale cream yellow\",\"p_block\":\"pale mint green\",\"f_block\":\"pale lavender\"},\"sections\":[{\"title\":\"main periodic table\",\"position\":\"upper center\",\"count\":90,\"labels\":[\"H\",\"He\",\"Li\",\"Be\",\"B\",\"C\",\"N\",\"O\",\"F\",\"Ne\",\"Na\",\"Mg\",\"Al\",\"Si\",\"P\",\"S\",\"Cl\",\"Ar\",\"K\",\"Ca\",\"Sc\",\"Ti\",\"V\",\"Cr\",\"Mn\",\"Fe\",\"Co\",\"Ni\",\"Cu\",\"Zn\",\"Ga\",\"Ge\",\"As\",\"Se\",\"Br\",\"Kr\",\"Rb\",\"Sr\",\"Y\",\"Zr\",\"Nb\",\"Mo\",\"Tc\",\"Ru\",\"Rh\",\"Pd\",\"Ag\",\"Cd\",\"In\",\"Sn\",\"Sb\",\"Te\",\"I\",\"Xe\",\"Cs\",\"Ba\",\"La\",\"Hf\",\"Ta\",\"W\",\"Re\",\"Os\",\"Ir\",\"Pt\",\"Au\",\"Hg\",\"Tl\",\"Pb\",\"Bi\",\"Po\",\"At\",\"Rn\",\"Fr\",\"Ra\",\"Ac\",\"Rf\",\"Db\",\"Sg\",\"Bh\",\"Hs\",\"Mt\",\"Ds\",\"Rg\",\"Cn\",\"Nh\",\"Fl\",\"Mc\",\"Lv\",\"Ts\",\"Og\"]},{\"title\":\"lanthanides row\",\"position\":\"bottom left below main table\",\"count\":14,\"labels\":[\"Ce\",\"Pr\",\"Nd\",\"Pm\",\"Sm\",\"Eu\",\"Gd\",\"Tb\",\"Dy\",\"Ho\",\"Er\",\"Tm\",\"Yb\",\"Lu\"]},{\"title\":\"actinides row\",\"position\":\"bottom left under lanthanides\",\"count\":14,\"labels\":[\"Th\",\"Pa\",\"U\",\"Np\",\"Pu\",\"Am\",\"Cm\",\"Bk\",\"Cf\",\"Es\",\"Fm\",\"Md\",\"No\",\"Lr\"]}],\"highlighted_special_positions\":{\"hydrogen\":\"top-left isolated blue cell\",\"helium\":\"top-right isolated blue cell\",\"lanthanum\":\"in main table after Ba\",\"actinium\":\"in main table after Ra\"},\"content_requirements\":{\"each_cell_contains\":[\"atomic number\",\"chemical symbol\",\"Japanese element name\"],\"examples\":[{\"symbol\":\"H\",\"name\":\"水素\",\"number\":1},{\"symbol\":\"He\",\"name\":\"ヘリウム\",\"number\":2},{\"symbol\":\"Fe\",\"name\":\"鉄\",\"number\":26},{\"symbol\":\"Au\",\"name\":\"金\",\"number\":79},{\"symbol\":\"Og\",\"name\":\"オガネソン\",\"number\":118}]},\"customization\":{\"headline\":\"none\",\"legend\":\"none visible\",\"title\":\"none visible on image\"},\"quality\":\"high-resolution, perfectly aligned cells, legible Japanese typography, accurate modern element list up to 118\"}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Japanese Color-Coded Periodic Table",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - Japanese Color-Coded Periodic Table",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Japanese Color-Coded Periodic Table",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Japanese Color-Coded Periodic Table",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Japanese Color-Coded Periodic Table",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Japanese Color-Coded Periodic Table",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Japanese Color-Coded Periodic Table",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A clean educational poster showing the full periodic table in Japanese with pastel color coding by block, suitable for textbooks, classroom visuals, and science reference graphics.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Periodic_apt/status/2048794845968506887#reversed-0",
+      "originalId": "https://x.com/Periodic_apt/status/2048794845968506887#reversed-0",
+      "authors": [
+        {
+          "name": "波斯波＠Periodic Apartment",
+          "url": "https://x.com/Periodic_apt"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2195
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a36d3fa2c7ec54f7",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367336290_ix8dbu_HG7IDhJbAAANNlk.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367336290_ix8dbu_HG7IDhJbAAANNlk.jpg",
+      "localPath": "public/assets/prompt_08135dba35c0e2fcce32/a9e67beb5e5c.jpg",
+      "alt": "Infographic / Edu Visual - Japanese Color-Coded Periodic Table - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "education",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.563Z"
+  }
+}

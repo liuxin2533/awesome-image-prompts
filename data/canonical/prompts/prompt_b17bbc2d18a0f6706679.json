@@ -1,0 +1,105 @@
+{
+  "id": "prompt_b17bbc2d18a0f6706679",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Avant-garde sports fashion advertisement, oversized basketball posed like a monumental sculpture, female athlete reclining across the ball’s curved surface as if modern furniture, giant word “ELEVATE” in bold typography behind, burnt orange studio backdrop, glossy reflective floor, luxury athletic editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "先锋运动时尚广告，超大号篮球被塑造成纪念碑雕塑，女运动员斜倚在球弧形表面上，如同现代家具，后方有巨大的\"ELEVATE\"字样，采用粗体排版，焦橙色摄影棚背景，光滑反光地板，奢华运动编辑美学，电影感照明，极简构图，1:1",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:51.456Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Avant-Garde Basketball Sculpture Sports Fashion Ad",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "前卫篮球雕塑运动时尚广告",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:49.416Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AIwithkhan/status/2047886964037398989",
+      "originalId": "case-73",
+      "authors": [
+        {
+          "name": "AIwithkhan",
+          "url": "https://x.com/AIwithkhan"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 970
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e4510ea9fa864431",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case73/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case73/output.jpg",
+      "localPath": "public/assets/prompt_b17bbc2d18a0f6706679/d1bb0cb0011d.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "poster"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

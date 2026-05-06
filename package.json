@@ -6,6 +6,7 @@
     "ingest": "node scripts/ingestion/cli.js ingest",
     "validate": "node scripts/ingestion/cli.js validate",
     "translate": "node scripts/ingestion/translation.js translate",
+    "classify": "node scripts/ingestion/classification.js",
     "assets:mirror": "node scripts/ingestion/assets.js mirror",
     "report:refresh": "node scripts/ingestion/report-current.js",
     "catalog:export": "node scripts/catalog/export.js",

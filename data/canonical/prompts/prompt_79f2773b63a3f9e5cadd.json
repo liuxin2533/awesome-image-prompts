@@ -1,0 +1,167 @@
+{
+  "id": "prompt_79f2773b63a3f9e5cadd",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A bright anime-style fantasy travel scene in front of Niseko View Plaza in Hokkaido, with a clear blue sky, scattered white clouds, and a huge snow-capped mountain rising in the background. The setting is a roadside plaza parking area with a modern black-and-wood station building on the left, visible Japanese signage reading \"道の駅 ニセコビュープラザ\" and \"Niseko View Plaza,\" a vertical banner reading \"ようこそ ニセコへ,\" a tall food sign reading \"名物 じゃがいも,\" and a dark wayfinding sign on the right reading \"ニセコ Niseko\" with 4 listed icons and labels: \"名産品 Local Products,\" \"農産物直売所 Farmer's Market,\" \"レストラン Restaurant,\" and \"情報コーナー Information.\" In the center, a glamorous fox-eared anime girl sits sideways atop a giant iridescent translucent soap bubble, smiling and gesturing upward with one hand. She has {argument name=\"hair color\" default=\"shimmering pastel silver-lilac\"} very long wavy hair, large fluffy fox ears, and a huge fluffy fox tail with rainbow-reflective highlights. Her outfit is an elaborate sparkling translucent-white and pale blue dress with holographic sheen, layered sleeves, gemstone accents, ribbons, and glossy lace-up ankle boots with bows, giving her a magical bubble-fox idol appearance. Around her float multiple smaller soap bubbles, catching rainbow light. Three fox-girl friends gather around meeting her at the plaza: 1 dark-haired fox-eared girl in a navy jacket with a Niseko patch, holding a vanilla soft-serve ice cream and looking toward the center; 1 khaki-clad fox-eared girl in an outdoor jacket and a dark cap with \"HOTEL\" lettering, holding a grilled corn cob; and 1 white-haired fox-eared girl in a shiny pearly hooded jacket and beret, holding a takeaway coffee cup and wearing a black backpack. Emphasize a cheerful reunion mood, travel photography composition blended with polished anime illustration, detailed environmental signage, reflective bubble surfaces, soft sunlight, crisp mountain air, and high-detail painterly rendering.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Bubble Fox Friends Meet in Niseko",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Bubble Fox Friends Meet in Niseko",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a detailed anime travel illustration of fox girls reuniting at Niseko View Plaza with iridescent soap bubbles and a dramatic mountain backdrop, ideal for scenic character art.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/terunari/status/2048871017519698227#reversed-0",
+      "originalId": "https://x.com/terunari/status/2048871017519698227#reversed-0",
+      "authors": [
+        {
+          "name": "輝鳴紅葉🫧🌸シャボン玉のバーチャルビデオ屋",
+          "url": "https://x.com/terunari"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1628
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b6936117f45d3eae",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367322024_6jvsd1_HG8Mj2_aQAAqNxU.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367322024_6jvsd1_HG8Mj2_aQAAqNxU.jpg",
+      "localPath": "public/assets/prompt_79f2773b63a3f9e5cadd/6bb86295a32d.jpg",
+      "alt": "Social Media Post - Bubble Fox Friends Meet in Niseko - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

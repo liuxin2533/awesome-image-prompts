@@ -1,0 +1,186 @@
+{
+  "id": "prompt_7163eda3599c80881e02",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{argument name=\"aspect ratio\" default=\"16:9 landscape\"}. {argument name=\"model\" default=\"A model girl\"} is being asked by an entertainment reporter about {argument name=\"interview topic\" default=\"a romantic relationship with another male celebrity\"}. During a TV interview, a caption saying \"{argument name=\"caption\" default=\"It's a secret❤\"}\" is added to the screen. The screen is a talk show layout with a picture-in-picture window in the bottom left and a time display in the top right. Configure the screen with captions like 'Breaking News' or 'Exclusive Interview'. The model girl says, 'It's a secret❤' with an appropriate pose, putting a forefinger to her mouth and winking with one eye.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{argument name=\"aspect ratio\" default=\"16:9 landscape\"}. {argument name=\"model\" default=\"A model girl\"} 正在被娱乐记者询问关于 {argument name=\"interview topic\" default=\"a romantic relationship with another male celebrity\"}。在电视采访中，屏幕上添加了写着 \"{argument name=\"caption\" default=\"It's a secret❤\"}\" 的标题。屏幕是脱口秀布局，左下角有画中画窗口，右上角有时间显示。在屏幕上配置'突发新闻'或'独家专访'等标题。模特女孩说'这是个秘密❤'，做出适当的姿势，将食指放在嘴边，一只眼睛眨眼。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:47:27.663Z"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "{argument name=\"aspect ratio\" default=\"16:9 landscape\"}. {argument name=\"model\" default=\"Một cô gái người mẫu\"} đang được một phóng viên giải trí hỏi về {argument name=\"interview topic\" default=\"mối quan hệ tình cảm với một nam người nổi tiếng khác\"}. Trong buổi phỏng vấn trên truyền hình, một phụ đề ghi \"{argument name=\"caption\" default=\"Đó là một bí mật❤\"}\" được thêm vào màn hình. Màn hình có bố cục của một chương trình trò chuyện với cửa sổ hình trong hình (picture-in-picture) ở góc dưới bên trái và hiển thị thời gian ở góc trên bên phải. Thiết lập màn hình với các phụ đề như 'Tin nóng' hoặc 'Phỏng vấn độc quyền'. Cô gái người mẫu nói, 'Đó là một bí mật❤' với tư thế phù hợp, đặt ngón trỏ lên miệng và nháy một mắt.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{argument name=\"aspect ratio\" default=\"16:9 landscape\"}. Una {argument name=\"model\" default=\"modelo\"} es entrevistada por un reportero de espectáculos sobre {argument name=\"interview topic\" default=\"una relación romántica con otro famoso\"}. Durante la entrevista televisiva, se añade un subtítulo que dice \"{argument name=\"caption\" default=\"Es un secreto❤\"}\" en la pantalla. La pantalla presenta un diseño de programa de entrevistas con una ventana de imagen sobre imagen (PiP) en la parte inferior izquierda y un reloj en la parte superior derecha. Configura la pantalla con rótulos como 'Última hora' o 'Entrevista exclusiva'. La modelo dice: 'Es un secreto❤' con una pose adecuada, llevándose el dedo índice a la boca y guiñando un ojo.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{argument name=\"aspect ratio\" default=\"16:9 landscape\"}. {argument name=\"model\" default=\"Ein Model-Mädchen\"} wird von einem Unterhaltungsreporter zu {argument name=\"interview topic\" default=\"einer romantischen Beziehung mit einem anderen männlichen Prominenten\"} befragt. Während des TV-Interviews wird ein Untertitel mit dem Text „{argument name=\"caption\" default=\"Es ist ein Geheimnis❤\"}“ eingeblendet. Der Bildschirm zeigt ein Talkshow-Layout mit einem Bild-im-Bild-Fenster unten links und einer Zeitanzeige oben rechts. Konfigurieren Sie den Bildschirm mit Untertiteln wie „Breaking News“ oder „Exklusiv-Interview“. Das Model-Mädchen sagt: „Es ist ein Geheimnis❤“ und nimmt dabei eine passende Pose ein, indem sie den Zeigefinger auf den Mund legt und mit einem Auge zwinkert.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{argument name=\"aspect ratio\" default=\"16:9 paysage\"}. {argument name=\"model\" default=\"Une jeune mannequin\"} est interrogée par un journaliste people sur {argument name=\"interview topic\" default=\"une relation amoureuse avec une autre célébrité masculine\"}. Lors de l'interview télévisée, un sous-titre indiquant « {argument name=\"caption\" default=\"C'est un secret❤\"} » est ajouté à l'écran. L'écran présente une mise en page de talk-show avec une fenêtre incrustée (PIP) en bas à gauche et un affichage de l'heure en haut à droite. Configurez l'écran avec des bandeaux tels que « Breaking News » ou « Interview exclusive ». La mannequin dit « C'est un secret❤ » en adoptant une pose appropriée, en posant un index sur sa bouche et en faisant un clin d'œil.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{argument name=\"aspect ratio\" default=\"16:9 landscape\"}. {argument name=\"model\" default=\"Una modella\"} viene intervistata da un reporter di intrattenimento riguardo a {argument name=\"interview topic\" default=\"una relazione romantica con un altro celebre attore\"}. Durante l'intervista televisiva, sullo schermo viene aggiunta una didascalia che recita \"{argument name=\"caption\" default=\"È un segreto❤\"}\". Lo schermo presenta il layout di un talk show con una finestra picture-in-picture in basso a sinistra e un indicatore di tempo in alto a destra. Configura lo schermo con didascalie come 'Breaking News' o 'Intervista Esclusiva'. La modella dice: 'È un segreto❤' con una posa appropriata, portando l'indice alla bocca e facendo l'occhiolino.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{argument name=\"aspect ratio\" default=\"16:9 landscape\"}. {argument name=\"model\" default=\"Uma modelo\"} está sendo entrevistada por um repórter de entretenimento sobre {argument name=\"interview topic\" default=\"um relacionamento romântico com outro celebridade masculino\"}. Durante a entrevista de TV, uma legenda dizendo \"{argument name=\"caption\" default=\"É um segredo❤\"}\" é adicionada à tela. A tela segue o layout de um talk show, com uma janela picture-in-picture no canto inferior esquerdo e um relógio no canto superior direito. Configure a tela com legendas como 'Últimas Notícias' ou 'Entrevista Exclusiva'. A modelo diz: 'É um segredo❤' com uma pose apropriada, colocando o dedo indicador na boca e piscando um olho.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - TV Interview Scene with Captions",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 带字幕的电视采访场景",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình thu nhỏ trên YouTube - Cảnh phỏng vấn trên truyền hình kèm phụ đề",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Escena de entrevista televisiva con subtítulos",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - TV-Interview-Szene mit Untertiteln",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Scène d'interview télévisée avec sous-titres",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Scena di intervista televisiva con sottotitoli",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Cena de entrevista de TV com legendas",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for generating a wide-screen TV interview scene with specific UI elements like wipes, time displays, and news tickers.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于生成宽屏电视采访场景的提示词，包含特定的UI元素，如转场效果、时间显示和新闻滚动条。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:42:09.073Z"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt pour générer une scène d'interview télévisée au format large avec des éléments d'interface spécifiques tels que des transitions, des affichages de l'heure et des bandeaux d'information.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/kai_tetu/status/2048907847841481134",
+      "originalId": "https://x.com/kai_tetu/status/2048907847841481134",
+      "authors": [
+        {
+          "name": "kai",
+          "url": "https://x.com/kai_tetu"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2979
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2f3914163b73e21a",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367276002_b3pk02_HG8pBwzaoAARCOU.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367276002_b3pk02_HG8pBwzaoAARCOU.jpg",
+      "localPath": "public/assets/prompt_7163eda3599c80881e02/29fb5334df87.jpg",
+      "alt": "YouTube Thumbnail - TV Interview Scene with Captions - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

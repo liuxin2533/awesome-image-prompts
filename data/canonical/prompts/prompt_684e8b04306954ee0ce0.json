@@ -1,0 +1,174 @@
+{
+  "id": "prompt_684e8b04306954ee0ce0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a dramatic Japanese YouTube thumbnail in a hyper-aggressive clickbait style, 16:9 landscape, with a dark black-and-crimson background filled with red lightning, smoky clouds, glowing sparks, ink splatter, and explosive energy. The composition has 4 main text areas and 2 graphic icon elements. Across the top, place huge distressed white Japanese headline text reading {argument name=\"top headline text\" default=\"動画編集ディレクター\"}, using an extra-bold block font with rough grunge texture, black outline, and heavy shadow. In the center, place the dominant oversized kanji {argument name=\"main title text\" default=\"全滅\"} in a massive shattered font, red at the top fading to yellow at the bottom, with cracked stone texture, black border, debris fragments, and impact glow, occupying most of the frame. At the lower center, add a black slanted banner with a white border containing bright yellow and red Japanese text reading {argument name=\"warning text\" default=\"このままだと仕事がなくなる…!?\"}, bold and urgent. On the left side, add a vertical black panel listing exactly 4 warning items, each preceded by a red X mark: 「案件減少」, 「単価下落」, 「AIの台頭」, 「オワコン化」. On the right side, show a cropped photo-real Japanese man from chest up, facing slightly left, wearing a black T-shirt, with short dark hair and a strong red rim light around his silhouette; his face is partially obscured by a rectangular mosaic censor block in skin-brown tones. At the lower right, include exactly 2 Adobe-style app icons, 「Pr」 and 「Ae」, dark blue-purple rounded squares, partially overlapping, both cracked like broken glass and crossed out with one large diagonal red paint slash X spanning the icons. Add a subtle dark city skyline silhouette in the lower left background. Overall look: sensational, destructive, high contrast, gritty, overloaded with texture, with intense red/black color grading, thick shadows, dramatic glow, and polished viral-thumbnail composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个极具视觉冲击力的日本 YouTube 缩略图，采用超激进的点击诱饵风格，16:9 横屏比例。背景为深邃的黑红配色，充满红色闪电、烟雾云团、发光火花、墨迹飞溅和爆炸能量。构图包含 4 个主要文本区域和 2 个图形图标元素。在顶部，放置巨大的做旧白色日文标题文本 {argument name=\"top headline text\" default=\"動画編集ディレクター\"}，使用超粗体块状字体，带有粗糙的磨损质感、黑色描边和厚重的阴影。在中心位置，放置占据画面大部分区域的超大主标题汉字 {argument name=\"main title text\" default=\"全滅\"}，采用破碎字体，颜色从顶部的红色渐变至底部的黄色，带有裂纹石材质感、黑色边框、碎片残骸和冲击光效。在下方中心，添加一个带有白色边框的黑色斜向横幅，内含亮黄色和红色的紧急日文文本 {argument name=\"warning text\" default=\"このままだと仕事がなくなる…!?\"}。在左侧，添加一个垂直的黑色面板，列出 4 个警告事项，每项前均带有红色 X 标记： 「案件減少」, 「単価下落」, 「AIの台頭」, 「オワコン化」。在右侧，展示一名胸部以上的写实风格日本男性，略微向左侧身，身穿黑色 T 恤，留着深色短发，轮廓边缘带有强烈的红色轮廓光；他的脸部被一个肤色调的矩形马赛克遮挡。在右下角，包含 2 个 Adobe 风格的应用程序图标「Pr」和「Ae」，采用深蓝紫色圆角矩形，部分重叠，两者均呈现出破碎的玻璃质感，并被一道巨大的红色斜向油漆划痕 X 覆盖。在左下角背景中添加一个隐约的暗色城市天际线轮廓。整体视觉效果：耸人听闻、破坏性强、高对比度、粗粝感、纹理丰富，并配以强烈的红黑调色、厚重阴影、戏剧性光效和精致的病毒式缩略图构图。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una miniatura de YouTube dramática en japonés con un estilo clickbait hiperagresivo, formato horizontal 16:9, con un fondo oscuro de color negro y carmesí lleno de rayos rojos, nubes de humo, chispas brillantes, salpicaduras de tinta y energía explosiva. La composición tiene 4 áreas de texto principales y 2 elementos gráficos. En la parte superior, coloca un titular enorme en japonés con texto blanco desgastado que diga {argument name=\"top headline text\" default=\"動画編集ディレクター\"}, usando una fuente de bloque extra negrita con textura grunge rugosa, contorno negro y sombra pesada. En el centro, coloca el kanji dominante de gran tamaño {argument name=\"main title text\" default=\"全滅\"} en una fuente masiva y fragmentada, de color rojo en la parte superior que se desvanece a amarillo en la parte inferior, con textura de piedra agrietada, borde negro, fragmentos de escombros y un resplandor de impacto, ocupando la mayor parte del encuadre. En la parte inferior central, añade una banda negra inclinada con un borde blanco que contenga texto en japonés de color amarillo brillante y rojo que diga {argument name=\"warning text\" default=\"このままだと仕事がなくなる…!?\"}, en negrita y con tono urgente. En el lado izquierdo, añade un panel vertical negro que enumere exactamente 4 puntos de advertencia, cada uno precedido por una marca X roja: 「案件減少」, 「単価下落」, 「AIの台頭」, 「オワコン化」. En el lado derecho, muestra una foto realista recortada de un hombre japonés de pecho hacia arriba, mirando ligeramente a la izquierda, vistiendo una camiseta negra, con cabello oscuro corto y una fuerte luz de contorno roja alrededor de su silueta; su rostro está parcialmente oscurecido por un bloque de censura de mosaico rectangular en tonos color piel. En la parte inferior derecha, incluye exactamente 2 iconos de aplicaciones estilo Adobe, 「Pr」 y 「Ae」, cuadrados redondeados de color azul oscuro púrpura, parcialmente superpuestos, ambos agrietados como vidrio roto y tachados con una gran X diagonal de pintura roja que abarca los iconos. Añade una silueta sutil de un horizonte urbano oscuro en el fondo inferior izquierdo. Aspecto general: sensacionalista, destructivo, de alto contraste, arenoso, sobrecargado de texturas, con una intensa gradación de color rojo/negro, sombras gruesas, resplandor dramático y una composición pulida para una miniatura viral.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein dramatisches japanisches YouTube-Thumbnail im hyper-aggressiven Clickbait-Stil, 16:9-Querformat, mit einem dunkel-schwarzen und karmesinroten Hintergrund voller roter Blitze, rauchiger Wolken, glühender Funken, Tintenspritzer und explosiver Energie. Die Komposition enthält 4 Haupttextbereiche und 2 grafische Icon-Elemente. Platziere oben riesigen, abgenutzten weißen japanischen Schlagzeilentext mit dem Inhalt {argument name=\"top headline text\" default=\"動画編集ディレクター\"}, unter Verwendung einer extra fetten Blockschrift mit rauer Grunge-Textur, schwarzer Umrandung und starkem Schatten. Platziere in der Mitte das dominante, überdimensionale Kanji {argument name=\"main title text\" default=\"全滅\"} in einer massiven, zerbrochenen Schriftart, die oben rot ist und nach unten hin gelb verblasst, mit rissiger Steinstruktur, schwarzem Rand, Trümmerfragmenten und einem Aufprall-Leuchten, das den Großteil des Bildes einnimmt. Füge unten in der Mitte ein schwarzes, schräges Banner mit weißem Rand hinzu, das hellgelben und roten japanischen Text enthält: {argument name=\"warning text\" default=\"このままだと仕事がなくなる…!?\"}, fett und dringlich. Füge auf der linken Seite ein vertikales schwarzes Panel hinzu, das genau 4 Warnpunkte auflistet, jeweils mit einem roten X-Symbol davor: 「案件減少」, 「単価下落」, 「AIの台頭」, 「オワコン化」. Zeige auf der rechten Seite ein zugeschnittenes, fotorealistisches Foto eines japanischen Mannes von der Brust aufwärts, der leicht nach links schaut, ein schwarzes T-Shirt trägt, kurzes dunkles Haar hat und ein starkes rotes Kantenlicht um seine Silhouette aufweist; sein Gesicht ist teilweise durch einen rechteckigen Mosaik-Zensurbalken in hautfarbenen Tönen verdeckt. Füge unten rechts genau 2 App-Icons im Adobe-Stil hinzu, 「Pr」 und 「Ae」, dunkelblau-violette abgerundete Quadrate, die sich teilweise überlappen, beide wie zerbrochenes Glas gesprungen und mit einem großen diagonalen roten Pinselstrich-X durchgestrichen, das sich über beide Icons erstreckt. Füge im unteren linken Hintergrund eine subtile dunkle Skyline einer Stadt hinzu. Gesamtoptik: sensationell, destruktiv, kontrastreich, düster, überladen mit Texturen, mit intensiver Rot-Schwarz-Farbkorrektur, dicken Schatten, dramatischem Leuchten und einer ausgefeilten viralen Thumbnail-Komposition.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une miniature YouTube japonaise dramatique dans un style clickbait hyper-agressif, format paysage 16:9, avec un arrière-plan noir et cramoisi sombre rempli d'éclairs rouges, de nuages enfumés, d'étincelles lumineuses, d'éclaboussures d'encre et d'énergie explosive. La composition comporte 4 zones de texte principales et 2 éléments graphiques. En haut, placez un énorme titre japonais en détresse indiquant {argument name=\"top headline text\" default=\"動画編集ディレクター\"}, en utilisant une police grasse avec une texture grunge rugueuse, un contour noir et une ombre portée marquée. Au centre, placez le kanji dominant surdimensionné {argument name=\"main title text\" default=\"全滅\"} dans une police massive et brisée, rouge en haut se dégradant vers le jaune en bas, avec une texture de pierre fissurée, une bordure noire, des débris et un éclat d'impact, occupant la majeure partie du cadre. En bas au centre, ajoutez une bannière noire inclinée avec une bordure blanche contenant un texte japonais jaune vif et rouge indiquant {argument name=\"warning text\" default=\"このままだと仕事がなくなる…!?\"}, en gras et urgent. Sur le côté gauche, ajoutez un panneau vertical noir listant exactement 4 points d'avertissement, chacun précédé d'une croix rouge : 「案件減少」, 「単価下落」, 「AIの台頭」, 「オワコン化」. Sur le côté droit, montrez un homme japonais photoréaliste recadré de la poitrine vers le haut, tourné légèrement vers la gauche, portant un T-shirt noir, avec des cheveux courts foncés et une forte lumière rouge sur le contour de sa silhouette ; son visage est partiellement masqué par un bloc de censure en mosaïque dans les tons chair. En bas à droite, incluez exactement 2 icônes d'applications de style Adobe, 「Pr」 et 「Ae」, des carrés arrondis bleu-violet foncé, se chevauchant partiellement, tous deux fissurés comme du verre brisé et barrés d'une grande croix rouge en peinture diagonale recouvrant les icônes. Ajoutez une silhouette subtile de paysage urbain sombre en bas à gauche de l'arrière-plan. Aspect général : sensationnel, destructeur, contraste élevé, granuleux, surchargé de textures, avec un étalonnage des couleurs rouge/noir intense, des ombres épaisses, une lueur dramatique et une composition de miniature virale soignée.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una drammatica miniatura YouTube giapponese in uno stile clickbait iper-aggressivo, formato panoramico 16:9, con uno sfondo nero e cremisi scuro pieno di fulmini rossi, nuvole fumose, scintille luminose, schizzi d'inchiostro ed energia esplosiva. La composizione presenta 4 aree di testo principali e 2 elementi grafici. In alto, posiziona un enorme titolo giapponese in bianco dall'aspetto rovinato con la scritta {argument name=\"top headline text\" default=\"動画編集ディレクター\"}, utilizzando un font a blocchi extra-grassetto con una texture grunge ruvida, contorno nero e ombra pesante. Al centro, posiziona il kanji dominante sovradimensionato {argument name=\"main title text\" default=\"全滅\"} con un font massiccio e frantumato, rosso nella parte superiore che sfuma verso il giallo in quella inferiore, con texture di pietra incrinata, bordo nero, frammenti di detriti e bagliore d'impatto, che occupa gran parte dell'inquadratura. Nella parte inferiore centrale, aggiungi un banner nero inclinato con un bordo bianco contenente testo giapponese giallo brillante e rosso con la scritta {argument name=\"warning text\" default=\"このままだと仕事がなくなる…!?\"}, in grassetto e urgente. Sul lato sinistro, aggiungi un pannello verticale nero che elenca esattamente 4 punti di avvertimento, ognuno preceduto da una X rossa: 「案件減少」, 「単価下落」, 「AIの台頭」, 「オワコン化」. Sul lato destro, mostra un uomo giapponese fotorealistico ritagliato dal petto in su, rivolto leggermente a sinistra, che indossa una maglietta nera, con capelli scuri corti e una forte luce rossa sul bordo della silhouette; il suo volto è parzialmente oscurato da un blocco di censura a mosaico rettangolare nei toni del color carne. In basso a destra, includi esattamente 2 icone di app in stile Adobe, 「Pr」 e 「Ae」, quadrati arrotondati blu-viola scuro, parzialmente sovrapposti, entrambi incrinati come vetro rotto e barrati con un grande segno X diagonale di vernice rossa che attraversa le icone. Aggiungi una sottile silhouette dello skyline di una città scura nello sfondo in basso a sinistra. Aspetto generale: sensazionalistico, distruttivo, ad alto contrasto, grintoso, sovraccarico di texture, con un'intensa gradazione di colore rosso/nero, ombre spesse, bagliore drammatico e una composizione da miniatura virale rifinita.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma thumbnail dramática para o YouTube no Japão em um estilo clickbait hiperagressivo, paisagem 16:9, com um fundo preto e carmesim escuro repleto de relâmpagos vermelhos, nuvens esfumaçadas, faíscas brilhantes, respingos de tinta e energia explosiva. A composição possui 4 áreas de texto principais e 2 elementos gráficos de ícones. No topo, coloque um título enorme em japonês com texto branco desgastado lendo {argument name=\"top headline text\" default=\"動画編集ディレクター\"}, usando uma fonte em bloco extra-negrito com textura grunge áspera, contorno preto e sombra pesada. No centro, coloque o kanji dominante e superdimensionado {argument name=\"main title text\" default=\"全滅\"} em uma fonte maciça estilhaçada, vermelha no topo desbotando para amarelo na base, com textura de pedra rachada, borda preta, fragmentos de detritos e brilho de impacto, ocupando a maior parte do quadro. Na parte inferior central, adicione uma faixa preta inclinada com borda branca contendo texto em japonês amarelo brilhante e vermelho lendo {argument name=\"warning text\" default=\"このままだと仕事がなくなる…!?\"}, em negrito e urgente. No lado esquerdo, adicione um painel vertical preto listando exatamente 4 itens de aviso, cada um precedido por uma marca de X vermelha: 「案件減少」, 「単価下落」, 「AIの台頭」, 「オワコン化」. No lado direito, mostre uma foto realista cortada de um homem japonês do peito para cima, voltado ligeiramente para a esquerda, vestindo uma camiseta preta, com cabelo curto e escuro e uma forte luz de contorno vermelha ao redor de sua silhueta; seu rosto está parcialmente obscurecido por um bloco de censura em mosaico em tons de pele. No canto inferior direito, inclua exatamente 2 ícones de aplicativos no estilo Adobe, 「Pr」 e 「Ae」, quadrados arredondados azul-púrpura escuros, parcialmente sobrepostos, ambos rachados como vidro quebrado e riscados com um grande X diagonal de tinta vermelha cobrindo os ícones. Adicione uma silhueta sutil de horizonte urbano escuro no fundo inferior esquerdo. Visual geral: sensacionalista, destrutivo, alto contraste, corajoso, sobrecarregado de textura, com gradação de cor intensa em vermelho/preto, sombras espessas, brilho dramático e composição polida de thumbnail viral.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Explosive Japanese AI Threat Thumbnail",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 极具冲击力的日本 AI 威胁主题缩略图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Miniatura explosiva sobre la amenaza de la IA en Japón",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Explosives japanisches KI-Bedrohungs-Thumbnail",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Miniature YouTube explosive sur la menace de l'IA au Japon",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Miniatura esplosiva sull'IA giapponese",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Thumbnail explosiva sobre a ameaça da IA no Japão",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This generates a high-impact Japanese YouTube thumbnail about AI destroying video editing jobs, useful for controversy, commentary, or trend-analysis content.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此内容用于生成一张高冲击力的日本 YouTube 缩略图，主题为 AI 正在摧毁视频剪辑行业，适用于争议性、评论性或趋势分析类内容。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une miniature YouTube japonaise à fort impact sur l'IA qui détruit les emplois dans le montage vidéo, idéale pour le contenu polémique, les commentaires ou l'analyse de tendances.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/musclepain1130/status/2050120297945411681#reversed-0",
+      "originalId": "https://x.com/musclepain1130/status/2050120297945411681#reversed-0",
+      "authors": [
+        {
+          "name": "財頭 秦太郎 | YouTube動画デザイナー👨‍🎨",
+          "url": "https://x.com/musclepain1130"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2738
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_638eac562e0bdf2f",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711109431_x4pfq0_HHN9iwGaIAA34Ky.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711109431_x4pfq0_HHN9iwGaIAA34Ky.jpg",
+      "localPath": "public/assets/prompt_684e8b04306954ee0ce0/db56caeaa296.jpg",
+      "alt": "YouTube Thumbnail - Explosive Japanese AI Threat Thumbnail - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-30T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.624Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "youtube",
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.879Z"
+  }
+}

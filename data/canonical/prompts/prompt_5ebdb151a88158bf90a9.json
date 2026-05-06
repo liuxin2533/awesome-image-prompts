@@ -1,0 +1,108 @@
+{
+  "id": "prompt_5ebdb151a88158bf90a9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A full-body anime girl character design on a plain white background, centered and floating slightly, drawn in a soft minimalist pastel style with very thin gray linework and delicate flat colors. She has a petite youthful build and a cute, gentle silhouette, with special emphasis on a soft rounded face shape, smooth cheeks, and a softened jawline and chin. Her face is completely obscured by a blank skin-colored rectangular block with no facial features visible. She has short bob hair in {argument name=\"hair color\" default=\"light ash brown\"}, slightly tousled with wispy ends, long bangs covering part of the forehead, and a small ribbon hair tie on the right side in pale blue-gray. She wears 3 visible clothing pieces: an oversized pale blue cardigan with loose sleeves and front buttons, a cream-white slip dress with a scalloped neckline and a tiny button detail at the chest, and a frilled hem with a small ribbon near the right thigh. She is barefoot with slim pale legs, posed front-facing with both arms relaxed slightly outward, open hands, one leg straight and the other gently bent inward for a shy, weightless look. The illustration should feel airy, cute, understated, and clean, like a simple Japanese anime fashion sketch, with lots of negative space and no props, no shadows, and no background elements.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个全身动漫女孩角色设计，背景为纯白色，居中并略微悬浮，采用柔和的极简粉彩风格绘制，线条为非常细的灰色，色彩为精致的平涂色。她身材娇小年轻，轮廓可爱柔和，特别强调圆润柔和的脸型、光滑的脸颊以及柔和的下颌线和下巴。她的脸被一个空白的肤色矩形块完全遮挡，没有可见的面部特征。她有{argument name=\"hair color\" default=\"light ash brown\"}色的短波波头，发梢略带凌乱，有长长的刘海遮住部分额头，右侧系着一条淡蓝灰色的小丝带发饰。她穿着3件可见的服装：一件宽松的淡蓝色开衫，袖子宽松，前面有纽扣；一件奶油白色吊带裙，有荷叶边领口，胸前有一个小纽扣装饰，右侧大腿附近有荷叶边下摆和一个小丝带。她赤脚，腿细长肤色浅，正面站立，双臂略微向外放松，双手张开，一条腿伸直，另一条腿轻轻向内弯曲，呈现出害羞、无重量的姿态。插图应感觉轻盈、可爱、含蓄和干净，就像简单的日本动漫时尚素描，有大量留白，没有道具、阴影和背景元素。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:19:08.266Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Soft Pastel Anime Girl Full Body",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "柔和的动漫女孩全身像",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:18:57.826Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/hoshi122221/status/2048025730425196801",
+      "originalId": "case-141",
+      "authors": [
+        {
+          "name": "hoshi122221",
+          "url": "https://x.com/hoshi122221"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1505
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_562e33a596b55dfe",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case141/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case141/output.jpg",
+      "localPath": "public/assets/prompt_5ebdb151a88158bf90a9/68de53412e29.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.555Z"
+  }
+}

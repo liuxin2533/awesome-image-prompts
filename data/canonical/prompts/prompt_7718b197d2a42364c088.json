@@ -1,0 +1,109 @@
+{
+  "id": "prompt_7718b197d2a42364c088",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"luxury vintage guitar comparison infographic poster\",\"subject\":\"a highly detailed, vertically oriented PRS electric guitar lineup chart designed like a premium museum poster or collector's reference board\",\"style\":\"ornate, dark, glossy, high-contrast, gold-foil typography, elegant wood-and-metal textures, symmetrical grid layout, premium catalog aesthetic, subtle vintage patina, ultra sharp graphic design\",\"branding\":{\"main headline\":\"THE LEGENDARY LINEAGE OF {argument name=\\\"brand name\\\" default=\\\"PRS GUITARS\\\"}\",\"subheadline\":\"EVERY ICON. EVERY LINE. ONE HERITAGE.\",\"signature\":\"Paul Reed Smith\",\"left seal\":\"PAUL REED SMITH GUITARS\",\"right seal\":\"MADE IN MARYLAND U.S.A.\"},\"palette\":{\"background\":\"black and deep charcoal with dark figured wood accents\",\"primary\":\"antique gold\",\"secondary\":\"cream\",\"accent colors\":[\"deep green\",\"teal\",\"royal blue\",\"purple\",\"gold\",\"burgundy\"]},\"layout\":{\"format\":\"single-page vertical poster\",\"header\":{\"position\":\"top\",\"elements\":[\"large central title\",\"small tagline below\",\"script signature\",\"2 circular emblems in upper left and upper right\",\"3 horizontal legend boxes under the title\"]},\"sections\":[{\"title\":\"PRESTIGE TIER KEY\",\"position\":\"upper left below title\",\"count\":6,\"labels\":[\"SE\",\"S2\",\"CE\",\"CORE\",\"WOOD LIBRARY\",\"PRIVATE STOCK\"]},{\"title\":\"PICKUP ICON KEY\",\"position\":\"upper center-right below title\",\"count\":7,\"labels\":[\"HH\",\"HSH\",\"P-90\",\"SOAP\",\"58/15\",\"TCI\",\"Bass\"]},{\"title\":\"TONAL CHARACTER KEY\",\"position\":\"upper right below title\",\"count\":7,\"labels\":[\"Warm / Vintage\",\"Balanced / All-around\",\"Bright / Articulate\",\"High Gain / Modern\",\"Blues / Classic Rock\",\"Metal / Progressive\",\"Funk / Soul / Clean\"]},{\"title\":\"CORE\",\"position\":\"first main row left label\",\"count\":7,\"labels\":[\"Custom 24\",\"McCarty 594\",\"DGT (David Grissom)\",\"Custom 22\",\"Hollowbody II\",\"SC 594\",\"row category panel\"]},{\"title\":\"S2\",\"position\":\"second main row left label\",\"count\":6,\"labels\":[\"S2 Custom 24\",\"S2 McCarty 594\",\"S2 Standard 24\",\"S2 Vela\",\"S2 Singlecut\",\"S2 Mira\"]},{\"title\":\"SE\",\"position\":\"third main row left label\",\"count\":6,\"labels\":[\"SE Custom 24\",\"SE Standard 24\",\"SE Paul's Guitar\",\"SE Santana\",\"SE Hollowbody II\",\"SE Mark Holcomb\"]},{\"title\":\"CE\",\"position\":\"fourth main row left label\",\"count\":6,\"labels\":[\"CE 24\",\"CE 22\",\"CE 24 Semi-Hollow\",\"CE 24 Floyd\",\"CE 24 Satin\",\"CE Bass\"]},{\"title\":\"BOLT-ON SERIES\",\"position\":\"fifth main row left label\",\"count\":6,\"labels\":[\"NF 53\",\"Silver Sky\",\"NF 3\",\"NF 53 Satin\",\"DGT Bolt-On\",\"Studio\"]},{\"title\":\"PRIVATE STOCK\",\"position\":\"sixth main row left label\",\"count\":6,\"labels\":[\"Dragon I\",\"Frostbite\",\"#4004\",\"The Tree of Life\",\"#8731\",\"PS DGT\"]}],\"footer\":{\"position\":\"bottom\",\"elements\":[\"small badge at lower left\",\"centered company line\",\"right-side script signature\"]}},\"content grid\":{\"total guitar models shown\":37,\"card design\":\"each product card contains a guitar render, model name, year, small pickup icons, a short descriptive blurb, and origin/wood specs at the bottom\",\"row side panels\":6},\"visual details\":{\"guitars\":\"front-facing electric guitars with varied body shapes and highly polished figured maple tops, metallic and transparent finishes, some solid colors, some natural wood\",\"typography\":\"all caps serif headlines, small serif body text, script signature accents\",\"borders\":\"thin decorative gold rules around every panel and the full poster\",\"lighting\":\"studio-lit instruments against dark panel backgrounds\",\"render quality\":\"clean infographic precision with realistic product renders\"},\"camera\":\"straight-on flat poster view, no perspective distortion, centered composition\",\"quality\":\"ultra detailed, print-ready, high-resolution editorial infographic, luxury brand poster\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n\"type\":\"豪华复古吉他对比信息图表海报\",\n\"subject\":\"一个高度详细的、垂直方向的PRS电吉他系列图表，设计成高级博物馆海报或收藏家参考板\",\n\"style\":\"华丽、暗色、光泽、高对比度、金箔印刷字体、优雅的木质和金属质感、对称网格布局、高级目录美学、微妙的复古古旧感、超锐利的平面设计\",\n\"branding\":{\n\"main headline\":\"传奇血统 {argument name=\\\"brand name\\\" default=\\\"PRS GUITARS\\\"}\",\n\"subheadline\":\"每一个标志。每一系列。一种传承。\",\n\"signature\":\"Paul Reed Smith\",\n\"left seal\":\"PAUL REED SMITH GUITARS\",\n\"right seal\":\"美国马里兰州制造\"\n},\n\"palette\":{\n\"background\":\"黑色和深炭灰色，带有深色纹理木纹点缀\",\n\"primary\":\"古金色\",\n\"secondary\":\"奶油色\",\n\"accent colors\":[\"深绿色\",\"蓝绿色\",\"皇家蓝\",\"紫色\",\"金色\",\"酒红色\"]\n},\n\"layout\":{\n\"format\":\"单页垂直海报\",\n\"header\":{\n\"position\":\"顶部\",\n\"elements\":[\"中央大标题\",\"下方小标语\",\"手写签名\",\"左上和右上两个圆形徽章\",\"标题下三个水平图例框\"]\n},\n\"sections\":[\n{\"title\":\"高端系列钥匙\",\"position\":\"标题左下方\",\"count\":6,\"labels\":[\"SE\",\"S2\",\"CE\",\"CORE\",\"木材库\",\"私人珍藏\"]},\n{\"title\":\"拾音器图标钥匙\",\"position\":\"标题右上方\",\"count\":7,\"labels\":[\"HH\",\"HSH\",\"P-90\",\"SOAP\",\"58/15\",\"TCI\",\"贝斯\"]},\n{\"title\":\"音色特征钥匙\",\"position\":\"标题右下方\",\"count\":7,\"labels\":[\"温暖/复古\",\"平衡/全能\",\"明亮/清晰\",\"高增益/现代\",\"蓝调/经典摇滚\",\"金属/前卫\",\"放克/灵魂/清音\"]},\n{\"title\":\"CORE\",\"position\":\"第一主行左侧标签\",\"count\":7,\"labels\":[\"Custom 24\",\"McCarty 594\",\"DGT (David Grissom)\",\"Custom 22\",\"Hollowbody II\",\"SC 594\",\"行类别面板\"]},\n{\"title\":\"S2\",\"position\":\"第二主行左侧标签\",\"count\":6,\"labels\":[\"S2 Custom 24\",\"S2 McCarty 594\",\"S2 Standard 24\",\"S2 Vela\",\"S2 Singlecut\",\"S2 Mira\"]},\n{\"title\":\"SE\",\"position\":\"第三主行左侧标签\",\"count\":6,\"labels\":[\"SE Custom 24\",\"SE Standard 24\",\"SE Paul's Guitar\",\"SE Santana\",\"SE Hollowbody II\",\"SE Mark Holcomb\"]},\n{\"title\":\"CE\",\"position\":\"第四主行左侧标签\",\"count\":6,\"labels\":[\"CE 24\",\"CE 22\",\"CE 24 半空心\",\"CE 24 Floyd\",\"CE 24 哑光\",\"CE 贝斯\"]},\n{\"title\":\"螺栓系列\",\"position\":\"第五主行左侧标签\",\"count\":6,\"labels\":[\"NF 53\",\"Silver Sky\",\"NF 3\",\"NF 53 哑光\",\"DGT 螺栓\",\"Studio\"]},\n{\"title\":\"私人珍藏\",\"position\":\"第六主行左侧标签\",\"count\":6,\"labels\":[\"龙 I\",\"霜冻\",\"#4004\",\"生命之树\",\"#8731\",\"PS DGT\"]}\n],\n\"footer\":{\n\"position\":\"底部\",\n\"elements\":[\"左下角小徽章\",\"居中公司行\",\"右侧手写签名\"]\n}\n},\n\"content grid\":{\n\"total guitar models shown\":37,\n\"card design\":\"每个产品卡片包含吉他渲染图、型号名称、年份、小型拾音器图标、简短描述性文字，以及底部的产地/木材规格\",\n\"row side panels\":6\n},\n\"visual details\":{\n\"guitars\":\"正面朝向的电吉他，具有不同的琴身形状和高度抛光的枫木纹理面板，金属色和透明漆面，一些纯色，一些天然木纹\",\n\"typography\":\"全大衬线标题，小衬线正文字体，手写签名点缀\",\n\"borders\":\"每个面板和整张海报周围有细装饰金边框\",\n\"lighting\":\"乐器在暗色面板背景下的影棚灯光\",\n\"render quality\":\"清晰的信息图表精确度，带有逼真的产品渲染图\"\n},\n\"camera\":\"正面平坦海报视图，无透视失真，居中构图\",\n\"quality\":\"超详细，打印就绪，高分辨率编辑信息图表，豪华品牌海报\"\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:20:59.325Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Vintage PRS Guitar Lineage Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "复古PRS吉他谱系海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:20:44.589Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/GlennHasABeard/status/2048087784141857235",
+      "originalId": "case-128",
+      "authors": [
+        {
+          "name": "GlennHasABeard",
+          "url": "https://x.com/GlennHasABeard"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1315
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_585e0c64de51e7d3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case128/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case128/output.jpg",
+      "localPath": "public/assets/prompt_7718b197d2a42364c088/a918623f4572.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "chart",
+      "map",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "prompt_4e002a9cd8bb0d0290ba",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "为Z世代设计的可爱Y2K风格的平价化妆品广告图像。使用鲜艳的配色，包括荧光色。纵横比为3:4。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "美妆产品广告图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Beauty Product Ad Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:11.017Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_f181b0b0c3",
+      "value": "美妆产品广告图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-264",
+      "originalId": "case-264",
+      "authors": [
+        {
+          "name": "midori_tatsuta",
+          "url": "https://x.com/midori_tatsuta/status/2045378877363798279"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3031
+        }
+      ],
+      "rawSource": "[@midori\\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_153ee9f8f7b42692",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case264.jpg",
+      "upstreamPath": "../data/images/case264.jpg",
+      "localPath": "public/assets/prompt_4e002a9cd8bb0d0290ba/755fa8011768.jpg",
+      "alt": "Z世代Y2K平价美妆广告图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "product",
+      "产品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

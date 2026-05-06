@@ -1,0 +1,167 @@
+{
+  "id": "prompt_33fe595c03f73113f96d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A warm, shallow-depth-of-field autumn photograph of multiple fallen maple leaves scattered across dark asphalt pavement in bright golden sunlight. The leaves are mostly yellow, orange, and amber, with one prominent vivid orange leaf in the left foreground and several yellow leaves stretching diagonally into the distance. The camera is low to the ground, close-up, with crisp focus on the central foreground leaves and soft bokeh blur in the background and extreme foreground. Across the middle of the image, overlay large delicate handwritten Japanese text in white, thin brush-pen style, slightly irregular and emotional, reading {argument name=\"overlay text\" default=\"今日も、寒いね。\"}. Natural outdoor lighting, cozy seasonal mood, realistic textures, high contrast between sunlit leaves and rough pavement, square composition, poetic social-media aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Autumn Leaves with Handwritten Japanese Text",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Autumn Leaves with Handwritten Japanese Text",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a cozy autumn close-up photo of fallen maple leaves on pavement with expressive white handwritten Japanese text, ideal for seasonal quote posts or poetic social media visuals.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/akira_papa_IT/status/2048899628180078992#reversed-1",
+      "originalId": "https://x.com/akira_papa_IT/status/2048899628180078992#reversed-1",
+      "authors": [
+        {
+          "name": "あきらパパ【生成AI活用エンジニア&３児のパパ】",
+          "url": "https://x.com/akira_papa_IT"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1426
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9a31c6c268e73dd5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367319655_s5reqw_G6G78EDasAAxcde.png",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367319655_s5reqw_G6G78EDasAAxcde.png",
+      "localPath": "public/assets/prompt_33fe595c03f73113f96d/dd9532cd59a2.png",
+      "alt": "Social Media Post - Autumn Leaves with Handwritten Japanese Text - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.565Z"
+  }
+}

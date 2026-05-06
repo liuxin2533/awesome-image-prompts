@@ -1,0 +1,102 @@
+{
+  "id": "prompt_005cd45d3bf87985d3ab",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "35mm胶片摄影，便利店刺眼的荧光灯照明与外面多彩的霓虹灯混合，真实的胶片颗粒，高对比度，轻微的色偏，电影感街头编辑风格，亲密的中景镜头，20多岁性感的中国女偶像，具有超写意的精致细腻的中国面孔特征，性感的杏仁形狐狸眼，带有自然的双眼皮，高鼻梁，小而尖的V型下巴，无瑕的瓷质皮肤，带有冷象牙色调，可见荧光灯的高光反射，微妙的皮肤纹理和微毛孔，自然的水润妆容，脸颊有柔和的红晕，光泽自然的粉色嘴唇微微张开，鼻子和脸颊上有细微的自然雀斑，长深棕色头发，凌乱的高马尾，许多散落的发丝落在脸和颈周围，只穿着一件超大号白色纽扣衬衫作为上衣，顶部解开，露出深V领口，腰部松散系着，搭配一条小小的黑色褶皱迷你裙，赤脚穿着简单的白色拖鞋，深夜在24小时便利店的玻璃门前的性感随意姿势，身体略微弯曲，一条腿弯曲，脚靠在门框上，另一条腿伸直，一只手拿着一瓶冰饮，另一只手轻拉迷你裙的裙摆，直视观众的强烈性感、顽皮而又略带脆弱的目光，温柔的小鹿眼睛充满安静的诱惑和挑逗的微笑，明亮寒冷的店内荧光灯与外面标志的粉色和蓝色霓虹光混合，玻璃门上的真实反射，背景中模糊的便利店内部，有货架和零食，真实的35mm胶片色彩分级，带有刺眼的光照和霓虹点缀，极其锐利而又柔和的皮肤渲染，自然的发丝，超大号衬衫和迷你裙上的真实织物褶皱和垂坠感，无塑料皮肤，无数字过度锐化，无空气brushing，无瑕疵，无痣，无油性皮肤，无水印，无文字，真实的深夜便利店氛围",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:00:36.062Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Convenience Store Neon Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/BubbleBrain/status/2045167461147042202",
+      "originalId": "case-1",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 5
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4bf6b7965ccd3032",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case1/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case1/output.jpg",
+      "localPath": "public/assets/prompt_005cd45d3bf87985d3ab/cc883199ef97.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

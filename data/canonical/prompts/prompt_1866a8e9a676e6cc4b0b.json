@@ -1,0 +1,129 @@
+{
+  "id": "prompt_1866a8e9a676e6cc4b0b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"black-and-white manga two-page spread\",\"style\":{\"medium\":\"monochrome manga screentone illustration\",\"genre\":\"slice-of-life school music club drama\",\"mood\":\"surprised reunion at night, quiet tension with comedic shock\",\"reading\":\"Japanese manga layout, right-to-left feel\",\"rendering\":\"clean ink lines, detailed hair, soft screentones, dramatic speed lines in the final reaction panel\"},\"setting\":{\"location\":\"small rehearsal studio at night\",\"details\":[\"large windows showing a city skyline with lit buildings\",\"drum kit in the back\",\"guitar amplifier stack including a visible Marshall amp\",\"wall sign reading Studio Beat Box\",\"wood-paneled or dark studio interior\",\"open door leading into the room\"]},\"characters\":{\"count\":3,\"items\":[{\"role\":\"male student\",\"appearance\":\"teenage boy with messy spiky light hair, school shirt with loosened tie, expressive face, average build\"},{\"role\":\"female guitarist\",\"appearance\":\"teenage girl with very long straight light hair and blunt bangs, calm expression, school uniform, seated with an electric guitar across her lap\"},{\"role\":\"arriving student\",\"appearance\":\"teenage student in school shirt and loosened tie, standing in the doorway and later stepping forward with an outstretched hand; face intentionally obscured or simplified\"}]},\"layout\":{\"pages\":2,\"total_panels\":8,\"page_numbers\":[11,12],\"sections\":[{\"title\":\"left page\",\"position\":\"left half\",\"count\":5,\"labels\":[\"top horizontal panel: door bursts open with large sound effect ガラッ, the spiky-haired boy turns toward the entrance while the long-haired girl sits with her guitar in the studio\",\"second panel: over-the-shoulder view of the boy facing the open doorway as the arriving student stands there with one hand on the door and a speech bubble saying おやっはこっか\",\"third panel: the long-haired girl now stands or leans forward near the doorway, smiling gently with a speech bubble saying こんにちは〜\",\"bottom wide reaction panel: the spiky-haired boy recoils in shock with both hands raised, sweat marks, dense speed lines, a large speech bubble saying な、なんで来てんの!? and a smaller exclamation あせっ\",\"background details recurring: studio interior, night skyline, instruments and wall sign\"]},{\"title\":\"right page\",\"position\":\"right half\",\"count\":4,\"labels\":[\"top row split into 2 panels: close side profile of the spiky-haired boy looking right, and the long-haired girl seated with her electric guitar in a calm pose\",\"middle horizontal panel: closer view of the boy speaking with a speech bubble saying いいじゃん、あんじん\",\"bottom wide panel: the arriving student reaches a hand toward the boy while standing beside the guitarist, the boy shouts in alarm, and a large speech bubble says うち入れよ\",\"background details recurring: Beat Box sign, amp stack, drum kit, city lights outside\"]}],\"gutter\":\"thick white manga gutters separating the panels\"},\"text\":{\"visible_japanese\":[\"ガラッ\",\"おやっはこっか\",\"こんにちは〜\",\"な、なんで来てんの!?\",\"あせっ\",\"いいじゃん、あんじん\",\"うち入れよ\",\"Studio Beat Box\",\"Marshall\"]},\"composition\":\"create an authentic printed manga spread with cinematic panel variety, alternating medium shots, over-the-shoulder views, close-ups, and one exaggerated comedic reaction panel; keep the female guitarist serene, the male lead increasingly flustered, and the newcomer casual and intrusive; emphasize nighttime atmosphere through the windowed skyline and rehearsal-room equipment.\",\"parameters\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"音が違った日\\\"}\",\"male_hair\":\"{argument name=\\\"hair color\\\" default=\\\"light ash blond\\\"}\",\"guitar_type\":\"{argument name=\\\"guitar model\\\" default=\\\"black Stratocaster-style electric guitar\\\"}\",\"studio_name\":\"{argument name=\\\"studio name\\\" default=\\\"Beat Box\\\"}\",\"city_time\":\"{argument name=\\\"time of day\\\" default=\\\"night\\\"}\"}}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Night Rehearsal Manga Spread",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Night Rehearsal Manga Spread",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Night Rehearsal Manga Spread",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Night Rehearsal Manga Spread",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Night Rehearsal Manga Spread",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Night Rehearsal Manga Spread",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A monochrome manga-style two-page school band scene showing a surprise nighttime studio visit, ideal for generating dramatic Japanese comic pages.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/yume00112211/status/2048781121291432359#reversed-2",
+      "originalId": "https://x.com/yume00112211/status/2048781121291432359#reversed-2",
+      "authors": [
+        {
+          "name": "ユメ・アスタAI漫画イラストレーター",
+          "url": "https://x.com/yume00112211"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3875
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b0f67b4fa5cb31f8",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367303607_4ifih0_HG67kn3bsAANq26.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367303607_4ifih0_HG67kn3bsAANq26.jpg",
+      "localPath": "public/assets/prompt_1866a8e9a676e6cc4b0b/48b99a36e39c.jpg",
+      "alt": "Comic / Storyboard - Night Rehearsal Manga Spread - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.564Z"
+  }
+}

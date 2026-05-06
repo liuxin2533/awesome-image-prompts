@@ -1,0 +1,176 @@
+{
+  "id": "prompt_0093b22034fc6d702ece",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a cinematic dark sci-fi anime illustration of {argument name=\"character name\" default=\"a young blonde woman\"} crouching on one knee in heavy rain at night, working covertly beneath the rusted undercarriage of a massive armored vehicle or industrial machine. She has {argument name=\"hair color\" default=\"pale blonde\"} hair tied back in a messy low bun with loose wet strands, and her face is intentionally obscured by a flat dark gray square censor block. She wears a soaked black sleeveless crop top, black short shorts, and black tactical ankle boots, with rainwater glistening on her skin. Her hands are pressed to a circular futuristic access port on the machine, which emits a vivid electric {argument name=\"glowing device color\" default=\"blue\"} light with small cyan interface bars and mechanical details, suggesting hacking, repairing, or activating hidden technology. The setting is a grim fenced military-industrial compound with wet asphalt, puddle reflections, chain-link fencing, distant guard tower lights, barbed wire silhouettes, and storm clouds. Use dramatic low-angle composition, the massive corroded vehicle dominating the left side, the crouching figure on the right, strong chiaroscuro lighting, rain streaks, reflective ground, detailed rust, grime, dripping water, moody blue-gray palette, high-detail anime realism, cinematic concept art, widescreen 16:9 framing, tense prologue atmosphere.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一幅电影质感的暗黑科幻动漫插画，画面中 {argument name=\"character name\" default=\"一位年轻的金发女性\"} 在深夜的暴雨中单膝蹲伏，正秘密地在大型装甲车或工业机械生锈的底盘下进行操作。她留着 {argument name=\"hair color\" default=\"浅金色\"} 的头发，扎成凌乱的低发髻，湿漉漉的发丝散落在脸颊旁，她的面部被一个平面的深灰色方形遮挡块刻意掩盖。她身穿湿透的黑色无袖露脐上衣、黑色短裤和黑色战术踝靴，雨水在她的皮肤上闪烁。她的双手按在机械上一个圆形的未来感接入端口，该端口发出鲜艳的 {argument name=\"glowing device color\" default=\"蓝色\"} 电光，并伴有青色的界面条和机械细节，暗示着黑客入侵、维修或激活隐藏技术。背景是一个阴森的军事工业园区，配有铁丝网、湿漉漉的沥青路面、水坑倒影、链式围栏、远处的岗哨灯光、铁丝网剪影和风暴云。采用戏剧性的低角度构图，巨大的腐蚀车辆占据画面左侧，蹲伏的人物位于右侧，运用强烈的明暗对比照明、雨痕、反光地面、细腻的锈迹、污垢、滴水效果，整体色调为忧郁的蓝灰色，呈现高细节的动漫写实风格、电影概念艺术质感、16:9 宽屏构图，营造出紧张的序幕氛围。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una ilustración de anime de ciencia ficción oscura y cinematográfica de {argument name=\"character name\" default=\"una joven rubia\"} agachada sobre una rodilla bajo una lluvia intensa durante la noche, trabajando de forma encubierta bajo el chasis oxidado de un vehículo blindado masivo o una máquina industrial. Tiene el cabello {argument name=\"hair color\" default=\"rubio pálido\"} recogido en un moño bajo y desordenado con mechones húmedos sueltos, y su rostro está oculto intencionalmente por un bloque censor cuadrado de color gris oscuro. Viste un top corto sin mangas negro empapado, pantalones cortos negros y botas tácticas negras, con el agua de lluvia brillando sobre su piel. Sus manos están presionadas contra un puerto de acceso circular futurista en la máquina, el cual emite una vívida luz {argument name=\"glowing device color\" default=\"azul\"} con pequeñas barras de interfaz cian y detalles mecánicos, sugiriendo que está hackeando, reparando o activando tecnología oculta. El entorno es un sombrío complejo militar-industrial cercado con asfalto mojado, reflejos en los charcos, cercas de malla, luces de torres de vigilancia a lo lejos, siluetas de alambre de púas y nubes de tormenta. Utiliza una composición dramática de ángulo bajo, el vehículo masivo y corroído dominando el lado izquierdo, la figura agachada a la derecha, iluminación de claroscuro fuerte, estelas de lluvia, suelo reflectante, óxido detallado, suciedad, agua goteando, paleta de colores azul grisáceo melancólica, realismo de anime de alto detalle, arte conceptual cinematográfico, encuadre panorámico 16:9, atmósfera de prólogo tenso.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine filmische Dark-Sci-Fi-Anime-Illustration von {argument name=\"character name\" default=\"einer jungen blonden Frau\"}, die bei starkem Regen in der Nacht auf einem Knie kauert und verdeckt unter dem verrosteten Fahrgestell eines massiven gepanzerten Fahrzeugs oder einer Industriemaschine arbeitet. Sie hat {argument name=\"hair color\" default=\"blassblondes\"} Haar, das zu einem unordentlichen, tiefen Dutt mit losen, nassen Strähnen zusammengebunden ist, und ihr Gesicht ist absichtlich durch einen flachen, dunkelgrauen Zensurbalken verdeckt. Sie trägt ein durchnässtes, ärmelloses schwarzes bauchfreies Top, schwarze kurze Shorts und schwarze taktische Stiefeletten, wobei das Regenwasser auf ihrer Haut glänzt. Ihre Hände liegen auf einem kreisförmigen, futuristischen Zugangsport an der Maschine, das ein lebhaftes elektrisches {argument name=\"glowing device color\" default=\"blaues\"} Licht mit kleinen cyanfarbenen Schnittstellenbalken und mechanischen Details ausstrahlt, was auf Hacken, Reparieren oder das Aktivieren verborgener Technologie hindeutet. Der Schauplatz ist ein düsteres, eingezäuntes militärisch-industrielles Gelände mit nassem Asphalt, Pfützenreflexionen, Maschendrahtzaun, Lichtern ferner Wachtürme, Stacheldraht-Silhouetten und Gewitterwolken. Verwende eine dramatische Froschperspektive, wobei das massive, korrodierte Fahrzeug die linke Seite dominiert und die kauernde Figur auf der rechten Seite zu sehen ist. Nutze starke Chiaroscuro-Beleuchtung, Regenschlieren, reflektierenden Boden, detaillierten Rost, Schmutz, tropfendes Wasser, eine stimmungsvolle blaugraue Farbpalette, hochdetaillierten Anime-Realismus, filmische Konzeptkunst, Breitbild-16:9-Format und eine spannungsgeladene Prolog-Atmosphäre.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une illustration d'anime de science-fiction sombre et cinématographique montrant {argument name=\"character name\" default=\"une jeune femme blonde\"} accroupie sur un genou sous une pluie battante nocturne, travaillant secrètement sous le châssis rouillé d'un énorme véhicule blindé ou d'une machine industrielle. Elle a des cheveux {argument name=\"hair color\" default=\"blond pâle\"} attachés en un chignon bas négligé avec des mèches humides, et son visage est intentionnellement masqué par un bloc de censure carré gris foncé. Elle porte un crop top noir sans manches trempé, un short noir et des bottes tactiques noires, l'eau de pluie ruisselant sur sa peau. Ses mains sont posées sur un port d'accès circulaire futuriste sur la machine, qui émet une lumière {argument name=\"glowing device color\" default=\"bleue\"} électrique vive avec de petites barres d'interface cyan et des détails mécaniques, suggérant une opération de piratage, de réparation ou d'activation d'une technologie cachée. Le décor est une sinistre enceinte militaro-industrielle clôturée avec de l'asphalte mouillé, des reflets dans les flaques d'eau, des grillages, les lumières lointaines d'une tour de garde, des silhouettes de barbelés et des nuages d'orage. Utilisez une composition dramatique en contre-plongée, le véhicule massif et corrodé dominant le côté gauche, la silhouette accroupie sur la droite, un éclairage en clair-obscur marqué, des traînées de pluie, un sol réfléchissant, des détails de rouille, de la crasse, de l'eau qui goutte, une palette bleu-gris atmosphérique, un réalisme d'anime très détaillé, un concept art cinématographique, un format large 16:9, une atmosphère de prologue tendue.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'illustrazione anime dark sci-fi cinematografica di {argument name=\"character name\" default=\"una giovane donna bionda\"} accovacciata su un ginocchio sotto una pioggia battente notturna, intenta a lavorare di nascosto sotto il telaio arrugginito di un enorme veicolo blindato o macchinario industriale. Ha i capelli {argument name=\"hair color\" default=\"biondo pallido\"} legati in uno chignon basso spettinato con ciocche bagnate che le ricadono sul viso, il quale è intenzionalmente oscurato da un blocco censore quadrato grigio scuro. Indossa un crop top nero smanicato inzuppato, pantaloncini neri e stivaletti tattici neri, con l'acqua piovana che le brilla sulla pelle. Le sue mani sono premute contro una porta di accesso circolare futuristica sul macchinario, che emette una vivida luce {argument name=\"glowing device color\" default=\"blu\"} elettrica con piccole barre di interfaccia ciano e dettagli meccanici, suggerendo un'operazione di hacking, riparazione o attivazione di tecnologia nascosta. L'ambientazione è un cupo complesso militare-industriale recintato con asfalto bagnato, riflessi nelle pozzanghere, recinzioni a rete, luci di torri di guardia in lontananza, sagome di filo spinato e nuvole temporalesche. Utilizza una composizione drammatica dal basso, con l'enorme veicolo corroso che domina il lato sinistro, la figura accovacciata sulla destra, un forte chiaroscuro, scie di pioggia, terreno riflettente, ruggine dettagliata, sporcizia, acqua che gocciola, una palette blu-grigio suggestiva, realismo anime ad alto dettaglio, concept art cinematografica, inquadratura widescreen 16:9, atmosfera da prologo teso.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma ilustração de anime de ficção científica sombria e cinematográfica de {argument name=\"character name\" default=\"uma jovem loira\"} agachada em um joelho sob chuva forte à noite, trabalhando secretamente sob o chassi enferrujado de um enorme veículo blindado ou máquina industrial. Ela tem cabelos {argument name=\"hair color\" default=\"loiro pálido\"} presos em um coque baixo bagunçado com mechas molhadas soltas, e seu rosto está intencionalmente obscurecido por um bloco censor quadrado cinza-escuro. Ela veste um top cropped preto sem mangas encharcado, shorts pretos curtos e botas táticas pretas, com a água da chuva brilhando em sua pele. Suas mãos estão pressionadas contra uma porta de acesso circular futurista na máquina, que emite uma luz elétrica vívida {argument name=\"glowing device color\" default=\"azul\"} com pequenas barras de interface ciano e detalhes mecânicos, sugerindo hackeamento, reparo ou ativação de tecnologia oculta. O cenário é um complexo industrial-militar sombrio e cercado, com asfalto molhado, reflexos em poças, cercas de arame, luzes de torres de guarda distantes, silhuetas de arame farpado e nuvens de tempestade. Use composição dramática em ângulo baixo, o veículo maciço e corroído dominando o lado esquerdo, a figura agachada à direita, iluminação forte em chiaroscuro, faixas de chuva, solo reflexivo, ferrugem detalhada, sujeira, água pingando, paleta azul-acinzentada melancólica, realismo de anime de alto detalhe, arte conceitual cinematográfica, enquadramento widescreen 16:9, atmosfera tensa de prólogo.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Rainy Sci-Fi Infiltration Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 雨中科幻潜入场景",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Escena de infiltración de ciencia ficción bajo la lluvia",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Regnerische Sci-Fi-Infiltrationsszene",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Scène d'infiltration de science-fiction sous la pluie",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Scena di infiltrazione sci-fi sotto la pioggia",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Cena de Infiltração Sci-Fi Chuvosa",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a moody cinematic anime scene of a crouching operative interacting with a glowing device beneath a rusted machine in a rainy military compound.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一幅充满电影质感的暗黑科幻动漫场景，描绘一名特工在雨中的军事基地内，蹲伏在生锈的机械下方与发光设备进行交互。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène d'anime cinématographique et atmosphérique montrant un agent accroupi interagissant avec un appareil lumineux sous une machine rouillée dans une enceinte militaire pluvieuse.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Shadowsync2070s/status/2051436145322659873#reversed-1",
+      "originalId": "https://x.com/Shadowsync2070s/status/2051436145322659873#reversed-1",
+      "authors": [
+        {
+          "name": "Shadow Sync",
+          "url": "https://x.com/Shadowsync2070s"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3283
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_021ff5311bc7cc7c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971065784_6h37nn_HHgpXB-aQAAHvgY.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971065784_6h37nn_HHgpXB-aQAAHvgY.jpg",
+      "localPath": "public/assets/prompt_0093b22034fc6d702ece/32cf1193d59c.jpg",
+      "alt": "Comic / Storyboard - Rainy Sci-Fi Infiltration Scene - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.840Z"
+  }
+}

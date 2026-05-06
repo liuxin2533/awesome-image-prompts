@@ -1,0 +1,101 @@
+{
+  "id": "prompt_7141bf2e126852561b9e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "全自动咖啡机电商详情图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Fully automatic coffee machine e-commerce detail image",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "全自动咖啡机产品展示",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_6d2436dff5",
+      "value": "全自动咖啡机产品展示",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-190",
+      "originalId": "case-190",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046544209117634735"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 652
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046544209117634735)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f21b16bb3d5dcf45",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case190.jpg",
+      "upstreamPath": "../data/images/case190.jpg",
+      "localPath": "public/assets/prompt_7141bf2e126852561b9e/b2a90ed62514.jpg",
+      "alt": "全自动咖啡机产品展示",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "e-commerce",
+      "产品",
+      "电商",
+      "咖啡机"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

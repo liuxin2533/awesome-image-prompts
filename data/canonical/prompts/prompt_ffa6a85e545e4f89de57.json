@@ -1,0 +1,141 @@
+{
+  "id": "prompt_ffa6a85e545e4f89de57",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Please create an X page of King Taejo Yi Seong-gye (right before carrying out the Wihwa Island Retreat - containing posts where he and General Choi Yeong are dissing each other).",
+        "source": "upstream"
+      },
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "请创建关于朝鲜太祖李成熙的X页面（在威化岛回军前夕- 包含太祖李成熙与崔将军互相争执的内容的帖子）。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:12:22.941Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "King Taejo Yi Seong-gye's X Page",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "李成桂太祖王X页",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:12:27.443Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SKA_Neotype/status/2044637900978217334",
+      "originalId": "case-8",
+      "authors": [
+        {
+          "name": "SKA_Neotype",
+          "url": "https://x.com/SKA_Neotype"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 75
+        }
+      ]
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-268",
+      "originalId": "case-268",
+      "authors": [
+        {
+          "name": "SKA_Neotype",
+          "url": "https://x.com/SKA_Neotype/status/2044637900978217334"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3111
+        }
+      ],
+      "rawSource": "[@SKA\\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_39180e5d255c7d8e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case8/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case8/output.jpg",
+      "localPath": "public/assets/prompt_ffa6a85e545e4f89de57/851563d39b8f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_2630a383cf72010a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case268.jpg",
+      "upstreamPath": "../data/images/case268.jpg",
+      "localPath": "public/assets/prompt_ffa6a85e545e4f89de57/869c684cda8c.jpg",
+      "alt": "威化岛回军前夕李成桂动态",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

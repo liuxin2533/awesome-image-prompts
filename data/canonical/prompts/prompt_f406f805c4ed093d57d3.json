@@ -1,0 +1,176 @@
+{
+  "id": "prompt_f406f805c4ed093d57d3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a high-energy Japanese YouTube thumbnail / social media banner in a 16:9 widescreen format, using a dramatic black, white, and electric yellow color scheme with explosive manga-style speed lines, paint-brush textures, glowing arrows, sparks, and a futuristic AI automation atmosphere. The left half is dominated by huge bold Japanese headline typography reading {argument name=\"main headline text\" default=\"頑張らない SNS展開\"}, with the first line in thick white characters on a black brush-stroke background and “SNS” plus the following characters in oversized bright yellow block letters with black shadowing. Beneath it, add a slanted white brush-stroke strip containing black text reading {argument name=\"subheadline text\" default=\"GPT Image 2で全部変わった\"}. Along the bottom, place a wide black brush-stroke banner with large white and yellow Japanese text reading {argument name=\"bottom banner text\" default=\"画像も記事もスキルで自動化\"}, emphasizing the final yellow phrase. On the right half, show an anime-style young woman with very long flowing split-color hair, pink on the left side and blue on the right side, wearing a white T-shirt printed with {argument name=\"shirt text\" default=\"OKIHIRO AI Creative\"} and a pink skirt; her face is intentionally covered by a centered square mosaic-like block in muted pink and gray tones, while her right hand reaches toward the viewer in a dynamic foreshortened pose. Include exactly three floating social media icons: one black square X icon near the top center, one Instagram icon in a rounded white square at the upper right, and one YouTube play icon in a rounded white square at the lower right. Add glowing AI/content automation elements around the center, including a bright open cube with a cloud symbol, floating image cards, yellow directional arrows, and golden light rays radiating outward. Use crisp anime illustration mixed with bold advertising graphic design, high contrast, sharp outlines, saturated colors, motion blur accents, and a polished viral thumbnail composition optimized for clicks.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个高能量的日本 YouTube 缩略图 / 社交媒体横幅，采用 16:9 宽屏格式，使用戏剧性的黑、白、电光黄配色方案，搭配爆炸性的漫画风格速度线、画笔纹理、发光箭头、火花以及未来感十足的 AI 自动化氛围。左半部分由巨大的粗体日语标题主导，文字为 {argument name=\"main headline text\" default=\"頑張らない SNS 展開\"}，第一行采用黑色笔触背景上的白色粗体字，“SNS”及后续字符采用超大亮黄色块状字体并带有黑色阴影。在其下方，添加一条倾斜的白色笔触带，包含黑色文字 {argument name=\"subheadline text\" default=\"GPT Image 2 で全部変わった\"}。沿底部放置一个宽大的黑色笔触横幅，上面写着醒目的白色和黄色日语文字 {argument name=\"bottom banner text\" default=\"画像も記事もスキルで自動化\"}，强调最后的黄色短语。在右半部分，展示一位动漫风格的年轻女性，留着非常长的飘逸双色头发（左侧粉色，右侧蓝色），身穿印有 {argument name=\"shirt text\" default=\"OKIHIRO AI Creative\"} 的白色 T 恤和粉色短裙；她的脸部被一个居中的、呈柔和粉色和灰色调的方形马赛克块遮住，她的右手以动态的透视姿势伸向观众。包含三个悬浮的社交媒体图标：顶部中心附近的一个黑色方形 X 图标，右上角的一个圆形白色方形 Instagram 图标，以及右下角的一个圆形白色方形 YouTube 播放图标。在中心周围添加发光的 AI / 内容自动化元素，包括带有云符号的明亮开口立方体、悬浮图像卡片、黄色方向箭头和向外辐射的金色光芒。采用清晰的动漫插画与大胆的广告图形设计相结合，高对比度、锐利的轮廓、饱和的色彩、运动模糊点缀，以及针对点击率优化的精致病毒式缩略图构图。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una miniatura de YouTube / banner para redes sociales en japonés de alta energía en formato panorámico 16:9, utilizando una combinación de colores dramática en negro, blanco y amarillo eléctrico con líneas de velocidad explosivas al estilo manga, texturas de pincel, flechas brillantes, chispas y una atmósfera futurista de automatización con IA. La mitad izquierda está dominada por una tipografía japonesa grande y audaz que dice {argument name=\"main headline text\" default=\"頑張らない SNS展開\"}, con la primera línea en caracteres blancos gruesos sobre un fondo de pincelada negra y \"SNS\" más los caracteres siguientes en letras de bloque amarillas brillantes de gran tamaño con sombreado negro. Debajo, añade una franja de pincelada blanca inclinada que contenga el texto negro {argument name=\"subheadline text\" default=\"GPT Image 2で全部変わった\"}. A lo largo de la parte inferior, coloca un banner de pincelada negra ancha con texto japonés grande en blanco y amarillo que diga {argument name=\"bottom banner text\" default=\"画像も記事もスキルで自動化\"}, enfatizando la frase amarilla final. En la mitad derecha, muestra a una joven al estilo anime con cabello muy largo y fluido de dos colores, rosa en el lado izquierdo y azul en el derecho, vistiendo una camiseta blanca estampada con {argument name=\"shirt text\" default=\"OKIHIRO AI Creative\"} y una falda rosa; su rostro está cubierto intencionalmente por un bloque central tipo mosaico en tonos rosa y gris apagados, mientras su mano derecha se extiende hacia el espectador en una pose dinámica con escorzo. Incluye exactamente tres iconos de redes sociales flotantes: un icono cuadrado negro de X cerca del centro superior, un icono de Instagram en un cuadrado blanco redondeado en la parte superior derecha y un icono de reproducción de YouTube en un cuadrado blanco redondeado en la parte inferior derecha. Agrega elementos brillantes de automatización de IA/contenido alrededor del centro, incluyendo un cubo abierto brillante con un símbolo de nube, tarjetas de imagen flotantes, flechas direccionales amarillas y rayos de luz dorados que irradian hacia afuera. Utiliza una ilustración de anime nítida mezclada con un diseño gráfico publicitario audaz, alto contraste, contornos definidos, colores saturados, acentos de desenfoque de movimiento y una composición de miniatura viral pulida optimizada para clics.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein energiegeladenes japanisches YouTube-Thumbnail / Social-Media-Banner im 16:9-Breitbildformat. Verwende ein dramatisches Farbschema aus Schwarz, Weiß und elektrischem Gelb mit explosiven Speed-Lines im Manga-Stil, Pinselstrich-Texturen, leuchtenden Pfeilen, Funken und einer futuristischen Atmosphäre für KI-Automatisierung. Die linke Hälfte wird von einer riesigen, fetten japanischen Schlagzeile dominiert: {argument name=\"main headline text\" default=\"頑張らない SNS展開\"}. Die erste Zeile besteht aus dicken weißen Zeichen auf einem schwarzen Pinselstrich-Hintergrund, während „SNS“ und die folgenden Zeichen in übergroßen, leuchtend gelben Blockbuchstaben mit schwarzem Schatten dargestellt sind. Darunter füge einen schrägen weißen Pinselstrich-Streifen mit dem schwarzen Text {argument name=\"subheadline text\" default=\"GPT Image 2で全部変わった\"} hinzu. Platziere am unteren Rand ein breites schwarzes Pinselstrich-Banner mit großem weißem und gelbem japanischem Text: {argument name=\"bottom banner text\" default=\"画像も記事もスキルで自動化\"}, wobei die letzte gelbe Phrase hervorgehoben wird. Auf der rechten Hälfte ist eine junge Frau im Anime-Stil mit sehr langem, fließendem, zweifarbigem Haar (links rosa, rechts blau) zu sehen. Sie trägt ein weißes T-Shirt mit dem Aufdruck {argument name=\"shirt text\" default=\"OKIHIRO AI Creative\"} und einen rosa Rock. Ihr Gesicht ist absichtlich durch einen zentrierten, quadratischen Mosaik-Block in gedämpften Rosa- und Grautönen verdeckt, während ihre rechte Hand in einer dynamischen, perspektivisch verkürzten Pose in Richtung des Betrachters greift. Füge genau drei schwebende Social-Media-Icons hinzu: ein schwarzes quadratisches X-Icon oben in der Mitte, ein Instagram-Icon in einem abgerundeten weißen Quadrat oben rechts und ein YouTube-Play-Icon in einem abgerundeten weißen Quadrat unten rechts. Ergänze leuchtende KI-/Content-Automatisierungselemente um das Zentrum herum, darunter einen hellen, offenen Würfel mit einem Cloud-Symbol, schwebende Bildkarten, gelbe Richtungspfeile und goldene Lichtstrahlen, die nach außen strahlen. Nutze eine Kombination aus knackiger Anime-Illustration und fettem Werbegrafikdesign, hohem Kontrast, scharfen Umrissen, gesättigten Farben, Bewegungsunschärfe-Akzenten und einer polierten, auf Klicks optimierten viralen Thumbnail-Komposition.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une miniature YouTube / bannière de réseaux sociaux japonaise à haute énergie au format panoramique 16:9, en utilisant une palette de couleurs spectaculaire noir, blanc et jaune électrique avec des lignes de vitesse explosives de style manga, des textures de pinceau, des flèches lumineuses, des étincelles et une atmosphère d'automatisation IA futuriste. La moitié gauche est dominée par une énorme typographie japonaise en gras indiquant {argument name=\"main headline text\" default=\"頑張らない SNS展開\"}, avec la première ligne en caractères blancs épais sur un fond de coup de pinceau noir et « SNS » ainsi que les caractères suivants en lettres capitales jaune vif surdimensionnées avec des ombres noires. En dessous, ajoutez une bande de coup de pinceau blanc inclinée contenant le texte noir {argument name=\"subheadline text\" default=\"GPT Image 2で全部変わった\"}. Le long du bas, placez une large bannière de coup de pinceau noir avec un grand texte japonais blanc et jaune indiquant {argument name=\"bottom banner text\" default=\"画像も記事もスキルで自動化\"}, en mettant l'accent sur la phrase jaune finale. Sur la moitié droite, montrez une jeune femme de style anime avec de très longs cheveux fluides bicolores, roses sur le côté gauche et bleus sur le côté droit, portant un t-shirt blanc imprimé avec {argument name=\"shirt text\" default=\"OKIHIRO AI Creative\"} et une jupe rose ; son visage est intentionnellement recouvert par un bloc carré en mosaïque centré dans des tons rose et gris sourds, tandis que sa main droite tend vers le spectateur dans une pose dynamique en raccourci. Incluez exactement trois icônes de réseaux sociaux flottantes : une icône X carrée noire près du centre supérieur, une icône Instagram dans un carré blanc arrondi en haut à droite, et une icône de lecture YouTube dans un carré blanc arrondi en bas à droite. Ajoutez des éléments d'automatisation IA/contenu lumineux autour du centre, notamment un cube ouvert brillant avec un symbole de nuage, des cartes d'images flottantes, des flèches directionnelles jaunes et des rayons lumineux dorés rayonnant vers l'extérieur. Utilisez une illustration anime nette mélangée à un design graphique publicitaire audacieux, un contraste élevé, des contours nets, des couleurs saturées, des accents de flou de mouvement et une composition de miniature virale polie optimisée pour les clics.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una miniatura YouTube / banner per social media ad alta energia in formato widescreen 16:9, utilizzando una combinazione di colori drammatica in nero, bianco e giallo elettrico con esplosive linee di velocità in stile manga, texture a pennellate, frecce luminose, scintille e un'atmosfera futuristica di automazione AI. La metà sinistra è dominata da un'enorme tipografia giapponese in grassetto con il titolo {argument name=\"main headline text\" default=\"頑張らない SNS展開\"}, con la prima riga in spessi caratteri bianchi su uno sfondo a pennellate nere e \"SNS\" più i caratteri successivi in lettere maiuscole sovradimensionate giallo brillante con ombreggiatura nera. Sotto, aggiungi una striscia a pennellate bianche inclinata contenente il testo nero {argument name=\"subheadline text\" default=\"GPT Image 2で全部変わった\"}. Lungo la parte inferiore, posiziona un ampio banner a pennellate nere con grandi caratteri giapponesi bianchi e gialli che recitano {argument name=\"bottom banner text\" default=\"画像も記事もスキルで自動化\"}, enfatizzando la frase finale in giallo. Nella metà destra, mostra una giovane donna in stile anime con capelli molto lunghi e fluenti bicolore, rosa sul lato sinistro e blu sul lato destro, che indossa una maglietta bianca con la scritta {argument name=\"shirt text\" default=\"OKIHIRO AI Creative\"} e una gonna rosa; il suo viso è intenzionalmente coperto da un blocco quadrato simile a un mosaico centrato in toni rosa e grigi tenui, mentre la sua mano destra si protende verso lo spettatore in una posa dinamica scorciata. Includi esattamente tre icone di social media fluttuanti: un'icona X quadrata nera vicino al centro in alto, un'icona Instagram in un quadrato bianco arrotondato in alto a destra e un'icona play di YouTube in un quadrato bianco arrotondato in basso a destra. Aggiungi elementi luminosi di automazione AI/contenuti attorno al centro, tra cui un cubo aperto luminoso con un simbolo di nuvola, schede immagine fluttuanti, frecce direzionali gialle e raggi di luce dorata che si irradiano verso l'esterno. Utilizza un'illustrazione anime nitida mescolata con un audace design grafico pubblicitario, alto contrasto, contorni netti, colori saturi, accenti di motion blur e una composizione da miniatura virale rifinita e ottimizzata per i clic.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma miniatura de YouTube / banner de rede social em japonês de alta energia no formato widescreen 16:9, usando um esquema de cores dramático em preto, branco e amarelo elétrico com linhas de velocidade explosivas estilo mangá, texturas de pincel, setas brilhantes, faíscas e uma atmosfera futurista de automação de IA. A metade esquerda é dominada por uma enorme tipografia de manchete em japonês lendo {argument name=\"main headline text\" default=\"頑張らない SNS展開\"}, com a primeira linha em caracteres brancos espessos sobre um fundo de pincelada preta e “SNS” mais os caracteres seguintes em letras de bloco amarelas brilhantes superdimensionadas com sombreamento preto. Abaixo, adicione uma faixa de pincelada branca inclinada contendo texto preto lendo {argument name=\"subheadline text\" default=\"GPT Image 2で全部変わった\"}. Ao longo da parte inferior, coloque um banner de pincelada preta larga com texto grande em japonês branco e amarelo lendo {argument name=\"bottom banner text\" default=\"画像も記事もスキルで自動化\"}, enfatizando a frase amarela final. Na metade direita, mostre uma jovem estilo anime com cabelos muito longos e fluidos de duas cores, rosa no lado esquerdo e azul no lado direito, vestindo uma camiseta branca estampada com {argument name=\"shirt text\" default=\"OKIHIRO AI Creative\"} e uma saia rosa; seu rosto é intencionalmente coberto por um bloco centralizado tipo mosaico em tons suaves de rosa e cinza, enquanto sua mão direita se estende em direção ao espectador em uma pose dinâmica de escorço. Inclua exatamente três ícones de redes sociais flutuantes: um ícone X quadrado preto perto do centro superior, um ícone do Instagram em um quadrado branco arredondado no canto superior direito e um ícone de reprodução do YouTube em um quadrado branco arredondado no canto inferior direito. Adicione elementos brilhantes de automação de IA/conteúdo ao redor do centro, incluindo um cubo aberto brilhante com um símbolo de nuvem, cartões de imagem flutuantes, setas direcionais amarelas e raios de luz dourados irradiando para fora. Use uma ilustração de anime nítida misturada com design gráfico publicitário arrojado, alto contraste, contornos nítidos, cores saturadas, detalhes de desfoque de movimento e uma composição de miniatura viral polida otimizada para cliques.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Japanese SNS Automation Thumbnail",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 日本 SNS 自动化缩略图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Miniatura para automatización de redes sociales en japonés",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Japanisches SNS-Automatisierungs-Thumbnail",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Miniature pour l'automatisation des réseaux sociaux japonais",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Miniatura per automazione SNS giapponese",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Miniatura de Automação de SNS Japonês",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a bold Japanese promotional thumbnail about GPT Image 2, SNS expansion, and AI-powered content automation.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张关于 GPT Image 2、SNS 扩展和 AI 驱动内容自动化的醒目日本宣传缩略图。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une miniature promotionnelle japonaise percutante sur GPT Image 2, l'expansion sur les réseaux sociaux et l'automatisation de contenu par IA.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/MoveHiro1219/status/2051235847186641104#reversed-0",
+      "originalId": "https://x.com/MoveHiro1219/status/2051235847186641104#reversed-0",
+      "authors": [
+        {
+          "name": "OKIHIRO",
+          "url": "https://x.com/MoveHiro1219"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2562
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_091d5039f84fc12e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971052770_y59ovc_HHd0DGcbQAA28i-.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971052770_y59ovc_HHd0DGcbQAA28i-.jpg",
+      "localPath": "public/assets/prompt_f406f805c4ed093d57d3/140c0569c80a.jpg",
+      "alt": "YouTube Thumbnail - Japanese SNS Automation Thumbnail - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "youtube",
+      "thumbnail",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.871Z"
+  }
+}

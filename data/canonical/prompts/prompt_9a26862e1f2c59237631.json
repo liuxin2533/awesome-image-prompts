@@ -1,0 +1,231 @@
+{
+  "id": "prompt_9a26862e1f2c59237631",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a single image containing a grid of 100 completely unique pixel art items, each with a meaningful label",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张单图，里面包含 100 个完全不同的像素风物品，并且每个物品都带有有意义的标签",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張包含 100 個完全獨特像素風物件的單張圖像，並為每個物件加上有意義的標籤。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "100 個の完全にユニークなピクセルアートアイテムをグリッド状に並べ、各アイテムに意味のあるラベルを付けた 1 枚の画像を作成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "100개의 완전히 다른 픽셀 아트 아이템을 그리드로 담은 단일 이미지를 만들고, 각 아이템마다 의미 있는 라벨을 붙인다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une image unique contenant une grille de 100 objets pixel art entièrement uniques, chacun avec une étiquette pertinente.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein einzelnes Bild mit einem Raster aus 100 komplett einzigartigen Pixel-Art-Objekten, jeweils mit aussagekräftiger Beschriftung.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una sola imagen con una cuadrícula de 100 objetos pixel art completamente únicos, cada uno con una etiqueta significativa.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "100 Pixel Art Items Grid",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "100 个像素风物品网格",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "100 個像素風物件網格",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "100 個のピクセルアートアイテム",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "100개의 픽셀 아트 아이템 그리드",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Grille de 100 objets pixel art",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "100 Pixel-Art-Gegenstände",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cuadrícula de 100 objetos pixel art",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Reconstructed from the tweet text. The author notes that the full prompt is in a reply.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_27263954ca",
+      "value": "🎮 游戏与娱乐",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_cfebc9acfe",
+      "value": "🎮 遊戲與娛樂",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7c91be168a",
+      "value": "🎮 ゲーム・エンターテインメント",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_716e2fa67b",
+      "value": "🎮 게임과 엔터테인먼트",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "jeu-et-divertissement",
+      "value": "🎮 Jeu et divertissement",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "spiele-und-unterhaltung",
+      "value": "🎮 Spiele und Unterhaltung",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "juegos-y-entretenimiento",
+      "value": "🎮 Juegos y entretenimiento",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/ProperPrompter/status/2046534215311970694",
+      "originalId": "https://x.com/ProperPrompter/status/2046534215311970694",
+      "authors": [
+        {
+          "name": "ProperPrompter",
+          "url": "https://x.com/ProperPrompter/status/2046534215311970694"
+        },
+        {
+          "name": " @ProperPrompter ",
+          "url": "https://x.com/ProperPrompter/status/2046534215311970694"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 234
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 183
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 183
+        },
+        {
+          "file": "README:ja",
+          "line": 183
+        },
+        {
+          "file": "README:ko",
+          "line": 183
+        },
+        {
+          "file": "README:fr",
+          "line": 183
+        },
+        {
+          "file": "README:de",
+          "line": 183
+        },
+        {
+          "file": "README:es",
+          "line": 183
+        }
+      ],
+      "rawSource": "[@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c25160142e54980f",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/amplify_video_thumb/2046534148748451840/img/jbY5FyJJIEVLKH2J.jpg",
+      "upstreamPath": "https://pbs.twimg.com/amplify_video_thumb/2046534148748451840/img/jbY5FyJJIEVLKH2J.jpg",
+      "localPath": "public/assets/prompt_9a26862e1f2c59237631/a18c9d176d9e.jpg",
+      "alt": "100 Pixel Art Items Grid",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.594Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "prompt_4427c1ad5a1a9a3100be",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一个天坛的建筑拆解图，有详细的说明，中式美学风格",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "天坛古建拆解全图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Complete Illustration of Disassembled Temple of Heaven Architecture",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:10:15.636Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_769e6eecbc",
+      "value": "天坛古建拆解全图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-211",
+      "originalId": "case-211",
+      "authors": [
+        {
+          "name": "TanShilong",
+          "url": "https://x.com/TanShilong/status/2046524996013662380"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1387
+        }
+      ],
+      "rawSource": "[@TanShilong](https://x.com/TanShilong/status/2046524996013662380)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_64253271487b1cc9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case211.jpg",
+      "upstreamPath": "../data/images/case211.jpg",
+      "localPath": "public/assets/prompt_4427c1ad5a1a9a3100be/50009a76c27c.jpg",
+      "alt": "天坛古建拆解全图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "architecture",
+      "建筑"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "id": "prompt_b3ae3108b96f45393cd0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "It's 10 AM in Los Angeles, 11 AM in Denver, 12 PM in Chicago, 1 PM in New York, 6 PM in London, and 2 AM in Tokyo. Render a wall with different analog clocks, each showing the correct time for its city, with the city label below each clock.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "现在洛杉矶是上午 10 点，丹佛是上午 11 点，芝加哥是中午 12 点，纽约是下午 1 点，伦敦是下午 6 点，东京是凌晨 2 点。请渲染一面挂着不同模拟时钟的墙，每个时钟都显示其城市的正确时间，并在时钟下方标注城市名称。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "現在洛杉磯是上午 10 點、丹佛上午 11 點、芝加哥中午 12 點、紐約下午 1 點、倫敦下午 6 點、東京凌晨 2 點。請渲染一面掛著不同類比時鐘的牆，每個時鐘都顯示對應城市的正確時間，並在下方標示城市名稱。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ロサンゼルスは午前 10 時、デンバーは午前 11 時、シカゴは午後 12 時、ニューヨークは午後 1 時、ロンドンは午後 6 時、東京は午前 2 時。各都市の正しい時刻を示すアナログ時計が並んだ壁を描き、各時計の下に都市名を表示する。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "로스앤젤레스 오전 10시, 덴버 오전 11시, 시카고 정오 12시, 뉴욕 오후 1시, 런던 오후 6시, 도쿄 오전 2시를 각각 정확히 가리키는 아날로그 시계들을 벽에 배치하고, 각 시계 아래에 도시 이름을 넣는다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Il est 10 h à Los Angeles, 11 h à Denver, 12 h à Chicago, 13 h à New York, 18 h à Londres et 2 h à Tokyo. Rends un mur avec différentes horloges analogiques affichant la bonne heure de chaque ville et le nom de la ville sous chaque horloge.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "In Los Angeles ist es 10 Uhr, in Denver 11 Uhr, in Chicago 12 Uhr, in New York 13 Uhr, in London 18 Uhr und in Tokio 2 Uhr. Rendere eine Wand mit verschiedenen Analoguhren, die jeweils die richtige Uhrzeit für ihre Stadt anzeigen, inklusive Stadtname darunter.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Son las 10 a. m. en Los Ángeles, 11 a. m. en Denver, 12 p. m. en Chicago, 1 p. m. en Nueva York, 6 p. m. en Londres y 2 a. m. en Tokio. Renderiza un muro con distintos relojes analógicos, cada uno mostrando la hora correcta de su ciudad, con el nombre de la ciudad debajo.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "World Time Analog Clock Wall",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "世界时间模拟时钟墙",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "世界時間模擬時鐘牆",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "世界時間のアナログ時計ウォール",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "세계 시간 아날로그 시계 벽",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Mur d'horloges analogiques mondiales",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Weltzeit-Wand mit Analoguhren",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Muro de relojes analógicos mundiales",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e156bfaa6d",
+      "value": "📚 信息图、教育与文档",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e5cd4ed1b2",
+      "value": "📚 資訊圖、教育與文件",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a835d8e9f",
+      "value": "📚 インフォグラフィック・教育・文書",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b316df1fa2",
+      "value": "📚 인포그래픽, 교육, 문서",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infographies-education-et-documents",
+      "value": "📚 Infographies, éducation et documents",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografiken-bildung-und-dokumente",
+      "value": "📚 Infografiken, Bildung und Dokumente",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografias-educacion-y-documentos",
+      "value": "📚 Infografías, educación y documentos",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/Angaisb_/status/2046666389734179018",
+      "originalId": "https://x.com/Angaisb_/status/2046666389734179018",
+      "authors": [
+        {
+          "name": "Angaisb_",
+          "url": "https://x.com/Angaisb_/status/2046666389734179018"
+        },
+        {
+          "name": " @Angaisb_ ",
+          "url": "https://x.com/Angaisb_/status/2046666389734179018"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 766
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 656
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 509
+        },
+        {
+          "file": "README:ja",
+          "line": 656
+        },
+        {
+          "file": "README:ko",
+          "line": 509
+        },
+        {
+          "file": "README:fr",
+          "line": 509
+        },
+        {
+          "file": "README:de",
+          "line": 509
+        },
+        {
+          "file": "README:es",
+          "line": 509
+        }
+      ],
+      "rawSource": "[@Angaisb_](https://x.com/Angaisb_/status/2046666389734179018)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1b44d8f050cd8c9b",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGYD-Y4bMAA0KxJ?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGYD-Y4bMAA0KxJ?format=jpg&name=large",
+      "localPath": "public/assets/prompt_b3ae3108b96f45393cd0/c7a28b7c4359.jpg",
+      "alt": "World Time Analog Clock Wall",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "education",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.598Z"
+  }
+}

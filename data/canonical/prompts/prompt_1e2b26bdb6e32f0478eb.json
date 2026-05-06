@@ -1,0 +1,184 @@
+{
+  "id": "prompt_1e2b26bdb6e32f0478eb",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Ultra-realistic 8K full-body portrait of a {argument name=\"subject description\" default=\"stylish young man leaning casually against a clean light-gray wall\"}. He is wearing a {argument name=\"outfit\" default=\"mustard yellow V-neck sweater with black-and-white striped trim on the neckline and cuffs, slim-fit black trousers, mustard-colored socks, and black sneakers with white soles\"}. Hands in pockets, one leg crossed over the other, relaxed confident pose. The man has a well-groomed beard and voluminous styled hair, sharp and natural look. On the wall next to him, create a bold black-and-white stylized vector portrait of the same man with modern geometric elements. Below the graphic, add clean bold text: '{argument name=\"name\" default=\"Fatima Batool\"}' in large letters, and beneath it, 'Twitter: @Fati_092' in smaller letters. Lighting: soft, even, professional studio quality. Mood: modern, minimalistic, premium personal branding aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超写实 8K 全身肖像，主体为 {argument name=\"subject description\" default=\"一位时尚的年轻人，随意地靠在干净的浅灰色墙壁上\"}。他穿着 {argument name=\"outfit\" default=\"芥末黄 V 领毛衣，领口和袖口带有黑白条纹装饰，搭配修身黑色长裤、芥末色袜子以及黑白底运动鞋\"}。双手插兜，双腿交叉，姿态放松且自信。该男子留着修剪整齐的胡须，发型蓬松有型，轮廓清晰自然。在身旁的墙面上，创作一幅该男子的黑白风格化矢量肖像，并融入现代几何元素。在图形下方，添加清晰的粗体文字：'{argument name=\"name\" default=\"Fatima Batool\"}'（大号字体），并在其下方添加较小字体的 'Twitter: @Fati_092'。光影：柔和、均匀、专业摄影棚质感。氛围：现代、极简、高端个人品牌美学。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Chân dung toàn thân 8K siêu thực của {argument name=\"subject description\" default=\"một chàng trai trẻ sành điệu đang tựa người thoải mái vào bức tường màu xám nhạt sạch sẽ\"}. Anh ấy đang mặc {argument name=\"outfit\" default=\"áo len cổ chữ V màu vàng mù tạt với viền sọc đen trắng ở cổ và cổ tay, quần tây đen ôm sát, tất màu mù tạt và giày thể thao đen đế trắng\"}. Tay đút túi quần, một chân vắt chéo qua chân kia, tư thế tự tin và thoải mái. Người đàn ông có bộ râu được chăm chút kỹ lưỡng và mái tóc tạo kiểu bồng bềnh, vẻ ngoài sắc nét và tự nhiên. Trên bức tường bên cạnh anh ấy, hãy tạo một bức chân dung vector cách điệu đen trắng táo bạo của chính người đàn ông đó với các yếu tố hình học hiện đại. Bên dưới hình ảnh đồ họa, thêm văn bản in đậm, sạch sẽ: '{argument name=\"name\" default=\"Fatima Batool\"}' bằng chữ lớn, và bên dưới đó là 'Twitter: @Fati_092' bằng chữ nhỏ hơn. Ánh sáng: mềm mại, đồng đều, chất lượng studio chuyên nghiệp. Tâm trạng: hiện đại, tối giản, thẩm mỹ thương hiệu cá nhân cao cấp.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Retrato de cuerpo completo 8K ultra realista de {argument name=\"subject description\" default=\"un joven con estilo apoyado casualmente contra una pared limpia de color gris claro\"}. Viste un {argument name=\"outfit\" default=\"suéter con cuello en V color amarillo mostaza con detalles a rayas blancas y negras en el cuello y los puños, pantalones negros ajustados, calcetines color mostaza y zapatillas negras con suela blanca\"}. Manos en los bolsillos, una pierna cruzada sobre la otra, pose relajada y segura. El hombre tiene una barba bien cuidada y cabello voluminoso con estilo, aspecto nítido y natural. En la pared junto a él, crea un retrato vectorial estilizado en blanco y negro del mismo hombre con elementos geométricos modernos. Debajo del gráfico, añade un texto limpio y en negrita: '{argument name=\"name\" default=\"Fatima Batool\"}' en letras grandes, y debajo, 'Twitter: @Fati_092' en letras más pequeñas. Iluminación: suave, uniforme, calidad de estudio profesional. Ambiente: moderno, minimalista, estética de marca personal premium.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ultra-realistisches 8K-Ganzkörperporträt von einem {argument name=\"subject description\" default=\"stilvollen jungen Mann, der lässig an einer sauberen, hellgrauen Wand lehnt\"}. Er trägt einen {argument name=\"outfit\" default=\"senfgelben V-Ausschnitt-Pullover mit schwarz-weiß gestreiftem Saum am Ausschnitt und an den Ärmelbündchen, eine schmal geschnittene schwarze Hose, senffarbene Socken und schwarze Sneaker mit weißer Sohle\"}. Hände in den Taschen, ein Bein über das andere geschlagen, entspannte und selbstbewusste Pose. Der Mann hat einen gepflegten Bart und voluminös gestyltes Haar, ein scharfer und natürlicher Look. Erstellen Sie an der Wand neben ihm ein markantes, schwarz-weiß stilisiertes Vektorporträt desselben Mannes mit modernen geometrischen Elementen. Fügen Sie unter der Grafik einen klaren, fetten Text hinzu: '{argument name=\"name\" default=\"Fatima Batool\"}' in großen Buchstaben und darunter 'Twitter: @Fati_092' in kleinerer Schrift. Beleuchtung: weich, gleichmäßig, professionelle Studioqualität. Stimmung: modern, minimalistisch, erstklassige Personal-Branding-Ästhetik.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Portrait en pied 8K ultra-réaliste de {argument name=\"subject description\" default=\"un jeune homme élégant appuyé nonchalamment contre un mur gris clair épuré\"}. Il porte {argument name=\"outfit\" default=\"un pull à col en V jaune moutarde avec des bordures rayées noir et blanc au niveau du col et des poignets, un pantalon noir ajusté, des chaussettes couleur moutarde et des baskets noires à semelles blanches\"}. Mains dans les poches, une jambe croisée sur l'autre, pose détendue et confiante. L'homme a une barbe bien taillée et des cheveux volumineux et coiffés, un look net et naturel. Sur le mur à côté de lui, créez un portrait vectoriel stylisé en noir et blanc du même homme avec des éléments géométriques modernes. Sous le graphique, ajoutez un texte en gras épuré : '{argument name=\"name\" default=\"Fatima Batool\"}' en grandes lettres, et en dessous, 'Twitter : @Fati_092' en plus petits caractères. Éclairage : doux, uniforme, qualité studio professionnelle. Ambiance : moderne, minimaliste, esthétique de branding personnel haut de gamme.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Ritratto a figura intera 8K ultra-realistico di un {argument name=\"subject description\" default=\"giovane uomo alla moda appoggiato con disinvoltura a una parete pulita grigio chiaro\"}. Indossa un {argument name=\"outfit\" default=\"maglione a V color senape con bordi a righe bianche e nere su scollo e polsini, pantaloni neri slim-fit, calzini color senape e sneakers nere con suola bianca\"}. Mani in tasca, una gamba incrociata sull'altra, posa rilassata e sicura di sé. L'uomo ha una barba ben curata e capelli voluminosi e acconciati, aspetto nitido e naturale. Sulla parete accanto a lui, crea un audace ritratto vettoriale stilizzato in bianco e nero dello stesso uomo con elementi geometrici moderni. Sotto la grafica, aggiungi un testo pulito e in grassetto: '{argument name=\"name\" default=\"Fatima Batool\"}' a grandi lettere, e sotto di esso, 'Twitter: @Fati_092' in caratteri più piccoli. Illuminazione: morbida, uniforme, qualità da studio professionale. Atmosfera: moderna, minimalista, estetica premium per il personal branding.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Retrato de corpo inteiro 8K ultra-realista de {argument name=\"subject description\" default=\"um jovem estiloso encostado casualmente em uma parede cinza-clara limpa\"}. Ele está vestindo {argument name=\"outfit\" default=\"um suéter gola V amarelo mostarda com detalhes listrados em preto e branco na gola e nos punhos, calças pretas slim, meias cor de mostarda e tênis pretos com solado branco\"}. Mãos nos bolsos, uma perna cruzada sobre a outra, pose relaxada e confiante. O homem tem uma barba bem cuidada e cabelo volumoso e estilizado, com um visual nítido e natural. Na parede ao lado dele, crie um retrato vetorial estilizado em preto e branco do mesmo homem com elementos geométricos modernos. Abaixo do gráfico, adicione um texto limpo e em negrito: '{argument name=\"name\" default=\"Fatima Batool\"}' em letras grandes e, abaixo, 'Twitter: @Fati_092' em letras menores. Iluminação: suave, uniforme, qualidade de estúdio profissional. Atmosfera: moderna, minimalista, estética premium de marca pessoal.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Minimalist Personal Branding Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 极简个人品牌肖像",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Chân dung thương hiệu cá nhân tối giản",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Retrato de marca personal minimalista",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Minimalistisches Personal-Branding-Porträt",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Portrait de branding personnel minimaliste",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Ritratto minimalista per personal branding",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Retrato Minimalista de Marca Pessoal",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a high-quality, ultra-realistic 8K portrait of a stylish individual posing against a minimal background, complemented by a stylized vector graphic and personalized typography for a professional branding look.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示词可生成一张高质量、超写实的 8K 肖像，展示一位时尚人士在极简背景下的姿态，并辅以风格化的矢量图形和个性化排版，打造专业的品牌形象。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ce prompt génère un portrait 8K ultra-réaliste et de haute qualité d'une personne élégante posant sur un fond minimaliste, complété par un graphique vectoriel stylisé et une typographie personnalisée pour un rendu de branding professionnel.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Fati_092/status/2051395928788222153",
+      "originalId": "https://x.com/Fati_092/status/2051395928788222153",
+      "authors": [
+        {
+          "name": "Fatima Batool✨",
+          "url": "https://x.com/Fati_092"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 830
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9a825a9ad0441879",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971036249_m325uz_HHgFfJPbQAAtNSL.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971036249_m325uz_HHgFfJPbQAAtNSL.jpg",
+      "localPath": "public/assets/prompt_1e2b26bdb6e32f0478eb/3dd71e3eef60.jpg",
+      "alt": "Profile / Avatar - Minimalist Personal Branding Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.846Z"
+  }
+}

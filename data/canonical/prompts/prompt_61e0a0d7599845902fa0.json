@@ -1,0 +1,108 @@
+{
+  "id": "prompt_61e0a0d7599845902fa0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "以下の文字を必ず入れて、1:1のポスターを作成してください。書籍・講座・イベント告知に使える、プロの広告デザイナーが作ったような高品質な仕上がりにしてください。\n\n広告クリエイティブ制作\n思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "请务必包含以下文字，制作1:1比例的海报。请制作出可用于书籍、课程、活动宣传的高品质效果，如同专业广告设计师制作的作品。\n\n广告创意制作\n想到就能玩。AI×浏览器游戏制作真的很有趣。看似困难，实际上很容易入门。即使不懂代码，也能做出第一个游戏。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:04:24.787Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Browser Game Ad Creative Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "浏览器游戏广告创意海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:04:22.627Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/llllegend0620/status/2045963764466688065",
+      "originalId": "case-10",
+      "authors": [
+        {
+          "name": "llllegend0620",
+          "url": "https://x.com/llllegend0620"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 109
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dab03131bd19d45c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg",
+      "localPath": "public/assets/prompt_61e0a0d7599845902fa0/4294dba4b28e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

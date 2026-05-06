@@ -1,0 +1,174 @@
+{
+  "id": "prompt_fbbbfe13d6d7ca89f6a7",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dramatic cinematic action shot of a {argument name=\"child\" default=\"12-year-old boy\"} with messy dark hair powerfully kicking a soccer ball on a {argument name=\"setting\" default=\"green grass stadium field\"} at golden hour sunset. The soccer ball is massively oversized and zoomed-in in the foreground, dominating the lower part of the frame like viral \"giant object\" photos, extremely detailed texture, black and white panels, sharp focus. The boy is captured mid-kick with his right leg extended, dirt and grass particles flying dramatically. He wears a {argument name=\"clothing\" default=\"crisp white t-shirt\"} with bold black text \"GPT IMAGE 2.0\" printed on the chest, black athletic shorts, white socks with black stripes. Dynamic low-angle perspective, vibrant saturated colors, ultra-sharp clarity, high contrast, cinematic lighting with warm golden sun rays breaking through dramatic clouds, shallow depth of field, 8k photorealistic, hyper-detailed, National Geographic style --ar 3:4 --stylize 250 --v 6",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张极具戏剧性的电影级动作镜头，画面中一位 {argument name=\"child\" default=\"12 岁男孩\"} 留着凌乱的深色头发，正在 {argument name=\"setting\" default=\"绿草如茵的体育场\"} 上于黄金时刻的日落时分奋力踢球。前景中是一个被放大且占据画面下方的超大号足球，呈现出类似病毒式传播的“巨型物体”照片效果，纹理极其细腻，黑白相间的拼接细节清晰可见，焦点锐利。男孩被捕捉到踢球瞬间，右腿伸展，泥土和草屑戏剧性地飞溅。他身穿一件 {argument name=\"clothing\" default=\"干净的白色 T 恤\"}，胸前印有醒目的黑色文字“GPT IMAGE 2.0”，搭配黑色运动短裤和带有黑色条纹的白色球袜。动态低角度视角，色彩鲜艳饱和，清晰度极高，对比度强烈，电影级光影效果，温暖的金色阳光穿透戏剧性的云层，浅景深，8k 写实画质，超精细细节，国家地理杂志风格 --ar 3:4 --stylize 250 --v 6",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una toma de acción cinematográfica dramática de un {argument name=\"child\" default=\"niño de 12 años\"} con cabello oscuro alborotado pateando con fuerza un balón de fútbol en un {argument name=\"setting\" default=\"campo de estadio de césped verde\"} durante la puesta de sol de la hora dorada. El balón de fútbol es masivamente grande y está en primer plano, dominando la parte inferior del encuadre como las fotos virales de \"objetos gigantes\", textura extremadamente detallada, paneles blancos y negros, enfoque nítido. El niño es capturado a mitad de la patada con la pierna derecha extendida, con partículas de tierra y césped volando dramáticamente. Viste una {argument name=\"clothing\" default=\"camiseta blanca impecable\"} con el texto negro en negrita \"GPT IMAGE 2.0\" impreso en el pecho, pantalones cortos deportivos negros, calcetines blancos con rayas negras. Perspectiva dinámica de ángulo bajo, colores vibrantes y saturados, claridad ultra nítida, alto contraste, iluminación cinematográfica con rayos de sol dorados y cálidos atravesando nubes dramáticas, profundidad de campo reducida, fotorrealista en 8k, hiperdetallado, estilo National Geographic --ar 3:4 --stylize 250 --v 6",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Eine dramatische, filmische Actionaufnahme eines {argument name=\"child\" default=\"12-jährigen Jungen\"} mit zerzaustem dunklem Haar, der kraftvoll einen Fußball auf einem {argument name=\"setting\" default=\"grünen Stadionrasen\"} während des Sonnenuntergangs in der goldenen Stunde kickt. Der Fußball ist massiv überdimensioniert und im Vordergrund herangezoomt, er dominiert den unteren Teil des Bildes wie bei viralen „Riesenobjekt“-Fotos, extrem detaillierte Textur, schwarz-weiße Paneele, scharfer Fokus. Der Junge ist mitten im Schuss mit ausgestrecktem rechten Bein eingefangen, während Schmutz- und Graspartikel dramatisch umherfliegen. Er trägt ein {argument name=\"clothing\" default=\"knackig weißes T-Shirt\"} mit dem fett gedruckten schwarzen Text „GPT IMAGE 2.0“ auf der Brust, schwarze Sportshorts und weiße Socken mit schwarzen Streifen. Dynamische Low-Angle-Perspektive, lebendige gesättigte Farben, ultrascharfe Klarheit, hoher Kontrast, filmische Beleuchtung mit warmen goldenen Sonnenstrahlen, die durch dramatische Wolken brechen, geringe Schärfentiefe, 8k fotorealistisch, hyperdetailliert, National Geographic-Stil --ar 3:4 --stylize 250 --v 6",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une prise de vue cinématographique dramatique d'un {argument name=\"child\" default=\"garçon de 12 ans\"} aux cheveux bruns ébouriffés frappant puissamment un ballon de football sur un {argument name=\"setting\" default=\"terrain de stade en herbe verte\"} lors du coucher de soleil à l'heure dorée. Le ballon de football est massivement surdimensionné et en gros plan au premier plan, dominant la partie inférieure du cadre comme les photos virales d'« objets géants », texture extrêmement détaillée, panneaux noirs et blancs, mise au point nette. Le garçon est capturé en plein tir, la jambe droite étendue, avec de la terre et des brins d'herbe volant de manière spectaculaire. Il porte un {argument name=\"clothing\" default=\"t-shirt blanc impeccable\"} avec le texte noir en gras « GPT IMAGE 2.0 » imprimé sur la poitrine, un short de sport noir, des chaussettes blanches à rayures noires. Perspective dynamique en contre-plongée, couleurs vives et saturées, clarté ultra-nette, contraste élevé, éclairage cinématographique avec des rayons de soleil dorés perçant à travers des nuages dramatiques, faible profondeur de champ, photoréalisme 8k, hyper-détaillé, style National Geographic --ar 3:4 --stylize 250 --v 6",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Uno scatto d'azione cinematografico drammatico di un {argument name=\"child\" default=\"ragazzino di 12 anni\"} con capelli scuri spettinati che calcia con forza un pallone da calcio su un {argument name=\"setting\" default=\"campo da stadio in erba verde\"} al tramonto durante l'ora d'oro. Il pallone da calcio è enormemente sovradimensionato e in primo piano, domina la parte inferiore dell'inquadratura come le foto virali di \"oggetti giganti\", texture estremamente dettagliata, pannelli bianchi e neri, messa a fuoco nitida. Il ragazzo è catturato a metà calcio con la gamba destra estesa, particelle di terra ed erba che volano in modo drammatico. Indossa una {argument name=\"clothing\" default=\"t-shirt bianca pulita\"} con la scritta nera in grassetto \"GPT IMAGE 2.0\" stampata sul petto, pantaloncini sportivi neri, calzini bianchi con strisce nere. Prospettiva dinamica dal basso, colori vibranti e saturi, chiarezza ultra-nitida, contrasto elevato, illuminazione cinematografica con caldi raggi solari dorati che filtrano attraverso nuvole drammatiche, profondità di campo ridotta, fotorealistico 8k, iper-dettagliato, stile National Geographic --ar 3:4 --stylize 250 --v 6",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma foto de ação cinematográfica dramática de um {argument name=\"child\" default=\"menino de 12 anos\"} com cabelos escuros bagunçados chutando com força uma bola de futebol em um {argument name=\"setting\" default=\"campo de grama verde de estádio\"} durante o pôr do sol da 'golden hour'. A bola de futebol é massivamente grande e está em close no primeiro plano, dominando a parte inferior do quadro como fotos virais de \"objetos gigantes\", textura extremamente detalhada, painéis em preto e branco, foco nítido. O menino é capturado no meio do chute com a perna direita estendida, partículas de terra e grama voando dramaticamente. Ele veste uma {argument name=\"clothing\" default=\"camiseta branca impecável\"} com o texto em preto em negrito \"GPT IMAGE 2.0\" estampado no peito, shorts esportivos pretos, meias brancas com listras pretas. Perspectiva dinâmica de ângulo baixo, cores vibrantes e saturadas, clareza ultra nítida, alto contraste, iluminação cinematográfica com raios de sol dourados quentes atravessando nuvens dramáticas, profundidade de campo rasa, fotorrealista 8k, hiperdetalhado, estilo National Geographic --ar 3:4 --stylize 250 --v 6",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Dramatic Soccer Cinematic Action Shot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 极具戏剧性的足球电影级动作镜头",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Toma de acción cinematográfica dramática de fútbol",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Dramatische Fußball-Actionaufnahme im Kino-Stil",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Prise de vue cinématographique dramatique de football",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Scatto d'azione cinematografico di calcio drammatico",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Foto de Ação Cinematográfica Dramática de Futebol",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A high-intensity prompt for generating a photorealistic cinematic action shot of a young boy playing soccer during golden hour, featuring a giant oversized soccer ball in the foreground.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于生成写实风格电影级动作镜头的高强度提示词，画面描绘了一名小男孩在黄金时刻踢足球的场景，前景中有一个巨大的超大号足球。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt à haute intensité pour générer une prise de vue cinématographique photoréaliste d'un jeune garçon jouant au football pendant l'heure dorée, mettant en scène un ballon de football géant au premier plan.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ShamiWeb3/status/2048287581868302683",
+      "originalId": "https://x.com/ShamiWeb3/status/2048287581868302683",
+      "authors": [
+        {
+          "name": "Shami",
+          "url": "https://x.com/ShamiWeb3"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2847
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_baa37c994aa068f5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280759919_aj14u4_HGz6QPgbMAABDQH.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280759919_aj14u4_HGz6QPgbMAABDQH.jpg",
+      "localPath": "public/assets/prompt_fbbbfe13d6d7ca89f6a7/e039223bb0a1.jpg",
+      "alt": "YouTube Thumbnail - Dramatic Soccer Cinematic Action Shot - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-25T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.125Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "youtube",
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

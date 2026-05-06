@@ -1,0 +1,93 @@
+{
+  "id": "prompt_db1023081f56ce3a8f2c",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"2-page manga spread\",\r\n  \"style\": \"monochrome anime manga, screentones\",\r\n  \"theme\": \"{argument name=\\\"main action\\\" default=\\\"fantasy mage developing a video game\\\"}\",\r\n  \"character\": \"{argument name=\\\"character appearance\\\" default=\\\"anime girl with blonde hair, tiara, cape, white dress, thigh-highs\\\"}\",\r\n  \"layout\": {\r\n    \"left_page\": {\r\n      \"panel_count\": 11,\r\n      \"rows\": [\r\n        {\"panels\": 1, \"action\": \"Determined at dual-monitor desk, speech bubble: '新作ゲーム、絶対完成させる！'\"},\r\n        {\"panels\": 3, \"action\": \"Typing, drawing on tablet, testing with controller\"},\r\n        {\"panels\": 3, \"action\": \"Shocked at ERROR screen, depressed, determined again\"},\r\n        {\"panels\": 4, \"action\": \"Exhausted, sudden realization, furious typing, monitor showing 'Build succeeded!'\"}\r\n      ]\r\n    },\r\n    \"right_page\": {\r\n      \"panel_count\": 2,\r\n      \"panels\": [\r\n        {\"type\": \"large splash\", \"action\": \"Casting magic from a glowing circle at a code-error monster labeled '{argument name=\\\"error text\\\" default=\\\"NullReferenceException\\\"}'. Speech bubble: '{argument name=\\\"spell text\\\" default=\\\"デバッグ魔法!!\\\"}'\"},\r\n        {\"type\": \"bottom banner\", \"action\": \"Cheering in front of RPG title screen. Speech bubble: '{argument name=\\\"success text\\\" default=\\\"やったー！\\\"}'\"}\r\n      ]\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-116",
+      "originalId": "case-116",
+      "authors": [
+        {
+          "name": "gamemangaanime",
+          "url": "https://x.com/gamemangaanime"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4443
+        }
+      ],
+      "rawSource": "[@gamemangaanime](https://x.com/gamemangaanime)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2982d8c4060a1266",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case116.jpg",
+      "upstreamPath": "../data/images/case116.jpg",
+      "localPath": "public/assets/prompt_db1023081f56ce3a8f2c/823563e4ebd1.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "anime",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.604Z"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "prompt_f72213b47fed97fd96a5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a realistic, high-end lifestyle mirror selfie photograph of an adult woman lounging sideways on a modern beige sofa in a warm minimalist living room. She has {argument name=\"hair color\" default=\"short dark brown\"} chin-length bob hair and a slim figure, reclining with her upper body propped against the left sofa arm, one hand resting on the cushion and the other holding a dark smartphone in front of her face; her face is intentionally hidden by a plain rectangular privacy blur/censor block. She wears a fitted {argument name=\"top style\" default=\"white ribbed long-sleeve turtleneck cropped top\"} and a {argument name=\"skirt style\" default=\"brown gray plaid mini skirt\"}, with bare legs extended diagonally across the sofa toward the right side of the frame. Compose the image in a wide horizontal 16:9 aspect ratio, full-body from head to toes, slightly low eye-level perspective, casual elegant pose, natural anatomy, soft skin texture, realistic fabric folds. The room has beige plaster walls, a cream sofa with square arms and a matching throw pillow, a black dome table lamp glowing warmly on a dark side table at the far left, wooden flooring, and a tall sculptural gray ceramic vase with delicate leafy branches on the far right. Use warm ambient lighting with soft shadows, cozy evening atmosphere, shallow depth of field, muted neutral palette, editorial interior photography style, ultra-realistic detail, no visible text, no extra people, no distorted hands or feet.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张逼真、高端的生活方式镜面自拍照片，展示一位成年女性侧身斜倚在温馨简约客厅的现代米色沙发上。她留着 {argument name=\"hair color\" default=\"深棕色短发\"} 的齐下巴波波头，身材苗条，上半身靠在沙发左侧扶手上，一只手放在靠垫上，另一只手拿着深色智能手机挡在脸前；她的面部被一个简洁的矩形隐私模糊/遮挡块刻意遮住。她穿着一件修身的 {argument name=\"top style\" default=\"白色罗纹长袖高领露脐上衣\"} 和一条 {argument name=\"skirt style\" default=\"棕灰色格纹迷你裙\"}，双腿裸露，向画面右侧斜向伸展。构图采用 16:9 宽画幅，全身从头到脚，略微低平的视线角度，姿态休闲优雅，人体结构自然，皮肤纹理细腻，布料褶皱真实。房间墙面为米色灰泥，配有方形扶手的奶油色沙发及同色系抱枕，最左侧深色边几上放着一盏散发温暖光芒的黑色半球形台灯，铺设木地板，最右侧摆放着一个高大的雕塑感灰色陶瓷花瓶，插有精致的枝叶。采用温暖的环境光，阴影柔和，营造舒适的夜晚氛围，浅景深，柔和的中性色调，编辑级室内摄影风格，超逼真细节，无可见文字，无多余人物，无扭曲的手部或脚部。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una fotografía realista y de alta gama de estilo de vida tipo selfie en el espejo de una mujer adulta recostada de lado en un moderno sofá beige dentro de una cálida sala de estar minimalista. Tiene {argument name=\"hair color\" default=\"cabello corto castaño oscuro\"} estilo bob a la altura de la barbilla y una figura esbelta, recostada con la parte superior del cuerpo apoyada contra el brazo izquierdo del sofá, una mano descansando sobre el cojín y la otra sosteniendo un smartphone oscuro frente a su rostro; su cara está ocultada intencionalmente por un bloque de censura/difuminado rectangular simple. Viste un {argument name=\"top style\" default=\"top corto de cuello alto y manga larga de canalé blanco\"} ajustado y una {argument name=\"skirt style\" default=\"minifalda a cuadros gris marrón\"}, con las piernas desnudas extendidas diagonalmente a través del sofá hacia el lado derecho del encuadre. Compón la imagen en una relación de aspecto horizontal amplia de 16:9, cuerpo completo de pies a cabeza, perspectiva ligeramente baja a la altura de los ojos, pose casual elegante, anatomía natural, textura de piel suave, pliegues de tela realistas. La habitación tiene paredes de yeso beige, un sofá color crema con brazos cuadrados y un cojín a juego, una lámpara de mesa tipo domo negra que brilla cálidamente sobre una mesa auxiliar oscura en el extremo izquierdo, piso de madera y un jarrón de cerámica gris escultural y alto con delicadas ramas de hojas en el extremo derecho. Usa iluminación ambiental cálida con sombras suaves, atmósfera acogedora de tarde, profundidad de campo reducida, paleta neutra y apagada, estilo de fotografía de interiores editorial, detalle ultra realista, sin texto visible, sin personas adicionales, sin manos o pies distorsionados.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein realistisches, hochwertiges Lifestyle-Spiegel-Selfie einer erwachsenen Frau, die seitlich auf einem modernen beigen Sofa in einem warmen, minimalistischen Wohnzimmer liegt. Sie hat {argument name=\"hair color\" default=\"kurzes, dunkelbraunes\"} kinnlanges Bob-Haar und eine schlanke Figur. Sie liegt so, dass ihr Oberkörper gegen die linke Armlehne gestützt ist, eine Hand ruht auf dem Kissen, während die andere ein dunkles Smartphone vor ihr Gesicht hält; ihr Gesicht ist absichtlich durch einen schlichten, rechteckigen Unschärfe- bzw. Zensurbalken verdeckt. Sie trägt ein eng anliegendes {argument name=\"top style\" default=\"weißes, geripptes, langärmeliges bauchfreies Rollkragenoberteil\"} und einen {argument name=\"skirt style\" default=\"braun-grauen Minirock mit Karomuster\"}, wobei ihre nackten Beine diagonal über das Sofa in Richtung der rechten Seite des Bildes ausgestreckt sind. Komponiere das Bild im breiten horizontalen 16:9-Seitenverhältnis, Ganzkörperaufnahme von Kopf bis Fuß, leicht niedrige Augenhöhe, lässig-elegante Pose, natürliche Anatomie, weiche Hauttextur, realistische Stofffalten. Der Raum hat beigefarbene Putzwände, ein cremefarbenes Sofa mit quadratischen Armlehnen und einem passenden Zierkissen, eine schwarze Kuppel-Tischlampe, die warm auf einem dunklen Beistelltisch ganz links leuchtet, Holzboden und eine hohe, skulpturale graue Keramikvase mit zarten Blattzweigen ganz rechts. Nutze warmes Umgebungslicht mit weichen Schatten, eine gemütliche Abendatmosphäre, geringe Schärfentiefe, eine gedämpfte neutrale Farbpalette, redaktionellen Interieur-Fotografie-Stil, ultrarealistische Details, kein sichtbarer Text, keine zusätzlichen Personen, keine verzerrten Hände oder Füße.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une photographie lifestyle réaliste et haut de gamme de type selfie miroir, montrant une femme adulte allongée de côté sur un canapé beige moderne dans un salon minimaliste à l'ambiance chaleureuse. Elle a un carré court arrivant au menton {argument name=\"hair color\" default=\"châtain foncé\"} et une silhouette fine, allongée avec le haut du corps appuyé contre l'accoudoir gauche du canapé, une main posée sur le coussin et l'autre tenant un smartphone sombre devant son visage ; son visage est volontairement masqué par un flou de confidentialité rectangulaire simple. Elle porte un haut ajusté {argument name=\"top style\" default=\"à col roulé blanc à manches longues et coupe courte\"} et une {argument name=\"skirt style\" default=\"mini-jupe à carreaux gris et marron\"}, les jambes nues étendues en diagonale sur le canapé vers la droite du cadre. Composez l'image dans un format horizontal 16:9, en pied de la tête aux pieds, avec une perspective légèrement en contre-plongée, une pose élégante et décontractée, une anatomie naturelle, une texture de peau douce et des plis de tissu réalistes. La pièce présente des murs en plâtre beige, un canapé crème aux accoudoirs carrés avec un coussin assorti, une lampe de table dôme noire diffusant une lueur chaude sur une table d'appoint sombre à l'extrême gauche, un parquet en bois et un grand vase sculptural en céramique grise avec des branches feuillues délicates à l'extrême droite. Utilisez un éclairage ambiant chaud avec des ombres douces, une atmosphère de soirée cosy, une faible profondeur de champ, une palette de tons neutres, un style de photographie d'intérieur éditoriale, des détails ultra-réalistes, aucun texte visible, aucune personne supplémentaire, aucune main ou pied déformé.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una fotografia lifestyle realistica e di alta qualità di un selfie allo specchio che ritrae una donna adulta sdraiata di lato su un moderno divano beige in un caldo soggiorno minimalista. Ha {argument name=\"hair color\" default=\"un caschetto corto castano scuro\"} e una figura snella, ed è sdraiata con la parte superiore del corpo appoggiata al bracciolo sinistro del divano, una mano poggiata sul cuscino e l'altra che tiene uno smartphone scuro davanti al viso; il volto è intenzionalmente nascosto da un blocco di censura/sfocatura rettangolare. Indossa un {argument name=\"top style\" default=\"top corto a collo alto a maniche lunghe a coste bianco\"} attillato e una {argument name=\"skirt style\" default=\"minigonna a quadri grigio marrone\"}, con le gambe nude distese diagonalmente sul divano verso il lato destro dell'inquadratura. Componi l'immagine in un formato orizzontale 16:9, a figura intera dalla testa ai piedi, con una prospettiva leggermente dal basso all'altezza degli occhi, posa casual elegante, anatomia naturale, texture della pelle morbida, pieghe del tessuto realistiche. La stanza presenta pareti in intonaco beige, un divano color crema con braccioli quadrati e un cuscino coordinato, una lampada da tavolo a cupola nera che emana una luce calda su un tavolino scuro all'estrema sinistra, pavimento in legno e un alto vaso scultoreo in ceramica grigia con delicati rami frondosi all'estrema destra. Utilizza un'illuminazione ambientale calda con ombre morbide, un'atmosfera serale accogliente, una profondità di campo ridotta, una palette neutra e tenue, uno stile fotografico editoriale d'interni, dettagli ultra-realistici, nessun testo visibile, nessuna persona aggiuntiva, nessuna mano o piede distorto.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma fotografia realista de selfie no espelho de estilo de vida sofisticado de uma mulher adulta relaxando de lado em um sofá bege moderno em uma sala de estar minimalista e acolhedora. Ela tem {argument name=\"hair color\" default=\"cabelo curto castanho-escuro\"} na altura do queixo e uma silhueta esguia, reclinada com a parte superior do corpo apoiada no braço esquerdo do sofá, uma mão descansando na almofada e a outra segurando um smartphone escuro na frente do rosto; seu rosto está intencionalmente oculto por um bloco de censura/privacidade retangular simples. Ela veste um {argument name=\"top style\" default=\"top cropped de gola alta e manga comprida canelado branco\"} justo e uma {argument name=\"skirt style\" default=\"minissaia xadrez cinza-amarronzada\"}, com as pernas nuas estendidas diagonalmente pelo sofá em direção ao lado direito do quadro. Componha a imagem em uma proporção horizontal ampla de 16:9, corpo inteiro da cabeça aos pés, perspectiva ligeiramente baixa ao nível dos olhos, pose casual elegante, anatomia natural, textura de pele suave, dobras de tecido realistas. A sala possui paredes de gesso bege, um sofá creme com braços quadrados e uma almofada combinando, um abajur de mesa em forma de cúpula preta brilhando calorosamente em uma mesa lateral escura na extrema esquerda, piso de madeira e um vaso de cerâmica cinza escultural alto com ramos de folhas delicadas na extrema direita. Use iluminação ambiente quente com sombras suaves, atmosfera noturna aconchegante, profundidade de campo rasa, paleta neutra e suave, estilo de fotografia de interiores editorial, detalhes ultrarrealistas, sem texto visível, sem pessoas extras, sem mãos ou pés distorcidos.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Warm Living Room Mirror Selfie",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 温馨客厅镜面自拍",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Selfie en espejo en una acogedora sala de estar",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Warmes Wohnzimmer-Spiegel-Selfie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Selfie miroir dans un salon chaleureux",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Selfie allo specchio in un accogliente soggiorno",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Selfie no espelho em sala de estar aconchegante",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a realistic lifestyle selfie of a woman reclining on a beige sofa in a cozy minimalist interior for fashion or social media visuals.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张逼真的生活方式自拍，展示一位女性在温馨简约风格的室内，斜倚在米色沙发上，适用于时尚或社交媒体视觉素材。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un selfie lifestyle réaliste d'une femme allongée sur un canapé beige dans un intérieur minimaliste et cosy pour des visuels de mode ou de réseaux sociaux.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ari_ai_lab/status/2051270047226876214#reversed-0",
+      "originalId": "https://x.com/ari_ai_lab/status/2051270047226876214#reversed-0",
+      "authors": [
+        {
+          "name": "🐜 | AI生成ラボ",
+          "url": "https://x.com/ari_ai_lab"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1150
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_980965fdbbd964bc",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971061424_3zcbu4_HHeTEWQbsAAhFTC.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971061424_3zcbu4_HHeTEWQbsAAhFTC.jpg",
+      "localPath": "public/assets/prompt_f72213b47fed97fd96a5/4d625c4ef33b.jpg",
+      "alt": "Profile / Avatar - Warm Living Room Mirror Selfie - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.871Z"
+  }
+}

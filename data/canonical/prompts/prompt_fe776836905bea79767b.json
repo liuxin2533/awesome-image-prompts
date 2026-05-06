@@ -1,0 +1,81 @@
+{
+  "id": "prompt_fe776836905bea79767b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "generate image: Selfie of Sam Altman riding a bear\n\nEdit prompt: Remove the background make it transparent",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成图像：山姆·奥特曼骑熊的自拍\n\n编辑提示：移除背景，使其透明",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:11:53.841Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Sam Altman Bear Selfie",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/JustinGorya/status/2046510831832006970",
+      "originalId": "case-35",
+      "authors": [
+        {
+          "name": "JustinGorya",
+          "url": "https://x.com/JustinGorya"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 151
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3e5fe8ccb81cc6b4",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case35/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case35/output.jpg",
+      "localPath": "public/assets/prompt_fe776836905bea79767b/c36206f1359d.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

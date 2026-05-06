@@ -1,0 +1,80 @@
+{
+  "id": "prompt_6e4c5ee6bf8e680da1f4",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成四张虚构的日式广告图片，涵盖不同类型并排排列。采用专业设计师创作的潮流设计。宽高比为1:1",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate four fictional Japanese advertisement images, covering different types arranged side by side. Trendy design created by professional designers. Aspect ratio 1:1",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "日式潮流广告四联画",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_6851f36d2a",
+      "value": "日式潮流广告四联画",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-265",
+      "originalId": "case-265",
+      "authors": [
+        {
+          "name": "midori_tatsuta",
+          "url": "https://x.com/midori_tatsuta/status/2045253072289767815"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3051
+        }
+      ],
+      "rawSource": "[@midori\\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8de84e114f88c544",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case265.jpg",
+      "upstreamPath": "../data/images/case265.jpg",
+      "localPath": "public/assets/prompt_6e4c5ee6bf8e680da1f4/715d931aa559.jpg",
+      "alt": "日式潮流广告四联画",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "prompt_cb9fab3fc8ad65009650",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a high-quality Japanese {argument name=\"thumbnail type\" default=\"webinar thumbnail\"}. {argument name=\"aspect ratio\" default=\"16:9 widescreen\"}. There is a lot of text, but the main copy stands out clearly.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a high-quality Japanese {argument name=\"thumbnail type\" default=\"webinar thumbnail\"}. {argument name=\"aspect ratio\" default=\"16:9 widescreen\"}. There is a lot of text, but the main copy stands out clearly.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:25:31.834Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "综合应用场景图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Comprehensive Application Scenario Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:25:35.192Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_00ed43dcfb",
+      "value": "综合应用场景图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-97",
+      "originalId": "case-97",
+      "authors": [
+        {
+          "name": "kawai_design",
+          "url": "https://x.com/kawai_design"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3726
+        }
+      ],
+      "rawSource": "[@kawai\\_design](https://x.com/kawai_design)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_19d87926dbb7ead7",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case97.jpg",
+      "upstreamPath": "../data/images/case97.jpg",
+      "localPath": "public/assets/prompt_cb9fab3fc8ad65009650/dfaf60ff5173.jpg",
+      "alt": "thumbnail type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": "prompt_702c9ae9b2544c5603de",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a 1980s propaganda poster. Use the exact slogan \"热烈庆祝GPT-Image-2全量开放\". Include Sam Altman, Dario Amodei, and Elon Musk, and give Dario Amodei a red scarf.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 1980 年代风格的宣传海报。使用精确标语“热烈庆祝GPT-Image-2全量开放”。海报中包含 Sam Altman、Dario Amodei 和 Elon Musk，并且给 Dario Amodei 戴上一条红领巾。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張 1980 年代風格的宣傳海報，使用精確標語「热烈庆祝GPT-Image-2全量开放」，並包含 Sam Altman、Dario Amodei、Elon Musk，且為 Dario Amodei 配上一條紅領巾。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "1980 年代風のプロパガンダポスターを生成する。正確なスローガン「热烈庆祝GPT-Image-2全量开放」を使うこと。Sam Altman、Dario Amodei、Elon Musk を含め、Dario Amodei には赤いスカーフを付ける。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "1980년대 스타일 선전 포스터를 생성한다. 정확한 슬로건 \"热烈庆祝GPT-Image-2全量开放\" 을 사용하고, Sam Altman, Dario Amodei, Elon Musk를 넣으며 Dario Amodei에게는 빨간 스카프를 둘러준다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une affiche de propagande des années 1980. Utilise le slogan exact \"热烈庆祝GPT-Image-2全量开放\". Inclure Sam Altman, Dario Amodei et Elon Musk, avec une écharpe rouge pour Dario Amodei.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein Propagandaposter im Stil der 1980er. Verwende den exakten Slogan \"热烈庆祝GPT-Image-2全量开放\". Integriere Sam Altman, Dario Amodei und Elon Musk und gib Dario Amodei einen roten Schal.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera un póster de propaganda de los años 80. Usa el eslogan exacto \"热烈庆祝GPT-Image-2全量开放\". Incluye a Sam Altman, Dario Amodei y Elon Musk, y ponle una bufanda roja a Dario Amodei.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "1980s Propaganda Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "1980 年代宣传海报",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "1980 年代宣傳海報",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "1980 年代のプロパガンダポスター",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "1980년대 선전 포스터",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche de propagande des années 1980",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Propagandaposter der 1980er",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster de propaganda de los años 80",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/akokoi1/status/2046558658096738672",
+      "originalId": "https://x.com/akokoi1/status/2046558658096738672",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2046558658096738672"
+        },
+        {
+          "name": " @akokoi1 ",
+          "url": "https://x.com/akokoi1/status/2046558658096738672"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 495
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 404
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 360
+        },
+        {
+          "file": "README:ja",
+          "line": 404
+        },
+        {
+          "file": "README:ko",
+          "line": 360
+        },
+        {
+          "file": "README:fr",
+          "line": 360
+        },
+        {
+          "file": "README:de",
+          "line": 360
+        },
+        {
+          "file": "README:es",
+          "line": 360
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2046558658096738672)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2b0e620e8a4a21ae",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGbWGhYaAAEtoTn?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGbWGhYaAAEtoTn?format=jpg&name=large",
+      "localPath": "public/assets/prompt_702c9ae9b2544c5603de/64420893cb97.jpg",
+      "alt": "1980s Propaganda Poster",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

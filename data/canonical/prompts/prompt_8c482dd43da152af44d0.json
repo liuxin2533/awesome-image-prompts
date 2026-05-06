@@ -1,0 +1,247 @@
+{
+  "id": "prompt_8c482dd43da152af44d0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create an image with a 10x10 grid of objects whose names all start with the letter A",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一张 10x10 网格图，里面的物品名称都以字母 A 开头",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "建立一張 10x10 網格圖，裡面的物件名稱全部以字母 A 開頭。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "名前がすべて A で始まる物体を 10x10 グリッドで並べた画像を作成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "이름이 모두 A로 시작하는 물체들로 10x10 그리드 이미지를 만든다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une image avec une grille 10x10 d'objets dont les noms commencent tous par la lettre A.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein Bild mit einem 10x10-Raster aus Objekten, deren Namen alle mit dem Buchstaben A beginnen.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una imagen con una cuadrícula 10x10 de objetos cuyos nombres empiecen todos por la letra A.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Alphabet Object Grid",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "字母 A 物品网格",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "字母 A 物件網格",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "A で始まる物のグリッド",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "알파벳 A 오브젝트 그리드",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Grille d'objets en A",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Alphabet-Objektgitter",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cuadrícula de objetos con la letra A",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e156bfaa6d",
+      "value": "📚 信息图、教育与文档",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e5cd4ed1b2",
+      "value": "📚 資訊圖、教育與文件",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a835d8e9f",
+      "value": "📚 インフォグラフィック・教育・文書",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b316df1fa2",
+      "value": "📚 인포그래픽, 교육, 문서",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infographies-education-et-documents",
+      "value": "📚 Infographies, éducation et documents",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografiken-bildung-und-dokumente",
+      "value": "📚 Infografiken, Bildung und Dokumente",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografias-educacion-y-documentos",
+      "value": "📚 Infografías, educación y documentos",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/umesh_ai/status/2046510988367945983",
+      "originalId": "https://x.com/umesh_ai/status/2046510988367945983",
+      "authors": [
+        {
+          "name": "umesh_ai",
+          "url": "https://x.com/umesh_ai/status/2046510988367945983"
+        },
+        {
+          "name": " @umesh_ai ",
+          "url": "https://x.com/umesh_ai/status/2046510988367945983"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 804
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 694
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 529
+        },
+        {
+          "file": "README:ja",
+          "line": 693
+        },
+        {
+          "file": "README:ko",
+          "line": 529
+        },
+        {
+          "file": "README:fr",
+          "line": 529
+        },
+        {
+          "file": "README:de",
+          "line": 529
+        },
+        {
+          "file": "README:es",
+          "line": 529
+        }
+      ],
+      "rawSource": "[@umesh_ai](https://x.com/umesh_ai/status/2046510988367945983)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5e0b16973653d6dd",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGaqAFba0AES6z_?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGaqAFba0AES6z_?format=jpg&name=large",
+      "localPath": "public/assets/prompt_8c482dd43da152af44d0/c696a07e445f.jpg",
+      "alt": "Alphabet Object Grid",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "education",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

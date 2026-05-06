@@ -1,0 +1,92 @@
+{
+  "id": "prompt_98c7c2341352d905307e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT Image 2 + Kling = 🔥 This was done for Tokyo. \n\n[VAR_CITY] = \"Tokyo, Japan\"     [NODE 1: BASE_TOPOLOGY] Generate a complex, self-intersecting 3D endless loop (e.g., a thick Trefoil Knot or Gordian Knot). Material_Output: Raw, unfinished layered birch plywood. Visible wood grain.  [NODE 2: INSTANCER_LOGIC] AI_INFERENCE_TRIGGER: Analyze [VAR_CITY]. Extract its iconic architectural style, specific landmarks, and road infrastructure.  Action: Instance these urban elements directly onto the surface normals of the [BASE_TOPOLOGY].  [NODE 3: GRAVITY_WARP] The gravity vector is strictly relative to the surface of the knot. Buildings must project outward from the wood, regardless of whether the surface is facing up, down, or sideways. The roads must follow the curvature perfectly. Tiny metallic cars dot the highways.  [RENDER_ENGINE] Execute Tree. Output as a physical macro-photography studio shot. The object sits on a blank museum pedestal. Soft, diffuse top-lighting. Shallow depth of field to emphasize the miniature scale.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Miniature City Knot Sculpture",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Gdgtify/status/2051274139378315546",
+      "originalId": "case-184",
+      "authors": [
+        {
+          "name": "Gdgtify",
+          "url": "https://x.com/Gdgtify"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1886
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f8c0a1bdab7a18ce",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case184/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case184/output.jpg",
+      "localPath": "public/assets/prompt_98c7c2341352d905307e/cedb5fb4704b.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

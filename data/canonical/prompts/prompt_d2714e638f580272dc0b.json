@@ -1,0 +1,175 @@
+{
+  "id": "prompt_d2714e638f580272dc0b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A highly detailed anime fantasy portrait of {argument name=\"character name\" default=\"an elegant blue-haired fantasy woman\"}, shown from the back in a three-quarter pose, turning her head over her shoulder to look at the viewer with calm violet eyes and a soft, slightly distant expression. She has very long, flowing {argument name=\"hair color\" default=\"icy pastel blue\"} hair with layered wispy bangs, loose windblown strands, one small ahoge on top, and 1 dark curved horn with subtle crimson striping emerging from the left side of her head. Her outfit is a refined, backless fantasy gown with 4 visible main pieces: a dark fitted bodice, a white open-backed outer layer with ornate gold trim and pale embroidered patterns, 2 long detached sleeves that fade into translucent blue-violet pointed cuffs, and red-blue ribbon ornaments tied at the neck and waist. Add delicate jewel-like tassel details at the upper back and trailing ribbon ends drifting in the air. The scene is backlit by soft spring sunlight in a pale stone pavilion or arched balcony, with 1 large arch opening behind her and clusters of {argument name=\"flower type\" default=\"pink cherry blossoms\"} glowing in the top right background. Include a few drifting petals, luminous haze, subtle sparkles, and a dreamy pastel atmosphere. Composition is vertical, upper-thigh portrait, character centered slightly right, hair sweeping broadly across the left side of the frame. Render in a polished ethereal anime illustration style with soft bloom, translucent fabrics, glossy eyes, delicate linework, cool lavender and blue tones, gentle rim light, painterly background blur, and an emphasis on smooth elegant surfaces, clean fabric flow, and minimal wrinkling.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Ethereal Blue-Haired Fantasy Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Ethereal Blue-Haired Fantasy Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a soft, luminous anime-style fantasy character portrait, ideal for creating elegant vertical key art or character illustrations with flowing hair and a dreamy spring atmosphere.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/lchngjin91/status/2048836910676926484#reversed-0",
+      "originalId": "https://x.com/lchngjin91/status/2048836910676926484#reversed-0",
+      "authors": [
+        {
+          "name": "𝑳𝒊𝒊𝒈𝒋𝒎",
+          "url": "https://x.com/lchngjin91"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 662
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d60ef62183690e9d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367299255_7e01qg_HG7uRRbbIAABIeT.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367299255_7e01qg_HG7uRRbbIAABIeT.jpg",
+      "localPath": "public/assets/prompt_d2714e638f580272dc0b/9a3be0b2ba65.jpg",
+      "alt": "Profile / Avatar - Ethereal Blue-Haired Fantasy Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_bcbbc35bc965031e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367299326_buzhjd_HG7uRRbbcAAEfrZ.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367299326_buzhjd_HG7uRRbbcAAEfrZ.jpg",
+      "localPath": "public/assets/prompt_d2714e638f580272dc0b/2cd5a9505811.jpg",
+      "alt": "Profile / Avatar - Ethereal Blue-Haired Fantasy Portrait - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

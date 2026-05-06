@@ -1,0 +1,93 @@
+{
+  "id": "prompt_8160ad9cd9d0d30e3619",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{argument name=\"pianist\" default=\"Vladimir Horowitz\"} performs a {argument name=\"event\" default=\"live piano recital\"} streamed on {argument name=\"platform\" default=\"YouTube\"}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "视频封面界面图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d21d15207b",
+      "value": "视频封面界面图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-103",
+      "originalId": "case-103",
+      "authors": [
+        {
+          "name": "bowowwoaaa2",
+          "url": "https://x.com/bowowwoaaa2"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4009
+        }
+      ],
+      "rawSource": "[@bowowwoaaa2](https://x.com/bowowwoaaa2)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4db3663dcabc68e5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case103.jpg",
+      "upstreamPath": "../data/images/case103.jpg",
+      "localPath": "public/assets/prompt_8160ad9cd9d0d30e3619/b040ff8a45d1.jpg",
+      "alt": "pianist",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "youtube",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_88e649261041e5c62817",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9\n\n高解像度、プロのコンセプトアートスタイル",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于这个角色和背景，请创建一个类似官方设定资料的角色设定集。\n・包含正面、侧面、背面三视图 ・添加角色表情变化\n・分解显示服装和装备的详细部件 ・添加色彩板 ・加入世界观简单说明\n・整体采用整洁的布局\n（白色背景、图解风格）\n・宽高比16：9\n\n高分辨率、专业概念艺术风格",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:39.643Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Official Character Sheet (JP)",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "官方角色表格 (日本)",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:41.917Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Toshi_nyaruo_AI/status/2045025277538107420",
+      "originalId": "case-5",
+      "authors": [
+        {
+          "name": "Toshi_nyaruo_AI",
+          "url": "https://x.com/Toshi_nyaruo_AI"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 54
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_59d657139104277d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case5/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case5/output.jpg",
+      "localPath": "public/assets/prompt_88e649261041e5c62817/f0483387f958.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

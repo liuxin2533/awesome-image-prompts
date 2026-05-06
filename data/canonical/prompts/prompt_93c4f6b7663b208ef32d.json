@@ -1,0 +1,109 @@
+{
+  "id": "prompt_93c4f6b7663b208ef32d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（用户看到的部分） 是什么：前端就是界面，是用户能看见、能点、能操作的部分。 在哪里：网页、小程序、App 的界面。 用什么做：HTML（结构）、CSS（样式）、JavaScript（交互）。 02 后端（背后处理的部分） 是什么：后端就是幕后大脑，负责逻辑和运算。 在哪里：服务器上，用户看不见。 作用： 处理登录注册 计算价格、推荐商品 接收前端请求、返回数据 常用的编程语言：Java、Python、Go、JavaScript（Node.js） 03 数据库（记忆的部分） 是什么：数据库就是用来存储和管理数据的。 存什么：账号、密码、订单、库存… 常见的数据库： MySQL、PostgreSQL（关系型，像表格一样） MongoDB（文档型，像文件夹一样） 04 SaaS（软件即服务） 是什么：SaaS = Software as a Service（软件即服务）。 核心特点： 打开网页/小程序/APP就能用 按月或按年订阅 常见形式：网站、移动 App、小程序都可以是 SaaS。 05 总结 前端：用户看到和操作的界面 后端：背后运行的逻辑和计算 数据库：存放和管理数据的地方 SaaS：把软件做成服务，用户随时通过网络使用 前端展示 → 后端处理 → 数据库存储 → SaaS 是交付方式 帮我针对上面的内容画一张易于理解的图",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一张在陈旧宣纸上庆祝{argument name=\"artist name\" default=\"CHEN UEN\"}的复古编辑海报，设计风格融合了博物馆信息图表和中国水墨画与书法。格式为单张竖向海报，具有陈旧的羊皮纸背景、墨迹飞溅、褪色的手写注释、红色印章和学术档案氛围。在最顶部，放置\"鄭問\"的大型黑色中国书法，后面跟着斜杠和{argument name=\"romanized name\" default=\"CHEN UEN\"}的大型衬线大写字母，旁边有一个小红印章。标题下方，添加{argument name=\"subtitle text\" default=\"The Taiwanese Master Who Turned Comics into Ink-Born Epic\"}的优雅红棕色衬线文本作为副标题。中央部分，展示一位身穿宽松白衬衫的男性艺术家坐在桌前手持画笔在纸上作画的戏剧性绘画场景，他的脸被柔和的矩形模糊有意遮挡。在他身后，环绕着一个由单色水墨武士和历史人物组成的漩涡状光环状风暴：确切可见9个角色形象，包括装甲将军、剑士和骑马者，从爆炸性的黑色笔触和烟雾状墨色纹理中浮现。左侧，创建一个标题为\"Life & Milestones\"的垂直部分，带有黑色笔触标题和较小的中文副标题。列出恰好6个带有红色年份标记和双语字幕的时间线条目：1958年出生于台湾，1983年《战豹》，1989年《阿剑》，1990年《东周英雄传》，1991年日本漫画家协会奖，2017年遗产延续。下方添加一个标题为\"Ink in Detail\"的小节，包含恰好4个带有简短英文标签的方框笔触研究：干笔纹理、水墨渐变、飞溅能量、粗轮廓线。右侧，创建一个标题为\"Visual Method\"的垂直部分，带有黑色笔触标题和较小的中文副标题。包含恰好5个堆叠的方框研究，采用图像和字幕布局：笔如刀，墨如氛围，解剖如命运，历史如戏剧，速度线成为书法。中下部，创建一个标题为\"Major Works Constellation\"的部分，带有深色笔触标题。在带有中文书法的中心墨环周围排列恰好5个圆形作品节点。标记5个节点：《阿剑》、《东周英雄传》、《刺客列传》、《魔法超级亚洲》、《游戏角色设计遗产》。每个圆圈包含独特的单色或柔和色彩水墨插图，带有微妙的连接标记，如同星座图。右下方，添加一个标题为\"Studio Notes\"的部分，包含恰好6个可见物品：4个悬挂的书法笔、1个墨碗和1个带有蓝色和红色颜料的画家调色板；下方放置一页带有轻柔铅笔人物素描的素描本。底部，添加一个标题为\"Why He Matters\"的宽部分，带有黑色笔触标题和较小的中文副标题，随后是一段描述他对漫画、绘画、书法、电影和史诗叙事重要性的衬线正文字体英文段落。使用由棕褐色、黑墨、米白色纸、柔和灰色组成的有节制调色板，辅以深红色和偶尔的蓝色点缀。整个图像应感觉像一幅精致的文化致敬海报，密集但平衡，高度详细，绘画性强，并忠实于中国水墨美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:26.331Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "前后端数据库 SaaS 信息图",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "水墨致敬海报：Chen Uen",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:15.732Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/alantech_/status/2050462324486783060",
+      "originalId": "case-122",
+      "authors": [
+        {
+          "name": "alantech_",
+          "url": "https://x.com/alantech_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 829
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b6103f753cff1450",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg",
+      "localPath": "public/assets/prompt_93c4f6b7663b208ef32d/cd677557548e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T17:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.549Z"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "prompt_a3f1ab2611cd6f336ae8",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Thumbnail for a YouTube unboxing video, a video of {argument name=\"topic\" default=\"opening all overdue bills\"}, {argument name=\"quantity\" default=\"100 in a row\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Thumbnail for a YouTube unboxing video, a video of {argument name=\"topic\" default=\"opening all overdue bills\"}, {argument name=\"quantity\" default=\"100 in a row\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:10:37.711Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "视频封面界面图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Video Cover Interface Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:10:40.828Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d21d15207b",
+      "value": "视频封面界面图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-110",
+      "originalId": "case-110",
+      "authors": [
+        {
+          "name": "TlanoAI",
+          "url": "https://x.com/TlanoAI"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4210
+        }
+      ],
+      "rawSource": "[@TlanoAI](https://x.com/TlanoAI)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c6d82287e31c46c8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case110.jpg",
+      "upstreamPath": "../data/images/case110.jpg",
+      "localPath": "public/assets/prompt_a3f1ab2611cd6f336ae8/aa3f0ed264da.jpg",
+      "alt": "topic",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "interface",
+      "youtube",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

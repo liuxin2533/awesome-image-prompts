@@ -1,0 +1,98 @@
+{
+  "id": "prompt_71b0a004595a00944851",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "设计一张黑色线稿风格的上海明信片",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Design a Shanghai postcard in black line art style.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "黑白线稿勾勒的上海风情",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_156a636712",
+      "value": "黑白线稿勾勒的上海风情",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-246",
+      "originalId": "case-246",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2645
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_03a65d2c3811aa3d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case246.jpg",
+      "upstreamPath": "../data/images/case246.jpg",
+      "localPath": "public/assets/prompt_71b0a004595a00944851/c6a5e736dd6a.jpg",
+      "alt": "黑白线稿勾勒的上海风情",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "card"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

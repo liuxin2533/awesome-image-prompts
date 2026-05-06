@@ -1,0 +1,275 @@
+{
+  "id": "prompt_da9e87e83d09a0d6d36f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a series of gongbi-style bookmark designs\nDesign a postcard collaboration between The Little Prince and SpaceX\nGenerate a single-day calendar for April 19, 2026 themed around The Garden of Words\nGenerate a series of Labor Day hand-held sign designs\nGenerate a poster for the 2026 Grain Rain solar term\nGenerate a set of icon fonts for a sports app\nDesign a film-photography-style poster with the theme \"Toward the mountains and sea\"\nDesign a Shanghai postcard in black line-art style\nDesign a set of seal carvings for \"Elon Musk\"\nDesign a set of co-branded promotional materials for Durex and Chayan Yuese",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一组工笔风书签设计\n设计一张《小王子》与 SpaceX 的联名明信片\n生成一张以《言叶之庭》为主题的 2026 年 4 月 19 日单日历\n生成一组劳动节手持标语牌设计\n生成一张 2026 年谷雨节气海报\n为一个运动 App 生成一套图标字体\n设计一张主题为“奔赴山海”的胶片摄影风海报\n设计一张黑白线稿风格的上海明信片\n设计一套“Elon Musk”印章篆刻\n设计一组杜蕾斯与茶颜悦色的联名宣传物料",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一組工筆風書籤設計；設計《小王子》與 SpaceX 的聯名明信片；生成 2026 年 4 月 19 日《言叶之庭》主題單日曆；生成一組勞動節手持標語牌設計；生成 2026 年穀雨節氣海報；為運動 App 生成一套圖示字體；設計「奔赴山海」主題膠片攝影風海報；設計黑白線稿風格的上海明信片；設計一套「Elon Musk」篆刻印章；設計杜蕾斯與茶顏悅色的聯名宣傳物料。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "工筆画スタイルのしおりデザインを一連で生成する\n『星の王子さま』と SpaceX のコラボポストカードをデザインする\n『言の葉の庭』をテーマにした 2026 年 4 月 19 日の日めくりカレンダーを生成する\n労働節の手持ちサインデザインを一連で生成する\n2026 年の穀雨ポスターを生成する\nスポーツアプリ用のアイコンフォント一式を生成する\n「山と海へ向かう」をテーマにしたフィルム写真風ポスターをデザインする\n白黒線画スタイルの上海ポストカードをデザインする\n\"Elon Musk\" の印章デザイン一式を作る\nDurex と Chayan Yuese のコラボ販促物一式をデザインする",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "공필화 스타일 북마크 시리즈, 어린왕자와 SpaceX 협업 엽서, 《言叶之庭》 테마 단일 달력, 노동절 손팻말 시리즈, 2026 곡우 포스터, 스포츠 앱 아이콘 폰트 세트, \"Toward the mountains and sea\" 필름 사진풍 포스터, 흑백 선화풍 상하이 엽서, \"Elon Musk\" 인장 세트, 듀렉스와 Chayan Yuese 협업 홍보물을 디자인한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Générer une série de marque-pages en style gongbi, une carte postale Le Petit Prince x SpaceX, un calendrier du 19 avril 2026 sur The Garden of Words, une série de pancartes du 1er mai, une affiche Grain Rain 2026, un set d'icônes pour app sportive, une affiche photo argentique \"Toward the mountains and sea\", une carte postale de Shanghai en line-art noir, une série de sceaux \"Elon Musk\" et un kit de co-branding Durex x Chayan Yuese.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge eine Serie von Lesezeichen im Gongbi-Stil, eine Kollaborations-Postkarte mit Der kleine Prinz und SpaceX, einen Ein-Tages-Kalender zum 19. April 2026 zu The Garden of Words, eine Serie von Labor-Day-Handschildern, ein Grain-Rain-Poster 2026, ein Icon-Font-Set für eine Sport-App, ein Filmfoto-Poster „Toward the mountains and sea“, eine Schwarz-Weiß-Line-Art-Postkarte von Shanghai, ein Siegel-Set für „Elon Musk“ und Co-Branding-Material für Durex x Chayan Yuese.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una serie de marcapáginas estilo gongbi, una postal colaborativa entre El Principito y SpaceX, un calendario de un solo día para el 19 de abril de 2026 inspirado en The Garden of Words, señales de mano para el Día del Trabajo, un póster de la estación Grain Rain 2026, un set de iconos para app deportiva, un póster fotográfico estilo película \"Toward the mountains and sea\", una postal de Shanghái en line-art negro, una serie de sellos \"Elon Musk\" y material promocional de Durex x Chayan Yuese.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Minimal Design Prompt Collection",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "极简设计提示词合集",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "極簡設計 prompt 合集",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ミニマルデザインの prompt 集",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "미니멀 디자인 프롬프트 모음",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Collection de prompts minimalistes",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Minimalistische Prompt-Sammlung",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Colección de prompts minimalistas",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/akokoi1/status/2045693939584516441",
+      "originalId": "https://x.com/akokoi1/status/2045693939584516441",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        },
+        {
+          "name": " @akokoi1 ",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 659
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 546
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 420
+        },
+        {
+          "file": "README:ja",
+          "line": 546
+        },
+        {
+          "file": "README:ko",
+          "line": 420
+        },
+        {
+          "file": "README:fr",
+          "line": 420
+        },
+        {
+          "file": "README:de",
+          "line": 420
+        },
+        {
+          "file": "README:es",
+          "line": 420
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_351ad291958ac0a6",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGOtEbUbwAAnR5l?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGOtEbUbwAAnR5l?format=jpg&name=large",
+      "localPath": "public/assets/prompt_da9e87e83d09a0d6d36f/92d959c507c8.jpg",
+      "alt": "Prompt 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_d25d1fa9f3fdf4eb",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGO_Rb9bgAAdy6i?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGO_Rb9bgAAdy6i?format=jpg&name=large",
+      "localPath": "public/assets/prompt_da9e87e83d09a0d6d36f/037c817c169a.jpg",
+      "alt": "Prompt 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_ddd8a1b8d6d88f42",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGO_hmeaAAA5CoZ?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGO_hmeaAAA5CoZ?format=jpg&name=large",
+      "localPath": "public/assets/prompt_da9e87e83d09a0d6d36f/a3ad071eb3da.jpg",
+      "alt": "Prompt 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_53ac320f75710f17",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGO_zZ_asAAZ7Tz?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGO_zZ_asAAZ7Tz?format=jpg&name=large",
+      "localPath": "public/assets/prompt_da9e87e83d09a0d6d36f/8ae8bc033db5.jpg",
+      "alt": "Prompt 4",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写真"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

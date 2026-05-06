@@ -1,0 +1,107 @@
+{
+  "id": "prompt_b86c3e97999fbbcbd487",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "一张手绘风格的城市美食地图，以台州为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注椒江、路桥、黄岩等区域和灵江、台州湾等水系地标，不追求精确比例而是追求可爱的水彩手绘感。地图上分布着12个美食地点的精致手绘小插画：1. 椒江老粮坊的蛋清羊尾（金黄蓬松的蛋泡甜点撒着糖粉，筷子夹起拉丝）2. 临海紫阳古街的食饼筒（一个饱满的麦饼卷切开露出肉丝、蛋皮、米面等丰富馅料）3. 三门的青蟹（一只肥硕的青壳大蟹张着大钳子，旁边一小碟姜醋）4. 温岭石塘渔港的海鲜面（粗瓷大碗浓白鱼汤面铺满虾、蛏子、小黄鱼）5. 路桥的糟羹（一锅稠厚的五彩羹，芥菜、冬笋、香干、牡蛎粒粒可见）6. 玉环坎门的炊圆（三四个白胖糯米团子卧在笼屉里，旁边酱油碟滴着麻油）7. 黄岩的麦虾（陶锅里面疙瘩配蛤蜊、青菜翻滚冒泡）8. 仙居的八大碗（八只粗陶小碗围成一圈——土鸡、溪鱼、豆腐皮俱全）9. 天台的饺饼筒（几卷金黄酥脆的薄饼整齐码放，露出红烧肉和豆面馅）10. 临海的麦油脂（竹盘上摊着薄如蝉翼的饼皮卷着肉末、豆芽、鸡蛋丝）11. 温岭的嵌糕（厚实的年糕饼中间嵌着红烧肉和油条，正在铁板上滋滋作响）12. 椒江的姜汁调蛋（一只青花碗里琥珀色姜汤卧着嫩滑蛋花，撒几粒核桃碎）。每个插画约占地图5%面积，旁边用手写体标注店名和一句推荐语如“阿婆凌晨四点就起来和面”“本地人认准这口锅”。地图边缘用手绘藤蔓、杨梅枝和小海鲜（虾、蟹、贝壳）装饰形成边框。右下角有一个手绘指南针（标注“东海”方向）和图例说明。左上角标题“台州·山海食光地图”使用胖圆的手绘美术字，用杨梅和小黄鱼点缀装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以杨梅红、姜黄、海蓝、翠绿为主，图片比例1:1。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A hand-drawn style city food map themed on Taizhou. The base is a simplified hand-drawn city map from a bird's-eye view, marking areas like Jiaojiang, Luqiao, Huangyan and landmarks of water systems such as Lingjiang and Taizhou Bay, not pursuing precise proportions but rather a cute watercolor hand-drawn feel. The map features 12 exquisite hand-drawn small illustrations of food locations:\n\n1. Egg-white Sheep Tail from Jiaojiang Old Granary (golden fluffy egg foam dessert sprinkled with powdered sugar, pulling strings when picked up with chopsticks)\n2. Shi Bing Tong from Ziyang Ancient Street in Linhai (a full wheat pancake roll cut open to reveal rich fillings like shredded meat, egg skin, rice noodles)\n3. Green Crab from Sanmen (a fat green-shell crab with large pincles, next to a small dish of ginger vinegar)\n4. Seafood Noodles from Shitang Fishing Port in Wenling (a thick ceramic bowl with rich white fish soup noodles covered with shrimp, razor clams, and small yellow croakers)\n5. Zao Geng from Luqiao (a thick colorful porridge with visible particles of mustard greens, winter bamboo shoots, dried tofu, and oysters)\n6. Cui Yuan from Kanmen in Yuhuan (three or four plump glutinous rice balls in a steamer basket, next to a soy sauce dish dripping with sesame oil)\n7. Mai Xia from Huangyan (a clay pot with dough pieces and clams, green vegetables bubbling)\n8. Eight Great Bowls from Xianju (eight coarse ceramic bowls arranged in a circle - containing local chicken, stream fish, tofu skin)\n9. Jiao Bing Tong from Tiantai (several golden crispy thin rolls neatly arranged, revealing braised pork and bean paste fillings)\n10. Mai You Zhi from Linhai (thin cicada-wing-like pancakes on a bamboo plate rolled with minced meat, bean sprouts, and egg shreds)\n11. Qian Gao from Wenling (a thick rice cake with braised pork and youtiao fried in the middle, sizzling on an iron plate)\n12. Ginger Juice Egg from Jiaojiang (a blue and white bowl with amber ginger soup containing tender egg flakes, sprinkled with crushed walnuts). Each illustration occupies about 5% of the map area, with handwritten shop names and a recommendation phrase like \"Grandma starts kneading dough at 4 AM\" or \"Locals swear by this pot\". The map edges are decorated with hand-drawn vines, bayberry branches, and small seafood (shrimp, crab, shells) forming a border. In the bottom right corner, there's a hand-drawn compass (marking the \"East China Sea\" direction) and a legend. The top left corner title \"Taizhou · Mountain and Sea Food Light Map\" uses fat round hand-drawn art fonts, decorated with bayberries and small yellow croakers. The overall style is a watercolor + colored pencil mixed hand-drawn texture, with main colors of bayberry red, ginger yellow, sea blue, and emerald green, with a 1:1 aspect ratio.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:19:51.566Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "一张手绘风格的城市美食地图，以台州为主题",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Taizhou-themed Hand-drawn City Food Map",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:19:56.300Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_920544df87",
+      "value": "一张手绘风格的城市美食地图，以台州为主题",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-11",
+      "originalId": "case-11",
+      "authors": [
+        {
+          "name": "510244722",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 197
+        }
+      ],
+      "rawSource": "小红书号510244722"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_91869ea8bd758f76",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case11.jpg",
+      "upstreamPath": "../data/images/case11.jpg",
+      "localPath": "public/assets/prompt_b86c3e97999fbbcbd487/a13177c266de.jpg",
+      "alt": "一张手绘风格的城市美食地图，以台州为主题。画面以鸟...",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.599Z"
+  }
+}

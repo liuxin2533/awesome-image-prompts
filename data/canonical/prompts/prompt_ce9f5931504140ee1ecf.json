@@ -1,0 +1,239 @@
+{
+  "id": "prompt_ce9f5931504140ee1ecf",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Design a 3:4 vertical poster for a new Chinese trendy tea launch. Use a New Chinese visual style that feels light-luxury and restrained. The palette should be dark green, off-white, and gold, with rice-paper texture, elegant negative space, landscape accents, and modern layout design.\n\nMain subject:\na visually appealing cold-brew tea with tea leaves, citrus, ice cubes, and touches of gold foil.\n\nThe poster must accurately display the following exact Chinese copy:\n\"山川茶事\"\n\"山柚观音\"\n\"冷泡系列\"\n\"新品上市\"\n\"一口清醒，半城入夏\"\n\"限定尝鲜价\"\n\"中杯 16 元\"\n\"大杯 19 元\"\n\"门店活动\"\n\"第二杯半价\"\n\"加 3 元升级轻乳版\"\n\"每日前 100 名赠限定杯套\"\n\"推荐风味\"\n\"观音茶底 / 西柚果香 / 轻乳云顶 / 冰感回甘\"\n\"活动时间 4月20日 至 5月10日\"\n\"扫码点单\"\n\"SHANCHUAN TEA\"\n\nFine print:\n\"图片仅供参考，请以门店实际售卖为准\"\n\nMaintain a clear promotional hierarchy while keeping the overall feeling sophisticated rather than cheap or overly e-commerce-like. Pay special attention to small text, numbers, prices, info modules, and Chinese typography aesthetics.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "设计一张 3:4 竖版海报，用于宣传中国新式茶饮新品。采用新中式视觉风格，整体感觉轻奢、克制。配色使用深绿色、米白色和金色，带有宣纸纹理、留白、山水点缀和现代版式设计。\n\n主体：\n一杯视觉上很吸引人的冷泡茶，包含茶叶、柑橘、冰块，以及少量金箔细节。\n\n海报必须准确展示以下精确中文文案：\n\"山川茶事\"\n\"山柚观音\"\n\"冷泡系列\"\n\"新品上市\"\n\"一口清醒，半城入夏\"\n\"限定尝鲜价\"\n\"中杯 16 元\"\n\"大杯 19 元\"\n\"门店活动\"\n\"第二杯半价\"\n\"加 3 元升级轻乳版\"\n\"每日前 100 名赠限定杯套\"\n\"推荐风味\"\n\"观音茶底 / 西柚果香 / 轻乳云顶 / 冰感回甘\"\n\"活动时间 4月20日 至 5月10日\"\n\"扫码点单\"\n\"SHANCHUAN TEA\"\n\n小字：\n\"图片仅供参考，请以门店实际售卖为准\"\n\n在保证整体高级感的同时，保持清晰的促销层级，不要做得廉价或过于电商化。尤其注意小字、数字、价格、信息模块以及中文排版美感。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "設計一張 3:4 直式海報，宣傳新的中式潮流茶飲。採用新中式視覺風格，整體輕奢克制，使用深綠、米白、金色、宣紙紋理、留白、山水元素與現代版式。主體是一杯具吸引力的冷泡茶，含茶葉、柑橘、冰塊與少量金箔。畫面需精確顯示原 prompt 中列出的中文文案，如「山川茶事」「山柚观音」「冷泡系列」「新品上市」等，以及細字「图片仅供参考，请以门店实际售卖为准」，並兼顧促銷層級、數字、價格、小字與中文排版美感。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "新しい中国トレンド茶のローンチ用 3:4 縦ポスターをデザインする。軽い高級感と抑制の効いた New Chinese ビジュアルスタイルにする。配色はダークグリーン、オフホワイト、ゴールド。ライスペーパーの質感、上品な余白、山水モチーフ、モダンなレイアウトを使う。\n\n主役:\n茶葉、柑橘、氷、少量の金箔が入った魅力的なコールドブリューティー。\n\nポスターには以下の正確な中国語コピーを入れること:\n\"山川茶事\"\n\"山柚观音\"\n\"冷泡系列\"\n\"新品上市\"\n\"一口清醒，半城入夏\"\n\"限定尝鲜价\"\n\"中杯 16 元\"\n\"大杯 19 元\"\n\"门店活动\"\n\"第二杯半价\"\n\"加 3 元升级轻乳版\"\n\"每日前 100 名赠限定杯套\"\n\"推荐风味\"\n\"观音茶底 / 西柚果香 / 轻乳云顶 / 冰感回甘\"\n\"活动时间 4月20日 至 5月10日\"\n\"扫码点单\"\n\"SHANCHUAN TEA\"\n\n細字:\n\"图片仅供参考，请以门店实际售卖为准\"\n\n販促の階層は明確に保ちつつ、安っぽくしたり EC すぎる見た目にしないこと。小さい文字、数字、価格、情報モジュール、中国語タイポグラフィに特に注意する。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "3:4 세로 포스터를 디자인한다. 다크 그린, 아이보리, 골드를 쓰는 신중식 비주얼 스타일이며, 종이 질감과 여백, 산수 포인트, 현대적 레이아웃을 사용한다. 중심에는 차잎, 감귤, 얼음, 금박이 들어간 콜드브루 티를 배치한다. 원문 프롬프트에 나열된 중국어 카피(예: \"山川茶事\", \"山柚观音\", \"新品上市\")를 정확히 표시하고, 작은 글씨와 가격, 정보 모듈, 중국어 타이포그래피를 또렷하게 처리한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Conçois une affiche verticale 3:4 pour le lancement d'une nouvelle boisson tendance au thé chinois. Style New Chinese élégant et retenu, couleurs vert foncé / blanc cassé / or, texture papier de riz, beaucoup d'espace négatif, quelques accents paysagers et mise en page moderne. Afficher exactement les textes chinois listés dans le prompt d'origine comme \"山川茶事\", \"山柚观音\", \"新品上市\" et les tarifs.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Gestalte ein vertikales 3:4-Poster für ein neues trendiges chinesisches Teegetränk im New-Chinese-Stil mit dunklem Grün, Off-White und Gold, Reispapiertextur, viel Freiraum und modernem Layout. Der Prompt verlangt die exakte chinesische Copy aus dem Original, z. B. \"山川茶事\", \"山柚观音\", \"新品上市\" und die Preisangaben.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Diseña un póster vertical 3:4 para el lanzamiento de una nueva bebida de té chino de moda. Usa un estilo New Chinese elegante y contenido, con verde oscuro, blanco roto y dorado, textura de papel de arroz y composición moderna. Debe mostrar exactamente las líneas chinas del prompt original, como \"山川茶事\", \"山柚观音\", \"新品上市\" y los precios.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Chinese Tea Drink Product Launch Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "中国新式茶饮上新海报",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "中式茶飲新品海報",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "中国茶ドリンク新商品ポスター",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "중국식 트렌디 티 런칭 포스터",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche de lancement pour boisson au thé chinoise",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Launch-Poster für chinesisches Teegetränk",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster de lanzamiento de té chino",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://github.com/ZeroLu/awesome-gpt-image",
+      "originalId": "https://github.com/user-attachments/assets/552ba84c-41cb-401d-a1b0-ee13a6f7aa41",
+      "authors": [],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 526
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 413
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 369
+        },
+        {
+          "file": "README:ja",
+          "line": 413
+        },
+        {
+          "file": "README:ko",
+          "line": 369
+        },
+        {
+          "file": "README:fr",
+          "line": 369
+        },
+        {
+          "file": "README:de",
+          "line": 369
+        },
+        {
+          "file": "README:es",
+          "line": 369
+        }
+      ],
+      "rawSource": ""
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_19260205887c448d",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/552ba84c-41cb-401d-a1b0-ee13a6f7aa41",
+      "upstreamPath": "https://github.com/user-attachments/assets/552ba84c-41cb-401d-a1b0-ee13a6f7aa41",
+      "localPath": "public/assets/prompt_ce9f5931504140ee1ecf/f8dafa396c04.jpg",
+      "alt": "image_1776389679_005",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.587Z"
+  }
+}

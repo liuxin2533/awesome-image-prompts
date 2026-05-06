@@ -1,0 +1,258 @@
+{
+  "id": "prompt_db2954a483447d527190",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "gameplay screenshot of a lion fighting against an npc in gta san andreas",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张 GTA 圣安地列斯的游戏截图：一头狮子正在和一个 NPC 打斗",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "一張 GTA San Andreas 的遊戲畫面截圖，內容是一頭獅子正在和一名 NPC 打鬥。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "GTA San Andreas でライオンが NPC と戦っているゲームプレイスクリーンショット",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "GTA San Andreas에서 사자가 NPC와 싸우는 게임플레이 스크린샷.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "capture de gameplay d'un lion combattant un NPC dans GTA San Andreas.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Gameplay-Screenshot eines Löwen, der in GTA San Andreas gegen einen NPC kämpft.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "captura de gameplay de un león luchando contra un NPC en GTA San Andreas.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "GTA San Andreas Gameplay Screenshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GTA 圣安地列斯游戏截图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "GTA 聖安地列斯遊戲截圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "GTA サンアンドレアスのゲームプレイ画面",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "GTA 산 안드레아스 게임플레이 화면",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Capture GTA San Andreas",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "GTA San Andreas Screenshot",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Captura de GTA San Andreas",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "1.5 is absolute slop, wrong style, not a screenshot, looking like some fake gta game slop, wrong UI, just everything is bad. 2 just looks like it is supposed to look.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_27263954ca",
+      "value": "🎮 游戏与娱乐",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_cfebc9acfe",
+      "value": "🎮 遊戲與娛樂",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7c91be168a",
+      "value": "🎮 ゲーム・エンターテインメント",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_716e2fa67b",
+      "value": "🎮 게임과 엔터테인먼트",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "jeu-et-divertissement",
+      "value": "🎮 Jeu et divertissement",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "spiele-und-unterhaltung",
+      "value": "🎮 Spiele und Unterhaltung",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "juegos-y-entretenimiento",
+      "value": "🎮 Juegos y entretenimiento",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/flowersslop/status/2040693687500341568",
+      "originalId": "https://x.com/flowersslop/status/2040693687500341568",
+      "authors": [
+        {
+          "name": "flowersslop",
+          "url": "https://x.com/flowersslop/status/2040693687500341568"
+        },
+        {
+          "name": " @flowersslop ",
+          "url": "https://x.com/flowersslop/status/2040693687500341568"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 255
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 204
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 204
+        },
+        {
+          "file": "README:ja",
+          "line": 204
+        },
+        {
+          "file": "README:ko",
+          "line": 204
+        },
+        {
+          "file": "README:fr",
+          "line": 204
+        },
+        {
+          "file": "README:de",
+          "line": 204
+        },
+        {
+          "file": "README:es",
+          "line": 204
+        }
+      ],
+      "rawSource": "[@flowersslop](https://x.com/flowersslop/status/2040693687500341568)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9c98a0dfe83ebf34",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFH_lAIboAAG7Wi?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFH_lAIboAAG7Wi?format=jpg&name=large",
+      "localPath": "public/assets/prompt_db2954a483447d527190/d664b68c4c34.jpg",
+      "alt": "GPT Image 1.5",
+      "status": "pending"
+    },
+    {
+      "id": "asset_310bdde4b3e2e01b",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFH_oyAXMAEMnDM?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFH_oyAXMAEMnDM?format=jpg&name=large",
+      "localPath": "public/assets/prompt_db2954a483447d527190/83d47c4ced25.jpg",
+      "alt": "GPT Image 2",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.604Z"
+  }
+}

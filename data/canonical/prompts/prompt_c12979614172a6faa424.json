@@ -1,0 +1,87 @@
+{
+  "id": "prompt_c12979614172a6faa424",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "中国航天纪念邮票小全张，火箭发射场景，烫金边框工艺",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:19:45.676Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "China Aerospace Commemorative Stamp Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "中国航天纪念邮票张",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:19:47.069Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/songguoxiansen/status/2047129703702802811",
+      "originalId": "case-57",
+      "authors": [
+        {
+          "name": "songguoxiansen",
+          "url": "https://x.com/songguoxiansen"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 396
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f2bc30dcaf441373",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case97/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case97/output.jpg",
+      "localPath": "public/assets/prompt_c12979614172a6faa424/22d892fba365.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.600Z"
+  }
+}

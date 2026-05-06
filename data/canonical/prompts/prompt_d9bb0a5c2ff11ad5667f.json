@@ -1,0 +1,106 @@
+{
+  "id": "prompt_d9bb0a5c2ff11ad5667f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{argument name=\"series\" default=\"White Cat Project\"}\n{argument name=\"character\" default=\"Eleanor\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{argument name=\"series\" default=\"白猫计划\"}\n{argument name=\"character\" default=\"Eleanor\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:32:18.048Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Eleanor from White Cat Project",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "埃莉诺 来自 白猫计划",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:32:13.052Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/yume00112211/status/2048309139013853421",
+      "originalId": "case-13",
+      "authors": [
+        {
+          "name": "yume00112211",
+          "url": "https://x.com/yume00112211"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 179
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2af96c6824303571",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case13/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case13/output.jpg",
+      "localPath": "public/assets/prompt_d9bb0a5c2ff11ad5667f/49bc2f77e2a8.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "character"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.561Z"
+  }
+}

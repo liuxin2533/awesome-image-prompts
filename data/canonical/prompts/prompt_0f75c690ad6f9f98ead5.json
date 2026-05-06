@@ -1,0 +1,109 @@
+{
+  "id": "prompt_0f75c690ad6f9f98ead5",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"YouTube livestream UI\",\r\n  \"top_nav\": {\r\n    \"logo\": \"YouTube Premium\",\r\n    \"search\": \"{argument name=\\\"search query\\\" default=\\\"bilal fraiha\\\"}\",\r\n    \"icons\": 3\r\n  },\r\n  \"player\": {\r\n    \"subjects\": [\r\n      \"{argument name=\\\"female guest\\\" default=\\\"Sydney Sweeney\\\"} in white cardigan\",\r\n      \"bearded man in beige jacket laughing\"\r\n    ],\r\n    \"bg\": \"couch, 2 silver play buttons, ram logo 'SARDI'\",\r\n    \"overlays\": {\r\n      \"chat\": {\"pos\": \"left\", \"count\": 15, \"desc\": \"colored usernames, white text\"},\r\n      \"goal\": {\"pos\": \"top right\", \"text\": \"TONIGHT'S GOAL: 0 to 25\"},\r\n      \"banner\": {\"pos\": \"bottom center\", \"text\": \"K {argument name=\\\"streamer name\\\" default=\\\"MOREBILAL\\\"}\"}\r\n    },\r\n    \"controls\": {\"count\": 10}\r\n  },\r\n  \"details\": {\r\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"FULL STREAM | سيدني سويني مع بلال\\\"}\",\r\n    \"channel\": \"{argument name=\\\"channel name\\\" default=\\\"More Bilal No Filter\\\"}\",\r\n    \"buttons\": 5\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"YouTube livestream UI\",\n  \"top_nav\": {\n    \"logo\": \"YouTube Premium\",\n    \"search\": \"{argument name=\\\"search query\\\" default=\\\"bilal fraiha\\\"}\",\n    \"icons\": 3\n  },\n  \"player\": {\n    \"subjects\": [\n      \"{argument name=\\\"female guest\\\" default=\\\"Sydney Sweeney\\\"} in white cardigan\",\n      \"bearded man in beige jacket laughing\"\n    ],\n    \"bg\": \"couch, 2 silver play buttons, ram logo 'SARDI'\",\n    \"overlays\": {\n      \"chat\": {\"pos\": \"left\", \"count\": 15, \"desc\": \"colored usernames, white text\"},\n      \"goal\": {\"pos\": \"top right\", \"text\": \"TONIGHT'S GOAL: 0 to 25\"},\n      \"banner\": {\"pos\": \"bottom center\", \"text\": \"K {argument name=\\\"streamer name\\\" default=\\\"MOREBILAL\\\"}\"}\n    },\n    \"controls\": {\"count\": 10}\n  },\n  \"details\": {\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"FULL STREAM | سيدني سويني مع بلال\\\"}\",\n    \"channel\": \"{argument name=\\\"channel name\\\" default=\\\"More Bilal No Filter\\\"}\",\n    \"buttons\": 5\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:47:54.588Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Interface Interaction Design Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:47:57.131Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-104",
+      "originalId": "case-104",
+      "authors": [
+        {
+          "name": "marouane53",
+          "url": "https://x.com/marouane53"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4025
+        }
+      ],
+      "rawSource": "[@marouane53](https://x.com/marouane53)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7b94c7dc00683e40",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case104.jpg",
+      "upstreamPath": "../data/images/case104.jpg",
+      "localPath": "public/assets/prompt_0f75c690ad6f9f98ead5/4a71b25687e8.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "youtube",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

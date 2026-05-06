@@ -1,0 +1,102 @@
+{
+  "id": "prompt_8c1b527171eaa72d73c4",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A candid, photorealistic Japanese high school classroom scene in vertical smartphone-photo framing. Three schoolgirls wearing matching traditional navy blue sailor uniforms are the main focus in the foreground. The central standing girl has extremely long, straight, glossy black hair that falls well past her knees, almost to the floor, and she is gently combing the lower section with a small comb while looking downward. A second girl stands behind and slightly to the right, also with long straight black hair, holding an open compact mirror in one hand and adjusting her bangs or hair near her temple with the other. A third girl kneels on the floor at the right front, carefully holding and arranging the central girl’s long hair with both hands. All three wear dark navy sailor-style school uniforms with white stripe trim, pleated skirts, long sleeves, white socks, and indoor school shoes. Their faces are obscured or blurred. In the background, exactly 8 additional students in dark school uniforms sit at desks in small groups, facing away or sideways, creating the feel of an ordinary class period or homeroom. The classroom has wooden desks and chairs, large bright windows along the left side letting in soft daylight, a green chalkboard on the right wall, bulletin papers pinned near the board, and a framed Japanese calligraphy sign above the chalkboard reading {argument name=\"wall sign text\" default=\"創誠造実\"}. The atmosphere is natural and unposed, like a documentary snapshot. Emphasize realistic lighting, fine hair detail, the unusual dramatic length of the central girl’s hair, and a believable everyday school environment.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个自然、写实的日本高中教室场景，采用垂直智能手机照片的构图方式。三名穿着相同传统海军蓝色水手服的女学生是前景中的主要焦点。中间站立的女孩有极长的、笔直的、乌黑发亮的头发，发长几乎垂到地面，远超膝盖，她正低头用一把小梳子轻轻梳理下方的头发。第二名女孩站在后方偏右的位置，同样有着长长的黑色直发，一手拿着打开的粉饼镜，另一只手正在调整她额前的刘海或鬓角的头发。第三名女孩跪在前方右侧的地面上，双手小心地捧着并整理中间女孩的长发。三人都穿着深海军蓝色水手式校服，带有白色条纹装饰、百褶裙、长袖、白色袜子和室内校鞋。她们的面部被遮挡或模糊处理。背景中，恰好有8名穿着深色校服的学生坐在课桌前，分成小组，背对或侧对着镜头，营造出普通上课或班会的感觉。教室里有木质课桌和椅子，左侧有明亮的大窗户透入柔和的日光，右侧墙上有一块绿色黑板，黑板附近有钉着的公告纸，黑板上方有一幅装裱起来的日本书法招牌，上面写着{argument name=\"wall sign text\" default=\"創誠造実\"}。氛围自然不做作，如同纪录片中的快照。强调写实的光线、精细的头发细节、中间女孩头发异常戏剧性的长度，以及一个可信的日常学校环境。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:24:22.209Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Japanese Classroom Long Hair Snapshot",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Hair_Hair55/status/2047963832732221723",
+      "originalId": "case-100",
+      "authors": [
+        {
+          "name": "Hair_Hair55",
+          "url": "https://x.com/Hair_Hair55"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 665
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_93a445c5481f396a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case100/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case100/output.jpg",
+      "localPath": "public/assets/prompt_8c1b527171eaa72d73c4/d4f56a0e3ac5.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.558Z"
+  }
+}

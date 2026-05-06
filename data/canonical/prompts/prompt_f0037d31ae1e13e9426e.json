@@ -1,0 +1,105 @@
+{
+  "id": "prompt_f0037d31ae1e13e9426e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一个抖音直播的截图 ，一个美女在直播，美女手里拿着牌子，上面写着：谢谢行者大哥的大火箭！",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a screenshot of a TikTok live stream, a beautiful woman is live streaming, the beautiful woman is holding a sign in her hand, on which it says: Thank you Brother Xingzhe for the big rocket!",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "美女举牌感谢大哥打赏大火箭",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Beautiful girl holding up a sign thanking a viewer for gifting a big rocket",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:59.201Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_071d548287",
+      "value": "美女举牌感谢大哥打赏大火箭",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-249",
+      "originalId": "case-249",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2044796366950703316"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2705
+        }
+      ],
+      "rawSource": "[@joshesye](https://x.com/joshesye/status/2044796366950703316)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ab27142dc178c663",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case249.jpg",
+      "upstreamPath": "../data/images/case249.jpg",
+      "localPath": "public/assets/prompt_f0037d31ae1e13e9426e/f4ab76ccc36c.jpg",
+      "alt": "美女举牌感谢大哥打赏大火箭",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "抖音"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

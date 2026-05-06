@@ -1,0 +1,168 @@
+{
+  "id": "prompt_e07c5c7d668ed92a33c3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A polished children's pop-up book advertisement on a dark studio background, featuring an open hardcover book with thick white pages and a teal-green cover lying on a tabletop. From the center fold, a highly detailed white paper origami T-rex bursts upward in a dynamic roaring pose, mouth wide open with sharp triangular teeth, tiny clawed arms raised, thick folded legs planted in layered paper jungle foliage, and a segmented tail extending backward. The dinosaur should look handcrafted from crisp folded cardstock, with visible geometric paper panels and clean origami seams. Behind it, the right-hand page stands partially upright and catches a dramatic shadow projection of the T-rex profile, creating a large silhouette with open jaws; also include small paper-cut scenery on that page: 3 flying pterosaurs and a simple mountain landscape. Surround the dinosaur base with dense cut-paper plants and grass emerging from both pages. Light the scene with a cinematic warm spotlight from the upper left, leaving the background in deep navy to black, with soft realistic shadows cast across the book and onto the raised page. At the top center, include bold white ad typography in stacked lines reading {argument name=\"headline text\" default=\"DINOSAURS POP UP ADVENTURE\"}, with a white ribbon banner below that reads {argument name=\"tagline\" default=\"A WORLD OF WONDER IN EVERY PAGE\"}. At the bottom center, place 4 evenly spaced circular feature icons with captions in white: an open book icon labeled \"AMAZING POP UP DESIGNS\", a hand icon labeled \"HANDCRAFTED WITH CARE\", a shield icon labeled \"DURABLE & KID FRIENDLY\", and a light bulb icon labeled \"INSPIRES IMAGINATION\". Premium toy catalog style, cinematic product photography mixed with paper craft illustration, centered composition, high contrast, ultra-clean, whimsical, family-friendly, realistic paper texture.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Origami Dinosaur Pop-Up Book Ad",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "產品行銷 - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロダクトマーケティング - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "제품 마케팅 - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोडक्ट मार्केटिंग - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Origami Dinosaur Pop-Up Book Ad",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a cinematic children's advertisement image of a paper T-rex bursting from a pop-up book, ideal for toy, book, or educational product marketing.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Gdgtify/status/2048870299894939916#reversed-1",
+      "originalId": "https://x.com/Gdgtify/status/2048870299894939916#reversed-1",
+      "authors": [
+        {
+          "name": "Gadgetify",
+          "url": "https://x.com/Gdgtify"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4145
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9ef3020641b1022c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367288215_rreo9l_HGt_mBOaYAAmqSC.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367288215_rreo9l_HGt_mBOaYAAmqSC.jpg",
+      "localPath": "public/assets/prompt_e07c5c7d668ed92a33c3/9b46950fa2dc.jpg",
+      "alt": "Product Marketing - Origami Dinosaur Pop-Up Book Ad - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

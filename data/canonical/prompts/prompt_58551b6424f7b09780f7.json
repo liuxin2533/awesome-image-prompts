@@ -1,0 +1,166 @@
+{
+  "id": "prompt_58551b6424f7b09780f7",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil pastel illustration on textured off-white paper. She has long straight {argument name=\"hair color\" default=\"deep purple with lighter lavender ends\"} hair, large pointed orange cat ears on top of her head, and a striped orange-and-black cat tail curving in from the right side. Her outfit is a tiger-inspired bodysuit in vivid {argument name=\"outfit color\" default=\"bright orange\"} with bold black accents: long fitted sleeves, a dark black chest and torso panel, orange legs, orange gloves, and a soft pale pink patch on the hip and upper thigh area. She is squatting with one knee raised, one hand touching the ground in front of her, and the other hand lifted in a salute near her forehead, facing the viewer with a mischievous, energetic feel. Render the whole image in rough crayon-like oil pastel strokes with visible grain, uneven sketchy black outlines, scribbled color fill, and childlike analog texture. Use a warm pastel palette with orange as the dominant color, purple hair, soft pink scribbled background shading, and a purple-blue scribbled shadow beneath her. Keep the composition as a single centered full-body character on paper, whimsical, charming, slightly messy, and irresistibly cute, like an expressive pastel doodle illustration.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Oil Pastel Anime Catgirl",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Oil Pastel Anime Catgirl",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a cute full-body anime catgirl in a tiger-themed outfit rendered as a textured oil pastel crayon drawing, ideal for playful character art and stylized social posts.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/MireilleDartois/status/2048739113558573201#reversed-0",
+      "originalId": "https://x.com/MireilleDartois/status/2048739113558573201#reversed-0",
+      "authors": [
+        {
+          "name": "ダルトワ★TV",
+          "url": "https://x.com/MireilleDartois"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1121
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f2bcb04480196cd6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367317158_w2m0tk_HG6T3x3bQAADPQa.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367317158_w2m0tk_HG6T3x3bQAADPQa.jpg",
+      "localPath": "public/assets/prompt_58551b6424f7b09780f7/c58facb70a11.jpg",
+      "alt": "Profile / Avatar - Oil Pastel Anime Catgirl - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

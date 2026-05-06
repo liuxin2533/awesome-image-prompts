@@ -1,0 +1,103 @@
+{
+  "id": "prompt_7a963a7173b3f745ee3f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections  female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling   male outfit: simple t-shirt or light shirt, clean and understated  hair: natural, slightly tousled for both  pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss  expression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible  camera: close framing (waist-up), eye-level, intimate distance, slight handheld feel  setting: minimal indoor near window, light curtains, clean soft background  lighting: diffused daylight, gentle highlight bloom, soft shadow transitions  mood: warm, romantic, intimate everyday moment, natural affection  quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "9:16 垂直 — 日本富士胶片风格情侣肖像，两个主题 富士胶片模拟美学（Pro 400H / Superia 感觉），柔和的粉彩色调，轻微的绿-品红偏移，低对比度，柔和的高光过渡，细腻的胶片颗粒，微妙的晕光 明亮的自然日光，透过窗户的漫射阳光，柔和的阴影，轻盈的氛围 年轻的日本情侣，自然淡妆，真实的皮肤纹理，轻微的不完美 女性服装：宽松的纽扣衬衫配宽松短裤，宽松合身，柔软休闲风格 男性服装：简单的T恤或轻便衬衫，干净简约 发型：自然，两人都略微凌乱 姿态：亲密近距离 — 坐或站得很近；女孩轻轻向他倾斜，一只手轻搭在他的肩膀或胸口；男孩稍微前倾，脸靠近，几乎相触，捕捉亲吻前一瞬间的表情：柔和的微笑或温柔的对视，放松自然，情感连接可见 相机：近距离构图（腰部以上），平视，亲密距离，轻微手持感 场景：窗边简约室内，轻柔窗帘，干净柔和的背景 灯光：漫射日光，柔和的高光晕染，柔和的阴影过渡 氛围：温暖，浪漫，亲密的日常时刻，自然的情感 质量：超写实，模拟胶片外观，细腻颗粒，轻微柔和感，自然不完美",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:00.370Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Fujifilm Couple Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/BubbleBrain/status/2046502288102170757",
+      "originalId": "case-17",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 193
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1251c6dc816f6465",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case17/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case17/output.jpg",
+      "localPath": "public/assets/prompt_7a963a7173b3f745ee3f/14ed5b4f6618.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

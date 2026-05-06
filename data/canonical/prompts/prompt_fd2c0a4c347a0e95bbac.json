@@ -1,0 +1,174 @@
+{
+  "id": "prompt_fd2c0a4c347a0e95bbac",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a bright, ultra-saturated anime YouTube-style promotional thumbnail for {argument name=\"brand name\" default=\"Sousaku AI\"}, in a magical-girl music theme. The scene shows exactly 2 cute brown-haired magical girls sitting side by side in the center, both smiling with eyes closed and sharing wired earphones while listening to music from exactly 1 smartphone placed between them; the phone screen displays a colorful equalizer with playback controls. The left girl wears a yellow-and-white frilly magical-girl dress with small wing-like accents, star decorations, yellow bows, and a tiny banana-shaped crown accessory, suggesting a banana-themed variant; the right girl wears a pink-and-white frilly magical-girl dress with blue ribbon twin-tail bows, star brooch, white gloves, and soft angel-wing accents. Use glossy idol-anime rendering, big sparkling eyes style even though the eyes are closed, soft blush, detailed frills, ribbons, and polished highlights. The background is an explosive rainbow concert-fantasy design filled with neon gradients, sparkles, starbursts, glowing staff lines, and exactly 3 major music-themed icon groups: oversized musical notes scattered across the image, a large treble clef on the left, and speaker/headphone graphics on the sides. Add colorful waveform and equalizer bars stretching horizontally behind the characters, plus a piano keyboard along the lower left edge. Include exactly 4 visible text elements: a huge top headline in Japanese reading {argument name=\"headline text\" default=\"♪AI楽曲生成♪\"} with thick white outline, dark drop shadow, and pink-to-yellow-to-blue gradient fill; a small handwritten-style Japanese tagline near the lower left reading {argument name=\"tagline text\" default=\"音楽の世界へ♪\"}; a large curved bottom ribbon title reading {argument name=\"bottom title\" default=\"Sousaku AI\"}; and a top-right rounded white logo badge reading {argument name=\"logo text\" default=\"Sousaku.AI\"} with a small red origami bird icon. Compose for a 16:9 thumbnail, extremely eye-catching, high contrast, dense kawaii visual effects, celebratory music-generation advertising mood, crisp readable typography, no empty areas.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 {argument name=\"brand name\" default=\"Sousaku AI\"} 创建一张明亮、超高饱和度的动漫 YouTube 风格宣传缩略图，采用魔法少女音乐主题。画面中心并排坐着 2 名可爱的棕发魔法少女，两人都闭着眼睛微笑，共享一副有线耳机，聆听放在她们中间的 1 部智能手机播放的音乐；手机屏幕显示着带有播放控制的彩色均衡器。左侧少女身穿黄白相间的荷叶边魔法少女裙，配有小翅膀装饰、星星装饰、黄色蝴蝶结以及一个微型香蕉形状的皇冠配饰，暗示其为香蕉主题变体；右侧少女身穿粉白相间的荷叶边魔法少女裙，配有蓝色丝带双马尾蝴蝶结、星星胸针、白色手套和柔软的天使翅膀装饰。采用光泽感偶像动漫渲染风格，即使闭眼也要呈现大而闪亮的眼睛风格，配以柔和的腮红、精致的荷叶边、丝带和细腻的高光。背景为爆炸性的彩虹音乐会幻想设计，充满霓虹渐变、闪光、星芒、发光的五线谱，以及 3 组主要的音乐主题图标：散布在画面中的超大音符、左侧的一个大高音谱号，以及两侧的扬声器/耳机图形。在角色身后水平延伸出彩色的波形和均衡器条，左下边缘配有一排钢琴键盘。包含 4 个清晰可见的文字元素：顶部巨大的日语标题 {argument name=\"headline text\" default=\"♪AI楽曲生成♪\"}，带有粗白边、深色投影以及粉色到黄色再到蓝色的渐变填充；左下角附近的一句小型手写风格日语标语 {argument name=\"tagline text\" default=\"音楽の世界へ♪\"}；底部巨大的弧形丝带标题 {argument name=\"bottom title\" default=\"Sousaku AI\"}；以及右上角圆形的白色 Logo 徽章 {argument name=\"logo text\" default=\"Sousaku.AI\"}，配有一个红色的小型折纸鸟图标。构图适配 16:9 缩略图，极具视觉冲击力，高对比度，密集的卡哇伊视觉特效，营造庆祝音乐生成的广告氛围，排版清晰易读，无留白区域。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una miniatura promocional brillante y ultra saturada al estilo anime de YouTube para {argument name=\"brand name\" default=\"Sousaku AI\"}, con una temática de música de chicas mágicas. La escena muestra exactamente a 2 lindas chicas mágicas de cabello castaño sentadas una al lado de la otra en el centro, ambas sonriendo con los ojos cerrados y compartiendo audífonos con cable mientras escuchan música desde exactamente 1 teléfono inteligente colocado entre ellas; la pantalla del teléfono muestra un ecualizador colorido con controles de reproducción. La chica de la izquierda viste un vestido de chica mágica con volantes en amarillo y blanco con pequeños detalles en forma de alas, decoraciones de estrellas, lazos amarillos y un pequeño accesorio de corona con forma de plátano, lo que sugiere una variante temática de plátano; la chica de la derecha viste un vestido de chica mágica con volantes en rosa y blanco con lazos azules en las coletas, un broche de estrella, guantes blancos y suaves detalles de alas de ángel. Utiliza un renderizado de anime tipo ídolo brillante, estilo de ojos grandes y brillantes incluso aunque estén cerrados, rubor suave, volantes detallados, lazos y reflejos pulidos. El fondo es un diseño explosivo de concierto de fantasía arcoíris lleno de degradados de neón, destellos, estallidos de estrellas, líneas de pentagrama brillantes y exactamente 3 grupos de iconos principales con temática musical: notas musicales de gran tamaño dispersas por la imagen, una gran clave de sol a la izquierda y gráficos de altavoces/auriculares a los lados. Agrega barras de ecualizador y ondas de sonido coloridas que se extienden horizontalmente detrás de los personajes, además de un teclado de piano a lo largo del borde inferior izquierdo. Incluye exactamente 4 elementos de texto visibles: un titular enorme en la parte superior en japonés que diga {argument name=\"headline text\" default=\"♪AI楽曲生成♪\"} con un contorno blanco grueso, sombra paralela oscura y un relleno degradado de rosa a amarillo a azul; un pequeño eslogan en japonés estilo manuscrito cerca de la parte inferior izquierda que diga {argument name=\"tagline text\" default=\"音楽の世界へ♪\"}; un título grande en una cinta curva en la parte inferior que diga {argument name=\"bottom title\" default=\"Sousaku AI\"}; y una insignia de logotipo blanca redondeada en la parte superior derecha que diga {argument name=\"logo text\" default=\"Sousaku.AI\"} con un pequeño icono de pájaro de origami rojo. Compón para una miniatura de 16:9, extremadamente llamativa, de alto contraste, efectos visuales kawaii densos, ambiente publicitario de generación de música festiva, tipografía nítida y legible, sin áreas vacías.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein helles, extrem gesättigtes Anime-Thumbnail im YouTube-Stil für {argument name=\"brand name\" default=\"Sousaku AI\"} mit einem Magical-Girl-Musikthema. Die Szene zeigt genau 2 niedliche, braunhaarige Magical Girls, die nebeneinander in der Mitte sitzen, beide lächeln mit geschlossenen Augen und teilen sich kabelgebundene Kopfhörer, während sie Musik von genau 1 Smartphone hören, das zwischen ihnen liegt; der Bildschirm des Smartphones zeigt einen farbenfrohen Equalizer mit Wiedergabesteuerung. Das linke Mädchen trägt ein gelb-weißes, rüschenbesetztes Magical-Girl-Kleid mit kleinen flügelartigen Akzenten, Sternendekorationen, gelben Schleifen und einem winzigen bananenförmigen Kronen-Accessoire, was auf eine Bananen-Variante hindeutet; das rechte Mädchen trägt ein rosa-weißes, rüschenbesetztes Magical-Girl-Kleid mit blauen Schleifen an den Zöpfen, einer Sternbrosche, weißen Handschuhen und weichen Engelsflügel-Akzenten. Verwende ein glänzendes Idol-Anime-Rendering, den Stil mit großen, funkelnden Augen, auch wenn die Augen geschlossen sind, zartes Rouge, detaillierte Rüschen, Bänder und polierte Highlights. Der Hintergrund ist ein explosives Regenbogen-Konzert-Fantasy-Design, gefüllt mit Neon-Verläufen, Glitzereffekten, Sternenexplosionen, leuchtenden Notenlinien und genau 3 großen musikthematischen Icon-Gruppen: übergroße Musiknoten, die über das Bild verstreut sind, ein großer Violinschlüssel auf der linken Seite und Lautsprecher-/Kopfhörer-Grafiken an den Seiten. Füge farbenfrohe Wellenformen und Equalizer-Balken hinzu, die sich horizontal hinter den Charakteren erstrecken, sowie eine Klaviertastatur entlang der unteren linken Kante. Füge genau 4 sichtbare Textelemente ein: eine riesige Schlagzeile oben auf Japanisch mit dem Text {argument name=\"headline text\" default=\"♪AI楽曲生成♪\"} mit dicker weißer Umrandung, dunklem Schlagschatten und einer Farbverlaufsfüllung von Pink zu Gelb zu Blau; ein kleiner japanischer Slogan im handschriftlichen Stil unten links mit dem Text {argument name=\"tagline text\" default=\"音楽の世界へ♪\"}; ein großes, geschwungenes Band am unteren Rand mit dem Titel {argument name=\"bottom title\" default=\"Sousaku AI\"}; und ein abgerundetes weißes Logo-Abzeichen oben rechts mit dem Text {argument name=\"logo text\" default=\"Sousaku.AI\"} und einem kleinen roten Origami-Vogel-Icon. Komponiere das Bild für ein 16:9-Thumbnail, extrem auffällig, hoher Kontrast, dichte Kawaii-Visual-Effekte, feierliche Stimmung für Musikgenerierungswerbung, klare lesbare Typografie, keine leeren Bereiche.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une miniature promotionnelle YouTube style anime, lumineuse et ultra-saturée pour {argument name=\"brand name\" default=\"Sousaku AI\"}, sur le thème de la musique magical girl. La scène montre exactement 2 mignonnes magical girls aux cheveux bruns assises côte à côte au centre, toutes deux souriantes les yeux fermés, partageant des écouteurs filaires tout en écoutant de la musique provenant d'exactement 1 smartphone placé entre elles ; l'écran du téléphone affiche un égaliseur coloré avec des commandes de lecture. La fille de gauche porte une robe de magical girl à froufrous jaune et blanc avec de petits accents en forme d'ailes, des décorations en forme d'étoiles, des nœuds jaunes et un minuscule accessoire en forme de banane, suggérant une variante sur le thème de la banane ; la fille de droite porte une robe de magical girl à froufrous rose et blanc avec des nœuds bleus en couettes, une broche en forme d'étoile, des gants blancs et de doux accents d'ailes d'ange. Utilisez un rendu anime-idole brillant, un style aux grands yeux pétillants même si les yeux sont fermés, un blush léger, des froufrous détaillés, des rubans et des reflets polis. L'arrière-plan est un design de concert fantastique arc-en-ciel explosif rempli de dégradés néon, d'étincelles, d'éclats d'étoiles, de portées musicales lumineuses et d'exactement 3 groupes d'icônes sur le thème de la musique : des notes de musique surdimensionnées éparpillées sur l'image, une grande clé de sol sur la gauche et des graphismes de haut-parleurs/casques sur les côtés. Ajoutez des barres d'égaliseur et des ondes sonores colorées s'étirant horizontalement derrière les personnages, ainsi qu'un clavier de piano le long du bord inférieur gauche. Incluez exactement 4 éléments textuels visibles : un énorme titre en haut en japonais indiquant {argument name=\"headline text\" default=\"♪AI楽曲生成♪\"} avec un contour blanc épais, une ombre portée sombre et un remplissage dégradé rose-jaune-bleu ; un petit slogan en japonais style manuscrit près du bas à gauche indiquant {argument name=\"tagline text\" default=\"音楽の世界へ♪\"} ; un grand titre en ruban incurvé en bas indiquant {argument name=\"bottom title\" default=\"Sousaku AI\"} ; et un badge logo blanc arrondi en haut à droite indiquant {argument name=\"logo text\" default=\"Sousaku.AI\"} avec une petite icône d'oiseau en origami rouge. Composez pour une miniature 16:9, extrêmement accrocheuse, à fort contraste, avec des effets visuels kawaii denses, une ambiance publicitaire de génération musicale festive, une typographie nette et lisible, sans zones vides.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una miniatura promozionale in stile anime YouTube, luminosa e ultra-saturata, per {argument name=\"brand name\" default=\"Sousaku AI\"}, a tema musicale magical girl. La scena mostra esattamente 2 graziose magical girl dai capelli castani sedute fianco a fianco al centro, entrambe sorridenti con gli occhi chiusi mentre condividono auricolari a filo per ascoltare musica da esattamente 1 smartphone posizionato tra loro; lo schermo del telefono mostra un equalizzatore colorato con i controlli di riproduzione. La ragazza a sinistra indossa un vestito da magical girl con volant giallo e bianco con piccoli dettagli a forma di ala, decorazioni a stella, fiocchi gialli e un minuscolo accessorio a corona a forma di banana, che suggerisce una variante a tema banana; la ragazza a destra indossa un vestito da magical girl con volant rosa e bianco con fiocchi blu per le code, una spilla a stella, guanti bianchi e morbidi dettagli ad ali d'angelo. Usa un rendering in stile idol-anime lucido, occhi grandi e scintillanti anche se chiusi, blush delicato, volant dettagliati, nastri e riflessi curati. Lo sfondo è un design fantasy da concerto arcobaleno esplosivo, pieno di sfumature neon, scintille, esplosioni di stelle, pentagrammi luminosi ed esattamente 3 gruppi di icone a tema musicale: note musicali sovradimensionate sparse nell'immagine, una grande chiave di violino a sinistra e grafiche di altoparlanti/cuffie sui lati. Aggiungi barre colorate di forma d'onda ed equalizzatore che si estendono orizzontalmente dietro i personaggi, oltre a una tastiera di pianoforte lungo il bordo inferiore sinistro. Includi esattamente 4 elementi testuali visibili: un enorme titolo in alto in giapponese che recita {argument name=\"headline text\" default=\"♪AI楽曲生成♪\"} con un bordo bianco spesso, un'ombra scura e un riempimento sfumato dal rosa al giallo al blu; un piccolo slogan in giapponese in stile calligrafico vicino alla parte inferiore sinistra che recita {argument name=\"tagline text\" default=\"音楽の世界へ♪\"}; un grande titolo su un nastro curvo in basso che recita {argument name=\"bottom title\" default=\"Sousaku AI\"}; e un badge con logo bianco arrotondato in alto a destra che recita {argument name=\"logo text\" default=\"Sousaku.AI\"} con una piccola icona di un origami a forma di uccellino rosso. Componi per una miniatura 16:9, estremamente accattivante, ad alto contrasto, con effetti visivi kawaii densi, un'atmosfera pubblicitaria celebrativa per la generazione di musica, tipografia nitida e leggibile, senza aree vuote.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma miniatura promocional de anime estilo YouTube, brilhante e ultra-saturada, para {argument name=\"brand name\" default=\"Sousaku AI\"}, com um tema de música de garota mágica. A cena mostra exatamente 2 garotas mágicas fofas de cabelo castanho sentadas lado a lado no centro, ambas sorrindo com os olhos fechados e compartilhando fones de ouvido com fio enquanto ouvem música de exatamente 1 smartphone colocado entre elas; a tela do celular exibe um equalizador colorido com controles de reprodução. A garota da esquerda usa um vestido de garota mágica com babados amarelo e branco com pequenos detalhes em forma de asa, decorações de estrelas, laços amarelos e um pequeno acessório de coroa em forma de banana, sugerindo uma variante com tema de banana; a garota da direita usa um vestido de garota mágica com babados rosa e branco com laços azuis nas marias-chiquinhas, broche de estrela, luvas brancas e detalhes suaves de asas de anjo. Use renderização de anime idol brilhante, estilo de olhos grandes e brilhantes mesmo com os olhos fechados, blush suave, babados detalhados, fitas e destaques polidos. O fundo é um design de fantasia de show de arco-íris explosivo preenchido com gradientes neon, brilhos, explosões de estrelas, linhas de pauta brilhantes e exatamente 3 grupos de ícones principais com tema musical: notas musicais grandes espalhadas pela imagem, uma grande clave de sol à esquerda e gráficos de alto-falante/fone de ouvido nas laterais. Adicione barras de forma de onda e equalizador coloridas esticando-se horizontalmente atrás dos personagens, além de um teclado de piano ao longo da borda inferior esquerda. Inclua exatamente 4 elementos de texto visíveis: uma manchete enorme no topo em japonês lendo {argument name=\"headline text\" default=\"♪AI楽曲生成♪\"} com contorno branco espesso, sombra projetada escura e preenchimento de gradiente de rosa para amarelo para azul; um pequeno slogan em japonês estilo manuscrito perto da parte inferior esquerda lendo {argument name=\"tagline text\" default=\"音楽の世界へ♪\"}; um título de fita inferior curvo grande lendo {argument name=\"bottom title\" default=\"Sousaku AI\"}; e um emblema de logotipo branco arredondado no canto superior direito lendo {argument name=\"logo text\" default=\"Sousaku.AI\"} com um pequeno ícone de pássaro de origami vermelho. Componha para uma miniatura 16:9, extremamente atraente, alto contraste, efeitos visuais kawaii densos, clima de publicidade de geração de música comemorativa, tipografia nítida e legível, sem áreas vazias.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Magical Girl AI Music Thumbnail",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 魔法少女 AI 音乐缩略图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Miniatura de música con IA de chicas mágicas",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Magical Girl KI-Musik-Thumbnail",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Miniature musicale AI Magical Girl",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Miniatura musicale AI in stile Magical Girl",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Miniatura de Música com IA de Garota Mágica",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a colorful anime promotional thumbnail featuring two magical girls listening to AI-generated music for a music creation service.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张色彩鲜艳的动漫风格宣传缩略图，展示两名魔法少女正在为音乐创作服务聆听 AI 生成的音乐。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une miniature promotionnelle anime colorée mettant en scène deux magical girls écoutant de la musique générée par IA pour un service de création musicale.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/xc5_/status/2051259399923212353#reversed-0",
+      "originalId": "https://x.com/xc5_/status/2051259399923212353#reversed-0",
+      "authors": [
+        {
+          "name": "萌奈のおすそわけ♥️AI動画クリエイター🩷AI & Web3 KOL🧡💛💚",
+          "url": "https://x.com/xc5_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2528
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fd32b88a71d5139e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971074863_h6c8c3_HHeIvCLa0AARNN4.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971074863_h6c8c3_HHeIvCLa0AARNN4.jpg",
+      "localPath": "public/assets/prompt_fd2c0a4c347a0e95bbac/a45adb07c597.jpg",
+      "alt": "YouTube Thumbnail - Magical Girl AI Music Thumbnail - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "youtube",
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.873Z"
+  }
+}

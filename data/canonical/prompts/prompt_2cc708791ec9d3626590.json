@@ -1,0 +1,106 @@
+{
+  "id": "prompt_2cc708791ec9d3626590",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl there is online loan, iPhone size",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "精致女孩背后的网贷真相",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "The truth behind online loans for sophisticated girls",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:04:31.072Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_4554dd057a",
+      "value": "精致女孩背后的网贷真相",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-259",
+      "originalId": "case-259",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2045373105041007013"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2905
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2045373105041007013)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a13133d41444f243",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case259.jpg",
+      "upstreamPath": "../data/images/case259.jpg",
+      "localPath": "public/assets/prompt_2cc708791ec9d3626590/8bcfd34e2fe4.jpg",
+      "alt": "精致女孩背后的网贷真相",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "ui",
+      "小红书"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

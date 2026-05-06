@@ -1,0 +1,108 @@
+{
+  "id": "prompt_9a595f6101b20d1d51cf",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Old money Hamptons editorial, tall blonde woman late 20s, serene elegant expression, wearing cream cashmere cable sweater, pleated beige tennis skirt, pearl earrings, Hermès silk scarf, leather flats, Slim Aarons photography style, medium format film photography, sitting on a white wooden porch of a Cape Cod house, golden hour light, ocean in the background",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "老钱风汉普顿专题摄影，高个子金发女子，二十多岁，宁静优雅的表情，穿着奶油色羊绒毛衣，米色百褶网球裙，珍珠耳环，爱马仕丝巾，平底皮鞋，Slim Aarons摄影风格，中画幅胶片摄影，坐在科德角风格房屋的白色木制门廊上，黄金时刻光线，背景是海洋",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:54.649Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "6-Block Fashion Campaign Prompt Formula",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "六块时尚活动提示词公式",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:50.402Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/anacoding/status/2046904999045628114",
+      "originalId": "case-52",
+      "authors": [
+        {
+          "name": "anacoding",
+          "url": "https://x.com/anacoding"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 531
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3f7efb4ad5204d9e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg",
+      "localPath": "public/assets/prompt_9a595f6101b20d1d51cf/f5575e0ae109.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T22:57:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

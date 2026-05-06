@@ -1,0 +1,101 @@
+{
+  "id": "prompt_52f51dcd3c4d644c4fb8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Based on the shape of the {argument name=\"subject\" default=\"clouds\"} in the image, identify what object, animal, or person they most resemble. Do not change the original image; instead, draw that object, animal, or person over the original image in a {argument name=\"art style\" default=\"doodle\"} style.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "根据图像中{argument name=\"subject\" default=\"clouds\"}的形状，识别它们最像什么物体、动物或人物。不要改变原始图像；而是在原始图像上以{argument name=\"art style\" default=\"doodle\"}的风格绘制那个物体、动物或人物。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:10:05.121Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Cloud shape doodle generation",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Gorden_Sun/status/2048080137149899133",
+      "originalId": "case-112",
+      "authors": [
+        {
+          "name": "Gorden_Sun",
+          "url": "https://x.com/Gorden_Sun"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 709
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_044b4eff4ec929c2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case112/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case112/output.jpg",
+      "localPath": "public/assets/prompt_52f51dcd3c4d644c4fb8/e17e77950e91.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.555Z"
+  }
+}

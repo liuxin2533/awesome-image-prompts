@@ -1,0 +1,87 @@
+{
+  "id": "prompt_40cbc3873a1a3cf1d781",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一系列五一劳动节的手举牌设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a series of hand-held sign designs for May Day Labor Day",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "五一劳动节手举牌创意设计集",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Creative Design Collection for May Day Handheld Signs",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:09:25.967Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_706f9b0e2b",
+      "value": "五一劳动节手举牌创意设计集",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-252",
+      "originalId": "case-252",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2765
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_26b283e47122e217",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case252.jpg",
+      "upstreamPath": "../data/images/case252.jpg",
+      "localPath": "public/assets/prompt_40cbc3873a1a3cf1d781/babb413a0fa4.jpg",
+      "alt": "五一劳动节手举牌创意设计集",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

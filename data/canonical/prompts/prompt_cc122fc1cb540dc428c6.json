@@ -1,0 +1,93 @@
+{
+  "id": "prompt_cc122fc1cb540dc428c6",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A 10-Nation Cinematic Fashion Transformation of One Timeless BeautyChatGPT Prompt:\n\nA highly aesthetic, ultra-realistic cinematic collage featuring the exact same beautiful young woman from the reference image, shown in 10 different poses within one single image layout (5x2 grid style). Each frame represents a different country’s traditional cultural dress, styled in a modern, elegant, fashion-forward way. The woman is the SAME person in every frame: she has shoulder-length wavy dark brown hair, captivating dark brown eyes, full plump lips with a subtle confident smile, flawless warm olive-toned skin, high cheekbones, and a voluptuous yet athletic figure with a prominent bust, slim waist, and toned physique — exactly matching the woman in the provided reference photo.\n\nDesign details:\n\nEach of the 10 frames shows this same woman in different traditional outfits inspired by the following countries: Suriname, Guyana, Puerto Rico, Spain, Italy, India, Pakistan, Venezuela, Brazil, and the USA.\n\nEvery outfit is a modern, elegant, fashion-forward interpretation of that country’s cultural heritage.\n\nEach mini-frame includes a small national flag icon in the top-right corner.\n\nThe woman’s expressions vary: smiling, confident, graceful, playful, elegant, royal, modern fusion fashion poses.\n\nHigh-fashion editorial photography style.\n\nSoft cinematic lighting, ultra-detailed textures, realistic skin tones.\n\nBackgrounds subtly match each country’s cultural aesthetic (landmarks, streets, patterns, colors, architecture).\n\nLuxury fashion magazine layout style.\n\nClean grid composition, visually balanced, highly shareable social media design.\n\nStyle: Ultra-realistic, 8K resolution, Vogue editorial shoot, cinematic lighting, soft depth of field, trending Instagram aesthetic, fashion photography masterpiece.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "十国传统服饰时尚拼贴",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0d6e88f6eb",
+      "value": "十国传统服饰时尚拼贴",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-384",
+      "originalId": "case-384",
+      "authors": [
+        {
+          "name": "amynys",
+          "url": "https://x.com/amynys/status/2051287229532639677"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7195
+        }
+      ],
+      "rawSource": "[@amynys](https://x.com/amynys/status/2051287229532639677)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f4d202f84fb1edb3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case384.jpg",
+      "upstreamPath": "../data/images/case384.jpg",
+      "localPath": "public/assets/prompt_cc122fc1cb540dc428c6/f33a2b4aa3bc.jpg",
+      "alt": "十国传统服饰时尚拼贴",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "photography",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.928Z"
+  }
+}

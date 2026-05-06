@@ -1,0 +1,171 @@
+{
+  "id": "prompt_b8ec77adb3fa458772e8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"vertical cinematic anime illustration with maritime fantasy mood\",\"aspect_ratio\":\"9:16 portrait\",\"style\":\"highly detailed modern anime, painterly lighting, rich chiaroscuro, warm antique browns contrasted with deep ocean blues, romantic naval adventure atmosphere, sharp uniform details, soft glowing vignette effects\",\"main_subject\":{\"description\":\"a young male naval officer seated at a wooden desk inside an antique captain's cabin, upper body portrait, leaning forward with one hand resting near his chin and the other arm folded on the table\",\"face\":\"the face is intentionally covered by a plain soft-edged square censor block, centered over the facial area\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"short dark navy-black hair\\\"}\",\"clothing\":\"{argument name=\\\"uniform style\\\" default=\\\"white naval officer uniform with gold buttons, black-and-gold epaulettes, anchor insignia, gold sleeve stripes\\\"}\",\"pose\":\"thoughtful, contemplative, looking downward toward the map\"},\"environment\":{\"location\":\"old ship captain's study or navigation room\",\"background_elements\":[\"round porthole window at upper right showing a full moon over a dark ocean\",\"wooden bookshelves and old books at upper left\",\"antique globe on the shelf\",\"ship wheel silhouette behind the officer\",\"lit brass oil lantern on the desk at left\",\"brass telescope and stacked books on the right\",\"white captain's hat with black brim and gold anchor emblem lying on the desk at right\"],\"lighting\":\"warm lantern light from the left, cool moonlight beams from the porthole, dramatic shadows on dark wood\"},\"foreground\":{\"surface\":\"large aged parchment nautical chart covering the desk, filled with hand-drawn coastlines, route markings, faded handwritten notes, compass lines, and antique cartography texture\",\"centerpiece\":\"large ornate compass rose in the center of the map\"},\"map_vignettes\":{\"description\":\"seven glowing circular or oval memory-like seascape visions embedded on top of the parchment map, each with hazy blue-gold edges\",\"count\":7,\"items\":[{\"position\":\"left upper-middle\",\"description\":\"a lighthouse on rocky coast at night, projecting a bright beam across a dark stormy sea\"},{\"position\":\"upper center\",\"description\":\"a rear-view naval officer in a cap facing a moonlit ocean beneath a bright full moon\"},{\"position\":\"right upper-middle\",\"description\":\"orange and purple sunset over a calm sea, sun low on the horizon\"},{\"position\":\"left middle-lower\",\"description\":\"dark blue night ocean with a glowing electric-blue path or current winding across the water\"},{\"position\":\"right middle-lower\",\"description\":\"golden sunrise or sunset reflected on dark rippling water under heavy clouds\"},{\"position\":\"bottom left\",\"description\":\"violent thunderstorm at sea with lightning striking around a dark sailing ship on rough waves\"},{\"position\":\"bottom right\",\"description\":\"a white-uniformed naval officer seen from behind on a ship balcony, watching a bright rainbow over a calm blue ocean\"}]},\"composition\":\"portrait layout, officer occupies the upper half, parchment map and seven visions fill the lower half, central compass rose anchors the design, dense but balanced nautical storytelling collage\",\"color_palette\":\"{argument name=\\\"color palette\\\" default=\\\"antique sepia parchment, warm amber lantern light, deep navy ocean blues, moonlit silver, sunset orange and violet accents\\\"}\",\"mood\":\"{argument name=\\\"mood\\\" default=\\\"nostalgic, mysterious, romantic, adventurous, quietly melancholic\\\"}\",\"quality\":\"ultra detailed, polished illustration, cinematic depth, crisp fabric folds, detailed brass objects, luminous water reflections, no text captions, no logos, no watermark\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"垂直电影感动漫插画，具有海洋奇幻氛围\",\"aspect_ratio\":\"9:16 竖屏\",\"style\":\"高细节现代动漫，绘画感光影，丰富的明暗对比，温暖的古董棕色与深邃的海洋蓝形成对比，浪漫的海军冒险氛围，锐利的制服细节，柔和的发光晕影效果\",\"main_subject\":{\"description\":\"一位年轻的男性海军军官坐在古董船长室的木桌前，上半身肖像，身体前倾，一只手托着下巴，另一只手臂叠放在桌面上\",\"face\":\"面部被一个居中的、边缘柔和的纯色方形遮挡块刻意遮盖\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"短深海军黑发\\\"}\",\"clothing\":\"{argument name=\\\"uniform style\\\" default=\\\"白色海军军官制服，配有金色纽扣、黑金肩章、锚形徽章、金色袖条\\\"}\",\"pose\":\"沉思状，向下看着地图\"},\"environment\":{\"location\":\"古老的船长书房或导航室\",\"background_elements\":[\"右上角的圆形舷窗，展示着黑暗海洋上空的满月\",\"左上角的木制书架和旧书\",\"架子上的古董地球仪\",\"军官身后的舵轮剪影\",\"桌子左侧点亮的黄铜油灯\",\"右侧的黄铜望远镜和堆叠的书籍\",\"桌子右侧放着一顶带有黑色帽檐和金色锚徽的白色船长帽\"],\"lighting\":\"左侧温暖的灯光，舷窗射入的冷色月光，深色木材上的戏剧性阴影\"},\"foreground\":{\"surface\":\"覆盖在桌面上的一张巨大的陈旧羊皮航海图，绘有手绘海岸线、航线标记、褪色的手写笔记、罗盘线条和古董地图纹理\",\"centerpiece\":\"地图中央巨大的华丽罗盘玫瑰\"},\"map_vignettes\":{\"description\":\"羊皮地图上嵌入的七个发光的圆形或椭圆形记忆般的海洋幻象，每个幻象都有朦胧的蓝金色边缘\",\"count\":7,\"items\":[{\"position\":\"左中上方\",\"description\":\"夜晚岩石海岸上的灯塔，向黑暗的暴风雨海面投射出明亮的光束\"},{\"position\":\"正上方\",\"description\":\"一名戴着帽子的海军军官背影，面对着明亮满月下的月光海洋\"},{\"position\":\"右中上方\",\"description\":\"平静海面上的橙紫色日落，太阳位于地平线低处\"},{\"position\":\"左中下方\",\"description\":\"深蓝色夜海，一条发光的电蓝色路径或洋流在水面上蜿蜒\"},{\"position\":\"右中下方\",\"description\":\"厚重云层下，金色日出或日落倒映在深色涟漪的水面上\"},{\"position\":\"左下角\",\"description\":\"海上猛烈的雷暴，闪电击中波涛汹涌海面上的黑色帆船\"},{\"position\":\"右下角\",\"description\":\"一名身穿白色制服的海军军官背影，站在船舱阳台上，注视着平静蓝色海洋上空的明亮彩虹\"}]},\"composition\":\"竖构图，军官占据上半部分，羊皮地图和七个幻象填满下半部分，中央的罗盘玫瑰稳固了设计，内容丰富但平衡的航海叙事拼贴\",\"color_palette\":\"{argument name=\\\"color palette\\\" default=\\\"古董棕褐色羊皮纸，温暖的琥珀色灯光，深海军海洋蓝，月光银，日落橙与紫罗兰色调\\\"}\",\"mood\":\"{argument name=\\\"mood\\\" default=\\\"怀旧、神秘、浪漫、冒险、静谧忧郁\\\"}\",\"quality\":\"超细节，精致插画，电影感深度，清晰的织物褶皱，精细的黄铜物品，发光的水面反射，无文字说明，无 Logo，无水印\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"ilustración vertical cinemática estilo anime con ambiente de fantasía marítima\",\"aspect_ratio\":\"9:16 vertical\",\"style\":\"anime moderno altamente detallado, iluminación pictórica, claroscuro intenso, marrones antiguos cálidos en contraste con azules oceánicos profundos, atmósfera de aventura naval romántica, detalles nítidos en el uniforme, efectos de viñeta suave y brillante\",\"main_subject\":{\"description\":\"un joven oficial naval sentado en un escritorio de madera dentro del camarote de un capitán antiguo, retrato de medio cuerpo, inclinado hacia adelante con una mano cerca de la barbilla y el otro brazo apoyado sobre la mesa\",\"face\":\"el rostro está cubierto intencionalmente por un bloque cuadrado de censura de bordes suaves, centrado sobre el área facial\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"cabello corto de color azul marino oscuro\\\"}\",\"clothing\":\"{argument name=\\\"uniform style\\\" default=\\\"uniforme naval blanco con botones dorados, charreteras negras y doradas, insignia de ancla, franjas doradas en las mangas\\\"}\",\"pose\":\"pensativo, contemplativo, mirando hacia abajo hacia el mapa\"},\"environment\":{\"location\":\"estudio o sala de navegación de un antiguo capitán de barco\",\"background_elements\":[\"ojo de buey redondo en la parte superior derecha que muestra una luna llena sobre un océano oscuro\",\"estanterías de madera y libros antiguos en la parte superior izquierda\",\"globo terráqueo antiguo en el estante\",\"silueta de timón detrás del oficial\",\"linterna de aceite de latón encendida sobre el escritorio a la izquierda\",\"telescopio de latón y libros apilados a la derecha\",\"gorra de capitán blanca con visera negra y emblema de ancla dorada sobre el escritorio a la derecha\"],\"lighting\":\"luz cálida de linterna desde la izquierda, rayos de luz de luna fría desde el ojo de buey, sombras dramáticas sobre la madera oscura\"},\"foreground\":{\"surface\":\"gran carta náutica de pergamino envejecido que cubre el escritorio, llena de costas dibujadas a mano, marcas de rutas, notas escritas a mano desvanecidas, líneas de brújula y textura de cartografía antigua\",\"centerpiece\":\"gran rosa de los vientos ornamentada en el centro del mapa\"},\"map_vignettes\":{\"description\":\"siete visiones marinas brillantes circulares u ovaladas, similares a recuerdos, incrustadas sobre el mapa de pergamino, cada una con bordes brumosos en azul y dorado\",\"count\":7,\"items\":[{\"position\":\"izquierda medio-superior\",\"description\":\"un faro en una costa rocosa por la noche, proyectando un haz brillante a través de un mar tormentoso y oscuro\"},{\"position\":\"centro superior\",\"description\":\"un oficial naval de espaldas con gorra frente a un océano iluminado por la luna bajo una luna llena brillante\"},{\"position\":\"derecha medio-superior\",\"description\":\"atardecer naranja y púrpura sobre un mar en calma, sol bajo en el horizonte\"},{\"position\":\"izquierda medio-inferior\",\"description\":\"océano nocturno azul oscuro con un camino o corriente azul eléctrico brillante serpenteando sobre el agua\"},{\"position\":\"derecha medio-inferior\",\"description\":\"amanecer o atardecer dorado reflejado en aguas oscuras y ondulantes bajo nubes densas\"},{\"position\":\"abajo a la izquierda\",\"description\":\"tormenta violenta en el mar con relámpagos golpeando alrededor de un barco de vela oscuro sobre olas agitadas\"},{\"position\":\"abajo a la derecha\",\"description\":\"un oficial naval con uniforme blanco visto desde atrás en el balcón de un barco, observando un arcoíris brillante sobre un océano azul en calma\"}]},\"composition\":\"diseño vertical, el oficial ocupa la mitad superior, el mapa de pergamino y las siete visiones llenan la mitad inferior, la rosa de los vientos central ancla el diseño, collage narrativo náutico denso pero equilibrado\",\"color_palette\":\"{argument name=\\\"color palette\\\" default=\\\"pergamino sepia antiguo, luz de linterna ámbar cálida, azules oceánicos profundos, plata lunar, acentos violetas y naranja de atardecer\\\"}\",\"mood\":\"{argument name=\\\"mood\\\" default=\\\"nostálgico, misterioso, romántico, aventurero, silenciosamente melancólico\\\"}\",\"quality\":\"ultra detallado, ilustración pulida, profundidad cinemática, pliegues de tela nítidos, objetos de latón detallados, reflejos de agua luminosos, sin leyendas de texto, sin logotipos, sin marcas de agua\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"vertikale filmische Anime-Illustration mit maritimer Fantasy-Stimmung\",\"aspect_ratio\":\"9:16 Hochformat\",\"style\":\"hochdetaillierter moderner Anime, malerische Beleuchtung, sattes Chiaroscuro, warme antike Brauntöne im Kontrast zu tiefen Ozeanblautönen, romantische Marine-Abenteueratmosphäre, scharfe Uniformdetails, sanfte leuchtende Vignetteneffekte\",\"main_subject\":{\"description\":\"ein junger männlicher Marineoffizier, der an einem Holztisch in einer antiken Kapitänskajüte sitzt, Oberkörperporträt, nach vorne gelehnt mit einer Hand nahe am Kinn und dem anderen Arm auf dem Tisch verschränkt\",\"face\":\"das Gesicht ist absichtlich durch einen schlichten, weich gezeichneten quadratischen Zensurbalken verdeckt, der mittig über dem Gesichtsbereich liegt\",\"hair\":\"{argument name=\\\"Haarfarbe\\\" default=\\\"kurzes, dunkel marineblau-schwarzes Haar\\\"}\",\"clothing\":\"{argument name=\\\"Uniformstil\\\" default=\\\"weiße Marineoffiziersuniform mit goldenen Knöpfen, schwarz-goldenen Epauletten, Ankerabzeichen, goldenen Ärmelstreifen\\\"}\",\"pose\":\"nachdenklich, kontemplativ, blickt nach unten auf die Karte\"},\"environment\":{\"location\":\"Arbeitszimmer oder Navigationsraum eines alten Schiffskapitäns\",\"background_elements\":[\"rundes Bullauge oben rechts, das einen Vollmond über einem dunklen Ozean zeigt\",\"Bücherregale aus Holz und alte Bücher oben links\",\"antiker Globus im Regal\",\"Silhouette eines Schiffssteuerrads hinter dem Offizier\",\"leuchtende Messing-Öllampe auf dem Tisch links\",\"Messing-Teleskop und gestapelte Bücher auf der rechten Seite\",\"weiße Kapitänsmütze mit schwarzer Krempe und goldenem Ankeremblem, die rechts auf dem Tisch liegt\"],\"lighting\":\"warmes Laternenlicht von links, kühle Mondlichtstrahlen aus dem Bullauge, dramatische Schatten auf dunklem Holz\"},\"foreground\":{\"surface\":\"große, gealterte nautische Pergamentkarte, die den Tisch bedeckt, gefüllt mit handgezeichneten Küstenlinien, Routenmarkierungen, verblassten handschriftlichen Notizen, Kompasslinien und antiker Kartografie-Textur\",\"centerpiece\":\"große, verzierte Kompassrose in der Mitte der Karte\"},\"map_vignettes\":{\"description\":\"sieben leuchtende kreisförmige oder ovale, erinnerungsartige Meereslandschaftsvisionen, die auf der Pergamentkarte eingebettet sind, jede mit dunstigen blau-goldenen Rändern\",\"count\":7,\"items\":[{\"position\":\"links oben-mitte\",\"description\":\"ein Leuchtturm an einer felsigen Küste bei Nacht, der einen hellen Strahl über ein dunkles, stürmisches Meer wirft\"},{\"position\":\"oben mitte\",\"description\":\"ein Marineoffizier von hinten in einer Mütze, der einem mondbeschienenen Ozean unter einem hellen Vollmond zugewandt ist\"},{\"position\":\"rechts oben-mitte\",\"description\":\"orangeroter und violetter Sonnenuntergang über einem ruhigen Meer, Sonne tief am Horizont\"},{\"position\":\"links mitte-unten\",\"description\":\"dunkelblauer nächtlicher Ozean mit einem leuchtend elektrisch-blauen Pfad oder einer Strömung, die sich durch das Wasser schlängelt\"},{\"position\":\"rechts mitte-unten\",\"description\":\"goldener Sonnenaufgang oder Sonnenuntergang, der sich auf dunklem, kräuselndem Wasser unter schweren Wolken spiegelt\"},{\"position\":\"unten links\",\"description\":\"heftiges Gewitter auf See mit Blitzen, die um ein dunkles Segelschiff auf rauen Wellen einschlagen\"},{\"position\":\"unten rechts\",\"description\":\"ein Marineoffizier in weißer Uniform, von hinten auf einem Schiffsbalkon gesehen, der einen hellen Regenbogen über einem ruhigen blauen Ozean beobachtet\"}]},\"composition\":\"Hochformat, der Offizier nimmt die obere Hälfte ein, Pergamentkarte und sieben Visionen füllen die untere Hälfte, die zentrale Kompassrose verankert das Design, dichte, aber ausgewogene nautische Storytelling-Collage\",\"color_palette\":\"{argument name=\\\"Farbpalette\\\" default=\\\"antikes Sepia-Pergament, warmes bernsteinfarbenes Laternenlicht, tiefes Marineblau, mondbeschienenes Silber, sonnenuntergangsorange und violette Akzente\\\"}\",\"mood\":\"{argument name=\\\"Stimmung\\\" default=\\\"nostalgisch, geheimnisvoll, romantisch, abenteuerlich, still melancholisch\\\"}\",\"quality\":\"ultra-detailliert, polierte Illustration, filmische Tiefe, knackige Stofffalten, detaillierte Messingobjekte, leuchtende Wasserreflexionen, keine Textbeschriftungen, keine Logos, kein Wasserzeichen\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"illustration anime cinématographique verticale avec une ambiance de fantaisie maritime\",\"aspect_ratio\":\"9:16 portrait\",\"style\":\"anime moderne très détaillé, éclairage pictural, clair-obscur riche, bruns antiques chauds contrastant avec des bleus océaniques profonds, atmosphère d'aventure navale romantique, détails d'uniforme nets, effets de vignette doucement lumineux\",\"main_subject\":{\"description\":\"un jeune officier de marine assis à un bureau en bois à l'intérieur d'une cabine de capitaine antique, portrait en buste, penché en avant avec une main reposant près de son menton et l'autre bras plié sur la table\",\"face\":\"le visage est intentionnellement recouvert par un bloc de censure carré aux bords doux, centré sur la zone faciale\",\"hair\":\"{argument name=\\\"couleur de cheveux\\\" default=\\\"cheveux courts bleu marine-noir\\\"}\",\"clothing\":\"{argument name=\\\"style d'uniforme\\\" default=\\\"uniforme d'officier de marine blanc avec boutons dorés, épaulettes noires et dorées, insigne d'ancre, galons de manche dorés\\\"}\",\"pose\":\"pensif, contemplatif, regardant vers le bas en direction de la carte\"},\"environment\":{\"location\":\"bureau ou salle de navigation d'un vieux navire\",\"background_elements\":[\"hublot rond en haut à droite montrant une pleine lune au-dessus d'un océan sombre\",\"étagères en bois et vieux livres en haut à gauche\",\"globe antique sur l'étagère\",\"silhouette de roue de gouvernail derrière l'officier\",\"lanterne à huile en laiton allumée sur le bureau à gauche\",\"télescope en laiton et livres empilés sur la droite\",\"casquette de capitaine blanche avec bord noir et emblème d'ancre dorée posée sur le bureau à droite\"],\"lighting\":\"lumière chaude de lanterne venant de la gauche, rayons de clair de lune froids venant du hublot, ombres dramatiques sur le bois sombre\"},\"foreground\":{\"surface\":\"grande carte marine en parchemin vieilli recouvrant le bureau, remplie de côtes dessinées à la main, marquages de route, notes manuscrites fanées, lignes de compas et texture de cartographie antique\",\"centerpiece\":\"grande rose des vents ornée au centre de la carte\"},\"map_vignettes\":{\"description\":\"sept visions marines lumineuses circulaires ou ovales semblables à des souvenirs incrustées sur la carte en parchemin, chacune avec des bords bleu-or brumeux\",\"count\":7,\"items\":[{\"position\":\"en haut à gauche\",\"description\":\"un phare sur une côte rocheuse la nuit, projetant un faisceau lumineux à travers une mer sombre et orageuse\"},{\"position\":\"en haut au centre\",\"description\":\"un officier de marine vu de dos portant une casquette, faisant face à un océan au clair de lune sous une pleine lune brillante\"},{\"position\":\"en haut à droite\",\"description\":\"coucher de soleil orange et violet sur une mer calme, soleil bas sur l'horizon\"},{\"position\":\"au milieu à gauche\",\"description\":\"océan nocturne bleu sombre avec un chemin ou courant bleu électrique lumineux serpentant sur l'eau\"},{\"position\":\"au milieu à droite\",\"description\":\"lever ou coucher de soleil doré reflété sur une eau sombre et ridée sous des nuages lourds\"},{\"position\":\"en bas à gauche\",\"description\":\"orage violent en mer avec des éclairs frappant autour d'un voilier sombre sur des vagues agitées\"},{\"position\":\"en bas à droite\",\"description\":\"un officier de marine en uniforme blanc vu de dos sur le balcon d'un navire, observant un arc-en-ciel brillant au-dessus d'un océan bleu calme\"}]},\"composition\":\"format portrait, l'officier occupe la moitié supérieure, la carte en parchemin et les sept visions remplissent la moitié inférieure, la rose des vents centrale ancre le design, collage narratif nautique dense mais équilibré\",\"color_palette\":\"{argument name=\\\"palette de couleurs\\\" default=\\\"parchemin sépia antique, lumière de lanterne ambre chaude, bleus océaniques marine profonds, argent clair de lune, accents orange et violet de coucher de soleil\\\"}\",\"mood\":\"{argument name=\\\"ambiance\\\" default=\\\"nostalgique, mystérieuse, romantique, aventureuse, doucement mélancolique\\\"}\",\"quality\":\"ultra détaillé, illustration polie, profondeur cinématographique, plis de tissu nets, objets en laiton détaillés, reflets d'eau lumineux, sans légendes textuelles, sans logos, sans filigrane\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"illustrazione anime cinematografica verticale con atmosfera fantasy marittima\",\"aspect_ratio\":\"9:16 ritratto\",\"style\":\"anime moderno altamente dettagliato, illuminazione pittorica, ricco chiaroscuro, caldi marroni antichi in contrasto con profondi blu oceanici, atmosfera di avventura navale romantica, dettagli nitidi dell'uniforme, effetti vignettati a bagliore soffuso\",\"main_subject\":{\"description\":\"un giovane ufficiale navale seduto a una scrivania di legno all'interno di un'antica cabina del capitano, ritratto a mezzo busto, chino in avanti con una mano appoggiata vicino al mento e l'altro braccio piegato sul tavolo\",\"face\":\"il volto è intenzionalmente coperto da un blocco censore quadrato dai bordi morbidi, centrato sull'area del viso\",\"hair\":\"{argument name=\\\"colore dei capelli\\\" default=\\\"capelli corti blu navy-nero\\\"}\",\"clothing\":\"{argument name=\\\"stile uniforme\\\" default=\\\"uniforme da ufficiale navale bianca con bottoni dorati, spalline nere e oro, insegna con ancora, strisce dorate sulle maniche\\\"}\",\"pose\":\"pensieroso, contemplativo, guarda verso il basso in direzione della mappa\"},\"environment\":{\"location\":\"vecchio studio o sala di navigazione del capitano di una nave\",\"background_elements\":[\"oblò rotondo in alto a destra che mostra una luna piena su un oceano scuro\",\"scaffali di legno e vecchi libri in alto a sinistra\",\"antico mappamondo sullo scaffale\",\"silhouette del timone della nave dietro l'ufficiale\",\"lanterna a olio in ottone accesa sulla scrivania a sinistra\",\"telescopio in ottone e libri impilati sulla destra\",\"cappello bianco da capitano con visiera nera ed emblema dell'ancora dorata appoggiato sulla scrivania a destra\"],\"lighting\":\"calda luce della lanterna da sinistra, fasci di luce lunare fredda dall'oblò, ombre drammatiche sul legno scuro\"},\"foreground\":{\"surface\":\"grande carta nautica in pergamena invecchiata che copre la scrivania, ricca di coste disegnate a mano, rotte tracciate, note scritte a mano sbiadite, linee di bussola e texture di cartografia antica\",\"centerpiece\":\"grande rosa dei venti ornata al centro della mappa\"},\"map_vignettes\":{\"description\":\"sette visioni marine luminose circolari o ovali simili a ricordi incastonate sopra la mappa di pergamena, ognuna con bordi sfumati blu-oro\",\"count\":7,\"items\":[{\"position\":\"centro-sinistra in alto\",\"description\":\"un faro su una costa rocciosa di notte, che proietta un fascio luminoso attraverso un mare tempestoso e scuro\"},{\"position\":\"centro in alto\",\"description\":\"un ufficiale navale visto di spalle con il berretto, rivolto verso un oceano illuminato dalla luna sotto una luna piena brillante\"},{\"position\":\"centro-destra in alto\",\"description\":\"tramonto arancione e viola su un mare calmo, sole basso all'orizzonte\"},{\"position\":\"centro-sinistra in basso\",\"description\":\"oceano notturno blu scuro con un sentiero o corrente elettrica blu brillante che si snoda attraverso l'acqua\"},{\"position\":\"centro-destra in basso\",\"description\":\"alba o tramonto dorato riflesso sull'acqua scura increspata sotto nuvole pesanti\"},{\"position\":\"in basso a sinistra\",\"description\":\"violento temporale in mare con fulmini che colpiscono attorno a un veliero scuro su onde agitate\"},{\"position\":\"in basso a destra\",\"description\":\"un ufficiale navale in uniforme bianca visto di spalle su un balcone della nave, che osserva un arcobaleno luminoso sopra un oceano blu calmo\"}]},\"composition\":\"layout verticale, l'ufficiale occupa la metà superiore, la mappa di pergamena e le sette visioni riempiono la metà inferiore, la rosa dei venti centrale ancora il design, collage narrativo nautico denso ma equilibrato\",\"color_palette\":\"{argument name=\\\"palette colori\\\" default=\\\"pergamena seppia antica, calda luce ambrata della lanterna, blu oceano navy profondi, argento lunare, accenti arancioni e viola del tramonto\\\"}\",\"mood\":\"{argument name=\\\"atmosfera\\\" default=\\\"nostalgica, misteriosa, romantica, avventurosa, silenziosamente malinconica\\\"}\",\"quality\":\"ultra dettagliato, illustrazione rifinita, profondità cinematografica, pieghe del tessuto nitide, oggetti in ottone dettagliati, riflessi luminosi sull'acqua, nessuna didascalia, nessun logo, nessuna filigrana\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"ilustração vertical em estilo anime cinematográfico com atmosfera de fantasia marítima\",\"aspect_ratio\":\"9:16 retrato\",\"style\":\"anime moderno altamente detalhado, iluminação pictórica, chiaroscuro rico, tons quentes de marrom antigo contrastando com azuis profundos do oceano, atmosfera romântica de aventura naval, detalhes nítidos do uniforme, efeitos de vinheta com brilho suave\",\"main_subject\":{\"description\":\"um jovem oficial naval sentado a uma mesa de madeira dentro da cabine de um capitão antigo, retrato de meio corpo, inclinado para frente com uma mão descansando perto do queixo e o outro braço dobrado sobre a mesa\",\"face\":\"o rosto está intencionalmente coberto por um bloco censor quadrado de bordas suaves, centralizado sobre a área facial\",\"hair\":\"{argument name=\\\"cor do cabelo\\\" default=\\\"cabelo curto azul-marinho escuro\\\"}\",\"clothing\":\"{argument name=\\\"estilo do uniforme\\\" default=\\\"uniforme naval branco com botões dourados, dragonas pretas e douradas, insígnia de âncora, listras douradas nas mangas\\\"}\",\"pose\":\"pensativo, contemplativo, olhando para baixo em direção ao mapa\"},\"environment\":{\"location\":\"estudo ou sala de navegação de um antigo navio\",\"background_elements\":[\"vigia redonda no canto superior direito mostrando uma lua cheia sobre um oceano escuro\",\"estantes de madeira e livros antigos no canto superior esquerdo\",\"globo terrestre antigo na prateleira\",\"silhueta de timão atrás do oficial\",\"lanterna de latão acesa sobre a mesa à esquerda\",\"telescópio de latão e pilhas de livros à direita\",\"quepe de capitão branco com aba preta e emblema de âncora dourada sobre a mesa à direita\"],\"lighting\":\"luz quente de lanterna vinda da esquerda, feixes de luar frio vindos da vigia, sombras dramáticas na madeira escura\"},\"foreground\":{\"surface\":\"grande carta náutica de pergaminho envelhecido cobrindo a mesa, preenchida com litorais desenhados à mão, marcações de rota, notas manuscritas desbotadas, linhas de bússola e textura de cartografia antiga\",\"centerpiece\":\"grande rosa dos ventos ornamentada no centro do mapa\"},\"map_vignettes\":{\"description\":\"sete visões marinhas brilhantes em formato circular ou oval, semelhantes a memórias, sobrepostas ao mapa de pergaminho, cada uma com bordas nebulosas em azul e dourado\",\"count\":7,\"items\":[{\"position\":\"centro-esquerda superior\",\"description\":\"um farol em uma costa rochosa à noite, projetando um feixe brilhante através de um mar tempestuoso e escuro\"},{\"position\":\"centro superior\",\"description\":\"um oficial naval de costas, usando quepe, de frente para um oceano iluminado pelo luar sob uma lua cheia brilhante\"},{\"position\":\"centro-direita superior\",\"description\":\"pôr do sol laranja e roxo sobre um mar calmo, sol baixo no horizonte\"},{\"position\":\"centro-esquerda inferior\",\"description\":\"oceano noturno azul escuro com um caminho ou corrente azul-elétrico brilhante serpenteando pela água\"},{\"position\":\"centro-direita inferior\",\"description\":\"nascer ou pôr do sol dourado refletido em águas escuras e ondulantes sob nuvens pesadas\"},{\"position\":\"inferior esquerdo\",\"description\":\"tempestade violenta no mar com relâmpagos atingindo as proximidades de um veleiro escuro em ondas agitadas\"},{\"position\":\"inferior direito\",\"description\":\"um oficial naval de uniforme branco visto de costas na varanda de um navio, observando um arco-íris brilhante sobre um oceano azul calmo\"}]},\"composition\":\"layout de retrato, o oficial ocupa a metade superior, o mapa de pergaminho e as sete visões preenchem a metade inferior, a rosa dos ventos central ancora o design, colagem de narrativa náutica densa, porém equilibrada\",\"color_palette\":\"{argument name=\\\"paleta de cores\\\" default=\\\"pergaminho sépia antigo, luz de lanterna âmbar quente, azuis profundos do oceano, prata do luar, detalhes em laranja e violeta do pôr do sol\\\"}\",\"mood\":\"{argument name=\\\"humor\\\" default=\\\"nostálgico, misterioso, romântico, aventureiro, silenciosamente melancólico\\\"}\",\"quality\":\"ultra detalhado, ilustração polida, profundidade cinematográfica, dobras de tecido nítidas, objetos de latão detalhados, reflexos luminosos na água, sem legendas, sem logotipos, sem marca d'água\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Moonlit Naval Officer Map Visions",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 月光下的海军军官地图幻象",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Visiones de mapa de oficial naval a la luz de la luna",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Visions de carte d'officier de marine au clair de lune",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Visioni di una mappa di un ufficiale navale al chiaro di luna",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Visões de Mapa de Oficial Naval ao Luar",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic anime-style naval officer in an antique captain's cabin with seven glowing seascape memories across a parchment map.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张电影感动漫风格的海军军官肖像，背景位于古色古香的船长室，羊皮地图上呈现出七个发光的海洋记忆幻象。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un officier de marine cinématographique de style anime dans une cabine de capitaine antique, avec sept souvenirs marins lumineux sur une carte en parchemin.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/kanjanidream/status/2051428681214796260#reversed-0",
+      "originalId": "https://x.com/kanjanidream/status/2051428681214796260#reversed-0",
+      "authors": [
+        {
+          "name": "パブロ船長｜世界観の航路デザイナー",
+          "url": "https://x.com/kanjanidream"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3351
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ee0cfa42e45c0165",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971053726_hl7x7b_HHgjgcHbsAAG22A.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971053726_hl7x7b_HHgjgcHbsAAG22A.jpg",
+      "localPath": "public/assets/prompt_b8ec77adb3fa458772e8/f97c8fc704f8.jpg",
+      "alt": "Comic / Storyboard - Moonlit Naval Officer Map Visions - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.866Z"
+  }
+}

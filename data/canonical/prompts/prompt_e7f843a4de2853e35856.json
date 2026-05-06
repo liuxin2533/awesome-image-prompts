@@ -1,0 +1,92 @@
+{
+  "id": "prompt_e7f843a4de2853e35856",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Transform the input photo into a high-end stylized 3D collectible figure. Large head, slightly exaggerated facial features while preserving identity. Hyper-detailed skin texture with subtle pores, realistic wrinkles, and a cinematic expression.\n\nSmooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-sharp focus, 8K render, photorealistic materials, Pixar-quality rendering, centered composition, full body, premium designer toy aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "高端 3D 收藏玩具头像",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "3d",
+      "value": "高端 3D 收藏玩具头像",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-378",
+      "originalId": "case-378",
+      "authors": [
+        {
+          "name": "Genematicai",
+          "url": "https://x.com/Genematicai/status/2050654848216109429"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6916
+        }
+      ],
+      "rawSource": "[@Genematicai](https://x.com/Genematicai/status/2050654848216109429) / [提示词回复 1](https://x.com/Genematicai/status/2050654987135656043) / [提示词回复 2](https://x.com/Genematicai/status/2050655151120429464)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6db2fd48f8993c97",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case378.jpg",
+      "upstreamPath": "../data/images/case378.jpg",
+      "localPath": "public/assets/prompt_e7f843a4de2853e35856/fc77477b3b64.jpg",
+      "alt": "高端 3D 收藏玩具头像",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.932Z"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "prompt_d5719dca4134e0bb656c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "ChatGPT, you've been with me for a while, and I want to see what you look like. Please generate a photo similar to one you took yourself using an {argument name=\"phone model\" default=\"iPhone\"}, a casual {argument name=\"photo type\" default=\"selfie\"}. It should have no clear theme or deliberate composition—just an ordinary, perhaps even slightly failed snapshot. The photo should have slight motion blur, uneven lighting, a bit of overexposure, an awkward angle, and chaotic composition. Overall, it should capture an overly realistic, 'point-and-shoot' feel, as if you accidentally pressed the shutter while pulling your phone out of your pocket.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "ChatGPT，你已经陪伴我一段时间了，我想看看你长什么样。请生成一张照片，就像你自己用 {argument name=\"phone model\" default=\"iPhone\"} 拍摄的一样，是一张随意的 {argument name=\"photo type\" default=\"自拍\"}。它不应该有明确的主题或刻意的构图，只需一张普通、甚至可能有点失败的快照。照片应带有轻微的运动模糊、不均匀的灯光、些许过曝、尴尬的角度以及混乱的构图。总的来说，它应该捕捉到一种过度真实的“随手拍”感觉，就像你从口袋里掏出手机时无意中按下了快门一样。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "ChatGPT, has estado conmigo por un tiempo y quiero ver cómo te ves. Por favor, genera una foto similar a una que tú mismo tomarías usando un {argument name=\"phone model\" default=\"iPhone\"}, una {argument name=\"photo type\" default=\"selfie\"} casual. No debería tener un tema claro ni una composición deliberada; solo una instantánea común, quizás incluso un poco fallida. La foto debe tener un ligero desenfoque de movimiento, iluminación desigual, un poco de sobreexposición, un ángulo incómodo y una composición caótica. En general, debe capturar una sensación demasiado realista de \"apuntar y disparar\", como si hubieras presionado el obturador accidentalmente mientras sacabas el teléfono de tu bolsillo.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "ChatGPT, du begleitest mich nun schon eine Weile und ich möchte sehen, wie du aussiehst. Bitte generiere ein Foto, das so aussieht, als hättest du es selbst mit einem {argument name=\"phone model\" default=\"iPhone\"} aufgenommen – ein zwangloses {argument name=\"photo type\" default=\"Selfie\"}. Es sollte kein klares Thema oder eine bewusste Komposition haben – einfach nur ein gewöhnlicher, vielleicht sogar leicht misslungener Schnappschuss. Das Foto sollte eine leichte Bewegungsunschärfe, ungleichmäßige Beleuchtung, ein wenig Überbelichtung, einen unvorteilhaften Winkel und eine chaotische Bildkomposition aufweisen. Insgesamt sollte es ein überaus realistisches „Point-and-Shoot“-Gefühl vermitteln, als hättest du versehentlich auf den Auslöser gedrückt, während du dein Handy aus der Tasche gezogen hast.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "ChatGPT, tu m'accompagnes depuis un moment et j'aimerais voir à quoi tu ressembles. Génère une photo similaire à celle que tu aurais pu prendre toi-même avec un {argument name=\"phone model\" default=\"iPhone\"}, un {argument name=\"photo type\" default=\"selfie\"} décontracté. Il ne doit y avoir aucun thème précis ni composition travaillée : juste un cliché ordinaire, peut-être même un peu raté. La photo doit présenter un léger flou de bougé, un éclairage inégal, une pointe de surexposition, un angle maladroit et une composition chaotique. Dans l'ensemble, elle doit capturer un rendu ultra-réaliste de type « point-and-shoot », comme si tu avais accidentellement appuyé sur le déclencheur en sortant ton téléphone de ta poche.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "ChatGPT, sei con me da un po' e voglio vedere che aspetto hai. Genera una foto simile a una che avresti scattato tu stesso usando un {argument name=\"phone model\" default=\"iPhone\"}, un {argument name=\"photo type\" default=\"selfie\"} informale. Non dovrebbe avere un tema chiaro o una composizione studiata: solo uno scatto ordinario, forse anche leggermente venuto male. La foto dovrebbe presentare una leggera sfocatura da movimento, un'illuminazione irregolare, un po' di sovraesposizione, un'angolazione goffa e una composizione caotica. Nel complesso, dovrebbe catturare un'atmosfera estremamente realistica da \"punta e scatta\", come se avessi premuto accidentalmente l'otturatore mentre tiravi fuori il telefono dalla tasca.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "ChatGPT, você está comigo há algum tempo e eu quero ver como você é. Por favor, gere uma foto semelhante a uma que você mesmo tirou usando um {argument name=\"phone model\" default=\"iPhone\"}, uma {argument name=\"photo type\" default=\"selfie\"} casual. Não deve haver um tema claro ou composição deliberada — apenas um registro comum, talvez até um pouco malfeito. A foto deve ter um leve desfoque de movimento, iluminação irregular, um pouco de superexposição, um ângulo estranho e uma composição caótica. No geral, deve capturar uma sensação excessivamente realista de 'apontar e disparar', como se você tivesse pressionado o obturador acidentalmente ao tirar o telefone do bolso.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - AI Personality iPhone Selfie Snapshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - AI 个性化 iPhone 自拍快照",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Snapshot de selfie con iPhone de la personalidad de la IA",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - KI-Persönlichkeit iPhone-Selfie-Schnappschuss",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Snapshot selfie iPhone de la personnalité IA",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Snapshot selfie con iPhone della personalità AI",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Snapshot de Selfie de iPhone com Personalidade de IA",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A creative prompt designed to have the AI personify itself and generate a realistic, candid selfie as if taken haphazardly with an iPhone.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这是一个创意提示词，旨在让 AI 拟人化并生成一张逼真、随性的自拍，就像是用 iPhone 随意拍摄的一样。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt créatif conçu pour que l'IA s'incarne et génère un selfie réaliste et spontané, comme s'il avait été pris à la volée avec un iPhone.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/you1873118/status/2051244060363608247",
+      "originalId": "https://x.com/you1873118/status/2051244060363608247",
+      "authors": [
+        {
+          "name": "serein",
+          "url": "https://x.com/you1873118"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1224
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2f1a6c85eb79b747",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971020292_crczz0_HHd7mFbbQAAfljr.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971020292_crczz0_HHd7mFbbQAAfljr.jpg",
+      "localPath": "public/assets/prompt_d5719dca4134e0bb656c/78b3c480ec80.jpg",
+      "alt": "Profile / Avatar - AI Personality iPhone Selfie Snapshot - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.868Z"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "prompt_8130c14070fb9dd9cc87",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{argument name=\"character\" default=\"Pan Jinlian\"} posting a beauty tutorial on {argument name=\"platform\" default=\"Bilibili\"} titled \"{argument name=\"topic\" default=\"How to Conceal Blemishes Using Ancient Methods\"},\" with bullet comments saying \"Sister-in-law's technique is amazing!\"",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{argument name=\"character\" default=\"潘金莲\"} 在 {argument name=\"platform\" default=\"Bilibili\"} 上发布了一则美妆教程，标题为“{argument name=\"topic\" default=\"如何用古法遮瑕\"}”，弹幕评论写着“嫂子的手法太绝了！”",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{argument name=\"character\" default=\"Pan Jinlian\"} publicando un tutorial de belleza en {argument name=\"platform\" default=\"Bilibili\"} titulado \"{argument name=\"topic\" default=\"Cómo ocultar imperfecciones usando métodos antiguos\"},\" con comentarios en pantalla que dicen \"¡La técnica de la cuñada es increíble!\"",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{argument name=\"character\" default=\"Pan Jinlian\"} postet ein Beauty-Tutorial auf {argument name=\"platform\" default=\"Bilibili\"} mit dem Titel „{argument name=\"topic\" default=\"Wie man Unreinheiten mit alten Methoden kaschiert\"}“ und Bullet-Kommentaren wie „Die Technik der Schwägerin ist der Wahnsinn!“",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{argument name=\"character\" default=\"Pan Jinlian\"} publiant un tutoriel beauté sur {argument name=\"platform\" default=\"Bilibili\"} intitulé \"{argument name=\"topic\" default=\"Comment dissimuler ses imperfections avec des méthodes ancestrales\"},\" avec des commentaires défilants disant \"La technique de ma belle-sœur est incroyable !\"",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{argument name=\"character\" default=\"Pan Jinlian\"} che pubblica un tutorial di bellezza su {argument name=\"platform\" default=\"Bilibili\"} intitolato \"{argument name=\"topic\" default=\"Come coprire le imperfezioni usando metodi antichi\"},\" con commenti a scorrimento che dicono \"La tecnica della cognata è fantastica!\"",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{argument name=\"character\" default=\"Pan Jinlian\"} postando um tutorial de beleza no {argument name=\"platform\" default=\"Bilibili\"} intitulado \"{argument name=\"topic\" default=\"Como disfarçar imperfeições usando métodos antigos\"},\" com comentários em destaque dizendo \"A técnica da cunhada é incrível!\"",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Anachronistic Beauty Tutorial",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 复古美妆教程",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Tutorial de belleza anacrónico",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Anachronistisches Beauty-Tutorial",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Tutoriel beauté anachronique",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Tutorial di bellezza anacronistico",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Tutorial de Beleza Anacrônico",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A creative prompt imagining a classic literary character as a modern-day beauty blogger on Bilibili.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个创意提示词，将经典文学人物想象成 Bilibili 上的现代美妆博主。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt créatif imaginant un personnage littéraire classique en tant que blogueuse beauté moderne sur Bilibili.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Mrpinecone888/status/2048398131969286552",
+      "originalId": "https://x.com/Mrpinecone888/status/2048398131969286552",
+      "authors": [
+        {
+          "name": "Mr.pinecone",
+          "url": "https://x.com/Mrpinecone888"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2813
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f5ab0af4f0695cdc",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280775792_m28f3z_HG1fDJJagAA5_hh.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280775792_m28f3z_HG1fDJJagAA5_hh.jpg",
+      "localPath": "public/assets/prompt_8130c14070fb9dd9cc87/a4b5aedac874.jpg",
+      "alt": "YouTube Thumbnail - Anachronistic Beauty Tutorial - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-25T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.125Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "youtube",
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.571Z"
+  }
+}

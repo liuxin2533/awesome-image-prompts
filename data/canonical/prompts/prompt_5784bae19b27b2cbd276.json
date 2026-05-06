@@ -1,0 +1,176 @@
+{
+  "id": "prompt_5784bae19b27b2cbd276",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a vibrant full-body anime character illustration of {argument name=\"character name\" default=\"Neo Alice\"}, a cheerful Alice-in-wonderland-inspired video-world girl in a bright cyan, white, and gold palette. She is a young blonde girl with very long flowing hair, sparkling blue eyes with star highlights, a wide open smile, a large navy bow on her head, tall white rabbit ears, and a small blue X hair clip. She reaches one hand toward the viewer in an inviting pose while stepping forward, wearing a white dress with pale blue trim, a black spade emblem on the skirt, a pale blue flared cape-like coat, dark navy ribbon bow at the collar, navy cuffs, white lace-up sneakers, and a gold pocket-watch pendant containing a blue play-button icon. Surround her with a whimsical digital Wonderland background: count 3 visible playing cards, including an ace of spades on the left, an ace of hearts near the upper right, and a card with a blue pixel/tree symbol near the lower left; count 1 large round clock at the upper left; count 3 curling blue film strips winding around the scene; count 1 arched portal on the right showing a white castle silhouette and checkerboard path; count many floating square pixels and sparkle shapes in blue, white, and yellow. The floor is a dynamic blue-and-white checkerboard perspective, with abstract video-frame motifs, pixel blocks, and geometric shapes. Use clean glossy anime line art, soft cel shading, energetic composition, high-key lighting, crisp details, playful magical atmosphere, and a vertical poster format with the character centered and slightly tilted for motion. Use dominant colors {argument name=\"main color palette\" default=\"sky blue, white, navy, and gold\"}, with the mood {argument name=\"mood\" default=\"bright, whimsical, and energetic\"}.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张充满活力的全身动漫角色插画，主角是 {argument name=\"character name\" default=\"Neo Alice\"}，一位灵感源自《爱丽丝梦游仙境》的视频世界少女，采用明亮的青色、白色和金色调。她是一位金发少女，留着极长的飘逸秀发，闪烁的蓝色双眸中带有星形高光，笑容灿烂，头上戴着巨大的深蓝色蝴蝶结，长着高耸的白色兔耳，并别着一个蓝色的小 X 型发夹。她一只手伸向观众，做出邀请的姿势并向前迈步，身穿带有淡蓝色饰边的白色连衣裙，裙摆上有黑色的黑桃标志，外搭淡蓝色喇叭形斗篷式外套，领口系着深蓝色丝带蝴蝶结，袖口为深蓝色，脚穿白色系带运动鞋，佩戴着一枚金色的怀表吊坠，表盘内是一个蓝色的播放按钮图标。背景是奇幻的数字仙境：画面中可见 3 张扑克牌，包括左侧的黑桃 A、右上角附近的红桃 A，以及左下角附近带有蓝色像素/树木符号的卡牌；左上方有 1 个巨大的圆形时钟；3 条卷曲的蓝色胶片环绕在场景周围；右侧有 1 个拱形传送门，展示着白色城堡剪影和棋盘格小径；周围漂浮着许多蓝色、白色和黄色的方形像素与闪光形状。地面采用动态的蓝白棋盘格透视，点缀着抽象的视频帧图案、像素块和几何形状。采用干净、光泽的动漫线条，柔和的赛璐珞阴影，充满活力的构图，高调照明，细节清晰，营造出俏皮的魔法氛围；采用竖版海报格式，角色居中并略微倾斜以体现动感。主色调使用 {argument name=\"main color palette\" default=\"天蓝色、白色、海军蓝和金色\"}，氛围设定为 {argument name=\"mood\" default=\"明亮、奇幻且充满活力\"}。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una vibrante ilustración de anime de cuerpo completo de {argument name=\"character name\" default=\"Neo Alice\"}, una alegre chica de un mundo de video inspirada en Alicia en el país de las maravillas, con una paleta de colores cian brillante, blanco y dorado. Es una joven rubia con el cabello muy largo y fluido, ojos azules brillantes con destellos en forma de estrella, una amplia sonrisa, un gran lazo azul marino en la cabeza, orejas de conejo blancas y largas, y una pequeña pinza para el cabello con forma de X azul. Extiende una mano hacia el espectador en una pose acogedora mientras da un paso adelante, vistiendo un vestido blanco con ribetes azul claro, un emblema de picas negro en la falda, una capa acampanada de color azul claro, un lazo de cinta azul marino en el cuello, puños azul marino, zapatillas blancas con cordones y un colgante de reloj de bolsillo dorado que contiene un icono de botón de reproducción azul. Rodéala con un fantástico fondo digital de Wonderland: cuenta 3 cartas de juego visibles, incluyendo un as de picas a la izquierda, un as de corazones cerca de la parte superior derecha y una carta con un símbolo de píxel/árbol azul cerca de la parte inferior izquierda; cuenta 1 reloj redondo grande en la parte superior izquierda; cuenta 3 tiras de película azules que se enroscan alrededor de la escena; cuenta 1 portal arqueado a la derecha que muestra la silueta de un castillo blanco y un camino de tablero de ajedrez; cuenta muchos píxeles cuadrados flotantes y formas brillantes en azul, blanco y amarillo. El suelo es una perspectiva dinámica de tablero de ajedrez azul y blanco, con motivos abstractos de marcos de video, bloques de píxeles y formas geométricas. Utiliza un arte lineal de anime limpio y brillante, sombreado cel suave, composición enérgica, iluminación de clave alta, detalles nítidos, atmósfera mágica y juguetona, y un formato de póster vertical con el personaje centrado y ligeramente inclinado para dar sensación de movimiento. Utiliza los colores dominantes {argument name=\"main color palette\" default=\"azul cielo, blanco, azul marino y dorado\"}, con el estado de ánimo {argument name=\"mood\" default=\"brillante, fantástico y enérgico\"}.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine lebendige Ganzkörper-Anime-Charakterillustration von {argument name=\"character name\" default=\"Neo Alice\"}, einem fröhlichen, von Alice im Wunderland inspirierten Videowelt-Mädchen in einer hellen Farbpalette aus Cyan, Weiß und Gold. Sie ist ein junges blondes Mädchen mit sehr langem, fließendem Haar, funkelnden blauen Augen mit Stern-Highlights, einem breiten Lächeln, einer großen marineblauen Schleife auf dem Kopf, hohen weißen Hasenohren und einer kleinen blauen X-Haarspange. Sie streckt eine Hand in einer einladenden Pose dem Betrachter entgegen, während sie einen Schritt nach vorne macht. Sie trägt ein weißes Kleid mit hellblauem Besatz, ein schwarzes Pik-Symbol auf dem Rock, einen hellblauen, ausgestellten cape-artigen Mantel, eine dunkelblaue Schleife am Kragen, marineblaue Manschetten, weiße Schnür-Sneaker und einen goldenen Taschenuhr-Anhänger mit einem blauen Play-Button-Symbol. Umgib sie mit einem skurrilen digitalen Wunderland-Hintergrund: zähle 3 sichtbare Spielkarten, darunter ein Pik-Ass auf der linken Seite, ein Herz-Ass oben rechts und eine Karte mit einem blauen Pixel-/Baum-Symbol unten links; zähle 1 große runde Uhr oben links; zähle 3 sich kringelnde blaue Filmstreifen, die sich um die Szene winden; zähle 1 gewölbtes Portal auf der rechten Seite, das die Silhouette eines weißen Schlosses und einen Schachbrettpfad zeigt; zähle viele schwebende quadratische Pixel und Glitzerformen in Blau, Weiß und Gelb. Der Boden ist eine dynamische blau-weiße Schachbrett-Perspektive mit abstrakten Videorahmen-Motiven, Pixelblöcken und geometrischen Formen. Verwende saubere, glänzende Anime-Linienführung, weiches Cel-Shading, eine energiegeladene Komposition, High-Key-Beleuchtung, gestochen scharfe Details, eine verspielte magische Atmosphäre und ein vertikales Posterformat, bei dem der Charakter zentriert und für mehr Dynamik leicht geneigt ist. Verwende die dominierenden Farben {argument name=\"main color palette\" default=\"Himmelblau, Weiß, Marineblau und Gold\"} mit der Stimmung {argument name=\"mood\" default=\"hell, skurril und energiegeladen\"}.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une illustration vibrante de personnage d'anime en pied de {argument name=\"character name\" default=\"Neo Alice\"}, une jeune fille joyeuse inspirée d'Alice au pays des merveilles dans un monde vidéo, avec une palette lumineuse de cyan, blanc et or. C'est une jeune fille blonde aux cheveux très longs et fluides, aux yeux bleus étincelants avec des reflets en forme d'étoile, un large sourire, un grand nœud bleu marine sur la tête, de hautes oreilles de lapin blanc et une petite barrette bleue en forme de X. Elle tend une main vers le spectateur dans une pose accueillante tout en faisant un pas en avant, vêtue d'une robe blanche avec une bordure bleu pâle, un emblème de pique noir sur la jupe, un manteau évasé bleu pâle rappelant une cape, un nœud ruban bleu marine au col, des poignets bleu marine, des baskets blanches à lacets et un pendentif montre à gousset doré contenant une icône de bouton lecture bleu. Entourez-la d'un arrière-plan numérique fantaisiste de Wonderland : comptez 3 cartes à jouer visibles, dont un as de pique à gauche, un as de cœur près du coin supérieur droit et une carte avec un symbole de pixel/arbre bleu près du coin inférieur gauche ; comptez 1 grande horloge ronde en haut à gauche ; comptez 3 bandes de film bleues enroulées autour de la scène ; comptez 1 portail arqué sur la droite montrant la silhouette d'un château blanc et un chemin en damier ; comptez de nombreux pixels carrés flottants et des formes scintillantes en bleu, blanc et jaune. Le sol est une perspective en damier bleu et blanc dynamique, avec des motifs de cadres vidéo abstraits, des blocs de pixels et des formes géométriques. Utilisez un line art d'anime propre et brillant, un ombrage cel-shading doux, une composition énergique, un éclairage high-key, des détails nets, une atmosphère magique et ludique, ainsi qu'un format d'affiche vertical avec le personnage centré et légèrement incliné pour suggérer le mouvement. Utilisez les couleurs dominantes {argument name=\"main color palette\" default=\"bleu ciel, blanc, bleu marine et or\"}, avec une ambiance {argument name=\"mood\" default=\"lumineuse, fantaisiste et énergique\"}.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una vivace illustrazione anime a figura intera di {argument name=\"character name\" default=\"Neo Alice\"}, una allegra ragazza ispirata ad Alice nel Paese delle Meraviglie in un mondo video, con una palette di colori brillante in ciano, bianco e oro. È una giovane ragazza bionda con capelli molto lunghi e fluenti, occhi azzurri scintillanti con riflessi a forma di stella, un sorriso smagliante, un grande fiocco blu navy sulla testa, alte orecchie da coniglio bianco e una piccola clip per capelli blu a forma di X. Tende una mano verso lo spettatore in una posa invitante mentre fa un passo avanti, indossando un vestito bianco con finiture azzurro pallido, un emblema di picche nero sulla gonna, un mantello svasato azzurro pallido, un fiocco a nastro blu navy sul colletto, polsini blu navy, scarpe da ginnastica bianche stringate e un ciondolo a forma di orologio da taschino dorato contenente un'icona di riproduzione blu. Circondala con uno stravagante sfondo digitale del Paese delle Meraviglie: conta 3 carte da gioco visibili, tra cui un asso di picche a sinistra, un asso di cuori vicino all'angolo in alto a destra e una carta con un simbolo di pixel/albero blu vicino all'angolo in basso a sinistra; conta 1 grande orologio rotondo in alto a sinistra; conta 3 strisce di pellicola blu che si avvolgono attorno alla scena; conta 1 portale ad arco sulla destra che mostra la sagoma di un castello bianco e un sentiero a scacchiera; conta molti pixel quadrati fluttuanti e forme scintillanti in blu, bianco e giallo. Il pavimento è una dinamica prospettiva a scacchiera blu e bianca, con motivi astratti di fotogrammi video, blocchi di pixel e forme geometriche. Usa una linea artistica anime pulita e lucida, ombreggiature cel-shading morbide, una composizione energica, un'illuminazione high-key, dettagli nitidi, un'atmosfera magica e giocosa e un formato poster verticale con il personaggio centrato e leggermente inclinato per dare un senso di movimento. Usa i colori dominanti {argument name=\"main color palette\" default=\"azzurro cielo, bianco, blu navy e oro\"}, con un'atmosfera {argument name=\"mood\" default=\"luminosa, stravagante ed energica\"}.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma ilustração vibrante de personagem de anime de corpo inteiro de {argument name=\"character name\" default=\"Neo Alice\"}, uma garota alegre inspirada em Alice no País das Maravilhas em um mundo de vídeo, com uma paleta de cores em ciano brilhante, branco e dourado. Ela é uma jovem loira com cabelos muito longos e fluidos, olhos azuis brilhantes com reflexos em forma de estrela, um sorriso aberto, um grande laço azul-marinho na cabeça, orelhas de coelho brancas e altas e um pequeno grampo de cabelo azul em formato de X. Ela estende uma mão em direção ao espectador em uma pose convidativa enquanto caminha para frente, vestindo um vestido branco com acabamento em azul claro, um emblema de espadas preto na saia, uma capa azul claro, um laço de fita azul-marinho na gola, punhos azul-marinho, tênis brancos com cadarço e um pingente de relógio de bolso dourado contendo um ícone de play azul. Cerque-a com um fundo digital caprichoso do País das Maravilhas: conte 3 cartas de baralho visíveis, incluindo um ás de espadas à esquerda, um ás de copas perto do canto superior direito e uma carta com um símbolo de pixel/árvore azul perto do canto inferior esquerdo; conte 1 relógio redondo grande no canto superior esquerdo; conte 3 tiras de filme azuis onduladas envolvendo a cena; conte 1 portal em arco à direita mostrando a silhueta de um castelo branco e um caminho em xadrez; conte muitos pixels quadrados flutuantes e formas de brilho em azul, branco e amarelo. O chão é uma perspectiva dinâmica em xadrez azul e branco, com motivos abstratos de quadros de vídeo, blocos de pixel e formas geométricas. Use arte de linha de anime limpa e brilhante, sombreamento cel shading suave, composição energética, iluminação de tom alto (high-key), detalhes nítidos, atmosfera mágica e lúdica, e um formato de pôster vertical com a personagem centralizada e levemente inclinada para transmitir movimento. Use cores dominantes {argument name=\"main color palette\" default=\"azul celeste, branco, azul-marinho e dourado\"}, com o clima {argument name=\"mood\" default=\"brilhante, caprichoso e energético\"}.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Neo Alice Video Wonderland Anime Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Neo Alice 视频仙境动漫海报",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Póster de anime Neo Alice Video Wonderland",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Neo Alice Video Wonderland Anime-Poster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Affiche d'anime Neo Alice Video Wonderland",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Poster Anime Neo Alice Video Wonderland",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Pôster de Anime Neo Alice Video Wonderland",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a bright full-body anime poster of a rabbit-eared Alice character in a digital Wonderland setting for character art or social media illustration.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张明亮的全身动漫海报，展示数字仙境背景下长着兔耳的 Alice 角色，适用于角色艺术或社交媒体插图。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une affiche d'anime lumineuse en pied représentant un personnage d'Alice aux oreilles de lapin dans un décor de Wonderland numérique, idéal pour du character design ou des illustrations sur les réseaux sociaux.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/kagetica/status/2051294434772623409#reversed-0",
+      "originalId": "https://x.com/kagetica/status/2051294434772623409#reversed-0",
+      "authors": [
+        {
+          "name": "吉田カゲチカ🧪｜創作即売会metacomi クラファン5/7まで！",
+          "url": "https://x.com/kagetica"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4167
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a09cf3e818160e0f",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971072939_7o2t1o_HHeoPV5bYAAKvve.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971072939_7o2t1o_HHeoPV5bYAAKvve.jpg",
+      "localPath": "public/assets/prompt_5784bae19b27b2cbd276/a93fd3c39bbb.jpg",
+      "alt": "Product Marketing - Neo Alice Video Wonderland Anime Poster - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.853Z"
+  }
+}

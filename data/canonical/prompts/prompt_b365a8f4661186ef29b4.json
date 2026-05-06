@@ -1,0 +1,107 @@
+{
+  "id": "prompt_b365a8f4661186ef29b4",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:09:06.156Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Chili Pork Cooking Flowchart",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "辣椒猪肉烹饪流程图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:09:08.411Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Kurt_Rousey466/status/2046267707881029934",
+      "originalId": "case-55",
+      "authors": [
+        {
+          "name": "Kurt_Rousey466",
+          "url": "https://x.com/Kurt_Rousey466"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 605
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_257bfa2672856949",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg",
+      "localPath": "public/assets/prompt_b365a8f4661186ef29b4/6d9920fea6da.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

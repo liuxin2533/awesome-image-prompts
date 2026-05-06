@@ -1,0 +1,140 @@
+{
+  "id": "prompt_2e1031233c72166c4736",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "生成一张手写中/西医药方图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate an image of a handwritten traditional Chinese medicine or Western medicine prescription",
+        "source": "upstream"
+      },
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张手写中/西医药方图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:02:46.776Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Handwritten Medical Prescription Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "手写医疗处方单",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:02:48.612Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/MrLarus/status/2046514998965371144",
+      "originalId": "case-47",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 377
+        }
+      ]
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-168",
+      "originalId": "case-168",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046514998965371144"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 47
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2046514998965371144)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a66777148f5531b0",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg",
+      "localPath": "public/assets/prompt_2e1031233c72166c4736/2af9acc794b6.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_a19e170df41199f6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case168.jpg",
+      "upstreamPath": "../data/images/case168.jpg",
+      "localPath": "public/assets/prompt_2e1031233c72166c4736/189ceecb44e6.jpg",
+      "alt": "手写中西药方图片",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

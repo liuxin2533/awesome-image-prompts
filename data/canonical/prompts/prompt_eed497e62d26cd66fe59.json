@@ -1,0 +1,107 @@
+{
+  "id": "prompt_eed497e62d26cd66fe59",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using this portrait, create a diagram-first personal color analysis. Show which clothing colors suit the subject through visual comparison. Keep text minimal and avoid paragraphs.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Personal Color Analysis Diagram",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/AngryTomtweets/status/2046674296559313170",
+      "originalId": "https://x.com/AngryTomtweets/status/2046674296559313170",
+      "authors": [
+        {
+          "name": "AngryTomtweets",
+          "url": "https://x.com/AngryTomtweets/status/2046674296559313170"
+        },
+        {
+          "name": "LinusEkenstam",
+          "url": "https://x.com/LinusEkenstam/status/2047286311791341576"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 887
+        }
+      ],
+      "rawSource": "[@AngryTomtweets](https://x.com/AngryTomtweets/status/2046674296559313170) | [@LinusEkenstam](https://x.com/LinusEkenstam/status/2047286311791341576)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7cfa8404bfd152dd",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGc_ayZXsAAd7Ur?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGc_ayZXsAAd7Ur?format=jpg&name=large",
+      "localPath": "public/assets/prompt_eed497e62d26cd66fe59/e26f51f1655b.jpg",
+      "alt": "Color Analysis 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_793fd8d87d7052ad",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGlsDIoXcAA2WlL?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGlsDIoXcAA2WlL?format=jpg&name=large",
+      "localPath": "public/assets/prompt_eed497e62d26cd66fe59/61cc94e9fc87.jpg",
+      "alt": "Color Analysis 2",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "education"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

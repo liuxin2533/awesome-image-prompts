@@ -1,0 +1,126 @@
+{
+  "id": "prompt_968e9d7bc9c450f2265b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "XXX endorses XXX car poster.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "XXX 代言 XXX 汽车海报",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Celebrity Car Endorsement Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/johnAGI168/status/2046945118674932203",
+      "originalId": "https://x.com/johnAGI168/status/2046945118674932203",
+      "authors": [
+        {
+          "name": "johnAGI168",
+          "url": "https://x.com/johnAGI168/status/2046945118674932203"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 514
+        }
+      ],
+      "rawSource": "[@johnAGI168](https://x.com/johnAGI168/status/2046945118674932203)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_de5fde0979e9a42c",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGg1SXrWgAAWtk1?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGg1SXrWgAAWtk1?format=jpg&name=large",
+      "localPath": "public/assets/prompt_968e9d7bc9c450f2265b/e91757ec7539.jpg",
+      "alt": "Poster 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_96fb840db09a45be",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGg1SXqXUAA_a8V?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGg1SXqXUAA_a8V?format=jpg&name=large",
+      "localPath": "public/assets/prompt_968e9d7bc9c450f2265b/d5909a546dd3.jpg",
+      "alt": "Poster 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_67ef883e2d9980b4",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGg1SXrXUAAeHyu?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGg1SXrXUAAeHyu?format=jpg&name=large",
+      "localPath": "public/assets/prompt_968e9d7bc9c450f2265b/16f192dd202a.jpg",
+      "alt": "Poster 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_95d2cebcbbe190ca",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGg1SXwWUAANtPS?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGg1SXwWUAANtPS?format=jpg&name=large",
+      "localPath": "public/assets/prompt_968e9d7bc9c450f2265b/3b34edc0e40d.jpg",
+      "alt": "Poster 4",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.594Z"
+  }
+}

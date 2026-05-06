@@ -1,0 +1,106 @@
+{
+  "id": "prompt_a0701fab2bd266157433",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "[STYLE]\nMonochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic.\n\n[LAYOUT]\n4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes.\n\n[CHARACTER]\nimage1 (the same character appears consistently in all panels)\n\n[PANEL STRUCTURE – per cell]\nTop-left: bold number badge + English title text\nCenter: full-body character pose illustration\nBottom-left: English description text (3–4 lines)\nOverlay: directional arrows indicating movement\n\n[ARROWS / MOTION INDICATORS]\nCurved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction.\n\n[RENDERING STYLE]\nHighly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality.\n\n[NEGATIVE]\nNo background scenery, no color tones, no additional characters, no complex background.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "[STYLE]\nMonochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic.\n\n[LAYOUT]\n4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes.\n\n[CHARACTER]\nimage1 (the same character appears consistently in all panels)\n\n[PANEL STRUCTURE – per cell]\nTop-left: bold number badge + English title text\nCenter: full-body character pose illustration\nBottom-left: English description text (3–4 lines)\nOverlay: directional arrows indicating movement\n\n[ARROWS / MOTION INDICATORS]\nCurved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction.\n\n[RENDERING STYLE]\nHighly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality.\n\n[NEGATIVE]\nNo background scenery, no color tones, no additional characters, no complex background.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:09:26.366Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "4×4 动作分解参考表",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "4×4 Action Breakdown Reference Table",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:09:29.933Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "4-4",
+      "value": "4×4 动作分解参考表",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-347",
+      "originalId": "case-347",
+      "authors": [
+        {
+          "name": "oggii_0",
+          "url": "https://x.com/oggii_0/status/2048614158699217302"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5730
+        }
+      ],
+      "rawSource": "[@oggii_0](https://x.com/oggii_0/status/2048614158699217302)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e34b9d00bda82617",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case347.jpg",
+      "upstreamPath": "../data/images/case347.jpg",
+      "localPath": "public/assets/prompt_a0701fab2bd266157433/ec244750a218.jpg",
+      "alt": "4×4 动作分解参考表",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_aea6203442d5695bf107",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "帮这个产品生成宣传图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate promotional images for this product",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:14:29.827Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "茶π产品宣传海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Cha Pi Product Promotional Poster",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:14:34.547Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_4c9cda71a2",
+      "value": "茶π产品宣传海报",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-332",
+      "originalId": "case-332",
+      "authors": [
+        {
+          "name": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5357
+        }
+      ],
+      "rawSource": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_44a8770376bf88a2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case332.png",
+      "upstreamPath": "../data/images/case332.png",
+      "localPath": "public/assets/prompt_aea6203442d5695bf107/fe7e6758d42e.png",
+      "alt": "茶π产品宣传海报",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

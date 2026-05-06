@@ -1,0 +1,188 @@
+{
+  "id": "prompt_02a3e51e87b0ecc220fc",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"high-fidelity anime fantasy card game home screen UI mockup\",\"overall_style\":\"polished mobile game lobby screenshot, 16:9 landscape, dark blue and purple fantasy sci-fi cathedral background, glowing magic portal at the top center, reflective stone floor, neon rim lighting, crisp game UI panels, all buttons appear clickable, premium collectible card battler aesthetic\",\"game_identity\":{\"player_name\":\"{argument name=\\\"player name\\\" default=\\\"CardMaster\\\"}\",\"level\":\"{argument name=\\\"player level\\\" default=\\\"Lv. 42\\\"}\",\"experience_bar\":\"2350 / 4500\",\"avatar\":\"small square anime portrait at top left with intentionally blurred face\"},\"top_resource_bar\":{\"count\":6,\"items\":[\"gold coin currency: 5,780 with plus button\",\"purple crystal currency: 1,250 with plus button\",\"blue cube currency: 320 with plus button\",\"mail envelope icon\",\"settings gear icon\",\"player profile block with avatar, name, level, and progress bar\"]},\"main_characters\":{\"count\":5,\"description\":\"five full-body anime characters standing across the center lobby, all faces softly blurred while bodies and outfits remain detailed\",\"characters\":[\"left male hero in glossy futuristic blue armor with glowing cyan chest emblem, black spiky hair, heroic stance\",\"orange-haired anime warrior girl in black sleeveless top, red pleated mini skirt, black straps, gloves, boots, holding a sword at her side\",\"small schoolgirl in the center with very long black hair, white blouse, navy skirt, knee socks, holding cards close to her chest\",\"muscular athletic woman with black-and-hot-pink hair, white crop top with pink tribal design, pink shorts, thigh-high glossy pink stockings, sandals, confident pose\",\"right male agent in black suit with loosened tie, holding a pistol down at his side\"]},\"center_floor_props\":{\"count\":5,\"items\":[\"two small blue smiling ghost mascots floating near the schoolgirl\",\"one glowing purple transparent cube at bottom center\",\"two small voxel grass-and-dirt blocks near the feet on left and right\",\"two small gray stone cubes behind the central props\"]},\"left_sidebar\":{\"position\":\"left vertical menu\",\"count\":4,\"buttons\":[\"SHOP with shopping cart icon and a small red notification badge\",\"CARD PACK with card pack icon\",\"RANKING with trophy icon\",\"EVENTS with calendar icon\"]},\"left_promo_card\":{\"position\":\"lower left\",\"title\":\"NEW CARD PACK\",\"headline\":\"{argument name=\\\"card pack headline\\\" default=\\\"DIMENSIONAL ORIGINS\\\"}\",\"subtitle\":\"New cards have arrived!\",\"visual\":\"glowing purple booster box tilted in a rectangular promotional card\",\"carousel_dots\":{\"count\":5,\"active\":\"first dot blue, four inactive gray dots\"}},\"right_action_panels\":{\"position\":\"right column\",\"count\":3,\"panels\":[{\"title\":\"MATCH\",\"subtitle\":\"Compete with players around the world\",\"visual\":\"crossed silver swords icon on blue panel\"},{\"title\":\"BOOSTER DECKBUILDING\",\"subtitle\":\"Build your ultimate deck\",\"visual\":\"two purple fantasy cards on violet panel\"},{\"title\":\"TOURNAMENT\",\"subtitle\":\"Prove your skills and win great prizes\",\"visual\":\"gold trophy with laurel wreath on bronze panel\"}]},\"bottom_navigation\":{\"position\":\"bottom left to center\",\"count\":5,\"tabs\":[\"HOME highlighted with glowing house icon and bright border\",\"DECKS with card icon\",\"COLLECTION with gear-card icon\",\"PROFILE with person icon\",\"STORE with shopping bag icon\"]},\"chat_panel\":{\"position\":\"bottom right\",\"count\":3,\"visible_components\":[\"chat log line 1: [World] CardMaster: Good luck everyone!\",\"chat log line 2: [World] Valkyrie: The new event looks amazing!\",\"message input box with placeholder text: Type a message... and a smiley icon button\"]},\"text_requirements\":\"Use clean English UI labels exactly as specified, high contrast white typography, small cyan player names in chat, no extra menus beyond the listed components.\",\"rendering\":\"sharp detailed concept art, professional game UI composition, fantasy collectible card game lobby, dramatic blue-purple lighting, high resolution screenshot feel\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"高保真动漫奇幻卡牌游戏主界面 UI 模型\",\"overall_style\":\"精致的手机游戏大厅截图，16:9 横屏，深蓝色与紫色奇幻科幻大教堂背景，顶部中央有发光的魔法传送门，反光石地板，霓虹边缘光效，清晰的游戏 UI 面板，所有按钮看起来均可点击，高级集换式卡牌对战美学\",\"game_identity\":{\"player_name\":\"{argument name=\\\"player name\\\" default=\\\"CardMaster\\\"}\",\"level\":\"{argument name=\\\"player level\\\" default=\\\"42 级\\\"}\",\"experience_bar\":\"2350 / 4500\",\"avatar\":\"左上角的小型方形动漫头像，脸部刻意模糊处理\"},\"top_resource_bar\":{\"count\":6,\"items\":[\"金币货币：5,780，带加号按钮\",\"紫色水晶货币：1,250，带加号按钮\",\"蓝色方块货币：320，带加号按钮\",\"邮件信封图标\",\"设置齿轮图标\",\"玩家个人资料块，包含头像、名称、等级和进度条\"]},\"main_characters\":{\"count\":5,\"description\":\"五位全身动漫角色站在大厅中央，所有脸部轻微模糊，但身体和服装细节清晰\",\"characters\":[\"左侧男性英雄，身穿带有发光青色胸部徽章的亮面未来感蓝色盔甲，黑色刺猬头，英雄姿态\",\"橙发动漫女战士，身穿黑色无袖上衣、红色百褶短裙、黑色绑带、手套和靴子，侧身持剑\",\"中央的小学生，留着长长的黑发，身穿白衬衫、海军蓝短裙、过膝袜，双手将卡牌抱在胸前\",\"肌肉发达的运动型女性，黑粉色头发，身穿带有粉色部落图案的白色露脐上衣、粉色短裤、大腿高亮面粉色长筒袜、凉鞋，自信姿态\",\"右侧男性 Agent，身穿黑色西装，领带松开，手持手枪垂在身侧\"]},\"center_floor_props\":{\"count\":5,\"items\":[\"两个在小学生附近漂浮的蓝色微笑幽灵吉祥物\",\"底部中央一个发光的紫色透明方块\",\"左右脚边各有一个小型体素草地与泥土块\",\"中央道具后方有两个小型灰色石块\"]},\"left_sidebar\":{\"position\":\"左侧垂直菜单\",\"count\":4,\"buttons\":[\"商店，带有购物车图标和红色小通知徽章\",\"卡包，带有卡包图标\",\"排行榜，带有奖杯图标\",\"活动，带有日历图标\"]},\"left_promo_card\":{\"position\":\"左下角\",\"title\":\"新卡包\",\"headline\":\"{argument name=\\\"card pack headline\\\" default=\\\"维度起源\\\"}\",\"subtitle\":\"新卡牌已上线！\",\"visual\":\"发光的紫色补充包盒，以矩形促销卡牌形式倾斜展示\",\"carousel_dots\":{\"count\":5,\"active\":\"第一个圆点为蓝色，四个非活动圆点为灰色\"}},\"right_action_panels\":{\"position\":\"右侧栏\",\"count\":3,\"panels\":[{\"title\":\"匹配\",\"subtitle\":\"与全球玩家同台竞技\",\"visual\":\"蓝色面板上的交叉银剑图标\"},{\"title\":\"卡组构建\",\"subtitle\":\"打造你的终极卡组\",\"visual\":\"紫色面板上的两张奇幻卡牌\"},{\"title\":\"锦标赛\",\"subtitle\":\"展现你的技能并赢取丰厚奖励\",\"visual\":\"青铜面板上的金色月桂花环奖杯\"}]},\"bottom_navigation\":{\"position\":\"左下至中央\",\"count\":5,\"tabs\":[\"首页，高亮显示，带有发光的房子图标和明亮边框\",\"卡组，带有卡牌图标\",\"收藏，带有齿轮卡牌图标\",\"个人资料，带有人物图标\",\"商店，带有购物袋图标\"]},\"chat_panel\":{\"position\":\"右下角\",\"count\":3,\"visible_components\":[\"聊天记录 1：[世界] CardMaster：祝大家玩得开心！\",\"聊天记录 2：[世界] Valkyrie：新活动看起来太棒了！\",\"消息输入框，占位符文本：输入消息... 以及一个笑脸图标按钮\"]},\"text_requirements\":\"使用完全符合指定的简洁英文 UI 标签，高对比度白色字体，聊天中使用青色小字体玩家名，除列出的组件外不要添加额外菜单。\",\"rendering\":\"清晰细腻的概念艺术，专业的游戏 UI 构图，奇幻集换式卡牌游戏大厅，戏剧性的蓝紫色灯光，高分辨率截图质感\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"maqueta de interfaz de pantalla de inicio de juego de cartas de fantasía anime de alta fidelidad\",\"overall_style\":\"captura de pantalla de lobby de juego móvil pulido, formato horizontal 16:9, fondo de catedral de fantasía y ciencia ficción en azul oscuro y morado, portal mágico brillante en la parte superior central, suelo de piedra reflectante, iluminación de borde de neón, paneles de interfaz de juego nítidos, todos los botones parecen interactivos, estética premium de juego de cartas coleccionables\",\"game_identity\":{\"player_name\":\"{argument name=\\\"player name\\\" default=\\\"CardMaster\\\"}\",\"level\":\"{argument name=\\\"player level\\\" default=\\\"Lv. 42\\\"}\",\"experience_bar\":\"2350 / 4500\",\"avatar\":\"pequeño retrato de anime cuadrado en la parte superior izquierda con el rostro intencionalmente borroso\"},\"top_resource_bar\":{\"count\":6,\"items\":[\"moneda de oro: 5,780 con botón de más\",\"moneda de cristal morado: 1,250 con botón de más\",\"moneda de cubo azul: 320 con botón de más\",\"icono de sobre de correo\",\"icono de engranaje de configuración\",\"bloque de perfil de jugador con avatar, nombre, nivel y barra de progreso\"]},\"main_characters\":{\"count\":5,\"description\":\"cinco personajes de anime de cuerpo completo de pie en el lobby central, todos los rostros suavemente borrosos mientras los cuerpos y atuendos permanecen detallados\",\"characters\":[\"héroe masculino a la izquierda con armadura azul futurista brillante con emblema cian brillante en el pecho, cabello negro puntiagudo, postura heroica\",\"guerrera de anime de cabello naranja con top negro sin mangas, minifalda roja plisada, correas negras, guantes, botas, sosteniendo una espada a su costado\",\"colegiala pequeña en el centro con cabello negro muy largo, blusa blanca, falda azul marino, calcetines hasta la rodilla, sosteniendo cartas cerca de su pecho\",\"mujer atlética y musculosa con cabello negro y rosa intenso, top corto blanco con diseño tribal rosa, pantalones cortos rosas, medias rosas brillantes hasta el muslo, sandalias, pose segura\",\"agente masculino a la derecha con traje negro y corbata desabrochada, sosteniendo una pistola a su costado\"]},\"center_floor_props\":{\"count\":5,\"items\":[\"dos pequeñas mascotas fantasma azules sonrientes flotando cerca de la colegiala\",\"un cubo transparente morado brillante en la parte inferior central\",\"dos pequeños bloques de césped y tierra tipo vóxel cerca de los pies a la izquierda y derecha\",\"dos pequeños cubos de piedra gris detrás de los accesorios centrales\"]},\"left_sidebar\":{\"position\":\"menú vertical izquierdo\",\"count\":4,\"buttons\":[\"SHOP con icono de carrito de compras y una pequeña insignia de notificación roja\",\"CARD PACK con icono de paquete de cartas\",\"RANKING con icono de trofeo\",\"EVENTS con icono de calendario\"]},\"left_promo_card\":{\"position\":\"inferior izquierda\",\"title\":\"NEW CARD PACK\",\"headline\":\"{argument name=\\\"card pack headline\\\" default=\\\"DIMENSIONAL ORIGINS\\\"}\",\"subtitle\":\"¡Han llegado nuevas cartas!\",\"visual\":\"caja de sobres morada brillante inclinada en una carta promocional rectangular\",\"carousel_dots\":{\"count\":5,\"active\":\"primer punto azul, cuatro puntos grises inactivos\"}},\"right_action_panels\":{\"position\":\"columna derecha\",\"count\":3,\"panels\":[{\"title\":\"MATCH\",\"subtitle\":\"Compite con jugadores de todo el mundo\",\"visual\":\"icono de espadas plateadas cruzadas en panel azul\"},{\"title\":\"BOOSTER DECKBUILDING\",\"subtitle\":\"Construye tu mazo definitivo\",\"visual\":\"dos cartas de fantasía moradas en panel violeta\"},{\"title\":\"TOURNAMENT\",\"subtitle\":\"Demuestra tus habilidades y gana grandes premios\",\"visual\":\"trofeo de oro con corona de laurel en panel de bronce\"}]},\"bottom_navigation\":{\"position\":\"de abajo a la izquierda al centro\",\"count\":5,\"tabs\":[\"HOME resaltado con icono de casa brillante y borde luminoso\",\"DECKS con icono de carta\",\"COLLECTION con icono de engranaje y carta\",\"PROFILE con icono de persona\",\"STORE con icono de bolsa de compras\"]},\"chat_panel\":{\"position\":\"inferior derecha\",\"count\":3,\"visible_components\":[\"línea 1 del chat: [World] CardMaster: ¡Buena suerte a todos!\",\"línea 2 del chat: [World] Valkyrie: ¡El nuevo evento se ve increíble!\",\"cuadro de entrada de mensaje con texto de marcador de posición: Escribe un mensaje... y un botón de icono de carita sonriente\"]},\"text_requirements\":\"Usa etiquetas de interfaz en inglés limpio exactamente como se especifica, tipografía blanca de alto contraste, nombres de jugadores cian pequeños en el chat, sin menús adicionales más allá de los componentes listados.\",\"rendering\":\"arte conceptual detallado y nítido, composición de interfaz de juego profesional, lobby de juego de cartas coleccionables de fantasía, iluminación dramática azul-morada, sensación de captura de pantalla de alta resolución\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"hochwertiges Anime-Fantasy-Kartenspiel-UI-Mockup für den Startbildschirm\",\"overall_style\":\"polierter Screenshot einer mobilen Spiellobby, 16:9 Querformat, dunkelblauer und violetter Fantasy-Sci-Fi-Kathedralenhintergrund, leuchtendes magisches Portal in der oberen Mitte, reflektierender Steinboden, Neon-Randbeleuchtung, klare Spiel-UI-Elemente, alle Schaltflächen wirken anklickbar, erstklassige Ästhetik eines Sammelkartenspiels\",\"game_identity\":{\"player_name\":\"{argument name=\\\"Spielername\\\" default=\\\"CardMaster\\\"}\",\"level\":\"{argument name=\\\"Spielerlevel\\\" default=\\\"Lv. 42\\\"}\",\"experience_bar\":\"2350 / 4500\",\"avatar\":\"kleines quadratisches Anime-Porträt oben links mit absichtlich unscharfem Gesicht\"},\"top_resource_bar\":{\"count\":6,\"items\":[\"Goldmünzen-Währung: 5.780 mit Plus-Button\",\"Lila Kristall-Währung: 1.250 mit Plus-Button\",\"Blauer Würfel-Währung: 320 mit Plus-Button\",\"Briefumschlag-Symbol\",\"Zahnrad-Symbol für Einstellungen\",\"Spielerprofil-Block mit Avatar, Name, Level und Fortschrittsbalken\"]},\"main_characters\":{\"count\":5,\"description\":\"fünf ganzfigurige Anime-Charaktere, die in der zentralen Lobby stehen, alle Gesichter sind weich gezeichnet, während Körper und Outfits detailliert bleiben\",\"characters\":[\"linker männlicher Held in glänzender futuristischer blauer Rüstung mit leuchtendem cyanfarbenem Brustemblem, schwarzes stacheliges Haar, heldenhafte Pose\",\"Anime-Kriegerin mit orangem Haar in schwarzem ärmellosem Oberteil, rotem Falten-Minirock, schwarzen Riemen, Handschuhen, Stiefeln, hält ein Schwert an ihrer Seite\",\"kleines Schulmädchen in der Mitte mit sehr langem schwarzem Haar, weißer Bluse, marineblauem Rock, Kniestrümpfen, hält Karten eng an ihrer Brust\",\"muskulöse athletische Frau mit schwarz-pinkem Haar, weißem bauchfreien Oberteil mit pinkem Stammesdesign, pinke Shorts, oberschenkelhohe glänzende pinke Strümpfe, Sandalen, selbstbewusste Pose\",\"rechter männlicher Agent im schwarzen Anzug mit gelockerter Krawatte, hält eine Pistole an seiner Seite\"]},\"center_floor_props\":{\"count\":5,\"items\":[\"zwei kleine blaue lächelnde Geister-Maskottchen, die in der Nähe des Schulmädchens schweben\",\"ein leuchtender violetter transparenter Würfel unten in der Mitte\",\"zwei kleine Voxel-Gras-und-Erde-Blöcke in der Nähe der Füße links und rechts\",\"zwei kleine graue Steinwürfel hinter den zentralen Objekten\"]},\"left_sidebar\":{\"position\":\"linkes vertikales Menü\",\"count\":4,\"buttons\":[\"SHOP mit Einkaufswagen-Symbol und kleinem roten Benachrichtigungs-Badge\",\"CARD PACK mit Kartenpackungs-Symbol\",\"RANKING mit Trophäen-Symbol\",\"EVENTS mit Kalender-Symbol\"]},\"left_promo_card\":{\"position\":\"unten links\",\"title\":\"NEW CARD PACK\",\"headline\":\"{argument name=\\\"Überschrift Kartenpackung\\\" default=\\\"DIMENSIONAL ORIGINS\\\"}\",\"subtitle\":\"Neue Karten sind eingetroffen!\",\"visual\":\"leuchtende violette Booster-Box, schräg in einer rechteckigen Werbekarte dargestellt\",\"carousel_dots\":{\"count\":5,\"active\":\"erster Punkt blau, vier inaktive graue Punkte\"}},\"right_action_panels\":{\"position\":\"rechte Spalte\",\"count\":3,\"panels\":[{\"title\":\"MATCH\",\"subtitle\":\"Messe dich mit Spielern aus der ganzen Welt\",\"visual\":\"Symbol mit gekreuzten silbernen Schwertern auf blauem Feld\"},{\"title\":\"BOOSTER DECKBUILDING\",\"subtitle\":\"Baue dein ultimatives Deck\",\"visual\":\"zwei violette Fantasy-Karten auf violettem Feld\"},{\"title\":\"TOURNAMENT\",\"subtitle\":\"Beweise dein Können und gewinne tolle Preise\",\"visual\":\"goldene Trophäe mit Lorbeerkranz auf bronzenem Feld\"}]},\"bottom_navigation\":{\"position\":\"unten links bis zur Mitte\",\"count\":5,\"tabs\":[\"HOME hervorgehoben mit leuchtendem Haus-Symbol und hellem Rand\",\"DECKS mit Karten-Symbol\",\"COLLECTION mit Zahnrad-Karten-Symbol\",\"PROFILE mit Personen-Symbol\",\"STORE mit Einkaufstaschen-Symbol\"]},\"chat_panel\":{\"position\":\"unten rechts\",\"count\":3,\"visible_components\":[\"Chat-Protokoll Zeile 1: [World] CardMaster: Viel Glück an alle!\",\"Chat-Protokoll Zeile 2: [World] Valkyrie: Das neue Event sieht fantastisch aus!\",\"Nachrichteneingabefeld mit Platzhaltertext: Nachricht eingeben... und ein Smiley-Symbol-Button\"]},\"text_requirements\":\"Verwende klare englische UI-Beschriftungen wie angegeben, kontrastreiche weiße Typografie, kleine cyanfarbene Spielernamen im Chat, keine zusätzlichen Menüs außerhalb der aufgeführten Komponenten.\",\"rendering\":\"scharfe, detaillierte Konzeptkunst, professionelle Spiel-UI-Komposition, Fantasy-Sammelkartenspiel-Lobby, dramatische blau-violette Beleuchtung, hochauflösender Screenshot-Look\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"maquette d'interface utilisateur d'écran d'accueil de jeu de cartes fantasy anime haute fidélité\",\"overall_style\":\"capture d'écran de lobby de jeu mobile soignée, format 16:9 paysage, arrière-plan cathédrale fantasy sci-fi bleu foncé et violet, portail magique brillant au centre supérieur, sol en pierre réfléchissant, éclairage néon sur les bords, panneaux d'interface de jeu nets, tous les boutons semblent cliquables, esthétique premium de jeu de cartes à collectionner\",\"game_identity\":{\"player_name\":\"{argument name=\\\"nom du joueur\\\" default=\\\"CardMaster\\\"}\",\"level\":\"{argument name=\\\"niveau du joueur\\\" default=\\\"Niv. 42\\\"}\",\"experience_bar\":\"2350 / 4500\",\"avatar\":\"petit portrait anime carré en haut à gauche avec visage intentionnellement flouté\"},\"top_resource_bar\":{\"count\":6,\"items\":[\"devise pièce d'or : 5 780 avec bouton plus\",\"devise cristal violet : 1 250 avec bouton plus\",\"devise cube bleu : 320 avec bouton plus\",\"icône enveloppe de courrier\",\"icône engrenage de paramètres\",\"bloc profil joueur avec avatar, nom, niveau et barre de progression\"]},\"main_characters\":{\"count\":5,\"description\":\"cinq personnages anime en pied debout dans le lobby central, tous les visages sont légèrement floutés tandis que les corps et les tenues restent détaillés\",\"characters\":[\"héros masculin à gauche en armure futuriste brillante avec emblème cyan brillant sur la poitrine, cheveux noirs en pics, posture héroïque\",\"guerrière anime aux cheveux orange en haut noir sans manches, mini-jupe plissée rouge, sangles noires, gants, bottes, tenant une épée sur le côté\",\"écolière au centre avec de très longs cheveux noirs, chemisier blanc, jupe marine, chaussettes hautes, tenant des cartes contre sa poitrine\",\"femme athlétique musclée avec cheveux noirs et rose vif, haut court blanc avec motif tribal rose, short rose, bas brillants rose montant jusqu'aux cuisses, sandales, pose confiante\",\"agent masculin à droite en costume noir avec cravate desserrée, tenant un pistolet sur le côté\"]},\"center_floor_props\":{\"count\":5,\"items\":[\"deux petites mascottes fantômes bleues souriantes flottant près de l'écolière\",\"un cube transparent violet brillant en bas au centre\",\"deux petits blocs de terre et d'herbe voxel près des pieds à gauche et à droite\",\"deux petits cubes en pierre grise derrière les accessoires centraux\"]},\"left_sidebar\":{\"position\":\"menu vertical gauche\",\"count\":4,\"buttons\":[\"BOUTIQUE avec icône de panier et un petit badge de notification rouge\",\"PAQUET DE CARTES avec icône de paquet de cartes\",\"CLASSEMENT avec icône de trophée\",\"ÉVÉNEMENTS avec icône de calendrier\"]},\"left_promo_card\":{\"position\":\"en bas à gauche\",\"title\":\"NOUVEAU PAQUET DE CARTES\",\"headline\":\"{argument name=\\\"titre du paquet de cartes\\\" default=\\\"DIMENSIONAL ORIGINS\\\"}\",\"subtitle\":\"De nouvelles cartes sont arrivées !\",\"visual\":\"boîte de boosters violette brillante inclinée dans une carte promotionnelle rectangulaire\",\"carousel_dots\":{\"count\":5,\"active\":\"premier point bleu, quatre points gris inactifs\"}},\"right_action_panels\":{\"position\":\"colonne de droite\",\"count\":3,\"panels\":[{\"title\":\"MATCH\",\"subtitle\":\"Affrontez des joueurs du monde entier\",\"visual\":\"icône d'épées croisées argentées sur panneau bleu\"},{\"title\":\"CONSTRUCTION DE DECK\",\"subtitle\":\"Construisez votre deck ultime\",\"visual\":\"deux cartes fantasy violettes sur panneau violet\"},{\"title\":\"TOURNOI\",\"subtitle\":\"Prouvez vos compétences et gagnez de superbes prix\",\"visual\":\"trophée doré avec couronne de laurier sur panneau bronze\"}]},\"bottom_navigation\":{\"position\":\"bas gauche vers centre\",\"count\":5,\"tabs\":[\"ACCUEIL mis en évidence avec icône de maison brillante et bordure lumineuse\",\"DECKS avec icône de carte\",\"COLLECTION avec icône engrenage-carte\",\"PROFIL avec icône de personne\",\"BOUTIQUE avec icône de sac de courses\"]},\"chat_panel\":{\"position\":\"en bas à droite\",\"count\":3,\"visible_components\":[\"ligne de chat 1 : [Monde] CardMaster : Bonne chance à tous !\",\"ligne de chat 2 : [Monde] Valkyrie : Le nouvel événement a l'air incroyable !\",\"zone de saisie de message avec texte indicatif : Tapez un message... et un bouton icône smiley\"]},\"text_requirements\":\"Utilisez des étiquettes d'interface utilisateur en anglais clair exactement comme spécifié, typographie blanche à fort contraste, noms de joueurs cyan dans le chat, aucun menu supplémentaire au-delà des composants listés.\",\"rendering\":\"concept art détaillé et net, composition d'interface de jeu professionnelle, lobby de jeu de cartes à collectionner fantasy, éclairage bleu-violet dramatique, rendu de capture d'écran haute résolution\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"mockup dell'interfaccia utente della schermata iniziale di un gioco di carte fantasy anime ad alta fedeltà\",\"overall_style\":\"screenshot rifinito della lobby di un gioco mobile, formato 16:9 orizzontale, sfondo di una cattedrale fantasy sci-fi blu scuro e viola, portale magico luminoso al centro in alto, pavimento in pietra riflettente, illuminazione al neon sui bordi, pannelli dell'interfaccia di gioco nitidi, tutti i pulsanti sembrano cliccabili, estetica premium da gioco di carte collezionabili\",\"game_identity\":{\"player_name\":\"{argument name=\\\"player name\\\" default=\\\"CardMaster\\\"}\",\"level\":\"{argument name=\\\"player level\\\" default=\\\"Lv. 42\\\"}\",\"experience_bar\":\"2350 / 4500\",\"avatar\":\"piccolo ritratto anime quadrato in alto a sinistra con volto intenzionalmente sfocato\"},\"top_resource_bar\":{\"count\":6,\"items\":[\"valuta monete d'oro: 5.780 con pulsante più\",\"valuta cristalli viola: 1.250 con pulsante più\",\"valuta cubi blu: 320 con pulsante più\",\"icona busta della posta\",\"icona ingranaggio impostazioni\",\"blocco profilo giocatore con avatar, nome, livello e barra di avanzamento\"]},\"main_characters\":{\"count\":5,\"description\":\"cinque personaggi anime a figura intera in piedi nella lobby centrale, tutti i volti leggermente sfocati mentre i corpi e gli abiti rimangono dettagliati\",\"characters\":[\"eroe maschile a sinistra in armatura futuristica lucida blu con emblema ciano luminoso sul petto, capelli neri a punta, posa eroica\",\"ragazza guerriera anime dai capelli arancioni con top nero senza maniche, minigonna rossa a pieghe, cinturini neri, guanti, stivali, tiene una spada al fianco\",\"piccola studentessa al centro con capelli neri molto lunghi, camicetta bianca, gonna blu navy, calzettoni, tiene le carte strette al petto\",\"donna atletica muscolosa con capelli neri e rosa acceso, crop top bianco con design tribale rosa, pantaloncini rosa, calze lucide rosa sopra il ginocchio, sandali, posa sicura\",\"agente maschile a destra in abito nero con cravatta allentata, tiene una pistola abbassata al fianco\"]},\"center_floor_props\":{\"count\":5,\"items\":[\"due piccole mascotte fantasma blu sorridenti che fluttuano vicino alla studentessa\",\"un cubo trasparente viola luminoso al centro in basso\",\"due piccoli blocchi voxel di erba e terra vicino ai piedi a sinistra e a destra\",\"due piccoli cubi di pietra grigia dietro gli oggetti centrali\"]},\"left_sidebar\":{\"position\":\"menu verticale sinistro\",\"count\":4,\"buttons\":[\"SHOP con icona carrello e un piccolo badge di notifica rosso\",\"CARD PACK con icona pacchetto carte\",\"RANKING con icona trofeo\",\"EVENTS con icona calendario\"]},\"left_promo_card\":{\"position\":\"in basso a sinistra\",\"title\":\"NEW CARD PACK\",\"headline\":\"{argument name=\\\"card pack headline\\\" default=\\\"DIMENSIONAL ORIGINS\\\"}\",\"subtitle\":\"Sono arrivate nuove carte!\",\"visual\":\"box di espansione viola luminoso inclinato in una carta promozionale rettangolare\",\"carousel_dots\":{\"count\":5,\"active\":\"primo punto blu, quattro punti grigi inattivi\"}},\"right_action_panels\":{\"position\":\"colonna destra\",\"count\":3,\"panels\":[{\"title\":\"MATCH\",\"subtitle\":\"Competi con giocatori di tutto il mondo\",\"visual\":\"icona spade d'argento incrociate su pannello blu\"},{\"title\":\"BOOSTER DECKBUILDING\",\"subtitle\":\"Costruisci il tuo mazzo definitivo\",\"visual\":\"due carte fantasy viola su pannello violetto\"},{\"title\":\"TOURNAMENT\",\"subtitle\":\"Dimostra le tue abilità e vinci grandi premi\",\"visual\":\"trofeo d'oro con corona d'alloro su pannello bronzo\"}]},\"bottom_navigation\":{\"position\":\"da sinistra a centro in basso\",\"count\":5,\"tabs\":[\"HOME evidenziato con icona casa luminosa e bordo brillante\",\"DECKS con icona carta\",\"COLLECTION con icona ingranaggio-carta\",\"PROFILE con icona persona\",\"STORE con icona borsa della spesa\"]},\"chat_panel\":{\"position\":\"in basso a destra\",\"count\":3,\"visible_components\":[\"riga log chat 1: [World] CardMaster: Buona fortuna a tutti!\",\"riga log chat 2: [World] Valkyrie: Il nuovo evento sembra fantastico!\",\"casella di input messaggio con testo segnaposto: Scrivi un messaggio... e un pulsante icona smiley\"]},\"text_requirements\":\"Usa etichette dell'interfaccia in inglese pulito esattamente come specificato, tipografia bianca ad alto contrasto, nomi dei giocatori in ciano piccolo nella chat, nessun menu extra oltre ai componenti elencati.\",\"rendering\":\"concept art nitida e dettagliata, composizione professionale dell'interfaccia di gioco, lobby di un gioco di carte collezionabili fantasy, illuminazione drammatica blu-viola, sensazione di screenshot ad alta risoluzione\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"mockup de interface de tela inicial de jogo de cartas de fantasia em estilo anime de alta fidelidade\",\"overall_style\":\"captura de tela de lobby de jogo mobile polido, paisagem 16:9, fundo de catedral de fantasia sci-fi em azul escuro e roxo, portal mágico brilhante no centro superior, piso de pedra reflexivo, iluminação de contorno neon, painéis de interface de jogo nítidos, todos os botões parecem clicáveis, estética premium de jogo de cartas colecionáveis\",\"game_identity\":{\"player_name\":\"{argument name=\\\"nome do jogador\\\" default=\\\"CardMaster\\\"}\",\"level\":\"{argument name=\\\"nível do jogador\\\" default=\\\"Lv. 42\\\"}\",\"experience_bar\":\"2350 / 4500\",\"avatar\":\"pequeno retrato de anime quadrado no canto superior esquerdo com o rosto intencionalmente desfocado\"},\"top_resource_bar\":{\"count\":6,\"items\":[\"moeda de ouro: 5.780 com botão de mais\",\"moeda de cristal roxo: 1.250 com botão de mais\",\"moeda de cubo azul: 320 com botão de mais\",\"ícone de envelope de correio\",\"ícone de engrenagem de configurações\",\"bloco de perfil do jogador com avatar, nome, nível e barra de progresso\"]},\"main_characters\":{\"count\":5,\"description\":\"cinco personagens de anime de corpo inteiro posicionados pelo lobby central, todos os rostos levemente desfocados enquanto corpos e roupas permanecem detalhados\",\"characters\":[\"herói masculino à esquerda em armadura futurista brilhante azul com emblema ciano brilhante no peito, cabelo preto espetado, postura heroica\",\"guerreira de anime de cabelo laranja com blusa preta sem mangas, minissaia plissada vermelha, tiras pretas, luvas, botas, segurando uma espada ao lado\",\"pequena estudante no centro com cabelo preto muito longo, blusa branca, saia azul-marinho, meias até o joelho, segurando cartas próximas ao peito\",\"mulher atlética musculosa com cabelo preto e rosa choque, top cropped branco com design tribal rosa, shorts rosa, meias 7/8 brilhantes rosa, sandálias, pose confiante\",\"agente masculino à direita de terno preto com gravata frouxa, segurando uma pistola ao lado do corpo\"]},\"center_floor_props\":{\"count\":5,\"items\":[\"dois pequenos mascotes fantasmas azuis sorridentes flutuando perto da estudante\",\"um cubo transparente roxo brilhante na parte inferior central\",\"dois pequenos blocos de terra e grama tipo voxel perto dos pés à esquerda e à direita\",\"dois pequenos cubos de pedra cinza atrás dos objetos centrais\"]},\"left_sidebar\":{\"position\":\"menu vertical esquerdo\",\"count\":4,\"buttons\":[\"LOJA com ícone de carrinho de compras e um pequeno emblema de notificação vermelho\",\"PACOTE DE CARTAS com ícone de pacote de cartas\",\"RANKING com ícone de troféu\",\"EVENTOS com ícone de calendário\"]},\"left_promo_card\":{\"position\":\"inferior esquerdo\",\"title\":\"NOVO PACOTE DE CARTAS\",\"headline\":\"{argument name=\\\"título do pacote de cartas\\\" default=\\\"DIMENSIONAL ORIGINS\\\"}\",\"subtitle\":\"Novas cartas chegaram!\",\"visual\":\"caixa de booster roxa brilhante inclinada em uma carta promocional retangular\",\"carousel_dots\":{\"count\":5,\"active\":\"primeiro ponto azul, quatro pontos cinzas inativos\"}},\"right_action_panels\":{\"position\":\"coluna direita\",\"count\":3,\"panels\":[{\"title\":\"PARTIDA\",\"subtitle\":\"Compita com jogadores ao redor do mundo\",\"visual\":\"ícone de espadas prateadas cruzadas em painel azul\"},{\"title\":\"MONTAGEM DE DECK\",\"subtitle\":\"Construa seu deck definitivo\",\"visual\":\"duas cartas de fantasia roxas em painel violeta\"},{\"title\":\"TORNEIO\",\"subtitle\":\"Prove suas habilidades e ganhe grandes prêmios\",\"visual\":\"troféu de ouro com coroa de louros em painel de bronze\"}]},\"bottom_navigation\":{\"position\":\"inferior esquerdo ao centro\",\"count\":5,\"tabs\":[\"INÍCIO destacado com ícone de casa brilhante e borda clara\",\"DECKS com ícone de carta\",\"COLEÇÃO com ícone de engrenagem e carta\",\"PERFIL com ícone de pessoa\",\"LOJA com ícone de sacola de compras\"]},\"chat_panel\":{\"position\":\"inferior direito\",\"count\":3,\"visible_components\":[\"linha 1 do chat: [Mundo] CardMaster: Boa sorte a todos!\",\"linha 2 do chat: [Mundo] Valkyrie: O novo evento parece incrível!\",\"caixa de entrada de mensagem com texto de preenchimento: Digite uma mensagem... e um botão de ícone de sorriso\"]},\"text_requirements\":\"Use rótulos de interface em inglês limpos conforme especificado, tipografia branca de alto contraste, nomes de jogadores em ciano no chat, sem menus extras além dos componentes listados.\",\"rendering\":\"arte conceitual detalhada e nítida, composição de interface de jogo profissional, lobby de jogo de cartas colecionáveis de fantasia, iluminação dramática azul-roxa, sensação de captura de tela em alta resolução\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Game Asset - Anime Card Game Lobby UI",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "游戏素材 - 动漫卡牌游戏大厅 UI",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Activo de juego - Interfaz de lobby de juego de cartas de anime",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Spiel-Asset - Anime-Kartenspiel-Lobby-UI",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ressource de jeu - Interface utilisateur de lobby de jeu de cartes anime",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Asset di gioco - Interfaccia utente della lobby di un gioco di carte anime",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Ativo de Jogo - Interface de Lobby de Jogo de Cartas de Anime",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a detailed fantasy anime collectible card game home screen with characters, currencies, navigation, action panels, promo card, and chat UI.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张细节丰富的奇幻动漫集换式卡牌游戏主界面，包含角色、货币、导航、操作面板、促销卡牌及聊天 UI。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un écran d'accueil détaillé pour un jeu de cartes à collectionner fantasy de style anime, incluant personnages, devises, navigation, panneaux d'action, carte promotionnelle et interface de chat.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "game-asset",
+      "value": "Game Asset",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Asiancherryboi/status/2051418065074880663#reversed-0",
+      "originalId": "https://x.com/Asiancherryboi/status/2051418065074880663#reversed-0",
+      "authors": [
+        {
+          "name": "cherryboi",
+          "url": "https://x.com/Asiancherryboi"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 5032
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5c301687649d4d5a",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971056453_rklwmd_HHgZvdFbUAAA7Cf.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971056453_rklwmd_HHgZvdFbUAAA7Cf.jpg",
+      "localPath": "public/assets/prompt_02a3e51e87b0ecc220fc/43eb9aa7087c.jpg",
+      "alt": "Game Asset - Anime Card Game Lobby UI - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_1b147af956c35d55",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971056467_s1li2s_HHgZvdIbgAAq-5u.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971056467_s1li2s_HHgZvdIbgAAq-5u.jpg",
+      "localPath": "public/assets/prompt_02a3e51e87b0ecc220fc/b352b9f856aa.jpg",
+      "alt": "Game Asset - Anime Card Game Lobby UI - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "character",
+      "mascot",
+      "card",
+      "profile",
+      "角色",
+      "人物",
+      "吉祥物",
+      "卡牌"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.841Z"
+  }
+}

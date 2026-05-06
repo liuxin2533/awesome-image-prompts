@@ -1,0 +1,109 @@
+{
+  "id": "prompt_90392b743bd148b2cd59",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成高完成度史诗感艺术海报，双重曝光构图，米白色背景，球队：xxxx队，xxx的大剪影占据主体，剪影内部融合xx、xx、xx、xx以及xx等元素。整体以xx、土褐、为主，压抑、决绝、宿命感极强，元素不要冗杂，要有留白，印刷颗粒质感，元素不要有太锐的细节，但是要有史诗质感，像正式院线动画电影海报，竖版。图片中若出现文字则以细体字为主",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a high-completion epic artistic poster with double exposure composition, off-white background. Team: xxxx team. Large silhouette of xxx occupies the main body, with elements such as xx, xx, xx, xx, and xx integrated inside the silhouette. Overall dominated by xx and earth brown tones, extremely oppressive, resolute, and fateful. Elements should not be redundant, there should be blank space. Printed grain texture, elements should not have too sharp details, but should have an epic texture, like an official theatrical animated movie poster. Vertical version. If text appears in the image, it should mainly be in thin font.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:56:34.095Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:56:36.842Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-16",
+      "originalId": "case-16",
+      "authors": [
+        {
+          "name": "2692926140",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 261
+        }
+      ],
+      "rawSource": "小红书号2692926140"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_421dc6539c9f22fa",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case16.jpg",
+      "upstreamPath": "../data/images/case16.jpg",
+      "localPath": "public/assets/prompt_90392b743bd148b2cd59/aad17ff356ed.jpg",
+      "alt": "生成高完成度史诗感艺术海报，双重曝光构图，米白色背...",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "movie poster",
+      "海报",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

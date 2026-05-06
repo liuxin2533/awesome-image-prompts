@@ -1,0 +1,132 @@
+{
+  "id": "prompt_12d6269a9804d020d493",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a bold YouTube-style gaming thumbnail collage on a dark navy patterned background, using two stacked rounded-rectangle image panels. The top panel shows a high-angle 3D game-like scene inside a circular enclosure of tall bright blue sharpened wooden palisade spikes tied with tan rope, with vivid green grass, a small crop field with rows of sprouting orange plants on the right, and warm firelight near the upper right; in the center stand two real-looking people viewed from above, a man in a light gray T-shirt on the left and a woman in a pale pink T-shirt on the right, both looking upward, with intentionally blurred/featureless faces, and large bold white 3D sans-serif text across the bottom reading {argument name=\"main title text\" default=\"GPT 2\"}. The bottom panel is a wider rounded thumbnail frame split visually between a bright grassy game area on the left and the same blue palisade enclosure on the right; include exactly 2 large text elements at the upper left, {argument name=\"day label\" default=\"DAY\"} in red block letters with black shadow and {argument name=\"number label\" default=\"500\"} in white block letters with black shadow. In the bottom panel, place exactly 1 cartoon deer creature on the left, brown with exaggerated huge white eyes, antlers, open smiling mouth, raised arm, and a red arrow pointing down toward it. On the right of the bottom panel, show the same two real-looking people from above, the woman wearing a bright hot pink shirt and white shoes, the man wearing a bright yellow shirt and dark shoes, both with blurred/featureless faces, standing inside the blue spike fence on bluish ground. Use saturated colors, strong contrast, glossy 3D game-rendered environment, photorealistic people composited into the scene, dramatic thumbnail lighting, thick shadows, clean sharp details, and a viral gaming challenge thumbnail composition. The image contains exactly 2 panels: top panel with the title text and two people, bottom panel with the day counter, red arrow, one deer creature, and two people.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - GPT 2 Day 500 Gaming Thumbnail",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - GPT 2 Day 500 Gaming Thumbnail",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - GPT 2 Day 500 Gaming Thumbnail",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - GPT 2 Day 500 Gaming Thumbnail",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - GPT 2 Day 500 Gaming Thumbnail",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - GPT 2 Day 500 Gaming Thumbnail",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - GPT 2 Day 500 Gaming Thumbnail",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a colorful viral gaming thumbnail collage with two people in a blue-spiked arena, bold challenge text, and a cartoon deer target.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/dimovdesign/status/2050935702666244523#reversed-0",
+      "originalId": "https://x.com/dimovdesign/status/2050935702666244523#reversed-0",
+      "authors": [
+        {
+          "name": "Dimov │Thumbnail Designer",
+          "url": "https://x.com/dimovdesign"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2596
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_44919ac13fe50dfc",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777884801345_bnpb1t_HHZi8LDXgAA272B.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777884801345_bnpb1t_HHZi8LDXgAA272B.jpg",
+      "localPath": "public/assets/prompt_12d6269a9804d020d493/1cfff060e7e9.jpg",
+      "alt": "YouTube Thumbnail - GPT 2 Day 500 Gaming Thumbnail - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "youtube",
+      "thumbnail"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.874Z"
+  }
+}

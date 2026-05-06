@@ -1,0 +1,101 @@
+{
+  "id": "prompt_2988f2ae446c3bfabcbf",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portrait of a confident woman with soft rose-gold hair and natural airy bangs, slightly wind-blown for movement. She is wearing a luxury summer outfit: a structured lightweight linen or silk jacket in warm golden-yellow tones, layered over a modest high-neck top, paired with a bold gold choker necklace and subtle statement earrings.\n\nFabric flows naturally with a summer breeze, slightly textured and breathable, capturing a premium seasonal feel. Styling is elegant, modest, and refined — no revealing clothing.\n\nLighting is high-end studio mixed with natural golden hour glow: warm highlights, soft shadows, luminous skin with glossy editorial finish.\n\nBackground is a rich summer gradient (sunset gold fading into soft coral or warm beige), clean but visually striking.\n\nComposition is dynamic and slightly cinematic: hair in motion, shallow depth of field, sharp focus on face.\n\nTypography: large elegant serif masthead \"Louis Vuitton\" at the top, bold cover line \"YOUR CHOICE ENDS HERE\" in premium editorial layout, minimal supporting text.\n\nUltra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy magazine print quality, cinematic color grading, luxury fashion photography, no nudity, tasteful and editorial.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "高定时尚杂志封面",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Haute Couture Fashion Magazine Cover",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:03:51.558Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_dde1d69562",
+      "value": "高定时尚杂志封面",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-343",
+      "originalId": "case-343",
+      "authors": [
+        {
+          "name": "SPEEDAI07",
+          "url": "https://x.com/SPEEDAI07/status/2048573343066992919"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5642
+        }
+      ],
+      "rawSource": "[@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7c1cfad28c95bf46",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case343.jpg",
+      "upstreamPath": "../data/images/case343.jpg",
+      "localPath": "public/assets/prompt_2988f2ae446c3bfabcbf/a881736fc0be.jpg",
+      "alt": "高定时尚杂志封面",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

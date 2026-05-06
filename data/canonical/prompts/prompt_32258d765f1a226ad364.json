@@ -1,0 +1,106 @@
+{
+  "id": "prompt_32258d765f1a226ad364",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Given a story concept, generate a complete Miyazaki-style animated short film: write a 30-shot script → generate watercolor storyboard images (gpt-image-1) → plan SOFT/HARD transitions → produce video clips with Seedance 2.0 using first/last-frame binding → synthesize the original ambient piano score → stitch everything into a final MP4 with music.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 [ DISH NAME ] 创建一个高级美食准备海报，展示精美的主菜，温暖的自然光线，奶油色背景，优雅的分步食谱布局，食材，烹饪过程，高级美食摄影，精致的英文字体，豪华餐厅广告风格，简洁设计，丰富的色彩，高度细节化，视觉上令人无法抗拒，电影级杰作。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:32.625Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Miyazaki-style short film pipeline",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高级美食食谱海报 优雅布局",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:33.315Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/happycapyai/status/2049468986828697940",
+      "originalId": "case-76",
+      "authors": [
+        {
+          "name": "happycapyai",
+          "url": "https://x.com/happycapyai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 702
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_afd55615e618bec2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case76/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case76/output.jpg",
+      "localPath": "public/assets/prompt_32258d765f1a226ad364/19a9790d0ac3.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

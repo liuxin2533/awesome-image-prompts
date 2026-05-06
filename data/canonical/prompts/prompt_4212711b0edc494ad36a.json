@@ -1,0 +1,106 @@
+{
+  "id": "prompt_4212711b0edc494ad36a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张动画分镜生成器",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate an animation storyboard generator",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "智能动画分镜生成器",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Intelligent Animation Storyboard Generator",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:09:34.193Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_c0562fda06",
+      "value": "智能动画分镜生成器",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-204",
+      "originalId": "case-204",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2046596222505361866"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1219
+        }
+      ],
+      "rawSource": "[@joshesye](https://x.com/joshesye/status/2046596222505361866)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d699f187dc7b3f64",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case204.jpg",
+      "upstreamPath": "../data/images/case204.jpg",
+      "localPath": "public/assets/prompt_4212711b0edc494ad36a/17169421e663.jpg",
+      "alt": "智能动画分镜生成器",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "story",
+      "分镜"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

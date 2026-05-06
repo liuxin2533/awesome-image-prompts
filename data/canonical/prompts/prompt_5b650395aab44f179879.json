@@ -1,0 +1,167 @@
+{
+  "id": "prompt_5b650395aab44f179879",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A candid smartphone photo of a young East Asian woman sitting at a small table inside a casual Taiwanese breakfast shop, medium shot in vertical 9:16 composition. She has shoulder-length straight dark brown to black hair with a side part and is wearing a fitted ribbed camisole in {argument name=\"top color\" default=\"light gray\"}, high-waisted light blue denim shorts, and a loose sheer white cardigan slipping off both shoulders. She is seated on a black chair and holding a foil-wrapped breakfast rice roll or sandwich with both hands close to her mouth as if about to take a bite. Her body is angled slightly to the right, with a relaxed, natural pose and a soft lifestyle-photo aesthetic. Place a large rectangular blur censor block over her face, centered and covering the entire face area. On the table in the lower left foreground, include 1 large takeaway cup with a plastic lid and 1 red straw. In the background, show the open storefront interior of a traditional breakfast stall with stainless steel counters, a glass warming display, condiment bottles, 1 worker behind the counter, 1 wall fan, and overhead menu boards with red and blue Chinese characters and prices. Also include a glass door on the left with Chinese signage and hours posted. Lighting should be natural daylight, slightly soft, with realistic skin tones, casual street-photo realism, shallow depth but still readable background details, authentic urban Taiwan eatery atmosphere.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Candid Breakfast Shop Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Candid Breakfast Shop Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a realistic vertical lifestyle photo of a woman eating at a Taiwanese breakfast shop, useful for casual social-media or street-photography style imagery.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-3",
+      "originalId": "https://x.com/Asan0_Misaki/status/2048893248413024364#reversed-3",
+      "authors": [
+        {
+          "name": "浅野 美咲（Asano Misaki）",
+          "url": "https://x.com/Asan0_Misaki"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1494
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_336359bbade1dede",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367334440_sshaov_HG8hjC2bMAAtSLf.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367334440_sshaov_HG8hjC2bMAAtSLf.jpg",
+      "localPath": "public/assets/prompt_5b650395aab44f179879/af4a98b5e5c1.jpg",
+      "alt": "Social Media Post - Candid Breakfast Shop Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

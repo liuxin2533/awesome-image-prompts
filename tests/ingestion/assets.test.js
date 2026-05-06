@@ -5,6 +5,7 @@ const os = require('node:os');
 const path = require('node:path');
 
 const { mirrorMissingAssets, parseArgs } = require('../../scripts/ingestion/assets');
+const { readCanonicalDataset } = require('../../scripts/ingestion/core/persist');
 
 function writeJson(filePath, data) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
@@ -66,7 +67,7 @@ test('mirrorMissingAssets downloads pending assets and updates canonical status'
   const localPath = path.join(projectRoot, 'public/assets/prompt_bbbbbbbbbbbbbbbbbbbb/image.jpg');
   assert.equal(fs.readFileSync(localPath, 'utf-8'), 'image-bytes');
 
-  const dataset = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/canonical/prompts.json'), 'utf-8'));
+  const dataset = readCanonicalDataset(projectRoot);
   const asset = dataset.prompts[0].assets[0];
   assert.equal(asset.status, 'cached');
   assert.equal(asset.bytes, 11);
@@ -90,7 +91,7 @@ test('mirrorMissingAssets records failed downloads without aborting tolerant run
   });
 
   assert.equal(result.failedCount, 1);
-  const dataset = JSON.parse(fs.readFileSync(path.join(projectRoot, 'data/canonical/prompts.json'), 'utf-8'));
+  const dataset = readCanonicalDataset(projectRoot);
   assert.equal(dataset.prompts[0].assets[0].status, 'failed');
   assert.match(dataset.prompts[0].assets[0].error, /network unavailable/);
 });

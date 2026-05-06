@@ -1,0 +1,176 @@
+{
+  "id": "prompt_b50abe3271e79db3fcc1",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A premium matte lavender tube labeled \"M Lavender Balm\" upright on a creamy lilac surface, with lavender flowers swirling around in motion blur and droplets of lavender oil splashing mid-air. Minimalistic soft purple gradient background, glossy textures, warm dreamy lighting, ultra-sharp detail.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一支标有 \"M Lavender Balm\" 的高级哑光薰衣草色软管垂直放置在奶油般的淡紫色表面上，薰衣草花朵在动态模糊中环绕，薰衣草油滴在半空中飞溅。极简主义的柔和紫色渐变背景，光泽质感，温暖梦幻的灯光，超清晰细节。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Un tubo de lavanda mate premium etiquetado como \"M Lavender Balm\" en posición vertical sobre una superficie lila cremosa, con flores de lavanda girando con desenfoque de movimiento y gotas de aceite de lavanda salpicando en el aire. Fondo degradado púrpura suave y minimalista, texturas brillantes, iluminación cálida y de ensueño, detalles ultra nítidos.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Eine hochwertige, matte Lavendel-Tube mit der Aufschrift „M Lavender Balm“, aufrecht stehend auf einer cremigen, fliederfarbenen Oberfläche, umgeben von Lavendelblüten in Bewegungsunschärfe und in der Luft spritzenden Lavendelöltropfen. Minimalistischer, sanfter violetter Farbverlaufshintergrund, glänzende Texturen, warme, verträumte Beleuchtung, gestochen scharfe Details.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un tube de lavande mat haut de gamme portant l'étiquette « M Lavender Balm », posé à la verticale sur une surface lilas crémeuse, entouré de fleurs de lavande en tourbillon avec un effet de flou cinétique et des gouttelettes d'huile de lavande en suspension. Arrière-plan minimaliste en dégradé violet doux, textures brillantes, éclairage chaleureux et onirique, détails ultra-nets.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Un tubetto premium opaco alla lavanda con etichetta \"M Lavender Balm\" in posizione verticale su una superficie color lilla cremoso, con fiori di lavanda che vorticano in un effetto motion blur e gocce di olio di lavanda che schizzano a mezz'aria. Sfondo minimalista con sfumatura viola tenue, texture lucide, illuminazione calda e sognante, dettagli ultra-nitidi.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Um tubo fosco premium de lavanda com o rótulo \"M Lavender Balm\" em pé sobre uma superfície lilás cremosa, com flores de lavanda girando ao redor em desfoque de movimento e gotas de óleo de lavanda espirrando no ar. Fundo minimalista com gradiente roxo suave, texturas brilhantes, iluminação quente e onírica, detalhes ultra nítidos.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Premium Lavender Balm Product Shot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 高级薰衣草膏产品拍摄",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Foto de producto de bálsamo de lavanda premium",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Premium Lavendelbalsam Produktaufnahme",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Photo de produit haut de gamme : Baume à la lavande",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Foto prodotto di balsamo alla lavanda premium",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Foto de Produto de Bálsamo de Lavanda Premium",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A high-end product photography prompt for a lavender balm tube featuring motion blur and mid-air oil splashes for a dynamic, glossy look.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款用于薰衣草膏管的高端产品摄影提示词，包含动态模糊和半空中油滴飞溅效果，营造出动感且富有光泽的视觉体验。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie de produit haut de gamme pour un tube de baume à la lavande, mettant en scène un flou de mouvement et des éclaboussures d'huile en suspension pour un rendu dynamique et brillant.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Strength04_X/status/2050098050274877567",
+      "originalId": "https://x.com/Strength04_X/status/2050098050274877567",
+      "authors": [
+        {
+          "name": "𝐌",
+          "url": "https://x.com/Strength04_X"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4817
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3eedf1faede3b620",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711033958_u5783c_HHNpB_LaIAABHhl.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711033958_u5783c_HHNpB_LaIAABHhl.jpg",
+      "localPath": "public/assets/prompt_b50abe3271e79db3fcc1/0403fd20e7ee.jpg",
+      "alt": "E-commerce Main Image - Premium Lavender Balm Product Shot - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-30T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.880Z"
+  }
+}

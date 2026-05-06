@@ -1,0 +1,102 @@
+{
+  "id": "prompt_6a34a72b5aa50932eb13",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A photorealistic, high-resolution commercial photograph of a {argument name=\"car model and color\" default=\"bright blue Alpine A110 R sports car\"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license plate reading \"{argument name=\"license plate text\" default=\"A110 R\"}\". Directly behind the car, dominating the background, is a {argument name=\"airplane model\" default=\"white Airbus A320 commercial airliner\"} with a blue tail. The hangar has a highly polished, reflective concrete floor that mirrors the car and plane. To the left, a sign on the metal wall reads \"{argument name=\"hangar sign text\" default=\"HANGAR 05 MAINTENANCE\"}\". The hangar doors are wide open, revealing a bright, overcast sky and a distant cityscape. The lighting is soft and cinematic, highlighting the sleek aerodynamic curves of both vehicles.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "写实摄影风格创作",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Realistic photography style creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:39:22.399Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_947ffa0353",
+      "value": "写实摄影风格创作",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-154",
+      "originalId": "case-154",
+      "authors": [
+        {
+          "name": "AlwaveNazca",
+          "url": "https://x.com/AlwaveNazca"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6263
+        }
+      ],
+      "rawSource": "[@AlwaveNazca](https://x.com/AlwaveNazca)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9748f209eea4fa7e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case154.jpg",
+      "upstreamPath": "../data/images/case154.jpg",
+      "localPath": "public/assets/prompt_6a34a72b5aa50932eb13/43ce5380eb41.jpg",
+      "alt": "car model and color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

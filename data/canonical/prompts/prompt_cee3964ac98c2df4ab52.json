@@ -1,0 +1,105 @@
+{
+  "id": "prompt_cee3964ac98c2df4ab52",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Enhance this iPhone photo with ChatGPT so it looks like a professional photographer and designer worked on it.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Pro Instagram Photo Enhancement",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Reconstructed from the post text, which compares an iPhone photo with a ChatGPT-enhanced result.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "image-editing-style-transfer",
+      "value": "🖼️ Image Editing & Style Transfer",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/dezainaz_ceo/status/2047172512551977162",
+      "originalId": "https://x.com/dezainaz_ceo/status/2047172512551977162",
+      "authors": [
+        {
+          "name": "dezainaz_ceo",
+          "url": "https://x.com/dezainaz_ceo/status/2047172512551977162"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 992
+        }
+      ],
+      "rawSource": "[@dezainaz_ceo](https://x.com/dezainaz_ceo/status/2047172512551977162)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4ee1e0c45ae077ea",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGkEY9qbAAAXGbj?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGkEY9qbAAAXGbj?format=jpg&name=large",
+      "localPath": "public/assets/prompt_cee3964ac98c2df4ab52/01eb4c27597a.jpg",
+      "alt": "Before",
+      "status": "pending"
+    },
+    {
+      "id": "asset_8c45e4e33332f518",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGkEbUzbMAANbU9?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGkEbUzbMAANbU9?format=jpg&name=large",
+      "localPath": "public/assets/prompt_cee3964ac98c2df4ab52/e4f058ed4276.jpg",
+      "alt": "After",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

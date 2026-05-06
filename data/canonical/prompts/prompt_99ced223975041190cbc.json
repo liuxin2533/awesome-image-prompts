@@ -1,0 +1,105 @@
+{
+  "id": "prompt_99ced223975041190cbc",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "ポラロイド写真の中に人が写っていて、その人がフレームから外に飛び出している画像。日本語が書いてある画像生成して\n\n←下の画像\nGPT Image-2で生成したやつ→",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张宝丽来照片中有人，那个人从相框中跳出来的图像。生成一张有日文文字的图像\n\n←下面的图像\nGPT Image-2生成的那个→",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:57.670Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Polaroid Frame Breakout Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "宝丽来相框突破场景",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:02.764Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/MajaDesignJP/status/2047235632934928765",
+      "originalId": "case-69",
+      "authors": [
+        {
+          "name": "MajaDesignJP",
+          "url": "https://x.com/MajaDesignJP"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 605
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2ef7139313f4f232",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case113/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case113/output.jpg",
+      "localPath": "public/assets/prompt_99ced223975041190cbc/e77725877af6.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "写真"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.594Z"
+  }
+}

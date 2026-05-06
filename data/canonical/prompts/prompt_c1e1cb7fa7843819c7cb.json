@@ -1,0 +1,94 @@
+{
+  "id": "prompt_c1e1cb7fa7843819c7cb",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kissed skin, wearing a baby pink velour tracksuit and butterfly clips in her hair, smiling brightly at the camera, golden hour warm light, palm trees, y2k aesthetic, glossy lips",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Y2K 金色时刻人像",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "y2k",
+      "value": "Y2K 金色时刻人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-393",
+      "originalId": "case-393",
+      "authors": [
+        {
+          "name": "SiliconBarbie_",
+          "url": "https://x.com/SiliconBarbie_/status/2051475105403040014"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7473
+        }
+      ],
+      "rawSource": "[@SiliconBarbie_](https://x.com/SiliconBarbie_/status/2051475105403040014)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9546054310249926",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case393.jpg",
+      "upstreamPath": "../data/images/case393.jpg",
+      "localPath": "public/assets/prompt_c1e1cb7fa7843819c7cb/b9db3b1fbc15.jpg",
+      "alt": "Y2K 金色时刻人像",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "camera",
+      "人像"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.926Z"
+  }
+}

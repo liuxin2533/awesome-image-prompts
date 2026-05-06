@@ -1,0 +1,94 @@
+{
+  "id": "prompt_8f5165a4c852f4acbd98",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard over the past few days Prompt : A premium sports fashion campaign featuring a confident athletic woman wearing a red and white retro roller skating outfit, styled in a minimal studio environment with bold red and beige tones. Top frame: full-body shot of the model sitting casually on a concrete ledge, wearing white roller skates with red wheels, one leg extended and the other bent, looking sideways with a strong editorial pose. Background features large bold typography reading “FREEDOM” in oversized letters. Bottom left frame: close-up portrait of the model with glowing skin, slicked-back hair, and sharp lighting emphasizing facial structure. Minimal text “OWN YOUR PACE” placed beside her. Bottom right frame: dynamic action pose of the model skating low to the ground, hand reaching forward, showcasing motion and strength. Background includes minimal graphic lines and text “BALANCE FLOW FREEDOM”. Style: high-end commercial photography, sharp details, cinematic lighting, glossy skin highlights, strong shadows, ultra-clean composition, brand campaign aesthetic, Nike/Adidas inspired, 1:1 layout, grid collage format, editorial typography, bold color blocking, 4K resolution.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Retro Roller Skating Campaign",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AIwithSynthia/status/2050430705189191704",
+      "originalId": "case-181",
+      "authors": [
+        {
+          "name": "AIwithSynthia",
+          "url": "https://x.com/AIwithSynthia"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1849
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cad12afc71020322",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case181/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case181/output.jpg",
+      "localPath": "public/assets/prompt_8f5165a4c852f4acbd98/5f3813f7eca2.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T17:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.549Z"
+  }
+}

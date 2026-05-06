@@ -1,0 +1,175 @@
+{
+  "id": "prompt_8fc60008c76596224c61",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Three-image luxury golf editorial collage featuring a professional {argument name=\"golfer\" default=\"female golfer\"} on a pristine putting green, soft natural daylight, {argument name=\"style\" default=\"minimalistic and high-end sports photography style\"}, ultra-realistic, cinematic color grading, clean composition, no text, no logos\nLayout: asymmetrical grid (one large frame + two smaller frames)\nFrame 1 (Left – Hero Wide Shot):\nFull-body low-angle shot of the golfer crouching and lining up a putt, golf ball in foreground near the hole, strong leading lines on the green, balanced composition, calm and focused posture, expansive sky background\nFrame 2 (Top Right – Close-Up Detail):\nExtreme close-up of her face and hands gripping the putter, intense concentration, visible skin texture and slight sweat glow, shallow depth of field, blurred background\nFrame 3 (Bottom Right – Action Shot):\nSide angle of golfer completing the putt, smooth follow-through, golf ball rolling across the green, natural motion feel, soft shadows, realistic lighting\nStyle Keywords:\n{argument name=\"keywords\" default=\"luxury sports campaign, editorial photography, Nike-style aesthetic\"}, muted green tones, sharp focus, 85mm lens look, depth of field, cinematic lighting, premium composition, 4K, hyper-realistic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "三图奢华高尔夫主题拼贴画，主角为一位在纯净果岭上的 {argument name=\"golfer\" default=\"女性高尔夫球手\"}，柔和的自然日光，{argument name=\"style\" default=\"极简主义高端运动摄影风格\"}，超写实，电影级调色，构图简洁，无文字，无 Logo\n布局：非对称网格（一个大画幅 + 两个小画幅）\n画幅 1（左侧 – 主体广角镜头）：\n低角度全身镜头，展示球手蹲下并瞄准推杆，高尔夫球位于前景球洞附近，果岭上有强烈的引导线，构图平衡，姿态冷静专注，背景为广阔天空\n画幅 2（右上 – 特写细节）：\n面部与握杆双手的极致特写，神情专注，可见皮肤纹理与微汗光泽，浅景深，背景虚化\n画幅 3（右下 – 动作捕捉）：\n球手完成推杆的侧面角度，流畅的随挥动作，高尔夫球在果岭上滚动，自然的动态感，柔和阴影，写实光影\n风格关键词：\n{argument name=\"keywords\" default=\"奢华运动广告大片，编辑摄影，Nike 风格美学\"}，柔和绿色调，清晰对焦，85mm 镜头质感，景深效果，电影级布光，高级构图，4K，超写实",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Collage editorial de golf de lujo de tres imágenes que presenta a un {argument name=\"golfer\" default=\"golfista profesional\"} en un green impecable, luz natural suave, {argument name=\"style\" default=\"estilo de fotografía deportiva minimalista y de alta gama\"}, ultrarrealista, gradación de color cinematográfica, composición limpia, sin texto, sin logotipos\nDiseño: cuadrícula asimétrica (un marco grande + dos marcos más pequeños)\nMarco 1 (Izquierda – Plano general principal):\nPlano de cuerpo completo en ángulo bajo del golfista agachado y alineando un putt, pelota de golf en primer plano cerca del hoyo, líneas de dirección marcadas en el green, composición equilibrada, postura tranquila y concentrada, fondo de cielo expansivo\nMarco 2 (Arriba a la derecha – Detalle en primer plano):\nPrimer plano extremo de su rostro y manos sujetando el putter, concentración intensa, textura de piel visible y ligero brillo de sudor, profundidad de campo reducida, fondo desenfocado\nMarco 3 (Abajo a la derecha – Plano de acción):\nÁngulo lateral del golfista completando el putt, seguimiento suave, pelota de golf rodando por el green, sensación de movimiento natural, sombras suaves, iluminación realista\nPalabras clave de estilo:\n{argument name=\"keywords\" default=\"campaña deportiva de lujo, fotografía editorial, estética estilo Nike\"}, tonos verdes apagados, enfoque nítido, aspecto de lente de 85 mm, profundidad de campo, iluminación cinematográfica, composición premium, 4K, hiperrealista",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Dreiteilige luxuriöse Golf-Editorial-Collage mit einem professionellen {argument name=\"golfer\" default=\"weiblichen Golfer\"} auf einem makellosen Putting Green, weiches natürliches Tageslicht, {argument name=\"style\" default=\"minimalistischer und hochwertiger Sportfotografie-Stil\"}, ultrarealistisch, filmisches Color Grading, klare Komposition, kein Text, keine Logos\nLayout: asymmetrisches Raster (ein großer Rahmen + zwei kleinere Rahmen)\nRahmen 1 (Links – Hero-Weitwinkelaufnahme):\nGanzkörperaufnahme aus der Froschperspektive, wie der Golfer in die Hocke geht und einen Putt ausrichtet, Golfball im Vordergrund nahe dem Loch, starke Führungslinien auf dem Grün, ausgewogene Komposition, ruhige und konzentrierte Haltung, weiter Himmel im Hintergrund\nRahmen 2 (Oben rechts – Detail-Nahaufnahme):\nExtreme Nahaufnahme des Gesichts und der Hände, die den Putter umfassen, intensive Konzentration, sichtbare Hauttextur und leichter Schweißglanz, geringe Schärfentiefe, unscharfer Hintergrund\nRahmen 3 (Unten rechts – Action-Aufnahme):\nSeitenansicht des Golfers beim Abschluss des Putts, flüssiger Durchschwung, Golfball rollt über das Grün, natürliches Bewegungsgefühl, weiche Schatten, realistische Beleuchtung\nStil-Keywords:\n{argument name=\"keywords\" default=\"Luxus-Sportkampagne, Editorial-Fotografie, Ästhetik im Nike-Stil\"}, gedämpfte Grüntöne, scharfer Fokus, 85mm-Objektiv-Look, Schärfentiefe, filmische Beleuchtung, Premium-Komposition, 4K, hyperrealistisch",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Collage éditorial de golf de luxe composé de trois images mettant en scène une {argument name=\"golfer\" default=\"golfeuse professionnelle\"} sur un green immaculé, lumière naturelle douce, {argument name=\"style\" default=\"style de photographie sportive minimaliste et haut de gamme\"}, ultra-réaliste, étalonnage cinématographique, composition épurée, sans texte, sans logos\nDisposition : grille asymétrique (un grand cadre + deux cadres plus petits)\nCadre 1 (Gauche – Plan large principal) :\nPlan en pied en contre-plongée de la golfeuse accroupie en train d'aligner un putt, balle de golf au premier plan près du trou, lignes directrices marquées sur le green, composition équilibrée, posture calme et concentrée, ciel vaste en arrière-plan\nCadre 2 (Haut droite – Gros plan détaillé) :\nTrès gros plan sur son visage et ses mains saisissant le putter, concentration intense, texture de peau visible et léger éclat de sueur, faible profondeur de champ, arrière-plan flou\nCadre 3 (Bas droite – Plan d'action) :\nAngle latéral de la golfeuse terminant son putt, mouvement fluide, balle de golf roulant sur le green, sensation de mouvement naturel, ombres douces, éclairage réaliste\nMots-clés de style :\n{argument name=\"keywords\" default=\"campagne sportive de luxe, photographie éditoriale, esthétique style Nike\"}, tons verts atténués, mise au point nette, rendu objectif 85mm, profondeur de champ, éclairage cinématographique, composition premium, 4K, hyper-réaliste",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Collage editoriale di golf di lusso composto da tre immagini con un/una {argument name=\"golfer\" default=\"golfista donna\"} professionista su un green immacolato, luce naturale soffusa, {argument name=\"style\" default=\"stile fotografico sportivo minimalista e di alta gamma\"}, ultra-realistico, color grading cinematografico, composizione pulita, senza testo, senza loghi\nLayout: griglia asimmetrica (una cornice grande + due cornici più piccole)\nCornice 1 (Sinistra – Campo lungo principale):\nRipresa a figura intera dal basso della golfista accovacciata mentre prepara il putt, pallina da golf in primo piano vicino alla buca, linee guida marcate sul green, composizione bilanciata, postura calma e concentrata, sfondo con cielo ampio\nCornice 2 (In alto a destra – Dettaglio in primo piano):\nPrimo piano estremo del viso e delle mani che impugnano il putter, concentrazione intensa, texture della pelle visibile e leggero alone di sudore, profondità di campo ridotta, sfondo sfocato\nCornice 3 (In basso a destra – Scatto d'azione):\nAngolazione laterale della golfista che completa il putt, movimento fluido, pallina da golf che rotola sul green, sensazione di movimento naturale, ombre morbide, illuminazione realistica\nParole chiave dello stile:\n{argument name=\"keywords\" default=\"campagna sportiva di lusso, fotografia editoriale, estetica in stile Nike\"}, toni verdi tenui, messa a fuoco nitida, look da obiettivo 85mm, profondità di campo, illuminazione cinematografica, composizione premium, 4K, iper-realistico",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Colagem editorial de golfe de luxo com três imagens apresentando um(a) {argument name=\"golfer\" default=\"golfista profissional\"} em um putting green impecável, luz natural suave, {argument name=\"style\" default=\"estilo de fotografia esportiva minimalista e de alto padrão\"}, ultrarrealista, gradação de cores cinematográfica, composição limpa, sem texto, sem logotipos\nLayout: grade assimétrica (um quadro grande + dois quadros menores)\nQuadro 1 (Esquerda – Plano Aberto Principal):\nPlano de corpo inteiro em ângulo baixo do golfista agachado e alinhando uma tacada, bola de golfe em primeiro plano perto do buraco, linhas de condução fortes no green, composição equilibrada, postura calma e focada, fundo com céu amplo\nQuadro 2 (Superior Direito – Detalhe em Close-Up):\nClose-up extremo do rosto e das mãos segurando o taco, concentração intensa, textura de pele visível e leve brilho de suor, profundidade de campo rasa, fundo desfocado\nQuadro 3 (Inferior Direito – Foto de Ação):\nÂngulo lateral do golfista completando a tacada, movimento fluido, bola de golfe rolando pelo green, sensação de movimento natural, sombras suaves, iluminação realista\nPalavras-chave de Estilo:\n{argument name=\"keywords\" default=\"campanha esportiva de luxo, fotografia editorial, estética estilo Nike\"}, tons de verde suaves, foco nítido, visual de lente 85mm, profundidade de campo, iluminação cinematográfica, composição premium, 4K, hiper-realista",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Luxury Golf Editorial Collage",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 奢华高尔夫主题拼贴画",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Collage editorial de golf de lujo",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Luxuriöse Golf-Editorial-Collage",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Collage éditorial de golf de luxe",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Collage editoriale di golf di lusso",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Colagem Editorial de Golfe de Luxo",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A sophisticated prompt for a three-image luxury sports collage, featuring a professional golfer with high-end editorial photography style.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于三图奢华运动拼贴画的精美提示词，展现了具有高端编辑摄影风格的职业高尔夫球手。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt sophistiqué pour un collage sportif de luxe composé de trois images, mettant en scène un golfeur professionnel dans un style de photographie éditoriale haut de gamme.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/AIwithkhan/status/2051275667354890345",
+      "originalId": "https://x.com/AIwithkhan/status/2051275667354890345",
+      "authors": [
+        {
+          "name": "Smiling Khan",
+          "url": "https://x.com/AIwithkhan"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4247
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7bd6cc441de8e867",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971012959_w2wdbo_HHeYWSbbwAEszIb.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971012959_w2wdbo_HHeYWSbbwAEszIb.jpg",
+      "localPath": "public/assets/prompt_8fc60008c76596224c61/95b11c2339d0.jpg",
+      "alt": "Product Marketing - Luxury Golf Editorial Collage - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.858Z"
+  }
+}

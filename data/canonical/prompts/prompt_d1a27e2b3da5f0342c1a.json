@@ -1,0 +1,166 @@
+{
+  "id": "prompt_d1a27e2b3da5f0342c1a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cute anime-style {argument name=\"character type\" default=\"Japanese schoolgirl\"} drawn as a hand-made oil pastel illustration on textured paper, bust-up portrait, centered composition. She has {argument name=\"hair color\" default=\"dark brown\"} hair in 2 low twin ponytails with soft waves and a center part, small dark hair ties, and visible ears. Her face is mostly hidden by a large vertical skin-toned rectangular censor block placed over the center of the face from forehead to chin, leaving only the hair, ears, jawline edges, and a little neck visible. She wears a light beige school uniform jacket over a white frilled blouse with lace-like ruffles at the collar and cuffs, accented by a deep red ribbon bow at the neck. Her right hand is raised in a small clenched-fist pose near her chin, creating a shy, adorable, cheering gesture. Background is fully filled with rough diagonal pink pastel scribbles over warm off-white paper. Emphasize thick waxy oil pastel texture, visible grain of paper, soft blending, broken color strokes, sketch-like outlines, charming imperfect handmade crayon drawing quality, gentle warm lighting, nostalgic and extremely cute mood.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Cute Oil Pastel Schoolgirl Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Cute Oil Pastel Schoolgirl Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a nostalgic, adorable anime schoolgirl bust portrait in an oil pastel crayon style, useful for creating soft handmade character art with a playful censored-face composition.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/MireilleDartois/status/2048739113558573201#reversed-3",
+      "originalId": "https://x.com/MireilleDartois/status/2048739113558573201#reversed-3",
+      "authors": [
+        {
+          "name": "ダルトワ★TV",
+          "url": "https://x.com/MireilleDartois"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1087
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_46ea68de78ccb6f3",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367318637_zd2pgi_HG6VQpDboAAKvhH.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367318637_zd2pgi_HG6VQpDboAAKvhH.jpg",
+      "localPath": "public/assets/prompt_d1a27e2b3da5f0342c1a/d06b081c9f72.jpg",
+      "alt": "Profile / Avatar - Cute Oil Pastel Schoolgirl Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

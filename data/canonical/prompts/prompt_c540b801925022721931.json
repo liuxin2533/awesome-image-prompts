@@ -1,0 +1,106 @@
+{
+  "id": "prompt_c540b801925022721931",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{argument name=\"game\" default=\"gta 6\"} in {argument name=\"location\" default=\"Bangalore’s market flower\"} in India",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{argument name=\"game\" default=\"gta 6\"} 在 {argument name=\"location\" default=\"班加罗尔市场花卉\"} 在印度",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:30:04.354Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "GTA 6 in Bangalore Flower Market",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GTA 6 在班加罗尔花卉市场",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:30:04.184Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ismajc/status/2048174302164394493",
+      "originalId": "case-11",
+      "authors": [
+        {
+          "name": "ismajc",
+          "url": "https://x.com/ismajc"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 155
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_26967ab048cff857",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case11/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case11/output.jpg",
+      "localPath": "public/assets/prompt_c540b801925022721931/cc019b269ae8.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "character"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.560Z"
+  }
+}

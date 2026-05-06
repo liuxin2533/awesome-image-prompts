@@ -1,0 +1,98 @@
+{
+  "id": "prompt_773b2d6a8a0b1b030f61",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "向我展示这张附带的图像作为一部真实动漫的快照",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Show me the attached image as a snapshot from an actual anime",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "真实动漫画面快照",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d2b069c7ca",
+      "value": "真实动漫画面快照",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-285",
+      "originalId": "case-285",
+      "authors": [
+        {
+          "name": "Thereallo1026",
+          "url": "https://x.com/Thereallo1026/status/2044241997163311569"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3529
+        }
+      ],
+      "rawSource": "[@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_10ffd45126d223e6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case285.jpg",
+      "upstreamPath": "../data/images/case285.jpg",
+      "localPath": "public/assets/prompt_773b2d6a8a0b1b030f61/4f3deb630fb6.jpg",
+      "alt": "真实动漫画面快照",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

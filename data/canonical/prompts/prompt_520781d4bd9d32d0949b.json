@@ -1,0 +1,110 @@
+{
+  "id": "prompt_520781d4bd9d32d0949b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"2x2 portrait grid\",\r\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\r\n  \"style\": \"photorealistic, high-resolution, professional lighting, consistent facial identity across all panels\",\r\n  \"layout\": {\r\n    \"format\": \"2x2 grid\",\r\n    \"panel_count\": 4,\r\n    \"panels\": [\r\n      {\r\n        \"position\": \"top-left\",\r\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"top-right\",\r\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-left\",\r\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-right\",\r\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"2x2 portrait grid\",\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\n  \"style\": \"photorealistic, high-resolution, professional lighting, consistent facial identity across all panels\",\n  \"layout\": {\n    \"format\": \"2x2 grid\",\n    \"panel_count\": 4,\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:17:02.069Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "写实摄影风格创作",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Realistic Photography Style Creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:17:05.152Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_947ffa0353",
+      "value": "写实摄影风格创作",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-28",
+      "originalId": "case-28",
+      "authors": [
+        {
+          "name": "frankfu1688",
+          "url": "https://x.com/frankfu1688"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 631
+        }
+      ],
+      "rawSource": "[@frankfu1688](https://x.com/frankfu1688)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7e1b0ae9b495a0ff",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case28.jpg",
+      "upstreamPath": "../data/images/case28.jpg",
+      "localPath": "public/assets/prompt_520781d4bd9d32d0949b/42d6ae0736a4.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

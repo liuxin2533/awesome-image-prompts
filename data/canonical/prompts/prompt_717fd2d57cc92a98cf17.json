@@ -1,0 +1,93 @@
+{
+  "id": "prompt_717fd2d57cc92a98cf17",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\"type\": \"promotional advertisement poster for a bottled green tea beverage\", \"product\": {\"type\": \"clear plastic PET bottle filled with yellow-green tea\", \"label\": \"white label with green typography, featuring the product name '{argument name=\\\"product name\\\" default=\\\"清風茶\\\"}', subtitle '緑茶 Seifucha', and vertical text '国産茶葉使用' and '香り豊か、後味さわやか'\"}, \"background\": \"bright, fresh, sunlit outdoor atmosphere with dynamic water splashes wrapping around the bottle and vibrant green tea leaves\", \"layout\": {\"sections\": [{\"title\": \"headline\", \"position\": \"top-left\", \"text\": \"{argument name=\\\"main headline\\\" default=\\\"新発売\\\"}\", \"style\": \"large red text with a gold underline and a small green leaf accent\"}, {\"title\": \"catchphrase\", \"position\": \"mid-left\", \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"毎日に、すっきり。\\\"}\", \"style\": \"dark green text\"}, {\"title\": \"features\", \"position\": \"lower-left\", \"count\": 2, \"labels\": [\"国産茶葉使用\", \"香り豊か、後味さわやか\"], \"style\": \"white pill-shaped banners with green leaf icons\"}, {\"title\": \"price_badge\", \"position\": \"top-right\", \"text\": \"今だけ!! 特別価格 {argument name=\\\"price\\\" default=\\\"128円\\\"} (税込)\", \"style\": \"red circular sticker with white and yellow text\"}, {\"title\": \"promo_banner\", \"position\": \"bottom-left\", \"text\": \"期間限定のお得価格!\", \"style\": \"angled red ribbon with yellow and white text\"}, {\"title\": \"footer\", \"position\": \"bottom-edge\", \"text\": \"{argument name=\\\"footer text\\\" default=\\\"全国のコンビニ・スーパーで発売中\\\"}\", \"style\": \"solid green horizontal bar with a white shopping cart icon\"}]}}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-140",
+      "originalId": "case-140",
+      "authors": [
+        {
+          "name": "AutoIntelliMode",
+          "url": "https://x.com/AutoIntelliMode"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5758
+        }
+      ],
+      "rawSource": "[@AutoIntelliMode](https://x.com/AutoIntelliMode)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c290ed926721908c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case140.jpg",
+      "upstreamPath": "../data/images/case140.jpg",
+      "localPath": "public/assets/prompt_717fd2d57cc92a98cf17/eb8d2958bed7.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

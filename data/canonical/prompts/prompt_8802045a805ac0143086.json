@@ -1,0 +1,167 @@
+{
+  "id": "prompt_8802045a805ac0143086",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dreamy minimalist square image of a single iridescent soap bubble floating in the center against a deep blue soft-focus background, with bright natural sunlight pouring from the upper left and creating delicate lens flare, circular bokeh, and glowing highlights. The main bubble is sharply rendered with rainbow reflections and a tiny star-like sparkle on its lower right edge, while 6 additional out-of-focus bubbles appear around the frame: 1 large partial bubble at the lower left corner, 1 small bubble near the upper center, 1 faint bubble at the left middle, and 3 soft glowing bubbles clustered along the lower middle to lower right area. Across the center, overlay large handwritten Japanese brush-style text in white that reads {argument name=\"headline text\" default=\"はじける泡。\"}, with an emotional hand-drawn ink feel, slightly uneven strokes, and natural organic spacing. The overall mood is poetic, airy, luminous, and nostalgic, with shallow depth of field, premium photography aesthetics, clean composition, and strong contrast between the crisp central bubble and the blurred dreamy background.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Dreamy Bubble with Handwritten Japanese Text",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Dreamy Bubble with Handwritten Japanese Text",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a poetic bubble photograph with glowing bokeh and expressive handwritten Japanese text, suitable for emotional social media visuals or atmospheric cover art.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/akira_papa_IT/status/2048899628180078992#reversed-0",
+      "originalId": "https://x.com/akira_papa_IT/status/2048899628180078992#reversed-0",
+      "authors": [
+        {
+          "name": "あきらパパ【生成AI活用エンジニア&３児のパパ】",
+          "url": "https://x.com/akira_papa_IT"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1392
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c049d913b0ada953",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367319860_o5bvou_G6G78D_bIAAIjjV.png",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367319860_o5bvou_G6G78D_bIAAIjjV.png",
+      "localPath": "public/assets/prompt_8802045a805ac0143086/d891f941d0a6.png",
+      "alt": "Social Media Post - Dreamy Bubble with Handwritten Japanese Text - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.567Z"
+  }
+}

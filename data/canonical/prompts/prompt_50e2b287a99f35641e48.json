@@ -1,0 +1,108 @@
+{
+  "id": "prompt_50e2b287a99f35641e48",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name=\"main character outfit\" default=\"American flag t-shirt and denim shorts\"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name=\"background grill sign\" default=\"LONE STAR BBQ\"}. In the immediate foreground is a {argument name=\"food platter\" default=\"massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles\"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name=\"anime title\" default=\"もくもく すもーく ガールズ\"} with smoke and grill motifs. In the bottom left corner, there is a {argument name=\"credits text block\" default=\"staff credits block with names and roles\"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name=\"main character outfit\" default=\"American flag t-shirt and denim shorts\"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name=\"background grill sign\" default=\"LONE STAR BBQ\"}. In the immediate foreground is a {argument name=\"food platter\" default=\"massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles\"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name=\"anime title\" default=\"もくもく すもーく ガールズ\"} with smoke and grill motifs. In the bottom left corner, there is a {argument name=\"credits text block\" default=\"staff credits block with names and roles\"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:43.080Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:46.274Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-124",
+      "originalId": "case-124",
+      "authors": [
+        {
+          "name": "koshian_to",
+          "url": "https://x.com/koshian_to"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4804
+        }
+      ],
+      "rawSource": "[@koshian\\_to](https://x.com/koshian_to)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_67db174798afe260",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case124.jpg",
+      "upstreamPath": "../data/images/case124.jpg",
+      "localPath": "public/assets/prompt_50e2b287a99f35641e48/b61962d9b02d.jpg",
+      "alt": "main character outfit",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "anime",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "prompt_fcf8b784232f6fda2427",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A full-body fantasy anime-style illustration of a glamorous young idol-like woman performing on an ornate gilded stage inside a grand baroque palace hall. She stands in a dramatic low-angle pose on a carved gold balcony or platform, one leg forward and slightly crossed, with her left arm thrust toward the viewer in strong foreshortening and her other hand resting lightly at her chest. She has a slim, elegant build, very long flowing dark brown hair streaming in the air, and a decorative floral and ribbon headpiece. Her expression should feel confident, theatrical, and captivating. She wears an elaborate frilled performance dress in {argument name=\"dress colors\" default=\"royal blue, crimson red, white, and gold\"}: a fitted corset bodice with gold trim and red front panel, white lace bust and sleeves, layered short ruffled skirt, and large swirling overskirts and cape-like fabric panels edged with gold embroidery that billow dramatically around her. Add ornate ankle accessories with matching ribbon flowers, white heeled shoes or short boots, and luxurious detailed fabric textures. The setting is a richly decorated interior with 1 large glowing gothic arched window on the left, 1 heavy dark red velvet curtain framing the top and left side, 1 large classical oil painting in an ornate frame on the right wall, 1 tall carved column behind her, 1 abundant arrangement of roses and pale flowers at the lower left, and 1 gilded balustrade across the foreground. Warm golden backlight streams through the stained-glass-like window, creating a luminous halo, soft haze, rim light on her hair and costume, and deep cinematic shadows. A few rose petals drift in the air. Highly detailed, ultra-polished, romantic, majestic, dynamic composition, rich textures, painterly anime illustration with realistic lighting and luxurious fantasy idol aesthetics.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Baroque Fantasy Idol Performance",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - Baroque Fantasy Idol Performance",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a dramatic full-body anime-style heroine in an ornate palace interior, ideal for high-end fantasy illustration, character key art, or elegant AI art showcases.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/nanakakayell/status/2048897588326445290#reversed-0",
+      "originalId": "https://x.com/nanakakayell/status/2048897588326445290#reversed-0",
+      "authors": [
+        {
+          "name": "nanakaka",
+          "url": "https://x.com/nanakakayell"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3353
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cf1c0803c5dcb8d0",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367329427_ar5dmd_HG8lfdrbcAAA2y6.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367329427_ar5dmd_HG8lfdrbcAAA2y6.jpg",
+      "localPath": "public/assets/prompt_fcf8b784232f6fda2427/8832a5e2b7ef.jpg",
+      "alt": "Comic / Storyboard - Baroque Fantasy Idol Performance - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.125Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.571Z"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "prompt_9c8b5463ed32cf397b3c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"ornate anime trading card illustration\",\"language\":\"Japanese visible text\",\"overall_style\":\"high-detail fantasy sci-fi mobile game card, black and polished gold frame, glowing lens flares, holographic rainbow reflections, dramatic lighting, premium ultra-rare collectible card look\",\"card_title\":\"{argument name=\\\"card title\\\" default=\\\"巫女メカ娘\\\"}\",\"main_character\":{\"description\":\"young anime shrine maiden mecha girl centered in a heroic three-quarter pose, face covered by a plain skin-tone square censor block with no facial features visible\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"blonde\\\"} twin tails with soft curls, long side locks, small black mechanical hair attachments\",\"outfit\":\"white miko kimono top with very wide flowing sleeves, red trim and red cord knots, high-waisted red hakama skirt, black and gold obi belt, red bow at the waist\",\"equipment\":\"large gray mechanical armature and weapon-like robotic shoulder units rising behind both sides of her body, dark mechanical holster modules at the hips\",\"pose\":\"arms extended outward with sleeves billowing, torso facing forward, confident card-hero composition\"},\"background\":{\"setting\":\"golden magical summoning circle behind the character, luminous runes and rings, abstract futuristic city-like lights, sparks, petals, and prismatic bokeh\",\"color_palette\":\"black, gold, white, crimson red, gray metal, purple accents\"},\"layout\":{\"top\":{\"count\":3,\"elements\":[{\"position\":\"top left circular badge\",\"text\":\"7\",\"subtext\":\"コスト\",\"meaning\":\"cost value\"},{\"position\":\"top center title plaque\",\"text\":\"巫女メカ娘\"},{\"position\":\"top right stacked attribute boxes\",\"count\":2,\"labels\":[\"属性 光\",\"種族 機械・巫女\"],\"icon\":\"purple glowing emblem above the light attribute\"}]},\"middle\":{\"count\":2,\"elements\":[{\"position\":\"lower left stat box\",\"label\":\"攻撃力\",\"value\":\"{argument name=\\\"attack value\\\" default=\\\"7800\\\"}\"},{\"position\":\"lower right stat box\",\"label\":\"防御力\",\"value\":\"{argument name=\\\"defense value\\\" default=\\\"6500\\\"}\"}]},\"rarity_and_stars\":{\"position\":\"center below illustration\",\"star_count\":9,\"description\":\"nine gold stars in a row\",\"rarity_box\":{\"position\":\"bottom right\",\"label\":\"レアリティ\",\"value\":\"UR\",\"style\":\"large iridescent purple-gold letters\"}},\"ability_panel\":{\"position\":\"bottom black text panel with gold dividers\",\"section_count\":3,\"sections\":[{\"label\":\"必殺技\",\"name\":\"神域・光機斬\",\"cost_label\":\"消費：3\",\"description\":\"敵全体に光属性の大ダメージを与え、30%の確率で1ターン行動不能にする。\"},{\"label\":\"特殊能力\",\"name\":\"御神体ユニット\",\"description\":\"このカードが場に存在する限り、自分の場の機械族ユニットの防御力が20%上昇する。\"},{\"label\":\"パッシブ\",\"name\":\"浄化の結界\",\"description\":\"ターン開始時、味方全体のHPを攻撃力の05%回復する。\"}]},\"bottom_left_emblem\":{\"count\":1,\"description\":\"circular glowing golden flower crest inside concentric sci-fi magic rings\"}},\"border\":\"elaborate beveled gold-and-black frame with angular corners, metallic panels, decorative blue side gems, bright glints and highlights\",\"rendering_instructions\":\"make all Japanese text sharp, legible, and correctly placed; preserve the exact labels and numbers; square card aspect ratio; extremely detailed anime illustration with collectible card UI overlays\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"华丽动漫交易卡插画\",\"language\":\"可见日文文本\",\"overall_style\":\"高细节奇幻科幻手游卡牌，黑色与抛光金色边框，发光的镜头光晕，全息彩虹反射，戏剧性光影，高级超稀有收藏卡外观\",\"card_title\":\"{argument name=\\\"card title\\\" default=\\\"巫女机甲少女\\\"}\",\"main_character\":{\"description\":\"年轻动漫巫女机甲少女，处于英雄般的三分之二侧身姿势，脸部被一个纯肤色的方形遮挡块覆盖，无可见面部特征\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"金色\\\"} 双马尾，带有柔和的卷曲，长鬓角，带有小型黑色机械发饰\",\"outfit\":\"白色巫女和服上衣，袖子宽大飘逸，红色滚边和红色绳结，高腰红色袴裙，黑金腰带，腰间系有红色蝴蝶结\",\"equipment\":\"巨大的灰色机械骨架和类似武器的机器人肩部装置，从身体两侧升起，臀部配有深色机械枪套模块\",\"pose\":\"双臂向外伸展，袖子随风飘动，躯干朝前，自信的卡牌英雄构图\"},\"background\":{\"setting\":\"角色身后有金色的魔法召唤阵，发光的符文和圆环，抽象的未来城市灯光，火花，花瓣和棱镜光斑\",\"color_palette\":\"黑色，金色，白色，深红色，灰色金属，紫色点缀\"},\"layout\":{\"top\":{\"count\":3,\"elements\":[{\"position\":\"左上角圆形徽章\",\"text\":\"7\",\"subtext\":\"成本\",\"meaning\":\"成本数值\"},{\"position\":\"顶部中央标题牌\",\"text\":\"巫女机甲少女\"},{\"position\":\"右上角堆叠属性框\",\"count\":2,\"labels\":[\"属性 光\",\"种族 机械・巫女\"],\"icon\":\"光属性上方发光的紫色徽章\"}]},\"middle\":{\"count\":2,\"elements\":[{\"position\":\"左下角数值框\",\"label\":\"攻击力\",\"value\":\"{argument name=\\\"attack value\\\" default=\\\"7800\\\"}\"},{\"position\":\"右下角数值框\",\"label\":\"防御力\",\"value\":\"{argument name=\\\"defense value\\\" default=\\\"6500\\\"}\"}]},\"rarity_and_stars\":{\"position\":\"插画下方中央\",\"star_count\":9,\"description\":\"一排九颗金星\",\"rarity_box\":{\"position\":\"右下角\",\"label\":\"稀有度\",\"value\":\"UR\",\"style\":\"大型虹彩紫金色字母\"}},\"ability_panel\":{\"position\":\"带有金色分隔线的底部黑色文本面板\",\"section_count\":3,\"sections\":[{\"label\":\"必杀技\",\"name\":\"神域・光机斩\",\"cost_label\":\"消耗：3\",\"description\":\"对敌方全体造成光属性大额伤害，并有 30% 的概率使其 1 回合内无法行动。\"},{\"label\":\"特殊能力\",\"name\":\"御神体单元\",\"description\":\"只要此卡在场，我方场上机械族单位的防御力提升 20%。\"},{\"label\":\"被动技能\",\"name\":\"净化结界\",\"description\":\"回合开始时，恢复我方全体 HP，数值为攻击力的 0.5%。\"}]},\"bottom_left_emblem\":{\"count\":1,\"description\":\"同心科幻魔法环内发光的金色花朵徽章\"}},\"border\":\"精致的斜面金黑边框，带有棱角，金属面板，装饰性蓝色侧边宝石，明亮闪光和高光\",\"rendering_instructions\":\"确保所有日文文本清晰、易读且位置准确；保留确切的标签和数字；正方形卡牌比例；极其精细的动漫插画，带有收藏卡 UI 叠加层\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"ilustración de carta coleccionable estilo anime ornamentada\",\"language\":\"texto visible en japonés\",\"overall_style\":\"carta de juego móvil de fantasía y ciencia ficción de alto detalle, marco negro y dorado pulido, destellos de lente brillantes, reflejos holográficos de arcoíris, iluminación dramática, aspecto de carta coleccionable premium ultra rara\",\"card_title\":\"{argument name=\\\"card title\\\" default=\\\"巫女メカ娘\\\"}\",\"main_character\":{\"description\":\"joven chica mecha sacerdotisa estilo anime centrada en una pose heroica de tres cuartos, rostro cubierto por un bloque censor cuadrado de tono de piel sin rasgos faciales visibles\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"rubio\\\"} coletas con rizos suaves, mechones laterales largos, pequeños accesorios mecánicos negros en el cabello\",\"outfit\":\"parte superior de kimono miko blanco con mangas muy anchas y fluidas, ribete rojo y nudos de cordón rojos, falda hakama roja de cintura alta, cinturón obi negro y dorado, lazo rojo en la cintura\",\"equipment\":\"gran armadura mecánica gris y unidades robóticas tipo arma que se elevan detrás de ambos lados de su cuerpo, módulos de funda mecánica oscuros en las caderas\",\"pose\":\"brazos extendidos hacia afuera con mangas ondeando, torso mirando hacia adelante, composición de héroe de carta segura\"},\"background\":{\"setting\":\"círculo de invocación mágico dorado detrás del personaje, runas y anillos luminosos, luces abstractas tipo ciudad futurista, chispas, pétalos y bokeh prismático\",\"color_palette\":\"negro, dorado, blanco, rojo carmesí, metal gris, acentos púrpuras\"},\"layout\":{\"top\":{\"count\":3,\"elements\":[{\"position\":\"insignia circular superior izquierda\",\"text\":\"7\",\"subtext\":\"コスト\",\"meaning\":\"valor de costo\"},{\"position\":\"placa de título central superior\",\"text\":\"巫女メカ娘\"},{\"position\":\"cajas de atributos apiladas superiores derechas\",\"count\":2,\"labels\":[\"属性 光\",\"種族 機械・巫女\"],\"icon\":\"emblema brillante púrpura sobre el atributo de luz\"}]},\"middle\":{\"count\":2,\"elements\":[{\"position\":\"caja de estadísticas inferior izquierda\",\"label\":\"攻撃力\",\"value\":\"{argument name=\\\"attack value\\\" default=\\\"7800\\\"}\"},{\"position\":\"caja de estadísticas inferior derecha\",\"label\":\"防御力\",\"value\":\"{argument name=\\\"defense value\\\" default=\\\"6500\\\"}\"}]},\"rarity_and_stars\":{\"position\":\"centro debajo de la ilustración\",\"star_count\":9,\"description\":\"nueve estrellas doradas en fila\",\"rarity_box\":{\"position\":\"inferior derecha\",\"label\":\"レアリティ\",\"value\":\"UR\",\"style\":\"letras grandes iridiscentes púrpura-doradas\"}},\"ability_panel\":{\"position\":\"panel de texto inferior negro con divisores dorados\",\"section_count\":3,\"sections\":[{\"label\":\"必殺技\",\"name\":\"神域・光機斬\",\"cost_label\":\"消費：3\",\"description\":\"敵全体に光属性の大ダメージを与え、30%の確率で1ターン行動不能にする。\"},{\"label\":\"特殊能力\",\"name\":\"御神体ユニット\",\"description\":\"このカードが場に存在する限り、自分の場の機械族ユニットの防御力が20%上昇する。\"},{\"label\":\"パッシブ\",\"name\":\"浄化の結界\",\"description\":\"ターン開始時、味方全体のHPを攻撃力の05%回復する。\"}]},\"bottom_left_emblem\":{\"count\":1,\"description\":\"emblema de flor dorada brillante circular dentro de anillos mágicos de ciencia ficción concéntricos\"}},\"border\":\"marco elaborado biselado dorado y negro con esquinas angulares, paneles metálicos, gemas laterales decorativas azules, destellos brillantes y reflejos\",\"rendering_instructions\":\"haz que todo el texto en japonés sea nítido, legible y esté colocado correctamente; conserva las etiquetas y números exactos; relación de aspecto de carta cuadrada; ilustración de anime extremadamente detallada con superposiciones de interfaz de carta coleccionable\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"verzierte Anime-Sammelkarten-Illustration\",\"language\":\"japanischer sichtbarer Text\",\"overall_style\":\"hochdetaillierte Fantasy-Sci-Fi-Handyspielkarte, schwarz-polierter Goldrahmen, leuchtende Lens Flares, holografische Regenbogenreflexionen, dramatische Beleuchtung, Look einer ultra-seltenen Premium-Sammelkarte\",\"card_title\":\"{argument name=\\\"card title\\\" default=\\\"巫女メカ娘\\\"}\",\"main_character\":{\"description\":\"junges Anime-Miko-Mecha-Mädchen, zentriert in einer heroischen Dreiviertelpose, Gesicht bedeckt durch einen einfachen hautfarbenen quadratischen Zensurbalken ohne sichtbare Gesichtszüge\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"blond\\\"} Twin-Tails mit sanften Locken, lange Seitensträhnen, kleine schwarze mechanische Haar-Accessoires\",\"outfit\":\"weißes Miko-Kimono-Oberteil mit sehr weiten, fließenden Ärmeln, roter Verzierung und roten Kordelknoten, hoch taillierter roter Hakama-Rock, schwarz-goldener Obi-Gürtel, rote Schleife in der Taille\",\"equipment\":\"große graue mechanische Armatur und waffenähnliche robotische Schultereinheiten, die hinter beiden Körperseiten aufragen, dunkle mechanische Holster-Module an den Hüften\",\"pose\":\"Arme nach außen gestreckt mit bauschenden Ärmeln, Oberkörper nach vorne gerichtet, selbstbewusste Karten-Helden-Komposition\"},\"background\":{\"setting\":\"goldener magischer Beschwörungskreis hinter dem Charakter, leuchtende Runen und Ringe, abstrakte futuristische stadtähnliche Lichter, Funken, Blütenblätter und prismatisches Bokeh\",\"color_palette\":\"Schwarz, Gold, Weiß, Karmesinrot, graues Metall, violette Akzente\"},\"layout\":{\"top\":{\"count\":3,\"elements\":[{\"position\":\"oberes linkes kreisförmiges Abzeichen\",\"text\":\"7\",\"subtext\":\"Kosten\",\"meaning\":\"Kostenwert\"},{\"position\":\"obere mittlere Titelplakette\",\"text\":\"巫女メカ娘\"},{\"position\":\"obere rechte gestapelte Attributboxen\",\"count\":2,\"labels\":[\"Attribut Licht\",\"Typ Maschine/Miko\"],\"icon\":\"violett leuchtendes Emblem über dem Licht-Attribut\"}]},\"middle\":{\"count\":2,\"elements\":[{\"position\":\"untere linke Stat-Box\",\"label\":\"Angriff\",\"value\":\"{argument name=\\\"attack value\\\" default=\\\"7800\\\"}\"},{\"position\":\"untere rechte Stat-Box\",\"label\":\"Verteidigung\",\"value\":\"{argument name=\\\"defense value\\\" default=\\\"6500\\\"}\"}]},\"rarity_and_stars\":{\"position\":\"mittig unter der Illustration\",\"star_count\":9,\"description\":\"neun goldene Sterne in einer Reihe\",\"rarity_box\":{\"position\":\"unten rechts\",\"label\":\"Seltenheit\",\"value\":\"UR\",\"style\":\"große irisierende violett-goldene Buchstaben\"}},\"ability_panel\":{\"position\":\"unteres schwarzes Textfeld mit goldenen Trennlinien\",\"section_count\":3,\"sections\":[{\"label\":\"Spezialangriff\",\"name\":\"神域・光機斬\",\"cost_label\":\"Kosten: 3\",\"description\":\"Fügt allen Gegnern massiven Lichtschaden zu und macht sie mit einer Wahrscheinlichkeit von 30 % für 1 Runde handlungsunfähig.\"},{\"label\":\"Spezialfähigkeit\",\"name\":\"御神体ユニット\",\"description\":\"Solange diese Karte auf dem Spielfeld liegt, erhöht sich die Verteidigung eigener Maschinen-Einheiten um 20 %.\"},{\"label\":\"Passiv\",\"name\":\"浄化の結界\",\"description\":\"Zu Beginn des Zuges werden die HP aller Verbündeten um 5 % des Angriffswerts geheilt.\"}]},\"bottom_left_emblem\":{\"count\":1,\"description\":\"kreisförmiges leuchtendes goldenes Blumenwappen innerhalb konzentrischer Sci-Fi-Magieringe\"}},\"border\":\"aufwendiger abgeschrägter Gold-Schwarz-Rahmen mit kantigen Ecken, Metallpaneelen, dekorativen blauen Seitenedelsteinen, hellen Glanzlichtern und Highlights\",\"rendering_instructions\":\"sorge dafür, dass der japanische Text scharf, lesbar und korrekt platziert ist; behalte die exakten Beschriftungen und Zahlen bei; quadratisches Karten-Seitenverhältnis; extrem detaillierte Anime-Illustration mit Sammelkarten-UI-Overlays\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"illustration de carte à collectionner anime ornée\",\"language\":\"texte japonais visible\",\"overall_style\":\"carte de jeu mobile fantasy et science-fiction très détaillée, cadre noir et or poli, effets de lumière, reflets holographiques arc-en-ciel, éclairage dramatique, aspect carte de collection premium ultra-rare\",\"card_title\":\"{argument name=\\\"card title\\\" default=\\\"巫女メカ娘\\\"}\",\"main_character\":{\"description\":\"jeune fille méca prêtresse (miko) de style anime, centrée dans une pose héroïque de trois-quarts, visage couvert par un bloc de censure carré couleur peau sans traits visibles\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"blonde\\\"} couettes avec boucles douces, longues mèches latérales, petits accessoires mécaniques noirs dans les cheveux\",\"outfit\":\"haut de kimono miko blanc avec manches très larges et fluides, bordures rouges et nœuds de cordons rouges, jupe hakama rouge taille haute, ceinture obi noire et or, nœud rouge à la taille\",\"equipment\":\"grande armature mécanique grise et unités d'épaule robotiques ressemblant à des armes s'élevant derrière les deux côtés de son corps, modules de holster mécaniques sombres au niveau des hanches\",\"pose\":\"bras étendus vers l'extérieur avec manches flottantes, torse tourné vers l'avant, composition héroïque de carte\"},\"background\":{\"setting\":\"cercle d'invocation magique doré derrière le personnage, runes et anneaux lumineux, lumières abstraites de ville futuriste, étincelles, pétales et bokeh prismatique\",\"color_palette\":\"noir, or, blanc, rouge cramoisi, métal gris, accents violets\"},\"layout\":{\"top\":{\"count\":3,\"elements\":[{\"position\":\"badge circulaire en haut à gauche\",\"text\":\"7\",\"subtext\":\"コスト\",\"meaning\":\"valeur de coût\"},{\"position\":\"plaque de titre en haut au centre\",\"text\":\"巫女メカ娘\"},{\"position\":\"boîtes d'attributs empilées en haut à droite\",\"count\":2,\"labels\":[\"属性 光\",\"種族 機械・巫女\"],\"icon\":\"emblème violet brillant au-dessus de l'attribut lumière\"}]},\"middle\":{\"count\":2,\"elements\":[{\"position\":\"boîte de statistiques en bas à gauche\",\"label\":\"攻撃力\",\"value\":\"{argument name=\\\"attack value\\\" default=\\\"7800\\\"}\"},{\"position\":\"boîte de statistiques en bas à droite\",\"label\":\"防御力\",\"value\":\"{argument name=\\\"defense value\\\" default=\\\"6500\\\"}\"}]},\"rarity_and_stars\":{\"position\":\"centre sous l'illustration\",\"star_count\":9,\"description\":\"neuf étoiles dorées alignées\",\"rarity_box\":{\"position\":\"en bas à droite\",\"label\":\"レアリティ\",\"value\":\"UR\",\"style\":\"grandes lettres irisées violettes et dorées\"}},\"ability_panel\":{\"position\":\"panneau de texte noir en bas avec séparateurs dorés\",\"section_count\":3,\"sections\":[{\"label\":\"必殺技\",\"name\":\"神域・光機斬\",\"cost_label\":\"消費：3\",\"description\":\"敵全体に光属性の大ダメージを与え、30%の確率で1ターン行動不能にする。\"},{\"label\":\"特殊能力\",\"name\":\"御神体ユニット\",\"description\":\"このカードが場に存在する限り、自分の場の機械族ユニットの防御力が20%上昇する。\"},{\"label\":\"パッシブ\",\"name\":\"浄化の結界\",\"description\":\"ターン開始時、味方全体のHPを攻撃力の05%回復する。\"}]},\"bottom_left_emblem\":{\"count\":1,\"description\":\"emblème de fleur dorée brillante circulaire à l'intérieur d'anneaux magiques de science-fiction concentriques\"}},\"border\":\"cadre élaboré biseauté or et noir avec coins angulaires, panneaux métalliques, gemmes latérales décoratives bleues, reflets et éclats lumineux\",\"rendering_instructions\":\"rendez tout le texte japonais net, lisible et correctement placé ; conservez les étiquettes et les chiffres exacts ; format de carte carré ; illustration anime extrêmement détaillée avec superpositions d'interface de carte à collectionner\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"illustrazione di carta collezionabile anime ornata\",\"language\":\"testo giapponese visibile\",\"overall_style\":\"carta da gioco mobile fantasy sci-fi ad alto dettaglio, cornice nera e oro lucido, bagliori dell'obiettivo, riflessi arcobaleno olografici, illuminazione drammatica, aspetto da carta collezionabile premium ultra rara\",\"card_title\":\"{argument name=\\\"card title\\\" default=\\\"巫女メカ娘\\\"}\",\"main_character\":{\"description\":\"giovane ragazza mecha sacerdotessa anime in posa eroica di tre quarti, volto coperto da un blocco censore quadrato color carne senza tratti facciali visibili\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"biondi\\\"} a codini con riccioli morbidi, lunghe ciocche laterali, piccoli accessori meccanici neri per capelli\",\"outfit\":\"top kimono miko bianco con maniche molto ampie e fluenti, bordi rossi e nodi di corda rossi, gonna hakama rossa a vita alta, cintura obi nera e oro, fiocco rosso in vita\",\"equipment\":\"grande armatura meccanica grigia e unità robotiche simili ad armi che si elevano dietro entrambi i lati del corpo, moduli fondina meccanici scuri sui fianchi\",\"pose\":\"braccia estese verso l'esterno con maniche che ondeggiano, busto rivolto in avanti, composizione eroica da carta collezionabile\"},\"background\":{\"setting\":\"cerchio di evocazione magico dorato dietro il personaggio, rune e anelli luminosi, luci astratte simili a una città futuristica, scintille, petali e bokeh prismatico\",\"color_palette\":\"nero, oro, bianco, rosso cremisi, metallo grigio, accenti viola\"},\"layout\":{\"top\":{\"count\":3,\"elements\":[{\"position\":\"badge circolare in alto a sinistra\",\"text\":\"7\",\"subtext\":\"コスト\",\"meaning\":\"valore di costo\"},{\"position\":\"targa del titolo in alto al centro\",\"text\":\"巫女メカ娘\"},{\"position\":\"box degli attributi impilati in alto a destra\",\"count\":2,\"labels\":[\"属性 光\",\"種族 機械・巫女\"],\"icon\":\"emblema viola luminoso sopra l'attributo luce\"}]},\"middle\":{\"count\":2,\"elements\":[{\"position\":\"box statistiche in basso a sinistra\",\"label\":\"攻撃力\",\"value\":\"{argument name=\\\"attack value\\\" default=\\\"7800\\\"}\"},{\"position\":\"box statistiche in basso a destra\",\"label\":\"防御力\",\"value\":\"{argument name=\\\"defense value\\\" default=\\\"6500\\\"}\"}]},\"rarity_and_stars\":{\"position\":\"al centro sotto l'illustrazione\",\"star_count\":9,\"description\":\"nove stelle dorate in fila\",\"rarity_box\":{\"position\":\"in basso a destra\",\"label\":\"レアリティ\",\"value\":\"UR\",\"style\":\"grandi lettere iridescenti viola-oro\"}},\"ability_panel\":{\"position\":\"pannello di testo nero in basso con divisori dorati\",\"section_count\":3,\"sections\":[{\"label\":\"必殺技\",\"name\":\"神域・光機斬\",\"cost_label\":\"消費：3\",\"description\":\"敵全体に光属性の大ダメージを与え、30%の確率で1ターン行動不能にする。\"},{\"label\":\"特殊能力\",\"name\":\"御神体ユニット\",\"description\":\"このカードが場に存在する限り、自分の場の機械族ユニットの防御力が20%上昇する。\"},{\"label\":\"パッシブ\",\"name\":\"浄化の結界\",\"description\":\"ターン開始時、味方全体のHPを攻撃力の05%回復する。\"}]},\"bottom_left_emblem\":{\"count\":1,\"description\":\"stemma floreale dorato luminoso circolare all'interno di anelli magici sci-fi concentrici\"}},\"border\":\"elaborata cornice smussata oro e nero con angoli spigolosi, pannelli metallici, gemme decorative blu laterali, bagliori luminosi e riflessi\",\"rendering_instructions\":\"rendi tutto il testo giapponese nitido, leggibile e posizionato correttamente; preserva le etichette e i numeri esatti; proporzioni della carta quadrate; illustrazione anime estremamente dettagliata con sovrapposizioni dell'interfaccia utente della carta collezionabile\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"ilustração de carta colecionável de anime ornamental\",\"language\":\"texto em japonês visível\",\"overall_style\":\"carta de jogo mobile de fantasia e ficção científica com alto nível de detalhe, moldura preta e dourada polida, reflexos de lente brilhantes, reflexos holográficos de arco-íris, iluminação dramática, visual de carta colecionável premium ultra-rara\",\"card_title\":\"{argument name=\\\"card title\\\" default=\\\"巫女メカ娘\\\"}\",\"main_character\":{\"description\":\"jovem garota mecha sacerdotisa de anime centralizada em uma pose heroica de três quartos, rosto coberto por um bloco censor quadrado de tom de pele simples, sem características faciais visíveis\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"loiro\\\"} maria-chiquinha com cachos suaves, mechas laterais longas, pequenos acessórios de cabelo mecânicos pretos\",\"outfit\":\"parte superior de quimono miko branco com mangas largas e fluidas, acabamento vermelho e nós de corda vermelhos, saia hakama vermelha de cintura alta, cinto obi preto e dourado, laço vermelho na cintura\",\"equipment\":\"grande armadura mecânica cinza e unidades de ombro robóticas semelhantes a armas surgindo atrás de ambos os lados do corpo, módulos de coldre mecânicos escuros nos quadris\",\"pose\":\"braços estendidos para fora com mangas ondulando, tronco voltado para frente, composição confiante de herói de carta\"},\"background\":{\"setting\":\"círculo de invocação mágico dourado atrás da personagem, runas e anéis luminosos, luzes abstratas de cidade futurista, faíscas, pétalas e bokeh prismático\",\"color_palette\":\"preto, dourado, branco, vermelho carmesim, metal cinza, detalhes em roxo\"},\"layout\":{\"top\":{\"count\":3,\"elements\":[{\"position\":\"emblema circular superior esquerdo\",\"text\":\"7\",\"subtext\":\"コスト\",\"meaning\":\"valor de custo\"},{\"position\":\"placa de título central superior\",\"text\":\"巫女メカ娘\"},{\"position\":\"caixas de atributos empilhadas no canto superior direito\",\"count\":2,\"labels\":[\"属性 光\",\"種族 機械・巫女\"],\"icon\":\"emblema roxo brilhante acima do atributo de luz\"}]},\"middle\":{\"count\":2,\"elements\":[{\"position\":\"caixa de estatísticas inferior esquerda\",\"label\":\"攻撃力\",\"value\":\"{argument name=\\\"attack value\\\" default=\\\"7800\\\"}\"},{\"position\":\"caixa de estatísticas inferior direita\",\"label\":\"防御力\",\"value\":\"{argument name=\\\"defense value\\\" default=\\\"6500\\\"}\"}]},\"rarity_and_stars\":{\"position\":\"centro abaixo da ilustração\",\"star_count\":9,\"description\":\"nove estrelas douradas em uma linha\",\"rarity_box\":{\"position\":\"inferior direito\",\"label\":\"レアリティ\",\"value\":\"UR\",\"style\":\"letras grandes iridescentes roxo-douradas\"}},\"ability_panel\":{\"position\":\"painel de texto preto inferior com divisórias douradas\",\"section_count\":3,\"sections\":[{\"label\":\"必殺技\",\"name\":\"神域・光機斬\",\"cost_label\":\"消費：3\",\"description\":\"敵全体に光属性の大ダメージを与え、30%の確率で1ターン行動不能にする。\"},{\"label\":\"特殊能力\",\"name\":\"御神体ユニット\",\"description\":\"このカードが場に存在する限り、自分の場の機械族ユニットの防御力が20%上昇する。\"},{\"label\":\"パッシブ\",\"name\":\"浄化の結界\",\"description\":\"ターン開始時、味方全体のHPを攻撃力の05%回復する。\"}]},\"bottom_left_emblem\":{\"count\":1,\"description\":\"brasão de flor dourada brilhante circular dentro de anéis mágicos concêntricos de ficção científica\"}},\"border\":\"moldura elaborada chanfrada em dourado e preto com cantos angulares, painéis metálicos, joias laterais decorativas azuis, brilhos intensos e destaques\",\"rendering_instructions\":\"torne todo o texto em japonês nítido, legível e posicionado corretamente; preserve os rótulos e números exatos; proporção de carta quadrada; ilustração de anime extremamente detalhada com sobreposições de interface de carta colecionável\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Game Asset - Ultra Rare Miko Mecha Card",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "游戏素材 - 超稀有巫女机甲卡牌",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Activo de juego - Carta coleccionable Miko Mecha ultra rara",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Spiel-Asset - Ultra-seltene Miko-Mecha-Karte",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ressource de jeu - Carte à collectionner Miko Mecha ultra rare",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Asset di gioco - Carta collezionabile Miko Mecha ultra rara",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Ativo de Jogo - Carta Colecionável Miko Mecha Ultra Rara",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a detailed Japanese fantasy sci-fi trading card featuring a shrine maiden mecha girl with stats, abilities, rarity, and ornate gold UI framing.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张细节丰富的日本奇幻科幻风格交易卡，主角为巫女机甲少女，包含属性、技能、稀有度以及华丽的金色 UI 边框。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une carte à collectionner détaillée de style fantasy et science-fiction japonaise, représentant une jeune fille méca prêtresse (miko), incluant statistiques, capacités, rareté et un cadre d'interface orné en or.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "game-asset",
+      "value": "Game Asset",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/yudotanaka/status/2051430167231201686#reversed-0",
+      "originalId": "https://x.com/yudotanaka/status/2051430167231201686#reversed-0",
+      "authors": [
+        {
+          "name": "田中勇道 | AI画像・動画生成",
+          "url": "https://x.com/yudotanaka"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4998
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_006ae49bb4381fb2",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971050286_bctw1q_HHHPsShbwAAtO85.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971050286_bctw1q_HHHPsShbwAAtO85.jpg",
+      "localPath": "public/assets/prompt_9c8b5463ed32cf397b3c/7638b90e54b4.jpg",
+      "alt": "Game Asset - Ultra Rare Miko Mecha Card - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "character",
+      "card",
+      "角色",
+      "卡牌"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.860Z"
+  }
+}

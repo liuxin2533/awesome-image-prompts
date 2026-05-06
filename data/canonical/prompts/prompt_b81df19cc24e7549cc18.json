@@ -1,0 +1,93 @@
+{
+  "id": "prompt_b81df19cc24e7549cc18",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT Image 2 on ChatGPT Prompt: Create a bold street-fashion poster featuring a handsome man with short black hair, and a fearless expression. Dress him in a glossy emerald satin bomber jacket and black pants. Place him in front of a distressed concrete wall with emerald, black, and white layered textures. Use dramatic editorial lighting, crisp contrast, and a premium urban mood. Add bold uppercase typography with a clean modern poster style.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Emerald Street Fashion Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/harboriis/status/2050444570345742591",
+      "originalId": "case-180",
+      "authors": [
+        {
+          "name": "harboriis",
+          "url": "https://x.com/harboriis"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1837
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_74bfcac4ecccecaa",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case180/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case180/output.jpg",
+      "localPath": "public/assets/prompt_b81df19cc24e7549cc18/0dfe0f1eecd0.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T17:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.549Z"
+  }
+}

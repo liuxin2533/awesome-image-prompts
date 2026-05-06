@@ -1,0 +1,168 @@
+{
+  "id": "prompt_240eab44942a883be761",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{ \r\n  \"scene_type\": \"smartphone fashion portrait series\",\r\n  \"composition\": {\r\n    \"layout\": \"4-photo grid collage\",\r\n    \"camera\": \"smartphone photography\",\r\n    \"framing\": [\r\n      \"full body standing\",\r\n      \"crouching pose\",\r\n      \"casual seated pose\",\r\n      \"upper body portrait\"\r\n    ],\r\n    \"angle\": \"eye-level, natural perspective\",\r\n    \"aspect_ratio\": \"1:1 collage\"\r\n  },\r\n  \"subject\": {\r\n    \"gender\": \"{argument name=\"gender\" default=\"female\"}\",\r\n    \"age\": \"{argument name=\"age\" default=\"early 20s\"}\",\r\n    \"aesthetic\": \"extremely beautiful, sensual, candid\",\r\n    \"appearance\": {\r\n      \"skin_tone\": \"smooth light complexion\",\r\n      \"face\": \"soft feminine features, natural symmetry, bright smile\",\r\n      \"expression\": \"playful, warm, confident, subtly sensual\",\r\n      \"eyes\": \"expressive, gentle gaze\",\r\n      \"hair\": {\r\n        \"color\": \"{argument name=\"hair color\" default=\"deep black\"}\",\r\n        \"style\": \"long, loose waves\",\r\n        \"texture\": \"soft, natural shine\"\r\n      },\r\n      \"makeup\": \"natural glam, dewy skin, soft blush, subtle lip tint\"\r\n    },\r\n    \"outfit\": {\r\n      \"top\": \"white fitted sleeveless crop top\",\r\n      \"bottom\": \"loose straight-leg blue jeans\",\r\n      \"shoes\": \"casual white sneakers\",\r\n      \"style\": \"minimal, effortless, modern casual\"\r\n    },\r\n    \"pose_style\": \"relaxed, candid, playful fashion poses\",\r\n    \"body_language\": \"confident yet soft, natural movements, gentle sensual elegance\"\r\n  },\r\n  \"environment\": {\r\n    \"location\": \"minimal studio backdrop\",\r\n    \"background\": \"clean light gray seamless wall\",\r\n    \"floor\": \"neutral studio floor\",\r\n    \"lighting\": {\r\n      \"type\": \"soft diffused studio lighting\",\r\n      \"tone\": \"neutral\",\r\n      \"shadows\": \"soft and natural\",\r\n      \"highlights\": \"subtle skin glow\"\r\n    }\r\n  },\r\n  \"style\": {\r\n    \"photography_type\": \"smartphone editorial fashion\",\r\n    \"visual_tone\": \"minimalist, airy, modern\",\r\n    \"mood\": \"candid, sensual elegance, fresh and confident\",\r\n    \"color_palette\": \"white, denim blue, soft gray\",\r\n    \"contrast\": \"low to medium\",\r\n    \"grain\": \"very light natural grain\"\r\n  },\r\n  \"rendering\": {\r\n    \"realism\": \"ultra-realistic\",\r\n    \"detail_level\": \"high skin and fabric texture detail\",\r\n    \"sharpness\": \"high\",\r\n    \"depth_of_field\": \"natural\",\r\n    \"post_processing\": \"minimal, clean, slightly soft finish\"\r\n  },\r\n  \"atmosphere\": \"modern, youthful, effortless beauty, subtle sensual charm\"\r\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Casual Fashion Grid Photoshoot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Casual Fashion Grid Photoshoot",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A structured JSON prompt for a 4-photo collage of a casual fashion photoshoot with detailed subject and lighting parameters.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/craftian_keskin/status/2048848908999135645",
+      "originalId": "https://x.com/craftian_keskin/status/2048848908999135645",
+      "authors": [
+        {
+          "name": "Keskin",
+          "url": "https://x.com/craftian_keskin"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 562
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5b8725009e0c7bfc",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367267771_teyn0r_HG74_nJaoAEM5oD.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367267771_teyn0r_HG74_nJaoAEM5oD.jpg",
+      "localPath": "public/assets/prompt_240eab44942a883be761/59708017f675.jpg",
+      "alt": "Profile / Avatar - Casual Fashion Grid Photoshoot - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.564Z"
+  }
+}

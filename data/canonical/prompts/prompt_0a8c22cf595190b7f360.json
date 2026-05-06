@@ -1,0 +1,109 @@
+{
+  "id": "prompt_0a8c22cf595190b7f360",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A 3D render of a cute kawaii {argument name=\"subject\" default=\"cloud\"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name=\"accent colors\" default=\"pink, blue, and purple\"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A 3D render of a cute kawaii {argument name=\"subject\" default=\"cloud\"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name=\"accent colors\" default=\"pink, blue, and purple\"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:47:00.789Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "电商商品展示设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "E-commerce product display design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:47:02.855Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_c8e9dff7f8",
+      "value": "电商商品展示设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-33",
+      "originalId": "case-33",
+      "authors": [
+        {
+          "name": "yurunekofree",
+          "url": "https://x.com/yurunekofree"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 758
+        }
+      ],
+      "rawSource": "[@yurunekofree](https://x.com/yurunekofree)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d09e98ea6b46d938",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case33.jpg",
+      "upstreamPath": "../data/images/case33.jpg",
+      "localPath": "public/assets/prompt_0a8c22cf595190b7f360/62c11a384047.jpg",
+      "alt": "subject",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

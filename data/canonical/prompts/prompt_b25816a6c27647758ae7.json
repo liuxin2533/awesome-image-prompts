@@ -1,0 +1,108 @@
+{
+  "id": "prompt_b25816a6c27647758ae7",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。\n・包含三视图：正面、侧面和背面\n・添加角色面部表情的变化・分解并展示服装和装备的详细部分\n・添加色板・包含世界观设定的简要说明\n・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。\n・包含三视图：正面、侧面和背面\n・添加角色面部表情的变化\n・分解并展示服装和装备的详细部分\n・添加色板\n・包含世界观设定的简要说明\n・总体上，使用有组织的布局（白色背景，插画风格）高分辨率、专业概念艺术风格",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:09:00.658Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Persona5 Character Reference Card",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "女神异闻录5 角色参考卡",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:09:02.797Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/iamrednightS/status/2045075682837836265",
+      "originalId": "case-2",
+      "authors": [
+        {
+          "name": "iamrednightS",
+          "url": "https://x.com/iamrednightS"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 16
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b1dac08a6e1defb7",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg",
+      "localPath": "public/assets/prompt_b25816a6c27647758ae7/f3738cb7fde1.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "card",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

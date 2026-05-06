@@ -1,0 +1,105 @@
+{
+  "id": "prompt_c991c2cff3d7cb7ddc98",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Avant-garde sports fashion advertisement, oversized tennis racket positioned like monumental sculpture, female athlete seated casually on the strings as if a suspended lounge, giant word “PRECISION” in bold typography behind, crisp white studio backdrop, reflective court-like floor, luxury sportswear editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "前卫运动时尚广告，超大号网球拍被放置成纪念碑雕塑的样子，女运动员随意地坐在球拍弦上，仿佛是一个悬浮的休息区，后方有巨大的\"PRECISION\"字样，采用粗体排版，清晰的白色工作室背景，具有反射效果的球场式地板，奢侈运动服装编辑美学，电影感照明，超干净的构图，1:1",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:19:54.276Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Avant-Garde Tennis Racket Sculpture Sports Fashion Ad",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "前卫网球拍雕塑运动时尚广告",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:19:52.210Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AIwithSynthia/status/2047884609321619831",
+      "originalId": "case-74",
+      "authors": [
+        {
+          "name": "AIwithSynthia",
+          "url": "https://x.com/AIwithSynthia"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 983
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c6c63a2b3328439e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case74/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case74/output.jpg",
+      "localPath": "public/assets/prompt_c991c2cff3d7cb7ddc98/81a54cb2ccbd.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "poster"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.602Z"
+  }
+}

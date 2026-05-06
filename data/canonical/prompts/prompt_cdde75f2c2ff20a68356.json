@@ -1,0 +1,166 @@
+{
+  "id": "prompt_cdde75f2c2ff20a68356",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A Pixar-style 3D character portrait of a {argument name=\"subject description\" default=\"young person with delicate skin, large and agile blue eyes, soft facial features, and transparent round-frame glasses\"}. Featuring a {argument name=\"hair style\" default=\"modern short hairstyle\"}, wearing a {argument name=\"clothing\" default=\"simple hoodie\"}, with the head slightly tilted and a warm, friendly smile. The scene is minimalist and clean, with an {argument name=\"background color\" default=\"orange-pink gradient background\"}, soft studio lighting, distinct rim lighting, cinematic depth of field, ultra-fine details, 8K resolution, and Octane rendering effect.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Pixar Style 3D Character Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Pixar Style 3D Character Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A high-resolution, cinema-quality prompt for creating a cute 3D character portrait in the style of Pixar, featuring soft lighting and a gradient background.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Zahor24552439/status/2048738238307983774",
+      "originalId": "https://x.com/Zahor24552439/status/2048738238307983774",
+      "authors": [
+        {
+          "name": "Zayden",
+          "url": "https://x.com/Zahor24552439"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1155
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5fb6544189279555",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367275014_hzdgfd_HG6UkEOa4AA6hVG.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367275014_hzdgfd_HG6UkEOa4AA6hVG.jpg",
+      "localPath": "public/assets/prompt_cdde75f2c2ff20a68356/5cbf25f3979e.jpg",
+      "alt": "Profile / Avatar - Pixar Style 3D Character Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "profile"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

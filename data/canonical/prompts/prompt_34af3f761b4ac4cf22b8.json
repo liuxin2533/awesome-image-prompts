@@ -1,0 +1,99 @@
+{
+  "id": "prompt_34af3f761b4ac4cf22b8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A realistic young woman sitting casually in a softly lit bedroom during late afternoon.\n\nShe is holding her phone very close to her face as if recording a private video or voice note.\n\nFraming is tight and slightly imperfect.\n\nExpression: thoughtful, slightly shy, natural.\n\nMinimal makeup, natural skin texture, relaxed clothing.\n\nLighting: warm natural light fading from a window, soft shadows.\n\nEnvironment: simple bedroom, calm and lived-in.\n\nStyle: ultra-realistic, looks like a real phone recording, slightly grainy, not cinematic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个真实的年轻女子在下午晚些时候的柔和灯光的卧室里随意坐着。\n\n她把手机非常贴近自己的脸，仿佛在录制私人视频或语音笔记。\n\n构图紧凑且略有瑕疵。\n\n表情：沉思，略带羞涩，自然。\n\n淡妆，自然的皮肤质感，休闲的服装。\n\n光线：温暖的自然光从窗户逐渐减弱，柔和的阴影。\n\n环境：简单的卧室，宁静且有人居住过的痕迹。\n\n风格：超写实，看起来像真实的手机录制，略带颗粒感，非电影感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:42.901Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Realistic Candid Bedroom Recording Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait",
+      "value": "portrait",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ChillaiKalan__/status/2047862141894681076",
+      "originalId": "case-30",
+      "authors": [
+        {
+          "name": "ChillaiKalan__",
+          "url": "https://x.com/ChillaiKalan__"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 408
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9d31a46114771938",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case30/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case30/output.jpg",
+      "localPath": "public/assets/prompt_34af3f761b4ac4cf22b8/72b748e48d15.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "portrait",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

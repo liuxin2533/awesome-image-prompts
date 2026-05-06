@@ -1,0 +1,176 @@
+{
+  "id": "prompt_87c1a5b4c34c37febfd6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A young woman with {argument name=\"hair color\" default=\"long red hair\"} sitting on a towel at a {argument name=\"location\" default=\"sunny beach\"}. She is wearing a {argument name=\"outfit\" default=\"fitted beige tank top and light blue denim shorts with a brown belt\"}. She holds sunglasses in one hand and looks off into the distance while the other hand rests in her hair. The background features soft sand, palm trees, and a clear blue sky with warm golden sunlight casting natural highlights. A small handbag sits beside her. The atmosphere is bright, summery, and relaxed.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Summery Beach Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Summery Beach Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Summery Beach Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for generating a photorealistic, sun-kissed portrait of a woman relaxing at the beach during golden hour.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/mizq06/status/2048790504817737741",
+      "originalId": "https://x.com/mizq06/status/2048790504817737741",
+      "authors": [
+        {
+          "name": "Miz",
+          "url": "https://x.com/mizq06"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1831
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fb82ca4de94873e5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367266697_38b7vc_HG7EF0DbIAEGn_1.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367266697_38b7vc_HG7EF0DbIAEGn_1.jpg",
+      "localPath": "public/assets/prompt_87c1a5b4c34c37febfd6/f062d3da6a57.jpg",
+      "alt": "Social Media Post - Summery Beach Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_aeb6a9c3336941a3",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367266811_yo18b9_HG7EF0Fa0AAYDPs.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367266811_yo18b9_HG7EF0Fa0AAYDPs.jpg",
+      "localPath": "public/assets/prompt_87c1a5b4c34c37febfd6/3fbe85246f9a.jpg",
+      "alt": "Social Media Post - Summery Beach Portrait - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.567Z"
+  }
+}

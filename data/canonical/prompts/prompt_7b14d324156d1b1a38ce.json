@@ -1,0 +1,107 @@
+{
+  "id": "prompt_7b14d324156d1b1a38ce",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张为劳力士创作的高级超现实主义海报。一个深翠绿色的极简工作室，配有抛光的反射地板。一块巨大的劳力士手表像纪念碑一样直立着。一位穿着定制深绿色西装的男模特随意地倚靠在表盘上，佩戴着配套的劳力士。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:06.281Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Modern Mafia Boss Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超现实主义劳力士豪华手表时尚海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:09.600Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/john_my07/status/2050455807851147461",
+      "originalId": "case-78",
+      "authors": [
+        {
+          "name": "john_my07",
+          "url": "https://x.com/john_my07"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 726
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f343d898b176a541",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case78/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case78/output.jpg",
+      "localPath": "public/assets/prompt_7b14d324156d1b1a38ce/b798fdf16b8b.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-02T17:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.549Z"
+  }
+}

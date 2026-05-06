@@ -1,0 +1,74 @@
+{
+  "id": "prompt_0bbe7ba5ffaa2f697f9b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。\n\n背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "古希腊三哲时间轴城市图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5cf3032813",
+      "value": "古希腊三哲时间轴城市图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-375",
+      "originalId": "case-375",
+      "authors": [
+        {
+          "name": "ToroJushiAi",
+          "url": "https://x.com/ToroJushiAi/status/2050713034503409874"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6849
+        }
+      ],
+      "rawSource": "[@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f99692da651fd930",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case375.jpg",
+      "upstreamPath": "../data/images/case375.jpg",
+      "localPath": "public/assets/prompt_0bbe7ba5ffaa2f697f9b/342bfa716ae5.jpg",
+      "alt": "古希腊三哲时间轴城市图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:06:54.901Z"
+  }
+}

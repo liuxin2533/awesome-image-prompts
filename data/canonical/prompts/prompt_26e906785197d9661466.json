@@ -1,0 +1,107 @@
+{
+  "id": "prompt_26e906785197d9661466",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:\"「ここにセリフ」\"",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用最新的图像生成工具，\n使用这个Q版角色插画和立绘，制作一个真实的网站页面风格的角色介绍页面插画。（可以作为介绍页面使用）\n想象成美少女游戏的角色介绍页面，高品质的。有脸部差异等，存在CG插画。存在Q版角色。\n\n\"这里放自我介绍\"\n\n名字:（这里放名字） \n形象颜色:（这里放颜色） \n身高:（这里放身高）cm \n体重:（这里放体重）kg\n宣传语:\"「这里放台词」\"",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:02:31.948Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Gal Game Character Introduction Page",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "美少女游戏角色介绍页面",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:02:27.745Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/09lyco/status/2045281845391323175",
+      "originalId": "case-3",
+      "authors": [
+        {
+          "name": "09lyco",
+          "url": "https://x.com/09lyco"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 31
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9b4b7470a94ec9a6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case3/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case3/output.jpg",
+      "localPath": "public/assets/prompt_26e906785197d9661466/097826e663b9.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

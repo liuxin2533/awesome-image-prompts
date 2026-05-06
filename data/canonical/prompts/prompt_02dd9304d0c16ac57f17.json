@@ -1,0 +1,188 @@
+{
+  "id": "prompt_02dd9304d0c16ac57f17",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Based on 1-3 clear personal photos uploaded by the user, generate a 3x3 grid photo puzzle with the theme \"{argument name=\"photo theme\" default=\"Summer Grape Girl Photo Series\"}\".\n\nStrictly preserve the subject's real identity characteristics, including face shape, facial proportions, eye/brow structure, nose, lips, skin tone, age, hairstyle features, and overall temperament. The person in all nine images must clearly look like the same real girl; she must not become a stranger, look Westernized, look like a generic influencer, be over-beautified, or have an AI-generated face.\n\nThe overall theme is a fresh and natural everyday girl's portrait. The character wears a {argument name=\"clothing description\" default=\"creamy white or off-white soft dress / slip dress\"} and a {argument name=\"accessory\" default=\"purple vintage floral headscarf\"}. The overall look is clean, natural, and daily, with a summer girl vibe. Accessories are simple, like small earrings, but not overly ornate.\n\nSet the scene as a summer picnic portrait in an outdoor meadow, under tree shadows, or by a vineyard. Include elements like purple grapes, grape clusters, woven baskets, glass bottles, picnic blankets, and light-colored tableware to create a natural lifestyle feel. Sunlight filters through leaves, creating soft dappled shadows, with a naturally blurred background.\n\nDesign the final image as a 3x3 grid with white borders. All nine small photos must feature the same person, same outfit, and same scene, but each must be distinctly different: different expressions, different facial angles, different poses, different camera positions, and different compositions (wide vs. close-up). Do not just have nine slight variations of the same angle.\n\nThe nine photos can show: holding grapes and smiling, lying on the grass looking at the camera, holding a grape to the mouth, organizing the basket, sitting still facing forward, a close-up of a grape against the cheek, a candid turning shot, smelling the grapes with eyes closed, and lying on the grass holding the basket. Expressions should be varied, including quiet, playful, gentle, smiling with eyes closed, naturally daydreaming, and candid laughter.\n\nThe style is Fujifilm camera texture, Japanese film photography style, realistic shooting feel, soft natural light, shallow depth of field, slight film grain, and fresh natural tones. Purple grapes should be the visual focus. The image is clean, durable, and has a sense of life and youth.\n\nAvoid: Western faces, influencer faces, over-beautification, plastic skin, fake faces, repetitive expressions, repetitive angles, hand deformities, distorted props, messy backgrounds, studio style, illustration style, or CG feel.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于用户上传的 1-3 张清晰个人照片，生成一个主题为“{argument name=\"photo theme\" default=\"夏日葡萄少女写真系列\"}”的 3x3 网格照片拼图。\n\n严格保留主体真实的身份特征，包括脸型、面部比例、眼眉结构、鼻子、嘴唇、肤色、年龄、发型特征以及整体气质。所有九张图中的人物必须清晰地看起来是同一个真实女孩；她不能变成陌生人、不能看起来像西方人、不能像网红脸、不能过度美颜，也不能有 AI 生成的痕迹。\n\n整体主题为清新自然的日常少女写真。人物穿着 {argument name=\"clothing description\" default=\"奶油白或米白色柔软连衣裙 / 吊带裙\"} 和 {argument name=\"accessory\" default=\"紫色复古碎花头巾\"}。整体造型干净、自然、日常，具有夏日少女氛围。配饰简洁，如小耳环，不宜过于华丽。\n\n场景设定为户外草地、树荫下或葡萄园旁的夏日野餐人像。包含紫色葡萄、葡萄串、编织篮、玻璃瓶、野餐垫和浅色餐具等元素，营造自然的生活感。阳光透过叶片洒下，形成柔和的斑驳光影，背景自然虚化。\n\n将最终图像设计为带有白色边框的 3x3 网格。所有九张小图必须是同一个人、同样的服装和同样的场景，但每一张都必须有显著差异：不同的表情、不同的面部角度、不同的姿势、不同的拍摄位置和不同的构图（远景与特写）。不要仅仅是同一个角度的九种细微变化。\n\n这九张照片可以展示：拿着葡萄微笑、躺在草地上看向镜头、拿着葡萄放在嘴边、整理篮子、静坐面向前方、葡萄贴在脸颊的特写、不经意的回眸、闭眼闻葡萄以及躺在草地上抱着篮子。表情应多样化，包括安静、俏皮、温柔、闭眼微笑、自然发呆和不经意的大笑。\n\n风格为富士相机质感、日系胶片摄影风格、真实的拍摄感、柔和的自然光、浅景深、轻微的胶片颗粒感以及清新自然的色调。紫色葡萄应作为视觉焦点。画面干净、耐看，具有生活气息和青春感。\n\n避免：西方脸、网红脸、过度美颜、塑料感皮肤、假脸、重复的表情、重复的角度、手部畸形、道具扭曲、杂乱的背景、影棚风格、插画风格或 CG 感。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Dựa trên 1 - 3 bức ảnh cá nhân rõ nét do người dùng tải lên, hãy tạo một lưới ảnh 3x3 với chủ đề \"{argument name=\"photo theme\" default=\"Bộ ảnh Cô gái Nho mùa hè\"}\".\n\nPhải giữ nguyên các đặc điểm nhận dạng thực tế của chủ thể, bao gồm hình dáng khuôn mặt, tỷ lệ khuôn mặt, cấu trúc mắt/lông mày, mũi, môi, tông da, độ tuổi, đặc điểm kiểu tóc và khí chất tổng thể. Người trong cả chín bức ảnh phải trông giống hệt cô gái thực tế đó; không được biến thành người lạ, không mang nét phương Tây, không giống các influencer đại trà, không được làm đẹp quá đà hoặc mang vẻ mặt do AI tạo ra.\n\nChủ đề tổng thể là chân dung một cô gái đời thường, tươi mới và tự nhiên. Nhân vật mặc một chiếc {argument name=\"clothing description\" default=\"váy mềm màu trắng kem hoặc trắng ngà / váy hai dây\"} và đeo một chiếc {argument name=\"accessory\" default=\"khăn trùm đầu họa tiết hoa cổ điển màu tím\"}. Vẻ ngoài tổng thể sạch sẽ, tự nhiên và đời thường, mang đậm hơi thở mùa hè. Phụ kiện đơn giản, như bông tai nhỏ, không quá cầu kỳ.\n\nThiết lập bối cảnh là buổi chụp hình dã ngoại mùa hè trên đồng cỏ ngoài trời, dưới bóng cây hoặc bên vườn nho. Kết hợp các yếu tố như nho tím, chùm nho, giỏ đan, chai thủy tinh, thảm dã ngoại và bộ đồ ăn màu sáng để tạo cảm giác phong cách sống tự nhiên. Ánh nắng xuyên qua tán lá, tạo ra những bóng đổ loang lổ nhẹ nhàng cùng hậu cảnh được làm mờ tự nhiên.\n\nThiết kế hình ảnh cuối cùng thành lưới 3x3 với viền trắng. Tất cả chín bức ảnh nhỏ phải có cùng một người, cùng trang phục và cùng bối cảnh, nhưng mỗi bức phải khác biệt rõ rệt: biểu cảm khác nhau, góc mặt khác nhau, tư thế khác nhau, vị trí máy ảnh khác nhau và bố cục khác nhau (toàn cảnh so với cận cảnh). Không được chỉ tạo ra chín biến thể nhỏ của cùng một góc chụp.\n\nChín bức ảnh có thể bao gồm: cầm nho và mỉm cười, nằm trên cỏ nhìn vào máy ảnh, đưa quả nho lên miệng, sắp xếp giỏ, ngồi yên nhìn thẳng, cận cảnh quả nho áp vào má, khoảnh khắc quay đầu tự nhiên, ngửi nho với đôi mắt nhắm hờ và nằm trên cỏ ôm giỏ. Biểu cảm cần đa dạng, bao gồm trầm tư, tinh nghịch, dịu dàng, mỉm cười nhắm mắt, mơ màng tự nhiên và cười đùa tự nhiên.\n\nPhong cách là chất ảnh máy Fujifilm, phong cách nhiếp ảnh phim Nhật Bản, cảm giác chụp ảnh chân thực, ánh sáng tự nhiên dịu nhẹ, độ sâu trường ảnh nông, có hạt phim nhẹ và tông màu tươi mới tự nhiên. Nho tím nên là tiêu điểm thị giác. Hình ảnh cần sạch sẽ, bền bỉ với thời gian và mang đậm hơi thở của cuộc sống và tuổi trẻ.\n\nTránh: Gương mặt phương Tây, gương mặt influencer, làm đẹp quá đà, da nhựa, gương mặt giả, biểu cảm lặp lại, góc chụp lặp lại, biến dạng bàn tay, đạo cụ méo mó, hậu cảnh lộn xộn, phong cách studio, phong cách minh họa hoặc cảm giác giống CG.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Basado en 1 a 3 fotos personales claras cargadas por el usuario, genera un rompecabezas fotográfico en cuadrícula de 3x3 con el tema \"{argument name=\"photo theme\" default=\"Serie de fotos de chica con uvas en verano\"}\".\n\nPreserva estrictamente las características de identidad real del sujeto, incluyendo la forma de la cara, proporciones faciales, estructura de ojos/cejas, nariz, labios, tono de piel, edad, características del peinado y temperamento general. La persona en las nueve imágenes debe verse claramente como la misma chica real; no debe convertirse en una desconocida, verse occidentalizada, parecer una influencer genérica, estar excesivamente embellecida ni tener un rostro generado por IA.\n\nEl tema general es un retrato fresco y natural de una chica cotidiana. El personaje viste un {argument name=\"clothing description\" default=\"vestido suave color crema o blanco hueso / vestido lencero\"} y un {argument name=\"accessory\" default=\"pañuelo vintage con estampado floral morado\"}. El aspecto general es limpio, natural y cotidiano, con una vibra de chica de verano. Los accesorios son sencillos, como aretes pequeños, pero no demasiado ornamentados.\n\nEstablece la escena como un retrato de picnic de verano en un prado al aire libre, bajo la sombra de los árboles o junto a un viñedo. Incluye elementos como uvas moradas, racimos de uvas, cestas de mimbre, botellas de vidrio, mantas de picnic y vajilla de colores claros para crear una sensación de estilo de vida natural. La luz del sol se filtra a través de las hojas, creando sombras suaves y moteadas, con un fondo naturalmente desenfocado.\n\nDiseña la imagen final como una cuadrícula de 3x3 con bordes blancos. Las nueve fotos pequeñas deben presentar a la misma persona, el mismo atuendo y la misma escena, pero cada una debe ser claramente diferente: diferentes expresiones, diferentes ángulos faciales, diferentes poses, diferentes posiciones de cámara y diferentes composiciones (plano general vs. primer plano). No te limites a hacer nueve variaciones leves del mismo ángulo.\n\nLas nueve fotos pueden mostrar: sosteniendo uvas y sonriendo, recostada en el pasto mirando a la cámara, sosteniendo una uva cerca de la boca, organizando la cesta, sentada quieta mirando hacia adelante, un primer plano de una uva contra la mejilla, una toma espontánea girando, oliendo las uvas con los ojos cerrados y recostada en el pasto sosteniendo la cesta. Las expresiones deben ser variadas, incluyendo tranquila, juguetona, gentil, sonriendo con los ojos cerrados, soñando despierta de forma natural y risa espontánea.\n\nEl estilo es de textura de cámara Fujifilm, estilo de fotografía de película japonesa, sensación de disparo realista, luz natural suave, profundidad de campo reducida, ligero grano de película y tonos naturales frescos. Las uvas moradas deben ser el enfoque visual. La imagen es limpia, duradera y tiene un sentido de vida y juventud.\n\nEvita: rostros occidentales, rostros de influencer, embellecimiento excesivo, piel de plástico, rostros falsos, expresiones repetitivas, ángulos repetitivos, deformidades en las manos, accesorios distorsionados, fondos desordenados, estilo de estudio, estilo de ilustración o sensación de CG.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Basierend auf 1-3 klaren, vom Benutzer hochgeladenen persönlichen Fotos soll ein 3x3-Raster-Fotopuzzle zum Thema „{argument name=\"photo theme\" default=\"Sommer-Traubenmädchen Fotoserie\"}“ erstellt werden.\n\nBewahren Sie strikt die Identitätsmerkmale der Person, einschließlich Gesichtsform, Gesichtsproportionen, Augen-/Augenbrauenstruktur, Nase, Lippen, Hautton, Alter, Frisurmerkmale und das allgemeine Temperament. Die Person auf allen neun Bildern muss eindeutig wie dasselbe echte Mädchen aussehen; sie darf nicht zu einer Fremden werden, nicht verwestlicht wirken, nicht wie eine generische Influencerin aussehen, nicht übermäßig geschönt sein und kein KI-generiertes Gesicht haben.\n\nDas Gesamtthema ist das Porträt eines frischen und natürlichen Mädchens im Alltag. Die Figur trägt ein {argument name=\"clothing description\" default=\"cremeweißes oder cremefarbenes weiches Kleid / Slip Dress\"} und ein {argument name=\"accessory\" default=\"violettes Vintage-Blumenkopftuch\"}. Der Gesamtlook ist sauber, natürlich und alltagstauglich, mit sommerlichem Flair. Die Accessoires sind schlicht, wie kleine Ohrringe, aber nicht übermäßig verziert.\n\nGestalten Sie die Szene als Sommer-Picknick-Porträt auf einer Wiese im Freien, im Schatten von Bäumen oder in einem Weinberg. Integrieren Sie Elemente wie violette Weintrauben, Traubenrispen, geflochtene Körbe, Glasflaschen, Picknickdecken und helles Geschirr, um ein natürliches Lebensgefühl zu erzeugen. Sonnenlicht filtert durch die Blätter und erzeugt weiche, gesprenkelte Schatten vor einem natürlich unscharfen Hintergrund.\n\nGestalten Sie das Endbild als 3x3-Raster mit weißen Rändern. Alle neun kleinen Fotos müssen dieselbe Person, dasselbe Outfit und dieselbe Szene zeigen, aber jedes muss sich deutlich unterscheiden: verschiedene Gesichtsausdrücke, verschiedene Blickwinkel, verschiedene Posen, unterschiedliche Kamerapositionen und unterschiedliche Bildkompositionen (Weitwinkel vs. Nahaufnahme). Verwenden Sie nicht einfach neun leichte Variationen desselben Winkels.\n\nDie neun Fotos können zeigen: Trauben halten und lächeln, auf dem Gras liegen und in die Kamera schauen, eine Traube zum Mund führen, den Korb ordnen, still nach vorne schauen, eine Nahaufnahme einer Traube an der Wange, eine spontane Drehung, mit geschlossenen Augen an den Trauben riechen und mit dem Korb auf dem Gras liegen. Die Ausdrücke sollten variieren, einschließlich ruhig, verspielt, sanft, lächelnd mit geschlossenen Augen, natürlich verträumt und spontanem Lachen.\n\nDer Stil ist Fujifilm-Kameratextur, japanischer Filmfotografie-Stil, realistisches Aufnahmegefühl, weiches natürliches Licht, geringe Schärfentiefe, leichtes Filmkorn und frische, natürliche Farbtöne. Violette Weintrauben sollten der visuelle Fokus sein. Das Bild ist klar, zeitlos und vermittelt ein Gefühl von Leben und Jugend.\n\nVermeiden Sie: westliche Gesichter, Influencer-Gesichter, Über-Schönung, Plastikhaut, künstliche Gesichter, sich wiederholende Ausdrücke, sich wiederholende Winkel, Handdeformitäten, verzerrte Requisiten, unordentliche Hintergründe, Studiostil, Illustrationsstil oder CG-Look.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "À partir de 1 à 3 photos personnelles claires téléchargées par l'utilisateur, générez un puzzle photo en grille 3x3 sur le thème « {argument name=\"photo theme\" default=\"Summer Grape Girl Photo Series\"} ».\n\nPréservez strictement les caractéristiques réelles du sujet, notamment la forme du visage, les proportions faciales, la structure des yeux et des sourcils, le nez, les lèvres, le teint, l'âge, les caractéristiques de la coiffure et le tempérament général. La personne sur les neuf images doit clairement être la même jeune fille ; elle ne doit pas devenir une inconnue, paraître occidentalisée, ressembler à une influenceuse générique, être trop embellie ou avoir un visage généré par IA.\n\nLe thème général est celui d'un portrait naturel et frais d'une jeune fille au quotidien. Le personnage porte une {argument name=\"clothing description\" default=\"robe douce blanc crème ou blanc cassé / robe nuisette\"} et un {argument name=\"accessory\" default=\"foulard vintage à fleurs violettes\"}. L'aspect général est propre, naturel et quotidien, avec une ambiance de fille estivale. Les accessoires sont simples, comme de petites boucles d'oreilles, sans être trop ornés.\n\nSituez la scène dans un portrait de pique-nique estival dans une prairie en plein air, sous l'ombre des arbres ou près d'un vignoble. Incluez des éléments tels que des raisins violets, des grappes de raisin, des paniers en osier, des bouteilles en verre, des couvertures de pique-nique et de la vaisselle de couleur claire pour créer une atmosphère de vie naturelle. La lumière du soleil filtre à travers les feuilles, créant des ombres douces et tachetées, avec un arrière-plan naturellement flou.\n\nConcevez l'image finale sous forme de grille 3x3 avec des bordures blanches. Les neuf petites photos doivent présenter la même personne, la même tenue et la même scène, mais chacune doit être distinctement différente : expressions variées, angles de visage différents, poses différentes, positions de caméra différentes et compositions variées (plan large vs gros plan). Ne vous contentez pas de neuf légères variations du même angle.\n\nLes neuf photos peuvent montrer : tenir des raisins en souriant, allongée sur l'herbe en regardant l'appareil, porter un raisin à la bouche, organiser le panier, assise immobile face à l'objectif, un gros plan d'un raisin contre la joue, un cliché pris sur le vif en se retournant, sentir les raisins les yeux fermés et allongée sur l'herbe en tenant le panier. Les expressions doivent être variées, incluant la tranquillité, l'espièglerie, la douceur, le sourire les yeux fermés, la rêverie naturelle et le rire spontané.\n\nLe style est celui d'une texture d'appareil photo Fujifilm, un style de photographie argentique japonaise, une sensation de prise de vue réaliste, une lumière naturelle douce, une faible profondeur de champ, un léger grain de film et des tons frais et naturels. Les raisins violets doivent être le point focal visuel. L'image est épurée, intemporelle et dégage un sentiment de vie et de jeunesse.\n\nÀ éviter : visages occidentaux, visages d'influenceuses, embellissement excessif, peau en plastique, visages factices, expressions répétitives, angles répétitifs, déformations des mains, accessoires déformés, arrière-plans désordonnés, style studio, style illustration ou rendu typé images de synthèse (CG).",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Partendo da 1-3 foto personali nitide caricate dall'utente, genera un puzzle fotografico a griglia 3x3 con il tema \"{argument name=\"photo theme\" default=\"Summer Grape Girl Photo Series\"}\".\n\nPreserva rigorosamente i tratti distintivi dell'identità del soggetto, inclusi forma del viso, proporzioni facciali, struttura di occhi e sopracciglia, naso, labbra, tonalità della pelle, età, caratteristiche dell'acconciatura e temperamento generale. La persona in tutte e nove le immagini deve chiaramente apparire come la stessa ragazza reale; non deve diventare un'estranea, avere tratti occidentali, sembrare un'influencer generica, essere eccessivamente ritoccata o avere un volto generato dall'IA.\n\nIl tema generale è il ritratto fresco e naturale di una ragazza nella vita quotidiana. Il personaggio indossa un {argument name=\"clothing description\" default=\"abito morbido color crema o bianco sporco / sottoveste\"} e un {argument name=\"accessory\" default=\"foulard vintage a fiori viola\"}. Il look complessivo è pulito, naturale e quotidiano, con un'atmosfera da ragazza estiva. Gli accessori sono semplici, come piccoli orecchini, ma non eccessivamente elaborati.\n\nImposta la scena come un ritratto da picnic estivo in un prato all'aperto, all'ombra degli alberi o vicino a un vigneto. Includi elementi come uva viola, grappoli d'uva, cesti di vimini, bottiglie di vetro, coperte da picnic e stoviglie dai colori chiari per creare un'atmosfera di vita naturale. La luce del sole filtra attraverso le foglie, creando morbide ombreggiature, con uno sfondo naturalmente sfocato.\n\nProgetta l'immagine finale come una griglia 3x3 con bordi bianchi. Tutte e nove le piccole foto devono mostrare la stessa persona, lo stesso outfit e la stessa scena, ma ognuna deve essere distintamente diversa: espressioni differenti, angolazioni del viso diverse, pose varie, posizioni della fotocamera differenti e composizioni diverse (campo lungo vs primo piano). Non limitarti a nove lievi variazioni della stessa angolazione.\n\nLe nove foto possono mostrare: la ragazza che tiene l'uva e sorride, sdraiata sull'erba che guarda verso la fotocamera, che porta un chicco d'uva alla bocca, che sistema il cesto, seduta ferma rivolta in avanti, un primo piano di un chicco d'uva contro la guancia, uno scatto spontaneo mentre si gira, che annusa l'uva a occhi chiusi e sdraiata sull'erba mentre tiene il cesto. Le espressioni devono essere varie, tra cui tranquilla, giocosa, gentile, sorridente a occhi chiusi, sognante e risate spontanee.\n\nLo stile è quello di una fotocamera Fujifilm, fotografia in stile pellicola giapponese, sensazione di scatto realistico, luce naturale morbida, profondità di campo ridotta, leggera grana della pellicola e toni freschi e naturali. L'uva viola deve essere il fulcro visivo. L'immagine è pulita, duratura e trasmette un senso di vita e giovinezza.\n\nEvita: volti occidentali, volti da influencer, eccessiva bellezza artificiale, pelle di plastica, volti falsi, espressioni ripetitive, angolazioni ripetitive, deformità alle mani, oggetti distorti, sfondi disordinati, stile da studio fotografico, stile illustrazione o sensazione di grafica computerizzata (CG).",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Com base em 1 a 3 fotos pessoais nítidas enviadas pelo usuário, gere um quebra-cabeça de fotos em grade 3x3 com o tema \"{argument name=\"photo theme\" default=\"Série de Fotos Garota das Uvas de Verão\"}\".\n\nPreserve rigorosamente as características reais de identidade do sujeito, incluindo formato do rosto, proporções faciais, estrutura dos olhos/sobrancelhas, nariz, lábios, tom de pele, idade, características do penteado e temperamento geral. A pessoa em todas as nove imagens deve parecer claramente a mesma garota real; ela não deve se tornar uma estranha, parecer ocidentalizada, parecer uma influenciadora genérica, ser excessivamente embelezada ou ter um rosto gerado por IA.\n\nO tema geral é um retrato fresco e natural de uma garota do dia a dia. A personagem veste um {argument name=\"clothing description\" default=\"vestido leve ou vestido de alcinha em tom branco cremoso ou off-white\"} e um {argument name=\"accessory\" default=\"lenço de cabeça floral vintage roxo\"}. O visual geral é limpo, natural e cotidiano, com uma vibe de garota de verão. Os acessórios são simples, como pequenos brincos, mas não excessivamente ornamentados.\n\nDefina o cenário como um retrato de piquenique de verão em um campo ao ar livre, sob a sombra de árvores ou perto de um vinhedo. Inclua elementos como uvas roxas, cachos de uva, cestas de vime, garrafas de vidro, toalhas de piquenique e louças de cores claras para criar uma sensação de estilo de vida natural. A luz do sol filtra-se através das folhas, criando sombras suaves e salpicadas, com um fundo naturalmente desfocado.\n\nProjete a imagem final como uma grade 3x3 com bordas brancas. Todas as nove fotos pequenas devem apresentar a mesma pessoa, a mesma roupa e o mesmo cenário, mas cada uma deve ser distintamente diferente: expressões diferentes, ângulos faciais diferentes, poses diferentes, posições de câmera diferentes e composições diferentes (plano aberto vs. close-up). Não faça apenas nove variações leves do mesmo ângulo.\n\nAs nove fotos podem mostrar: segurando uvas e sorrindo, deitada na grama olhando para a câmera, segurando uma uva na boca, organizando a cesta, sentada parada olhando para frente, um close-up de uma uva contra a bochecha, um clique espontâneo virando o rosto, cheirando as uvas com os olhos fechados e deitada na grama segurando a cesta. As expressões devem ser variadas, incluindo tranquila, brincalhona, gentil, sorrindo com os olhos fechados, sonhando acordada naturalmente e risadas espontâneas.\n\nO estilo é de textura de câmera Fujifilm, estilo de fotografia de filme japonês, sensação de fotografia realista, luz natural suave, profundidade de campo rasa, leve granulação de filme e tons naturais frescos. As uvas roxas devem ser o foco visual. A imagem é limpa, duradoura e tem um senso de vida e juventude.\n\nEvite: rostos ocidentais, rostos de influenciadores, embelezamento excessivo, pele de plástico, rostos falsos, expressões repetitivas, ângulos repetitivos, deformidades nas mãos, adereços distorcidos, fundos bagunçados, estilo de estúdio, estilo de ilustração ou sensação de computação gráfica (CG).",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Summer Grape Girl Photo Series",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 夏日葡萄少女写真系列",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Bộ ảnh Cô gái Nho mùa hè",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Serie de fotos de chica con uvas en verano",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Sommer-Traubenmädchen Fotoserie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Série photo « Summer Grape Girl »",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Serie fotografica estiva \"Ragazza e uva\"",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Série de Fotos \"Garota das Uvas de Verão\"",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt designed to generate a 3x3 grid of summer-themed portraits featuring a girl with grapes, maintaining facial consistency from reference photos.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个旨在生成 3x3 网格夏日主题人像的提示词，以葡萄少女为主题，并保持参考照片中的面部一致性。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt conçu pour générer une grille 3x3 de portraits sur le thème de l'été, mettant en scène une jeune fille avec des raisins, tout en conservant la cohérence faciale à partir de photos de référence.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/zhongying14/status/2051425501755977794",
+      "originalId": "https://x.com/zhongying14/status/2051425501755977794",
+      "authors": [
+        {
+          "name": "麻酱AI实验室",
+          "url": "https://x.com/zhongying14"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 528
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a88c7e0a0de0d860",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971024582_llazmr_HHggiOjWAAEzY8_.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971024582_llazmr_HHggiOjWAAEzY8_.jpg",
+      "localPath": "public/assets/prompt_02dd9304d0c16ac57f17/e5808cabc7fe.jpg",
+      "alt": "Profile / Avatar - Summer Grape Girl Photo Series - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.620Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "人像",
+      "写真"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.842Z"
+  }
+}

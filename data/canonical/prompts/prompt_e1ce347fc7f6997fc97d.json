@@ -1,0 +1,133 @@
+{
+  "id": "prompt_e1ce347fc7f6997fc97d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A hyper-dynamic anime cyberpop illustration of a cat-eared girl thrusting a soda bottle toward the camera in an extreme close-up, with strong fisheye perspective and dramatic foreshortening. The bottle dominates the foreground in her hand, label clearly reading \"CAT NYAN SODA\" with smaller Japanese-style text beneath, and the cap is off as glowing fizzy liquid erupts upward in a huge splash. The character is a stylish futuristic young woman with {argument name=\"hair color\" default=\"silver-white with blue and pink iridescence\"} hair, very long and voluminous, whipping through the frame in neon ribbons. She has 2 visible cat ears, fluffy and oversized, decorated with 3 small accessories: a spiked ear cuff, a tiny cat-face clip, and a small metallic piercing detail. Her face is mostly hidden by a solid {argument name=\"censor block color\" default=\"purple\"} square centered over the upper face area. She wears a cropped white tank top with a small barcode-like graphic, a dark glossy jacket slipping off the shoulders, layered necklaces, and a belt at the waist. Her nails are painted bright pink. The product is a plastic soda bottle filled with dark purple liquid and glowing highlights, with a bold playful logo in white and pink. Surround the scene with floating ice cubes, sparkling droplets, and explosive carbonation effects. Use a high-contrast palette of electric magenta, violet, cyan, and deep blue, with luminous reflections on skin, hair, glassy surfaces, and liquid. Background is an abstract nightlife energy burst of streaks, splashes, particles, and refracted light, no clear environment, just intense motion and color. Make it glossy, saturated, chaotic, and stylish like a premium anime beverage ad poster, with sharp linework, radiant bloom, glittering specular highlights, and a rebellious pop-cyber aesthetic. Vertical composition, waist-up view, single character, 1 bottle, 1 major soda splash, 6 visible floating ice cubes.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Neon Catgirl Soda Ad",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Neon Catgirl Soda Ad",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Neon Catgirl Soda Ad",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Neon Catgirl Soda Ad",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Neon Catgirl Soda Ad",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Neon Catgirl Soda Ad",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Neon Catgirl Soda Ad",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A vivid cyber-anime poster of a cat-eared girl presenting a bursting soda bottle, ideal for energetic drink branding or flashy social media key art.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-1",
+      "originalId": "https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-1",
+      "authors": [
+        {
+          "name": "空想製作所/AI４コマ漫画",
+          "url": "https://x.com/kuso_seisakusyo"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4077
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9777dc699450d353",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367322953_0u0h4v_HG7JQ8OaAAEEXgN.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367322953_0u0h4v_HG7JQ8OaAAEEXgN.jpg",
+      "localPath": "public/assets/prompt_e1ce347fc7f6997fc97d/afc51922cd72.jpg",
+      "alt": "Product Marketing - Neon Catgirl Soda Ad - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

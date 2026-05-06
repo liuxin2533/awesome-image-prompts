@@ -1,0 +1,255 @@
+{
+  "id": "prompt_f47946b7cac76f09972f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a stationary 4k monitor. (There's a slight blurriness in the image, as it feels like it was taken handheld). A wide, bright environment. Realistic details. The character is walking on the beach with / :dog.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GTA 6 游戏内画面，非常细致，非常真实。镜头是对着一台固定的 4K 显示器近距离拍摄的。（画面带有轻微模糊，像是手持拍摄。）环境宽阔明亮，细节真实。角色正和 / :dog. 一起走在海滩上。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "GTA 6 遊戲內畫面，非常細緻、非常真實。鏡頭是近距離拍攝一台固定的 4K 顯示器。（畫面有一點手持拍攝般的輕微模糊。）環境寬闊明亮，細節逼真。角色正和 / :dog. 一起走在海灘上。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "GTA 6 のゲーム内映像。非常に詳細で、非常にリアル。固定された 4K モニターを近距離から撮影したクローズアップ。手持ち撮影のような軽いブレがある。広くて明るい環境。写実的なディテール。キャラクターは / :dog. と一緒にビーチを歩いている。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "GTA 6 인게임 영상. 매우 디테일하고 매우 사실적이다. 고정된 4K 모니터를 근접 촬영한 장면이며, 손으로 찍은 듯한 약간의 흔들림이 있다. 넓고 밝은 환경, 사실적인 디테일, 캐릭터가 / :dog. 와 함께 해변을 걷고 있다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Séquence de jeu GTA 6, très détaillée et très réaliste. Gros plan pris depuis un moniteur 4K fixe, avec un léger flou comme si la photo avait été prise à la main. Environnement large et lumineux. Le personnage marche sur la plage avec / :dog.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "GTA-6-Ingame-Aufnahme, sehr detailliert und sehr realistisch. Nahaufnahme eines stehenden 4K-Monitors, leicht verwackelt wie aus der Hand fotografiert. Helle, weite Umgebung. Realistische Details. Der Charakter läuft mit / :dog. am Strand.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Metraje in-game de GTA 6, muy detallado y muy realista. Primer plano tomado desde un monitor 4K fijo, con un ligero desenfoque como si fuera una foto hecha a mano. Entorno amplio y luminoso. El personaje camina por la playa con / :dog.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "GTA 6 Style In-Game Footage",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GTA 6 风格游戏画面",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "GTA 6 風格遊戲畫面",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "GTA 6 風ゲーム画面",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "GTA 6 스타일 인게임 화면",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Capture in-game style GTA 6",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "GTA-6-Style Gameplay",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Captura in-game estilo GTA 6",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_27263954ca",
+      "value": "🎮 游戏与娱乐",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_cfebc9acfe",
+      "value": "🎮 遊戲與娛樂",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7c91be168a",
+      "value": "🎮 ゲーム・エンターテインメント",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_716e2fa67b",
+      "value": "🎮 게임과 엔터테인먼트",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "jeu-et-divertissement",
+      "value": "🎮 Jeu et divertissement",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "spiele-und-unterhaltung",
+      "value": "🎮 Spiele und Unterhaltung",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "juegos-y-entretenimiento",
+      "value": "🎮 Juegos y entretenimiento",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/WolfRiccardo/status/2041187268711321735",
+      "originalId": "https://x.com/WolfRiccardo/status/2041187268711321735",
+      "authors": [
+        {
+          "name": "WolfRiccardo",
+          "url": "https://x.com/WolfRiccardo/status/2041187268711321735"
+        },
+        {
+          "name": " @WolfRiccardo ",
+          "url": "https://x.com/WolfRiccardo/status/2041187268711321735"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 203
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 152
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 152
+        },
+        {
+          "file": "README:ja",
+          "line": 152
+        },
+        {
+          "file": "README:ko",
+          "line": 152
+        },
+        {
+          "file": "README:fr",
+          "line": 152
+        },
+        {
+          "file": "README:de",
+          "line": 152
+        },
+        {
+          "file": "README:es",
+          "line": 152
+        }
+      ],
+      "rawSource": "[@WolfRiccardo](https://x.com/WolfRiccardo/status/2041187268711321735)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_930d6a7b65c5f2d4",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFPAX19XMAAJ8V_?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFPAX19XMAAJ8V_?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f47946b7cac76f09972f/37b42b969cc1.jpg",
+      "alt": "Nano Banana 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_421818d741d0eb13",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFPAYuEaIAAaEyD?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFPAYuEaIAAaEyD?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f47946b7cac76f09972f/751b999bbdac.jpg",
+      "alt": "GPT-Image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

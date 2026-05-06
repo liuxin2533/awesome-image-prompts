@@ -1,0 +1,107 @@
+{
+  "id": "prompt_fdb12d5250bd6d1a4563",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "2026中国城市系列宣传海报，主题为【北京】。现代、多彩、明亮通透的国潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰需结合北京地域文化定制。红绸延展为城市长卷，融合天坛、长城、鸟巢、喇叭沟门原始森林公园、什刹海、京味相声。左侧排版SPRING 2026、竖排Beijing和小印章“北京”。要求统一系列感，但不能雷同，细节丰富，城市辨识度强。文字清晰且精美布局，高端图形设计。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "2026 Chinese City Series promotional poster, theme: [Beijing]. Modern, colorful, bright and transparent Guochao style, vertical 9:16 format. Large area of white textured blank background, a red silk ribbon spiraling from bottom right to top left forms the main S-shaped composition. In the bottom right corner, an Eastern woman waving a red silk ribbon, clothing needs to be customized with Beijing regional cultural elements. The red silk ribbon extends into a city scroll, integrating Temple of Heaven, Great Wall, Bird's Nest, Labagoumen Primitive Forest Park, Shichahai, and Beijing-style crosstalk. Left side layout: SPRING 2026, vertically arranged Beijing, and a small seal \"Beijing\". Requires unified series feel but not identical, rich details, strong city recognition. Clear text with exquisite layout, high-end graphic design.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:45:14.451Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "title.translations.en: Theme poster layout design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:45:16.924Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-9",
+      "originalId": "case-9",
+      "authors": [
+        {
+          "name": "z890738050",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 165
+        }
+      ],
+      "rawSource": "小红书号z890738050"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_95a59e413624a678",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case9.jpg",
+      "upstreamPath": "../data/images/case9.jpg",
+      "localPath": "public/assets/prompt_fdb12d5250bd6d1a4563/8e1fa187526e.jpg",
+      "alt": "2026中国城市系列宣传海报，主题为【北京】。现代...",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.609Z"
+  }
+}

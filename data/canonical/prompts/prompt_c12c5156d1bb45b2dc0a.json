@@ -1,0 +1,94 @@
+{
+  "id": "prompt_c12c5156d1bb45b2dc0a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"brand identity and merchandise design board\",\r\n  \"theme\": {\r\n    \"color_palette\": \"{argument name=\\\"theme color\\\" default=\\\"pastel pink\\\"} and white\",\r\n    \"motif\": \"{argument name=\\\"motif\\\" default=\\\"cherry blossoms\\\"} and pink hearts\"\r\n  },\r\n  \"character\": {\r\n    \"description\": \"anime girl with short brown bob hair, pink eyes, wearing a white hoodie, gentle smile\"\r\n  },\r\n  \"branding\": {\r\n    \"main_logo\": \"{argument name=\\\"character name\\\" default=\\\"癒音ちー\\\"}\",\r\n    \"sub_logo\": \"{argument name=\\\"character subtext\\\" default=\\\"ゆおんちー\\\"}\"\r\n  },\r\n  \"layout\": {\r\n    \"sections\": [\r\n      {\r\n        \"type\": \"header banner\",\r\n        \"position\": \"top\",\r\n        \"elements\": [\"large main logo\", \"sub logo\", \"cherry blossom graphics\", \"character portrait on the right\"]\r\n      },\r\n      {\r\n        \"type\": \"product packaging\",\r\n        \"position\": \"middle left\",\r\n        \"elements\": [\"1 square box with heart-shaped transparent window showing pink heart candies\", \"character illustration on box\", \"2 individual candy wrappers\", \"5 scattered heart candies\"]\r\n      },\r\n      {\r\n        \"type\": \"promotional poster\",\r\n        \"position\": \"middle right\",\r\n        \"elements\": [\"character portrait\", \"heart-shaped candy bowl\", \"main logo\", \"text '4.26 NEW OPEN'\", \"text '{argument name=\\\"social handle\\\" default=\\\"@yuonchii\\\"}'\"]\r\n      },\r\n      {\r\n        \"type\": \"horizontal web banner\",\r\n        \"position\": \"lower middle\",\r\n        \"elements\": [\"main logo\", \"cherry blossoms\", \"character portrait on the right\"]\r\n      },\r\n      {\r\n        \"type\": \"social media profile mockup\",\r\n        \"position\": \"bottom left\",\r\n        \"elements\": [\"header image with logo\", \"1 circular profile picture\", \"handle '{argument name=\\\"social handle\\\" default=\\\"@yuonchii\\\"}'\", \"1 follow button\", \"mock bio text\"]\r\n      },\r\n      {\r\n        \"type\": \"merchandise collection\",\r\n        \"position\": \"bottom right\",\r\n        \"count\": 9,\r\n        \"items\": [\"1 white t-shirt with logo\", \"1 white mug with character\", \"4 round pin badges\", \"1 acrylic keychain\", \"2 candy packets\"]\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-130",
+      "originalId": "case-130",
+      "authors": [
+        {
+          "name": "chi_vc_",
+          "url": "https://x.com/chi_vc_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5003
+        }
+      ],
+      "rawSource": "[@chi\\_vc\\_](https://x.com/chi_vc_)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d60e079506ba64da",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case130.jpg",
+      "upstreamPath": "../data/images/case130.jpg",
+      "localPath": "public/assets/prompt_c12c5156d1bb45b2dc0a/b055c8886e8b.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.926Z"
+  }
+}

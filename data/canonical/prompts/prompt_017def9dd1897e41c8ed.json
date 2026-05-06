@@ -1,0 +1,108 @@
+{
+  "id": "prompt_017def9dd1897e41c8ed",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A refined 2026 Silicon Valley city promotional poster with a futuristic yet elegant atmosphere.\n\nDouble exposure composition, preserving an S-shaped sense of flowing movement. On a pure white textured background, in the lower-right corner, a miniature figure dressed in sleek modern techwear is releasing a long ribbon of luminous silver-blue light. The ribbon flows gracefully through the air, showing a soft silk-like texture, and as it drifts toward the upper-left, it magically transforms into a grand landscape of rolling hills, coastline, data streams, and illuminated urban terrain.\n\nWithin this flowing “river of light,” overlay a hand-drawn panoramic map of Silicon Valley, blending technology, nature, innovation, and California sunlight. The scene feels visionary, expansive, sophisticated, and inspiring.\n\nInclude iconic Silicon Valley and Bay Area elements: Stanford University arches, Apple Park, Google campus-inspired buildings, Meta-like glass offices, Tesla-style innovation imagery, venture capital offices on Sand Hill Road, Palo Alto tree-lined streets, San Jose skyline, the Santa Cruz Mountains, San Francisco Bay, highways, autonomous vehicles, startup labs, semiconductor patterns, AI data centers, and subtle circuit-board textures.\n\nSurrounded by soft mist, golden California light, floating clouds, and delicate digital particles. Rich colors, complex structure, highly detailed, grand and breathtaking, yet still fresh and minimal because of the large areas of white space.\n\nIn the lower-left corner, elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout, graceful spacing, clear and complete lettering, premium city branding poster, cinematic lighting, sophisticated details, 9:16 aspect ratio.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "精致的2026年硅谷城市宣传海报，具有未来感而优雅的氛围。\n\n双重曝光构图，保持S形的流动感。在纯白色纹理背景的右下角，一个穿着时尚现代科技服装的小人正在释放一条发光的银蓝色光带。光带优雅地在空中流动，呈现出柔软的丝绸质感，当它向左上方向漂移时，神奇地转变为连绵起伏的山丘、海岸线、数据流和发光的城市景观。\n\n在这条流动的\"光河\"中，叠加一幅手绘的硅谷全景地图，融合了技术、自然、创新和加州阳光。场景具有远见、广阔、精致和启发性。\n\n包含标志性的硅谷和湾区元素：斯坦福大学拱门、苹果园区、谷歌校园风格的建筑、类似Meta的玻璃办公室、特斯拉风格的创新形象、沙山路上的风险投资办公室、帕洛阿尔托的林荫街道、圣何塞天际线、圣克鲁斯山脉、旧金山湾、高速公路、自动驾驶车辆、初创实验室、半导体图案、人工智能数据中心和微妙的电路板纹理。\n\n周围环绕着柔和的薄雾、金色的加州光线、漂浮的云朵和精致的数字粒子。丰富的色彩，复杂的结构，高度详细，宏伟而令人叹为观止，但由于大面积的留白，仍然保持清新和简约。\n\n在左下角，优雅的字体显示\"SILICON VALLEY 2026\"，配有垂直的宣传标语：\"Where Ideas Shape Tomorrow.\"（思想塑造未来）。精美的编辑布局，优雅的间距，清晰完整的字母，优质的城市品牌海报，电影般的照明，精致的细节，9:16的宽高比。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:00:11.494Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Silicon Valley 2026 Promo Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "硅谷 2026 宣传海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:00:24.061Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/carsonyungos/status/2046523198116889064",
+      "originalId": "case-48",
+      "authors": [
+        {
+          "name": "carsonyungos",
+          "url": "https://x.com/carsonyungos"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 389
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d46e714120b2ba00",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg",
+      "localPath": "public/assets/prompt_017def9dd1897e41c8ed/e908c8ebf6bc.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

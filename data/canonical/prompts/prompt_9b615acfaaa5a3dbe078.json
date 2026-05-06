@@ -1,0 +1,94 @@
+{
+  "id": "prompt_9b615acfaaa5a3dbe078",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a cute female character design sheet inspired by the uploaded image.\n\nStyle: warm, soft, semi-realistic cartoon illustration with a cozy Japanese kawaii vibe (pastel tones, smooth shading, clean lineart).\n\nMake it a clean character concept poster layout including:\n\nOne large main female portrait (front view, detailed)\n\nFacial expression set (happy, shy, annoyed, sleepy, surprised, excited)\n\n2–3 full-body poses (standing, walking/running, playful pose)\n\nSmall accessory/object icons that match her personality (hair clip, cute bag, phone charm, coffee cup, keychain)\n\nA simple color palette section (skin, hair, outfit, accent colors)\n\nA profile info box with: name, age range, personality traits, likes/dislikes, short description\n\nOverall look should feel charming, cozy, feminine, and professionally arranged like an animation character design sheet.\nHigh quality, clean background, soft lighting.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "可爱角色设定表",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_6b5d1907c1",
+      "value": "可爱角色设定表",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-372",
+      "originalId": "case-372",
+      "authors": [
+        {
+          "name": "xRahultripathi",
+          "url": "https://x.com/xRahultripathi/status/2050152865566708134"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6767
+        }
+      ],
+      "rawSource": "[@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d657cba511461b88",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case372.jpg",
+      "upstreamPath": "../data/images/case372.jpg",
+      "localPath": "public/assets/prompt_9b615acfaaa5a3dbe078/32a8ce9589da.jpg",
+      "alt": "可爱角色设定表",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.866Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "profile",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.920Z"
+  }
+}

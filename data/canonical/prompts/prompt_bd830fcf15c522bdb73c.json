@@ -1,0 +1,106 @@
+{
+  "id": "prompt_bd830fcf15c522bdb73c",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "景德镇青花瓷全景解说图谱",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Panoramic Atlas of Jingdezhen Blue and White Porcelain",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:21:47.380Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_bbbd5cef6c",
+      "value": "景德镇青花瓷全景解说图谱",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-248",
+      "originalId": "case-248",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye/status/2045764695827562686"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2685
+        }
+      ],
+      "rawSource": "[@joshesye](https://x.com/joshesye/status/2045764695827562686)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ed61579de4153144",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case248.jpg",
+      "upstreamPath": "../data/images/case248.jpg",
+      "localPath": "public/assets/prompt_bd830fcf15c522bdb73c/03a7bd78ab2e.jpg",
+      "alt": "景德镇青花瓷全景解说图谱",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "diagram",
+      "图谱"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.600Z"
+  }
+}

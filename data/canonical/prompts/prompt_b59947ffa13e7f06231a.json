@@ -1,0 +1,87 @@
+{
+  "id": "prompt_b59947ffa13e7f06231a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "玄武门之变的朋友圈",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "WeChat Moments of the Xuanwu Gate Incident",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "大唐玄武门之变的朋友圈",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "The Xuanwu Gate Incident of the Tang Dynasty on WeChat Moments",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:17:56.477Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_dcd87e3bce",
+      "value": "大唐玄武门之变的朋友圈",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-167",
+      "originalId": "case-167",
+      "authors": [
+        {
+          "name": "Tz_2022",
+          "url": "https://x.com/Tz_2022/status/2046523491940225366"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 27
+        }
+      ],
+      "rawSource": "[@Tz\\_2022](https://x.com/Tz_2022/status/2046523491940225366)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d6561e0f6eb6d5b3",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case167.jpg",
+      "upstreamPath": "../data/images/case167.jpg",
+      "localPath": "public/assets/prompt_b59947ffa13e7f06231a/b5433a415cd1.jpg",
+      "alt": "大唐玄武门之变的朋友圈",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.598Z"
+  }
+}

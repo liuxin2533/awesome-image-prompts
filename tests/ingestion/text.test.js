@@ -31,6 +31,15 @@ test('normalizeLanguageCode returns canonical BCP 47-like language tags', () => 
   assert.equal(normalizeLanguageCode('pt-PT'), 'pt');
 });
 
+test('languageFromReadme supports underscore, hyphen, and dot locale separators', () => {
+  const { languageFromReadme } = require('../../scripts/ingestion/sources/utils');
+
+  assert.equal(languageFromReadme('README.md'), 'en');
+  assert.equal(languageFromReadme('README_zh-CN.md'), 'zh-CN');
+  assert.equal(languageFromReadme('README-ja.md'), 'ja');
+  assert.equal(languageFromReadme('README.ko.md'), 'ko');
+});
+
 test('slugify keeps stable readable identifiers', () => {
   assert.equal(slugify('Poster & Illustration Cases'), 'poster-illustration-cases');
   assert.equal(slugify('信息图 可视化'), 'category');

@@ -1,0 +1,97 @@
+{
+  "id": "prompt_dc67172103c29409e7a4",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A striking black and white close-up portrait of a {argument name=\"subject description\" default=\"handsome young Asian man\"} with {argument name=\"hair style\" default=\"messy wet hair sticking to his forehead\"}. His face and neck are glistening, covered in highly detailed {argument name=\"skin texture detail\" default=\"water droplets and sweat\"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name=\"background\" default=\"pitch-black background\"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "人像写实摄影图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d649a8b6f1",
+      "value": "人像写实摄影图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-45",
+      "originalId": "case-45",
+      "authors": [
+        {
+          "name": "AoYe999",
+          "url": "https://x.com/AoYe999"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1012
+        }
+      ],
+      "rawSource": "[@AoYe999](https://x.com/AoYe999)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_de2d9ee658c35278",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case45.jpg",
+      "upstreamPath": "../data/images/case45.jpg",
+      "localPath": "public/assets/prompt_dc67172103c29409e7a4/a1751c2f9932.jpg",
+      "alt": "subject description",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "人像",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

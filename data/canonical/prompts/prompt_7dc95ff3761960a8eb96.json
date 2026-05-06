@@ -1,0 +1,173 @@
+{
+  "id": "prompt_7dc95ff3761960a8eb96",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a cinematic dark-fantasy 3D character portrait of a feral {argument name=\"creature type\" default=\"goblin shaman\"} crouching low in a swamp at night, lunging toward the viewer with a malicious grin. The creature has mottled green skin, a narrow wrinkled face, sharp fangs, long pointed ears with multiple silver hoop piercings, glowing icy-blue eyes, and wild spiky {argument name=\"hair color\" default=\"turquoise and magenta\"} hair swept upward. Add luminous cyan tribal markings on the forehead, chest, and arms, with the brightest sigil centered above the brow. Dress the goblin in rugged fantasy armor: one large weathered brass shoulder pauldron with rivets, dark leather straps, a circular metal chest device, a tattered red loincloth, and red leather forearm bracers painted with black occult symbols. Both clawed hands should be extended forward, wreathed in smoky orange magical fire, with glowing runes on the wrists and fingertips. Set the scene in a murky marsh with shallow reflective water, mist, reeds, scattered bones, ribs, and skulls, plus clusters of bioluminescent cyan mushrooms and tiny green firefly-like lights. Use a low camera angle, dramatic depth of field, high-detail creature sculpting, wet skin and armor textures, volumetric blue fog, starry night bokeh in the background, and strong contrast between cold cyan magical glow and hot orange hand-fire. Make it a square, ultra-detailed, cinematic fantasy render with an aggressive, menacing mood.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张电影级暗黑奇幻风格的 3D 角色肖像，描绘一只野性的 {argument name=\"creature type\" default=\"哥布林萨满\"} 在夜晚的沼泽中低身蹲伏，带着邪恶的笑容向观众扑来。该生物拥有斑驳的绿色皮肤、狭窄且布满皱纹的脸庞、锋利的獠牙、带有多个银色圆环穿孔的长尖耳、发着冰蓝色光芒的双眼，以及向上梳起的狂野尖刺状 {argument name=\"hair color\" default=\"青色和洋红色\"} 头发。在前额、胸部和手臂上添加发光的青色部落纹饰，最明亮的符文位于眉心正上方。为哥布林穿上粗犷的奇幻盔甲：一个带有铆钉的大型风化黄铜肩甲、深色皮带、圆形金属胸部装置、破旧的红色缠腰布，以及绘有黑色神秘符号的红色皮革前臂护腕。双爪应向前伸展，缠绕着烟雾缭绕的橙色魔法火焰，手腕和指尖带有发光的符文。场景设定在昏暗的沼泽中，地面有浅浅的反射水面、薄雾、芦苇、散落的骨头、肋骨和头骨，并点缀着成簇的生物发光青色蘑菇和微小的绿色萤火虫状光点。采用低机位拍摄，强调戏剧性的景深，展现高细节的生物雕刻、湿润的皮肤和盔甲质感、体积感十足的蓝色雾气、背景中星光璀璨的虚化效果，以及冷色调青色魔法光芒与暖色调橙色手部火焰之间的强烈对比。将其制作成一张方形、超精细、电影级的奇幻渲染图，营造出一种极具侵略性的威胁氛围。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un retrato cinematográfico de un personaje 3D de fantasía oscura de un {argument name=\"creature type\" default=\"chamán goblin\"} salvaje agachado en un pantano por la noche, abalanzándose hacia el espectador con una sonrisa maliciosa. La criatura tiene piel verde moteada, un rostro estrecho y arrugado, colmillos afilados, orejas largas y puntiagudas con múltiples piercings de aros plateados, ojos brillantes de color azul hielo y un cabello salvaje y puntiagudo de color {argument name=\"hair color\" default=\"turquesa y magenta\"} peinado hacia arriba. Agrega marcas tribales cian luminosas en la frente, el pecho y los brazos, con el sigilo más brillante centrado sobre la ceja. Viste al goblin con una armadura de fantasía resistente: una hombrera grande de latón desgastado con remaches, correas de cuero oscuro, un dispositivo circular de metal en el pecho, un taparrabos rojo hecho jirones y brazaletes de cuero rojo pintados con símbolos ocultos negros. Ambas manos con garras deben estar extendidas hacia adelante, envueltas en fuego mágico naranja ahumado, con runas brillantes en las muñecas y las puntas de los dedos. Ubica la escena en un pantano turbio con agua poco profunda y reflectante, niebla, juncos, huesos dispersos, costillas y cráneos, además de grupos de hongos cian bioluminiscentes y pequeñas luces verdes similares a luciérnagas. Usa un ángulo de cámara bajo, una profundidad de campo dramática, escultura de criatura de alto detalle, texturas de piel y armadura húmedas, niebla azul volumétrica, bokeh de noche estrellada en el fondo y un fuerte contraste entre el brillo mágico cian frío y el fuego naranja intenso de las manos. Haz que sea un render de fantasía cinematográfico, ultra detallado y cuadrado, con un ambiente agresivo y amenazante.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein cineastisches Dark-Fantasy-3D-Charakterporträt eines wilden {argument name=\"creature type\" default=\"Goblin-Schamanen\"}, der nachts tief in einem Sumpf kauert und mit einem bösartigen Grinsen auf den Betrachter zustürmt. Die Kreatur hat gesprenkelte grüne Haut, ein schmales, faltiges Gesicht, scharfe Reißzähne, lange, spitze Ohren mit mehreren silbernen Ring-Piercings, leuchtend eisblaue Augen und wildes, stacheliges {argument name=\"hair color\" default=\"türkis- und magentafarbenes\"} Haar, das nach oben gestylt ist. Füge leuchtende cyanfarbene Stammesmarkierungen auf Stirn, Brust und Armen hinzu, wobei das hellste Siegel mittig über der Braue platziert ist. Kleide den Goblin in eine robuste Fantasy-Rüstung: eine große, verwitterte Schulterplatte aus Messing mit Nieten, dunkle Lederriemen, eine kreisförmige Metallvorrichtung auf der Brust, einen zerfetzten roten Lendenschurz und rote Leder-Unterarmschienen, die mit schwarzen okkulten Symbolen bemalt sind. Beide bekrallten Hände sollten nach vorne gestreckt sein, umhüllt von rauchigem, orangefarbenem magischem Feuer, mit leuchtenden Runen an den Handgelenken und Fingerspitzen. Platziere die Szene in einem trüben Sumpf mit flachem, reflektierendem Wasser, Nebel, Schilf, verstreuten Knochen, Rippen und Schädeln sowie Ansammlungen von biolumineszierenden cyanfarbenen Pilzen und winzigen grünen, glühwürmchenartigen Lichtern. Verwende eine niedrige Kameraperspektive, eine dramatische Tiefenschärfe, hochdetaillierte Kreaturenmodellierung, nasse Haut- und Rüstungstexturen, volumetrischen blauen Nebel, ein sternenreiches Nacht-Bokeh im Hintergrund und einen starken Kontrast zwischen dem kalten cyanfarbenen magischen Leuchten und dem heißen orangefarbenen Feuer an den Händen. Erstelle ein quadratisches, ultra-detailliertes, cineastisches Fantasy-Rendering mit einer aggressiven, bedrohlichen Stimmung.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un portrait de personnage 3D cinématographique en dark fantasy d'un {argument name=\"creature type\" default=\"chaman gobelin\"} sauvage accroupi dans un marais la nuit, se jetant vers le spectateur avec un sourire malveillant. La créature a une peau verte tachetée, un visage étroit et ridé, des crocs acérés, de longues oreilles pointues avec de multiples anneaux en argent, des yeux bleu glacier brillants et des cheveux sauvages en pics de couleur {argument name=\"hair color\" default=\"turquoise et magenta\"} balayés vers le haut. Ajoutez des marques tribales cyan lumineuses sur le front, la poitrine et les bras, avec le sigle le plus brillant centré au-dessus des sourcils. Habillez le gobelin d'une armure fantastique robuste : une grande épaulière en laiton patiné avec des rivets, des lanières en cuir sombre, un dispositif thoracique circulaire en métal, un pagne rouge en lambeaux et des brassards en cuir rouge peints de symboles occultes noirs. Les deux mains griffues doivent être tendues vers l'avant, enveloppées d'un feu magique orange fumé, avec des runes brillantes sur les poignets et le bout des doigts. Placez la scène dans un marais trouble avec une eau peu profonde et réfléchissante, de la brume, des roseaux, des os épars, des côtes et des crânes, ainsi que des grappes de champignons cyan bioluminescents et de minuscules lumières ressemblant à des lucioles vertes. Utilisez un angle de caméra bas, une profondeur de champ dramatique, une sculpture de créature très détaillée, des textures de peau et d'armure humides, un brouillard bleu volumétrique, un bokeh de nuit étoilée en arrière-plan et un fort contraste entre la lueur magique cyan froide et le feu orange chaud des mains. Réalisez un rendu fantastique cinématographique carré, ultra-détaillé, avec une ambiance agressive et menaçante.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un ritratto cinematografico 3D dark-fantasy di un feroce {argument name=\"creature type\" default=\"sciamano goblin\"} accovacciato in una palude di notte, che scatta verso lo spettatore con un ghigno malvagio. La creatura ha una pelle verde maculata, un volto stretto e rugoso, zanne affilate, lunghe orecchie a punta con molteplici piercing ad anello in argento, occhi azzurro ghiaccio luminosi e capelli selvaggi e appuntiti color {argument name=\"hair color\" default=\"turchese e magenta\"} pettinati verso l'alto. Aggiungi segni tribali ciano luminosi sulla fronte, sul petto e sulle braccia, con il sigillo più brillante centrato sopra le sopracciglia. Vesti il goblin con un'armatura fantasy robusta: un grande spallaccio in ottone usurato con rivetti, cinghie in pelle scura, un dispositivo circolare in metallo sul petto, un perizoma rosso logoro e bracciali in pelle rossa dipinti con simboli occulti neri. Entrambe le mani artigliate devono essere protese in avanti, avvolte da un fuoco magico arancione fumoso, con rune luminose sui polsi e sulla punta delle dita. Ambienta la scena in una palude torbida con acqua bassa riflettente, nebbia, canne, ossa sparse, costole e teschi, oltre a gruppi di funghi ciano bioluminescenti e minuscole luci simili a lucciole verdi. Usa un'angolazione dal basso, una profondità di campo drammatica, una scultura della creatura altamente dettagliata, texture di pelle e armatura bagnate, nebbia volumetrica blu, bokeh notturno stellato sullo sfondo e un forte contrasto tra il bagliore magico ciano freddo e il fuoco arancione caldo delle mani. Realizza un render fantasy quadrato, ultra-dettagliato e cinematografico con un'atmosfera aggressiva e minacciosa.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um retrato cinematográfico de personagem 3D de fantasia sombria de um {argument name=\"creature type\" default=\"xamã goblin\"} selvagem agachado em um pântano à noite, avançando em direção ao espectador com um sorriso malicioso. A criatura tem pele verde manchada, um rosto estreito e enrugado, presas afiadas, orelhas longas e pontudas com vários piercings de argola de prata, olhos azul-gelo brilhantes e cabelo selvagem e espetado de cor {argument name=\"hair color\" default=\"turquesa e magenta\"} penteado para cima. Adicione marcas tribais ciano luminosas na testa, peito e braços, com o sigilo mais brilhante centralizado acima da sobrancelha. Vista o goblin com uma armadura de fantasia robusta: um grande ombreira de latão desgastada com rebites, tiras de couro escuro, um dispositivo circular de metal no peito, uma tanga vermelha esfarrapada e braçadeiras de couro vermelho pintadas com símbolos ocultos pretos. Ambas as mãos com garras devem estar estendidas para frente, envoltas em fogo mágico laranja esfumaçado, com runas brilhantes nos pulsos e nas pontas dos dedos. Defina a cena em um pântano turvo com águas rasas reflexivas, névoa, juncos, ossos espalhados, costelas e crânios, além de aglomerados de cogumelos ciano bioluminescentes e pequenas luzes verdes semelhantes a vaga-lumes. Use um ângulo de câmera baixo, profundidade de campo dramática, escultura de criatura altamente detalhada, texturas de pele e armadura molhadas, névoa azul volumétrica, bokeh de noite estrelada ao fundo e um forte contraste entre o brilho mágico ciano frio e o fogo laranja quente nas mãos. Faça um render de fantasia cinematográfico, quadrado e ultra detalhado, com um clima agressivo e ameaçador.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Game Asset - Glowing Goblin Shaman in Swamp",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "游戏素材 - 沼泽中发光的哥布林萨满",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Activo de juego - Chamán goblin brillante en el pantano",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Spiel-Asset - Leuchtender Goblin-Schamane im Sumpf",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ressource de jeu - Chaman gobelin lumineux dans un marais",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Asset di gioco - Sciamano goblin luminoso nella palude",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Ativo de Jogo - Xamã Goblin Brilhante no Pântano",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic dark-fantasy goblin shaman character artwork for creature design, game art, or concept illustration.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为生物设计、游戏美术或概念插画生成电影级暗黑奇幻风格的哥布林萨满角色艺术作品。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une illustration cinématographique de personnage de chaman gobelin en dark fantasy pour le design de créatures, l'art de jeu ou l'illustration conceptuelle.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "game-asset",
+      "value": "Game Asset",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/CosmicCowboyCDN/status/2051362653516493143#reversed-3",
+      "originalId": "https://x.com/CosmicCowboyCDN/status/2051362653516493143#reversed-3",
+      "authors": [
+        {
+          "name": "Cosmic Cowboy",
+          "url": "https://x.com/CosmicCowboyCDN"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 5072
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fb9b393eb3f4426e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971058521_nah7ch_HHfnZKFbUAAuy0-.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971058521_nah7ch_HHfnZKFbUAAuy0-.jpg",
+      "localPath": "public/assets/prompt_7dc95ff3761960a8eb96/bebf6b047c0b.jpg",
+      "alt": "Game Asset - Glowing Goblin Shaman in Swamp - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.628Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.856Z"
+  }
+}

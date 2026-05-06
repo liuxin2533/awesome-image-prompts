@@ -1,0 +1,181 @@
+{
+  "id": "prompt_9488fbed4e7227e8614f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Transform {argument name=\"subject\" default=\"[type here]\"} into a soft, atmospheric cloud composition while preserving the subject’s recognizable facial features, expression, and identity.\nThe face should appear subtly formed from clouds, blending naturally into a bright blue sky background. Use soft, diffused lighting with gentle highlights and airy shadows to create depth and realism.\nEnsure the transformation is symbolic rather than literal — avoid hard edges, skin texture, or sharp details. The subject should feel like it is emerging from or dissolving into the clouds.\nMaintain facial proportions, eyes, smile, and key features clearly visible through the cloud structure.\nStyle: dreamy, ethereal, surreal, cinematic\nLighting: natural sunlight, soft glow, volumetric light\nColor palette: sky blue, white, soft gradients\nMood: peaceful, uplifting, inspirational\nAdd subtle cloud layers around and within the face for a seamless blend. Background should be a clean blue sky with soft cloud gradients.\nHigh resolution, ultra-realistic cloud texture, smooth blending, no text, no watermark.“",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "将 {argument name=\"subject\" default=\"[在此输入]\"} 转化为柔和的大气云雾构图，同时保留主体可辨认的面部特征、表情和身份。\n面部应呈现出由云雾微妙构成的形态，自然地融入明亮的蓝天背景中。使用柔和的漫射光，配合轻柔的高光和空灵的阴影，以营造深度感与真实感。\n确保这种变换是象征性的而非字面意义上的——避免生硬的边缘、皮肤纹理或锐利的细节。主体应呈现出从云层中浮现或消融其中的感觉。\n保持面部比例、眼睛、微笑以及关键特征在云雾结构中清晰可见。\n风格：梦幻、空灵、超现实、电影感\n光影：自然日光、柔和光晕、体积光\n色调：天蓝、纯白、柔和渐变\n氛围：宁静、振奋、启发性\n在面部周围及内部添加微妙的云层，实现无缝融合。背景应为纯净的蓝天，并带有柔和的云雾渐变。\n高分辨率，超写实云雾纹理，平滑融合，无文字，无水印。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Transforma {argument name=\"subject\" default=\"[escribe aquí]\"} en una composición de nubes suaves y atmosféricas, preservando los rasgos faciales, la expresión y la identidad reconocibles del sujeto.\nEl rostro debe aparecer formado sutilmente por nubes, mezclándose de forma natural con un fondo de cielo azul brillante. Utiliza una iluminación suave y difusa con reflejos delicados y sombras etéreas para crear profundidad y realismo.\nAsegúrate de que la transformación sea simbólica y no literal: evita bordes duros, texturas de piel o detalles nítidos. El sujeto debe dar la sensación de emerger de las nubes o disolverse en ellas.\nMantén las proporciones faciales, los ojos, la sonrisa y los rasgos clave claramente visibles a través de la estructura de nubes.\nEstilo: onírico, etéreo, surrealista, cinematográfico\nIluminación: luz solar natural, resplandor suave, luz volumétrica\nPaleta de colores: azul cielo, blanco, degradados suaves\nEstado de ánimo: pacífico, inspirador, edificante\nAñade capas de nubes sutiles alrededor y dentro del rostro para lograr una integración perfecta. El fondo debe ser un cielo azul limpio con degradados de nubes suaves.\nAlta resolución, textura de nubes ultrarrealista, mezcla fluida, sin texto, sin marca de agua.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Verwandle {argument name=\"subject\" default=\"[hier eingeben]\"} in eine weiche, atmosphärische Wolkenkomposition, während die erkennbaren Gesichtszüge, der Ausdruck und die Identität des Motivs erhalten bleiben.\nDas Gesicht sollte subtil aus Wolken geformt wirken und sich natürlich in einen strahlend blauen Himmelshintergrund einfügen. Verwende weiches, diffuses Licht mit sanften Highlights und luftigen Schatten, um Tiefe und Realismus zu erzeugen.\nStelle sicher, dass die Transformation eher symbolisch als wörtlich ist – vermeide harte Kanten, Hauttexturen oder scharfe Details. Das Motiv sollte so wirken, als würde es aus den Wolken hervorgehen oder sich in ihnen auflösen.\nBehalte die Gesichtsproportionen, Augen, das Lächeln und die wichtigsten Merkmale klar erkennbar innerhalb der Wolkenstruktur bei.\nStil: verträumt, ätherisch, surreal, filmisch\nBeleuchtung: natürliches Sonnenlicht, sanftes Leuchten, volumetrisches Licht\nFarbpalette: Himmelblau, Weiß, sanfte Verläufe\nStimmung: friedlich, aufbauend, inspirierend\nFüge subtile Wolkenschichten um und innerhalb des Gesichts hinzu, um einen nahtlosen Übergang zu schaffen. Der Hintergrund sollte ein klarer blauer Himmel mit sanften Wolkenverläufen sein.\nHohe Auflösung, ultra-realistische Wolkentextur, weiche Übergänge, kein Text, kein Wasserzeichen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Transformez {argument name=\"subject\" default=\"[tapez ici]\"} en une composition nuageuse douce et atmosphérique tout en préservant les traits du visage, l'expression et l'identité reconnaissables du sujet.\nLe visage doit sembler subtilement formé par des nuages, se fondant naturellement dans un ciel bleu lumineux. Utilisez un éclairage doux et diffus avec des reflets délicats et des ombres aériennes pour créer de la profondeur et du réalisme.\nAssurez-vous que la transformation soit symbolique plutôt que littérale — évitez les bords nets, la texture de peau ou les détails trop précis. Le sujet doit donner l'impression d'émerger des nuages ou de s'y dissoudre.\nMaintenez les proportions du visage, les yeux, le sourire et les traits principaux clairement visibles à travers la structure nuageuse.\nStyle : onirique, éthéré, surréaliste, cinématographique\nÉclairage : lumière naturelle du soleil, éclat doux, éclairage volumétrique\nPalette de couleurs : bleu ciel, blanc, dégradés doux\nAmbiance : paisible, inspirante, édifiante\nAjoutez des couches de nuages subtiles autour et à l'intérieur du visage pour un mélange homogène. L'arrière-plan doit être un ciel bleu pur avec de doux dégradés de nuages.\nHaute résolution, texture de nuage ultra-réaliste, mélange fluide, sans texte, sans filigrane.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Trasforma {argument name=\"subject\" default=\"[scrivi qui]\"} in una composizione di nuvole soffici e atmosferiche, preservando i tratti del volto, l'espressione e l'identità riconoscibili del soggetto.\nIl volto dovrebbe apparire sottilmente formato dalle nuvole, fondendosi naturalmente in uno sfondo di cielo azzurro brillante. Utilizza un'illuminazione soffusa e diffusa con riflessi delicati e ombre ariose per creare profondità e realismo.\nAssicurati che la trasformazione sia simbolica piuttosto che letterale: evita bordi netti, texture della pelle o dettagli nitidi. Il soggetto dovrebbe dare l'impressione di emergere o dissolversi tra le nuvole.\nMantieni le proporzioni del viso, gli occhi, il sorriso e i tratti distintivi chiaramente visibili attraverso la struttura nuvolosa.\nStile: onirico, etereo, surreale, cinematografico\nIlluminazione: luce solare naturale, bagliore soffuso, luce volumetrica\nPalette di colori: azzurro cielo, bianco, sfumature tenui\nAtmosfera: pacifica, edificante, ispiratrice\nAggiungi sottili strati di nuvole attorno e all'interno del volto per una fusione senza interruzioni. Lo sfondo dovrebbe essere un cielo azzurro pulito con tenui sfumature di nuvole.\nAlta risoluzione, texture nuvolosa ultra-realistica, fusione fluida, senza testo, senza filigrana.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Transforme {argument name=\"subject\" default=\"[digite aqui]\"} em uma composição de nuvem suave e atmosférica, preservando as características faciais, a expressão e a identidade reconhecíveis do sujeito.\nO rosto deve parecer sutilmente formado por nuvens, misturando-se naturalmente a um fundo de céu azul brilhante. Use iluminação suave e difusa com reflexos delicados e sombras leves para criar profundidade e realismo.\nGaranta que a transformação seja simbólica, e não literal — evite bordas rígidas, textura de pele ou detalhes nítidos. O sujeito deve parecer estar emergindo ou se dissolvendo nas nuvens.\nMantenha as proporções faciais, olhos, sorriso e características principais claramente visíveis através da estrutura de nuvens.\nEstilo: onírico, etéreo, surreal, cinematográfico\nIluminação: luz solar natural, brilho suave, luz volumétrica\nPaleta de cores: azul celeste, branco, gradientes suaves\nHumor: pacífico, edificante, inspirador\nAdicione camadas sutis de nuvens ao redor e dentro do rosto para uma mistura perfeita. O fundo deve ser um céu azul limpo com gradientes de nuvens suaves.\nAlta resolução, textura de nuvem ultrarrealista, mistura suave, sem texto, sem marca d'água.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Atmospheric Cloud Transformation",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 大气云雾变换",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Transformación en nube atmosférica",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Atmosphärische Wolken-Transformation",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Transformation en nuages atmosphériques",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Trasformazione in nuvola atmosferica",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Transformação em Nuvem Atmosférica",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "An ethereal image prompt that transforms a subject's face into a soft, atmospheric cloud composition within a clear blue sky.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个空灵的图像提示词，将主体的面部转化为蓝天背景下柔和的大气云雾构图。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt d'image éthéré qui transforme le visage d'un sujet en une composition nuageuse douce et atmosphérique sur fond de ciel bleu clair.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/xRahultripathi/status/2051423866355085679",
+      "originalId": "https://x.com/xRahultripathi/status/2051423866355085679",
+      "authors": [
+        {
+          "name": "Rossy",
+          "url": "https://x.com/xRahultripathi"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 747
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_89b2c3e63a018714",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971006989_nw6o12_HHgfIlAaAAAt078.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971006989_nw6o12_HHgfIlAaAAAt078.jpg",
+      "localPath": "public/assets/prompt_9488fbed4e7227e8614f/5cc9bfe56095.jpg",
+      "alt": "Profile / Avatar - Atmospheric Cloud Transformation - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_c7fc662a07337ad5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971006997_mjes06_HHgfIlwbsAEw1-W.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971006997_mjes06_HHgfIlwbsAEw1-W.jpg",
+      "localPath": "public/assets/prompt_9488fbed4e7227e8614f/a3d4a7849272.jpg",
+      "alt": "Profile / Avatar - Atmospheric Cloud Transformation - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.859Z"
+  }
+}

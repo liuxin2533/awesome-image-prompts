@@ -1,0 +1,87 @@
+{
+  "id": "prompt_35402d32e5003c64d371",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成快手内容截图：主题：直播离婚预告，iPhone尺寸",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone size",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "快手直播离婚预告手机截图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Kwai livestream divorce announcement screenshot",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:07:35.554Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_1b314e66cb",
+      "value": "快手直播离婚预告手机截图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-258",
+      "originalId": "case-258",
+      "authors": [
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2045373105041007013"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2885
+        }
+      ],
+      "rawSource": "[@MrLarus](https://x.com/MrLarus/status/2045373105041007013)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_82b52eeeb5f8d19f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case258.jpg",
+      "upstreamPath": "../data/images/case258.jpg",
+      "localPath": "public/assets/prompt_35402d32e5003c64d371/9ea09851efbd.jpg",
+      "alt": "快手直播离婚预告手机截图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

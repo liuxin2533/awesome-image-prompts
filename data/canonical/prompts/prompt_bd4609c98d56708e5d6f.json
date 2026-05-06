@@ -1,0 +1,239 @@
+{
+  "id": "prompt_bd4609c98d56708e5d6f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a Chinese infographic poster themed \"一杯咖啡 如何来到你手里\" (\"How a Cup of Coffee Reaches You\"). Use a premium information-design style with both educational clarity and commercial appeal. The layout should include directional flow, arrows, data boxes, icons, simple illustrations, and modular cards. Use coffee brown, milk white, ink black, and copper accents.\n\nThe infographic must include:\n- 01 Planting: elevation 1200-2200m, suitable temperature 18-24C, picking season Nov-March\n- 02 Processing: sun-dried, washed, honey process\n- 03 Roasting: light roast = brighter, medium roast = balanced, dark roast = richer\n- 04 Grinding: pour-over = coarse, espresso = fine, cold brew = medium-coarse\n- 05 Extraction: powder-water ratio, water temperature, and time all affect flavor\n- flavor keywords: floral / citrus / nutty / caramel / chocolate / smoky\n\nUse this exact fine print:\n\"适合用于咖啡入门科普与门店展示\"\n\nThe composition should balance text and visuals while keeping the design elegant. Focus on long infographic handling, numeric information, temperatures, numbered sections, concise descriptions, slash-separated flavor words, and modular layout. It should look like a premium display board, not a classroom slide deck.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一张中文信息图海报，主题为“ 一杯咖啡 如何来到你手里 ”。使用高级信息设计风格，兼顾科普清晰度和商业展示感。版面应包含流程方向、箭头、数据框、图标、简洁插图和模块化卡片。配色采用咖啡棕、奶白、墨黑和铜色点缀。\n\n信息图必须包含：\n- 01 种植：海拔 1200-2200m，适宜温度 18-24C，采摘季节 11 月至 3 月\n- 02 处理：日晒、水洗、蜜处理\n- 03 烘焙：浅烘 = 更明亮，中烘 = 更均衡，深烘 = 更浓郁\n- 04 研磨：手冲 = 粗磨，意式 = 细磨，冷萃 = 中粗磨\n- 05 萃取：粉水比、水温和时间都会影响风味\n- 风味关键词：花香 / 柑橘 / 坚果 / 焦糖 / 巧克力 / 烟熏\n\n使用以下精确小字：\n\"适合用于咖啡入门科普与门店展示\"\n\n构图需要平衡文字与视觉，同时保持设计优雅。重点关注长信息图的处理、数字信息、温度、编号分区、简洁描述、斜杠分隔的风味词，以及模块化排版。最终效果应像高级展示板，而不是课堂幻灯片。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "製作一張主題為「一杯咖啡 如何来到你手里」的中文資訊圖海報，使用高級資訊設計風格，兼顧科普清晰度與商業展示感。需要包含種植、處理、烘焙、研磨、萃取、風味關鍵詞等模組，以及精確小字「适合用于咖啡入门科普与门店展示」，整體應像高級展示板而不是教室投影片。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "「一杯咖啡 如何来到你手里」（1 杯のコーヒーがどのようにあなたの手に届くか）をテーマにした中国語インフォグラフィックポスターを作る。教育的な明快さと商業的な魅力を両立した上質な情報デザインにする。レイアウトには流れ、矢印、データボックス、アイコン、シンプルなイラスト、モジュールカードを含める。コーヒーブラウン、ミルクホワイト、インクブラック、銅色のアクセントを使用する。\n\n含める内容:\n- 01 栽培: 標高 1200-2200m、適温 18-24C、収穫期 11 月〜3 月\n- 02 精製: ナチュラル、水洗い、ハニープロセス\n- 03 焙煎: 浅煎り = より明るい、中煎り = バランス、深煎り = より濃厚\n- 04 挽き方: ハンドドリップ = 粗挽き、エスプレッソ = 細挽き、コールドブリュー = 中粗挽き\n- 05 抽出: 粉と水の比率、水温、時間が風味に影響する\n- 風味キーワード: floral / citrus / nutty / caramel / chocolate / smoky\n\n以下の細字をそのまま使う:\n\"适合用于咖啡入门科普与门店展示\"\n\n文字とビジュアルのバランスを保ちつつ、上品に仕上げる。長いインフォグラフィック、数値、温度、番号付きセクション、短い説明、スラッシュ区切りの風味語、モジュールレイアウトの扱いに注意する。教室のスライドではなく、高級ディスプレイボードのように見せる。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "\"一杯咖啡 如何来到你手里\" 를 주제로 한 중국어 인포그래픽 포스터를 만든다. 재배, 가공, 로스팅, 분쇄, 추출, 풍미 키워드를 포함하고, 원문에 있는 작은 문구 \"适合用于咖啡入门科普与门店展示\" 를 정확히 넣는다. 전체는 교육적이면서도 프리미엄 전시 보드처럼 보여야 한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée une infographie chinoise sur le thème \"一杯咖啡 如何来到你手里\" avec modules sur culture, traitement, torréfaction, mouture, extraction et arômes. Ajouter le petit texte exact \"适合用于咖啡入门科普与门店展示\".",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine chinesische Infografik mit dem Titel \"一杯咖啡 如何来到你手里\" und Abschnitten zu Anbau, Verarbeitung, Röstung, Mahlgrad, Extraktion und Aromaprofilen. Integriere den exakten Kleingedruckt-Text \"适合用于咖啡入门科普与门店展示\".",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una infografía china titulada \"一杯咖啡 如何来到你手里\" con módulos sobre cultivo, procesamiento, tostado, molienda, extracción y notas de sabor. Debe incluir el texto pequeño exacto \"适合用于咖啡入门科普与门店展示\".",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Coffee Journey Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "咖啡旅程信息图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "咖啡旅程資訊圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コーヒージャーニー情報図",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "커피 여정 인포그래픽",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie “Le voyage d'un café”",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Kaffee-Reise-Infografik",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía del viaje del café",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://github.com/ZeroLu/awesome-gpt-image",
+      "originalId": "https://github.com/user-attachments/assets/ac0ed885-5b27-46d5-a163-f9e3c15dca3b",
+      "authors": [],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 561
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 448
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 377
+        },
+        {
+          "file": "README:ja",
+          "line": 448
+        },
+        {
+          "file": "README:ko",
+          "line": 377
+        },
+        {
+          "file": "README:fr",
+          "line": 377
+        },
+        {
+          "file": "README:de",
+          "line": 377
+        },
+        {
+          "file": "README:es",
+          "line": 377
+        }
+      ],
+      "rawSource": ""
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ce2cf8d1d9009ea1",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/ac0ed885-5b27-46d5-a163-f9e3c15dca3b",
+      "upstreamPath": "https://github.com/user-attachments/assets/ac0ed885-5b27-46d5-a163-f9e3c15dca3b",
+      "localPath": "public/assets/prompt_bd4609c98d56708e5d6f/acedffd55b84.jpg",
+      "alt": "image_1776389679_007",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "map",
+      "education",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.609Z"
+  }
+}

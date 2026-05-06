@@ -4,6 +4,8 @@ require('./ingestion/markdown.test');
 require('./ingestion/sources.test');
 require('./ingestion/merge.test');
 require('./ingestion/persist.test');
+require('./ingestion/classification.test');
+require('./ingestion/run-history.test');
 require('./ingestion/cli.test');
 require('./ingestion/translation.test');
 require('./ingestion/assets.test');

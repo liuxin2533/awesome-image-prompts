@@ -1,0 +1,92 @@
+{
+  "id": "prompt_0f554129c8d0ead29f4f",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Inspired by Tsingtao (China beer)🍺\n\n“Inspired by this product, design a set of cool-style women's clothing”",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "青岛啤酒灵感女装系列",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5740f13392",
+      "value": "青岛啤酒灵感女装系列",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-385",
+      "originalId": "case-385",
+      "authors": [
+        {
+          "name": "Popcraft_ai",
+          "url": "https://x.com/Popcraft_ai/status/2051142270381170754"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7235
+        }
+      ],
+      "rawSource": "[@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_bb1d631b7c1c0c02",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case385.jpg",
+      "upstreamPath": "../data/images/case385.jpg",
+      "localPath": "public/assets/prompt_0f554129c8d0ead29f4f/4ced03db3e75.jpg",
+      "alt": "青岛啤酒灵感女装系列",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "product"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.902Z"
+  }
+}

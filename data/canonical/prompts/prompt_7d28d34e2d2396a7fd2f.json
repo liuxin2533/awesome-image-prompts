@@ -1,0 +1,200 @@
+{
+  "id": "prompt_7d28d34e2d2396a7fd2f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n  \"type\": \"evolutionary timeline infographic\",\n  \"instruction\": \"Using REFERENCE_0 as a structural base, transform the flat vector design into a highly realistic 3D infographic. Replace the smooth ramps with distinct stone steps and upgrade all organisms to photorealistic 3D models.\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"vintage textured parchment paper\\\"}\",\n    \"staircase\": \"{argument name=\\\"staircase material\\\" default=\\\"realistic textured stone blocks\\\"}\",\n    \"subjects\": \"{argument name=\\\"organism style\\\" default=\\\"highly detailed photorealistic 3D renders\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"人类演化\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"left sidebar\",\n        \"count\": 8,\n        \"labels\": [\"L0: 单细胞生命\", \"L1: 多细胞生物\", \"L2: 动物界\", \"L3: 脊索动物\", \"L4: 上陆革命\", \"L5: 哺乳纲\", \"L6: 人科演化\", \"L7: 智人纪元\"]\n      },\n      {\n        \"position\": \"top right\",\n        \"title\": \"获得的功能 / 失去的功能\",\n        \"description\": \"Legend with plus and minus icons\"\n      },\n      {\n        \"position\": \"bottom center\",\n        \"title\": \"演化关键里程碑\",\n        \"count\": 6,\n        \"description\": \"Timeline with a silhouette graphic of 6 figures showing ape-to-human evolution\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"Winding stone staircase with 25 numbered steps featuring specific organisms.\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"Step 07: Jellyfish\",\n        \"Step 09: Ammonite\",\n        \"Step 10: Trilobite\",\n        \"Step 24: Walking human\",\n        \"Step 25: {argument name=\\\"future evolution concept\\\" default=\\\"glowing cosmic silhouette with a question mark\\\"}\"\n      ]\n    }\n  }\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n  \"type\": \"演化时间轴信息图\",\n  \"instruction\": \"以 REFERENCE_0 作为结构基础，将平面矢量设计转化为高度逼真的 3D 信息图。将平滑的坡道替换为独特的石阶，并将所有生物升级为照片级真实的 3D 模型。\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"复古纹理羊皮纸\\\"}\",\n    \"staircase\": \"{argument name=\\\"staircase material\\\" default=\\\"逼真的纹理石块\\\"}\",\n    \"subjects\": \"{argument name=\\\"organism style\\\" default=\\\"高度精细的照片级真实 3D 渲染\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"人类演化\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"左侧边栏\",\n        \"count\": 8,\n        \"labels\": [\"L0: 单细胞生命\", \"L1: 多细胞生物\", \"L2: 动物界\", \"L3: 脊索动物\", \"L4: 上陆革命\", \"L5: 哺乳纲\", \"L6: 人科演化\", \"L7: 智人纪元\"]\n      },\n      {\n        \"position\": \"右上角\",\n        \"title\": \"获得的功能 / 失去的功能\",\n        \"description\": \"带有加号和减号图标的图例\"\n      },\n      {\n        \"position\": \"底部中心\",\n        \"title\": \"演化关键里程碑\",\n        \"count\": 6,\n        \"description\": \"包含 6 个展示从猿到人演化剪影图形的时间轴\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"蜿蜒的石阶，共有 25 个编号台阶，展示特定生物。\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"第 07 阶: 水母\",\n        \"第 09 阶: 菊石\",\n        \"第 10 阶: 三叶虫\",\n        \"第 24 阶: 直立行走的人类\",\n        \"第 25 阶: {argument name=\\\"future evolution concept\\\" default=\\\"带有问号的发光宇宙剪影\\\"}\"\n      ]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\n  \"type\": \"infografía de línea de tiempo evolutiva\",\n  \"instruction\": \"Usando REFERENCE_0 como base estructural, transforma el diseño vectorial plano en una infografía 3D altamente realista. Reemplaza las rampas lisas por escalones de piedra definidos y actualiza todos los organismos a modelos 3D fotorrealistas.\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"estilo de fondo\\\" default=\\\"papel pergamino con textura vintage\\\"}\",\n    \"staircase\": \"{argument name=\\\"material de la escalera\\\" default=\\\"bloques de piedra con textura realista\\\"}\",\n    \"subjects\": \"{argument name=\\\"estilo de organismo\\\" default=\\\"representaciones 3D fotorrealistas altamente detalladas\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"título principal\\\" default=\\\"Evolución humana\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"barra lateral izquierda\",\n        \"count\": 8,\n        \"labels\": [\"L0: Vida unicelular\", \"L1: Organismos multicelulares\", \"L2: Reino animal\", \"L3: Cordados\", \"L4: Revolución terrestre\", \"L5: Clase Mammalia\", \"L6: Evolución de los homínidos\", \"L7: Era del Homo sapiens\"]\n      },\n      {\n        \"position\": \"superior derecha\",\n        \"title\": \"Funciones ganadas / Funciones perdidas\",\n        \"description\": \"Leyenda con iconos de más y menos\"\n      },\n      {\n        \"position\": \"centro inferior\",\n        \"title\": \"Hitos evolutivos clave\",\n        \"count\": 6,\n        \"description\": \"Línea de tiempo con una silueta gráfica de 6 figuras que muestran la evolución de simio a humano\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"Escalera de piedra en espiral con 25 escalones numerados que presentan organismos específicos.\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"Escalón 07: Medusa\",\n        \"Escalón 09: Amonita\",\n        \"Escalón 10: Trilobite\",\n        \"Escalón 24: Humano caminando\",\n        \"Escalón 25: {argument name=\\\"concepto de evolución futura\\\" default=\\\"silueta cósmica brillante con un signo de interrogación\\\"}\"\n      ]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\n  \"type\": \"Infografik zur evolutionären Zeitleiste\",\n  \"instruction\": \"Verwenden Sie REFERENCE_0 als strukturelle Basis und verwandeln Sie das flache Vektordesign in eine hochrealistische 3D-Infografik. Ersetzen Sie die glatten Rampen durch markante Steinstufen und werten Sie alle Organismen zu fotorealistischen 3D-Modellen auf.\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"vintage strukturiertes Pergamentpapier\\\"}\",\n    \"staircase\": \"{argument name=\\\"staircase material\\\" default=\\\"realistische, texturierte Steinblöcke\\\"}\",\n    \"subjects\": \"{argument name=\\\"organism style\\\" default=\\\"hochdetaillierte, fotorealistische 3D-Renderings\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"Menschliche Evolution\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"linke Seitenleiste\",\n        \"count\": 8,\n        \"labels\": [\"L0: Einzelliges Leben\", \"L1: Mehrzellige Organismen\", \"L2: Tierreich\", \"L3: Chordatiere\", \"L4: Landgang\", \"L5: Säugetiere\", \"L6: Evolution der Hominiden\", \"L7: Ära des Homo sapiens\"]\n      },\n      {\n        \"position\": \"oben rechts\",\n        \"title\": \"Gewonnene Funktionen / Verlorene Funktionen\",\n        \"description\": \"Legende mit Plus- und Minus-Symbolen\"\n      },\n      {\n        \"position\": \"unten mittig\",\n        \"title\": \"Wichtige Meilensteine der Evolution\",\n        \"count\": 6,\n        \"description\": \"Zeitleiste mit einer Silhouetten-Grafik von 6 Figuren, die die Entwicklung vom Affen zum Menschen zeigt\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"Gewundene Steintreppe mit 25 nummerierten Stufen, die spezifische Organismen darstellen.\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"Stufe 07: Qualle\",\n        \"Stufe 09: Ammonit\",\n        \"Stufe 10: Trilobit\",\n        \"Stufe 24: Gehender Mensch\",\n        \"Stufe 25: {argument name=\\\"future evolution concept\\\" default=\\\"leuchtende kosmische Silhouette mit einem Fragezeichen\\\"}\"\n      ]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\n  \"type\": \"infographie de chronologie évolutive\",\n  \"instruction\": \"En utilisant REFERENCE_0 comme base structurelle, transformez le design vectoriel plat en une infographie 3D hautement réaliste. Remplacez les rampes lisses par des marches en pierre distinctes et améliorez tous les organismes avec des modèles 3D photoréalistes.\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"papier parchemin texturé vintage\\\"}\",\n    \"staircase\": \"{argument name=\\\"staircase material\\\" default=\\\"blocs de pierre texturés réalistes\\\"}\",\n    \"subjects\": \"{argument name=\\\"organism style\\\" default=\\\"rendus 3D photoréalistes hautement détaillés\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"Évolution humaine\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"barre latérale gauche\",\n        \"count\": 8,\n        \"labels\": [\"L0 : Vie unicellulaire\", \"L1 : Organismes multicellulaires\", \"L2 : Règne animal\", \"L3 : Chordés\", \"L4 : Révolution terrestre\", \"L5 : Classe des mammifères\", \"L6 : Évolution des hominidés\", \"L7 : Ère de l'Homo sapiens\"]\n      },\n      {\n        \"position\": \"en haut à droite\",\n        \"title\": \"Fonctions acquises / Fonctions perdues\",\n        \"description\": \"Légende avec icônes plus et moins\"\n      },\n      {\n        \"position\": \"en bas au centre\",\n        \"title\": \"Jalons clés de l'évolution\",\n        \"count\": 6,\n        \"description\": \"Chronologie avec un graphique en silhouette de 6 figures montrant l'évolution du singe à l'homme\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"Escalier de pierre en colimaçon avec 25 marches numérotées présentant des organismes spécifiques.\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"Marche 07 : Méduse\",\n        \"Marche 09 : Ammonite\",\n        \"Marche 10 : Trilobite\",\n        \"Marche 24 : Humain marchant\",\n        \"Marche 25 : {argument name=\\\"future evolution concept\\\" default=\\\"silhouette cosmique lumineuse avec un point d'interrogation\\\"}\"\n      ]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\n  \"type\": \"infografica della linea temporale evolutiva\",\n  \"instruction\": \"Utilizzando REFERENCE_0 come base strutturale, trasforma il design vettoriale piatto in un'infografica 3D altamente realistica. Sostituisci le rampe lisce con gradini in pietra distinti e aggiorna tutti gli organismi con modelli 3D fotorealistici.\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"carta pergamena vintage testurizzata\\\"}\",\n    \"staircase\": \"{argument name=\\\"staircase material\\\" default=\\\"blocchi di pietra realistici e testurizzati\\\"}\",\n    \"subjects\": \"{argument name=\\\"organism style\\\" default=\\\"rendering 3D fotorealistici altamente dettagliati\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"Evoluzione umana\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"barra laterale sinistra\",\n        \"count\": 8,\n        \"labels\": [\"L0: Vita unicellulare\", \"L1: Organismi multicellulari\", \"L2: Regno animale\", \"L3: Cordati\", \"L4: Conquista delle terre emerse\", \"L5: Classe Mammalia\", \"L6: Evoluzione degli ominidi\", \"L7: Era dell'Homo sapiens\"]\n      },\n      {\n        \"position\": \"in alto a destra\",\n        \"title\": \"Funzioni acquisite / Funzioni perse\",\n        \"description\": \"Legenda con icone più e meno\"\n      },\n      {\n        \"position\": \"centro in basso\",\n        \"title\": \"Pietre miliari dell'evoluzione\",\n        \"count\": 6,\n        \"description\": \"Linea temporale con una grafica a silhouette di 6 figure che mostrano l'evoluzione da scimmia a uomo\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"Scala a chiocciola in pietra con 25 gradini numerati che presentano organismi specifici.\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"Gradino 07: Medusa\",\n        \"Gradino 09: Ammonite\",\n        \"Gradino 10: Trilobite\",\n        \"Gradino 24: Uomo che cammina\",\n        \"Gradino 25: {argument name=\\\"future evolution concept\\\" default=\\\"silhouette cosmica luminosa con un punto interrogativo\\\"}\"\n      ]\n    }\n  }\n}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\n  \"type\": \"infográfico de linha do tempo evolutiva\",\n  \"instruction\": \"Usando REFERENCE_0 como base estrutural, transforme o design vetorial plano em um infográfico 3D altamente realista. Substitua as rampas lisas por degraus de pedra distintos e atualize todos os organismos para modelos 3D fotorrealistas.\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"estilo de fundo\\\" default=\\\"papel pergaminho texturizado vintage\\\"}\",\n    \"staircase\": \"{argument name=\\\"material da escadaria\\\" default=\\\"blocos de pedra texturizados realistas\\\"}\",\n    \"subjects\": \"{argument name=\\\"estilo dos organismos\\\" default=\\\"renderizações 3D fotorrealistas altamente detalhadas\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"título principal\\\" default=\\\"Evolução Humana\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"barra lateral esquerda\",\n        \"count\": 8,\n        \"labels\": [\"L0: Vida unicelular\", \"L1: Organismos multicelulares\", \"L2: Reino animal\", \"L3: Cordados\", \"L4: Revolução terrestre\", \"L5: Classe Mammalia\", \"L6: Evolução dos hominídeos\", \"L7: Era do Homo sapiens\"]\n      },\n      {\n        \"position\": \"superior direito\",\n        \"title\": \"Funções ganhas / Funções perdidas\",\n        \"description\": \"Legenda com ícones de mais e menos\"\n      },\n      {\n        \"position\": \"centro inferior\",\n        \"title\": \"Marcos evolutivos principais\",\n        \"count\": 6,\n        \"description\": \"Linha do tempo com um gráfico de silhueta de 6 figuras mostrando a evolução de primata para humano\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"Escadaria de pedra em espiral com 25 degraus numerados apresentando organismos específicos.\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"Degrau 07: Água-viva\",\n        \"Degrau 09: Amonita\",\n        \"Degrau 10: Trilobita\",\n        \"Degrau 24: Humano caminhando\",\n        \"Degrau 25: {argument name=\\\"conceito de evolução futura\\\" default=\\\"silhueta cósmica brilhante com um ponto de interrogação\\\"}\"\n      ]\n    }\n  }\n}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "3D Stone Staircase Evolution Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "3D 石阶演化信息图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía de la evolución en escalera de piedra 3D",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik zur Evolution: 3D-Steintreppe",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie de l'évolution en escalier de pierre 3D",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica sull'evoluzione: la scala di pietra 3D",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico de Evolução em Escadaria de Pedra 3D",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Transforms a flat evolutionary timeline into a realistic 3D stone staircase infographic with detailed organism renders and structured side panels.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "将平面的演化时间轴转化为逼真的 3D 石阶信息图，包含精细的生物渲染图和结构化的侧边栏。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Transforme une chronologie évolutive plate en une infographie réaliste en forme d'escalier de pierre 3D, avec des rendus détaillés d'organismes et des panneaux latéraux structurés.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/GeekCatX/status/2045792240044511277",
+      "originalId": "case-111",
+      "authors": [
+        {
+          "name": "GeekCatX",
+          "url": "https://x.com/GeekCatX"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1145
+        }
+      ]
+    },
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/GeekCatX/status/2045792240044511277#reversed-1",
+      "originalId": "https://x.com/GeekCatX/status/2045792240044511277#reversed-1",
+      "authors": [
+        {
+          "name": "知识猫图解",
+          "url": "https://x.com/GeekCatX"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 449
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c762a3f7b67b97a6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case111/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case111/output.jpg",
+      "localPath": "public/assets/prompt_7d28d34e2d2396a7fd2f/18f153f8112b.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_50978a6af64b14ba",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1776661968404_8a5flm_HGQc_KOaMAA2vt0.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1776661968404_8a5flm_HGQc_KOaMAA2vt0.jpg",
+      "localPath": "public/assets/prompt_7d28d34e2d2396a7fd2f/c1c3f1a0abce.jpg",
+      "alt": "3D Stone Staircase Evolution Infographic - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.736Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

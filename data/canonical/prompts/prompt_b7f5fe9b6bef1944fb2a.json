@@ -1,0 +1,101 @@
+{
+  "id": "prompt_b7f5fe9b6bef1944fb2a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A stylish young woman with {argument name=\"hair style\" default=\"long wavy blonde hair\"}, defined cheekbones, and a confident expression, wearing black sunglasses and a {argument name=\"clothing\" default=\"thick white puffer jacket\"} over a fitted black top, standing confidently in front of a {argument name=\"car\" default=\"vibrant hot-pink Ford Mustang\"}. She is posing with one hand slightly raised near her chest, exuding effortless attitude and elegance. The car is parked on a scenic coastal road lined with blooming pink cherry blossom trees and tall palm trees. Behind them is a calm sea under a dramatic overcast sky with soft clouds. Pink petals are scattered on the wet asphalt. A wooden bench is visible on the left side near the water. Cinematic lighting, photorealistic, ultra-detailed skin texture, natural lighting reflections, Instagram-style luxury lifestyle shot, vibrant colors, moody atmosphere, 8k resolution --ar 9:16 --stylize 250",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一位时尚的年轻女子，拥有{argument name=\"hair style\" default=\"long wavy blonde hair\"}，轮廓分明的颧骨，自信的表情，戴着黑色太阳镜，穿着一件{argument name=\"clothing\" default=\"thick white puffer jacket\"}搭配修身黑色上衣，自信地站在一辆{argument name=\"car\" default=\"vibrant hot-pink Ford Mustang\"}前面。她一只手略微抬至胸前摆姿势，散发着轻松的态度和优雅。汽车停在有景色的沿海公路上，路边开满粉色樱花树和高大的棕榈树。他们身后是平静的大海，天空戏剧性地多云，有柔软的云朵。粉色花瓣散落在湿漉漉的沥青路面上。左侧水面附近可见一张木质长椅。电影级照明，照片级真实感，超细腻的皮肤纹理，自然光线反射，Instagram风格的奢华生活方式拍摄，鲜艳的色彩，忧郁的氛围，8k分辨率 --ar 9:16 --stylize 250",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:29:11.543Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Luxury Lifestyle Mustang Shot",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Just_sharon7/status/2048095904138485962",
+      "originalId": "case-109",
+      "authors": [
+        {
+          "name": "Just_sharon7",
+          "url": "https://x.com/Just_sharon7"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 673
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f9b67928a7bd2446",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg",
+      "localPath": "public/assets/prompt_b7f5fe9b6bef1944fb2a/d3a99dad8099.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

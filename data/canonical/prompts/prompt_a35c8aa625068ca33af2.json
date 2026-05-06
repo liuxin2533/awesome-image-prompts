@@ -1,0 +1,101 @@
+{
+  "id": "prompt_a35c8aa625068ca33af2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cozy winter camping scene inside a large beige canvas tent, rendered as a semi-realistic anime illustration with natural lighting and realistic environmental detail. Show exactly 2 seated young women around a compact kerosene heater used as a camp table, with a large black metal pot resting on top. The viewpoint is a candid wide-angle photo composition from slightly above seated height, making the scene feel like a casual snapshot taken inside the tent. The woman on the left has {argument name=\"hair color\" default=\"dark brown\"} hair tied in a high ponytail with loose bangs, and wears a fluffy brown fleece jacket, dark pants, and a red lanyard with an ID card. She sits in a low camping chair and leans forward, using chopsticks over a small bowl or food container in her hands. The woman on the right has {argument name=\"hair color\" default=\"black\"} shoulder-length hair and wears a muted purple hoodie layered under a black puffer vest, light gray sweatpants, and dark shoes. She sits in another low camping chair, resting her cheek on one hand in a relaxed, sleepy pose. Keep both faces obscured by a soft rectangular blur block, as if anonymized in a posted photo. Around them, include exactly 4 red beverage cans visible in the scene: 2 on the wooden table planks near the center, 1 cropped in the lower right foreground, and 1 farther back near the right side. Build a low U-shaped arrangement of 3 wooden bench planks surrounding the heater. Add small camping details: 1 olive duffel bag on the left ground, 1 plastic storage box with supplies behind the left woman, 1 white plastic shopping bag on top of the box, 1 small bowl on the table, 1 colorful snack package on the right-side plank, 1 soft brown cloth on the far left floor, and 1 black metal rack frame standing at the back right. The tent interior should have taut canvas walls, visible seams and support poles, a gravel ground, and a warm muted color palette. Preserve the feeling of a real camping photo where only the people have been turned into anime-style characters while the setting remains highly realistic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个温馨的冬季露营场景，位于大型米色帆布帐篷内，以半写实动漫风格呈现，具有自然光线和逼真的环境细节。展示恰好2位年轻女性围坐在一个紧凑的煤油炉周围，煤油炉被用作野餐桌，上面放着一个大黑色金属锅。视角是从略高于坐姿的高度拍摄的抓拍广角照片构图，使场景感觉像是帐篷内随意拍摄的照片。左侧的女子有{argument name=\"hair color\" default=\"dark brown\"}头发，扎成高马尾，有刘海，穿着蓬松的棕色抓绒夹克、深色裤子和红色挂绳，上面挂着身份证。她坐在一个低矮的露营椅上，身体前倾，用手中的筷子夹着小碗或食物容器里的食物。右侧的女子有{argument name=\"hair color\" default=\"black\"}齐肩发，穿着深紫色卫衣，外搭黑色充气背心，浅灰色运动裤和深色鞋子。她坐在另一个低矮的露营椅上，以放松、困倦的姿势用手托着脸颊。用柔和的矩形模糊块遮挡两张脸，就像在发布的照片中匿名处理一样。在她们周围，场景中要恰好显示4个红色饮料罐：2个在中央附近的木桌板上，1个在右下角前景中被裁剪，1个在右侧后方较远处。围绕煤油炉搭建一个由3块木板组成的低U形座椅。添加小型露营细节：左侧地面上有1个橄榄色旅行袋，左侧女子后面有1个装有物资的塑料储物箱，箱子上放有1个白色塑料购物袋，桌上有1个小碗，右侧木板上有1个彩色零食包装，最左侧地板上有1块柔软的棕色布料，右后方立着1个黑色金属架。帐篷内部应有紧绷的帆布墙、可见的接缝和支撑杆、砾石地面以及温暖柔和的色调。保留真实露营照片的感觉，只有人物变成了动漫风格角色，而环境保持高度写实。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:27:25.379Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime Campers in a Winter Tent",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/sub_raw_jin/status/2048066779835220392",
+      "originalId": "case-115",
+      "authors": [
+        {
+          "name": "sub_raw_jin",
+          "url": "https://x.com/sub_raw_jin"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 745
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b3a7bd8a7efe5c2a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case115/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case115/output.jpg",
+      "localPath": "public/assets/prompt_a35c8aa625068ca33af2/19061822e61b.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "character",
+      "card",
+      "角色",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

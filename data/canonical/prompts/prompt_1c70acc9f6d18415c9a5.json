@@ -1,0 +1,93 @@
+{
+  "id": "prompt_1c70acc9f6d18415c9a5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a personal color analysis graphic using this portrait. Point out which season colour suits the subject best. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. List out what texture/accessories/hairstyle suit the subject best. Make it visual-first, with short labels only and no paragraphs.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Personal Color Analysis Graphic Board",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ZaraIrahh/status/2049730770474877234",
+      "originalId": "case-128",
+      "authors": [
+        {
+          "name": "ZaraIrahh",
+          "url": "https://x.com/ZaraIrahh"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 914
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_146ce8bc60457d64",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case128/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case128/output.jpg",
+      "localPath": "public/assets/prompt_1c70acc9f6d18415c9a5/5d297cb1a82a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

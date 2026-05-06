@@ -1,0 +1,108 @@
+{
+  "id": "prompt_d0934e586eae2d6bc472",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "この商品広告をプロのデザイナー目線でリデザインして。\n今のトレンド、ターゲットに合わせた洗練されたデザインで。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "从专业设计师的角度重新设计这个产品广告。\n采用符合当前趋势和目标受众的精致设计。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:09:59.692Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Ad Redesign",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品广告重新设计",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:10:00.163Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/genel_ai/status/2046498264774791514",
+      "originalId": "case-41",
+      "authors": [
+        {
+          "name": "genel_ai",
+          "url": "https://x.com/genel_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 316
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a7905cc6fa26f87a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg",
+      "localPath": "public/assets/prompt_d0934e586eae2d6bc472/2644334b1b00.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "product",
+      "商品",
+      "产品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

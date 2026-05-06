@@ -1,0 +1,215 @@
+{
+  "id": "prompt_d39f0617fb2136cecd2c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a tech accessory ad for {argument name=\"accessory\" default=\"[ACCESSORY]\"}, floating product render, magnetic alignment, smooth gradients, sharp spec cards, clean sans-serif typography, Apple-level minimalism, premium digital product launch aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 {argument name=\"accessory\" default=\"[ACCESSORY]\"} 生成一个科技配件广告，悬浮产品渲染图，磁吸对齐，平滑渐变，清晰的规格卡片，简洁的无衬线字体，Apple 级极简主义，高端数字产品发布美学。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tạo một quảng cáo phụ kiện công nghệ cho {argument name=\"accessory\" default=\"[ACCESSORY]\"}, render sản phẩm lơ lửng, căn chỉnh từ tính, dải màu mượt mà, bảng thông số sắc nét, kiểu chữ không chân tinh gọn, phong cách tối giản chuẩn Apple, thẩm mỹ ra mắt sản phẩm kỹ thuật số cao cấp.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera un anuncio de accesorio tecnológico para {argument name=\"accessory\" default=\"[ACCESSORY]\"}, render de producto flotante, alineación magnética, degradados suaves, tarjetas de especificaciones nítidas, tipografía sans-serif limpia, minimalismo al nivel de Apple, estética premium de lanzamiento de producto digital.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine Tech-Zubehör-Werbung für {argument name=\"accessory\" default=\"[ZUBEHÖR]\"}, schwebendes Produkt-Rendering, magnetische Ausrichtung, weiche Farbverläufe, scharfe Spezifikationskarten, klare serifenlose Typografie, Minimalismus auf Apple-Niveau, Ästhetik für die Einführung digitaler Premium-Produkte.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Générez une publicité pour un accessoire technologique pour {argument name=\"accessory\" default=\"[ACCESSOIRE]\"}, rendu de produit flottant, alignement magnétique, dégradés fluides, fiches techniques nettes, typographie sans-serif épurée, minimalisme digne d'Apple, esthétique de lancement de produit numérique haut de gamme.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Genera una pubblicità per l'accessorio tech {argument name=\"accessory\" default=\"[ACCESSORY]\"}, render del prodotto fluttuante, allineamento magnetico, sfumature morbide, schede tecniche nitide, tipografia sans-serif pulita, minimalismo in stile Apple, estetica premium per il lancio di prodotti digitali.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Gere um anúncio de acessório tecnológico para {argument name=\"accessory\" default=\"[ACESSÓRIO]\"}, renderização de produto flutuante, alinhamento magnético, gradientes suaves, cartões de especificações nítidos, tipografia sem serifa limpa, minimalismo de nível Apple, estética premium de lançamento de produto digital.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Minimalist Tech Accessory Advertisement",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 极简科技配件广告",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình ảnh chính thương mại điện tử - Quảng cáo phụ kiện công nghệ tối giản",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Anuncio de accesorio tecnológico minimalista",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Minimalistische Tech-Zubehör-Werbung",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Publicité pour accessoire technologique minimaliste",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Pubblicità per accessori tech minimalisti",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Anúncio de Acessório Tecnológico Minimalista",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A professional tech marketing prompt focused on minimalist Apple-style floating renders and clean typography.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一份专业的科技营销提示词，专注于极简主义 Apple 风格的悬浮渲染图和简洁的排版设计。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt marketing technologique professionnel axé sur des rendus flottants de style Apple minimaliste et une typographie épurée.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Dheepanratnam/status/2048341738683584821",
+      "originalId": "https://x.com/Dheepanratnam/status/2048341738683584821",
+      "authors": [
+        {
+          "name": "Dheepan Ratnam",
+          "url": "https://x.com/Dheepanratnam"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4633
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9b129acff60e6412",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280765015_4megwd_HG0qLMab0AA1zo3.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280765015_4megwd_HG0qLMab0AA1zo3.jpg",
+      "localPath": "public/assets/prompt_d39f0617fb2136cecd2c/7b09de1fb5bd.jpg",
+      "alt": "E-commerce Main Image - Minimalist Tech Accessory Advertisement - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_f0f04ae9335a19db",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280764976_9kc3is_HG0qLMDXkAAygE-.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280764976_9kc3is_HG0qLMDXkAAygE-.jpg",
+      "localPath": "public/assets/prompt_d39f0617fb2136cecd2c/b4e120f9123f.jpg",
+      "alt": "E-commerce Main Image - Minimalist Tech Accessory Advertisement - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_d05b5a8c912710dc",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280765006_sibm81_HG0qLL_WIAEGkLA.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280765006_sibm81_HG0qLL_WIAEGkLA.jpg",
+      "localPath": "public/assets/prompt_d39f0617fb2136cecd2c/f4da07c7fbaa.jpg",
+      "alt": "E-commerce Main Image - Minimalist Tech Accessory Advertisement - Image 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_83ede3088caa2fe6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777280765662_fvhlok_HG0qLMZbsAAYsT-.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777280765662_fvhlok_HG0qLMZbsAAYsT-.jpg",
+      "localPath": "public/assets/prompt_d39f0617fb2136cecd2c/db10b4b52308.jpg",
+      "alt": "E-commerce Main Image - Minimalist Tech Accessory Advertisement - Image 4",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-25T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "e-commerce",
+      "产品",
+      "营销",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "prompt_39b761e574e4363b729a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a square [ASPECT RATIO] premium food photography image of a steaming [FOOD] served in a dark black stone bowl or cast-iron skillet on a wooden board. The dish should look hot, glossy, spicy, and freshly served, with bite-sized pieces of browned protein, dried red chilies, green scallions, white onion, garlic, chili flakes, and visible Sichuan peppercorns coated in a deep red, oily Szechuan sauce. Use a slightly elevated close-up camera angle with shallow depth of field. Make the food the clear hero of the image, centered and richly detailed. Add visible steam rising naturally from the dish. Surround the bowl with subtle restaurant-style props like a dark red tray, scattered dried chilies, peppercorns, a small sauce bowl, or a blurred teapot in the background. Lighting should feel warm, moody, and editorial, like a high-end restaurant food shoot. Emphasize realistic textures and keep the image appetizing, realistic, cinematic, and polished. Avoid text, logos, hands, people, utensils covering the food, cartoon styling, fake plastic textures, excessive symmetry, or an overly clean stock-photo look.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个庆祝日本沐浴文化的柔和生活方式海报，设计成精美的杂志内页风格，采用纵向构图。布局分为两栏，背景为淡奶油色和暖灰色，配有细分隔线、优雅的衬线字体和柔和的鼠绿色点缀。左上角包含小标题\"LIFESTYLE / FEATURE\"，然后是大字号日期行\"{argument name=\"event date\" default=\"4.26\"} EVENT\"，接着是大的日文标题\"よい風呂の日\"和鼠绿色的副标题\"特集\"，附近有一个小浴缸图标。下方添加日文标语\"心も体も、ととのう時間。\"和几段简短的日文正文，解释\"好沐浴日\"的含义，包括对\"4(よ)2(ふ)6(ろ)\"的引用以及沐浴对身心的益处。右侧展示一个明亮通透的浴室内部，由窗户透入柔和的晨光，色调为米色和象牙白，配有木质台面、折叠的白色毛巾、按压式瓶装容器、海绵、编织篮和几盆绿植。浴室场景前方放置一位年轻动漫风格的人物，{argument name=\"hair color\" default=\"soft medium brown\"}凌乱的短棕色头发，白皙皮肤，表情放松，采用沐浴后休闲姿势站立。角色穿着宽松的白色T恤，胸前有一个小小的深色方形标志，以及浅棕色抽绳休闲裤，一只手插在口袋里，另一只手拿着白色毛巾靠近脸部和肩膀，传达出刚沐浴后的清新感。在人物附近，添加手写风格的日文旁注\"湯上がりの、リラックスタイム。\"在主图像区域的右下角添加一个椭圆形徽章，包含英文标题\"GOOD BATH DAY\"和日文解释文本，以及一个小浴缸图标。主内容下方，添加2张相同人物在浴室中的小插图，每张都作为矩形小面板，旁边有垂直的日文简短说明。底部创建4个圆角矩形信息卡片，横向排列：卡片1标记为\"POINT 01\"，标题为\"お風呂の基本\"，内容关于在38-40°C的温水中浸泡；卡片2标记为\"POINT 02\"，标题为\"日常でできること\"，内容关于将沐浴作为日常习惯而非仅淋浴；卡片3标记为\"POINT 03\"，标题为\"楽しみ方・取り入れ方\"，内容关于浴盐、香味、音乐和照明；卡片4标记为\"まとめ\"，包含关于可持续自我护理的日文总结文字。卡片装饰有小插图元素，如叶子、浴缸、蜡烛、瓶子、薰衣草枝和折叠毛巾篮。最底部添加一个水平绿色提示条，标记为\"今日からできる TIP\"，包含3个清单项目：\"就寝の1〜2時間前に入浴する\"、\"スマホは浴室に持ち込まない\"和\"水分補給を忘れずに\"。在右下角添加最终的手写风格日文短语\"自分をいたわる時間を。\"整体外观应干净、温和、注重健康、性别中性，并像日本季节性杂志信息图表一样精致，配有精致的动漫插图、柔和的阴影、微妙的纹理和平静的SPA般氛围。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:33:24.012Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Premium food photography template",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "美好沐浴日编辑海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:33:16.282Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-cases",
+      "value": "E-commerce Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/PrometheanAIX/status/2049122713722106161",
+      "originalId": "case-162",
+      "authors": [
+        {
+          "name": "PrometheanAIX",
+          "url": "https://x.com/PrometheanAIX"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 312
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6ad97969ef9160f2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg",
+      "localPath": "public/assets/prompt_39b761e574e4363b729a/25606d5d415c.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:10:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

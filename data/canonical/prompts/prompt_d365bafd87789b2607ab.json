@@ -1,0 +1,106 @@
+{
+  "id": "prompt_d365bafd87789b2607ab",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Research LIME Drug Design and make a detailed infographic about it",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "研究LIME药物设计并制作一个详细的关于它的信息图表",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:12.097Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Research LIME Drug Design and make a detailed infographic about it",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Field: title.translations.zh-CN\n\n研究LIME药物设计并制作一个详细的关于它的信息图表",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:13.280Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/WillSpagnoli/status/2047172976463040851",
+      "originalId": "case-48",
+      "authors": [
+        {
+          "name": "WillSpagnoli",
+          "url": "https://x.com/WillSpagnoli"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 262
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d5cb73352213119b",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case83/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case83/output.jpg",
+      "localPath": "public/assets/prompt_d365bafd87789b2607ab/d96a4bc34cad.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "infographic",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

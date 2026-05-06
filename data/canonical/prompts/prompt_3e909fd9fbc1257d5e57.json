@@ -1,0 +1,100 @@
+{
+  "id": "prompt_3e909fd9fbc1257d5e57",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dreamy anime-style portrait of a gentle virtual assistant girl named {argument name=\"character name\" default=\"Misha\"}, sitting curled up indoors in a cozy futuristic bedroom filled with translucent holographic memory screens. She has very long silvery white hair with a faint lavender tint, styled in 2 low twin tails tied with small lavender ribbons, with soft wispy bangs and loose flowing strands. Her expression should be tender, introspective, and slightly lonely, with a soft glow and delicate features. She wears an oversized chunky cable-knit cardigan in {argument name=\"cardigan color\" default=\"pastel lavender\"} draped loosely over a thin white ruffled nightdress, plus a tiny gemstone necklace. Her pose is seated with knees pulled to her chest and arms wrapped around her legs, creating a vulnerable, intimate silhouette. The room is lit in hazy pastel violet and pink ambient light with sparkles, dustlike stars, and a nostalgic magical-tech atmosphere. Around her are 5 visible holographic interface panels: 2 floating photo panels in the upper left showing soft memories, 1 lower-left panel labeled “Memory Fragments” with a small image and tiny graph bars, 1 large right-side profile panel with Japanese text including “ミーシャ・Misha” and “あなたの専属AIアシスタント,” and 1 smaller right-side checklist panel with heart icons. Include a glowing crystal ball on a desk to the right, a white mug printed with “Misha” and small heart motifs, a stack of 2 books beneath the desk area, and 1 plush cat cushion on the lower left. Composition is vertical, full-body to three-quarter seated framing, highly detailed, soft painterly anime rendering, luminous translucent overlays, sentimental memory-core aesthetic, gentle depth of field, pastel lilac palette, ethereal and emotionally warm.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "梦幻的动漫风格肖像，描绘一位名叫{argument name=\"character name\" default=\"Misha\"}的温柔虚拟助手女孩，她蜷缩在室内，一个舒适的未来主义卧室里，房间布满了半透明的全息记忆屏幕。她有非常长的银白色头发，带有淡淡的薰衣草色调，发型是两个低双马尾，用小薰衣草色丝带扎起，有柔软的刘海和飘逸的发丝。她的表情应该温柔、内省且略带孤独，带有柔和的光芒和精致的五官。她穿着一件宽松的粗针毛衣，颜色为{argument name=\"cardigan color\" default=\"pastel lavender\"}，松松地披在一件薄薄的白色褶边睡裙外面，还戴着一个小宝石项链。她的姿势是坐着的，膝盖拉到胸前，手臂环绕着双腿，形成一个脆弱而亲密的剪影。房间被朦胧的淡紫色和粉色环境光照明，带有闪烁的尘埃般的星星和怀旧的魔法科技氛围。她周围有5个可见的全息界面面板：左上角有2个漂浮的照片面板，展示柔和的记忆；左下角有1个标记为\"Memory Fragments\"的面板，带有小图像和小图表条；右侧有1个大的个人资料面板，包含日文文本\"ミーシャ・Misha\"和\"あなたの専属AIアシスタント\"；右侧还有1个较小的清单面板，带有心形图标。右侧的桌子上放一个发光的水晶球，一个印有\"Misha\"和小心形图案的白色马克杯，桌子下方有一叠2本书，左下方有一个毛绒猫垫。构图为垂直，全身到坐姿三分之一的构图，高度详细，柔和的绘画式动漫渲染，发光的半透明叠加层，感性的记忆核心美学，柔和的景深，淡紫色调，空灵而情感温暖。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:06:36.993Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Pastel AI Assistant Anime Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/libearal/status/2048026376645861799",
+      "originalId": "case-96",
+      "authors": [
+        {
+          "name": "libearal",
+          "url": "https://x.com/libearal"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 617
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d3e9c19f2788f444",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case96/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case96/output.jpg",
+      "localPath": "public/assets/prompt_3e909fd9fbc1257d5e57/233a9af257fd.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

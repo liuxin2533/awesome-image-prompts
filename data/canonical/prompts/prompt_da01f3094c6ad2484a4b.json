@@ -1,0 +1,100 @@
+{
+  "id": "prompt_da01f3094c6ad2484a4b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic side-profile portrait of a rugged man with a tied-back bun and full beard, wearing round dark sunglasses and a textured leather jacket. His skin is detailed and slightly weathered. The background is a futuristic sci-fi interface filled with glowing orange and red data streams, star maps, celestial navigation diagrams, grids, and holographic UI elements. Fiery particle effects and ember-like energy swirl around him, creating a cosmic, high-tech atmosphere. Dark color palette with strong contrast, dramatic lighting, ultra-detailed, sharp focus, 8K, cyberpunk aesthetic, cinematic composition, depth of field.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影感的侧脸肖像，一个粗犷的男人，扎着马尾辫，留着浓密的胡须，戴着圆形深色太阳镜和质感皮革夹克。他的皮肤细节丰富，略带沧桑。背景是未来科幻界面，充满发光的橙红色数据流、星图、天体导航图、网格和全息UI元素。炽热的粒子效果和余烬般的能量在他周围旋转，营造出宇宙般的高科技氛围。深色调色板，对比强烈，戏剧性照明，超精细细节，锐利焦点，8K，赛博朋克美学，电影构图，景深。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:41.022Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Cyberpunk Sci-Fi Side Profile Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait",
+      "value": "portrait",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/iamsofiaijaz/status/2047882171336253928",
+      "originalId": "case-29",
+      "authors": [
+        {
+          "name": "iamsofiaijaz",
+          "url": "https://x.com/iamsofiaijaz"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 395
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_eb780cc5ed808e05",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case29/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case29/output.jpg",
+      "localPath": "public/assets/prompt_da01f3094c6ad2484a4b/8283c03db081.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.604Z"
+  }
+}

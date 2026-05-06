@@ -1,0 +1,102 @@
+{
+  "id": "prompt_bd3e0abcffc198f82e6a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name=\"hair color\" default=\"pink with light blue inner highlights\"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name=\"room lighting\" default=\"purple and blue neon\"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word \"{argument name=\"main text line 1\" default=\"雑談\"}\" and a bright blue bottom word \"{argument name=\"main text line 2\" default=\"配信\"}\". Below is a pink banner reading \"{argument name=\"subtitle text\" default=\"今夜もゆるっとトーク!\"}\". A red \"LIVE\" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name=\"hair color\" default=\"pink with light blue inner highlights\"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name=\"room lighting\" default=\"purple and blue neon\"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word \"{argument name=\"main text line 1\" default=\"雑談\"}\" and a bright blue bottom word \"{argument name=\"main text line 2\" default=\"配信\"}\". Below is a pink banner reading \"{argument name=\"subtitle text\" default=\"今夜もゆるっとトーク!\"}\". A red \"LIVE\" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:21:42.133Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "视频封面界面图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d21d15207b",
+      "value": "视频封面界面图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-92",
+      "originalId": "case-92",
+      "authors": [
+        {
+          "name": "Yuupapa_free",
+          "url": "https://x.com/Yuupapa_free"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3497
+        }
+      ],
+      "rawSource": "[@Yuupapa\\_free](https://x.com/Yuupapa_free)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5b73cf99cd7f859f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case92.jpg",
+      "upstreamPath": "../data/images/case92.jpg",
+      "localPath": "public/assets/prompt_bd3e0abcffc198f82e6a/c9e437c289c1.jpg",
+      "alt": "hair color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "youtube",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.600Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "run_20260506T111814224Z",
+  "startedAt": "2026-05-06T11:18:14.224Z",
+  "finishedAt": "2026-05-06T11:19:16.797Z",
+  "mode": "remote",
+  "sources": [
+    "evolink",
+    "freestylefly",
+    "youmind",
+    "zerolu"
+  ],
+  "summary": {
+    "added": 0,
+    "updated": 0,
+    "unchanged": 1009,
+    "removed": 0,
+    "total": 1009,
+    "error": 0,
+    "warning": 1930,
+    "info": 0
+  }
+}

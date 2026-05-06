@@ -1,0 +1,167 @@
+{
+  "id": "prompt_c1c122459490532d8d37",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "high contrast street silhouette, strong directional sunlight from doorway, deep shadow foreground, bright overexposed exterior, {argument name=\"action\" default=\"subject walking through doorway\"}, full body silhouette, clear outline, minimal detail, cinematic composition, urban street photography style --2:3",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - High Contrast Urban Silhouette",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - High Contrast Urban Silhouette",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - High Contrast Urban Silhouette",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for street photography focusing on silhouettes, strong directional sunlight, and cinematic urban composition.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/BubbleBrain/status/2048789777605128292",
+      "originalId": "https://x.com/BubbleBrain/status/2048789777605128292",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1871
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c1e860c025a6165d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367254009_hz8595_HG7Db6HbMAASckt.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367254009_hz8595_HG7Db6HbMAASckt.jpg",
+      "localPath": "public/assets/prompt_c1c122459490532d8d37/505c5d9e702a.jpg",
+      "alt": "Social Media Post - High Contrast Urban Silhouette - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.569Z"
+  }
+}

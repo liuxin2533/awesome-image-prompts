@@ -111,10 +111,23 @@ function validatePrompt(prompt) {
   return issues;
 }
 
+function isPromptManifestEntry(prompt) {
+  return Boolean(prompt?.id && prompt?.file && !prompt.promptText);
+}
+
 function validateDataset(dataset) {
   const issues = [];
   const ids = new Map();
   const prompts = dataset?.prompts || dataset?.data || [];
+
+  if (prompts.length > 0 && prompts.every(isPromptManifestEntry)) {
+    return [issue({
+      code: 'canonical_manifest_not_hydrated',
+      message: 'Canonical prompts.json is a manifest and must be hydrated before validation.',
+      fieldPath: 'prompts',
+      suggestedAction: 'Read canonical data through readCanonicalDataset(projectRoot) before validating.'
+    })];
+  }
 
   prompts.forEach((prompt, index) => {
     for (const promptIssue of validatePrompt(prompt)) {

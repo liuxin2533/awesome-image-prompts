@@ -1,0 +1,176 @@
+{
+  "id": "prompt_7134fc81473d1ada5eb9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"vertical watercolor anime light novel cover / episode opening illustration\",\"format\":\"portrait poster, 2:3 aspect ratio\",\"scene\":{\"setting\":\"sunlit cozy pancake cafe in the morning, warm golden light pouring through tall grid windows, airy interior with flowers, wood counters, glass jars, handwritten cafe signs, feathers drifting in the air\",\"mood\":\"soft, heavenly, cheerful, romantic breakfast fantasy\"},\"main subject\":{\"character\":\"young adult male cafe angel standing behind a table of pancakes\",\"appearance\":\"slim elegant build, tousled honey-blond wavy hair, white oversized button-up shirt, beige apron printed with Honey & Pancake and a small wing icon, large fluffy white angel wings spread behind him\",\"pose\":\"one hand reaching forward toward the viewer in a welcoming gesture, the other hand holding a metal cream siphon\",\"face treatment\":\"face covered by a plain square beige censor block matching skin-tone paper color, hiding all facial features\"},\"food and props\":{\"center dish\":\"one tall stack of pancakes on a plate, covered with glossy honey drizzle, whipped cream, strawberries, blueberries, banana slices, mint leaves, and powdered sugar\",\"floating food\":\"one pancake floating near the top right with honey dripping in arcs and droplets\",\"foreground drinks\":\"one latte in a white cup with winged bunny latte art, one glass syrup bottle labeled Maple Cafe Series, one glass milk pitcher, one small metal spoon, and assorted cafe tableware\",\"plants\":\"white daisies and greenery in vases on both left and right sides\"},\"layout\":{\"text count\":8,\"visible text elements\":[{\"position\":\"top left\",\"content\":\"{argument name=\\\"episode label\\\" default=\\\"第1話：幸せのはじまり\\\"}\",\"style\":\"tiny decorative Japanese text with star flourishes\"},{\"position\":\"upper left to center\",\"content\":\"{argument name=\\\"headline text\\\" default=\\\"おはようございます！パンケーキ天使\\\"}\",\"style\":\"large elegant brown Japanese brush calligraphy\"},{\"position\":\"under main title\",\"content\":\"Pancake Angel\",\"style\":\"small cursive English subtitle\"},{\"position\":\"left under subtitle\",\"content\":\"{argument name=\\\"morning poem\\\" default=\\\"ふわふわの朝に、きみの笑顔がいちばんのごちそう。\\\"}\",\"style\":\"small handwritten Japanese lines\"},{\"position\":\"upper right hanging banner\",\"content\":\"Honey & Pancake\",\"style\":\"thin handwritten English on a beige cafe banner\"},{\"position\":\"left chalkboard\",\"content\":\"Morning Set: Pancake Set, Coffee or Milk Tea, Fruits\",\"style\":\"small chalk writing with a bunny doodle\"},{\"position\":\"right chalkboard\",\"content\":\"Today's Special: Fruits Pancake, Berry & Cream, Maple & Butter, Honey Latte, Have a nice day!\",\"style\":\"small chalk writing with decorative sparkles and bunny doodle\"},{\"position\":\"bottom left small card and bottom right menu book\",\"content\":\"Good morning! and Menu with bunny icons\",\"style\":\"cute handwritten cafe stationery\"}]},\"style\":{\"medium\":\"delicate transparent watercolor and ink illustration, shoujo anime light novel cover aesthetic\",\"palette\":\"cream, honey gold, warm beige, soft sky blue, pale brown, white highlights\",\"lighting\":\"strong backlit morning sun, glowing window reflections, sparkling dust motes, luminous honey highlights\",\"linework\":\"fine sepia sketch lines, soft washes, highly detailed food rendering\",\"composition\":\"angel centered, title typography occupying upper left, pancakes in foreground center, cafe signs framing the scene, wings filling both sides\"},\"rendering requirements\":\"high detail, vertical cover design, readable decorative typography, dreamy atmosphere, no photorealism, no harsh shadows\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"竖版水彩动漫轻小说封面 / 剧集开场插画\",\"format\":\"竖向海报，2:3 比例\",\"scene\":{\"setting\":\"清晨阳光明媚、温馨的松饼咖啡馆，温暖的金色光线透过高大的格栅窗洒入，室内空气清新，摆放着花卉、木质柜台、玻璃罐和手写咖啡馆招牌，羽毛在空中飘浮\",\"mood\":\"柔和、治愈、欢快、浪漫的早餐幻想\"},\"main subject\":{\"character\":\"年轻的男性咖啡馆天使，站在松饼桌后\",\"appearance\":\"身材修长优雅，蜂蜜金色凌乱卷发，穿着白色大号衬衫，围裙上印有 Honey & Pancake 字样和一个小翅膀图标，身后展开着巨大的蓬松白色天使翅膀\",\"pose\":\"一只手向观众伸出，做出欢迎的姿势，另一只手拿着金属奶油枪\",\"face treatment\":\"脸部被一个与肤色纸张颜色相同的纯色方形遮挡块覆盖，隐藏所有面部特征\"},\"food and props\":{\"center dish\":\"盘中堆叠的高松饼，淋着光亮的蜂蜜，配有鲜奶油、草莓、蓝莓、香蕉片、薄荷叶和糖粉\",\"floating food\":\"右上角漂浮着一个松饼，蜂蜜呈弧线和水滴状滴落\",\"foreground drinks\":\"一杯带有翅膀兔子拉花的拿铁，一瓶贴有 Maple Cafe Series 标签的糖浆瓶，一个玻璃牛奶壶，一把小金属勺，以及各式咖啡馆餐具\",\"plants\":\"左右两侧花瓶中插着白色雏菊和绿植\"},\"layout\":{\"text count\":8,\"visible text elements\":[{\"position\":\"左上角\",\"content\":\"{argument name=\\\"episode label\\\" default=\\\"第1話：幸せのはじまり\\\"}\",\"style\":\"带有星星装饰的小巧日文\"},{\"position\":\"左上至中心\",\"content\":\"{argument name=\\\"headline text\\\" default=\\\"おはようございます！パンケーキ天使\\\"}\",\"style\":\"大型优雅的棕色日文毛笔书法\"},{\"position\":\"主标题下方\",\"content\":\"Pancake Angel\",\"style\":\"小型草书英文副标题\"},{\"position\":\"副标题左下方\",\"content\":\"{argument name=\\\"morning poem\\\" default=\\\"ふわふわの朝に、きみの笑顔がいちばんのごちそう。\\\"}\",\"style\":\"小型手写日文行\"},{\"position\":\"右上角悬挂横幅\",\"content\":\"Honey & Pancake\",\"style\":\"米色咖啡馆横幅上的纤细手写英文\"},{\"position\":\"左侧黑板\",\"content\":\"Morning Set: Pancake Set, Coffee or Milk Tea, Fruits\",\"style\":\"带有兔子涂鸦的小字粉笔书写\"},{\"position\":\"右侧黑板\",\"content\":\"Today's Special: Fruits Pancake, Berry & Cream, Maple & Butter, Honey Latte, Have a nice day!\",\"style\":\"带有装饰性闪光和兔子涂鸦的小字粉笔书写\"},{\"position\":\"左下角小卡片及右下角菜单本\",\"content\":\"Good morning! and Menu with bunny icons\",\"style\":\"可爱的咖啡馆手写文具风格\"}]},\"style\":{\"medium\":\"精致透明的水彩与墨水插画，少女动漫轻小说封面美学\",\"palette\":\"奶油色、蜂蜜金、暖米色、柔和天蓝色、浅棕色、白色高光\",\"lighting\":\"强烈的清晨逆光，明亮的窗户反射，闪烁的尘埃，发光的蜂蜜高光\",\"linework\":\"精细的棕褐色草图线条，柔和的色彩渲染，高度细致的食物描绘\",\"composition\":\"天使居中，标题排版占据左上方，松饼位于前景中心，咖啡馆招牌环绕场景，翅膀填满两侧\"},\"rendering requirements\":\"高细节，竖版封面设计，清晰的装饰性排版，梦幻氛围，非写实风格，无生硬阴影\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"portada de novela ligera de anime en acuarela vertical / ilustración de apertura de episodio\",\"format\":\"póster vertical, relación de aspecto 2:3\",\"scene\":{\"setting\":\"acogedora cafetería de panqueques iluminada por el sol de la mañana, cálida luz dorada entrando a través de grandes ventanales de cuadrícula, interior aireado con flores, mostradores de madera, frascos de vidrio, letreros de cafetería escritos a mano, plumas flotando en el aire\",\"mood\":\"suave, celestial, alegre, fantasía romántica de desayuno\"},\"main subject\":{\"character\":\"joven ángel de cafetería de pie detrás de una mesa de panqueques\",\"appearance\":\"complexión delgada y elegante, cabello rubio miel ondulado y alborotado, camisa blanca de botones de gran tamaño, delantal beige estampado con Honey & Pancake y un pequeño icono de ala, grandes y esponjosas alas de ángel blancas extendidas detrás de él\",\"pose\":\"una mano extendida hacia el espectador en un gesto de bienvenida, la otra mano sosteniendo un sifón de crema de metal\",\"face treatment\":\"rostro cubierto por un bloque censor cuadrado de color beige que combina con el tono de piel del papel, ocultando todas las facciones\"},\"food and props\":{\"center dish\":\"una torre alta de panqueques en un plato, cubiertos con un glaseado de miel brillante, crema batida, fresas, arándanos, rodajas de plátano, hojas de menta y azúcar glass\",\"floating food\":\"un panqueque flotando cerca de la parte superior derecha con miel goteando en arcos y gotas\",\"foreground drinks\":\"un café con leche en una taza blanca con arte latte de conejo alado, una botella de jarabe de vidrio etiquetada como Maple Cafe Series, una jarra de leche de vidrio, una pequeña cuchara de metal y diversos utensilios de cafetería\",\"plants\":\"margaritas blancas y vegetación en jarrones a ambos lados\"},\"layout\":{\"text count\":8,\"visible text elements\":[{\"position\":\"arriba a la izquierda\",\"content\":\"{argument name=\\\"episode label\\\" default=\\\"第1話：幸せのはじまり\\\"}\",\"style\":\"pequeño texto decorativo en japonés con adornos de estrellas\"},{\"position\":\"arriba a la izquierda hacia el centro\",\"content\":\"{argument name=\\\"headline text\\\" default=\\\"おはようございます！パンケーキ天使\\\"}\",\"style\":\"caligrafía japonesa grande y elegante en color marrón\"},{\"position\":\"debajo del título principal\",\"content\":\"Pancake Angel\",\"style\":\"pequeño subtítulo en inglés con letra cursiva\"},{\"position\":\"izquierda debajo del subtítulo\",\"content\":\"{argument name=\\\"morning poem\\\" default=\\\"ふわふわの朝に、きみの笑顔がいちばんのごちそう。\\\"}\",\"style\":\"pequeñas líneas escritas a mano en japonés\"},{\"position\":\"arriba a la derecha pancarta colgante\",\"content\":\"Honey & Pancake\",\"style\":\"escritura a mano fina en inglés sobre una pancarta de cafetería beige\"},{\"position\":\"pizarra izquierda\",\"content\":\"Morning Set: Pancake Set, Coffee or Milk Tea, Fruits\",\"style\":\"pequeña escritura con tiza con un garabato de conejo\"},{\"position\":\"pizarra derecha\",\"content\":\"Today's Special: Fruits Pancake, Berry & Cream, Maple & Butter, Honey Latte, Have a nice day!\",\"style\":\"pequeña escritura con tiza con destellos decorativos y un garabato de conejo\"},{\"position\":\"tarjeta pequeña abajo a la izquierda y menú abajo a la derecha\",\"content\":\"Good morning! y menú con iconos de conejo\",\"style\":\"linda papelería de cafetería escrita a mano\"}]},\"style\":{\"medium\":\"ilustración delicada en acuarela transparente y tinta, estética de portada de novela ligera de anime shoujo\",\"palette\":\"crema, oro miel, beige cálido, azul cielo suave, marrón pálido, reflejos blancos\",\"lighting\":\"fuerte sol de la mañana a contraluz, reflejos brillantes en las ventanas, motas de polvo centelleantes, reflejos luminosos de miel\",\"linework\":\"finas líneas de boceto sepia, lavados suaves, renderizado de comida altamente detallado\",\"composition\":\"ángel centrado, tipografía del título ocupando la parte superior izquierda, panqueques en el centro del primer plano, letreros de cafetería enmarcando la escena, alas llenando ambos lados\"},\"rendering requirements\":\"alto detalle, diseño de portada vertical, tipografía decorativa legible, atmósfera de ensueño, sin fotorrealismo, sin sombras duras\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"vertikales Aquarell-Anime-Light-Novel-Cover / Episoden-Intro-Illustration\",\"format\":\"Hochformat-Poster, Seitenverhältnis 2:3\",\"scene\":{\"setting\":\"sonnendurchflutetes, gemütliches Pfannkuchen-Café am Morgen, warmes goldenes Licht fällt durch hohe Sprossenfenster, luftiges Interieur mit Blumen, Holztheken, Gläsern, handgeschriebenen Café-Schildern, Federn, die in der Luft schweben\",\"mood\":\"sanft, himmlisch, fröhlich, romantische Frühstücksfantasie\"},\"main subject\":{\"character\":\"junger, erwachsener Café-Engel hinter einem Tisch voller Pfannkuchen\",\"appearance\":\"schlanke, elegante Statur, zerzaustes, honigblondes, welliges Haar, weißes, übergroßes Button-Down-Hemd, beige Schürze mit dem Aufdruck Honey & Pancake und einem kleinen Flügel-Symbol, große, flauschige weiße Engelsflügel, die sich hinter ihm ausbreiten\",\"pose\":\"eine Hand reicht dem Betrachter einladend entgegen, die andere Hand hält einen Sahnespender aus Metall\",\"face treatment\":\"Gesicht durch einen schlichten, quadratischen beigen Zensurbalken in hautfarbener Papieroptik verdeckt, der alle Gesichtszüge verbirgt\"},\"food and props\":{\"center dish\":\"ein hoher Stapel Pfannkuchen auf einem Teller, bedeckt mit glänzendem Honig, Schlagsahne, Erdbeeren, Blaubeeren, Bananenscheiben, Minzblättern und Puderzucker\",\"floating food\":\"ein Pfannkuchen schwebt oben rechts, Honig tropft in Bögen und Tröpfchen herab\",\"foreground drinks\":\"ein Latte in einer weißen Tasse mit Latte-Art in Form eines geflügelten Hasen, eine gläserne Sirupflasche mit dem Etikett Maple Cafe Series, ein gläsernes Milchkännchen, ein kleiner Metalllöffel und diverses Café-Geschirr\",\"plants\":\"weiße Gänseblümchen und Grünpflanzen in Vasen auf der linken und rechten Seite\"},\"layout\":{\"text count\":8,\"visible text elements\":[{\"position\":\"oben links\",\"content\":\"{argument name=\\\"episode label\\\" default=\\\"第1話：幸せのはじまり\\\"}\",\"style\":\"winziger, dekorativer japanischer Text mit Sternchen-Verzierungen\"},{\"position\":\"oben links bis zur Mitte\",\"content\":\"{argument name=\\\"headline text\\\" default=\\\"おはようございます！パンケーキ天使\\\"}\",\"style\":\"große, elegante japanische Pinselkalligrafie in Braun\"},{\"position\":\"unter dem Haupttitel\",\"content\":\"Pancake Angel\",\"style\":\"kleiner englischer Untertitel in Schreibschrift\"},{\"position\":\"links unter dem Untertitel\",\"content\":\"{argument name=\\\"morning poem\\\" default=\\\"ふわふわの朝に、きみの笑顔がいちばんのごちそう。\\\"}\",\"style\":\"kleine handgeschriebene japanische Zeilen\"},{\"position\":\"oben rechts hängendes Banner\",\"content\":\"Honey & Pancake\",\"style\":\"dünne, handgeschriebene englische Schrift auf einem beigen Café-Banner\"},{\"position\":\"linke Kreidetafel\",\"content\":\"Morning Set: Pancake Set, Coffee or Milk Tea, Fruits\",\"style\":\"kleine Kreideschrift mit einer Hasen-Zeichnung\"},{\"position\":\"rechte Kreidetafel\",\"content\":\"Today's Special: Fruits Pancake, Berry & Cream, Maple & Butter, Honey Latte, Have a nice day!\",\"style\":\"kleine Kreideschrift mit dekorativen Glitzereffekten und Hasen-Zeichnung\"},{\"position\":\"unten links kleine Karte und unten rechts Menübuch\",\"content\":\"Good morning! und Menü mit Hasen-Symbolen\",\"style\":\"niedliche handgeschriebene Café-Papeterie\"}]},\"style\":{\"medium\":\"zarte, transparente Aquarell- und Tuscheillustration, Shoujo-Anime-Light-Novel-Cover-Ästhetik\",\"palette\":\"Creme, Honiggold, warmes Beige, sanftes Himmelblau, blasses Braun, weiße Highlights\",\"lighting\":\"starkes morgendliches Gegenlicht, leuchtende Fensterreflexionen, funkelnde Staubpartikel, leuchtende Honig-Highlights\",\"linework\":\"feine Sepia-Skizzenlinien, sanfte Lavierungen, hochdetaillierte Essensdarstellung\",\"composition\":\"Engel zentriert, Titel-Typografie oben links, Pfannkuchen im Vordergrund zentriert, Café-Schilder rahmen die Szene ein, Flügel füllen beide Seiten aus\"},\"rendering requirements\":\"hoher Detailgrad, vertikales Cover-Design, lesbare dekorative Typografie, verträumte Atmosphäre, kein Fotorealismus, keine harten Schatten\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"couverture de light novel / illustration d'ouverture d'épisode en aquarelle verticale style anime\",\"format\":\"affiche portrait, format 2:3\",\"scene\":{\"setting\":\"café chaleureux et ensoleillé le matin, lumière dorée chaude traversant de grandes fenêtres à croisillons, intérieur aéré avec des fleurs, comptoirs en bois, bocaux en verre, enseignes de café manuscrites, plumes flottant dans l'air\",\"mood\":\"doux, céleste, joyeux, fantastique petit-déjeuner romantique\"},\"main subject\":{\"character\":\"jeune homme ange de café debout derrière une table de pancakes\",\"appearance\":\"silhouette mince et élégante, cheveux blonds miel ondulés et ébouriffés, chemise blanche oversize, tablier beige imprimé avec Honey & Pancake et une petite icône d'aile, grandes ailes d'ange blanches et duveteuses déployées derrière lui\",\"pose\":\"une main tendue vers le spectateur dans un geste accueillant, l'autre main tenant un siphon à crème en métal\",\"face treatment\":\"visage recouvert par un bloc carré beige uni assorti à la couleur du papier ton chair, masquant tous les traits du visage\"},\"food and props\":{\"center dish\":\"une haute pile de pancakes dans une assiette, recouverte d'un filet de miel brillant, crème fouettée, fraises, myrtilles, tranches de banane, feuilles de menthe et sucre glace\",\"floating food\":\"un pancake flottant près du coin supérieur droit avec du miel coulant en arcs et en gouttelettes\",\"foreground drinks\":\"un latte dans une tasse blanche avec un latte art en forme de lapin ailé, une bouteille de sirop en verre étiquetée Maple Cafe Series, un pichet à lait en verre, une petite cuillère en métal et divers couverts de café\",\"plants\":\"marguerites blanches et verdure dans des vases sur les côtés gauche et droit\"},\"layout\":{\"text count\":8,\"visible text elements\":[{\"position\":\"en haut à gauche\",\"content\":\"{argument name=\\\"episode label\\\" default=\\\"第1話：幸せのはじまり\\\"}\",\"style\":\"petit texte décoratif en japonais avec des fioritures en forme d'étoile\"},{\"position\":\"en haut à gauche vers le centre\",\"content\":\"{argument name=\\\"headline text\\\" default=\\\"おはようございます！パンケーキ天使\\\"}\",\"style\":\"grande calligraphie japonaise élégante au pinceau brun\"},{\"position\":\"sous le titre principal\",\"content\":\"Pancake Angel\",\"style\":\"petit sous-titre en anglais en écriture cursive\"},{\"position\":\"à gauche sous le sous-titre\",\"content\":\"{argument name=\\\"morning poem\\\" default=\\\"ふわふわの朝に、きみの笑顔がいちばんのごちそう。\\\"}\",\"style\":\"petites lignes manuscrites en japonais\"},{\"position\":\"bannière suspendue en haut à droite\",\"content\":\"Honey & Pancake\",\"style\":\"écriture manuscrite fine en anglais sur une bannière de café beige\"},{\"position\":\"ardoise de gauche\",\"content\":\"Morning Set: Pancake Set, Coffee or Milk Tea, Fruits\",\"style\":\"petite écriture à la craie avec un gribouillis de lapin\"},{\"position\":\"ardoise de droite\",\"content\":\"Today's Special: Fruits Pancake, Berry & Cream, Maple & Butter, Honey Latte, Have a nice day!\",\"style\":\"petite écriture à la craie avec des paillettes décoratives et un gribouillis de lapin\"},{\"position\":\"petite carte en bas à gauche et menu en bas à droite\",\"content\":\"Good morning! et Menu avec des icônes de lapin\",\"style\":\"papeterie de café mignonne manuscrite\"}]},\"style\":{\"medium\":\"illustration délicate à l'aquarelle transparente et à l'encre, esthétique de couverture de light novel style shoujo anime\",\"palette\":\"crème, or miel, beige chaud, bleu ciel doux, brun pâle, reflets blancs\",\"lighting\":\"soleil du matin en contre-jour intense, reflets lumineux sur les fenêtres, grains de poussière scintillants, reflets de miel lumineux\",\"linework\":\"traits de croquis sépia fins, lavis doux, rendu alimentaire très détaillé\",\"composition\":\"ange centré, typographie du titre occupant le haut à gauche, pancakes au centre au premier plan, enseignes de café encadrant la scène, ailes remplissant les deux côtés\"},\"rendering requirements\":\"détail élevé, design de couverture vertical, typographie décorative lisible, atmosphère onirique, pas de photoréalisme, pas d'ombres marquées\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"copertina verticale per light novel in stile anime acquerellato / illustrazione di apertura episodio\",\"format\":\"poster verticale, rapporto d'aspetto 2:3\",\"scene\":{\"setting\":\"accogliente caffè di pancake illuminato dal sole del mattino, calda luce dorata che filtra attraverso alte finestre a griglia, interni ariosi con fiori, banconi in legno, barattoli di vetro, insegne del caffè scritte a mano, piume che fluttuano nell'aria\",\"mood\":\"soffice, celestiale, allegro, colazione fantasy romantica\"},\"main subject\":{\"character\":\"giovane angelo barista in piedi dietro un tavolo di pancake\",\"appearance\":\"corporatura snella ed elegante, capelli biondo miele ondulati e spettinati, camicia bianca oversize, grembiule beige con stampato Honey & Pancake e una piccola icona di un'ala, grandi e soffici ali d'angelo bianche spiegate dietro di lui\",\"pose\":\"una mano tesa verso lo spettatore in un gesto di benvenuto, l'altra mano che regge un sifone per panna in metallo\",\"face treatment\":\"viso coperto da un semplice blocco quadrato beige che funge da censura, abbinato al colore della carta color pelle, nascondendo tutti i tratti del volto\"},\"food and props\":{\"center dish\":\"un'alta pila di pancake su un piatto, ricoperta da una glassa di miele lucido, panna montata, fragole, mirtilli, fette di banana, foglie di menta e zucchero a velo\",\"floating food\":\"un pancake che fluttua vicino all'angolo in alto a destra con miele che cola in archi e goccioline\",\"foreground drinks\":\"un latte in una tazza bianca con latte art a forma di coniglietto alato, una bottiglia di sciroppo di vetro etichettata Maple Cafe Series, una caraffa per il latte in vetro, un piccolo cucchiaino di metallo e assortimento di stoviglie da caffè\",\"plants\":\"margherite bianche e verde in vasi sia sul lato sinistro che su quello destro\"},\"layout\":{\"text count\":8,\"visible text elements\":[{\"position\":\"in alto a sinistra\",\"content\":\"{argument name=\\\"episode label\\\" default=\\\"第1話：幸せのはじまり\\\"}\",\"style\":\"piccolo testo decorativo giapponese con decorazioni a stella\"},{\"position\":\"da in alto a sinistra al centro\",\"content\":\"{argument name=\\\"headline text\\\" default=\\\"おはようございます！パンケーキ天使\\\"}\",\"style\":\"grande ed elegante calligrafia giapponese color marrone\"},{\"position\":\"sotto il titolo principale\",\"content\":\"Pancake Angel\",\"style\":\"piccolo sottotitolo in corsivo inglese\"},{\"position\":\"a sinistra sotto il sottotitolo\",\"content\":\"{argument name=\\\"morning poem\\\" default=\\\"ふわふわの朝に、きみの笑顔がいちばんのごちそう。\\\"}\",\"style\":\"piccole righe scritte a mano in giapponese\"},{\"position\":\"striscione appeso in alto a destra\",\"content\":\"Honey & Pancake\",\"style\":\"sottile scritta a mano in inglese su uno striscione beige del caffè\"},{\"position\":\"lavagna a sinistra\",\"content\":\"Morning Set: Pancake Set, Coffee or Milk Tea, Fruits\",\"style\":\"piccola scritta a gesso con un disegno di un coniglietto\"},{\"position\":\"lavagna a destra\",\"content\":\"Today's Special: Fruits Pancake, Berry & Cream, Maple & Butter, Honey Latte, Have a nice day!\",\"style\":\"piccola scritta a gesso con brillantini decorativi e disegno di un coniglietto\"},{\"position\":\"piccolo biglietto in basso a sinistra e menu in basso a destra\",\"content\":\"Good morning! e menu con icone di coniglietti\",\"style\":\"graziosa cancelleria da caffè scritta a mano\"}]},\"style\":{\"medium\":\"delicata illustrazione in acquerello trasparente e inchiostro, estetica da copertina di light novel in stile shoujo anime\",\"palette\":\"crema, oro miele, beige caldo, azzurro cielo tenue, marrone pallido, riflessi bianchi\",\"lighting\":\"forte sole del mattino in controluce, riflessi luminosi sulle finestre, pulviscolo scintillante, riflessi di miele luminosi\",\"linework\":\"linee di schizzo fini color seppia, lavaggi tenui, rendering del cibo altamente dettagliato\",\"composition\":\"angelo centrato, tipografia del titolo che occupa la parte in alto a sinistra, pancake al centro in primo piano, insegne del caffè che incorniciano la scena, ali che riempiono entrambi i lati\"},\"rendering requirements\":\"dettaglio elevato, design di copertina verticale, tipografia decorativa leggibile, atmosfera sognante, niente fotorealismo, niente ombre dure\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"capa de light novel / ilustração de abertura de episódio em estilo anime aquarela vertical\",\"format\":\"pôster vertical, proporção 2:3\",\"scene\":{\"setting\":\"café de panquecas aconchegante e ensolarado pela manhã, luz dourada quente entrando por janelas altas com grade, interior arejado com flores, balcões de madeira, potes de vidro, placas de café escritas à mão, penas flutuando no ar\",\"mood\":\"suave, celestial, alegre, fantasia romântica de café da manhã\"},\"main subject\":{\"character\":\"jovem adulto anjo de café em pé atrás de uma mesa de panquecas\",\"appearance\":\"porte esguio e elegante, cabelo ondulado loiro-mel bagunçado, camisa social branca oversized, avental bege estampado com Honey & Pancake e um pequeno ícone de asa, grandes asas de anjo brancas e fofas abertas atrás dele\",\"pose\":\"uma mão estendida em direção ao espectador em um gesto de boas-vindas, a outra mão segurando um sifão de chantilly de metal\",\"face treatment\":\"rosto coberto por um bloco censor bege quadrado simples que combina com a cor do papel tom de pele, escondendo todas as características faciais\"},\"food and props\":{\"center dish\":\"uma pilha alta de panquecas em um prato, cobertas com calda de mel brilhante, chantilly, morangos, mirtilos, fatias de banana, folhas de hortelã e açúcar de confeiteiro\",\"floating food\":\"uma panqueca flutuando perto do canto superior direito com mel escorrendo em arcos e gotas\",\"foreground drinks\":\"um latte em uma xícara branca com arte de coelho alado, uma garrafa de xarope de vidro rotulada como Maple Cafe Series, uma jarra de leite de vidro, uma pequena colher de metal e talheres de café variados\",\"plants\":\"margaridas brancas e folhagens em vasos nos lados esquerdo e direito\"},\"layout\":{\"text count\":8,\"visible text elements\":[{\"position\":\"superior esquerdo\",\"content\":\"{argument name=\\\"episode label\\\" default=\\\"第1話：幸せのはじまり\\\"}\",\"style\":\"pequeno texto decorativo em japonês com floreios de estrelas\"},{\"position\":\"superior esquerdo ao centro\",\"content\":\"{argument name=\\\"headline text\\\" default=\\\"おはようございます！パンケーキ天使\\\"}\",\"style\":\"caligrafia japonesa elegante e grande em marrom\"},{\"position\":\"abaixo do título principal\",\"content\":\"Pancake Angel\",\"style\":\"pequeno subtítulo em inglês cursivo\"},{\"position\":\"esquerda abaixo do subtítulo\",\"content\":\"{argument name=\\\"morning poem\\\" default=\\\"ふわふわの朝に、きみの笑顔がいちばんのごちそう。\\\"}\",\"style\":\"pequenas linhas manuscritas em japonês\"},{\"position\":\"faixa suspensa superior direita\",\"content\":\"Honey & Pancake\",\"style\":\"escrita fina à mão em inglês em uma faixa de café bege\"},{\"position\":\"lousa esquerda\",\"content\":\"Morning Set: Pancake Set, Coffee or Milk Tea, Fruits\",\"style\":\"pequena escrita a giz com um desenho de coelho\"},{\"position\":\"lousa direita\",\"content\":\"Today's Special: Fruits Pancake, Berry & Cream, Maple & Butter, Honey Latte, Have a nice day!\",\"style\":\"pequena escrita a giz com brilhos decorativos e desenho de coelho\"},{\"position\":\"cartão pequeno no canto inferior esquerdo e menu no canto inferior direito\",\"content\":\"Good morning! and Menu with bunny icons\",\"style\":\"papelaria de café fofa escrita à mão\"}]},\"style\":{\"medium\":\"ilustração delicada em aquarela transparente e tinta, estética de capa de light novel de anime shoujo\",\"palette\":\"creme, dourado mel, bege quente, azul céu suave, marrom pálido, destaques em branco\",\"lighting\":\"sol da manhã forte com contraluz, reflexos brilhantes na janela, partículas de poeira cintilantes, destaques luminosos de mel\",\"linework\":\"linhas de esboço finas em sépia, lavagens suaves, renderização de comida altamente detalhada\",\"composition\":\"anjo centralizado, tipografia do título ocupando o canto superior esquerdo, panquecas no centro do primeiro plano, placas de café emoldurando a cena, asas preenchendo ambos os lados\"},\"rendering requirements\":\"alto detalhe, design de capa vertical, tipografia decorativa legível, atmosfera onírica, sem fotorrealismo, sem sombras fortes\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Pancake Angel Cafe Cover",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Pancake Angel Cafe 封面",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Portada de Pancake Angel Cafe",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Pancake Angel Cafe Cover",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Couverture Pancake Angel Cafe",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Copertina Pancake Angel Cafe",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Capa do Pancake Angel Cafe",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a dreamy watercolor anime cover of a winged cafe angel serving honey pancakes in a sunlit morning cafe.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张梦幻的水彩动漫风格封面，描绘了一位长着翅膀的咖啡馆天使在阳光明媚的早晨为客人端上蜂蜜松饼的场景。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une couverture d'anime onirique à l'aquarelle représentant un ange de café ailé servant des pancakes au miel dans un café baigné par la lumière du matin.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ayumi_t820/status/2051433794654331348#reversed-0",
+      "originalId": "https://x.com/ayumi_t820/status/2051433794654331348#reversed-0",
+      "authors": [
+        {
+          "name": "Ayumi/AIイラスト",
+          "url": "https://x.com/ayumi_t820"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1428
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_cc6208726c2b82f2",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971069527_39krol_HHgoKi8aEAAmZvm.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971069527_39krol_HHgoKi8aEAAmZvm.jpg",
+      "localPath": "public/assets/prompt_7134fc81473d1ada5eb9/ec2fcb6edb2e.jpg",
+      "alt": "Social Media Post - Pancake Angel Cafe Cover - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.856Z"
+  }
+}

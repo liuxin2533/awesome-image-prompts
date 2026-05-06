@@ -1,0 +1,101 @@
+{
+  "id": "prompt_a8259ece319f7de4cb56",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A minimalist product advertisement with a {argument name=\"product\" default=\"fried chicken bucket\"} placed on a clean white podium.\n\nBackground: soft gradient ({argument name=\"background gradient\" default=\"light cream to white\"}), clean studio.\n\nLighting: soft diffused, premium Apple-style.\n\nTypography (center): “{argument name=\"headline\" default=\"PURE CRUNCH\"}”\n\nSmall text below: “Nothing extra. Just perfection.”\n\nStyle: ultra clean, editorial minimal, high-end branding, 8K.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个极简主义的产品广告，将 {argument name=\"product\" default=\"炸鸡桶\"} 放置在一个干净的白色讲台上。\n\n背景：柔和的渐变 ({argument name=\"background gradient\" default=\"浅奶油色到白色\"})，干净的摄影棚。\n\n灯光：柔和漫射，高端苹果风格。\n\n字体设计（居中）：\"{argument name=\"headline\" default=\"纯粹酥脆}\"\"\n\n下方小字：\"没有多余，只有完美。\"\n\n风格：超干净，编辑极简，高端品牌，8K。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:27:56.678Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Strength04_X/status/2047917220165231011",
+      "originalId": "case-158",
+      "authors": [
+        {
+          "name": "Strength04_X",
+          "url": "https://x.com/Strength04_X"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 196
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f318452f83995a3a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg",
+      "localPath": "public/assets/prompt_a8259ece319f7de4cb56/4b3a1be275d4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

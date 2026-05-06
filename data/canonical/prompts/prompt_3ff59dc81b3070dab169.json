@@ -1,0 +1,105 @@
+{
+  "id": "prompt_3ff59dc81b3070dab169",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "结合王羲之的《兰亭集序》里的内容，生成一副书法帖图片，要求图片背景符合《兰亭集序》的意境，背景图可以使用蒙版，前景是《兰亭集序》",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Combining the content from Wang Xizhi's \"Lantingji Xu\", generate a calligraphy copy image, requiring the image background to match the artistic conception of \"Lantingji Xu\", the background image can use a mask, the foreground is \"Lantingji Xu\"",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "兰亭集序书法帖意境图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Artistic conception of the Orchid Pavilion Prefence calligraphy",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:09:16.046Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0e95094f88",
+      "value": "兰亭集序书法帖意境图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-232",
+      "originalId": "case-232",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai/status/2045137549149286858"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2217
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai/status/2045137549149286858)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_58936c2ba9da6906",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case232.jpg",
+      "upstreamPath": "../data/images/case232.jpg",
+      "localPath": "public/assets/prompt_3ff59dc81b3070dab169/732c1c0872f1.jpg",
+      "alt": "兰亭集序书法帖意境图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

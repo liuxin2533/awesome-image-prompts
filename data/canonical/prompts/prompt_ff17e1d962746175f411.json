@@ -1,0 +1,176 @@
+{
+  "id": "prompt_ff17e1d962746175f411",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"clean Japanese presentation infographic comparing bad and good slide design\",\"format\":\"wide 16:9 slide, white background, minimalist corporate style\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"同じ内容でも、見せ方でここまで変わる\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"AIの文章をそのまま画像化するのではなく、人が一度削る\\\"}\",\"layout\":{\"top\":\"large bold black Japanese headline centered, smaller gray subtitle centered underneath\",\"comparison_panels\":[{\"title\":\"悪い例\",\"position\":\"left half\",\"style\":\"dense monochrome black and gray boxed slide with many tiny sections, intentionally cluttered and hard to read\",\"main_heading\":\"AI活用の重要ポイント\",\"section_count\":9,\"sections\":[{\"label\":\"AI活用のメリット\",\"description\":\"small list with a tiny blue bar chart icon\"},{\"label\":\"活用できる領域（例）\",\"description\":\"row of many pill tags such as 企画, マーケ, 営業, カスタマー, 開発, デザイン, 人事, 法務, 分析, その他\"},{\"label\":\"主なAI技術\",\"description\":\"compact bullet list with a small brain icon\"},{\"label\":\"導入のステップ\",\"description\":\"numbered vertical list of 6 steps: 1 目的の明確化, 2 課題の整理, 3 ツール選定, 4 小さく試す, 5 効果検証, 6 改善・拡大\"},{\"label\":\"活用アイデア（例）\",\"description\":\"dense bullet list of use cases\"},{\"label\":\"活用の流れ（概要）\",\"description\":\"horizontal process diagram with 5 icons connected by arrows: インプット, AIで処理・生成, アウトプット, 活用・改善\"},{\"label\":\"成功のポイント\",\"description\":\"checklist of 5 short items\"},{\"label\":\"注意点・リスク\",\"description\":\"warning triangle and risk bullet list\"},{\"label\":\"おすすめツール（例）\",\"description\":\"small buttons for ChatGPT, Gemini, Claude, Copilot, Notion AI, Canva AI, Perplexity plus 他多数\"}],\"bottom_note\":\"まとめ　AIは万能ではないが、正しく使えば大きな成果につながる。小さく始めて、学びながら拡大していくことが成功の鍵。\"},{\"title\":\"良い例\",\"position\":\"right half\",\"style\":\"simple spacious white card with thin blue border and a blue title tab\",\"main_message\":\"{argument name=\\\"main message\\\" default=\\\"1スライド＝1メッセージ\\\"}\",\"sub_message\":\"{argument name=\\\"sub message\\\" default=\\\"2秒で伝わる\\\"}\",\"visual_flow\":{\"count\":3,\"items\":[{\"label\":\"削る\",\"icon\":\"scissors in pale blue circle\"},{\"label\":\"整える\",\"icon\":\"sparkles in medium blue circle\"},{\"label\":\"伝わる\",\"icon\":\"megaphone in dark blue circle\"}],\"connectors\":\"two thick blue arrows between the three icons\"}}]},\"colors\":{\"primary_blue\":\"#0057d8\",\"light_blue\":\"#d6ebff\",\"black\":\"#111111\",\"gray\":\"#555555\"},\"typography\":\"bold modern Japanese sans-serif, strong hierarchy, right side very readable, left side deliberately overloaded\",\"composition\":\"clear side-by-side contrast: cluttered bad example on the left and simplified good example on the right, with generous margins and crisp vector graphics\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"简洁的日语演示文稿信息图，对比糟糕与优秀的幻灯片设计\",\"format\":\"16:9 宽屏幻灯片，白色背景，极简企业风格\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"同样的内容，呈现方式大不同\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"不要直接将 AI 生成的文本放入幻灯片，先进行人工精简\\\"}\",\"layout\":{\"top\":\"居中大号加粗黑色日语标题，下方居中较小的灰色副标题\",\"comparison_panels\":[{\"title\":\"反面案例\",\"position\":\"左半部分\",\"style\":\"密集的黑白灰单色方框幻灯片，包含许多微小部分，刻意显得杂乱且难以阅读\",\"main_heading\":\"AI 应用的关键点\",\"section_count\":9,\"sections\":[{\"label\":\"AI 应用的优势\",\"description\":\"带有微小蓝色柱状图图标的小列表\"},{\"label\":\"可应用领域（示例）\",\"description\":\"一排密集的胶囊标签，如：企划、市场、销售、客户、开发、设计、人事、法务、分析等\"},{\"label\":\"主要 AI 技术\",\"description\":\"带有小型大脑图标的紧凑型项目符号列表\"},{\"label\":\"导入步骤\",\"description\":\"6 个步骤的垂直数字列表：1 明确目的，2 整理课题，3 工具选型，4 小范围试用，5 效果验证，6 改善与扩大\"},{\"label\":\"应用创意（示例）\",\"description\":\"密集的用例项目符号列表\"},{\"label\":\"应用流程（概要）\",\"description\":\"由箭头连接 5 个图标的水平流程图：输入、AI 处理与生成、输出、应用与改善\"},{\"label\":\"成功要点\",\"description\":\"包含 5 个简短条目的核对清单\"},{\"label\":\"注意事项与风险\",\"description\":\"警告三角形和风险项目符号列表\"},{\"label\":\"推荐工具（示例）\",\"description\":\"包含 ChatGPT、Gemini、Claude、Copilot、Notion AI、Canva AI、Perplexity 等多个工具的小按钮\"}],\"bottom_note\":\"总结：AI 并非万能，但正确使用可带来巨大成果。从小处着手，在学习中不断扩大规模是成功的关键。\"},{\"title\":\"正面案例\",\"position\":\"右半部分\",\"style\":\"简洁宽敞的白色卡片，带有细蓝色边框和蓝色标题标签\",\"main_message\":\"{argument name=\\\"main message\\\" default=\\\"1 张幻灯片 = 1 个核心信息\\\"}\",\"sub_message\":\"{argument name=\\\"sub message\\\" default=\\\"2 秒内传达到位\\\"}\",\"visual_flow\":{\"count\":3,\"items\":[{\"label\":\"精简\",\"icon\":\"浅蓝色圆圈中的剪刀\"},{\"label\":\"整理\",\"icon\":\"中蓝色圆圈中的闪光\"},{\"label\":\"传达\",\"icon\":\"深蓝色圆圈中的扩音器\"}],\"connectors\":\"三个图标之间有两个粗蓝色箭头\"}}]},\"colors\":{\"primary_blue\":\"#0057d8\",\"light_blue\":\"#d6ebff\",\"black\":\"#111111\",\"gray\":\"#555555\"},\"typography\":\"粗体现代日语无衬线字体，强烈的层级感，右侧极具可读性，左侧刻意显得冗余\",\"composition\":\"清晰的并排对比：左侧为杂乱的反面案例，右侧为简化的正面案例，留白充足，矢量图形清晰\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"infografía de presentación limpia en japonés que compara un mal y un buen diseño de slide\",\"format\":\"slide panorámica 16:9, fondo blanco, estilo corporativo minimalista\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"El mismo contenido, un impacto totalmente diferente\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"No conviertas el texto de la IA directamente en imagen; edítalo primero\\\"}\",\"layout\":{\"top\":\"titular grande en japonés, negrita y centrado; subtítulo gris más pequeño centrado debajo\",\"comparison_panels\":[{\"title\":\"Mal ejemplo\",\"position\":\"mitad izquierda\",\"style\":\"slide densa, monocromática en blanco y negro con muchas secciones diminutas, intencionalmente saturada y difícil de leer\",\"main_heading\":\"Puntos clave del uso de IA\",\"section_count\":9,\"sections\":[{\"label\":\"Beneficios de la IA\",\"description\":\"lista pequeña con un icono de gráfico de barras azul diminuto\"},{\"label\":\"Áreas de aplicación (ej.)\",\"description\":\"fila con muchas etiquetas tipo píldora como: Planificación, Marketing, Ventas, Atención al cliente, Desarrollo, Diseño, RR. HH., Legal, Análisis, Otros\"},{\"label\":\"Tecnologías de IA principales\",\"description\":\"lista de viñetas compacta con un icono de cerebro pequeño\"},{\"label\":\"Pasos para la implementación\",\"description\":\"lista vertical numerada de 6 pasos: 1 Definir objetivos, 2 Organizar desafíos, 3 Seleccionar herramientas, 4 Probar a pequeña escala, 5 Verificar resultados, 6 Mejorar y escalar\"},{\"label\":\"Ideas de uso (ej.)\",\"description\":\"lista densa de viñetas con casos de uso\"},{\"label\":\"Flujo de uso (resumen)\",\"description\":\"diagrama de proceso horizontal con 5 iconos conectados por flechas: Entrada, Procesamiento/Generación por IA, Salida, Uso/Mejora\"},{\"label\":\"Puntos de éxito\",\"description\":\"lista de verificación de 5 puntos cortos\"},{\"label\":\"Precauciones y riesgos\",\"description\":\"triángulo de advertencia y lista de viñetas de riesgos\"},{\"label\":\"Herramientas recomendadas (ej.)\",\"description\":\"botones pequeños para ChatGPT, Gemini, Claude, Copilot, Notion AI, Canva AI, Perplexity y muchos más\"}],\"bottom_note\":\"Conclusión: La IA no es infalible, pero si se usa correctamente, conduce a grandes resultados. La clave del éxito es empezar poco a poco y escalar mientras se aprende.\"},{\"title\":\"Buen ejemplo\",\"position\":\"mitad derecha\",\"style\":\"tarjeta blanca simple y espaciosa con borde azul fino y pestaña de título azul\",\"main_message\":\"{argument name=\\\"main message\\\" default=\\\"1 slide = 1 mensaje\\\"}\",\"sub_message\":\"{argument name=\\\"sub message\\\" default=\\\"Se entiende en 2 segundos\\\"}\",\"visual_flow\":{\"count\":3,\"items\":[{\"label\":\"Recortar\",\"icon\":\"tijeras en círculo azul claro\"},{\"label\":\"Organizar\",\"icon\":\"destellos en círculo azul medio\"},{\"label\":\"Comunicar\",\"icon\":\"megáfono en círculo azul oscuro\"}],\"connectors\":\"dos flechas azules gruesas entre los tres iconos\"}}]},\"colors\":{\"primary_blue\":\"#0057d8\",\"light_blue\":\"#d6ebff\",\"black\":\"#111111\",\"gray\":\"#555555\"},\"typography\":\"sans-serif moderna y en negrita, jerarquía fuerte, lado derecho muy legible, lado izquierdo deliberadamente sobrecargado\",\"composition\":\"contraste claro lado a lado: mal ejemplo saturado a la izquierda y buen ejemplo simplificado a la derecha, con márgenes generosos y gráficos vectoriales nítidos\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"saubere japanische Präsentations-Infografik zum Vergleich von schlechtem und gutem Slide-Design\",\"format\":\"breite 16:9 Slide, weißer Hintergrund, minimalistischer Corporate-Stil\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"Derselbe Inhalt, aber eine völlig andere Wirkung\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"KI-Texte nicht einfach übernehmen, sondern prägnant kürzen\\\"}\",\"layout\":{\"top\":\"große, fette, schwarze japanische Überschrift zentriert, kleinerer grauer Untertitel zentriert darunter\",\"comparison_panels\":[{\"title\":\"Schlechtes Beispiel\",\"position\":\"linke Hälfte\",\"style\":\"dichte, einfarbige schwarz-graue Slide mit vielen winzigen Abschnitten, absichtlich überladen und schwer lesbar\",\"main_heading\":\"Wichtige Punkte zur KI-Nutzung\",\"section_count\":9,\"sections\":[{\"label\":\"Vorteile der KI-Nutzung\",\"description\":\"kleine Liste mit winzigem blauem Balkendiagramm-Icon\"},{\"label\":\"Anwendungsbereiche (Bsp.)\",\"description\":\"Reihe mit vielen Pill-Tags wie Planung, Marketing, Vertrieb, Kundenservice, Entwicklung, Design, Personal, Recht, Analyse, Sonstiges\"},{\"label\":\"Wichtige KI-Technologien\",\"description\":\"kompakte Aufzählung mit kleinem Gehirn-Icon\"},{\"label\":\"Einführungsschritte\",\"description\":\"nummerierte vertikale Liste mit 6 Schritten: 1 Zieldefinition, 2 Problemstellung, 3 Tool-Auswahl, 4 Pilotphase, 5 Erfolgsmessung, 6 Optimierung & Skalierung\"},{\"label\":\"Anwendungsideen (Bsp.)\",\"description\":\"dichte Aufzählung von Anwendungsfällen\"},{\"label\":\"Ablauf (Übersicht)\",\"description\":\"horizontales Prozessdiagramm mit 5 Icons, verbunden durch Pfeile: Input, KI-Verarbeitung/Generierung, Output, Nutzung/Verbesserung\"},{\"label\":\"Erfolgsfaktoren\",\"description\":\"Checkliste mit 5 kurzen Punkten\"},{\"label\":\"Hinweise & Risiken\",\"description\":\"Warndreieck und Aufzählung der Risiken\"},{\"label\":\"Empfohlene Tools (Bsp.)\",\"description\":\"kleine Buttons für ChatGPT, Gemini, Claude, Copilot, Notion AI, Canva AI, Perplexity plus viele weitere\"}],\"bottom_note\":\"Fazit: KI ist kein Allheilmittel, aber bei richtiger Anwendung führt sie zu großen Erfolgen. Klein anfangen und durch Lernen skalieren ist der Schlüssel zum Erfolg.\"},{\"title\":\"Gutes Beispiel\",\"position\":\"rechte Hälfte\",\"style\":\"einfache, großzügige weiße Karte mit dünnem blauen Rand und blauem Titel-Tab\",\"main_message\":\"{argument name=\\\"main message\\\" default=\\\"1 Slide = 1 Botschaft\\\"}\",\"sub_message\":\"{argument name=\\\"sub message\\\" default=\\\"In 2 Sekunden verständlich\\\"}\",\"visual_flow\":{\"count\":3,\"items\":[{\"label\":\"Kürzen\",\"icon\":\"Schere in hellblauem Kreis\"},{\"label\":\"Strukturieren\",\"icon\":\"Glitzer-Icon in mittelblauem Kreis\"},{\"label\":\"Vermitteln\",\"icon\":\"Megafon in dunkelblauem Kreis\"}],\"connectors\":\"zwei dicke blaue Pfeile zwischen den drei Icons\"}}]},\"colors\":{\"primary_blue\":\"#0057d8\",\"light_blue\":\"#d6ebff\",\"black\":\"#111111\",\"gray\":\"#555555\"},\"typography\":\"fette, moderne japanische serifenlose Schrift, starke Hierarchie, rechte Seite sehr gut lesbar, linke Seite bewusst überladen\",\"composition\":\"klarer Kontrast: überladenes schlechtes Beispiel links und vereinfachtes gutes Beispiel rechts, mit großzügigen Rändern und scharfen Vektorgrafiken\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"infographie de présentation propre comparant un mauvais et un bon design de slide\",\"format\":\"slide large 16:9, fond blanc, style d'entreprise minimaliste\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"Un même contenu, un impact radicalement différent\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"Ne copiez pas l'IA, synthétisez pour mieux communiquer\\\"}\",\"layout\":{\"top\":\"grand titre en gras centré, sous-titre gris plus petit centré en dessous\",\"comparison_panels\":[{\"title\":\"Mauvais exemple\",\"position\":\"moitié gauche\",\"style\":\"slide monochrome dense, noir et gris, avec de nombreuses sections minuscules, intentionnellement encombré et difficile à lire\",\"main_heading\":\"Points clés de l'utilisation de l'IA\",\"section_count\":9,\"sections\":[{\"label\":\"Avantages de l'IA\",\"description\":\"petite liste avec une icône de graphique à barres bleu\"},{\"label\":\"Domaines d'application (ex.)\",\"description\":\"rangée de nombreux tags tels que Planification, Marketing, Ventes, Support, Développement, Design, RH, Juridique, Analyse, Autres\"},{\"label\":\"Technologies IA principales\",\"description\":\"liste à puces compacte avec une petite icône de cerveau\"},{\"label\":\"Étapes de mise en œuvre\",\"description\":\"liste verticale numérotée de 6 étapes : 1 Clarification des objectifs, 2 Organisation des problèmes, 3 Sélection des outils, 4 Tests à petite échelle, 5 Vérification des résultats, 6 Amélioration et expansion\"},{\"label\":\"Idées d'utilisation (ex.)\",\"description\":\"liste à puces dense de cas d'usage\"},{\"label\":\"Flux de travail (aperçu)\",\"description\":\"diagramme de processus horizontal avec 5 icônes reliées par des flèches : Input, Traitement/Génération par l'IA, Output, Utilisation/Amélioration\"},{\"label\":\"Clés du succès\",\"description\":\"checklist de 5 points courts\"},{\"label\":\"Précautions et risques\",\"description\":\"triangle d'avertissement et liste de risques\"},{\"label\":\"Outils recommandés (ex.)\",\"description\":\"petits boutons pour ChatGPT, Gemini, Claude, Copilot, Notion AI, Canva AI, Perplexity et bien d'autres\"}],\"bottom_note\":\"Résumé : L'IA n'est pas infaillible, mais utilisée correctement, elle permet d'obtenir d'excellents résultats. Commencer petit et apprendre en avançant est la clé du succès.\"},{\"title\":\"Bon exemple\",\"position\":\"moitié droite\",\"style\":\"carte blanche simple et spacieuse avec une fine bordure bleue et un onglet de titre bleu\",\"main_message\":\"{argument name=\\\"main message\\\" default=\\\"1 slide = 1 message\\\"}\",\"sub_message\":\"{argument name=\\\"sub message\\\" default=\\\"Compris en 2 secondes\\\"}\",\"visual_flow\":{\"count\":3,\"items\":[{\"label\":\"Élaguer\",\"icon\":\"ciseaux dans un cercle bleu pâle\"},{\"label\":\"Structurer\",\"icon\":\"étincelles dans un cercle bleu moyen\"},{\"label\":\"Transmettre\",\"icon\":\"mégaphone dans un cercle bleu foncé\"}],\"connectors\":\"deux flèches bleues épaisses entre les trois icônes\"}}]},\"colors\":{\"primary_blue\":\"#0057d8\",\"light_blue\":\"#d6ebff\",\"black\":\"#111111\",\"gray\":\"#555555\"},\"typography\":\"police sans-serif moderne et grasse, hiérarchie forte, côté droit très lisible, côté gauche délibérément surchargé\",\"composition\":\"contraste clair côte à côte : mauvais exemple encombré à gauche et bon exemple simplifié à droite, avec des marges généreuses et des graphiques vectoriels nets\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"infografica pulita per presentazioni che confronta il design di slide efficaci e inefficaci\",\"format\":\"slide in formato panoramico 16:9, sfondo bianco, stile aziendale minimalista\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"Stesso contenuto, impatto diverso: l'importanza del design\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"Non limitarti a copiare il testo dell'AI: sintetizzalo per il tuo pubblico\\\"}\",\"layout\":{\"top\":\"titolo grande in grassetto nero centrato, sottotitolo grigio più piccolo centrato al di sotto\",\"comparison_panels\":[{\"title\":\"Esempio negativo\",\"position\":\"metà sinistra\",\"style\":\"slide densa in bianco e nero con numerose sezioni minuscole, intenzionalmente disordinata e difficile da leggere\",\"main_heading\":\"Punti chiave sull'uso dell'AI\",\"section_count\":9,\"sections\":[{\"label\":\"Vantaggi dell'AI\",\"description\":\"piccolo elenco con icona a grafico a barre blu\"},{\"label\":\"Aree di applicazione (es.)\",\"description\":\"fila di tag: Pianificazione, Marketing, Vendite, Customer Service, Sviluppo, Design, HR, Legale, Analisi, Altro\"},{\"label\":\"Principali tecnologie AI\",\"description\":\"elenco puntato compatto con icona a forma di cervello\"},{\"label\":\"Fasi di implementazione\",\"description\":\"elenco verticale numerato di 6 passaggi: 1 Definizione obiettivi, 2 Analisi problemi, 3 Selezione strumenti, 4 Test pilota, 5 Verifica risultati, 6 Ottimizzazione\"},{\"label\":\"Idee di utilizzo (es.)\",\"description\":\"elenco puntato denso di casi d'uso\"},{\"label\":\"Flusso di lavoro (panoramica)\",\"description\":\"diagramma di processo orizzontale con 5 icone collegate da frecce: Input, Elaborazione/Generazione AI, Output, Utilizzo/Miglioramento\"},{\"label\":\"Fattori di successo\",\"description\":\"checklist di 5 punti brevi\"},{\"label\":\"Avvertenze e rischi\",\"description\":\"triangolo di avviso ed elenco puntato sui rischi\"},{\"label\":\"Strumenti consigliati (es.)\",\"description\":\"piccoli pulsanti per ChatGPT, Gemini, Claude, Copilot, Notion AI, Canva AI, Perplexity e molti altri\"}],\"bottom_note\":\"Conclusione: l'AI non è onnipotente, ma se usata correttamente porta a grandi risultati. Iniziare in piccolo e imparare strada facendo è la chiave del successo.\"},{\"title\":\"Esempio positivo\",\"position\":\"metà destra\",\"style\":\"scheda bianca semplice e spaziosa con bordo blu sottile e linguetta del titolo blu\",\"main_message\":\"{argument name=\\\"main message\\\" default=\\\"1 slide = 1 messaggio\\\"}\",\"sub_message\":\"{argument name=\\\"sub message\\\" default=\\\"Comprensibile in 2 secondi\\\"}\",\"visual_flow\":{\"count\":3,\"items\":[{\"label\":\"Sintetizzare\",\"icon\":\"forbici in un cerchio azzurro\"},{\"label\":\"Organizzare\",\"icon\":\"scintille in un cerchio blu medio\"},{\"label\":\"Comunicare\",\"icon\":\"megafono in un cerchio blu scuro\"}],\"connectors\":\"due spesse frecce blu tra le tre icone\"}}]},\"colors\":{\"primary_blue\":\"#0057d8\",\"light_blue\":\"#d6ebff\",\"black\":\"#111111\",\"gray\":\"#555555\"},\"typography\":\"carattere sans-serif moderno e in grassetto, gerarchia forte, lato destro molto leggibile, lato sinistro deliberatamente sovraccarico\",\"composition\":\"chiaro contrasto affiancato: esempio negativo disordinato a sinistra ed esempio positivo semplificato a destra, con ampi margini e grafica vettoriale nitida\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"infográfico de apresentação em japonês limpo comparando design de slide ruim e bom\",\"format\":\"slide 16:9 wide, fundo branco, estilo corporativo minimalista\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"Mesmo conteúdo, impacto diferente: a importância do design\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"Não transforme textos de IA diretamente em slides; edite para simplificar\\\"}\",\"layout\":{\"top\":\"título grande em negrito centralizado, subtítulo menor em cinza centralizado abaixo\",\"comparison_panels\":[{\"title\":\"Exemplo ruim\",\"position\":\"metade esquerda\",\"style\":\"slide denso em preto e cinza monocromático com muitas seções minúsculas, intencionalmente confuso e difícil de ler\",\"main_heading\":\"Pontos importantes sobre o uso de IA\",\"section_count\":9,\"sections\":[{\"label\":\"Benefícios da IA\",\"description\":\"lista pequena com um ícone de gráfico de barras azul minúsculo\"},{\"label\":\"Áreas de aplicação (ex.)\",\"description\":\"linha com várias tags como Planejamento, Marketing, Vendas, Atendimento, Desenvolvimento, Design, RH, Jurídico, Análise, Outros\"},{\"label\":\"Principais tecnologias de IA\",\"description\":\"lista compacta com um pequeno ícone de cérebro\"},{\"label\":\"Passos para implementação\",\"description\":\"lista vertical numerada de 6 passos: 1 Definição de objetivos, 2 Organização de desafios, 3 Seleção de ferramentas, 4 Testes piloto, 5 Verificação de resultados, 6 Melhoria e expansão\"},{\"label\":\"Ideias de uso (ex.)\",\"description\":\"lista densa de casos de uso\"},{\"label\":\"Fluxo de uso (visão geral)\",\"description\":\"diagrama de processo horizontal com 5 ícones conectados por setas: Input, Processamento/Geração por IA, Output, Uso/Melhoria\"},{\"label\":\"Pontos de sucesso\",\"description\":\"checklist de 5 itens curtos\"},{\"label\":\"Cuidados e riscos\",\"description\":\"triângulo de aviso e lista de riscos\"},{\"label\":\"Ferramentas recomendadas (ex.)\",\"description\":\"pequenos botões para ChatGPT, Gemini, Claude, Copilot, Notion AI, Canva AI, Perplexity e muitos outros\"}],\"bottom_note\":\"Resumo: A IA não é infalível, mas se usada corretamente, traz grandes resultados. Começar pequeno e aprender enquanto expande é a chave para o sucesso.\"},{\"title\":\"Exemplo bom\",\"position\":\"metade direita\",\"style\":\"cartão branco simples e espaçoso com borda azul fina e aba de título azul\",\"main_message\":\"{argument name=\\\"main message\\\" default=\\\"1 slide = 1 mensagem\\\"}\",\"sub_message\":\"{argument name=\\\"sub message\\\" default=\\\"Compreensão em 2 segundos\\\"}\",\"visual_flow\":{\"count\":3,\"items\":[{\"label\":\"Cortar\",\"icon\":\"tesoura em círculo azul claro\"},{\"label\":\"Organizar\",\"icon\":\"brilhos em círculo azul médio\"},{\"label\":\"Transmitir\",\"icon\":\"megafone em círculo azul escuro\"}],\"connectors\":\"duas setas azuis grossas entre os três ícones\"}}]},\"colors\":{\"primary_blue\":\"#0057d8\",\"light_blue\":\"#d6ebff\",\"black\":\"#111111\",\"gray\":\"#555555\"},\"typography\":\"fonte sem serifa moderna e em negrito, hierarquia forte, lado direito altamente legível, lado esquerdo deliberadamente sobrecarregado\",\"composition\":\"contraste claro lado a lado: exemplo ruim confuso à esquerda e exemplo bom simplificado à direita, com margens generosas e gráficos vetoriais nítidos\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - Bad vs Good Slide Design Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 幻灯片设计：反面教材与正面案例对比图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - Infografía: Diseño de Slides: Malo vs. Bueno",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - Infografik: Schlechtes vs. gutes Slide-Design",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - Infographie : Design de Slides : Mauvais vs Bon",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - Infografica: Design delle slide, esempi positivi e negativi",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - Infográfico de Design de Slides: Ruim vs. Bom",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a Japanese comparison slide showing how simplifying AI-generated text into one clear message makes a presentation easier to understand.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张日语对比幻灯片，展示如何将 AI 生成的文本简化为一个清晰的信息点，从而使演示文稿更易于理解。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une diapositive de comparaison montrant comment simplifier un texte généré par l'IA en un message clair rend une présentation plus facile à comprendre.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/kemu_aii/status/2051240911896723848#reversed-0",
+      "originalId": "https://x.com/kemu_aii/status/2051240911896723848#reversed-0",
+      "authors": [
+        {
+          "name": "Kemu",
+          "url": "https://x.com/kemu_aii"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2307
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dd3a47186c7db490",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971089954_3rw1ha_HHd4t7-asAA93q_.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971089954_3rw1ha_HHd4t7-asAA93q_.jpg",
+      "localPath": "public/assets/prompt_ff17e1d962746175f411/02302a492d61.jpg",
+      "alt": "Infographic / Edu Visual - Bad vs Good Slide Design Infographic - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "chart",
+      "信息图",
+      "技术"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.874Z"
+  }
+}

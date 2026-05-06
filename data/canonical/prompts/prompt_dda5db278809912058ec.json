@@ -1,0 +1,105 @@
+{
+  "id": "prompt_dda5db278809912058ec",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "金瓶梅古风开放世界游戏截图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Jin Ping Mei ancient style open world game screenshot",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:37:58.131Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0951185899",
+      "value": "金瓶梅古风开放世界游戏截图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-213",
+      "originalId": "case-213",
+      "authors": [
+        {
+          "name": "op7418",
+          "url": "https://x.com/op7418/status/2046520509651886451"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1435
+        }
+      ],
+      "rawSource": "[@op7418](https://x.com/op7418/status/2046520509651886451)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a3d4305b1110a621",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case213.jpg",
+      "upstreamPath": "../data/images/case213.jpg",
+      "localPath": "public/assets/prompt_dda5db278809912058ec/3c1fa9a248c8.jpg",
+      "alt": "金瓶梅古风开放世界游戏截图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "古风"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

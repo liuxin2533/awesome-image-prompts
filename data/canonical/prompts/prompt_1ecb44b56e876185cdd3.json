@@ -1,0 +1,108 @@
+{
+  "id": "prompt_1ecb44b56e876185cdd3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a premium streetwear fashion campaign poster inspired by modern Asian apparel advertising. Full body portrait of a stylish young male model standing confidently with legs crossed at the ankles, hands inside jacket pockets, head turned slightly upward and sideways with a calm thoughtful expression. Curly tousled medium length hair with soft volume. Slim athletic build.\n\nOutfit includes a dark olive green padded hooded jacket worn open, clean white crewneck sweatshirt underneath with a tiny chest logo, relaxed black cargo style trousers, and minimal white sneakers. Styling is clean, youthful, and contemporary.\n\nBackground is a vibrant electric blue seamless studio backdrop with subtle gradient lighting, soft glow streaks, and glossy floor reflection. Lighting is soft studio light with gentle shadows and polished commercial finish.\n\nGraphic poster layout with giant bold condensed sans serif text reading “JEANSWEST” vertically stretched across the background behind the model in light gray white. Add large text on lower right reading “JW26”. \n\nComposition should feel premium, trendy, clean, commercial, youthful, modern fashion ad campaign. Sharp focus, ultra realistic fabric texture, cinematic lighting, balanced negative space, sleek branding design, high resolution, vertical poster ratio.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个受现代亚洲服装广告启发的优质街头时尚活动海报。全身肖像，一位时尚的年轻男性模特自信地站立，脚踝交叉，双手插在夹克口袋里，头部略微向上和侧转，表情平静而沉思。卷曲凌乱的中等长度头发，带有柔软的蓬松感。瘦削的健美体型。\n\n服装包括一件深橄榄绿色填充连帽夹克，敞开穿着，里面是一件干净的白色圆领运动衫，胸前有一个小标志，宽松的黑色工装风格裤子，以及简约的白色运动鞋。风格简洁、年轻、现代。\n\n背景是充满活力的电蓝色无缝工作室背景，带有微妙的渐变照明、柔和的光束和光滑的地板反射。照光是柔和的 studio 光，带有柔和的阴影和精致的商业质感。\n\n图形海报布局，巨大的粗体无衬线字体文本\"JEANSWEST\"垂直拉伸，在模特后面的背景上呈现浅灰白色。在右下角添加大号文本\"JW26\"。\n\n构图应感觉优质、时尚、简洁、商业、年轻、现代时尚广告活动。锐利对焦，超逼真的织物纹理，电影级照明，平衡的负空间，流畅的品牌设计，高分辨率，垂直海报比例。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:14:44.145Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Streetwear Fashion Campaign Asian Apparel Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "街头潮流时尚活动亚洲服装海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:14:46.589Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/harboriis/status/2047921293123895520",
+      "originalId": "case-71",
+      "authors": [
+        {
+          "name": "harboriis",
+          "url": "https://x.com/harboriis"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 936
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9a19532fa59ece72",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case71/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case71/output.jpg",
+      "localPath": "public/assets/prompt_1ecb44b56e876185cdd3/3abbd9db8f64.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "品牌",
+      "标志"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

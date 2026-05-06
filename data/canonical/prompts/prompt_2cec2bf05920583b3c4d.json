@@ -1,0 +1,108 @@
+{
+  "id": "prompt_2cec2bf05920583b3c4d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with each card featuring its corresponding Chinese name, 4 cards per row, in a 16:9 aspect ratio.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with each card featuring its corresponding Chinese name, 4 cards per row, in a 16:9 aspect ratio.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:04:36.609Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic Visualization Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:04:38.406Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-112",
+      "originalId": "case-112",
+      "authors": [
+        {
+          "name": "songguoxiansen",
+          "url": "https://x.com/songguoxiansen"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4242
+        }
+      ],
+      "rawSource": "[@songguoxiansen](https://x.com/songguoxiansen)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7241c12fdfc0a5a1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case112.jpg",
+      "upstreamPath": "../data/images/case112.jpg",
+      "localPath": "public/assets/prompt_2cec2bf05920583b3c4d/88864010f214.jpg",
+      "alt": "Generate a 12-grid card i...",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

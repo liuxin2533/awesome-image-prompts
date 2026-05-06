@@ -1,0 +1,228 @@
+{
+  "id": "prompt_638c09e89e6d75ab4a00",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "在iPhone 20主题演讲期间，在Apple Park拍摄的业余iPhone照片，蒂姆·库克在台上演讲。从远处人群中拍摄",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:04:30.961Z"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "在 Apple Park 舉辦 iPhone 20 發表會時，用 iPhone 從遠處觀眾區拍到的業餘照片，提姆・庫克正在台上發表演講。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "iPhone 20 のキーノートが行われている Apple Park で、ティム・クックがステージでプレゼンしている様子を、遠くの観客席から iPhone で撮った素人写真",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "iPhone 20 키노트가 열리는 Apple Park에서, 멀리 있는 관객석에서 아이폰으로 찍은 아마추어 사진. 팀 쿡이 무대에서 발표 중이다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Photo iPhone amateur à Apple Park pendant la keynote de l'iPhone 20, Tim Cook présente sur scène, vue de loin depuis la foule.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Amateurhaftes iPhone-Foto im Apple Park während der iPhone-20-Keynote, Tim Cook präsentiert auf der Bühne, aufgenommen aus der Menge in größerer Entfernung.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Foto amateur con iPhone en Apple Park durante la keynote del iPhone 20, con Tim Cook presentando en el escenario, tomada desde la multitud a cierta distancia.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Amateur iPhone Keynote Snapshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "业余iPhone主题演讲快照",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:04:33.640Z"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "Apple Park 發表會觀眾視角",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "Apple Park キーノートの観客視点",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "Apple Park 키노트 군중 샷",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Photo de keynote à Apple Park depuis la foule",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Keynote-Menge in Apple Park",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Foto de multitud en keynote de Apple Park",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/patrickassale/status/2044687244368441742",
+      "originalId": "case-2",
+      "authors": [
+        {
+          "name": "patrickassale",
+          "url": "https://x.com/patrickassale"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 16
+        }
+      ]
+    },
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/patrickassale/status/2044687244368441742",
+      "originalId": "https://x.com/patrickassale/status/2044687244368441742",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/apple-park-tim-cook-keynote"
+        },
+        {
+          "name": "patrickassale",
+          "url": "https://x.com/patrickassale/status/2044687244368441742"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 77
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 80
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 80
+        },
+        {
+          "file": "README:ja",
+          "line": 80
+        },
+        {
+          "file": "README:ko",
+          "line": 80
+        },
+        {
+          "file": "README:fr",
+          "line": 80
+        },
+        {
+          "file": "README:de",
+          "line": 80
+        },
+        {
+          "file": "README:es",
+          "line": 80
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/apple-park-tim-cook-keynote) | [@patrickassale](https://x.com/patrickassale/status/2044687244368441742)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f8b95bfa6bcc34a5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case2/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case2/output.jpg",
+      "localPath": "public/assets/prompt_638c09e89e6d75ab4a00/fcff8cab7248.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_531adb9354237a8c",
+      "role": "unknown",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/apple-park-tim-cook-keynote.jpg",
+      "upstreamPath": "assets/opennana/apple-park-tim-cook-keynote.jpg",
+      "localPath": "public/assets/prompt_638c09e89e6d75ab4a00/325697e27d7c.jpg",
+      "alt": "Apple Park Keynote Crowd Shot",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

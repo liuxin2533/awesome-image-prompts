@@ -1,0 +1,228 @@
+{
+  "id": "prompt_3e66ececf89e7f3afaa5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "业余照片，一本平摊开的笔记本，里面装满了黑色圆珠笔手写的笔记。字迹随意且有些凌乱，像是个人笔记，有自然的瑕疵，划掉的字，加粗的标题。从上方稍微俯拍，来自窗户的自然日光，无闪光灯。随意的桌面场景，用iPhone拍摄",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:03:12.854Z"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "一張業餘照片，打開的筆記本平放在桌上，裡面以黑色原子筆寫滿手寫筆記。字跡隨意且略顯凌亂，像個人筆記，有自然瑕疵、劃掉的詞與加底線的標題。從略高角度拍攝，窗邊自然日光、無閃光燈，輕鬆的桌面環境，用 iPhone 拍攝。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "開いたノートが平らに置かれ、黒のボールペンによる手書きメモで埋まっている素人写真。字は自然で少し雑、個人メモのような雰囲気で、自然な imperfections、取り消し線、下線付きの見出しがある。やや上から撮影し、窓からの自然光、フラッシュなし。気軽な机上の環境で、iPhone で撮影。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "펼쳐진 노트가 평평하게 놓여 있고, 검은 볼펜으로 쓴 손글씨 메모가 가득한 아마추어 사진. 글씨는 사적인 메모처럼 자연스럽고 조금 흐트러져 있으며, 취소선, 밑줄 친 제목, 작은 결함이 있다. 약간 위에서 찍고, 창가 자연광을 사용하며 플래시는 없다. 편안한 책상 환경에서 아이폰으로 촬영한 느낌.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Photo amateur d'un carnet ouvert posé à plat, rempli de notes manuscrites au stylo bille noir. L'écriture est naturelle, un peu brouillonne, avec imperfections, mots barrés et titres soulignés. Prise légèrement en plongée, lumière du jour venant d'une fenêtre, sans flash, sur un bureau ordinaire, photographiée à l'iPhone.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Amateurfoto eines geöffneten Notizbuchs, flach liegend, gefüllt mit handschriftlichen Notizen in schwarzem Kugelschreiber. Die Handschrift ist locker, leicht unordentlich, mit natürlichen Unregelmäßigkeiten, durchgestrichenen Wörtern und unterstrichenen Überschriften. Leicht von oben fotografiert, Tageslicht vom Fenster, kein Blitz, entspannter Schreibtischkontext, aufgenommen mit einem iPhone.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Foto amateur de un cuaderno abierto y extendido, lleno de notas manuscritas con bolígrafo negro. La caligrafía es casual y algo desordenada, como notas personales, con imperfecciones naturales, palabras tachadas y títulos subrayados. Toma ligeramente desde arriba, luz natural de ventana, sin flash, sobre un escritorio informal y hecha con iPhone.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Handwritten Notebook Photo",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "手写的笔记本照片",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:03:13.429Z"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "手寫筆記本照片",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "手書きノートの写真",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "손글씨 노트 사진",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Photo de carnet manuscrit",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Handschriftliches Notizbuch",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Foto de cuaderno manuscrito",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/patrickassale/status/2044569086013718958",
+      "originalId": "case-3",
+      "authors": [
+        {
+          "name": "patrickassale",
+          "url": "https://x.com/patrickassale"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 27
+        }
+      ]
+    },
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/patrickassale/status/2044569086013718958",
+      "originalId": "https://x.com/patrickassale/status/2044569086013718958",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/black-pen-handwritten-notes"
+        },
+        {
+          "name": "patrickassale",
+          "url": "https://x.com/patrickassale/status/2044569086013718958"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 86
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 89
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 89
+        },
+        {
+          "file": "README:ja",
+          "line": 89
+        },
+        {
+          "file": "README:ko",
+          "line": 89
+        },
+        {
+          "file": "README:fr",
+          "line": 89
+        },
+        {
+          "file": "README:de",
+          "line": 89
+        },
+        {
+          "file": "README:es",
+          "line": 89
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/black-pen-handwritten-notes) | [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_23a581ba07ed734c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case3/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case3/output.jpg",
+      "localPath": "public/assets/prompt_3e66ececf89e7f3afaa5/7272163e4cfc.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    },
+    {
+      "id": "asset_536bf061ab3e2b6d",
+      "role": "unknown",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/black-pen-handwritten-notes.jpg",
+      "upstreamPath": "assets/opennana/black-pen-handwritten-notes.jpg",
+      "localPath": "public/assets/prompt_3e66ececf89e7f3afaa5/c1965cfdcc06.jpg",
+      "alt": "Handwritten Notebook Photo",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.573Z"
+  }
+}

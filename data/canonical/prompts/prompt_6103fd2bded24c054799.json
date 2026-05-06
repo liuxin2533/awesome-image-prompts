@@ -1,0 +1,109 @@
+{
+  "id": "prompt_6103fd2bded24c054799",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"promotional banner thumbnail\",\r\n  \"style\": \"vibrant neon, cosmic galaxy background, anime illustration style, high-density Japanese typography, glowing text effects\",\r\n  \"character\": {\r\n    \"description\": \"smiling young woman pointing upwards with right index finger\",\r\n    \"appearance\": \"long {argument name=\\\"character hair color\\\" default=\\\"brown\\\"} hair, purple drop earrings, textured purple sweater\",\r\n    \"position\": \"right side\"\r\n  },\r\n  \"layout\": {\r\n    \"background\": \"purple, pink, and blue starry space nebula\",\r\n    \"center_typography\": {\r\n      \"top_small_text\": \"何から始めるか迷う人へ\",\r\n      \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"初心者でもわかる AI副業\\\"}\",\r\n      \"subtitle\": \"最初の1本におすすめ\",\r\n      \"floating_text_near_character\": \"やさしく解説♡\"\r\n    },\r\n    \"top_left\": {\r\n      \"yellow_ribbon\": \"{argument name=\\\"top left ribbon text\\\" default=\\\"ゼロから始める\\\"}\"\r\n    },\r\n    \"top_right\": {\r\n      \"pink_circle_badge\": \"初心者 OK\"\r\n    },\r\n    \"left_column\": {\r\n      \"count\": 7,\r\n      \"description\": \"stack of pill-shaped badges\",\r\n      \"labels\": [\r\n        \"スマホでもOK (with phone icon)\",\r\n        \"副業デビューに (with beginner mark icon)\",\r\n        \"具体例つき\",\r\n        \"テンプレ付き\",\r\n        \"おすすめツール紹介\",\r\n        \"収益化の流れ\",\r\n        \"失敗しない始め方\"\r\n      ]\r\n    },\r\n    \"bottom_left_graphics\": {\r\n      \"count\": 3,\r\n      \"items\": [\r\n        \"laptop displaying an AI circuit brain graphic\",\r\n        \"glowing lightbulb\",\r\n        \"rocket ship taking off\"\r\n      ]\r\n    },\r\n    \"bottom_center\": {\r\n      \"large_purple_button\": \"{argument name=\\\"bottom center button text\\\" default=\\\"完全解説\\\"}\",\r\n      \"checklist_text_below\": \"✓始め方 ✓稼ぎ方 ✓注意点 ✓続け方まで全部わかる！\"\r\n    },\r\n    \"bottom_right\": {\r\n      \"pink_cloud_shape\": {\r\n        \"count\": 3,\r\n        \"bullet_points\": [\r\n          \"✓難しい知識不要\",\r\n          \"✓今日から始められる\",\r\n          \"✓やさしく丁寧に解説\"\r\n        ]\r\n      },\r\n      \"gold_medal_seal\": \"保存版\",\r\n      \"purple_badge\": \"{argument name=\\\"year badge text\\\" default=\\\"2026年 最新版\\\"}\"\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"promotional banner thumbnail\",\n  \"style\": \"vibrant neon, cosmic galaxy background, anime illustration style, high-density Japanese typography, glowing text effects\",\n  \"character\": {\n    \"description\": \"smiling young woman pointing upwards with right index finger\",\n    \"appearance\": \"long {argument name=\\\"character hair color\\\" default=\\\"brown\\\"} hair, purple drop earrings, textured purple sweater\",\n    \"position\": \"right side\"\n  },\n  \"layout\": {\n    \"background\": \"purple, pink, and blue starry space nebula\",\n    \"center_typography\": {\n      \"top_small_text\": \"For those who don't know where to start\",\n      \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"AI Side Hustle for Beginners\\\"}\",\n      \"subtitle\": \"Recommended for your first one\",\n      \"floating_text_near_character\": \"Simple explanation♡\"\n    },\n    \"top_left\": {\n      \"yellow_ribbon\": \"{argument name=\\\"top left ribbon text\\\" default=\\\"Start from Zero\\\"}\"\n    },\n    \"top_right\": {\n      \"pink_circle_badge\": \"Beginners OK\"\n    },\n    \"left_column\": {\n      \"count\": 7,\n      \"description\": \"stack of pill-shaped badges\",\n      \"labels\": [\n        \"OK with smartphone (with phone icon)\",\n        \"For side hustle debut (with beginner mark icon)\",\n        \"Includes specific examples\",\n        \"Templates included\",\n        \"Recommended tools introduction\",\n        \"Monetization process\",\n        \"How to start without failing\"\n      ]\n    },\n    \"bottom_left_graphics\": {\n      \"count\": 3,\n      \"items\": [\n        \"laptop displaying an AI circuit brain graphic\",\n        \"glowing lightbulb\",\n        \"rocket ship taking off\"\n      ]\n    },\n    \"bottom_center\": {\n      \"large_purple_button\": \"{argument name=\\\"bottom center button text\\\" default=\\\"Complete Guide\\\"}\",\n      \"checklist_text_below\": \"✓How to start ✓How to earn ✓Points to note ✓How to continue - everything you need to know!\"\n    },\n    \"bottom_right\": {\n      \"pink_cloud_shape\": {\n        \"count\": 3,\n        \"bullet_points\": [\n          \"✓No difficult knowledge required\",\n          \"✓Can start from today\",\n          \"✓Simple and detailed explanation\"\n        ]\n      },\n      \"gold_medal_seal\": \"Reference Edition\",\n      \"purple_badge\": \"{argument name=\\\"year badge text\\\" default=\\\"2026 Latest Edition\\\"}\"\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:30:26.244Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:30:17.065Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-100",
+      "originalId": "case-100",
+      "authors": [
+        {
+          "name": "naga_zyashin",
+          "url": "https://x.com/naga_zyashin"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3858
+        }
+      ],
+      "rawSource": "[@naga\\_zyashin](https://x.com/naga_zyashin)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8a2c4f872e652226",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case100.jpg",
+      "upstreamPath": "../data/images/case100.jpg",
+      "localPath": "public/assets/prompt_6103fd2bded24c054799/2cab10c77d69.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "prompt_a91a17765cbf5b7acdef",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a hyper-realistic cinematic image from inside a moving city bus, shot like a wide selfie from a seated passenger beside a large window. In the left foreground, show {argument name=\"subject description\" default=\"a young woman with wavy brown hair wearing a black blazer and small necklace\"} extending one arm toward the camera in a casual selfie pose, her expression calm with a soft smile, partially backlit by warm daylight. The bus interior is visible behind her with patterned seats, yellow handrails, blurred passengers, and shallow depth of field. The large window dominates the right side and acts as both glass and portal: it reflects the subject and bus interior while revealing a surreal city street outside. Beyond the glass, show a wet reflective boulevard lined with elegant old buildings, pedestrians drifting in slow motion, one person holding a red umbrella, and a car with headlights glowing. The ordinary street gradually transforms into a dreamscape with exactly 9 colorful kites floating across a pink-and-blue sunset sky, soft glowing particles suspended in the air, exaggerated warm cinematic colors, and reflections of both the real bus interior and surreal outside world layered on the window. Use {argument name=\"time of day\" default=\"golden-hour sunset\"} lighting with natural daylight on the face blending into a dreamy glow with warm highlights, soft film grain, realistic lens reflections, subtle motion blur, and a peaceful mood of imagination, escape, and quiet happiness.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "从行驶中的城市巴士内部创作一张超写实电影感图像，采用广角自拍视角，拍摄对象为坐在大窗户旁的乘客。在左侧前景中，展示 {argument name=\"subject description\" default=\"一位留着棕色波浪卷发、身穿黑色西装外套并佩戴小项链的年轻女性\"}，她的一只手臂伸向镜头，摆出随意的自拍姿势，表情平静且带着温柔的微笑，背光处透着温暖的日光。背景可见巴士内部，包括带图案的座椅、黄色扶手、模糊的乘客以及浅景深效果。右侧的大窗户占据主导地位，既是玻璃又是传送门：它反射出拍摄对象和巴士内部，同时展现出窗外超现实的城市街道。透过玻璃，展示一条湿润且具有反射效果的林荫大道，两旁是优雅的古老建筑，行人缓慢移动，其中一人撑着红伞，一辆汽车亮着车灯。普通的街道逐渐转变为梦境，天空中漂浮着 9 只色彩斑斓的风筝，粉蓝色的日落背景下，空气中悬浮着柔和的发光粒子，呈现出夸张的暖色调电影质感，窗户上层叠着巴士内部的真实倒影与窗外的超现实世界。使用 {argument name=\"time of day\" default=\"黄金时刻日落\"} 光效，使面部的自然日光与梦幻般的暖色高光相融合，辅以细腻的胶片颗粒感、逼真的镜头反光、微妙的动态模糊，营造出一种充满想象力、逃离感与宁静幸福的氛围。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una imagen cinematográfica hiperrealista desde el interior de un autobús urbano en movimiento, capturada como una selfie amplia desde la perspectiva de un pasajero sentado junto a una ventana grande. En el primer plano a la izquierda, muestra a {argument name=\"subject description\" default=\"una mujer joven con cabello castaño ondulado, vistiendo un blazer negro y un collar pequeño\"} extendiendo un brazo hacia la cámara en una pose casual de selfie, con una expresión tranquila y una sonrisa suave, parcialmente iluminada por la luz natural del día. El interior del autobús es visible detrás de ella, con asientos estampados, pasamanos amarillos, pasajeros desenfocados y una profundidad de campo reducida. La ventana grande domina el lado derecho y actúa tanto como cristal como portal: refleja al sujeto y al interior del autobús mientras revela una calle urbana surrealista en el exterior. Más allá del cristal, muestra un bulevar húmedo y reflectante bordeado de elegantes edificios antiguos, peatones moviéndose en cámara lenta, una persona sosteniendo un paraguas rojo y un automóvil con los faros encendidos. La calle ordinaria se transforma gradualmente en un paisaje onírico con exactamente 9 cometas coloridas flotando en un cielo al atardecer de tonos rosa y azul, partículas brillantes suspendidas en el aire, colores cinematográficos cálidos y exagerados, y reflejos tanto del interior real del autobús como del mundo surrealista exterior superpuestos en la ventana. Utiliza una iluminación de {argument name=\"time of day\" default=\"atardecer de hora dorada\"} con luz natural en el rostro que se mezcla con un resplandor de ensueño con toques cálidos, grano de película suave, reflejos de lente realistas, un sutil desenfoque de movimiento y una atmósfera pacífica de imaginación, escape y felicidad tranquila.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein hyperrealistisches, filmreifes Bild aus dem Inneren eines fahrenden Stadtbusses, aufgenommen wie ein weites Selfie eines sitzenden Fahrgasts neben einem großen Fenster. Zeige im linken Vordergrund {argument name=\"subject description\" default=\"eine junge Frau mit welligem braunem Haar, die einen schwarzen Blazer und eine kleine Halskette trägt\"}, die einen Arm in einer lässigen Selfie-Pose in Richtung Kamera ausstreckt. Ihr Ausdruck ist ruhig mit einem sanften Lächeln, teilweise im Gegenlicht des warmen Tageslichts. Das Businnere ist hinter ihr sichtbar mit gemusterten Sitzen, gelben Haltestangen, verschwommenen Fahrgästen und geringer Schärfentiefe. Das große Fenster dominiert die rechte Seite und fungiert sowohl als Glas als auch als Portal: Es spiegelt das Motiv und das Businnere wider und gibt gleichzeitig den Blick auf eine surreale Stadtstraße nach draußen frei. Zeige hinter dem Glas einen nassen, reflektierenden Boulevard, der von eleganten alten Gebäuden gesäumt ist, Fußgänger, die sich in Zeitlupe bewegen, eine Person mit einem roten Regenschirm und ein Auto mit leuchtenden Scheinwerfern. Die gewöhnliche Straße verwandelt sich allmählich in eine Traumlandschaft mit genau 9 bunten Drachen, die über einem rosa-blauen Sonnenuntergangshimmel schweben, sanft leuchtenden Partikeln in der Luft, übertriebenen warmen Kinofarben und Reflexionen sowohl des realen Businneren als auch der surrealen Außenwelt, die sich auf dem Fenster überlagern. Verwende eine Beleuchtung zur {argument name=\"time of day\" default=\"goldenen Stunde bei Sonnenuntergang\"}, bei der das natürliche Tageslicht auf dem Gesicht in einen traumhaften Glanz mit warmen Highlights übergeht, ergänzt durch sanfte Filmkörnung, realistische Linsenreflexionen, subtile Bewegungsunschärfe und eine friedliche Stimmung voller Fantasie, Eskapismus und stiller Freude.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une image cinématographique hyperréaliste depuis l'intérieur d'un bus urbain en mouvement, prise comme un selfie grand angle par un passager assis près d'une grande fenêtre. Au premier plan à gauche, montrez {argument name=\"subject description\" default=\"une jeune femme aux cheveux bruns ondulés portant un blazer noir et un petit collier\"} tendant un bras vers l'appareil photo dans une pose de selfie décontractée, son expression calme avec un léger sourire, partiellement à contre-jour sous une lumière naturelle chaude. L'intérieur du bus est visible derrière elle avec des sièges à motifs, des mains courantes jaunes, des passagers flous et une faible profondeur de champ. La grande fenêtre domine le côté droit et agit à la fois comme une vitre et un portail : elle reflète le sujet et l'intérieur du bus tout en révélant une rue urbaine surréaliste à l'extérieur. Au-delà de la vitre, montrez un boulevard humide et réfléchissant bordé d'élégants bâtiments anciens, des piétons dérivant au ralenti, une personne tenant un parapluie rouge et une voiture aux phares lumineux. La rue ordinaire se transforme progressivement en un paysage onirique avec exactement 9 cerfs-volants colorés flottant dans un ciel au coucher de soleil rose et bleu, des particules lumineuses en suspension dans l'air, des couleurs cinématographiques chaudes et exagérées, et des reflets à la fois de l'intérieur réel du bus et du monde extérieur surréaliste superposés sur la fenêtre. Utilisez un éclairage de {argument name=\"time of day\" default=\"coucher de soleil à l'heure dorée\"} avec une lumière naturelle sur le visage se fondant dans une lueur rêveuse avec des reflets chauds, un grain de film doux, des reflets d'objectif réalistes, un léger flou de mouvement et une atmosphère paisible d'imagination, d'évasion et de bonheur tranquille.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'immagine cinematografica iperrealistica dall'interno di un autobus urbano in movimento, scattata come un selfie grandangolare da un passeggero seduto accanto a un grande finestrino. In primo piano a sinistra, mostra {argument name=\"subject description\" default=\"una giovane donna con capelli castani mossi, che indossa un blazer nero e una piccola collana\"} mentre allunga un braccio verso la fotocamera in una posa da selfie casuale, con un'espressione calma e un sorriso accennato, parzialmente retroilluminata dalla calda luce diurna. L'interno dell'autobus è visibile dietro di lei con sedili a motivi, mancorrenti gialli, passeggeri sfocati e una profondità di campo ridotta. Il grande finestrino domina il lato destro e funge sia da vetro che da portale: riflette il soggetto e l'interno dell'autobus rivelando al contempo una strada cittadina surreale all'esterno. Oltre il vetro, mostra un viale bagnato e riflettente fiancheggiato da eleganti edifici antichi, pedoni che si muovono al rallentatore, una persona che tiene un ombrello rosso e un'auto con i fari accesi. La strada ordinaria si trasforma gradualmente in un paesaggio onirico con esattamente 9 aquiloni colorati che fluttuano in un cielo al tramonto rosa e blu, particelle luminose sospese nell'aria, colori cinematografici caldi ed esagerati e riflessi sia dell'interno reale dell'autobus che del mondo surreale esterno sovrapposti sul finestrino. Usa un'illuminazione {argument name=\"time of day\" default=\"tramonto durante la golden hour\"} con luce diurna naturale sul viso che si fonde in un bagliore da sogno con riflessi caldi, grana cinematografica morbida, riflessi dell'obiettivo realistici, sottile sfocatura da movimento e un'atmosfera pacifica di immaginazione, evasione e quieta felicità.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma imagem cinematográfica hiper-realista de dentro de um ônibus urbano em movimento, capturada como uma selfie aberta de um passageiro sentado ao lado de uma janela grande. No primeiro plano à esquerda, mostre {argument name=\"subject description\" default=\"uma jovem de cabelos castanhos ondulados, usando um blazer preto e um colar discreto\"} estendendo um braço em direção à câmera em uma pose casual de selfie, com uma expressão calma e um sorriso suave, parcialmente iluminada por trás pela luz do dia. O interior do ônibus é visível atrás dela, com assentos estampados, corrimãos amarelos, passageiros desfocados e uma profundidade de campo curta. A janela grande domina o lado direito e atua tanto como vidro quanto como portal: ela reflete a pessoa e o interior do ônibus, ao mesmo tempo que revela uma rua surreal da cidade do lado de fora. Além do vidro, mostre um boulevard molhado e reflexivo, ladeado por edifícios antigos elegantes, pedestres movendo-se em câmera lenta, uma pessoa segurando um guarda-chuva vermelho e um carro com faróis brilhantes. A rua comum transforma-se gradualmente em uma paisagem onírica com exatamente 9 pipas coloridas flutuando em um céu de pôr do sol rosa e azul, partículas brilhantes suaves suspensas no ar, cores cinematográficas quentes exageradas e reflexos tanto do interior real do ônibus quanto do mundo surreal externo sobrepostos na janela. Use iluminação de {argument name=\"time of day\" default=\"pôr do sol na hora dourada\"} com a luz natural do dia no rosto misturando-se a um brilho onírico com destaques quentes, granulação de filme suave, reflexos de lente realistas, leve desfoque de movimento e uma atmosfera serena de imaginação, escapismo e felicidade tranquila.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Surreal Bus Window Selfie",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 超现实巴士车窗自拍",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Selfie surrealista en la ventana de un autobús",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Surreales Bus-Fenster-Selfie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Selfie surréaliste dans le bus",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Selfie surreale dal finestrino dell'autobus",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Selfie surreal na janela do ônibus",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic hyper-realistic bus selfie scene where a city street outside the window transforms into a dreamy kite-filled sunset.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个电影级超写实巴士自拍场景，窗外的城市街道幻化为充满风筝的梦幻日落。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène de selfie cinématographique hyperréaliste dans un bus, où la rue urbaine visible par la fenêtre se transforme en un coucher de soleil onirique rempli de cerfs-volants.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/AiwithLariab/status/2051334366908059812#reversed-0",
+      "originalId": "https://x.com/AiwithLariab/status/2051334366908059812#reversed-0",
+      "authors": [
+        {
+          "name": "Lariab Fatima‎",
+          "url": "https://x.com/AiwithLariab"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1650
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_96bfc25b5af7d68e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971038026_cmh6ft_HHfNuqoaYAAP9jk.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971038026_cmh6ft_HHfNuqoaYAAP9jk.jpg",
+      "localPath": "public/assets/prompt_a91a17765cbf5b7acdef/47bbfe93dbc0.jpg",
+      "alt": "Social Media Post - Surreal Bus Window Selfie - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.866Z"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "prompt_df6a30201c35503578ca",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一张蒙娜丽莎喝可乐的油画。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate an oil painting of Mona Lisa drinking cola.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "蒙娜丽莎畅饮可乐的趣味油画",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A fun oil painting of Mona Lisa happily drinking Coke",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:38:13.027Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e89d5bb756",
+      "value": "蒙娜丽莎畅饮可乐的趣味油画",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-233",
+      "originalId": "case-233",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai/status/2045058142858555733"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2237
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai/status/2045058142858555733)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0b18b168f1007ea1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case233.jpg",
+      "upstreamPath": "../data/images/case233.jpg",
+      "localPath": "public/assets/prompt_df6a30201c35503578ca/62c9fba3b852.jpg",
+      "alt": "蒙娜丽莎畅饮可乐的趣味油画",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "prompt_83e0b99ce5624bf74cef",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A premium underwater commercial photoshoot featuring a sleek {argument name=\"product\" default=\"Galaxy S Series smartphone\"} as the hero product, held in the foreground in a selfie position and captured in sharp focus, with realistic water droplets and reflections enhancing its metallic finish and camera lenses. In the mid-ground, a {argument name=\"person\" default=\"woman\"} floats naturally in clear tropical blue water with a relaxed, cheerful expression, her hair gently flowing with the movement, while the focus remains primarily on the product. In the background, a playful {argument name=\"background animal\" default=\"dolphin\"} swims slightly out of focus, adding a sense of motion and liveliness. Sunlight streams from above, creating soft underwater rays and natural caustic patterns, with small air bubbles rising organically and a clean blue gradient environment keeping distractions minimal for a premium advertisement look. The style is ultra-photorealistic commercial product photography in 8K with HDR lighting, using a wide-angle perspective and shallow depth of field, capturing a mood that feels fresh, clean, premium, and adventurous, with the product in crisp foreground focus and supporting elements softly blurred.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一套高端水下商业摄影大片，以一款时尚的 {argument name=\"product\" default=\"Galaxy S 系列智能手机\"} 作为核心产品，将其置于前景并以自拍视角呈现，焦点清晰，逼真的水滴和倒影突显了其金属质感和摄像头镜头。在中景处，一位 {argument name=\"person\" default=\"女性\"} 在清澈的热带蓝色海水中自然漂浮，表情轻松愉悦，头发随水流轻轻飘动，同时焦点始终保持在产品上。背景中，一只俏皮的 {argument name=\"background animal\" default=\"海豚\"} 在失焦处游动，增添了动感与活力。阳光从上方倾泻而下，营造出柔和的水下光束和自然的焦散图案，细小的气泡自然升起，纯净的蓝色渐变环境减少了视觉干扰，呈现出高端广告的质感。该风格为 8K 超写实商业产品摄影，采用 HDR 照明、广角视角和浅景深，营造出清新、洁净、高端且充满冒险感的氛围，产品在前景中清晰对焦，辅助元素则呈现柔和的虚化效果。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una sesión de fotos comercial premium bajo el agua que presenta un elegante {argument name=\"product\" default=\"smartphone Galaxy serie S\"} como producto principal, sostenido en primer plano en posición de selfie y capturado con un enfoque nítido, con gotas de agua realistas y reflejos que realzan su acabado metálico y los lentes de la cámara. En el plano medio, una {argument name=\"person\" default=\"mujer\"} flota de forma natural en aguas tropicales cristalinas de color azul con una expresión relajada y alegre, su cabello fluye suavemente con el movimiento, mientras que el enfoque permanece principalmente en el producto. En el fondo, un juguetón {argument name=\"background animal\" default=\"delfín\"} nada ligeramente fuera de foco, añadiendo una sensación de movimiento y vitalidad. La luz del sol se filtra desde arriba, creando suaves rayos submarinos y patrones cáusticos naturales, con pequeñas burbujas de aire subiendo orgánicamente y un entorno de degradado azul limpio que mantiene las distracciones al mínimo para lograr un aspecto de publicidad premium. El estilo es de fotografía de producto comercial ultra fotorrealista en 8K con iluminación HDR, utilizando una perspectiva de gran angular y una profundidad de campo reducida, capturando un ambiente que se siente fresco, limpio, premium y aventurero, con el producto en un enfoque nítido en primer plano y los elementos de apoyo suavemente desenfocados.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein erstklassiges kommerzielles Unterwasser-Fotoshooting mit einem eleganten {argument name=\"product\" default=\"Galaxy S Series Smartphone\"} als Hauptprodukt, das im Vordergrund in einer Selfie-Position gehalten und scharf fokussiert wird, wobei realistische Wassertropfen und Reflexionen das metallische Finish und die Kameralinsen betonen. Im Mittelgrund schwebt eine {argument name=\"person\" default=\"Frau\"} natürlich in klarem, tropisch blauem Wasser mit einem entspannten, fröhlichen Ausdruck, während ihr Haar sanft mit der Bewegung fließt und der Fokus primär auf dem Produkt bleibt. Im Hintergrund schwimmt ein verspielter {argument name=\"background animal\" default=\"Delfin\"} leicht unscharf mit, was für ein Gefühl von Bewegung und Lebendigkeit sorgt. Sonnenlicht fällt von oben ein, erzeugt weiche Unterwasserstrahlen und natürliche Lichtbrechungsmuster, während kleine Luftblasen organisch aufsteigen und eine klare blaue Gradientenumgebung Ablenkungen für einen hochwertigen Werbe-Look minimiert. Der Stil ist ultra-fotorealistische kommerzielle Produktfotografie in 8K mit HDR-Beleuchtung, unter Verwendung einer Weitwinkelperspektive und geringer Schärfentiefe, um eine Stimmung einzufangen, die frisch, sauber, hochwertig und abenteuerlich wirkt, wobei das Produkt im Vordergrund gestochen scharf und die unterstützenden Elemente sanft unscharf dargestellt sind.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une séance photo commerciale sous-marine haut de gamme mettant en vedette un élégant {argument name=\"product\" default=\"smartphone Galaxy S Series\"} en tant que produit phare, tenu au premier plan en position selfie et capturé avec une mise au point nette, avec des gouttelettes d'eau et des reflets réalistes rehaussant sa finition métallique et ses objectifs photo. Au second plan, une {argument name=\"person\" default=\"femme\"} flotte naturellement dans une eau tropicale bleu clair avec une expression détendue et joyeuse, ses cheveux flottant doucement au gré du mouvement, tandis que la mise au point reste principalement sur le produit. En arrière-plan, un {argument name=\"background animal\" default=\"dauphin\"} joueur nage légèrement hors champ, ajoutant une sensation de mouvement et de vivacité. La lumière du soleil traverse la surface, créant de doux rayons sous-marins et des motifs de réfraction naturels, avec de petites bulles d'air remontant de manière organique et un environnement en dégradé bleu épuré pour minimiser les distractions, offrant ainsi un rendu publicitaire premium. Le style est une photographie de produit commerciale ultra-réaliste en 8K avec un éclairage HDR, utilisant une perspective grand angle et une faible profondeur de champ, capturant une ambiance fraîche, propre, haut de gamme et aventureuse, avec le produit net au premier plan et les éléments secondaires légèrement floutés.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Un servizio fotografico commerciale subacqueo premium che vede come protagonista un elegante {argument name=\"product\" default=\"smartphone della serie Galaxy S\"}, tenuto in primo piano in posizione selfie e catturato con una messa a fuoco nitida, con gocce d'acqua realistiche e riflessi che esaltano la finitura metallica e gli obiettivi della fotocamera. Nel piano intermedio, una {argument name=\"person\" default=\"donna\"} galleggia naturalmente in acque tropicali blu cristalline con un'espressione rilassata e allegra, i capelli che fluttuano dolcemente con il movimento, mentre l'attenzione rimane focalizzata principalmente sul prodotto. Sullo sfondo, un giocoso {argument name=\"background animal\" default=\"delfino\"} nuota leggermente fuori fuoco, aggiungendo un senso di movimento e vivacità. La luce del sole filtra dall'alto, creando morbidi raggi subacquei e naturali motivi caustici, con piccole bolle d'aria che salgono in modo organico e un ambiente con un pulito gradiente blu che riduce al minimo le distrazioni per un look pubblicitario di alta qualità. Lo stile è quello della fotografia di prodotto commerciale ultra-fotorealistica in 8K con illuminazione HDR, utilizzando una prospettiva grandangolare e una profondità di campo ridotta, catturando un'atmosfera fresca, pulita, premium e avventurosa, con il prodotto nitido in primo piano e gli elementi di supporto leggermente sfocati.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma sessão de fotos comercial subaquática premium apresentando um elegante {argument name=\"product\" default=\"smartphone Galaxy S Series\"} como o produto principal, posicionado em primeiro plano em uma pose de selfie e capturado com foco nítido, com gotas de água realistas e reflexos realçando seu acabamento metálico e lentes de câmera. No plano médio, uma {argument name=\"person\" default=\"mulher\"} flutua naturalmente em águas tropicais azuis cristalinas com uma expressão relaxada e alegre, seu cabelo fluindo suavemente com o movimento, enquanto o foco permanece principalmente no produto. Ao fundo, um {argument name=\"background animal\" default=\"golfinho\"} brincalhão nada levemente fora de foco, adicionando uma sensação de movimento e vivacidade. A luz do sol incide de cima, criando raios subaquáticos suaves e padrões cáusticos naturais, com pequenas bolhas de ar subindo organicamente e um ambiente de gradiente azul limpo, mantendo as distrações mínimas para um visual de anúncio premium. O estilo é de fotografia de produto comercial ultra-fotorrealista em 8K com iluminação HDR, usando uma perspectiva grande-angular e profundidade de campo rasa, capturando uma atmosfera que parece fresca, limpa, premium e aventureira, com o produto em foco nítido no primeiro plano e elementos de apoio suavemente desfocados.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Underwater Smartphone Product Shoot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - 智能手机水下产品拍摄",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Sesión fotográfica de smartphone bajo el agua",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Unterwasser-Produktshooting für Smartphones",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Shooting photo sous-marin pour smartphone",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Servizio fotografico subacqueo per smartphone",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Fotografia de Produto de Smartphone Subaquático",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A high-end underwater commercial photography prompt featuring a smartphone with realistic water caustic patterns and atmospheric lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一套高端水下商业摄影提示词，呈现带有逼真水波纹光影和氛围照明的智能手机。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie commerciale sous-marine haut de gamme mettant en scène un smartphone avec des motifs de réfraction aquatique réalistes et un éclairage atmosphérique.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Strength04_X/status/2051299783986512251",
+      "originalId": "https://x.com/Strength04_X/status/2051299783986512251",
+      "authors": [
+        {
+          "name": "𝐌",
+          "url": "https://x.com/Strength04_X"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4133
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7ec749f0811ad694",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971012252_84sqpf_HHeuRXva4AEkmOC.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971012252_84sqpf_HHeuRXva4AEkmOC.jpg",
+      "localPath": "public/assets/prompt_83e0b99ce5624bf74cef/8bf8c9a37ca9.jpg",
+      "alt": "Product Marketing - Underwater Smartphone Product Shoot - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.857Z"
+  }
+}

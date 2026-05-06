@@ -1,0 +1,274 @@
+{
+  "id": "prompt_a96338746f35209f39ed",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate an image of a 2026 Gaokao exam paper for [subject name]",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 2026 年 [科目名称] 高考试卷图像",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張 2026 年 [科目名稱] 高考試卷圖像。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[subject name] の 2026 年高考試験用紙の画像を生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[subject name] 에 대한 2026년 가오카오 시험지 이미지를 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère l'image d'une feuille d'examen Gaokao 2026 pour [nom de matière].",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein Bild eines Gaokao-Prüfungsbogens 2026 für [Fachname].",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera la imagen de un examen Gaokao 2026 para [nombre de materia].",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Gaokao Exam Paper Replica",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高考试卷复刻",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "高考試卷復刻",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "高考試験用紙の再現",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "가오카오 시험지 복제",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Réplique de feuille d'examen Gaokao",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Gaokao-Prüfungsbogen 2026",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Réplica de examen Gaokao 2026",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e156bfaa6d",
+      "value": "📚 信息图、教育与文档",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e5cd4ed1b2",
+      "value": "📚 資訊圖、教育與文件",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a835d8e9f",
+      "value": "📚 インフォグラフィック・教育・文書",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b316df1fa2",
+      "value": "📚 인포그래픽, 교육, 문서",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infographies-education-et-documents",
+      "value": "📚 Infographies, éducation et documents",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografiken-bildung-und-dokumente",
+      "value": "📚 Infografiken, Bildung und Dokumente",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografias-educacion-y-documentos",
+      "value": "📚 Infografías, educación y documentos",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2045529134915600868"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 865
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 745
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 558
+        },
+        {
+          "file": "README:ja",
+          "line": 743
+        },
+        {
+          "file": "README:ko",
+          "line": 558
+        },
+        {
+          "file": "README:fr",
+          "line": 558
+        },
+        {
+          "file": "README:de",
+          "line": 558
+        },
+        {
+          "file": "README:es",
+          "line": 558
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2045529134915600868)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6db6dbc88e25fca7",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGMr98EaYAA_DsG?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGMr98EaYAA_DsG?format=jpg&name=large",
+      "localPath": "public/assets/prompt_a96338746f35209f39ed/0233e74d8048.jpg",
+      "alt": "Chinese",
+      "status": "pending"
+    },
+    {
+      "id": "asset_74295d3ee2382f90",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGMsDCZawAAymD8?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGMsDCZawAAymD8?format=jpg&name=large",
+      "localPath": "public/assets/prompt_a96338746f35209f39ed/5e004ab276c2.jpg",
+      "alt": "Math",
+      "status": "pending"
+    },
+    {
+      "id": "asset_9ec36d48e3864198",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGMsFeKbYAAqR9M?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGMsFeKbYAAqR9M?format=jpg&name=large",
+      "localPath": "public/assets/prompt_a96338746f35209f39ed/5b9af4374150.jpg",
+      "alt": "English",
+      "status": "pending"
+    },
+    {
+      "id": "asset_8f2e02143b108c26",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGcD2IMagAA8Z9h?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGcD2IMagAA8Z9h?format=jpg&name=large",
+      "localPath": "public/assets/prompt_a96338746f35209f39ed/6ab364f6887b.jpg",
+      "alt": "History",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "education",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.596Z"
+  }
+}

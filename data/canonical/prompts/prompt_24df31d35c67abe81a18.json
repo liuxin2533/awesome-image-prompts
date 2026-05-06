@@ -1,0 +1,106 @@
+{
+  "id": "prompt_24df31d35c67abe81a18",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"pose reference sheet\",\"subject\":{\"category\":\"female dancer fitness model\",\"age_appearance\":\"young adult\",\"build\":\"slim athletic\",\"hair\":{\"color\":\"dark brown\",\"style\":\"high ponytail\"},\"outfit\":{\"top\":\"light gray or white sports bra crop top\",\"bottom\":\"baggy light gray sweatpants\",\"shoes\":\"white sneakers\"},\"face\":\"softly blurred or de-emphasized facial features\"},\"style\":{\"image_type\":\"studio dance pose chart\",\"background\":\"clean seamless white background\",\"lighting\":\"bright even studio lighting with minimal shadows\",\"color_palette\":\"neutral whites and light grays\",\"camera\":\"full-body framing, straight-on view, consistent distance\",\"rendering\":\"photorealistic\"},\"layout\":{\"grid\":{\"rows\":4,\"columns\":4,\"count\":16,\"border\":\"thin black dividers between cells\"},\"numbering\":{\"count\":16,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"],\"position\":\"top-left corner of each panel\"},\"sections\":[{\"title\":\"row 1\",\"position\":\"top\",\"count\":4,\"labels\":[\"1 side lunge with one arm extended straight sideways and the other bent near chest\",\"2 low floor pose leaning on one hand with one knee down and opposite arm arched upward\",\"3 wide squat facing front with both arms opened in angular dance position\",\"4 standing balance on one leg with opposite knee lifted and forearms crossed near chest\"]},{\"title\":\"row 2\",\"position\":\"upper-middle\",\"count\":4,\"labels\":[\"5 deep backbend in wide stance with torso arched and one arm curved overhead\",\"6 wide squat with one hand behind head and the other arm pointing outward\",\"7 kneeling side stretch with one hand on floor and opposite arm reaching straight up\",\"8 standing arabesque-style extension with torso tilted forward and one leg lifted high behind/sideways\"]},{\"title\":\"row 3\",\"position\":\"lower-middle\",\"count\":4,\"labels\":[\"9 wide squat with torso tilted left, one arm curved overhead and one arm extended low\",\"10 front-facing wide squat with both arms stretched diagonally in opposite directions\",\"11 relaxed standing pose with legs apart and both forearms crossing in front of torso\",\"12 floor recline supported on one hand and one knee, torso leaning back with bent legs\"]},{\"title\":\"row 4\",\"position\":\"bottom\",\"count\":4,\"labels\":[\"13 small jump or lifted balance with one knee raised and one arm bent upward\",\"14 low crouch squat with one hand reaching toward floor and other arm extended sideways\",\"15 dramatic side backbend in wide stance with hair swinging and one arm curved overhead\",\"16 powerful wide squat with one hand at chest and the other lowered to the side\"]}],\"overall_composition\":\"all 16 poses shown as separate panels in a uniform contact sheet\"},\"prompt\":\"Create a clean studio contact sheet of {argument name=\\\"pose count\\\" default=\\\"16\\\"} full-body dance or combat-reference poses featuring a {argument name=\\\"subject type\\\" default=\\\"young athletic woman\\\"} in a {argument name=\\\"outfit\\\" default=\\\"light gray sports bra, loose gray sweatpants, and white sneakers\\\"}. Use a seamless {argument name=\\\"background color\\\" default=\\\"white\\\"} background, bright even lighting, and a consistent straight-on camera. Arrange the poses in a 4x4 grid with thin black panel lines and small black numbers 1 through 16 in the top-left of each cell. The poses should mix standing, squatting, kneeling, floorwork, balance, kick-extension, backbend, and angular arm positions suitable for a dance sheet chart or combat movement reference. Keep the styling photorealistic, crisp, minimal, and instructional, with consistent wardrobe and hair across all panels.\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"姿势参考表\",\"subject\":{\"category\":\"女性舞蹈健身模特\",\"age_appearance\":\"年轻成人\",\"build\":\"苗条运动型\",\"hair\":{\"color\":\"深棕色\",\"style\":\"高马尾\"},\"outfit\":{\"top\":\"浅灰色或白色运动内衣露脐装\",\"bottom\":\"宽松的浅灰色运动裤\",\"shoes\":\"白色运动鞋\"},\"face\":\"面部特征柔和模糊或弱化\"},\"style\":{\"image_type\":\"工作室舞蹈姿势图\",\"background\":\"干净的无缝白色背景\",\"lighting\":\"明亮均匀的工作室灯光，最小化阴影\",\"color_palette\":\"中性白色和浅灰色\",\"camera\":\"全身构图，正面视角，一致距离\",\"rendering\":\"照片级真实感\"},\"layout\":{\"grid\":{\"rows\":4,\"columns\":4,\"count\":16,\"border\":\"单元格之间的细黑色分隔线\"},\"numbering\":{\"count\":16,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"],\"position\":\"每个面板的左上角\"},\"sections\":[{\"title\":\"第1行\",\"position\":\"顶部\",\"count\":4,\"labels\":[\"1 侧向弓步，一只手臂向侧面完全伸展，另一只手臂在胸部附近弯曲\",\"2 低地板姿势，单手支撑，单膝跪地，对侧手臂向上拱起\",\"3 面向前的宽蹲姿，双臂以舞蹈角度打开\",\"4 单腿站立平衡，对侧膝盖抬起，前臂在胸部附近交叉\"]},{\"title\":\"第2行\",\"position\":\"中上部\",\"count\":4,\"labels\":[\"5 宽站姿深度后弯，躯干拱起，一只手臂在头顶弯曲\",\"6 宽蹲姿，一只手放在头后，另一只手臂向外指向\",\"7 跪姿侧向伸展，一只手放在地板上，对侧手臂向上直伸\",\"8 站姿阿拉贝斯克式伸展，躯干前倾，一条腿向后/侧面高高抬起\"]},{\"title\":\"第3行\",\"position\":\"中下部\",\"count\":4,\"labels\":[\"9 宽蹲姿，躯干向左倾斜，一只手臂在头顶弯曲，另一只手臂低位伸展\",\"10 面向前的宽蹲姿，双臂对角线向相反方向伸展\",\"11 放松的站姿，双腿分开，双前臂在躯干前交叉\",\"12 地板仰卧姿势，单手和单膝支撑，躯干后倾，双腿弯曲\"]},{\"title\":\"第4行\",\"position\":\"底部\",\"count\":4,\"labels\":[\"13 小跳跃或提升平衡，单膝抬起，一只手臂向上弯曲\",\"14 低蹲姿势，一只手伸向地板，另一只手臂向侧面伸展\",\"15 宽站姿戏剧性侧向后弯，头发摆动，一只手臂在头顶弯曲\",\"16 有力的宽蹲姿，一只手放在胸前，另一只手臂向侧面放下\"]}],\"overall_composition\":\"所有16个姿势作为单独面板显示在统一的联系表中\"},\"prompt\":\"创建一个干净的工作室联系表，包含{argument name=\\\"pose count\\\" default=\\\"16\\\"}个全身舞蹈或战斗参考姿势，展示一位{argument name=\\\"subject type\\\" default=\\\"年轻运动型女性\\\"}穿着{argument name=\\\"outfit\\\" default=\\\"浅灰色运动内衣，宽松灰色运动裤和白色运动鞋\\\"}。使用无缝的{argument name=\\\"background color\\\" default=\\\"白色\\\"}背景，明亮均匀的灯光，以及一致的正面相机视角。将姿势排列在4x4网格中，带有细黑色面板线条，每个单元格左上角有1到16的小黑色数字。姿势应结合站立、蹲姿、跪姿、地板动作、平衡、踢腿伸展、后弯和手臂角度位置，适合舞蹈表或战斗动作参考。保持风格照片级真实感、清晰、简约和教学性，所有面板中服装和发型保持一致。\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:02:52.877Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "16-Pose Dance Reference Sheet",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "16个姿势舞蹈参考表",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:02:55.885Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ExquisitMe/status/2048143577264402629",
+      "originalId": "case-136",
+      "authors": [
+        {
+          "name": "ExquisitMe",
+          "url": "https://x.com/ExquisitMe"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1426
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_48cc67c100e2b1ce",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case136/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case136/output.jpg",
+      "localPath": "public/assets/prompt_24df31d35c67abe81a18/2f350da8205f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

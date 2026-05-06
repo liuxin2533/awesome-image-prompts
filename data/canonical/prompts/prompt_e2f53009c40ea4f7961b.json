@@ -1,0 +1,101 @@
+{
+  "id": "prompt_e2f53009c40ea4f7961b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile and is gently touching the chin of the man next to her. On the right, an adult man with {argument name=\"man's hair color\" default=\"red\"} hair parted in the middle, purple eyes, and a light goatee. He is wearing a black button-down shirt and has a slightly annoyed, reluctant expression with a sweat drop on his cheek. The scene features soft, romantic lighting with out-of-focus purple flower petals in the foreground corners. The image includes several Japanese text elements: a large stylized main title at the bottom reading {argument name=\"main title\" default=\"ちかつば\"}, a subtitle below it reading {argument name=\"subtitle\" default=\"ーその溺愛、独占欲の裏返し。ー\"}, vertical text on the top left reading {argument name=\"left quote\" default=\"可愛いだけじゃ、許さない。\"}, and vertical text on the top right reading {argument name=\"right quote\" default=\"その不機嫌、俺だけに向けろよ。\"}.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "插画艺术风格创作",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Illustration Art Style Creation",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:38:36.739Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_f1beb538aa",
+      "value": "插画艺术风格创作",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-126",
+      "originalId": "case-126",
+      "authors": [
+        {
+          "name": "taira_renta",
+          "url": "https://x.com/taira_renta"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4858
+        }
+      ],
+      "rawSource": "[@taira\\_renta](https://x.com/taira_renta)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9a333633fa19be8d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case126.jpg",
+      "upstreamPath": "../data/images/case126.jpg",
+      "localPath": "public/assets/prompt_e2f53009c40ea4f7961b/61bf988bf313.jpg",
+      "alt": "man's hair color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

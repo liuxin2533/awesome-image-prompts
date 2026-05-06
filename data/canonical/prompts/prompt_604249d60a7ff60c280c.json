@@ -1,0 +1,184 @@
+{
+  "id": "prompt_604249d60a7ff60c280c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Macro photograph of a {argument name=\"subject\" default=\"miniature city hidden in human hair\"}, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores tiny people walking through the streets between the hair strands, extremely small but realistic proportions macro photography, {argument name=\"lens\" default=\"85mm lens\"}, shallow depth of field, natural lighting, neutral colors, no warm tones ultra realistic hair with visible roots, natural imperfections, slightly messy strands realistic materials, slightly dirty buildings, no perfect surfaces photorealistic, looks like a real photo, no illustration, no CGI, no glow",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "微距摄影作品，主体为 {argument name=\"subject\" default=\"隐藏在人类发丝间的微缩城市\"}，清晰地置于真实的人类头部，可见部分前额与发际线，逼真的皮肤纹理及毛孔，微小的人群在发丝间的街道上行走，比例极小但真实，微距摄影，{argument name=\"lens\" default=\"85mm 镜头\"}，浅景深，自然光，中性色调，无暖色调，超逼真的发丝，可见发根，自然的瑕疵，略显凌乱的发丝，逼真的材质，略带污垢的建筑，无完美表面，照片级真实，看起来像真实照片，非插画，非 CGI，无发光效果",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Ảnh chụp macro của một {argument name=\"subject\" default=\"thành phố tí hon ẩn trong sợi tóc người\"}, hiển thị rõ nét trên đầu người thật, có thể nhìn thấy một phần trán và đường chân tóc, kết cấu da chân thực với lỗ chân lông, những người tí hon đang đi bộ trên đường phố giữa các sợi tóc, tỷ lệ cực nhỏ nhưng chân thực, nhiếp ảnh macro, {argument name=\"lens\" default=\"ống kính 85mm\"}, độ sâu trường ảnh nông, ánh sáng tự nhiên, màu sắc trung tính, không có tông màu ấm, tóc siêu thực với chân tóc có thể nhìn thấy, những khiếm khuyết tự nhiên, các sợi tóc hơi rối, vật liệu chân thực, các tòa nhà hơi bẩn, không có bề mặt hoàn hảo, ảnh chân thực, trông giống như ảnh chụp thật, không phải minh họa, không phải CGI, không có hiệu ứng phát sáng",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Fotografía macro de una {argument name=\"subject\" default=\"ciudad miniatura oculta en un cabello humano\"}, claramente sobre una cabeza humana real, con parte de la frente y la línea del cabello visibles, textura de piel realista con poros, personas diminutas caminando por las calles entre las hebras de cabello, proporciones extremadamente pequeñas pero realistas, fotografía macro, {argument name=\"lens\" default=\"lente de 85mm\"}, profundidad de campo reducida, iluminación natural, colores neutros, sin tonos cálidos, cabello ultrarrealista con raíces visibles, imperfecciones naturales, hebras ligeramente desordenadas, materiales realistas, edificios ligeramente sucios, sin superficies perfectas, fotorrealista, parece una foto real, sin ilustraciones, sin CGI, sin brillo",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Makroaufnahme einer {argument name=\"subject\" default=\"in einem menschlichen Haar verborgenen Miniaturstadt\"}, deutlich auf einem echten menschlichen Kopf, mit sichtbarem Teil der Stirn und des Haaransatzes, realistische Hauttextur mit Poren, winzige Menschen, die zwischen den Haarsträhnen durch die Straßen gehen, extrem kleine, aber realistische Proportionen, Makrofotografie, {argument name=\"lens\" default=\"85mm-Objektiv\"}, geringe Schärfentiefe, natürliches Licht, neutrale Farben, keine warmen Töne, ultrarealistisches Haar mit sichtbaren Wurzeln, natürliche Unvollkommenheiten, leicht zerzauste Strähnen, realistische Materialien, leicht verschmutzte Gebäude, keine perfekten Oberflächen, fotorealistisch, sieht aus wie ein echtes Foto, keine Illustration, kein CGI, kein Leuchten",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Photographie macro d'une {argument name=\"subject\" default=\"ville miniature cachée dans un cheveu humain\"}, clairement sur une vraie tête humaine, avec une partie du front et de la racine des cheveux visible, texture de peau réaliste avec des pores, minuscules personnes marchant dans les rues entre les mèches de cheveux, proportions extrêmement petites mais réalistes, photographie macro, {argument name=\"lens\" default=\"objectif 85mm\"}, faible profondeur de champ, éclairage naturel, couleurs neutres, pas de tons chauds, cheveux ultra réalistes avec racines visibles, imperfections naturelles, mèches légèrement ébouriffées, matériaux réalistes, bâtiments légèrement sales, pas de surfaces parfaites, photoréaliste, ressemble à une vraie photo, pas d'illustration, pas de CGI, pas de lueur",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fotografia macro di una {argument name=\"subject\" default=\"città in miniatura nascosta in un capello umano\"}, chiaramente su una testa umana reale, con parte della fronte e dell'attaccatura dei capelli visibili, texture della pelle realistica con pori, persone minuscole che camminano lungo le strade tra le ciocche di capelli, proporzioni estremamente ridotte ma realistiche, fotografia macro, {argument name=\"lens\" default=\"obiettivo 85mm\"}, profondità di campo ridotta, illuminazione naturale, colori neutri, nessuna tonalità calda, capelli ultra realistici con radici visibili, imperfezioni naturali, ciocche leggermente disordinate, materiali realistici, edifici leggermente sporchi, nessuna superficie perfetta, fotorealistico, sembra una vera foto, nessuna illustrazione, niente CGI, nessun bagliore",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Fotografia macro de uma {argument name=\"subject\" default=\"cidade em miniatura escondida em um fio de cabelo humano\"}, claramente em uma cabeça humana real, com parte da testa e da linha do cabelo visíveis, textura de pele realista com poros, pessoas minúsculas caminhando pelas ruas entre os fios de cabelo, proporções extremamente pequenas, porém realistas, fotografia macro, {argument name=\"lens\" default=\"lente 85mm\"}, profundidade de campo rasa, iluminação natural, cores neutras, sem tons quentes, cabelo ultrarrealista com raízes visíveis, imperfeições naturais, fios levemente bagunçados, materiais realistas, edifícios levemente sujos, sem superfícies perfeitas, fotorrealista, parece uma foto real, sem ilustração, sem CGI, sem brilho",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Miniature City Tiny Worlds",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 微缩城市：微观世界",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Thành phố tí hon trong thế giới nhỏ",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Miniaturas de ciudades en mundos diminutos",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Miniaturstadt: Winzige Welten",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Miniature City Tiny Worlds",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Città in miniatura: mondi minuscoli",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Miniatura de Cidade em Mundos Minúsculos",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A macro photography prompt creating a realistic miniature city built within human hair, featuring high detail and natural skin textures.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个微距摄影提示词，旨在创作出构建在人类发丝间的逼真微缩城市，呈现高细节与自然的皮肤纹理。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie macro créant une ville miniature réaliste construite dans un cheveu humain, avec des détails élevés et des textures de peau naturelles.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/krafterlab/status/2051399740986740986",
+      "originalId": "https://x.com/krafterlab/status/2051399740986740986",
+      "authors": [
+        {
+          "name": "Krafter Lab",
+          "url": "https://x.com/krafterlab"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1502
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_bef2686ea67cf6a1",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971004958_amwl7m_HHgJLOpW4AArPom.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971004958_amwl7m_HHgJLOpW4AArPom.jpg",
+      "localPath": "public/assets/prompt_604249d60a7ff60c280c/7b7b5393f71a.jpg",
+      "alt": "Social Media Post - Miniature City Tiny Worlds - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.854Z"
+  }
+}

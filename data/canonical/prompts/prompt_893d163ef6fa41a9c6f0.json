@@ -1,0 +1,247 @@
+{
+  "id": "prompt_893d163ef6fa41a9c6f0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为我生成一个 xx 风格的 UI 设计系统，包含网页、移动端、卡片、控件、按钮等内容",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "幫我生成一套 xx 風格的 UI 設計系統，包含網頁、行動端、卡片、控制元件、按鈕等內容。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "xx スタイルの UI デザインシステムを生成してほしい。Web ページ、モバイル、カード、コントロール、ボタンなどを含める。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "웹, 모바일, 카드, 컨트롤, 버튼 등을 포함한 xx 스타일 UI 디자인 시스템을 생성해 달라.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère pour moi un design system UI dans le style xx, incluant pages web, mobile, cartes, contrôles, boutons, etc.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Generiere für mich ein UI-Designsystem im xx-Stil, inklusive Webseiten, Mobile, Karten, Controls, Buttons und mehr.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera para mí un sistema de diseño UI en estilo xx, incluyendo páginas web, móvil, tarjetas, controles, botones y más.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Custom Style UI Design System",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "自定义风格 UI 设计系统",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "自訂風格 UI 設計系統",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "カスタムスタイル UI デザインシステム",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "커스텀 스타일 UI 디자인 시스템",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Système de design UI personnalisé",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Benutzerdefiniertes UI-Designsystem",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Sistema de diseño UI personalizado",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 與社群媒體",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX・ソーシャルメディア",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 와 소셜 미디어",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-et-reseaux-sociaux",
+      "value": "📱 UI / UX et réseaux sociaux",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-und-social-media",
+      "value": "📱 UI / UX und Social Media",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-y-redes-sociales",
+      "value": "📱 UI / UX y redes sociales",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/stark_nico99/status/2045836554451706125",
+      "originalId": "https://x.com/stark_nico99/status/2045836554451706125",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/custom-style-ui-system"
+        },
+        {
+          "name": "stark_nico99",
+          "url": "https://x.com/stark_nico99/status/2045836554451706125"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 403
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 336
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 297
+        },
+        {
+          "file": "README:ja",
+          "line": 336
+        },
+        {
+          "file": "README:ko",
+          "line": 297
+        },
+        {
+          "file": "README:fr",
+          "line": 297
+        },
+        {
+          "file": "README:de",
+          "line": 297
+        },
+        {
+          "file": "README:es",
+          "line": 297
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/custom-style-ui-system) | [@stark_nico99](https://x.com/stark_nico99/status/2045836554451706125)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_bb4c33a0ccc50b1d",
+      "role": "unknown",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/custom-style-ui-system.jpeg",
+      "upstreamPath": "assets/opennana/custom-style-ui-system.jpeg",
+      "localPath": "public/assets/prompt_893d163ef6fa41a9c6f0/d3605b0179c3.jpeg",
+      "alt": "Custom Style UI Design System",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

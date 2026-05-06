@@ -1,0 +1,132 @@
+{
+  "id": "prompt_1147ac873fbc38bf1d2e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"Arabic typography infographic poster\",\"style\":\"clean modern social-media infographic, soft light gray background, rounded white cards with subtle shadows, bold colorful headers, polished vector design, high readability\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"composition\":\"centered poster with title at top, six typography cards in a 3x2 grid, and a bottom benefits bar\"},\"text_language\":\"Arabic\",\"title_block\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"أنواع الخطوط العربية\\\"}\",\"subheadline\":\"{argument name=\\\"subtitle text\\\" default=\\\"تعرف على أشهر الخطوط العربية واستخداماتها\\\"}\",\"decorative_elements_count\":6,\"decorative_elements\":\"small colored dots and divider ornaments beneath the title\"},\"layout\":{\"sections\":[{\"title\":\"01 خط كوفي\",\"position\":\"top-left\",\"count\":1,\"card_style\":\"teal header and accents\",\"main_word\":\"كوفي\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"الشعارات، التصاميم الهندسية، العناوين.\",\"features_title\":\"المميزات:\",\"features_text\":\"هندسي، واضح، قوي بصريًا.\",\"icon_count\":2,\"icons\":[\"hourglass-like emblem\",\"diamond\"]},{\"title\":\"02 خط ديواني\",\"position\":\"top-center\",\"count\":1,\"card_style\":\"blue header and accents\",\"main_word\":\"ديواني\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"الدعوات، التصاميم الرسمية، الشعارات.\",\"features_title\":\"المميزات:\",\"features_text\":\"منحني، فاخر، أنيق.\",\"icon_count\":2,\"icons\":[\"document or framed text icon\",\"crown\"]},{\"title\":\"03 خط ثلث\",\"position\":\"top-right\",\"count\":1,\"card_style\":\"purple header and accents\",\"main_word\":\"ثلث\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"العناوين الكبيرة، اللوحات الفنية، الأظرف.\",\"features_title\":\"المميزات:\",\"features_text\":\"فني، مهيب، زخرفي.\",\"icon_count\":2,\"icons\":[\"framed picture\",\"star\"]},{\"title\":\"04 خط نسخ\",\"position\":\"bottom-left\",\"count\":1,\"card_style\":\"green header and accents\",\"main_word\":\"نسخ\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"الكتب، الجرائد، النصوص الطويلة.\",\"features_title\":\"المميزات:\",\"features_text\":\"واضح، سهل القراءة، منظم.\",\"icon_count\":2,\"icons\":[\"open book\",\"check mark in circle\"]},{\"title\":\"05 خط رقعة\",\"position\":\"bottom-center\",\"count\":1,\"card_style\":\"orange header and accents\",\"main_word\":\"رقعة\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"الملاحظات السريعة، العناوين البسيطة.\",\"features_title\":\"المميزات:\",\"features_text\":\"سريع، بسيط، عملي.\",\"icon_count\":2,\"icons\":[\"pen nib\",\"lightning bolt\"]},{\"title\":\"06 خط حديث\",\"position\":\"bottom-right\",\"count\":1,\"card_style\":\"pink header and accents\",\"main_word\":\"حديث\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"التصاميم الحديثة، الإنفوجرافيك، السوشيال ميديا.\",\"features_title\":\"المميزات:\",\"features_text\":\"عصري، نظيف، مناسب للشاشات.\",\"icon_count\":2,\"icons\":[\"computer monitor\",\"thumbs up\"]}],\"bottom_bar\":{\"title\":\"{argument name=\\\"footer question\\\" default=\\\"لماذا يهم اختيار الخط المناسب؟\\\"}\",\"count\":4,\"items\":[{\"icon\":\"eye\",\"text\":\"يحسن الوضوح\"},{\"icon\":\"award badge\",\"text\":\"يعزز هوية التصميم\"},{\"icon\":\"group of people\",\"text\":\"يجذب الانتباه ويوثر\"},{\"icon\":\"orange check mark\",\"text\":\"يوصل رسالتك باحترافية\"}]},\"branding\":{\"count\":1,\"label\":\"{argument name=\\\"brand name\\\" default=\\\"Ksa8Turky\\\"}\",\"position\":\"bottom center in a dark rounded pill\"}},\"visual_details\":{\"card_count\":6,\"corners\":\"large rounded corners\",\"shadow\":\"soft diffuse drop shadows\",\"surface\":\"matte white panels\",\"typography\":\"bold Arabic display headline with darker navy tone, smaller Arabic body text, colorful calligraphic sample words centered in each card\",\"color_palette\":[\"teal\",\"blue\",\"purple\",\"green\",\"orange\",\"pink\",\"light gray\",\"white\",\"dark navy\"]}}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Arabic Font Types Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Arabic Font Types Infographic",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Arabic Font Types Infographic",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Arabic Font Types Infographic",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Arabic Font Types Infographic",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Arabic Font Types Infographic",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Arabic Font Types Infographic",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A polished Arabic infographic poster showing six Arabic calligraphy and font styles with their uses, features, icons, and a bottom row explaining why font choice matters.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ksa8Turky/status/2048796815365906648#reversed-0",
+      "originalId": "https://x.com/ksa8Turky/status/2048796815365906648#reversed-0",
+      "authors": [
+        {
+          "name": "‏تركي",
+          "url": "https://x.com/ksa8Turky"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1729
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f028018bb730632f",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367358617_z2hn2v_HG6FSQMaoAA_fq7.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367358617_z2hn2v_HG6FSQMaoAA_fq7.jpg",
+      "localPath": "public/assets/prompt_1147ac873fbc38bf1d2e/ed4de5442c1e.jpg",
+      "alt": "Social Media Post - Arabic Font Types Infographic - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.564Z"
+  }
+}

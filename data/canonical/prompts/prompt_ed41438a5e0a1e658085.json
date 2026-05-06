@@ -1,0 +1,109 @@
+{
+  "id": "prompt_ed41438a5e0a1e658085",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Help me create a detailed production flowchart for the dish {argument name=\"dish name\" default=\"Fried Pork with Chili\"}, in a realistic style, suitable for Xiaohongshu image-text proportions.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Help me create a detailed production flowchart for the dish {argument name=\"dish name\" default=\"Fried Pork with Chili\"}, in a realistic style, suitable for Xiaohongshu image-text proportions.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:22.440Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic Visualization Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:16.557Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-55",
+      "originalId": "case-55",
+      "authors": [
+        {
+          "name": "Kurt_Rousey466",
+          "url": "https://x.com/Kurt_Rousey466"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 1399
+        }
+      ],
+      "rawSource": "[@Kurt\\_Rousey466](https://x.com/Kurt_Rousey466)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_52ca7cf2e858d76f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case55.jpg",
+      "upstreamPath": "../data/images/case55.jpg",
+      "localPath": "public/assets/prompt_ed41438a5e0a1e658085/40c2a47a67af.jpg",
+      "alt": "dish name",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "chart",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.606Z"
+  }
+}

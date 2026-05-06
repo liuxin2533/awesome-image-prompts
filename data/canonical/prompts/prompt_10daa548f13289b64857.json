@@ -1,0 +1,106 @@
+{
+  "id": "prompt_10daa548f13289b64857",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "High-impact e-commerce infographic for \"Apple Pods Pro 3\" wireless earbuds.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为\"Apple Pods Pro 3\"无线耳机制作的高影响力电商信息图表。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:13:23.059Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Apple Pods Pro 3 Earbuds E-Commerce Infographic",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Apple Pods Pro 3 耳机 电子商务 信息图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:13:26.568Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui",
+      "value": "ui",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/rovvmut_/status/2047912710365761828",
+      "originalId": "case-45",
+      "authors": [
+        {
+          "name": "rovvmut_",
+          "url": "https://x.com/rovvmut_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 419
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_13fe97d9ea9b0514",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case45/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case45/output.jpg",
+      "localPath": "public/assets/prompt_10daa548f13289b64857/7b02edfb3b90.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "e-commerce",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

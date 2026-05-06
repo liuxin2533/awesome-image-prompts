@@ -1,0 +1,261 @@
+{
+  "id": "prompt_b86a025959e1cd201c95",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create an explanatory slide ({argument name=\"format\" default=\"ponchi-e diagram\"}) for {argument name=\"theme\" default=\"Momotaro\"} that fuses the gentle atmosphere of \"Irasutoya\" with the overwhelming information density of \"Kasumigaseki slides\".",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个讲解型 Slides（{argument name=\"format\" default=\"ponchi-e diagram\"}），主题为 {argument name=\"theme\" default=\"Momotaro\"}，将“Irasutoya”的柔和氛围与“霞关风格 Slides”极高的信息密度完美融合。",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "สร้างสไลด์อธิบาย ({argument name=\"format\" default=\"ponchi-e diagram\"}) สำหรับ {argument name=\"theme\" default=\"Momotaro\"} ที่ผสมผสานบรรยากาศอันอ่อนโยนของ \"Irasutoya\" เข้ากับความหนาแน่นของข้อมูลในระดับ \"สไลด์คาสุมิกาเซกิ\"",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una diapositiva explicativa ({argument name=\"format\" default=\"diagrama ponchi-e\"}) sobre {argument name=\"theme\" default=\"Momotaro\"} que fusione la atmósfera amable de \"Irasutoya\" con la abrumadora densidad de información de las \"diapositivas de Kasumigaseki\".",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine Erklärfolie ({argument name=\"format\" default=\"Ponchi-e-Diagramm\"}) zum Thema {argument name=\"theme\" default=\"Momotaro\"}, die die sanfte Atmosphäre von „Irasutoya“ mit der überwältigenden Informationsdichte von „Kasumigaseki-Folien“ verbindet.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une diapositive explicative ({argument name=\"format\" default=\"diagramme ponchi-e\"}) pour {argument name=\"theme\" default=\"Momotaro\"} qui fusionne l'atmosphère douce des illustrations \"Irasutoya\" avec la densité d'informations impressionnante des \"diapositives de Kasumigaseki\".",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una slide esplicativa ({argument name=\"format\" default=\"diagramma ponchi-e\"}) per {argument name=\"theme\" default=\"Momotaro\"} che fonda l'atmosfera delicata di \"Irasutoya\" con la straordinaria densità informativa delle \"slide di Kasumigaseki\".",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um slide explicativo ({argument name=\"format\" default=\"diagrama ponchi-e\"}) para {argument name=\"theme\" default=\"Momotaro\"} que funde a atmosfera suave do \"Irasutoya\" com a densidade de informações impressionante dos \"slides de Kasumigaseki\".",
+        "source": "upstream"
+      },
+      "en": {
+        "language": "en",
+        "value": "Create an explanatory slide ({argument name=\"format\" default=\"ponchi-e diagram\"}) for {argument name=\"theme\" default=\"Momotaro\"} that fuses the gentle atmosphere of \"Irasutoya\" with the overwhelming information density of \"Kasumigaseki slides\".",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:19:04.975Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "混合风格的桃太郎讲解 Slides",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "สไลด์อธิบายเรื่องโมโมทาโร่ในสไตล์ไฮบริด",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Diapositiva explicativa de Momotaro en estilo híbrido",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Momotaro-Erklärfolie im Hybrid-Stil",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Diapositive explicative sur Momotaro dans un style hybride",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Slide esplicativa su Momotaro in stile ibrido",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Slide explicativo do Momotaro em estilo híbrido",
+        "source": "upstream"
+      },
+      "en": {
+        "language": "en",
+        "value": "Infographic visualization design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:19:08.738Z"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt that combines the simple, warm aesthetic of Irasutoya illustrations with the high-information density characteristic of Japanese government slides.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个融合了 Irasutoya 插图简约温馨的美学风格与日本政府 Slides 高信息密度特征的提示词。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt qui combine l'esthétique simple et chaleureuse des illustrations Irasutoya avec la densité d'informations élevée caractéristique des diapositives du gouvernement japonais.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-19",
+      "originalId": "case-19",
+      "authors": [
+        {
+          "name": "yammamon",
+          "url": "https://x.com/yammamon"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 377
+        }
+      ],
+      "rawSource": "[@yammamon](https://x.com/yammamon)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-20",
+      "originalId": "case-20",
+      "authors": [
+        {
+          "name": "yammamon",
+          "url": "https://x.com/yammamon"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 393
+        }
+      ],
+      "rawSource": "[@yammamon](https://x.com/yammamon)"
+    },
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/yammamon/status/2045778624092254603",
+      "originalId": "https://x.com/yammamon/status/2045778624092254603",
+      "authors": [
+        {
+          "name": "やまもん",
+          "url": "https://x.com/yammamon"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 292
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_77cde7d5161b86eb",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case19.jpg",
+      "upstreamPath": "../data/images/case19.jpg",
+      "localPath": "public/assets/prompt_b86a025959e1cd201c95/3479f777935a.jpg",
+      "alt": "format",
+      "status": "pending"
+    },
+    {
+      "id": "asset_f596cf26d6b72100",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case20.jpg",
+      "upstreamPath": "../data/images/case20.jpg",
+      "localPath": "public/assets/prompt_b86a025959e1cd201c95/be92e2e95646.jpg",
+      "alt": "format",
+      "status": "pending"
+    },
+    {
+      "id": "asset_220f160dec675e2e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1776699414289_t6mebs_HGQQxukbUAA_qc0.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1776699414289_t6mebs_HGQQxukbUAA_qc0.jpg",
+      "localPath": "public/assets/prompt_b86a025959e1cd201c95/e57920e369b0.jpg",
+      "alt": "Momotaro Explainer Slide in Hybrid Style - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_098f30d68d9c25d5",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1776699414149_63j8pd_HGQQy1_aQAAHSqP.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1776699414149_63j8pd_HGQQy1_aQAAHSqP.jpg",
+      "localPath": "public/assets/prompt_b86a025959e1cd201c95/c92836a7d329.jpg",
+      "alt": "Momotaro Explainer Slide in Hybrid Style - Image 2",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.599Z"
+  }
+}

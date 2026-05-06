@@ -1,0 +1,281 @@
+{
+  "id": "prompt_c899979818ad52583e8a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate an image of the authentic manuscript of [classic text title]\n\nGenerate an image of the authentic manuscript of [classic text title], and incorporate the emotional core of the work into the calligraphy",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成 [经典文本标题] 的真迹手稿图像\n\n生成 [经典文本标题] 的真迹手稿图像，并把作品的情感核心融入书法表达之中",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成 [經典文本標題] 的真跡手稿圖像；或生成 [經典文本標題] 的真跡手稿圖像，並把作品的情感核心融入書法表達中。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[classic text title] の真跡手稿画像を生成する\n\n[classic text title] の真跡手稿画像を生成し、その作品の感情的核心を書に取り込む",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[classic text title] 의 진적 원고 이미지를 생성한다. 또는 작품의 정서적 핵심을 서예 표현에 녹여 넣는다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère l'image du manuscrit authentique de [titre du texte classique], ou une version intégrant le cœur émotionnel de l'œuvre dans la calligraphie.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein Bild des authentischen Manuskripts von [Titel des klassischen Textes] oder eine Variante, die den emotionalen Kern des Werkes in die Kalligrafie integriert.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera la imagen del manuscrito auténtico de [título del texto clásico], o una variante que incorpore el núcleo emocional de la obra en la caligrafía.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Chinese Calligraphy Manuscript Recreation",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "中国书法真迹手稿复原",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "中國書法真跡手稿重建",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "中国書道の真跡手稿再現",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "중국 서예 진적 원고 재현",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Reconstitution de manuscrit calligraphique chinois",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Rekonstruktion chinesischer Kalligrafie-Manuskripte",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Reconstrucción de manuscritos de caligrafía china",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Adding style cues such as `in Wang Xizhi style`, `in Yan Zhenqing style`, or `with stronger emotional expression` improves the result.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "Basic Thread",
+          "url": "https://x.com/MrLarus/status/2046201836525302032"
+        },
+        {
+          "name": "Emotion Variant",
+          "url": "https://x.com/MrLarus/status/2046240175777259752"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 679
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 566
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 431
+        },
+        {
+          "file": "README:ja",
+          "line": 566
+        },
+        {
+          "file": "README:ko",
+          "line": 431
+        },
+        {
+          "file": "README:fr",
+          "line": 431
+        },
+        {
+          "file": "README:de",
+          "line": 431
+        },
+        {
+          "file": "README:es",
+          "line": 431
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [Basic Thread](https://x.com/MrLarus/status/2046201836525302032) | [Emotion Variant](https://x.com/MrLarus/status/2046240175777259752)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b2e3772153f11572",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb2ERIbgAAW4R5?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb2ERIbgAAW4R5?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c899979818ad52583e8a/ee95cbad8de1.jpg",
+      "alt": "Example 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_3bff459e3a072770",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb2Em0aYAAdY2-?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb2Em0aYAAdY2-?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c899979818ad52583e8a/be62f895e09b.jpg",
+      "alt": "Example 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_7e4f8b77fe925686",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb2EHDaoAAcxgf?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb2EHDaoAAcxgf?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c899979818ad52583e8a/66bdb2df6e45.jpg",
+      "alt": "Example 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_617c8b28e7c4c6e4",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb2ERKaIAAjni4?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb2ERKaIAAjni4?format=jpg&name=large",
+      "localPath": "public/assets/prompt_c899979818ad52583e8a/a3020ea22b5c.jpg",
+      "alt": "Example 4",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.734Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.927Z"
+  }
+}

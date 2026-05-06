@@ -1,0 +1,92 @@
+{
+  "id": "prompt_a871cb063988c7e01463",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Netflix 首页主视觉 UI",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "netflix-ui",
+      "value": "Netflix 首页主视觉 UI",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-387",
+      "originalId": "case-387",
+      "authors": [
+        {
+          "name": "aimikoda",
+          "url": "https://x.com/aimikoda/status/2051420440451801240"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7278
+        }
+      ],
+      "rawSource": "[@aimikoda](https://x.com/aimikoda/status/2051420440451801240)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_52f7b209c96f3880",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case387.jpg",
+      "upstreamPath": "../data/images/case387.jpg",
+      "localPath": "public/assets/prompt_a871cb063988c7e01463/7a3904487ca8.jpg",
+      "alt": "Netflix 首页主视觉 UI",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.922Z"
+  }
+}

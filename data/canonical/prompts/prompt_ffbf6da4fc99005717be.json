@@ -1,0 +1,108 @@
+{
+  "id": "prompt_ffbf6da4fc99005717be",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "我想创建普拉提教室的广告图片，文字应该使用更能吸引用户注册的文案，图片中要展示女性实际进行普拉提运动的场景",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:12:36.720Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Pilates Studio Ad Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Pilates工作室广告海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:12:40.102Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ck_igarashi/status/2046528889124728993",
+      "originalId": "case-51",
+      "authors": [
+        {
+          "name": "ck_igarashi",
+          "url": "https://x.com/ck_igarashi"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 519
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_97301e81503e06c1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg",
+      "localPath": "public/assets/prompt_ffbf6da4fc99005717be/f6432e738f57.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "prompt_cb6ce89a7439f8ed3e6a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A high-fashion Vogue magazine cover photograph, August 2025 issue, Vogue Hong Kong. \n\n{argument name=\"subject\" default=\"Emily Blunt as a glamorous elegant woman\"} with shoulder-length straight platinum blonde hair, wearing dramatic makeup, standing in a modern minimalist interior with metallic reflective walls and a reddish-brown carpet floor. \n\nShe is wearing a luxurious {argument name=\"outfit\" default=\"avant-garde white textured cape/poncho made of thick chunky yarn\"}, black long leather opera gloves, black tights, and black heeled boots. She is holding a brown leather leash in one hand and a small black handbag in the other.\n\nNext to her is a {argument name=\"pet\" default=\"large, beautiful Afghan Hound dog with long flowing silky fur\"} in shades of beige, gold, and dark brown/gray, wearing a small gold collar, walking beside her.\n\nThe composition is cinematic and editorial, with soft dramatic lighting. Large elegant text at the top reads \"VOGUE\" in cream color with \"HONG KONG\" underneath. Date \"AUGUST 2025\" on the right. Bottom text in elegant serif font: \"FALLING FOR EMILY BLUNT\" and smaller credit \"BY DOMEN & VAN DE VELDE\".\n\nPhotorealistic, high resolution, fashion photography style like Annie Leibovitz or Mario Testino, sharp details, luxurious atmosphere.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张高级时尚的 Vogue 杂志封面照片，2025 年 8 月刊，Vogue 香港版。\n\n{argument name=\"subject\" default=\"Emily Blunt，化身为一位迷人优雅的女性\"}，留着齐肩直发铂金金色短发，妆容夸张，站在现代极简主义室内空间中，背景为金属反光墙面和红棕色地毯。\n\n她身着奢华的 {argument name=\"outfit\" default=\"由粗毛线编织而成的前卫白色纹理斗篷/披风\"}，佩戴黑色长款皮质歌剧手套，穿着黑色连裤袜和黑色高跟靴。她一手牵着棕色皮质狗绳，另一手拿着一个小巧的黑色手提包。\n\n她身旁是一只 {argument name=\"pet\" default=\"体型硕大、外形优美的阿富汗猎犬，拥有飘逸丝滑的长毛\"}，毛色呈米色、金色和深棕/灰色，戴着精致的金项圈，正伴随她行走。\n\n构图具有电影质感和编辑风格，光影柔和且富有戏剧性。顶部印有优雅的“VOGUE”大字，呈奶油色，下方标注“HONG KONG”。右侧标注日期“AUGUST 2025”。底部文字采用优雅的衬线字体：“FALLING FOR EMILY BLUNT”，下方较小的制作人员名单：“BY DOMEN & VAN DE VELDE”。\n\n照片级写实，高分辨率，Annie Leibovitz 或 Mario Testino 风格的时尚摄影，细节锐利，氛围奢华。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Una fotografía de portada de revista de alta costura para Vogue, edición de agosto de 2025, Vogue Hong Kong. \n\n{argument name=\"subject\" default=\"Emily Blunt como una mujer glamurosa y elegante\"} con cabello rubio platino lacio hasta los hombros, usando un maquillaje dramático, de pie en un interior minimalista moderno con paredes metálicas reflectantes y una alfombra de color marrón rojizo.\n\nLleva puesto un lujoso {argument name=\"outfit\" default=\"poncho/capa vanguardista de textura blanca hecho de hilo grueso\"}, guantes largos de ópera de cuero negro, medias negras y botas negras de tacón. Sostiene una correa de cuero marrón en una mano y un pequeño bolso negro en la otra.\n\nJunto a ella hay un {argument name=\"pet\" default=\"lebrel afgano grande y hermoso con pelaje largo, sedoso y fluido\"} en tonos beige, dorado y marrón oscuro/gris, que lleva un pequeño collar dorado y camina a su lado.\n\nLa composición es cinematográfica y editorial, con una iluminación suave y dramática. El texto grande y elegante en la parte superior dice \"VOGUE\" en color crema con \"HONG KONG\" debajo. La fecha \"AUGUST 2025\" a la derecha. Texto inferior en una elegante fuente serif: \"FALLING FOR EMILY BLUNT\" y un crédito más pequeño: \"BY DOMEN & VAN DE VELDE\".\n\nFotorrealista, alta resolución, estilo de fotografía de moda al estilo de Annie Leibovitz o Mario Testino, detalles nítidos, atmósfera lujosa.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ein High-Fashion-Magazin-Cover der Vogue, Ausgabe August 2025, Vogue Hong Kong. \n\n{argument name=\"subject\" default=\"Emily Blunt als glamouröse, elegante Frau\"} mit schulterlangem, glattem, platinblondem Haar, dramatischem Make-up, stehend in einem modernen, minimalistischen Interieur mit metallisch reflektierenden Wänden und einem rotbraunen Teppichboden. \n\nSie trägt ein luxuriöses {argument name=\"outfit\" default=\"avantgardistisches, weißes, strukturiertes Cape/Poncho aus dickem, grobem Garn\"}, lange schwarze Leder-Opernhandschuhe, eine schwarze Strumpfhose und schwarze Stiefel mit Absatz. In der einen Hand hält sie eine braune Lederleine, in der anderen eine kleine schwarze Handtasche. \n\nNeben ihr läuft ein {argument name=\"pet\" default=\"großer, wunderschöner Afghanischer Windhund mit langem, fließendem, seidigem Fell\"} in Beige-, Gold- und Dunkelbraun-/Grautönen, der ein kleines goldenes Halsband trägt. \n\nDie Komposition ist filmisch und editorial, mit weicher, dramatischer Beleuchtung. Großer, eleganter Text am oberen Rand: „VOGUE“ in Cremefarbe, darunter „HONG KONG“. Datum „AUGUST 2025“ auf der rechten Seite. Text am unteren Rand in eleganter Serifenschrift: „FALLING FOR EMILY BLUNT“ und kleinerer Credit „BY DOMEN & VAN DE VELDE“. \n\nFotorealistisch, hohe Auflösung, Modefotografie-Stil wie bei Annie Leibovitz oder Mario Testino, scharfe Details, luxuriöse Atmosphäre.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Une photographie de couverture de magazine de haute couture Vogue, numéro d'août 2025, Vogue Hong Kong. \n\n{argument name=\"subject\" default=\"Emily Blunt en femme glamour et élégante\"} avec des cheveux blond platine lisses arrivant aux épaules, portant un maquillage spectaculaire, debout dans un intérieur minimaliste moderne avec des murs métalliques réfléchissants et un tapis brun rougeâtre au sol. \n\nElle porte une luxueuse {argument name=\"outfit\" default=\"cape/poncho avant-gardiste à texture blanche en grosse laine épaisse\"}, de longs gants d'opéra en cuir noir, des collants noirs et des bottes à talons noires. Elle tient une laisse en cuir marron dans une main et un petit sac à main noir dans l'autre.\n\nÀ ses côtés se trouve un {argument name=\"pet\" default=\"grand et magnifique lévrier afghan au pelage long, soyeux et fluide\"} dans des tons beige, or et brun foncé/gris, portant un petit collier doré, marchant à ses côtés.\n\nLa composition est cinématographique et éditoriale, avec un éclairage doux et dramatique. Un grand texte élégant en haut indique \"VOGUE\" en couleur crème avec \"HONG KONG\" en dessous. Date \"AUGUST 2025\" sur la droite. Texte en bas dans une élégante police serif : \"FALLING FOR EMILY BLUNT\" et un crédit plus petit \"BY DOMEN & VAN DE VELDE\".\n\nPhotoréaliste, haute résolution, style photographie de mode à la Annie Leibovitz ou Mario Testino, détails nets, atmosphère luxueuse.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Una fotografia di copertina di alta moda per la rivista Vogue, numero di agosto 2025, Vogue Hong Kong.\n\n{argument name=\"subject\" default=\"Emily Blunt come una donna glamour ed elegante\"} con capelli biondo platino lisci alle spalle, trucco drammatico, in piedi in un interno minimalista moderno con pareti metalliche riflettenti e un pavimento in moquette color bruno-rossastro.\n\nIndossa un lussuoso {argument name=\"outfit\" default=\"mantello/poncho avanguardista bianco testurizzato realizzato in filato spesso e voluminoso\"}, lunghi guanti da opera in pelle nera, collant neri e stivali neri con tacco. Tiene un guinzaglio in pelle marrone in una mano e una piccola borsa nera nell'altra.\n\nAccanto a lei c'è un {argument name=\"pet\" default=\"grande e bellissimo levriero afgano con un lungo pelo setoso e fluente\"} nelle tonalità del beige, oro e marrone scuro/grigio, che indossa un piccolo collare d'oro e cammina al suo fianco.\n\nLa composizione è cinematografica ed editoriale, con un'illuminazione morbida e drammatica. In alto, un grande ed elegante testo recita \"VOGUE\" in color crema con \"HONG KONG\" sottostante. Data \"AUGUST 2025\" sulla destra. Testo in basso in un elegante carattere serif: \"FALLING FOR EMILY BLUNT\" e un credito più piccolo \"BY DOMEN & VAN DE VELDE\".\n\nFotorealistico, alta risoluzione, stile di fotografia di moda alla Annie Leibovitz o Mario Testino, dettagli nitidi, atmosfera lussuosa.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Uma fotografia de capa de revista Vogue de alta costura, edição de agosto de 2025, Vogue Hong Kong.\n\n{argument name=\"subject\" default=\"Emily Blunt como uma mulher elegante e glamorosa\"} com cabelo loiro platinado liso na altura dos ombros, usando maquiagem dramática, em pé em um interior minimalista moderno com paredes metálicas reflexivas e um piso de carpete marrom-avermelhado.\n\nEla está vestindo uma luxuosa {argument name=\"outfit\" default=\"capa/poncho vanguardista de textura branca feita de fios grossos\"}, luvas de ópera longas de couro preto, meia-calça preta e botas pretas de salto. Ela segura uma guia de couro marrom em uma mão e uma pequena bolsa preta na outra.\n\nAo lado dela está um {argument name=\"pet\" default=\"Galgo Afegão grande e lindo, com pelos longos, sedosos e fluidos\"} em tons de bege, dourado e marrom escuro/cinza, usando uma pequena coleira dourada, caminhando ao lado dela.\n\nA composição é cinematográfica e editorial, com iluminação suave e dramática. Um texto grande e elegante no topo diz \"VOGUE\" na cor creme, com \"HONG KONG\" logo abaixo. Data \"AUGUST 2025\" à direita. Texto inferior em fonte serifada elegante: \"FALLING FOR EMILY BLUNT\" e um crédito menor \"BY DOMEN & VAN DE VELDE\".\n\nFotorrealista, alta resolução, estilo de fotografia de moda como Annie Leibovitz ou Mario Testino, detalhes nítidos, atmosfera luxuosa.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Vogue Cover with Emily Blunt",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Emily Blunt 登上 Vogue 封面",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Portada de Vogue con Emily Blunt",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Vogue-Cover mit Emily Blunt",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Couverture de Vogue avec Emily Blunt",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Copertina di Vogue con Emily Blunt",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Capa da Vogue com Emily Blunt",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A photorealistic fashion photography prompt for a magazine cover featuring Emily Blunt and an Afghan Hound in an avant-garde style.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个写实风格的时尚摄影提示词，旨在创作一张由 Emily Blunt 与阿富汗猎犬出镜的前卫风格杂志封面。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de photographie de mode photoréaliste pour une couverture de magazine mettant en vedette Emily Blunt et un lévrier afghan dans un style avant-gardiste.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/jzaib4269/status/2051329726577295423",
+      "originalId": "https://x.com/jzaib4269/status/2051329726577295423",
+      "authors": [
+        {
+          "name": "Jahan Zaib",
+          "url": "https://x.com/jzaib4269"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3907
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8b73063e6524c155",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971015480_uqed5q_HHfJeu-XIAAUFfH.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971015480_uqed5q_HHfJeu-XIAAUFfH.jpg",
+      "localPath": "public/assets/prompt_cb6ce89a7439f8ed3e6a/d8e3379e21d0.jpg",
+      "alt": "Product Marketing - Vogue Cover with Emily Blunt - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.868Z"
+  }
+}

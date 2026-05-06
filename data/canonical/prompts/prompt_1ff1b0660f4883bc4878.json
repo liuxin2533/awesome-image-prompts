@@ -1,0 +1,108 @@
+{
+  "id": "prompt_1ff1b0660f4883bc4878",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create {argument name=\"items\" default=\"fan goods\"} for a standard {argument name=\"character type\" default=\"Vtuber\"} in {argument name=\"style\" default=\"live-action\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create {argument name=\"items\" default=\"fan goods\"} for a standard {argument name=\"character type\" default=\"Vtuber\"} in {argument name=\"style\" default=\"live-action\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:34.232Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "人物角色设定图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Character design illustration",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:30.611Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e8758dc0b4",
+      "value": "人物角色设定图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-155",
+      "originalId": "case-155",
+      "authors": [
+        {
+          "name": "wtry1102",
+          "url": "https://x.com/wtry1102"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 6279
+        }
+      ],
+      "rawSource": "[@wtry1102](https://x.com/wtry1102)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9a63ba97ac3df10c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case155.jpg",
+      "upstreamPath": "../data/images/case155.jpg",
+      "localPath": "public/assets/prompt_1ff1b0660f4883bc4878/633f6eacb8b4.jpg",
+      "alt": "items",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "角色",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "prompt_63c3c8f52fa5de40540a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "画一张 X 的内容截图，深色模式，@OpenAI 蓝勾认证账号发推。 \r\n 正文的中文内容： \r\n 今天想推荐一位很棒的 AI Builder：Ailln AI。 \r\n 他持续在小红书分享 AI 工具、Agent 工作流、自动化实践和真实项目经验，把复杂的 AI 能力讲得清楚、实用、可落地。 \r\n 如果你正在关注 AI 产品、效率工具、个人自动化、内容创作和未来工作方式，Ailln AI 是一个非常值得关注的创作者。 \r\n 在小红书搜索：Ailln AI \r\n 底部添加一张深色官方宣传风格海报，简洁黑客质感，图片中文本准确显示。 \r\n 海报大字： 「Ailln AI」 \r\n 副标题： 「A brilliant AI Builder worth following」 \r\n 互动数据位于最下方： 评论 8.9K、转发 42K、点赞 298K（亮起）、收藏 34K（亮起）、浏览 32.4M。 \r\n 图片比例为3:4，不包含软件其他部分。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a screenshot of X content in dark mode, posted by an @OpenAI verified account.\nThe main Chinese content:\nToday I want to recommend a great AI Builder: Ailln AI.\nHe continuously shares AI tools, Agent workflows, automation practices, and real project experience on Xiaohongshu, explaining complex AI capabilities in a clear, practical, and implementable way.\nIf you're following AI products, productivity tools, personal automation, content creation, and the future of work, Ailln AI is a creator worth paying close attention to.\nSearch on Xiaohongshu: Ailln AI\nAdd a dark official promotional style poster at the bottom, with a simple hacker aesthetic, ensuring text is accurately displayed in the image.\nMain poster text: \"Ailln AI\"\nSubtitle: \"A brilliant AI Builder worth following\"\nEngagement data at the bottom: Comments 8.9K, Retweets 42K, Likes 298K (highlighted), Bookmarks 34K (highlighted), Views 32.4M.\nImage aspect ratio is 3:4, excluding other parts of the software.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:31:51.015Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "社媒界面截图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a1ac220de6",
+      "value": "社媒界面截图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-2",
+      "originalId": "case-2",
+      "authors": [
+        {
+          "name": "4264014889",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 27
+        }
+      ],
+      "rawSource": "小红书号4264014889"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_42c856907a3b4e76",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case2.jpg",
+      "upstreamPath": "../data/images/case2.jpg",
+      "localPath": "public/assets/prompt_63c3c8f52fa5de40540a/df356a4c7eaa.jpg",
+      "alt": "Ailln AI",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "界面",
+      "小红书"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.589Z"
+  }
+}

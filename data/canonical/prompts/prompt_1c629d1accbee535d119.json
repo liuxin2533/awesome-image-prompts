@@ -1,0 +1,109 @@
+{
+  "id": "prompt_1c629d1accbee535d119",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"brand identity system presentation board\",\r\n  \"header\": {\r\n    \"title\": \"品牌视觉识别系统 BRAND IDENTITY SYSTEM\",\r\n    \"slogan\": \"爱它·懂它·陪伴它\"\r\n  },\r\n  \"main_logo\": {\r\n    \"text\": \"{argument name=\\\"brand name\\\" default=\\\"GDX\\\"}\",\r\n    \"subtitle\": \"{argument name=\\\"brand chinese name\\\" default=\\\"狗东西\\\"}\",\r\n    \"design_feature\": \"{argument name=\\\"main subject\\\" default=\\\"Dog profile in negative space of the letter D\\\"}\",\r\n    \"metadata\": [\r\n      \"品牌名称\",\r\n      \"行业属性 {argument name=\\\"industry\\\" default=\\\"宠物行业\\\"}\",\r\n      \"设计时间 2024.05\"\r\n    ]\r\n  },\r\n  \"layout\": {\r\n    \"sections\": [\r\n      {\r\n        \"title\": \"设计网格\",\r\n        \"count\": 1,\r\n        \"description\": \"Logo with architectural grid lines and golden ratio measurements\"\r\n      },\r\n      {\r\n        \"title\": \"概念草图\",\r\n        \"count\": 4,\r\n        \"description\": \"Evolution steps from rough dog sketch to final geometric logo\"\r\n      },\r\n      {\r\n        \"title\": \"灵感来源\",\r\n        \"count\": 4,\r\n        \"description\": \"Moodboard images including minimalist architecture, a golden retriever, and dark green geometric shapes\"\r\n      },\r\n      {\r\n        \"title\": \"创意理念\",\r\n        \"count\": 4,\r\n        \"description\": \"Text blocks with minimalist icons explaining design philosophy, positioning, color psychology, and scalability\"\r\n      },\r\n      {\r\n        \"title\": \"品牌应用\",\r\n        \"count\": 6,\r\n        \"labels\": [\r\n          \"名片 正反面\",\r\n          \"信纸信封\",\r\n          \"APP图标\",\r\n          \"网站页眉 / 网站图标\",\r\n          \"产品包装 / 购物袋\",\r\n          \"店面门头 / 标识牌\"\r\n        ],\r\n        \"description\": \"Mockups of business cards, envelopes, app icons, website header with a dog, paper shopping bags, and a storefront sign\"\r\n      },\r\n      {\r\n        \"title\": \"色彩规范\",\r\n        \"count\": 5,\r\n        \"labels\": [\r\n          \"主色\",\r\n          \"辅助色\",\r\n          \"强调色\"\r\n        ],\r\n        \"colors\": [\r\n          \"{argument name=\\\"primary color\\\" default=\\\"#1E3D34\\\"}\",\r\n          \"#F5F3EF\",\r\n          \"#E5E2DD\",\r\n          \"#A8C5B1\",\r\n          \"#E0A86E\"\r\n        ]\r\n      },\r\n      {\r\n        \"title\": \"字体规范\",\r\n        \"count\": 2,\r\n        \"labels\": [\r\n          \"思源黑体 CN\",\r\n          \"思源柔黑体 CN\"\r\n        ],\r\n        \"description\": \"Typography specimens showing 'Aa', alphabet, and numbers\"\r\n      },\r\n      {\r\n        \"title\": \"最小使用尺寸\",\r\n        \"count\": 2,\r\n        \"description\": \"Minimum logo size specifications at 20mm and 12mm\"\r\n      },\r\n      {\r\n        \"title\": \"安全留白区域\",\r\n        \"count\": 1,\r\n        \"description\": \"Logo surrounded by a bounding box with 'X' indicating clear space margins\"\r\n      },\r\n      {\r\n        \"title\": \"错误使用示例\",\r\n        \"count\": 5,\r\n        \"labels\": [\r\n          \"不可拉伸变形\",\r\n          \"不可改变颜色\",\r\n          \"不可添加阴影\",\r\n          \"不可倾斜使用\",\r\n          \"不可复杂背景上使用\"\r\n        ],\r\n        \"description\": \"Examples of incorrect logo usage: stretched, wrong color, drop shadow, tilted, and placed on a busy photographic background\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"brand identity system presentation board\",\n  \"header\": {\n    \"title\": \"Brand Identity System\",\n    \"slogan\": \"Love it · Understand it · Accompany it\"\n  },\n  \"main_logo\": {\n    \"text\": \"{argument name=\\\"brand name\\\" default=\\\"GDX\\\"}\",\n    \"subtitle\": \"{argument name=\\\"brand chinese name\\\" default=\\\"Gou Dongxi\\\"}\",\n    \"design_feature\": \"{argument name=\\\"main subject\\\" default=\\\"Dog profile in negative space of the letter D\\\"}\",\n    \"metadata\": [\n      \"Brand Name\",\n      \"Industry Attribute {argument name=\\\"industry\\\" default=\\\"Pet Industry\\\"}\",\n      \"Design Date 2024.05\"\n    ]\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Design Grid\",\n        \"count\": 1,\n        \"description\": \"Logo with architectural grid lines and golden ratio measurements\"\n      },\n      {\n        \"title\": \"Concept Sketches\",\n        \"count\": 4,\n        \"description\": \"Evolution steps from rough dog sketch to final geometric logo\"\n      },\n      {\n        \"title\": \"Inspiration Sources\",\n        \"count\": 4,\n        \"description\": \"Moodboard images including minimalist architecture, a golden retriever, and dark green geometric shapes\"\n      },\n      {\n        \"title\": \"Creative Concepts\",\n        \"count\": 4,\n        \"description\": \"Text blocks with minimalist icons explaining design philosophy, positioning, color psychology, and scalability\"\n      },\n      {\n        \"title\": \"Brand Applications\",\n        \"count\": 6,\n        \"labels\": [\n          \"Business Cards (Front & Back)\",\n          \"Letterhead & Envelopes\",\n          \"App Icons\",\n          \"Website Header / Website Icon\",\n          \"Product Packaging / Shopping Bags\",\n          \"Storefront Signage / Signage\"\n        ],\n        \"description\": \"Mockups of business cards, envelopes, app icons, website header with a dog, paper shopping bags, and a storefront sign\"\n      },\n      {\n        \"title\": \"Color Specifications\",\n        \"count\": 5,\n        \"labels\": [\n          \"Primary Color\",\n          \"Secondary Colors\",\n          \"Accent Color\"\n        ],\n        \"colors\": [\n          \"{argument name=\\\"primary color\\\" default=\\\"#1E3D34\\\"}\",\n          \"#F5F3EF\",\n          \"#E5E2DD\",\n          \"#A8C5B1\",\n          \"#E0A86E\"\n        ]\n      },\n      {\n        \"title\": \"Typography Specifications\",\n        \"count\": 2,\n        \"labels\": [\n          \"Source Han Sans CN\",\n          \"Source Han Serif CN\"\n        ],\n        \"description\": \"Typography specimens showing 'Aa', alphabet, and numbers\"\n      },\n      {\n        \"title\": \"Minimum Usage Size\",\n        \"count\": 2,\n        \"description\": \"Minimum logo size specifications at 20mm and 12mm\"\n      },\n      {\n        \"title\": \"Safe Space Area\",\n        \"count\": 1,\n        \"description\": \"Logo surrounded by a bounding box with 'X' indicating clear space margins\"\n      },\n      {\n        \"title\": \"Incorrect Usage Examples\",\n        \"count\": 5,\n        \"labels\": [\n          \"Do not stretch or distort\",\n          \"Do not change colors\",\n          \"Do not add shadows\",\n          \"Do not tilt or rotate\",\n          \"Do not use on complex backgrounds\"\n        ],\n        \"description\": \"Examples of incorrect logo usage: stretched, wrong color, drop shadow, tilted, and placed on a busy photographic background\"\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:55:49.569Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "UI Interaction Design Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:55:42.120Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-133",
+      "originalId": "case-133",
+      "authors": [
+        {
+          "name": "yyyole",
+          "url": "https://x.com/yyyole"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5251
+        }
+      ],
+      "rawSource": "[@yyyole](https://x.com/yyyole)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fa1153070f59a317",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case133.jpg",
+      "upstreamPath": "../data/images/case133.jpg",
+      "localPath": "public/assets/prompt_1c629d1accbee535d119/8b981ce35f6f.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "identity",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

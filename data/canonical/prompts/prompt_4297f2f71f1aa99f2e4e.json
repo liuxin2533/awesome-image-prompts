@@ -1,0 +1,213 @@
+{
+  "id": "prompt_4297f2f71f1aa99f2e4e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Premium commercial advertisement featuring a {argument name=\"subject\" default=\"young woman\"} (keep face identical to reference), natural makeup, glowing skin, expressive eyes, holding the main product (replace: {argument name=\"product\" default=\"coffee / ice cream / burger / etc.\"}) in a visually appealing way.\nScene styled according to brand mood:\nLuxury: dark tones, gold accents, cinematic lighting\nFun: colorful pastel background, playful doodles, bright lighting\nBold: high contrast, fire/splash effects, dynamic energy\nProduct in sharp focus with ultra-detailed textures (steam / melting / juicy / glossy effects depending on product). Background softly blurred with bokeh or thematic elements.\nLighting: cinematic, soft highlights + rim light, depth and glow.\nComposition: close-up portrait, product in foreground, centered subject.\nStyle: ultra-realistic, high-end commercial ad, cinematic color grading, 8K, sharp focus, glossy finish, social media ready.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端商业广告，主角为 {argument name=\"subject\" default=\"年轻女性\"}（保持面部与参考图一致），自然妆容，皮肤光泽，眼神生动，以极具吸引力的方式手持主打产品（替换：{argument name=\"product\" default=\"咖啡 / 冰淇淋 / 汉堡等\"}）。\n场景风格根据品牌调性定制：\n奢华风：深色调，金色点缀，电影级布光\n趣味风：彩色柔和背景，俏皮涂鸦，明亮光线\n大胆风：高对比度，火焰/飞溅效果，充满动感\n产品焦点清晰，呈现超精细纹理（根据产品呈现蒸汽/融化/多汁/光泽效果）。背景采用虚化处理，营造焦外成像或主题元素氛围。\n布光：电影级，柔和高光 + 轮廓光，富有深度和光泽感。\n构图：特写人像，产品位于前景，主体居中。\n风格：超写实，高端商业广告，电影级调色，8K 分辨率，焦点清晰，光泽质感，适合社交媒体发布。",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ภาพโฆษณาเชิงพาณิชย์ระดับพรีเมียม นำเสนอ {argument name=\"subject\" default=\"หญิงสาว\"} (รักษาใบหน้าให้เหมือนภาพอ้างอิง) แต่งหน้าลุคธรรมชาติ ผิวฉ่ำวาว ดวงตาดูมีชีวิตชีวา กำลังถือสินค้าหลัก (แทนที่ด้วย: {argument name=\"product\" default=\"กาแฟ / ไอศกรีม / เบอร์เกอร์ / อื่นๆ\"}) ในท่าทางที่ดูน่าดึงดูด\nจัดฉากตามอารมณ์ของแบรนด์:\nหรูหรา: โทนสีเข้ม ตัดด้วยสีทอง แสงแบบภาพยนตร์\nสนุกสนาน: พื้นหลังสีพาสเทลสดใส ลายเส้นขี้เล่น แสงสว่างจ้า\nโดดเด่น: คอนทราสต์สูง เอฟเฟกต์ไฟ/น้ำกระเซ็น พลังงานที่ดูเคลื่อนไหว\nสินค้าอยู่ในโฟกัสที่คมชัดพร้อมรายละเอียดพื้นผิวที่สมจริง (เอฟเฟกต์ควัน / การละลาย / ความฉ่ำ / ความเงางาม ขึ้นอยู่กับสินค้า) พื้นหลังเบลออย่างนุ่มนวลด้วยเอฟเฟกต์โบเก้หรือองค์ประกอบตามธีม\nแสง: แบบภาพยนตร์ ไฮไลท์นุ่มนวล + แสงขอบ (rim light) เพิ่มมิติและความเปล่งประกาย\nองค์ประกอบภาพ: พอร์ตเทรตระยะใกล้ สินค้าอยู่ด้านหน้า ตัวแบบอยู่ตรงกลาง\nสไตล์: สมจริงระดับอัลตร้า โฆษณาคุณภาพสูง การปรับโทนสีแบบภาพยนตร์ 8K โฟกัสคมชัด ผิวสัมผัสเงางาม พร้อมสำหรับลงโซเชียลมีเดีย",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Anuncio comercial premium que presenta a una {argument name=\"subject\" default=\"mujer joven\"} (mantener el rostro idéntico a la referencia), maquillaje natural, piel radiante, ojos expresivos, sosteniendo el producto principal (reemplazar: {argument name=\"product\" default=\"café / helado / hamburguesa / etc.\"}) de una manera visualmente atractiva.\nEscena diseñada según el estilo de la marca:\nLujo: tonos oscuros, detalles dorados, iluminación cinematográfica\nDivertido: fondo de colores pastel, garabatos lúdicos, iluminación brillante\nAudaz: alto contraste, efectos de fuego/salpicaduras, energía dinámica\nProducto en enfoque nítido con texturas ultra detalladas (efectos de vapor / derretido / jugoso / brillante según el producto). Fondo suavemente desenfocado con bokeh o elementos temáticos.\nIluminación: cinematográfica, reflejos suaves + luz de contorno, profundidad y brillo.\nComposición: retrato en primer plano, producto en primer plano, sujeto centrado.\nEstilo: ultra realista, anuncio comercial de alta gama, gradación de color cinematográfica, 8K, enfoque nítido, acabado brillante, listo para redes sociales.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Hochwertige kommerzielle Werbeanzeige mit einer {argument name=\"subject\" default=\"jungen Frau\"} (Gesicht identisch mit Referenz beibehalten), natürlichem Make-up, strahlender Haut, ausdrucksstarken Augen, die das Hauptprodukt (ersetzen durch: {argument name=\"product\" default=\"Kaffee / Eis / Burger / etc.\"}) auf visuell ansprechende Weise hält.\nSzene gestaltet nach Marken-Mood:\nLuxuriös: dunkle Töne, goldene Akzente, filmische Beleuchtung\nSpaßig: bunter Pastellhintergrund, verspielte Kritzeleien, helle Beleuchtung\nMutig: hoher Kontrast, Feuer-/Spritz-Effekte, dynamische Energie\nProdukt im scharfen Fokus mit ultra-detaillierten Texturen (Dampf / Schmelz- / Saftigkeits- / Glanzeffekte je nach Produkt). Hintergrund sanft unscharf mit Bokeh oder thematischen Elementen.\nBeleuchtung: filmisch, sanfte Highlights + Rim-Light, Tiefe und Glanz.\nKomposition: Nahaufnahme-Porträt, Produkt im Vordergrund, zentriertes Motiv.\nStil: ultra-realistisch, High-End-Werbeanzeige, filmisches Color Grading, 8K, scharfer Fokus, glänzendes Finish, bereit für soziale Medien.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publicité commerciale premium mettant en vedette une {argument name=\"subject\" default=\"jeune femme\"} (garder le visage identique à la référence), maquillage naturel, peau éclatante, regard expressif, tenant le produit principal (remplacer : {argument name=\"product\" default=\"café / glace / burger / etc.\"}) de manière visuellement attrayante.\nScène stylisée selon l'ambiance de la marque :\nLuxe : tons sombres, accents dorés, éclairage cinématographique\nFun : arrière-plan pastel coloré, gribouillages ludiques, éclairage lumineux\nAudacieux : contraste élevé, effets de feu/éclaboussures, énergie dynamique\nProduit avec une mise au point nette et des textures ultra-détaillées (effets de vapeur / fonte / juteux / brillant selon le produit). Arrière-plan légèrement flouté avec bokeh ou éléments thématiques.\nÉclairage : cinématographique, reflets doux + lumière de contour, profondeur et éclat.\nComposition : portrait en gros plan, produit au premier plan, sujet centré.\nStyle : ultra-réaliste, publicité commerciale haut de gamme, étalonnage cinématographique, 8K, mise au point nette, finition brillante, prêt pour les réseaux sociaux.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Pubblicità commerciale premium con {argument name=\"subject\" default=\"giovane donna\"} (mantenere il volto identico al riferimento), trucco naturale, pelle luminosa, occhi espressivi, che tiene in mano il prodotto principale (sostituire: {argument name=\"product\" default=\"caffè / gelato / hamburger / ecc.\"}) in modo visivamente accattivante.\nScena stilizzata in base all'atmosfera del brand:\nLusso: toni scuri, accenti dorati, illuminazione cinematografica\nDivertente: sfondo color pastello, scarabocchi giocosi, illuminazione brillante\nAudace: contrasto elevato, effetti fuoco/schizzi, energia dinamica\nProdotto a fuoco nitido con texture ultra-dettagliate (effetti vapore / scioglimento / succoso / lucido a seconda del prodotto). Sfondo leggermente sfocato con bokeh o elementi tematici.\nIlluminazione: cinematografica, luci soffuse + luce di contorno, profondità e bagliore.\nComposizione: ritratto in primo piano, prodotto in primo piano, soggetto centrato.\nStile: ultra-realistico, pubblicità commerciale di fascia alta, color grading cinematografico, 8K, messa a fuoco nitida, finitura lucida, pronto per i social media.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Anúncio comercial premium apresentando uma {argument name=\"subject\" default=\"jovem mulher\"} (mantenha o rosto idêntico à referência), maquiagem natural, pele radiante, olhos expressivos, segurando o produto principal (substitua: {argument name=\"product\" default=\"café / sorvete / hambúrguer / etc.\"}) de uma forma visualmente atraente.\nCena estilizada de acordo com o clima da marca:\nLuxo: tons escuros, detalhes em dourado, iluminação cinematográfica\nDiversão: fundo em tons pastéis, desenhos lúdicos, iluminação brilhante\nOusado: alto contraste, efeitos de fogo/respingos, energia dinâmica\nProduto em foco nítido com texturas ultra detalhadas (efeitos de vapor / derretimento / suculência / brilho, dependendo do produto). Fundo suavemente desfocado com bokeh ou elementos temáticos.\nIluminação: cinematográfica, destaques suaves + luz de contorno, profundidade e brilho.\nComposição: retrato em close-up, produto em primeiro plano, sujeito centralizado.\nEstilo: ultra-realista, anúncio comercial de alto padrão, gradação de cor cinematográfica, 8K, foco nítido, acabamento brilhante, pronto para redes sociais.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Commercial Product Ad Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 商业广告人像",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพพอร์ตเทรตโฆษณาสินค้าเชิงพาณิชย์",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Retrato publicitario para productos comerciales",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Porträt für kommerzielle Produktwerbung",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Portrait publicitaire commercial",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Ritratto pubblicitario per prodotti commerciali",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Retrato de Anúncio de Produto Comercial",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A versatile prompt for commercial advertisements that keeps the subject's face consistent while allowing for product and scene mood customization.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一款通用的商业广告提示词，可在保持主体面部一致的同时，自定义产品和场景氛围。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt polyvalent pour les publicités commerciales qui maintient la cohérence du visage du sujet tout en permettant de personnaliser le produit et l'ambiance de la scène.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/miratechtool/status/2050157494937288850",
+      "originalId": "https://x.com/miratechtool/status/2050157494937288850",
+      "authors": [
+        {
+          "name": "Mira",
+          "url": "https://x.com/miratechtool"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4683
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_00db654589e983e8",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711028339_uukoxy_HHOfYDdWYAA6oJE.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711028339_uukoxy_HHOfYDdWYAA6oJE.jpg",
+      "localPath": "public/assets/prompt_4297f2f71f1aa99f2e4e/4f1ee1b3a53b.jpg",
+      "alt": "E-commerce Main Image - Commercial Product Ad Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_7636caad8c0e9605",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711028351_98vyko_HHOfYEeWgAAW3pS.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711028351_98vyko_HHOfYEeWgAAW3pS.jpg",
+      "localPath": "public/assets/prompt_4297f2f71f1aa99f2e4e/3c7d5b0b88e0.jpg",
+      "alt": "E-commerce Main Image - Commercial Product Ad Portrait - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_31a497498001ad71",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711028459_wavf80_HHOfYEyXEAAHT1s.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711028459_wavf80_HHOfYEyXEAAHT1s.jpg",
+      "localPath": "public/assets/prompt_4297f2f71f1aa99f2e4e/a101f6dea09c.jpg",
+      "alt": "E-commerce Main Image - Commercial Product Ad Portrait - Image 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_d70db4adcbd7e170",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777711029217_hucqqo_HHOfYGuXoAANnBN.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777711029217_hucqqo_HHOfYGuXoAANnBN.jpg",
+      "localPath": "public/assets/prompt_4297f2f71f1aa99f2e4e/7101e9af7256.jpg",
+      "alt": "E-commerce Main Image - Commercial Product Ad Portrait - Image 4",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-30T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.878Z"
+  }
+}

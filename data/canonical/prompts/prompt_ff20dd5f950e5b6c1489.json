@@ -1,0 +1,175 @@
+{
+  "id": "prompt_ff20dd5f950e5b6c1489",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\n  \"type\": \"illustrated map infographic\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"watercolor and ink hand-drawn illustration on vintage parchment\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"成都\\\"} {argument name=\\\"map title\\\" default=\\\"吃货暴走地图\\\"}\",\n    \"mascot\": \"cartoon red chili pepper wearing sunglasses and giving a thumbs up\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"vine of green leaves and red chili peppers\\\"}\",\n  \"layout\": {\n    \"background\": \"textured beige parchment paper with yellow roads, blue rivers, and green park areas\",\n    \"sections\": [\n      {\n        \"title\": \"landmarks\",\n        \"count\": 6,\n        \"illustrations\": [\"traditional pavilion\", \"traditional monastery\", \"modern skyscraper with climbing panda\", \"tall TV tower\", \"traditional gate\", \"industrial buildings\"],\n        \"labels\": [\"人民公园\", \"文殊院\", \"IFS\", \"339电视塔\", \"宽窄巷子\", \"东郊记忆\"]\n      },\n      {\n        \"title\": \"food_spots\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"dumplings in chili oil\", \"skewers in pot\", \"sticky rice balls\", \"egg baking cake\", \"nine-grid hotpot\", \"sweet potato noodles\", \"cold skewers\", \"spicy mixed dish\", \"covered tea bowl\", \"ice jelly dessert\", \"spicy rabbit heads\"],\n        \"labels\": [\"1 陈麻婆豆腐\", \"2 钟水饺\", \"3 春熙路\", \"4 宽窄巷子·三大炮\", \"5 建设路·叶婆婆蛋烘糕\", \"6 玉林路·小龙坎火锅\", \"7 香香巷·肥肠粉\", \"8 武侯祠大街·钵钵鸡\", \"9 东郊记忆·冒椒火辣\", \"10 人民公园·鹤鸣茶社\", \"11 锦里古街·冰粉\", \"12 双流老妈兔头\"]\n      },\n      {\n        \"title\": \"图例\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"items\": [\"red dot\", \"green house\", \"green tree\", \"blue line\", \"yellow double line\"],\n        \"labels\": [\"美食地点\", \"地标景点\", \"公园绿地\", \"河流湖泊\", \"主要道路\"]\n      }\n    ],\n    \"centerpiece\": \"giant panda sitting and eating bamboo\",\n    \"bottom_right_extras\": [\"vintage compass rose with N, S, E, W\", \"disclaimer text '温馨提示：吃辣需谨慎，肠胃要保护~' with a red chili pepper icon\"]\n  }\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n  \"type\": \"手绘地图信息图\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"复古羊皮纸上的水彩墨水手绘插画\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"成都\\\"} {argument name=\\\"map title\\\" default=\\\"吃货暴走地图\\\"}\",\n    \"mascot\": \"戴着墨镜并竖起大拇指的卡通红辣椒\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"绿叶与红辣椒藤蔓\\\"}\",\n  \"layout\": {\n    \"background\": \"带有黄色道路、蓝色河流和绿色公园区域的纹理米色羊皮纸\",\n    \"sections\": [\n      {\n        \"title\": \"地标建筑\",\n        \"count\": 6,\n        \"illustrations\": [\"传统凉亭\", \"传统寺院\", \"带有攀爬熊猫的现代摩天大楼\", \"高耸的电视塔\", \"传统牌坊\", \"工业建筑\"],\n        \"labels\": [\"人民公园\", \"文殊院\", \"IFS\", \"339电视塔\", \"宽窄巷子\", \"东郊记忆\"]\n      },\n      {\n        \"title\": \"美食地点\",\n        \"count\": 12,\n        \"illustrations\": [\"麻婆豆腐\", \"红油水饺\", \"冷锅串串\", \"三大炮\", \"蛋烘糕\", \"九宫格火锅\", \"肥肠粉\", \"钵钵鸡\", \"冒菜\", \"盖碗茶\", \"冰粉\", \"兔头\"],\n        \"labels\": [\"1 陈麻婆豆腐\", \"2 钟水饺\", \"3 春熙路\", \"4 宽窄巷子·三大炮\", \"5 建设路·叶婆婆蛋烘糕\", \"6 玉林路·小龙坎火锅\", \"7 香香巷·肥肠粉\", \"8 武侯祠大街·钵钵鸡\", \"9 东郊记忆·冒椒火辣\", \"10 人民公园·鹤鸣茶社\", \"11 锦里古街·冰粉\", \"12 双流老妈兔头\"]\n      },\n      {\n        \"title\": \"图例\",\n        \"position\": \"右下角\",\n        \"count\": 5,\n        \"items\": [\"红点\", \"绿色建筑\", \"绿树\", \"蓝线\", \"黄色双线\"],\n        \"labels\": [\"美食地点\", \"地标景点\", \"公园绿地\", \"河流湖泊\", \"主要道路\"]\n      }\n    ],\n    \"centerpiece\": \"坐着吃竹子的大熊猫\",\n    \"bottom_right_extras\": [\"带有东南西北方向的复古罗盘\", \"带有红辣椒图标的免责声明：'温馨提示：吃辣需谨慎，肠胃要保护~'\"]\n  }\n}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\n  \"type\": \"infografía de mapa ilustrado\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"ilustración dibujada a mano con acuarela y tinta sobre pergamino vintage\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"Chengdu\\\"} {argument name=\\\"map title\\\" default=\\\"Mapa gastronómico para foodies\\\"}\",\n    \"mascot\": \"chile rojo de caricatura con lentes de sol y pulgar arriba\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"enredadera de hojas verdes y chiles rojos\\\"}\",\n  \"layout\": {\n    \"background\": \"papel pergamino beige texturizado con calles amarillas, ríos azules y áreas de parques verdes\",\n    \"sections\": [\n      {\n        \"title\": \"puntos de referencia\",\n        \"count\": 6,\n        \"illustrations\": [\"pabellón tradicional\", \"monasterio tradicional\", \"rascacielos moderno con panda trepador\", \"torre de televisión alta\", \"puerta tradicional\", \"edificios industriales\"],\n        \"labels\": [\"Parque del Pueblo\", \"Monasterio Wenshu\", \"IFS\", \"Torre de TV 339\", \"Callejón Kuanzhai\", \"Dongjiao Memory\"]\n      },\n      {\n        \"title\": \"puntos de comida\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"dumplings en aceite de chile\", \"brochetas en olla\", \"bolitas de arroz glutinoso\", \"pastel horneado de huevo\", \"hotpot de nueve cuadrículas\", \"fideos de camote\", \"brochetas frías\", \"plato mixto picante\", \"tazón de té con tapa\", \"postre de gelatina de hielo\", \"cabezas de conejo picantes\"],\n        \"labels\": [\"1 Chen Mapo Tofu\", \"2 Zhong Dumplings\", \"3 Chunxi Road\", \"4 Callejón Kuanzhai · San Da Pao\", \"5 Jianshe Road · Ye Popo Egg Cake\", \"6 Yulin Road · Xiaolongkan Hotpot\", \"7 Xiangxiang Alley · Fideos de intestino\", \"8 Wuhou Shrine Street · Bo Bo Ji\", \"9 Dongjiao Memory · Mao Jiao Huo La\", \"10 Parque del Pueblo · Casa de té Heming\", \"11 Calle antigua Jinli · Bingfen\", \"12 Shuangliu Old Mom Rabbit Head\"]\n      },\n      {\n        \"title\": \"leyenda\",\n        \"position\": \"inferior derecha\",\n        \"count\": 5,\n        \"items\": [\"punto rojo\", \"casa verde\", \"árbol verde\", \"línea azul\", \"línea doble amarilla\"],\n        \"labels\": [\"puntos de comida\", \"puntos de referencia\", \"parques y áreas verdes\", \"ríos y lagos\", \"calles principales\"]\n      }\n    ],\n    \"centerpiece\": \"panda gigante sentado comiendo bambú\",\n    \"bottom_right_extras\": [\"rosa de los vientos vintage con N, S, E, O\", \"texto de descargo de responsabilidad 'Nota: ¡Cuidado con el picante, protege tu estómago!' con un icono de chile rojo\"]\n  }\n}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\n  \"type\": \"illustrierte Infografik-Karte\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"handgezeichnete Aquarell- und Tuscheillustration auf antikem Pergament\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"Chengdu\\\"} {argument name=\\\"map title\\\" default=\\\"Kulinarische Entdeckungsreise\\\"}\",\n    \"mascot\": \"Cartoon-rote Chilischote mit Sonnenbrille, die einen Daumen hoch zeigt\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"Ranken aus grünen Blättern und roten Chilischoten\\\"}\",\n  \"layout\": {\n    \"background\": \"texturiertes beiges Pergamentpapier mit gelben Straßen, blauen Flüssen und grünen Parkanlagen\",\n    \"sections\": [\n      {\n        \"title\": \"Sehenswürdigkeiten\",\n        \"count\": 6,\n        \"illustrations\": [\"traditioneller Pavillon\", \"traditionelles Kloster\", \"moderner Wolkenkratzer mit kletterndem Panda\", \"hoher Fernsehturm\", \"traditionelles Tor\", \"Industriegebäude\"],\n        \"labels\": [\"Renmin-Park\", \"Wenshu-Kloster\", \"IFS\", \"339-Fernsehturm\", \"Kuanzhai-Gassen\", \"Dongjiao-Erinnerungspark\"]\n      },\n      {\n        \"title\": \"Kulinarische Hotspots\",\n        \"count\": 12,\n        \"illustrations\": [\"Mapo-Tofu\", \"Teigtaschen in Chiliöl\", \"Spieße im Topf\", \"Klebreisbällchen\", \"Eierkuchen\", \"Neun-Felder-Hotpot\", \"Süßkartoffel-Nudeln\", \"kalte Spieße\", \"scharfes Mischgericht\", \"Tee in der Schale\", \"Eisgelee-Dessert\", \"scharfe Kaninchenköpfe\"],\n        \"labels\": [\"1 Chen Mapo Tofu\", \"2 Zhong-Teigtaschen\", \"3 Chunxi-Straße\", \"4 Kuanzhai-Gassen · San Da Pao\", \"5 Jianshe-Straße · Ye Popo Eierkuchen\", \"6 Yulin-Straße · Xiaolongkan Hotpot\", \"7 Xiangxiang-Gasse · Schweinedarm-Nudeln\", \"8 Wuhouci-Straße · Bobo-Huhn\", \"9 Dongjiao-Erinnerungspark · Maojiao Huola\", \"10 Renmin-Park · Heming-Teehaus\", \"11 Jinli-Altstadtstraße · Eisgelee\", \"12 Shuangliu Mama-Kaninchenkopf\"]\n      },\n      {\n        \"title\": \"Legende\",\n        \"position\": \"unten rechts\",\n        \"count\": 5,\n        \"items\": [\"roter Punkt\", \"grünes Haus\", \"grüner Baum\", \"blaue Linie\", \"gelbe Doppellinie\"],\n        \"labels\": [\"Kulinarische Orte\", \"Sehenswürdigkeiten\", \"Parkflächen\", \"Flüsse und Seen\", \"Hauptstraßen\"]\n      }\n    ],\n    \"centerpiece\": \"Riesenpanda, der sitzt und Bambus isst\",\n    \"bottom_right_extras\": [\"antike Windrose mit N, S, O, W\", \"Haftungsausschluss 'Hinweis: Vorsicht beim Scharfessen, schone deinen Magen~' mit einem roten Chilischoten-Symbol\"]\n  }\n}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\n  \"type\": \"infographie de carte illustrée\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"illustration dessinée à la main à l'aquarelle et à l'encre sur parchemin vintage\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"Chengdu\\\"} {argument name=\\\"map title\\\" default=\\\"Carte gourmande\\\"}\",\n    \"mascot\": \"piment rouge de dessin animé portant des lunettes de soleil et faisant un pouce levé\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"vigne de feuilles vertes et de piments rouges\\\"}\",\n  \"layout\": {\n    \"background\": \"papier parchemin beige texturé avec des routes jaunes, des rivières bleues et des zones de parcs vertes\",\n    \"sections\": [\n      {\n        \"title\": \"points d'intérêt\",\n        \"count\": 6,\n        \"illustrations\": [\"pavillon traditionnel\", \"monastère traditionnel\", \"gratte-ciel moderne avec panda qui grimpe\", \"haute tour de télévision\", \"porte traditionnelle\", \"bâtiments industriels\"],\n        \"labels\": [\"Parc du Peuple\", \"Monastère de Wenshu\", \"IFS\", \"Tour de télévision 339\", \"Kuanzhai Alley\", \"Dongjiao Memory\"]\n      },\n      {\n        \"title\": \"spots culinaires\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"raviolis à l'huile pimentée\", \"brochettes en pot\", \"boulettes de riz gluant\", \"gâteau aux œufs cuit au four\", \"fondue chinoise à neuf compartiments\", \"nouilles de patate douce\", \"brochettes froides\", \"plat épicé mélangé\", \"bol de thé couvert\", \"dessert à la gelée glacée\", \"têtes de lapin épicées\"],\n        \"labels\": [\"1 Chen Mapo Tofu\", \"2 Raviolis Zhong\", \"3 Chunxi Road\", \"4 Kuanzhai Alley · San Da Pao\", \"5 Jianshe Road · Ye Popo Egg Cake\", \"6 Yulin Road · Fondue Xiaolongkan\", \"7 Xiangxiang Alley · Fen aux intestins\", \"8 Wuhouci Street · Bobo Chicken\", \"9 Dongjiao Memory · Maojiao Huola\", \"10 Parc du Peuple · Salon de thé Heming\", \"11 Rue ancienne de Jinli · Gelée glacée\", \"12 Tête de lapin Shuangliu\"]\n      },\n      {\n        \"title\": \"légende\",\n        \"position\": \"en bas à droite\",\n        \"count\": 5,\n        \"items\": [\"point rouge\", \"maison verte\", \"arbre vert\", \"ligne bleue\", \"double ligne jaune\"],\n        \"labels\": [\"Lieux gastronomiques\", \"Sites touristiques\", \"Parcs et espaces verts\", \"Rivières et lacs\", \"Axes routiers principaux\"]\n      }\n    ],\n    \"centerpiece\": \"panda géant assis en train de manger du bambou\",\n    \"bottom_right_extras\": [\"rose des vents vintage avec N, S, E, O\", \"texte d'avertissement 'Conseil : soyez prudent avec le piment, protégez votre estomac~' avec une icône de piment rouge\"]\n  }\n}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\n  \"type\": \"infografica con mappa illustrata\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"illustrazione disegnata a mano ad acquerello e inchiostro su pergamena vintage\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"Chengdu\\\"} {argument name=\\\"map title\\\" default=\\\"Mappa gastronomica per buongustai\\\"}\",\n    \"mascot\": \"peperoncino rosso dei cartoni animati con occhiali da sole che fa il pollice in su\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"tralcio di foglie verdi e peperoncini rossi\\\"}\",\n  \"layout\": {\n    \"background\": \"carta pergamena beige testurizzata con strade gialle, fiumi blu e aree verdi dei parchi\",\n    \"sections\": [\n      {\n        \"title\": \"punti di riferimento\",\n        \"count\": 6,\n        \"illustrations\": [\"padiglione tradizionale\", \"monastero tradizionale\", \"grattacielo moderno con panda che si arrampica\", \"alta torre TV\", \"porta tradizionale\", \"edifici industriali\"],\n        \"labels\": [\"Parco del Popolo\", \"Monastero di Wenshu\", \"IFS\", \"Torre TV 339\", \"Kuanzhai Xiangzi\", \"Dongjiao Memory\"]\n      },\n      {\n        \"title\": \"punti ristoro\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"ravioli in olio al peperoncino\", \"spiedini in pentola\", \"polpette di riso glutinoso\", \"torta cotta al forno\", \"hotpot a nove griglie\", \"spaghetti di patate dolci\", \"spiedini freddi\", \"piatto misto piccante\", \"tazza da tè con coperchio\", \"dessert di gelatina ghiacciata\", \"teste di coniglio piccanti\"],\n        \"labels\": [\"1 Chen Mapo Tofu\", \"2 Zhong Dumplings\", \"3 Chunxi Road\", \"4 Kuanzhai Xiangzi - San Da Pao\", \"5 Jianshe Road - Ye Popo Egg Cake\", \"6 Yulin Road - Xiaolongkan Hotpot\", \"7 Xiangxiang Alley - Feichang Fen\", \"8 Wuhouci Street - Bobo Ji\", \"9 Dongjiao Memory - Maojiao Huola\", \"10 Parco del Popolo - Heming Tea House\", \"11 Jinli Ancient Street - Bingfen\", \"12 Shuangliu Laoma Rabbit Head\"]\n      },\n      {\n        \"title\": \"legenda\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"items\": [\"punto rosso\", \"casa verde\", \"albero verde\", \"linea blu\", \"doppia linea gialla\"],\n        \"labels\": [\"punti gastronomici\", \"punti di riferimento\", \"parchi e aree verdi\", \"fiumi e laghi\", \"strade principali\"]\n      }\n    ],\n    \"centerpiece\": \"panda gigante seduto che mangia bambù\",\n    \"bottom_right_extras\": [\"rosa dei venti vintage con N, S, E, O\", \"testo di esclusione di responsabilità 'Nota bene: attenzione al piccante, proteggi il tuo stomaco~' con un'icona di peperoncino rosso\"]\n  }\n}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\n  \"type\": \"infográfico de mapa ilustrado\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"ilustração desenhada à mão em aquarela e nanquim sobre pergaminho vintage\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"Chengdu\\\"} {argument name=\\\"map title\\\" default=\\\"Mapa Gastronômico para Exploradores\\\"}\",\n    \"mascot\": \"pimenta vermelha de desenho animado usando óculos escuros e fazendo sinal de positivo\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"videira de folhas verdes e pimentas vermelhas\\\"}\",\n  \"layout\": {\n    \"background\": \"papel pergaminho bege texturizado com estradas amarelas, rios azuis e áreas de parque verdes\",\n    \"sections\": [\n      {\n        \"title\": \"pontos turísticos\",\n        \"count\": 6,\n        \"illustrations\": [\"pavilhão tradicional\", \"mosteiro tradicional\", \"arranha-céu moderno com panda escalando\", \"torre de TV alta\", \"portão tradicional\", \"edifícios industriais\"],\n        \"labels\": [\"Parque do Povo\", \"Mosteiro Wenshu\", \"IFS\", \"Torre de TV 339\", \"Kuanzhai Alley\", \"Dongjiao Memory\"]\n      },\n      {\n        \"title\": \"locais de comida\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"dumplings no óleo de pimenta\", \"espetinhos na panela\", \"bolinhos de arroz glutinoso\", \"bolo de ovo assado\", \"hotpot de nove grelhas\", \"macarrão de batata-doce\", \"espetinhos frios\", \"prato misto apimentado\", \"xícara de chá com tampa\", \"sobremesa de geleia de gelo\", \"cabeças de coelho apimentadas\"],\n        \"labels\": [\"1 Chen Mapo Tofu\", \"2 Zhong Dumplings\", \"3 Chunxi Road\", \"4 Kuanzhai Alley · San Da Pao\", \"5 Jianshe Road · Ye Popo Egg Cake\", \"6 Yulin Road · Xiaolongkan Hotpot\", \"7 Xiangxiang Alley · Feichang Fen\", \"8 Wuhouci Street · Boboji\", \"9 Dongjiao Memory · Maojiao Hula\", \"10 Parque do Povo · Hemin Tea House\", \"11 Rua Antiga Jinli · Bingfen\", \"12 Shuangliu Laoma Rabbit Head\"]\n      },\n      {\n        \"title\": \"legenda\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"items\": [\"ponto vermelho\", \"casa verde\", \"árvore verde\", \"linha azul\", \"linha dupla amarela\"],\n        \"labels\": [\"Locais de comida\", \"Pontos turísticos\", \"Parques e áreas verdes\", \"Rios e lagos\", \"Vias principais\"]\n      }\n    ],\n    \"centerpiece\": \"panda gigante sentado comendo bambu\",\n    \"bottom_right_extras\": [\"rosa dos ventos vintage com N, S, L, O\", \"texto de aviso 'Dica: Cuidado com a pimenta, proteja seu estômago~' com um ícone de pimenta vermelha\"]\n  }\n}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Illustrated City Food Map",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "手绘城市美食地图",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Mapa ilustrado de comida de la ciudad",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Illustrierte kulinarische Stadtkarte",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Carte gastronomique illustrée de la ville",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Mappa illustrata del cibo cittadino",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Mapa Ilustrado de Gastronomia da Cidade",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a hand-drawn, watercolor-style tourist map featuring numbered local food specialties, landmarks, and a legend.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张手绘水彩风格的旅游地图，包含编号的当地特色美食、地标建筑及图例。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une carte touristique dessinée à la main, style aquarelle, présentant des spécialités culinaires locales numérotées, des points d'intérêt et une légende.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "illustrated-city-food-map",
+      "value": "Illustrated City Food Map",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/mm_zzm44854/status/2045861258520568230#reversed-1",
+      "originalId": "https://x.com/mm_zzm44854/status/2045861258520568230#reversed-1",
+      "authors": [
+        {
+          "name": "皮皮特",
+          "url": "https://x.com/mm_zzm44854"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 223
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b12065b153770505",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
+      "localPath": "public/assets/prompt_ff20dd5f950e5b6c1489/ee749381bfbb.jpg",
+      "alt": "Illustrated City Food Map - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-18T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.620Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "map",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

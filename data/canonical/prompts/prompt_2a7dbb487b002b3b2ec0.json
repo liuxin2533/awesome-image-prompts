@@ -1,0 +1,101 @@
+{
+  "id": "prompt_2a7dbb487b002b3b2ec0",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"VTuber debut stream thumbnail\",\r\n  \"character\": {\r\n    \"appearance\": \"anime girl, long dark purple hair, purple eyes, frilly white blouse, dark purple bow tie, large hair bow\",\r\n    \"pose\": \"finger to lips, cute expression\",\r\n    \"props\": \"condenser microphone with pop filter and purple ribbon on the right\"\r\n  },\r\n  \"background\": \"magical starry night, sparkles, glowing butterflies, purple and white color palette\",\r\n  \"layout\": {\r\n    \"typography\": [\r\n      {\r\n        \"position\": \"top left\",\r\n        \"style\": \"large bold text with cursive English above\",\r\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"初配信\\\"}\",\r\n        \"subtext_1\": \"First Stream\",\r\n        \"subtext_2\": \"Nice to meet you! I am Shisaki Lily!\"\r\n      },\r\n      {\r\n        \"position\": \"middle left\",\r\n        \"style\": \"decorative box\",\r\n        \"text\": \"{argument name=\\\"character description\\\" default=\\\"お嬢様学校に通う清楚系VTuberですわ♪\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"bottom left\",\r\n        \"style\": \"logo style\",\r\n        \"text\": \"{argument name=\\\"character name\\\" default=\\\"紫咲リリー\\\"}\",\r\n        \"subtext\": \"Shisaki Lily\"\r\n      },\r\n      {\r\n        \"position\": \"top right\",\r\n        \"style\": \"vertical text\",\r\n        \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"皆さまの心に、優雅なひとときをお届けしますわ♪\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"bottom right\",\r\n        \"style\": \"decorative pill shape\",\r\n        \"text\": \"{argument name=\\\"stream date and time\\\" default=\\\"4.21 SUN 21:00~\\\"}\",\r\n        \"subtext\": \"✦ START ✦\"\r\n      }\r\n    ]\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "主题海报版式设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Thematic Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:04:02.962Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_5caca5de77",
+      "value": "主题海报版式设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-98",
+      "originalId": "case-98",
+      "authors": [
+        {
+          "name": "wtry1102",
+          "url": "https://x.com/wtry1102"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3742
+        }
+      ],
+      "rawSource": "[@wtry1102](https://x.com/wtry1102)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1d8e3af24ad2f7d6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case98.jpg",
+      "upstreamPath": "../data/images/case98.jpg",
+      "localPath": "public/assets/prompt_2a7dbb487b002b3b2ec0/e89fe969f491.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "anime",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.582Z"
+  }
+}

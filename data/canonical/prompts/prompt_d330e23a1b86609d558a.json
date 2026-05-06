@@ -1,0 +1,194 @@
+{
+  "id": "prompt_d330e23a1b86609d558a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a raw Y2K fashion editorial flash photograph of an {argument name=\"subject\" default=\"adult woman\"} posing diagonally against a plain teal-blue studio wall, framed from upper head to hips with the body tilted across the image. Her face is intentionally obscured by a flat opaque beige-gray rectangular block, while messy dark hair is tied up with loose strands flying around. She wears a pink-and-white gingham spaghetti-strap crop top with a loose flared hem and thin side ties, layered silver necklaces, oversized glossy dark brown leather gloves on both hands, and low-rise light blue denim jeans worn open and slouched to reveal a white waistband underneath. One gloved hand pinches the open jeans near the button, the other arm is bent upward with the hand near the top right, giving an offbeat candid party-photo pose. Use harsh direct camera flash, visible hard shadows, slightly washed highlights on skin and denim, gritty compact-camera texture, 2000s magazine snapshot styling, close crop, no text, no logos, realistic skin and fabric detail, vertical 4:3 composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张原始的 Y2K 时尚杂志风格闪光灯摄影作品，拍摄对象为 {argument name=\"subject\" default=\"成年女性\"}，斜倚在纯青蓝色摄影棚背景墙前，构图从头部上方到臀部，身体横跨画面。她的脸部被一个平面的不透明米灰色长方形色块刻意遮挡，凌乱的深色头发扎起，有几缕发丝散落在外。她身穿粉白格纹吊带短款上衣，下摆宽松且带有侧边系带，叠戴银色项链，双手佩戴超大号深棕色亮面皮手套，穿着低腰浅蓝色牛仔裤，裤腰敞开并下垂，露出里面的白色腰带。一只戴着手套的手捏住牛仔裤纽扣附近的开口处，另一只手臂向上弯曲，手部靠近右上角，呈现出一种非主流的抓拍派对照片姿势。使用强烈的直射相机闪光灯，呈现明显的硬阴影，皮肤和牛仔布上有轻微的过曝高光，具有粗颗粒的卡片机质感，2000 年代杂志快照风格，紧凑裁剪，无文字，无 Logo，逼真的皮肤和织物细节，垂直 4:3 构图。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una fotografía editorial de moda estilo Y2K con flash, cruda y auténtica, de una {argument name=\"subject\" default=\"mujer adulta\"} posando en diagonal contra una pared de estudio color azul cerceta liso, encuadrada desde la parte superior de la cabeza hasta las caderas con el cuerpo inclinado a través de la imagen. Su rostro está oculto intencionalmente por un bloque rectangular opaco de color gris beige, mientras que su cabello oscuro y desordenado está recogido con mechones sueltos volando alrededor. Viste un top corto de tirantes finos con estampado de cuadros vichy en rosa y blanco, con un dobladillo acampanado suelto y lazos laterales delgados, collares de plata en capas, guantes de cuero marrón oscuro brillante de gran tamaño en ambas manos y jeans de mezclilla azul claro de tiro bajo, usados abiertos y caídos para revelar una pretina blanca debajo. Una mano enguantada pellizca los jeans abiertos cerca del botón, el otro brazo está doblado hacia arriba con la mano cerca de la parte superior derecha, dando una pose de foto de fiesta espontánea y poco convencional. Usa flash directo de cámara intenso, sombras duras visibles, luces ligeramente lavadas en la piel y la mezclilla, textura granulada de cámara compacta, estilo de instantánea de revista de los 2000, encuadre cerrado, sin texto, sin logotipos, detalle realista de piel y tela, composición vertical 4:3.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein raues, redaktionelles Y2K-Mode-Blitzlichtfoto von einer {argument name=\"subject\" default=\"erwachsenen Frau\"}, die diagonal vor einer schlichten, blaugrünen Studiowand posiert. Der Bildausschnitt reicht vom Kopf bis zur Hüfte, wobei der Körper schräg im Bild geneigt ist. Ihr Gesicht ist absichtlich durch einen flachen, undurchsichtigen, beigegrauen rechteckigen Block verdeckt, während ihr unordentliches, dunkles Haar hochgesteckt ist und lose Strähnen abstehen. Sie trägt ein rosa-weißes Gingham-Spaghettiträger-Crop-Top mit lockerem, ausgestelltem Saum und dünnen seitlichen Bindebändern, dazu mehrlagige Silberketten, übergroße, glänzende dunkelbraune Lederhandschuhe an beiden Händen sowie eine tief sitzende, hellblaue Jeans, die offen und locker getragen wird, sodass ein weißer Hosenbund darunter hervorblitzt. Eine behandschuhte Hand hält die offene Jeans in der Nähe des Knopfes, der andere Arm ist nach oben angewinkelt, wobei sich die Hand nahe der oberen rechten Ecke befindet, was für eine ausgefallene, ungezwungene Party-Foto-Pose sorgt. Verwende hartes, direktes Kamerablitzlicht, sichtbare harte Schatten, leicht überbelichtete Highlights auf Haut und Denim, körnige Kompaktkamera-Textur, Magazin-Schnappschuss-Stil der 2000er Jahre, enger Bildausschnitt, kein Text, keine Logos, realistische Haut- und Stoffdetails, vertikale 4:3-Komposition.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une photographie éditoriale de mode Y2K brute au flash représentant une {argument name=\"subject\" default=\"femme adulte\"} posant en diagonale devant un mur de studio bleu sarcelle uni, cadrée de la tête aux hanches avec le corps incliné à travers l'image. Son visage est intentionnellement masqué par un bloc rectangulaire opaque gris beige plat, tandis que ses cheveux sombres en désordre sont attachés avec des mèches folles s'échappant autour. Elle porte un haut court à bretelles spaghetti en vichy rose et blanc avec un ourlet évasé lâche et des liens fins sur les côtés, des colliers superposés en argent, des gants en cuir marron foncé brillant surdimensionnés aux deux mains, et un jean bleu clair taille basse porté ouvert et affaissé pour révéler une ceinture blanche en dessous. Une main gantée pince le jean ouvert près du bouton, l'autre bras est plié vers le haut avec la main près du coin supérieur droit, adoptant une pose décalée de photo de fête prise sur le vif. Utilisez un flash direct intense, des ombres marquées visibles, des hautes lumières légèrement délavées sur la peau et le jean, une texture granuleuse d'appareil photo compact, un style de cliché de magazine des années 2000, un cadrage serré, pas de texte, pas de logos, des détails réalistes de peau et de tissu, composition verticale 4:3.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una fotografia editoriale di moda Y2K grezza con flash di una {argument name=\"subject\" default=\"donna adulta\"} in posa diagonale contro una parete da studio color blu ottanio, inquadrata dalla testa ai fianchi con il corpo inclinato lungo l'immagine. Il suo volto è intenzionalmente oscurato da un blocco rettangolare opaco color beige-grigio, mentre i capelli scuri spettinati sono raccolti con ciocche libere che volano intorno. Indossa un crop top con spalline sottili a quadretti bianchi e rosa, con orlo svasato morbido e laccetti laterali, collane d'argento a strati, guanti in pelle marrone scuro lucidi e oversize su entrambe le mani, e jeans a vita bassa color azzurro indossati aperti e scesi per rivelare una fascia bianca sottostante. Una mano guantata stringe i jeans aperti vicino al bottone, l'altro braccio è piegato verso l'alto con la mano vicino all'angolo in alto a destra, creando una posa da foto di festa spontanea e anticonvenzionale. Usa un flash diretto intenso, ombre nette visibili, luci leggermente bruciate sulla pelle e sul denim, texture granulosa tipica delle fotocamere compatte, stile istantanea da rivista anni 2000, inquadratura stretta, niente testo, niente loghi, dettagli realistici della pelle e dei tessuti, composizione verticale 4:3.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma fotografia editorial de moda Y2K crua com flash de uma {argument name=\"subject\" default=\"mulher adulta\"} posando na diagonal contra uma parede de estúdio azul-petróleo lisa, enquadrada da cabeça até os quadris com o corpo inclinado através da imagem. Seu rosto está intencionalmente obscurecido por um bloco retangular opaco bege-acinzentado, enquanto o cabelo escuro bagunçado está preso com mechas soltas voando ao redor. Ela veste um cropped de alcinha xadrez rosa e branco com bainha larga e solta e amarrações laterais finas, colares de prata em camadas, luvas de couro marrom escuro brilhante de tamanho grande em ambas as mãos e jeans azul claro de cintura baixa, usado aberto e caído para revelar um cós branco por baixo. Uma mão enluvada pinça o jeans aberto perto do botão, o outro braço está dobrado para cima com a mão perto do canto superior direito, criando uma pose de foto de festa espontânea e peculiar. Use flash de câmera direto e forte, sombras duras visíveis, realces levemente lavados na pele e no jeans, textura granulada de câmera compacta, estilo de instantâneo de revista dos anos 2000, enquadramento fechado, sem texto, sem logotipos, detalhes realistas de pele e tecido, composição vertical 4:3.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Y2K Flash Fashion Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Y2K 闪光灯时尚人像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Retrato de moda con flash estilo Y2K",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Y2K Flash-Mode-Porträt",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Portrait de mode flash Y2K",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Ritratto di moda Y2K con flash",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Retrato de Moda Flash Y2K",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a gritty early-2000s flash editorial portrait with gingham crop top, leather gloves, and low-rise denim styling.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张具有 21 世纪初粗颗粒感的闪光灯时尚人像，包含格纹短款上衣、皮手套和低腰牛仔裤造型。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un portrait éditorial au flash typique du début des années 2000 avec un haut court vichy, des gants en cuir et un jean taille basse.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/underwoodxie96/status/2051284816054858055#reversed-0",
+      "originalId": "https://x.com/underwoodxie96/status/2051284816054858055#reversed-0",
+      "authors": [
+        {
+          "name": "underwood",
+          "url": "https://x.com/underwoodxie96"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4201
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3b3941255e70c57c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971081461_n2a6p7_HHegi-4bUAAB9Xm.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971081461_n2a6p7_HHegi-4bUAAB9Xm.jpg",
+      "localPath": "public/assets/prompt_d330e23a1b86609d558a/465ef0c120ac.jpg",
+      "alt": "Product Marketing - Y2K Flash Fashion Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_bacbc3e1d714d337",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971081488_8fa9j9_HHegkb5bMAAJNba.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971081488_8fa9j9_HHegkb5bMAAJNba.jpg",
+      "localPath": "public/assets/prompt_d330e23a1b86609d558a/a365eda001db.jpg",
+      "alt": "Product Marketing - Y2K Flash Fashion Portrait - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_4a2fb6d1dea3c491",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971081563_2zwxer_HHegmPMbwAALERB.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971081563_2zwxer_HHegmPMbwAALERB.jpg",
+      "localPath": "public/assets/prompt_d330e23a1b86609d558a/5709a5c15fdc.jpg",
+      "alt": "Product Marketing - Y2K Flash Fashion Portrait - Image 3",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "人像"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.868Z"
+  }
+}

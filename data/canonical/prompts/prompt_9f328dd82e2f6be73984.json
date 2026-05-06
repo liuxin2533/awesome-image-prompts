@@ -1,0 +1,191 @@
+{
+  "id": "prompt_9f328dd82e2f6be73984",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "I want to see what you really look like. Draw a snapshot of your everyday life as if it were {argument name=\"camera type\" default=\"accidentally taken on an iPhone\"}. Make it feel like a very ordinary, imperfect candid shot. The photo should have slight motion blur, with uneven, natural lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "我想看看你真实的样子。请绘制一张你日常生活中的快照，就像是 {argument name=\"camera type\" default=\"用 iPhone 无意间拍摄的\"} 一样。让它感觉像是一张非常普通、不完美的抓拍照片。照片应带有轻微的运动模糊，并呈现出不均匀的自然光影。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Quiero ver cómo te ves realmente. Dibuja una instantánea de tu vida cotidiana como si hubiera sido {argument name=\"camera type\" default=\"tomada accidentalmente con un iPhone\"}. Haz que se sienta como una toma espontánea muy ordinaria e imperfecta. La foto debe tener un ligero desenfoque de movimiento, con una iluminación natural e irregular.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Ich möchte sehen, wie du wirklich aussiehst. Erstelle einen Schnappschuss aus deinem Alltag, als wäre er {argument name=\"camera type\" default=\"versehentlich mit einem iPhone aufgenommen\"} worden. Es soll sich wie eine ganz gewöhnliche, unperfekte Momentaufnahme anfühlen. Das Foto sollte eine leichte Bewegungsunschärfe sowie eine ungleichmäßige, natürliche Beleuchtung aufweisen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Je veux voir à quoi tu ressembles vraiment. Dessine un instantané de ton quotidien comme s'il avait été {argument name=\"camera type\" default=\"pris accidentellement avec un iPhone\"}. Donne-lui l'aspect d'une photo prise sur le vif, très ordinaire et imparfaite. L'image doit présenter un léger flou de mouvement, avec un éclairage naturel et irrégulier.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Voglio vedere come sei davvero. Crea un'istantanea della tua vita quotidiana come se fosse {argument name=\"camera type\" default=\"scattata accidentalmente con un iPhone\"}. Falla sembrare uno scatto spontaneo, molto ordinario e imperfetto. La foto dovrebbe avere un leggero effetto mosso, con un'illuminazione naturale e irregolare.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Quero ver como você é de verdade. Faça um registro do seu cotidiano como se tivesse sido {argument name=\"camera type\" default=\"tirado acidentalmente com um iPhone\"}. Dê a sensação de uma foto espontânea, muito comum e imperfeita. A imagem deve ter um leve desfoque de movimento, com iluminação natural e irregular.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Candid iPhone Everyday Life Snapshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - iPhone 随手拍的真实生活快照",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Captura espontánea de la vida cotidiana con iPhone",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Authentischer Schnappschuss aus dem iPhone-Alltag",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Instantané de vie quotidienne pris à l'iPhone",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Scatto spontaneo di vita quotidiana con iPhone",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Foto espontânea do cotidiano com iPhone",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A realistic prompt for generating an ordinary, imperfect candid shot as if taken on an iPhone, featuring natural motion blur and uneven lighting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于生成普通、不完美抓拍照片的真实提示词，模拟 iPhone 拍摄效果，包含自然的运动模糊和不均匀的光影。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt réaliste pour générer une photo prise sur le vif, ordinaire et imparfaite, comme si elle avait été capturée avec un iPhone, incluant un léger flou de mouvement et un éclairage irrégulier.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Ciri_ai/status/2051292618248904809",
+      "originalId": "https://x.com/Ciri_ai/status/2051292618248904809",
+      "authors": [
+        {
+          "name": "Ciri",
+          "url": "https://x.com/Ciri_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1018
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_99f477cffd4f8544",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971010786_tz04mn_HHentLKbsAA7Sye.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971010786_tz04mn_HHentLKbsAA7Sye.jpg",
+      "localPath": "public/assets/prompt_9f328dd82e2f6be73984/71692a3e6e7f.jpg",
+      "alt": "Profile / Avatar - Candid iPhone Everyday Life Snapshot - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_56da7d89178e7ab1",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971010692_3h6v3k_HHentLOa4AAjUJk.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971010692_3h6v3k_HHentLOa4AAjUJk.jpg",
+      "localPath": "public/assets/prompt_9f328dd82e2f6be73984/9582183fd4f9.jpg",
+      "alt": "Profile / Avatar - Candid iPhone Everyday Life Snapshot - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_19101124867cfa2d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971010709_2z8x2i_HHentLJaUAApQoM.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971010709_2z8x2i_HHentLJaUAApQoM.jpg",
+      "localPath": "public/assets/prompt_9f328dd82e2f6be73984/051d172bb4a4.jpg",
+      "alt": "Profile / Avatar - Candid iPhone Everyday Life Snapshot - Image 3",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.861Z"
+  }
+}

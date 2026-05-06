@@ -1,0 +1,105 @@
+{
+  "id": "prompt_6557722454e535aa5f56",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "在Apple Park iPhone 20主题演讲期间拍摄的业余iPhone照片，蒂姆·库克在舞台上演讲。从远处的观众人群中拍摄",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "苹果园远观库克发布新机",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Apple Park: Tim Cook unveils new device from afar",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:32:05.752Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_ca0d61860c",
+      "value": "苹果园远观库克发布新机",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-262",
+      "originalId": "case-262",
+      "authors": [
+        {
+          "name": "austinit",
+          "url": "https://x.com/patrickassale/status/2044687244368441742"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2965
+        }
+      ],
+      "rawSource": "[@austinit](https://x.com/patrickassale/status/2044687244368441742)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e630557504bad8be",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case262.jpg",
+      "upstreamPath": "../data/images/case262.jpg",
+      "localPath": "public/assets/prompt_6557722454e535aa5f56/694bd1a8e692.jpg",
+      "alt": "苹果园远观库克发布新机",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.589Z"
+  }
+}

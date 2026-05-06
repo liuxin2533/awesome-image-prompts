@@ -1,0 +1,97 @@
+{
+  "id": "prompt_464f854a24af2f166ab8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A bright, polished anime-style promotional thumbnail with a summer romance atmosphere. The composition is split visually, with large typography on the left and two handsome young men on the right. On the left side, place layered translucent white panels with soft glow and sparkles over a sky-blue background, featuring large elegant serif text \"GPT\" in a blue gradient at the top and \"BL\" in a lavender-to-violet gradient below. Add three lines of Japanese text arranged between and under them: \"最新の画像生成で\", \"作って\", and \"遊んでみた\", in deep blue calligraphic Japanese type. Include subtle decorative accents such as small star glints, diagonal light streaks, dotted texture, and a cyan underline swoosh beneath the middle text. On the right side, show 2 anime boys from the waist up, leaning casually together beside a chain-link fence under leafy trees. The taller boy has tousled dark brown hair, a navy overshirt worn open over a white T-shirt, layered silver necklaces, and holds 1 plastic cup of iced coffee with a straw. The shorter boy has messy silver-white hair, a white T-shirt with a small crest emblem on the chest, black backpack straps over both shoulders, layered silver necklaces, and one small earring. Their poses are relaxed and intimate, with the dark-haired boy’s arm resting around the other. Use a luminous blue-and-white palette with soft sunlight, lens flare, bokeh, and a faint cityscape in the background, creating a clean social-media header or article thumbnail aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime BL Promo Thumbnail",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/himukai_an/status/2047981800535085555",
+      "originalId": "case-119",
+      "authors": [
+        {
+          "name": "himukai_an",
+          "url": "https://x.com/himukai_an"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 793
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7b85e693db769697",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case119/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case119/output.jpg",
+      "localPath": "public/assets/prompt_464f854a24af2f166ab8/28373d2a210d.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "youtube",
+      "thumbnail",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.554Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "prompt_b85b70973b6a4590e88f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a Japanese social game gacha screen.",
+      "source": "upstream"
+    },
+    "translations": {
+      "ja": {
+        "language": "ja",
+        "value": "日本のソシャゲのガチャ画面を生成して、",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Japanese Social Game Gacha Screen",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/the_wheel_2024/status/2046519658166317160",
+      "originalId": "https://x.com/the_wheel_2024/status/2046519658166317160",
+      "authors": [
+        {
+          "name": "the_wheel_2024",
+          "url": "https://x.com/the_wheel_2024/status/2046519658166317160"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 267
+        }
+      ],
+      "rawSource": "[@the_wheel_2024](https://x.com/the_wheel_2024/status/2046519658166317160)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f82453a831696e73",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGayF3iagAARTZ1?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGayF3iagAARTZ1?format=jpg&name=large",
+      "localPath": "public/assets/prompt_b85b70973b6a4590e88f/a3e681be944d.jpg",
+      "alt": "Japanese Social Game Gacha Screen",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "social"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.599Z"
+  }
+}

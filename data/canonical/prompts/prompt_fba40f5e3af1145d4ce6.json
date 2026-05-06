@@ -1,0 +1,108 @@
+{
+  "id": "prompt_fba40f5e3af1145d4ce6",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "创建一张科幻电影海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a Science fiction movie poster",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "史诗级科幻电影海报设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Epic sci-fi movie poster design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:44:10.444Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_0061f183e9",
+      "value": "史诗级科幻电影海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-191",
+      "originalId": "case-191",
+      "authors": [
+        {
+          "name": "underwoodxie96",
+          "url": "https://x.com/underwoodxie96/status/2046514205529088501"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 672
+        }
+      ],
+      "rawSource": "[@underwoodxie96](https://x.com/underwoodxie96/status/2046514205529088501)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2123821739a7a41c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case191.jpg",
+      "upstreamPath": "../data/images/case191.jpg",
+      "localPath": "public/assets/prompt_fba40f5e3af1145d4ce6/33361a23d83b.jpg",
+      "alt": "史诗级科幻电影海报设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "movie poster",
+      "海报",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.609Z"
+  }
+}

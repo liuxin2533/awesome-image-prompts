@@ -1,0 +1,101 @@
+{
+  "id": "prompt_8ca0b2f27bf92496c49e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a bold streetwear poster advertisement for {argument name=\"brand name\" default=\"NESS STUDIO\"} featuring a young adult model seated casually on the ground in a low-angle fashion pose, one knee raised and one leg extended toward the camera so the sneaker in front appears oversized and dominant. The model wears a dark brown oversized leather bomber jacket, a black shirt, light blue loose-fit jeans, white socks, and chunky black-white-gray sneakers with a red accent in the sole and the {argument name=\"brand name\" default=\"NESS STUDIO\"} logo visible on the shoe side and tongue. The face is intentionally obscured by a soft rectangular blur block centered over the face. Use an off-white textured paper background with distressed grunge design elements and collage layering. Behind the model, place a large rough red paint brushstroke shape spanning diagonally across the center. Add black ink splatters, sketch circles, torn paper scraps, and hand-painted graffiti accents. Include 4 major graphic doodles: a large black X in the upper right, a hand-drawn upward arrow in the lower left, a rough crown sketch in the lower right, and a circular scribble near the top center. In the upper left, place a stylized eye logo above the text \"{argument name=\"brand name\" default=\"NESS STUDIO\"}\" and a smaller tagline below reading \"A MOMENT OF YOUR STYLE\". On the left middle area, add the handwritten slogan \"INNOVATE CREATE INSPIRE\" in stacked black brush lettering. On the right middle area, place a torn black paper patch with the handwritten white slogan \"BUILT DIFFERENT MOVE DIFFERENT\" and a red underline stroke. In the lower left near the shoe, add a black distressed label sticker containing a globe scribble, the text \"{argument name=\"brand name\" default=\"NESS STUDIO\"}\", and a barcode. Along the bottom footer, create a clean horizontal strip with 3 social media icons and handles separated by thin vertical dividers: Instagram, Facebook, and Twitter, each followed by \"@NESS.STUDIO\". The overall style should be edgy, urban, youthful, high-contrast, editorial street fashion, mixing product advertising photography with graffiti poster design, collage textures, and dynamic branding.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为{argument name=\"brand name\" default=\"NESS STUDIO\"}创建一个大胆的街头风海报广告，展示一位年轻成人模特以休闲姿势坐在地上，采用低角度时尚造型，一条膝盖抬起，一条腿伸向相机，使前方的运动鞋显得超大且突出。模特穿着深棕色超大号皮革飞行员夹克、黑色衬衫、浅蓝色宽松牛仔裤、白色袜子，以及厚重的黑-白-灰运动鞋，鞋底有红色点缀，鞋侧和鞋舌上可见{argument name=\"brand name\" default=\"NESS STUDIO\"}标志。脸部被有意地用一个居中的柔和矩形模糊块遮挡。使用米白色纹理纸背景，带有磨损的垃圾摇滚设计元素和拼贴分层效果。在模特身后，放置一个大的粗糙红色油漆笔触形状，对角线跨越中心。添加黑色墨水飞溅、素描圆圈、撕碎的纸片和手绘涂鸦点缀。包含4个主要图形涂鸦：右上角的大黑色X，左下角的手绘向上箭头，右下角的粗糙皇冠草图，以及顶部中心附近的圆形涂鸦。在左上方，在\"{argument name=\"brand name\" default=\"NESS STUDIO\"}\"文本上方放置一个风格化的眼睛标志，下方有一个较小的标语，写着\"YOUR STYLE的瞬间\"。在左中区域，添加手写标语\"INNOVATE CREATE INSPIRE\"，采用堆叠的黑色毛笔字体。在右中区域，放置一个撕碎的黑色纸片，上面有手写的白色标语\"BUILT DIFFERENT MOVE DIFFERENT\"和红色下划线。在左下方的鞋子附近，添加一个磨损的黑色标签贴纸，包含一个地球涂鸦、文本\"{argument name=\"brand name\" default=\"NESS STUDIO}\"和条形码。在底部页脚，创建一个干净的水平条带，包含3个社交媒体图标和账号，用细垂直分隔符分隔：Instagram、Facebook和Twitter，每个后面都跟着\"@NESS.STUDIO\"。整体风格应前卫、都市、年轻、高对比度、编辑式街头时尚，将产品广告摄影与涂鸦海报设计、拼贴纹理和动态品牌元素相结合。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:24:35.882Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Streetwear Sneaker Poster Ad",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ad-creative-cases",
+      "value": "Ad Creative Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AlwaveNazca/status/2048147643809865950",
+      "originalId": "case-146",
+      "authors": [
+        {
+          "name": "AlwaveNazca",
+          "url": "https://x.com/AlwaveNazca"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ad-creative.md",
+          "line": 429
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5ca4ace4b6b01c28",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case146/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case146/output.jpg",
+      "localPath": "public/assets/prompt_8ca0b2f27bf92496c49e/a099263182ef.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

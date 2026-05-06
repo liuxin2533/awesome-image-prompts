@@ -1,0 +1,88 @@
+{
+  "id": "prompt_c47a6c29824cef7fea62",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate an image with the artistic conception of \"Short Song Style\" (Duan Ge Xing), including the full text of the poem.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:22:34.352Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "《短歌行》诗词意境图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Artistic conception of the poem 'Short Song Style'",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:22:36.529Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a801ac5d36",
+      "value": "《短歌行》诗词意境图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-337",
+      "originalId": "case-337",
+      "authors": [
+        {
+          "name": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5437
+        }
+      ],
+      "rawSource": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_21bbd83ca9fca244",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case337.png",
+      "upstreamPath": "../data/images/case337.png",
+      "localPath": "public/assets/prompt_c47a6c29824cef7fea62/cc3f6f19e8a4.png",
+      "alt": "短歌行诗词意境图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.601Z"
+  }
+}

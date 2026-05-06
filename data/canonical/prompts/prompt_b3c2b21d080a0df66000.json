@@ -1,0 +1,163 @@
+{
+  "id": "prompt_b3c2b21d080a0df66000",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A heartwarming stylized 3D animated forest village scene at golden hour, showing 2 adorable insect characters meeting on a cobblestone path between tiny mushroom-roof cottages. In the left foreground, a cute {argument name=\"main insect type\" default=\"ladybug\"} crouches low with an oversized glossy black head, huge expressive brown eyes, a small smiling mouth, short antennae with rounded tips, and a tiny {argument name=\"accessory color\" default=\"red\"} bow near one antenna. Its shell is bright {argument name=\"shell color\" default=\"red\"} with distinct black spots, and its body is dark charcoal black with soft rounded limbs. In the right midground, a cheerful small {argument name=\"second insect type\" default=\"bee\"} hovers slightly above the ground facing the larger insect, with a similarly oversized head, big sparkling eyes, delicate translucent wings, tiny antennae, and little forelegs lifted as if speaking excitedly. The setting is an enchanted bug-sized woodland hamlet with 3 visible cottages, rounded wooden doors, curved stone walls, moss, vines, flowers, and leafy plants framing the path. Warm cinematic sunlight filters through the trees from the upper right, creating glowing rim light, soft bokeh, and floating firefly-like particles. Use a shallow depth of field, low camera angle at insect eye level, rich autumn-green and golden tones, highly detailed textures, soft global illumination, whimsical family-film mood, Pixar-like stylized realism, and a subtle dreamy double-exposure feel with faint overlapping light or ghosted highlights in parts of the frame.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Whimsical Ladybug and Bee Village Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - Whimsical Ladybug and Bee Village Scene",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a cinematic 3D animated-style image of two cute insects meeting in an enchanted woodland village, ideal for storybook art or family-friendly fantasy illustrations.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/KennethRow73543/status/2048842808887284227#reversed-0",
+      "originalId": "https://x.com/KennethRow73543/status/2048842808887284227#reversed-0",
+      "authors": [
+        {
+          "name": "Kenneth Rowe (MadeofWax)",
+          "url": "https://x.com/KennethRow73543"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3599
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_021225f9dd116bf7",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367288527_536lmu_HG7zrZwbsAAa_Tt.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367288527_536lmu_HG7zrZwbsAAa_Tt.jpg",
+      "localPath": "public/assets/prompt_b3c2b21d080a0df66000/78b9c5f1c5b2.jpg",
+      "alt": "Comic / Storyboard - Whimsical Ladybug and Bee Village Scene - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.568Z"
+  }
+}

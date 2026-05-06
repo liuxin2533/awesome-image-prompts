@@ -1,0 +1,108 @@
+{
+  "id": "prompt_d1edee749ff85f9e72fa",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Search the web for {argument name=\"performance description\" default=\"this week’s standout individual performance in Champion’s League\"}, using exact stats and game summary, {argument name=\"colors\" default=\"bold team colors\"}, legible score breakdown, and generate a {argument name=\"card type\" default=\"Highlight card\"}.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Search the web for {argument name=\"performance description\" default=\"this week's standout individual performance in Champion's League\"}, using exact stats and game summary, {argument name=\"colors\" default=\"bold team colors\"}, legible score breakdown, and generate a {argument name=\"card type\" default=\"Highlight card\"}.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:26:44.168Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic Visualization Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:26:45.853Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-102",
+      "originalId": "case-102",
+      "authors": [
+        {
+          "name": "maxescu",
+          "url": "https://x.com/maxescu"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3993
+        }
+      ],
+      "rawSource": "[@maxescu](https://x.com/maxescu)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_d063714c8e119f76",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case102.jpg",
+      "upstreamPath": "../data/images/case102.jpg",
+      "localPath": "public/assets/prompt_d1edee749ff85f9e72fa/6e7a63098870.jpg",
+      "alt": "performance description",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

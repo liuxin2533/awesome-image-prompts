@@ -1,0 +1,166 @@
+{
+  "id": "prompt_c9db27e6a9ba809a293f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using the provided reference image as the base for the man, transform it into a realistic casual smartphone photo collage showing him as if he has a girlfriend. Keep his identity, hairstyle, age, white sweatshirt, and candid non-model look consistent, but place him together with a young woman across 16 square snapshots arranged in a 4x4 grid with thin white borders. Add exactly 1 recurring female companion with long dark hair, styled like a real person rather than a glam model, and vary her outfits subtly across the collage, including a cream knit cardigan, a dark top, and a muted blue top. Make the photos feel like authentic couple memories shot on a phone: close mirror selfie together, dark blurry selfie, indoor peace-sign selfie, night street selfie, motion-blur closeup, outdoor daytime shot under a tree, indoor shoulder-leaning shot, another blurry affectionate shot, seated restaurant shot with glasses on the table, warm night bokeh shot, rooftop or balcony mirror selfie with city lights, nighttime urban walking shot, cozy leaning-together shot, shoulder-around pose, close side-by-side portrait, and another intimate close crop. Mix indoor home scenes, nighttime city scenes, one daytime outdoor scene, and one restaurant setting. Use imperfect framing, slight blur, flash, grain, and spontaneous candid composition so it feels like a real person's saved couple photo dump, not a polished campaign.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Fake Couple Photo Dump Collage",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Fake Couple Photo Dump Collage",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt turns a single personal reference photo into a believable 16-image smartphone collage of candid couple memories, useful for 'what if' lifestyle edits and fake relationship photo dumps.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/kei_elitematch/status/2048687163056001320#reversed-1",
+      "originalId": "https://x.com/kei_elitematch/status/2048687163056001320#reversed-1",
+      "authors": [
+        {
+          "name": "ケイ＠彼女公認",
+          "url": "https://x.com/kei_elitematch"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1223
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_515830292892dc24",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367309247_q7gtvo_HG5mHbSa0AAZdHQ.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367309247_q7gtvo_HG5mHbSa0AAZdHQ.jpg",
+      "localPath": "public/assets/prompt_c9db27e6a9ba809a293f/8236ed8f7f99.jpg",
+      "alt": "Profile / Avatar - Fake Couple Photo Dump Collage - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.569Z"
+  }
+}

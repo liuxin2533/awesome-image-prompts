@@ -1,0 +1,105 @@
+{
+  "id": "prompt_9d1078ccfdd5ae2462cd",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "generate screenshots from a AAA video game based off what The Sims Castaways sequel could look like. https://t.co/aL7hMdUYvj",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个AAA级电子游戏的截图，基于《模拟人生：荒野求生》续作可能的样子。https://t.co/aL7hMdUYvj",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:19.255Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "AAA Video Game Screenshot Concept Design",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "AAA电子游戏截图概念设计",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:20.487Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui",
+      "value": "ui",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ChiefMonkeyMike/status/2047828814580138156",
+      "originalId": "case-47",
+      "authors": [
+        {
+          "name": "ChiefMonkeyMike",
+          "url": "https://x.com/ChiefMonkeyMike"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 445
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fe9a4e7e2926714c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case47/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case47/output.jpg",
+      "localPath": "public/assets/prompt_9d1078ccfdd5ae2462cd/e15466f0ffce.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "ui"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.595Z"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "prompt_2c495be37621e9c8b2a6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a cinematic anime-style sci-fi action scene in a dim industrial facility corridor. The composition is wide, with a concrete pillar dividing the image: on the far left foreground, a tense young woman named {argument name=\"character name\" default=\"blonde covert operative\"} hides behind the wall, leaning out cautiously while gripping one black semi-automatic pistol with both hands pointed upward; she has {argument name=\"hair color\" default=\"blonde\"} hair tied in a low ponytail with loose bangs, wears a black sleeveless crop tank top and black tactical shorts, and has visible sweat on her arms and shoulders. Her face is intentionally obscured by a flat opaque beige square censor block. In the mid-background on the right side of the corridor stand exactly two uniformed security officers: one brown-haired male officer pointing at one handheld tablet, and one blond officer holding that tablet; both wear dark navy futuristic combat uniforms with light blue piping, armored shoulders, tall black boots, and their faces are also obscured by matching opaque beige square censor blocks. The environment is a long underground military or research-base hallway with polished reflective concrete floor, raw concrete walls, exposed ceiling pipes, bright white fluorescent strip lights, blue glowing access panels, one heavy metal door on the right, and cool blue-gray lighting. Mood is stealthy, suspenseful, and tactical, as if the woman is ambushing or spying on the two guards. Use highly detailed Japanese anime illustration, sharp linework, realistic perspective, dramatic depth, moody shadows, glossy floor reflections, cyberpunk military ambience, widescreen 16:9 framing, no readable text.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一个电影级动漫风格的科幻动作场景，背景位于昏暗的工业设施走廊中。构图采用广角，画面被一根混凝土柱分隔：左侧前景中，一名紧张的年轻女性 {argument name=\"character name\" default=\"金发秘密特工\"} 躲在墙后，小心翼翼地探出身子，双手紧握一把黑色半自动手枪并向上指；她留着 {argument name=\"hair color\" default=\"金色\"} 的低马尾，留有松散的刘海，身穿黑色无袖短款背心和黑色战术短裤，手臂和肩膀上可见汗水。她的脸部被一个平面的不透明米色方形遮挡块刻意遮盖。走廊右侧的中景处站着两名身穿制服的安保人员：一名棕发男性警官正指向手中的平板电脑，另一名金发警官则拿着平板电脑；两人均身穿深蓝色未来感作战服，配有浅蓝色滚边、装甲肩部和高筒黑靴，他们的脸部同样被配套的不透明米色方形遮挡块遮盖。环境是一个长长的地下军事或研究基地走廊，地面为抛光反光混凝土，墙壁为原始混凝土，天花板上有裸露的管道，配有明亮的白色荧光灯带、蓝色发光的接入面板，右侧有一扇厚重的金属门，整体光效为冷蓝灰色。氛围隐秘、悬疑且充满战术感，仿佛该女子正在伏击或监视这两名守卫。采用高细节的日本动漫插画风格，线条锐利，透视真实，景深感强烈，阴影氛围浓厚，地面反光光泽感强，具有赛博朋克军事氛围，采用 16:9 宽屏构图，无任何可读文字。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una escena de acción de ciencia ficción al estilo anime cinemático en un pasillo de una instalación industrial con poca luz. La composición es amplia, con una columna de concreto dividiendo la imagen: en el primer plano a la extrema izquierda, una joven tensa llamada {argument name=\"character name\" default=\"agente encubierta rubia\"} se esconde detrás de la pared, asomándose con cautela mientras sostiene una pistola semiautomática negra con ambas manos apuntando hacia arriba; tiene el cabello {argument name=\"hair color\" default=\"rubio\"} atado en una coleta baja con flequillo suelto, viste una camiseta sin mangas negra y pantalones cortos tácticos negros, y tiene sudor visible en los brazos y hombros. Su rostro está intencionalmente oculto por un bloque censor cuadrado de color beige opaco. En el fondo medio, al lado derecho del pasillo, se encuentran exactamente dos oficiales de seguridad uniformados: un oficial de cabello castaño señalando una tableta portátil y un oficial rubio sosteniendo dicha tableta; ambos visten uniformes de combate futuristas azul marino con ribetes azul claro, hombreras blindadas, botas negras altas, y sus rostros también están ocultos por bloques censores cuadrados de color beige opaco a juego. El entorno es un largo pasillo de una base militar o de investigación subterránea con piso de concreto pulido y reflectante, paredes de concreto bruto, tuberías expuestas en el techo, luces fluorescentes blancas brillantes, paneles de acceso con luz azul, una puerta de metal pesada a la derecha y una iluminación azul grisácea fría. El ambiente es sigiloso, lleno de suspenso y táctico, como si la mujer estuviera emboscando o espiando a los dos guardias. Utiliza una ilustración de anime japonés altamente detallada, trazos definidos, perspectiva realista, profundidad dramática, sombras intensas, reflejos brillantes en el suelo, ambiente militar ciberpunk, encuadre panorámico 16:9, sin texto legible.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle eine filmreife Sci-Fi-Action-Szene im Anime-Stil in einem düsteren Flur einer Industrieanlage. Die Komposition ist weitläufig, mit einem Betonpfeiler, der das Bild teilt: Ganz vorne links versteckt sich eine angespannte junge Frau namens {argument name=\"character name\" default=\"blonde verdeckte Agentin\"} hinter der Wand und lehnt sich vorsichtig hervor, während sie eine schwarze halbautomatische Pistole mit beiden Händen nach oben gerichtet hält; sie hat {argument name=\"hair color\" default=\"blondes\"} Haar, das zu einem tiefen Pferdeschwanz mit losen Stirnfransen gebunden ist, trägt ein schwarzes ärmelloses bauchfreies Top sowie schwarze taktische Shorts und hat sichtbaren Schweiß an Armen und Schultern. Ihr Gesicht ist absichtlich durch einen flachen, undurchsichtigen beigen quadratischen Zensurbalken verdeckt. Im mittleren Hintergrund auf der rechten Seite des Korridors stehen genau zwei uniformierte Sicherheitsbeamte: ein braunhaariger männlicher Beamter, der auf ein Handheld-Tablet zeigt, und ein blonder Beamter, der das Tablet hält; beide tragen dunkelblaue futuristische Kampfanzüge mit hellblauen Paspeln, gepanzerten Schultern, hohen schwarzen Stiefeln, und ihre Gesichter sind ebenfalls durch passende undurchsichtige beige quadratische Zensurbalken verdeckt. Die Umgebung ist ein langer unterirdischer Militär- oder Forschungsbasen-Flur mit poliertem, reflektierendem Betonboden, rohen Betonwänden, freiliegenden Deckenrohren, hellen weißen Leuchtstoffröhren, blau leuchtenden Zugangspanels, einer schweren Metalltür auf der rechten Seite und kühler blau-grauer Beleuchtung. Die Stimmung ist heimlich, spannend und taktisch, als würde die Frau die beiden Wachen überfallen oder ausspionieren. Verwende eine hochdetaillierte japanische Anime-Illustration, scharfe Linienführung, realistische Perspektive, dramatische Tiefe, stimmungsvolle Schatten, glänzende Bodenreflexionen, Cyberpunk-Militär-Ambiente, Breitbild-16:9-Format, kein lesbarer Text.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une scène d'action de science-fiction cinématographique de style anime dans le couloir d'une installation industrielle sombre. La composition est large, avec un pilier en béton divisant l'image : à l'extrême gauche au premier plan, une jeune femme tendue nommée {argument name=\"character name\" default=\"blonde covert operative\"} se cache derrière le mur, se penchant prudemment tout en tenant un pistolet semi-automatique noir à deux mains pointé vers le haut ; elle a des cheveux {argument name=\"hair color\" default=\"blonde\"} attachés en une queue de cheval basse avec une frange lâche, porte un débardeur noir sans manches et un short tactique noir, avec de la sueur visible sur ses bras et ses épaules. Son visage est intentionnellement masqué par un bloc de censure carré beige opaque et plat. Au milieu de l'arrière-plan, sur le côté droit du couloir, se tiennent exactement deux agents de sécurité en uniforme : un officier masculin aux cheveux bruns pointant du doigt une tablette portable, et un officier blond tenant cette tablette ; tous deux portent des uniformes de combat futuristes bleu marine avec des passepoils bleu clair, des épaulettes blindées, de hautes bottes noires, et leurs visages sont également masqués par des blocs de censure carrés beiges opaques assortis. L'environnement est un long couloir souterrain de base militaire ou de recherche avec un sol en béton poli réfléchissant, des murs en béton brut, des tuyaux de plafond apparents, des néons blancs brillants, des panneaux d'accès bleus lumineux, une lourde porte en métal sur la droite et un éclairage bleu-gris froid. L'ambiance est furtive, pleine de suspense et tactique, comme si la femme était en train de tendre une embuscade ou d'espionner les deux gardes. Utilisez une illustration d'anime japonais très détaillée, un trait net, une perspective réaliste, une profondeur dramatique, des ombres marquées, des reflets sur le sol brillant, une ambiance militaire cyberpunk, un cadrage panoramique 16:9, sans texte lisible.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea una scena d'azione sci-fi in stile anime cinematografico all'interno di un corridoio di una struttura industriale in penombra. La composizione è ampia, con un pilastro in cemento che divide l'immagine: in primo piano, all'estrema sinistra, una giovane donna tesa di nome {argument name=\"character name\" default=\"agente sotto copertura bionda\"} si nasconde dietro il muro, sporgendosi con cautela mentre impugna una pistola semiautomatica nera con entrambe le mani rivolte verso l'alto; ha capelli {argument name=\"hair color\" default=\"biondi\"} legati in una coda di cavallo bassa con frangia sfilata, indossa un top corto nero senza maniche e pantaloncini tattici neri, con sudore visibile sulle braccia e sulle spalle. Il suo volto è intenzionalmente oscurato da un blocco censore quadrato color beige opaco. Sullo sfondo, sul lato destro del corridoio, si trovano esattamente due agenti della sicurezza in uniforme: un agente maschio dai capelli castani che indica un tablet portatile e un agente biondo che tiene in mano quel tablet; entrambi indossano uniformi da combattimento futuristiche blu scuro con profili azzurri, spallacci corazzati, stivali neri alti e anche i loro volti sono oscurati da blocchi censori quadrati color beige opaco abbinati. L'ambiente è un lungo corridoio di una base militare o di ricerca sotterranea con pavimento in cemento lucido riflettente, pareti in cemento grezzo, tubi a vista sul soffitto, luci a striscia fluorescenti bianco brillante, pannelli di accesso blu luminescenti, una pesante porta in metallo sulla destra e un'illuminazione blu-grigia fredda. L'atmosfera è furtiva, carica di suspense e tattica, come se la donna stesse tendendo un'imboscata o spiando le due guardie. Utilizza un'illustrazione in stile anime giapponese altamente dettagliata, linee nitide, prospettiva realistica, profondità drammatica, ombre suggestive, riflessi lucidi sul pavimento, atmosfera militare cyberpunk, inquadratura widescreen 16:9, nessun testo leggibile.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma cena de ação sci-fi em estilo anime cinematográfico em um corredor de instalação industrial mal iluminado. A composição é ampla, com um pilar de concreto dividindo a imagem: no primeiro plano à esquerda, uma jovem tensa chamada {argument name=\"character name\" default=\"agente secreta loira\"} esconde-se atrás da parede, inclinando-se cautelosamente enquanto segura uma pistola semiautomática preta com ambas as mãos apontadas para cima; ela tem cabelos {argument name=\"hair color\" default=\"loiros\"} presos em um rabo de cavalo baixo com franjas soltas, veste um top cropped preto sem mangas e shorts táticos pretos, com suor visível em seus braços e ombros. Seu rosto está intencionalmente obscurecido por um bloco censor quadrado bege opaco. No plano médio, à direita do corredor, estão exatamente dois oficiais de segurança uniformizados: um oficial de cabelos castanhos apontando para um tablet portátil e um oficial loiro segurando o tablet; ambos vestem uniformes de combate futuristas azul-marinho com detalhes em azul claro, ombreiras blindadas, botas pretas de cano alto, e seus rostos também estão obscurecidos por blocos censores quadrados bege opacos correspondentes. O ambiente é um longo corredor de base militar ou de pesquisa subterrânea com piso de concreto polido e reflexivo, paredes de concreto bruto, tubulações expostas no teto, luzes fluorescentes brancas brilhantes, painéis de acesso com brilho azul, uma porta de metal pesada à direita e iluminação azul-acinzentada fria. O clima é furtivo, de suspense e tático, como se a mulher estivesse preparando uma emboscada ou espionando os dois guardas. Use ilustração de anime japonês altamente detalhada, traços nítidos, perspectiva realista, profundidade dramática, sombras marcantes, reflexos no piso brilhante, ambiente militar cyberpunk, enquadramento widescreen 16:9, sem texto legível.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Sci-Fi Corridor Stealth Ambush",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 科幻走廊潜行伏击",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Emboscada sigilosa en pasillo de ciencia ficción",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Sci-Fi-Korridor: Stealth-Hinterhalt",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Embuscade furtive dans un couloir de science-fiction",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Imboscata stealth in un corridoio sci-fi",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Emboscada Furtiva em Corredor Sci-Fi",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic anime scene of a covert armed operative hiding from two futuristic guards in an industrial sci-fi corridor.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一幅电影级动漫场景，描绘一名秘密武装特工在工业风科幻走廊中躲避两名未来守卫的画面。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène d'anime cinématographique montrant un agent armé en mission secrète se cachant de deux gardes futuristes dans un couloir industriel de science-fiction.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Shadowsync2070s/status/2051436145322659873#reversed-0",
+      "originalId": "https://x.com/Shadowsync2070s/status/2051436145322659873#reversed-0",
+      "authors": [
+        {
+          "name": "Shadow Sync",
+          "url": "https://x.com/Shadowsync2070s"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3317
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9a19af3e666462c8",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971065337_gfib7b_HHgpQFuaIAAeMyv.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971065337_gfib7b_HHgpQFuaIAAeMyv.jpg",
+      "localPath": "public/assets/prompt_2c495be37621e9c8b2a6/dcc18f60f98e.jpg",
+      "alt": "Comic / Storyboard - Sci-Fi Corridor Stealth Ambush - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "manga",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.848Z"
+  }
+}

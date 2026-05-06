@@ -1,0 +1,107 @@
+{
+  "id": "prompt_7d33c5c25d5b9e6c8a51",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "在这个逐渐变热的季节里，我希望能更强烈地感受到那种清爽、水润的感觉。希望能更多地感受到冷乌冬面和茄子，以及将汤汁含在口中的那种爽快感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:07.015Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Refreshing Summer Udon Ad",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "清爽夏日乌冬面广告",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:09.309Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/genel_ai/status/2046501692246470871",
+      "originalId": "case-46",
+      "authors": [
+        {
+          "name": "genel_ai",
+          "url": "https://x.com/genel_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 365
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0477f58fccd47fe5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg",
+      "localPath": "public/assets/prompt_7d33c5c25d5b9e6c8a51/bf53113aaccc.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "prompt_59531163bd3f176b26c5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using the provided reference image, transform the top-down RPG town map into a polished anime-style event illustration from a human eye-level perspective. Keep the same village location and layout cues: the central stone well, the path network, the hedges, the wooden houses, and the narrow water canal on the left. Convert the 2 small sprite characters by the well into 2 full-size fantasy characters in the foreground: a silver-haired mage in a purple robe holding a staff, and a blonde elf in green-and-brown adventurer clothing, both leaning over and looking into the well. Add a cinematic JRPG feel with soft daylight, detailed painterly rendering, clean line art, and gentle depth of field. Preserve the sense that this scene is taking place in the same town square, but enrich it with natural perspective, more environmental detail, and 5 background villagers: 1 man cropped at the far left edge, 2 small figures standing on the center path in the distance, and 2 townspeople talking near the right-side buildings.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用提供的参考图像，将俯视RPG城镇地图转换为从人眼视角出发的精美动漫风格活动插画。保持相同的村庄位置和布局线索：中央的石井、道路网络、树篱、木屋以及左侧的狭窄水渠。将井边的2个小精灵角色转换为前景中的2个全尺寸奇幻角色：一位穿着紫色长袍、手持法杖的银发法师，以及一位穿着绿色和棕色冒险服装的金发精灵，两人都俯身看着井里。添加电影感的JRPG氛围，柔和的日光，详细的绘画渲染，清晰的线条艺术，以及柔和的景深。保留场景发生在同一个城镇广场的感觉，但通过自然视角、更多环境细节和5个背景村民来丰富它：1个被裁剪在远左边缘的男人，2个站在远处中央路径上的小人物，以及2个在右侧建筑附近交谈的镇民。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:18:55.116Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "RPG Map to Anime Event Scene",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "RPG地图转动漫事件场景",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:18:47.919Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/ArtwlDesign/status/2048054726768709769",
+      "originalId": "case-140",
+      "authors": [
+        {
+          "name": "ArtwlDesign",
+          "url": "https://x.com/ArtwlDesign"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 1493
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e4c3760c50be3d97",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case140/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case140/output.jpg",
+      "localPath": "public/assets/prompt_59531163bd3f176b26c5/d2425d3b046e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.555Z"
+  }
+}

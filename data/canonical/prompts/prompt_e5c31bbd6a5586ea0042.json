@@ -1,0 +1,101 @@
+{
+  "id": "prompt_e5c31bbd6a5586ea0042",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A candid indoor restaurant photo in a realistic anime-inspired style, showing two young women seated at a small worn wooden table inside a cozy Japanese izakaya with vertical wood-paneled walls and a clear plastic tent-like curtain on the right side. The camera is slightly above table height and angled diagonally toward the table, creating a casual snapshot feeling. One woman is in the left foreground with her back mostly to the viewer, leaning forward over the table; she has long straight dark hair and wears a bulky dark navy or black puffer jacket with a large hood. The second woman sits across from her on the right, facing the camera with a relaxed posture and one arm bent on the table; she has shoulder-length dark brown to black hair, a center part, a black puffer jacket, and a light inner shirt. Replace only the people with clean, natural-looking anime characters while keeping the restaurant environment photorealistic and unchanged. Preserve the mixed-media look of anime characters composited believably into a real photo. On the table, include 2 stainless steel mugs, 2 pairs of chopsticks, 1 smartphone with a bright blue case near the center-left edge of the table, 1 cigarette pack near the right woman, 1 large oval plate with thinly sliced white onions and a lemon wedge, 1 small dish of green vegetables, 1 small plate of brown food, 1 small plate with toast or grilled bread, 1 small dark bowl, 2 small empty white bowls, and 1 printed handwritten Japanese menu sheet lying on the lower right corner of the table. In the upper left background, include a wooden counter with white ceramic bottles and dishes, plus 1 handwritten Japanese wall menu poster. Warm indoor lighting, everyday nightlife atmosphere, documentary realism, detailed wood grain, slightly cluttered tabletop, authentic casual dining scene in Japan.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张写实的日式居酒屋室内照片，采用写实动漫风格，展示两位年轻女子坐在一张小而磨损的木桌旁。店内环境温馨，有垂直木墙板，右侧有一个透明塑料帐篷般的帘子。相机位置略高于桌面，对角线朝向桌子拍摄，营造出快照般的随意感。左侧前景的女子背对观众，身体前倾靠在桌上；她有长长的直黑发，穿着深海军蓝或黑色的大号羽绒服，带有大兜帽。右侧的女子坐在她对面的位置，面对相机，姿势放松，一只手臂弯曲放在桌上；她有深棕色至黑色的齐肩发，中分发型，穿着黑色羽绒服和浅色内搭。仅将人物替换为干净自然的动漫角色，同时保持餐厅环境写实且不变。保留动漫角色与真实照片混合的复合媒体效果，使其看起来真实可信。桌上包括：2个不锈钢马克杯，2双筷子，1个带有亮蓝色手机壳的智能手机放在桌子的左边缘附近，1个香烟盒放在右侧女子旁边，1个大盘子，上面有薄切的白色洋葱和一片柠檬，1小盘绿色蔬菜，1小盘棕色食物，1小盘烤面包或烤吐司，1小深碗，2小空白碗，1张印刷的手写日式菜单纸放在桌子右下角。左上背景处有一个木制柜台，上面有白色陶瓷瓶和餐具，还有1张手写的日式墙上海报。温暖的室内灯光，日常夜生活氛围，纪录片式写实感，精细的木纹，略微凌乱的桌面，日本真实的休闲用餐场景。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:33:14.504Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime Characters in Real Izakaya Photo",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/sub_raw_jin/status/2048066779835220392",
+      "originalId": "case-114",
+      "authors": [
+        {
+          "name": "sub_raw_jin",
+          "url": "https://x.com/sub_raw_jin"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 733
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_05567da2771d8140",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case114/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case114/output.jpg",
+      "localPath": "public/assets/prompt_e5c31bbd6a5586ea0042/b7132cd3fbb7.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "anime",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.562Z"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "prompt_d6126d9c1b9ec43db544",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "生成一系列工笔画书签的设计稿",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a series of design drafts for Gongbi painting bookmarks.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "绝美国风工笔画书签设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Stunning Chinese-style Gongbi Painting Bookmark Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:28:25.159Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a29c311ebc",
+      "value": "绝美国风工笔画书签设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-242",
+      "originalId": "case-242",
+      "authors": [
+        {
+          "name": "akokoi1",
+          "url": "https://x.com/akokoi1/status/2045693939584516441"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2565
+        }
+      ],
+      "rawSource": "[@akokoi1](https://x.com/akokoi1/status/2045693939584516441)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_da31363ca041f6b6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case242.jpg",
+      "upstreamPath": "../data/images/case242.jpg",
+      "localPath": "public/assets/prompt_d6126d9c1b9ec43db544/5a1b5b553512.jpg",
+      "alt": "绝美国风工笔画书签设计",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

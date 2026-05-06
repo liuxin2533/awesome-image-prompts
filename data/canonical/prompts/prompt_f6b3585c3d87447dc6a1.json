@@ -1,0 +1,106 @@
+{
+  "id": "prompt_f6b3585c3d87447dc6a1",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "请帮我生成一张视觉品牌拆解图，稍后我需要用来生成讲解的视频。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为\"SPLASH\"创建超写实时尚海报，使用参考图像中的同一位女孩（保持她的面部100%相同）。她自信地坐在一个光滑的液体风格3D SPLASH标志上，带有水花效果。一条腿放松，一条腿弯曲，强力的编辑姿势。\n背景有巨大的粗体\"SPLASH\"文字填满画面，部分位于她身后。添加小标语：\"Own Your Style.\"\n服装：现代黑色街头时尚（西装外套，修身上衣，裤子，运动鞋）。\n灯光：电影工作室，柔光主灯+轮廓光，液体标志上有反射高光。\n风格：奢侈品牌活动（Zara / H&M），干净光滑的环境。\n相机：85mm镜头，浅景深，8K，超详细，照片级真实。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:22:28.466Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "视觉品牌拆解图",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "SPLASH 时尚品牌超写实活动海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:22:31.410Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/X7649158034321/status/2049721847001047274",
+      "originalId": "case-80",
+      "authors": [
+        {
+          "name": "X7649158034321",
+          "url": "https://x.com/X7649158034321"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 751
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_060b592022917220",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case80/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case80/output.jpg",
+      "localPath": "public/assets/prompt_f6b3585c3d87447dc6a1/460064055fcd.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "品牌",
+      "标志"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

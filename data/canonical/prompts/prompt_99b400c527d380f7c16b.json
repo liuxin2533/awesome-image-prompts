@@ -1,0 +1,107 @@
+{
+  "id": "prompt_99b400c527d380f7c16b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "原文未公开，重点展示 GPT-Image2 在高仿社交截图与中文排版场景中的能力。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "The original text is not disclosed, focusing on showcasing GPT-Image2's capabilities in highly realistic social media screenshots and Chinese typography scenarios.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:59:41.931Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "朋友圈截图生成",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "WeChat Moments screenshot generator",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:59:44.727Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_71fa1e1a6d",
+      "value": "朋友圈截图生成",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-335",
+      "originalId": "case-335",
+      "authors": [
+        {
+          "name": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5405
+        }
+      ],
+      "rawSource": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5a480e25b4cc54e1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case335.png",
+      "upstreamPath": "../data/images/case335.png",
+      "localPath": "public/assets/prompt_99b400c527d380f7c16b/90460be23fff.png",
+      "alt": "朋友圈截图生成",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.594Z"
+  }
+}

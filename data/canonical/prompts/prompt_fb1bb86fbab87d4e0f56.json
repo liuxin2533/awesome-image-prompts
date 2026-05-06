@@ -1,0 +1,277 @@
+{
+  "id": "prompt_fb1bb86fbab87d4e0f56",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate an image of [scene / content]",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 [场景 / 内容] 图像",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張 [場景 / 內容] 圖像。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[scene / content] の画像を生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[scene / content] 의 이미지를 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une image de [scène / contenu].",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein Bild von [Szene / Inhalt].",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una imagen de [escena / contenido].",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Dense Chinese Layout Stress Test",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高密度中文排版压力测试",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "高密度中文排版壓力測試",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "高密度中国語レイアウトのストレステスト",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "고밀도 중국어 레이아웃 테스트",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Stress test de mise en page chinoise dense",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Stresstest für dichte chinesische Layouts",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Prueba de estrés de maquetación china densa",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This is mainly a stress test for dense Chinese text rendering. For production use, provide the exact content or upload a source image such as a real menu or document photo.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2044824800909054181"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 737
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 624
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 477
+        },
+        {
+          "file": "README:ja",
+          "line": 624
+        },
+        {
+          "file": "README:ko",
+          "line": 477
+        },
+        {
+          "file": "README:fr",
+          "line": 477
+        },
+        {
+          "file": "README:de",
+          "line": 477
+        },
+        {
+          "file": "README:es",
+          "line": 477
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0497d6defb80194e",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGCnWfOXwAAVCRn?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGCnWfOXwAAVCRn?format=jpg&name=large",
+      "localPath": "public/assets/prompt_fb1bb86fbab87d4e0f56/11397af4a2ee.jpg",
+      "alt": "Campus Daily",
+      "status": "pending"
+    },
+    {
+      "id": "asset_8c83fd0230fe68e1",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGCnYWcaoAAjFT7?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGCnYWcaoAAjFT7?format=jpg&name=large",
+      "localPath": "public/assets/prompt_fb1bb86fbab87d4e0f56/f56fb9cbb119.jpg",
+      "alt": "Restaurant Menu",
+      "status": "pending"
+    },
+    {
+      "id": "asset_81a4457d2b0c136f",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGCndpwXIAA_FCn?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGCndpwXIAA_FCn?format=jpg&name=large",
+      "localPath": "public/assets/prompt_fb1bb86fbab87d4e0f56/67a104b81421.jpg",
+      "alt": "Textbook Page",
+      "status": "pending"
+    },
+    {
+      "id": "asset_d727dd757360c879",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGCne3_akAAmK3q?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGCne3_akAAmK3q?format=jpg&name=large",
+      "localPath": "public/assets/prompt_fb1bb86fbab87d4e0f56/ad4553b90a4f.jpg",
+      "alt": "Almanac",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.609Z"
+  }
+}

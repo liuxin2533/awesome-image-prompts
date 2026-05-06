@@ -1,0 +1,102 @@
+{
+  "id": "prompt_61e92fc553baaa0abf18",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"YouTube thumbnail\",\r\n  \"style\": \"High-impact, neon green and black color scheme, cyber business aesthetic\",\r\n  \"background\": \"Dark with glowing green grid, upward chart lines, large green arrow\",\r\n  \"subject\": {\r\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"Serious Japanese man in a black suit\\\"}\",\r\n    \"position\": \"Right side\",\r\n    \"props\": \"Stacks of 10,000 Yen bills in bottom right\"\r\n  },\r\n  \"layout\": {\r\n    \"main_title\": {\r\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"月30万 ChatGPT副業 誰でも始めやすい\\\"}\",\r\n      \"position\": \"Center, huge bold white and green gradient text\"\r\n    },\r\n    \"top_left_badge\": {\r\n      \"text\": \"{argument name=\\\"top left badge\\\" default=\\\"再現性高め\\\"}\",\r\n      \"style\": \"Angled neon green box\"\r\n    },\r\n    \"top_tags\": {\r\n      \"count\": 4,\r\n      \"labels\": [\"初心者OK\", \"スマホでも可能\", \"最短で収益化\", \"具体例つき\"]\r\n    },\r\n    \"left_bullet_points\": {\r\n      \"count\": 6,\r\n      \"style\": \"Dark boxes with neon green borders and icons\",\r\n      \"items\": [\r\n        \"Lightbulb icon: 失敗しない始め方\",\r\n        \"Yen coin icon: 副業におすすめ\",\r\n        \"Chart icon: 収益化の流れ\",\r\n        \"Search icon: 案件の探し方\",\r\n        \"Chat icon: プロンプト例つき\",\r\n        \"Clipboard icon: テンプレ付き\"\r\n      ]\r\n    },\r\n    \"bottom_banner\": {\r\n      \"text\": \"{argument name=\\\"bottom banner text\\\" default=\\\"手順を徹底解説\\\"}\",\r\n      \"icons\": \"ChatGPT logo left, upward chart right\"\r\n    },\r\n    \"bottom_tags\": {\r\n      \"count\": 2,\r\n      \"labels\": [\"{argument name=\\\"year tag\\\" default=\\\"2026年最新版\\\"}\", \"即実践できる\"]\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "```json\n{\n  \"type\": \"YouTube thumbnail\",\n  \"style\": \"High-impact, neon green and black color scheme, cyber business aesthetic\",\n  \"background\": \"Dark with glowing green grid, upward chart lines, large green arrow\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"Serious Japanese man in a black suit\\\"}\",\n    \"position\": \"Right side\",\n    \"props\": \"Stacks of 10,000 Yen bills in bottom right\"\n  },\n  \"layout\": {\n    \"main_title\": {\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"¥300,000/month ChatGPT side business Anyone can start easily\\\"}\",\n      \"position\": \"Center, huge bold white and green gradient text\"\n    },\n    \"top_left_badge\": {\n      \"text\": \"{argument name=\\\"top left badge\\\" default=\\\"High reproducibility\\\"}\",\n      \"style\": \"Angled neon green box\"\n    },\n    \"top_tags\": {\n      \"count\": 4,\n      \"labels\": [\"Beginner friendly\", \"Possible with smartphone\", \"Fastest monetization\", \"With concrete examples\"]\n    },\n    \"left_bullet_points\": {\n      \"count\": 6,\n      \"style\": \"Dark boxes with neon green borders and icons\",\n      \"items\": [\n        \"Lightbulb icon: Fail-proof starting method\",\n        \"Yen coin icon: Recommended for side hustle\",\n        \"Chart icon: Monetization process\",\n        \"Search icon: How to find projects\",\n        \"Chat icon: With prompt examples\",\n        \"Clipboard icon: With templates\"\n      ]\n    },\n    \"bottom_banner\": {\n      \"text\": \"{argument name=\\\"bottom banner text\\\" default=\\\"Thorough explanation of steps\\\"}\",\n      \"icons\": \"ChatGPT logo left, upward chart right\"\n    },\n    \"bottom_tags\": {\n      \"count\": 2,\n      \"labels\": [\"{argument name=\\\"year tag\\\" default=\\\"2026 Latest Edition\\\"}\", \"Can be implemented immediately\"]\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:31:26.340Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "界面交互设计图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3e75ccb280",
+      "value": "界面交互设计图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-101",
+      "originalId": "case-101",
+      "authors": [
+        {
+          "name": "naga_zyashin",
+          "url": "https://x.com/naga_zyashin"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3934
+        }
+      ],
+      "rawSource": "[@naga\\_zyashin](https://x.com/naga_zyashin)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_beb55fb8e9f0ddda",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case101.jpg",
+      "upstreamPath": "../data/images/case101.jpg",
+      "localPath": "public/assets/prompt_61e92fc553baaa0abf18/76d98ade8064.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "youtube",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

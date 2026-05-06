@@ -1,0 +1,82 @@
+{
+  "id": "prompt_b2b71e058ba0f2efc9a2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "360度 equirectangular （正距円筒図法）画像を2:1で生成\n\nOnline 360° Panorama Viewer VR",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "360 Equirectangular Panorama Image",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/rs_elwood/status/2047192228758692036",
+      "originalId": "case-60",
+      "authors": [
+        {
+          "name": "rs_elwood",
+          "url": "https://x.com/rs_elwood"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 742
+        }
+      ]
+    }
+  ],
+  "assets": [],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.591Z"
+  }
+}

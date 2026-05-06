@@ -1,0 +1,107 @@
+{
+  "id": "prompt_08bb05896b85f6491cc8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片\n\n4.23早上测试成功",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片\n\n4.23早上测试成功",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:13:11.949Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Journey to the West Daughter Kingdom Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "西游记女儿国海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:13:15.858Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/cj858cjsoul/status/2047103956535697822",
+      "originalId": "case-66",
+      "authors": [
+        {
+          "name": "cj858cjsoul",
+          "url": "https://x.com/cj858cjsoul"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 860
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_afb6a982f598e246",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg",
+      "localPath": "public/assets/prompt_08bb05896b85f6491cc8/b431dc1e67f0.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

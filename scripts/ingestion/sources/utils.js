@@ -33,7 +33,7 @@ function fetchUrl(url) {
 function languageFromReadme(filename) {
   const base = path.basename(filename);
   if (base === 'README.md') return 'en';
-  const match = base.match(/^README[_-]([^.]+)\.md$/i);
+  const match = base.match(/^README[._-]([^.]+)\.md$/i);
   if (!match) return 'und';
   return normalizeLanguageCode(match[1]);
 }
@@ -76,4 +76,3 @@ module.exports = {
   parseMarkdownLink,
   parseDateLoose
 };
-

@@ -1,0 +1,175 @@
+{
+  "id": "prompt_75f2f6ea3274e8b3f3cd",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Please take this photo of the {argument name=\"location\" default=\"bathroom\"} and naturally organize the lived-in clutter into a {argument name=\"atmosphere\" default=\"clean, well-ordered, hotel-like\"} bathroom without changing the layout or structural elements like the tub, shower, mirror, lighting, walls, or flooring. Specifically, remove or organize the numerous bottles, refill bags, small items, cleaning supplies, nets, and extra storage baskets found on the tub lid, counter, floor, and shelves into just a few uniform bottles. Clear the floor and areas around the tub to make the space look larger. Naturally remove mirror fog, water spots, and stains from the walls and counter for a bright, clean finish. Maintain a warm, natural lighting atmosphere while making the overall photo slightly brighter and correcting distortions or dark areas. However, keep the bathroom shape, door position, tub, shower fixtures, mirror, lighting, wall panels, and floor textures faithful to the original image. Do not add new furniture or unnatural decorations. Aim for a natural, realistic finish similar to actual real estate or professional cleaning before-and-after photos.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "请处理这张 {argument name=\"location\" default=\"浴室\"} 的照片，将杂乱的生活用品自然地整理成一个 {argument name=\"atmosphere\" default=\"整洁、有序、酒店风格\"} 的浴室，且不要改变布局或结构元素，如浴缸、淋浴间、镜子、照明、墙壁或地板。具体来说，请移除或整理浴缸盖、台面、地面和架子上大量的瓶瓶罐罐、补充装袋、小物件、清洁用品、网兜和多余的储物篮，仅保留少量统一的瓶装用品。清理地面和浴缸周围区域，使空间看起来更宽敞。自然地去除镜面雾气、水渍以及墙面和台面的污渍，以呈现明亮、洁净的效果。在保持温暖、自然照明氛围的同时，适当调亮整体照片并修正畸变或阴影区域。请务必确保浴室形状、门的位置、浴缸、淋浴设施、镜子、灯具、墙板和地板纹理与原图保持一致。不要添加新的家具或不自然的装饰。目标是实现类似于真实房地产或专业清洁前后对比照片的自然、逼真效果。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Por favor, toma esta foto del {argument name=\"location\" default=\"baño\"} y organiza de forma natural el desorden cotidiano para convertirlo en un baño {argument name=\"atmosphere\" default=\"limpio, ordenado y estilo hotel\"} sin cambiar la distribución ni los elementos estructurales como la bañera, la ducha, el espejo, la iluminación, las paredes o el piso. Específicamente, elimina u organiza las numerosas botellas, bolsas de repuesto, artículos pequeños, productos de limpieza, redes y cestas de almacenamiento adicionales que se encuentran en la tapa de la bañera, el mostrador, el piso y los estantes, reduciéndolos a solo unas pocas botellas uniformes. Despeja el piso y las áreas alrededor de la bañera para que el espacio luzca más grande. Elimina de forma natural el vaho del espejo, las manchas de agua y las manchas de las paredes y el mostrador para obtener un acabado brillante y limpio. Mantén una atmósfera de iluminación cálida y natural mientras haces que la foto general sea un poco más brillante y corriges las distorsiones o áreas oscuras. Sin embargo, mantén la forma del baño, la posición de la puerta, la bañera, los accesorios de ducha, el espejo, la iluminación, los paneles de pared y las texturas del piso fieles a la imagen original. No añadas muebles nuevos ni decoraciones artificiales. Busca un acabado natural y realista similar a las fotos de antes y después de bienes raíces o limpieza profesional.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Bitte nimm dieses Foto des {argument name=\"location\" default=\"Badezimmers\"} und ordne das alltägliche Durcheinander auf natürliche Weise in ein {argument name=\"atmosphere\" default=\"sauberes, aufgeräumtes, hotelähnliches\"} Badezimmer um, ohne dabei den Grundriss oder bauliche Elemente wie die Badewanne, Dusche, Spiegel, Beleuchtung, Wände oder Bodenbeläge zu verändern. Entferne oder ordne insbesondere die zahlreichen Flaschen, Nachfüllbeutel, Kleinteile, Reinigungsmittel, Netze und zusätzlichen Aufbewahrungskörbe auf dem Wannenrand, der Ablage, dem Boden und in den Regalen zu wenigen, einheitlichen Flaschen. Räume den Boden und die Bereiche um die Badewanne herum frei, um den Raum größer wirken zu lassen. Entferne auf natürliche Weise Spiegelbeschlag, Wasserflecken und Flecken von den Wänden und der Ablage für ein helles, sauberes Ergebnis. Behalte eine warme, natürliche Lichtstimmung bei, während das Foto insgesamt etwas aufgehellt und Verzerrungen oder dunkle Bereiche korrigiert werden. Die Form des Badezimmers, die Türposition, die Badewanne, die Duscharmaturen, der Spiegel, die Beleuchtung, die Wandpaneele und die Bodenstrukturen müssen jedoch originalgetreu bleiben. Füge keine neuen Möbel oder unnatürlichen Dekorationen hinzu. Das Ziel ist ein natürliches, realistisches Ergebnis, das echten Immobilienfotos oder professionellen Vorher-Nachher-Bildern von Reinigungsarbeiten ähnelt.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Veuillez prendre cette photo de la {argument name=\"location\" default=\"salle de bain\"} et organiser naturellement le désordre quotidien pour obtenir une salle de bain {argument name=\"atmosphere\" default=\"propre, bien ordonnée, style hôtel\"} sans modifier l'agencement ou les éléments structurels tels que la baignoire, la douche, le miroir, l'éclairage, les murs ou le sol. Plus précisément, retirez ou organisez les nombreux flacons, recharges, petits objets, produits d'entretien, filets et paniers de rangement supplémentaires présents sur le rebord de la baignoire, le comptoir, le sol et les étagères, en les remplaçant par quelques flacons uniformes. Dégagez le sol et les zones autour de la baignoire pour agrandir visuellement l'espace. Supprimez naturellement la buée sur le miroir, les traces d'eau et les taches sur les murs et le comptoir pour obtenir une finition lumineuse et propre. Maintenez une atmosphère d'éclairage chaleureuse et naturelle tout en rendant la photo globale légèrement plus lumineuse et en corrigeant les distorsions ou les zones sombres. Cependant, conservez la forme de la salle de bain, la position de la porte, la baignoire, les installations de douche, le miroir, l'éclairage, les panneaux muraux et les textures du sol fidèles à l'image originale. N'ajoutez pas de nouveaux meubles ou de décorations artificielles. Visez un rendu naturel et réaliste, similaire aux photos avant/après d'agences immobilières ou de services de nettoyage professionnels.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Per favore, prendi questa foto del {argument name=\"location\" default=\"bagno\"} e organizza in modo naturale il disordine quotidiano in un bagno {argument name=\"atmosphere\" default=\"pulito, ben ordinato e in stile hotel\"}, senza modificare la disposizione o gli elementi strutturali come la vasca, la doccia, lo specchio, l'illuminazione, le pareti o il pavimento. Nello specifico, rimuovi o riordina i numerosi flaconi, le ricariche, gli oggetti piccoli, i prodotti per la pulizia, le spugne e i cestini extra presenti sul bordo della vasca, sul piano del lavabo, sul pavimento e sulle mensole, sostituendoli con pochi flaconi uniformi. Libera il pavimento e le aree intorno alla vasca per far sembrare lo spazio più ampio. Rimuovi naturalmente l'appannamento dello specchio, le macchie d'acqua e le tracce dalle pareti e dal piano del lavabo per ottenere una finitura luminosa e pulita. Mantieni un'atmosfera con un'illuminazione calda e naturale, rendendo la foto complessivamente un po' più luminosa e correggendo distorsioni o zone d'ombra. Tuttavia, mantieni fedeli all'immagine originale la forma del bagno, la posizione della porta, la vasca, la rubinetteria della doccia, lo specchio, l'illuminazione, i rivestimenti delle pareti e le texture del pavimento. Non aggiungere nuovi mobili o decorazioni artificiali. Punta a una finitura naturale e realistica, simile alle foto prima e dopo di agenzie immobiliari o servizi di pulizia professionali.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Por favor, pegue esta foto do {argument name=\"location\" default=\"banheiro\"} e organize naturalmente a bagunça do dia a dia em um banheiro {argument name=\"atmosphere\" default=\"limpo, bem organizado e com estilo de hotel\"}, sem alterar o layout ou elementos estruturais como a banheira, o chuveiro, o espelho, a iluminação, as paredes ou o piso. Especificamente, remova ou organize os diversos frascos, refis, itens pequenos, produtos de limpeza, redes e cestos de armazenamento extras encontrados na borda da banheira, na bancada, no chão e nas prateleiras, substituindo-os por apenas alguns frascos uniformes. Limpe o chão e as áreas ao redor da banheira para fazer o espaço parecer maior. Remova naturalmente o embaçado do espelho, manchas de água e marcas nas paredes e na bancada para um acabamento brilhante e limpo. Mantenha uma atmosfera de iluminação quente e natural, tornando a foto geral um pouco mais clara e corrigindo distorções ou áreas escuras. No entanto, mantenha o formato do banheiro, a posição da porta, a banheira, os metais do chuveiro, o espelho, a iluminação, os painéis das paredes e as texturas do piso fiéis à imagem original. Não adicione móveis novos ou decorações artificiais. O objetivo é um acabamento natural e realista, semelhante a fotos de antes e depois de imóveis ou de limpeza profissional.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Hotel-Style Real Estate Bathroom Staging",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 酒店风格房地产浴室场景布置",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Escenografía de baños estilo hotel para bienes raíces",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - Immobilien-Homestaging für Badezimmer im Hotel-Stil",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Mise en scène de salle de bain immobilière style hôtel",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Home Staging di bagni in stile hotel per il settore immobiliare",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Staging de Banheiros para Imóveis com Estilo de Hotel",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt designed to clean up and stage messy bathroom photos for real estate listings, making them look organized and hotel-like while preserving the structural integrity of the room.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个旨在清理并美化房地产挂牌浴室照片的提示词，在保持房间结构完整性的同时，使其看起来整洁且具有酒店质感。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt conçu pour nettoyer et mettre en scène les photos de salles de bain encombrées pour les annonces immobilières, afin de leur donner un aspect organisé et digne d'un hôtel tout en préservant l'intégrité structurelle de la pièce.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/so_ainsight/status/2050588695259234750",
+      "originalId": "https://x.com/so_ainsight/status/2050588695259234750",
+      "authors": [
+        {
+          "name": "そう｜Claude Codeで始めるAI自動化",
+          "url": "https://x.com/so_ainsight"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4496
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_654aa1ed794f3bb6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777797585729_tr7gcb_HHUmtjeaAAApr5Z.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777797585729_tr7gcb_HHUmtjeaAAApr5Z.jpg",
+      "localPath": "public/assets/prompt_75f2f6ea3274e8b3f3cd/21af1dd7d2aa.jpg",
+      "alt": "E-commerce Main Image - Hotel-Style Real Estate Bathroom Staging - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-01T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.626Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.876Z"
+  }
+}

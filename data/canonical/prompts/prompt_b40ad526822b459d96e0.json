@@ -1,0 +1,87 @@
+{
+  "id": "prompt_b40ad526822b459d96e0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "地铁上低头看手机的美丽女人，偷拍照片。\n\n能免费试一次 ⬇️",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "地铁上低头看手机的美丽女人，偷拍照片。\n\n能免费试一次 ⬇️",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:54.008Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Subway Candid Phone Snapshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "地铁偷拍手机快照",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:18:54.698Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AntCaveClub/status/2047136306485133428",
+      "originalId": "case-56",
+      "authors": [
+        {
+          "name": "AntCaveClub",
+          "url": "https://x.com/AntCaveClub"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 382
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8dfdcc2dc50bd63d",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case96/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case96/output.jpg",
+      "localPath": "public/assets/prompt_b40ad526822b459d96e0/d07e9499fdf6.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.598Z"
+  }
+}

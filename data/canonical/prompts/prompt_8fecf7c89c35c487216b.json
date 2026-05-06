@@ -1,0 +1,247 @@
+{
+  "id": "prompt_8fecf7c89c35c487216b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Please generate a key character relationship diagram for \"XXX\".",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "请为“XXX”生成一张核心角色关系图。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "請為「XXX」生成一張核心角色關係圖。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "\"XXX\" の主要人物相関図を生成してください。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "\"XXX\" 의 핵심 캐릭터 관계도를 생성해 달라.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Merci de générer un diagramme de relations entre les personnages clés pour \"XXX\".",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Bitte erstelle ein zentrales Charakterbeziehungsdiagramm für \"XXX\".",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera un diagrama de relaciones entre personajes clave para \"XXX\".",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Key Character Relationship Map",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "核心角色关系图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "核心角色關係圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "主要人物相関図",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "핵심 캐릭터 관계도",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Carte de relations entre personnages",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Schlüssel-Figurennetzwerk",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Mapa de relaciones clave entre personajes",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/yihui_indie/status/2045179926270361890",
+      "originalId": "https://x.com/yihui_indie/status/2045179926270361890",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/key-character-relationship-map"
+        },
+        {
+          "name": "yihui_indie",
+          "url": "https://x.com/yihui_indie/status/2045179926270361890"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 582
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 469
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 385
+        },
+        {
+          "file": "README:ja",
+          "line": 469
+        },
+        {
+          "file": "README:ko",
+          "line": 385
+        },
+        {
+          "file": "README:fr",
+          "line": 385
+        },
+        {
+          "file": "README:de",
+          "line": 385
+        },
+        {
+          "file": "README:es",
+          "line": 385
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/key-character-relationship-map) | [@yihui_indie](https://x.com/yihui_indie/status/2045179926270361890)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_101cdf071a576ca3",
+      "role": "unknown",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/key-character-relationship-map.jpeg",
+      "upstreamPath": "assets/opennana/key-character-relationship-map.jpeg",
+      "localPath": "public/assets/prompt_8fecf7c89c35c487216b/b77c7e905df6.jpeg",
+      "alt": "Key Character Relationship Map",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "角色",
+      "人物"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

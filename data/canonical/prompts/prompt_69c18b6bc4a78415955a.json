@@ -1,0 +1,101 @@
+{
+  "id": "prompt_69c18b6bc4a78415955a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"e-commerce landing page hero section\",\r\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"CLEAR RESET\\\"}\",\r\n  \"theme\": \"refreshing skincare, clean aesthetic, water bubbles background\",\r\n  \"color_palette\": [\"white\", \"{argument name=\\\"primary color\\\" default=\\\"teal\\\"}\", \"light blue\"],\r\n  \"layout\": {\r\n    \"header\": {\r\n      \"logo\": \"CLEAR RESET\",\r\n      \"navigation_links\": {\"count\": 5, \"labels\": [\"About Product\", \"About Pores/Acne\", \"Ingredients\", \"How to Use\", \"FAQ\"]},\r\n      \"action_buttons\": {\"count\": 2, \"labels\": [\"Buy Now\", \"My Page\"]}\r\n    },\r\n    \"hero_content\": {\r\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"毛穴・ニキビ悩みに、すっきり澄んだ肌へ。\\\"}\",\r\n      \"subheadline\": \"Balances sebum and clears pores. Non-sticky, medicated skincare for comfortable daily use.\",\r\n      \"vertical_copy\": \"Prevents recurring rough skin and acne, leading to smooth, clear skin.\"\r\n    },\r\n    \"visuals\": {\r\n      \"model\": \"{argument name=\\\"model description\\\" default=\\\"young Asian woman with clear radiant skin, hair tied up, smiling softly\\\"}\",\r\n      \"products\": {\r\n        \"count\": 2,\r\n        \"description\": \"{argument name=\\\"product type\\\" default=\\\"acne care gel tube and lotion bottle\\\"}\",\r\n        \"placement\": \"center\"\r\n      },\r\n      \"background\": \"light blue gradient with floating water bubbles\"\r\n    },\r\n    \"feature_highlights\": {\r\n      \"count\": 4,\r\n      \"style\": \"circular icons with text below\",\r\n      \"labels\": [\"Quasi-drug\", \"Pore Care\", \"Non-sticky\", \"Daily Use Morning/Night OK\"]\r\n    },\r\n    \"call_to_action\": {\r\n      \"banner_text\": \"Limited to first-time buyers\",\r\n      \"buttons\": {\"count\": 2, \"labels\": [\"Try it at a discount\", \"See details\"]}\r\n    },\r\n    \"statistics_cards\": {\r\n      \"count\": 4,\r\n      \"style\": \"white rectangular cards with large teal numbers\",\r\n      \"labels\": [\"Satisfaction 92%\", \"Pore visibility -23%\", \"Acne prevention 87%\", \"Want to repeat 97%\"]\r\n    }\r\n  }\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"e-commerce landing page hero section\",\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"CLEAR RESET\\\"}\",\n  \"theme\": \"refreshing skincare, clean aesthetic, water bubbles background\",\n  \"color_palette\": [\"white\", \"{argument name=\\\"primary color\\\" default=\\\"teal\\\"}\", \"light blue\"],\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"CLEAR RESET\",\n      \"navigation_links\": {\"count\": 5, \"labels\": [\"About Product\", \"About Pores/Acne\", \"Ingredients\", \"How to Use\", \"FAQ\"]},\n      \"action_buttons\": {\"count\": 2, \"labels\": [\"Buy Now\", \"My Page\"]}\n    },\n    \"hero_content\": {\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"For pore and acne concerns, to clear, radiant skin.\\\"}\",\n      \"subheadline\": \"Balances sebum and clears pores. Non-sticky, medicated skincare for comfortable daily use.\",\n      \"vertical_copy\": \"Prevents recurring rough skin and acne, leading to smooth, clear skin.\"\n    },\n    \"visuals\": {\n      \"model\": \"{argument name=\\\"model description\\\" default=\\\"young Asian woman with clear radiant skin, hair tied up, smiling softly\\\"}\",\n      \"products\": {\n        \"count\": 2,\n        \"description\": \"{argument name=\\\"product type\\\" default=\\\"acne care gel tube and lotion bottle\\\"}\",\n        \"placement\": \"center\"\n      },\n      \"background\": \"light blue gradient with floating water bubbles\"\n    },\n    \"feature_highlights\": {\n      \"count\": 4,\n      \"style\": \"circular icons with text below\",\n      \"labels\": [\"Quasi-drug\", \"Pore Care\", \"Non-sticky\", \"Daily Use Morning/Night OK\"]\n    },\n    \"call_to_action\": {\n      \"banner_text\": \"Limited to first-time buyers\",\n      \"buttons\": {\"count\": 2, \"labels\": [\"Try it at a discount\", \"See details\"]}\n    },\n    \"statistics_cards\": {\n      \"count\": 4,\n      \"style\": \"white rectangular cards with large teal numbers\",\n      \"labels\": [\"Satisfaction 92%\", \"Pore visibility -23%\", \"Acne prevention 87%\", \"Want to repeat 97%\"]\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:38:30.941Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "品牌视觉识别图",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_abe5286e8e",
+      "value": "品牌视觉识别图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-136",
+      "originalId": "case-136",
+      "authors": [
+        {
+          "name": "ryuya__31",
+          "url": "https://x.com/ryuya__31"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 5496
+        }
+      ],
+      "rawSource": "[@ryuya\\_\\_31](https://x.com/ryuya__31)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e400380ec3efda8f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case136.jpg",
+      "upstreamPath": "../data/images/case136.jpg",
+      "localPath": "public/assets/prompt_69c18b6bc4a78415955a/47e476b1fc7d.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "品牌"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

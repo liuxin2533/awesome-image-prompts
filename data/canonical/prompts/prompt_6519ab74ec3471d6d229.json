@@ -1,0 +1,133 @@
+{
+  "id": "prompt_6519ab74ec3471d6d229",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A surreal high-fashion editorial photograph on an empty roadside in a bleak Icelandic-looking landscape under a flat gray overcast sky. Center the composition on a small brutalist concrete bus stop shelter with stained weathered walls and a simple bench inside, and place 1 slender adult man inside the shelter wearing a tailored black suit, black shirt, and black shoes, standing casually and looking to the side. Draped over the entire bus stop is 1 enormous oversized puffer jacket in vivid burnt orange, inflated and tent-like, forming a monumental sculptural canopy over the shelter; the collar gapes open above the roof, the sleeves slump down on both sides to the wet pavement, and the glossy quilted nylon shows realistic wrinkles, puffed chambers, seams, snaps, and fashion-product detail. The road in the foreground is dark and rain-slick, with subtle reflections and a cold damp atmosphere. In the background, show low barren hills with traces of snow and a remote windswept shoreline feel. Shoot it like a luxury magazine fashion campaign with cinematic realism, centered framing, muted natural light, strong contrast between the monochrome environment and the orange coat, minimal color palette, slightly monumental scale distortion, and crisp editorial photography detail.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Surreal Orange Puffer Bus Stop Editorial",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Surreal Orange Puffer Bus Stop Editorial",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Surreal Orange Puffer Bus Stop Editorial",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Surreal Orange Puffer Bus Stop Editorial",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Surreal Orange Puffer Bus Stop Editorial",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Surreal Orange Puffer Bus Stop Editorial",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Surreal Orange Puffer Bus Stop Editorial",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic fashion editorial image of a man in a concrete bus stop sheltered by a giant orange puffer jacket, ideal for luxury campaign or conceptual style imagery.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/HBCoop_/status/2048877393138372846#reversed-0",
+      "originalId": "https://x.com/HBCoop_/status/2048877393138372846#reversed-0",
+      "authors": [
+        {
+          "name": "Heather Cooper",
+          "url": "https://x.com/HBCoop_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4010
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_7a78a94f5fc09813",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367357656_q04nws_HG8THtHXwAAAM06.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367357656_q04nws_HG8THtHXwAAAM06.jpg",
+      "localPath": "public/assets/prompt_6519ab74ec3471d6d229/8ed3edd5e7d9.jpg",
+      "alt": "Product Marketing - Surreal Orange Puffer Bus Stop Editorial - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

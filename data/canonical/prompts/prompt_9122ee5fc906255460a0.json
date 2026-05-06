@@ -1,0 +1,111 @@
+{
+  "id": "prompt_9122ee5fc906255460a0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "架空のアニメ映画のポスターをGPT image2で作成。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"promptText\": {\n    \"translations\": {\n      \"zh-CN\": \"使用GPT image2创建虚构的动画电影海报。\"\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:05:59.318Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Fictional Anime Movie Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "虚构动漫电影海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:06:02.212Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/seiiiiiiiiiiru/status/2046509734954741780",
+      "originalId": "case-40",
+      "authors": [
+        {
+          "name": "seiiiiiiiiiiru",
+          "url": "https://x.com/seiiiiiiiiiiru"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 304
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_df7a81df2c7f2937",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg",
+      "localPath": "public/assets/prompt_9122ee5fc906255460a0/ddd492daf7b3.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "anime",
+      "movie poster",
+      "海报",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.575Z"
+  }
+}

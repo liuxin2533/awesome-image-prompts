@@ -1,0 +1,100 @@
+{
+  "id": "prompt_685bb46be753067f5e6e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Candid selfie of a young woman with shoulder-length honey-blonde hair with lighter highlights, green-grey eyes, rosy cheeks, and a natural no-makeup makeup look. She is wearing a light grey hoodie and looking slightly off-camera with a relaxed expression. Background shows a cosy bedroom with warm fairy lights strung on a pink wall, a unmade bed with tan bedding, and a small white desk with stacked books. Soft, warm ambient lighting. Photo-realistic, casual, intimate feel.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "年轻女子的自然自拍，肩长的蜜金色头发带有较浅的高光，绿灰色眼睛，红润的脸颊，自然的裸妆效果。她穿着浅灰色连帽衫，表情放松，略微看向镜头外。背景是一个舒适的卧室，粉墙上挂着温暖的串灯，一张未整理的床铺着米色床品，还有一张堆满书籍的小白色书桌。柔和、温暖的氛围光线。照片般真实、休闲、亲密的感觉。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:53.508Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Candid Bedroom Selfie Photorealistic Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait",
+      "value": "portrait",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/charliejhills/status/2047969988368314526",
+      "originalId": "case-26",
+      "authors": [
+        {
+          "name": "charliejhills",
+          "url": "https://x.com/charliejhills"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 356
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5620a625208ed0fa",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case26/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case26/output.jpg",
+      "localPath": "public/assets/prompt_685bb46be753067f5e6e/93c34082529a.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.589Z"
+  }
+}

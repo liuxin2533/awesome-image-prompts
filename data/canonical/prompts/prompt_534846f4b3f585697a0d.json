@@ -1,0 +1,87 @@
+{
+  "id": "prompt_534846f4b3f585697a0d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "9:16 的图片，生成一张哔哩哔哩直播的截图，里面是 户晨风在直播，户晨风表情开心，手里拿着牌子，牌子里写着 “Austin总太性情了，大家给Austin总点点关注。”",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chenfeng broadcasting live, Hu Chenfeng has a happy expression, holding a sign in his hand, the sign says \"Boss Austin is so emotional, everyone please give Boss Austin some follows.\"",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "哔哩哔哩户晨风直播截图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Bilibili Hu Chenfeng livestream screenshot",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:17:11.462Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_44729b7b1e",
+      "value": "哔哩哔哩户晨风直播截图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-227",
+      "originalId": "case-227",
+      "authors": [
+        {
+          "name": "austinit",
+          "url": "https://x.com/austinit/status/2044994519649997183"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 1995
+        }
+      ],
+      "rawSource": "[@austinit](https://x.com/austinit/status/2044994519649997183)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b3208a283e74b757",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case227.jpg",
+      "upstreamPath": "../data/images/case227.jpg",
+      "localPath": "public/assets/prompt_534846f4b3f585697a0d/19569e385bbb.jpg",
+      "alt": "哔哩哔哩户晨风直播截图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.586Z"
+  }
+}

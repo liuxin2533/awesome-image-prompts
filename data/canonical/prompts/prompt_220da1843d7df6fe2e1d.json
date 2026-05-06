@@ -1,0 +1,176 @@
+{
+  "id": "prompt_220da1843d7df6fe2e1d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\"type\":\"high-impact Japanese promotional social media graphic for a shoe campaign\",\"canvas\":\"square 1:1 layout, glossy black luxury background with orange-gold neon lines, sparks, lens flares, metallic glow, premium e-commerce advertising style, dramatic product lighting, sharp photorealistic shoes combined with bold typography\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"ValueWalk\\\"}\",\"main_text\":{\"top_ribbon\":\"{argument name=\\\"campaign header\\\" default=\\\"オンラインショップ＆オウンドメディア公開記念\\\"}\",\"headline\":\"{argument name=\\\"main headline\\\" default=\\\"ビジネスシューズも、カジュアルシューズも\\\"}\",\"emphasis\":\"{argument name=\\\"emphasis text\\\" default=\\\"選べる！\\\"}\",\"subline\":\"FORMAL / CASUAL\",\"center_badge\":\"好きな型・サイズを選べる\",\"bottom_cta\":\"{argument name=\\\"call to action\\\" default=\\\"くわしくは固定ポストを参照 ▶\\\"}\"},\"layout\":{\"top\":\"thin orange neon hexagonal ribbon frame containing the campaign header, with the ValueWalk logo centered below it in elegant white serif type\",\"center\":\"huge bold Japanese headline in white, followed by oversized gold-orange emphasis text with 3D shine and glow; place FORMAL / CASUAL underneath in small serif lettering separated by a slash\",\"product_count\":8,\"products\":[{\"position\":\"upper left\",\"description\":\"cropped foot wearing a polished brown leather business dress shoe with beige trouser leg\"},{\"position\":\"upper right\",\"description\":\"cropped foot wearing a black casual sneaker with thick white sole and beige trouser leg\"},{\"position\":\"large lower left hero product\",\"description\":\"brown leather cap-toe lace-up formal shoe, glossy finish, black sole, angled three-quarter view\"},{\"position\":\"large lower right hero product\",\"description\":\"black low-top casual sneaker with perforated toe, black laces, cream white sole, angled three-quarter view\"},{\"position\":\"bottom left inset item 1\",\"description\":\"black formal shoe\"},{\"position\":\"bottom left inset item 2\",\"description\":\"black formal shoe\"},{\"position\":\"bottom left inset item 3\",\"description\":\"brown formal shoe\"},{\"position\":\"bottom left inset item 4\",\"description\":\"black formal shoe\"}],\"inset_sections_count\":3,\"inset_sections\":[{\"position\":\"bottom left\",\"description\":\"gold-outlined rectangular product inset showing 4 formal shoes in front of an orange ValueWalk shoe box\",\"item_count\":4},{\"position\":\"bottom center\",\"description\":\"circular black badge with thick gold neon ring and stacked white/gold Japanese text\",\"item_count\":1},{\"position\":\"bottom right\",\"description\":\"gold-outlined rectangular product inset showing 4 casual sneakers in front of an orange ValueWalk shoe box: navy/black sneaker, white sneaker, black sneaker, black sneaker\",\"item_count\":4}],\"bottom\":\"wide orange gradient arrow-shaped call-to-action banner with gold outline, bright inner glow, white bold Japanese text and a right-facing triangle arrow\"},\"style\":\"premium retail campaign, black and gold color palette with orange accents, cinematic contrast, realistic leather textures, crisp Japanese typography, polished SNS advertisement, no people visible except cropped ankles, centered symmetrical composition, clean readable text\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"用于鞋履推广的高影响力日语社交媒体宣传图\",\"canvas\":\"1:1 正方形布局，光泽感黑色奢华背景，配以橙金色霓虹线条、火花、镜头光晕、金属光泽，高端电商广告风格，戏剧性的产品布光，锐利逼真的鞋履产品结合醒目的排版\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"ValueWalk\\\"}\",\"main_text\":{\"top_ribbon\":\"{argument name=\\\"campaign header\\\" default=\\\"在线商店及自有媒体上线纪念\\\"}\",\"headline\":\"{argument name=\\\"main headline\\\" default=\\\"商务鞋，还是休闲鞋\\\"}\",\"emphasis\":\"{argument name=\\\"emphasis text\\\" default=\\\"随心选！\\\"}\",\"subline\":\"FORMAL / CASUAL\",\"center_badge\":\"可选择喜欢的款式和尺码\",\"bottom_cta\":\"{argument name=\\\"call to action\\\" default=\\\"详情请查看置顶帖 ▶\\\"}\"},\"layout\":{\"top\":\"细橙色霓虹六边形丝带边框，内含活动标题，下方居中放置优雅的白色衬线体 ValueWalk 标志\",\"center\":\"巨大的粗体日语标题（白色），后跟超大号金橙色强调文字，带有 3D 光泽和发光效果；在下方以小型衬线字体标注 FORMAL / CASUAL，并用斜杠分隔\",\"product_count\":8,\"products\":[{\"position\":\"左上\",\"description\":\"穿着抛光棕色皮革商务正装鞋的局部脚部特写，搭配米色裤腿\"},{\"position\":\"右上\",\"description\":\"穿着黑色休闲运动鞋的局部脚部特写，配有厚白色鞋底和米色裤腿\"},{\"position\":\"左下大型主推产品\",\"description\":\"棕色皮革盖头系带正装鞋，光泽饰面，黑色鞋底，四分之三侧视图\"},{\"position\":\"右下大型主推产品\",\"description\":\"黑色低帮休闲运动鞋，带有穿孔鞋头，黑色鞋带，乳白色鞋底，四分之三侧视图\"},{\"position\":\"左下嵌入项 1\",\"description\":\"黑色正装鞋\"},{\"position\":\"左下嵌入项 2\",\"description\":\"黑色正装鞋\"},{\"position\":\"左下嵌入项 3\",\"description\":\"棕色正装鞋\"},{\"position\":\"左下嵌入项 4\",\"description\":\"黑色正装鞋\"}],\"inset_sections_count\":3,\"inset_sections\":[{\"position\":\"左下\",\"description\":\"金色轮廓矩形产品嵌入框，展示橙色 ValueWalk 鞋盒前的 4 双正装鞋\",\"item_count\":4},{\"position\":\"底部中央\",\"description\":\"圆形黑色徽章，带有粗金色霓虹环和堆叠的白/金日语文字\",\"item_count\":1},{\"position\":\"右下\",\"description\":\"金色轮廓矩形产品嵌入框，展示橙色 ValueWalk 鞋盒前的 4 双休闲运动鞋：海军蓝/黑色运动鞋、白色运动鞋、黑色运动鞋、黑色运动鞋\",\"item_count\":4}],\"bottom\":\"宽大的橙色渐变箭头状行动呼吁横幅，带有金色轮廓、明亮的内部发光效果、白色粗体日语文字和一个向右的三角形箭头\"},\"style\":\"高端零售活动，黑金配色方案配以橙色点缀，电影级对比度，逼真的皮革纹理，清晰的日语排版，精致的 SNS 广告，除局部脚踝外无人像，居中对称构图，文字清晰易读\"}",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "{\"type\":\"gráfico promocional de alto impacto para redes sociales en japonés para una campaña de calzado\",\"canvas\":\"diseño cuadrado 1:1, fondo negro brillante de lujo con líneas de neón naranja dorado, chispas, destellos de lente, brillo metálico, estilo publicitario de comercio electrónico premium, iluminación dramática de producto, zapatos fotorrealistas nítidos combinados con tipografía audaz\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"ValueWalk\\\"}\",\"main_text\":{\"top_ribbon\":\"{argument name=\\\"campaign header\\\" default=\\\"オンラインショップ＆オウンドメディア公開記念\\\"}\",\"headline\":\"{argument name=\\\"main headline\\\" default=\\\"ビジネスシューズも、カジュアルシューズも\\\"}\",\"emphasis\":\"{argument name=\\\"emphasis text\\\" default=\\\"選べる！\\\"}\",\"subline\":\"FORMAL / CASUAL\",\"center_badge\":\"好きな型・サイズを選べる\",\"bottom_cta\":\"{argument name=\\\"call to action\\\" default=\\\"くわしくは固定ポストを参照 ▶\\\"}\"},\"layout\":{\"top\":\"marco de cinta hexagonal de neón naranja delgado que contiene el encabezado de la campaña, con el logotipo de ValueWalk centrado debajo en una elegante tipografía serif blanca\",\"center\":\"titular japonés grande y audaz en blanco, seguido de un texto de énfasis en oro-naranja de gran tamaño con brillo y resplandor 3D; coloque FORMAL / CASUAL debajo en letras serif pequeñas separadas por una barra\",\"product_count\":8,\"products\":[{\"position\":\"superior izquierda\",\"description\":\"pie recortado con un zapato de vestir formal de cuero marrón pulido con pantalón beige\"},{\"position\":\"superior derecha\",\"description\":\"pie recortado con un tenis casual negro con suela blanca gruesa y pantalón beige\"},{\"position\":\"producto principal grande inferior izquierdo\",\"description\":\"zapato formal con cordones y puntera de cuero marrón, acabado brillante, suela negra, vista angular de tres cuartos\"},{\"position\":\"producto principal grande inferior derecho\",\"description\":\"tenis casual negro de corte bajo con puntera perforada, cordones negros, suela color crema, vista angular de tres cuartos\"},{\"position\":\"artículo insertado inferior izquierdo 1\",\"description\":\"zapato formal negro\"},{\"position\":\"artículo insertado inferior izquierdo 2\",\"description\":\"zapato formal negro\"},{\"position\":\"artículo insertado inferior izquierdo 3\",\"description\":\"zapato formal marrón\"},{\"position\":\"artículo insertado inferior izquierdo 4\",\"description\":\"zapato formal negro\"}],\"inset_sections_count\":3,\"inset_sections\":[{\"position\":\"inferior izquierdo\",\"description\":\"recuadro de producto rectangular con borde dorado que muestra 4 zapatos formales frente a una caja de zapatos naranja de ValueWalk\",\"item_count\":4},{\"position\":\"inferior central\",\"description\":\"insignia circular negra con un anillo de neón dorado grueso y texto japonés apilado en blanco/dorado\",\"item_count\":1},{\"position\":\"inferior derecho\",\"description\":\"recuadro de producto rectangular con borde dorado que muestra 4 tenis casuales frente a una caja de zapatos naranja de ValueWalk: tenis azul marino/negro, tenis blanco, tenis negro, tenis negro\",\"item_count\":4}],\"bottom\":\"banner de llamado a la acción en forma de flecha con degradado naranja y borde dorado, brillo interior intenso, texto japonés en negrita blanca y una flecha triangular apuntando a la derecha\"},\"style\":\"campaña minorista premium, paleta de colores negro y dorado con acentos naranjas, contraste cinematográfico, texturas de cuero realistas, tipografía japonesa nítida, publicidad pulida para redes sociales, no se ven personas excepto tobillos recortados, composición simétrica centrada, texto limpio y legible\"}",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "{\"type\":\"hochwertige japanische Social-Media-Werbegrafik für eine Schuhkampagne\",\"canvas\":\"quadratisches 1:1-Layout, glänzender schwarzer Luxus-Hintergrund mit orange-goldenen Neonlinien, Funken, Lens Flares, metallischem Glanz, Premium-E-Commerce-Werbestil, dramatische Produktbeleuchtung, scharfe fotorealistische Schuhe kombiniert mit auffälliger Typografie\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"ValueWalk\\\"}\",\"main_text\":{\"top_ribbon\":\"{argument name=\\\"campaign header\\\" default=\\\"Online-Shop & Owned-Media-Launch-Aktion\\\"}\",\"headline\":\"{argument name=\\\"main headline\\\" default=\\\"Ob Business- oder Freizeitschuhe\\\"}\",\"emphasis\":\"{argument name=\\\"emphasis text\\\" default=\\\"Sie haben die Wahl!\\\"}\",\"subline\":\"FORMAL / CASUAL\",\"center_badge\":\"Wählen Sie Ihren bevorzugten Stil und Ihre Größe\",\"bottom_cta\":\"{argument name=\\\"call to action\\\" default=\\\"Mehr dazu im angepinnten Beitrag ▶\\\"}\"},\"layout\":{\"top\":\"dünner, orangefarbener, sechseckiger Neon-Rahmen mit dem Kampagnen-Header, darunter das ValueWalk-Logo zentriert in eleganter weißer Serifenschrift\",\"center\":\"große, fette japanische Überschrift in Weiß, gefolgt von übergroßem gold-orangem Hervorhebungstext mit 3D-Glanz und Leuchteffekt; darunter FORMAL / CASUAL in kleiner Serifenschrift, getrennt durch einen Schrägstrich\",\"product_count\":8,\"products\":[{\"position\":\"oben links\",\"description\":\"angeschnittener Fuß in poliertem braunen Business-Lederschuh mit beigem Hosenbein\"},{\"position\":\"oben rechts\",\"description\":\"angeschnittener Fuß in schwarzem Freizeit-Sneaker mit dicker weißer Sohle und beigem Hosenbein\"},{\"position\":\"großes Hero-Produkt unten links\",\"description\":\"brauner Business-Schnürschuh aus Leder mit Kappe, glänzendes Finish, schwarze Sohle, dreiviertel Ansicht\"},{\"position\":\"großes Hero-Produkt unten rechts\",\"description\":\"schwarzer Low-Top-Freizeit-Sneaker mit perforierter Spitze, schwarzen Schnürsenkeln, cremeweißer Sohle, dreiviertel Ansicht\"},{\"position\":\"Einsatz unten links, Artikel 1\",\"description\":\"schwarzer Business-Schuh\"},{\"position\":\"Einsatz unten links, Artikel 2\",\"description\":\"schwarzer Business-Schuh\"},{\"position\":\"Einsatz unten links, Artikel 3\",\"description\":\"brauner Business-Schuh\"},{\"position\":\"Einsatz unten links, Artikel 4\",\"description\":\"schwarzer Business-Schuh\"}],\"inset_sections_count\":3,\"inset_sections\":[{\"position\":\"unten links\",\"description\":\"gold umrandeter rechteckiger Produkteinsatz mit 4 Business-Schuhen vor einem orangefarbenen ValueWalk-Schuhkarton\",\"item_count\":4},{\"position\":\"unten mittig\",\"description\":\"kreisförmiges schwarzes Abzeichen mit dickem goldenen Neonring und gestapeltem weiß-goldenen japanischen Text\",\"item_count\":1},{\"position\":\"unten rechts\",\"description\":\"gold umrandeter rechteckiger Produkteinsatz mit 4 Freizeit-Sneakern vor einem orangefarbenen ValueWalk-Schuhkarton: marine/schwarzer Sneaker, weißer Sneaker, schwarzer Sneaker, schwarzer Sneaker\",\"item_count\":4}],\"bottom\":\"breites, orangefarbenes, pfeilförmiges Call-to-Action-Banner mit Goldrand, hellem inneren Leuchten, fettem japanischen Text und einem nach rechts zeigenden Dreieckspfeil\"},\"style\":\"Premium-Einzelhandelskampagne, Farbpalette in Schwarz und Gold mit orangefarbenen Akzenten, filmischer Kontrast, realistische Ledertexturen, klare japanische Typografie, polierte Social-Media-Werbung, keine Personen sichtbar außer angeschnittenen Knöcheln, zentrierte symmetrische Komposition, sauberer lesbarer Text\"}",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "{\"type\":\"visuel promotionnel premium pour les réseaux sociaux pour une campagne de chaussures\",\"canvas\":\"format carré 1:1, fond de luxe noir brillant avec lignes néon orange doré, étincelles, reflets d'objectif, éclat métallique, style publicitaire e-commerce premium, éclairage produit dramatique, chaussures photoréalistes nettes combinées à une typographie audacieuse\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"ValueWalk\\\"}\",\"main_text\":{\"top_ribbon\":\"{argument name=\\\"campaign header\\\" default=\\\"Célébration du lancement de la boutique en ligne et des médias propriétaires\\\"}\",\"headline\":\"{argument name=\\\"main headline\\\" default=\\\"Chaussures professionnelles et décontractées\\\"}\",\"emphasis\":\"{argument name=\\\"emphasis text\\\" default=\\\"Faites votre choix !\\\"}\",\"subline\":\"FORMAL / CASUAL\",\"center_badge\":\"Choisissez votre modèle et votre taille\",\"bottom_cta\":\"{argument name=\\\"call to action\\\" default=\\\"Plus d'infos dans le post épinglé ▶\\\"}\"},\"layout\":{\"top\":\"cadre en ruban hexagonal néon orange fin contenant l'en-tête de la campagne, avec le logo ValueWalk centré en dessous dans une élégante police serif blanche\",\"center\":\"énorme titre audacieux en blanc, suivi d'un texte d'emphase doré-orange surdimensionné avec éclat 3D ; placez FORMAL / CASUAL en dessous en petites lettres serif séparées par une barre oblique\",\"product_count\":8,\"products\":[{\"position\":\"en haut à gauche\",\"description\":\"pied coupé portant une chaussure de ville en cuir marron poli avec un pantalon beige\"},{\"position\":\"en haut à droite\",\"description\":\"pied coupé portant une basket décontractée noire avec une semelle blanche épaisse et un pantalon beige\"},{\"position\":\"grand produit phare en bas à gauche\",\"description\":\"chaussure formelle à lacets en cuir marron, finition brillante, semelle noire, vue de trois-quarts\"},{\"position\":\"grand produit phare en bas à droite\",\"description\":\"basket décontractée noire à tige basse avec bout perforé, lacets noirs, semelle crème, vue de trois-quarts\"},{\"position\":\"élément encart en bas à gauche 1\",\"description\":\"chaussure formelle noire\"},{\"position\":\"élément encart en bas à gauche 2\",\"description\":\"chaussure formelle noire\"},{\"position\":\"élément encart en bas à gauche 3\",\"description\":\"chaussure formelle marron\"},{\"position\":\"élément encart en bas à gauche 4\",\"description\":\"chaussure formelle noire\"}],\"inset_sections_count\":3,\"inset_sections\":[{\"position\":\"en bas à gauche\",\"description\":\"encart produit rectangulaire bordé d'or montrant 4 chaussures formelles devant une boîte à chaussures orange ValueWalk\",\"item_count\":4},{\"position\":\"en bas au centre\",\"description\":\"badge noir circulaire avec un anneau néon doré épais et du texte empilé blanc/or\",\"item_count\":1},{\"position\":\"en bas à droite\",\"description\":\"encart produit rectangulaire bordé d'or montrant 4 baskets décontractées devant une boîte à chaussures orange ValueWalk : basket bleu marine/noir, basket blanche, basket noire, basket noire\",\"item_count\":4}],\"bottom\":\"bannière d'appel à l'action en forme de flèche avec dégradé orange et contour doré, éclat intérieur lumineux, texte en gras et flèche triangulaire pointant vers la droite\"},\"style\":\"campagne de vente au détail premium, palette de couleurs noir et or avec accents orange, contraste cinématographique, textures de cuir réalistes, typographie nette, publicité SNS soignée, aucune personne visible à l'exception des chevilles coupées, composition symétrique centrée, texte propre et lisible\"}",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "{\"type\":\"grafica promozionale ad alto impatto per social media per una campagna di calzature\",\"canvas\":\"layout quadrato 1:1, sfondo nero lucido di lusso con linee neon arancione-oro, scintille, bagliori, riflessi metallici, stile pubblicitario e-commerce premium, illuminazione drammatica del prodotto, scarpe fotorealistiche nitide combinate con una tipografia audace\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"ValueWalk\\\"}\",\"main_text\":{\"top_ribbon\":\"{argument name=\\\"campaign header\\\" default=\\\"Inaugurazione negozio online e media proprietari\\\"}\",\"headline\":\"{argument name=\\\"main headline\\\" default=\\\"Scarpe business e scarpe casual\\\"}\",\"emphasis\":\"{argument name=\\\"emphasis text\\\" default=\\\"A scelta!\\\"}\",\"subline\":\"FORMAL / CASUAL\",\"center_badge\":\"Scegli il modello e la taglia che preferisci\",\"bottom_cta\":\"{argument name=\\\"call to action\\\" default=\\\"Per saperne di più, vedi il post fissato ▶\\\"}\"},\"layout\":{\"top\":\"sottile cornice a nastro esagonale al neon arancione contenente l'intestazione della campagna, con il logo ValueWalk centrato sotto in un elegante carattere serif bianco\",\"center\":\"enorme titolo audace in bianco, seguito da un testo di enfasi oro-arancio sovradimensionato con lucentezza e bagliore 3D; posizionare FORMAL / CASUAL sotto in piccoli caratteri serif separati da una barra\",\"product_count\":8,\"products\":[{\"position\":\"in alto a sinistra\",\"description\":\"piede ritagliato che indossa una scarpa elegante in pelle marrone lucida con pantalone beige\"},{\"position\":\"in alto a destra\",\"description\":\"piede ritagliato che indossa una sneaker casual nera con suola bianca spessa e pantalone beige\"},{\"position\":\"prodotto principale grande in basso a sinistra\",\"description\":\"scarpa formale stringata in pelle marrone con punta a mascherina, finitura lucida, suola nera, vista angolata di tre quarti\"},{\"position\":\"prodotto principale grande in basso a destra\",\"description\":\"sneaker casual nera a taglio basso con punta traforata, lacci neri, suola color crema, vista angolata di tre quarti\"},{\"position\":\"articolo inserito in basso a sinistra 1\",\"description\":\"scarpa formale nera\"},{\"position\":\"articolo inserito in basso a sinistra 2\",\"description\":\"scarpa formale nera\"},{\"position\":\"articolo inserito in basso a sinistra 3\",\"description\":\"scarpa formale marrone\"},{\"position\":\"articolo inserito in basso a sinistra 4\",\"description\":\"scarpa formale nera\"}],\"inset_sections_count\":3,\"inset_sections\":[{\"position\":\"in basso a sinistra\",\"description\":\"riquadro rettangolare con bordo dorato che mostra 4 scarpe formali davanti a una scatola per scarpe arancione ValueWalk\",\"item_count\":4},{\"position\":\"in basso al centro\",\"description\":\"badge circolare nero con spesso anello neon dorato e testo sovrapposto in bianco/oro\",\"item_count\":1},{\"position\":\"in basso a destra\",\"description\":\"riquadro rettangolare con bordo dorato che mostra 4 sneaker casual davanti a una scatola per scarpe arancione ValueWalk: sneaker blu navy/nera, sneaker bianca, sneaker nera, sneaker nera\",\"item_count\":4}],\"bottom\":\"ampio banner a forma di freccia con gradiente arancione e bordo dorato, bagliore interno luminoso, testo in grassetto e una freccia triangolare rivolta a destra\"},\"style\":\"campagna retail premium, palette di colori nero e oro con accenti arancioni, contrasto cinematografico, texture in pelle realistiche, tipografia nitida, pubblicità SNS curata, nessuna persona visibile eccetto le caviglie ritagliate, composizione simmetrica centrata, testo pulito e leggibile\"}",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "{\"type\":\"gráfico promocional de alto impacto para redes sociais para uma campanha de calçados\",\"canvas\":\"layout quadrado 1:1, fundo luxuoso preto brilhante com linhas neon laranja-dourado, faíscas, reflexos de lente, brilho metálico, estilo de publicidade premium para e-commerce, iluminação dramática de produto, calçados fotorrealistas nítidos combinados com tipografia ousada\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"ValueWalk\\\"}\",\"main_text\":{\"top_ribbon\":\"{argument name=\\\"campaign header\\\" default=\\\"Comemoração de lançamento da loja online e mídia própria\\\"}\",\"headline\":\"{argument name=\\\"main headline\\\" default=\\\"Calçados sociais e casuais\\\"}\",\"emphasis\":\"{argument name=\\\"emphasis text\\\" default=\\\"Escolha o seu!\\\"}\",\"subline\":\"FORMAL / CASUAL\",\"center_badge\":\"Escolha o modelo e tamanho de sua preferência\",\"bottom_cta\":\"{argument name=\\\"call to action\\\" default=\\\"Veja mais no post fixado ▶\\\"}\"},\"layout\":{\"top\":\"moldura de fita hexagonal neon laranja fina contendo o cabeçalho da campanha, com o logotipo da ValueWalk centralizado abaixo em elegante fonte serifada branca\",\"center\":\"manchete grande e ousada em branco, seguida por um texto de destaque dourado-alaranjado em tamanho grande com brilho 3D; coloque FORMAL / CASUAL abaixo em letras serifadas pequenas separadas por uma barra\",\"product_count\":8,\"products\":[{\"position\":\"superior esquerdo\",\"description\":\"pé cortado usando um sapato social de couro marrom polido com calça bege\"},{\"position\":\"superior direito\",\"description\":\"pé cortado usando um tênis casual preto com sola branca grossa e calça bege\"},{\"position\":\"grande produto principal inferior esquerdo\",\"description\":\"sapato social de couro marrom com biqueira, acabamento brilhante, sola preta, vista em ângulo de três quartos\"},{\"position\":\"grande produto principal inferior direito\",\"description\":\"tênis casual preto de cano baixo com biqueira perfurada, cadarços pretos, sola branca creme, vista em ângulo de três quartos\"},{\"position\":\"item inserido inferior esquerdo 1\",\"description\":\"sapato social preto\"},{\"position\":\"item inserido inferior esquerdo 2\",\"description\":\"sapato social preto\"},{\"position\":\"item inserido inferior esquerdo 3\",\"description\":\"sapato social marrom\"},{\"position\":\"item inserido inferior esquerdo 4\",\"description\":\"sapato social preto\"}],\"inset_sections_count\":3,\"inset_sections\":[{\"position\":\"inferior esquerdo\",\"description\":\"inserção retangular de produto com contorno dourado mostrando 4 sapatos sociais na frente de uma caixa de sapatos laranja da ValueWalk\",\"item_count\":4},{\"position\":\"inferior central\",\"description\":\"emblema circular preto com anel neon dourado grosso e texto em camadas branco/dourado\",\"item_count\":1},{\"position\":\"inferior direito\",\"description\":\"inserção retangular de produto com contorno dourado mostrando 4 tênis casuais na frente de uma caixa de sapatos laranja da ValueWalk: tênis azul marinho/preto, tênis branco, tênis preto, tênis preto\",\"item_count\":4}],\"bottom\":\"banner de chamada para ação em formato de seta com gradiente laranja e contorno dourado, brilho interno intenso, texto em negrito e uma seta triangular apontando para a direita\"},\"style\":\"campanha de varejo premium, paleta de cores preta e dourada com detalhes em laranja, contraste cinematográfico, texturas de couro realistas, tipografia nítida, anúncio de rede social polido, sem pessoas visíveis exceto tornozelos cortados, composição simétrica centralizada, texto limpo e legível\"}",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - ValueWalk Formal and Casual Shoe Campaign",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - ValueWalk 正式与休闲鞋履推广活动",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Imagen principal de e-commerce - Campaña de calzado formal y casual de ValueWalk",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "E-Commerce-Hauptbild - ValueWalk Kampagne für formelle und legere Schuhe",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Image principale du e-commerce - Campagne de chaussures formelles et décontractées ValueWalk",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Immagine principale e-commerce - Campagna ValueWalk per scarpe formali e casual",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Imagem Principal de E-commerce - Campanha de Calçados Formais e Casuais da ValueWalk",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a premium Japanese social media promotional graphic advertising selectable business and casual shoes for an online shop campaign.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为在线商店活动生成一张高端的日语社交媒体宣传图，用于推广可供选择的商务鞋和休闲鞋。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un visuel promotionnel premium pour les réseaux sociaux, faisant la publicité d'une sélection de chaussures professionnelles et décontractées pour une campagne de boutique en ligne.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "e-commerce-main-image",
+      "value": "E-commerce Main Image",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/toshizo2023ip/status/2050581655686152436#reversed-0",
+      "originalId": "https://x.com/toshizo2023ip/status/2050581655686152436#reversed-0",
+      "authors": [
+        {
+          "name": "デジつよ｜トシゾー【西俊明】@デジタル戦略家、ITパスポート講師",
+          "url": "https://x.com/toshizo2023ip"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4530
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f6ac44f73977b8cd",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777797626813_0q19f1_HHUXa5HbYAAYHN2.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777797626813_0q19f1_HHUXa5HbYAAYHN2.jpg",
+      "localPath": "public/assets/prompt_220da1843d7df6fe2e1d/6a6c4e0db038.jpg",
+      "alt": "E-commerce Main Image - ValueWalk Formal and Casual Shoe Campaign - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-01T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.627Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品",
+      "电商",
+      "主图"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.876Z"
+  }
+}

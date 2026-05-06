@@ -1,0 +1,81 @@
+{
+  "id": "prompt_03f610f0a90d735dd017",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "黄昏派对，多个虚假的想象投影全部排列在第十四维度",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:00:34.514Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "14th-Dimension Projection Scene",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/workingclassbud/status/2046506783850815703",
+      "originalId": "case-38",
+      "authors": [
+        {
+          "name": "workingclassbud",
+          "url": "https://x.com/workingclassbud"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 189
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a48eff4d80a66a08",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case38/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case38/output.jpg",
+      "localPath": "public/assets/prompt_03f610f0a90d735dd017/ba43c4b33929.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.572Z"
+  }
+}

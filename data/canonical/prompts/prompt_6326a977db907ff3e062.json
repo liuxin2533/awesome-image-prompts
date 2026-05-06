@@ -1,0 +1,110 @@
+{
+  "id": "prompt_6326a977db907ff3e062",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Photorealistic high-quality studio photo of a modern digital art workspace, showing the concept of “from 3D virtual character to real collectible figure.”\n\nIn the foreground, a highly realistic collectible figurine of [Character Name / Character Identity] is placed on a round wooden display stand. The character has [facial features / appearance], [hairstyle], and a [expression / personality vibe]. The figure is wearing [outfit / costume]. The overall design is refined, premium, and instantly recognizable. The figurine should have realistic collectible statue quality, with subtle resin/sculpture material feel, while still looking highly believable and visually realistic.\n\nThe pose is [character pose], natural, stable, elegant, and display-worthy. Shot from a low-angle close-up perspective with slight wide-angle distortion, vertical composition, emphasizing the full figure, clothing structure, leg lines, and pose.\n\nIn the background, there is a professional 3D character design workstation with two large curved monitors. Both monitors must show the exact same character as the foreground figurine — same face, same hairstyle, same outfit, same pose, and same overall vibe — clearly expressing the idea of turning a digital 3D character into a real physical figure.\n\nThe left monitor shows a gray sculpt / clay model view in a professional 3D sculpting software interface, similar to ZBrush. The gray model must match the foreground figure exactly in character design, pose, outfit structure, and facial identity.\n\nThe right monitor shows the fully rendered colored version of the same character, also matching the foreground figure exactly in face, hairstyle, outfit, pose, and temperament. Together, the two monitors reinforce the workflow of “digital character design → physical collectible statue.”\n\nOn the desk are a keyboard, mouse, monitor arms, drawing tablet, stylus, and other 3D modeling tools. The workspace is clean, professional, and visually premium. Optional extra elements: [weapon / accessories / theme props / IP-style design details].\n\nLighting is a mix of soft studio lighting and indoor workspace lighting. The foreground figurine is evenly lit with clear facial and material detail, while the monitors emit cool-toned tech light. Overall mood is realistic, clean, premium, slightly shallow depth of field, ultra-detailed, emphasizing the collectible figure quality, professional 3D design studio atmosphere, and the visual concept of “from digital model to real figure.”\n\nphotorealistic, ultra detailed, cinematic studio lighting, realistic figurine, collectible statue, 3D character design studio, from digital model to real figure, vertical composition",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "现代数字艺术工作棚的超写实高质量照片，展示\"从3D虚拟角色到实体收藏手办\"的概念。\n\n前景中，一个高度写实的收藏手办[角色名称/角色身份]放置在圆形木质展示台上。角色具有[面部特征/外观]，[发型]，以及[表情/个性氛围]。手办穿着[服装/戏服]。整体设计精致、高端且易于辨认。手办应具有真实的收藏雕像品质，带有细微的树脂/雕塑材质感，同时保持高度可信和视觉真实。\n\n姿势是[角色姿势]，自然、稳定、优雅且适合展示。采用低角度特写视角拍摄，带有轻微广角畸变，垂直构图，强调全身、服装结构、腿部线条和姿势。\n\n背景中，有一个专业的3D角色设计工作站，配备两个大型曲面显示器。两个显示器必须显示与前景手办完全相同的角色——相同的脸、相同的发型、相同的服装、相同的姿势和相同的整体氛围——清晰地表达了将数字3D角色转变为实体手办的理念。\n\n左侧显示器显示专业3D雕刻软件界面（类似ZBrush）中的灰色雕塑/黏土模型视图。灰色模型在角色设计、姿势、服装结构和面部特征上必须与前景手办完全匹配。\n\n右侧显示器显示同一角色的完全渲染彩色版本，在面部、发型、服装、姿势和气质上与前景手办完全匹配。两个显示器共同强化了\"数字角色设计→实体收藏雕像\"的工作流程。\n\n桌面上有键盘、鼠标、显示器支架、绘图板、触控笔和其他3D建模工具。工作空间干净、专业且视觉上高端。可选额外元素：[武器/配件/主题道具/IP风格设计细节]。\n\n照明是柔和的摄影棚灯光和室内工作照明的混合。前景手办均匀照明，面部和材质细节清晰，而显示器发出冷色调的技术光。整体氛围是写实的、干净的、高端的，具有轻微浅景深，超详细，强调收藏手办品质、专业3D设计工作室氛围以及\"从数字模型到实体手办\"的视觉概念。\n\n超写实，超详细，电影级摄影棚灯光，写实手办，收藏雕像，3D角色设计工作室，从数字模型到实体手办，垂直构图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:45:30.600Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Collectible Figure Workspace Photo",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "可收藏人物模型工作空间照片",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:46:22.875Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Shinning1010/status/2049068188399227174",
+      "originalId": "case-102",
+      "authors": [
+        {
+          "name": "Shinning1010",
+          "url": "https://x.com/Shinning1010"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 689
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b8c1b702bd096891",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case102/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case102/output.jpg",
+      "localPath": "public/assets/prompt_6326a977db907ff3e062/ff6468c0c9b4.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-28T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

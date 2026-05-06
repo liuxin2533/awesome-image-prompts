@@ -1,0 +1,100 @@
+{
+  "id": "prompt_71f85f8be4ca5d1ee73c",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a photo from 2003, shot with a digital camera, of five-year-old me with my mom and dad in the courtyard of our residential compound in China.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 2003 年，用数码相机拍摄的，5 岁的我和爸爸妈妈在中国的家，小区院子里的照片。",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "2003 Digital Camera Family Snapshot",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "photography-photorealism",
+      "value": "📷 Photography & Photorealism",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/pangyusio/status/2046991223395950810",
+      "originalId": "https://x.com/pangyusio/status/2046991223395950810",
+      "authors": [
+        {
+          "name": "pangyusio",
+          "url": "https://x.com/pangyusio/status/2046991223395950810"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 160
+        }
+      ],
+      "rawSource": "[@pangyusio](https://x.com/pangyusio/status/2046991223395950810)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2935197d867e520f",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGheYmVboAMO4ua?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGheYmVboAMO4ua?format=jpg&name=large",
+      "localPath": "public/assets/prompt_71f85f8be4ca5d1ee73c/9210d5656190.jpg",
+      "alt": "2003 Digital Camera Family Snapshot",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.590Z"
+  }
+}

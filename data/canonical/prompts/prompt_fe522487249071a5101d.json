@@ -1,0 +1,94 @@
+{
+  "id": "prompt_fe522487249071a5101d",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\n  \"image_type\": \"luxury perfume advertisement poster\",\n  \"resolution\": \"4K ultra HD (4096x5120)\",\n  \"aspect_ratio\": \"portrait (4:5)\",\n  \"style\": {\n    \"aesthetic\": \"high-end fragrance campaign (Tom Ford, Dior inspired)\",\n    \"tone\": \"dark luxury, sensual, elegant, powerful\",\n    \"color_grading\": \"deep black shadows with rich golden highlights and warm amber glow\",\n    \"lighting\": \"cinematic spotlight + golden rim light + soft fill light, dramatic shadows\",\n    \"contrast\": \"high cinematic contrast\",\n    \"depth_of_field\": \"shallow, sharp focus on face and perfume bottle\"\n  },\n  \"camera\": {\n    \"type\": \"85mm portrait lens\",\n    \"aperture\": \"f/1.6\",\n    \"angle\": \"slightly low angle, premium perspective\",\n    \"framing\": \"model upper body + product foreground\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"age_appearance\": \"young adult\",\n    \"expression\": \"confident, sensual, calm\",\n    \"styling\": {\n      \"hair\": \"voluminous, slightly messy, glossy strands with golden highlights\",\n      \"makeup\": \"soft glam, glowing skin, bold lips\",\n      \"outfit\": \"brown tailored blazer with patterned silk scarf\",\n      \"accessory\": \"thin transparent eyeglasses\"\n    }\n  },\n  \"product\": {\n    \"type\": \"luxury perfume bottle\",\n    \"brand\": \"VELORA PARFUMS\",\n    \"label\": \"EAU DE PARFUM\",\n    \"design\": \"clear crystal glass bottle, golden liquid inside, metallic gold cap\",\n    \"placement\": \"bottom center foreground on glossy black marble surface\",\n    \"effects\": \"strong reflections, golden glow, subtle condensation, cinematic shine\"\n  },\n  \"environment\": {\n    \"background\": \"dark blurred luxury interior with warm golden light streaks\",\n    \"surface\": \"black marble with reflections\",\n    \"extra_elements\": \"small flowers near bottle, golden particles, soft smoke\"\n  },\n  \"typography\": {\n    \"logo\": \"V monogram + VELORA PARFUMS\",\n    \"headline\": \"Not just a scent, It’s your Signature.\",\n    \"tagline\": \"A fragrance that speaks before you do.\",\n    \"secondary\": \"Own your essence. Leave a legacy.\",\n    \"features\": [\n      \"Long Lasting\",\n      \"Premium Ingredients\",\n      \"Crafted with Passion\"\n    ],\n    \"notes\": [\n      \"Top: Pear, Bergamot, Pink Pepper\",\n      \"Heart: Jasmine, Rose, Orris\",\n      \"Base: Vanilla, Patchouli, Musk\"\n    ],\n    \"font_style\": \"luxury serif + elegant handwritten script\",\n    \"color\": \"gold metallic\",\n    \"placement\": \"top left + mid left + bottom balanced layout\"\n  },\n  \"post_processing\": {\n    \"sharpness\": \"ultra sharp on face and bottle\",\n    \"glow\": \"golden cinematic glow\",\n    \"retouch\": \"high-end editorial finish\",\n    \"vignette\": \"subtle dark vignette\"\n  },\n  \"mood\": \"premium luxury perfume campaign, cinematic, bold brand identity\",\n  \"quality\": \"hyper-realistic, 4K ultra HD, commercial grade, award-winning fragrance ad\"\n}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "VELORA 奢华香水广告海报",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "velora",
+      "value": "VELORA 奢华香水广告海报",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-367",
+      "originalId": "case-367",
+      "authors": [
+        {
+          "name": "akkiwani703",
+          "url": "https://x.com/akkiwani703/status/2049778680969437564"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6596
+        }
+      ],
+      "rawSource": "[@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_bf74d3243fc3c928",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case367.jpg",
+      "upstreamPath": "../data/images/case367.jpg",
+      "localPath": "public/assets/prompt_fe522487249071a5101d/8d6247a27a53.jpg",
+      "alt": "VELORA 奢华香水广告海报",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.866Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "brand",
+      "logo",
+      "identity"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.934Z"
+  }
+}

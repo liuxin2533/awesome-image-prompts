@@ -1,0 +1,110 @@
+{
+  "id": "prompt_89fed0ab11be6293c73f",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a dramatic Japanese anime-style promotional thumbnail poster for an event, vertical 4:5 composition, ultra-detailed, cinematic, neon-lit, high contrast, designed like a social media announcement image. The main subject is a beautiful anime girl centered slightly right, shown from the waist up, with long flowing {argument name=\"hair color\" default=\"deep blue\"} hair blowing in the wind, decorated with small star hairpins, wearing a dark hoodie and large studio headphones around her neck, against a glowing sunset-to-night city skyline filled with sparkling lights, music-energy particles, lens flares, and flying glowing petals. Her face area is obscured by a soft rectangular blur block. Use a vivid palette of electric blue, violet, magenta, gold, and sunset orange. Fill the design with layered Japanese typography that is crisp, readable, and integrated into the art like a polished event advertisement. Include exactly 8 major text groups: top left copy reading 「始まるのは、キミと創る 音楽の物語。」 with a smaller subcopy beneath reading 「AIを使って、みんなで音楽をつくる特別な3日間。」; top right a glowing marquee sign reading 「GW連休!」 and a smaller neon box below reading 「みんなで最高の音楽をつくろう!」; center main title with small English text 「AI MUSIC BOOTCAMP 2」 above huge Japanese title text 「AI音楽 ブートキャンプ 2」; a gigantic gold metallic announcement across the middle reading 「開催決定!」; a date bar reading 「開催期間」 followed by 「5.2 SAT 土」 and 「5.4 MON 月」; a hashtag callout near the bottom reading 「参加はカンタン!! #AI音楽ブートキャンプ2 をつけて投稿するだけ!」; a lower encouragement line reading 「初心者も大歓迎! みんなで最高の音楽体験を!」; and 3 bottom feature captions with icons reading 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, and 「想いをカタチに 自分だけの1曲を」. On the left edge, add a vertical filmstrip with exactly 4 inset panels showing the same girl in music-related scenes: 1) performing on a stage before a crowd, 2) working at a music production desk with screens and equipment, 3) singing into a microphone, 4) playing an acoustic guitar. Add exactly 2 neon music-themed icon illustrations in the lower area: a tilted smartphone with a music note on the lower left and a glowing microphone with musical notes on the lower right. Make the text effects glossy, luminous, and embossed with gold and white highlights, with energetic streaks and spark explosions around the headline. The overall feeling should be inspiring, celebratory, futuristic, and emotionally uplifting, like a high-impact Japanese Golden Week music bootcamp ad for {argument name=\"event name\" default=\"AI音楽ブートキャンプ 2\"}.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个戏剧性的日本动漫风格的活动宣传缩略图海报，垂直4:5构图，超精细，电影感，霓虹灯效果，高对比度，设计成社交媒体公告图像。主角是一位美丽的动漫女孩，略微居右，腰部以上特写，有着长长的、随风飘动的{argument name=\"hair color\" default=\"深蓝色\"}头发，装饰着小星星发夹，穿着深色连帽衫，脖子上挂着大型录音室耳机，背景是发光的日落至夜晚城市天际线，布满闪烁的灯光、音乐能量粒子、镜头光晕和飞舞的发光花瓣。她的脸部区域被一个柔和的矩形模糊块遮挡。使用鲜艳的调色板：电蓝色、紫色、品红色、金色和日落橙色。用分层的日文排版填充设计，清晰易读，并像精致的活动广告一样融入艺术中。包含8个主要文本组：左上角文本为「始まるのは、キミと創る 音楽の物語。」，下方较小的副标题为「AIを使って、みんなで音楽をつくる特別な3日間。」；右上角是一个发光的霓虹灯招牌，写着「GW連休!」，下方较小的霓虹框写着「みんなで最高の音楽をつくろう!」；中心主标题上方有较小的英文文本「AI MUSIC BOOTCAMP 2」，上方是巨大的日文标题文本「AI音楽 ブートキャンプ 2」；中间横跨一个巨大的金色金属公告，写着「開催決定!」；日期栏写着「開催期間」，接着是「5.2 SAT 土」和「5.4 MON 月」；底部附近有一个标签号召，写着「参加はカンタン!! #AI音楽ブートキャンプ2 をつけて投稿するだけ!」；下方鼓励语写着「初心者も大歓迎! みんなで最高の音楽体験を!」；以及3个底部功能标题，带有图标，写着「一緒に学ぶ 仲間とつながる」、「AIで創る 新しい音楽体験」和「想いをカタチに 自分だけの1曲を」。在左侧边缘添加一个垂直胶片，包含4个嵌入面板，展示同一位女孩在音乐相关场景中的形象：1) 在舞台上表演，面对人群；2) 在音乐制作桌前工作，有屏幕和设备；3) 对着麦克风唱歌；4) 弹奏原声吉他。在下方区域添加2个霓虹音乐主题图标插图：左下方是一个倾斜的智能手机，上面有音符；右下方是一个发光的麦克风，周围有音符。使文本效果具有光泽感、发光感，并带有金色和白色浮雕效果，标题周围有动感条纹和火花爆炸。整体感觉应该具有启发性、庆祝性、未来感和情感振奋，就像一个高影响力的日本黄金周音乐训练营广告，为{argument name=\"event name\" default=\"AI音楽ブートキャンプ 2\"}。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:23:47.509Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Anime Music Bootcamp Promo Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫音乐训练营宣传海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:23:15.410Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/sorane_aimusic/status/2047507066697507134",
+      "originalId": "case-102",
+      "authors": [
+        {
+          "name": "sorane_aimusic",
+          "url": "https://x.com/sorane_aimusic"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 589
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_93bd999de50f8032",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg",
+      "localPath": "public/assets/prompt_89fed0ab11be6293c73f/244931549855.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup",
+      "thumbnail",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.558Z"
+  }
+}

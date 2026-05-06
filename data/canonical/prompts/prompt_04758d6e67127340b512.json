@@ -1,0 +1,105 @@
+{
+  "id": "prompt_04758d6e67127340b512",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "创建一个明朝朱元璋登基之后的X帖子页面",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "朱元璋登基后的推特主页",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Zhu Yuanzhang's Twitter Profile After Becoming Emperor",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:40:40.489Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_a4a2032199",
+      "value": "朱元璋登基后的推特主页",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-234",
+      "originalId": "case-234",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai/status/2045021302315249738"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2257
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai/status/2045021302315249738)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e24db500677d806a",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case234.jpg",
+      "upstreamPath": "../data/images/case234.jpg",
+      "localPath": "public/assets/prompt_04758d6e67127340b512/132d1f6c8b9e.jpg",
+      "alt": "朱元璋登基后的推特主页",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "主页"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.577Z"
+  }
+}

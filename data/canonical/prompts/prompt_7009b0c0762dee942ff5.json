@@ -1,0 +1,173 @@
+{
+  "id": "prompt_7009b0c0762dee942ff5",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a cinematic dark-fantasy portrait of a crouching goblin warrior in a misty moonlit swamp at night. The goblin has green mottled skin, oversized pointed ears with multiple silver hoop earrings, wild messy {argument name=\"hair color\" default=\"turquoise blue\"} hair, long glowing orange claw-like fingernails, and a hunched predatory posture with both hands braced near the water. Place a flat opaque dark olive square censor block directly over the center of the face, hiding the facial features. Dress the goblin in rugged tribal scavenger armor: a bronze engraved skull-shaped shoulder pauldron with a glowing cyan eye, red leather straps, tattered brown cloth skirt, heavy wrist bracers, metal rings, runic ornaments, and worn fantasy gear. The setting is a shallow marsh filled with reflective black water, reeds, fog, glowing teal mushrooms, scattered bones, and visible skulls in the foreground and background. Use a deep blue starry sky with a bright Milky Way-like nebula overhead, cool moonlight, teal bioluminescent accents, orange claw glow reflected in the water, volumetric mist, high detail, dramatic low-angle composition, realistic fantasy concept art, sharp textures, cinematic lighting, square format.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张电影级暗黑奇幻肖像，描绘一个在夜晚雾气缭绕的月光沼泽中蹲伏的地精战士。地精拥有绿色斑驳的皮肤，超大的尖耳朵上戴着多个银色圆环耳环，凌乱狂野的 {argument name=\"hair color\" default=\"绿松石蓝\"} 头发，长而发光的橙色爪状指甲，以及双手撑在水面附近的佝偻掠食姿态。在面部中心放置一个平坦的不透明深橄榄色方形遮挡块，遮住面部特征。为地精穿上粗犷的部落拾荒者盔甲：带有发光青色眼睛的青铜雕刻骷髅肩甲、红色皮带、破烂的棕色布裙、厚重的护腕、金属环、符文装饰以及磨损的奇幻装备。场景设定在一个浅沼泽中，充满反射的黑水、芦苇、雾气、发光的青色蘑菇，前景和背景中散落着骨头和可见的头骨。使用深蓝色星空，头顶有明亮的银河系般的星云，冷色调月光，青色生物发光点缀，水中反射着橙色的爪光，体积雾，高细节，戏剧性的低角度构图，写实奇幻概念艺术，清晰的纹理，电影级光效，方形格式。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un retrato de fantasía oscura cinematográfica de un guerrero duende agachado en un pantano brumoso bajo la luz de la luna durante la noche. El duende tiene piel verde moteada, orejas puntiagudas de gran tamaño con múltiples aros de plata, cabello alborotado y salvaje de color {argument name=\"hair color\" default=\"azul turquesa\"}, largas uñas brillantes de color naranja similares a garras y una postura depredadora encorvada con ambas manos apoyadas cerca del agua. Coloca un bloque de censura cuadrado de color verde oliva oscuro, opaco y plano, directamente sobre el centro de la cara, ocultando los rasgos faciales. Viste al duende con una armadura tribal de carroñero resistente: una hombrera de bronce grabada con forma de calavera con un ojo cian brillante, correas de cuero rojo, una falda de tela marrón hecha jirones, brazaletes pesados, anillos de metal, adornos rúnicos y equipo de fantasía desgastado. El entorno es un pantano poco profundo lleno de agua negra reflectante, juncos, niebla, hongos de color verde azulado brillante, huesos dispersos y calaveras visibles en el primer plano y el fondo. Utiliza un cielo estrellado azul profundo con una nebulosa brillante similar a la Vía Láctea sobre la cabeza, luz de luna fría, acentos bioluminiscentes verde azulados, el brillo naranja de las garras reflejado en el agua, niebla volumétrica, alto detalle, composición dramática de ángulo bajo, arte conceptual de fantasía realista, texturas nítidas, iluminación cinematográfica, formato cuadrado.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein cineastisches Dark-Fantasy-Porträt eines kauernden Goblin-Kriegers in einem nebligen, mondbeschienenen Sumpf bei Nacht. Der Goblin hat eine grün gesprenkelte Haut, übergroße spitze Ohren mit mehreren silbernen Creolen, wildes, zerzaustes {argument name=\"hair color\" default=\"türkisblaues\"} Haar, lange, leuchtend orangefarbene, klauenartige Fingernägel und eine geduckte, räuberische Haltung, wobei beide Hände nahe am Wasser abgestützt sind. Platziere einen flachen, undurchsichtigen, dunkelolivfarbenen quadratischen Zensurbalken direkt über die Gesichtsmitte, um die Gesichtszüge zu verbergen. Kleide den Goblin in eine robuste, stammesartige Plünderer-Rüstung: eine bronzene, gravierte, schädelförmige Schulterplatte mit einem leuchtend cyanfarbenen Auge, rote Lederriemen, einen zerfetzten braunen Stoffrock, schwere Armschienen, Metallringe, runenartige Verzierungen und abgenutzte Fantasy-Ausrüstung. Die Umgebung ist ein flaches Marschland voller reflektierendem, schwarzem Wasser, Schilf, Nebel, leuchtend türkisfarbenen Pilzen, verstreuten Knochen und sichtbaren Schädeln im Vorder- und Hintergrund. Verwende einen tiefblauen Sternenhimmel mit einem hellen, milchstraßenartigen Nebel darüber, kühles Mondlicht, türkisfarbene biolumineszente Akzente, im Wasser reflektiertes orangefarbenes Klauenleuchten, volumetrischen Nebel, hohe Detailgenauigkeit, dramatische Low-Angle-Komposition, realistische Fantasy-Concept-Art, scharfe Texturen, cineastische Beleuchtung, quadratisches Format.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un portrait de dark fantasy cinématographique d'un guerrier gobelin accroupi dans un marais brumeux au clair de lune, la nuit. Le gobelin a une peau verte tachetée, des oreilles pointues surdimensionnées avec de multiples anneaux en argent, des cheveux sauvages et ébouriffés de couleur {argument name=\"hair color\" default=\"bleu turquoise\"}, de longs ongles orange brillants semblables à des griffes, et une posture prédatrice voûtée, les deux mains posées près de l'eau. Placez un bloc de censure carré, opaque et vert olive foncé, directement sur le centre du visage, masquant les traits faciaux. Habillez le gobelin d'une armure de pillard tribal robuste : une épaulière en bronze gravée en forme de crâne avec un œil cyan brillant, des lanières en cuir rouge, une jupe en tissu marron en lambeaux, des brassards lourds, des anneaux métalliques, des ornements runiques et un équipement de fantasy usé. Le décor est un marais peu profond rempli d'eau noire réfléchissante, de roseaux, de brouillard, de champignons sarcelle bioluminescents, d'ossements éparpillés et de crânes visibles au premier plan et en arrière-plan. Utilisez un ciel étoilé bleu profond avec une nébuleuse semblable à la Voie lactée au-dessus, un clair de lune frais, des accents bioluminescents sarcelle, le reflet des griffes orange dans l'eau, une brume volumétrique, des détails élevés, une composition dramatique en contre-plongée, un concept art de fantasy réaliste, des textures nettes, un éclairage cinématographique, format carré.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un ritratto fantasy oscuro e cinematografico di un guerriero goblin accovacciato in una palude nebbiosa al chiaro di luna. Il goblin ha la pelle verde screziata, orecchie a punta sovradimensionate con molteplici orecchini a cerchio in argento, capelli selvaggi e spettinati di colore {argument name=\"hair color\" default=\"blu turchese\"}, lunghe unghie arancioni luminescenti simili ad artigli e una postura predatoria curva con entrambe le mani appoggiate vicino all'acqua. Posiziona un blocco di censura quadrato, opaco e di colore verde oliva scuro, direttamente sopra il centro del viso, nascondendo i tratti somatici. Vesti il goblin con una robusta armatura tribale da predatore: uno spallaccio in bronzo a forma di teschio inciso con un occhio ciano brillante, cinghie in pelle rossa, una gonna di stoffa marrone logora, pesanti bracciali, anelli di metallo, ornamenti runici e attrezzatura fantasy usurata. L'ambientazione è una palude poco profonda piena di acqua nera riflettente, canne, nebbia, funghi verde acqua luminescenti, ossa sparse e teschi visibili in primo piano e sullo sfondo. Usa un cielo stellato blu profondo con una nebulosa simile alla Via Lattea sopra la testa, luce lunare fredda, accenti bioluminescenti verde acqua, riflesso degli artigli arancioni nell'acqua, nebbia volumetrica, alto dettaglio, composizione drammatica dal basso, concept art fantasy realistico, texture nitide, illuminazione cinematografica, formato quadrato.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um retrato de fantasia sombria e cinematográfica de um guerreiro goblin agachado em um pântano enevoado sob o luar à noite. O goblin tem pele verde manchada, orelhas pontudas grandes com vários brincos de argola de prata, cabelo {argument name=\"hair color\" default=\"azul turquesa\"} bagunçado e selvagem, unhas longas e brilhantes em tom laranja que lembram garras, e uma postura predatória curvada com ambas as mãos apoiadas perto da água. Coloque um bloco de censura quadrado, opaco e de cor verde-oliva escuro, diretamente sobre o centro do rosto, escondendo as feições faciais. Vista o goblin com uma armadura tribal de saqueador robusta: uma ombreira de bronze em formato de crânio gravado com um olho ciano brilhante, tiras de couro vermelho, saia de tecido marrom esfarrapado, braçadeiras pesadas, anéis de metal, ornamentos rúnicos e equipamentos de fantasia desgastados. O cenário é um pântano raso cheio de água negra reflexiva, juncos, neblina, cogumelos azul-petróleo brilhantes, ossos espalhados e crânios visíveis no primeiro plano e no fundo. Use um céu estrelado azul profundo com uma nebulosa brilhante semelhante à Via Láctea acima, luar frio, detalhes bioluminescentes em azul-petróleo, reflexo do brilho das garras laranjas na água, névoa volumétrica, alto detalhe, composição dramática de ângulo baixo, arte conceitual de fantasia realista, texturas nítidas, iluminação cinematográfica, formato quadrado.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Game Asset - Moonlit Swamp Goblin Warrior",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "游戏素材 - 月光沼泽地精战士",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Activo de juego - Guerrero duende del pantano a la luz de la luna",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Spiel-Asset - Goblin-Krieger im mondbeschienenen Sumpf",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ressource de jeu - Guerrier gobelin dans un marais au clair de lune",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Asset di gioco - Guerriero Goblin nella palude al chiaro di luna",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Ativo de Jogo - Guerreiro Goblin do Pântano ao Luar",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic fantasy prompt for generating a detailed goblin warrior crouching in a bioluminescent swamp under a starry night sky.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个电影级奇幻提示词，用于生成在星空下、生物发光沼泽中蹲伏的精细地精战士。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de fantasy cinématographique pour générer un guerrier gobelin détaillé accroupi dans un marais bioluminescent sous un ciel étoilé.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "game-asset",
+      "value": "Game Asset",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/CosmicCowboyCDN/status/2051362653516493143#reversed-1",
+      "originalId": "https://x.com/CosmicCowboyCDN/status/2051362653516493143#reversed-1",
+      "authors": [
+        {
+          "name": "Cosmic Cowboy",
+          "url": "https://x.com/CosmicCowboyCDN"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 5106
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_06290c4793a6675d",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971057740_z3mqsw_HHfmwCFaoAAmD5s.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971057740_z3mqsw_HHfmwCFaoAAmD5s.jpg",
+      "localPath": "public/assets/prompt_7009b0c0762dee942ff5/be62297e1925.jpg",
+      "alt": "Game Asset - Moonlit Swamp Goblin Warrior - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.628Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "portrait",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.855Z"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "prompt_ef8ce802d12b8dbd538e",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a 3D Insane detailed exploded assembly drawing of {argument name=\"subject\" default=\"[subject or object]\"}",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Infographic / Edu Visual - 3D Exploded Assembly Drawing",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "信息图 / 教育视觉图 - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "資訊圖表 / 教育視覺化內容 - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "インフォグラフィック / 教育ビジュアル - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "인포그래픽 / 교육용 시각 자료 - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Infographic / Hình ảnh giáo dục - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Infografía / Visual educativo - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Infografik / Edu Visual - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Infographie / Visuel éducatif - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Infografica / Contenuto Visual Educativo - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Infográfico / Visual Educacional - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "İnfografik / Eğitici Görsel - 3D Exploded Assembly Drawing",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt for generating detailed technical 3D exploded view drawings of any subject.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographic",
+      "value": "Infographic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Ankit_patel211/status/2048834306379075759",
+      "originalId": "https://x.com/Ankit_patel211/status/2048834306379075759",
+      "authors": [
+        {
+          "name": "ANKIT PATEL 🇮🇳 | AI",
+          "url": "https://x.com/Ankit_patel211"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2155
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f7ccd7c1e5a05039",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367268325_td7g6d_HG7r8UsawAAzN86.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367268325_td7g6d_HG7r8UsawAAzN86.jpg",
+      "localPath": "public/assets/prompt_ef8ce802d12b8dbd538e/0465e8741095.jpg",
+      "alt": "Infographic / Edu Visual - 3D Exploded Assembly Drawing - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_c34e2213e8209262",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367268035_4wefwy_HG7r8VLbcAANYT6.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367268035_4wefwy_HG7r8VLbcAANYT6.jpg",
+      "localPath": "public/assets/prompt_ef8ce802d12b8dbd538e/873042a67813.jpg",
+      "alt": "Infographic / Edu Visual - 3D Exploded Assembly Drawing - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.123Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "infographic",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

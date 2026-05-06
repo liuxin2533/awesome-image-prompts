@@ -1,0 +1,106 @@
+{
+  "id": "prompt_172c97d2cb834c02a96c",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "请你生成 《XXX》 的关键人物关系图。",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Please generate a key character relationship diagram for \"XXX\".",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "关键人物关系图谱",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Key Person Relationship Graph",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:52:16.430Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e865be9232",
+      "value": "关键人物关系图谱",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-241",
+      "originalId": "case-241",
+      "authors": [
+        {
+          "name": "yihui_indie",
+          "url": "https://x.com/yihui_indie/status/2045179926270361890"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2545
+        }
+      ],
+      "rawSource": "[@yihui\\_indie](https://x.com/yihui_indie/status/2045179926270361890)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5ebe162be1c9b1c1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case241.jpg",
+      "upstreamPath": "../data/images/case241.jpg",
+      "localPath": "public/assets/prompt_172c97d2cb834c02a96c/c8d0b4d05168.jpg",
+      "alt": "关键人物关系图谱",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "diagram",
+      "图谱"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.579Z"
+  }
+}

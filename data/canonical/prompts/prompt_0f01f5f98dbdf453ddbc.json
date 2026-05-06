@@ -1,0 +1,109 @@
+{
+  "id": "prompt_0f01f5f98dbdf453ddbc",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:47:27.333Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "鱼眼镜面复古咖啡馆人像",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Fisheye Lens Retro Café Portrait",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:47:31.436Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_adaee1a523",
+      "value": "鱼眼镜面复古咖啡馆人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-357",
+      "originalId": "case-357",
+      "authors": [
+        {
+          "name": "harboriis",
+          "url": "https://x.com/harboriis/status/2049044698900361241"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6243
+        }
+      ],
+      "rawSource": "[@harboriis](https://x.com/harboriis/status/2049044698900361241)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c8507d51fe3fa397",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case357.jpg",
+      "upstreamPath": "../data/images/case357.jpg",
+      "localPath": "public/assets/prompt_0f01f5f98dbdf453ddbc/cc1bdace10e8.jpg",
+      "alt": "鱼眼镜面复古咖啡馆人像",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "camera",
+      "人像"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.578Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "prompt_d4c69db527a2a2bf11cc",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a high-end fitness boxing poster in a 3-panel collage layout.\nTop panel:\nA strong athletic woman boxer wearing a red boxing outfit (sports bra, shorts, boxing gloves, high socks, boxing shoes) leaning confidently against a worn heavy punching bag. Studio background with large bold red typography behind her (word like “FOCUS” or “IMPACT” in oversized distressed font). Clean minimal lighting, editorial fitness campaign style.\nBottom left panel:\nClose-up portrait of the same woman (shoulders and face). Slight sweat, sharp jawline, focused expression looking sideways. Boxing gloves visible near frame. Background includes large faded typography partially visible.\nBottom right panel:\nFull-body action pose of the woman throwing a punch at the punching bag. Dynamic stance, strong posture, gloves in motion. Same studio setup and typography in background (different word like “STRENGTH” or “DISCIPLINE”).\nOverall style:\npremium fitness brand campaign, dramatic studio lighting, soft shadows, high contrast, ultra realistic, sharp details, minimal color palette (red, white, neutral tones), clean composition, cinematic photography, 4k quality.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Fitness Boxing Campaign Collage Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AIwithSynthia/status/2049718330353975652",
+      "originalId": "case-189",
+      "authors": [
+        {
+          "name": "AIwithSynthia",
+          "url": "https://x.com/AIwithSynthia"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 2054
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_14eea37ce74d54b6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case189/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case189/output.jpg",
+      "localPath": "public/assets/prompt_d4c69db527a2a2bf11cc/0b964b23b2c1.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

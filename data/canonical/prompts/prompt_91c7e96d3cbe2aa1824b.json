@@ -1,0 +1,109 @@
+{
+  "id": "prompt_91c7e96d3cbe2aa1824b",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A realistic photo of a Chinese high school math exam paper, printed inblack and white on slightly gray paper, titled “数学试卷”, with multiplechoice questions and math formulas, including a small 3D geometrycube diagram. The paper is photographed casually with asmartphone, slightly tilted, with uneven lighting, soft shadows, andminor blur. The text is in Chinese with a mix of bold title font andstandard serif body font. Realistic paper texture, exam layout,authentic classroom test sheet style.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A realistic photo of a Chinese high school math exam paper, printed in black and white on slightly gray paper, titled \"Mathematics Test Paper\", with multiple choice questions and math formulas, including a small 3D geometry cube diagram. The paper is photographed casually with a smartphone, slightly tilted, with uneven lighting, soft shadows, and minor blur. The text is in Chinese with a mix of bold title font and standard serif body font. Realistic paper texture, exam layout, authentic classroom test sheet style.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:57:40.803Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic Visualization Design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:57:43.469Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-13",
+      "originalId": "case-13",
+      "authors": [
+        {
+          "name": "94156710894",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 213
+        }
+      ],
+      "rawSource": "小红书号94156710894"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c1549885839be2f7",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case13.jpg",
+      "upstreamPath": "../data/images/case13.jpg",
+      "localPath": "public/assets/prompt_91c7e96d3cbe2aa1824b/e9d43db9cc50.jpg",
+      "alt": "A realistic photo of a Ch...",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

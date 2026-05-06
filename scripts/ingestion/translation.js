@@ -3,7 +3,7 @@
 const path = require('path');
 const { Report } = require('./core/report');
 const { normalizeLanguageCode, slugify, contentHash } = require('./core/text');
-const { readJson, writeDerivedData } = require('./core/persist');
+const { readCanonicalDataset, writeDerivedData } = require('./core/persist');
 const { loadProjectEnv } = require('../workbench/config');
 const { refreshCurrentReport } = require('./report-current');
 
@@ -221,7 +221,7 @@ function createZhipuProvider(options = {}) {
 async function translateMissing(options = {}) {
   const projectRoot = options.projectRoot || defaultProjectRoot();
   const datasetPath = path.join(projectRoot, 'data', 'canonical', 'prompts.json');
-  const dataset = options.dataset || readJson(datasetPath);
+  const dataset = options.dataset || readCanonicalDataset(datasetPath);
   const languages = options.languages?.length ? options.languages : ['zh-CN'];
   const fields = options.fields?.length ? options.fields : FIELD_NAMES;
   const report = options.report || new Report();

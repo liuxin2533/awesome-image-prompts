@@ -1,0 +1,91 @@
+{
+  "id": "prompt_7f4b3fde03c1673165ee",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a premium futuristic infographic poster for Samsung Galaxy S25 in a vertical 3:4 aspect ratio. Center the Galaxy S25 phone lineup with multiple sleek smartphones shown from front and back angles, including a silver S Pen beside the main phone. Use a deep cosmic blue space background with stars, glowing light trails, luminous orbit rings, reflective glass floor, and distant mountain silhouettes for depth.\n\nAt the top, add bold clean text: \"SAMSUNG\", large headline \"Galaxy S25\", subheadline \"Galaxy AI\", and tagline \"Intelligence in Motion.\"\n\nDesign the poster as a modern tech infographic with thin glowing connector lines, circular icon badges, and clean feature callouts around the phones. Add these sections:\n\nGalaxy AI: Smarter every day\nPro Grade Camera: Capture every detail\nNext Gen Performance: Power that evolves\nBuilt to Last: Stronger inside and out\nBrilliant Display: Immersive edge to edge viewing\nS Pen Support: Create, sketch, and work faster\n\nAt the bottom, create a glowing spec bar with small icons and short feature blocks:\n\nPremium Design: Sleek. Refined. Timeless.\n50MP High-Resolution Camera: Stunning clarity, day or night.\nSnapdragon 8 Elite for Galaxy: Built for speed. Ready for anything.\nAll Day Battery: More power. Less worry.\nIP68 Water & Dust Resistance: Adventure ready. Worry free.\nStorage Options: Up to 1TB storage.\n\nStyle: ultra premium Samsung style product advertising, clean futuristic UI design, metallic typography, blue white neon glow, realistic phone render, sharp readable typography, cinematic lighting, glossy reflections, high end commercial poster, no humans, no messy text, no watermark.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Samsung Galaxy S25 Infographic Poster",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster",
+      "value": "poster",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/bmx_ai13/status/2051692833258852586",
+      "originalId": "case-190",
+      "authors": [
+        {
+          "name": "bmx_ai13",
+          "url": "https://x.com/bmx_ai13"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 2076
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f225e00dab4b7916",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case190/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case190/output.jpg",
+      "localPath": "public/assets/prompt_7f4b3fde03c1673165ee/4742b6f7029e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "poster"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.584Z"
+  }
+}

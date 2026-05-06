@@ -1,0 +1,100 @@
+{
+  "id": "prompt_00e72d18de97aa1157ab",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A soft {argument name=\"bottle color\" default=\"cream-colored\"} bottle with a {argument name=\"pump color\" default=\"pastel yellow\"} pump stands on a matte podium, surrounded by silky foam and {argument name=\"flowers\" default=\"chamomile blossoms\"}. The background is a pale yellow gradient with subtle bubble details. The label emphasizes organic chamomile and calming care. Fresh chamomile flowers accentuate the gentle appeal.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个柔软的{argument name=\"bottle color\" default=\"cream-colored\"}瓶身，配有{argument name=\"pump color\" default=\"pastel yellow\"}的泵，放置在哑光展示台上，周围环绕着丝滑的泡沫和{argument name=\"flowers\" default=\"chamomile blossoms\"}。背景是淡黄色渐变，带有细微的气泡细节。标签强调有机洋甘菊和舒缓护理。新鲜的洋甘菊花朵增添了温柔的吸引力。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:00:02.242Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Skincare Product Studio Shot",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Strength04_X/status/2047636636847231222",
+      "originalId": "case-114",
+      "authors": [
+        {
+          "name": "Strength04_X",
+          "url": "https://x.com/Strength04_X"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 17
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_dc296da4b0cf5209",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg",
+      "localPath": "public/assets/prompt_00e72d18de97aa1157ab/3d53075fe229.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "illustration"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.551Z"
+  }
+}

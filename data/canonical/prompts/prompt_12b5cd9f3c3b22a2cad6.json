@@ -1,0 +1,176 @@
+{
+  "id": "prompt_12b5cd9f3c3b22a2cad6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Realistic fashion editorial portrait, close medium shot of a beautiful adult {argument name=\"subject\" default=\"Asian young woman\"} with refined facial features, long straight light-blonde hair falling over her shoulders, soft airy bangs framing her face, pale porcelain skin, slim figure, cold and elegant expression, deep captivating eyes with slightly winged eyeliner, bold red lips. She is seated sideways in a relaxed, slightly lazy pose on a black leather sofa, with a soft white faux-fur blanket beneath her. Her right hand elegantly holds the rim of a wine glass. She wears a {argument name=\"dress\" default=\"fitted black glossy mini dress or sleek patent-finish short dress\"}, subtly contouring her body line, with a metallic zipper detail at the chest. Around her neck are layered sparkling rhinestone necklaces. A silver ring is worn on the ring finger of her left hand, and her fingernails are painted black. Framing focuses on her face and upper body, intimate editorial composition, eye-level with a slight high-angle perspective. The background is dark and moody, minimal, luxurious, and mysterious, creating a premium cinematic atmosphere. Lighting is soft but directional, sculpting the contours of her face and body while emphasizing the glossy texture of the dress, the shine of the jewelry, and the rich material of the black leather sofa. Style: high-end fashion magazine photography, cinematic realism, Korean-style luxury editorial portrait, slightly moody indoor atmosphere, elegant sensuality, premium visual language, realistic skin texture, soft diffusion, subtle film grain, muted dark tones, low-saturation luxury palette, shallow depth of field, polished but natural, detailed, sophisticated, visually striking. Add a small handwritten signature text “{argument name=\"signature\" default=\"BubbleBrain\"}” in the bottom-right corner.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "写实时尚大片肖像，中近景拍摄一位美丽的成年 {argument name=\"subject\" default=\"亚洲年轻女性\"}，五官精致，长直浅金色秀发垂落在肩头，轻盈的空气刘海修饰脸型，白皙如瓷的肌肤，身材苗条，表情清冷优雅，深邃迷人的双眸画着微挑的眼线，涂着大胆的红唇。她侧身以一种放松、略带慵懒的姿势坐在黑色皮质沙发上，身下铺着柔软的白色仿皮草毯子。右手优雅地握着酒杯边缘。她身着一件 {argument name=\"dress\" default=\"修身黑色亮面迷你裙或光滑漆皮短裙\"}，微妙地勾勒出身体线条，胸前带有金属拉链细节。颈间佩戴着叠戴的闪亮水钻项链。左手无名指戴着一枚银色戒指，指甲涂成黑色。构图聚焦于面部和上半身，亲密的时尚大片构图，平视视角并带有轻微的高角度。背景深邃而阴郁，极简、奢华且神秘，营造出高级的电影感氛围。光线柔和且具有方向性，雕刻出面部和身体的轮廓，同时强调了礼服的亮面质感、珠宝的光泽以及黑色皮沙发的丰富材质。风格：高端时尚杂志摄影，电影级写实，韩系奢华时尚肖像，略带阴郁的室内氛围，优雅的感性，高级视觉语言，真实的皮肤纹理，柔光漫射，细腻的胶片颗粒感，柔和的暗色调，低饱和度奢华配色，浅景深，精致而自然，细节丰富，高级感，视觉冲击力强。在右下角添加一段小的手写签名文字 “{argument name=\"signature\" default=\"BubbleBrain\"}”。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Retrato editorial de moda realista, plano medio corto de una hermosa mujer adulta {argument name=\"subject\" default=\"mujer joven asiática\"} con rasgos faciales refinados, cabello largo y lacio de color rubio claro cayendo sobre sus hombros, flequillo suave y ligero que enmarca su rostro, piel de porcelana pálida, figura esbelta, expresión fría y elegante, ojos profundos y cautivadores con un ligero delineado alado, labios rojos intensos. Está sentada de lado en una pose relajada y ligeramente despreocupada sobre un sofá de cuero negro, con una suave manta de piel sintética blanca debajo. Su mano derecha sostiene elegantemente el borde de una copa de vino. Viste un {argument name=\"dress\" default=\"vestido corto negro brillante ajustado o vestido corto de acabado tipo charol\"}, que contornea sutilmente su silueta, con un detalle de cremallera metálica en el pecho. Alrededor de su cuello lleva collares de pedrería brillantes en capas. Lleva un anillo de plata en el dedo anular de la mano izquierda y sus uñas están pintadas de negro. El encuadre se centra en su rostro y la parte superior del cuerpo, composición editorial íntima, a la altura de los ojos con una ligera perspectiva de ángulo picado. El fondo es oscuro y sofisticado, minimalista, lujoso y misterioso, creando una atmósfera cinematográfica de alta calidad. La iluminación es suave pero direccional, esculpiendo los contornos de su rostro y cuerpo mientras enfatiza la textura brillante del vestido, el brillo de las joyas y el material rico del sofá de cuero negro. Estilo: fotografía de revista de moda de alta gama, realismo cinematográfico, retrato editorial de lujo estilo coreano, atmósfera interior ligeramente sofisticada, sensualidad elegante, lenguaje visual premium, textura de piel realista, difusión suave, grano de película sutil, tonos oscuros apagados, paleta de lujo de baja saturación, profundidad de campo reducida, pulido pero natural, detallado, sofisticado, visualmente impactante. Añade un pequeño texto de firma manuscrita “{argument name=\"signature\" default=\"BubbleBrain\"}” en la esquina inferior derecha.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Realistisches Mode-Editorial-Porträt, mittlere Nahaufnahme einer wunderschönen erwachsenen {argument name=\"subject\" default=\"jungen asiatischen Frau\"} mit feinen Gesichtszügen, langem, glattem, hellblondem Haar, das über ihre Schultern fällt, weichem, luftigem Pony, der ihr Gesicht umrahmt, blasser Porzellanhaut, schlanker Figur, kühlem und elegantem Ausdruck, tiefen, fesselnden Augen mit leicht geschwungenem Eyeliner, kräftig roten Lippen. Sie sitzt seitlich in einer entspannten, leicht lässigen Pose auf einem schwarzen Ledersofa, unter ihr eine weiche, weiße Kunstfelldecke. Ihre rechte Hand hält elegant den Rand eines Weinglases. Sie trägt ein {argument name=\"dress\" default=\"eng anliegendes, glänzendes schwarzes Minikleid oder ein elegantes kurzes Kleid mit Lack-Finish\"}, das ihre Körperlinie dezent betont, mit einem metallischen Reißverschluss-Detail an der Brust. Um ihren Hals trägt sie geschichtete, funkelnde Strass-Halsketten. An ihrem linken Ringfinger trägt sie einen silbernen Ring, ihre Fingernägel sind schwarz lackiert. Der Bildausschnitt konzentriert sich auf ihr Gesicht und ihren Oberkörper, intime Editorial-Komposition, auf Augenhöhe mit einer leichten Perspektive von oben. Der Hintergrund ist dunkel und stimmungsvoll, minimalistisch, luxuriös und geheimnisvoll, was eine erstklassige filmische Atmosphäre schafft. Die Beleuchtung ist weich, aber gerichtet, modelliert die Konturen ihres Gesichts und Körpers und betont gleichzeitig die glänzende Textur des Kleides, den Glanz des Schmucks und das edle Material des schwarzen Ledersofas. Stil: High-End-Modemagazin-Fotografie, filmischer Realismus, luxuriöses Editorial-Porträt im koreanischen Stil, leicht stimmungsvolle Innenraumatmosphäre, elegante Sinnlichkeit, erstklassige Bildsprache, realistische Hauttextur, weiche Diffusion, subtile Filmkörnung, gedämpfte dunkle Töne, entsättigte Luxus-Farbpalette, geringe Schärfentiefe, poliert, aber natürlich, detailliert, raffiniert, visuell beeindruckend. Fügen Sie in der unteren rechten Ecke einen kleinen handschriftlichen Signaturtext „{argument name=\"signature\" default=\"BubbleBrain\"}“ hinzu.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Portrait éditorial de mode réaliste, plan moyen rapproché d'une belle femme adulte {argument name=\"subject\" default=\"jeune femme asiatique\"} aux traits raffinés, longs cheveux blonds lisses tombant sur ses épaules, frange légère et aérienne encadrant son visage, peau de porcelaine pâle, silhouette élancée, expression froide et élégante, yeux profonds et captivants avec un léger trait d'eye-liner, lèvres rouge vif. Elle est assise de profil dans une pose détendue, légèrement nonchalante, sur un canapé en cuir noir, avec une douce couverture en fausse fourrure blanche en dessous. Sa main droite tient élégamment le bord d'un verre à vin. Elle porte une {argument name=\"dress\" default=\"mini-robe noire brillante ajustée ou robe courte à l'aspect verni\"}, soulignant subtilement la ligne de son corps, avec un détail de fermeture éclair métallique sur la poitrine. Autour de son cou, des colliers de strass étincelants superposés. Une bague en argent est portée à l'annulaire de sa main gauche, et ses ongles sont peints en noir. Le cadrage se concentre sur son visage et le haut de son corps, composition éditoriale intime, à hauteur des yeux avec une légère perspective en plongée. L'arrière-plan est sombre et feutré, minimaliste, luxueux et mystérieux, créant une atmosphère cinématographique haut de gamme. L'éclairage est doux mais directionnel, sculptant les contours de son visage et de son corps tout en soulignant la texture brillante de la robe, l'éclat des bijoux et la matière riche du canapé en cuir noir. Style : photographie de magazine de mode haut de gamme, réalisme cinématographique, portrait éditorial de luxe à la coréenne, atmosphère intérieure légèrement feutrée, sensualité élégante, langage visuel premium, texture de peau réaliste, diffusion douce, léger grain de film, tons sombres atténués, palette de luxe à faible saturation, faible profondeur de champ, poli mais naturel, détaillé, sophistiqué, visuellement saisissant. Ajoutez un petit texte de signature manuscrite « {argument name=\"signature\" default=\"BubbleBrain\"} » dans le coin inférieur droit.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Ritratto editoriale di moda realistico, primo piano medio di una bellissima donna adulta {argument name=\"subject\" default=\"giovane donna asiatica\"} dai tratti del viso raffinati, lunghi capelli biondo chiaro lisci che le ricadono sulle spalle, morbida frangia sfilata che le incornicia il viso, pelle di porcellana pallida, figura snella, espressione fredda ed elegante, occhi profondi e magnetici con un leggero eyeliner allungato, labbra rosso acceso. È seduta di lato in una posa rilassata, leggermente pigra, su un divano in pelle nera, con una morbida coperta in ecopelliccia bianca sotto di lei. La mano destra regge elegantemente il bordo di un calice di vino. Indossa un {argument name=\"dress\" default=\"mini abito nero lucido attillato o un elegante abito corto in vernice\"}, che delinea sottilmente le linee del corpo, con un dettaglio a zip metallica sul petto. Al collo porta collane di strass scintillanti a strati. Un anello d'argento è indossato sull'anulare della mano sinistra e le unghie sono dipinte di nero. L'inquadratura si concentra sul viso e sulla parte superiore del corpo, composizione editoriale intima, all'altezza degli occhi con una leggera prospettiva dall'alto. Lo sfondo è scuro e suggestivo, minimale, lussuoso e misterioso, creando un'atmosfera cinematografica premium. L'illuminazione è morbida ma direzionale, scolpisce i contorni del viso e del corpo enfatizzando la texture lucida dell'abito, la brillantezza dei gioielli e il materiale pregiato del divano in pelle nera. Stile: fotografia da rivista di moda di alta gamma, realismo cinematografico, ritratto editoriale di lusso in stile coreano, atmosfera da interni leggermente cupa, sensualità elegante, linguaggio visivo premium, texture della pelle realistica, diffusione morbida, sottile grana della pellicola, toni scuri tenui, palette di lusso a bassa saturazione, profondità di campo ridotta, curato ma naturale, dettagliato, sofisticato, visivamente sorprendente. Aggiungi un piccolo testo con firma scritta a mano “{argument name=\"signature\" default=\"BubbleBrain\"}” nell'angolo in basso a destra.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Retrato editorial de moda realista, plano médio fechado de uma bela mulher adulta {argument name=\"subject\" default=\"jovem mulher asiática\"} com traços faciais refinados, longos cabelos lisos loiro-claros caindo sobre os ombros, franja leve e suave emoldurando o rosto, pele de porcelana pálida, silhueta esguia, expressão fria e elegante, olhos profundos e cativantes com delineador levemente puxado, lábios vermelhos marcantes. Ela está sentada de lado em uma pose relaxada e levemente descontraída em um sofá de couro preto, com um cobertor macio de pele sintética branca por baixo. Sua mão direita segura elegantemente a borda de uma taça de vinho. Ela veste um {argument name=\"dress\" default=\"minivestido preto brilhante ajustado ou vestido curto de acabamento envernizado\"}, contornando sutilmente a linha do corpo, com um detalhe de zíper metálico no peito. Ao redor do pescoço, colares de strass brilhantes em camadas. Um anel de prata é usado no dedo anelar da mão esquerda, e suas unhas estão pintadas de preto. O enquadramento foca no rosto e na parte superior do corpo, composição editorial íntima, ao nível dos olhos com uma perspectiva levemente em ângulo alto. O fundo é escuro e intimista, minimalista, luxuoso e misterioso, criando uma atmosfera cinematográfica premium. A iluminação é suave, porém direcional, esculpindo os contornos do rosto e do corpo enquanto enfatiza a textura brilhante do vestido, o brilho das joias e o material rico do sofá de couro preto. Estilo: fotografia de revista de moda de alto padrão, realismo cinematográfico, retrato editorial de luxo estilo coreano, atmosfera interna levemente intimista, sensualidade elegante, linguagem visual premium, textura de pele realista, difusão suave, granulação de filme sutil, tons escuros suaves, paleta de luxo de baixa saturação, profundidade de campo rasa, polido, porém natural, detalhado, sofisticado, visualmente impactante. Adicione um pequeno texto de assinatura manuscrita “{argument name=\"signature\" default=\"BubbleBrain\"}” no canto inferior direito.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Luxury Asian Fashion Editorial",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 奢华亚洲时尚大片",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Editorial de moda asiática de lujo",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Luxuriöses asiatisches Mode-Editorial",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Éditorial de mode asiatique de luxe",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Editoriale di moda asiatica di lusso",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Editorial de Moda Asiática de Luxo",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A premium cinematic editorial portrait prompt featuring an elegant Asian woman in a glossy black dress within a moody, luxurious setting.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高级电影感时尚肖像提示词，描绘了一位身着亮面黑色礼服的优雅亚洲女性，置身于深沉奢华的场景中。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de portrait éditorial cinématographique haut de gamme mettant en scène une élégante femme asiatique dans une robe noire brillante au sein d'un cadre luxueux et feutré.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/BubbleBrain/status/2051181895992631383",
+      "originalId": "https://x.com/BubbleBrain/status/2051181895992631383",
+      "authors": [
+        {
+          "name": "BubbleBrain",
+          "url": "https://x.com/BubbleBrain"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1394
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_933f6d64476c198b",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777970995977_skuh9k_HHdDDxHa4AAJLZV.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777970995977_skuh9k_HHdDDxHa4AAJLZV.jpg",
+      "localPath": "public/assets/prompt_12b5cd9f3c3b22a2cad6/f0f76f495ab0.jpg",
+      "alt": "Profile / Avatar - Luxury Asian Fashion Editorial - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.844Z"
+  }
+}

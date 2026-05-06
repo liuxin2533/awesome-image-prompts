@@ -1,0 +1,107 @@
+{
+  "id": "prompt_03eded6bdca064268996",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a 3D Insane detailed exploded assembly drawing of [subject or object]",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a 3D Insane detailed exploded assembly drawing of [subject or object]",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:40:27.533Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "手机爆炸拆解图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Mobile phone explosion disassembly diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:40:31.406Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_6314199956",
+      "value": "手机爆炸拆解图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-361",
+      "originalId": "case-361",
+      "authors": [
+        {
+          "name": "Ankit_patel211",
+          "url": "https://x.com/Ankit_patel211/status/2048834306379075759"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6388
+        }
+      ],
+      "rawSource": "[@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f3edda97698a7710",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg",
+      "upstreamPath": "../data/images/case361.jpg",
+      "localPath": "public/assets/prompt_03eded6bdca064268996/e1dee4f08ac6.jpg",
+      "alt": "手机爆炸拆解图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "diagram",
+      "拆解"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.577Z"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "id": "prompt_87f9b8895ece98cb58c8",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Convert this illustration into a {argument name=\"style\" default=\"high-definition digital painting style\"} that emphasizes strong sunlight filtering through trees. Intense dappled light powerfully illuminates the entire character, with very bright highlights and sharp light patterns boldly expressed on the face, hair, and clothing. Increase contrast to emphasize the comparison between explosive brilliance and deep shadows. The gem-like eyes reflect light particularly strongly, creating a mystical, divine, and dramatic atmosphere. Fully maintain the original composition and character.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "将此插画转换为 {argument name=\"style\" default=\"高清数字绘画风格\"}，强调透过树木过滤的强烈阳光。强烈的斑驳光影有力地照亮了整个角色，面部、头发和衣物上大胆地呈现出非常明亮的高光和清晰的光影图案。增加对比度以强调爆发性光芒与深邃阴影之间的对比。如宝石般的眼睛反射出强烈的光芒，营造出一种神秘、神圣且富有戏剧性的氛围。完整保留原始构图和角色。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Convierte esta ilustración en un {argument name=\"style\" default=\"estilo de pintura digital de alta definición\"} que enfatice la luz solar intensa filtrándose a través de los árboles. Una intensa luz moteada ilumina poderosamente a todo el personaje, con reflejos muy brillantes y patrones de luz nítidos expresados audazmente en el rostro, el cabello y la ropa. Aumenta el contraste para enfatizar la comparación entre el brillo explosivo y las sombras profundas. Los ojos, similares a gemas, reflejan la luz con especial intensidad, creando una atmósfera mística, divina y dramática. Mantén completamente la composición y el personaje originales.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Wandle diese Illustration in einen {argument name=\"style\" default=\"hochaufgelösten digitalen Malstil\"} um, der starkes, durch Bäume gefiltertes Sonnenlicht betont. Intensives, gesprenkeltes Licht beleuchtet den gesamten Charakter kraftvoll, wobei sehr helle Highlights und scharfe Lichtmuster auf Gesicht, Haar und Kleidung markant hervortreten. Erhöhe den Kontrast, um den Vergleich zwischen explosiver Brillanz und tiefen Schatten zu unterstreichen. Die juwelenartigen Augen reflektieren das Licht besonders stark und erzeugen eine mystische, göttliche und dramatische Atmosphäre. Die ursprüngliche Komposition und der Charakter bleiben vollständig erhalten.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Convertissez cette illustration en un {argument name=\"style\" default=\"style de peinture numérique haute définition\"} qui met l'accent sur une forte lumière solaire filtrant à travers les arbres. Une lumière tachetée intense illumine puissamment l'ensemble du personnage, avec des reflets très brillants et des motifs lumineux nets exprimés avec audace sur le visage, les cheveux et les vêtements. Augmentez le contraste pour souligner la comparaison entre une brillance explosive et des ombres profondes. Les yeux semblables à des pierres précieuses reflètent la lumière avec une intensité particulière, créant une atmosphère mystique, divine et dramatique. Préservez intégralement la composition et le personnage d'origine.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Converti questa illustrazione in uno {argument name=\"style\" default=\"stile di pittura digitale ad alta definizione\"} che enfatizzi la forte luce solare che filtra tra gli alberi. Un'intensa luce filtrata illumina potentemente l'intero personaggio, con riflessi molto luminosi e motivi di luce nitidi espressi con audacia sul viso, sui capelli e sugli abiti. Aumenta il contrasto per enfatizzare il confronto tra la brillantezza esplosiva e le ombre profonde. Gli occhi, simili a gemme, riflettono la luce in modo particolarmente intenso, creando un'atmosfera mistica, divina e drammatica. Mantieni completamente la composizione e il personaggio originali.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Converta esta ilustração em um {argument name=\"style\" default=\"estilo de pintura digital de alta definição\"} que enfatize a luz solar forte filtrada pelas árvores. Uma luz filtrada intensa ilumina poderosamente todo o personagem, com reflexos muito brilhantes e padrões de luz nítidos expressos de forma ousada no rosto, cabelo e roupas. Aumente o contraste para enfatizar a comparação entre o brilho explosivo e as sombras profundas. Os olhos, semelhantes a joias, refletem a luz com especial intensidade, criando uma atmosfera mística, divina e dramática. Mantenha totalmente a composição e o personagem originais.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Digital Painting Sunlight Enhancement",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 数字绘画阳光增强",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Realce de luz solar para pintura digital",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Digitale Malerei: Optimierung von Sonnenlicht",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Amélioration de l'éclairage solaire pour peinture numérique",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Miglioramento della luce solare per pittura digitale",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Realce de Luz Solar em Pintura Digital",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A transformation prompt designed to convert an illustration into a high-definition digital painting style. It emphasizes strong sunlight, dappled light patterns, and high contrast while preserving the original character and composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个旨在将插画转换为高清数字绘画风格的转换提示词。它强调强烈的阳光、斑驳的光影效果和高对比度，同时保留原始的角色和构图。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt de transformation conçu pour convertir une illustration en un style de peinture numérique haute définition. Il met l'accent sur un fort ensoleillement, des jeux de lumière tachetée et un contraste élevé, tout en préservant le personnage et la composition d'origine.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/notoro_ai/status/2051270626023989409",
+      "originalId": "https://x.com/notoro_ai/status/2051270626023989409",
+      "authors": [
+        {
+          "name": "のとろ",
+          "url": "https://x.com/notoro_ai"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1098
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_38840b793298ceeb",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971028312_4ji5z9_HHeQGvQbMAAvCPS.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971028312_4ji5z9_HHeQGvQbMAAvCPS.jpg",
+      "localPath": "public/assets/prompt_87f9b8895ece98cb58c8/4e434420a1c5.jpg",
+      "alt": "Profile / Avatar - Digital Painting Sunlight Enhancement - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_83897d06222691f7",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971028233_h5vh04_HHeQHmBaoAAidTN.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971028233_h5vh04_HHeQHmBaoAAidTN.jpg",
+      "localPath": "public/assets/prompt_87f9b8895ece98cb58c8/c833e236705c.jpg",
+      "alt": "Profile / Avatar - Digital Painting Sunlight Enhancement - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_526e09dcf22af8ca",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971028236_ex3by2_HHeQIbBbkAAzGAR.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971028236_ex3by2_HHeQIbBbkAAzGAR.jpg",
+      "localPath": "public/assets/prompt_87f9b8895ece98cb58c8/e29d18196dd5.jpg",
+      "alt": "Profile / Avatar - Digital Painting Sunlight Enhancement - Image 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_d41a21a5f87d661c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971029264_l5zcd9_HHeQSbqagAAcSE7.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971029264_l5zcd9_HHeQSbqagAAcSE7.jpg",
+      "localPath": "public/assets/prompt_87f9b8895ece98cb58c8/9c985b08f157.jpg",
+      "alt": "Profile / Avatar - Digital Painting Sunlight Enhancement - Image 4",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.621Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "profile",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.857Z"
+  }
+}

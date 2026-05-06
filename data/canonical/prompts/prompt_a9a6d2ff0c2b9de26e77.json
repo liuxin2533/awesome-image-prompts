@@ -1,0 +1,164 @@
+{
+  "id": "prompt_a9a6d2ff0c2b9de26e77",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name=\"theme\" default=\"ranking of emperors in Chinese history\"}.\r\n\r\nRequire the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification:\r\n- Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery)\r\n- Bottom supporting structure\r\n- Hovering symbols or spiritual symbols above\r\n- Scene wrapping elements\r\n- Metaphor system\r\n- Color hierarchy\r\n- Material contrast\r\n- Lighting logic\r\n- Title, subtitle, and auxiliary copy\r\n- Brand sense and high-end expression\r\n\r\nThe final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing.\r\n\r\n[Overall Style]\r\nUltra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a \"single main visual core,\" not messy, not like a collage, and not like a regular e-commerce poster.\r\n\r\n[Automatic Derivation Rules]\r\nAI must automatically decide based on the [theme]:\r\n1. Core visual metaphor\r\n2. Subject type and posture\r\n3. Form of supporting structure\r\n4. Form of suspended elements\r\n5. Scene shell and spatial atmosphere\r\n6. Main, auxiliary, and emphasis colors\r\n7. Material combinations\r\n8. Text temperament and layout style\r\n\r\n[Composition Rules]\r\n- Absolute sense of premium quality\r\n- Strong central order, overall unity\r\n- Allows for axial symmetry or epic composition near the central axis\r\n- Clear visual gravity, forming clear levels from top to bottom\r\n- Edge negative space is clean, restrained, and has room to breathe\r\n\r\n[Visual Quality]\r\n- Ultra-high detail\r\n- Clear volumetric light\r\n- Authentic materials\r\n- Natural reflection, refraction, shadows, fog, and depth of field\r\n- Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster\r\n\r\n[Typography System]\r\n- Overall 90% visual, 10% text\r\n- AI automatically generates the most matching main title and subtitle based on the [theme]\r\n- Title must be concise, sharp, and powerful\r\n- Text should be as minimal and accurate as possible; do not stack words\r\n\r\n[Signature Requirement]\r\nNaturally add the author signature in the bottom corner: @a9quant",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name=\"theme\" default=\"ranking of emperors in Chinese history\"}.\n\nRequire the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification:\n- Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery)\n- Bottom supporting structure\n- Hovering symbols or spiritual symbols above\n- Scene wrapping elements\n- Metaphor system\n- Color hierarchy\n- Material contrast\n- Lighting logic\n- Title, subtitle, and auxiliary copy\n- Brand sense and high-end expression\n\nThe final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing.\n\n[Overall Style]\nUltra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a \"single main visual core,\" not messy, not like a collage, and not like a regular e-commerce poster.\n\n[Automatic Derivation Rules]\nAI must automatically decide based on the [theme]:\n1. Core visual metaphor\n2. Subject type and posture\n3. Form of supporting structure\n4. Form of suspended elements\n5. Scene shell and spatial atmosphere\n6. Main, auxiliary, and emphasis colors\n7. Material combinations\n8. Text temperament and layout style\n\n[Composition Rules]\n- Absolute sense of premium quality\n- Strong central order, overall unity\n- Allows for axial symmetry or epic composition near the central axis\n- Clear visual gravity, forming clear levels from top to bottom\n- Edge negative space is clean, restrained, and has room to breathe\n\n[Visual Quality]\n- Ultra-high detail\n- Clear volumetric light\n- Authentic materials\n- Natural reflection, refraction, shadows, fog, and depth of field\n- Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster\n\n[Typography System]\n- Overall 90% visual, 10% text\n- AI automatically generates the most matching main title and subtitle based on the [theme]\n- Title must be concise, sharp, and powerful\n- Text should be as minimal and accurate as possible; do not stack words\n\n[Signature Requirement]\nNaturally add the author signature in the bottom corner: @a9quant",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:13:51.373Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic visualization design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:13:53.305Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-88",
+      "originalId": "case-88",
+      "authors": [
+        {
+          "name": "A9Quant",
+          "url": "https://x.com/A9Quant"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3280
+        }
+      ],
+      "rawSource": "[@A9Quant](https://x.com/A9Quant)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-89",
+      "originalId": "case-89",
+      "authors": [
+        {
+          "name": "A9Quant",
+          "url": "https://x.com/A9Quant"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3347
+        }
+      ],
+      "rawSource": "[@A9Quant](https://x.com/A9Quant)"
+    },
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-90",
+      "originalId": "case-90",
+      "authors": [
+        {
+          "name": "A9Quant",
+          "url": "https://x.com/A9Quant"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 3414
+        }
+      ],
+      "rawSource": "[@A9Quant](https://x.com/A9Quant)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_20b16dba1a50d4bd",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case88.jpg",
+      "upstreamPath": "../data/images/case88.jpg",
+      "localPath": "public/assets/prompt_a9a6d2ff0c2b9de26e77/c0f60e1d8db3.jpg",
+      "alt": "theme",
+      "status": "pending"
+    },
+    {
+      "id": "asset_4079b187e4f5495e",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case89.jpg",
+      "upstreamPath": "../data/images/case89.jpg",
+      "localPath": "public/assets/prompt_a9a6d2ff0c2b9de26e77/9307cc8383b4.jpg",
+      "alt": "theme",
+      "status": "pending"
+    },
+    {
+      "id": "asset_f49fcca105f59b88",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case90.jpg",
+      "upstreamPath": "../data/images/case90.jpg",
+      "localPath": "public/assets/prompt_a9a6d2ff0c2b9de26e77/049be83c069a.jpg",
+      "alt": "theme",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "infographic",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.596Z"
+  }
+}

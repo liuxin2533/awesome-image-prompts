@@ -1,0 +1,166 @@
+{
+  "id": "prompt_6ec25a0fed679893da92",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A realistic, casual outdoor smartphone selfie of a {argument name=\"subject age\" default=\"middle-aged woman\"} from the chest up, framed slightly off-center and shot at arm’s length on a phone camera. She has voluminous shoulder-length wavy hair in a warm {argument name=\"hair color\" default=\"auburn red\"}, softly tousled by a light breeze and glowing with golden backlight from the low sun behind her. She is wearing a dark {argument name=\"top color\" default=\"deep forest green\"} V-neck knit top or cardigan, a delicate thin chain necklace, and a small hoop earring barely visible through her hair. The setting is an outdoor terrace or walkway beside a pale stone wall, with leafy trees filling most of the background and a faint building partially visible through the branches. The sun appears in the upper left corner, creating natural lens flare, warm rim lighting around the hair, gentle highlights on the shoulders, and realistic late-afternoon golden hour contrast. The composition should feel organic and unpolished rather than studio-perfect: slight handheld phone-camera perspective, natural skin texture, casual posture, authentic lighting, shallow depth from the phone sensor, and a candid everyday social-media selfie aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Golden Hour Organic Outdoor Selfie",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Golden Hour Organic Outdoor Selfie",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a realistic, candid outdoor golden-hour selfie with natural phone-camera lighting and an authentic social-media feel.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/f3dericobartoli/status/2048821037513560430#reversed-1",
+      "originalId": "https://x.com/f3dericobartoli/status/2048821037513560430#reversed-1",
+      "authors": [
+        {
+          "name": "🍀 Federico Bartoli",
+          "url": "https://x.com/f3dericobartoli"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 838
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_be1725ec1c9e1272",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367285499_npgwqi_HG7f3r_W8AEmojc.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367285499_npgwqi_HG7f3r_W8AEmojc.jpg",
+      "localPath": "public/assets/prompt_6ec25a0fed679893da92/21ccf5e17bf6.jpg",
+      "alt": "Profile / Avatar - Golden Hour Organic Outdoor Selfie - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "ui",
+      "social"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.566Z"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "id": "prompt_340b6e4b5a11b322b6fe",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a high-design character relationship poster for [theme]. This should not be a normal illustration, but a relationship map that combines information visualization, narrative structure, poster-level design, and strong fidelity to the style of the original work.\r\n\r\nAutomatically do the following:\r\n- identify the source work and its core setting\r\n- select the 6 to 12 most representative key characters, with an upper limit of 15 if needed\r\n- identify and show the most important relationships, such as family ties, romance, friendship, alliances, hostility, mentor-student links, master-servant links, manipulation, betrayal, and hidden relationships\r\n- choose the most suitable composition automatically, such as protagonist-centered, dual-core confrontation, faction layout, family tree, or time-evolution structure\r\n- extract the work's style DNA, including color palette, worldbuilding symbols, texture language, emotional tone, layout rhythm, and iconic motifs\r\n- convert those style elements into the overall visual design of the relationship map rather than simply copying an official poster\r\n- use different colors, line styles, and arrows to distinguish relationship types while keeping the layout clear and readable\r\n- emphasize the core characters most strongly, secondary characters next, and minor characters less prominently to create a clear visual hierarchy\r\n- keep every character name easy to read, optionally with role or faction tags if useful\r\n\r\nThe final piece should:\r\n- make the main relationships understandable at a glance\r\n- strongly evoke the original work's identity and setting\r\n- combine infographic clarity with premium poster design\r\n- feel unified, polished, complete, and suitable for social sharing or poster display\r\n- avoid cheap flowchart vibes, clutter, or information overload",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 [主题] 生成一张高设计感的角色关系海报。这不应是一张普通插画，而应是一张融合信息可视化、叙事结构、海报级设计以及对原作风格高度还原的关系图。\r\n\r\n自动完成以下事项：\r\n- 识别原作及其核心设定\r\n- 选出 6 到 12 位最具代表性的关键角色，必要时上限 15 位\r\n- 识别并展示最重要的关系，例如血缘、爱情、友情、联盟、敌对、师徒、主仆、操控、背叛和隐藏关系\r\n- 自动选择最合适的构图，如主角中心式、双核心对抗式、阵营布局、家谱式或时间演化结构\r\n- 提取作品的风格 DNA，包括配色、世界观符号、材质语言、情绪气质、版式节奏和标志性母题\r\n- 将这些风格元素转化为整张关系图的视觉设计，而不是简单复制官方海报\r\n- 用不同颜色、线型和箭头区分不同关系类型，同时保持版面清晰可读\r\n- 核心角色最突出，次要角色次之，边缘角色更弱，以形成明确的视觉层级\r\n- 确保每个角色名都清晰易读，必要时可加上身份或阵营标签\r\n\r\n最终成品应当：\r\n- 让主要关系一眼就能看懂\r\n- 强烈唤起原作的辨识度和世界设定\r\n- 兼具信息图清晰度与高级海报设计感\r\n- 整体统一、精致、完整，适合社交分享或海报展示\r\n- 避免廉价流程图感、混乱或信息过载",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "為 [theme] 生成一張高設計感角色關係海報。它不是普通插畫，而是一張結合資訊視覺化、敘事結構、海報級設計與原作風格忠實度的關係圖。系統需自動識別原作與核心設定、挑選 6 到 12 位關鍵角色、整理血緣／愛情／友情／同盟／敵對等重要關係、選擇最合適構圖、抽取作品的風格 DNA，並透過色彩、線條與箭頭建立清晰層級，讓主要關係一眼看懂，同時具備高級海報質感。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[theme] の高デザインなキャラクター相関ポスターを生成する。単なるイラストではなく、情報可視化、物語構造、ポスターレベルのデザイン、原作スタイルへの高い忠実度を組み合わせた関係図にする。\r\n\r\n自動で行うこと:\r\n- 原作とその核心設定を特定する\r\n- 最も代表的な主要キャラクター 6〜12 人を選ぶ。必要なら上限 15 人\r\n- 血縁、恋愛、友情、同盟、敵対、師弟、主従、操縦、裏切り、隠された関係など、重要な関係を特定して可視化する\r\n- 主人公中心、二極対立、勢力図、家系図、時間発展型など最適な構図を自動選択する\r\n- 配色、世界観シンボル、質感言語、感情トーン、レイアウトのリズム、象徴モチーフを含むスタイル DNA を抽出する\r\n- それらを公式ポスターのコピーではなく、関係図全体のビジュアルデザインに変換する\r\n- 関係タイプを区別するため色・線種・矢印を使い分けつつ、読みやすさを保つ\r\n- 中核キャラを最も強く、次点をその次、端役をさらに弱くし、明快な視覚階層を作る\r\n- 役立つ場合は役割や所属タグも付けつつ、すべてのキャラクター名を読みやすく保つ\r\n\r\n最終成果物は:\r\n- 主な関係が一目で理解できる\r\n- 原作のアイデンティティと世界設定を強く喚起する\r\n- インフォグラフィックの明快さと高級ポスターのデザインを両立する\r\n- 統一感があり、洗練され、完成度が高く、SNS 共有やポスター掲示に向く\r\n- 安っぽいフローチャート感、雑然さ、情報過多を避ける",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[theme] 의 고디자인 캐릭터 관계도 포스터를 생성한다. 원작을 식별하고, 핵심 인물 6~12명을 선택하고, 혈연/로맨스/우정/동맹/적대 같은 관계를 정리해 시각화한다. 작품의 색, 상징, 세계관 DNA를 추출해 단순한 공식 포스터 복제가 아니라 정보 시각화와 프리미엄 포스터 디자인을 결합한 결과물로 만든다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une affiche de relations entre personnages très design pour [thème], capable d'identifier l'œuvre source, sélectionner les personnages clés, structurer liens familiaux / romantiques / politiques / conflictuels, extraire l'ADN visuel de l'œuvre et produire une carte lisible, élégante et partageable.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge ein gestalterisch starkes Charakterbeziehungs-Poster für [Thema], das das Ursprungswerk erkennt, die Schlüsselfiguren auswählt, Verwandtschaft, Liebe, Freundschaft, Allianzen und Konflikte strukturiert darstellt und daraus eine hochwertige, gut lesbare visuelle Karte macht.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera un póster de relaciones entre personajes, muy cuidado en diseño, para [tema]. Debe identificar la obra, seleccionar personajes clave, estructurar vínculos familiares, románticos, amistosos, políticos o de conflicto, y convertir el ADN visual de la obra en un mapa elegante, legible y digno de compartirse.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Character Relationship Diagram Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "角色关系海报",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "角色關係海報",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "キャラクター相関ポスター",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "캐릭터 관계도 포스터",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche de relations entre personnages",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Charakterbeziehungs-Poster",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster de relaciones entre personajes",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "infographics-education-documents",
+      "value": "📚 Infographics, Education & Documents",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e156bfaa6d",
+      "value": "📚 信息图、教育与文档",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_e5cd4ed1b2",
+      "value": "📚 資訊圖、教育與文件",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a835d8e9f",
+      "value": "📚 インフォグラフィック・教育・文書",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_b316df1fa2",
+      "value": "📚 인포그래픽, 교육, 문서",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infographies-education-et-documents",
+      "value": "📚 Infographies, éducation et documents",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografiken-bildung-und-dokumente",
+      "value": "📚 Infografiken, Bildung und Dokumente",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "infografias-educacion-y-documentos",
+      "value": "📚 Infografías, educación y documentos",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046263153546174935"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 928
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 767
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 580
+        },
+        {
+          "file": "README:ja",
+          "line": 765
+        },
+        {
+          "file": "README:ko",
+          "line": 580
+        },
+        {
+          "file": "README:fr",
+          "line": 580
+        },
+        {
+          "file": "README:de",
+          "line": 580
+        },
+        {
+          "file": "README:es",
+          "line": 580
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046263153546174935)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8a8824793a5629e4",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGXHhQcbAAAFcYA?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGXHhQcbAAAFcYA?format=jpg&name=large",
+      "localPath": "public/assets/prompt_340b6e4b5a11b322b6fe/fdf0a2298b66.jpg",
+      "alt": "Demon Slayer",
+      "status": "pending"
+    },
+    {
+      "id": "asset_a91c57ca1602fcaa",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGXHhP8WsAAMvWm?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGXHhP8WsAAMvWm?format=jpg&name=large",
+      "localPath": "public/assets/prompt_340b6e4b5a11b322b6fe/e658c83486de.jpg",
+      "alt": "Naruto",
+      "status": "pending"
+    },
+    {
+      "id": "asset_5cebd95f3c884dc1",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGXHifHbUAAgLZO?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGXHifHbUAAgLZO?format=jpg&name=large",
+      "localPath": "public/assets/prompt_340b6e4b5a11b322b6fe/950c7ccf062d.jpg",
+      "alt": "Bleach",
+      "status": "pending"
+    },
+    {
+      "id": "asset_44b310d823d6f0a2",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGXHjggWgAAAGAG?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGXHjggWgAAAGAG?format=jpg&name=large",
+      "localPath": "public/assets/prompt_340b6e4b5a11b322b6fe/22a828439325.jpg",
+      "alt": "Dragon Ball",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.160Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "chart",
+      "map",
+      "education",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

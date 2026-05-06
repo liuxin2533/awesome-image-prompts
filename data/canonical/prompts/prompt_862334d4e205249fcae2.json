@@ -1,0 +1,108 @@
+{
+  "id": "prompt_862334d4e205249fcae2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A cinematic photorealistic action scene in a rainy downtown city street canyon, showing {argument name=\"main subject\" default=\"a dark-haired man in his 30s\"} sprinting directly toward the camera in the center foreground with a tense survival expression, wearing a soaked dark jacket, dark shirt, and dark pants, mid-stride with one arm pumping forward. Behind him, a massive urban explosion tears through the street and lower facade of a high-rise building, sending a huge cloud of smoke, fire, dust, shattered concrete, glass, and metal debris outward in all directions. The scene includes exactly 3 visible damaged vehicles: 1 dark sedan in the left foreground with headlights on and a crumpled hood splashing through rainwater, 1 wrecked dark car in the right midground with severe front-end damage, and 1 overturned or airborne black SUV tilted upward behind it on the right side. Wet asphalt reflects headlights, firelight, and gray skyscrapers. Dense debris fills the air, with chunks of rubble frozen in motion. Overcast stormy daylight, desaturated blue-gray color palette with orange fire accents, dramatic motion blur in flying debris but sharp focus on the running figure, low-angle wide-lens composition, blockbuster disaster-movie realism, ultra-detailed textures, high contrast, dynamic depth, volumetric smoke, rain spray, cinematic lighting. Add a white {argument name=\"watermark text\" default=\"Pollo.ai\"} logo in the top-right corner.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个雨中的市中心城市街道峡谷的电影级写实动作场景，展示{argument name=\"main subject\" default=\"一个30多岁的黑发男子\"}在中心前景直接向相机冲刺，表情紧张而充满求生欲，穿着湿透的深色夹克、深色衬衫和深色裤子，迈步前行，一只手臂向前摆动。在他身后，一场巨大的城市爆炸撕裂了街道和高楼建筑的底层外墙，向各个方向喷出巨大的烟雾、火焰、灰尘、碎裂的混凝土、玻璃和金属碎片。场景中恰好有3辆可见的受损车辆：1辆左侧前景的深色轿车，车灯亮起，引擎盖被撞皱，溅起雨水；1辆右侧中景的严重损毁的深色汽车，前端严重受损；以及1辆在其右侧后方翻起或飞在空中的黑色SUV，向上倾斜。湿漉的沥青路面反射着车头灯、火光和灰色的摩天大楼。密集的碎片充满空中，有块状碎石处于静止的运动状态。阴沉暴风雨的白天，使用去饱和的蓝灰色调，橙色火焰点缀，飞行碎片具有戏剧性的动态模糊，但奔跑的人物保持清晰对焦，低角度广角构图，大片灾难电影般的写实感，超精细纹理，高对比度，动态深度，体积烟雾，雨雾，电影级照明。在右上角添加一个白色的{argument name=\"watermark text\" default=\"Pollo.ai\"}标志。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:49.431Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Cinematic City Explosion Chase",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影感的城市爆炸追逐",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:40.235Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-social-media-mockup-cases",
+      "value": "UI & Social Media Mockup Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Gugombly/status/2047310862428303636",
+      "originalId": "case-92",
+      "authors": [
+        {
+          "name": "Gugombly",
+          "url": "https://x.com/Gugombly"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ui.md",
+          "line": 469
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_efbbac7d1a26e417",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case92/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/ui_case92/output.jpg",
+      "localPath": "public/assets/prompt_862334d4e205249fcae2/629136ac34be.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "mockup"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

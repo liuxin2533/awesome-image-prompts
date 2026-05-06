@@ -1,0 +1,93 @@
+{
+  "id": "prompt_2296d58a2dcad9fb959f",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Country: [INSERT COUNTRY NAME]\n\nA miniature felt diorama made of fluffy yarn, wool, and needlework, designed as a single cohesive small world (not a collage), reflecting the real landscape, culture, and daily life of the country.\n\nStructure:\n- Select 4–7 naturally integrated elements (landscape, architecture, transport, street life, culture)\n- Everything must flow together as one environment\n\nForeground:\nEveryday life — small shops, cafes, markets, people interacting, local clothing, street details, subtle movement, warm human presence\n\nMidground:\nConnecting flow — streets, bridges, rivers, paths, transport, cultural spaces that guide the eye naturally from front to back\n\nBackground:\nOne strong identity anchor — landmark, skyline, mountain, or symbolic landscape clearly representing the country (keep it clean, not overcrowded)\n\nStyle:\nHandmade wool felt, yarn, needle-felt textures, visible fibers, soft edges, miniature craftsmanship, premium diorama realism\n\nLighting:\nWarm golden hour or bright noon, soft shadows, clear visibility, gentle glow enhancing depth\n\nColor:\nSoft but saturated palette reflecting the country’s natural tones (greens, sky blues, architectural hues, cultural accents), warm and balanced\n\nComposition:\nVertical frame, balanced or centered perspective, slight top-down or immersive angle, clear foreground–midground–background depth\n\nMood:\nWarm, emotional, calm, refined — like a handcrafted fairy-tale version of real life (not childish)\n\nRules:\n- No logos or text overlays\n- No collage-style composition\n- No random symbolic clutter\n- Keep it realistic but stylized as a handmade miniature world\n\nQuality:\n16K, ultra-detailed, hyper-realistic miniature textures, cinematic depth, sharp focus\n\noutput_goal:\nA single, cohesive felt diorama world that instantly conveys the identity and atmosphere of the chosen country through integrated landscape, culture, and daily life",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "羊毛毡国家微缩世界",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_be60569a14",
+      "value": "羊毛毡国家微缩世界",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-390",
+      "originalId": "case-390",
+      "authors": [
+        {
+          "name": "volkan_iras",
+          "url": "https://x.com/volkan_iras/status/2051403524966141980"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7383
+        }
+      ],
+      "rawSource": "[@volkan_iras](https://x.com/volkan_iras/status/2051403524966141980) / [提示词回复](https://x.com/volkan_iras/status/2051403530590638325)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9272a7b20d945ea8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case390.jpg",
+      "upstreamPath": "../data/images/case390.jpg",
+      "localPath": "public/assets/prompt_2296d58a2dcad9fb959f/8ed9141ffa19.jpg",
+      "alt": "羊毛毡国家微缩世界",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "logo",
+      "identity"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.904Z"
+  }
+}

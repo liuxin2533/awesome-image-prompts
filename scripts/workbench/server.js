@@ -4,6 +4,7 @@ const fs = require('fs');
 const http = require('http');
 const path = require('path');
 const { createZhipuProvider } = require('../ingestion/translation');
+const { readCategoryRules } = require('../ingestion/classification');
 const { createActionRunner } = require('./actions');
 const { defaultProjectRoot, loadProjectEnv, readAiConfig, writeAiConfig } = require('./config');
 const { readReport } = require('./report');
@@ -59,6 +60,10 @@ function createWorkbenchServer(options = {}) {
         return sendJson(response, 200, readReport(projectRoot));
       }
 
+      if (request.method === 'GET' && url.pathname === '/api/categories') {
+        return sendJson(response, 200, readCategoryRules(projectRoot));
+      }
+
       if (request.method === 'GET' && url.pathname === '/api/config') {
         return sendJson(response, 200, readAiConfig(projectRoot));
       }
@@ -88,7 +93,10 @@ function createWorkbenchServer(options = {}) {
           if (!Number.isInteger(body.index) || body.index < 0 || body.index >= report.issues.length) {
             return sendJson(response, 400, { error: 'Issue index is invalid.' });
           }
-          const record = runner.start('issue', { issue: report.issues[body.index] });
+          const record = runner.start('issue', {
+            issue: report.issues[body.index],
+            categoryId: body.categoryId || null
+          });
           return sendJson(response, 202, record);
         }
         const record = runner.start(type, body);

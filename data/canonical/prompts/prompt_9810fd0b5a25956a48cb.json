@@ -1,0 +1,101 @@
+{
+  "id": "prompt_9810fd0b5a25956a48cb",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "An image in a {argument name=\"reference style\" default=\"similar style\"}, a product image for {argument name=\"product\" default=\"lipstick\"}, requiring color coordination and a grand aesthetic in a {argument name=\"style\" default=\"poster style\"}, with language changed to Simplified Chinese.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张{argument name=\"reference style\" default=\"similar style\"}风格的图片，{argument name=\"product\" default=\"lipstick\"}的产品图片，需要色彩协调和宏大美学，采用{argument name=\"style\" default=\"poster style}\"，语言改为简体中文。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:26:27.702Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Elegant Cosmetic Poster Prompt",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Adam38363368936/status/2047917266361360682",
+      "originalId": "case-157",
+      "authors": [
+        {
+          "name": "Adam38363368936",
+          "url": "https://x.com/Adam38363368936"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 184
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_75c702f53f971323",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg",
+      "localPath": "public/assets/prompt_9810fd0b5a25956a48cb/9cf077297fce.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "产品"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.559Z"
+  }
+}

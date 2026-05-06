@@ -1,0 +1,92 @@
+{
+  "id": "prompt_f05c67e2c62bdd62b02d",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A character promotional poster titled “INPUT NAME,” designed in a unified vertical key visual composition (9:16). The upper half features the most recognizable element of the character as a dominant oversized visual silhouette. The middle to lower section contains the full character as a secondary subject. Inside the large silhouette and around the character, use a double-exposure and collage-style narrative composition with scenes, symbolic imagery, supporting elements, and environmental details blended into mist, ink wash, and negative space. The left and right sides include complementary secondary elements to create narrative tension and spatial variation. A continuous flowing visual line runs from top to bottom, connecting the main character, internal collage, and the large upper silhouette. Preserve large areas of negative space with ink diffusion, soft blurring, and fragmented transitions inspired by Eastern aesthetics. The style is cohesive, refined, restrained, and poster-worthy.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Character key visual poster with silhouette collage",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "character-design-cases",
+      "value": "Character Design Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/SimplyAnnisa/status/2049468867106189319",
+      "originalId": "case-14",
+      "authors": [
+        {
+          "name": "SimplyAnnisa",
+          "url": "https://x.com/SimplyAnnisa"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/character.md",
+          "line": 192
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_187d774fa3ce39cc",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case14/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case14/output.jpg",
+      "localPath": "public/assets/prompt_f05c67e2c62bdd62b02d/ce8396705ae6.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:10:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "poster"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

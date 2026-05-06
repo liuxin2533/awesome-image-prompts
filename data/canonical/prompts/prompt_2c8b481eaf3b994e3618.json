@@ -1,0 +1,101 @@
+{
+  "id": "prompt_2c8b481eaf3b994e3618",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dreamy surreal portrait of a {argument name=\"subject\" default=\"young woman\"} standing underwater or in a liquid-like ethereal space, shown from about mid-thigh up, wearing a flowing sleeveless white dress that appears to dissolve into translucent water and shimmering fragments. Her long {argument name=\"hair color\" default=\"dark brown\"} hair streams dramatically sideways as if suspended in water, and her face is intentionally obscured by a soft vertical blur block for anonymity. Surround her with an exact count of about 30 small translucent fish, some striped and some pale silvery white, swimming in multiple depths of field across the foreground, midground, and background, with several fish passing in front of her body and hair to create strong motion and depth. Use a soft pastel {argument name=\"background color\" default=\"powder blue\"} background with faint handwritten script texture layered across it, plus whimsical doodles scattered throughout: white and pale pink hearts, stars, curved squiggles, wave lines, dots, sparkles, and 2 smiley faces. Add prismatic rainbow refractions, glossy caustic highlights, and subtle lens-like chromatic shimmer on the fish and dress. The mood should feel delicate, introspective, airy, and magical, with high-key lighting, gentle contrast, soft focus in the foreground, and crisp detail on the torso and hair. Compose the figure slightly off-center with one arm relaxed downward and the body turned lightly in motion, as if drifting peacefully through a school of fish. Include tiny elegant footer text in white near the bottom edge, with a left signature, a centered website URL, and a small right credit mark, resembling an art-poster or social-media showcase image.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个梦幻的超现实肖像，描绘一位{argument name=\"subject\" default=\"年轻女性\"}站在水下或类似液态的空灵空间中，从大约大腿中部以上展示，穿着流动的无袖白色连衣裙，连衣裙似乎溶解成半透明的水和闪烁的碎片。她长长的{argument name=\"hair color\" default=\"深棕色\"}头发戏剧性地向侧面流动，仿佛悬浮在水中，她的脸被一个柔和的垂直模糊块有意遮挡以保持匿名。周围环绕着大约30条小型半透明鱼，一些有条纹，一些是淡银白色，在前景、中景和背景的多个深度层次中游动，有几条鱼从她的身体和头发前游过，创造出强烈的动感和深度。使用柔和的粉彩{argument name=\"background color\" default=\"淡蓝色\"}背景，上面有淡淡的手写脚本纹理层，还有随意的涂鸦散布其间：白色和淡粉色的心形、星星、曲线、波浪线、点、闪光和2个笑脸。添加棱镜彩虹折射、光泽的焦散高光和微妙的镜头般色度闪烁在鱼和连衣裙上。氛围应该感觉精致、内省、轻盈和神奇，采用高调照明、柔和对比、前景柔焦，以及躯干和头发的清晰细节。将人物构图稍微偏离中心，一只手臂自然下垂，身体轻微转向，仿佛在鱼群中平静地漂浮。在底部边缘附近包含小巧优雅的白色页脚文本，左侧有签名，中间有网站URL，右侧有小型版权标记，类似于艺术海报或社交媒体展示图像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:03:48.335Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Dreamy Underwater Woman With Translucent Fish",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/kotobukigraphic/status/2047967522453123255",
+      "originalId": "case-99",
+      "authors": [
+        {
+          "name": "kotobukigraphic",
+          "url": "https://x.com/kotobukigraphic"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 653
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6523faa332a0e5d1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case99/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case99/output.jpg",
+      "localPath": "public/assets/prompt_2c8b481eaf3b994e3618/8e7cf8db4a97.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.552Z"
+  }
+}

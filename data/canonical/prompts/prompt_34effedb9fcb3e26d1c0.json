@@ -1,0 +1,101 @@
+{
+  "id": "prompt_34effedb9fcb3e26d1c0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A premium eco-conscious fashion advertisement, shot as a refined editorial product photo. A single off-white or natural cream crew-neck T-shirt hangs on a smooth wooden hanger with a black metal hook, placed against a lush wall of dense green leaves and climbing vines. The hanger has a small minimalist brand monogram engraved near the neck. The shirt is shown from the upper torso down to part of the hem, slightly angled, with soft natural folds and high-quality cotton texture. Printed inside the collar is a minimalist brand mark and the text \"JUGGERKNOT ORIGINALS\". Hanging from the neckline is 1 rectangular recycled-paper seed tag tied with rustic brown twine; the tag reads \"Tulsi\" and \"Plantable Seed Tag\" with a tiny sprouting seed detail near the bottom. From the tag, 1 real tulsi plant stem grows upward across the front of the shirt, with several fresh green leaves, visually demonstrating that the tag is plantable. Add a small fine-label annotation near the tag reading \"TULSI PLANTABLE SEED TAG\". On the right side, large elegant white serif typography says {argument name=\"headline text\" default=\"Plant it.\"}. Beneath it, place 3 stacked lines of narrow uppercase sans-serif copy: \"WEAR IT.\", \"PLANT IT.\", and \"GROW WITH IT.\". At the lower left, add the brand name in spaced uppercase serif text: {argument name=\"brand name\" default=\"JUGGERKNOT ORIGINALS\"}, with a thin horizontal line above it. At the lower right, add 3 lines of small uppercase sans-serif text: \"FSC® CERTIFIED PACKAGING.\", \"ZERO SYNTHETIC FIBRE\", and \"BACKED BY ZERODHA.\". Use soft diffused daylight, shallow depth of field, moody green-and-cream color grading, luxury sustainable-brand aesthetics, clean composition, vertical poster layout, subtle shadows, and a calm organic atmosphere. Keep the design minimal, premium, and photorealistic, with the shirt occupying the left half and the typography balanced on the right.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端环保时尚广告，以精致的编辑产品照片拍摄。一件米白色或天然奶油色圆领T恤挂在光滑的木质衣架上，衣架配有黑色金属钩，背景是茂密的绿色植物墙和攀缘植物。衣架在颈部附近有一个简约的品牌字母组合雕刻。T恤从上半身展示到部分下摆，略微倾斜，带有自然的柔软褶皱和高品质棉质纹理。领口内侧印有简约的品牌标志和文字\"JUGGERKNOT ORIGINALS\"。从领口悬挂着一个矩形再生纸种子标签，用质朴的棕色麻绳系着；标签上写着\"罗勒\"和\"可种植种子标签\"，底部附近有一个微小的发芽种子细节。从标签上，一株真实的罗勒植物茎向上生长穿过衬衫前面，有几片新鲜的绿叶，直观地展示了标签的可种植性。在标签附近添加一个小型精致标签注释，写着\"罗勒可种植种子标签\"。右侧，大型优雅的白色衬线字体写着{argument name=\"headline text\" default=\"Plant it.\"}。在其下方，放置三行窄大写无衬线文字：\"穿上它。\"，\"种植它。\"，\"与它一起成长。\"。在左下方，添加间隔大写的衬线文字品牌名称：{argument name=\"brand name\" default=\"JUGGERKNOT ORIGINALS\"}，上方有一条细水平线。在右下方，添加三行小写无衬线文字：\"FSC®认证包装。\"，\"零合成纤维\"，\"由ZERODHA支持。\"。使用柔和的漫射日光，浅景深，情绪化的绿色和奶油色调，奢华可持续品牌美学，简洁构图，垂直海报布局，微妙阴影，以及平静有机的氛围。保持设计简约、高端和逼真，衬衫占据左半部分，文字平衡在右侧。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:05:59.798Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Diplomeme/status/2047957339974828092",
+      "originalId": "case-156",
+      "authors": [
+        {
+          "name": "Diplomeme",
+          "url": "https://x.com/Diplomeme"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/ecommerce.md",
+          "line": 172
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_328622cc55241f86",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg",
+      "localPath": "public/assets/prompt_34effedb9fcb3e26d1c0/32d8471ba12f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.553Z"
+  }
+}

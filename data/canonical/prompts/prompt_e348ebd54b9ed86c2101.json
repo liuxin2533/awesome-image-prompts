@@ -1,0 +1,168 @@
+{
+  "id": "prompt_e348ebd54b9ed86c2101",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A hyper-dynamic anime illustration of a neon cyber idol catgirl thrusting a soda bottle toward the viewer in extreme foreshortened perspective, with the bottle dominating the foreground and the character filling the background. She has {argument name=\"hair color\" default=\"long lavender-to-cyan gradient hair\"}, 2 black cat ears with soft pink inner fur, and 1 glowing halo ring floating above her head. Her face is mostly hidden by a solid square censor block in the center-right of the image, while her wild flowing hair explodes outward in ribbons and strands. She wears a glossy black and white futuristic streetwear outfit with a deep neckline, a cropped jacket, metallic straps, small accessories, and a round pink badge near the chest. Her visible hand grips 1 plastic soda bottle labeled {argument name=\"brand name\" default=\"Nyan SODA\"}, with long nails painted in 2 colors: cyan and pink. The bottle is transparent and filled with sparkling dark purple soda, glowing bubbles, and neon highlights, and it erupts upward in a dramatic splash of vivid magenta liquid. Surround the scene with 1 shower of crystalline ice cubes, countless droplets, paint-like splashes, glittering particles, and energy arcs. Use an intense palette of electric magenta, violet, indigo, and cyan with high contrast, glossy reflections, bloom lighting, and luminous rim light. The background should be an abstract explosion of liquid, light, and motion rather than a realistic setting. Make it feel like an aggressive soda advertisement mixed with idol key art, chaotic, cute, and high-energy, with ultra-detailed anime rendering, crisp linework, sparkling highlights, and a vertical poster composition.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Neon Catgirl Soda Burst",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "產品行銷 - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロダクトマーケティング - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "제품 마케팅 - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोडक्ट मार्केटिंग - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Neon Catgirl Soda Burst",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a high-energy anime-style vertical poster of a cat-eared idol girl presenting a glowing soda bottle amid explosive neon splashes, ideal for ad-style key art or social media illustration.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-2",
+      "originalId": "https://x.com/kuso_seisakusyo/status/2048877348053807167#reversed-2",
+      "authors": [
+        {
+          "name": "空想製作所/AI４コマ漫画",
+          "url": "https://x.com/kuso_seisakusyo"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4043
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5e1399ecc7e6b471",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367324229_9wwn5n_HG7JQ75bAAA_KuN.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367324229_9wwn5n_HG7JQ75bAAA_KuN.jpg",
+      "localPath": "public/assets/prompt_e348ebd54b9ed86c2101/7adc430f5f28.jpg",
+      "alt": "Product Marketing - Neon Catgirl Soda Burst - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "prompt_32aa28f25e328f70140e",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a scrapbook doodle-style football poster of [PLAYER_NAME].\n\nAI auto-generates realistic career stats (club and national team).\n\nMain photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose).\n\nDoodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless specified), arrows, stars, scribbles, sketchy outlines. Add a glowing [PRIMARY_COLOR] outline around the player's body.\n\nLayout (bold handwritten titles and stats):\n- Top Title: \"[PLAYER_NAME]\" plus \"[NICKNAME/TITLE]\"\n- Club Career: total matches and goals plus 2–4 main clubs (apps and goals)\n- Highlights: 2–3 standout achievements (e.g., UCL goals, Ballon d'Or, top scorer)\n- National Team: caps and goals plus 1–2 international achievements\n\nStyle: modern football poster x notebook aesthetic, clean but energetic, slightly messy doodles, high contrast, neon accents on dark or muted background.\n\nImportant: all stats must be realistic and proportional to the player's real career.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a scrapbook doodle-style football poster of [PLAYER_NAME].\n\nAI auto-generates realistic career stats (club and national team).\n\nMain photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose).\n\nDoodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless specified), arrows, stars, scribbles, sketchy outlines. Add a glowing [PRIMARY_COLOR] outline around the player's body.\n\nLayout (bold handwritten titles and stats):\n- Top Title: \"[PLAYER_NAME]\" plus \"[NICKNAME/TITLE]\"\n- Club Career: total matches and goals plus 2–4 main clubs (apps and goals)\n- Highlights: 2–3 standout achievements (e.g., UCL goals, Ballon d'Or, top scorer)\n- National Team: caps and goals plus 1–2 international achievements\n\nStyle: modern football poster x notebook aesthetic, clean but energetic, slightly messy doodles, high contrast, neon accents on dark or muted background.\n\nImportant: all stats must be realistic and proportional to the player's real career.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:07:05.354Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "足球球员数据涂鸦海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Soccer player data doodle poster",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:07:09.370Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_4a3471265e",
+      "value": "足球球员数据涂鸦海报",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-350",
+      "originalId": "case-350",
+      "authors": [
+        {
+          "name": "ryanpp27",
+          "url": "https://x.com/ryanpp27/status/2048602248524214542"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5812
+        }
+      ],
+      "rawSource": "[@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_196a646f70923817",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case350.jpg",
+      "upstreamPath": "../data/images/case350.jpg",
+      "localPath": "public/assets/prompt_32aa28f25e328f70140e/1cbb44044941.jpg",
+      "alt": "足球球员数据涂鸦海报",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.583Z"
+  }
+}

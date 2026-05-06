@@ -1,0 +1,107 @@
+{
+  "id": "prompt_dfca68d8fc75341fbb65",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A professional product photography shot of a cold sparkling water\ncan placed upright in golden beach sand. The can is silver and teal,\ncovered in realistic water droplets condensation, with a pineapple\nillustration and tropical branding. The can is slightly tilted,\nplanted in a small mound of fine golden sand with tiny white pebbles\nand small green tropical leaves/grass scattered around the base.\nBackground features a bold split composition - bright sky-blue on\nthe left and vivid yellow on the right, with a large blurred real\npineapple placed behind the can on the right side. A blurred tropical\npalm leaf drapes in from the upper left corner, adding depth and\nframing. Macro-level water condensation droplets visible on the\ncan surface. Lighting is bright, vibrant, commercial studio lighting\nwith clean shadows. Shallow depth of field - can in sharp focus,\nbackground softly blurred. Mood: summer, tropical, fresh, refreshing.\nCommercial product photography, ultra-detailed, 8K.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "专业产品摄影拍摄，一罐冰镇气泡水直立放置在金色沙滩上。罐身是银色和蓝绿色，覆盖着逼真的水珠冷凝，上面有菠萝图案和热带品牌标识。罐子略微倾斜，植在一个小堆细金沙上，周围散落着白色小鹅卵石和小的绿色热带叶子/草。背景采用大胆的分割构图 - 左侧是明亮的天蓝色，右侧是鲜艳的黄色，右侧罐子后面放置了一个模糊的大真实菠萝。一片模糊的热带棕榈叶从左上角垂入，增加深度和构图。罐体表面可见宏观级别的冷凝水珠。照明明亮、鲜艳，是商业摄影棚灯光，带有清晰的阴影。浅景深 - 罐子清晰对焦，背景柔和模糊。氛围：夏日、热带、清新、爽口。商业产品摄影，超详细，8K。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:21:08.646Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "A professional product photography shot of a cold sparkling water",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "专业产品摄影拍摄的一杯冰镇气泡水",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:21:08.276Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "poster-illustration-cases",
+      "value": "Poster & Illustration Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/meng_dagg695/status/2047227172486824002",
+      "originalId": "case-59",
+      "authors": [
+        {
+          "name": "meng_dagg695",
+          "url": "https://x.com/meng_dagg695"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/poster.md",
+          "line": 716
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_4b5c6f3d18ff39f0",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg",
+      "localPath": "public/assets/prompt_dfca68d8fc75341fbb65/01d7cf6a5b44.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.605Z"
+  }
+}

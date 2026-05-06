@@ -1,0 +1,101 @@
+{
+  "id": "prompt_e4064c9af48d19409ea6",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A {argument name=\"style\" default=\"photobook-style portrait\"} of a {argument name=\"character\" default=\"gentle woman with glasses\"}",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个 {argument name=\"style\" default=\"相册风格的肖像\"} 的一个 {argument name=\"character\" default=\"戴眼镜的温柔女性\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:33:00.901Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Portrait of a Gentle Woman with Glasses",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/megane_onesan/status/2047989490153926848",
+      "originalId": "case-98",
+      "authors": [
+        {
+          "name": "megane_onesan",
+          "url": "https://x.com/megane_onesan"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 641
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1093d680b96f482c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case98/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case98/output.jpg",
+      "localPath": "public/assets/prompt_e4064c9af48d19409ea6/2d1a6939c9de.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.562Z"
+  }
+}

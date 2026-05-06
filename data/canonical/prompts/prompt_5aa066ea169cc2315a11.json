@@ -1,0 +1,227 @@
+{
+  "id": "prompt_5aa066ea169cc2315a11",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "entire superman movie image collage one shot in one output",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "整部《超人》电影的拼贴图，一次输出，一张图完成",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "整部《超人》電影的一張拼貼圖，一次輸出成一張圖。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "superman の映画全体を 1 ショット 1 出力のコラージュ画像にする",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "슈퍼맨 영화 전체를 한 번에 한 장의 콜라주 이미지로 출력한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "collage d'images de tout le film Superman, en une seule sortie.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "gesamte Superman-Filmcollage, ein Shot, eine Ausgabe.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "collage de toda la película de Superman en una sola salida.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Movie Collage",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影拼贴图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "電影拼貼",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "映画コラージュ",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "영화 콜라주",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Collage de film",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Filmcollage",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Collage de película",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "video-animation-collage",
+      "value": "🎬 Video, Animation & Collage",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7b63ef6af1",
+      "value": "🎬 视频、动画与拼贴",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a494631ab",
+      "value": "🎬 影片、動畫與拼貼",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_101c74ae24",
+      "value": "🎬 動画・アニメーション・コラージュ",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_dde97347ed",
+      "value": "🎬 영상, 애니메이션, 콜라주",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animation-et-collage",
+      "value": "🎬 Vidéo, animation et collage",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animation-und-collage",
+      "value": "🎬 Video, Animation und Collage",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animacion-y-collage",
+      "value": "🎬 Video, animación y collage",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/chetaslua/status/2044462992176386532",
+      "originalId": "https://x.com/chetaslua/status/2044462992176386532",
+      "authors": [
+        {
+          "name": "chetaslua",
+          "url": "https://x.com/chetaslua/status/2044462992176386532"
+        },
+        {
+          "name": " @chetaslua ",
+          "url": "https://x.com/chetaslua/status/2044462992176386532"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 461
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 367
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 323
+        },
+        {
+          "file": "README:ja",
+          "line": 367
+        },
+        {
+          "file": "README:ko",
+          "line": 323
+        },
+        {
+          "file": "README:fr",
+          "line": 323
+        },
+        {
+          "file": "README:de",
+          "line": 323
+        },
+        {
+          "file": "README:es",
+          "line": 323
+        }
+      ],
+      "rawSource": "[@chetaslua](https://x.com/chetaslua/status/2044462992176386532)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_1c6303080c7271cb",
+      "role": "unknown",
+      "upstreamUrl": "https://github.com/user-attachments/assets/68495d40-f558-4d7a-aacf-40ef36264679",
+      "upstreamPath": "https://github.com/user-attachments/assets/68495d40-f558-4d7a-aacf-40ef36264679",
+      "localPath": "public/assets/prompt_5aa066ea169cc2315a11/90deac9adff2.jpg",
+      "alt": "image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

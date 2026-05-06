@@ -1,0 +1,100 @@
+{
+  "id": "prompt_f474ce040ba8f2bdf4e9",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "1、生成不知火舞和貂蝉的游戏对战海报图\n2、生成一张K-pop团体时尚专辑封面\n3、请你生成 《斗破苍穹》 的关键人物关系图\n4、帮我截一张上传图片的抖音首页的女网红图",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "1、生成不知火舞和貂蝉的游戏对战海报图\n2、生成一张K-pop团体时尚专辑封面\n3、请你生成 《斗破苍穹》 的关键人物关系图\n4、帮我截一张上传图片的抖音首页的女网红图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:11:21.308Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Multi-Concept Battle Poster Set",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/joshesye/status/2046493442428039212",
+      "originalId": "case-33",
+      "authors": [
+        {
+          "name": "joshesye",
+          "url": "https://x.com/joshesye"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 124
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_52f089cb9b9c8eec",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg",
+      "localPath": "public/assets/prompt_f474ce040ba8f2bdf4e9/f5b1baf1dcab.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-22T18:00:00+08:00",
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.576Z"
+  }
+}

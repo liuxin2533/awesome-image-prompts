@@ -1,0 +1,107 @@
+{
+  "id": "prompt_efa7d86df851921bfb61",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a professional \"HAIRSTYLE ANALYSIS\" infographic with a different male model (the same face) having long, thick hair (6-10 inches), slightly wavy texture.\n\nStyle should be clean, modern, premium grooming guide (similar layout but not identical).\n\nTOP TITLE:\n\"HAIRSTYLE ANALYSIS - Long Hair Edition\"\n\nLEFT PANEL (Key Features with icons):\nFace Shape: Oval\nHair Type: Thick\nTexture: Wavy\nLength: Long\n\nBEST OPTIONS (Top row with green indicators):\nLayered Flow Cut (Adds movement & volume)\nModern Curtain Hair (Stylish & balanced)\nTextured Long Waves (Natural & full)\nLoose Slick Back (Controlled but not flat)\n\nLESS FLATTERING (Bottom row with red indicators):\nFlat Straight Long Hair (No volume)\nOverly Oily Slick Back (Too heavy)\nUneven Long Layers (Messy shape)\nExcessively Frizzy Look (Uncontrolled)\n\nBEST HAIR LENGTH SECTION:\nIdeal: 6-10 inches with layers\nAvoid: Too flat or too heavy bottom\n\nBEST HAIR COLORS:\nDark Brown\nNatural Black\nWarm Brown\nAsh Brown\n\nDESIGN STYLE:\nClean grid infographic\nWhite/beige background\nSoft shadows\nPremium magazine look\nRealistic face and hair detail\nConsistent spacing and typography\nHigh resolution, 4K",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a professional \"HAIRSTYLE ANALYSIS\" infographic with a different male model (the same face) having long, thick hair (6-10 inches), slightly wavy texture.\n\nStyle should be clean, modern, premium grooming guide (similar layout but not identical).\n\nTOP TITLE:\n\"HAIRSTYLE ANALYSIS - Long Hair Edition\"\n\nLEFT PANEL (Key Features with icons):\nFace Shape: Oval\nHair Type: Thick\nTexture: Wavy\nLength: Long\n\nBEST OPTIONS (Top row with green indicators):\nLayered Flow Cut (Adds movement & volume)\nModern Curtain Hair (Stylish & balanced)\nTextured Long Waves (Natural & full)\nLoose Slick Back (Controlled but not flat)\n\nLESS FLATTERING (Bottom row with red indicators):\nFlat Straight Long Hair (No volume)\nOverly Oily Slick Back (Too heavy)\nUneven Long Layers (Messy shape)\nExcessively Frizzy Look (Uncontrolled)\n\nBEST HAIR LENGTH SECTION:\nIdeal: 6-10 inches with layers\nAvoid: Too flat or too heavy bottom\n\nBEST HAIR COLORS:\nDark Brown\nNatural Black\nWarm Brown\nAsh Brown\n\nDESIGN STYLE:\nClean grid infographic\nWhite/beige background\nSoft shadows\nPremium magazine look\nRealistic face and hair detail\nConsistent spacing and typography\nHigh resolution, 4K",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:58.020Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "长发造型分析信息图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Long Hair Style Analysis Infographic",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:52.802Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_8a6e6efa29",
+      "value": "长发造型分析信息图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-360",
+      "originalId": "case-360",
+      "authors": [
+        {
+          "name": "Gemalpha_88",
+          "url": "https://x.com/Gemalpha_88/status/2048918707343401034"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 6330
+        }
+      ],
+      "rawSource": "[@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fc32d4d48d108ab2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case360.jpg",
+      "upstreamPath": "../data/images/case360.jpg",
+      "localPath": "public/assets/prompt_efa7d86df851921bfb61/509c149e225f.jpg",
+      "alt": "长发造型分析信息图",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "infographic",
+      "信息图"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.607Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "prompt_1d988cd849f16af63d6a",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like \"Wear the Dark.\" Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like \"Wear the Dark.\" Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:02.148Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "NOIR 街头服饰 Campaign",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "NOIR Streetwear Campaign",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:56:01.189Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "noir-campaign",
+      "value": "NOIR 街头服饰 Campaign",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-344",
+      "originalId": "case-344",
+      "authors": [
+        {
+          "name": "Daniel_adsss",
+          "url": "https://x.com/Daniel_adsss/status/2048542581638701446"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 5672
+        }
+      ],
+      "rawSource": "[@Daniel_adsss](https://x.com/Daniel_adsss/status/2048542581638701446)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_56d6886453827571",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case344.jpg",
+      "upstreamPath": "../data/images/case344.jpg",
+      "localPath": "public/assets/prompt_1d988cd849f16af63d6a/e18da114bf70.jpg",
+      "alt": "NOIR 街头服饰 Campaign",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "poster"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

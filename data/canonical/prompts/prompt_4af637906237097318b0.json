@@ -1,0 +1,100 @@
+{
+  "id": "prompt_4af637906237097318b0",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A delicate vertical anime portrait of a dreamy young woman in an ethereal pastel lavender palette, shown from about mid-thigh up against a soft decorative background of pale swirling lines, floating petals, tiny stars, and subtle sparkles. She has extremely long, voluminous silver-lilac hair styled in twin tails with flowing strands, soft bangs, and ornate ribbon decorations; each side is adorned with large lavender bows, ruffled headband-like trim, dangling gold star charms, and small white flower hair ornaments. Her face is centered and mostly covered by a flat solid pale lavender rectangle censor block, leaving only hints of her ears and hairline visible. She wears an elaborate fantasy-lolita inspired dress in white, pearl, and light violet, with glossy satin fabric, ruffled neckline, layered frills, puffed detached sleeves, gold trim, corset lacing at the waist, and multiple purple bows including 3 clearly visible bow accents on the outfit. Her hands are clasped gently near her chest in a shy, elegant pose. The image should feel soft, refined, feminine, and luminous, with high-detail anime rendering, smooth gradients, airy composition, flowing hair movement, and a romantic celestial aesthetic. Use a {argument name=\"color theme\" default=\"pastel lavender and white\"} palette, {argument name=\"hair color\" default=\"silver-lilac\"} hair, an {argument name=\"outfit style\" default=\"ornate fantasy lolita dress with bows and ruffles\"} design, a {argument name=\"background style\" default=\"soft swirls, petals, stars, and sparkles\"} backdrop, and a {argument name=\"face covering\" default=\"solid pale lavender censor rectangle\"} over the face.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一幅精致的垂直动漫肖像，描绘了一位梦幻的年轻女子，采用空灵的淡薰衣草色调，从大约大腿中部以上展示，背景是柔和的装饰性图案，包括淡色漩涡线条、漂浮的花瓣、微小星星和微妙的光芒。她有极长的、蓬松的银薰衣草色头发，梳成双马尾造型，带有飘逸的发丝、柔软的刘海和精致的丝带装饰；每边都装饰着大薰衣草色蝴蝶结、褶皱般的头带式装饰、悬挂的金色星星挂饰和小白花发饰。她的脸位于画面中央，大部分被一块平坦的实心淡薰衣草色矩形审查方块覆盖，只留下耳朵和发际线的痕迹可见。她穿着一件精致的幻想系洛丽塔风格连衣裙，采用白色、珍珠色和淡紫色，有光泽的缎面面料、褶皱领口、分层荷叶边、蓬松的分离式袖子、金色装饰、腰部束带，以及多个紫色蝴蝶结，包括服装上3个清晰可见的蝴蝶结装饰。她的双手优雅地放在胸前，害羞地合在一起，呈现出优雅的姿态。画面应感觉柔和、精致、女性化且明亮，具有高细节的动漫渲染、平滑的渐变、轻盈的构图、流动的头发动作和浪漫的天体美学。使用{argument name=\"color theme\" default=\"pastel lavender and white\"}调色板，{argument name=\"hair color\" default=\"silver-lilac\"}头发，{argument name=\"outfit style\" default=\"ornate fantasy lolita dress with bows and ruffles\"}设计，{argument name=\"background style\" default=\"soft swirls, petals, stars, and sparkles\"}背景，以及{argument name=\"face covering\" default=\"solid pale lavender censor rectangle\"}覆盖脸部。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:09:54.863Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Pastel Lavender Anime Girl Portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/libearal/status/2048026376645861799",
+      "originalId": "case-94",
+      "authors": [
+        {
+          "name": "libearal",
+          "url": "https://x.com/libearal"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 593
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_390ba3d765125674",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case94/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case94/output.jpg",
+      "localPath": "public/assets/prompt_4af637906237097318b0/9525f681683f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.585Z"
+  }
+}

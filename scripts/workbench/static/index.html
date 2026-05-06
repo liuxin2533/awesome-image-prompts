@@ -21,6 +21,9 @@
         <div class="metric warning"><span>Warnings</span><strong id="metric-warnings">0</strong></div>
         <div class="metric info"><span>Info</span><strong id="metric-info">0</strong></div>
         <div class="metric"><span>生成时间</span><strong id="metric-generated">-</strong></div>
+        <div class="metric"><span>新增</span><strong id="metric-added">0</strong></div>
+        <div class="metric"><span>更新</span><strong id="metric-updated">0</strong></div>
+        <div class="metric"><span>无变化</span><strong id="metric-unchanged">0</strong></div>
       </section>
 
       <section class="workspace">
@@ -94,11 +97,18 @@
           <button data-action="translate" data-language="zh-CN" type="button">补齐 zh-CN 翻译</button>
           <button data-action="translate" data-language="en" type="button">补齐 en 翻译</button>
           <button data-action="mirror-assets" type="button">镜像缺失资源</button>
+          <button data-action="classify" type="button">重新归类</button>
           <button data-action="refresh-report" type="button">刷新当前报告</button>
           <button data-action="workflow" type="button">重跑发布流程</button>
 
+          <h2>人工归类</h2>
+          <label>
+            标准分类
+            <select id="classification-category"></select>
+          </label>
+
           <h2>操作说明</h2>
-          <p class="muted">批量按钮会按当前队列执行白名单命令；单条按钮只修正该行对应的 prompt 字段或资源。</p>
+          <p class="muted">批量按钮会按当前队列执行白名单命令；单条按钮只修正该行对应的 prompt 字段、资源或分类。</p>
 
           <h2>问题详情</h2>
           <button id="fix-selected" type="button" disabled>修正所选问题</button>

@@ -1,0 +1,102 @@
+{
+  "id": "prompt_797ba60d3841550bc519",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Using REFERENCE_0 as the subject base, transform the casual desert snapshot into a full-body luxury fashion studio portrait. Replace the denim jacket, tank top, and shorts with a fitted strapless mini cocktail dress in {argument name=\"dress color\" default=\"powder blue\"} with ornate silver floral embroidery and exactly 2 geometric cutouts at the chest and upper waist. Change the setting to a clean seamless light-gray studio background with polished high-end editorial styling. Add 1 silver clutch with a thin chain strap in the subject's right hand and 1 pair of pointed silver high heels. Refine the pose into an elegant standing fashion pose with one hand near the face, keep the same person and hair identity, and apply soft cinematic luxury lighting with crisp 8K fashion-photography detail.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "以REFERENCE_0为主体基础，将随意的沙漠快照转变为全身豪华时尚工作室肖像。将牛仔夹克、背心和短裤替换为合身的无肩带迷你鸡尾酒裙，颜色为{argument name=\"dress color\" default=\"powder blue\"}，饰有精致的银色花卉刺绣，并在胸部和上腰部恰好有2个几何镂空。将场景更换为无缝的浅灰色工作室背景，搭配精致的高端编辑风格。在主体的右手添加1个带有细链条肩带的银色手拿包，以及1双尖头银色高跟鞋。将姿势优化为优雅的站立时尚姿势，一手靠近面部，保持相同的人物和发型特征，并应用柔和的电影级奢华照明，搭配清晰的8K时尚摄影细节。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:20:59.732Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Luxury Studio Outfit Transformation",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Abdullah__Ai7/status/2048083022315159595",
+      "originalId": "case-89",
+      "authors": [
+        {
+          "name": "Abdullah__Ai7",
+          "url": "https://x.com/Abdullah__Ai7"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 533
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ff33bfc9525f086c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case89/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case89/output.jpg",
+      "localPath": "public/assets/prompt_797ba60d3841550bc519/96a6243e49af.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-27T10:35:44+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "摄影"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.557Z"
+  }
+}

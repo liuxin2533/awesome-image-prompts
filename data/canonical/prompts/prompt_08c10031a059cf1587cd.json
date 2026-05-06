@@ -1,0 +1,175 @@
+{
+  "id": "prompt_08c10031a059cf1587cd",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a polished anime-style illustration of two Japanese high school girls walking home together in the rain on a wet suburban street after school. They stand close under one large transparent plastic umbrella covered with raindrops, the umbrella canopy dominating the upper half of the composition with visible metal ribs and a black central shaft. The scene is vertical, waist-to-thigh framing, soft cinematic backlight, reflective puddles on the pavement, misty rain, power poles receding into the distance, metal guardrails along the sidewalk, residential houses and greenery at the sides, and purple hydrangeas blooming on the right. The left girl is shorter, with {argument name=\"left girl hair color\" default=\"short chestnut-brown bob hair\"}, a large red bow hair accessory on the side, a navy school blazer with gold buttons, white button-up shirt, red plaid ribbon bow tie, dark pleated plaid skirt, and a large navy school bag over her shoulder with a small cute plush keychain. She holds a backpack strap with one hand and lightly touches or holds the umbrella shaft area with the other, looking shy and close to her friend. The right girl is taller, with {argument name=\"right girl hair color\" default=\"long lavender-purple hair\"}, a blue flower hair clip near her ear, a navy school blazer with gold buttons, white button-up shirt, blue plaid ribbon bow tie, dark pleated plaid skirt, and a large navy school bag on her shoulder. She holds the umbrella handle firmly at the center, standing protectively beside the shorter girl. Both girls have their faces intentionally covered by smooth soft-edged rectangular blur blocks in muted skin-tone colors, hiding all facial features. Emphasize detailed wet fabric, glossy rain highlights, delicate hair strands damp from the weather, realistic umbrella transparency, sparkling water droplets, and a tender quiet mood of rainy after-school friendship. Use high-detail anime rendering, natural proportions, soft depth of field, cool blue-gray rainy palette with warm skin tones, and no visible text.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张精致的动漫风格插画，描绘两名日本女高中生在放学后的雨天，走在湿漉漉的郊区街道上回家的场景。她们紧挨着站在一把覆盖着雨滴的大号透明塑料雨伞下，伞面占据了构图的上半部分，清晰可见金属伞骨和黑色的中轴。画面为竖构图，采用腰部到大腿的取景，柔和的电影级背光，路面上映出水洼，细雨蒙蒙，电线杆向远处延伸，人行道旁设有金属护栏，两侧是住宅和绿植，右侧盛开着紫色绣球花。左侧的女孩个子较矮，留着 {argument name=\"left girl hair color\" default=\"栗棕色短波波头\"}，侧面戴着一个红色大蝴蝶结发饰，身穿带有金色纽扣的海军蓝西装校服、白色衬衫、红色格子领结、深色百褶格子裙，肩上背着一个海军蓝大书包，上面挂着一个可爱的小毛绒挂件。她一只手抓着书包带，另一只手轻轻触碰或扶着伞柄处，神情羞涩，紧贴着她的朋友。右侧的女孩个子较高，留着 {argument name=\"right girl hair color\" default=\"长款薰衣草紫发\"}，耳边别着一个蓝色花朵发夹，身穿带有金色纽扣的海军蓝西装校服、白色衬衫、蓝色格子领结、深色百褶格子裙，肩上背着一个海军蓝大书包。她稳稳地握住伞柄中心，保护性地站在较矮女孩的身旁。两名女孩的面部特意用柔和边缘的肤色矩形模糊块遮盖，隐藏了所有面部特征。强调湿润衣物的细节、雨水的亮光、被雨水打湿的细腻发丝、写实的雨伞透明度、闪烁的水滴，以及雨后放学友谊中那种温柔宁静的氛围。采用高细节动漫渲染，自然比例，柔和的景深，冷蓝灰色雨天色调搭配暖色肤色，画面中无任何可见文字。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una ilustración pulida al estilo anime de dos estudiantes de preparatoria japonesas caminando juntas a casa bajo la lluvia en una calle suburbana mojada después de la escuela. Están paradas muy cerca bajo un paraguas grande de plástico transparente cubierto de gotas de lluvia; la cúpula del paraguas domina la mitad superior de la composición con varillas metálicas visibles y un eje central negro. La escena es vertical, con un encuadre de la cintura a los muslos, iluminación trasera cinematográfica suave, charcos reflectantes en el pavimento, lluvia brumosa, postes de luz que se pierden en la distancia, barandillas metálicas a lo largo de la acera, casas residenciales y vegetación a los lados, y hortensias púrpuras floreciendo a la derecha. La chica de la izquierda es más baja, con {argument name=\"left girl hair color\" default=\"cabello corto estilo bob color castaño\"}, un accesorio de lazo rojo grande en el costado, un blazer escolar azul marino con botones dorados, camisa blanca abotonada, corbata de lazo a cuadros rojos, falda plisada a cuadros oscuros y una mochila escolar azul marino grande sobre el hombro con un pequeño y lindo llavero de peluche. Sostiene la correa de la mochila con una mano y toca o sostiene ligeramente el área del eje del paraguas con la otra, luciendo tímida y cerca de su amiga. La chica de la derecha es más alta, con {argument name=\"right girl hair color\" default=\"cabello largo color lavanda púrpura\"}, una pinza de flores azules cerca de la oreja, un blazer escolar azul marino con botones dorados, camisa blanca abotonada, corbata de lazo a cuadros azules, falda plisada a cuadros oscuros y una mochila escolar azul marino grande en el hombro. Sostiene el mango del paraguas firmemente en el centro, parada de forma protectora junto a la chica más baja. Los rostros de ambas chicas están cubiertos intencionalmente por bloques rectangulares de desenfoque con bordes suaves en tonos de piel apagados, ocultando todas las facciones. Enfatiza la tela mojada detallada, los reflejos brillantes de la lluvia, los mechones de cabello delicados y húmedos por el clima, la transparencia realista del paraguas, las gotas de agua centelleantes y un ambiente tierno y tranquilo de amistad escolar bajo la lluvia. Utiliza un renderizado de anime de alto detalle, proporciones naturales, profundidad de campo suave, una paleta de colores azul grisáceo frío para la lluvia con tonos de piel cálidos, y sin texto visible.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstellen Sie eine ausgefeilte Illustration im Anime-Stil von zwei japanischen Oberschülerinnen, die nach der Schule gemeinsam im Regen auf einer nassen Vorstadtstraße nach Hause gehen. Sie stehen eng beieinander unter einem großen, transparenten Kunststoff-Regenschirm, der mit Regentropfen bedeckt ist. Das Schirmdach dominiert die obere Hälfte der Komposition, mit sichtbaren Metallstreben und einem schwarzen Mittelschaft. Die Szene ist vertikal ausgerichtet, im Hüft- bis Oberschenkelbereich eingerahmt, mit weichem, filmischem Gegenlicht, reflektierenden Pfützen auf dem Gehweg, nebligem Regen, in der Ferne zurückweichenden Strommasten, Metallgeländern entlang des Gehwegs, Wohnhäusern und Grünflächen an den Seiten sowie blühenden violetten Hortensien auf der rechten Seite. Das linke Mädchen ist kleiner, mit {argument name=\"left girl hair color\" default=\"kurzem, kastanienbraunem Bob-Haarschnitt\"}, einer großen roten Haarschleife als Accessoire an der Seite, einem marineblauen Schulblazer mit goldenen Knöpfen, einem weißen Hemd, einer roten karierten Schleife, einem dunklen, plissierten Schottenrock und einer großen marineblauen Schultasche über der Schulter mit einem kleinen, niedlichen Plüsch-Schlüsselanhänger. Sie hält mit einer Hand einen Rucksackriemen und berührt oder hält mit der anderen leicht den Schaftbereich des Regenschirms, während sie schüchtern und nah bei ihrer Freundin wirkt. Das rechte Mädchen ist größer, mit {argument name=\"right girl hair color\" default=\"langem, lavendel-violettem Haar\"}, einer blauen Blumen-Haarspange in der Nähe ihres Ohrs, einem marineblauen Schulblazer mit goldenen Knöpfen, einem weißen Hemd, einer blauen karierten Schleife, einem dunklen, plissierten Schottenrock und einer großen marineblauen Schultasche auf der Schulter. Sie hält den Regenschirmgriff fest in der Mitte und steht schützend neben dem kleineren Mädchen. Die Gesichter beider Mädchen sind absichtlich durch glatte, weich gezeichnete rechteckige Unschärfefelder in gedämpften Hauttönen verdeckt, sodass alle Gesichtszüge verborgen bleiben. Betonen Sie detaillierte nasse Stoffe, glänzende Regeneffekte, zarte, vom Wetter feuchte Haarsträhnen, realistische Transparenz des Regenschirms, funkelnde Wassertropfen und eine zarte, ruhige Stimmung der Freundschaft nach der Schule. Verwenden Sie hochdetailliertes Anime-Rendering, natürliche Proportionen, eine weiche Tiefenschärfe, eine kühle blaugraue Regenpalette mit warmen Hauttönen und keinen sichtbaren Text.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une illustration soignée de style anime représentant deux lycéennes japonaises rentrant ensemble à pied sous la pluie, dans une rue de banlieue mouillée après les cours. Elles sont serrées l'une contre l'autre sous un grand parapluie en plastique transparent couvert de gouttes de pluie, la toile du parapluie dominant la moitié supérieure de la composition avec ses baleines métalliques visibles et son mât central noir. La scène est verticale, cadrée de la taille aux cuisses, avec un rétroéclairage cinématographique doux, des flaques d'eau réfléchissantes sur le trottoir, une pluie brumeuse, des poteaux électriques s'estompant au loin, des garde-corps métalliques le long du trottoir, des maisons résidentielles et de la verdure sur les côtés, et des hortensias violets en fleurs sur la droite. La fille de gauche est plus petite, avec {argument name=\"left girl hair color\" default=\"un carré court châtain\"}, un grand nœud rouge en guise d'accessoire de cheveux sur le côté, un blazer d'uniforme bleu marine avec des boutons dorés, une chemise blanche, un nœud papillon à carreaux rouges, une jupe plissée à carreaux foncés et un grand sac d'école bleu marine sur l'épaule avec un petit porte-clés en peluche mignon. Elle tient la bretelle de son sac d'une main et touche ou tient légèrement le mât du parapluie de l'autre, l'air timide et proche de son amie. La fille de droite est plus grande, avec {argument name=\"right girl hair color\" default=\"de longs cheveux violet lavande\"}, une pince à cheveux en forme de fleur bleue près de l'oreille, un blazer d'uniforme bleu marine avec des boutons dorés, une chemise blanche, un nœud papillon à carreaux bleus, une jupe plissée à carreaux foncés et un grand sac d'école bleu marine sur l'épaule. Elle tient fermement la poignée du parapluie au centre, se tenant de manière protectrice à côté de la plus petite. Les visages des deux filles sont intentionnellement masqués par des blocs de flou rectangulaires aux bords doux et aux tons chair atténués, dissimulant tous les traits du visage. Mettez l'accent sur les détails des tissus mouillés, les reflets brillants de la pluie, les mèches de cheveux délicates humides, la transparence réaliste du parapluie, les gouttelettes d'eau scintillantes et l'ambiance tendre et calme d'une amitié après les cours sous la pluie. Utilisez un rendu anime très détaillé, des proportions naturelles, une faible profondeur de champ, une palette de couleurs bleu-gris pluvieux avec des tons chair chauds, et aucun texte visible.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'illustrazione in stile anime curata di due studentesse liceali giapponesi che tornano a casa insieme sotto la pioggia lungo una strada suburbana bagnata dopo la scuola. Stanno vicine sotto un grande ombrello di plastica trasparente coperto di gocce di pioggia; la cupola dell'ombrello domina la metà superiore della composizione con le stecche metalliche visibili e l'asta centrale nera. La scena è in formato verticale, con inquadratura dalla vita alle cosce, retroilluminazione cinematografica soffusa, pozzanghere riflettenti sull'asfalto, pioggia nebbiosa, pali della luce che si perdono in lontananza, guardrail metallici lungo il marciapiede, case residenziali e vegetazione ai lati, e ortensie viola in fiore sulla destra. La ragazza a sinistra è più bassa, con {argument name=\"left girl hair color\" default=\"un caschetto castano corto\"}, un grande fiocco rosso come accessorio per capelli di lato, un blazer scolastico blu navy con bottoni dorati, camicia bianca abbottonata, cravattino a fiocco scozzese rosso, gonna a pieghe scozzese scura e una grande borsa scolastica blu navy sulla spalla con un piccolo e grazioso portachiavi di peluche. Tiene la tracolla dello zaino con una mano e tocca o regge leggermente l'asta dell'ombrello con l'altra, apparendo timida e vicina alla sua amica. La ragazza a destra è più alta, con {argument name=\"right girl hair color\" default=\"lunghi capelli color lavanda\"}, un fermaglio a forma di fiore blu vicino all'orecchio, un blazer scolastico blu navy con bottoni dorati, camicia bianca abbottonata, cravattino a fiocco scozzese blu, gonna a pieghe scozzese scura e una grande borsa scolastica blu navy sulla spalla. Regge saldamente il manico dell'ombrello al centro, stando protettivamente accanto alla ragazza più bassa. I volti di entrambe le ragazze sono intenzionalmente coperti da blocchi rettangolari sfocati dai bordi morbidi in tonalità color pelle, che nascondono tutti i lineamenti. Enfatizza i tessuti bagnati dettagliati, i riflessi lucidi della pioggia, le delicate ciocche di capelli umide per il tempo, la trasparenza realistica dell'ombrello, le goccioline d'acqua scintillanti e l'atmosfera tenera e silenziosa dell'amicizia dopo scuola sotto la pioggia. Utilizza un rendering anime ad alto dettaglio, proporzioni naturali, profondità di campo soffusa, una palette piovosa blu-grigia fredda con tonalità della pelle calde e nessun testo visibile.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma ilustração refinada em estilo anime de duas estudantes japonesas do ensino médio caminhando para casa juntas na chuva, em uma rua suburbana molhada após a escola. Elas estão próximas sob um grande guarda-chuva de plástico transparente coberto por gotas de chuva; a cúpula do guarda-chuva domina a metade superior da composição, com nervuras de metal visíveis e uma haste central preta. A cena é vertical, com enquadramento da cintura às coxas, luz de fundo cinematográfica suave, poças reflexivas no pavimento, chuva com névoa, postes de energia recuando ao longe, grades de metal ao longo da calçada, casas residenciais e vegetação nas laterais, e hortênsias roxas florescendo à direita. A garota da esquerda é mais baixa, com {argument name=\"left girl hair color\" default=\"cabelo curto castanho em corte chanel\"}, um grande laço vermelho como acessório de cabelo na lateral, um blazer escolar azul-marinho com botões dourados, camisa social branca, gravata borboleta xadrez vermelha, saia plissada xadrez escura e uma grande mochila escolar azul-marinho no ombro com um pequeno chaveiro de pelúcia fofo. Ela segura a alça da mochila com uma mão e toca levemente ou segura a área da haste do guarda-chuva com a outra, parecendo tímida e próxima de sua amiga. A garota da direita é mais alta, com {argument name=\"right girl hair color\" default=\"cabelo longo roxo-lavanda\"}, um grampo de cabelo de flor azul perto da orelha, um blazer escolar azul-marinho com botões dourados, camisa social branca, gravata borboleta xadrez azul, saia plissada xadrez escura e uma grande mochila escolar azul-marinho no ombro. Ela segura o cabo do guarda-chuva firmemente no centro, posicionando-se de forma protetora ao lado da garota mais baixa. Os rostos de ambas as garotas estão intencionalmente cobertos por blocos de desfoque retangulares de bordas suaves em tons de pele neutros, ocultando todos os traços faciais. Enfatize o tecido molhado detalhado, reflexos brilhantes da chuva, fios de cabelo delicados úmidos devido ao clima, transparência realista do guarda-chuva, gotas de água cintilantes e um clima terno e silencioso de amizade escolar em um dia chuvoso. Use renderização de anime de alto detalhe, proporções naturais, profundidade de campo suave, paleta de cores azul-acinzentada fria com tons de pele quentes e nenhum texto visível.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - Rainy After-School Umbrella Friends",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - 雨后放学撑伞的友人",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - Amigas bajo la lluvia al salir de la escuela",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Comic / Storyboard - Regnerische Schulweg-Freundschaft unter dem Regenschirm",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - Amies sous la pluie après les cours",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - Amiche sotto l'ombrello dopo scuola sotto la pioggia",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - Amigas sob o Guarda-Chuva em uma Tarde Chuvosa",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic anime scene of two uniformed schoolgirls sharing a transparent umbrella on a rainy walk home.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一段电影质感的动漫场景，描绘两名身穿校服的女学生在雨中漫步回家，共用一把透明雨伞的画面。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une scène d'anime cinématographique de deux écolières en uniforme partageant un parapluie transparent en rentrant de l'école sous la pluie.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/yB7CqdfoDmrbhgD/status/2051283503074206078#reversed-0",
+      "originalId": "https://x.com/yB7CqdfoDmrbhgD/status/2051283503074206078#reversed-0",
+      "authors": [
+        {
+          "name": "しえる",
+          "url": "https://x.com/yB7CqdfoDmrbhgD"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3735
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f9caf58e7dad8230",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971070629_wdjvfk_HHefeLtb0AAFu30.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971070629_wdjvfk_HHefeLtb0AAFu30.jpg",
+      "localPath": "public/assets/prompt_08c10031a059cf1587cd/067cdd09f723.jpg",
+      "alt": "Comic / Storyboard - Rainy After-School Umbrella Friends - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.625Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.843Z"
+  }
+}

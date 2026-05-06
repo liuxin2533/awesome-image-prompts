@@ -1,0 +1,167 @@
+{
+  "id": "prompt_160b8a2dbbbcea8cbe7a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A realistic overhead photo of a childlike crayon drawing on a slightly wrinkled white sheet of paper placed on a wooden tabletop. The drawing shows a simple portrait of {argument name=\"character\" default=\"Donald Trump\"} in a naive elementary-school style, with messy yellow crayon hair, peach-colored skin, large ears, a blue suit jacket, white shirt collar, and a red necktie. The face is front-facing and fills most of the page, with one raised hand on the left side of the paper making a rude gesture with the middle finger extended. The linework is uneven black pencil or crayon outline, and the coloring is rough, scribbly, and intentionally clumsy, with visible childlike strokes that go outside the lines. On the right side of the page, there is vertical handwritten Japanese text in black that reads {argument name=\"side text\" default=\"とらんぷさん\"}. The composition is a candid smartphone snapshot, not a clean scan, showing the entire sheet of paper, slight perspective distortion, soft indoor lighting, and the texture of the wooden surface around the page. Emphasize the authentic handmade crayon texture, awkward proportions, and convincing “bad but charming” children’s artwork aesthetic.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Childlike Crayon Portrait on Paper",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "社群媒體貼文 - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ソーシャルメディア投稿 - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "소셜 미디어 게시물 - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โพสต์บนโซเชียลมีเดีย - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Bài đăng trên mạng xã hội - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "सोशल मीडिया पोस्ट - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Sosyal Medya Gönderisi - Childlike Crayon Portrait on Paper",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a realistic photo of a messy children's crayon drawing on paper, useful for recreating handmade naive artwork with a humorous school-project feel.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/MireilleDartois/status/2048903124518347213#reversed-0",
+      "originalId": "https://x.com/MireilleDartois/status/2048903124518347213#reversed-0",
+      "authors": [
+        {
+          "name": "ダルトワ★TV",
+          "url": "https://x.com/MireilleDartois"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1324
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f314510a62ee29e7",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367347456_i333ek_HG8pqG3bIAAuwOZ.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367347456_i333ek_HG8pqG3bIAAuwOZ.jpg",
+      "localPath": "public/assets/prompt_160b8a2dbbbcea8cbe7a/b8aa862c2213.jpg",
+      "alt": "Social Media Post - Childlike Crayon Portrait on Paper - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.564Z"
+  }
+}

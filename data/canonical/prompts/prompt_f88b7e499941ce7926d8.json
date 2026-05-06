@@ -1,0 +1,108 @@
+{
+  "id": "prompt_f88b7e499941ce7926d8",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 \n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 \n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる \n・全体は整理されたレイアウト\n（白背景、図解風） \n・アスペクト比16：9 　←\n\n高解像度、プロのコンセプトアートスタイル",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Based on this character and background, please create a character sheet like an official setting material. \n・Include front, side, and back 3-view drawings ・Add character expression variations \n・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view \n・Overall organized layout\n(White background, diagrammatic style) \n・Aspect ratio 16:9 　←\nHigh resolution, professional concept art style",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic visualization design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:43:53.144Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-270",
+      "originalId": "case-270",
+      "authors": [
+        {
+          "name": "[OpenNana](](<https://x.com/Toshi_nyaruo_AI/status/2045025277538107420>)",
+          "url": null
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 3151
+        }
+      ],
+      "rawSource": "\\[OpenNana]\\(]\\(<https://x.com/Toshi_nyaruo_AI/status/2045025277538107420>)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b237b565ade1a63f",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case270.jpg",
+      "upstreamPath": "../data/images/case270.jpg",
+      "localPath": "public/assets/prompt_f88b7e499941ce7926d8/b57c00c36da1.jpg",
+      "alt": "官方角色设定资料图鉴",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

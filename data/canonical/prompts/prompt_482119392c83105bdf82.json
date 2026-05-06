@@ -1,0 +1,110 @@
+{
+  "id": "prompt_482119392c83105bdf82",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A YouTube thumbnail-style collage for a {argument name=\"overall mood\" default=\"dark, dramatic, true crime investigation\"}. In the center is a highly detailed, close-up portrait of an {argument name=\"central figure\" default=\"older man with grey hair and deep wrinkles resembling Jeffrey Epstein\"}, wearing a black polo shirt, with a faint red glowing outline separating him from the background. On the left side, a {argument name=\"left background scene\" default=\"tropical island with luxury villas and a flying airplane in a dark sky\"}. Below the island, a conspiracy board motif features exactly 2 red push pins connected by 3 thick red strings. On the top right side, a hazy, sepia-toned depiction of the {argument name=\"right background scene\" default=\"US Capitol building with the silhouettes of 3 men in suits facing it\"}. On the bottom right, an open manila folder containing a {argument name=\"document type\" default=\"heavily redacted dossier with thick black marker lines and a smaller photograph of the central man\"}. The overall composition is cinematic, intense, and heavily stylized for a documentary video.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A YouTube thumbnail-style collage for a {argument name=\"overall mood\" default=\"dark, dramatic, true crime investigation\"}. In the center is a highly detailed, close-up portrait of an {argument name=\"central figure\" default=\"older man with grey hair and deep wrinkles resembling Jeffrey Epstein\"}, wearing a black polo shirt, with a faint red glowing outline separating him from the background. On the left side, a {argument name=\"left background scene\" default=\"tropical island with luxury villas and a flying airplane in a dark sky\"}. Below the island, a conspiracy board motif features exactly 2 red push pins connected by 3 thick red strings. On the top right side, a hazy, sepia-toned depiction of the {argument name=\"right background scene\" default=\"US Capitol building with the silhouettes of 3 men in suits facing it\"}. On the bottom right, an open manila folder containing a {argument name=\"document type\" default=\"heavily redacted dossier with thick black marker lines and a smaller photograph of the central man\"}. The overall composition is cinematic, intense, and heavily stylized for a documentary video.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:10:30.790Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "视频封面界面图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Video Cover Interface Image",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:10:33.542Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d21d15207b",
+      "value": "视频封面界面图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-111",
+      "originalId": "case-111",
+      "authors": [
+        {
+          "name": "mirochill",
+          "url": "https://x.com/mirochill"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 4226
+        }
+      ],
+      "rawSource": "[@mirochill](https://x.com/mirochill)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ba4a7f66323698e9",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case111.jpg",
+      "upstreamPath": "../data/images/case111.jpg",
+      "localPath": "public/assets/prompt_482119392c83105bdf82/be811c9a4241.jpg",
+      "alt": "overall mood",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "youtube",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.585Z"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "prompt_941f681ac6fb8314676a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a moody cinematic portrait of {argument name=\"character name\" default=\"Lin Daiyu\"}, one of the heroines from Dream of the Red Chamber, seated indoors in an ancient Chinese study. She is a delicate young noblewoman in a translucent pale blue Hanfu with layered gauze sleeves, subtle floral embroidery along the collar, and a soft white inner robe. Her long black hair is styled in an elegant loose updo with wispy strands, decorated with a small floral hairpin, dangling silver ornaments, and a turquoise bead. Her pose is quiet and introspective, one hand raised thoughtfully near her lips and the other resting across her lap beside an open handwritten book on a dark wooden desk. A large flat medium-gray square covers the center of her face, obscuring her facial features. The room is dim and atmospheric, lit by cool bluish window light from the left, with soft haze, shallow depth of field, dark wooden furniture, a blurred hanging calligraphy scroll in the background, and antique objects in the foreground including a stack of old books, a small blue-green ceramic jar, and the edge of a wooden birdcage or shelving piece. Add large vertical off-white Chinese brush calligraphy on the upper left reading {argument name=\"calligraphy text\" default=\"林黛玉\"}, plus one small red seal stamp beneath it also reading {argument name=\"seal text\" default=\"林黛玉\"}. The style should be realistic historical Chinese costume drama photography, melancholic, elegant, poetic, high detail, soft film grain, cool desaturated teal-gray color grading, vertical 2:3 composition.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张电影质感的忧郁肖像，主角为 {argument name=\"character name\" default=\"林黛玉\"}（《红楼梦》女主角之一），她正端坐在古色古香的中国书房内。她是一位娇弱的贵族少女，身着淡蓝色半透明汉服，袖口层叠轻纱，领口绣有精致花纹，内搭柔软的白色长袍。她乌黑的长发梳成优雅的松散发髻，几缕发丝垂落，点缀着小巧的花朵发簪、银质流苏饰品和一颗绿松石珠。她姿态静谧且深沉，一只手轻托下颌，另一只手放在深色木桌上，身旁摊开着一本手写书。一张巨大的中灰色方形色块遮住了她的面部中心，掩盖了五官。室内光线昏暗且充满氛围感，左侧透入冷调的蓝色窗光，伴有柔和的雾气和浅景深效果；背景是深色木质家具和模糊的悬挂书法卷轴，前景摆放着古董物件，包括一叠旧书、一个小巧的青绿色陶瓷罐，以及木制鸟笼或架子的一角。在左上方添加大型竖排米白色中国毛笔书法，内容为 {argument name=\"calligraphy text\" default=\"林黛玉\"}，下方盖有一枚红色印章，内容同样为 {argument name=\"seal text\" default=\"林黛玉\"}。风格应为写实的中国古装剧摄影，忧郁、优雅、诗意，高细节，带有柔和的胶片颗粒感，采用冷调去饱和的青灰色调，竖构图 2:3。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un retrato cinematográfico y melancólico de {argument name=\"character name\" default=\"Lin Daiyu\"}, una de las heroínas de Sueño en el pabellón rojo, sentada en el interior de un antiguo estudio chino. Es una joven noble de aspecto delicado que viste un Hanfu azul pálido translúcido con mangas de gasa superpuestas, sutiles bordados florales a lo largo del cuello y una túnica interior blanca y suave. Su largo cabello negro está peinado en un elegante recogido suelto con mechones finos, decorado con una pequeña horquilla floral, adornos de plata colgantes y una cuenta de turquesa. Su postura es tranquila e introspectiva, con una mano levantada pensativamente cerca de sus labios y la otra descansando sobre su regazo junto a un libro manuscrito abierto en un escritorio de madera oscura. Un gran cuadrado gris medio cubre el centro de su rostro, ocultando sus rasgos faciales. La habitación es tenue y atmosférica, iluminada por una luz azulada fría proveniente de la ventana a la izquierda, con una neblina suave, poca profundidad de campo, muebles de madera oscura, un pergamino de caligrafía borroso colgado al fondo y objetos antiguos en primer plano, incluyendo una pila de libros viejos, una pequeña vasija de cerámica azul verdosa y el borde de una jaula de pájaros de madera o una estantería. Añade una caligrafía china vertical grande en color blanco hueso en la parte superior izquierda que diga {argument name=\"calligraphy text\" default=\"林黛玉\"}, además de un pequeño sello rojo debajo que también diga {argument name=\"seal text\" default=\"林黛玉\"}. El estilo debe ser de fotografía realista de drama histórico chino, melancólico, elegante, poético, con gran detalle, grano de película suave, gradación de color cian-gris desaturado y composición vertical 2:3.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein stimmungsvolles, filmisches Porträt von {argument name=\"character name\" default=\"Lin Daiyu\"}, einer der Heldinnen aus Der Traum der Roten Kammer, sitzend in einem antiken chinesischen Arbeitszimmer. Sie ist eine zierliche junge Adlige in einem halbtransparenten, blassblauen Hanfu mit geschichteten Gaze-Ärmeln, dezenter Blumenstickerei am Kragen und einem weichen weißen Untergewand. Ihr langes schwarzes Haar ist zu einer eleganten, lockeren Hochsteckfrisur mit einzelnen Strähnen gestylt, verziert mit einer kleinen Blumen-Haarnadel, hängenden Silberschmuckstücken und einer türkisfarbenen Perle. Ihre Pose ist ruhig und nachdenklich; eine Hand ist nachdenklich in Lippennähe erhoben, die andere ruht auf ihrem Schoß neben einem aufgeschlagenen, handgeschriebenen Buch auf einem dunklen Holztisch. Ein großes, flaches, mittelgraues Quadrat bedeckt die Mitte ihres Gesichts und verdeckt ihre Gesichtszüge. Der Raum ist dunkel und atmosphärisch, beleuchtet durch kühles, bläuliches Licht, das von links durch das Fenster fällt, mit sanftem Dunst, geringer Schärfentiefe, dunklen Holzmöbeln, einer unscharfen hängenden Kalligrafierolle im Hintergrund und antiken Objekten im Vordergrund, darunter ein Stapel alter Bücher, ein kleines blau-grünes Keramikgefäß und der Rand eines hölzernen Vogelkäfigs oder Regalelements. Füge oben links große, vertikale, cremeweiße chinesische Pinselkalligrafie mit dem Text {argument name=\"calligraphy text\" default=\"林黛玉\"} hinzu, sowie einen kleinen roten Siegelstempel darunter, der ebenfalls {argument name=\"seal text\" default=\"林黛玉\"} liest. Der Stil sollte realistische historische chinesische Kostümdrama-Fotografie sein, melancholisch, elegant, poetisch, detailreich, mit weichem Filmkorn, kühler, entsättigter Blaugrün-Grau-Farbkorrektur und vertikaler 2:3-Komposition.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un portrait cinématographique et mélancolique de {argument name=\"character name\" default=\"Lin Daiyu\"}, l'une des héroïnes du Rêve dans le pavillon rouge, assise à l'intérieur d'un bureau chinois ancien. C'est une jeune noble délicate vêtue d'un Hanfu bleu pâle translucide avec des manches en gaze superposées, une subtile broderie florale le long du col et une robe intérieure blanche douce. Ses longs cheveux noirs sont coiffés en un chignon lâche et élégant avec quelques mèches folles, décoré d'une petite épingle à cheveux florale, d'ornements en argent pendants et d'une perle turquoise. Sa pose est calme et introspective, une main levée pensivement près de ses lèvres et l'autre reposant sur ses genoux à côté d'un livre manuscrit ouvert sur un bureau en bois sombre. Un grand carré gris moyen plat recouvre le centre de son visage, masquant ses traits. La pièce est sombre et atmosphérique, éclairée par une lumière bleue froide venant de la fenêtre sur la gauche, avec une brume douce, une faible profondeur de champ, des meubles en bois sombre, un rouleau de calligraphie suspendu et flou en arrière-plan, et des objets anciens au premier plan, notamment une pile de vieux livres, un petit pot en céramique bleu-vert et le bord d'une cage à oiseaux ou d'une étagère en bois. Ajoutez une grande calligraphie verticale au pinceau de couleur blanc cassé sur la partie supérieure gauche indiquant {argument name=\"calligraphy text\" default=\"林黛玉\"}, ainsi qu'un petit sceau rouge en dessous indiquant également {argument name=\"seal text\" default=\"林黛玉\"}. Le style doit être celui d'une photographie réaliste de drame historique chinois, mélancolique, élégant, poétique, très détaillé, avec un grain de film doux, une colorimétrie bleu-gris désaturée et une composition verticale 2:3.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un ritratto cinematografico e malinconico di {argument name=\"character name\" default=\"Lin Daiyu\"}, una delle eroine del Sogno della camera rossa, seduta all'interno di un antico studio cinese. È una giovane nobile dall'aspetto delicato, che indossa un Hanfu azzurro pallido semitrasparente con maniche di garza a strati, sottili ricami floreali lungo il colletto e una morbida veste interna bianca. I suoi lunghi capelli neri sono acconciati in un elegante raccolto morbido con ciocche libere, decorato con una piccola forcina floreale, ornamenti d'argento pendenti e una perla turchese. La sua posa è silenziosa e introspettiva, con una mano sollevata pensierosa vicino alle labbra e l'altra appoggiata sulle ginocchia accanto a un libro scritto a mano aperto su una scrivania di legno scuro. Un grande quadrato grigio medio copre il centro del suo viso, oscurandone i lineamenti. La stanza è buia e suggestiva, illuminata da una fredda luce azzurrina proveniente dalla finestra a sinistra, con una leggera foschia, profondità di campo ridotta, mobili in legno scuro, un rotolo di calligrafia sfocato sullo sfondo e oggetti d'antiquariato in primo piano, tra cui una pila di vecchi libri, un piccolo vaso in ceramica blu-verde e il bordo di una gabbia per uccelli in legno o di uno scaffale. Aggiungi una grande calligrafia verticale a pennello in bianco sporco in alto a sinistra con il testo {argument name=\"calligraphy text\" default=\"林黛玉\"}, più un piccolo sigillo rosso sottostante che riporta anch'esso {argument name=\"seal text\" default=\"林黛玉\"}. Lo stile deve essere quello di una fotografia realistica di un dramma in costume cinese, malinconico, elegante, poetico, altamente dettagliato, con una morbida grana cinematografica, una color grading fredda e desaturata sui toni del verde acqua-grigio e una composizione verticale 2:3.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um retrato cinematográfico melancólico de {argument name=\"character name\" default=\"Lin Daiyu\"}, uma das heroínas de O Sonho da Câmara Vermelha, sentada dentro de um antigo escritório chinês. Ela é uma jovem nobre delicada vestindo um Hanfu azul-pálido translúcido com mangas de gaze em camadas, bordados florais sutis ao longo da gola e um manto interno branco suave. Seu longo cabelo preto está penteado em um coque elegante e solto com mechas finas, decorado com um pequeno grampo floral, ornamentos de prata pendentes e uma conta de turquesa. Sua pose é silenciosa e introspectiva, com uma mão levantada pensativamente perto dos lábios e a outra descansando sobre o colo ao lado de um livro manuscrito aberto em uma mesa de madeira escura. Um grande quadrado cinza-médio plano cobre o centro de seu rosto, obscurecendo suas feições. O ambiente é escuro e atmosférico, iluminado por uma luz azulada fria vinda da janela à esquerda, com névoa suave, profundidade de campo reduzida, móveis de madeira escura, um pergaminho de caligrafia desfocado ao fundo e objetos antigos em primeiro plano, incluindo uma pilha de livros velhos, um pequeno pote de cerâmica azul-esverdeado e a borda de uma gaiola de pássaros ou estante de madeira. Adicione uma caligrafia chinesa vertical grande em tom off-white no canto superior esquerdo lendo {argument name=\"calligraphy text\" default=\"林黛玉\"}, além de um pequeno carimbo vermelho abaixo dela também lendo {argument name=\"seal text\" default=\"林黛玉\"}. O estilo deve ser fotografia realista de drama histórico chinês, melancólico, elegante, poético, com alto nível de detalhes, granulação de filme suave, color grading em tons de azul-petróleo e cinza dessaturados, composição vertical 2:3.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Melancholic Lin Daiyu Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - 忧郁林黛玉肖像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Retrato melancólico de Lin Daiyu",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Melancholisches Porträt von Lin Daiyu",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Portrait mélancolique de Lin Daiyu",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Ritratto malinconico di Lin Daiyu",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Retrato Melancólico de Lin Daiyu",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a cinematic ancient Chinese study portrait of Lin Daiyu with Hanfu styling, calligraphy, and a poetic Red Chamber atmosphere.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张电影质感的林黛玉古风书房肖像，融合汉服造型、书法元素及《红楼梦》的诗意氛围。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un portrait cinématographique de Lin Daiyu dans un bureau chinois ancien, avec un style Hanfu, de la calligraphie et une atmosphère poétique inspirée du Rêve dans le pavillon rouge.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/kumadayodayo/status/2051358185320235011#reversed-0",
+      "originalId": "https://x.com/kumadayodayo/status/2051358185320235011#reversed-0",
+      "authors": [
+        {
+          "name": "kumasan🧸～Bunnies🐰～",
+          "url": "https://x.com/kumadayodayo"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1582
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_30800ee173e7ff18",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971070416_svmbt1_HHfjOsNbsAAiK74.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971070416_svmbt1_HHfjOsNbsAAiK74.jpg",
+      "localPath": "public/assets/prompt_941f681ac6fb8314676a/5c05cc1884ec.jpg",
+      "alt": "Social Media Post - Melancholic Lin Daiyu Portrait - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.859Z"
+  }
+}

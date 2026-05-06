@@ -1,0 +1,108 @@
+{
+  "id": "prompt_ad6b31e655a560a428bf",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，\n\n整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，\n\n广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，\n传统与现代建筑自然融合，层次递进，远近虚实分明，\n\n风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，\n\n色彩方案（重点）：\n高饱和但克制 ，中国红、青蓝、鎏金为主色，\n辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，\n\n背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，\n\n细节：祥云与水纹具有轻微浮雕/烫金质感，\n局部加入微光粒子或流动光线，增强现代感，\n\n光影：柔和渐变光+局部高光，突出恢弘大气氛围，\n\n整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Neo-Chinese minimalist style high-end city poster, 9:16 vertical composition, with Guangzhou as the core theme, the center of the image is an abstract geometric Canton Tower, simple in shape but highly recognizable,\n\nThe overall adopts an S-shaped flowing composition, extending from bottom to top, the Pearl River water system is designed as flowing water ripples fused with traditional auspicious cloud patterns, surrounding the entire image to form a visual dynamic line,\n\nGuangzhou landmark buildings are embellished in it in the way of \"blank space + line drawing + local color blocks\": Zhujiang New Town Twin Towers, Liede Bridge, Baiyun Mountain outline, Lingnan arcade houses,\nTraditional and modern architecture naturally blend, progressive layers, clear distinction between far and near, virtual and real,\n\nStyle control: minimalist + high-end + Eastern artistic conception, not cluttered and not overly realistic,\n\nColor scheme (key point):\nHigh saturation but restrained, Chinese red, cyan blue, and gilded gold as the main colors,\nSupplemented by a small amount of warm gold highlight embellishments, forming a strong visual impact but not tacky,\n\nBackground: large area of pure blank space or light Xuan paper texture, enhancing a sense of breathing and high-end feel,\n\nDetails: auspicious clouds and water ripples have a slight relief/gold stamping texture,\nLocally add faint light particles or flowing light lines to enhance modernity,\n\nLight and shadow: soft gradient light + local highlights, highlighting a magnificent and grand atmosphere,\n\nOverall style: Guochao high-end illustration / brand poster-level texture / 8K / ultra-clear details",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "极简国潮鎏金广州塔海报",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Minimalist Guochao Gilt Canton Tower Poster",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:14:07.862Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_e1ee7dc7d7",
+      "value": "极简国潮鎏金广州塔海报",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-230",
+      "originalId": "case-230",
+      "authors": [
+        {
+          "name": "liyue_ai",
+          "url": "https://x.com/liyue_ai/status/2045744531686166878"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2125
+        }
+      ],
+      "rawSource": "[@liyue\\_ai](https://x.com/liyue_ai/status/2045744531686166878)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_db2d4ebe87d552af",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case230.jpg",
+      "upstreamPath": "../data/images/case230.jpg",
+      "localPath": "public/assets/prompt_ad6b31e655a560a428bf/d0faeb2ab861.jpg",
+      "alt": "极简国潮鎏金广州塔海报",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "illustration",
+      "海报",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.597Z"
+  }
+}

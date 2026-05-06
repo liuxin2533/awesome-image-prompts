@@ -1,0 +1,111 @@
+{
+  "id": "prompt_1c784ac9e4c5c62e8dae",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name=\"hair color\" default=\"ash-blonde\"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name=\"outfit\" default=\"Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers\"}. Her arms are resting casually on her knees. The background is a bright {argument name=\"sky condition\" default=\"clear blue sky with scattered white clouds\"}, with a blurred {argument name=\"background setting\" default=\"chain-link fence and green trees\"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name=\"hair color\" default=\"ash-blonde\"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name=\"outfit\" default=\"Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers\"}. Her arms are resting casually on her knees. The background is a bright {argument name=\"sky condition\" default=\"clear blue sky with scattered white clouds\"}, with a blurred {argument name=\"background setting\" default=\"chain-link fence and green trees\"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:55:58.722Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "人像写实摄影图",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Realistic portrait photograph",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:55:52.749Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d649a8b6f1",
+      "value": "人像写实摄影图",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-31",
+      "originalId": "case-31",
+      "authors": [
+        {
+          "name": "jun_kongo",
+          "url": "https://x.com/jun_kongo"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 705
+        }
+      ],
+      "rawSource": "[@jun\\_kongo](https://x.com/jun_kongo)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_839c422d1b3f3948",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case31.jpg",
+      "upstreamPath": "../data/images/case31.jpg",
+      "localPath": "public/assets/prompt_1c784ac9e4c5c62e8dae/201f00db9af2.jpg",
+      "alt": "hair color",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "人像",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.580Z"
+  }
+}

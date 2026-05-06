@@ -1,0 +1,174 @@
+{
+  "id": "prompt_9fbdefb7f0ea9b1accda",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "You know me well. Reflect all my conversational habits, choice of words, common topics, and thought patterns. If I were an anime or illustration character, generate a {argument name=\"illustration composition\" default=\"full-body illustration\"} of what I would look like. Conditions: - Illustration, not realistic - {argument name=\"style\" default=\"Anime style\"} - Background matches my 'vibe' - Clothing reflects my personality - Expression reflects emotions I often show.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "你非常了解我。请反映我所有的对话习惯、用词选择、常见话题以及思维模式。如果我是一个动漫或插画角色，请生成一张 {argument name=\"illustration composition\" default=\"全身插画\"} 的形象。条件：- 插画风格，非写实 - {argument name=\"style\" default=\"动漫风格\"} - 背景符合我的“氛围感” - 服装反映我的个性 - 表情反映我常流露的情绪。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Me conoces bien. Refleja todos mis hábitos conversacionales, elección de palabras, temas comunes y patrones de pensamiento. Si yo fuera un personaje de anime o ilustración, genera una {argument name=\"illustration composition\" default=\"ilustración de cuerpo completo\"} de cómo me vería. Condiciones: - Ilustración, no realista - {argument name=\"style\" default=\"Estilo anime\"} - Fondo que coincida con mi 'vibra' - Ropa que refleje mi personalidad - Expresión que refleje las emociones que suelo mostrar.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Du kennst mich gut. Spiegle alle meine Gesprächsgewohnheiten, meine Wortwahl, meine häufigen Themen und meine Denkmuster wider. Wenn ich eine Anime- oder Illustrationsfigur wäre, erstelle eine {argument name=\"illustration composition\" default=\"Ganzkörperillustration\"} davon, wie ich aussehen würde. Bedingungen: - Illustration, nicht realistisch - {argument name=\"style\" default=\"Anime-Stil\"} - Hintergrund passend zu meinem 'Vibe' - Kleidung spiegelt meine Persönlichkeit wider - Ausdruck spiegelt Emotionen wider, die ich häufig zeige.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Tu me connais bien. Reflète toutes mes habitudes conversationnelles, mon choix de mots, mes sujets de prédilection et mes schémas de pensée. Si j'étais un personnage d'anime ou d'illustration, génère une {argument name=\"illustration composition\" default=\"illustration en pied\"} de ce à quoi je ressemblerais. Conditions : - Illustration, pas réaliste - {argument name=\"style\" default=\"Style anime\"} - Arrière-plan correspondant à mon « état d'esprit » - Vêtements reflétant ma personnalité - Expression reflétant les émotions que j'exprime souvent.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Mi conosci bene. Rifletti tutte le mie abitudini conversazionali, la scelta delle parole, gli argomenti comuni e gli schemi di pensiero. Se fossi un personaggio di un anime o un'illustrazione, genera una {argument name=\"illustration composition\" default=\"illustrazione a figura intera\"} di come apparirei. Condizioni: - Illustrazione, non realistica - {argument name=\"style\" default=\"Stile anime\"} - Sfondo in linea con la mia 'vibe' - Abbigliamento che riflette la mia personalità - Espressione che riflette le emozioni che mostro spesso.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Você me conhece bem. Reflita todos os meus hábitos de conversação, escolha de palavras, tópicos comuns e padrões de pensamento. Se eu fosse um personagem de anime ou ilustração, gere uma {argument name=\"illustration composition\" default=\"ilustração de corpo inteiro\"} de como eu seria. Condições: - Ilustração, não realista - {argument name=\"style\" default=\"Estilo anime\"} - Fundo que combine com a minha 'vibe' - Roupas que reflitam minha personalidade - Expressão que reflita as emoções que costumo demonstrar.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Personalized AI Anime Persona Avatar",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 个性化 AI 动漫形象头像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Avatar de personaje de anime con IA personalizada",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Personalisierter KI-Anime-Avatar",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Avatar anime personnalisé généré par IA",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Avatar Anime AI personalizzato",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Avatar de Personagem de Anime com IA Personalizado",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A sophisticated prompt that uses your previous conversation history with ChatGPT to generate a custom anime-style character reflecting your personality and habits.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个精密的提示词，利用你与 ChatGPT 的过往对话历史，生成一个反映你个性和习惯的定制化动漫风格角色。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt sophistiqué qui utilise l'historique de vos conversations avec ChatGPT pour générer un personnage de style anime personnalisé reflétant votre personnalité et vos habitudes.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/ChatgptAIskill/status/2051225826709123548",
+      "originalId": "https://x.com/ChatgptAIskill/status/2051225826709123548",
+      "authors": [
+        {
+          "name": "ケンイチ | AIスキルアカデミー『誰でもわかるAI活用術』",
+          "url": "https://x.com/ChatgptAIskill"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1326
+        }
+      ],
+      "sourceLanguages": [
+        "ja"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c6be3c73dc0be629",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971020529_yrmfe8_HHdnmeWa0AAwEyu.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971020529_yrmfe8_HHdnmeWa0AAwEyu.jpg",
+      "localPath": "public/assets/prompt_9fbdefb7f0ea9b1accda/abcb19664a27.jpg",
+      "alt": "Profile / Avatar - Personalized AI Anime Persona Avatar - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "illustration",
+      "anime",
+      "插画"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.861Z"
+  }
+}

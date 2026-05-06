@@ -1,0 +1,101 @@
+{
+  "id": "prompt_483948b1c580de7c5eaf",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A dreamy anime portrait of {argument name=\"character name\" default=\"Kotori\"}, a delicate virtual girl seated on the floor in a curled-up pose with both knees pulled close to her chest and her arms wrapped gently around them, looking directly at the viewer with a soft, quiet, slightly melancholy expression. She has very long, flowing silver-lavender twin tails with wispy bangs, decorated with 8 visible hair ornaments: 2 large ribbon bows at the twin-tail bases, 3 small flower clips, 2 tiny butterfly clips, and 1 heart-shaped hairpin. Her eyes are large, luminous violet with glossy highlights. She wears an oversized pastel-lilac off-shoulder knit cardigan slipping loosely around her arms, a frilly lace-trimmed nightdress or camisole in pale lavender, and a pair of soft knee-high socks with 2 visible ribbon bows, all in a cohesive {argument name=\"color theme\" default=\"soft lavender and pastel purple\"} palette. The scene is set inside a futuristic holographic memory space filled with floating translucent interface panels, glowing data windows, starry particles, and butterfly-shaped light motifs. Include a visible text panel on the left showing terminal-like white text that reads: {argument name=\"screen text\" default=\"memory://\\nUser: You\\nAI: Kotori\\n\\nAccessing.\\n> initializing\\n> loading memory\\n> 100%\\n> welcome home.\"}. In the background, show a cosmic digital environment with a faint planet, layered transparent screens, and several floating image thumbnails suggesting memories and character sketches. Lighting is ethereal and backlit, with iridescent bloom, soft rim light, sparkling dust, and glossy highlights on hair and fabric. Composition is full-frame vertical, centered on the girl, intimate and emotionally warm, highly detailed, ultra-polished, soft-focus anime illustration, celestial cyber fantasy aesthetic, gentle purple glow, intricate lace, silky hair strands, and a tender \"AI companion in her memory world\" mood.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "梦幻的动漫肖像，主角是{argument name=\"character name\" default=\"Kotori}\"，一位精致的虚拟少女，她蜷坐在地板上，双膝紧贴胸口，手臂轻柔地环抱着，以温柔、安静、略带忧郁的表情直视着观众。她有非常长的银紫色双马尾，发梢飘逸，额前有细碎的刘海，装饰着8个可见的发饰：双马尾根部有2个大蝴蝶结，3个小花夹，2个微型蝴蝶夹，和1个心形发针。她的眼睛大而明亮，呈紫色，带有光泽高光。她穿着一件过季的淡紫色露肩针织开衫，宽松地滑落在手臂上，一件淡紫色的蕾丝边睡衣或吊带衫，以及一双柔软的过膝袜，袜子上可见2个蝴蝶结，整体采用和谐的{argument name=\"color theme\" default=\"soft lavender and pastel purple\"}色调。场景设置在一个未来感十足的全息记忆空间内，空间中漂浮着半透明的界面面板，发光的数据窗口，星尘粒子和蝴蝶形状的光纹。左侧包含一个可见的文本面板，显示类似终端的白色文本，内容为：{argument name=\"screen text\" default=\"memory://\\nUser: You\\nAI: Kotori\\n\\nAccessing.\\n> initializing\\n> loading memory\\n> 100%\\n> welcome home.\"}。背景展示一个宇宙数字环境，有一个模糊的行星，多层透明屏幕，以及几个漂浮的图像缩略图，暗示着记忆和角色草图。灯光空灵且为背光，带有彩虹色辉光，柔和的轮廓光，闪烁的尘埃，以及头发和织物上的光泽高光。构图为全帧垂直，以女孩为中心，亲密且情感温暖，高度精细，极致精致，柔焦动漫插画，天空赛博幻想美学，柔和的紫色光芒，精致的蕾丝，丝滑的发丝，以及一个温柔的\"AI伴侣在她的记忆世界\"氛围。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:09:50.660Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Lavender AI Girl in Memory Space",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/libearal/status/2048026376645861799",
+      "originalId": "case-95",
+      "authors": [
+        {
+          "name": "libearal",
+          "url": "https://x.com/libearal"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 605
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_8008e5d031f4bc53",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case95/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case95/output.jpg",
+      "localPath": "public/assets/prompt_483948b1c580de7c5eaf/cd7aa467fdf3.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "interface",
+      "thumbnail",
+      "界面"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.585Z"
+  }
+}

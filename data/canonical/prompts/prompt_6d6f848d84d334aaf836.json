@@ -1,0 +1,185 @@
+{
+  "id": "prompt_6d6f848d84d334aaf836",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Design a high-end cinematic character poster in a layered depth composition (9:16 vertical) with a strong foreground–midground–background separation instead of silhouette framing.\nThe {argument name=\"character\" default=\"character\"} stands slightly off-center in a dynamic, perspective-driven pose, interacting naturally with the {argument name=\"environment\" default=\"environment (wind, light, particles, fabric movement)\"}. The camera angle should feel intentional—low-angle for power or slight tilt for tension—creating a sense of motion and presence.\nThe background should not be contained inside shapes. Instead, build a living world around the character:\natmospheric environments (fog, city lights, ruins, nature, etc.)\nlight rays, volumetric glow, drifting particles\nsubtle storytelling elements placed naturally in space (not collage-based)\nIntroduce floating fragments or layered planes (glass shards, light panels, memories, holographic slices, or torn paper edges) that orbit or intersect the scene, each containing faint symbolic visuals tied to the character’s story—keep them minimal and elegant, not cluttered.\nLighting should be cinematic and directional:\nstrong key light shaping the subject\nrim lighting to separate from background\nsoft gradients and shadow falloff for depth\nColor palette should follow a {argument name=\"color palette\" default=\"controlled dual-tone system (e.g., teal–orange, violet–gold, crimson–black)\"} with smooth transitions and no oversaturation.\nTypography:\nplace the title in a clean, modern cinematic layout\nintegrate text subtly into the environment (ground plane, light projection, or floating UI style)\navoid heavy or oversized typography\nOverall style: ultra-realistic + cinematic editorial, sharp detail on subject, soft atmospheric depth in background, minimal but intentional storytelling elements, premium movie-poster quality.\nAvoid: silhouette fill compositions, heavy collage density, watercolor textures, or ink-wash edges. Focus on spatial depth, realism, and cinematic immersion.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "设计一张具有层次深度构图（9:16 竖屏）的高端电影感角色海报，采用强烈的“前景-中景-背景”分离设计，而非剪影式构图。\n{argument name=\"character\" default=\"角色\"} 略微偏离中心，呈现动态且具透视感的姿势，与 {argument name=\"environment\" default=\"环境（风、光、粒子、织物运动）\"} 自然互动。摄像机角度应具有意图感——低角度展现力量感，或轻微倾斜营造张力——从而创造出动感与存在感。\n背景不应被限制在特定形状内，而应围绕角色构建一个鲜活的世界：\n营造氛围感环境（雾气、城市灯光、废墟、自然景观等）\n光束、体积光、漂浮粒子\n将微妙的叙事元素自然地置于空间中（而非拼贴式）\n引入漂浮碎片或分层平面（玻璃碎片、光板、记忆片段、全息切片或撕裂的纸张边缘），使其环绕或穿插于场景中，每个元素都包含与角色故事相关的微弱象征性视觉效果——保持极简与优雅，避免杂乱。\n光影应具备电影感且具有方向性：\n强主光勾勒主体轮廓\n边缘光将主体与背景分离\n柔和的渐变与阴影衰减以增强深度\n配色方案应遵循 {argument name=\"color palette\" default=\"受控的双色调系统（例如：青橙色、紫金色、深红黑）\"}，色彩过渡平滑，避免过度饱和。\n排版：\n将标题置于简洁、现代的电影化布局中\n将文字微妙地融入环境（地面、光影投影或浮动 UI 风格）\n避免厚重或过大的排版\n整体风格：超写实 + 电影级编辑风格，主体细节锐利，背景具有柔和的氛围深度，叙事元素极简且富有深意，达到顶级电影海报品质。\n避免：剪影填充构图、沉重的拼贴密度、水彩质感或水墨边缘。专注于空间深度、写实感与电影级沉浸感。",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Thiết kế một poster nhân vật điện ảnh cao cấp với bố cục chiều sâu phân lớp (tỷ lệ dọc 9:16), tạo sự tách biệt rõ rệt giữa tiền cảnh, trung cảnh và hậu cảnh thay vì đóng khung bằng hình bóng (silhouette).\n{argument name=\"character\" default=\"nhân vật\"} đứng hơi lệch tâm trong một tư thế năng động, giàu góc nhìn, tương tác tự nhiên với {argument name=\"environment\" default=\"môi trường (gió, ánh sáng, hạt bụi, chuyển động của vải)\"}. Góc máy cần tạo cảm giác có chủ đích—góc thấp để thể hiện quyền lực hoặc nghiêng nhẹ để tạo sự căng thẳng—tạo nên cảm giác chuyển động và sự hiện diện.\nPhông nền không nên bị giới hạn trong các hình khối. Thay vào đó, hãy xây dựng một thế giới sống động xung quanh nhân vật:\nmôi trường khí quyển (sương mù, ánh đèn thành phố, tàn tích, thiên nhiên, v.v.)\ncác tia sáng, hiệu ứng ánh sáng thể tích (volumetric glow), các hạt bụi trôi nổi\ncác yếu tố kể chuyện tinh tế được đặt tự nhiên trong không gian (không phải dạng cắt dán - collage)\nThêm các mảnh vỡ trôi nổi hoặc các lớp phân tầng (mảnh kính, tấm sáng, ký ức, lát cắt ảnh ba chiều, hoặc mép giấy rách) xoay quanh hoặc cắt ngang khung cảnh, mỗi mảnh chứa đựng những hình ảnh biểu tượng mờ nhạt gắn liền với câu chuyện của nhân vật—hãy giữ chúng tối giản và thanh lịch, tránh gây rối mắt.\nÁnh sáng cần mang tính điện ảnh và có hướng:\nánh sáng chính mạnh để định hình chủ thể\nánh sáng viền (rim light) để tách biệt chủ thể khỏi phông nền\ncác dải chuyển màu mềm mại và độ đổ bóng để tạo chiều sâu\nBảng màu nên tuân theo {argument name=\"color palette\" default=\"hệ thống hai tông màu có kiểm soát (ví dụ: xanh mòng két–cam, tím–vàng kim, đỏ thẫm–đen)\"} với các chuyển đổi mượt mà và không bị bão hòa quá mức.\nTypography:\nđặt tiêu đề theo bố cục điện ảnh hiện đại, sạch sẽ\ntích hợp văn bản một cách tinh tế vào môi trường (mặt phẳng nền, hình chiếu ánh sáng, hoặc phong cách giao diện UI trôi nổi)\ntránh sử dụng typography quá khổ hoặc nặng nề\nPhong cách tổng thể: siêu thực + biên tập điện ảnh, chi tiết sắc nét trên chủ thể, chiều sâu khí quyển mềm mại ở hậu cảnh, các yếu tố kể chuyện tối giản nhưng đầy chủ đích, chất lượng poster phim cao cấp.\nTránh: bố cục lấp đầy bằng hình bóng, mật độ cắt dán dày đặc, kết cấu màu nước, hoặc các cạnh vẽ bằng mực. Tập trung vào chiều sâu không gian, tính chân thực và sự đắm chìm trong điện ảnh.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Diseña un póster cinematográfico de personaje de alta gama con una composición de profundidad en capas (vertical 9:16) con una clara separación entre primer plano, plano medio y fondo, en lugar de encuadres de silueta.\nEl {argument name=\"character\" default=\"personaje\"} se encuentra ligeramente descentrado en una pose dinámica y con perspectiva, interactuando de forma natural con el {argument name=\"environment\" default=\"entorno (viento, luz, partículas, movimiento de telas)\"}. El ángulo de la cámara debe sentirse intencional (ángulo contrapicado para dar poder o una ligera inclinación para generar tensión), creando una sensación de movimiento y presencia.\nEl fondo no debe estar contenido dentro de formas. En su lugar, construye un mundo vivo alrededor del personaje:\nentornos atmosféricos (niebla, luces de la ciudad, ruinas, naturaleza, etc.)\nrayos de luz, resplandor volumétrico, partículas a la deriva\nelementos narrativos sutiles colocados de forma natural en el espacio (no basados en collage)\nIntroduce fragmentos flotantes o planos superpuestos (trozos de vidrio, paneles de luz, recuerdos, cortes holográficos o bordes de papel rasgado) que orbiten o se crucen con la escena, cada uno conteniendo imágenes simbólicas tenues vinculadas a la historia del personaje; mantenlos minimalistas y elegantes, sin saturar.\nLa iluminación debe ser cinematográfica y direccional:\nluz principal fuerte que defina al sujeto\niluminación de contorno (rim light) para separarlo del fondo\ngradientes suaves y caída de sombras para dar profundidad\nLa paleta de colores debe seguir un {argument name=\"color palette\" default=\"sistema controlado de dos tonos (por ejemplo, azul verdoso-naranja, violeta-dorado, carmesí-negro)\"} con transiciones suaves y sin sobresaturación.\nTipografía:\ncoloca el título en un diseño cinematográfico limpio y moderno\nintegra el texto sutilmente en el entorno (plano del suelo, proyección de luz o estilo de interfaz flotante)\nevita tipografías pesadas o demasiado grandes\nEstilo general: ultra realista + editorial cinematográfico, detalles nítidos en el sujeto, profundidad atmosférica suave en el fondo, elementos narrativos minimalistas pero intencionales, calidad de póster de película premium.\nEvita: composiciones con relleno de silueta, alta densidad de collage, texturas de acuarela o bordes de tinta. Enfócate en la profundidad espacial, el realismo y la inmersión cinematográfica.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Entwirf ein hochwertiges, kinoreifes Charakter-Poster in einer Komposition mit geschichteter Tiefe (9:16 vertikal) und einer klaren Trennung von Vorder-, Mittel- und Hintergrund anstelle von silhouettenhafter Rahmung.\nDer {argument name=\"character\" default=\"Charakter\"} steht leicht versetzt in einer dynamischen, perspektivisch ausgerichteten Pose und interagiert natürlich mit der {argument name=\"environment\" default=\"Umgebung (Wind, Licht, Partikel, Stoffbewegung)\"}. Der Kamerawinkel sollte bewusst gewählt sein – eine niedrige Perspektive für mehr Kraft oder eine leichte Neigung für Spannung –, um ein Gefühl von Bewegung und Präsenz zu erzeugen.\nDer Hintergrund sollte nicht in Formen eingeschlossen sein. Erschaffe stattdessen eine lebendige Welt um den Charakter herum:\natmosphärische Umgebungen (Nebel, Stadtlichter, Ruinen, Natur usw.)\nLichtstrahlen, volumetrisches Leuchten, schwebende Partikel\ndeutungsstarke Elemente, die natürlich im Raum platziert sind (keine Collage-Optik)\nFüge schwebende Fragmente oder geschichtete Ebenen hinzu (Glassplitter, Lichtpaneele, Erinnerungen, holografische Ausschnitte oder zerrissene Papierkanten), die die Szene umkreisen oder durchschneiden. Jedes Element sollte subtile, symbolische Visuals enthalten, die mit der Geschichte des Charakters verknüpft sind – halte sie minimalistisch und elegant, nicht überladen.\nDie Beleuchtung sollte kinoreif und gerichtet sein:\nstarkes Hauptlicht zur Formung des Motivs\nKonturlicht zur Trennung vom Hintergrund\nweiche Verläufe und Schattenabfall für mehr Tiefe\nDie Farbpalette sollte einem {argument name=\"color palette\" default=\"kontrollierten Dual-Tone-System (z. B. Teal-Orange, Violett-Gold, Karmesin-Schwarz)\"} folgen, mit weichen Übergängen und ohne Übersättigung.\nTypografie:\nplatziere den Titel in einem klaren, modernen, kinoreifen Layout\nintegriere den Text subtil in die Umgebung (Bodenebene, Lichtprojektion oder schwebender UI-Stil)\nvermeide schwere oder überdimensionierte Typografie\nGesamtstil: ultra-realistisch + kinoreifes Editorial, scharfe Details am Motiv, weiche atmosphärische Tiefe im Hintergrund, minimale, aber bewusste erzählerische Elemente, erstklassige Filmplakat-Qualität.\nVermeide: Silhouetten-Füllungen, zu dichte Collagen, Aquarelltexturen oder Tusche-Ränder. Konzentriere dich auf räumliche Tiefe, Realismus und kinoreifes Eintauchen.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Concevez une affiche de personnage cinématographique haut de gamme dans une composition à profondeur multicouche (format vertical 9:16) avec une séparation marquée entre le premier plan, le plan moyen et l'arrière-plan, plutôt qu'un cadrage en silhouette.\nLe {argument name=\"character\" default=\"personnage\"} se tient légèrement décentré dans une pose dynamique axée sur la perspective, interagissant naturellement avec {argument name=\"environment\" default=\"l'environnement (vent, lumière, particules, mouvement des tissus)\"}. L'angle de caméra doit être intentionnel — contre-plongée pour la puissance ou légère inclinaison pour la tension — créant un sentiment de mouvement et de présence.\nL'arrière-plan ne doit pas être enfermé dans des formes. Construisez plutôt un monde vivant autour du personnage :\nenvironnements atmosphériques (brouillard, lumières de ville, ruines, nature, etc.)\nrayons lumineux, lueurs volumétriques, particules en suspension\néléments narratifs subtils placés naturellement dans l'espace (pas de style collage)\nIntroduisez des fragments flottants ou des plans superposés (éclats de verre, panneaux lumineux, souvenirs, tranches holographiques ou bords de papier déchiré) qui orbitent ou traversent la scène, chacun contenant de légers visuels symboliques liés à l'histoire du personnage — gardez-les minimalistes et élégants, sans encombrement.\nL'éclairage doit être cinématographique et directionnel :\nune lumière principale forte pour sculpter le sujet\nun éclairage de contour (rim light) pour le détacher de l'arrière-plan\ndes dégradés doux et une chute d'ombre pour la profondeur\nLa palette de couleurs doit suivre un {argument name=\"color palette\" default=\"système bicolore contrôlé (ex. : sarcelle-orange, violet-or, cramoisi-noir)\"} avec des transitions fluides et sans saturation excessive.\nTypographie :\nplacez le titre dans une mise en page cinématographique propre et moderne\nintégrez le texte subtilement dans l'environnement (plan au sol, projection lumineuse ou style interface flottante)\névitez une typographie lourde ou surdimensionnée\nStyle global : ultra-réaliste + éditorial cinématographique, détails nets sur le sujet, profondeur atmosphérique douce en arrière-plan, éléments narratifs minimalistes mais intentionnels, qualité d'affiche de film premium.\nÀ éviter : compositions en silhouette, densité de collage excessive, textures aquarelle ou bords à l'encre. Misez sur la profondeur spatiale, le réalisme et l'immersion cinématographique.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Progetta un poster cinematografico di alta qualità con una composizione a profondità stratificata (verticale 9:16), caratterizzato da una netta separazione tra primo piano, piano medio e sfondo, evitando inquadrature a silhouette.\nIl {argument name=\"character\" default=\"personaggio\"} si trova leggermente decentrato in una posa dinamica e prospettica, interagendo in modo naturale con l'{argument name=\"environment\" default=\"ambiente (vento, luce, particelle, movimento dei tessuti)\"}. L'angolazione della fotocamera deve risultare intenzionale — dal basso per trasmettere potenza o leggermente inclinata per creare tensione — infondendo un senso di movimento e presenza.\nLo sfondo non deve essere confinato all'interno di forme. Al contrario, costruisci un mondo vivo attorno al personaggio:\nambienti suggestivi (nebbia, luci cittadine, rovine, natura, ecc.)\nraggi di luce, bagliori volumetrici, particelle fluttuanti\nelementi narrativi sottili posizionati naturalmente nello spazio (non basati su collage)\nIntroduci frammenti fluttuanti o piani stratificati (schegge di vetro, pannelli luminosi, ricordi, sezioni olografiche o bordi di carta strappata) che orbitano o intersecano la scena, ognuno contenente lievi elementi visivi simbolici legati alla storia del personaggio: mantienili minimali ed eleganti, evitando il disordine.\nL'illuminazione deve essere cinematografica e direzionale:\nluce principale intensa per modellare il soggetto\nluce di contorno (rim light) per staccarlo dallo sfondo\ngradazioni morbide e caduta delle ombre per creare profondità\nLa palette cromatica deve seguire un {argument name=\"color palette\" default=\"sistema a due toni controllato (es. ottanio-arancione, viola-oro, cremisi-nero)\"} con transizioni fluide e senza saturazione eccessiva.\nTipografia:\nposiziona il titolo con un layout cinematografico pulito e moderno\nintegra il testo in modo sottile nell'ambiente (piano di terra, proiezione di luce o stile UI fluttuante)\nevita tipografie pesanti o sovradimensionate\nStile generale: ultra-realistico + editoriale cinematografico, dettagli nitidi sul soggetto, morbida profondità atmosferica sullo sfondo, elementi narrativi minimali ma intenzionali, qualità premium da poster cinematografico.\nDa evitare: composizioni con riempimento a silhouette, alta densità di collage, texture ad acquerello o bordi a inchiostro. Concentrati sulla profondità spaziale, sul realismo e sull'immersione cinematografica.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um pôster de personagem cinematográfico de alta qualidade em uma composição de profundidade em camadas (9:16 vertical) com uma forte separação entre primeiro plano, plano médio e fundo, em vez de enquadramento por silhueta.\nO {argument name=\"character\" default=\"personagem\"} posiciona-se ligeiramente fora do centro em uma pose dinâmica e orientada pela perspectiva, interagindo naturalmente com o {argument name=\"environment\" default=\"ambiente (vento, luz, partículas, movimento de tecido)\"}. O ângulo da câmera deve parecer intencional — ângulo baixo para transmitir poder ou uma leve inclinação para criar tensão — gerando uma sensação de movimento e presença.\nO fundo não deve estar contido dentro de formas. Em vez disso, construa um mundo vivo ao redor do personagem:\nambientes atmosféricos (neblina, luzes da cidade, ruínas, natureza, etc.)\nraios de luz, brilho volumétrico, partículas flutuantes\nelementos sutis de narrativa posicionados naturalmente no espaço (sem base em colagem)\nIntroduza fragmentos flutuantes ou planos em camadas (estilhaços de vidro, painéis de luz, memórias, fatias holográficas ou bordas de papel rasgado) que orbitam ou cruzam a cena, cada um contendo visuais simbólicos tênues ligados à história do personagem — mantenha-os minimalistas e elegantes, sem poluição visual.\nA iluminação deve ser cinematográfica e direcional:\nluz principal forte para modelar o sujeito\nluz de contorno (rim light) para separá-lo do fundo\ngradientes suaves e queda de sombra para criar profundidade\nA paleta de cores deve seguir um {argument name=\"color palette\" default=\"sistema controlado de dois tons (ex: azul-petróleo e laranja, violeta e dourado, carmesim e preto)\"} com transições suaves e sem saturação excessiva.\nTipografia:\nposicione o título em um layout cinematográfico moderno e limpo\nintegre o texto sutilmente ao ambiente (plano de chão, projeção de luz ou estilo de interface flutuante)\nevite tipografia pesada ou exagerada\nEstilo geral: ultra-realista + editorial cinematográfico, detalhes nítidos no sujeito, profundidade atmosférica suave no fundo, elementos narrativos minimalistas e intencionais, qualidade premium de pôster de filme.\nEvite: composições com preenchimento de silhueta, alta densidade de colagem, texturas de aquarela ou bordas de nanquim. Foque na profundidade espacial, realismo e imersão cinematográfica.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Thumbnail - Cinematic Character Poster with Layered Depth",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 缩略图 - 具有层次深度的电影感角色海报",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hình thu nhỏ trên YouTube - Poster nhân vật điện ảnh với chiều sâu phân lớp",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Miniatura de YouTube - Póster cinematográfico de personaje con profundidad en capas",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Miniaturbild - Kinoreifes Charakter-Poster mit geschichteter Tiefe",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Miniature YouTube - Affiche de personnage cinématographique avec profondeur multicouche",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Miniatura di YouTube - Poster cinematografico di un personaggio con profondità stratificata",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Miniatura do YouTube - Pôster de Personagem Cinematográfico com Profundidade em Camadas",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A prompt designed to create high-end movie posters featuring a strong sense of spatial depth and cinematic lighting, focusing on a character interacting naturally with an atmospheric environment.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示词旨在创作高端电影海报，通过强烈的空间深度和电影级光影，呈现角色与环境自然互动的视觉效果。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt conçu pour créer des affiches de film haut de gamme dotées d'un fort sens de la profondeur spatiale et d'un éclairage cinématographique, en se concentrant sur un personnage interagissant naturellement avec un environnement atmosphérique.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "youtube-thumbnail",
+      "value": "YouTube Thumbnail",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/SimplyAnnisa/status/2051300004099236054",
+      "originalId": "https://x.com/SimplyAnnisa/status/2051300004099236054",
+      "authors": [
+        {
+          "name": "Anissa",
+          "url": "https://x.com/SimplyAnnisa"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 2477
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_299a0ba962d028d0",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971012949_2fr93k_HHeueR5akAAVdAJ.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971012949_2fr93k_HHeueR5akAAVdAJ.jpg",
+      "localPath": "public/assets/prompt_6d6f848d84d334aaf836/c5fc3b2aea82.jpg",
+      "alt": "YouTube Thumbnail - Cinematic Character Poster with Layered Depth - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.623Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "movie poster",
+      "海报",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.855Z"
+  }
+}

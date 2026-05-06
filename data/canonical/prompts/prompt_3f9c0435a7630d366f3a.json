@@ -1,0 +1,104 @@
+{
+  "id": "prompt_3f9c0435a7630d366f3a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush, high identity consistency, realistic human anatomy. Use an old CCD digital camera aesthetic with direct flash, visible grain, slight overexposure, cool-neutral white balance, slight motion blur, and candid composition. Hair in a loose romantic updo; outfit in delicate off-shoulder silk with embroidered floral fabric; background of pastel floral bedding; horizontal close-up; shallow depth of field. Negative prompt: over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, overly sharp HDR, stiff pose, artificial symmetry, over-retouched face.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张电影感的垂直照片，展示一只手举着一个大气球形葡萄酒杯，杯中装满了闪亮的金黄色柑橘鸡尾酒，背景是茂密的室内温室酒吧。饮料被温暖的午后阳光照亮，呈现出半透明的琥珀色光泽。杯内有1片可见的柑橘角，杯沿上有1簇新鲜薄荷装饰。手从左下方进入，优雅地握住杯柄，戴着1个厚重的半透明琥珀色手镯。环境布满热带植物、悬挂的蕨类植物和藤蔓覆盖的墙壁，上方可见明亮的温室屋顶结构，背景中有2个温暖的悬挂灯泡发出柔和的光芒。使用浅景深，奶油般的散景效果，强烈的阳光穿过树叶，柔和的薄雾，以及丰富的绿色和金色色彩对比。在右侧边缘添加一片模糊的前景叶子或植物来构图。背景下方应暗示一个繁忙的咖啡馆或鸡尾酒 lounge，有模糊不清的人群，但要保持它们严重失焦。照片风格为写实、优雅的生活方式摄影，氛围感强烈且阳光充足，从低角度向上拍摄举起的酒杯，对冷凝水、玻璃反射和发光饮料的高细节呈现。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:05:33.738Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "CCD flash beauty portrait template",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/AIwithAliya/status/2049452006608392350",
+      "originalId": "case-104",
+      "authors": [
+        {
+          "name": "AIwithAliya",
+          "url": "https://x.com/AIwithAliya"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 735
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_ffedaafecd6e14b5",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case104/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case104/output.jpg",
+      "localPath": "public/assets/prompt_3f9c0435a7630d366f3a/1dd5048883c7.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:10:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera",
+      "摄影",
+      "写实"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}

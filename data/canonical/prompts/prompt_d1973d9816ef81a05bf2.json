@@ -1,0 +1,100 @@
+{
+  "id": "prompt_d1973d9816ef81a05bf2",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts @swiat_ai @ProfitAII",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建杂志专题文章[旅行]指南页面，可爱，信息密集的相册风格杂志专题文章页面。添加所有必要的部分、提示、推荐和信息。如果您愿意，可以为任何部分和推荐添加照片。将附件中的人物放置在[城市，国家]的精确位置。无缝融合附件中的人物，仿佛他们正在观光。以理解这是一篇关键、信息丰富的页面将显著影响游客数量为前提来处理这项任务，文本准确性很重要。充分利用整个[9:16]页面。负面提示：协调文本 @swiat_ai @ProfitAII",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:20:08.310Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Magazine Travel Guide Feature Article",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/andis13/status/2047204384811921764",
+      "originalId": "case-20",
+      "authors": [
+        {
+          "name": "andis13",
+          "url": "https://x.com/andis13"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 247
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_80f0276dc99d87b6",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case71/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case71/output.jpg",
+      "localPath": "public/assets/prompt_d1973d9816ef81a05bf2/288ab172631d.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.603Z"
+  }
+}

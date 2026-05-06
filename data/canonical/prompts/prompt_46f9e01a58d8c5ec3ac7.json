@@ -1,0 +1,132 @@
+{
+  "id": "prompt_46f9e01a58d8c5ec3ac7",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A moody square winter photograph looking straight up at an overcast gray-blue sky during active snowfall, framed on all sides by tall leafless trees with dark bare branches reaching inward from the edges to create a circular canopy. Snowflakes of many sizes are falling across the entire image, with some large soft blurred flakes close to the lens and many smaller sharp flakes scattered deeper in the scene, creating a dreamy atmospheric depth. At the very bottom edge, faint silhouettes of shorter winter trees and a subtle warm amber streetlight glow appear near the lower right, while the rest of the image stays cold, muted, and dim like dusk or early evening. Across the center, overlay large emotionally expressive Japanese handwritten brush-pen style text in white, slightly uneven and natural, reading {argument name=\"quote\" default=\"また、この季節がやってくる。\"}, with a human handwritten feel, soft edges, moderate stroke variation, and casual line breaks spread over the middle of the sky. Emphasize melancholic nostalgia, poetic Japanese winter atmosphere, cinematic minimalism, realistic photography, and authentic hand-drawn lettering integrated cleanly over the snowfall.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Snowy Sky with Handwritten Japanese Text",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Snowy Sky with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Snowy Sky with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Snowy Sky with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Snowy Sky with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Snowy Sky with Handwritten Japanese Text",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Snowy Sky with Handwritten Japanese Text",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This generates a poetic winter sky photograph with falling snow, tree silhouettes, and expressive handwritten Japanese text, ideal for emotional social media posts or seasonal visual quotes.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/akira_papa_IT/status/2048899628180078992#reversed-2",
+      "originalId": "https://x.com/akira_papa_IT/status/2048899628180078992#reversed-2",
+      "authors": [
+        {
+          "name": "あきらパパ【生成AI活用エンジニア&３児のパパ】",
+          "url": "https://x.com/akira_papa_IT"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1460
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_3ce91379b924c82a",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367319625_pqoiwq_G6G78EAbQAAgNdV.png",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367319625_pqoiwq_G6G78EAbQAAgNdV.png",
+      "localPath": "public/assets/prompt_46f9e01a58d8c5ec3ac7/3093a022d8e0.png",
+      "alt": "Social Media Post - Snowy Sky with Handwritten Japanese Text - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.122Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.565Z"
+  }
+}

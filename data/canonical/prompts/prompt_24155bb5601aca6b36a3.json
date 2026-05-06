@@ -1,0 +1,246 @@
+{
+  "id": "prompt_24155bb5601aca6b36a3",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create an eight-panel manga about GPT-Image-2 launching today",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一篇关于 GPT-Image-2 今天发布的八格漫画",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "創作一篇關於 GPT-Image-2 今天上線的八格漫畫。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "GPT-Image-2 が今日ローンチされたことを題材にした 8 コマ漫画を作成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "GPT-Image-2가 오늘 출시되는 이야기를 8컷 만화로 만든다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Crée un manga en huit cases sur le lancement de GPT-Image-2 aujourd'hui.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle einen Acht-Panel-Manga darüber, dass GPT-Image-2 heute startet.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un manga de ocho paneles sobre el lanzamiento de GPT-Image-2 hoy.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Eight-Panel GPT Image 2 Launch Manga",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GPT Image 2 发布八格漫画",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "GPT Image 2 上線八格漫畫",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "GPT Image 2 ローンチ 8 コマ漫画",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "GPT Image 2 출시 8컷 만화",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Manga en 8 cases sur le lancement de GPT Image 2",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Acht-Panel-Manga zu GPT Image 2",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Manga de 8 paneles sobre GPT Image 2",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "video-animation-collage",
+      "value": "🎬 Video, Animation & Collage",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7b63ef6af1",
+      "value": "🎬 视频、动画与拼贴",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_2a494631ab",
+      "value": "🎬 影片、動畫與拼貼",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_101c74ae24",
+      "value": "🎬 動画・アニメーション・コラージュ",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_dde97347ed",
+      "value": "🎬 영상, 애니메이션, 콜라주",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animation-et-collage",
+      "value": "🎬 Vidéo, animation et collage",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animation-und-collage",
+      "value": "🎬 Video, Animation und Collage",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "video-animacion-y-collage",
+      "value": "🎬 Video, animación y collage",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/venturetwins/status/2046620134933250409",
+      "originalId": "https://x.com/venturetwins/status/2046620134933250409",
+      "authors": [
+        {
+          "name": "venturetwins",
+          "url": "https://x.com/venturetwins/status/2046620134933250409"
+        },
+        {
+          "name": " @venturetwins ",
+          "url": "https://x.com/venturetwins/status/2046620134933250409"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 480
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 386
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 342
+        },
+        {
+          "file": "README:ja",
+          "line": 386
+        },
+        {
+          "file": "README:ko",
+          "line": 342
+        },
+        {
+          "file": "README:fr",
+          "line": 342
+        },
+        {
+          "file": "README:de",
+          "line": 342
+        },
+        {
+          "file": "README:es",
+          "line": 342
+        }
+      ],
+      "rawSource": "[@venturetwins](https://x.com/venturetwins/status/2046620134933250409)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_0957d265dbb7fa06",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGcOKlnaYAAFJcW?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGcOKlnaYAAFJcW?format=jpg&name=large",
+      "localPath": "public/assets/prompt_24155bb5601aca6b36a3/a81e66edfbcb.jpg",
+      "alt": "Eight-Panel GPT Image 2 Launch Manga",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "manga",
+      "漫画"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "id": "prompt_f7e81afcb643ff4cc06a",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Automatically generate a high-aesthetic \"Silhouette Universe / Collector's Edition Narrative Poster\" based on [theme: xxx]. Do not default to common containers such as bottles, hourglasses, glass domes, or pocket watches. Instead, let the AI choose the most symbolic, visually strong, and narratively suitable outer silhouette for the theme. The silhouette can be an artifact, building, gate, tower, archway, dome, stairwell, corridor, statue, profile, eye, hand, skull, wing, mask, mirror, throne, ring, crack, light curtain, shadow, geometric form, spatial cross-section, stage frame, abstract symbol, or any more creative contour that best represents the theme.\r\n\r\nThe goal is not to simply place a world inside an object, but to make the entire themed universe grow naturally within, around, and through the silhouette itself. The silhouette should be elegant, recognizable, and compositionally dominant. Inside or along its boundary, generate a rich and layered narrative world strongly tied to the theme, including iconic scenes, key architecture or spaces, symbols and metaphors, traces of characters or civilizations, foreground-midground-background depth, and atmosphere with emotional tension. Elements such as doors, staircases, bridges, water, smoke, paths, light sources, ruins, mechanical structures, landscapes, abstract forms, creatures, or props should all feel unified and organically integrated rather than pasted together.\r\n\r\nThe final composition should feel like a premium collector's poster with strong design value. The large shapes should feel stable, the main silhouette should be unmistakable, and the inner world should have depth, structure, and breathing room. Details should be rich but not crowded. You may add small human silhouettes, distant buildings, beams of light, doorways, bridges, steps, corridors, reflections, skylight, or far-background structures to enhance scale, story, and epic atmosphere. The overall mood should be quiet, grand, refined, and lingering rather than noisy or overloaded.\r\n\r\nBlend the feeling of a collector's edition film poster, high-end narrative visual design, dreamy watercolor texture, and fine printed paper. Emphasize paper grain, feathered edges, watercolor brush marks, gentle diffusion, atmospheric perspective, soft haze, selective volumetric light, light passing through mist, generous negative space, and restrained layout. The image should feel premium, poetic, majestic, sacred, nostalgic, quiet, and mythic.\r\n\r\nLet the AI choose an elevated color palette based on the theme, but keep it unified, restrained, tasteful, low-saturation, and premium. Avoid chaotic high saturation, cheap neon effects, or plastic digital color. Suitable palette families may include black-gold-gray, cool blue-gray, mist white-gray, brown-red with off-white, dark copper, aged paper tones, deep sea blue, twilight purple, or silver-gray, as long as they serve the theme.\r\n\r\nFinal requirement: the first glance should give strong theme recognition and a memorable silhouette, the second glance should reveal a complete narrative world, and the third glance should still reward close inspection with depth and aftertaste. Avoid generic backgrounds, hard cut-and-paste compositions, templated fantasy assets, video-game promo art vibes, excessive cartooning, or realism that kills the artistic mood. If appropriate, subtle titles, numbering, signatures, or marks can be added as part of the poster design, but they must never overpower the image.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于 [主题：xxx] 自动生成一张高审美的“剪影宇宙 / 收藏版叙事海报”。不要默认使用瓶子、沙漏、玻璃罩、怀表这类常见容器，而是让 AI 自行选择最具象征性、视觉张力最强、最适合该主题叙事的外轮廓。这个剪影可以是器物、建筑、大门、高塔、拱门、穹顶、楼梯间、走廊、雕像、侧脸、眼睛、手、头骨、翅膀、面具、镜子、王座、戒指、裂缝、光幕、影子、几何形体、空间剖面、舞台框架、抽象符号，或任何更有创意、最能代表主题的轮廓。\r\n\r\n目标不是简单地把一个世界塞进某个物体，而是让整个主题宇宙自然地在这个轮廓内部、边缘与穿透关系中生长出来。轮廓必须优雅、可识别，并在构图中占据主导位置。在轮廓内部或边界附近，生成一个与主题紧密相关、层次丰富的叙事世界，包含标志性场景、关键建筑或空间、象征与隐喻、角色或文明痕迹、前中后景层次，以及带有情绪张力的氛围。门、楼梯、桥、水、烟雾、道路、光源、废墟、机械结构、风景、抽象形态、生物、道具等元素都应统一并自然融合，而不是拼贴堆砌。\r\n\r\n最终画面应具有高端收藏海报的设计感。大形要稳，主轮廓必须一眼可辨，内部世界要有深度、结构和呼吸感。细节丰富但不过度拥挤。可以加入小型人物剪影、远景建筑、光束、门洞、桥梁、台阶、走廊、倒影、天窗或远景结构，用于增强尺度感、故事感和史诗氛围。整体气质应安静、宏大、精致、余韵悠长，而不是喧闹或堆满信息。\r\n\r\n融合收藏版电影海报、高端叙事视觉设计、梦幻水彩肌理与精致纸张印刷感。强调纸张颗粒、羽化边缘、水彩笔触、柔和扩散、空气透视、轻雾、选择性体积光、光线穿过雾气、充足留白和克制版式。画面应具有高级、诗意、庄严、神圣、怀旧、安静和神话感。\r\n\r\n让 AI 根据主题自行选择高阶配色，但要保持统一、克制、有品位、低饱和、高级。避免混乱高饱和、廉价霓虹或塑料数码色。合适的配色家族可以是黑金灰、冷蓝灰、雾白灰、棕红配米白、深铜色、旧纸色、深海蓝、暮色紫或银灰，只要服务于主题即可。\r\n\r\n最终要求：第一眼就能感受到强烈主题识别与记忆点鲜明的轮廓；第二眼能读出完整叙事世界；第三眼近看仍然有细节和余味。避免通用背景、硬拼贴构图、模板化奇幻素材、电子游戏宣传图气质、过度卡通化，或因为过度写实而破坏艺术氛围。如果合适，可以加入低调的标题、编号、签名或标记作为海报设计的一部分，但绝不能压过主体画面。",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "基於 [theme: xxx] 自動生成一張高美感的「Silhouette Universe / Collector's Edition Narrative Poster」。不要預設使用瓶子、沙漏、玻璃罩、懷錶等常見容器，而是讓 AI 選出最具象徵性、視覺張力最強、最能代表主題的外輪廓。整體應像高級收藏版敘事海報，具備清晰主輪廓、完整內部世界、紙張質感、水彩肌理、低飽和高級配色與長久耐看的細節層次，避免廉價奇幻素材、硬拼貼與過度卡通化。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[theme: xxx] をもとに、高い美意識を持つ「Silhouette Universe / Collector's Edition Narrative Poster」を自動生成する。ボトル、砂時計、ガラスドーム、懐中時計のようなありきたりな容器は既定値にしない。代わりに、そのテーマにとって最も象徴的で視覚的に強く、物語にふさわしい外形シルエットを AI に選ばせる。シルエットは、遺物、建築、門、塔、アーチ、ドーム、階段室、回廊、彫像、横顔、目、手、頭蓋骨、翼、仮面、鏡、玉座、指輪、裂け目、光の幕、影、幾何形体、空間断面、舞台フレーム、抽象記号など、テーマを最もよく表す創造的な輪郭でよい。\r\n\r\n単に物体の中に世界を入れるのではなく、テーマ宇宙全体がそのシルエットの内側・周囲・貫通関係の中で自然に成長しているようにする。シルエットは優雅で認識しやすく、構図の支配的要素であること。内部や境界に沿って、テーマに強く結び付いた豊かな物語世界を作る。象徴的な場面、主要建築や空間、シンボルとメタファー、人物や文明の痕跡、前景・中景・後景の奥行き、感情的緊張を持つ雰囲気を含める。扉、階段、橋、水、煙、道、光源、廃墟、機械構造、風景、抽象形態、生物、道具などが、貼り付けではなく有機的に統合されているべき。\r\n\r\n最終構図は高級コレクターズポスターのようなデザイン価値を持つこと。大きな形は安定し、主シルエットは一目で分かり、内部世界には深さ・構造・呼吸感がある。細部は豊かだが詰め込みすぎない。小さな人物シルエット、遠景建築、光束、扉、橋、階段、回廊、反射、天窓、遠景構造などを必要に応じて加え、スケール感・物語性・壮大さを高める。全体のムードは騒がしくなく、静かで壮大、洗練され、余韻のあるものにする。\r\n\r\nコレクターズ版映画ポスター、高級ナラティブビジュアルデザイン、夢のような水彩テクスチャ、上質な紙印刷感を融合する。紙の粒子、羽毛状のエッジ、水彩ブラシ跡、穏やかな拡散、大気遠近、柔らかなもや、選択的なボリューメトリックライト、霧を通る光、十分な余白、抑制されたレイアウトを強調する。画面は高級感、詩情、荘厳さ、神聖さ、ノスタルジー、静けさ、神話性を持つべき。\r\n\r\n配色はテーマに合わせて AI に選ばせるが、統一感があり、抑制され、品があり、低彩度で高級感のあるものにする。混沌とした高彩度、安っぽいネオン、プラスチック的なデジタル色は避ける。黒金灰、冷たい青灰、霞んだ白灰、茶赤とオフホワイト、濃い銅色、古紙トーン、深海ブルー、黄昏の紫、銀灰などが適している。\r\n\r\n最終要件: 一目で強いテーマ認識と記憶に残るシルエットを与え、二度目で完全な物語世界を読み取り、三度目でも細部と余韻が残ること。凡庸な背景、硬い切り貼り構図、テンプレ化したファンタジー素材、ゲーム販促アート風、過度なカートゥーン化、芸術的なムードを壊す写実性は避ける。必要なら控えめなタイトル、番号、署名、マークを加えてもよいが、決して主役を上回ってはならない。",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[theme: xxx] 를 기반으로 고급 수집판 서사 포스터를 자동 생성한다. 흔한 병이나 모래시계 대신, 주제를 가장 상징적으로 드러내는 외곽 실루엣을 AI가 선택하게 한다. 실루엣 안팎으로 주제 세계가 자연스럽게 확장되도록 만들고, 종이 질감, 수채화, 절제된 저채도 팔레트, 깊이 있는 내부 세계, 조용하지만 장엄한 분위기를 갖춘 프리미엄 포스터로 완성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère automatiquement une affiche narrative collector à très forte valeur esthétique à partir de [thème]. L'IA doit choisir une silhouette extérieure symbolique et mémorable, construire un univers narratif riche à l'intérieur et autour, utiliser une palette raffinée et désaturée, une texture papier / aquarelle et éviter toute sensation de fantasy générique ou d'assemblage artificiel.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge automatisch ein narrativ starkes Collector’s-Edition-Poster zu [Thema]. Die KI soll eine ikonische Außen-Silhouette wählen und darin eine tiefe, elegante Themenwelt entfalten, mit zurückhaltender Farbpalette, Papier-/Aquarelltextur, starker Motiv-Erkennbarkeit und ohne generische Fantasy- oder Copy-Paste-Komposition.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera automáticamente un póster narrativo de edición de coleccionista basado en [tema]. La IA debe elegir una silueta exterior simbólica y construir dentro y alrededor de ella un universo rico, elegante, con textura de papel y acuarela, paleta refinada y sin caer en fantasía genérica ni en composiciones de copiar y pegar.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Silhouette Universe Narrative Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "剪影宇宙叙事海报",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "剪影宇宙敘事海報",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "シルエット宇宙ナラティブポスター",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "실루엣 유니버스 서사 포스터",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche narrative “Silhouette Universe”",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Silhouette-Universe-Narrativposter",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Póster narrativo “Silhouette Universe”",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "typography-poster-design",
+      "value": "📰 Typography & Poster Design",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_98fb7f53a1",
+      "value": "📰 字体排版与海报设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_4f8bd98414",
+      "value": "📰 字體排版與海報設計",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_41f3f35ea6",
+      "value": "📰 タイポグラフィ・ポスターデザイン",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_578f0ac9aa",
+      "value": "📰 타이포그래피와 포스터 디자인",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typographie-et-design-d-affiche",
+      "value": "📰 Typographie et design d'affiche",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "typografie-und-posterdesign",
+      "value": "📰 Typografie und Posterdesign",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "tipografia-y-diseno-de-posteres",
+      "value": "📰 Tipografía y diseño de pósteres",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "Thread 1",
+          "url": "https://x.com/MrLarus/status/2045418028733538620"
+        },
+        {
+          "name": "Thread 2",
+          "url": "https://x.com/MrLarus/status/2045748335668310055"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 705
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 592
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 455
+        },
+        {
+          "file": "README:ja",
+          "line": 592
+        },
+        {
+          "file": "README:ko",
+          "line": 455
+        },
+        {
+          "file": "README:fr",
+          "line": 455
+        },
+        {
+          "file": "README:de",
+          "line": 455
+        },
+        {
+          "file": "README:es",
+          "line": 455
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [Thread 1](https://x.com/MrLarus/status/2045418028733538620) | [Thread 2](https://x.com/MrLarus/status/2045748335668310055)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_00ebc406581fe932",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb-f9yboAAn3en?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb-f9yboAAn3en?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f7e81afcb643ff4cc06a/cd2ee40ed4e3.jpg",
+      "alt": "Poster 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_904a69eef6fa9296",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb-f-Aa8AEyQAL?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb-f-Aa8AEyQAL?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f7e81afcb643ff4cc06a/6a7d5ae3be86.jpg",
+      "alt": "Poster 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_922395c59fceb47a",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb-f9za8AAysgt?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb-f9za8AAysgt?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f7e81afcb643ff4cc06a/0ae87fa48203.jpg",
+      "alt": "Poster 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_554c9e9ff652f4a7",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGb-f_JakAANnfD?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGb-f_JakAANnfD?format=jpg&name=large",
+      "localPath": "public/assets/prompt_f7e81afcb643ff4cc06a/bf9b9ea77659.jpg",
+      "alt": "Poster 4",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.159Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "architecture",
+      "building",
+      "room",
+      "建筑",
+      "空间"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.608Z"
+  }
+}

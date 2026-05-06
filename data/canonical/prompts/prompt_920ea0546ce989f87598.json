@@ -1,0 +1,254 @@
+{
+  "id": "prompt_920ea0546ce989f87598",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate a GTA 6 gameplay screenshot of [scene description]",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一张 GTA 6 的游戏截图，内容为 [场景描述]",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成一張 GTA 6 的遊戲截圖，內容為 [場景描述]。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "[scene description] の内容で GTA 6 のゲームプレイスクリーンショットを生成する",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "[장면 설명] 내용의 GTA 6 게임플레이 스크린샷을 생성한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une capture de gameplay GTA 6 de [description de scène].",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge einen GTA-6-Gameplay-Screenshot von [Szenenbeschreibung].",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una captura de gameplay de GTA 6 de [descripción de escena].",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "GTA 6 Wedding Mission Screenshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GTA 6 婚礼任务截图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "GTA 6 婚禮任務截圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "GTA 6 の結婚式ミッションのスクリーンショット",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "GTA 6 웨딩 미션 스크린샷",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Mission de mariage dans GTA 6",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "GTA-6-Hochzeitsmission",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Captura de misión de boda en GTA 6",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "game-entertainment",
+      "value": "🎮 Game & Entertainment",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_27263954ca",
+      "value": "🎮 游戏与娱乐",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_cfebc9acfe",
+      "value": "🎮 遊戲與娛樂",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_7c91be168a",
+      "value": "🎮 ゲーム・エンターテインメント",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "category_716e2fa67b",
+      "value": "🎮 게임과 엔터테인먼트",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "jeu-et-divertissement",
+      "value": "🎮 Jeu et divertissement",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "spiele-und-unterhaltung",
+      "value": "🎮 Spiele und Unterhaltung",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "juegos-y-entretenimiento",
+      "value": "🎮 Juegos y entretenimiento",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/MrLarus/status/2046627021674168640",
+      "originalId": "https://x.com/MrLarus/status/2046627021674168640",
+      "authors": [
+        {
+          "name": "Article",
+          "url": "https://x.com/MrLarus/status/2046627021674168640"
+        },
+        {
+          "name": "MrLarus",
+          "url": "https://x.com/MrLarus/status/2046109786840711246"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 214
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 163
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 163
+        },
+        {
+          "file": "README:ja",
+          "line": 163
+        },
+        {
+          "file": "README:ko",
+          "line": 163
+        },
+        {
+          "file": "README:fr",
+          "line": 163
+        },
+        {
+          "file": "README:de",
+          "line": 163
+        },
+        {
+          "file": "README:es",
+          "line": 163
+        }
+      ],
+      "rawSource": "[Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046109786840711246)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_a70875ceed9cdde5",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGU8siPXMAACZEd?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGU8siPXMAACZEd?format=jpg&name=large",
+      "localPath": "public/assets/prompt_920ea0546ce989f87598/29851a950d3d.jpg",
+      "alt": "Mission 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_143b460ba20da75b",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGU8siPW8AAEsq-?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGU8siPW8AAEsq-?format=jpg&name=large",
+      "localPath": "public/assets/prompt_920ea0546ce989f87598/9486a18289b5.jpg",
+      "alt": "Mission 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_10fdaa03b0844eab",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGU8siOXgAAh8gh?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGU8siOXgAAh8gh?format=jpg&name=large",
+      "localPath": "public/assets/prompt_920ea0546ce989f87598/8dd7f0ea183d.jpg",
+      "alt": "Mission 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_acc3eebc87a0d682",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HGU8siPXoAAUnop?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HGU8siPXoAAUnop?format=jpg&name=large",
+      "localPath": "public/assets/prompt_920ea0546ce989f87598/a07df3f3b98f.jpg",
+      "alt": "Mission 4",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "needs_review",
+    "categoryId": null,
+    "source": "none",
+    "confidence": 0,
+    "reason": "no_rule_match",
+    "classifiedAt": "2026-05-06T11:03:21.593Z"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "prompt_2641626aa4c9126d869b",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Screenshot of a YouTube video showing someone who time-traveled to the Middle Ages",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张 YouTube 视频截图，内容是某人穿越到了中世纪",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "一張 YouTube 影片截圖，內容是某人穿越到了中世紀。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "中世へタイムトラベルした人物を映した YouTube 動画のスクリーンショット",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "누군가 중세로 시간여행한 모습을 보여주는 YouTube 영상의 스크린샷.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Capture d'écran d'une vidéo YouTube montrant quelqu'un ayant voyagé au Moyen Âge.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Screenshot eines YouTube-Videos, das jemanden zeigt, der ins Mittelalter gereist ist.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Captura de pantalla de un video de YouTube que muestra a alguien que viajó a la Edad Media.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "YouTube Time Travel Screenshot",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "YouTube 时间旅行截图",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "YouTube 時空穿越截圖",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "YouTube のタイムトラベル動画スクリーンショット",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "유튜브 타임트래블 스크린샷",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Capture YouTube voyage dans le temps",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "YouTube-Zeitreise-Screenshot",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Captura de viaje en el tiempo en YouTube",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 與社群媒體",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX・ソーシャルメディア",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 와 소셜 미디어",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-et-reseaux-sociaux",
+      "value": "📱 UI / UX et réseaux sociaux",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-und-social-media",
+      "value": "📱 UI / UX und Social Media",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-y-redes-sociales",
+      "value": "📱 UI / UX y redes sociales",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/flowersslop/status/2040261168460108213",
+      "originalId": "https://x.com/flowersslop/status/2040261168460108213",
+      "authors": [
+        {
+          "name": "flowersslop",
+          "url": "https://x.com/flowersslop/status/2040261168460108213"
+        },
+        {
+          "name": " @flowersslop ",
+          "url": "https://x.com/flowersslop/status/2040261168460108213"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 309
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 242
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 242
+        },
+        {
+          "file": "README:ja",
+          "line": 242
+        },
+        {
+          "file": "README:ko",
+          "line": 242
+        },
+        {
+          "file": "README:fr",
+          "line": 242
+        },
+        {
+          "file": "README:de",
+          "line": 242
+        },
+        {
+          "file": "README:es",
+          "line": 242
+        }
+      ],
+      "rawSource": "[@flowersslop](https://x.com/flowersslop/status/2040261168460108213)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2a745c7fb5f9ef84",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFByWu7bsAAxlJd?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFByWu7bsAAxlJd?format=jpg&name=large",
+      "localPath": "public/assets/prompt_2641626aa4c9126d869b/9f958012ea07.jpg",
+      "alt": "Frame 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_785f019156d90134",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFB0ZZSXkAAwp1Z?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFB0ZZSXkAAwp1Z?format=jpg&name=large",
+      "localPath": "public/assets/prompt_2641626aa4c9126d869b/4baa4aac7fea.jpg",
+      "alt": "Frame 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_9a340d7342ee9f49",
+      "role": "unknown",
+      "upstreamUrl": "https://pbs.twimg.com/media/HFB0Zr5WAAAXIQg?format=jpg&name=large",
+      "upstreamPath": "https://pbs.twimg.com/media/HFB0Zr5WAAAXIQg?format=jpg&name=large",
+      "localPath": "public/assets/prompt_2641626aa4c9126d869b/431cbf1988dd.jpg",
+      "alt": "Frame 3",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "ui",
+      "social",
+      "youtube",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.581Z"
+  }
+}

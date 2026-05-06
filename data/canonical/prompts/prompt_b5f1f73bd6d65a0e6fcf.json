@@ -1,0 +1,106 @@
+{
+  "id": "prompt_b5f1f73bd6d65a0e6fcf",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "埋まってないところはパートナーさんかご自身で埋めてあげてください\n #観測塔朝お題  #観測塔おはようお題\n\n最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前） \nイメージカラー:（ここに色） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:\"「ここにセリフ」\"",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Please fill in the unfilled parts by your partner or yourself\n #ObservatoryTowerMorningTheme  #ObservatoryTowerGoodMorningTheme\n\nUsing the latest model image generation tool,\nUsing this chibi character illustration and standing picture, create a character introduction page style illustration like a real website page. (Something that would not be strange to use as an introduction page)\nA high-quality item imagining a gal game character introduction page. Facial variations etc. are also included, CG illustrations exist. A chibi character exists.\n\n\"Self-introduction here\"\n\nName: (Name here) \nImage color: (Color here) \nHeight: (Height here)cm \nWeight: (Weight here)kg\nCatchphrase: \"Dialogue here\"",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "唯美二次元角色介绍网页",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Aesthetic anime character introduction webpage",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:18:22.728Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_d63bf6fb73",
+      "value": "唯美二次元角色介绍网页",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-263",
+      "originalId": "case-263",
+      "authors": [
+        {
+          "name": "09lyco",
+          "url": "https://x.com/09lyco/status/2045281845391323175"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 2985
+        }
+      ],
+      "rawSource": "[@09lyco](https://x.com/09lyco/status/2045281845391323175)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e7dcaf70489c0c3c",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case263.jpg",
+      "upstreamPath": "../data/images/case263.jpg",
+      "localPath": "public/assets/prompt_b5f1f73bd6d65a0e6fcf/53a5aa274973.jpg",
+      "alt": "唯美二次元角色介绍网页",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "illustration",
+      "anime"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.598Z"
+  }
+}

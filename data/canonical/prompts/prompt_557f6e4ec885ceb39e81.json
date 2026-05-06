@@ -1,0 +1,174 @@
+{
+  "id": "prompt_557f6e4ec885ceb39e81",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a clean square anime-style profile icon portrait of a fashionable young man, cropped from upper chest to just above the hair, centered on a plain white background. He has tousled layered {argument name=\"hair color\" default=\"warm blond\"} hair with dark ink outlines, swept volume at the crown, shaggy side pieces, and a slightly undercut look around the ears. The face is intentionally hidden by a large centered opaque square block in {argument name=\"face block color\" default=\"warm beige\"}, covering the eyes, nose, mouth, and most of the cheeks, leaving only the hair, ears, neck, collarbones, and clothing visible. Show both ears with multiple gold piercings: small hoop and stud combinations, plus one dangling gold earring with a green diamond-shaped gem on the viewer’s right. The character wears a stylish open-collar {argument name=\"shirt color\" default=\"black\"} shirt with sharp folds and a black choker or thin necklace visible at the base of the neck. Use crisp manga line art, polished cel shading, soft skin shadows, high-resolution icon composition, minimal background, modern social avatar aesthetic, and no text.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创作一张简洁的方形动漫风格个人资料头像，画面为一位时尚年轻男子的肖像，从胸部上方裁剪至发际线以上，居中置于纯白色背景上。他留着凌乱且富有层次感的 {argument name=\"hair color\" default=\"暖金色\"} 头发，带有深色墨线轮廓，头顶发量蓬松，两侧发丝凌乱，耳周呈现微 undercut 造型。面部被一个位于正中央的不透明方形色块刻意遮挡，颜色为 {argument name=\"face block color\" default=\"暖米色\"}，覆盖了眼睛、鼻子、嘴巴及大部分脸颊，仅露出头发、耳朵、颈部、锁骨和衣领。双耳佩戴多个金色耳饰：包含小圆环和耳钉组合，且在观察者右侧佩戴一枚带有绿色菱形宝石的金色吊坠耳环。角色穿着一件时尚的开领 {argument name=\"shirt color\" default=\"黑色\"} 衬衫，衣褶线条锐利，颈部下方可见黑色颈圈或细项链。采用清晰的漫画线条、精致的赛璐珞上色、柔和的皮肤阴影、高分辨率的图标构图、极简背景，呈现现代社交头像美学，且不包含任何文字。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea un retrato de icono de perfil de estilo anime cuadrado y limpio de un joven a la moda, recortado desde la parte superior del pecho hasta justo por encima del cabello, centrado sobre un fondo blanco liso. Tiene el cabello {argument name=\"hair color\" default=\"rubio cálido\"} despeinado y en capas con contornos de tinta oscura, volumen hacia atrás en la coronilla, mechones laterales desaliñados y un aspecto ligeramente rapado alrededor de las orejas. El rostro está oculto intencionalmente por un gran bloque cuadrado opaco centrado en color {argument name=\"face block color\" default=\"beige cálido\"}, que cubre los ojos, la nariz, la boca y la mayor parte de las mejillas, dejando visibles solo el cabello, las orejas, el cuello, las clavículas y la ropa. Muestra ambas orejas con múltiples piercings dorados: combinaciones de aros pequeños y tachuelas, además de un pendiente dorado colgante con una gema verde en forma de diamante a la derecha del espectador. El personaje viste una elegante camisa de cuello abierto color {argument name=\"shirt color\" default=\"negro\"} con pliegues definidos y una gargantilla negra o collar fino visible en la base del cuello. Utiliza arte lineal de manga nítido, sombreado cel pulido, sombras de piel suaves, composición de icono de alta resolución, fondo minimalista, estética de avatar social moderno y sin texto.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein klares, quadratisches Profil-Icon im Anime-Stil eines modischen jungen Mannes, zugeschnitten von der oberen Brust bis knapp über das Haar, zentriert auf einem schlichten weißen Hintergrund. Er hat zerzaustes, gestuftes {argument name=\"hair color\" default=\"warmblondes\"} Haar mit dunklen Tusche-Outlines, Volumen am Oberkopf, fransigen Seitenpartien und einem leichten Undercut-Look um die Ohren. Das Gesicht wird absichtlich durch einen großen, zentrierten, undurchsichtigen quadratischen Block in {argument name=\"face block color\" default=\"warmem Beige\"} verdeckt, der Augen, Nase, Mund und den Großteil der Wangen bedeckt, sodass nur das Haar, die Ohren, der Hals, die Schlüsselbeine und die Kleidung sichtbar bleiben. Zeige beide Ohren mit mehreren goldenen Piercings: eine Kombination aus kleinen Creolen und Steckern sowie ein hängender goldener Ohrring mit einem grünen rautenförmigen Edelstein auf der rechten Seite des Betrachters. Der Charakter trägt ein stylisches {argument name=\"shirt color\" default=\"schwarzes\"} Hemd mit offenem Kragen, scharfen Falten und einem schwarzen Choker oder einer dünnen Halskette am Halsansatz. Verwende klare Manga-Lineart, poliertes Cel-Shading, weiche Hautschatten, eine hochauflösende Icon-Komposition, einen minimalistischen Hintergrund, eine moderne Social-Avatar-Ästhetik und keinen Text.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez un portrait d'icône de profil de style anime, carré et épuré, représentant un jeune homme à la mode, cadré du haut de la poitrine jusqu'au-dessus des cheveux, centré sur un fond blanc uni. Il a des cheveux {argument name=\"hair color\" default=\"blond chaud\"} ébouriffés et dégradés avec des contours à l'encre noire, du volume sur le dessus, des mèches effilées sur les côtés et une coupe légèrement dégagée autour des oreilles. Le visage est intentionnellement masqué par un grand bloc carré opaque centré de couleur {argument name=\"face block color\" default=\"beige chaud\"}, couvrant les yeux, le nez, la bouche et la majeure partie des joues, ne laissant apparaître que les cheveux, les oreilles, le cou, les clavicules et les vêtements. Montrez les deux oreilles avec de multiples piercings dorés : des combinaisons de petits anneaux et de clous, ainsi qu'une boucle d'oreille dorée pendante avec une gemme en forme de losange vert sur la droite du spectateur. Le personnage porte une chemise {argument name=\"shirt color\" default=\"noire\"} élégante à col ouvert avec des plis marqués et un ras-du-cou ou un collier fin visible à la base du cou. Utilisez un trait de manga net, un ombrage cel-shading soigné, des ombres douces sur la peau, une composition d'icône haute résolution, un arrière-plan minimaliste, une esthétique d'avatar social moderne et aucun texte.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un ritratto icona profilo in stile anime quadrato e pulito di un giovane alla moda, ritagliato dal petto superiore fin sopra i capelli, centrato su uno sfondo bianco semplice. Ha capelli {argument name=\"hair color\" default=\"biondo caldo\"} spettinati e a strati con contorni a inchiostro scuro, volume sulla corona, ciocche laterali sfilate e un look leggermente undercut intorno alle orecchie. Il volto è intenzionalmente nascosto da un grande blocco quadrato opaco centrato color {argument name=\"face block color\" default=\"beige caldo\"}, che copre occhi, naso, bocca e gran parte delle guance, lasciando visibili solo capelli, orecchie, collo, clavicole e abbigliamento. Mostra entrambe le orecchie con molteplici piercing dorati: combinazioni di piccoli cerchi e borchie, più un orecchino dorato pendente con una gemma a forma di diamante verde sulla destra di chi guarda. Il personaggio indossa un'elegante camicia {argument name=\"shirt color\" default=\"nera\"} a colletto aperto con pieghe nette e un choker nero o una collana sottile visibile alla base del collo. Usa linee manga nitide, cel shading rifinito, ombreggiature morbide sulla pelle, composizione icona ad alta risoluzione, sfondo minimale, estetica moderna per avatar social e nessun testo.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie um retrato de ícone de perfil em estilo anime, quadrado e limpo, de um jovem estiloso, cortado do peito superior até logo acima do cabelo, centralizado em um fundo branco liso. Ele tem cabelo {argument name=\"hair color\" default=\"loiro quente\"} bagunçado e em camadas, com contornos em tinta escura, volume no topo, mechas laterais desfiadas e um visual levemente undercut ao redor das orelhas. O rosto é intencionalmente ocultado por um grande bloco quadrado opaco centralizado na cor {argument name=\"face block color\" default=\"bege quente\"}, cobrindo os olhos, nariz, boca e a maior parte das bochechas, deixando visíveis apenas o cabelo, orelhas, pescoço, clavículas e roupas. Mostre ambas as orelhas com múltiplos piercings dourados: combinações de pequenas argolas e pontos de luz, além de um brinco dourado pendente com uma gema em formato de diamante verde no lado direito de quem vê. O personagem veste uma camisa {argument name=\"shirt color\" default=\"preta\"} estilosa de colarinho aberto com dobras nítidas e uma gargantilha preta ou colar fino visível na base do pescoço. Use arte de linha de mangá nítida, sombreamento cel polido, sombras de pele suaves, composição de ícone de alta resolução, fundo minimalista, estética de avatar social moderno e sem texto.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Faceless Blond Anime Icon",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - 无脸金发动漫头像",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Icono de anime de joven rubio sin rostro",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Gesichtsloses blondes Anime-Icon",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Icône anime sans visage aux cheveux blonds",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Icona anime bionda senza volto",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Ícone de Anime de Jovem Loiro com Rosto Oculto",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "Generates a stylish square anime avatar of a blond pierced young man with the face deliberately obscured for customizable icon use.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个时尚的方形动漫头像，描绘了一位佩戴耳饰的金发年轻男子，其面部被刻意遮挡，适合作为自定义图标使用。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère un avatar anime carré et stylé d'un jeune homme blond percé, avec le visage délibérément masqué pour une utilisation en tant qu'icône personnalisable.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/himukai_an/status/2051225734757449898#reversed-0",
+      "originalId": "https://x.com/himukai_an/status/2051225734757449898#reversed-0",
+      "authors": [
+        {
+          "name": "日向_AI",
+          "url": "https://x.com/himukai_an"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1360
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_2a07728857f84f3a",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971071741_3w0akq_HHdq74eaMAAp-i3.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971071741_3w0akq_HHdq74eaMAAp-i3.jpg",
+      "localPath": "public/assets/prompt_557f6e4ec885ceb39e81/5c3bd150a44d.jpg",
+      "alt": "Profile / Avatar - Faceless Blond Anime Icon - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "character",
+      "profile",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.853Z"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "prompt_03f857c3d4ef0b8c82c4",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "{\r\n  \"instruction\": \"Use the provided two character images as exact visual references. Preserve identity, face, outfit, proportions, and details perfectly.\",\r\n  \"concept\": \"{argument name=\"game concept\" default=\"AAA fighting game scene presented as a Tekken-style gameplay grid storyboard\"}\",\r\n  \"layout\": {\r\n    \"type\": \"3x3 grid\",\r\n    \"description\": \"nine panels showing a continuous fight progression with full game UI visible in each frame\"\r\n  },\r\n  \"panels\": [\r\n    \"panel 1: dramatic VS screen — character A vs character B, both facing each other, glowing background, versus text in center\",\r\n    \"panel 2: round start — both fighters in idle stance, READY text on screen\",\r\n    \"panel 3: FIGHT moment — cinematic spark explosion as fight begins\",\r\n    \"panel 4: first attack — character A throws a punch with motion blur\",\r\n    \"panel 5: counter attack — character B kicks with impact sparks\",\r\n    \"panel 6: combo sequence — multiple hit sparks, motion trails, dynamic camera\",\r\n    \"panel 7: low health moment — health bar flashing red, tension moment\",\r\n    \"panel 8: finishing move — slow motion heavy hit, cinematic angle\",\r\n    \"panel 9: KO screen — opponent falling back, huge KO text, particles flying\"\r\n  ],\r\n  \"style\": \"{argument name=\"art style\" default=\"ultra realistic AAA Tekken-style fighting game, cinematic gameplay rendering, highly detailed characters, realistic lighting\"}\",\r\n  \"camera\": \"in-game fighting camera, slightly angled side view, dynamic zoom during impacts\",\r\n  \"environment\": \"high-end fighting arena, dark background with neon accents, subtle depth, not distracting\",\r\n  \"ui_elements\": {\r\n    \"health_bars\": \"top left and right, detailed, glowing, decreasing across panels\",\r\n    \"timer\": \"center top\",\r\n    \"player_names\": \"top left and right\",\r\n    \"round_indicator\": \"visible\",\r\n    \"combo_counter\": \"appears during hits\",\r\n    \"hit_effects\": \"sparks, flashes, light streaks\",\r\n    \"KO_text\": \"large, bold, center screen in final panel\",\r\n    \"READY_FIGHT_text\": \"arcade-style bold typography\"\r\n  },\r\n  \"effects\": [\r\n    \"motion blur on attacks\",\r\n    \"impact sparks\",\r\n    \"energy trails\",\r\n    \"camera shake effect\",\r\n    \"slow motion feeling in finishing hit\",\r\n    \"screen glow during hits\"\r\n  ],\r\n  \"color_grading\": \"{argument name=\"color grading\" default=\"high contrast, arcade cinematic, vibrant highlights, deep shadows\"}\",\r\n  \"output\": \"clean 3x3 grid, perfectly aligned panels, full UI visible, no logos, no watermarks\"\r\n}\r\n\"reference_style\": \"Tekken 8 gameplay UI, arcade fighting game interface, modern AAA fighting HUD\"",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Comic / Storyboard - AAA Fighting Game Storyboard Grid",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "漫画 / 故事板 - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "漫畫 / 分鏡腳本 - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "コミック / ストーリーボード - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "만화 / 스토리보드 - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "คอมิก / สตอรี่บอร์ด - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Truyện tranh / Bảng phân cảnh - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "कॉमिक / स्टोरीबोर्ड - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Cómic / Guion gráfico - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Bande dessinée / Storyboard - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Fumetto / Storyboard - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Banda desenhada / Storyboard - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Çizgi Roman / Hikaye Taslağı - AAA Fighting Game Storyboard Grid",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A highly structured prompt for creating a 3x3 storyboard grid of a fighting game, maintaining consistent characters and full game UI elements.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comic",
+      "value": "Comic",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/egeberkina/status/2048862692937494809",
+      "originalId": "https://x.com/egeberkina/status/2048862692937494809",
+      "authors": [
+        {
+          "name": "Ege",
+          "url": "https://x.com/egeberkina"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 3523
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_c232e55687cfa23c",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367272688_o88a6b_HG8D0fFXUAIa68p.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367272688_o88a6b_HG8D0fFXUAIa68p.jpg",
+      "localPath": "public/assets/prompt_03f857c3d4ef0b8c82c4/06765670bfb7.jpg",
+      "alt": "Comic / Storyboard - AAA Fighting Game Storyboard Grid - Image 1",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.126Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "comic-story",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "comic",
+      "story",
+      "漫画",
+      "故事"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.563Z"
+  }
+}

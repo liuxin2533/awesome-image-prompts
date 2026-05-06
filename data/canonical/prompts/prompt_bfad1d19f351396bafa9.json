@@ -1,0 +1,93 @@
+{
+  "id": "prompt_bfad1d19f351396bafa9",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "头发里的微型城市",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_29dbf6eac9",
+      "value": "头发里的微型城市",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-392",
+      "originalId": "case-392",
+      "authors": [
+        {
+          "name": "krafterlab",
+          "url": "https://x.com/krafterlab/status/2051399740986740986"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7457
+        }
+      ],
+      "rawSource": "[@krafterlab](https://x.com/krafterlab/status/2051399740986740986)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_6a184254c3ca9364",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case392.jpg",
+      "upstreamPath": "../data/images/case392.jpg",
+      "localPath": "public/assets/prompt_bfad1d19f351396bafa9/801e0b982d2d.jpg",
+      "alt": "头发里的微型城市",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "photography",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.926Z"
+  }
+}

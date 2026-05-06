@@ -1,0 +1,183 @@
+{
+  "id": "prompt_18ecf759624144129c97",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a high-quality “{argument name=\"style\" default=\"chibi clone sticker diary photo\"}” based on the uploaded real-life image. Preserve the original person’s identity, face, hairstyle, hair color, outfit, body proportions, pose, lighting, and background. Do not alter facial features or turn the subject into a full illustration—maintain a realistic photo look.\nAnalyze the scene as a {argument name=\"activity\" default=\"fitness/running\"} lifestyle moment. Add 5–8 chibi mini clones of the same person around the subject, designed in a consistent kawaii sticker style (big head, small body, large expressive eyes, clean digital finish). Each clone must clearly resemble the real person (same hair, outfit, colors).\nDesign each chibi with different {argument name=\"action theme\" default=\"running-related actions\"} and emotions: jogging, stretching, drinking water, feeling tired, cheering, giving thumbs up, celebrating completion. Ensure all poses are unique and contextually relevant.\nRender each chibi as a sticker with white outlines, soft shadows, and a slightly floating effect. Arrange them around the subject and edges without covering the face or main body.\nAdd light hand-drawn doodles (hearts, sparkles, arrows, motion lines, circles) in white with subtle pink accents, keeping a clean scrapbook diary feel.\nInclude 5–8 short handwritten-style phrases matching a fitness mood (cute, energetic, encouraging). Use mostly white text with slight pink highlights and small decorative marks.\nComposition: keep the real person as the central focus, surrounded by chibi stickers and doodles. The result should feel like a polished, playful, high-resolution social media lifestyle diary image—clean, balanced, and visually rich without clutter.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于上传的真实照片，创作一张高质量的“{argument name=\"style\" default=\"Q 版克隆贴纸日记照片\"}”。请保留原人物的身份、面部特征、发型、发色、服装、身体比例、姿势、光影和背景。请勿改变面部特征或将主体完全转化为插画——需保持写实照片的质感。\n将场景分析为 {argument name=\"activity\" default=\"健身/跑步\"} 的生活方式瞬间。在主体周围添加 5–8 个同人物的 Q 版迷你克隆体，采用统一的可爱贴纸风格设计（大头、小身体、大而有神的眼睛、干净的数字绘画质感）。每个克隆体必须清晰地还原真实人物特征（相同的发型、服装和配色）。\n为每个 Q 版角色设计不同的 {argument name=\"action theme\" default=\"跑步相关动作\"} 和情绪：慢跑、拉伸、喝水、疲惫、欢呼、竖大拇指、庆祝完成。确保所有姿势独特且符合语境。\n将每个 Q 版角色渲染为带有白色描边、柔和阴影和轻微浮动效果的贴纸。将它们排列在主体周围及边缘，但不要遮挡面部或主体身体。\n添加轻盈的手绘涂鸦（爱心、闪光、箭头、运动线条、圆圈），颜色以白色为主，辅以微妙的粉色点缀，保持干净的剪贴簿日记感。\n包含 5–8 个符合健身氛围（可爱、充满活力、鼓励性）的简短手写风格短语。主要使用白色文字，带有轻微的粉色高光和小装饰符号。\n构图：保持真实人物为中心焦点，周围环绕 Q 版贴纸和涂鸦。最终效果应呈现为一张精致、有趣、高分辨率的社交媒体生活方式日记图片——画面干净、平衡且视觉丰富，不显杂乱。",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Crea una imagen de alta calidad de tipo “{argument name=\"style\" default=\"chibi clone sticker diary photo\"}” basada en la foto real subida. Preserva la identidad, el rostro, el peinado, el color de cabello, el atuendo, las proporciones corporales, la pose, la iluminación y el fondo de la persona original. No alteres los rasgos faciales ni conviertas al sujeto en una ilustración completa; mantén un aspecto de fotografía realista.\nAnaliza la escena como un momento de estilo de vida de {argument name=\"activity\" default=\"fitness/running\"}. Añade de 5 a 8 mini clones chibi de la misma persona alrededor del sujeto, diseñados con un estilo de sticker kawaii consistente (cabeza grande, cuerpo pequeño, ojos grandes y expresivos, acabado digital limpio). Cada clon debe parecerse claramente a la persona real (mismo cabello, atuendo y colores).\nDiseña cada chibi con diferentes {argument name=\"action theme\" default=\"running-related actions\"} y emociones: trotando, estirando, bebiendo agua, sintiéndose cansado, animando, dando pulgares arriba, celebrando la meta. Asegúrate de que todas las poses sean únicas y contextualmente relevantes.\nRenderiza cada chibi como un sticker con bordes blancos, sombras suaves y un efecto de ligera flotación. Distribúyelos alrededor del sujeto y en los bordes sin cubrir el rostro ni el cuerpo principal.\nAñade garabatos hechos a mano (corazones, destellos, flechas, líneas de movimiento, círculos) en color blanco con sutiles acentos rosados, manteniendo una estética limpia de diario de recortes.\nIncluye de 5 a 8 frases cortas con estilo de escritura a mano que coincidan con un estado de ánimo fitness (lindo, energético, alentador). Usa principalmente texto blanco con ligeros toques rosados y pequeñas marcas decorativas.\nComposición: mantén a la persona real como el enfoque central, rodeada por los stickers chibi y los garabatos. El resultado debe sentirse como una imagen de diario de estilo de vida para redes sociales, pulida, divertida y de alta resolución; limpia, equilibrada y visualmente rica sin verse saturada.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erstelle ein hochwertiges „{argument name=\"style\" default=\"chibi clone sticker diary photo\"}“ basierend auf dem hochgeladenen Originalfoto. Bewahre die Identität, das Gesicht, die Frisur, die Haarfarbe, das Outfit, die Körperproportionen, die Pose, die Beleuchtung und den Hintergrund der Person. Verändere nicht die Gesichtszüge und mache aus der Person keine vollständige Illustration – behalte den realistischen Fotolook bei.\nAnalysiere die Szene als einen Lifestyle-Moment zum Thema {argument name=\"activity\" default=\"fitness/running\"}. Füge 5–8 Chibi-Mini-Klone derselben Person um das Hauptmotiv herum hinzu, gestaltet in einem einheitlichen Kawaii-Sticker-Stil (großer Kopf, kleiner Körper, große ausdrucksstarke Augen, sauberes digitales Finish). Jeder Klon muss der echten Person deutlich ähneln (gleiche Haare, gleiches Outfit, gleiche Farben).\nGestalte jeden Chibi mit unterschiedlichen {argument name=\"action theme\" default=\"running-related actions\"} und Emotionen: Joggen, Dehnen, Wassertrinken, Erschöpfung, Anfeuern, Daumen hoch, Feiern des Abschlusses. Stelle sicher, dass alle Posen einzigartig und kontextbezogen sind.\nStelle jeden Chibi als Sticker mit weißen Umrandungen, weichen Schatten und einem leichten Schwebeeffekt dar. Ordne sie um das Hauptmotiv und an den Rändern an, ohne das Gesicht oder den Körper zu verdecken.\nFüge leichte, handgezeichnete Kritzeleien (Herzen, Glitzer, Pfeile, Bewegungslinien, Kreise) in Weiß mit dezenten rosa Akzenten hinzu, um den sauberen Scrapbook-Tagebuch-Look zu bewahren.\nFüge 5–8 kurze, handschriftliche Phrasen hinzu, die zur Fitness-Stimmung passen (niedlich, energiegeladen, motivierend). Verwende hauptsächlich weißen Text mit leichten rosa Highlights und kleinen dekorativen Elementen.\nKomposition: Behalte die echte Person als zentralen Fokus bei, umgeben von Chibi-Stickern und Kritzeleien. Das Ergebnis sollte wie ein poliertes, verspieltes, hochauflösendes Social-Media-Lifestyle-Tagebuch-Bild wirken – sauber, ausgewogen und visuell ansprechend, ohne überladen zu sein.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Créez une image de haute qualité « {argument name=\"style\" default=\"chibi clone sticker diary photo\"} » basée sur la photo réelle téléchargée. Préservez l'identité, le visage, la coiffure, la couleur des cheveux, la tenue, les proportions corporelles, la pose, l'éclairage et l'arrière-plan de la personne originale. Ne modifiez pas les traits du visage et ne transformez pas le sujet en une illustration complète — conservez un aspect photographique réaliste.\nAnalysez la scène comme un moment de vie {argument name=\"activity\" default=\"fitness/running\"}. Ajoutez 5 à 8 mini clones chibi de la même personne autour du sujet, conçus dans un style d'autocollant kawaii cohérent (grosse tête, petit corps, grands yeux expressifs, finition numérique propre). Chaque clone doit clairement ressembler à la personne réelle (mêmes cheveux, tenue, couleurs).\nConcevez chaque chibi avec des {argument name=\"action theme\" default=\"running-related actions\"} et des émotions différents : faire du jogging, s'étirer, boire de l'eau, être fatigué, encourager, faire un pouce levé, célébrer l'achèvement. Assurez-vous que toutes les poses sont uniques et contextuellement pertinentes.\nRendez chaque chibi sous forme d'autocollant avec des contours blancs, des ombres douces et un léger effet flottant. Disposez-les autour du sujet et sur les bords sans couvrir le visage ou le corps principal.\nAjoutez des gribouillages légers dessinés à la main (cœurs, étincelles, flèches, lignes de mouvement, cercles) en blanc avec de subtiles touches roses, en conservant une ambiance de journal de scrapbooking épurée.\nIncluez 5 à 8 courtes phrases de style manuscrit correspondant à une humeur fitness (mignon, énergique, encourageant). Utilisez principalement du texte blanc avec de légers reflets roses et de petites marques décoratives.\nComposition : gardez la personne réelle comme point central, entourée d'autocollants chibi et de gribouillages. Le résultat doit ressembler à une image de journal de style de vie pour les réseaux sociaux, soignée, ludique et en haute résolution — propre, équilibrée et visuellement riche sans être encombrée.",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Crea un'immagine di alta qualità “{argument name=\"style\" default=\"chibi clone sticker diary photo\"}” basata sulla foto reale caricata. Preserva l'identità, il volto, l'acconciatura, il colore dei capelli, l'abbigliamento, le proporzioni corporee, la posa, l'illuminazione e lo sfondo della persona originale. Non alterare i tratti del viso né trasformare il soggetto in un'illustrazione completa: mantieni un aspetto fotografico realistico.\nAnalizza la scena come un momento di vita quotidiana dedicato a {argument name=\"activity\" default=\"fitness/running\"}. Aggiungi 5-8 mini cloni chibi della stessa persona attorno al soggetto, progettati in un coerente stile adesivo kawaii (testa grande, corpo piccolo, grandi occhi espressivi, finitura digitale pulita). Ogni clone deve assomigliare chiaramente alla persona reale (stessi capelli, abbigliamento, colori).\nProgetta ogni chibi con {argument name=\"action theme\" default=\"running-related actions\"} ed emozioni differenti: fare jogging, fare stretching, bere acqua, sentirsi stanchi, fare il tifo, fare il pollice in su, festeggiare il traguardo. Assicurati che tutte le pose siano uniche e contestualmente pertinenti.\nRenderizza ogni chibi come un adesivo con bordi bianchi, ombre morbide e un leggero effetto fluttuante. Disponili attorno al soggetto e lungo i bordi senza coprire il viso o il corpo principale.\nAggiungi leggeri scarabocchi disegnati a mano (cuori, scintille, frecce, linee di movimento, cerchi) in bianco con sottili accenti rosa, mantenendo un aspetto pulito da diario scrapbook.\nIncludi 5-8 brevi frasi in stile calligrafico che richiamino un mood fitness (carino, energico, incoraggiante). Usa principalmente testo bianco con lievi riflessi rosa e piccoli segni decorativi.\nComposizione: mantieni la persona reale come focus centrale, circondata da adesivi chibi e scarabocchi. Il risultato dovrebbe sembrare un'immagine di diario lifestyle per i social media, curata, giocosa e ad alta risoluzione: pulita, equilibrata e visivamente ricca senza risultare confusa.",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Crie uma “{argument name=\"style\" default=\"foto de diário de adesivos de clones chibi\"}” de alta qualidade com base na imagem real enviada. Preserve a identidade, rosto, penteado, cor do cabelo, roupa, proporções corporais, pose, iluminação e fundo da pessoa original. Não altere as características faciais nem transforme o sujeito em uma ilustração completa — mantenha uma aparência de foto realista.\nAnalise a cena como um momento do estilo de vida de {argument name=\"activity\" default=\"fitness/corrida\"}. Adicione de 5 a 8 mini clones chibi da mesma pessoa ao redor do sujeito, projetados em um estilo de adesivo kawaii consistente (cabeça grande, corpo pequeno, olhos grandes e expressivos, acabamento digital limpo). Cada clone deve se parecer claramente com a pessoa real (mesmo cabelo, roupa, cores).\nProjete cada chibi com diferentes {argument name=\"action theme\" default=\"ações relacionadas à corrida\"} e emoções: correndo, alongando, bebendo água, sentindo-se cansado, torcendo, fazendo sinal de positivo, celebrando a conclusão. Certifique-se de que todas as poses sejam únicas e contextualmente relevantes.\nRenderize cada chibi como um adesivo com contornos brancos, sombras suaves e um efeito de leve flutuação. Organize-os ao redor do sujeito e nas bordas sem cobrir o rosto ou o corpo principal.\nAdicione rabiscos feitos à mão (corações, brilhos, setas, linhas de movimento, círculos) em branco com toques sutis de rosa, mantendo uma sensação limpa de diário de scrapbook.\nInclua de 5 a 8 frases curtas em estilo manuscrito que combinem com o clima fitness (fofo, energético, encorajador). Use principalmente texto branco com leves destaques em rosa e pequenas marcas decorativas.\nComposição: mantenha a pessoa real como foco central, cercada pelos adesivos chibi e rabiscos. O resultado deve parecer uma imagem de diário de estilo de vida para redes sociais, polida, divertida e de alta resolução — limpa, equilibrada e visualmente rica, sem excessos.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Social Media Post - Chibi Clone Sticker Diary",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "社交媒体帖子 - Q 版克隆贴纸日记",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Publicación en redes sociales - Diario de stickers con clones chibi",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Social-Media-Beitrag - Chibi-Klon-Sticker-Tagebuch",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Publication sur les réseaux sociaux - Journal d'autocollants Chibi Clone",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Post sui social media - Diario con adesivi chibi clone",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Publicação em Redes Sociais - Diário de Adesivos de Clones Chibi",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A creative prompt that transforms a real photo into a scrapbook diary style with multiple chibi clones of the subject.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个可以将真实照片转化为带有多个 Q 版克隆角色的剪贴簿日记风格的创意提示词。",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Un prompt créatif qui transforme une photo réelle en un style de journal de scrapbooking avec plusieurs clones chibi du sujet.",
+        "source": "upstream"
+      }
+    }
+  },
+  "sourceCategories": [
+    {
+      "id": "social-media-post",
+      "value": "Social Media Post",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/miilesus/status/2051386554015449281",
+      "originalId": "https://x.com/miilesus/status/2051386554015449281",
+      "authors": [
+        {
+          "name": "Melis✨",
+          "url": "https://x.com/miilesus"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 1536
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f51eb07a87d170bf",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971003063_000rup_HHf9C1UWMAAOPD4.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971003063_000rup_HHf9C1UWMAAOPD4.jpg",
+      "localPath": "public/assets/prompt_18ecf759624144129c97/a8da6bb15e25.jpg",
+      "alt": "Social Media Post - Chibi Clone Sticker Diary - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_4f8bec8c1c0a617e",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777971003048_7sj70t_HHf9DKrWkAE-P-L.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777971003048_7sj70t_HHf9DKrWkAE-P-L.jpg",
+      "localPath": "public/assets/prompt_18ecf759624144129c97/79cfea791364.jpg",
+      "alt": "Social Media Post - Chibi Clone Sticker Diary - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-05-03T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:06:51.622Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "ui-social-media",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "ui",
+      "social",
+      "社交"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.845Z"
+  }
+}

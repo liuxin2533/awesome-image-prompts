@@ -1,0 +1,106 @@
+{
+  "id": "prompt_4948222e061c5135eacf",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "苏妲己古风写真，红色纱衣半透，狐耳若隐若现，媚态撩人",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:10.517Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Su Daji Ancient-Style Glamour Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "苏妲己古风魅力肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:13.676Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/nidiedeba/status/2047147223281270878",
+      "originalId": "case-54",
+      "authors": [
+        {
+          "name": "nidiedeba",
+          "url": "https://x.com/nidiedeba"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/comparison.md",
+          "line": 358
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_639f304fc72275ff",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case94/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case94/output.jpg",
+      "localPath": "public/assets/prompt_4948222e061c5135eacf/29faf3104e75.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "portrait",
+      "写真"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.585Z"
+  }
+}

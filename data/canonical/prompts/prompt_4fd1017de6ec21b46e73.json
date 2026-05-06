@@ -1,0 +1,195 @@
+{
+  "id": "prompt_4fd1017de6ec21b46e73",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A visual design proposal board for a dessert brand in a {argument name=\"brand style\" default=\"youthful IP style\"}, with a horizontal layout and clear modular structure. The main visual features a {argument name=\"main character\" default=\"cartoon IP (cake elf/dessert character)\"} in the center. The right side shows the character with various expressions and actions, the left side shows store interior design (ins-style with soft lighting), and the bottom features brand collateral: boxes, cups, stickers, bags, and merchandise. Color palette: {argument name=\"color scheme\" default=\"cream white, pink, light brown, and soft tones\"}. Style: flat illustration combined with light 3D and a soft, cute texture.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Product Marketing - Dessert Brand Visual Identity Proposal Board",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品营销 - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "產品行銷 - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロダクトマーケティング - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "제품 마케팅 - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "การตลาดผลิตภัณฑ์ - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Tiếp thị sản phẩm - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोडक्ट मार्केटिंग - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Marketing de producto - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Produktmarketing - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Marketing produit - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Marketing di Prodotto - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Marketing de Produto - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Ürün Pazarlaması - Dessert Brand Visual Identity Proposal Board",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "A comprehensive prompt for a branding proposal board, featuring character design, store interior concepts, and packaging materials in a soft, 3D-illustrated style.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "product-marketing",
+      "value": "Product Marketing",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/_AIBOZ_/status/2048809162600255653",
+      "originalId": "https://x.com/_AIBOZ_/status/2048809162600255653",
+      "authors": [
+        {
+          "name": "AIBOZ·艾熵",
+          "url": "https://x.com/_AIBOZ_"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 4281
+        }
+      ],
+      "sourceLanguages": [
+        "zh"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_9e2ae637b3871cb6",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367275974_walnre_HG7TRFQa4AADpis.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367275974_walnre_HG7TRFQa4AADpis.jpg",
+      "localPath": "public/assets/prompt_4fd1017de6ec21b46e73/e194f3e6e348.jpg",
+      "alt": "Product Marketing - Dessert Brand Visual Identity Proposal Board - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_a4bc607d0f9e2db7",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367276067_6h8zjn_HG7TYrubAAAuB7q.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367276067_6h8zjn_HG7TYrubAAAuB7q.jpg",
+      "localPath": "public/assets/prompt_4fd1017de6ec21b46e73/21075f366379.jpg",
+      "alt": "Product Marketing - Dessert Brand Visual Identity Proposal Board - Image 2",
+      "status": "pending"
+    },
+    {
+      "id": "asset_cd09659f073d94e2",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367276024_lgteyh_HG7TaMSbgAAmOgd.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367276024_lgteyh_HG7TaMSbgAAmOgd.jpg",
+      "localPath": "public/assets/prompt_4fd1017de6ec21b46e73/53f056a7b2f8.jpg",
+      "alt": "Product Marketing - Dessert Brand Visual Identity Proposal Board - Image 3",
+      "status": "pending"
+    },
+    {
+      "id": "asset_53fa27191ad261eb",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367276627_njth3q_HG7U-FIagAAF2f1.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367276627_njth3q_HG7U-FIagAAF2f1.jpg",
+      "localPath": "public/assets/prompt_4fd1017de6ec21b46e73/419244a069dc.jpg",
+      "alt": "Product Marketing - Dessert Brand Visual Identity Proposal Board - Image 4",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.127Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "marketing",
+      "产品",
+      "营销"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.565Z"
+  }
+}

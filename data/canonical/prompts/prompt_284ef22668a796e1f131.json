@@ -1,0 +1,92 @@
+{
+  "id": "prompt_284ef22668a796e1f131",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "<instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: \"$lesser known's famous architecture\" (it's texture, material and color) > Anchor 2: \"$lesser known's famous fashion \" (it's texture, material and color) > Anchor 3: \"$lesser known's famous food \" (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "四国文化锚点服装设计宫格",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_c0bb4e2348",
+      "value": "四国文化锚点服装设计宫格",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-391",
+      "originalId": "case-391",
+      "authors": [
+        {
+          "name": "Gdgtify",
+          "url": "https://x.com/Gdgtify/status/2051428657571279137"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-2.md",
+          "line": 7441
+        }
+      ],
+      "rawSource": "[@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_b3c31d01a244f2ea",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case391.jpg",
+      "upstreamPath": "../data/images/case391.jpg",
+      "localPath": "public/assets/prompt_284ef22668a796e1f131/a5c026e4f72e.jpg",
+      "alt": "四国文化锚点服装设计宫格",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:41.867Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "architecture-interior",
+    "source": "rule",
+    "confidence": 0.7,
+    "matchedBy": [
+      "architecture"
+    ],
+    "classifiedAt": "2026-05-06T11:06:54.905Z"
+  }
+}

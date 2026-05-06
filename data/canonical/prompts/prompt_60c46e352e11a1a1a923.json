@@ -1,0 +1,102 @@
+{
+  "id": "prompt_60c46e352e11a1a1a923",
+  "promptText": {
+    "original": {
+      "language": "zh-CN",
+      "value": "{\r\n  \"type\": \"technical infographic\",\r\n  \"subject\": \"{argument name=\\\"subject matter\\\" default=\\\"digital photography process\\\"}\",\r\n  \"header\": {\r\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"一张照片诞生的因果链 THE CAUSAL CHAIN OF A PHOTOGRAPH\\\"}\",\r\n    \"subtitle\": \"从世界，到图像 FROM WORLD TO IMAGE\"\r\n  },\r\n  \"centerpiece\": {\r\n    \"description\": \"Exploded isometric view of a modern mirrorless camera\",\r\n    \"model\": \"{argument name=\\\"camera model\\\" default=\\\"Canon EOS R5\\\"}\",\r\n    \"labeled_parts_count\": 12,\r\n    \"labeled_parts\": [\r\n      \"EVF\",\r\n      \"Body Structure\",\r\n      \"Control Dials\",\r\n      \"Thermal Design\",\r\n      \"Optical Axis\",\r\n      \"IBIS Stabilizer\",\r\n      \"Shutter Unit\",\r\n      \"Full-Frame Sensor\",\r\n      \"{argument name=\\\"processor name\\\" default=\\\"DIGIC X Processor\\\"}\",\r\n      \"Main PCB\",\r\n      \"High-Speed Bus\",\r\n      \"Card Slot\"\r\n    ]\r\n  },\r\n  \"layout\": {\r\n    \"left_column\": {\r\n      \"description\": \"Chronological causal chain\",\r\n      \"count\": 13,\r\n      \"steps\": [\r\n        \"01 REALITY EXISTS\",\r\n        \"02 PHOTONS LEAVE THE WORLD\",\r\n        \"03 LENS ACCEPTS & BENDS LIGHT\",\r\n        \"04 APERTURE SELECTS\",\r\n        \"05 SHUTTER CUTS TIME\",\r\n        \"06 FOCUS SETS PRIORITY\",\r\n        \"07 SENSOR RECEIVES EVENT\",\r\n        \"08 LIGHT BECOMES CHARGE\",\r\n        \"09 ANALOG READOUT\",\r\n        \"10 A/D CONVERSION\",\r\n        \"11 COMPUTATION RECONSTRUCTS\",\r\n        \"12 IMAGE APPEARS\",\r\n        \"13 MEMORY OUTLIVES\"\r\n      ]\r\n    },\r\n    \"right_column\": {\r\n      \"title\": \"八大模块 / 8 MODULES\",\r\n      \"count\": 8,\r\n      \"modules\": [\r\n        \"1 ORIGIN OF LIGHT\",\r\n        \"2 LENS SHAPES REALITY\",\r\n        \"3 APERTURE & SHUTTER EDIT THE WORLD\",\r\n        \"4 FOCUS DECIDES CLARITY\",\r\n        \"5 SENSOR MEASURES LIGHT\",\r\n        \"6 SIGNAL BORN & AMPLIFIED\",\r\n        \"7 COMPUTATION BUILDS IMAGE\",\r\n        \"8 FILE BECOMES MEMORY\"\r\n      ]\r\n    },\r\n    \"side_diagrams\": {\r\n      \"count\": 7,\r\n      \"descriptions\": [\r\n        \"Ray cone & image formation\",\r\n        \"Aperture & depth of field\",\r\n        \"Shutter & motion\",\r\n        \"Focal plane & clarity\",\r\n        \"Pixel structure\",\r\n        \"Photoelectric conversion\",\r\n        \"Analog signal waveform\"\r\n      ]\r\n    },\r\n    \"footer\": {\r\n      \"count\": 5,\r\n      \"description\": \"Philosophical summary points\"\r\n    }\r\n  },\r\n  \"style\": \"technical, precise, wireframe elements, glowing data lines, photorealistic camera components, clean typography, dual-language\"\r\n}",
+      "source": "upstream"
+    },
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"technical infographic\",\n  \"subject\": \"{argument name=\\\"subject matter\\\" default=\\\"digital photography process\\\"}\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"The Causal Chain of a Photograph's Birth THE CAUSAL CHAIN OF A PHOTOGRAPH\\\"}\",\n    \"subtitle\": \"From World to Image FROM WORLD TO IMAGE\"\n  },\n  \"centerpiece\": {\n    \"description\": \"Exploded isometric view of a modern mirrorless camera\",\n    \"model\": \"{argument name=\\\"camera model\\\" default=\\\"Canon EOS R5\\\"}\",\n    \"labeled_parts_count\": 12,\n    \"labeled_parts\": [\n      \"EVF\",\n      \"Body Structure\",\n      \"Control Dials\",\n      \"Thermal Design\",\n      \"Optical Axis\",\n      \"IBIS Stabilizer\",\n      \"Shutter Unit\",\n      \"Full-Frame Sensor\",\n      \"{argument name=\\\"processor name\\\" default=\\\"DIGIC X Processor\\\"}\",\n      \"Main PCB\",\n      \"High-Speed Bus\",\n      \"Card Slot\"\n    ]\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"description\": \"Chronological causal chain\",\n      \"count\": 13,\n      \"steps\": [\n        \"01 REALITY EXISTS\",\n        \"02 PHOTONS LEAVE THE WORLD\",\n        \"03 LENS ACCEPTS & BENDS LIGHT\",\n        \"04 APERTURE SELECTS\",\n        \"05 SHUTTER CUTS TIME\",\n        \"06 FOCUS SETS PRIORITY\",\n        \"07 SENSOR RECEIVES EVENT\",\n        \"08 LIGHT BECOMES CHARGE\",\n        \"09 ANALOG READOUT\",\n        \"10 A/D CONVERSION\",\n        \"11 COMPUTATION RECONSTRUCTS\",\n        \"12 IMAGE APPEARS\",\n        \"13 MEMORY OUTLIVES\"\n      ]\n    },\n    \"right_column\": {\n      \"title\": \"Eight Major Modules / 8 MODULES\",\n      \"count\": 8,\n      \"modules\": [\n        \"1 ORIGIN OF LIGHT\",\n        \"2 LENS SHAPES REALITY\",\n        \"3 APERTURE & SHUTTER EDIT THE WORLD\",\n        \"4 FOCUS DECIDES CLARITY\",\n        \"5 SENSOR MEASURES LIGHT\",\n        \"6 SIGNAL BORN & AMPLIFIED\",\n        \"7 COMPUTATION BUILDS IMAGE\",\n        \"8 FILE BECOMES MEMORY\"\n      ]\n    },\n    \"side_diagrams\": {\n      \"count\": 7,\n      \"descriptions\": [\n        \"Ray cone & image formation\",\n        \"Aperture & depth of field\",\n        \"Shutter & motion\",\n        \"Focal plane & clarity\",\n        \"Pixel structure\",\n        \"Photoelectric conversion\",\n        \"Analog signal waveform\"\n      ]\n    },\n    \"footer\": {\n      \"count\": 5,\n      \"description\": \"Philosophical summary points\"\n    }\n  },\n  \"style\": \"technical, precise, wireframe elements, glowing data lines, photorealistic camera components, clean typography, dual-language\"\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:30:06.921Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "zh-CN",
+      "value": "信息图可视化设计",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "category_3a0407738e",
+      "value": "信息图可视化设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "freestylefly"
+    }
+  ],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "freestylefly",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2#case-70",
+      "originalId": "case-70",
+      "authors": [
+        {
+          "name": "hx831126",
+          "url": "https://x.com/hx831126"
+        }
+      ],
+      "locations": [
+        {
+          "file": "docs/gallery-part-1.md",
+          "line": 2088
+        }
+      ],
+      "rawSource": "[@hx831126](https://x.com/hx831126)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_fd658c4fc13a1ce1",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case70.jpg",
+      "upstreamPath": "../data/images/case70.jpg",
+      "localPath": "public/assets/prompt_60c46e352e11a1a1a923/183f2d80e3f7.jpg",
+      "alt": "type",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "infographic",
+      "diagram",
+      "信息图",
+      "可视化"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.588Z"
+  }
+}

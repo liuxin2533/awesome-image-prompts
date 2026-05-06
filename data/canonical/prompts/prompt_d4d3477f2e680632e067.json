@@ -1,0 +1,247 @@
+{
+  "id": "prompt_d4d3477f2e680632e067",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Generate image:\nTaobao product detail page of a T-800 robot, showing:\nfront, side, and back three-view drawings of the robot,\nproduct price,\nproduct details,\nfunctions and usage scenarios",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成图片：\n一个 T-800 机器人的淘宝商品详情页，展示：\n机器人的正面、侧面和背面三视图，\n商品价格，\n商品详情，\n功能与使用场景",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "生成圖片：T-800 機器人的淘寶商品詳情頁，展示機器人的正面、側面與背面三視圖、商品價格、商品詳情，以及功能與使用情境。",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "画像を生成:\nT-800 ロボットの淘宝商品詳細ページ。以下を表示する:\nロボットの正面・側面・背面の三面図\n商品価格\n商品詳細\n機能と利用シーン",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "T-800 로봇의 타오바오 상품 상세 페이지 이미지를 생성한다. 정면/측면/후면 3면도, 가격, 상세 정보, 기능과 사용 시나리오를 포함한다.",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Génère une page produit Taobao pour un robot T-800 montrant vues avant / profil / arrière, prix, détails produit, fonctions et cas d'usage.",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Erzeuge eine Taobao-Produktdetailseite für einen T-800-Roboter mit Vorder-, Seiten- und Rückansicht, Preis, Produktdetails, Funktionen und Einsatzszenarien.",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Genera una página de detalle de producto de Taobao para un robot T-800, mostrando vistas frontal, lateral y trasera, precio, detalles del producto, funciones y escenarios de uso.",
+        "source": "upstream"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "T-800 Taobao Product Detail Page",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "T-800 淘宝商品详情页",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "T-800 淘寶商品詳情頁",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "T-800 の淘宝商品詳細ページ",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "T-800 타오바오 상품 상세 페이지",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Page produit Taobao du T-800",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "T-800 Taobao-Produktdetailseite",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Página de detalle Taobao del T-800",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "ui-ux-social-media",
+      "value": "📱 UI/UX & Social Media",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 与社交媒体",
+      "language": "zh-CN",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 與社群媒體",
+      "language": "zh-TW",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX・ソーシャルメディア",
+      "language": "ja",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux",
+      "value": "📱 UI / UX 와 소셜 미디어",
+      "language": "ko",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-et-reseaux-sociaux",
+      "value": "📱 UI / UX et réseaux sociaux",
+      "language": "fr",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-und-social-media",
+      "value": "📱 UI / UX und Social Media",
+      "language": "de",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    },
+    {
+      "id": "ui-ux-y-redes-sociales",
+      "value": "📱 UI / UX y redes sociales",
+      "language": "es",
+      "source": "derived",
+      "sourceKey": "zerolu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "zerolu",
+      "repo": "ZeroLu/awesome-gpt-image",
+      "url": "https://x.com/rionaifantasy/status/2045356799751303194",
+      "originalId": "https://x.com/rionaifantasy/status/2045356799751303194",
+      "authors": [
+        {
+          "name": "OpenNana",
+          "url": "https://opennana.com/awesome-prompt-gallery/terminator-taobao-page"
+        },
+        {
+          "name": "rionaifantasy",
+          "url": "https://x.com/rionaifantasy/status/2045356799751303194"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 412
+        },
+        {
+          "file": "README:zh-CN",
+          "line": 345
+        },
+        {
+          "file": "README:zh-TW",
+          "line": 306
+        },
+        {
+          "file": "README:ja",
+          "line": 345
+        },
+        {
+          "file": "README:ko",
+          "line": 306
+        },
+        {
+          "file": "README:fr",
+          "line": 306
+        },
+        {
+          "file": "README:de",
+          "line": 306
+        },
+        {
+          "file": "README:es",
+          "line": 306
+        }
+      ],
+      "rawSource": "[OpenNana](https://opennana.com/awesome-prompt-gallery/terminator-taobao-page) | [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_28595aaed9e48a64",
+      "role": "unknown",
+      "upstreamUrl": "https://raw.githubusercontent.com/ZeroLu/awesome-gpt-image/main/assets/opennana/terminator-taobao-page.jpeg",
+      "upstreamPath": "assets/opennana/terminator-taobao-page.jpeg",
+      "localPath": "public/assets/prompt_d4d3477f2e680632e067/3f275f451339.jpeg",
+      "alt": "T-800 Taobao Product Detail Page",
+      "status": "pending"
+    }
+  ],
+  "updatedAt": "2026-05-06T11:06:54.957Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "product",
+      "商品",
+      "详情页"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.599Z"
+  }
+}

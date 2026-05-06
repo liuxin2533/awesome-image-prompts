@@ -1,0 +1,177 @@
+{
+  "id": "prompt_d530858c7b39df817286",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "A photorealistic vertical beach portrait of a young woman kneeling on pale sand while building sandcastles, shot in bright natural midday sunlight with a shallow depth of field. She has long dark brown hair tied in a high ponytail, a slim figure, and wears a short deep-blue sundress with thin spaghetti straps, a plunging neckline, and a softly flared skirt. She is leaning forward toward the camera in a playful candid pose, both hands shaping the sand in front of her. Add a delicate thin necklace with a tiny pendant and a subtle bracelet. Place exactly 5 sandcastle elements in the foreground: 2 taller turret-like sand towers on the right, 2 smaller rounded sand mounds near the center front, and 1 partially formed sand piece in her hands. The background is a tropical beach with smooth beige sand, turquoise water along the left side, a green tree-covered shoreline in the distance, and palm trees arching overhead, including 1 large palm trunk on the right edge. Use soft bokeh in the background, clean summer vacation fashion photography, realistic skin tones, natural shadows from palm leaves across her arms and dress, and a serene luxury resort atmosphere. Frame it as a full-body to three-quarter portrait in portrait orientation, centered subject, eye-level to slightly low camera angle.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Profile / Avatar - Tropical Beach Sandcastle Portrait",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人资料 / 头像 - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "zh-TW": {
+        "language": "zh-TW",
+        "value": "個人檔案 / 頭像 - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "プロフィール / アバター - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "프로필 / 아바타 - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "th": {
+        "language": "th",
+        "value": "โปรไฟล์ / รูปประจำตัว - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "vi": {
+        "language": "vi",
+        "value": "Hồ sơ / Ảnh đại diện - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "hi": {
+        "language": "hi",
+        "value": "प्रोफ़ाइल / अवतार - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "es": {
+        "language": "es",
+        "value": "Perfil / Avatar - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "de": {
+        "language": "de",
+        "value": "Profil / Avatar - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Profil / Avatar - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "it": {
+        "language": "it",
+        "value": "Profilo / Avatar - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Perfil / Avatar - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Profil / Avatar - Tropical Beach Sandcastle Portrait",
+        "source": "upstream"
+      }
+    }
+  },
+  "description": {
+    "original": {
+      "language": "en",
+      "value": "This prompt generates a realistic summer beach portrait of a woman in a blue sundress building sandcastles, ideal for vacation-themed lifestyle imagery.",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "profile",
+      "value": "Profile",
+      "language": "en",
+      "source": "derived",
+      "sourceKey": "youmind"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "youmind",
+      "repo": "YouMind-OpenLab/awesome-gpt-image-2",
+      "url": "https://x.com/Asan0_Misaki/status/2048763339329900747#reversed-0",
+      "originalId": "https://x.com/Asan0_Misaki/status/2048763339329900747#reversed-0",
+      "authors": [
+        {
+          "name": "浅野 美咲（Asano Misaki）",
+          "url": "https://x.com/Asan0_Misaki"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:en",
+          "line": 946
+        }
+      ],
+      "sourceLanguages": [
+        "en"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_25c85964a9818869",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367314269_rmkty4_HG6rZQfaoAAtKBh.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367314269_rmkty4_HG6rZQfaoAAtKBh.jpg",
+      "localPath": "public/assets/prompt_d530858c7b39df817286/9ff4fa25a020.jpg",
+      "alt": "Profile / Avatar - Tropical Beach Sandcastle Portrait - Image 1",
+      "status": "pending"
+    },
+    {
+      "id": "asset_310a58255f34e90f",
+      "role": "output",
+      "upstreamUrl": "https://cms-assets.youmind.com/media/1777367314280_z5hmxz_HG6rZQsawAAILjU.jpg",
+      "upstreamPath": "https://cms-assets.youmind.com/media/1777367314280_z5hmxz_HG6rZQsawAAILjU.jpg",
+      "localPath": "public/assets/prompt_d530858c7b39df817286/9b8b62ab534b.jpg",
+      "alt": "Profile / Avatar - Tropical Beach Sandcastle Portrait - Image 2",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-26T16:00:00.000Z",
+  "updatedAt": "2026-05-06T11:02:37.121Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo",
+      "camera"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.570Z"
+  }
+}

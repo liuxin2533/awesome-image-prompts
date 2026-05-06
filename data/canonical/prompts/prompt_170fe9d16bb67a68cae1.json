@@ -1,0 +1,101 @@
+{
+  "id": "prompt_170fe9d16bb67a68cae1",
+  "promptText": {
+    "original": {
+      "language": "en",
+      "value": "Create a bold, high-contrast black and white portrait of a confident young man wearing a black leather jacket, facing slightly sideways with an intense expression. Use dramatic studio lighting with sharp shadows and detailed skin texture. Add strong red graphic elements over the image, including a horizontal red bar across the eyes, geometric shapes, thin lines, and framing boxes. Incorporate large bold typography, repeated faded text, and a motivational headline in bright red. The design should feel like a premium sports or streetwear campaign poster with a minimal textured grey background and black/white/grey/red palette only.",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个{argument name=\"grid layout\" default=\"4x3\"}无边框网格，其中每个面板都是{argument name=\"subject\" default=\"a young woman\"}的独立图像。在所有面板中保持主体一致性，颜色和光线一致。以{argument name=\"mood\" default=\"warm, nostalgic\"}的情绪描绘{argument name=\"theme\" default=\"childhood memories\"}，采用{argument name=\"style\" default=\"nostalgic cinematic realism\"}的风格。无文字。无间隙。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:29:59.957Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "en",
+      "value": "Black-and-red streetwear campaign portrait",
+      "source": "upstream"
+    },
+    "translations": {}
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "sourceCategories": [
+    {
+      "id": "portrait-photography-cases",
+      "value": "Portrait & Photography Cases",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/harboriis/status/2049450257604550872",
+      "originalId": "case-105",
+      "authors": [
+        {
+          "name": "harboriis",
+          "url": "https://x.com/harboriis"
+        }
+      ],
+      "locations": [
+        {
+          "file": "cases/portrait.md",
+          "line": 748
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_5cd984f2b16e02e2",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case105/output.jpg",
+      "upstreamPath": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case105/output.jpg",
+      "localPath": "public/assets/prompt_170fe9d16bb67a68cae1/13e696154488.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "addedAt": "2026-04-29T21:20:00+08:00",
+  "updatedAt": "2026-05-06T11:02:37.354Z",
+  "classification": {
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "rule",
+    "confidence": 0.9,
+    "matchedBy": [
+      "photography",
+      "portrait",
+      "photo"
+    ],
+    "classifiedAt": "2026-05-06T11:03:21.550Z"
+  }
+}
