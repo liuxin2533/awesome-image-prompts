@@ -6,7 +6,14 @@
       "value": "[エリア]の観光エリアマップを画像で作成して",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create an image of a tourist area map for [エリア]",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:03:08.456Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "明洞旅游区域地图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Myeongdong Tourism Area Map",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:03:08.828Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -29,7 +43,23 @@
       "sourceKey": "freestylefly"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
   "sources": [
     {
       "sourceKey": "freestylefly",
@@ -64,11 +94,11 @@
   ],
   "updatedAt": "2026-05-06T11:06:41.866Z",
   "classification": {
-    "status": "needs_review",
-    "categoryId": null,
-    "source": "none",
-    "confidence": 0,
-    "reason": "no_rule_match",
-    "classifiedAt": "2026-05-06T11:06:54.921Z"
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "manual",
+    "confidence": 1,
+    "matchedBy": [],
+    "classifiedAt": "2026-05-06T13:43:25.436Z"
   }
 }

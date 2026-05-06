@@ -6,7 +6,14 @@
       "value": "A two-page black-and-white manga spread set in a nighttime high school band rehearsal studio, drawn in polished modern shonen/seinen manga style with detailed screentones, dramatic lighting, expressive speed lines, and glossy instrument rendering. The scene shows 4 visible band members in school uniforms: a surprised teenage boy with messy short hair at guitar and vocal mic, a calm beautiful teenage girl with very long flowing light hair playing electric guitar in the foreground, a petite long-haired teenage girl at a keyboard, and a drummer in the back whose face is intentionally obscured by a soft blur. The studio has large windows revealing a city skyline at night, hanging ceiling lights, amps including a visible Marshall stack, a drum kit with a band logo on the bass drum, cables, and a wall sign reading “Beat Box.” Compose it as a printed manga spread with 7 panels total across 2 pages, including gutters, page borders, and page numbers 13 and 14 at the bottom. Left page: 3 panels — top panel with the shocked boy turning toward the girls and a large Japanese speech bubble saying “え!?”; middle panel is a close-up of the long-haired guitarist girl with a calm expression and a Japanese speech bubble saying “……別にいいよ”; bottom panel is a wider full-band rehearsal shot with all 4 members in the studio. Right page: 4 panels — top panel is an explosive performance shot with the boy singing and playing while the long-haired girl plays guitar, with large sound-effect text “ジャッ”; middle panel is a dynamic close-up of the long-haired guitarist playing intensely, with flowing hair, musical note symbols, radiant speed lines, and the keyboard girl visible in the back; bottom panel is a close-up of the boy’s stunned face with soft bokeh and a vertical Japanese speech bubble saying “……あれ”. Emphasize the emotional contrast: awkward surprise turning into admiration as the girl’s guitar performance changes the mood. Use monochrome only, no color, authentic manga lettering, cinematic framing, layered depth, and highly detailed hair and instrument strings.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个两页的黑白漫画版面，设定在夜间高中乐队排练室，以精致的现代少年/青年漫画风格绘制，具有精细的网点、戏剧性的光照、富有表现力的速度线和光泽的乐器渲染。场景显示4位穿着校服的乐队成员：一个惊讶的短乱发少年在弹吉他和唱歌，一位冷静美丽的长发少女在前景弹电吉他，一位娇小的长发少女在键盘前，以及一位在后方的鼓手，其面部被柔和的模糊效果有意遮挡。工作室有大窗户可以看到夜晚的城市天际线，悬挂的天花板灯，包括可见的Marshall音箱堆叠，低音鼓上有乐队标志的架子鼓，电缆，以及墙上写着\"Beat Box\"的标志。将其构造成一个印刷的漫画版面，共7个分格分布在2页上，包括页间空白、页面边框，以及底部的页码13和14。左页：3个分格——顶部分格显示震惊的男孩转向女孩，以及一个大的日语对话框写着\"え!?\"；中间分格是长发吉他少女的特写，表情冷静，以及一个日语对话框写着\"……別にいいよ\"；底部分格是更宽的全乐队排练镜头，显示工作室中的所有4位成员。右页：4个分格——顶部分格是爆炸性的表演镜头，男孩在唱歌和演奏，同时长发女孩弹吉他，配有大的音效文字\"ジャッ\"；中间分格是长发吉他手激烈演奏的动态特写，有流动的头发、音符符号、辐射状速度线，以及背景中可见的键盘女孩；底部分格是男孩震惊脸部的特写，带有柔和的散景效果和垂直的日语对话框写着\"……あれ\"。强调情感对比：尴尬的惊讶转变为钦佩，随着女孩的吉他表演改变了氛围。仅使用单色，无色彩，真实的漫画字体，电影般的构图，分层深度，以及高度详细的头发和乐器弦线。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:52.614Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -48,7 +55,14 @@
       "value": "This generates a dramatic black-and-white manga double-page showing a high school band rehearsal and a boy becoming captivated by a girl's guitar performance, ideal for AI manga scenes or comic storytelling.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这生成了一幅戏剧性的黑白漫画双页，展示高中乐队排练和一个男孩被女孩的吉他表演所吸引的场景，适合AI漫画场景或漫画故事创作。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:41.966Z"
+      }
+    }
   },
   "sourceCategories": [
     {

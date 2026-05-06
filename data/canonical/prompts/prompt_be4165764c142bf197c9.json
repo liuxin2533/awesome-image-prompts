@@ -6,7 +6,14 @@
       "value": "A cinematic, high-fashion portrait of a confident stylish woman wearing an elegant tailored white suit with a high-neck design and sleek oval sunglasses. She is holding a thin medium cigar with soft smoke rising, and a slightly burning King of Hearts playing card with minimal flame detail. Soft wisps of smoke drift upward. The background is a bold, vibrant solid red seamless backdrop. High-key professional studio lighting with soft shadows and gentle warm highlights reflecting on her face. Ultra-realistic skin texture, sharp focus on facial features, shallow depth of field, soft bokeh, 35mm lens look. Crisp contrast, modern editorial fashion photography, clean luxury aesthetic, refined, powerful, and slightly rebellious mood.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一位自信时尚的女性，身穿优雅剪裁的高领白色西装，佩戴精致的椭圆形太阳镜，电影感、高级时尚肖像。她手持一根细长的中等雪茄，轻烟袅袅升起，以及一张略微燃烧的红心K扑克牌，火焰细节简约。轻柔的烟缕向上飘散。背景是鲜艳夺目的纯红色无缝背景。高调专业影棚灯光，柔和的阴影和温暖的柔和高光映照在她的脸上。超逼真的皮肤质感，面部特征锐利对焦，浅景深，柔和的散景效果，35mm镜头观感。鲜明的对比度，现代时尚编辑摄影，干净奢华的美学，精致、有力且略带叛逆的氛围。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:30:33.688Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "White Suit Red Backdrop Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "白色西装红色背景肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:30:38.489Z"
+      }
+    }
   },
   "description": {
     "original": null,

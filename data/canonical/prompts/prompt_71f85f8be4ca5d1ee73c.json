@@ -20,7 +20,14 @@
       "value": "2003 Digital Camera Family Snapshot",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "2003年数码相机家庭快照",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:37.014Z"
+      }
+    }
   },
   "description": {
     "original": null,

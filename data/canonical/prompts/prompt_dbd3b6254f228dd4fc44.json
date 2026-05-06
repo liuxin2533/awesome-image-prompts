@@ -20,7 +20,14 @@
       "value": "都市落日时尚大片",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Urban Sunset Fashion Editorial",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:09:46.139Z"
+      }
+    }
   },
   "description": {
     "original": null,

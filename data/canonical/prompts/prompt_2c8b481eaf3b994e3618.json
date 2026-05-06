@@ -21,7 +21,14 @@
       "value": "Dreamy Underwater Woman With Translucent Fish",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "梦幻的水下女子与半透明的鱼",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:22.240Z"
+      }
+    }
   },
   "description": {
     "original": null,

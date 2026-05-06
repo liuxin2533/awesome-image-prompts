@@ -21,7 +21,14 @@
       "value": "关系图谱信息图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Relationship Graph Infographic",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:09:53.565Z"
+      }
+    }
   },
   "description": {
     "original": null,

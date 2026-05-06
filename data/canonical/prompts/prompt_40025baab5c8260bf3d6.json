@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Tropical Citrus Soda Ad Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 热带柑橘苏打广告海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:05.708Z"
+      }
+    }
   },
   "description": {
     "original": null,

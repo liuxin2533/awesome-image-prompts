@@ -6,7 +6,14 @@
       "value": "Create a 3D Insane detailed exploded assembly drawing of {argument name=\"subject\" default=\"[subject or object]\"}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个3D超高详细分解装配图 {argument name=\"subject\" default=\"[subject or object]\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:27.952Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A prompt for generating detailed technical 3D exploded view drawings of any subject.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "用于生成任何主题的详细技术3D爆炸视图图的提示。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:28.671Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -165,10 +179,11 @@
     "status": "classified",
     "categoryId": "infographic-education",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "infographic",
-      "信息图"
+      "信息图",
+      "技术"
     ],
     "classifiedAt": "2026-05-06T11:03:21.570Z"
   }

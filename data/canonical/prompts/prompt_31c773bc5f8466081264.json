@@ -21,7 +21,14 @@
       "value": "Create the most realistic front page design of a vintage newspaper featuring ...",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建最逼真的复古报纸头版设计，展示...",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:07.416Z"
+      }
+    }
   },
   "description": {
     "original": null,

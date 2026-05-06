@@ -21,7 +21,14 @@
       "value": "Magazine Travel Guide Feature Article",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "杂志旅游指南专题文章",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:37.607Z"
+      }
+    }
   },
   "description": {
     "original": null,

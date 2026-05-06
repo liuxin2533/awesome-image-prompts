@@ -6,7 +6,14 @@
       "value": "A realistic, casual outdoor smartphone selfie of a {argument name=\"subject age\" default=\"middle-aged woman\"} from the chest up, framed slightly off-center and shot at arm’s length on a phone camera. She has voluminous shoulder-length wavy hair in a warm {argument name=\"hair color\" default=\"auburn red\"}, softly tousled by a light breeze and glowing with golden backlight from the low sun behind her. She is wearing a dark {argument name=\"top color\" default=\"deep forest green\"} V-neck knit top or cardigan, a delicate thin chain necklace, and a small hoop earring barely visible through her hair. The setting is an outdoor terrace or walkway beside a pale stone wall, with leafy trees filling most of the background and a faint building partially visible through the branches. The sun appears in the upper left corner, creating natural lens flare, warm rim lighting around the hair, gentle highlights on the shoulders, and realistic late-afternoon golden hour contrast. The composition should feel organic and unpolished rather than studio-perfect: slight handheld phone-camera perspective, natural skin texture, casual posture, authentic lighting, shallow depth from the phone sensor, and a candid everyday social-media selfie aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个真实的、休闲的户外智能手机自拍，从胸部以上拍摄，主体是{argument name=\"subject age\" default=\"middle-aged woman\"}，构图稍微偏离中心，用手机在手臂长度距离拍摄。她有丰厚的齐肩波浪发，颜色是温暖的{argument name=\"hair color\" default=\"auburn red\"}，被微风轻轻吹乱，身后低落的阳光为她头发增添了金色背光。她穿着一件深色的{argument name=\"top color\" default=\"deep forest green\"}V领针织上衣或开衫，戴有一条精致的细链项链，一个小小的耳环几乎被头发遮住。场景是一个户外露台或步道，旁边是浅色石墙，背景中大部分是茂密的树叶，隐约可见一些建筑物穿过树枝。太阳出现在左上角，产生自然的镜头光晕，头发周围形成温暖的轮廓光，肩膀上有柔和的高光，以及真实的傍晚黄金时刻对比度。构图应该感觉自然而不完美：轻微的手持手机相机视角，自然的皮肤纹理，随意的姿势，真实的光线，来自手机传感器的浅景深，以及一个真实的日常社交媒体自拍美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:56.984Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a realistic, candid outdoor golden-hour selfie with natural phone-camera lighting and an authentic social-media feel.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个真实的、自然抓拍的户外黄金时刻自拍，具有自然的手机相机光线和真实的社交媒体风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:42:02.289Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,10 +170,11 @@
     "status": "classified",
     "categoryId": "ui-social-media",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "ui",
-      "social"
+      "social",
+      "社交"
     ],
     "classifiedAt": "2026-05-06T11:03:21.566Z"
   }

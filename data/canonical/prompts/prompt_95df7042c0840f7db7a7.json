@@ -6,7 +6,14 @@
       "value": "A dramatic dark fantasy light-novel cover illustration in a square format, featuring a fierce female warrior centered in a dynamic lunging pose inside a dim, ruined, cathedral-like or industrial gothic interior with a smoky blurred background and warm floating embers. She has long silver-white hair in a high ponytail whipping violently to the right, pale skin, and a deliberately obscured or featureless face. Her body is enhanced with four black mechanical arms in total, built from intricate clockwork and segmented metal joints, extending spider-like around her. She wears a tattered black dress-like battle outfit with armored corset detailing, belts, straps, a garter on one thigh, and biomechanical leg armor. Count exactly 4 arms visible: 2 upper arms and 2 lower arms; count exactly 4 glowing energy blades, one held in each hand, translucent neon blue with crystalline edges and magical circuitry-like light patterns. Emphasize the contrast between matte black metal, torn fabric, pale skin, and electric cyan weapons. The composition should feel cinematic, high-detail, intense, and heroic, with sharp focus on the character and soft depth-of-field in the background. Add ornate Japanese cover typography in metallic gold with subtle beveling and glow: at the top, small genre text 《バトルアクション》; below it, a large main title {argument name=\"headline text\" default=\"クアッドアームの静寂\"}; beneath that, a smaller subtitle ～四本腕の女傭兵と錆びついた世界の約束～. Near the bottom, add a large centered quote in gold Japanese text {argument name=\"quote\" default=\"「僕は君の未来を高値で買いに来た」\"}; directly below it, a smaller line ——時計仕掛けの運命が、今動き出す. At the very bottom center, place the author name {argument name=\"author name\" default=\"ざっ\"} in large gold text with elegant ornamental divider lines on both sides. Use a luxurious fantasy-book-cover layout, moody sepia-and-charcoal palette with bright cyan highlights, ultra-detailed anime-inspired realism, and a polished GPT-image-2 editorial illustration style.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "戏剧性的黑暗奇幻轻小说封面插画，采用方形格式，描绘了一位凶猛的女战士，她在昏暗、废墟般的大教堂式或工业哥特式内部环境中，以动态的冲刺姿势居中，背景是烟雾模糊的温暖漂浮灰烬。她有长长的银白色高马尾，猛烈地向右甩动，皮肤苍白，脸被故意遮挡或无特征。她的身体增强了四条黑色机械臂，总共由复杂的钟表装置和分段金属关节构成，像蜘蛛一样向四周延伸。她穿着破烂的黑色连衣裙式战斗服装，带有盔甲紧身衣细节、腰带、束带、大腿上的吊袜带和生物机械腿甲。精确计算可见的4条手臂：2条上臂和2条下臂；精确计算4个发光的能量刃，每只手握一个，半透明霓虹蓝色，带有水晶边缘和魔法电路般的灯光图案。强调哑光黑色金属、撕裂的织物、苍白的皮肤和电青色武器之间的对比。构图应具有电影感、高细节、强烈和英雄气概，对人物有锐利焦点，背景有柔和的景深。添加华丽的日本封面字体，金属金色，带有细微的斜面和发光效果：顶部是小类型文本《バトルアクション》；下方是大标题{argument name=\"headline text\" default=\"クアッドアームの静寂\"}；再下方是小副标题～四本腕の女傭兵と錆びついた世界の約束～。靠近底部，添加大号居中金色日文引言{argument name=\"quote\" default=\"「僕は君の未来を高値で買いに来た」\"}；正下方是一行较小的文本——時計仕掛けの運命が、今動き出す。在最底部中心，放置作者姓名{argument name=\"author name\" default=\"ざっ\"}，大号金色文本，两侧有优雅的装饰分隔线。使用豪华奇幻书籍封面布局，忧郁的棕褐色和炭色调，搭配明亮的青色高光，超详细的动漫风格现实主义，以及抛光的GPT-image-2编辑插画风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:45:42.511Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a dramatic Japanese fantasy action book cover featuring a silver-haired four-armed mechanical heroine with glowing blue blades, ideal for web novel or light novel cover art.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个戏剧性的日本奇幻动作小说封面，主角是一位银发四臂的机械女英雄，手持发光的蓝色刀刃，非常适合网络小说或轻小说封面。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:45:47.103Z"
+      }
+    }
   },
   "sourceCategories": [
     {

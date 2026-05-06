@@ -6,7 +6,14 @@
       "value": "Redmi 17 pro new launch 🔥 Made with Gpt image 2 on Chatgpt Prompt : Ultra-realistic premium smartphone advertisement, featuring a confident young woman in her early 20s with fair skin and sharp facial features, wearing sleek black cat-eye sunglasses. She has long, thick braided hair styled into an extended oversized braid, colored in soft lavender/purple tones matching the product theme. She is captured in a dynamic low-angle cinematic pose, slightly twisting her torso while holding a Xiaomi 17 Pro smartphone toward the camera in a bold hero shot with strong forced perspective, the phone dominating the foreground. The smartphone features a matte metallic lavender/purple finish, minimalistic body with rounded corners, and a large rectangular camera module. The module includes two large camera lenses on the left, a circular secondary display on the right showing a minimal purple gradient clock UI, Leica branding near the camera, a clean flash strip, and subtle Xiaomi branding at the bottom. Outfit: fitted long-sleeve crop top in soft lavender/purple, paired with high-waisted muted grey/olive cargo pants, modern tech-fashion aesthetic. Background: clean minimal gradient transitioning from light grey to soft lavender/purple tones, with subtle blurred large-scale typography for depth. Lighting: soft studio lighting with neutral-to-cool tones, smooth skin illumination, controlled highlights on the phone edges, glossy reflections on camera lenses and display, minimal shadows, premium product photography style. Composition: low-angle shot for a powerful look, subject positioned slightly left, phone dominating the right foreground, clean negative space for branding. Futuristic UI overlays: thin minimal white/purple lines and nodes pointing to features with floating labels: “Leica Camera System” “Secondary Display Integration” “Ultra-Slim Premium Design” Glassmorphism panel (bottom-left, soft purple tint) listing: “Flagship Performance” “Advanced AI Imaging” “Fast Charging” “Next-Gen Xiaomi AI” Top corner text: “Xiaomi 17 Pro” in clean modern sans-serif typography. Style: high-end flagship smartphone advertisement, futuristic, minimal, elegant. Quality: 8K, ultra-detailed, sharp focus, HDR, cinematic commercial photography, realistic textures.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Redmi 17 pro 新品发布 🔥 使用 Gpt image 2 在 Chatgpt 上生成 提示词：超逼真的高端智能手机广告，展示一位自信的20岁出头年轻女性，肤色白皙，面部轮廓分明，戴着时尚的黑色猫眼太阳镜。她有浓密的长辫子，编成超大的延伸辫子，颜色为柔和的薰衣草紫色，与产品主题相匹配。她以动态的低角度电影姿势被捕捉，身体略微扭转，同时将小米17 Pro智能手机朝向相机展示，采用大胆的英雄镜头和强烈的强制透视效果，手机占据前景。智能手机采用哑光金属薰衣草紫色外观，简约机身配圆角，大型矩形摄像头模块。模块左侧有两个大摄像头，右侧有一个圆形副显示屏，显示简约的紫色渐变时钟UI，摄像头附近有徕卡品牌标识，干净的闪光灯条，底部有细微的小米品牌标识。服装：合身的薰衣草紫色长袖露脐上衣，搭配高腰的灰绿色橄榄色工装裤，现代科技时尚美学。背景：简约渐变，从浅灰色过渡到柔和的薰衣草紫色，带有模糊的大规模文字以增加深度。灯光：柔和的影棚灯光，中性至冷色调，平滑的皮肤照明，手机边缘的受控高光，摄像头镜头和显示屏的光泽反射，最小阴影，高端产品摄影风格。构图：低角度拍摄以展现强大效果，主体略微偏左，手机占据右侧前景，干净的留白区域用于品牌标识。未来感UI叠加：细小的简约白色/紫色线条和节点指向功能，带有浮动标签：\"徕卡相机系统\"、\"副显示屏集成\"、\"超薄高端设计\"。玻璃态面板（左下角，柔和紫色色调）列出：\"旗舰性能\"、\"先进AI成像\"、\"快速充电\"、\"下一代小米AI\"。顶部角落文字：\"小米17 Pro\"，采用简约现代的无衬线字体。风格：高端旗舰智能手机广告，未来感，简约，优雅。质量：8K，超精细，锐利对焦，HDR，电影级商业摄影，逼真纹理。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:12:19.290Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Lavender Smartphone Hero Ad",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "薰衣草色智能手机旗舰广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:12:22.821Z"
+      }
+    }
   },
   "description": {
     "original": null,

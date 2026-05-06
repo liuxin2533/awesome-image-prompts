@@ -21,7 +21,14 @@
       "value": "Ultra-realistic product photography of a rich strawberry soft-serve ice cream...",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超逼真的草莓软冰淇淋产品摄影...",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:30.295Z"
+      }
+    }
   },
   "description": {
     "original": null,

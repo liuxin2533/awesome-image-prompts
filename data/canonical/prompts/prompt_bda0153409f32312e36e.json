@@ -6,7 +6,14 @@
       "value": "A picture says a thousand words. GPT Image 2 creates them.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一幅画胜过千言万语。GPT Image 2 创造它们。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:30:07.463Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Codex Chalkboard Article Visualization",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Codex 黑板文章可视化",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:30:16.592Z"
+      }
+    }
   },
   "description": {
     "original": {
@@ -22,7 +36,14 @@
       "value": "The tweet text is the only visible prompt-like instruction; the result is a chalkboard-style long-form document visualization.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "推文文本是唯一可见的类似提示的指令；结果是黑板风格的长篇文档可视化。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:30:19.508Z"
+      }
+    }
   },
   "sourceCategories": [
     {

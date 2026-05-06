@@ -6,7 +6,14 @@
       "value": "Create a high-fashion editorial beverage campaign set on a minimalist rooftop at golden hour. Ultra-clean composition with strong negative space, warm sun flare, and soft shadows.\n\nA stylish male model with sharp features and effortless confidence is posed like a fashion editorial—slightly turned away, sipping from the can. He wears elevated linen tailoring in monochrome cream tones, partially unbuttoned, with subtle jewelry.\n\nForeground: a sculptural stone pedestal holding a large hero can of AURELIS – Blood Orange Basil, hyper-detailed with condensation and botanical artwork.\n\nTypography is bold, oversized, and editorial: GOOD DAYS IN EVERY CAN\n\nUse refined serif typography with dramatic scale and spacing. Keep layout asymmetrical and magazine-like.\n\nAdd subtle microcopy: “Botanical. Bright. Made to sparkle.”\n\nMinimal icons (thin line style): LOW SUGAR / REAL FRUIT / LIGHTLY SPARKLING / 12 OZ\n\nBottom strip: 3 cans styled like a luxury product lineup with fruit + herbs arranged like still life photography:\n\nBlood Orange Basil\n\nPeach Ginger\n\nLime Mint\n\nCTA: SHOP FLAVORS →\n\nStyle: Vogue campaign, luxury branding, cinematic lighting, ultra-realistic, muted tones, high contrast, premium finish.\nAspect ratio: vertical (4:5 or 9:16)\n\n🌿 2. Minimal Premium (Apple-style)\n\nPrompt:\n\nCreate a minimalist premium beverage ad with a sunlit rooftop setting and extremely clean composition.\n\nBackground: soft gradient sky with warm golden-hour tones, minimal distractions, large negative space.\n\nA relaxed male model sits casually, taking a sip from the can. Wardrobe: simple, modern, neutral linen outfit.\n\nCenterpiece: a large floating or pedestal-mounted can of AURELIS – Blood Orange Basil, perfectly lit with soft reflections and visible condensation.\n\nTypography: SUN IN EVERY SIP\n\nUse modern minimal typography, centered, with generous spacing.\n\nSupporting line: “Real botanicals. Effortless refreshment.”\n\nIcons aligned horizontally: LOW SUGAR • REAL FRUIT • LIGHTLY SPARKLING • 12 OZ\n\nBottom section: 3 cans evenly spaced, perfectly aligned with subtle shadows:\n\nBlood Orange Basil\n\nPeach Ginger\n\nLime Mint\n\nCTA button (pill-shaped): SHOP FLAVORS\n\nStyle: Apple-level minimalism, ultra-clean layout, soft gradients, modern luxury, highly polished product rendering.\nAspect ratio: vertical (4:5 or 9:16)\n\n🍊 3. Bold Gen Z Premium Version\n\nPrompt:\n\nCreate a bold, scroll-stopping vertical beverage ad set on a rooftop during golden hour with vibrant citrus energy.\n\nLighting: warm, saturated sunlight, glowing highlights, high contrast.\n\nA confident male model drinks directly from the can mid-action, candid and dynamic.\n\nHero can: oversized, slightly exaggerated scale on a textured stone pedestal, covered in condensation.\n\nTypography: DRINK THE SUN\n\nUse large, expressive typography with strong contrast (deep green + burnt orange), slightly overlapping layout.\n\nTagline: “Fresh. Bright. Addictive.”\n\nFeature icons arranged dynamically: LOW SUGAR\nREAL FRUIT\nLIGHTLY SPARKLING\n12 OZ\n\nBottom: 3 cans with energetic ingredient styling:\n\nBlood Orange Basil (splashes, citrus slices)\n\nPeach Ginger (fresh peach + ginger root)\n\nLime Mint (lime wedges + mint leaves)\n\nCTA: SHOP FLAVORS →\n\nStyle: premium but bold, modern campaign aesthetic, slightly experimental layout, high contrast, social-first, dynamic composition.\nAspect ratio: vertical (9:16 preferred)",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高冲击力的恶搞电商信息图，针对\"{argument name=\"product\" default=\"Four Loko\"}\"麦芽饮料。前景：一只粗糙、饱经风霜的手特写，手持一罐高亮彩色的{argument name=\"product\" default=\"Four Loko\"}饮料，朝向镜头。罐子略微冰冷，有可见的冷凝水滴，以及喧闹、混乱的风味设计。手和罐子有轻微的微镜头模糊效果以增加深度，罐子仍然清晰可读，作为主角产品。中心主体：在中景，一个滑稽、邋遢的{argument name=\"subject\" default=\"无家可归者模样的男人\"}随意地坐在城市小巷里的牛奶箱上。他有蓬乱的胡须，凌乱的头发，层层叠叠的磨损衣物，以及一个巨大的满不在乎的笑容。他应该看起来混乱但奇怪地有魅力，像是坏决定的意外之王。他的姿势像一个自信的生活方式广告模特，自豪地展示着罐子。背景与灯光：一个荒谬地抛光的广告风格背景与肮脏的城市小巷设置混合。柔焦的城市纹理，垃圾桶形状，涂鸦暗示，以及远处散落的杂物。添加戏剧性的工作室灯光，柔和的光晕，彩虹棱镜光晕，以及微妙的光泄漏，使整个主题看起来过于高级。几罐模糊的{argument name=\"product\" default=\"Four Loko\"}可以在背景中艺术性地漂浮，以增加荒谬感。字体与布局（粗体无衬线字体，白色和霓虹强调风格）：顶部中央（背景）：巨大的粗体文字，显示\"{argument name=\"brand name\" default=\"FOUR LOKO}\"，位于主体后方。右上角：粗体文字\"坏主意中的香槟\"。中左：高级混乱和零自控力。中右：大号粗体\"23\"，配文\"糟糕决定盎司数\"。右下角：大号粗体\"1\"，配文\"一罐毁掉明天\"。底部附近可选的小注释文本：\"现在有更多后悔。\"风格：超详细，8k恶搞商业摄影，对罐子有锐利焦点，浅景深，鲜艳的垃圾调色板，干净的广告构图，夸张的高级产品广告美学，抛光品牌和被毁主体之间的有趣视觉对比。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:27:44.750Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "High-Fashion Beverage Campaign Board",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端时尚饮料广告活动展板",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:28:31.527Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -31,19 +45,19 @@
   ],
   "categories": [
     {
-      "id": "ui-social-media",
-      "value": "UI & Social Media",
+      "id": "product-marketing",
+      "value": "Product & Marketing",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "ui-social-media-zh-cn",
-      "value": "UI 与社交媒体",
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "ui-social-media"
+      "translationOf": "product-marketing"
     }
   ],
   "sources": [
@@ -80,14 +94,14 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "product-marketing",
     "source": "rule",
     "confidence": 0.9,
     "matchedBy": [
-      "ui",
-      "social",
-      "mockup"
+      "product",
+      "产品",
+      "电商"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.606Z"
+    "classifiedAt": "2026-05-06T11:41:23.643Z"
   }
 }

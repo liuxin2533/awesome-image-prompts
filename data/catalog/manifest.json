@@ -1,14 +1,14 @@
 {
   "schemaVersion": "2026-05-04",
-  "generatedAt": "2026-05-06T11:10:22.517Z",
+  "generatedAt": "2026-05-06T15:44:53.727Z",
   "defaultLanguage": "en",
   "languages": [
     "en",
     "zh-CN"
   ],
-  "totalCount": 1009,
+  "totalCount": 1013,
   "sourceCount": {
-    "EvoLinkAI/awesome-gpt-image-2-prompts": 362,
+    "EvoLinkAI/awesome-gpt-image-2-prompts": 366,
     "YouMind-OpenLab/awesome-gpt-image-2": 222,
     "freestylefly/awesome-gpt-image-2": 392,
     "ZeroLu/awesome-gpt-image": 79

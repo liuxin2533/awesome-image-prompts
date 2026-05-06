@@ -6,7 +6,14 @@
       "value": "竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Vertical Chinese-style dark poster, pure black background, huge Chinese title characters in the center occupying most of the frame, font with rough and aged off-white stone carving/old paper texture, with obvious grains, wear, cracks, and noise; rich composition layers, strong black, white, gold, and red contrast, Eastern aesthetics, mysterious, oppressive, desire and judgment coexisting, movie poster quality, high-end graphic design, ultimate detail, paper texture, seal signature, small slogan text, 4K",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:58:52.004Z"
+      }
+    }
   },
   "title": {
     "original": {

@@ -6,7 +6,14 @@
       "value": "Create a hairstyle analysis graphic using this picture. Show side-by-side hairstyle comparisons to highlight which hairstyles suit the subject best. Make it visual-first, with short labels only and details about the haircut.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用这张图片创建一个发型分析图表。并排展示发型对比，突出显示哪些发型最适合该人物。以视觉效果为主，只使用简短标签，并包含关于发型的详细信息。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:01.336Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Hairstyle Comparison Analysis",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "发型比较分析",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:03.028Z"
+      }
+    }
   },
   "description": {
     "original": {
@@ -22,7 +36,14 @@
       "value": "The original post says the prompt is in a reply; this prompt is reconstructed from the visible output and tweet context.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "原帖提示说该提示在回复中；此提示是根据可见输出和推文上下文重建的。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:05.819Z"
+      }
+    }
   },
   "sourceCategories": [
     {

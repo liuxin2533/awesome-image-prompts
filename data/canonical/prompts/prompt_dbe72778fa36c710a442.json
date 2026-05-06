@@ -6,7 +6,14 @@
       "value": "{argument name=\"voice\" default=\"chatgpt voice\"} if it were a character",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{argument name=\"voice\" default=\"chatgpt voice\"} if it were a character",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:09:49.601Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "人物角色设定图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Character design illustration",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:09:51.481Z"
+      }
+    }
   },
   "description": {
     "original": null,

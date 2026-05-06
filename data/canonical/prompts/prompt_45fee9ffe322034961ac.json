@@ -6,7 +6,14 @@
       "value": "A dynamic sports poster of a professional football player mid-strike, captured in a dramatic low-angle perspective, stadium lights blazing through light rain, water droplets frozen in motion, intense facial expression, muscular tension visible, cinematic lighting, high contrast shadows, ultra-detailed textures, motion blur on ball, sharp focus on athlete, bold typography overlay: \"NO EXCUSES. JUST RESULTS.\", modern sports branding style, Nike-style campaign aesthetic, 35mm lens, ultra-realistic",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一位职业足球运动员在踢球瞬间的动感运动海报，以戏剧性的低角度视角拍摄，体育场灯光穿透细雨，水滴被定格在运动中，紧张的面部表情，可见肌肉紧张，电影感照明，高对比度阴影，超精细纹理，球体运动模糊，运动员清晰对焦，醒目的文字覆盖：\"没有借口，只有结果。\"，现代体育品牌风格，耐克风格的广告美学，35毫米镜头，超写实",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:01.950Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Dynamic Sports Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动感运动海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:53.917Z"
+      }
+    }
   },
   "description": {
     "original": null,

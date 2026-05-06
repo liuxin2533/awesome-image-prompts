@@ -21,7 +21,14 @@
       "value": "Silhouette Universe Narrative Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "剪影宇宙叙事海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:23:32.995Z"
+      }
+    }
   },
   "description": {
     "original": null,

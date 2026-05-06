@@ -21,7 +21,14 @@
       "value": "Neon Nike Lumina Ad Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "霓虹Nike流明广告海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:23.692Z"
+      }
+    }
   },
   "description": {
     "original": null,

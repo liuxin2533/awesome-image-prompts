@@ -3,21 +3,34 @@ const fs = require('fs');
 const path = require('path');
 const { defaultProjectRoot } = require('./config');
 
-const SUPPORTED_TRANSLATION_LANGUAGES = new Set(['en', 'zh-CN']);
+const TRANSLATION_LANGUAGES = ['de', 'en', 'es', 'fr', 'hi', 'it', 'ja', 'ko', 'pt', 'ru', 'th', 'tr', 'vi', 'zh-CN', 'zh-TW'];
+const SUPPORTED_TRANSLATION_LANGUAGES = new Set(TRANSLATION_LANGUAGES);
 const WORKBENCH_REPORT_LANGUAGES = ['en', 'zh-CN'];
 const WORKBENCH_TRANSLATION_CONCURRENCY = 2;
 
-function reportLanguageArgs() {
-  return ['--target-languages', WORKBENCH_REPORT_LANGUAGES.join(',')];
+function reportLanguageArgs(extraLanguages = []) {
+  const languages = [...WORKBENCH_REPORT_LANGUAGES];
+  for (const language of extraLanguages.filter(Boolean)) {
+    if (!languages.includes(language)) languages.push(language);
+  }
+  return ['--target-languages', languages.join(',')];
 }
 
-function normalizeLimit(value) {
+function normalizePositiveInteger(value, label) {
   if (value === undefined || value === null || value === '') return null;
   const number = Number(value);
   if (!Number.isInteger(number) || number <= 0) {
-    throw new Error('Action limit must be a positive integer.');
+    throw new Error(`${label} must be a positive integer.`);
   }
   return String(number);
+}
+
+function normalizeLimit(value) {
+  return normalizePositiveInteger(value, 'Action limit');
+}
+
+function normalizeBatchSize(value) {
+  return normalizePositiveInteger(value, 'Translation batch size');
 }
 
 function pathValue(env = process.env) {
@@ -69,10 +82,12 @@ function buildActionCommand(type, body = {}, options = {}) {
       '--lang',
       language,
       '--refresh-report',
-      ...reportLanguageArgs(),
+      ...reportLanguageArgs([language]),
       '--concurrency',
       String(WORKBENCH_TRANSLATION_CONCURRENCY)
     ];
+    const batchSize = normalizeBatchSize(body.batchSize);
+    if (batchSize) args.push('--batch-size', batchSize);
     const limit = normalizeLimit(body.limit);
     if (limit) args.push('--limit', limit);
     return createPackageScriptCommand(args, options);
@@ -91,6 +106,14 @@ function buildActionCommand(type, body = {}, options = {}) {
 
   if (type === 'classify') {
     return createPackageScriptCommand(['classify', '--', '--refresh-report', ...reportLanguageArgs()], options);
+  }
+
+  if (type === 'catalog-export') {
+    return createPackageScriptCommand(['catalog:export', '--', '--languages', WORKBENCH_REPORT_LANGUAGES.join(',')], options);
+  }
+
+  if (type === 'readme-generate') {
+    return createPackageScriptCommand(['readme:generate', '--', '--languages', WORKBENCH_REPORT_LANGUAGES.join(',')], options);
   }
 
   if (type === 'workflow') {
@@ -113,7 +136,8 @@ function buildActionCommand(type, body = {}, options = {}) {
 function inferTranslationLanguage(issue) {
   const commandMatch = String(issue?.resolutionCommand || '').match(/--lang\s+([^\s]+)/);
   if (commandMatch) return commandMatch[1];
-  const fieldMatch = String(issue?.fieldPath || '').match(/(?:^|\.)(zh-CN|en)(?:$|\.)/);
+  const pattern = TRANSLATION_LANGUAGES.map(language => language.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+  const fieldMatch = String(issue?.fieldPath || '').match(new RegExp(`(?:^|\\.)(?:translations\\.)?(${pattern})(?:$|\\.)`));
   return fieldMatch ? fieldMatch[1] : null;
 }
 
@@ -138,7 +162,7 @@ function buildIssueActionCommand(issue = {}, options = {}) {
       '--lang',
       language,
       '--refresh-report',
-      ...reportLanguageArgs(),
+      ...reportLanguageArgs([language]),
       '--prompt-id',
       issue.promptId,
       '--field-path',
@@ -208,6 +232,15 @@ function logReportRefresh(onLog, summary) {
 }
 
 function formatTranslationProgress(event) {
+  if (event.type === 'batch-start') {
+    return `[批次 ${event.batchIndex}/${event.batchTotal}] 开始 ${event.batchSize} 项（任务 ${event.taskStartIndex}-${event.taskEndIndex}/${event.total}）`;
+  }
+  if (event.type === 'batch-success') {
+    return `[批次 ${event.batchIndex}/${event.batchTotal}] 完成 ${event.batchSize} 项，累计 ${event.translatedCount}/${event.total}`;
+  }
+  if (event.type === 'batch-failure') {
+    return `[批次 ${event.batchIndex}/${event.batchTotal}] 失败 ${event.batchSize} 项: ${event.error}`;
+  }
   const prefix = `[${event.index}/${event.total}]`;
   const field = `${event.fieldPath} (${event.promptId})`;
   if (event.type === 'start') return `${prefix} 开始 ${field}`;
@@ -224,9 +257,14 @@ async function runPackageScriptInProcess(commandSpec, onLog) {
     const { parseArgs, translateMissing } = require('../ingestion/translation');
     const { refreshCurrentReport } = require('../ingestion/report-current');
     const parsed = projectOptions(parseArgs(args), commandSpec);
-    parsed.onProgress = event => onLog(formatTranslationProgress(event));
+    const logBatchProgressOnly = Number(parsed.batchSize) > 1;
+    parsed.onProgress = event => {
+      if (logBatchProgressOnly && !String(event.type || '').startsWith('batch-')) return;
+      onLog(formatTranslationProgress(event));
+    };
     const result = await translateMissing(parsed);
-    onLog(`Translation tasks: ${result.taskCount}; translated: ${result.translatedCount}; failed: ${result.failedCount}.`);
+    const batchSummary = result.batchCount ? `; batches: ${result.batchCount}` : '';
+    onLog(`Translation tasks: ${result.taskCount}${batchSummary}; translated: ${result.translatedCount}; failed: ${result.failedCount}.`);
     if (parsed.refreshReport) {
       const refreshed = refreshCurrentReport({
         projectRoot: parsed.projectRoot,
@@ -287,6 +325,23 @@ async function runPackageScriptInProcess(commandSpec, onLog) {
     return { exitCode: 0 };
   }
 
+  if (scriptName === 'catalog:export') {
+    const { parseArgs, exportCatalogData } = require('../catalog/export');
+    const parsed = projectOptions(parseArgs(args), commandSpec);
+    const result = await exportCatalogData(parsed);
+    onLog(`Catalog export: ${result.manifest.totalCount} prompt(s), ${result.manifest.languages.join(', ')}.`);
+    onLog(`Catalog files: ${Object.values(result.manifest.files.prompts).join(', ')}, ${result.manifest.files.taxonomy}, manifest.json.`);
+    return { exitCode: 0 };
+  }
+
+  if (scriptName === 'readme:generate') {
+    const { parseArgs, generateReadmes } = require('../readme/generate');
+    const parsed = projectOptions(parseArgs(args), commandSpec);
+    const result = await generateReadmes(parsed);
+    onLog(`README: ${result.files.join(', ')}.`);
+    return { exitCode: 0 };
+  }
+
   if (scriptName === 'workflow') {
     const { parseArgs, runWorkflow } = require('../workflow');
     const parsed = projectOptions(parseArgs(args), commandSpec);
@@ -329,6 +384,7 @@ function createActionRunner(options = {}) {
   const maxLogLines = options.maxLogLines || 200;
   const records = new Map();
   let runningId = null;
+  let latestId = null;
   let nextId = 1;
 
   function start(type, body = {}) {
@@ -354,6 +410,7 @@ function createActionRunner(options = {}) {
 
     records.set(id, record);
     runningId = id;
+    latestId = id;
     record.promise = (async () => {
       try {
         const result = await runCommand(commandSpec, line => appendBoundedLog(record, line, maxLogLines));
@@ -387,9 +444,14 @@ function createActionRunner(options = {}) {
     return runningId ? get(runningId) : null;
   }
 
+  function latest() {
+    return latestId ? get(latestId) : null;
+  }
+
   return {
     current,
     get,
+    latest,
     start,
     wait
   };

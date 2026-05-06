@@ -6,7 +6,14 @@
       "value": "A dynamic 2×2 grid collage of modern outdoor sportswear advertising posters, each panel representing a different adventure lifestyle brand. High-energy, editorial-style composition with bold typography and textured graphic design.\n\nTop-left panel:\nAthletic male model in a bright blue insulated winter jacket, black snow pants, gloves, and sunglasses, stepping forward in a snowy environment. Snow particles flying, dramatic motion. Background features rough blue paint brush strokes. Bold distressed typography reads: “NEVER STOP EXPLORING.” Additional small text: “Built for extremes.” High contrast, rugged winter exploration theme.\n\nTop-right panel:\nFit male hiker climbing rocky terrain, wearing an olive green shirt, black trekking pants, and a large black backpack with orange straps. Dust and debris kicking up from the ground. Background includes orange paint strokes and sketched mountain graphics. Bold text: “BUILT FOR HERE – INDIA TESTED.” Handwritten Hindi accents and arrows. Warm earthy tones.\n\nBottom-left panel:\nCalm outdoor scene with a male model sitting on a rock, wearing a green jacket, beanie, sunglasses, and hiking shoes. Minimal scenic mountain illustration in the background with soft green tones. Typography reads: “ESCAPE THE NOISE – JUST GO OUTSIDE.” Clean, relaxed, nature-focused aesthetic with subtle graphic elements.\n\nBottom-right panel:\nEnergetic female runner in motion wearing a purple athletic t-shirt, black shorts, and running shoes. Bright, playful background with purple and yellow paint splashes, doodles, arrows, and sun illustration. Bold typography: “READY FOR EVERYONE – START YOUR JOURNEY.” Youthful, vibrant fitness energy.\n\nOverall style:\n\nHigh-resolution, photorealistic sportswear campaign\n\nBold brushstroke textures and grunge overlays\n\nMixed typography: distressed, handwritten, and modern sans-serif\n\nStrong color blocking per panel (blue, orange, green, purple)\n\nDynamic poses conveying motion, strength, and adventure\n\nClean grid layout with balanced spacing\n\nCommercial advertising / brand campaign aesthetic (Nike, Decathlon style)\n\nLighting: Professional, cinematic lighting with sharp detail and contrast\nMood: Energetic, adventurous, motivational\nAspect ratio: 1:1 (square collage)",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个动态的2×2网格拼贴，展示现代户外运动服装广告海报，每个面板代表不同的冒险生活方式品牌。高能量、编辑风格的构图，配以粗体字体和纹理图形设计。\n\n左上角面板：\n运动型男模特穿着亮蓝色保暖冬季夹克、黑色滑雪裤、手套和太阳镜，在雪地环境中向前迈步。雪花飞舞，戏剧性动作。背景有粗糙的蓝色画笔笔触。粗体做旧字体显示：\"NEVER STOP EXPLORING。\"附加小文本：\"Built for extremes。\"高对比度，粗犷的冬季探索主题。\n\n右上角面板：\n健壮的男性登山者攀爬岩石地形，穿着橄榄绿衬衫、黑色徒步裤，以及带有橙色肩带的黑色大背包。尘土和碎屑从地面扬起。背景包括橙色笔触和素描山脉图形。粗体文字：\"BUILT FOR HERE – INDIA TESTED。\"手写印地语口音和箭头。温暖的土色调。\n\n左下角面板：\n平静的户外场景，一名男性模特坐在岩石上，穿着绿色夹克、针织帽、太阳镜和徒步鞋。背景有简约的山景插图，色调柔和的绿色。字体显示：\"ESCAPE THE NOISE – JUST GO OUTSIDE。\"干净、放松、以自然为中心的美学，带有微妙的图形元素。\n\n右下角面板：\n充满活力的女性跑步者穿着紫色运动T恤、黑色短裤和跑鞋。明亮、活泼的背景，有紫色和黄色油漆飞溅、涂鸦、箭头和太阳插图。粗体字体：\"READY FOR EVERYONE – START YOUR JOURNEY。\"年轻、充满活力的健身能量。\n\n整体风格：\n\n高分辨率、照片写实的运动服装活动\n大胆的笔触纹理和做旧叠加\n混合字体：做旧、手写和现代无衬线字体\n每个面板强烈的色彩分区（蓝色、橙色、绿色、紫色）\n传达运动、力量和冒险的动态姿势\n干净的网格布局，间距均衡\n商业广告/品牌活动美学（耐克、迪卡侬风格）\n照明：专业、电影级照明，细节清晰，对比度高\n氛围：充满活力、冒险、激励人心\n宽高比：1:1（方形拼贴）",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:45:03.301Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Outdoor Sportswear Grid Campaign",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "户外运动服网格活动",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:45:05.456Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -73,10 +87,11 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "poster",
-      "illustration"
+      "illustration",
+      "海报"
     ],
     "classifiedAt": "2026-05-06T11:03:21.550Z"
   }

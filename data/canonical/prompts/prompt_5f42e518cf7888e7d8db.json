@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Industrial Design Presentation Sheet",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 工业设计展示页",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:14.789Z"
+      }
+    }
   },
   "description": {
     "original": null,

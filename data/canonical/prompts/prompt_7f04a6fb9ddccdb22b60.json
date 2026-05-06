@@ -6,7 +6,14 @@
       "value": "Create a personal color analysis using this picture. Use polo clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with explanations and tips.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用这张图片进行个人色彩分析。使用Polo服装颜色对比来突出显示哪些颜色最适合该主体。以视觉效果为主，附带解释和建议。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:46.971Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Polo Shirt Color Comparison Analysis",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "POLO衫颜色对比分析",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:49.369Z"
+      }
+    }
   },
   "description": {
     "original": {
@@ -22,7 +36,14 @@
       "value": "The original post says the prompt is in a reply; this prompt is reconstructed from the visible output and tweet context.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "原帖提示说该提示在回复中；此提示是根据可见输出和推文上下文重建的。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:53.335Z"
+      }
+    }
   },
   "sourceCategories": [
     {

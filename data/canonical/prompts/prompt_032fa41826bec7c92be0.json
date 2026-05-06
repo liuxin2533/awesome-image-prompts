@@ -6,7 +6,14 @@
       "value": "A dramatic Brazilian political campaign poster in a square social-media format, hyper-stylized and cinematic, with a dark blue and black color grade, intense contrast, gritty textures, and heroic propaganda-poster composition. On the right half, a middle-aged man wearing a bright royal-blue polo shirt faces the camera from the chest up, extending one hand toward the viewer and prominently holding a blue ballpoint pen upright as the central symbolic object. His pose is confident, assertive, and campaign-like, with the pen close to the lens for forced perspective. Behind him, two large waving flags fill the upper background: the Puerto Rico flag on the upper left side behind the subject and the Brazil flag on the upper right side. The lower background shows a dark crowd silhouette and a distant city skyline at sunset with glowing orange light on the horizon, adding a rally atmosphere. On the left side, create a vertical stack of 4 bold campaign statements, each preceded by a large blue X marker. The 4 text blocks must read exactly: \"ELE NÃO TEM A MIDIA\", \"ELE NÃO TEM PROJETOS\", \"ELE TAMBÉM NÃO TEM O POVO\", and \"O RESTO ELE VAI DESCOBRIR NA HORA\". Use condensed uppercase typography, mixing white and electric blue emphasis words, with each statement separated by thin horizontal blue divider lines. At the bottom, place an oversized distressed headline in uppercase reading \"CANETA AZUL\", with \"CANETA\" in weathered white and \"AZUL\" in vivid blue, spanning almost the full width. Below it, add a secondary subtitle in uppercase blue italic condensed text reading \"PARA DEPUTADO\", flanked by thin blue horizontal lines. The overall design should feel like a viral meme campaign ad, bold, satirical, aggressive, and highly shareable, with dramatic rim lighting, sharpened details, realistic skin and fabric texture, and polished poster-quality compositing.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张戏剧性的巴西政治竞选海报，采用方形社交媒体格式，高度风格化和电影感，采用深蓝色和黑色色调，强烈对比，粗糙纹理，以及英雄式宣传海报构图。在右半部分，一位穿着亮蓝色polo衫的中年男子从胸部以上面对镜头，向观众伸出一手，并明显地垂直握着一支蓝色圆珠笔作为中心象征物。他的姿势自信、坚定且具有竞选风格，笔靠近镜头以营造强制透视效果。在他身后，两面大幅挥舞的旗帜填满上半部分背景：波多黎各国旗位于主体后方的左上角，巴西国旗位于右上角。下半部分背景显示黑暗的人群剪影和远处日落时的城市天际线，地平线上有发光的橙色光线，增添了集会氛围。在左侧，创建4个粗体竞选声明的垂直堆叠，每个前面都有一个大型蓝色X标记。这4个文本块必须准确显示为：\"ELE NÃO TEM A MIDIA\"、\"ELE NÃO TEM PROJETOS\"、\"ELE TAMBÉM NÃO TEM O POVO\"和\"O RESTO ELE VAI DESCOBRIR NA HORA\"。使用紧凑的大写字母排版，混合白色和电蓝色强调词，每个声明之间用细水平蓝色分隔线隔开。在底部，放置一个超大 distressed 标题，大写字母显示为\"CANETA AZUL\"，其中\"CANETA\"使用陈旧白色，\"AZUL\"使用鲜艳蓝色，跨越几乎全宽。在其下方，添加副标题，使用大写蓝色斜体紧凑文本显示为\"PARA DEPUTADO\"，两侧有细水平蓝色线。整体设计应感觉像病毒式模因竞选广告，大胆、讽刺、激进且高度可分享，具有戏剧性边缘照明，锐化的细节，逼真的皮肤和织物纹理，以及精美的海报级合成效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:34:59.623Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a dramatic meme-style political campaign poster for social media featuring a man holding a blue pen, bold Portuguese slogans, and Brazilian patriotic visual cues.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个引人注目的模因风格政治竞选海报，用于社交媒体，展示一名手持蓝色钢笔的男子，醒目的葡萄牙语口号，以及巴西爱国视觉元素。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:35:03.769Z"
+      }
+    }
   },
   "sourceCategories": [
     {

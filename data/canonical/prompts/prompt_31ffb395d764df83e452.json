@@ -20,7 +20,14 @@
       "value": "杜蕾斯茶颜悦色联名海报设计",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Durex Cha Yan Yue Se Collaboration Poster Design",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:55:46.405Z"
+      }
+    }
   },
   "description": {
     "original": null,

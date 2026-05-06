@@ -6,7 +6,14 @@
       "value": "Create a high-impact 9:16 vertical e-commerce infographic for {argument name=\"product name\" default=\"Bolt True Wireless Earbuds\"} with a premium lifestyle advertising aesthetic.\r\nComposition & Framing\r\nFull-body shot of a young woman (match face and identity exactly to the provided reference image — accurate facial features, skin tone, hairstyle)\r\nCamera angle slightly low and close (fashion campaign perspective) to add depth and presence\r\nThe subject is sitting casually on the floor, one knee raised, one leg extended forward toward the camera\r\nForeground (Product Focus)\r\nThe woman is holding an open {argument name=\"brand\" default=\"Bolt\"} earbud charging case toward the camera\r\nInside the case: one earbud visible\r\nThe second earbud is worn in her ear\r\nCase should be glossy white with subtle branding (“BOLT”)\r\nAdd slight macro depth-of-field blur on the hand and case for cinematic realism\r\nSubject Styling\r\nOutfit: modern sporty streetwear\r\nlightweight jacket (off-white / neutral tone)\r\ncrop top or sports bra\r\nloose joggers (light pink or soft color)\r\nwhite sneakers with visible texture\r\nExpression: confident, relaxed, slight smile\r\nPose: natural, lifestyle-oriented — not stiff or overly posed\r\nBackground & Atmosphere\r\nClean studio background with soft gray gradient\r\nAdd:\r\nrainbow prism lens flares\r\nsubtle light leaks\r\nfloating blurred earbuds and charging case in background\r\nGround surface slightly textured (studio floor look)\r\nLighting\r\nSoft, diffused commercial lighting\r\nHighlight:\r\nskin texture\r\nglossy earbud case\r\nfabric details\r\nSubtle rim lighting for separation from background\r\nTypography Layout (Modern Sans-Serif, White)\r\nTop Center (Behind Model):\r\nBOLD HUGE TEXT:\r\n“BOLT” (partially hidden behind subject)\r\nTop Right:\r\nBolt Earbuds\r\nTrue Wireless\r\nMid Left:\r\nPowerful sound.\r\nEffortless vibes.\r\nEngineered for every beat of your day.\r\nMid Right:\r\nBIG: 30\r\nsmall: hours of playtime\r\nBelow that:\r\nBIG: IPX5\r\nsmall: water resistant\r\nBottom Right:\r\nBIG: 1\r\nsmall: year warranty\r\nStyle & Quality\r\n8K ultra-realistic commercial photography\r\nSharp focus on face + earbuds\r\nSlight depth blur for foreground and background elements\r\nClean Apple/Nike-style premium ad aesthetic\r\nBalanced composition with strong negative space",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 {argument name=\"product name\" default=\"Bolt True Wireless Earbuds\"} 创建具有高冲击力的9:16垂直电商信息图表，采用高级生活方式广告美学。\n\n构图与取景\n年轻女性的全身照（面部和身份与提供的参考图像完全匹配—准确的面部特征、肤色、发型）\n相机角度略低且靠近（时尚广告视角）以增加深度和存在感\n主体随意坐在地板上，一条膝盖抬起，一条腿向前伸向相机\n\n前景（产品焦点）\n女性手持一个打开的 {argument name=\"brand\" default=\"Bolt\"} 耳机充电盒朝向相机\n盒内：可见一个耳机\n第二个耳机戴在她的耳朵上\n充电盒应为亮白色，带有微妙的品牌标识（\"BOLT\"）\n为手和充电盒添加轻微的微距景深模糊，以实现电影般的真实感\n\n主体造型\n服装：现代运动街头风\n轻薄夹克（米色/中性色调）\n露脐上衣或运动内衣\n宽松的运动裤（浅粉色或柔和色彩）\n带有可见纹理的白色运动鞋\n表情：自信、放松、轻微微笑\n姿势：自然、生活方式导向—不僵硬或过度摆拍\n\n背景与氛围\n干净的工作室背景，带有柔和的灰色渐变\n添加：\n彩虹棱镜镜头光晕\n微妙的光泄漏\n背景中漂浮的模糊耳机和充电盒\n地面表面略带纹理（工作室地板效果）\n\n照明\n柔和、漫射的商业照明\n突出：\n皮肤纹理\n光亮的耳机充电盒\n织物细节\n微妙的边缘照明以与背景分离\n\n字体布局（现代无衬线字体，白色）\n顶部中央（模特后方）：\n粗体超大文本：\n\"BOLT\"（部分被主体遮挡）\n右上：\nBolt 耳机\n真无线\n中左：\n强劲音质。\n轻松氛围。\n为您的每一天的每个节拍而设计。\n中右：\n大号：30\n小号：小时播放时间\n下方：\n大号：IPX5\n小号：防水\n右下：\n大号：1\n小号：年保修\n\n风格与质量\n8K 超写实商业摄影\n面部和耳机的清晰对焦\n前景和背景元素的轻微景深模糊\n简洁的苹果/耐克风格高级广告美学\n平衡的构图，具有强烈的负空间",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:48.507Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A comprehensive marketing infographic prompt for true wireless earbuds, featuring a professional fashion campaign aesthetic and detailed typographic layout.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个全面的真无线耳机营销信息图表提示，具有专业时尚活动美学和详细的排版布局。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:33.066Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -161,6 +175,8 @@
       "product",
       "marketing",
       "e-commerce",
+      "产品",
+      "营销",
       "电商",
       "主图"
     ],

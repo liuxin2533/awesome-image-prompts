@@ -21,7 +21,14 @@
       "value": "Mirror Selfie Bedroom Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "镜自拍卧室肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:22:34.406Z"
+      }
+    }
   },
   "description": {
     "original": null,

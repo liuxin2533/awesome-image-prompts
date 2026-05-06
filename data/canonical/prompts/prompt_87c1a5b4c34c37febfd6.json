@@ -6,7 +6,14 @@
       "value": "A young woman with {argument name=\"hair color\" default=\"long red hair\"} sitting on a towel at a {argument name=\"location\" default=\"sunny beach\"}. She is wearing a {argument name=\"outfit\" default=\"fitted beige tank top and light blue denim shorts with a brown belt\"}. She holds sunglasses in one hand and looks off into the distance while the other hand rests in her hair. The background features soft sand, palm trees, and a clear blue sky with warm golden sunlight casting natural highlights. A small handbag sits beside her. The atmosphere is bright, summery, and relaxed.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一位{argument name=\"hair color\" default=\"长红发\"}的年轻女子坐在{argument name=\"location\" default=\"阳光明媚的海滩\"}的毛巾上。她穿着{argument name=\"outfit\" default=\"合身的米色背心和浅蓝色牛仔短裤，配有一条棕色腰带\"}。她一手拿着太阳镜，望向远方，另一只手放在头发上。背景是柔软的沙滩、棕榈树和清澈的蓝天，温暖的金色阳光自然地投射出高光。她旁边放着一个手提包。氛围明亮、夏日气息浓厚且轻松。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:44:08.813Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A prompt for generating a photorealistic, sun-kissed portrait of a woman relaxing at the beach during golden hour.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "用于生成一张写实风格的、沐浴在金色阳光下的女性肖像，照片中一位女性在黄金时段的海滩上放松休息。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:44:11.810Z"
+      }
+    }
   },
   "sourceCategories": [
     {

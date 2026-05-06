@@ -21,7 +21,14 @@
       "value": "Cinematic Chicken Momos Ad Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影感鸡肉藏式饺子广告海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:47.437Z"
+      }
+    }
   },
   "description": {
     "original": null,

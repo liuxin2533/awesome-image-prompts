@@ -21,7 +21,14 @@
       "value": "视频封面界面图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Video cover interface image",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:03:45.452Z"
+      }
+    }
   },
   "description": {
     "original": null,

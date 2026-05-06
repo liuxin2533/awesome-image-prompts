@@ -6,7 +6,14 @@
       "value": "Create a premium food preparation poster for\n [ DISH NAME ], with a beautiful hero dish, warm natural lighting, cream background, elegant step-by-step recipe layout, ingredients, cooking process, premium food photography, refined English typography, luxury restaurant advertisement style, clean design, rich colors, highly detailed, visually irresistible, cinematic masterpiece.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为 [ DISH NAME ] 创建一个高级美食准备海报，展示精美的主菜，温暖的自然光线，奶油色背景，优雅的分步食谱布局，食材，烹饪过程，高级美食摄影，精致的英文字体，豪华餐厅广告风格，简洁设计，丰富的色彩，高度细节化，视觉上令人无法抗拒，电影级杰作。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:32.625Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Premium Food Recipe Poster Elegant Layout",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高级美食食谱海报 优雅布局",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:33.315Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -82,10 +96,11 @@
     "status": "classified",
     "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "photography",
-      "photo"
+      "photo",
+      "摄影"
     ],
     "classifiedAt": "2026-05-06T11:03:21.583Z"
   }

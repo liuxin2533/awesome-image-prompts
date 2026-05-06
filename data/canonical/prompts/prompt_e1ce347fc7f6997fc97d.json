@@ -6,7 +6,14 @@
       "value": "A hyper-dynamic anime cyberpop illustration of a cat-eared girl thrusting a soda bottle toward the camera in an extreme close-up, with strong fisheye perspective and dramatic foreshortening. The bottle dominates the foreground in her hand, label clearly reading \"CAT NYAN SODA\" with smaller Japanese-style text beneath, and the cap is off as glowing fizzy liquid erupts upward in a huge splash. The character is a stylish futuristic young woman with {argument name=\"hair color\" default=\"silver-white with blue and pink iridescence\"} hair, very long and voluminous, whipping through the frame in neon ribbons. She has 2 visible cat ears, fluffy and oversized, decorated with 3 small accessories: a spiked ear cuff, a tiny cat-face clip, and a small metallic piercing detail. Her face is mostly hidden by a solid {argument name=\"censor block color\" default=\"purple\"} square centered over the upper face area. She wears a cropped white tank top with a small barcode-like graphic, a dark glossy jacket slipping off the shoulders, layered necklaces, and a belt at the waist. Her nails are painted bright pink. The product is a plastic soda bottle filled with dark purple liquid and glowing highlights, with a bold playful logo in white and pink. Surround the scene with floating ice cubes, sparkling droplets, and explosive carbonation effects. Use a high-contrast palette of electric magenta, violet, cyan, and deep blue, with luminous reflections on skin, hair, glassy surfaces, and liquid. Background is an abstract nightlife energy burst of streaks, splashes, particles, and refracted light, no clear environment, just intense motion and color. Make it glossy, saturated, chaotic, and stylish like a premium anime beverage ad poster, with sharp linework, radiant bloom, glittering specular highlights, and a rebellious pop-cyber aesthetic. Vertical composition, waist-up view, single character, 1 bottle, 1 major soda splash, 6 visible floating ice cubes.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个充满活力的动漫赛博流行插画，描绘了一个猫耳女孩在特写镜头中将苏打水瓶推向相机，具有强烈的鱼眼透视和戏剧性的透视缩短。瓶子在她的手中占据前景，标签清晰显示\"CAT NYAN SODA\"，下方有较小的日式文字，瓶盖已打开，发光的苏打液体向上喷涌形成巨大的水花。角色是一位时尚的未来年轻女性，拥有{argument name=\"hair color\" default=\"silver-white with blue and pink iridescence\"}的头发，非常长且蓬松，像霓虹色丝带一样在画面中飘动。她有2只可见的猫耳，蓬松且超大，装饰着3个小配饰：一个尖刺耳环、一个小猫脸夹和一个小的金属穿孔细节。她的脸大部分被一个实心的{argument name=\"censor block color\" default=\"purple\"}方块遮挡，方块位于面部区域中央。她穿着一件白色露脐背心，上面有一个类似条形码的小图案，一件深色光泽夹肩滑落肩膀，戴着多层项链，腰间系着腰带。她的指甲涂亮粉色。产品是一个装有深紫色液体和发光高光的塑料苏打水瓶，有大胆的白色和粉色俏皮标志。场景周围漂浮着冰块、闪烁的水滴和爆炸性的碳酸效果。使用高对比度的洋红色、紫罗兰色、青色和深蓝色调，皮肤、头发、玻璃表面和液体上有发光反射。背景是抽象的夜生活能量爆发，有条纹、飞溅、粒子和折射光，没有清晰的环境，只有强烈的运动和色彩。使其具有光泽感、饱和度、混乱感和时尚感，就像优质的动漫饮料广告海报，线条锐利，辐射光晕，闪烁的高光，以及叛逆的流行赛博美学。垂直构图，腰部以上视角，单人角色，1个瓶子，1个主要的苏打水飞溅，6个可见的漂浮冰块。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:08.283Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A vivid cyber-anime poster of a cat-eared girl presenting a bursting soda bottle, ideal for energetic drink branding or flashy social media key art.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张生动的赛博朋克动漫海报，展示着一个猫耳女孩手持爆开的汽水瓶，适合用于能量饮料品牌宣传或引人注目的社交媒体主视觉。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:05.823Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -66,19 +80,19 @@
   ],
   "categories": [
     {
-      "id": "product-marketing",
-      "value": "Product & Marketing",
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "product-marketing-zh-cn",
-      "value": "产品与营销",
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "product-marketing"
+      "translationOf": "poster-illustration"
     }
   ],
   "sources": [
@@ -119,15 +133,16 @@
   "updatedAt": "2026-05-06T11:02:37.127Z",
   "classification": {
     "status": "classified",
-    "categoryId": "product-marketing",
+    "categoryId": "poster-illustration",
     "source": "rule",
     "confidence": 1,
     "matchedBy": [
-      "product",
-      "marketing",
-      "产品",
-      "营销"
+      "poster",
+      "illustration",
+      "anime",
+      "海报",
+      "插画"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.570Z"
+    "classifiedAt": "2026-05-06T11:41:23.664Z"
   }
 }

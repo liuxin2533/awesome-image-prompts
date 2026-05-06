@@ -6,7 +6,14 @@
       "value": "A bright, polished anime-style promotional thumbnail with a summer romance atmosphere. The composition is split visually, with large typography on the left and two handsome young men on the right. On the left side, place layered translucent white panels with soft glow and sparkles over a sky-blue background, featuring large elegant serif text \"GPT\" in a blue gradient at the top and \"BL\" in a lavender-to-violet gradient below. Add three lines of Japanese text arranged between and under them: \"最新の画像生成で\", \"作って\", and \"遊んでみた\", in deep blue calligraphic Japanese type. Include subtle decorative accents such as small star glints, diagonal light streaks, dotted texture, and a cyan underline swoosh beneath the middle text. On the right side, show 2 anime boys from the waist up, leaning casually together beside a chain-link fence under leafy trees. The taller boy has tousled dark brown hair, a navy overshirt worn open over a white T-shirt, layered silver necklaces, and holds 1 plastic cup of iced coffee with a straw. The shorter boy has messy silver-white hair, a white T-shirt with a small crest emblem on the chest, black backpack straps over both shoulders, layered silver necklaces, and one small earring. Their poses are relaxed and intimate, with the dark-haired boy’s arm resting around the other. Use a luminous blue-and-white palette with soft sunlight, lens flare, bokeh, and a faint cityscape in the background, creating a clean social-media header or article thumbnail aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个明亮、精致、动漫风格的夏日浪漫氛围宣传缩略图。构图在视觉上分为两部分，左侧是大字体排版，右侧是两位英俊的年轻男子。左侧放置分层半透明白色面板，带有柔和的光芒和闪烁效果，背景为天蓝色，顶部有优雅的衬线体文本\"GPT\"，采用蓝色渐变，下方是薰衣草色到紫罗兰色渐变的\"BL\"。在它们之间和下方添加三行日文文本：\"最新の画像生成で\"、\"作って\"和\"遊んでみた\"，使用深蓝色书法风格日文字体。包含精致的装饰元素，如小星芒、对角光线条纹、点状纹理，以及中间文本下方的青色下划线弧形。右侧展示两位动漫风格的男孩，从腰部以上，在茂密的树木旁的铁丝网旁随意地靠在一起。较高的男孩有凌乱深棕色头发，海军蓝开襟衬衫内搭白色T恤，佩戴多层银色项链，手持一杯带吸管的塑料冰咖啡。较矮的男孩有凌乱的银白色头发，白色T恤胸前有小徽章标志，双肩背着黑色背包带，佩戴多层银色项链，戴一个小耳钉。他们的姿势放松而亲密，深色头发的男孩的手臂搭在另一个人的肩膀上。使用明亮的蓝白色调，搭配柔和的阳光、镜头光晕、散景效果和远处模糊的城市景观，创造出干净整洁的社交媒体标题或文章缩略图美学风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:26.356Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Anime BL Promo Thumbnail",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫BL宣传缩略图",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:11.750Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -88,9 +102,7 @@
       "ui",
       "social",
       "mockup",
-      "youtube",
-      "thumbnail",
-      "社交"
+      "thumbnail"
     ],
     "classifiedAt": "2026-05-06T11:03:21.554Z"
   }

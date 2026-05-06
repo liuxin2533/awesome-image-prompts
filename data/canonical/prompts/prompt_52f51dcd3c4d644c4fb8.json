@@ -21,7 +21,14 @@
       "value": "Cloud shape doodle generation",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "云形状涂鸦生成",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:41.494Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "Create a dramatic Japanese light-novel cover illustration for a fantasy mecha isekai story. Vertical poster composition with a huge heroic humanoid robot dominating the center foreground, viewed from a slightly low angle to make it monumental. The robot is sleek and ornate, with white and silver armor, rich gold trim, glowing cyan energy lines, a radiant emerald-green core in the chest, a crown-like crest on the helmet, and a long royal blue cape with gold edging. Behind its back spread multiple crystalline energy wings, about 8 large translucent green shards fanning out symmetrically like luminous blades. In its left hand it holds a long fantasy-tech spear with a blue glowing blade and gold mechanical detailing. At the robot’s feet are 2 human characters: on the left, a red-haired fantasy heroine with very long braided hair, leather-and-fabric adventurer clothing, and a determined expression, looking up at the robot; on the right, a young male protagonist with short dark hair in a fantasy tunic and cloak, reaching one hand up toward the giant machine in awe and urgency, seen mostly from behind. The setting is an epic ruined sci-fi fantasy world with towering gothic spires, broken city structures, drifting smoke, dramatic clouds, and a sky filled with stars, planets, streaks of lightning, and 8 small flying warships scattered in the distance. Highly polished anime key visual style, ultra-detailed, cinematic lighting, intense contrast, blue-green-gold color palette, heroic atmosphere, intricate mechanical rendering, fantasy worldbuilding, premium game or novel cover finish. Add large Japanese title typography at the top: 《{argument name=\"tagline text\" default=\"本格異世界SFロボット戦記\"}》 above a massive metallic logo reading {argument name=\"series title\" default=\"ASTRAIA\"}, with a smaller Japanese subtitle line beneath it. Add a large dramatic Japanese catchphrase at the bottom in glowing white and gold text over 2 lines: {argument name=\"bottom catchphrase\" default=\"乗って！ユウキ！ その叫びが、世界の運命を決めた！\"}. Keep the overall design dense, premium, and readable as a commercial cover, with the central robot as the unmistakable focal point.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个戏剧性的日本轻小说封面插画，用于奇幻机甲异世界故事。纵向海报构图，巨大的英雄人形机器人占据中心前景，从略微低的角度观看，使其显得宏伟壮观。机器人线条流畅且装饰华丽，拥有白色和银色盔甲，丰富的金色装饰，发光的青色能量线条，胸前有辐射状的祖母绿核心，头盔上有皇冠般的徽章，以及一条带有金色边缘的深蓝色长披风。在其背后伸展着多个水晶能量翼，大约8片大型半透明绿色碎片对称地展开，如同发光的刀刃。在其左手持有一根奇幻科技长矛，带有发光的蓝色刀刃和金色机械细节。在机器人脚边有两个人物：左边是一位红发奇幻女英雄，有着非常长的辫子，皮革和布料冒险者服装，表情坚定，仰望着机器人；右边是一位年轻男性主角，深色短发，穿着奇幻束腰外衣和斗篷，敬畏而急切地向巨型机器伸出一只手，主要从背后可见。场景是一个史诗般的废墟科幻奇幻世界，有高耸的哥特式尖塔，破碎的城市建筑，飘散的烟雾，戏剧性的云层，以及布满星星、行星、闪电的天空，远处散布着8艘小型飞行战舰。高度精炼的动漫关键视觉风格，超精细细节，电影级光照，强烈对比度，蓝-绿-金色调，英雄氛围，精细的机械渲染，奇幻世界观构建，高质量游戏或小说封面效果。在顶部添加大型日语标题排版：《{argument name=\"tagline text\" default=\"本格異世界SFロボット戦記\"}》上方是一个巨大的金属质感标志，写着{argument name=\"series title\" default=\"ASTRAIA\"}，下方有一行较小的日语副标题。在底部添加一个大型戏剧性日语标语，以发光的白色和金色文字分两行显示：{argument name=\"bottom catchphrase\" default=\"乗って！ユウキ！ その叫びが、世界の運命を決めた！\"}。保持整体设计密集、高质量，并作为商业封面具有可读性，中央机器人作为无可争议的焦点。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:53:00.555Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a dramatic anime-style Japanese sci-fi fantasy cover featuring a towering angelic robot, two protagonists, and bold title typography for novels, games, or promotional key art.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个戏剧性的动漫风格日本科幻奇幻封面，特色是高耸的天使机器人、两个主角和醒目的标题字体，用于小说、游戏或宣传主视觉艺术。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:52:49.458Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -96,19 +110,19 @@
   ],
   "categories": [
     {
-      "id": "comic-story",
-      "value": "Comic & Story",
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "comic-story-zh-cn",
-      "value": "漫画与叙事",
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "comic-story"
+      "translationOf": "poster-illustration"
     }
   ],
   "sources": [
@@ -149,15 +163,16 @@
   "updatedAt": "2026-05-06T11:02:37.126Z",
   "classification": {
     "status": "classified",
-    "categoryId": "comic-story",
+    "categoryId": "poster-illustration",
     "source": "rule",
     "confidence": 1,
     "matchedBy": [
-      "comic",
-      "story",
-      "漫画",
-      "故事"
+      "poster",
+      "illustration",
+      "anime",
+      "海报",
+      "插画"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.569Z"
+    "classifiedAt": "2026-05-06T11:41:23.662Z"
   }
 }

@@ -20,7 +20,14 @@
       "value": "Xuanwu Gate Incident Moments Feed",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "玄武门之变动态",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:20.740Z"
+      }
+    }
   },
   "description": {
     "original": null,

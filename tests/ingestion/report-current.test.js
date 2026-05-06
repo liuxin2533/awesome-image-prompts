@@ -84,3 +84,41 @@ test('refreshCurrentReport validates current canonical data without re-ingesting
   assert.equal(written.summary.warning, report.summary.warning);
   assert.equal(fs.existsSync(path.join(projectRoot, 'data/reports/latest.md')), true);
 });
+
+test('refreshCurrentReport does not report per-prompt translation debt for canonical categories', () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'report-canonical-category-'));
+  const prompt = promptFixture();
+  prompt.categories = [
+    {
+      id: 'poster-illustration',
+      value: 'Poster & Illustration',
+      language: 'en',
+      source: 'derived',
+      taxonomy: 'canonical'
+    },
+    {
+      id: 'poster-illustration-zh-cn',
+      value: '海报与插画',
+      language: 'zh-CN',
+      source: 'derived',
+      taxonomy: 'canonical',
+      translationOf: 'poster-illustration'
+    }
+  ];
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en', 'zh-CN'],
+    sourceCount: {},
+    prompts: [prompt]
+  });
+
+  const result = refreshCurrentReport({ projectRoot, targetLanguages: ['de', 'en', 'zh-CN'] });
+  const report = result.report.toJSON();
+
+  assert.equal(
+    report.issues.some(issue => issue.code === 'missing_translation' && issue.fieldPath === 'categories.poster-illustration.de'),
+    false
+  );
+});

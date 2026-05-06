@@ -21,7 +21,14 @@
       "value": "应用界面样机图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Application Interface Mockup",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:00:14.431Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -20,7 +20,14 @@
       "value": "粤超联赛国潮风邀请函海报",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Guangdong Super League Guochao Style Invitation Poster",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:01:35.587Z"
+      }
+    }
   },
   "description": {
     "original": null,

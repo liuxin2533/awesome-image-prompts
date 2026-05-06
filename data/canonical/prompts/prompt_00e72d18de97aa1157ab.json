@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Skincare Product Studio Shot",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 护肤品影棚拍摄",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:55.024Z"
+      }
+    }
   },
   "description": {
     "original": null,

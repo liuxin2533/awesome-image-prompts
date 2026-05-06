@@ -6,7 +6,14 @@
       "value": "A dynamic anime cyberpop illustration of a {argument name=\"character type\" default=\"cat-eared anime girl\"} in an extreme close-up, low-angle foreshortened pose, thrusting a glass soda bottle directly toward the viewer so the bottle and hand dominate the foreground. The scene is drenched in explosive neon magenta, cyan, violet, and electric blue lighting, with a glossy high-contrast finish and dense sparkling particle effects. The character has long, flowing {argument name=\"hair color\" default=\"silver-white hair with cyan and pink highlights\"}, large furry cat ears, and layered windswept strands glowing with rim light. Her face is mostly hidden by a flat rectangular censorship block in muted purple placed over the eye area. She wears futuristic clubwear: a black strappy top with a small cat-symbol detail, a translucent iridescent jacket slipping off the shoulders, shiny dark armwear or gloves, metallic accessories, and dangling earrings. Her nails are painted vivid pink. In the foreground, she grips a clear bottle labeled {argument name=\"drink label\" default=\"NYAN EXTREME SODA\"}, with a stylized cat face logo on a dark label. The bottle is filled with bright blue and pink fizzy liquid, and the cap is off as a dramatic geyser of sparkling pink soda erupts upward and outward, splashing across the frame. Surround the character with floating translucent ice cubes, droplets, glitter, and bokeh-like highlights. The background is an abstract nightlife energy burst of swirling liquid, neon splashes, and luminous particles rather than a realistic location. Emphasize exaggerated perspective, motion, sensual pop-art attitude, hyper-detailed reflections, glossy skin and fabric, and a bold gpt-image-2 polished anime illustration aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个充满活力的动漫赛博流行插画，描绘了一个{argument name=\"character type\" default=\"猫耳动漫女孩}\"，采用极端特写、低角度透视缩短姿势，将玻璃汽水瓶直接推向观众，使瓶子与手占据前景。场景被爆炸性的霓虹品红、青色、紫色和电蓝色灯光所浸染，具有光泽的高对比度处理和密集的闪烁粒子效果。角色拥有长长的、流动的{argument name=\"hair color\" default=\"银白色头发，带有青色和粉色高光}\"，毛茸茸的大猫耳，以及分层被风吹动的发丝，边缘发光。她的脸大部分被一块平坦的矩形紫色审查块遮挡，放置在眼部区域。她穿着未来主义俱乐部服装：黑色细带上衣带有小猫符号细节，半透明彩虹色外套从肩膀滑落，闪亮的深色手臂装备或手套，金属配饰，以及垂坠式耳环。她的指甲涂有鲜艳的粉色。在前景中，她握着一个透明瓶子，标签上写着{argument name=\"drink label\" default=\"NYAN EXTREME SODA}\"，深色标签上有一个风格化的猫脸标志。瓶子里装满了明亮的蓝色和粉色碳酸液体，瓶盖已打开，戏剧性的粉色汽水喷泉向上向外喷发，溅射整个画面。用漂浮的半透明冰块、水滴、闪光和类似散景的高光环绕角色。背景是抽象的夜生活能量爆发，包含旋转的液体、霓虹飞溅和发光粒子，而非真实场景。强调夸张的透视、动感、感性波普艺术态度、超精细的反射、光泽的皮肤和面料，以及大胆的gpt-image-2精致动漫插画美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:57:38.044Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A vivid cyber-anime promotional illustration of a cat-eared girl dramatically presenting a neon soda bottle, ideal for flashy beverage ads, social posts, or high-energy pop art visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张生动的赛博朋克动漫风格宣传插画，描绘了一个猫耳女孩戏剧性地展示着一瓶霓虹汽水，适合用于炫目的饮料广告、社交媒体发布或高能量的波普艺术视觉效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:57:31.733Z"
+      }
+    }
   },
   "sourceCategories": [
     {

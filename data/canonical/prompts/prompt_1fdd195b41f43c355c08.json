@@ -6,7 +6,14 @@
       "value": "{\r\n  \"type\": \"exploded view product diagram poster\",\r\n  \"subject\": \"VR headset\",\r\n  \"style\": \"clean high-tech 3D render, studio lighting, glowing accents\",\r\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"soft purple and blue gradient\\\"}\",\r\n  \"header\": {\r\n    \"logo\": \"∞ {argument name=\\\"product name\\\" default=\\\"Meta Quest 3\\\"}\",\r\n    \"subtitle\": \"{argument name=\\\"main catchphrase\\\" default=\\\"まったく新しい現実を、まったく新しい構造から。\\\"}\"\r\n  },\r\n  \"layout\": {\r\n    \"centerpiece\": \"vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.\",\r\n    \"callout_labels\": {\r\n      \"count\": 8,\r\n      \"left_side\": [\r\n        \"Snapdragon® XR2 Gen 2\\n圧倒的な処理性能でリアルタイムな体験を。\",\r\n        \"調整可能なIPD機構\\n幅広いユーザーに快適なフィット感を。\",\r\n        \"精密設計されたヘッドストラップ\\n快適さと安定性を追求したエルゴノミクス。\"\r\n      ],\r\n      \"right_side\": [\r\n        \"フェイスプレート\\n洗練されたデザインと最適な重量バランス。\",\r\n        \"トラッキングカメラ\\n高精度な位置トラッキングと環境認識を実現。\",\r\n        \"パンケーキレンズ\\n薄型設計で広い視野角と鮮明な映像を提供。\",\r\n        \"高性能バッテリー\\n長時間駆動を支える最適化された電源設計。\",\r\n        \"柔らかなフェイスインターフェース\\n長時間でも快適な装着感を実現。\"\r\n      ]\r\n    },\r\n    \"footer\": {\r\n      \"left_text_block\": {\r\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"体験は、構造から進化する。\\\"}\",\r\n        \"body\": \"一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。\"\r\n      },\r\n      \"right_logo\": \"∞ Meta\"\r\n    }\r\n  }\r\n}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"exploded view product diagram poster\",\n  \"subject\": \"VR headset\",\n  \"style\": \"clean high-tech 3D render, studio lighting, glowing accents\",\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"soft purple and blue gradient\\\"}\",\n  \"header\": {\n    \"logo\": \"∞ {argument name=\\\"product name\\\" default=\\\"Meta Quest 3\\\"}\",\n    \"subtitle\": \"{argument name=\\\"main catchphrase\\\" default=\\\"まったく新しい現実を、まったく新しい構造から。\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"Snapdragon® XR2 Gen 2\\nExperience real-time performance with overwhelming processing power.\",\n        \"Adjustable IPD mechanism\\nComfortable fit for a wide range of users.\",\n        \"Precision-designed head strap\\nErgonomics designed for comfort and stability.\"\n      ],\n      \"right_side\": [\n        \"Face plate\\nRefined design with optimal weight balance.\",\n        \"Tracking camera\\nAchieves high-precision position tracking and environmental recognition.\",\n        \"Pancake lenses\\nProvides wide field of view and clear images with a slim design.\",\n        \"High-performance battery\\nOptimized power design that supports long hours of operation.\",\n        \"Soft face interface\\nAchieves comfortable wearing experience even for extended periods.\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"体験は、構造から進化する。\\\"}\",\n        \"body\": \"Each part contains cutting-edge technology and meticulous design that supports immersive experiences. Meta Quest 3 creates future-sensing experiences from within.\"\n      },\n      \"right_logo\": \"∞ Meta\"\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:39.381Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "界面交互设计图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Interface Interaction Design Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:26.334Z"
+      }
+    }
   },
   "description": {
     "original": null,

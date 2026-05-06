@@ -21,7 +21,14 @@
       "value": "A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个超真实的UI/UX模型展示在放置在...上的纤薄现代笔记本电脑上",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:55.707Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -20,7 +20,14 @@
       "value": "超写实与水墨的梦幻融合",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A Dreamlike Fusion of Hyperrealism and Ink Wash",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:44.909Z"
+      }
+    }
   },
   "description": {
     "original": null,

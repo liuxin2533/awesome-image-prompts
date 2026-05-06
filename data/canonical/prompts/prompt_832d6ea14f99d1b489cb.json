@@ -6,7 +6,14 @@
       "value": "Create a vintage editorial poster on aged rice paper celebrating {argument name=\"artist name\" default=\"CHEN UEN\"}, designed like a museum infographic mixed with Chinese ink wash illustration and calligraphy. The format is a single vertically oriented poster with a weathered parchment background, ink splatters, faded handwritten annotations, red seal stamps, and a scholarly, archival atmosphere. At the very top, place large black Chinese calligraphy for the name 鄭問, followed by a slash and the romanized name {argument name=\"romanized name\" default=\"CHEN UEN\"} in large serif capitals, with a small red seal beside it. Under the title, add the subtitle {argument name=\"subtitle text\" default=\"The Taiwanese Master Who Turned Comics into Ink-Born Epic\"} in elegant reddish-brown serif text. In the center, feature a dramatic painterly scene of 1 seated male artist in a loose white shirt at a desk, holding a brush over paper, his face intentionally obscured by a soft rectangular blur. Behind him, surround him with a swirling halo-like storm of monochrome ink-brush warriors and historical figures: exact count 9 visible character figures, including armored generals, swordsmen, and mounted riders, emerging from explosive black brushwork and smoke-like ink textures. On the left side, create a vertical section titled “Life & Milestones” with a black brushstroke header and smaller Chinese subtitle text. List exactly 6 timeline entries with red year markers and bilingual captions: 1958 born in Taiwan, 1983 Warrior Panther, 1989 Abi Sword, 1990 Heroes of the Eastern Zhou, 1991 Japan Cartoonists Association Award, 2017 legacy continues. Below that, add a small section titled “Ink in Detail” containing exactly 4 boxed brush studies labeled with short English captions: Dry brush texture, Ink wash gradient, Splatter energy, Bold contour line. On the right side, create a vertical section titled “Visual Method” with a black brushstroke header and smaller Chinese subtitle text. Include exactly 5 stacked boxed studies with image-and-caption layout: Brush as blade, Ink as atmosphere, Anatomy as fate, History as theatre, Speed lines become calligraphy. In the lower center, create a section titled “Major Works Constellation” with a dark brushstroke heading. Arrange exactly 5 circular work nodes around a central ink ring with Chinese calligraphy inside. Label the 5 nodes: Abi Sword, Heroes of the Eastern Zhou, Assassin Biographies, Magical Super Asia, Game character design legacy. Each circle contains a distinct monochrome or muted-color ink illustration, with subtle connecting marks like a constellation diagram. At the lower right, add a section titled “Studio Notes” containing exactly 6 visible objects: 4 hanging calligraphy brushes, 1 ink bowl, and 1 painter’s palette with blue and red pigment; beneath them place a sketchbook page with light pencil figure studies. Across the bottom, add a wide section titled “Why He Matters” with a black brushstroke header and smaller Chinese subtitle text, followed by a paragraph of serif body text in English describing his importance to comics, painting, calligraphy, cinema, and epic storytelling. Use a restrained palette of sepia, black ink, off-white paper, muted gray, with small accents of deep red and occasional blue. The whole image should feel like a refined cultural tribute poster, dense but balanced, highly detailed, painterly, and authentic to Chinese ink aesthetics.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一张在陈旧宣纸上庆祝{argument name=\"artist name\" default=\"CHEN UEN\"}的复古编辑海报，设计风格融合了博物馆信息图表和中国水墨画与书法。格式为单张竖向海报，具有陈旧的羊皮纸背景、墨迹飞溅、褪色的手写注释、红色印章和学术档案氛围。在最顶部，放置\"鄭問\"的大型黑色中国书法，后面跟着斜杠和{argument name=\"romanized name\" default=\"CHEN UEN\"}的大型衬线大写字母，旁边有一个小红印章。标题下方，添加{argument name=\"subtitle text\" default=\"The Taiwanese Master Who Turned Comics into Ink-Born Epic\"}的优雅红棕色衬线文本作为副标题。中央部分，展示一位身穿宽松白衬衫的男性艺术家坐在桌前手持画笔在纸上作画的戏剧性绘画场景，他的脸被柔和的矩形模糊有意遮挡。在他身后，环绕着一个由单色水墨武士和历史人物组成的漩涡状光环状风暴：确切可见9个角色形象，包括装甲将军、剑士和骑马者，从爆炸性的黑色笔触和烟雾状墨色纹理中浮现。左侧，创建一个标题为\"Life & Milestones\"的垂直部分，带有黑色笔触标题和较小的中文副标题。列出恰好6个带有红色年份标记和双语字幕的时间线条目：1958年出生于台湾，1983年《战豹》，1989年《阿剑》，1990年《东周英雄传》，1991年日本漫画家协会奖，2017年遗产延续。下方添加一个标题为\"Ink in Detail\"的小节，包含恰好4个带有简短英文标签的方框笔触研究：干笔纹理、水墨渐变、飞溅能量、粗轮廓线。右侧，创建一个标题为\"Visual Method\"的垂直部分，带有黑色笔触标题和较小的中文副标题。包含恰好5个堆叠的方框研究，采用图像和字幕布局：笔如刀，墨如氛围，解剖如命运，历史如戏剧，速度线成为书法。中下部，创建一个标题为\"Major Works Constellation\"的部分，带有深色笔触标题。在带有中文书法的中心墨环周围排列恰好5个圆形作品节点。标记5个节点：《阿剑》、《东周英雄传》、《刺客列传》、《魔法超级亚洲》、《游戏角色设计遗产》。每个圆圈包含独特的单色或柔和色彩水墨插图，带有微妙的连接标记，如同星座图。右下方，添加一个标题为\"Studio Notes\"的部分，包含恰好6个可见物品：4个悬挂的书法笔、1个墨碗和1个带有蓝色和红色颜料的画家调色板；下方放置一页带有轻柔铅笔人物素描的素描本。底部，添加一个标题为\"Why He Matters\"的宽部分，带有黑色笔触标题和较小的中文副标题，随后是一段描述他对漫画、绘画、书法、电影和史诗叙事重要性的衬线正文字体英文段落。使用由棕褐色、黑墨、米白色纸、柔和灰色组成的有节制调色板，辅以深红色和偶尔的蓝色点缀。整个图像应感觉像一幅精致的文化致敬海报，密集但平衡，高度详细，绘画性强，并忠实于中国水墨美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:26.331Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Ink-Wash Tribute Poster for Chen Uen",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "水墨致敬海报：Chen Uen",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:22:15.732Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -82,10 +96,11 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "poster",
-      "illustration"
+      "illustration",
+      "海报"
     ],
     "classifiedAt": "2026-05-06T11:03:21.592Z"
   }

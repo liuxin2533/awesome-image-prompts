@@ -1,0 +1,162 @@
+{
+  "id": "prompt_eb6d5e25267fc6b1b6f7",
+  "promptText": {
+    "original": {
+      "language": "de",
+      "value": "可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。\r\n\r\n参照画像入れてないのに女性もミライの雰囲気に似てない？",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "可爱的橡皮鸭男孩'RUHiA'为了前往日本而进行大冒险，直到遇到日本女性'未来(Mirai)'的故事。请以真人电影海报的风格来表现。\n\n没有放入参考图片，为什么女性也不像未来的氛围？",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:22:29.602Z"
+      },
+      "en": {
+        "language": "en",
+        "value": "The story of a cute rubber duck boy 'RUHiA' who embarks on a great adventure aiming for Japan and meets a Japanese woman 'Mirai'. Make it look like a live-action movie poster.\n\nYou didn't include a reference image, and the woman doesn't seem to have Mirai's atmosphere?",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:14.660Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "de",
+      "value": "Gummiente-Junge Realfilm-Poster",
+      "source": "upstream"
+    },
+    "translations": {
+      "es": {
+        "language": "es",
+        "value": "Póster de Película de Acción Real del Pato de Goma",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Affiche de Film Live-Action du Canard en Caoutchouc",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ラバーダックボーイ実写映画ポスター",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "러버덕 소년 실사 영화 포스터",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Pôster de Filme Live-Action do Pato de Borracha",
+        "source": "upstream"
+      },
+      "ru": {
+        "language": "ru",
+        "value": "Постер фильма о мальчике-резиновой уточке",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Lastik Ördek Çocuk Canlı Aksiyon Film Posteri",
+        "source": "upstream"
+      },
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "橡胶鸭男孩真人电影海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:21:52.719Z"
+      },
+      "en": {
+        "language": "en",
+        "value": "Rubber Duck Boy Live-action Film Poster",
+        "source": "ai",
+        "translatedAt": "2026-05-05T16:41:12.067Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/mirai_ai2050/status/2046944941583270341",
+      "originalId": "case-72",
+      "authors": [
+        {
+          "name": "mirai_ai2050",
+          "url": "https://x.com/mirai_ai2050"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:de",
+          "line": 8979
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_f7a201550cb32b07",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case116/output.jpg",
+      "upstreamPath": "images/case_case116/output.jpg",
+      "localPath": "public/assets/prompt_eb6d5e25267fc6b1b6f7/8d17f9c0ce3f.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    },
+    {
+      "id": "comparison-community-examples-zh-cn-437e1e53",
+      "value": "比较与社区示例",
+      "language": "zh-CN",
+      "source": "ai",
+      "translationOf": "comparison-community-examples",
+      "translatedAt": "2026-05-05T14:21:55.361Z"
+    }
+  ],
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "poster",
+      "movie poster",
+      "海报",
+      "电影海报"
+    ],
+    "classifiedAt": "2026-05-06T11:41:23.667Z"
+  }
+}

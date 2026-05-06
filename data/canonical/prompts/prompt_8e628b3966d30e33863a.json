@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Pastel Blue Crocs Fashion Ad",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 淡蓝色卡骆驰时尚广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:53.607Z"
+      }
+    }
   },
   "description": {
     "original": null,

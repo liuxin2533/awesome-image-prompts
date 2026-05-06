@@ -21,7 +21,14 @@
       "value": "4-Panel Japanese Digital Ad Banner Grid",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "四格日本风格数字广告横幅网格",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:08.172Z"
+      }
+    }
   },
   "description": {
     "original": null,

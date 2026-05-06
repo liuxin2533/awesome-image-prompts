@@ -6,7 +6,14 @@
       "value": "{\"type\":\"black-and-white manga two-page spread\",\"genre\":\"quiet emotional school music drama\",\"reading_direction\":\"right-to-left Japanese manga layout\",\"print_style\":\"clean manga page composition with gutters, panel borders, screentone shading, detailed line art, soft night lighting, no color\",\"setting\":{\"location\":\"small rehearsal studio at night\",\"details\":[\"large window showing a city skyline with illuminated buildings\",\"drum kit near the back window\",\"2 visible Marshall amplifiers\",\"wood-paneled walls\",\"door and studio notices\",\"wall sign reading 'スタジオ Beat Box'\",\"music stools and rehearsal-room clutter\"]},\"characters\":[{\"role\":\"girl guitarist\",\"count\":1,\"appearance\":\"slender high-school girl with very long straight light-colored hair and bangs, calm melancholic expression, school uniform shirt with ribbon bow and plaid skirt, seated while holding a solid-body electric guitar\"},{\"role\":\"boy classmate\",\"count\":1,\"appearance\":\"high-school boy with short spiky hair, school blazer, loosened necktie, seated facing the girl\"}],\"layout\":{\"spread_count\":2,\"page_numbers\":[7,8],\"sections\":[{\"title\":\"left page\",\"position\":\"left half\",\"count\":3,\"panels\":[\"top panel: medium shot of the boy in the studio, facing the girl, with a tall vertical speech balloon containing '…… あのさ'\",\"middle panel: close three-quarter view of the girl looking down while playing the electric guitar, hands on the fretboard and body\",\"bottom panel: close shot of the boy speaking with a large vertical speech balloon containing 'どうやったら、そんな音出せるの'\"]},{\"title\":\"right page\",\"position\":\"right half\",\"count\":4,\"panels\":[\"top panel: close-up profile of the girl in thought, hand near her mouth, with a vertical ellipsis speech balloon '……'\",\"middle panel: medium shot of the girl holding the guitar and answering, with a large vertical speech balloon containing '別に、特別なことはしてない'\",\"bottom panel: wide panel showing both characters seated across from each other in the studio, the girl with guitar and the boy listening, city lights visible through the window\",\"small transitional panel feeling maintained by cinematic pacing across the page layout\"]}],\"centerpiece\":\"the quiet exchange between the boy and the girl about the sound of her guitar\"},\"mood\":\"introspective, restrained, intimate, slightly bittersweet\",\"camera_style\":\"cinematic manga framing with close-ups, medium shots, and one wide establishing panel\",\"text\":{\"language\":\"Japanese\",\"speech_balloons_count\":4,\"visible_lines\":[\"…… あのさ\",\"どうやったら、そんな音出せるの\",\"……\",\"別に、特別なことはしてない\"]},\"quality\":\"highly detailed professional seinen manga artwork, polished grayscale tones, expressive hair rendering, realistic instruments and studio interior\"}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"type\": \"黑白漫画双页跨版\",\n  \"genre\": \"安静情感校园音乐剧\",\n  \"reading_direction\": \"从右到左的日式漫画布局\",\n  \"print_style\": \"干净的漫画页面构图，包含分格线、面板边框、网点阴影、精细线条艺术、柔和的夜间照明，无色彩\",\n  \"setting\": {\n    \"location\": \"夜间小型排练室\",\n    \"details\": [\n      \"大窗户展示有照明建筑的城市天际线\",\n      \"后窗附近的架子鼓\",\n      \"2个可见的Marshall放大器\",\n      \"木镶板墙壁\",\n      \"门和工作室通知\",\n      \"墙上写着'スタジオ Beat Box'的标志\",\n      \"音乐凳子和排练室杂物\"\n    ]\n  },\n  \"characters\": [\n    {\n      \"role\": \"女吉他手\",\n      \"count\": 1,\n      \"appearance\": \"身材修长的高中女生，有非常长的直浅色头发和刘海，表情平静忧郁，穿着带有丝带蝴蝶结和格裙的校服衬衫，坐着抱着一把实心电吉他\"\n    },\n    {\n      \"role\": \"男同学\",\n      \"count\": 1,\n      \"appearance\": \"短发刺猬头的高中男生，穿着校服外套，松开的领带，坐着面向女孩\"\n    }\n  ],\n  \"layout\": {\n    \"spread_count\": 2,\n    \"page_numbers\": [7, 8],\n    \"sections\": [\n      {\n        \"title\": \"左页\",\n        \"position\": \"左半部分\",\n        \"count\": 3,\n        \"panels\": [\n          \"顶部面板：男孩在工作室的中景，面向女孩，有一个包含'…… あのさ'的高垂直对话框\",\n          \"中间面板：女孩低头弹电吉物的四分之三视图，手放在指板和琴身上\",\n          \"底部面板：男孩说话的特写，有一个包含'どうやったら、そんな音出せるの'的大垂直对话框\"\n        ]\n      },\n      {\n        \"title\": \"右页\",\n        \"position\": \"右半部分\",\n        \"count\": 4,\n        \"panels\": [\n          \"顶部面板：女孩思考的特写侧面，手靠近嘴巴，有一个垂直省略号对话框'……'\",\n          \"中间面板：女孩拿着吉他回答的中景，有一个包含'別に、特別なことはしてない'的大垂直对话框\",\n          \"底部面板：宽面板显示两个角色在工作室中面对面坐着，女孩拿着吉他，男孩在听，窗外可见城市灯光\",\n          \"小的过渡面板，通过页面布局的电影节奏保持感觉\"\n        ]\n      }\n    ],\n    \"centerpiece\": \"男孩和女孩之间关于她吉他声音的安静交流\"\n  },\n  \"mood\": \"内省的、克制的、亲密的、略带苦涩\",\n  \"camera_style\": \"电影式漫画构图，包含特写、中景和一个宽幅全景面板\",\n  \"text\": {\n    \"language\": \"日语\",\n    \"speech_balloons_count\": 4,\n    \"visible_lines\": [\n      \"…… あのさ\",\n      \"どうやったら、そんな音出せるの\",\n      \"……\",\n      \"別に、特別なことはしてない\"\n    ]\n  },\n  \"quality\": \"高度详细的青年专业漫画艺术作品，精致的灰度色调，富有表现力的头发渲染，真实的乐器和工作室内部\"\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:57:25.892Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -48,7 +55,14 @@
       "value": "This generates a polished grayscale manga double-page scene of two high-school students in a rehearsal studio, ideal for emotional music-drama comics or cinematic AI manga pages.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这生成一个精美的灰度漫画双页场景，描绘了两名高中学生在排练室中，非常适合情感音乐戏剧漫画或电影感AI漫画页面。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:57:16.066Z"
+      }
+    }
   },
   "sourceCategories": [
     {

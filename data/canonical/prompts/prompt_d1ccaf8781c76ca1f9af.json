@@ -21,7 +21,14 @@
       "value": "Anime Band Finale at Budokan",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫乐队武道馆终场",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:59.300Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "Using this portrait, create a diagram-first personal color analysis. Show which clothing colors suit the subject through visual comparison. Keep text minimal and avoid paragraphs.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用这张肖像，创建一个以图表为主的个人色彩分析。通过视觉对比展示哪些服装颜色适合该主体。保持文本简洁，避免使用段落。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:33.529Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Personal Color Analysis Diagram",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "个人色彩分析图",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:34.540Z"
+      }
+    }
   },
   "description": {
     "original": null,

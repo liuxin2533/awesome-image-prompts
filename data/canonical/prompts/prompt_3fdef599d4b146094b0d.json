@@ -6,7 +6,14 @@
       "value": "GPT IMAGE 2 on Chat Gpt Prompt : Ultra-realistic portrait of a young woman sitting at a Parisian café, soft golden hour sunlight hitting her face, natural glowing skin, light blush, minimal makeup, green eyes, dark hair tied back with sunglasses on head, wearing a cozy grey knit sweater, resting her face on her hand, relaxed expression, shallow depth of field, cinematic lighting, reflections of classic Paris buildings in the window behind her, table with glassware and subtle foreground blur, 50mm lens, high detail, editorial fashion photography style. Prompt : Natural lifestyle portrait of a young woman at an outdoor Paris café, soft daylight, slightly wet slicked-back dark hair, minimal makeup with dewy skin and flushed cheeks, wearing a loose grey sweater, leaning her head on her hand, calm and intimate expression, symmetrical framing, glass windows reflecting Haussmann-style buildings, table with water glasses and phone, candid aesthetic, soft shadows, realistic tones, 35mm photography, high resolution, cinematic street-style fashion shoot.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GPT IMAGE 2 在 Chat Gpt 提示词上：超写实风格的年轻女子坐在巴黎咖啡馆肖像，柔和的黄金时刻阳光照射在她的脸上，自然发光的皮肤，淡淡的腮红，淡妆，绿眼睛，深色头发向后扎起，太阳镜戴在头上，穿着舒适的灰色针织毛衣，手托着脸，放松的表情，浅景深，电影感光线，她身后窗户中反射着经典巴黎建筑，桌上摆放着玻璃器皿和轻微的前景模糊，50mm镜头，高细节，时尚编辑摄影风格。提示词：户外巴黎咖啡馆的年轻女子自然生活方式肖像，柔和的日光，微湿的向后梳的深色头发，带有湿润皮肤和泛红脸颊的淡妆，穿着宽松的灰色毛衣，头靠在手上，平静而亲密的表情，对称构图，玻璃窗户反射着奥斯曼风格的建筑，桌上放着水杯和手机，自然美学，柔和的阴影，真实的色调，35mm摄影，高分辨率，电影感街头时尚拍摄。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:03.570Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Paris Café Lifestyle Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "巴黎咖啡馆生活方式肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:10:52.489Z"
+      }
+    }
   },
   "description": {
     "original": null,

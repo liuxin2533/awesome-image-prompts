@@ -6,7 +6,14 @@
       "value": "A photorealistic vertical beach portrait of a young woman kneeling on pale sand while building sandcastles, shot in bright natural midday sunlight with a shallow depth of field. She has long dark brown hair tied in a high ponytail, a slim figure, and wears a short deep-blue sundress with thin spaghetti straps, a plunging neckline, and a softly flared skirt. She is leaning forward toward the camera in a playful candid pose, both hands shaping the sand in front of her. Add a delicate thin necklace with a tiny pendant and a subtle bracelet. Place exactly 5 sandcastle elements in the foreground: 2 taller turret-like sand towers on the right, 2 smaller rounded sand mounds near the center front, and 1 partially formed sand piece in her hands. The background is a tropical beach with smooth beige sand, turquoise water along the left side, a green tree-covered shoreline in the distance, and palm trees arching overhead, including 1 large palm trunk on the right edge. Use soft bokeh in the background, clean summer vacation fashion photography, realistic skin tones, natural shadows from palm leaves across her arms and dress, and a serene luxury resort atmosphere. Frame it as a full-body to three-quarter portrait in portrait orientation, centered subject, eye-level to slightly low camera angle.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张写实风格的垂直海滩肖像照，照片中一位年轻女子跪在浅色沙子上堆沙堡，在明亮的自然正午阳光下拍摄，具有浅景深效果。她有着深棕色长发，扎成高马尾，身材苗条，穿着一件深蓝色短款连衣裙，带有细肩带，深V领设计，裙摆呈柔和的喇叭状。她向前倾斜身体，朝向相机摆出俏皮自然的姿势，双手正在面前塑造沙子。添加一条精致的细项链，带有小巧的吊坠和一个精致的镯子。前景中放置恰好5个沙堡元素：右侧有2个较高的塔楼状沙塔，中心前方有2个较小的圆形沙堆，她手中还有1个部分成型的沙块。背景是热带海滩，有光滑的米色沙子，左侧是碧绿色的海水，远处是绿树覆盖的海岸线，上方有拱形的棕榈树，包括右侧边缘的1棵大型棕榈树。背景使用柔和的散景效果，干净的夏日度假时尚摄影，逼真的肤色，棕榈叶在她手臂和连衣裙上形成的自然阴影，以及宁静的豪华度假村氛围。将其构图为全身到半身肖像，竖直方向，居中主体，相机视角从眼部高度到略微偏低的角度。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:57:09.468Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a realistic summer beach portrait of a woman in a blue sundress building sandcastles, ideal for vacation-themed lifestyle imagery.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成了一张真实的夏日海滩肖像，描绘了一位穿着蓝色连衣裙的女士在堆沙堡，非常适合度假主题的生活方式图像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:59.478Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -170,7 +184,9 @@
       "photography",
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "摄影",
+      "写实"
     ],
     "classifiedAt": "2026-05-06T11:03:21.570Z"
   }

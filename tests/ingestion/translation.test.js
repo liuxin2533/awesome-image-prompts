@@ -4,7 +4,7 @@ const fs = require('node:fs');
 const os = require('node:os');
 const path = require('node:path');
 
-const { createZhipuProvider, parseArgs, translateMissing } = require('../../scripts/ingestion/translation');
+const { createZhipuBatchProvider, createZhipuProvider, parseArgs, translateMissing } = require('../../scripts/ingestion/translation');
 const { readCanonicalDataset } = require('../../scripts/ingestion/core/persist');
 const { loadProjectEnv } = require('../../scripts/workbench/config');
 
@@ -140,6 +140,51 @@ test('translateMissing does not back-translate generated taxonomy translations',
     provider: async request => {
       calls.push(request);
       return `back translated ${request.text}`;
+    }
+  });
+
+  assert.equal(result.taskCount, 0);
+  assert.equal(result.translatedCount, 0);
+  assert.equal(calls.length, 0);
+});
+
+test('translateMissing does not create per-prompt tasks for canonical categories', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-canonical-category-'));
+  const prompt = promptFixture();
+  prompt.categories = [
+    {
+      id: 'poster-illustration',
+      value: 'Poster & Illustration',
+      language: 'en',
+      source: 'derived',
+      taxonomy: 'canonical'
+    },
+    {
+      id: 'poster-illustration-zh-cn',
+      value: '海报与插画',
+      language: 'zh-CN',
+      source: 'derived',
+      taxonomy: 'canonical',
+      translationOf: 'poster-illustration'
+    }
+  ];
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en', 'zh-CN'],
+    sourceCount: {},
+    prompts: [prompt]
+  });
+
+  const calls = [];
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['de'],
+    fields: ['categories'],
+    provider: async request => {
+      calls.push(request);
+      return `translated ${request.text}`;
     }
   });
 
@@ -328,6 +373,112 @@ test('translateMissing runs translation tasks with configured concurrency', asyn
   assert.equal(maxActive, 3);
 });
 
+test('translateMissing batches tasks for one provider request and applies results by id', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-batch-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  const batches = [];
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    fields: ['promptText', 'title', 'description'],
+    batchSize: 20,
+    batchProvider: async request => {
+      batches.push(request);
+      return request.items.map(item => ({
+        id: item.id,
+        text: `[${item.targetLanguage}] ${item.text}`
+      })).reverse();
+    }
+  });
+
+  const dataset = readCanonicalDataset(projectRoot);
+  const prompt = dataset.prompts[0];
+
+  assert.equal(batches.length, 1);
+  assert.equal(batches[0].items.length, 3);
+  assert.equal(result.taskCount, 3);
+  assert.equal(result.batchCount, 1);
+  assert.equal(result.translatedCount, 3);
+  assert.equal(prompt.promptText.translations['zh-CN'].value, '[zh-CN] Make a poster');
+  assert.equal(prompt.title.translations['zh-CN'].value, '[zh-CN] Poster');
+  assert.equal(prompt.description.translations['zh-CN'].value, '[zh-CN] A poster prompt');
+});
+
+test('translateMissing records one failed batch without writing partial missing translations', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-batch-fail-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    fields: ['promptText', 'title'],
+    batchSize: 20,
+    batchProvider: async () => {
+      throw new Error('bad json');
+    }
+  });
+
+  const dataset = readCanonicalDataset(projectRoot);
+
+  assert.equal(result.taskCount, 2);
+  assert.equal(result.batchCount, 1);
+  assert.equal(result.translatedCount, 0);
+  assert.equal(result.failedCount, 2);
+  assert.equal(dataset.prompts[0].promptText.translations['zh-CN'], undefined);
+  assert.equal(result.report.issues.some(issue => issue.code === 'translation_batch_failed'), true);
+});
+
+test('translateMissing emits batch progress events for batched translation', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-batch-progress-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-04T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: {},
+    prompts: [promptFixture()]
+  });
+
+  const events = [];
+  const result = await translateMissing({
+    projectRoot,
+    languages: ['zh-CN'],
+    fields: ['promptText', 'title', 'description'],
+    batchSize: 2,
+    batchProvider: async request => request.items.map(item => ({ id: item.id, text: `[${item.targetLanguage}] ${item.text}` })),
+    onProgress: event => events.push(event)
+  });
+
+  assert.equal(result.batchCount, 2);
+  const batchEvents = events.filter(event => event.type.startsWith('batch-'));
+  assert.deepEqual(batchEvents.map(event => event.type), [
+    'batch-start',
+    'batch-success',
+    'batch-start',
+    'batch-success'
+  ]);
+  assert.equal(batchEvents[0].batchIndex, 1);
+  assert.equal(batchEvents[0].batchTotal, 2);
+  assert.equal(batchEvents[0].batchSize, 2);
+  assert.equal(batchEvents[2].batchIndex, 2);
+  assert.equal(batchEvents[2].batchSize, 1);
+});
+
 test('translateMissing emits per-task progress events', async () => {
   const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'translate-progress-'));
   writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), {
@@ -387,7 +538,7 @@ test('translateMissing does not retry authentication failures', async () => {
 });
 
 test('translation parseArgs accepts report resolution command flags', () => {
-  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--delay-ms', '250', '--retries', '4', '--retry-base-delay-ms', '500', '--concurrency', '3', '--refresh-report', '--target-languages', 'en,zh-CN']);
+  const args = parseArgs(['--missing', '--lang', 'zh-CN', '--field', 'title,tags', '--limit', '12', '--delay-ms', '250', '--retries', '4', '--retry-base-delay-ms', '500', '--concurrency', '3', '--batch-size', '20', '--refresh-report', '--target-languages', 'en,zh-CN']);
 
   assert.equal(args.missingOnly, true);
   assert.deepEqual(args.languages, ['zh-CN']);
@@ -397,6 +548,7 @@ test('translation parseArgs accepts report resolution command flags', () => {
   assert.equal(args.retries, 4);
   assert.equal(args.retryBaseDelayMs, 500);
   assert.equal(args.concurrency, 3);
+  assert.equal(args.batchSize, 20);
   assert.equal(args.refreshReport, true);
   assert.deepEqual(args.targetLanguages, ['en', 'zh-CN']);
 });
@@ -432,6 +584,45 @@ test('createZhipuProvider sends OpenAI-compatible chat completions to Zhipu', as
   assert.equal(calls[0].body.stream, false);
   assert.equal(calls[0].body.messages[0].role, 'system');
   assert.match(calls[0].body.messages[1].content, /Translate from en to zh-CN/);
+});
+
+test('createZhipuBatchProvider sends a JSON batch and parses fenced JSON results', async () => {
+  const calls = [];
+  const provider = createZhipuBatchProvider({
+    env: {
+      ZHIPUAI_API_KEY: 'zhipu-secret',
+      ZHIPUAI_BASE_URL: 'https://zhipu.local/api/paas/v4',
+      ZHIPUAI_MODEL: 'glm-test'
+    },
+    fetch: async (url, init) => {
+      calls.push({ url, init, body: JSON.parse(init.body) });
+      return {
+        ok: true,
+        json: async () => ({
+          choices: [{
+            message: {
+              content: '```json\n[{"id":"task_2","text":"标题"},{"id":"task_1","text":"正文"}]\n```'
+            }
+          }]
+        })
+      };
+    }
+  });
+
+  const translated = await provider({
+    items: [
+      { id: 'task_1', sourceLanguage: 'en', targetLanguage: 'zh-CN', fieldPath: 'promptText.translations.zh-CN', text: 'Prompt' },
+      { id: 'task_2', sourceLanguage: 'en', targetLanguage: 'zh-CN', fieldPath: 'title.translations.zh-CN', text: 'Title' }
+    ]
+  });
+
+  assert.deepEqual(translated, [
+    { id: 'task_2', text: '标题' },
+    { id: 'task_1', text: '正文' }
+  ]);
+  assert.equal(calls[0].url, 'https://zhipu.local/api/paas/v4/chat/completions');
+  assert.equal(calls[0].init.headers.authorization, 'Bearer zhipu-secret');
+  assert.match(calls[0].body.messages[1].content, /"id": "task_1"/);
 });
 
 test('createZhipuProvider falls back to generic AI translation settings', async () => {

@@ -20,7 +20,14 @@
       "value": "潮流视角重塑精致商品广告",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Trend Perspective Reshaping Exquisite Product Advertising",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:56.671Z"
+      }
+    }
   },
   "description": {
     "original": null,

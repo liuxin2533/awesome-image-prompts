@@ -20,7 +20,14 @@
       "value": "极简留白涂鸦手绘草图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Minimalist doodle sketch with white space",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:00:02.303Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "Create a premium futuristic infographic poster for Samsung Galaxy S25 in a vertical 3:4 aspect ratio. Center the Galaxy S25 phone lineup with multiple sleek smartphones shown from front and back angles, including a silver S Pen beside the main phone. Use a deep cosmic blue space background with stars, glowing light trails, luminous orbit rings, reflective glass floor, and distant mountain silhouettes for depth.\n\nAt the top, add bold clean text: \"SAMSUNG\", large headline \"Galaxy S25\", subheadline \"Galaxy AI\", and tagline \"Intelligence in Motion.\"\n\nDesign the poster as a modern tech infographic with thin glowing connector lines, circular icon badges, and clean feature callouts around the phones. Add these sections:\n\nGalaxy AI: Smarter every day\nPro Grade Camera: Capture every detail\nNext Gen Performance: Power that evolves\nBuilt to Last: Stronger inside and out\nBrilliant Display: Immersive edge to edge viewing\nS Pen Support: Create, sketch, and work faster\n\nAt the bottom, create a glowing spec bar with small icons and short feature blocks:\n\nPremium Design: Sleek. Refined. Timeless.\n50MP High-Resolution Camera: Stunning clarity, day or night.\nSnapdragon 8 Elite for Galaxy: Built for speed. Ready for anything.\nAll Day Battery: More power. Less worry.\nIP68 Water & Dust Resistance: Adventure ready. Worry free.\nStorage Options: Up to 1TB storage.\n\nStyle: ultra premium Samsung style product advertising, clean futuristic UI design, metallic typography, blue white neon glow, realistic phone render, sharp readable typography, cinematic lighting, glossy reflections, high end commercial poster, no humans, no messy text, no watermark.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为三星 Galaxy S25 创建一张高级未来信息图表海报，采用垂直 3:4 的宽高比。将 Galaxy S25 手机系列居中展示，多款时尚智能手机从前部和后部角度展示，包括主手机旁边的一支银色 S Pen。使用深空蓝色宇宙背景，配有星星、发光的光轨、发光的轨道环、反射玻璃地板和远处山脉剪影以增加深度。\n\n在顶部，添加粗体清晰的文字：\"SAMSUNG\"，大标题 \"Galaxy S25\"，副标题 \"Galaxy AI\"，以及标语 \"Intelligence in Motion.\"\n\n将海报设计为现代科技信息图表，带有细长的发光连接线、圆形图标徽章和围绕手机的清晰功能标注。添加以下部分：\n\nGalaxy AI：日益智能\nPro 级相机：捕捉每个细节\n下一代性能：不断进化的动力\n持久耐用：内外皆强\n卓越显示屏：沉浸式无边视觉\nS Pen 支持：更快地创作、绘画和工作\n\n在底部，创建一个发光的规格栏，带有小图标和简短的功能块：\n\n高级设计：时尚。精致。永恒。\n5000万像素高分辨率相机：无论日夜，都呈现惊人清晰度。\n为 Galaxy 定制的骁龙 8 旗舰版：为速度而生。万事皆备。\n全天候电池：更多电量。更少担忧。\nIP68 防水防尘：冒险就绪。无忧无虑。\n存储选项：最高 1TB 存储。\n\n风格：超高级三星风格产品广告，简洁未来 UI 设计，金属质感字体，蓝白霓虹光效，逼真手机渲染，清晰易读的字体，电影级照明，光泽反射，高端商业海报，无人，无杂乱文字，无水印。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:08.709Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Samsung Galaxy S25 Infographic Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "三星 Galaxy S25 信息图表海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:55.924Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "Create a clean, black-and-white instructional poster showing a {argument name=\"steps\" default=\"16-step\"} dance sequence performed by a single {argument name=\"dancer\" default=\"female dancer\"}.\r\nLayout:\r\n4x4 grid (16 panels total)\r\nEach panel shows the same dancer in a different pose\r\nFull-body, centered in each frame\r\nEven spacing, consistent framing across all panels\r\nDancer:\r\nFemale, long flowing hair\r\nWearing a fitted, reflective/sequined crop top and long flared skirt\r\nElegant, confident, expressive poses inspired by {argument name=\"dance style\" default=\"vogue and waacking\"} dance styles\r\nPanel Details:\r\nEach panel has a bold number (1–16) and a short title at the top (e.g., “WATER CALL,” “LIQUID RISE,” “VOGUE FRAME,” etc.)\r\nInclude small instructional captions at the bottom of each panel\r\nAdd subtle arrows and motion lines to show movement direction (arms, hips, body flow)\r\nStyle:\r\nBlack and white (monochrome)\r\nHigh contrast, sharp studio lighting\r\nFashion editorial photography look\r\nClean white or light gray background\r\nModern sans-serif typography\r\nOverall Feel:\r\nMinimalist, polished, magazine-quality layout\r\nSmooth progression of movement across all 16 frames\r\nDynamic but clean, easy-to-follow instructional design",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个简洁的黑白教学海报，展示由一位{argument name=\"dancer\" default=\"女舞者\"}表演的{argument name=\"steps\" default=\"16步\"}舞蹈序列。\n\n布局：\n4x4网格（共16个面板）\n每个面板展示同一位舞者的不同姿势\n全身，每帧居中\n均匀间距，所有面板保持一致的构图\n\n舞者：\n女性，飘逸的长发\n穿着合身的反光/亮片露脐上衣和长款喇叭裙\n优雅、自信、富有表现力的姿势，灵感来自{argument name=\"dance style\" default=\"vogue和waacking\"}舞蹈风格\n\n面板细节：\n每个面板顶部有一个粗体数字（1-16）和简短标题（例如：\"水之召唤\"、\"液体上升\"、\"Vogue姿态\"等）\n在每个面板底部添加小型说明文字\n添加细微的箭头和运动线条来显示运动方向（手臂、臀部、身体流动）\n\n风格：\n黑白（单色）\n高对比度，锐利的影棚灯光\n时尚编辑摄影风格\n干净的白色或浅灰色背景\n现代无衬线字体\n\n整体感觉：\n极简、精致、杂志质量的布局\n16帧之间流畅的动作进展\n动感但简洁、易于理解的教学设计",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:54.413Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "Generates a 16-step grid-based instructional poster for dance sequences in a minimalist monochrome style.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个16步网格式舞蹈序列教学海报，采用极简单色风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:55.396Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,10 +170,11 @@
     "status": "classified",
     "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "photography",
-      "photo"
+      "photo",
+      "摄影"
     ],
     "classifiedAt": "2026-05-06T11:03:21.565Z"
   }

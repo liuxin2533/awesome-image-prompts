@@ -6,7 +6,14 @@
       "value": "Transform the uploaded image into cinematic 3-frame sequential film stills (horizontal frames stacked vertically), full bleed edge-to-edge. Each frame should show a different moment from the same scene, with clear progression. Vary the composition, camera angle, and distances to create a sense of movement and storytelling. Use a cinematic, {argument name=\"color tone\" default=\"cooler-toned\"}, high-contrast, deep-space blacks film with a natural color grade. Add subtle film grain, slight motion blur, and natural imperfections to emulate analog photography. Keep the composition candid and emotionally grounded, with a sense of movement and quiet storytelling. Overall aesthetic: cinematic, nostalgic, and organic, like raw film stills.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "将上传的图像转换为电影感的三帧连续电影剧照（水平帧垂直堆叠），全出血边缘到边缘。每帧应展示同一场景的不同时刻，有清晰的进展。变化构图、相机角度和距离，以创造运动感和叙事感。使用电影感、{argument name=\"color tone\" default=\"cooler-toned\"}、高对比度、深空黑色电影，具有自然的色彩分级。添加微妙的胶片颗粒、轻微的运动模糊和自然的缺陷，以模拟模拟摄影。保持构图自然且情感真实，具有运动感和安静的叙事感。整体美学：电影感、怀旧感和有机感，就像原始电影剧照。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:35:33.342Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "A prompt for converting an image into a vertical stack of three sequential cinematic film stills.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个将图像转换为三个连续的电影剧照垂直堆叠的提示。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:35:36.139Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -96,19 +110,19 @@
   ],
   "categories": [
     {
-      "id": "comic-story",
-      "value": "Comic & Story",
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "comic-story-zh-cn",
-      "value": "漫画与叙事",
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "comic-story"
+      "translationOf": "photography-portrait"
     }
   ],
   "sources": [
@@ -149,15 +163,15 @@
   "updatedAt": "2026-05-06T11:02:37.126Z",
   "classification": {
     "status": "classified",
-    "categoryId": "comic-story",
+    "categoryId": "photography-portrait",
     "source": "rule",
     "confidence": 1,
     "matchedBy": [
-      "comic",
-      "story",
-      "漫画",
-      "故事"
+      "photography",
+      "photo",
+      "camera",
+      "摄影"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.563Z"
+    "classifiedAt": "2026-05-06T11:41:23.656Z"
   }
 }

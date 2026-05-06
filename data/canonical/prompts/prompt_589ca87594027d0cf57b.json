@@ -6,7 +6,14 @@
       "value": "Create a scene with 100 elements, and list the 100 elements within the image.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个包含100个元素的场景，并在图像中列出这100个元素。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:10.459Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "100 Elements Scene Inventory",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "100个元素场景清单",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:09.971Z"
+      }
+    }
   },
   "description": {
     "original": {
@@ -22,7 +36,14 @@
       "value": "Reconstructed from the tweet text: \"I asked ChatGPT Image v2 for 100 elements in a scene. Not only did it create a scene with 100 items, but it also listed them within the image!\"",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "我要求ChatGPT Image v2创建一个包含100个元素的场景。它不仅创建了一个包含100个物品的场景，还在图像中列出了这些物品！",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:13.407Z"
+      }
+    }
   },
   "sourceCategories": [
     {

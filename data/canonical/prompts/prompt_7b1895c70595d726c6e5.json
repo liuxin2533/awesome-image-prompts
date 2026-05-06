@@ -6,7 +6,14 @@
       "value": "A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visible with realistic transparency and light refraction. The glass has subtle condensation droplets, adding freshness. Soft natural studio lighting creates delicate highlights and a clean shadow beneath the glass. Ultra-sharp focus, premium beverage advertisement style, DSLR macro photography, hyper realistic, 8K.\n\nPROMPT 2 - Create a hyper-realistic exploded vertical infographic composition of an iced coffee.\n\nTop → Bottom structure:\nFoam Layer (light creamy foam with soft airy texture)\n→ Coffee Liquid (rich dark espresso layer with smooth gradient)\n→ Ice Cubes (transparent cubes with sharp edges and reflections)\n→ Milk Layer (soft creamy white layer with smooth blend effect)\n→ Glass Base (clear minimal glass structure)\n\nAll elements must be perfectly centered, evenly spaced, and aligned vertically. Use a soft beige seamless background with clean café-style lighting and subtle realistic shadows beneath each floating element. The composition should feel like a premium beverage ad combined with a clean infographic layout.\n\nAdd clean minimalist text labels with thin pointer lines using these exact labels:\n“Foam”\n“Coffee”\n“Ice”\n“Milk”\n“Glass”\nUltra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端咖啡馆风格的产品照片，展示一个装满冰咖啡的透明玻璃杯，中心放置在柔和的米色和奶油色无缝工作室背景前。饮品呈现出浓郁的深咖啡底与奶油色漩涡混合，形成平滑的渐变效果。可见几个透明冰块，具有真实的透明度和光线折射。玻璃杯上有细微的冷凝水滴，增添新鲜感。柔和的自然工作室光线在玻璃杯下创造出精致的亮光和干净的阴影。超锐利对焦，高端饮料广告风格，DSR微距摄影，超写实，8K。\n\n提示词2 - 创建一个超写实爆炸式垂直信息图表构图，展示冰咖啡。\n\n从上到下的结构：\n泡沫层（轻盈的奶油泡沫，带有柔软的空气质感）\n→ 咖啡液体（浓郁的深浓缩咖啡层，带有平滑渐变）\n→ 冰块（透明立方体，带有锐利边缘和反射）\n→ 牛奶层（柔软的奶油白色层，带有平滑混合效果）\n→ 玻璃底座（简约透明玻璃结构）\n\n所有元素必须完美居中，间距均匀，并垂直对齐。使用柔和的米色无缝背景，搭配干净的咖啡馆风格照明，以及每个浮动元素下方的微妙真实阴影。构图应感觉像是高端饮料广告与简洁信息图表布局的结合。\n\n添加简洁的极简主义文本标签，使用细指针线和这些确切标签：\n\"泡沫\"\n\"咖啡\"\n\"冰\"\n\"牛奶\"\n\"玻璃\"\n超写实液体细节，锐利反射，高端商业摄影，8K。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:34:53.425Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Iced Coffee Product Infographic",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "冰咖啡产品信息图",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:35:12.705Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -31,19 +45,19 @@
   ],
   "categories": [
     {
-      "id": "poster-illustration",
-      "value": "Poster & Illustration",
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "poster-illustration-zh-cn",
-      "value": "海报与插画",
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "poster-illustration"
+      "translationOf": "photography-portrait"
     }
   ],
   "sources": [
@@ -71,13 +85,15 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "poster-illustration",
+    "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 1,
     "matchedBy": [
-      "poster",
-      "illustration"
+      "photography",
+      "photo",
+      "摄影",
+      "写实"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.550Z"
+    "classifiedAt": "2026-05-06T11:41:23.601Z"
   }
 }

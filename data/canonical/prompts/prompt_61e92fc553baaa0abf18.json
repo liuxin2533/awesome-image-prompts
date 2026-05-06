@@ -21,7 +21,14 @@
       "value": "界面交互设计图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Interface Interaction Design Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:57:01.607Z"
+      }
+    }
   },
   "description": {
     "original": null,

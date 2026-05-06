@@ -21,7 +21,14 @@
       "value": "GPT-Image-2 Detail Showcase",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GPT-Image-2 详细展示",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:22:57.717Z"
+      }
+    }
   },
   "description": {
     "original": null,

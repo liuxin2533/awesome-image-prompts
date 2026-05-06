@@ -6,7 +6,14 @@
       "value": "A cinematic anime-style vertical book-cover illustration for a romantic comedy light novel with slight fantasy atmosphere, split by a thin apartment wall down the center. On the left side, a warm, cozy kitchen glows in amber light from a hanging pendant lamp. A {argument name=\"female character name\" default=\"Nanako Iida\"}, age 28, stands in three-quarter view holding a deep plate of freshly cooked food with visible steam rising in elegant curls. She has dark hair tied in a messy bun, soft bangs, a gentle mature expression, and wears a lavender knit sweater under a white apron. The kitchen contains exact visible details: 1 hanging lamp, 1 upper shelf with cookware, 5 hanging utensils, 1 cutting board, 1 knife block, and 6 small bottles or jars lined across the foreground counter. On the right side, a dim, cool-toned bachelor bedroom is lit in blue shadows. A {argument name=\"male character name\" default=\"Sota Ninomiya\"}, age 26, slim but muscular, with tousled dark hair and a fitted charcoal T-shirt, leans one hand against the wall as if sensing the aroma through it. His room contains 1 bed, 1 bookshelf, 1 desk lamp, and 1 wall poster. A ribbon of steam drifts from the dish across the center wall into his side, visually connecting them. The mood is intimate, sensual, and slightly teasing, emphasizing the contrast between warm home cooking and lonely nighttime restraint. Add elegant Japanese vertical catch copy on the wall and upper right, small white serif-style name labels beside both characters with their ages, and a large bold Japanese title block across the lower middle. Include these exact text elements: left name label \"Nanako Iida 28歳\", right name label \"Sota Ninomiya 26歳\", vertical wall text \"その香りが、ふたりの距離を、そっと溶かしていく。\", upper-right vertical text \"隣人は、優しい香りと、秘密のレシピ。\", large center title \"《飯テロ恋愛小説》\\n夜中に読まないでください〜\\n〜お隣のストイックくんは、\\n隣のお姉さんの愛の飯テロに勝てない〜\", and bottom tagline \"毎晩続く深夜の罪な料理の香り。\\n壁一枚の距離と心を溶かす\". Highly polished promotional cover art, soft bloom lighting, detailed fabric folds, realistic steam, romantic tension, glossy illustrated publishing design.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一部具有轻微奇幻氛围的浪漫喜剧轻小说的垂直书籍封面插图，采用电影感的动漫风格，中间被一道薄薄的公寓墙壁分隔。左侧，一个温暖舒适的厨房在悬挂吊灯的琥珀色光芒下发光。一位28岁的{argument name=\"female character name\" default=\"Nanako Iida\"}以四分之三视角站立，手中端着一个盛有刚烹饪好的食物的深盘，可见蒸汽优雅地盘旋上升。她深色头发扎成凌乱的发髻，有柔软的刘海，表情温柔成熟，穿着白色围裙下的薰衣草色针织毛衣。厨房包含精确可见的细节：1个悬挂灯，1个带有炊具的上层架子，5个悬挂的厨具，1个砧板，1个刀具架，以及6个小瓶子或罐子排列在前台台面上。右侧，一个昏暗、冷色调的单身卧室在蓝色阴影中照明。一位26岁的{argument name=\"male character name\" default=\"Sota Ninomiya\"}，身材瘦削但肌肉发达，头发凌乱深色，穿着合身的炭灰色T恤，一只手靠在墙上，仿佛在透过墙壁闻到香气。他的房间包含1张床，1个书架，1台台灯，和1张墙上海报。一缕蒸汽从盘子飘过中心墙进入他的区域，视觉上将他们连接起来。氛围亲密、性感且略带挑逗，强调温暖的家庭烹饪与孤独的夜间克制之间的对比。在墙上和右上角添加优雅的日文垂直标语，在两个角色旁边添加带有年龄的小白色衬线风格姓名标签，并在中下部添加一个粗体的大日文标题块。包含这些确切的文本元素：左侧姓名标签\"Nanako Iida 28歳\"，右侧姓名标签\"Sota Ninomiya 26歳\"，垂直墙文字\"その香りが、ふたりの距離を、そっと溶かしていく。\"，右上角垂直文字\"隣人は、優しい香りと、秘密のレシピ。\"，大中心标题\"《飯テロ恋愛小説》\\n夜中に読まないでください〜\\n〜お隣のストイックくんは、\\n隣のお姉さんの愛の飯テロに勝てない〜\"，底部标语\"毎晩続く深夜の罪な料理の香り。\\n壁一枚の距離と心を溶かす\"。高度抛光的宣传封面艺术，柔和的辉光照明，精细的织物褶皱，逼真的蒸汽，浪漫的张力，光滑的插图出版设计。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:49:01.288Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a polished anime-style Japanese light novel cover showing neighboring adults divided by a wall, ideal for romance-comedy or food-themed book promotion.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成精致的动漫风格日本轻小说封面，展示被一堵墙隔开的邻居成年人，适合浪漫喜剧或美食主题的书籍推广。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:49:04.975Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -96,19 +110,19 @@
   ],
   "categories": [
     {
-      "id": "comic-story",
-      "value": "Comic & Story",
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "comic-story-zh-cn",
-      "value": "漫画与叙事",
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "comic-story"
+      "translationOf": "poster-illustration"
     }
   ],
   "sources": [
@@ -149,15 +163,15 @@
   "updatedAt": "2026-05-06T11:02:37.126Z",
   "classification": {
     "status": "classified",
-    "categoryId": "comic-story",
+    "categoryId": "poster-illustration",
     "source": "rule",
     "confidence": 1,
     "matchedBy": [
-      "comic",
-      "story",
-      "漫画",
-      "故事"
+      "poster",
+      "illustration",
+      "anime",
+      "海报"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.568Z"
+    "classifiedAt": "2026-05-06T11:41:23.661Z"
   }
 }

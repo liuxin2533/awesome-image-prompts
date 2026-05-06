@@ -6,7 +6,14 @@
       "value": "A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natural lighting. A large bowl of braised beef noodle soup with wide noodles, tender beef chunks, bok choy, and green onions sits in the foreground. Surrounding dishes include a bowl of rice topped with raw egg yolk, seaweed, kimchi, and chopped vegetables; a plate of Taiwanese fried chicken and tofu with greens; stir-fried water spinach with garlic; and a small dish of marinated vegetables. A tall elegant glass dessert with shrimp salad layered inside stands in the center. Wooden table surface, ceramic bowls, and a teapot in the background create a homely aesthetic. Handwritten-style Chinese text annotations and doodles are scattered around the dishes, adding a playful, lifestyle-blog feel. Soft depth of field, warm tones, high detail, food photography style.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个温馨的餐厅餐桌上摆满了色彩鲜艳的台湾美食，在温暖的自然光下拍摄。前景中是一个大碗的台湾牛肉面，里面有宽面条、嫩牛肉块、小白菜和青葱。周围的菜肴包括一碗米饭，上面有生蛋黄、海带、泡菜和切好的蔬菜；一盘台湾炸鸡和豆腐配青菜；蒜炒空心菜；以及一小盘腌制的蔬菜。中央立着一个优雅的高脚玻璃甜点杯，里面分层放着沙拉虾。木质桌面、陶瓷碗和背景中的茶壶营造出一种温馨的美感。手写风格的中文文字注释和涂鸦散落在菜肴周围，增添了活泼的生活方式博客感。柔和的景深，温暖的色调，高细节，美食摄影风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:31:19.515Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Taiwanese Food Blog Spread",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "台湾美食博客布局",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:31:29.329Z"
+      }
+    }
   },
   "description": {
     "original": null,

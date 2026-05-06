@@ -6,7 +6,14 @@
       "value": "A dark fantasy gothic poster in a vertical composition, painted in a highly detailed anime-inspired style with dramatic lighting and rich texture. At the center is a beautiful young woman with long straight {argument name=\"hair color\" default=\"silver-white\"} hair, pale skin, and an elegant, calm but dangerous presence. Her face is mostly obscured in shadow and mystery. She wears an ornate black-and-deep-blue crystalline dress with lace, feathered and jagged organic details, semi-transparent flowing sleeves, and glowing blue highlights across the bodice and collar, as if infused with magic. Her right hand is raised slightly with an open gesture, while her left hand rests lower near her waist. Surrounding and partly growing from her are luminous blue butterflies and shard-like petals, creating a sense of transformation and corruption. Behind her looms a gigantic monstrous entity made of darkness, ink, smoke, and cosmic texture, with exactly 7 glowing blue eyes visible and a huge fanged grin packed with sharp icy-blue teeth. The creature feels Lovecraftian, predatory, and intimate, curling around her like a guardian, curse, or inner demon. The palette is dominated by black, midnight navy, indigo, and electric blue, with sparkling highlights like stars or wet paint splatter. Add a decorative antique silver filigree border in all 4 corners and along the edges, making it feel like a sinister book cover or exhibition poster. Place large Japanese title text at the top: {argument name=\"title text\" default=\"私の中のバケモノ\"}. Add 8 blocks of vertical Japanese copy around the figure, 4 on the left and 4 on the right, in elegant white Mincho-style type. Left side text blocks, top to bottom: 「創造の源、すべてを壊し、すべてを生む。」, 「正しさよりも、心が動く瞬間を信じる。」, 「美しいものに飢えている。」, 「静けさの中で、世界をかき混ぜる。」. Right side text blocks, top to bottom: 「感情を深く、人の痛みも、希望も、まるごと抱きしめる。」, 「枠を壊し、誰も見たことのない景色を描きたい。」, 「怖い、危ない、それでも止められない。」, plus a short atmospheric handwritten-style accent near the mid-right edge. At the lower center, add a large Japanese question line: {argument name=\"bottom question\" default=\"これは、力？それとも、呪い？\"}. At the very bottom, add a smaller Japanese line: {argument name=\"tagline text\" default=\"私の中のバケモノは、私だけの物語を待っている。\"}. Make the whole image feel obsessive, beautiful, unsettling, and emotionally intense, like a high-end dark art poster about inner monsters and creative power.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "黑暗幻想哥特海报，垂直构图，以高度详细的动漫风格绘制，具有戏剧性的光照和丰富的质感。中心是一位美丽的年轻女子，拥有长长的直发{argument name=\"hair color\" default=\"silver-white\"}，苍白的皮肤，以及优雅、平静但危险的气质。她的脸大部分隐藏在阴影和神秘之中。她穿着精致的黑色和深蓝色水晶连衣裙，带有蕾丝、羽毛状和锯齿状的有机细节，半透明的流动袖子，以及胸衣和领口处的发光蓝色高光，仿佛注入了魔法。她的右手略微抬起，做出开放的手势，而左手则放在腰部附近。周围并部分从她身上生长的是发光的蓝色蝴蝶和碎片状的花瓣，创造出一种转变和腐化的感觉。在她身后，是一个由黑暗、墨水、烟雾和宇宙纹理构成的巨大怪物实体，可以看到正好7只发光的蓝色眼睛，以及一个巨大的獠牙笑容，里面塞满了锋利的冰蓝色牙齿。这个生物具有克苏鲁式的、捕食性的和亲密的感觉，像守护者、诅咒或内心的恶魔一样缠绕着她。色调以黑色、午夜海军蓝、靛蓝和电蓝色为主，点缀着像星星或湿油漆飞溅般的闪烁高光。在所有4个角落和边缘添加装饰性的古银丝细工边框，使其感觉像邪恶的书籍封面或展览海报。在顶部放置大型日语标题文本：{argument name=\"title text\" default=\"私の中のバケモノ\"}。在人物周围添加8块垂直日语文本块，左右各4块，使用优雅的白色明朝风格字体。左侧文本块，从上到下：「創造の源、すべてを壊し、すべてを生む。」, 「正しさよりも、心が動く瞬間を信じる。」, 「美しいものに飢えている。」, 「静けさの中で、世界をかき混ぜる。」。右侧文本块，从上到下：「感情を深く、人の痛みも、希望も、まるごと抱きしめる。」, 「枠を壊し、誰も見たことのない景色を描きたい。」, 「怖い、危ない、それでも止められない。」，以及在右中边缘附近添加一个简短的手写风格氛围点缀。在下方中央，添加一条大型日语问题线：{argument name=\"bottom question\" default=\"これは、力？それとも、呪い？\"}。在最底部，添加一条较小的日语线：{argument name=\"tagline text\" default=\"私の中のバケモノは、私だけの物語を待っている。\"}。让整个图像感觉痴迷、美丽、不安和情感强烈，就像一个关于内心怪物和创造力的高端黑暗艺术海报。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:59:44.627Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a dramatic gothic anime-style poster of a silver-haired woman and a blue-eyed eldritch monster, ideal for moody art campaigns, book-cover concepts, or social media design pieces.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一张戏剧性的哥特动漫风格海报，描绘银发女子和蓝眼克苏鲁怪物，适合忧郁的艺术宣传活动、书籍封面概念或社交媒体设计作品。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:59:25.371Z"
+      }
+    }
   },
   "sourceCategories": [
     {

@@ -6,7 +6,14 @@
       "value": "{\"type\":\"Chinese e-commerce product marketing board\",\"product\":{\"category\":\"instant grain powder drink\",\"brand\":\"五谷磨房\",\"name\":\"核桃芝麻黑豆粉\",\"packaging\":\"matte black retail box with gold Chinese typography and a large swirling bowl graphic on the front, plus individual black sachets inside\",\"net weight\":\"320g (32g×10袋)\"},\"style\":{\"overall\":\"premium dark food advertising layout\",\"color palette\":[\"black\",\"deep brown\",\"warm gold\",\"beige\",\"walnut brown\"],\"lighting\":\"dramatic studio lighting with glossy highlights and warm rim light\",\"mood\":\"luxurious, nourishing, healthy, appetizing\"},\"layout\":{\"format\":\"single tall composite board divided into 5 major sections plus a bottom storyboard table\",\"sections\":[{\"title\":\"主图/Main image\",\"position\":\"top-left\",\"count\":8,\"labels\":[\"五谷磨房\",\"核桃芝麻黑豆粉\",\"32g×10袋 独立包装\",\"五黑谷物\",\"香浓醇厚\",\"独立小袋\",\"即冲即饮\",\"product box and drink cup\"]},{\"title\":\"详情页/Details page\",\"position\":\"top-right\",\"count\":5,\"labels\":[\"黑芝麻\",\"黑豆\",\"黑米\",\"核桃\",\"谷物粉\"]},{\"title\":\"香浓细腻 顺滑好喝\",\"position\":\"mid-right\",\"count\":4,\"labels\":[\"一冲即饮 营养美味\",\"粉质细腻 Fine powder\",\"浓香醇厚 Rich & Smooth\",\"营养代餐 Nutritious\"]},{\"title\":\"冲泡方式 HOW TO MAKE\",\"position\":\"mid-left lower\",\"count\":3,\"labels\":[\"1 倒入一袋粉(32g)\",\"2 加入200ml 热水或牛奶\",\"3 搅拌均匀 即可享用\"]},{\"title\":\"一杯好谷物 轻松好生活\",\"position\":\"lower-left\",\"count\":4,\"labels\":[\"元气早餐\",\"办公室下午茶\",\"健身代餐\",\"睡前暖饮\"]},{\"title\":\"独立小袋 随身携带\",\"position\":\"lower-right\",\"count\":3,\"labels\":[\"独立小袋 便携卫生\",\"锁住新鲜 防潮防氧化\",\"1袋1杯 精准份量\"]},{\"title\":\"视频推广广告 seedance 2.0 视频提示词 + 分镜头脚本\",\"position\":\"bottom full width\",\"count\":7,\"labels\":[\"镜头1 开场-产品展示\",\"镜头2 食材特写\",\"镜头3 倒粉入杯\",\"镜头4 冲泡搅拌\",\"镜头5 饮用场景\",\"镜头6 产品卖点\",\"镜头7 结尾口号\"]}],\"grid\":\"top area split into left main image and right detail page; middle area split into preparation guide and feature panel; lower area split into lifestyle scenarios and sachet carry section; bottom is a full-width tabular storyboard\"},\"scene_elements\":{\"ingredients\":[{\"name\":\"black sesame\",\"form\":\"small black seeds in a round bowl\"},{\"name\":\"black beans\",\"form\":\"glossy whole beans in a round bowl\"},{\"name\":\"black rice\",\"form\":\"dark long grains in a round bowl\"},{\"name\":\"walnuts\",\"form\":\"walnut halves in a round bowl\"},{\"name\":\"grain powder\",\"form\":\"light beige powder in a round bowl\"}],\"serving\":{\"drink\":\"thick gray-brown sesame walnut bean beverage with smooth surface swirl\",\"cup\":\"transparent glass cup with handle\",\"utensil\":\"metal spoon stirring or resting inside drink\"},\"supporting props\":[\"walnuts on table\",\"scattered black beans\",\"grain stalks or wheat stems\",\"dark tabletop\",\"ingredient bowls\",\"open package showing 5 visible sachets\"]},\"text_treatment\":{\"headline_font\":\"bold elegant Chinese display type in metallic gold\",\"body_font\":\"clean sans serif Chinese with occasional English subtitles\",\"accent\":\"thin gold divider lines and circular ingredient frames\"},\"camera_and_composition\":{\"product_shots\":\"front-facing hero box, angled sachet display box, close-up beverage macro\",\"food_photography\":\"high-detail commercial food styling, shallow depth of field, crisp texture emphasis\",\"aspect_ratio\":\"portrait, approximately 9:16\"},\"quality\":\"ultra-detailed commercial design mockup, polished e-commerce key visual plus details page plus ad storyboard, 4K\"}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"中国电商产品营销板\",\"product\":{\"category\":\"谷物速溶粉饮品\",\"brand\":\"五谷磨房\",\"name\":\"核桃芝麻黑豆粉\",\"packaging\":\"哑光黑色零售盒，正面有金色中文排版和大型漩涡碗图形，内部有独立黑色小袋\",\"net_weight\":\"320g (32g×10袋)\"},\"style\":{\"overall\":\"高端深色食品广告布局\",\"color_palette\":[\"黑色\",\"深棕色\",\"暖金色\",\"米色\",\"胡桃棕色\"],\"lighting\":\"戏剧性影棚灯光，带有光泽高光和暖边缘光\",\"mood\":\"奢华、滋养、健康、诱人\"},\"layout\":{\"format\":\"单块高复合板，分为5个主要区域，底部有一个分镜表\",\"sections\":[{\"title\":\"主图/Main image\",\"position\":\"top-left\",\"count\":8,\"labels\":[\"五谷磨房\",\"核桃芝麻黑豆粉\",\"32g×10袋 独立包装\",\"五黑谷物\",\"香浓醇厚\",\"独立小袋\",\"即冲即饮\",\"产品盒和饮杯\"]},{\"title\":\"详情页/Details page\",\"position\":\"top-right\",\"count\":5,\"labels\":[\"黑芝麻\",\"黑豆\",\"黑米\",\"核桃\",\"谷物粉\"]},{\"title\":\"香浓细腻 顺滑好喝\",\"position\":\"mid-right\",\"count\":4,\"labels\":[\"一冲即饮 营养美味\",\"粉质细腻 Fine powder\",\"浓香醇厚 Rich & Smooth\",\"营养代餐 Nutritious\"]},{\"title\":\"冲泡方式 HOW TO MAKE\",\"position\":\"mid-left lower\",\"count\":3,\"labels\":[\"1 倒入一袋粉(32g)\",\"2 加入200ml 热水或牛奶\",\"3 搅拌均匀 即可享用\"]},{\"title\":\"一杯好谷物 轻松好生活\",\"position\":\"lower-left\",\"count\":4,\"labels\":[\"元气早餐\",\"办公室下午茶\",\"健身代餐\",\"睡前暖饮\"]},{\"title\":\"独立小袋 随身携带\",\"position\":\"lower-right\",\"count\":3,\"labels\":[\"独立小袋 便携卫生\",\"锁住新鲜 防潮防氧化\",\"1袋1杯 精准份量\"]},{\"title\":\"视频推广广告 seedance 2.0 视频提示词 + 分镜头脚本\",\"position\":\"bottom full width\",\"count\":7,\"labels\":[\"镜头1 开场-产品展示\",\"镜头2 食材特写\",\"镜头3 倒粉入杯\",\"镜头4 冲泡搅拌\",\"镜头5 饮用场景\",\"镜头6 产品卖点\",\"镜头7 结尾口号\"]}],\"grid\":\"顶部区域分为左侧主图和右侧详情页；中部区域分为冲泡指南和特色面板；下部区域分为生活场景和便携小袋区域；底部是全宽分镜表\"},\"scene_elements\":{\"ingredients\":[{\"name\":\"黑芝麻\",\"form\":\"圆形碗中的小黑籽\"},{\"name\":\"黑豆\",\"form\":\"圆形碗中有光泽的完整豆子\"},{\"name\":\"黑米\",\"form\":\"圆形碗中的深色长粒\"},{\"name\":\"核桃\",\"form\":\"圆形碗中的核桃半片\"},{\"name\":\"谷物粉\",\"form\":\"圆形碗中的浅米色粉末\"}],\"serving\":{\"drink\":\"浓稠的灰褐色芝麻核桃豆饮品，表面有光滑漩涡\",\"cup\":\"带把手的透明玻璃杯\",\"utensil\":\"在饮品中搅拌或放置的金属勺\"},\"supporting_props\":[\"桌上的核桃\",\"散落的黑豆\",\"谷物穗或小麦茎\",\"深色桌面\",\"食材碗\",\"打开的包装，显示5个可见小袋\"]},\"text_treatment\":{\"headline_font\":\"粗体优雅的中文金属金色显示字体\",\"body_font\":\"简洁的无衬线中文字体，偶尔有英文字幕\",\"accent\":\"细金色分隔线和圆形食材框\"},\"camera_and_composition\":{\"product_shots\":\"正面主产品盒，倾斜的小袋展示盒，饮品特写镜头\",\"food_photography\":\"高细节商业食品造型，浅景深，清晰纹理强调\",\"aspect_ratio\":\"纵向，约9:16\"},\"quality\":\"超精细商业设计模型，精美的电商主视觉图加详情页加广告分镜，4K\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:40.700Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "E-commerce Main Image - Premium Grain Powder Ad Board",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电子商务主图 - 优质谷物粉广告板",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:06.530Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -89,8 +103,6 @@
       "marketing",
       "e-commerce",
       "产品",
-      "营销",
-      "电商",
       "详情页",
       "主图"
     ],

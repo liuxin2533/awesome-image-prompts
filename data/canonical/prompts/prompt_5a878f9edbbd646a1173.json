@@ -6,7 +6,14 @@
       "value": "Create a hyper-realistic commercial product splash shot of a large white plastic whey protein tub labeled {argument name=\"brand name\" default=\"PUREZZA\"} and {argument name=\"product name\" default=\"WHEYPRO\"}, floating slightly above a glass filled with thick chocolate protein shake. The tub is centered, angled slightly to the right, with a clean glossy surface and a bold blue, white, and black label design. The label should prominently read “100% WPC PROTEIN MILK” and include small nutrition callouts such as “82G PROTEIN,” “2G SUGAR/SERVING,” “119% RDI OF VC,” “100% CHOLINE,” a circular “GMP” badge, a black strip reading “WHEY MILK PROTEIN CONCENTRATE,” another strip reading “LOW SUGAR / LOW FAT / RICH NATURAL,” and a flavor tag reading {argument name=\"flavor text\" default=\"BLACK COOKIES FLAVOUR\"}. Surround the tub with an explosive upward and outward splash of glossy chocolate liquid, with dramatic arcs, droplets, and suspended motion frozen in midair. Include exactly 5 whole chocolate sandwich cookies flying around the product and multiple broken cookie chunks and crumbs scattered throughout the scene, with one partially visible cookie near the lower right and another near the upper left. The glass at the bottom should be only partially visible, transparent, and overflowing from the impact of the splash. Use a high-contrast studio background with a dark deep blue gradient on the left fading to bright white on the right, cinematic rim lighting, crisp reflections, ultra-sharp focus on the tub, and detailed texture in the liquid and cookie crumbs. The overall look should be premium sports nutrition advertising, dynamic, energetic, and suitable for a hero image on a modern ecommerce fitness website.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个超逼真的商业产品飞溅镜头，展示一个大型白色塑料乳清蛋白桶，标签上标有 {argument name=\"brand name\" default=\"PUREZZA\"} 和 {argument name=\"product name\" default=\"WHEYPRO\"}，漂浮在一个装满浓稠巧克力蛋白奶昔的玻璃杯上方。桶居中，略微向右倾斜，具有光滑的清洁表面和醒目的蓝色、白色和黑色标签设计。标签应醒目地显示\"100% WPC 蛋白质牛奶\"，并包含小型营养信息，如\"82G 蛋白质\"、\"2G 糖/份\"、\"119% VC RDI\"、\"100% 胆碱\"，一个圆形的\"GMP\"徽章，一条写着\"乳清牛奶蛋白浓缩物\"的黑色条纹，另一条写着\"低糖/低脂/富含天然\"的条纹，以及一个风味标签，显示 {argument name=\"flavor text\" default=\"BLACK COOKIES FLAVOUR\"}。用爆炸性的向上和向外的巧克力液体飞溅包围桶，具有戏剧性的弧线、液滴和悬停在半空中的冻结动作。包含正好5个完整的巧克力三明治饼干在产品周围飞舞，以及多个破碎的饼干块和碎屑散布在整个场景中，右下角有一个部分可见的饼干，左上角有另一个。底部的玻璃杯应仅部分可见，透明，并且因飞溅冲击而溢出。使用高对比度工作室背景，左侧是深蓝色渐变，渐变到右侧的亮白色，电影般的边缘照明，清晰的反射，对桶的超锐利聚焦，以及液体和饼干碎屑的精细纹理。整体外观应为高端运动营养广告，充满动感、活力，适合作为现代电子商务健身网站的主图。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:16.333Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a dramatic premium supplement product advertisement with a floating whey tub, chocolate splash, and flying cookies for ecommerce or fitness brand web assets.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一个引人注目的优质补充剂产品广告，包含漂浮的乳清蛋白桶、巧克力飞溅和飞舞的饼干，适用于电子商务或健身品牌的网络资产。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:02.846Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -161,6 +175,7 @@
       "product",
       "e-commerce",
       "ecommerce",
+      "产品",
       "电商",
       "主图"
     ],

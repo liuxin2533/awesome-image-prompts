@@ -20,7 +20,14 @@
       "value": "奢华魅力黑人女性海滨摄影",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Luxurious and glamorous Black woman beach photography",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:55:50.386Z"
+      }
+    }
   },
   "description": {
     "original": null,

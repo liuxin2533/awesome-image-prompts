@@ -21,7 +21,14 @@
       "value": "analyze this photo and give me a detailed JSON prompt that recreates it. brea...",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "分析这张照片并给我一个详细的JSON提示来重新创建它。brea...",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:30.025Z"
+      }
+    }
   },
   "description": {
     "original": null,

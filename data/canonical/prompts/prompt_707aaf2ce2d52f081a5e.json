@@ -26,7 +26,14 @@
       "value": "9:16 Cosplayer Portrait Screenshot",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "9:16 Cosplayer人像截图",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:22:50.528Z"
+      }
+    }
   },
   "description": {
     "original": null,

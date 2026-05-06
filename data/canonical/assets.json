@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2026-05-04",
-  "generatedAt": "2026-05-06T11:19:16.392Z",
+  "generatedAt": "2026-05-06T13:43:25.438Z",
   "assets": [
     {
       "id": "asset_53ef2531724084fc",
@@ -11831,6 +11831,46 @@
       "alt": "Poster 4",
       "status": "pending",
       "promptId": "prompt_f7e81afcb643ff4cc06a"
+    },
+    {
+      "id": "asset_e977d4642c306d79",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case114/output.jpg",
+      "upstreamPath": "images/case_case114/output.jpg",
+      "localPath": "public/assets/prompt_26034859824e44f373b2/a1607790a68e.jpg",
+      "alt": "Output image",
+      "status": "pending",
+      "promptId": "prompt_26034859824e44f373b2"
+    },
+    {
+      "id": "asset_54edc064c07227e8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case115/output.jpg",
+      "upstreamPath": "images/case_case115/output.jpg",
+      "localPath": "public/assets/prompt_4ea36f078e2e4ece8046/1004a194b409.jpg",
+      "alt": "Output image",
+      "status": "pending",
+      "promptId": "prompt_4ea36f078e2e4ece8046"
+    },
+    {
+      "id": "asset_e65531a746fdb912",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case117/output.jpg",
+      "upstreamPath": "images/case_case117/output.jpg",
+      "localPath": "public/assets/prompt_7440c46718963b2ffac1/93e9f9e06e52.jpg",
+      "alt": "Output image",
+      "status": "pending",
+      "promptId": "prompt_7440c46718963b2ffac1"
+    },
+    {
+      "id": "asset_f7a201550cb32b07",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case116/output.jpg",
+      "upstreamPath": "images/case_case116/output.jpg",
+      "localPath": "public/assets/prompt_eb6d5e25267fc6b1b6f7/8d17f9c0ce3f.jpg",
+      "alt": "Output image",
+      "status": "pending",
+      "promptId": "prompt_eb6d5e25267fc6b1b6f7"
     }
   ]
 }

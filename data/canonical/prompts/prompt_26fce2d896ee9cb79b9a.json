@@ -6,7 +6,14 @@
       "value": "{\"type\":\"bilingual English learning worksheet poster\",\"style\":\"clean educational infographic with anime character mascot, bright pastel stationery theme, white graph-paper background, rounded shapes, glossy headline lettering, print-friendly vertical A4 layout\",\"topic\":\"business English fill-in-the-blank quiz\",\"language\":\"Japanese and English\",\"audience\":\"Japanese learners of English\",\"layout\":{\"orientation\":\"portrait\",\"sections\":[{\"title\":\"Cool Business English!\",\"position\":\"top header\",\"count\":2,\"labels\":[\"Cool Business English!\",\"使いこなせるとカッコいいビジネスフレーズ10選\"]},{\"title\":\"Fill in the blanks / 穴埋め問題\",\"position\":\"below header\",\"count\":1,\"labels\":[\"Fill in the blanks / 穴埋め問題\"]},{\"title\":\"worksheet items\",\"position\":\"left and center main panel\",\"count\":10,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\"]},{\"title\":\"footer banner\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"For Japanese learners / English learning worksheet\"]}],\"main_panel\":\"large rounded white worksheet box with thin teal outline and dotted divider lines between each question\",\"right_panel\":\"full-body anime girl standing along the right side, partially overlapping the worksheet\",\"decorations\":{\"count\":10,\"labels\":[\"top-left teal corner ribbon\",\"pink triangle\",\"yellow circle\",\"small teal dots\",\"right-side pen icon\",\"bottom-left open book icon\",\"bottom-right pencil icon\",\"teal exclamation marks near character\",\"pastel geometric scribbles\",\"light cyan and pink abstract corner accents\"]}},\"text\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"Cool Business English!\\\"}\",\"subheadline\":\"使いこなせるとカッコいいビジネスフレーズ10選\",\"badge\":\"Fill in the blanks / 穴埋め問題\",\"footer\":\"For Japanese learners / English learning worksheet\",\"questions\":[{\"number\":1,\"english\":\"Let’s circle ____ to this point later.\",\"japanese\":\"その点には後で戻りましょう。\"},{\"number\":2,\"english\":\"Could you give me a quick ____ on the project?\",\"japanese\":\"プロジェクトの簡単な最新状況を教えていただけますか。\"},{\"number\":3,\"english\":\"We need to stay on ____ to finish by Friday.\",\"japanese\":\"金曜までに終えるには予定どおりに進む必要があります。\"},{\"number\":4,\"english\":\"I’ll ____ up with you tomorrow.\",\"japanese\":\"明日あらためて連絡します。\"},{\"number\":5,\"english\":\"Please keep me in the ____.\",\"japanese\":\"情報共有をお願いします。\"},{\"number\":6,\"english\":\"Let’s ____ ideas before the meeting.\",\"japanese\":\"会議の前にアイデアを出し合いましょう。\"},{\"number\":7,\"english\":\"We should clarify the next ____ steps.\",\"japanese\":\"次の具体的な手順を明確にしましょう。\"},{\"number\":8,\"english\":\"This proposal is still a work in ____.\",\"japanese\":\"この提案はまだ作成途中です。\"},{\"number\":9,\"english\":\"Thanks for your prompt ____.\",\"japanese\":\"迅速なご対応ありがとうございます。\"},{\"number\":10,\"english\":\"I’m looking forward to your ____.\",\"japanese\":\"ご返信をお待ちしています。\"}]}},\"character\":{\"type\":\"anime girl mascot\",\"count\":1,\"appearance\":{\"age\":\"teenage or young adult\",\"build\":\"slim\",\"skin\":\"fair\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"deep purple\\\"}\",\"style\":\"high side ponytail with long bangs and shiny strands\"},\"expression\":\"cheerful and helpful\",\"pose\":\"standing, one hand raised with index finger pointing upward\"},\"outfit\":{\"count\":5,\"pieces\":[\"teal T-shirt with white logo text reading {argument name=\\\"shirt text\\\" default=\\\"AITuber\\\"}\",\"oversized pink-and-teal translucent hooded jacket worn open\",\"light gray high-waisted shorts\",\"white scrunched socks\",\"chunky purple, black, and pink sneakers\"]}},\"color_palette\":{\"count\":6,\"labels\":[\"teal\",\"cyan\",\"pink\",\"navy\",\"white\",\"purple\"]},\"rendering\":\"crisp polished poster design, balanced typography, cute modern Japanese educational social-media graphic, high readability, subtle shadows, no answers filled into the blanks\"}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"双语英语学习工作表海报\",\"style\":\"干净的教育信息图，带有动漫角色吉祥物，明亮的柔和文具主题，白色方格纸背景，圆角形状，光泽标题字体，适合打印的垂直A4布局\",\"topic\":\"商务英语填空测验\",\"language\":\"日语和英语\",\"audience\":\"日语英语学习者\",\"layout\":{\"orientation\":\"纵向\",\"sections\":[{\"title\":\"酷商务英语！\",\"position\":\"top header\",\"count\":2,\"labels\":[\"酷商务英语！\",\"掌握后会很酷的商务短语10选\"]},{\"title\":\"填空 / 穴埋め问题\",\"position\":\"below header\",\"count\":1,\"labels\":[\"填空 / 穴埋め问题\"]},{\"title\":\"工作表项目\",\"position\":\"left and center main panel\",\"count\":10,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\"]},{\"title\":\"页脚横幅\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"面向日语学习者 / 英语学习工作表\"]}],\"main_panel\":\"大型圆角白色工作表框，带有细青色轮廓和每个问题之间的点状分隔线\",\"right_panel\":\"全身动漫女孩站在右侧，部分重叠在工作表上\",\"decorations\":{\"count\":10,\"labels\":[\"左上角青色丝带\",\"粉色三角形\",\"黄色圆形\",\"小青色圆点\",\"右侧钢笔图标\",\"左下角打开的书本图标\",\"右下角铅笔图标\",\"角色附近的青色感叹号\",\"柔和的几何涂鸦\",\"浅青色和粉色抽象角落装饰\"]}},\"text\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"酷商务英语！\\\"}\",\"subheadline\":\"掌握后会很酷的商务短语10选\",\"badge\":\"填空 / 穴埋め问题\",\"footer\":\"面向日语学习者 / 英语学习工作表\",\"questions\":[{\"number\":1,\"english\":\"我们稍后再回到这一点。\",\"japanese\":\"その点には後で戻りましょう。\"},{\"number\":2,\"english\":\"你能给我一个关于项目的快速____吗？\",\"japanese\":\"プロジェクトの簡単な最新状況を教えていただけますか。\"},{\"number\":3,\"english\":\"我们需要保持在____上，以便在周五前完成。\",\"japanese\":\"金曜までに終えるには予定どおりに進む必要があります。\"},{\"number\":4,\"english\":\"我明天会和你____。\",\"japanese\":\"明日あらためて連絡します。\"},{\"number\":5,\"english\":\"请让我保持在____中。\",\"japanese\":\"情報共有をお願いします。\"},{\"number\":6,\"english\":\"让我们在会议前____想法。\",\"japanese\":\"会議の前にアイデアを出し合いましょう。\"},{\"number\":7,\"english\":\"我们应该明确下一步的____步骤。\",\"japanese\":\"次の具体的な手順を明確にしましょう。\"},{\"number\":8,\"english\":\"这个提案仍在____中。\",\"japanese\":\"この提案はまだ作成途中です。\"},{\"number\":9,\"english\":\"感谢您的及时____。\",\"japanese\":\"迅速なご対応ありがとうございます。\"},{\"number\":10,\"english\":\"我期待您的____。\",\"japanese\":\"ご返信をお待ちしています。\"}]},\"character\":{\"type\":\"动漫女孩吉祥物\",\"count\":1,\"appearance\":{\"age\":\"青少年或年轻成人\",\"build\":\"苗条\",\"skin\":\"白皙\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"深紫色\\\"}\",\"style\":\"高侧马尾，有长刘海和闪亮的发丝\"},\"expression\":\"愉快且乐于助人\",\"pose\":\"站立，一只手举起，食指向上指\"},\"outfit\":{\"count\":5,\"pieces\":[\"青色T恤，白色标志文字写着{argument name=\\\"shirt text\\\" default=\\\"AITuber\\\"}\",\" oversized 粉色和青色半透明连帽夹克，敞开穿着\",\"浅灰色高腰短裤\",\"白色皱褶袜子\",\"厚实的紫色、黑色和粉色运动鞋\"]}},\"color_palette\":{\"count\":6,\"labels\":[\"青色\",\"青绿色\",\"粉色\",\"海军蓝\",\"白色\",\"紫色\"]},\"rendering\":\"清晰精致的海报设计，平衡的排版，可爱现代的日本教育社交媒体图形，高可读性，微妙的阴影，空白处不填写答案\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:25.183Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A colorful bilingual worksheet poster with 10 business English fill-in-the-blank questions and an anime mascot, ideal for social media educational posts or printable study sheets.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个彩色的双语工作表海报，包含10个商务英语填空题和一个动漫吉祥物，适合社交媒体教育内容或可打印的学习资料。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:05.167Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -66,19 +80,19 @@
   ],
   "categories": [
     {
-      "id": "infographic-education",
-      "value": "Infographic & Education",
+      "id": "character-design",
+      "value": "Character Design",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "infographic-education-zh-cn",
-      "value": "信息图与教育",
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "infographic-education"
+      "translationOf": "character-design"
     }
   ],
   "sources": [
@@ -128,14 +142,15 @@
   "updatedAt": "2026-05-06T11:02:37.123Z",
   "classification": {
     "status": "classified",
-    "categoryId": "infographic-education",
+    "categoryId": "character-design",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
-      "infographic",
-      "education",
-      "信息图"
+      "character",
+      "mascot",
+      "角色",
+      "吉祥物"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.564Z"
+    "classifiedAt": "2026-05-06T11:41:23.657Z"
   }
 }

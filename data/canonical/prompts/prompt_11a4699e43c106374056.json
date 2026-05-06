@@ -6,7 +6,14 @@
       "value": "The Brand Envelope | GPT Image-2 Prompt #89\n\nThis takes any product photo and wraps it in your specific brand world. Different product each time. Same brand, every time.\n\nPHASE 1 / ANCHOR: Describe [BRAND IDENTITY] in 2 lines. Palette, texture, mood.\nPHASE 2 / INJECT: Place [PRODUCT] inside that brand world, not the reverse.\nPHASE 3 / FORMAT: Set [OUTPUT FORMAT]. Hero, square ad, or story.\nPHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.\n\nSwap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "The Brand Envelope | GPT Image-2 Prompt #89\n\nThis takes any product photo and wraps it in your specific brand world. Different product each time. Same brand, every time.\n\nPHASE 1 / ANCHOR: Describe [BRAND IDENTITY] in 2 lines. Palette, texture, mood.\nPHASE 2 / INJECT: Place [PRODUCT] inside that brand world, not the reverse.\nPHASE 3 / FORMAT: Set [OUTPUT FORMAT]. Hero, square ad, or story.\nPHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.\n\nSwap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:24.124Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "品牌包络产品广告",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Brand Envelope Product Advertisement",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:18.812Z"
+      }
+    }
   },
   "description": {
     "original": null,

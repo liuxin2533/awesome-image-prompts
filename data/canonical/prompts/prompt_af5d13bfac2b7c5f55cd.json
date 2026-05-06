@@ -6,7 +6,14 @@
       "value": "Created by using GPT Image 2. \n\nPrompt👇\nUltra cinematic hyper-realistic premium dairy lifestyle advertisement, Milky Mist Greek Yogurt Natural cup placed as hero center foreground on glossy white marble counter, lid partially peeled revealing thick creamy yogurt with perfect spiral swirl texture, ultra-detailed micro highlights, condensation droplets on surface, branding ultra sharp\n\nBeautiful confident Indian woman (25–30), glowing natural skin with visible pores, soft blush tones, deep expressive brown eyes, long voluminous dark brown hair wind-blown with golden rim light, wearing minimal elegant light grey fitted t-shirt, leaning forward with both arms on counter framing the product, warm genuine smile, direct eye contact, friendly yet premium presence\n\nDynamic motion (hero effect): stainless steel spoon lifting thick yogurt upward creating smooth elastic creamy stretch, dramatic milk splash frozen mid-air around cup with suspended droplets (high-speed photography look), ultra realistic fluid physics, cinematic freeze motion\n\nForeground styling: fresh blueberries in white ceramic bowl, sliced strawberries with juice shine, crunchy granola scattered naturally, wooden spoon, mint leaves, premium editorial food styling (clean but rich composition)\n\nBackground: bright modern luxury kitchen interior, large soft window light from left, indoor plants softly blurred, warm cream tones, depth-rich cinematic bokeh, subtle lifestyle realism\n\nLighting: high-end commercial lighting setup, soft diffused key light from left, strong golden rim light on hair edges, product spotlight glow, deep soft shadows (not flat), HDR highlights on yogurt texture, magazine-level lighting\n\nComposition: 85mm lens, shallow depth of field f/1.8, subject slightly right, product perfectly centered and dominant, rule-of-thirds balance, luxury ad framing\n\nColor palette: pure white, sky blue, navy, fresh green, berry red, warm cream tones, ultra clean premium aesthetic\n\nStyle: Vogue-level editorial + Indian dairy commercial campaign, hyper-detailed, photorealistic, 8K ultra HD, crisp textures, luxury brand advertisement\n\nText overlay (optional, left side):\n“Thick. Creamy. Naturally Healthy.”\nsubtext: “High in Protein. Made with Love.”\nelegant serif + modern script combination\n\n--ar 4:5 --style raw --v 6 --q 2",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Field: promptText.translations.zh-CN\n\nCreated by using GPT Image 2. \n\nPrompt👇\n超电影级超逼真高端乳制品生活方式广告，Milky Mist希腊酸奶天然杯作为主角放置在光泽白色大理石台面的中心前景，盖子部分掀开露出带有完美螺旋纹理的浓稠奶油酸奶，超精细微高光，表面有冷凝水滴，品牌标识极其清晰\n\n美丽自信的印度女性（25-30岁），自然发光的皮肤可见毛孔，柔和的腮红色调，深情的棕色眼睛，长而丰盈的深棕色头发被风吹起，带有金色轮廓光，穿着简约优雅的浅灰色修身T恤，身体前倾双臂放在台面上框住产品，温暖真诚的微笑，直接的眼神接触，友好而高端的气质\n\n动态动作（主角效果）：不锈钢勺子向上舀起浓稠酸奶，形成平滑有弹性的奶油拉伸效果，杯周围有戏剧性的牛奶飞溅，液滴悬浮在空中（高速摄影效果），超逼真的流体物理效果，电影级定格动作\n\n前景造型：白色陶瓷碗中的新鲜蓝莓，带有汁液光泽的切片草莓，自然散落的酥脆格兰诺拉麦片，木勺，薄荷叶，高端编辑级食物造型（干净但丰富的构图）\n\n背景：明亮现代的豪华厨房内部，左侧有大而柔和的窗户光线，室内植物柔和模糊，温暖的奶油色调，深度丰富的电影级散景，微妙的生活方式写实感\n\n灯光：高端商业灯光设置，左侧有柔和的漫射主光，头发边缘有强烈的金色轮廓光，产品聚光灯效果，深度柔和的阴影（非平面），酸奶纹理上的HDR高光，杂志级灯光\n\n构图：85mm镜头，浅景深f/1.8，主体略微偏右，产品完美居中并占主导地位，三分法平衡，豪华广告构图\n\n色彩方案：纯白色，天蓝色，海军蓝，新鲜绿色，浆果红色，温暖的奶油色调，超干净的高端美学\n\n风格：Vogue级编辑风+印度乳制品商业广告活动，超精细，照片级逼真，8K超高清，清晰纹理，奢侈品牌广告\n\n文字叠加（可选，左侧）：\n\"浓稠。丝滑。天然健康。\"\n副标题：\"高蛋白。用心制作。\"\n优雅衬线字体+现代手写体组合\n\n--ar 4:5 --style raw --v 6 --q 2",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:45.111Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Greek Yogurt Lifestyle Ad",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "希腊酸奶生活方式广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:34.452Z"
+      }
+    }
   },
   "description": {
     "original": null,

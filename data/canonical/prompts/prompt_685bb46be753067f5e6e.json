@@ -21,7 +21,14 @@
       "value": "Candid Bedroom Selfie Photorealistic Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "自然卧室自拍照片级真实肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:22.749Z"
+      }
+    }
   },
   "description": {
     "original": null,

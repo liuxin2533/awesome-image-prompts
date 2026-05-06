@@ -6,7 +6,14 @@
       "value": "Based on this photo, create a clean, minimal, and luxurious facial beauty report. Use a design based on {argument name=\"color scheme\" default=\"black on white\"}, incorporating thin lines, rounded-corner cards, and luxury aesthetics. Include simple facial outline illustrations, candid attractiveness analysis (symmetry, proportions, bone structure, skin quality, etc.), clear scores, strengths, areas for improvement, and easy-to-implement grooming and style improvement suggestions. The content should be data-driven, visually sophisticated, and not overly flattering.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于这张照片，创建一个简洁、简约且奢华的面部美容报告。使用基于 {argument name=\"color scheme\" default=\"black on white\"} 的设计，融入细线条、圆角卡片和奢华美学。包含简单的面部轮廓插图，坦率的吸引力分析（对称性、比例、骨骼结构、皮肤质量等），清晰的评分，优势，改进领域，以及易于实施的护理和风格改进建议。内容应基于数据，视觉上精致，不过分奉承。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:42.385Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A professional prompt for generating a clean, high-end facial beauty analysis report with data-driven insights and a minimalist layout.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于生成清洁、高端面部美容分析报告的专业提示，包含数据驱动的洞察和简约布局。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:45.198Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -165,10 +179,11 @@
     "status": "classified",
     "categoryId": "infographic-education",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "infographic",
-      "信息图"
+      "信息图",
+      "报告"
     ],
     "classifiedAt": "2026-05-06T11:03:21.565Z"
   }

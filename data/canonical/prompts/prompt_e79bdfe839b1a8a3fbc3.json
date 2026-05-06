@@ -6,7 +6,14 @@
       "value": "Create a cinematic 3:4 vertical poster of New York City that feels truly epic and unconventional, showing the passage from the 20th century to the 21st century in one seamless image. Place a lone figure at the center of the composition, standing in the middle of the street and looking forward as if witnessing New York across time. The left side should depict 20th-century New York with warm sepia atmosphere, vintage taxis, old newsstands, retro lamps, and landmarks like the Chrysler Building and Empire State Building. The right side should depict 21st-century New York with glass skyscrapers, One World Trade Center, digital billboards, and modern urban energy. Make the transition natural rather than split-screen, with coherent perspective, wet reflective pavement, realistic textures, atmospheric depth, and no text.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个真正史诗且不落俗套的3:4垂直电影海报，展示纽约从20世纪到21世纪的过渡，融合在一个无缝图像中。在构图中央放置一个孤独的人物，站在街道中央，向前凝视，仿佛见证着穿越时间的纽约。左侧应描绘20世纪的纽约，带有温暖的棕褐色氛围，复古出租车，旧报摊，复古路灯，以及克莱斯勒大厦和帝国大厦等地标。右侧应描绘21世纪的纽约，有玻璃摩天大楼，世界贸易中心一号大楼，数字广告牌，以及现代都市活力。过渡应自然而非分屏，保持连贯的透视，湿反射路面，逼真的纹理，大气深度，且无文字。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:30.269Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "New York across two centuries cinematic poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "跨越两个世纪的纽约电影海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:34.833Z"
+      }
+    }
   },
   "description": {
     "original": null,

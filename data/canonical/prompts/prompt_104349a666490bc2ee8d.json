@@ -21,7 +21,14 @@
       "value": "Monochrome Hermes-Inspired Avatar",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "单色爱马仕风格头像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:03.635Z"
+      }
+    }
   },
   "description": {
     "original": null,

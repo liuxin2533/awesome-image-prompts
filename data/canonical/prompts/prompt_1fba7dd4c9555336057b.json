@@ -20,7 +20,14 @@
       "value": "Ximen Qing 100-Panel Storyboard",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "西门庆100格分镜",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:34.554Z"
+      }
+    }
   },
   "description": {
     "original": null,

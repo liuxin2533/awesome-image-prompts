@@ -6,7 +6,14 @@
       "value": "Three-image luxury golf editorial collage featuring a professional female golfer on a pristine putting green, soft natural daylight, minimalistic and high-end sports photography style, ultra-realistic, cinematic color grading, clean composition, no text, no logos\nLayout: asymmetrical grid (one large frame + two smaller frames)\nFrame 1 (Left – Hero Wide Shot):\nFull-body low-angle shot of the golfer crouching and lining up a putt, golf ball in foreground near the hole, strong leading lines on the green, balanced composition, calm and focused posture, expansive sky background\nFrame 2 (Top Right – Close-Up Detail):\nExtreme close-up of her face and hands gripping the putter, intense concentration, visible skin texture and slight sweat glow, shallow depth of field, blurred background\nFrame 3 (Bottom Right – Action Shot):\nSide angle of golfer completing the putt, smooth follow-through, golf ball rolling across the green, natural motion feel, soft shadows, realistic lighting\nStyle Keywords:\nluxury sports campaign, editorial photography, Nike-style aesthetic, muted green tones, sharp focus, 85mm lens look, depth of field, cinematic lighting, premium composition, 4K, hyper-realistic",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "三图豪华高尔夫编辑拼贴画，展示专业女高尔夫球手在完美果岭上，柔和自然日光，简约高端体育摄影风格，超写实，电影级色彩分级，简洁构图，无文字，无标志\n布局：非对称网格（一个大框架 + 两个小框架）\n框架1（左侧 - 主角广角镜头）：\n全身低角度拍摄高尔夫球手蹲下准备推杆，高尔夫球在前景靠近球洞，果岭上有强烈的引导线，平衡构图，平静专注的姿态，广阔的天空背景\n框架2（右上角 - 特写细节）：\n她紧握推杆的脸和手的极端特写，高度专注，可见皮肤纹理和轻微的汗光，浅景深，模糊背景\n框架3（右下角 - 动作镜头）：\n高尔夫球手完成推杆的侧面角度，流畅的跟随动作，高尔夫球滚过果岭，自然的动感感觉，柔和的阴影，真实的光线\n风格关键词：\n豪华体育活动，编辑摄影，耐克风格美学，柔和的绿色调，锐利对焦，85mm镜头效果，景深，电影级照明，高级构图，4K，超写实",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:10.227Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Luxury Golf Editorial Collage",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "奢华高尔夫编辑拼贴画",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:37.971Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "Create a cute female character design sheet inspired by the uploaded image.\n\nStyle: warm, soft, semi-realistic cartoon illustration with a cozy Japanese kawaii vibe (pastel tones, smooth shading, clean lineart).\n\nMake it a clean character concept poster layout including:\n\nOne large main female portrait (front view, detailed)\n\nFacial expression set (happy, shy, annoyed, sleepy, surprised, excited)\n\n2–3 full-body poses (standing, walking/running, playful pose)\n\nSmall accessory/object icons that match her personality (hair clip, cute bag, phone charm, coffee cup, keychain)\n\nA simple color palette section (skin, hair, outfit, accent colors)\n\nA profile info box with: name, age range, personality traits, likes/dislikes, short description\n\nOverall look should feel charming, cozy, feminine, and professionally arranged like an animation character design sheet.\nHigh quality, clean background, soft lighting.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a cute female character design sheet inspired by the uploaded image.\n\nStyle: warm, soft, semi-realistic cartoon illustration with a cozy Japanese kawaii vibe (pastel tones, smooth shading, clean lineart).\n\nMake it a clean character concept poster layout including:\n\nOne large main female portrait (front view, detailed)\n\nFacial expression set (happy, shy, annoyed, sleepy, surprised, excited)\n\n2–3 full-body poses (standing, walking/running, playful pose)\n\nSmall accessory/object icons that match her personality (hair clip, cute bag, phone charm, coffee cup, keychain)\n\nA simple color palette section (skin, hair, outfit, accent colors)\n\nA profile info box with: name, age range, personality traits, likes/dislikes, short description\n\nOverall look should feel charming, cozy, feminine, and professionally arranged like an animation character design sheet.\nHigh quality, clean background, soft lighting.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:03:05.938Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "可爱角色设定表",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Cute Character Setting Sheet",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:03:06.156Z"
+      }
+    }
   },
   "description": {
     "original": null,

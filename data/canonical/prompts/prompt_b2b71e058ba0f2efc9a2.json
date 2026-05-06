@@ -6,7 +6,14 @@
       "value": "360度 equirectangular （正距円筒図法）画像を2:1で生成\n\nOnline 360° Panorama Viewer VR",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成2:1比例的360度等距圆柱投影图像\n\n在线360°全景查看器VR",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:13.963Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "360 Equirectangular Panorama Image",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "360度等距全景图",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:50.954Z"
+      }
+    }
   },
   "description": {
     "original": null,

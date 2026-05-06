@@ -21,7 +21,14 @@
       "value": "Nostalgic 16-Photo Couple Grid",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "怀旧16格情侣照片墙",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:07.449Z"
+      }
+    }
   },
   "description": {
     "original": null,

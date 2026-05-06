@@ -6,7 +6,14 @@
       "value": "A TV screen capture (16:9) of a Japanese variety information program. A style similar to programs like \"The World Unknown to [Person].\"\r\n\r\nScreen Composition:\r\n\r\nMain Video: An extreme close-up of {argument name=\"food item\" default=\"soy sauce ramen\"} from {argument name=\"restaurant name\" default=\"Mona Hanten\"} (showing steam, chashu pork, green onions, and soft-boiled egg beautifully).\r\n\r\nTelop groups (the program-specific grammar of massive on-screen text):\r\n- Top banner telop (white text on a red background): \"{argument name=\"show title\" default=\"The World of Neighborhood Chinese Restaurants\"}\"\r\n- Bottom main telop (bold yellow characters with shadows): \"Lines at a small shop in Osaka! The legendary Chinese cooking girl\"\r\n- Bottom right wipe (small window): A silhouette of an MC with a surprised expression\r\n- Program logo in the top left\r\n- \"During VTR\" telop in the top right\r\n\r\nAdditional telops (reaction-style from performers):\r\n\"What, this level of skill at 18!?\" (speech bubble telop)\r\n\r\nThe overall format is identical to a TV screen capture of a variety show. The sense of multi-layered telops is realistic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本综艺节目信息截图（16:9）。风格类似于《[人物]未知的世界》这类节目。\n\n屏幕构图：\n\n主视频：来自{argument name=\"restaurant name\" default=\"Mona Hanten\"}的{argument name=\"food item\" default=\"酱油拉面}的特写镜头（展示着热气腾腾的叉烧猪肉、青葱和漂亮的溏心蛋）。\n\n字幕组（节目特定的屏幕大量文本语法）：\n- 顶部横幅字幕（红色背景上的白色文字）：\"{argument name=\"show title\" default=\"The World of Neighborhood Chinese Restaurants}\"\n- 底部主字幕（带阴影的粗体黄色文字）：\"大阪小店的排队！传奇中餐少女\"\n- 右下角小窗口：一位表情惊讶的主持人的剪影\n- 左上角的节目标志\n- 右上角的\"播放VTR\"字幕\n\n额外字幕（表演者的反应风格）：\n\"18岁就有这种水平！？\"（气泡字幕）\n\n整体格式与综艺节目截图完全相同。多层字幕的感觉非常逼真。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:56.293Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A prompt for recreating the complex multi-layered aesthetic of Japanese variety show television screens, including specific overlay types like telops and wipes.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "用于重现日本综艺节目电视屏幕复杂多层次美学的提示词，包括telops和 wipes等特定的叠加类型",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:53.451Z"
+      }
+    }
   },
   "sourceCategories": [
     {

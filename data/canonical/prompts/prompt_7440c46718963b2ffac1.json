@@ -1,0 +1,163 @@
+{
+  "id": "prompt_7440c46718963b2ffac1",
+  "promptText": {
+    "original": {
+      "language": "de",
+      "value": "/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片\r\n\r\n使用地址",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片\n\n使用地址",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:59.931Z"
+      },
+      "en": {
+        "language": "en",
+        "value": "/gpt-image-2 Help me generate a complete set of e-commerce product introduction images for tomatoes\n\nUse address",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:36:36.219Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "de",
+      "value": "Tomaten-E-Commerce-Produktbilderset",
+      "source": "upstream"
+    },
+    "translations": {
+      "es": {
+        "language": "es",
+        "value": "Conjunto de Imágenes de Producto de Tomate para E-Commerce",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Ensemble d'Images Produit Tomate pour E-Commerce",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "トマトECサイト商品画像セット",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "토마토 이커머스 상품 이미지 세트",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Conjunto de Imagens de Produto de Tomate para E-Commerce",
+        "source": "upstream"
+      },
+      "ru": {
+        "language": "ru",
+        "value": "Набор изображений томатов для электронной коммерции",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Domates E-Ticaret Ürün Görsel Seti",
+        "source": "upstream"
+      },
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "西红柿电子商务产品图片集",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:57.492Z"
+      },
+      "en": {
+        "language": "en",
+        "value": "Tomato E-Commerce Product Image Set",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:36:36.219Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/Adam38363368936/status/2047165092253532461",
+      "originalId": "case-73",
+      "authors": [
+        {
+          "name": "Adam38363368936",
+          "url": "https://x.com/Adam38363368936"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:de",
+          "line": 8994
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e65531a746fdb912",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case117/output.jpg",
+      "upstreamPath": "images/case_case117/output.jpg",
+      "localPath": "public/assets/prompt_7440c46718963b2ffac1/93e9f9e06e52.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    },
+    {
+      "id": "comparison-community-examples-zh-cn-437e1e53",
+      "value": "比较与社区示例",
+      "language": "zh-CN",
+      "source": "ai",
+      "translationOf": "comparison-community-examples",
+      "translatedAt": "2026-05-05T14:16:59.139Z"
+    }
+  ],
+  "classification": {
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "rule",
+    "confidence": 1,
+    "matchedBy": [
+      "product",
+      "e-commerce",
+      "商品",
+      "产品",
+      "电商"
+    ],
+    "classifiedAt": "2026-05-06T11:41:23.667Z"
+  }
+}

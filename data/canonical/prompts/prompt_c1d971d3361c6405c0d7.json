@@ -20,7 +20,14 @@
       "value": "胶片闪光灯下的球场少女",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Girl on the court under film flash",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:04:25.852Z"
+      }
+    }
   },
   "description": {
     "original": null,

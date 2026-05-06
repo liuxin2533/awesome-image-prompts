@@ -1,0 +1,135 @@
+{
+  "id": "prompt_26034859824e44f373b2",
+  "promptText": {
+    "original": {
+      "language": "de",
+      "value": "参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用参考图像中的2D动画角色，创建一个网格分割的图像，展示角色在现实世界中做各种事情。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:14:52.496Z"
+      },
+      "en": {
+        "language": "en",
+        "value": "Create a grid of images showing a 2D cell anime character from a reference image doing various activities in the real world.",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:57:33.844Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "de",
+      "value": "2D-Anime-Charakter in realen Gitterszenen",
+      "source": "upstream"
+    },
+    "translations": {
+      "fr": {
+        "language": "fr",
+        "value": "Scènes en Grille de Personnage Anime 2D dans le Monde Réel",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Cenas em Grade de Personagem Anime 2D no Mundo Real",
+        "source": "upstream"
+      },
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "2D动漫角色在现实的网格场景",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:14:55.398Z"
+      },
+      "en": {
+        "language": "en",
+        "value": "title.translations.en\n2D Anime Character in real grid scenes",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:57:38.086Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/seiiiiiiiiiiru/status/2047227021156356500",
+      "originalId": "case-70",
+      "authors": [
+        {
+          "name": "seiiiiiiiiiiru",
+          "url": "https://x.com/seiiiiiiiiiiru"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:de",
+          "line": 8953
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_e977d4642c306d79",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case114/output.jpg",
+      "upstreamPath": "images/case_case114/output.jpg",
+      "localPath": "public/assets/prompt_26034859824e44f373b2/a1607790a68e.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    },
+    {
+      "id": "comparison-community-examples-zh-cn-437e1e53",
+      "value": "比较与社区示例",
+      "language": "zh-CN",
+      "source": "ai",
+      "translationOf": "comparison-community-examples",
+      "translatedAt": "2026-05-05T14:14:58.366Z"
+    }
+  ],
+  "classification": {
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "character",
+      "角色"
+    ],
+    "classifiedAt": "2026-05-06T11:41:23.667Z"
+  }
+}

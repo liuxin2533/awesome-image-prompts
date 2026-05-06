@@ -6,7 +6,14 @@
       "value": "A cinematic studio photograph of an open {argument name=\"book type\" default=\"pop-up book\"} on a clean white surface, viewed from a low front angle, with a dramatic {argument name=\"main subject\" default=\"T-rex\"} made entirely of intricate white origami and laser-cut paper bursting upward from the center fold. The dinosaur is large and dominant, facing right in a roaring pose with open jaws, sharp paper teeth, tiny forearms, powerful legs, and a long tail sweeping left. Its body is built from hundreds of delicate layered paper slats and cutout perforations, glowing from strong internal and under-page illumination so the creature appears backlit and semi-luminous. Around the base, exactly 7 paper plant silhouettes rise from the pages: 3 darker branching shrubs in the foreground and 4 pale fern-like foliage shapes behind them, all also cut from paper. The open pages show faint printed text on the right-hand spread, while the center gutter emits a bright white light that shines upward through the structure. A soft cool-blue ambient environment contrasts with the warm white glow from inside the book, creating a magical children's advertisement feel. Strong spotlighting from above and behind the dinosaur produces crisp shadows cast across the next spread and onto the tabletop. Minimal background, high detail, elegant product-ad aesthetic, volumetric haze, shallow depth of field, monochrome white and blue palette, ultra-clean composition, surreal handcrafted realism.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张电影工作室风格的摄影作品，展示一本打开的{argument name=\"book type\" default=\"pop-up book\"}放在干净的白表面上，从低角度正面拍摄，中心折缝处有一个戏剧性的{argument name=\"main subject\" default=\"T-rex\"}，完全由复杂的白色折纸和激光切割纸制成，向上爆发。这头恐龙庞大而突出，向右站立，咆哮的姿态，张开的嘴巴，锋利的纸制牙齿，细小的前肢，有力的后腿，以及向左扫动的长尾巴。它的身体由数百层精致的纸板和切割穿孔组成，从强烈的内部和页面下方发光，使生物看起来背光和半发光。在底部，正好有7个纸质植物剪影从页面升起：前景中有3个较深的分支灌木，后面有4个淡色的蕨类植物形状，也都由纸切割而成。打开的页面在右侧展开上显示模糊的印刷文字，而中心书脊发出明亮的白光，向上照射穿过整个结构。柔和的冷蓝色环境与书籍内部的温暖白光形成对比，创造出神奇的儿童广告感觉。从恐龙上方和后方来的强聚光灯在下一页和桌面上投射出清晰的阴影。极简背景，高细节，优雅的产品广告美学，体积雾，浅景深，单色白蓝调色板，超干净构图，超现实的手工现实主义。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:37:43.059Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a cinematic product-style image of a glowing paper-engineered T-rex emerging from an open pop-up book, ideal for children's publishing or imaginative advertising visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个电影感产品风格的图像，展示一个发光的纸艺T-rex从打开的立体书中出现，适合儿童出版或富有想象力的广告视觉效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:37:46.947Z"
+      }
+    }
   },
   "sourceCategories": [
     {

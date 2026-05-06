@@ -6,7 +6,14 @@
       "value": "A high-end enthusiast ATX gaming motherboard product photo on a dark studio background, shown in a three-quarter top-down perspective angled from the lower left toward the upper right. The board is mostly matte black and gunmetal with sharp geometric armor plates, brushed metal textures, and subtle RGB edge lighting in blue, purple, and magenta. Feature an exposed modern Intel-style CPU socket near the upper center, 4 black DIMM memory slots on the right, large VRM heatsinks across the top and upper left, and multiple reinforced PCIe slots in the lower half. Include 3 major branded heatsink zones: a tall rear I/O shroud at upper left with an illuminated RGB eye logo and the text \"MAXIMUS HERO\", a left-side chipset/slot armor piece with the text \"SUPREMEFX\", and a large angular lower-right chipset cover with a silver ROG-style emblem plus a lower strip that reads \"FOR THOSE WHO DARE\". Show detailed capacitors, headers, power connectors, debug display reading \"88\" at the top right, and a small round start button nearby. Ultra-detailed commercial product photography, crisp focus across the board, realistic reflections on metal, premium luxury tech aesthetic, dramatic low-key lighting, clean black seamless backdrop, no cables, no CPU, no RAM, no other objects.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端发烧级ATX游戏主板产品照片，背景为暗色摄影棚，以从左下到右上的四分之三俯视角度展示。主板主要为哑光黑色和枪灰色，带有锐利的几何装甲板、拉丝金属纹理，以及蓝色、紫色和品红色的微妙RGB边缘照明。主板上方中心附近有暴露的现代Intel风格CPU插槽，右侧有4个黑色DIMM内存插槽，顶部和左上方有大块VRM散热片，下半部分有多个加固的PCIe插槽。包含3个主要品牌散热区域：左上角的高大后I/O护罩，带有发光的RGB眼睛标志和\"MAXIMUS HERO\"文字；左侧芯片组/插槽装甲板，带有\"SUPREMEFX\"文字；以及右下角的大型倾斜芯片组盖板，带有银色ROG风格徽标，下方有一条写着\"FOR THOSE WHO DARE\"的条带。展示详细的电容器、接头、电源连接器，右上角有显示\"88\"的调试显示屏，附近有一个小型圆形启动按钮。超精细的商业产品摄影，主板整体清晰对焦，金属上有逼真的反射，奢华高端科技美学，戏剧性的低调照明，干净无缝的黑色背景，无电缆，无CPU，无内存，无其他物体。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:53.764Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "E-commerce Main Image - Premium Gaming Motherboard Studio Shot",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 高端游戏主板专业摄影棚拍摄",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:01.369Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -81,16 +95,13 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "product-marketing",
+    "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.8,
     "matchedBy": [
-      "product",
-      "e-commerce",
-      "产品",
-      "电商",
-      "主图"
+      "poster",
+      "illustration"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.555Z"
+    "classifiedAt": "2026-05-06T11:41:23.605Z"
   }
 }

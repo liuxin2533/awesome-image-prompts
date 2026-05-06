@@ -6,7 +6,14 @@
       "value": "A high-fashion surrealist poster for Rolex. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张为劳力士创作的高级超现实主义海报。一个深翠绿色的极简工作室，配有抛光的反射地板。一块巨大的劳力士手表像纪念碑一样直立着。一位穿着定制深绿色西装的男模特随意地倚靠在表盘上，佩戴着配套的劳力士。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:06.281Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Surrealist Rolex Luxury Watch Fashion Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超现实主义劳力士豪华手表时尚海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:15:09.600Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -82,9 +96,10 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 0.7,
+    "confidence": 0.8,
     "matchedBy": [
-      "poster"
+      "poster",
+      "海报"
     ],
     "classifiedAt": "2026-05-06T11:03:21.582Z"
   }

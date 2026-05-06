@@ -21,7 +21,14 @@
       "value": "Black-and-red streetwear campaign portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "黑红街头服饰广告活动人像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:13:50.786Z"
+      }
+    }
   },
   "description": {
     "original": null,

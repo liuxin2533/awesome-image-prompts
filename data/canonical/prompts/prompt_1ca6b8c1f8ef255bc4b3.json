@@ -94,7 +94,14 @@
       "value": "The author mentions the full prompt is in the comments, but the core reusable prompt pattern is given in the post text.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "作者提到完整提示词在评论中，但核心的可重用提示模式在帖子正文中给出。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:15.016Z"
+      }
+    }
   },
   "sourceCategories": [
     {

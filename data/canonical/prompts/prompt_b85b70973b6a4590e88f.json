@@ -11,6 +11,12 @@
         "language": "ja",
         "value": "日本のソシャゲのガチャ画面を生成して、",
         "source": "upstream"
+      },
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个日系社交游戏的扭蛋界面。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:29:54.895Z"
       }
     }
   },
@@ -20,7 +26,14 @@
       "value": "Japanese Social Game Gacha Screen",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本社交游戏Gacha界面",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:30:04.754Z"
+      }
+    }
   },
   "description": {
     "original": null,

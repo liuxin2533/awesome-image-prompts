@@ -6,7 +6,14 @@
       "value": "A glossy pastel pink anime banner in a wide cinematic layout, themed around cute romance and sweets. Place a confident teenage anime girl on the right side, shown from about thigh-up, with short fluffy bob hair in {argument name=\"hair color\" default=\"soft pink\"}, large pink-magenta eyes, a small gentle smile, and arms crossed. She wears a Japanese school uniform: 1 brown blazer, 1 white shirt, 1 red ribbon bow at the collar, and 1 dark navy-and-purple plaid skirt. Add 2 red ribbon hair accessories, one larger bow on the side and one smaller ribbon accent. On the left half, feature the large handwritten script name {argument name=\"character name\" default=\"Natsuki\"} in bold glossy 3D cursive, white-to-pink fill with bright pink outline, soft bevel, subtle drop shadow, sparkles, and a small heart flourish integrated into the lettering. The background should be a layered scrapbook collage in blush pink tones with notebook paper texture, faint grid and torn paper details, scattered doodled hearts, flower petals, sparkles, and cute bakery motifs. Include exactly 4 pinned or taped sketch-style portrait cards of the same girl behind her on the upper-right and mid-right, arranged like overlapping polaroids. Add exactly 2 cupcakes in the foreground near the bottom left and lower center-left, both with pink frosting, striped wrappers, and tiny heart toppers or candy accents. Frame the composition with flowing satin ribbons and bows: exactly 4 major ribbon elements visible, including 1 bow near the top left, 1 bow near the bottom left, and 2 long curling ribbons sweeping across the top and right edges. Use a soft high-detail anime illustration style, polished lighting, dreamy bloom, romantic Valentine palette, delicate textures, and a clean impactful thumbnail-like composition.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张宽银幕电影布局的亮面粉彩粉色动漫横幅，主题围绕可爱浪漫和甜点。在右侧放置一个自信的青少年动漫女孩，从大腿以上部位展示，有着蓬松的短波波发，发色为{argument name=\"hair color\" default=\"soft pink\"}，粉红色大眼睛，温柔的微笑，双臂交叉。她穿着日本校服：1件棕色西装外套，1件白色衬衫，1条红色丝带蝴蝶结在衣领处，1条深蓝紫色格子裙。添加2个红色丝带发饰，一个较大的侧边蝴蝶结和一个较小的丝带装饰。在左半部分，展示大型手写体名称{argument name=\"character name\" default=\"Natsuki\"}，采用粗体亮面3D草书，白色到粉色的填充，亮粉色轮廓，柔和斜面，微妙的投影，闪光效果，以及融入字母中的小心形装饰。背景应为分层剪贴画拼贴，采用粉红色调，带有笔记本纸纹理，微弱的网格和撕纸细节，散落的涂鸦心形、花瓣、闪光效果和可爱的烘焙图案。在右上和右中位置，在她身后包含恰好4张固定或粘贴的素描风格肖像卡，像重叠的宝丽来照片一样排列。在前景中左下和左下中心位置添加恰好2个纸杯蛋糕，都有粉色糖霜，条纹包装纸，以及小心形顶饰或糖果装饰。用流动的缎带和蝴蝶结来构图：恰好4个主要缎带元素可见，包括1个左上角的蝴蝶结，1个左下角的蝴蝶结，以及2条长卷曲缎带扫过顶部和右边缘。使用柔和的高细节动漫插画风格，精致的光照，梦幻的光晕，浪漫的情人节色调，精致的纹理，以及干净有力的缩略图式构图。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:28:18.239Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Pink Anime Natsuki Banner",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "粉色动漫奈津树横幅",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:28:27.898Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -87,7 +101,6 @@
       "ui",
       "social",
       "mockup",
-      "youtube",
       "thumbnail"
     ],
     "classifiedAt": "2026-05-06T11:03:21.598Z"

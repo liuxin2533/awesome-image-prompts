@@ -150,7 +150,23 @@
       "sourceKey": "zerolu"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": "game-entertainment",
+      "value": "Game & Entertainment",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "game-entertainment-zh-cn",
+      "value": "游戏与娱乐",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "game-entertainment"
+    }
+  ],
   "sources": [
     {
       "sourceKey": "zerolu",
@@ -217,11 +233,11 @@
   ],
   "updatedAt": "2026-05-06T11:02:37.354Z",
   "classification": {
-    "status": "needs_review",
-    "categoryId": null,
-    "source": "none",
-    "confidence": 0,
-    "reason": "no_rule_match",
-    "classifiedAt": "2026-05-06T11:03:21.582Z"
+    "status": "classified",
+    "categoryId": "game-entertainment",
+    "source": "manual",
+    "confidence": 1,
+    "matchedBy": [],
+    "classifiedAt": "2026-05-06T13:43:25.436Z"
   }
 }

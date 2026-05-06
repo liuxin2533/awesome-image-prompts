@@ -20,7 +20,14 @@
       "value": "星云巨鲤与小人的奇幻对话",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Nebula Giant Carp and Little Person's Fantasy Dialogue",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:10:05.091Z"
+      }
+    }
   },
   "description": {
     "original": null,

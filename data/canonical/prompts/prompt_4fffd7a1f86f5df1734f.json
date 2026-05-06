@@ -21,7 +21,14 @@
       "value": "A/B Test Signed Output",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "A/B 测试签名输出",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:21:59.195Z"
+      }
+    }
   },
   "description": {
     "original": null,

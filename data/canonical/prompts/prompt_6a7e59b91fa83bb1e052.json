@@ -6,7 +6,14 @@
       "value": "{\"type\":\"LEGO-style instruction poster and toy box mockup\",\"subject\":{\"theme\":\"solitary adult sitting on a playground swing\",\"product_name\":\"{argument name=\\\"set name\\\" default=\\\"PABLO ESCOBAR\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"THINKING ALONE\\\"}\",\"age_mark\":\"18+\",\"set_number\":\"{argument name=\\\"set number\\\" default=\\\"75841\\\"}\",\"piece_count\":\"107\",\"scale_note\":\"MINI SET\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"SOMETIMES THE LOUDEST SILENCE COMES FROM THINKING ALONE.\\\"}\",\"badge\":\"COLLECTIBLE DISPLAY MODEL\",\"style\":\"clean black-and-white LEGO catalog line art, technical instruction sheet, box-art layout, thin outlines, light gray panel borders, white background\"},\"character\":{\"figure_type\":\"minifigure of an adult man\",\"hair\":\"short wavy textured hairpiece\",\"expression\":\"neutral pensive face\",\"outfit\":\"simple torso print suggesting casual jacket or shirt, standard minifigure legs\",\"pose\":\"seated alone on a swing, facing forward\"},\"layout\":{\"format\":\"portrait poster divided into multiple rectangular panels\",\"sections\":[{\"title\":\"box front\",\"position\":\"top left large panel\",\"count\":1,\"labels\":[\"LEGO logo\",\"18+\",\"75841\",\"107 PCS/PZS\",\"Building Toy\",\"Jouet de construction\",\"Juguete para Construir\",\"MINI SET\",\"COLLECTIBLE DISPLAY MODEL\"]},{\"title\":\"PARTS LIST\",\"position\":\"top center panel\",\"count\":3,\"labels\":[\"A MINIFIGURE\",\"B SWING & FRAME\",\"C BASE & LANDSCAPING\"]},{\"title\":\"assembly steps\",\"position\":\"right side and bottom grid\",\"count\":10,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\"]}],\"step_count\":10,\"parts_groups\":3},\"parts_list\":{\"A MINIFIGURE\":{\"count\":5,\"items\":[\"hairpiece x1\",\"head x1\",\"torso with arms x1\",\"legs assembly x1\",\"small accessory piece x2\"]},\"B SWING & FRAME\":{\"count\":10,\"items\":[\"horizontal bar x2\",\"connector brick x1\",\"chain links assembly x2\",\"small pin/bar piece x1\",\"A-frame leg assemblies x4\",\"vertical connector peg x2\",\"swing seat support pieces x2\",\"bench plank element x2\",\"small block x2\",\"small cap pieces x4\"]},\"C BASE & LANDSCAPING\":{\"count\":9,\"items\":[\"large square baseplate x1\",\"rectangular tile x4\",\"small sloped tile x0\",\"small flat tile x2\",\"round stud x2\",\"plant sprig x2\",\"flower cluster x4\",\"round layered tile x2\",\"small round cap x2\"]}},\"assembly\":{\"steps\":[{\"step\":1,\"summary\":\"place 1 large square baseplate as the foundation\",\"part_count\":1},{\"step\":2,\"summary\":\"add 12 small foundation pieces around one side and center of the base\",\"part_count\":12},{\"step\":3,\"summary\":\"add 8 landscaping details: 2 round studs, 2 round caps, and 4 plant pieces\",\"part_count\":8},{\"step\":4,\"summary\":\"build and place 4 angled swing-frame supports in two A-frames\",\"part_count\":4},{\"step\":5,\"summary\":\"connect the top with 3 beam and connector pieces\",\"part_count\":3},{\"step\":6,\"summary\":\"hang 4 suspension parts from the top beam: 2 chain elements and 2 connectors\",\"part_count\":4},{\"step\":7,\"summary\":\"attach the swing seat using 7 pieces including 1 bench plank, 2 support blocks, and 4 caps\",\"part_count\":7},{\"step\":8,\"summary\":\"add 4 finishing round details to both sides of the seat\",\"part_count\":4},{\"step\":9,\"summary\":\"assemble the minifigure from 4 stacked components and place him seated on the swing\",\"part_count\":4},{\"step\":10,\"summary\":\"show the completed display model with emphasis lines around the finished scene\",\"part_count\":1}]},\"composition\":\"top-left hero panel shows the finished model in three-quarter view with the seated figure on a swing over a textured ground base with small plants in the corners; top-center parts inventory uses tiny isolated drawings with quantity labels; the remaining panels present isometric building instructions in classic LEGO manual style\",\"rendering\":\"monochrome printed instruction manual aesthetic, crisp vector-like outlines, no shading except subtle light gray fills, all text uppercase sans serif, neat toy-packaging proportions\"}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"乐高风格说明书海报和玩具盒模型\",\"subject\":{\"theme\":\"独自坐在游乐场秋千上的成年人\",\"product_name\":\"{argument name=\\\"set name\\\" default=\\\"PABLO ESCOBAR\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"THINKING ALONE\\\"}\",\"age_mark\":\"18+\",\"set_number\":\"{argument name=\\\"set number\\\" default=\\\"75841\\\"}\",\"piece_count\":\"107\",\"scale_note\":\"迷你套装\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"SOMETIMES THE LOUDEST SILENCE COMES FROM THINKING ALONE.\\\"}\",\"badge\":\"收藏展示模型\",\"style\":\"简洁的黑白乐高目录线条艺术，技术说明书，包装盒布局，细线条，浅灰色面板边框，白色背景\"},\"character\":{\"figure_type\":\"成年男性小人仔\",\"hair\":\"短波浪纹理发片\",\"expression\":\"中性沉思表情\",\"outfit\":\"暗示休闲夹克或衬衫的简单躯干印花，标准小人仔腿部\",\"pose\":\"独自坐在秋千上，面向前方\"},\"layout\":{\"format\":\"纵向海报分为多个矩形面板\",\"sections\":[{\"title\":\"盒子正面\",\"position\":\"左上角大面板\",\"count\":1,\"labels\":[\"乐高标志\",\"18+\",\"75841\",\"107 PCS/PZS\",\"积木玩具\",\"Jouet de construction\",\"Juguete para Construir\",\"迷你套装\",\"收藏展示模型\"]},{\"title\":\"零件清单\",\"position\":\"顶部中央面板\",\"count\":3,\"labels\":[\"A 小人仔\",\"B 秋千和框架\",\"C 底座和景观\"]},{\"title\":\"组装步骤\",\"position\":\"右侧和底部网格\",\"count\":10,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\"]}],\"step_count\":10,\"parts_groups\":3},\"parts_list\":{\"A MINIFIGURE\":{\"count\":5,\"items\":[\"发片 x1\",\"头部 x1\",\"带手臂的躯干 x1\",\"腿部组件 x1\",\"小配件 x2\"]},\"B SWING & FRAME\":{\"count\":10,\"items\":[\"横杆 x2\",\"连接砖 x1\",\"链条组件 x2\",\"小销/杆件 x1\",\"A形腿组件 x4\",\"垂直连接栓 x2\",\"秋千座椅支撑件 x2\",\"长凳板元件 x2\",\"小方块 x2\",\"小帽 x4\"]},\"C BASE & LANDSCAPING\":{\"count\":9,\"items\":[\"大方形底板 x1\",\"矩形瓷砖 x4\",\"小斜面瓷砖 x0\",\"小平板 x2\",\"圆形凸点 x2\",\"植物枝 x2\",\"花簇 x4\",\"圆形分层瓷砖 x2\",\"小圆帽 x2\"]}},\"assembly\":{\"steps\":[{\"step\":1,\"summary\":\"放置1个大方形底板作为基础\",\"part_count\":1},{\"step\":2,\"summary\":\"在底板一侧和中心周围添加12个小基础件\",\"part_count\":12},{\"step\":3,\"summary\":\"添加8个景观细节：2个圆形凸点，2个圆形帽，和4个植物件\",\"part_count\":8},{\"step\":4,\"summary\":\"构建并放置4个倾斜的秋千框架支撑件，形成两个A形框架\",\"part_count\":4},{\"step\":5,\"summary\":\"用3个梁和连接件连接顶部\",\"part_count\":3},{\"step\":6,\"summary\":\"从顶部梁悬挂4个悬挂部件：2个链条元件和2个连接器\",\"part_count\":4},{\"step\":7,\"summary\":\"使用7个部件安装秋千座椅，包括1个长凳板，2个支撑块，和4个帽\",\"part_count\":7},{\"step\":8,\"summary\":\"在座椅两侧添加4个圆形细节\",\"part_count\":4},{\"step\":9,\"summary\":\"从4个堆叠组件组装小人仔，并将他放在秋千上坐着\",\"part_count\":4},{\"step\":10,\"summary\":\"展示完成的展示模型，在完成的场景周围有强调线条\",\"part_count\":1}]},\"composition\":\"左上角主面板以四分之三视角展示完成的模型，坐着的人物在秋千上，位于带有角落小植物的有纹理的地面底座上；顶部中央零件清单使用带有数量标签的小型独立绘图；其余面板以经典乐高手册风格呈现等距组装说明\",\"rendering\":\"单色印刷说明书美学，清晰的矢量状轮廓，没有阴影，只有微妙的浅灰色填充，所有文本都是无衬线大写字母，整洁的玩具包装比例\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:42:03.787Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A black-and-white LEGO-style box and instruction sheet showing a small swing-set display model with a seated minifigure, useful for parody toy packaging, novelty concept sets, or fake build manuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个黑白色的乐高风格盒子和说明书，展示了一个带有坐着小人仔的小型秋千展示模型，适用于玩具包装的恶搞、新奇概念套装或假组装手册。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:47.308Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -66,19 +80,19 @@
   ],
   "categories": [
     {
-      "id": "ui-social-media",
-      "value": "UI & Social Media",
+      "id": "infographic-education",
+      "value": "Infographic & Education",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "ui-social-media-zh-cn",
-      "value": "UI 与社交媒体",
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "ui-social-media"
+      "translationOf": "infographic-education"
     }
   ],
   "sources": [
@@ -119,13 +133,14 @@
   "updatedAt": "2026-05-06T11:02:37.123Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "infographic-education",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
-      "ui",
-      "mockup"
+      "infographic",
+      "信息图",
+      "技术"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.566Z"
+    "classifiedAt": "2026-05-06T11:41:23.659Z"
   }
 }

@@ -21,7 +21,14 @@
       "value": "E-commerce Live Stream UI Mockup",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商直播UI原型",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:12.754Z"
+      }
+    }
   },
   "description": {
     "original": null,

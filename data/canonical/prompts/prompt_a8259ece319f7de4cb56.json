@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 极简产品广告：PURE CRUNCH",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:19.867Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "A polished anime-style banner illustration in a dreamy violet palette, wide cinematic composition, showing a quiet literary room at twilight. On the right side, a beautiful teenage anime girl named {argument name=\"character name\" default=\"Yuri\"} sits at a wooden desk beside a large window with purple curtains, holding a dark ornate hardcover book close to her chest and gazing softly downward with a shy, introspective expression. She has very long straight {argument name=\"hair color\" default=\"deep violet\"} hair with glossy highlights, side bangs, a small hair clip, and violet eyes, wearing a Japanese school uniform with a gray blazer, white shirt, red ribbon tie, and dark skirt. Across the left-center of the image, the glowing calligraphic word {argument name=\"title text\" default=\"Yuri\"} appears large in luminous neon-lavender script with elegant flourishes, a small heart, and decorative filigree, integrated into the scene like magical typography. The desk contains exactly 8 visible item groups: 1 open book in the foreground center, 1 black inkwell with a white feather quill, 1 closed book near the candle, 1 stack of books under papers, 1 loose handwritten page in front, 1 small purple flower on the desk, 1 floral porcelain teacup with saucer on the right, and 1 dark book stack at the far right. Additional background details include exactly 6 decorative environmental elements: 1 lit candle in a glass holder on the left, 1 cluster of purple flowers in the left foreground, 1 hanging spray of purple blossoms in the upper left, 1 pinned botanical note in the upper right, 1 bookshelf with books and flowers in the right background, and 1 sunset sky visible through the window. Add drifting flower petals, faint handwritten script textures, ornate gold border lines around the frame, soft volumetric window light, subtle sparkles, rich shadows, and a romantic melancholic atmosphere. Highly detailed, clean line art, glossy anime rendering, premium visual-novel key art, perfect for a niche anime banner or character-themed thumbnail.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "精致的动漫风格横幅插图，采用梦幻的紫色调，宽银幕构图，展现黄昏时分宁静的文学房间。右侧，一位美丽的少女动漫角色{argument name=\"character name\" default=\"Yuri\"}坐在一张木桌旁，旁边是一扇带有紫色窗帘的大窗户，她将一本深色精美精装书抱在胸前，害羞地低头凝视，表情内向沉思。她有非常长的直{argument name=\"hair color\" default=\"深紫色\"}头发，带有光泽高光，侧刘海，一个小发夹，和紫色的眼睛，穿着日本校服，包括灰色西装外套、白色衬衫、红色丝带领带和深色裙子。在图像的左中心，发光的书法文字{argument name=\"title text\" default=\"Yuri\"}以明亮的霓虹薰衣草色字体大字呈现，带有优雅的装饰、一个小心和装饰性的精细花纹，像魔法排版一样融入场景。桌子上恰好有8个可见的物品组：前景中央的1本打开的书，1个带有白色羽毛笔的黑色墨水瓶，蜡烛附近的1本合上的书，纸张下的1摞书，前面的1张松散的手写页，桌上的1小朵紫色花，右侧的1个带托盘的花纹瓷茶杯，以及最右侧的1摞深色书。额外的背景细节包括恰好6个装饰性环境元素：左侧玻璃座中的1支点燃的蜡烛，左前景的1簇紫色花，左上方的1束悬挂的紫色花朵，右上方的1个固定的植物笔记，右背景的1个带有书籍和花朵的书架，以及透过窗户可见的1个日落天空。添加飘落的花瓣，微弱的手写纹理，框架周围的华丽金色边框，柔和的体积窗光，微妙的闪烁，丰富的阴影，以及浪漫忧郁的氛围。高度详细，干净的线条艺术，光泽的动漫渲染，优质的视觉小说关键艺术，非常适合小众动漫横幅或角色主题缩略图。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:31:52.002Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Purple Anime Yuri Banner",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "紫色动漫百合横幅",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:31:55.408Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -87,9 +101,7 @@
       "ui",
       "social",
       "mockup",
-      "youtube",
-      "thumbnail",
-      "社交"
+      "thumbnail"
     ],
     "classifiedAt": "2026-05-06T11:03:21.601Z"
   }

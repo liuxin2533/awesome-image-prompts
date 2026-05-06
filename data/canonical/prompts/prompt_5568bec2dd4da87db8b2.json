@@ -21,7 +21,14 @@
       "value": "Tokyo DisneySea Front-Row Battle UI",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "东京迪士尼海洋前排战斗界面",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:10.338Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -43,7 +43,23 @@
       "sourceKey": "freestylefly"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    }
+  ],
   "sources": [
     {
       "sourceKey": "freestylefly",
@@ -78,11 +94,11 @@
   ],
   "updatedAt": "2026-05-06T11:02:37.354Z",
   "classification": {
-    "status": "needs_review",
-    "categoryId": null,
-    "source": "none",
-    "confidence": 0,
-    "reason": "no_rule_match",
-    "classifiedAt": "2026-05-06T11:03:21.579Z"
+    "status": "classified",
+    "categoryId": "photography-portrait",
+    "source": "manual",
+    "confidence": 1,
+    "matchedBy": [],
+    "classifiedAt": "2026-05-06T13:43:25.436Z"
   }
 }

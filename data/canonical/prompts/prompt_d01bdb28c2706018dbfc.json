@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 奢华毛皮内衬乐福鞋生活方式照片",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:56.808Z"
+      }
+    }
   },
   "description": {
     "original": null,

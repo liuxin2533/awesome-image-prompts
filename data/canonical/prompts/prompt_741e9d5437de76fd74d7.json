@@ -6,7 +6,14 @@
       "value": "A high-end editorial product poster in a minimalist studio, featuring an oversized translucent pink glass bong standing on the right side of the frame, nearly as tall as the composition, with a round water chamber half-filled with pale pink liquid, a long vertical neck releasing soft white smoke from the top, and a diagonal downstem visible inside the glass. A slim athletic woman with dark skin and long dreadlocks tied up in a high bun stands leaning casually against the bong near the center-left, her face intentionally obscured with a soft rectangular blur, wearing a dark olive sports bra, loose cream jogger pants, white crew socks with green stripes, and chunky off-white sneakers. She poses with one leg crossed in front of the other and one arm resting on the bong’s angled bowl. Behind them, place enormous bold dark green condensed numbers reading {argument name=\"headline text\" default=\"4:20\"} spanning almost the full height of the background on a warm light beige wall. In the lower left corner, add a small block of uppercase Spanish copy in a clean sans-serif font reading {argument name=\"quote\" default=\"DEJÓ DE SER EXCEPCIÓN. — YA FORMA PARTE DEL PAISAJE.\"}. The overall look should feel like a luxury lifestyle ad campaign: clean composition, muted earthy palette, soft diffused studio lighting, subtle shadows, sharp product detail, fashion-editorial styling, realistic glass reflections, and a polished contemporary cannabis culture aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端编辑产品海报，极简工作室风格，画面右侧有一个超大尺寸的半透明粉色玻璃水烟筒，几乎与构图等高，圆形水室中装有半室淡粉色液体，长直颈顶部释放出柔软的白色烟雾，玻璃内部可见倾斜的降烟管。一位身材苗条、皮肤黝黑、长发脏辫高高盘起的运动型女子站在画面中左侧附近，随意地倚靠着水烟筒，她的脸部被有意地用柔和的矩形模糊处理，穿着深橄榄色运动内衣、宽松的米色慢跑裤、带有绿色条纹的白色船袜和厚实的米白色运动鞋。她摆出姿势，一条腿交叉在另一条腿前，一只手臂放在水烟筒的倾斜烟斗上。在他们身后，一面温暖的浅米色墙壁上放置着巨大的粗体深绿色压缩数字，内容为 {argument name=\"headline text\" default=\"4:20\"}，几乎跨越整个背景高度。在左下角添加一小块大写西班牙语文本，使用简洁的无衬线字体，内容为 {argument name=\"quote\" default=\"DEJÓ DE SER EXCEPCIÓN. — YA FORMA PARTE DEL PAISAJE.\"}。整体风格应感觉像高端生活方式广告活动：干净的构图、柔和的大地色调、柔和的漫射工作室灯光、微妙的阴影、锐利的产品细节、时尚编辑风格、逼真的玻璃反射，以及精致的当代大麻文化美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:42:28.644Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a stylish studio ad image combining an oversized smoking product with fashion-editorial typography, ideal for cannabis lifestyle campaigns or conceptual product posters.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一个时尚的影棚广告图像，将过大的吸烟产品与时尚编辑风格排版相结合，非常适合大麻生活方式活动或概念性产品海报。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:42:32.239Z"
+      }
+    }
   },
   "sourceCategories": [
     {

@@ -6,7 +6,14 @@
       "value": "[STYLE]\nmonochromatic grayscale illustration, 3D rendered character, clean instructional reference sheet, \nwhite background, comic-style cell grid layout, technical diagram aesthetic\n\n[LAYOUT]\n4x4 grid layout, 16 panels total, each panel separated by thin black border lines, \nnumbered cells from 1 to 16, consistent panel size\n\n[CHARACTER]\n{argument name=\"character\" default=\"young female dancer, athletic build, ponytail hairstyle, crop top and baggy pants, sneakers\"}, same character in all panels\n\n[PANEL STRUCTURE - per cell]\ntop-left: bold number badge + {argument name=\"title\" default=\"Korean title text\"}\ncenter: full-body character pose illustration\nbottom-left: {argument name=\"description\" default=\"Korean description text (3-4 lines)\"}\noverlay: directional arrows indicating movement direction\n\n[ARROWS / MOTION INDICATORS]\ncurved arrows, straight arrows, circular rotation indicators, \nplaced around the character to show movement flow and direction\n\n[RENDERING STYLE]\nhigh detail 3D sculpt style, soft studio lighting, subtle shadows, \nno color, grayscale shading, clean linework, game concept art quality\n\n[NEGATIVE]\nno background scenery, no color tones, no extra characters, \nno cluttered backgrounds",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "[STYLE]\n单色灰度插图，3D渲染角色，清晰的教学参考图，\n白色背景，漫画风格单元格网格布局，技术图表美学\n\n[LAYOUT]\n4x4网格布局，总共16个面板，每个面板由细黑边框分隔，\n单元格编号从1到16，面板尺寸一致\n\n[CHARACTER]\n{argument name=\"character\" default=\"年轻女性舞者，健美体型，马尾发型，露脐上衣和宽松裤子，运动鞋\"}，所有面板中的角色相同\n\n[PANEL STRUCTURE - per cell]\n每个单元格的结构：\n左上角：粗体数字徽章 + {argument name=\"title\" default=\"韩语标题文本\"}\n中心：全身角色姿势插图\n左下角：{argument name=\"description\" default=\"韩语描述文本（3-4行）\"}\n叠加层：指示移动方向的箭头\n\n[ARROWS / MOTION INDICATORS]\n弯曲箭头，直线箭头，圆形旋转指示器，\n放置在角色周围以显示移动流向和方向\n\n[RENDERING STYLE]\n高细节3D雕塑风格，柔和的影棚灯光，微妙的阴影，\n无色彩，灰度阴影，清晰的线条，游戏概念艺术质量\n\n[NEGATIVE]\n无背景场景，无色调，无额外角色，\n无杂乱的背景",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:18.546Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Dance Movement Reference Sheet",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "舞蹈动作参考表",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:10.621Z"
+      }
+    }
   },
   "description": {
     "original": null,

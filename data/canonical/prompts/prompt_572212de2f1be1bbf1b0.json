@@ -36,6 +36,12 @@
         "language": "pt",
         "value": "Crie uma cena de ação de fantasia sombria cinematográfica em um salão de catedral em ruínas: uma {argument name=\"hero type\" default=\"cavaleira-maga blindada\"} agacha-se em uma posição defensiva no primeiro plano à esquerda, vestindo uma armadura ornamentada de aço escuro e placas de couro com um longo tabardo creme e preto, um braço estendido para trás segurando uma maça com espinhos ou um mangual crepitando com faíscas mágicas douradas, o outro braço posicionado à frente atrás de um escudo redondo brilhante contornado por uma luz quente. Oposta a ela, no plano médio à direita, está um enorme {argument name=\"enemy type\" default=\"golem de pedra sem cabeça\"}, construído a partir de placas de alvenaria cinza rachadas e preso com correntes quebradas, avançando com um punho enorme levantado e escombros caindo de seu corpo. Defina a batalha dentro de um interior grandioso de palácio-catedral danificado com arcos imponentes, colunas de pedra esculpida, janelas altas quebradas, piso de mármore com detalhes em ouro em padrões geométricos circulares, pedaços de pedra espalhados, poeira e detritos. Use iluminação de fundo dramática vinda de uma janela arqueada brilhante atrás do golem, destaques mágicos dourados quentes no escudo e na arma, sombras profundas, feixes de poeira volumétricos, texturas realistas, armadura e pedra altamente detalhadas, composição dinâmica em ângulo baixo, profundidade cinematográfica rasa, realismo épico de jogo cinematográfico, widescreen 16:9, sem texto, sem interface.",
         "source": "upstream"
+      },
+      "en": {
+        "language": "en",
+        "value": "Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name=\"hero type\" default=\"female armored knight-mage\"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name=\"enemy type\" default=\"headless stone golem\"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:56:27.560Z"
       }
     }
   },
@@ -75,6 +81,12 @@
         "language": "pt",
         "value": "Banda desenhada / Storyboard - Cavaleira-Maga enfrenta Golem de Pedra",
         "source": "upstream"
+      },
+      "en": {
+        "language": "en",
+        "value": "Knight and Mage Battle Stone Golem",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:56:28.102Z"
       }
     }
   },

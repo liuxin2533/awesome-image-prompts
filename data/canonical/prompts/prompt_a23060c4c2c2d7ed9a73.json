@@ -21,7 +21,14 @@
       "value": "Editorial Osaka Six Sweatshirt Ad",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "大阪六号卫衣广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:23:28.251Z"
+      }
+    }
   },
   "description": {
     "original": null,

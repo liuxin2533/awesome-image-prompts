@@ -21,7 +21,14 @@
       "value": "Korean Idol 3x3 Collage Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "韩国偶像 3x3 拼贴肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:21:01.025Z"
+      }
+    }
   },
   "description": {
     "original": null,

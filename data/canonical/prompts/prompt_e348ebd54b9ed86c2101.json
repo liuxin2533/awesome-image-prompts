@@ -6,7 +6,14 @@
       "value": "A hyper-dynamic anime illustration of a neon cyber idol catgirl thrusting a soda bottle toward the viewer in extreme foreshortened perspective, with the bottle dominating the foreground and the character filling the background. She has {argument name=\"hair color\" default=\"long lavender-to-cyan gradient hair\"}, 2 black cat ears with soft pink inner fur, and 1 glowing halo ring floating above her head. Her face is mostly hidden by a solid square censor block in the center-right of the image, while her wild flowing hair explodes outward in ribbons and strands. She wears a glossy black and white futuristic streetwear outfit with a deep neckline, a cropped jacket, metallic straps, small accessories, and a round pink badge near the chest. Her visible hand grips 1 plastic soda bottle labeled {argument name=\"brand name\" default=\"Nyan SODA\"}, with long nails painted in 2 colors: cyan and pink. The bottle is transparent and filled with sparkling dark purple soda, glowing bubbles, and neon highlights, and it erupts upward in a dramatic splash of vivid magenta liquid. Surround the scene with 1 shower of crystalline ice cubes, countless droplets, paint-like splashes, glittering particles, and energy arcs. Use an intense palette of electric magenta, violet, indigo, and cyan with high contrast, glossy reflections, bloom lighting, and luminous rim light. The background should be an abstract explosion of liquid, light, and motion rather than a realistic setting. Make it feel like an aggressive soda advertisement mixed with idol key art, chaotic, cute, and high-energy, with ultra-detailed anime rendering, crisp linework, sparkling highlights, and a vertical poster composition.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个充满活力的动漫插画，描绘了一个霓虹赛博偶像猫娘，以极度缩短的透视角度将一瓶汽水推向观众，瓶子占据前景，角色填满背景。她有着{argument name=\"hair color\" default=\"长薰衣草青色渐变头发\"}，2只黑色猫耳，内层有柔软的粉色绒毛，头顶上方漂浮着1个发光的光环。她的脸部大部分被图像中右侧中心的实心方形马赛克块遮挡，而她狂野飘逸的头发则向外爆炸成丝带和细丝。她穿着闪亮的黑白未来街头服饰，有深领口、短夹克、金属束带、小配饰和胸前的圆形粉色徽章。她可见的手握着1个标有{argument name=\"brand name\" default=\"Nyan SODA\"}的塑料汽水瓶，指甲涂有2种颜色：青色和粉色。瓶子透明，装满闪亮的深紫色汽水，发光的气泡和霓虹高光，向上喷涌出戏剧性的鲜艳洋红色液体。场景周围环绕着1场水晶冰块淋浴，无数水滴，油漆般的飞溅，闪烁的粒子和能量弧线。使用强烈的洋红色、紫罗兰色、靛蓝色和青色调色板，高对比度，闪亮的反射，辉光照明和发光的轮廓光。背景应该是液体、光线和运动的抽象爆炸，而不是真实的场景。让它感觉像是一个充满活力的汽水广告与偶像艺术画的混合，混乱、可爱、高能量，具有超精细的动漫渲染，清晰的线条，闪亮的高光和垂直海报构图。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:15.916Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a high-energy anime-style vertical poster of a cat-eared idol girl presenting a glowing soda bottle amid explosive neon splashes, ideal for ad-style key art or social media illustration.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一张高能量的动漫风格竖版海报，展示一个猫耳偶像少女在爆炸性霓虹飞溅中手持发光的汽水瓶，适合广告风格的关键艺术或社交媒体插图。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:13.456Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -101,19 +115,19 @@
   ],
   "categories": [
     {
-      "id": "product-marketing",
-      "value": "Product & Marketing",
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "product-marketing-zh-cn",
-      "value": "产品与营销",
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "product-marketing"
+      "translationOf": "poster-illustration"
     }
   ],
   "sources": [
@@ -154,15 +168,16 @@
   "updatedAt": "2026-05-06T11:02:37.126Z",
   "classification": {
     "status": "classified",
-    "categoryId": "product-marketing",
+    "categoryId": "poster-illustration",
     "source": "rule",
     "confidence": 1,
     "matchedBy": [
-      "product",
-      "marketing",
-      "产品",
-      "营销"
+      "poster",
+      "illustration",
+      "anime",
+      "海报",
+      "插画"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.570Z"
+    "classifiedAt": "2026-05-06T11:41:23.664Z"
   }
 }

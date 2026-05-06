@@ -6,7 +6,14 @@
       "value": "A highly polished anime banner illustration in a warm golden classroom-literature-club setting, wide cinematic composition. On the left half, a large elegant glowing script title reads {argument name=\"headline text\" default=\"Monika\"} in oversized calligraphy, colored white and pale green with a soft neon glow, metallic highlights, decorative flourishes, hearts, sparkles, and swirling ornamental lines around it. On the right half, a beautiful anime schoolgirl inspired by {argument name=\"character name\" default=\"Monika\"} sits at a wooden desk, facing slightly left, with long flowing {argument name=\"hair color\" default=\"chestnut brown\"} hair, a very large white ribbon bow, warm brown eyes, and a thoughtful, confident expression. She wears a Japanese high school uniform with exactly 4 visible clothing pieces: a brown blazer, white shirt, red ribbon tie, and brown argyle sweater vest. She holds a fountain pen over papers on the desk with one hand while the other rests near her face in a poised writing pose. The room is filled with sunset light streaming through tall windows, dust motes, trailing green ribbons, floating petals, handwritten notes pinned and hanging in the background, and a dark chalkboard covered with faint cursive writing and geometric doodles. Include exactly 9 prominent desk and room props: a bouquet of white roses at lower left, a stack of books at left, an hourglass near the center-left, a sealed envelope with a small green leaf emblem, scattered manuscript pages on the desk, a pen cap near the writing hand, a green-upholstered chair, a piano in the back right, and a stack of 4 books on the right. The 4 right-side book spines read, from top to bottom: \"Save Me\", \"My Feelings\", \"Poems for the Literature Club\", and \"Just Monika.\" Add lush volumetric lighting, glittering particles, green-and-gold color harmony, delicate linework, ultra-detailed painterly shading, romantic visual-novel key art quality, and a premium polished thumbnail/banner aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高度抛光的动漫横幅插画，设置在温暖的金色教室文学俱乐部场景中，采用宽屏电影构图。左半部分，一个优雅的发光手写标题以超大书法形式显示，内容为 {argument name=\"headline text\" default=\"Monika\"}，颜色为白色和淡绿色，带有柔和的霓虹光晕、金属高光、装饰性花纹、心形、闪光和漩涡状装饰线条环绕。右半部分，一位美丽的动漫女学生，灵感来源于 {argument name=\"character name\" default=\"Monika\"}，坐在木桌旁，略微向左转，拥有长长的飘逸 {argument name=\"hair color\" default=\"chestnut brown\"} 头发，一个非常大的白色蝴蝶结丝带，温暖的棕色眼睛，以及一个沉思而自信的表情。她穿着日本高中校服，恰好有4件可见的服装：棕色西装外套、白色衬衫、红色丝带领带和棕色菱形花纹毛衣背心。她一手拿着钢笔放在桌上的纸张上，另一只手放在脸旁，形成一个优雅的写作姿势。房间内充满了夕阳透过高窗洒入的光线、漂浮的尘埃、飘动的绿色丝带、漂浮的花瓣、背景中悬挂的手写笔记，以及一块覆盖着淡草书写作和几何涂鸦的深色黑板。包含恰好9个突出的桌子和房间道具：左下角的一束白玫瑰，左侧的一叠书，中心左侧的一个沙漏，一个带有小型绿色叶徽的密封信封，桌上的散落手稿页，写字手旁的笔帽，一个绿色软垫椅子，后右方的钢琴，以及右侧的一叠4本书。右侧的4本书的书脊从上到下分别写着：\"救救我\"、\"我的感受\"、\"文学俱乐部诗歌\"和\"只是Monika\"。添加丰富的体积光照、闪烁的粒子、绿色和金色色彩和谐、精致的线条、超精细的绘画阴影、浪漫视觉小说关键艺术品质，以及高级抛光的缩略图/横幅美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:46.600Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Monika Anime Banner Illustration",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Monika Anime 横幅插画",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:50.384Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -88,7 +102,6 @@
       "ui",
       "social",
       "mockup",
-      "youtube",
       "thumbnail"
     ],
     "classifiedAt": "2026-05-06T11:03:21.563Z"

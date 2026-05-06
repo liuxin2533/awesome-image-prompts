@@ -21,7 +21,14 @@
       "value": "Pastel Jellyfish Room Goods Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "粉彩色调水母房间用品海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:52.887Z"
+      }
+    }
   },
   "description": {
     "original": null,

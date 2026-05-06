@@ -6,7 +6,14 @@
       "value": "A polished children's pop-up book advertisement on a dark studio background, featuring an open hardcover book with thick white pages and a teal-green cover lying on a tabletop. From the center fold, a highly detailed white paper origami T-rex bursts upward in a dynamic roaring pose, mouth wide open with sharp triangular teeth, tiny clawed arms raised, thick folded legs planted in layered paper jungle foliage, and a segmented tail extending backward. The dinosaur should look handcrafted from crisp folded cardstock, with visible geometric paper panels and clean origami seams. Behind it, the right-hand page stands partially upright and catches a dramatic shadow projection of the T-rex profile, creating a large silhouette with open jaws; also include small paper-cut scenery on that page: 3 flying pterosaurs and a simple mountain landscape. Surround the dinosaur base with dense cut-paper plants and grass emerging from both pages. Light the scene with a cinematic warm spotlight from the upper left, leaving the background in deep navy to black, with soft realistic shadows cast across the book and onto the raised page. At the top center, include bold white ad typography in stacked lines reading {argument name=\"headline text\" default=\"DINOSAURS POP UP ADVENTURE\"}, with a white ribbon banner below that reads {argument name=\"tagline\" default=\"A WORLD OF WONDER IN EVERY PAGE\"}. At the bottom center, place 4 evenly spaced circular feature icons with captions in white: an open book icon labeled \"AMAZING POP UP DESIGNS\", a hand icon labeled \"HANDCRAFTED WITH CARE\", a shield icon labeled \"DURABLE & KID FRIENDLY\", and a light bulb icon labeled \"INSPIRES IMAGINATION\". Premium toy catalog style, cinematic product photography mixed with paper craft illustration, centered composition, high contrast, ultra-clean, whimsical, family-friendly, realistic paper texture.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个精致的儿童立体书广告，背景为暗色摄影棚，展示一本摊开的硬壳书，书页厚实洁白，封面为青绿色，放置在桌面上。从书页中心折痕处，一个高度详细的白色纸折暴龙以动态咆哮姿态向上跃起，大张着嘴露出锋利的三角形牙齿，小小的爪状手臂抬起，粗壮的折叠腿扎根在分层的纸质丛林植被中，分段式的尾巴向后延伸。恐龙应看起来是用挺括的折叠卡纸手工制作的，带有可见的几何纸板面板和干净的折纸接缝。在恐龙身后，右侧页面部分直立，投射出暴龙轮廓的戏剧性阴影，形成一个张大嘴巴的大型剪影；在该页面上还应包括小型剪纸场景：3只飞行的翼龙和简单的山脉景观。用密集的剪纸植物和草丛环绕恐龙底部，这些植物从书页两侧生长出来。用电影感的温暖聚光灯从左上方照亮场景，背景保持深蓝至黑色，在书籍和抬起的页面上投射出柔和逼真的阴影。在顶部中央，包含粗体白色广告排版，以堆叠行显示{argument name=\"headline text\" default=\"DINOSAURS POP UP ADVENTURE\"}，下方有一条白色丝带横幅，上面写着{argument name=\"tagline\" default=\"A WORLD OF WONDER IN EVERY PAGE\"}。在底部中央，放置4个均匀间隔的圆形功能图标，配有白色标题：一个打开的书本图标，标注\"AMAZING POP UP DESIGNS\"；一个手形图标，标注\"HANDCRAFTED WITH CARE\"；一个盾牌图标，标注\"DURABLE & KID FRIENDLY\"；和一个灯泡图标，标注\"INSPIRES IMAGINATION\"。高级玩具目录风格，电影感产品摄影与纸工艺插画相结合，居中构图，高对比度，超清晰，富有奇思妙想，适合家庭，逼真的纸张质感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:00.670Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a cinematic children's advertisement image of a paper T-rex bursting from a pop-up book, ideal for toy, book, or educational product marketing.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个电影风格的儿童广告图片，展示一只纸制T-霸王龙从立体书中弹出，非常适合玩具、书籍或教育产品的营销。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:57:50.185Z"
+      }
+    }
   },
   "sourceCategories": [
     {

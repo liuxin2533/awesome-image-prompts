@@ -6,7 +6,14 @@
       "value": "A realistic casual indoor selfie of a {argument name=\"person\" default=\"adult woman\"} taken at arm’s length on a smartphone, framed from mid-chest up in a square composition. She has shoulder-length, slightly messy wavy {argument name=\"hair color\" default=\"auburn red\"} hair with natural volume and soft frizz, center-parted, lit by warm golden-hour sunlight coming from a large window or sliding glass door on the left side of the frame. She wears a simple {argument name=\"shirt color\" default=\"white\"} short-sleeve V-neck T-shirt. The pose is relaxed and natural with both forearms faintly visible from holding the phone, creating an authentic unpolished selfie perspective. The setting is a real apartment or home interior: bright vertical window and door frames on the left, beige walls, and a dark brown sofa in the back right. Lighting is soft, warm, and organic, with sun highlights on the hair, shoulders, and arms, mild indoor shadows, realistic skin texture, and no glamor retouching. Overall look should feel candid, believable, and minimally styled, like a genuine phone photo rather than a polished AI portrait. Use natural proportions, subtle image noise, ordinary home background detail, and straightforward smartphone camera realism.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个真实的休闲室内自拍，由{argument name=\"person\" default=\"成年女性\"}在智能手机上以手臂长度拍摄，从胸部中间向上构图，呈方形构图。她有齐肩长、略微凌乱的波浪形{argument name=\"hair color\" default=\"赤褐色\"}头发，具有自然的蓬松度和柔软的毛躁，中间分缝，被来自画面左侧大窗户或滑动玻璃门的温暖黄金时刻阳光照亮。她穿着一件简单的{argument name=\"shirt color\" default=\"白色\"}短袖V领T恤。姿势放松自然，两只前臂因拿着手机而隐约可见，创造出真实的未经修饰的自拍视角。场景是一个真实的公寓或家庭室内：左侧有明亮的垂直窗户和门框，米色墙壁，以及后右侧的深棕色沙发。光线柔和、温暖且自然，头发、肩膀和手臂上有阳光高光，轻微的室内阴影，真实的皮肤纹理，没有美化修饰。整体外观应感觉自然、可信且风格简约，像真实的手机照片而非精修的AI肖像。使用自然比例，微妙的图像噪点，普通的家居背景细节，以及直接的智能手机相机真实感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:11.669Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A natural-looking smartphone selfie prompt for generating believable casual indoor portraits with warm sunset window light.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个看起来自然的智能手机自拍提示，用于生成具有温暖日落窗光的真实可信的休闲室内肖像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:10.326Z"
+      }
+    }
   },
   "sourceCategories": [
     {

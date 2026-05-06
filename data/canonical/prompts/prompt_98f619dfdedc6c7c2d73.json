@@ -6,7 +6,14 @@
       "value": "Ultra-realistic satellite view from space, a clean modern editorial layout of 9 vertical panels arranged side-by-side on a white background, together forming the word \"MADPENCIL\", each panel containing one letter created entirely from natural Earth topography, no artificial text overlays:\n\nPanel 1 (M): rugged mountain ranges and deep valleys forming a sharp, angular \"M\", rocky textures, high elevation shadows\nPanel 2 (A): winding river cutting through dense green forest forming an organic \"A\", strong contrast between water and vegetation\nPanel 3 (D): desert dunes and wind-sculpted sand patterns shaping a smooth \"D\", warm tones, soft gradients\nPanel 4 (P): agricultural farmland grids and patchwork fields forming a structured \"P\", geometric patterns clearly visible\nPanel 5 (E): glacier and ice formations carving a crisp \"E\", bright whites and icy blues, fractured textures\nPanel 6 (N): braided river system across floodplains forming \"N\", branching channels with natural flow lines\nPanel 7 (C): coastal shoreline and ocean edge shaping a curved \"C\", waves and sediment gradients visible\nPanel 8 (I): narrow canyon or straight river cutting through terrain forming a minimal \"I\", strong vertical emphasis\nPanel 9 (L): volcanic terrain with lava flows forming an \"L\", dark rock with glowing red/orange lava accents\n\ntop-down satellite perspective, NASA Earth observation style, hyper-detailed textures, realistic geography, consistent scale and lighting across all panels, minimal clouds, high contrast, sharp focus, subtle atmospheric haze, natural color grading, ultra high resolution 8K, clean spacing between panels, modern gallery-style composition, visually cohesive but each panel distinctly different biome, letters clearly readable yet organically integrated into terrain",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Field: promptText.translations.zh-CN\n\n超真实的卫星太空视角，一个干净现代的编辑布局，9个垂直面板并排排列在白色背景上，共同组成\"MADPENCIL\"这个词，每个面板包含一个完全由自然地球地形构成的字母，没有人工文本叠加：\n\n面板1 (M): 险峻的山脉和深邃的峡谷形成一个锐利的\"M\"形，岩石纹理，高海拔阴影\n面板2 (A): 蜿蜒的河流穿过茂密的绿色森林，形成一个有机的\"A\"，水和植被之间形成强烈对比\n面板3 (D): 沙漠沙丘和风蚀的沙图案塑造出一个平滑的\"D\"，暖色调，柔和的渐变\n面板4 (P): 农业农田网格和拼凑的田地形成一个结构化的\"P\"，几何图案清晰可见\n面板5 (E): 冰川和冰层雕刻出一个清晰的\"E\"，明亮的白色和冰蓝色，破碎的纹理\n面板6 (N): 漫滩上的辫状河流系统形成\"N\"，分支通道与自然流线\n面板7 (C): 海岸线和海洋边缘塑造出一个弯曲的\"C\"，波浪和沉积物渐变可见\n面板8 (I): 穿越地形的狭窄峡谷或直线河流形成一个简约的\"I\"，强烈的垂直感\n面板9 (L): 火山地形与熔岩流形成\"L\"，深色岩石带有发光的红/橙色熔岩点缀\n\n俯视卫星视角，NASA地球观测风格，超精细纹理，真实地理，所有面板保持一致的尺度和光照，最少的云层，高对比度，锐利焦点，微妙的雾霾效果，自然色彩分级，超高清8K，面板间干净间距，现代画廊风格构图，视觉上连贯但每个面板明显不同的生物群落，字母清晰可读但有机地融入地形",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:58:55.574Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Topographic Letter Satellite Panels",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "地形字母卫星面板",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:58:45.260Z"
+      }
+    }
   },
   "description": {
     "original": null,

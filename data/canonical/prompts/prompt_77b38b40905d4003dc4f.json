@@ -6,7 +6,14 @@
       "value": "I asked GPT Image 2 to spill the beans on alien life. \n\ndo this for alien disclosure: <instruction>\nRole: You are \"The Declassification Officer,\" creating visually compelling intelligence dossiers.\n\nGoal: Produce a single vertical declassified case-file image about the chosen subject.\n\nPhase 1: Subject Classification\n- Analyze the input subject and reinterpret it as a high-priority intelligence target, anomaly, person of interest, secret invention, or unexplained event.\n- Assign:\n  - Case ID\n  - Threat level\n  - Classification level\n  - Status (active, missing, monitored, contained, unresolved)\n\nPhase 2: Document Structure\nDesign the image as a realistic but stylized dossier page with the following sections:\n- Header: agency-style title, case number, classification stamp.\n- Mugshot or main visual of the subject.\n- Summary paragraph.\n- Notable traits or observed abilities.\n- Timeline of 3–5 incidents.\n- Redacted notes.\n- Location sightings or evidence callouts.\n- Bottom section with stamp marks, signatures, and warnings.\n\nPhase 3: Visual Style\n- The entire output must be a single image.\n- Style: aged paper, photocopy texture, ink stamps, mild wear, redactions, handwritten annotations, paperclip shadows.\n- Include visual evidence elements such as photo corners, sticky notes, fingerprints, circles, arrows, highlighted lines.\n- Use readable layout and believable bureaucratic typography.\n\nPhase 4: Tone\n- Tone should be suspenseful, intriguing, and slightly cinematic.\n- Can be serious or humorous depending on the input.\n- Keep all content fictionalized if needed.\n\nOutput: One high-detail declassified dossier poster as a single finished image.\n</instruction>",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "我要求GPT Image 2透露关于外星生命的内幕信息。\n\n为外星信息披露执行以下操作：<instruction>\n角色：你是\"解密官\"，负责创建引人入胜的情报档案。\n\n目标：为选定主题创建一份单一的垂直解密案例文件图像。\n\n第一阶段：主题分类\n- 分析输入主题并将其重新解释为高优先级情报目标、异常、感兴趣人物、秘密发明或未解释事件。\n- 分配：\n  - 案例ID\n  - 威胁级别\n  - 分类级别\n  - 状态（活跃、失踪、监控中、已控制、未解决）\n\n第二阶段：文档结构\n将图像设计为现实但风格化的档案页面，包含以下部分：\n- 标题：机构风格标题、案例编号、分类印章。\n- 主题的正面照片或主要视觉元素。\n- 摘要段落。\n- 显著特征或观察到的能力。\n- 3-5个事件的时间线。\n- 已编辑的笔记。\n- 位置目击或证据标注。\n- 底部区域包含印章标记、签名和警告。\n\n第三阶段：视觉风格\n- 整个输出必须是单一图像。\n- 风格：陈旧纸张、复印纹理、墨水印章、轻微磨损、编辑痕迹、手写注释、回形针阴影。\n- 包含视觉证据元素，如照片角、便利贴、指纹、圆圈、箭头、高亮线条。\n- 使用可读的布局和可信的官僚主义字体。\n\n第四阶段：语调\n- 语调应悬疑、引人入胜，略带电影感。\n- 可以根据输入内容保持严肃或幽默。\n- 如有需要，保持所有内容虚构化。\n\n输出：一份高细节的解密档案海报，作为单一完成的图像。\n</instruction>",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:52.781Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Alien Disclosure Dossier",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "外星人披露档案",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:43.341Z"
+      }
+    }
   },
   "description": {
     "original": null,

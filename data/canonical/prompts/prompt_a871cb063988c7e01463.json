@@ -6,7 +6,14 @@
       "value": "Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:03:26.948Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Netflix 首页主视觉 UI",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Netflix homepage main visual UI",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:03:30.522Z"
+      }
+    }
   },
   "description": {
     "original": null,

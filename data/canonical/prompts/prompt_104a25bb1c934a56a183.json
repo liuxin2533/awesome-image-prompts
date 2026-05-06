@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Earbuds E-commerce Infographic",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 耳机电商信息图",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:37.437Z"
+      }
+    }
   },
   "description": {
     "original": null,

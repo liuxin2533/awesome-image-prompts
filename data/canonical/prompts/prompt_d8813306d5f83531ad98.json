@@ -6,7 +6,14 @@
       "value": "Aesthetic beachside café scene with a wooden table overlooking the ocean, bright daylight, soft shadows, tropical vibe. A delicious bowl of food and a coconut drink placed on the table. Add cute illustrated cartoon characters (fox, bunny, cat) sitting and relaxing around the food, with tiny hand-drawn doodles (hearts, sparkles, motion lines). Cozy wholesome mood, playful storytelling, mix of real photography and 2D illustration overlay, soft warm color grading, shallow depth of field, ultra-realistic food details, 4K.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "美学海滩咖啡馆场景，带有一张俯瞰海洋的木桌，明亮的日光，柔和的阴影，热带风情。桌上放着一碗美味的食物和一杯椰子饮料。添加可爱的卡通插画角色（狐狸、兔子、猫）坐在食物周围放松，带有微小的手绘涂鸦（爱心、闪光、运动线条）。温馨舒适的氛围，富有故事性的叙事，真实摄影与2D插画叠加，柔和温暖的色彩分级，浅景深，超逼真的食物细节，4K。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:22.470Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Food Photography with Doodle Characters",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "美食摄影与涂鸦角色",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:30.375Z"
+      }
+    }
   },
   "description": {
     "original": null,

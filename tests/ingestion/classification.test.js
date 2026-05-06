@@ -1,5 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
+const childProcess = require('node:child_process');
 const fs = require('node:fs');
 const os = require('node:os');
 const path = require('node:path');
@@ -117,4 +118,40 @@ test('readCategoryRules returns editable canonical categories', () => {
 
   assert.equal(rules.categories.some(category => category.id === 'poster-illustration'), true);
   assert.equal(rules.categories.some(category => category.title['zh-CN'] === '海报与插画'), true);
+  assert.equal(rules.categories.some(category => category.id === 'game-entertainment'), true);
+  assert.equal(rules.categories.some(category => category.id === 'video-animation-collage'), true);
+});
+
+test('classification CLI refreshes report without circular dependency failure', t => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'classification-cli-refresh-'));
+  const dataset = {
+    schemaVersion: '2026-05-04',
+    generatedAt: '2026-05-05T00:00:00.000Z',
+    totalCount: 1,
+    languages: ['en'],
+    sourceCount: { fixture: 1 },
+    prompts: [promptFixture({ id: 'prompt_poster0000000000' })]
+  };
+  writeCanonicalDataset(projectRoot, dataset);
+
+  let output = '';
+  try {
+    output = childProcess.execFileSync(process.execPath, [
+      path.join(__dirname, '..', '..', 'scripts', 'ingestion', 'classification.js'),
+      '--project-root',
+      projectRoot,
+      '--refresh-report',
+      '--target-languages',
+      'en,zh-CN'
+    ], { encoding: 'utf-8' });
+  } catch (error) {
+    if (error.code === 'EPERM') {
+      t.skip('Current sandbox blocks child-process Node execution.');
+      return;
+    }
+    throw error;
+  }
+
+  assert.match(output, /Classification: 1 classified, 0 need review/);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/reports/latest.json')), true);
 });

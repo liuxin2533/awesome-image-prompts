@@ -21,7 +21,14 @@
       "value": "Artist and Ethereal Muse at Night",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "艺术家和空灵的缪斯在夜晚",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:53.227Z"
+      }
+    }
   },
   "description": {
     "original": null,

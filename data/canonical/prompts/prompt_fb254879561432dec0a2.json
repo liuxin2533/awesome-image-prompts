@@ -94,7 +94,14 @@
       "value": "If you have a reference image for the exact calligraphy style, upload it as an image reference for stronger fidelity.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "如果您有特定书法风格的参考图片，请将其作为图像参考上传，以获得更高的保真度。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:37.642Z"
+      }
+    }
   },
   "sourceCategories": [
     {

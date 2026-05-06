@@ -6,7 +6,14 @@
       "value": "{argument name=\"subject\" default=\"A photo portrait of a Tudor-style young nobleman\"}. Pale blond hair, androgynous features, a quiet gaze. {argument name=\"clothing\" default=\"Black feathered hat, jewel-embroidered black outfit, white lace collar, fur-trimmed cloak\"}. {argument name=\"location\" default=\"Inside a Gothic cathedral, stone pillars and stained glass\"}, soft natural light, a solemn atmosphere, ultra-high definition, cinematic lighting.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{argument name=\"subject\" default=\"都铎风格年轻贵族的照片肖像\"}. 淡金色头发，雌雄同体的特征，安静的眼神。 {argument name=\"clothing\" default=\"黑色羽毛帽，珠宝刺绣的黑色服装，白色蕾丝领口，毛皮镶边的斗篷\"}. {argument name=\"location\" default=\"哥特式教堂内部，石柱和彩色玻璃窗\"}, 柔和的自然光，庄严的氛围，超高清，电影级灯光。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:17.121Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A sophisticated prompt for a cinematic photo portrait of a Tudor-style young nobleman inside a Gothic cathedral with high-end lighting details.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个精致的提示词，用于电影般的照片肖像，描绘一位都铎风格年轻贵族在哥特式大教堂内，带有高端照明细节。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:15.182Z"
+      }
+    }
   },
   "sourceCategories": [
     {

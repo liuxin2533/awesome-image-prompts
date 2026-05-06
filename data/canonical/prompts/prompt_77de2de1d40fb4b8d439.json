@@ -6,7 +6,14 @@
       "value": "Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: \"200g spaghetti\", \"150g mushrooms\", \"3 garlic cloves\", \"200ml cream\", \"1 tbsp olive oil\", \"parmesan\", \"parsley\", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用 REFERENCE_0 和 REFERENCE_1，创建一个专注于仪式帽的干净民族志档案板。使用 REFERENCE_0 作为历史西藏背景和轮廓参考，使用 REFERENCE_1 作为帽子的颜色、材料和装饰参考。将帽子隔离并重建为博物馆风格的对象研究，移除作为主要主体的坐姿身体。将帽子呈现在米白色文档页面上，作为带有小型罗马化的中文学术目录表。在物体周围添加8个带细虚线引导线的编号标注，每个都指向特定结构细节。中心应为帽子的大幅四分之三底视图。另外包括恰好4个补充视图/细节：1个带有淡线绘制躯干的侧面轮廓佩戴草图，1个底面内部视图，1个俯视图，和2个方形材料样本。在右下角添加恰好4个线色样本：蓝色、红色、白色和黄色。在顶部中心添加大标题 {argument name=\"headline text\" default=\"唐徐帽\"}，下方带有罗马化 {argument name=\"romanization\" default=\"(thang zhwa)\"}，加上较小的副标题描述其为高级藏传佛教僧侣的夏季仪式帽。在左上角添加带多个中文短字段的框式元数据面板，在右上角添加版号 {argument name=\"plate number\" default=\"图版 No. 27\"}。在底部添加一个带边框的中文注释段落。整体风格：细致的档案信息图表，人类学目录插图，历史信息丰富，精确的编织纹理，象牙金色底座配蓝色和红色装饰，优雅的印刷布局，细线条和装饰分隔标记，在普通纸背景上的高细节对象渲染。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:04:18.631Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Recipe Infographic Layout",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "藏族仪式帽的民族志展示板",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:04:22.916Z"
+      }
+    }
   },
   "description": {
     "original": null,

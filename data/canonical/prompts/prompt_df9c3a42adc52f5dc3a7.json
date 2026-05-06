@@ -21,7 +21,14 @@
       "value": "主题海报版式设计",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Theme Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:10:15.461Z"
+      }
+    }
   },
   "description": {
     "original": null,

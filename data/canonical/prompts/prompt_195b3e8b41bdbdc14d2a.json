@@ -6,7 +6,14 @@
       "value": "A candid street-food cafe photo in a narrow old Taiwanese breakfast shop, shot in a realistic smartphone-photo style with soft natural daylight and a slightly warm documentary look. A young East Asian woman with {argument name=\"hair color\" default=\"black\"} shoulder-length straight hair sits on a small red plastic stool at a red laminate table, facing the camera and holding a hot scallion pancake wrap with both hands at chest height. Her face is intentionally obscured with a large soft blurred rectangle. She wears a white camisole with thin straps and tiny bow details, light blue high-waisted denim shorts, and a silver heart pendant necklace. Her pose is relaxed, seated slightly angled, with bare legs visible under the table. On the table are exactly 2 white plates of sliced stuffed scallion pancakes, 1 steaming paper cup with red Chinese text, 1 white bowl of soup with dark greens and tofu or curd pieces and a white soup spoon, plus scattered crumbs and paper wrappers. Steam should be clearly rising beside the cup and bowl. The food wrap in her hands looks overstuffed with egg, scallion pancake layers, and fillings peeking out. The background shows a busy, authentic local eatery interior: exactly 2 workers behind a glass display case, a Coca-Cola refrigerator, fluorescent tube lights overhead, an electric fan, tiled walls, and several Chinese menu signs and food posters with prices in New Taiwan dollars. Include visible traditional Chinese signage such as scallion pancakes, egg pancake rolls, soy milk, and prices around 30 to 55 yuan/TWD. Show a glass case on the right containing stacked fried dough sticks or pastries. On the left side, reveal part of the open storefront to the street with scooters and neighboring buildings faintly visible. Composition is vertical, full-body seated crop from head to knees, centered subject, shallow depth of field but enough detail to keep the shop readable, realistic skin tones, casual morning breakfast atmosphere, bustling everyday Taipei street-food aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "在台湾一家狭窄的老式早餐店里的街边小吃咖啡馆照片，以真实的手机照片风格拍摄，带有柔和的自然日光和略微温暖的纪录片感。一位年轻的东亚女子，留着{argument name=\"hair color\" default=\"black\"}齐肩直发，坐在红色塑料小凳上，面对镜头，双手在胸前拿着一个热葱煎饼卷。她的脸被一个大的柔和模糊矩形故意遮挡。她穿着一件白色细肩带小背心，带有小细节的蝴蝶结，浅蓝色高腰牛仔短裤，和一个银色心形吊坠项链。她的姿势放松，略微倾斜地坐着，桌下可见光腿。桌上有2个白盘切片葱煎饼，1个冒着热气的印有红色中文文字的纸杯，1个装有深绿色蔬菜和豆腐或凝乳块的白碗，一把白色汤匙，以及散落的碎屑和纸包装。蒸汽应从杯子和碗旁明显升起。她手中的食物包装看起来塞得过满，里面有鸡蛋、葱煎饼层，以及露出的馅料。背景显示繁忙、正宗的当地餐厅内部：玻璃展示柜后有2名工作人员，一个可口可乐冰箱，头顶的荧光灯管，一个电风扇，瓷砖墙壁，以及几份中文菜单和食品海报，标有新台币价格。包含可见的传统中文招牌，如葱煎饼、鸡蛋煎饼卷、豆浆，以及30到55元新台币的价格。右侧展示一个玻璃柜，里面堆叠着油条或糕点。左侧展示部分开放式的店面通向街道，隐约可见摩托车和相邻建筑。构图是垂直的，从头到膝盖的全身坐姿裁剪，居中主体，浅景深但保持足够的细节使店铺清晰可见，真实的肤色，轻松的早餐氛围，繁忙的台北日常街边小吃美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:37:18.051Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a realistic vertical photo of a young woman eating breakfast in a busy Taiwanese street-side diner, ideal for lifestyle, travel, or food-scene imagery.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一张年轻女子在台湾繁忙路边餐馆吃早餐的写实垂直照片，适合生活方式、旅行或美食场景的图像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:37:10.011Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -101,19 +115,19 @@
   ],
   "categories": [
     {
-      "id": "ui-social-media",
-      "value": "UI & Social Media",
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "ui-social-media-zh-cn",
-      "value": "UI 与社交媒体",
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "ui-social-media"
+      "translationOf": "photography-portrait"
     }
   ],
   "sources": [
@@ -154,14 +168,15 @@
   "updatedAt": "2026-05-06T11:02:37.122Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
-      "ui",
-      "social",
-      "社交"
+      "portrait",
+      "photo",
+      "camera",
+      "写实"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.564Z"
+    "classifiedAt": "2026-05-06T11:41:23.657Z"
   }
 }

@@ -6,7 +6,14 @@
       "value": "Create a highly realistic image of a handwritten letter containing a ({argument name=\"message\" default=\"message or reflection carrying meanings of affection and loyalty to my account followers\"}) on lined paper, with very touching words written in liquid ink pen",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个高度逼真的手写信图像，信中包含一个({argument name=\"message\" default=\"message or reflection carrying meanings of affection and loyalty to my account followers\"})，写在横格纸上，用钢笔书写着非常感人的话语",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:05:02.231Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Handwritten Realistic Letter",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "逼真的手写字母",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:50.615Z"
+      }
+    }
   },
   "description": {
     "original": null,

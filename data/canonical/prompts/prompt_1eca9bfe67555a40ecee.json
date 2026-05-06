@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - 9-Panel Product TVC Storyboard",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 九格产品电视广告分镜脚本",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:16.603Z"
+      }
+    }
   },
   "description": {
     "original": null,

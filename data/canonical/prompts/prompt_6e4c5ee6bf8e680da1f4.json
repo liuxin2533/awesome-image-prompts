@@ -20,7 +20,14 @@
       "value": "日式潮流广告四联画",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Japanese Style Trendy Ad Four-Panel Art",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:58:34.704Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -35,7 +42,23 @@
       "sourceKey": "freestylefly"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
   "sources": [
     {
       "sourceKey": "freestylefly",
@@ -70,11 +93,11 @@
   ],
   "updatedAt": "2026-05-06T11:02:37.354Z",
   "classification": {
-    "status": "needs_review",
-    "categoryId": null,
-    "source": "none",
-    "confidence": 0,
-    "reason": "no_rule_match",
-    "classifiedAt": "2026-05-06T11:03:21.590Z"
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "manual",
+    "confidence": 1,
+    "matchedBy": [],
+    "classifiedAt": "2026-05-06T13:43:25.436Z"
   }
 }

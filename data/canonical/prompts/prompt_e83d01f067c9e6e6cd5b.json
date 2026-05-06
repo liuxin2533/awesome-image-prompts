@@ -6,7 +6,14 @@
       "value": "GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool teenage girl in oversized hoodie and baggy jeans leans against a giant pair of floating wireless headphones 2x her height with \"BASS\" logo on earcups, colorful sound wave visualizer glowing behind. Dark urban brick wall background with purple and pink gradient neon lighting. Bold graffiti-style typography \"BASS\" in background. Tagline bottom: \"Feel every frequency.\" Small text top-right corner reads \"Designed with GPT Image 2\" in grey. Photorealistic, street culture editorial style.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GPT image 2 on ChatGPT 📱 提示：一个街头服饰广告海报。一个穿着超大号连帽衫和宽松牛仔裤的酷炫少女，倚靠在一对巨型悬浮无线耳机上，耳机高度是她的两倍，耳罩上有\"BASS\"标志，背后有发光的彩色声波可视化效果。深色城市砖墙背景，带有紫色和粉色渐变的霓虹灯光。背景中有大胆的涂鸦风格\"BASS\"字体。底部标语：\"感受每一个频率。\"右上角小字灰色显示\"使用 GPT Image 2 设计\"。照片级真实感，街头文化编辑风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:13:39.226Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Streetwear Headphones Ad Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "街头潮流耳机广告海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:13:42.156Z"
+      }
+    }
   },
   "description": {
     "original": null,

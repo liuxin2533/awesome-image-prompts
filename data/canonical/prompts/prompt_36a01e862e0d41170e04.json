@@ -187,6 +187,7 @@
     "source": "rule",
     "confidence": 1,
     "matchedBy": [
+      "ui",
       "social",
       "youtube",
       "thumbnail",

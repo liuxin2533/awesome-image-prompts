@@ -20,7 +20,14 @@
       "value": "终结者机器人淘宝详情页",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Terminator Robot Taobao Detail Page",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:59:57.348Z"
+      }
+    }
   },
   "description": {
     "original": null,

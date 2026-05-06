@@ -20,7 +20,14 @@
       "value": "人物角色设定图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Character design illustration",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:59:54.835Z"
+      }
+    }
   },
   "description": {
     "original": null,

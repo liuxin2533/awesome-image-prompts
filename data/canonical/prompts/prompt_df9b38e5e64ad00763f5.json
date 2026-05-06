@@ -6,7 +6,14 @@
       "value": "Subject: A sharp, high-contrast side-profile portrait of a handsome man with a defined jawline, short stubble, and voluminous, textured dark hair styled upwards.\n\nStyle & Composition: A fusion of realistic photography and abstract digital glitch art. The subject is rendered in stark black and white, set against a clean, minimalist white background.\n\nColor Palette: Strictly monochromatic (deep blacks and bright whites) with aggressive, vibrant splashes of crimson red.\n\nGraphic Elements: > * Glitch Effect: The back of the head and the lower torso dissolve into abstract geometric shards, pixel sorting, and \"glitchy\" red brushstrokes.\n\nTexture: Gritty, ink-wash textures and distressed digital overlays that suggest a modern noir or cyberpunk editorial feel.\n\nLighting & Technicals: > * Lighting: Intense side-lighting (Chiaroscuro) creating deep shadows on the face to highlight bone structure.\n\nDetails: Hyper-realistic skin texture, individual hair strands visible, high-grain film aesthetic.\n\nFraming: Vertical aspect ratio, close-up profile shot.\n\nAspect ratio is 9:16",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Field: promptText.translations.zh-CN\n\n主题：一位英俊男士的锐利、高对比度侧面肖像，轮廓分明的下颌线，短胡茬，以及向上梳理的丰盈、有质感的深色头发。\n\n风格与构图：现实主义摄影与抽象数字故障艺术的融合。主体以鲜明的黑白呈现，背景为简洁、极简的白色。\n\n色彩方案：严格单色（深黑和亮白）配以大胆、鲜艳的猩红色点缀。\n\n图形元素：> * 故障效果：头部后部和下半身溶解为抽象的几何碎片、像素排序和\"故障\"红色笔触。\n\n质感：粗糙的墨水纹理和磨损的数字叠加层，营造出现代黑色电影或赛博朋克编辑风格的感觉。\n\n灯光与技术：> * 灯光：强烈的侧光（明暗对比法）在面部创造深邃阴影，突出骨骼结构。\n\n细节：超写实皮肤纹理，可见的单独发丝，高颗粒度电影美学。\n\n构图：垂直宽高比，特写侧面镜头。\n\n宽高比为9:16",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:23.066Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Monochrome Glitch Profile Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "单色故障头像肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:25.103Z"
+      }
+    }
   },
   "description": {
     "original": null,

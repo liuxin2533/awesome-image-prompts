@@ -20,7 +20,14 @@
       "value": "智能视频生成器暗黑界面设计",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Intelligent Video Generator Dark Interface Design",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:55:48.822Z"
+      }
+    }
   },
   "description": {
     "original": null,

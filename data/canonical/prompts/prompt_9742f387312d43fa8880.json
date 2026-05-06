@@ -6,7 +6,14 @@
       "value": "9:16 vertical - editorial portrait, single subject soft black mist filter, subtle haze, gentle highlight bloom, muted tones minimal indoor space, clean background, slight texture young Korean woman, minimal makeup, natural skin texture outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements hair: slightly messy, natural volume pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted composition: subject slightly off-center, negative space present expression: calm, slightly distant, natural lips lighting: soft side light, gentle shadow falloff mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed quality: fine grain, slight softness, realistic look",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "9:16 垂直 - 编辑人像，单一主体，柔和的黑色雾化滤镜，微妙的薄雾，柔和的高光晕染，柔和色调的极简室内空间，干净的背景，轻微的质感年轻韩国女性，淡妆，自然的皮肤质地服装：修身针织上衣或柔软的吊带衫，内搭宽松衬衫，搭配高腰短裤或半身裙；面料略微贴合身体轮廓，柔软自然，无暴露元素头发：略微凌乱，自然的体积姿态：坐在地板上，一条腿弯曲，另一条腿放松，身体略微倾斜，肩膀不对齐，头部倾斜构图：主体略微偏离中心，存在负空间表情：平静，略带疏离，自然的嘴唇光线：柔和的侧光，柔和的阴影过渡氛围：含蓄，安静，通过自然的身体线条微妙地性感，放松且不摆拍质量：细腻的颗粒，轻微的柔和感，写实的外观",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:47.312Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Korean Editorial Portrait with Soft Mist",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "韩式编辑人像与柔和雾气",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:09.612Z"
+      }
+    }
   },
   "description": {
     "original": null,

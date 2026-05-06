@@ -21,7 +21,14 @@
       "value": "CCD Camera Flash Korean Idol",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "CCD相机闪光韩国偶像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:21:40.142Z"
+      }
+    }
   },
   "description": {
     "original": null,

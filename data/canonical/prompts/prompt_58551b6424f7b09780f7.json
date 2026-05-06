@@ -6,7 +6,14 @@
       "value": "A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil pastel illustration on textured off-white paper. She has long straight {argument name=\"hair color\" default=\"deep purple with lighter lavender ends\"} hair, large pointed orange cat ears on top of her head, and a striped orange-and-black cat tail curving in from the right side. Her outfit is a tiger-inspired bodysuit in vivid {argument name=\"outfit color\" default=\"bright orange\"} with bold black accents: long fitted sleeves, a dark black chest and torso panel, orange legs, orange gloves, and a soft pale pink patch on the hip and upper thigh area. She is squatting with one knee raised, one hand touching the ground in front of her, and the other hand lifted in a salute near her forehead, facing the viewer with a mischievous, energetic feel. Render the whole image in rough crayon-like oil pastel strokes with visible grain, uneven sketchy black outlines, scribbled color fill, and childlike analog texture. Use a warm pastel palette with orange as the dominant color, purple hair, soft pink scribbled background shading, and a purple-blue scribbled shadow beneath her. Keep the composition as a single centered full-body character on paper, whimsical, charming, slightly messy, and irresistibly cute, like an expressive pastel doodle illustration.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一只可爱的动漫猫娘蹲伏在一个顽皮的姿势中，绘制成在纹理米白色纸上的手工油画棒插画。她有长长的直发 {argument name=\"hair color\" default=\"深紫色，末端是淡薰衣草色\"}，头顶上有大的橙色尖猫耳，一条橙黑相间的条纹猫尾巴从右侧弯曲进来。她的服装是受老虎启发的连体衣，鲜艳的 {argument name=\"outfit color\" default=\"亮橙色\"}，带有大胆的黑色点缀：合身的长袖，深黑色胸部和躯干面板，橙色腿部，橙色手套，以及臀部和大腿上部区域的柔和淡粉色补丁。她蹲着，一条膝盖抬起，一只手触摸前方的地面，另一只手举起到额头附近行礼，以顽皮、充满活力的感觉面向观众。用粗糙的蜡笔式油画笔触渲染整个图像，有可见的颗粒，不均匀的素描黑色轮廓，涂鸦式的色彩填充，以及儿童般的模拟纹理。使用温暖的粉彩调色板，橙色为主色调，紫色头发，柔和的粉色涂鸦背景阴影，以及她下方的紫蓝色涂鸦阴影。保持构图为纸上的单个居中全身角色，异想天开，迷人，稍微凌乱，并且令人无法抗拒地可爱，就像一个富有表现力的粉涂鸦插画。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:46.659Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a cute full-body anime catgirl in a tiger-themed outfit rendered as a textured oil pastel crayon drawing, ideal for playful character art and stylized social posts.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一个可爱的全身动漫猫娘，穿着老虎主题的服装，以纹理化的油画蜡笔绘制风格呈现，非常适合活泼的角色艺术和风格化的社交媒体帖子。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:45.676Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,10 +170,11 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "illustration",
-      "anime"
+      "anime",
+      "插画"
     ],
     "classifiedAt": "2026-05-06T11:03:21.566Z"
   }

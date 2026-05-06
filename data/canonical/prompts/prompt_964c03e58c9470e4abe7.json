@@ -6,7 +6,14 @@
       "value": "A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the right side. The watch has a black leather strap with bold red stitching along both edges and a sporty premium finish. To the right of the watch, place one black square presentation box slightly behind it, textured like leather, with red stitching around the lid and a silver embossed eye-shaped logo above the text “NESS STUDIO” and smaller red text “TRACK SURFACE.” At the top center of the composition, add the same silver eye logo with the words “NESS STUDIO” and smaller “BY NICOLAS.” Across the background, place one oversized blurred word, {argument name=\"headline text\" default=\"PRECISION\"}, in large gray capital letters spanning nearly the full width. The scene is set against a deep black background with cinematic red and white horizontal light streaks crossing behind the products from left to right, suggesting speed and racetrack energy. Use a glossy wet ground plane with reflective texture, catching red highlights and mirrorlike reflections beneath the watch and box. At the bottom center, add the text “CHRONOGRAPH SERIES” in clean white spaced capitals with thin red horizontal lines extending on both sides, and below it smaller red capitals reading {argument name=\"tagline text\" default=\"ALSACE MADE\"}. Color palette: black, charcoal gray, silver steel, vivid racing red, and a touch of white. Lighting should be high-contrast and premium, with crisp specular highlights on the metal case, subtle soft fill on the box, and moody shadows. Overall style: ultra-polished commercial product photography, luxury watch campaign, sharp focus on the products, sleek branding, high-end automotive aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个在暗室中的赛车灵感计时腕表的戏剧性豪华产品广告图像。前景中心左侧，展示一枚不锈钢计时腕表，以略微四分之三的角度直立，黑色表盘，两个红色装饰小表盘，细长的银色小时刻度，测速表圈，右侧可见表冠和按钮。腕表配有黑色皮革表带，两侧边缘有醒目的红色缝线，以及运动风格的优质表面处理。在腕表右侧，放置一个黑色方形展示盒，略微位于其后，皮革纹理，盖子周围有红色缝线，银色浮雕眼睛形状的logo位于\"NESS STUDIO\"文字上方，以及较小的红色文字\"TRACK SURFACE\"。在构图的顶部中心，添加相同的银色眼睛logo，带有\"NESS STUDIO\"字样和较小的\"BY NICOLAS\"。在整个背景中，放置一个放大的模糊单词，{argument name=\"headline text\" default=\"PRECISION\"}，用大号灰色大写字母横跨几乎全宽。场景设置在深黑色背景前，带有电影感的红色和白色水平光线从左到右穿过产品后方，暗示速度和赛道能量。使用有反射纹理的光滑湿地面，捕捉红色高光和腕表与盒下方的镜面反射。在底部中心，添加\"CHRONOGRAPH SERIES\"文字，使用干净的白色间隔大写字母，两侧延伸细红色水平线，下方是较小的红色大写字母，内容为{argument name=\"tagline text\" default=\"ALSACE MADE\"}。调色板：黑色，炭灰色，银钢色，鲜艳的赛车红色，以及一点白色。照明应具有高对比度和优质感，金属外壳上有清晰的镜面高光，盒子上有微妙的柔和填充，以及情绪化的阴影。整体风格：超抛光商业产品摄影，豪华腕表广告，产品锐利对焦，流畅品牌设计，高端汽车美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:23.593Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Luxury Chronograph Watch Ad",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "豪华计时手表广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:56.060Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -81,18 +95,13 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "product-marketing",
+    "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.8,
     "matchedBy": [
-      "product",
-      "marketing",
-      "e-commerce",
-      "产品",
-      "营销",
-      "电商",
-      "主图"
+      "poster",
+      "illustration"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.559Z"
+    "classifiedAt": "2026-05-06T11:41:23.607Z"
   }
 }

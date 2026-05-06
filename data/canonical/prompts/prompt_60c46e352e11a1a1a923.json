@@ -21,7 +21,14 @@
       "value": "信息图可视化设计",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Infographic visualization design",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:56:37.804Z"
+      }
+    }
   },
   "description": {
     "original": null,

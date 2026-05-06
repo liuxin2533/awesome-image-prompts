@@ -21,7 +21,14 @@
       "value": "Realistic Candid Bedroom Recording Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "真实感自然卧室录制肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:44.720Z"
+      }
+    }
   },
   "description": {
     "original": null,

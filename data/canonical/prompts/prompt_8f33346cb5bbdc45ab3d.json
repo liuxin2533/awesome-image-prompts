@@ -21,7 +21,14 @@
       "value": "Toddler Crayon Scribble Art Style Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "幼儿蜡笔涂鸦艺术风格肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:19.371Z"
+      }
+    }
   },
   "description": {
     "original": null,

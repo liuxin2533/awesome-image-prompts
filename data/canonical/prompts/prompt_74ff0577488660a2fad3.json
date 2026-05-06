@@ -20,7 +20,14 @@
       "value": "疾风起狂草艺术字体设计",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Gale Rising Wild Cursive Art Font Design",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:59:41.121Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -35,7 +42,23 @@
       "sourceKey": "freestylefly"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    }
+  ],
   "sources": [
     {
       "sourceKey": "freestylefly",
@@ -70,11 +93,11 @@
   ],
   "updatedAt": "2026-05-06T11:02:37.354Z",
   "classification": {
-    "status": "needs_review",
-    "categoryId": null,
-    "source": "none",
-    "confidence": 0,
-    "reason": "no_rule_match",
-    "classifiedAt": "2026-05-06T11:03:21.590Z"
+    "status": "classified",
+    "categoryId": "brand-logo",
+    "source": "manual",
+    "confidence": 1,
+    "matchedBy": [],
+    "classifiedAt": "2026-05-06T13:43:25.436Z"
   }
 }

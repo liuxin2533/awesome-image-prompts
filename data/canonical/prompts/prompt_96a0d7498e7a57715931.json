@@ -21,7 +21,14 @@
       "value": "Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超逼真的电影感DSLR照片，一位18岁的英俊年轻男...",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:27.219Z"
+      }
+    }
   },
   "description": {
     "original": null,

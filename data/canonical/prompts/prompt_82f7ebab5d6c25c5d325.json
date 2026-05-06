@@ -6,7 +6,14 @@
       "value": "A premium fast food advertisement poster with a cinematic composition and a clean white textured background with soft grey shading for depth.\nAt the top center, place a bold, modern logo text: “EMPIRE” with a minimal crown icon above it, sleek and premium typography.\nBelow the logo, add a large, dramatic headline in bold modern font:\n“NEW EMPIRE INFERNO BURGER”\n– The word INFERNO should have a fiery texture with flame elements integrated into the typography.\nAdd subtext below the headline in smaller clean font:\n“with signature hot sauce”\nMain composition (center focus):\nA hyper-realistic, ultra-detailed crispy chicken burger placed on a wooden board:\n– Thick, golden crunchy fried chicken fillet\n– Melted cheese dripping naturally\n– Fresh green lettuce and sliced jalapeños\n– Glossy toasted sesame bun\n– Spicy sauce visibly oozing out\n– Subtle steam/smoke rising to show heat and freshness\nAdditional food items:\n– A premium spicy pizza in the foreground with melted cheese, jalapeños, and spicy toppings\n– A black cup of creamy loaded fries (cheese sauce + jalapeños) placed to the side\nSide element:\n– A sleek glass bottle labeled “EMPIRE Signature Hot Sauce” with a premium black and red label design\nLighting:\n– High contrast studio lighting\n– Warm highlights on food\n– Soft shadows\n– Slight rim lighting for separation\nColor palette:\n– White and soft grey background\n– Fiery reds and oranges for spice\n– Golden browns for fried textures\n– Deep blacks for contrast elements\nExtra design elements:\n– Minimal spice icons or flame accents\n– Clean, modern layout with strong hierarchy\nBottom section:\n– Minimal icons and labels like: “Premium Chicken”, “Signature Hot Sauce”, “Fresh Ingredients”\n– NO order button or app store icons\nStyle:\nUltra-realistic, 8K food photography, commercial advertising, sharp focus, dramatic, premium global fast-food branding, highly detailed textures, mouthwatering presentation.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高级快餐广告海报，采用电影构图风格，带有干净的白质纹理背景，配有柔和的灰色阴影以增加深度。\n在顶部中央，放置一个粗体、现代的标志文字：\"EMPIRE\"，上方有一个简约的王冠图标，采用精致、高级的字体设计。\n在标志下方，添加一个粗体现代字体的大标题：\n\"NEW EMPIRE INFERNO BURGER\"\n– INFERNO一词应具有火焰纹理，并将火焰元素融入字体设计中。\n在标题下方添加较小的副文本，使用简洁的字体：\n\"with signature hot sauce\"\n主要构图（中心焦点）：\n一个超写实、极其酥脆的鸡肉汉堡放置在木板上：\n– 厚实、金黄酥脆的炸鸡排\n– 融化的奶酪自然滴落\n– 新鲜的绿色生菜和切片的墨西哥辣椒\n– 光泽的烤芝麻面包\n– 辣酱明显渗出\n– 微弱的蒸汽/烟雾升起，显示热度和新鲜度\n其他食品：\n– 前景中有一份高级辣披萨，配有融化的奶酪、墨西哥辣椒和辣味配料\n– 一杯黑色奶油薯条（奶酪酱+墨西哥辣椒）放在旁边\n侧面元素：\n– 一款精致的玻璃瓶，标签为\"EMPIRE Signature Hot Sauce\"，采用高级黑色和红色标签设计\n灯光：\n– 高对比度工作室灯光\n– 食物上的温暖高光\n– 柔和的阴影\n– 轻微的边缘照明以实现分离效果\n调色板：\n– 白色和柔和的灰色背景\n– 用于辣味的火红色和橙色\n– 用于油炸纹理的金棕色\n– 用于对比元素的深黑色\n额外设计元素：\n– 简约的香料图标或火焰装饰\n– 干净、现代的布局，具有强烈的层次结构\n底部区域：\n– 简约的图标和标签，如：\"Premium Chicken\", \"Signature Hot Sauce\", \"Fresh Ingredients\"\n– 不要订购按钮或应用商店图标\n风格：\n超写实、8K美食摄影、商业广告、锐利焦点、戏剧性、高级全球快餐品牌、高度精细的纹理、令人垂涎的展示。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:28.295Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Empire Inferno Burger Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "帝国炼狱汉堡海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:11.672Z"
+      }
+    }
   },
   "description": {
     "original": null,

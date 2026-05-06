@@ -6,7 +6,14 @@
       "value": "A highly detailed anime fantasy portrait of {argument name=\"character name\" default=\"an elegant blue-haired fantasy woman\"}, shown from the back in a three-quarter pose, turning her head over her shoulder to look at the viewer with calm violet eyes and a soft, slightly distant expression. She has very long, flowing {argument name=\"hair color\" default=\"icy pastel blue\"} hair with layered wispy bangs, loose windblown strands, one small ahoge on top, and 1 dark curved horn with subtle crimson striping emerging from the left side of her head. Her outfit is a refined, backless fantasy gown with 4 visible main pieces: a dark fitted bodice, a white open-backed outer layer with ornate gold trim and pale embroidered patterns, 2 long detached sleeves that fade into translucent blue-violet pointed cuffs, and red-blue ribbon ornaments tied at the neck and waist. Add delicate jewel-like tassel details at the upper back and trailing ribbon ends drifting in the air. The scene is backlit by soft spring sunlight in a pale stone pavilion or arched balcony, with 1 large arch opening behind her and clusters of {argument name=\"flower type\" default=\"pink cherry blossoms\"} glowing in the top right background. Include a few drifting petals, luminous haze, subtle sparkles, and a dreamy pastel atmosphere. Composition is vertical, upper-thigh portrait, character centered slightly right, hair sweeping broadly across the left side of the frame. Render in a polished ethereal anime illustration style with soft bloom, translucent fabrics, glossy eyes, delicate linework, cool lavender and blue tones, gentle rim light, painterly background blur, and an emphasis on smooth elegant surfaces, clean fabric flow, and minimal wrinkling.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高度详细的动漫奇幻肖像画，描绘{argument name=\"character name\" default=\"一位优雅的蓝发奇幻女性\"}，以四分之三姿势从背面呈现，她转头回望观众，拥有平静的紫色眼睛和温柔、略带疏远的表情。她有非常长的、飘逸的{argument name=\"hair color\" default=\"冰蓝色粉彩\"}头发，带有分层细碎的刘海，松散的被风吹动的发丝，头顶有一小撮呆毛，左侧头部伸出一只带有细微红色条纹的深色弯曲犄角。她的服装是一件精致的露背奇幻礼服，有4个可见的主要部分：一件深色紧身胸衣，一件白色露背外层，带有华丽的金色装饰和淡雅的刺绣图案，两条长而分离的袖子，渐变成半透明的蓝紫色尖袖口，以及在颈部和腰部系着的红蓝丝带装饰。在上背部添加精致的宝石般的流苏细节，以及飘在空中的末端飘带。场景被柔和的春日阳光从背后照亮，在一个浅色石亭或拱形阳台上，她身后有一个大拱门，右上角背景中簇拥着{argument name=\"flower type\" default=\"粉色樱花\"}，散发着光芒。包含几片飘落的花瓣、发光的薄雾、微妙的闪光和梦幻的粉彩氛围。构图为垂直，大腿以上肖像，人物略微居右，头发在画面左侧大幅扫过。以精致空灵的动漫插画风呈现，带有柔和的光晕、半透明织物、闪亮的眼睛、精致的线条、冷薰衣草和蓝色调、柔和的轮廓光、绘画般的背景模糊，并强调光滑优雅的表面、干净的织物流动和最少的褶皱。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:55.570Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a soft, luminous anime-style fantasy character portrait, ideal for creating elegant vertical key art or character illustrations with flowing hair and a dreamy spring atmosphere.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成柔和、发光的动漫风格奇幻角色肖像，非常适合创建优雅的垂直关键艺术或角色插画，具有飘逸的头发和梦幻的春季氛围。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:53.968Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -101,19 +115,19 @@
   ],
   "categories": [
     {
-      "id": "poster-illustration",
-      "value": "Poster & Illustration",
+      "id": "character-design",
+      "value": "Character Design",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "poster-illustration-zh-cn",
-      "value": "海报与插画",
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "poster-illustration"
+      "translationOf": "character-design"
     }
   ],
   "sources": [
@@ -163,13 +177,15 @@
   "updatedAt": "2026-05-06T11:02:37.121Z",
   "classification": {
     "status": "classified",
-    "categoryId": "poster-illustration",
+    "categoryId": "character-design",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 1,
     "matchedBy": [
-      "illustration",
-      "anime"
+      "character",
+      "profile",
+      "角色",
+      "人物"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.570Z"
+    "classifiedAt": "2026-05-06T11:41:23.664Z"
   }
 }

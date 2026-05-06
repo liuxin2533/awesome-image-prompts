@@ -6,7 +6,14 @@
       "value": "Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk style, 16:9 landscape. Use a dark tech-city background with faint skyscrapers, digital grid lines, glowing particles, and high-contrast blue, pink, and gold lighting. In the exact center, place a young woman from the waist up with long straight pastel blue hair, wearing a plain white short-sleeve T-shirt and a light pink skirt, posing thoughtfully with one hand near her chin and the other arm folded; anonymize her face with a soft rectangular blur. Across the very top, add huge distressed bold white Japanese headline text reading 主導権が揺れた, and directly below it add large bold yellow text reading {argument name=\"subheadline text\" default=\"Nano Bananaから\"}. On the left side, create a glowing blue hexagonal-framed panel titled Nano Banana with a smaller subtitle 画像生成. Inside that panel, include exactly 4 image tiles in a 2x2 grid: 1) a fantasy floating island landscape at sunset, 2) a sunlit forest path with tall trees, 3) a neon futuristic city street at night, 4) an outer-space planet scene with stars and a spacecraft. Beneath the left panel, add a blue glowing ribbon label reading かつては優位だった. On the right side, create a glowing magenta hexagonal-framed panel titled {argument name=\"right panel title\" default=\"GPT Image 2\"} with a smaller subtitle 実務で使える出力へ. Inside it, include exactly 4 example thumbnail cards in a 2x2 grid, each featuring the same blue-haired woman with a blurred face and bold Japanese text. The 4 card labels above the tiles are: サムネイル画像, 記事のアイキャッチ画像, LPのセクション画像, SNS投稿画像. The large text inside the 4 cards should read respectively: 1) AIで変わるクリエイティブの未来, 2) AI時代のクリエイティブ戦略 成功する企業の条件, 3) AIで加速するビジネス成長, 4) 未来をつくるのは AI×あなたのアイデア. Between the left and right panels, place a bright glowing gold arrow pointing from left to right with spark-like particle trails, indicating transition or superiority shift. Along the bottom, add a very large black banner with a glowing gold border and massive bold gold text reading {argument name=\"bottom banner text\" default=\"GPT Image 2へ\"}. Overall composition should feel like a comparison graphic showing a shift from older image generation to more practical commercial output, with aggressive thumbnail typography, strong glow effects, metallic texture on major text, and polished social-media marketing visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个戏剧性的日本YouTube缩略图，采用未来霓虹赛博朋克风格，16:9横向构图。使用黑暗科技城市背景，有若隐若现的摩天大楼、数字网格线、发光粒子和高对比度的蓝色、粉色和金色照明。在正中央放置一位年轻女性的上半身，她有直长的淡蓝色头发，穿着白色短袖T恤和浅粉色裙子，一只手放在下巴附近，另一只手臂交叉，表情沉思；用柔和的矩形模糊处理匿名化她的脸。在最顶部添加巨大的粗体白色日文标题文本，内容为 主導権が揺れた，在其正下方添加大号粗体黄色文本，内容为 {argument name=\"subheadline text\" default=\"Nano Bananaから\"}。在左侧创建一个发光的蓝色六边形边框面板，标题为 Nano Banana，副标题为 画像生成。在该面板内，包含一个2x2网格中的4个图像方块：1) 日落时的奇幻浮岛景观，2) 阳光照射下的森林小径，有高大的树木，3) 夜晚的霓虹未来城市街道，4) 外太空行星场景，有星星和宇宙飞船。在左侧面板下方，添加一个蓝色发光丝带标签，内容为 かつては優位だった。在右侧创建一个发光的洋红色六边形边框面板，标题为 {argument name=\"right panel title\" default=\"GPT Image 2\"}，副标题为 実務で使える出力へ。在其内部，包含一个2x2网格中的4个示例缩略图卡片，每张卡片都有相同的蓝发女性，面部模糊，并有粗体日文文本。方块上方的4个卡片标签分别是：サムネイル画像, 記事のアイキャッチ画像, LPのセクション画像, SNS投稿画像。4张卡片内的大号文本应分别为：1) AIで変わるクリエイティブの未来, 2) AI時代のクリエイティブ戦略 成功する企業の条件, 3) AIで加速するビジネス成長, 4) 未来をつくるのは AI×あなたのアイデア。在左右面板之间，放置一个明亮的发光金色箭头，从左指向右，带有火花状粒子轨迹，表示转变或优势转移。在底部添加一个非常大的黑色横幅，带有发光金色边框和巨大的粗体金色文本，内容为 {argument name=\"bottom banner text\" default=\"GPT Image 2へ\"}。整体构图应感觉像是一个比较图形，展示从旧图像生成到更实用的商业输出的转变，具有攻击性的缩略图排版、强烈的发光效果、主要文本的金属质感，以及精美的社交媒体营销视觉效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:19:31.054Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Neon AI Thumbnail Comparison",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Neon AI 缩略图比较",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:19:33.055Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -83,13 +97,11 @@
     "status": "classified",
     "categoryId": "ui-social-media",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.9,
     "matchedBy": [
-      "ui",
       "social",
       "youtube",
-      "thumbnail",
-      "社交"
+      "thumbnail"
     ],
     "classifiedAt": "2026-05-06T11:03:21.561Z"
   }

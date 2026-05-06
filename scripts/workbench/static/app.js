@@ -6,6 +6,33 @@ const state = {
   currentActionId: null
 };
 
+const TRANSLATION_LANGUAGES = ['de', 'en', 'es', 'fr', 'hi', 'it', 'ja', 'ko', 'pt', 'ru', 'th', 'tr', 'vi', 'zh-CN', 'zh-TW'];
+const TRANSLATION_LANGUAGE_LABELS = {
+  de: 'Deutsch',
+  en: 'English',
+  es: 'Español',
+  fr: 'Français',
+  hi: 'Hindi',
+  it: 'Italiano',
+  ja: '日本語',
+  ko: '한국어',
+  pt: 'Português',
+  ru: 'Русский',
+  th: 'ไทย',
+  tr: 'Türkçe',
+  vi: 'Tiếng Việt',
+  'zh-CN': '简体中文',
+  'zh-TW': '繁體中文'
+};
+
+const RESOLUTION_ACTION_LABELS = {
+  classify: '人工归类',
+  manual: '人工处理',
+  'mirror-assets': '镜像资源',
+  translate: '补齐翻译',
+  'other-command': '其他命令'
+};
+
 const $ = selector => document.querySelector(selector);
 
 function escapeHtml(value) {
@@ -28,7 +55,58 @@ async function requestJson(url, options) {
 function setOptions(select, values, label) {
   select.innerHTML = '';
   select.append(new Option(label, ''));
-  for (const value of values || []) select.append(new Option(value, value));
+  for (const value of values || []) {
+    if (value && typeof value === 'object') {
+      const optionLabel = Number.isInteger(value.count) ? `${value.label} (${value.count})` : value.label;
+      select.append(new Option(optionLabel, value.value));
+    } else {
+      select.append(new Option(value, value));
+    }
+  }
+}
+
+function loadTranslationLanguageOptions() {
+  const select = $('#batch-translation-language');
+  select.innerHTML = '';
+  for (const language of TRANSLATION_LANGUAGES) {
+    select.append(new Option(`${TRANSLATION_LANGUAGE_LABELS[language]} (${language})`, language));
+  }
+  select.value = 'zh-CN';
+}
+
+function inferResolutionAction(issue) {
+  const code = issue?.code || '';
+  const command = String(issue?.resolutionCommand || '');
+  if (code === 'missing_translation' || command.includes('pnpm translate')) return 'translate';
+  if (code === 'asset_not_cached' || code === 'asset_mirror_failed' || command.includes('assets:mirror')) return 'mirror-assets';
+  if (code === 'unclassified_category' || command.includes('pnpm classify')) return 'classify';
+  if (command) return 'other-command';
+  return 'manual';
+}
+
+function normalizeIssue(issue) {
+  const resolutionAction = issue.resolutionAction || inferResolutionAction(issue);
+  return {
+    ...issue,
+    resolutionAction,
+    resolutionActionLabel: issue.resolutionActionLabel || RESOLUTION_ACTION_LABELS[resolutionAction] || resolutionAction
+  };
+}
+
+function buildResolutionActionOptions(report, issues) {
+  const provided = report?.filters?.resolutionActions;
+  if (Array.isArray(provided) && provided.length) return provided;
+
+  const counts = {};
+  for (const issue of issues || []) {
+    counts[issue.resolutionAction] = (counts[issue.resolutionAction] || 0) + 1;
+  }
+
+  return Object.keys(counts).sort((a, b) => a.localeCompare(b)).map(value => ({
+    value,
+    label: RESOLUTION_ACTION_LABELS[value] || value,
+    count: counts[value]
+  }));
 }
 
 function canAutoFix(issue) {
@@ -60,10 +138,10 @@ function issueMatches(issue) {
 
   if (severity && issue.severity !== severity) return false;
   if (code && issue.code !== code) return false;
-  if (resolution && issue.resolutionCommand !== resolution) return false;
+  if (resolution && issue.resolutionAction !== resolution) return false;
   if (!text) return true;
 
-  return [issue.message, issue.promptId, issue.fieldPath, issue.sourceKey, issue.resolutionCommand]
+  return [issue.message, issue.promptId, issue.fieldPath, issue.sourceKey, issue.resolutionActionLabel, issue.resolutionCommand]
     .filter(Boolean)
     .join(' ')
     .toLowerCase()
@@ -106,11 +184,12 @@ function renderIssues() {
 
 async function loadReport() {
   state.report = await requestJson('/api/report');
-  state.issues = state.report.issues || [];
+  state.issues = (state.report.issues || []).map(normalizeIssue);
+  const filters = state.report.filters || {};
   renderMetrics(state.report);
-  setOptions($('#filter-severity'), state.report.filters.severities, '全部 severity');
-  setOptions($('#filter-code'), state.report.filters.codes, '全部 code');
-  setOptions($('#filter-resolution'), state.report.filters.resolutionCommands, '全部处理命令');
+  setOptions($('#filter-severity'), filters.severities, '全部 severity');
+  setOptions($('#filter-code'), filters.codes, '全部 code');
+  setOptions($('#filter-resolution'), buildResolutionActionOptions(state.report, state.issues), '全部处理类型');
   renderIssues();
 }
 
@@ -155,8 +234,8 @@ async function testConfig() {
   $('#config-status').textContent = result.ok ? `连接正常：${result.model}` : '连接测试失败。';
 }
 
-async function pollAction(id) {
-  const record = await requestJson(`/api/actions/${id}`);
+function renderActionLog(record) {
+  if (!record) return;
   const log = $('#run-log');
   log.textContent = [
     `操作：${record.type}，状态：${record.status}${record.exitCode === null ? '' : `，退出码：${record.exitCode}`}`,
@@ -164,6 +243,12 @@ async function pollAction(id) {
     ...(record.logs || [])
   ].join('\n');
   log.scrollTop = log.scrollHeight;
+}
+
+async function pollAction(id) {
+  const record = await requestJson(`/api/actions/${id}`);
+  state.currentActionId = record.id;
+  renderActionLog(record);
   if (record.status === 'running') {
     setTimeout(() => pollAction(id).catch(showError), 500);
   } else if (record.status === 'succeeded') {
@@ -171,10 +256,27 @@ async function pollAction(id) {
   }
 }
 
+async function loadCurrentAction() {
+  const current = await requestJson('/api/actions/current');
+  const record = current || await requestJson('/api/actions/latest');
+  if (!record) return;
+
+  state.currentActionId = record.id;
+  renderActionLog(record);
+  if (record.status === 'running') {
+    await pollAction(record.id);
+  }
+}
+
 async function startAction(button) {
   const action = button.dataset.action;
   const payload = {};
   if (button.dataset.language) payload.language = button.dataset.language;
+  if (button.dataset.batch === 'translation') {
+    payload.language = $('#batch-translation-language').value;
+    const batchSize = $('#batch-size').value.trim();
+    if (batchSize) payload.batchSize = Number(batchSize);
+  }
   if (action === 'classify') payload.categoryId = $('#classification-category').value || null;
   const limit = $('#action-limit').value.trim();
   if (limit) payload.limit = Number(limit);
@@ -209,6 +311,7 @@ function showError(error) {
 }
 
 async function init() {
+  loadTranslationLanguageOptions();
   for (const input of ['#filter-text', '#filter-severity', '#filter-code', '#filter-resolution']) {
     $(input).addEventListener('input', renderIssues);
   }
@@ -221,7 +324,7 @@ async function init() {
   for (const button of document.querySelectorAll('[data-action]')) {
     button.addEventListener('click', () => startAction(button).catch(showError));
   }
-  await Promise.all([loadReport(), loadConfig(), loadCategories()]);
+  await Promise.all([loadReport(), loadConfig(), loadCategories(), loadCurrentAction()]);
 }
 
 init().catch(showError);

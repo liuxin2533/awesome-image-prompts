@@ -6,7 +6,14 @@
       "value": "Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a guitarist in jeans casually seated on the a button as if furniture, giant word \"Plism Art\" behind in bold white typography, powder pastel studio background, reflective floor, luxury eyewear campaign aesthetic, ultra-clean layout, editorial magazine styling, Bold quote \" What are you listening\"   Tag : Create Own Change",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "前卫时尚广告， oversized guitar positioned like sculpture， a guitarist in jeans casually seated on the a button as if furniture， giant word \"Plism Art\" behind in bold white typography，粉彩工作室背景，反射地板，奢侈眼镜广告美学，超简洁布局，杂志编辑风格，Bold quote \" What are you listening\"，标签：创造自己的改变",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:33.217Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Avant-Garde Guitar Sculpture Fashion Advertisement",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "前卫吉他雕塑时尚广告",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:17:13.477Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "{\"type\":\"vintage editorial infographic poster\",\"subject\":\"Claude Shannon and information theory\",\"style\":{\"era\":\"1940s Bell Labs archival poster\",\"look\":\"aged cream paper, blueprint drafting grid, thin ink linework, muted navy and charcoal printing, subtle stains and paper wear, technical illustration mixed with newspaper editorial design\",\"rendering\":\"high-detail diagrammatic collage with engraved portrait, scientific charts, labeled panels, and hand-drawn signal graphics\"},\"poster\":{\"headline\":\"Claude Shannon — The Architecture of Information\",\"subheadline\":\"How uncertainty became measurable, and communication became engineering.\",\"topRightMeta\":{\"note\":\"NOTE TOSELF No. 6713–2\",\"date\":\"MAY 1948\",\"subject\":\"A Mathematical Theory of Communication\"}},\"layout\":{\"sections\":[{\"title\":\"left archival sidebar\",\"position\":\"far left vertical column\",\"count\":5,\"labels\":[\"BELL LABORATORIES MURRAY HILL, N.J.\",\"ENGINEERING THE INTANGIBLE\",\"CLAUDE E. SHANNON 1916–2001\",\"TOOLS OF THE INFORMATION AGE\",\"quote panel\"]},{\"title\":\"THE COMMUNICATION MODEL\",\"position\":\"upper middle wide panel\",\"count\":5,\"labels\":[\"1 INFORMATION SOURCE\",\"2 ENCODER\",\"3 CHANNEL\",\"4 DECODER\",\"5 DESTINATION\"]},{\"title\":\"ENTROPY: THE MEASURE OF UNCERTAINTY\",\"position\":\"upper right box\",\"count\":4,\"labels\":[\"H(X) = −Σ p(x) log2 p(x)\",\"PROBABILITY DISTRIBUTION p(x)\",\"MORE EVEN MORE MAXED UNCERTAINTY\",\"MORE LOPSIDED LESS UNCERTAINTY\"]},{\"title\":\"lower theory panels\",\"position\":\"middle to lower band\",\"count\":3,\"labels\":[\"A ENTROPY — uncertainty before a message is known\",\"B NOISE — randomness that corrupts transmission\",\"C Redundancy & Error Correction — structure added so signals can survive failure\"]},{\"title\":\"THEORY THAT TRANSFORMED CIVILIZATION\",\"position\":\"bottom horizontal timeline\",\"count\":8,\"labels\":[\"1840s TELEGRAPHY\",\"1876+ TELEPHONE NETWORKS\",\"1930s–40s DIGITAL COMPUTERS\",\"1950s–60s SATELLITE COMMUNICATION\",\"1970s INTERNET PROTOCOLS\",\"1980s–90s DATA COMPRESSION\",\"1990s–2000s CRYPTOGRAPHY\",\"2010s+ AI & INFORMATION SYSTEMS\"]}],\"centerpiece\":\"a large abstract cloud of blue and gray signal noise, dots, lines, and waveforms behind the communication model, with arrows moving left to right through the five stages\"},\"visualElements\":{\"portrait\":{\"subject\":\"{argument name=\\\"scientist name\\\" default=\\\"Claude Shannon\\\"}\",\"placement\":\"left-center\",\"style\":\"black-and-white archival seated portrait at a desk with the face intentionally obscured by a pale square censor block, wearing suit and tie, writing on paper\"},\"objectsLeft\":[\"rotary telephone on desk\",\"open notebook or papers\",\"technical console with CRT screen and knobs behind portrait\",\"small icon row of 4 tools: oscilloscope, signal meter, relay, punched tape\"],\"communicationModel\":[\"book and symbols under source\",\"binary digits under encoder\",\"large noisy channel cloud with wave overlays\",\"binary digits and interpretation under decoder\",\"light bulb icon under destination\"],\"chartsAndDiagrams\":[\"bar chart for entropy probabilities\",\"two low vs high entropy mini bar charts\",\"tree diagram and entropy notation\",\"signal distortion sketches labeled thermal noise, cross talk, distortion\",\"error-correction binary pipeline from original message to recovered message\"],\"bottomDecor\":[\"small waveform legend with sine wave, digital signal, and noise\",\"archival stamp or footer on lower right\"]},\"color\":{\"background\":\"warm ivory paper\",\"primaryInk\":\"dark navy\",\"secondaryInk\":\"charcoal gray\",\"accent\":\"faded steel blue\"},\"composition\":\"symmetrical wide poster with dense boxed annotations, fine border lines, and a museum-quality educational infographic feel\",\"textDensity\":\"very high, with many small labels, formulas, captions, and historical notes in a carefully organized grid\",\"aspectRatio\":\"16:9 landscape\"}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"type\": \"复古编辑信息图表海报\",\n  \"subject\": \"克劳德·香农与信息论\",\n  \"style\": {\n    \"era\": \"1940年代贝尔实验室档案海报\",\n    \"look\": \"陈旧的奶油色纸张，蓝图制图网格，细墨线工作，柔和的海军蓝和炭灰色印刷，微妙的污渍和纸张磨损，技术插图与报纸编辑设计混合\",\n    \"rendering\": \"高细节图表拼贴画，带有雕刻肖像、科学图表、标记面板和手绘信号图形\"\n  },\n  \"poster\": {\n    \"headline\": \"克劳德·香农 — 信息架构\",\n    \"subheadline\": \"不确定性如何变得可测量，通信如何成为工程。\",\n    \"topRightMeta\": {\n      \"note\": \"自我提醒 No. 6713–2\",\n      \"date\": \"1948年5月\",\n      \"subject\": \"通信的数学理论\"\n    }\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"左侧档案侧边栏\",\n        \"position\": \"最左侧垂直列\",\n        \"count\": 5,\n        \"labels\": [\n          \"贝尔实验室 新泽西州默里山\",\n          \"无形工程\",\n          \"克劳德·E·香农 1916–2001\",\n          \"信息时代的工具\",\n          \"引用面板\"\n        ]\n      },\n      {\n        \"title\": \"通信模型\",\n        \"position\": \"上方中间宽面板\",\n        \"count\": 5,\n        \"labels\": [\n          \"1 信息源\",\n          \"2 编码器\",\n          \"3 信道\",\n          \"4 解码器\",\n          \"5 目的地\"\n        ]\n      },\n      {\n        \"title\": \"熵：不确定性的度量\",\n        \"position\": \"右上角框\",\n        \"count\": 4,\n        \"labels\": [\n          \"H(X) = −Σ p(x) log2 p(x)\",\n          \"概率分布 p(x)\",\n          \"更均匀，更多最大不确定性\",\n          \"更偏斜，更少不确定性\"\n        ]\n      },\n      {\n        \"title\": \"下方理论面板\",\n        \"position\": \"中到下带\",\n        \"count\": 3,\n        \"labels\": [\n          \"A 熵 — 消息已知之前的不确定性\",\n          \"B 噪声 — 破坏传输的随机性\",\n          \"C 冗余与纠错 — 添加的结构使信号能够抵御故障\"\n        ]\n      },\n      {\n        \"title\": \"改变文明的理论\",\n        \"position\": \"底部水平时间线\",\n        \"count\": 8,\n        \"labels\": [\n          \"1840年代 电报\",\n          \"1876+ 电话网络\",\n          \"1930s–40s 数字计算机\",\n          \"1950s–60s 卫星通信\",\n          \"1970s 互联网协议\",\n          \"1980s–90s 数据压缩\",\n          \"1990s–2000s 密码学\",\n          \"2010s+ 人工智能与信息系统\"\n        ]\n      }\n    ],\n    \"centerpiece\": \"通信模型后方的大型蓝色和灰色信号噪声、点、线和波形抽象云，箭头从左到右穿过五个阶段\"\n  },\n  \"visualElements\": {\n    \"portrait\": {\n      \"subject\": \"{argument name=\\\"scientist name\\\" default=\\\"Claude Shannon\\\"}\",\n      \"placement\": \"左中心\",\n      \"style\": \"黑白档案式坐姿肖像，坐在书桌前，脸部被浅色方形审查块有意遮挡，穿着西装和领带，在纸上书写\"\n    },\n    \"objectsLeft\": [\n      \"桌上的旋转式电话\",\n      \"打开的笔记本或纸张\",\n      \"肖像后方带有CRT屏幕和旋钮的技术控制台\",\n      \"4个工具的小图标行：示波器、信号计、继电器、穿孔纸带\"\n    ],\n    \"communicationModel\": [\n      \"源下方的书籍和符号\",\n      \"编码器下方的二进制数字\",\n      \"带有波形覆盖的大型噪声信道云\",\n      \"解码器下方的二进制数字和解释\",\n      \"目的地下方的灯泡图标\"\n    ],\n    \"chartsAndDiagrams\": [\n      \"熵概率条形图\",\n      \"两个低与高熵小型条形图\",\n      \"树状图和熵符号\",\n      \"标记为热噪声、串扰、失真的信号失真草图\",\n      \"从原始消息到恢复消息的纠错二进制管道\"\n    ],\n    \"bottomDecor\": [\n      \"带有正弦波、数字信号和噪声的小波形图例\",\n      \"右下角的档案印章或页脚\"\n    ]\n  },\n  \"color\": {\n    \"background\": \"暖象牙色纸张\",\n    \"primaryInk\": \"深海军蓝\",\n    \"secondaryInk\": \"炭灰色\",\n    \"accent\": \"褪色的钢蓝色\"\n  },\n  \"composition\": \"对称宽海报，带有密集的框注释、细边线和博物馆质量的教育信息图表感觉\",\n  \"textDensity\": \"非常高，有许多小标签、公式、标题和历史注释，在仔细组织的网格中\",\n  \"aspectRatio\": \"16:9 横向\"\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:29:54.235Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Vintage Claude Shannon Infographic Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "复古克劳德·香农信息图海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:29:31.735Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -88,7 +102,9 @@
       "infographic",
       "diagram",
       "chart",
-      "education"
+      "education",
+      "信息图",
+      "技术"
     ],
     "classifiedAt": "2026-05-06T11:03:21.560Z"
   }

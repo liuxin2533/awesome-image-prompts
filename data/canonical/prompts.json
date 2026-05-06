@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2026-05-04",
-  "generatedAt": "2026-05-06T11:19:16.392Z",
-  "totalCount": 1009,
+  "generatedAt": "2026-05-06T13:43:25.438Z",
+  "totalCount": 1013,
   "languages": [
     "de",
     "en",
@@ -12,6 +12,7 @@
     "ja",
     "ko",
     "pt",
+    "ru",
     "th",
     "tr",
     "vi",
@@ -19,7 +20,7 @@
     "zh-TW"
   ],
   "sourceCount": {
-    "EvoLinkAI/awesome-gpt-image-2-prompts": 362,
+    "EvoLinkAI/awesome-gpt-image-2-prompts": 366,
     "YouMind-OpenLab/awesome-gpt-image-2": 222,
     "freestylefly/awesome-gpt-image-2": 392,
     "ZeroLu/awesome-gpt-image": 79
@@ -4060,6 +4061,22 @@
     {
       "id": "prompt_f7e81afcb643ff4cc06a",
       "file": "prompts/prompt_f7e81afcb643ff4cc06a.json"
+    },
+    {
+      "id": "prompt_26034859824e44f373b2",
+      "file": "prompts/prompt_26034859824e44f373b2.json"
+    },
+    {
+      "id": "prompt_4ea36f078e2e4ece8046",
+      "file": "prompts/prompt_4ea36f078e2e4ece8046.json"
+    },
+    {
+      "id": "prompt_7440c46718963b2ffac1",
+      "file": "prompts/prompt_7440c46718963b2ffac1.json"
+    },
+    {
+      "id": "prompt_eb6d5e25267fc6b1b6f7",
+      "file": "prompts/prompt_eb6d5e25267fc6b1b6f7.json"
     }
   ]
 }

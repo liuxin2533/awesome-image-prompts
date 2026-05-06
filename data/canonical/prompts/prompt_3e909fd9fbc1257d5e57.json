@@ -21,7 +21,14 @@
       "value": "Pastel AI Assistant Anime Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "粉彩AI助手动漫肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:49.742Z"
+      }
+    }
   },
   "description": {
     "original": null,

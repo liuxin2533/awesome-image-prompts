@@ -6,7 +6,14 @@
       "value": "A highly detailed anime fantasy illustration of a tall elegant woman resembling an ice sorceress or qilin-inspired warrior, shown in a full-body three-quarter back view with her head turned slightly away, standing in a luminous snowy mountain landscape filled with soft pink cherry blossoms. She has {argument name=\"hair color\" default=\"very light icy blue\"} hair, extremely long, thick, and flowing in the wind with layered strands, soft bangs, curled tips, and a loose ahoge on top. Two dark curved horn-like ornaments with subtle red patterning rise from either side of her head. Her face is obscured by a flat rectangular blur block in a pale lavender-gray tone. She wears an ornate fantasy bodysuit and dress in black, white, periwinkle, and sapphire blue with gold filigree armor details: a black fitted chest piece, detached translucent bell sleeves with blue crystal-like feather cuffs, a backless white-and-blue upper garment, intricate gold waist armor with a glowing blue gemstone centerpiece, sheer black tights with gold geometric accents, layered translucent blue fabric panels, and exactly 3 visible red tassel ornaments hanging from the waist and side sashes. Her right arm is extended with an open gloved hand, levitating a glowing translucent blue water sphere containing swirling yin-yang-like currents. Around her are curling arcs of water and icy energy ribbons. The background is a dreamy ethereal alpine scene with 1 distant pagoda-like tower on the right, misty snow-covered peaks, frosted trees, sparkling atmosphere, drifting petals, and pastel blossom clusters framing the foreground and upper left corner. Use soft radiant backlighting, iridescent highlights, polished anime rendering, delicate gradients, crisp decorative costume detail, magical fantasy mood, cool blue and lavender palette with pink accents, vertical composition, no text, no extra characters.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高度详细的动漫奇幻插画，描绘了一位高挑优雅的女性，类似冰系女巫或麒麟启发的战士，以全身四分之三背面视角呈现，头部略微转向侧面，站在一个发光的雪山景观中，周围点缀着柔和的粉色樱花。她拥有{argument name=\"hair color\" default=\"非常浅的冰蓝色\"}头发，头发极长、浓密，随风飘动，有分层、柔软的刘海、卷曲的发梢，顶部还有一个松散的呆毛。两个暗色的弯曲角状饰品，带有细微的红色图案，从她头部的两侧升起。她的脸部被一个淡薰衣草灰色的扁平矩形模糊块遮挡。她穿着一件华丽的奇幻紧身衣和连衣裙，颜色为黑色、白色、淡蓝色和宝石蓝，带有金色细丝装甲细节：一件黑色合身的胸甲，分离的透明钟形袖子，带有蓝色水晶般的羽毛袖口，一件露背的蓝白色上衣，复杂的金色腰部装甲，中央有一颗发光的蓝色宝石，透明的黑色连裤袜带有金色几何装饰，分层半透明的蓝色织物面板，以及正好3个可见的红色流苏饰品悬挂在腰部和侧面的腰带上。她的右臂伸展，戴着手套的手张开，悬浮着一个发光的半透明蓝色水球，其中包含旋转的阴阳般的水流。周围环绕着弯曲的水弧和冰能量丝带。背景是一个梦幻的空灵高山场景，右侧有1座远处的宝塔状塔楼，朦胧的雪山覆盖的山峰，结霜的树木，闪烁的大气，飘落的花瓣，以及柔和的花簇框住了前景和左上角。使用柔和的辐射背光，彩虹色高光，精致的动漫渲染，细腻的渐变，清晰的装饰服装细节，魔法奇幻氛围，冷蓝色和薰衣草色调搭配粉色点缀，垂直构图，无文字，无额外角色。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:52:44.368Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a polished vertical anime-style fantasy character illustration, ideal for character art, wallpaper, or magic-themed concept imagery.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成精美的垂直动漫风格奇幻角色插画，适合角色艺术、壁纸或魔法主题的概念图像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:52:36.447Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -101,19 +115,19 @@
   ],
   "categories": [
     {
-      "id": "ui-social-media",
-      "value": "UI & Social Media",
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "ui-social-media-zh-cn",
-      "value": "UI 与社交媒体",
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "ui-social-media"
+      "translationOf": "poster-illustration"
     }
   ],
   "sources": [
@@ -154,14 +168,14 @@
   "updatedAt": "2026-05-06T11:02:37.122Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "poster-illustration",
     "source": "rule",
     "confidence": 0.9,
     "matchedBy": [
-      "ui",
-      "social",
-      "社交"
+      "illustration",
+      "anime",
+      "插画"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.569Z"
+    "classifiedAt": "2026-05-06T11:41:23.662Z"
   }
 }

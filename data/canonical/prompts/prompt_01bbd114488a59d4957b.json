@@ -21,7 +21,14 @@
       "value": "BMW Performance Social Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "BMW 性能社交海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:57.256Z"
+      }
+    }
   },
   "description": {
     "original": null,

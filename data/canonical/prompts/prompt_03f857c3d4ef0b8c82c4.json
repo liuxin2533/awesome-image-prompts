@@ -6,7 +6,14 @@
       "value": "{\r\n  \"instruction\": \"Use the provided two character images as exact visual references. Preserve identity, face, outfit, proportions, and details perfectly.\",\r\n  \"concept\": \"{argument name=\"game concept\" default=\"AAA fighting game scene presented as a Tekken-style gameplay grid storyboard\"}\",\r\n  \"layout\": {\r\n    \"type\": \"3x3 grid\",\r\n    \"description\": \"nine panels showing a continuous fight progression with full game UI visible in each frame\"\r\n  },\r\n  \"panels\": [\r\n    \"panel 1: dramatic VS screen — character A vs character B, both facing each other, glowing background, versus text in center\",\r\n    \"panel 2: round start — both fighters in idle stance, READY text on screen\",\r\n    \"panel 3: FIGHT moment — cinematic spark explosion as fight begins\",\r\n    \"panel 4: first attack — character A throws a punch with motion blur\",\r\n    \"panel 5: counter attack — character B kicks with impact sparks\",\r\n    \"panel 6: combo sequence — multiple hit sparks, motion trails, dynamic camera\",\r\n    \"panel 7: low health moment — health bar flashing red, tension moment\",\r\n    \"panel 8: finishing move — slow motion heavy hit, cinematic angle\",\r\n    \"panel 9: KO screen — opponent falling back, huge KO text, particles flying\"\r\n  ],\r\n  \"style\": \"{argument name=\"art style\" default=\"ultra realistic AAA Tekken-style fighting game, cinematic gameplay rendering, highly detailed characters, realistic lighting\"}\",\r\n  \"camera\": \"in-game fighting camera, slightly angled side view, dynamic zoom during impacts\",\r\n  \"environment\": \"high-end fighting arena, dark background with neon accents, subtle depth, not distracting\",\r\n  \"ui_elements\": {\r\n    \"health_bars\": \"top left and right, detailed, glowing, decreasing across panels\",\r\n    \"timer\": \"center top\",\r\n    \"player_names\": \"top left and right\",\r\n    \"round_indicator\": \"visible\",\r\n    \"combo_counter\": \"appears during hits\",\r\n    \"hit_effects\": \"sparks, flashes, light streaks\",\r\n    \"KO_text\": \"large, bold, center screen in final panel\",\r\n    \"READY_FIGHT_text\": \"arcade-style bold typography\"\r\n  },\r\n  \"effects\": [\r\n    \"motion blur on attacks\",\r\n    \"impact sparks\",\r\n    \"energy trails\",\r\n    \"camera shake effect\",\r\n    \"slow motion feeling in finishing hit\",\r\n    \"screen glow during hits\"\r\n  ],\r\n  \"color_grading\": \"{argument name=\"color grading\" default=\"high contrast, arcade cinematic, vibrant highlights, deep shadows\"}\",\r\n  \"output\": \"clean 3x3 grid, perfectly aligned panels, full UI visible, no logos, no watermarks\"\r\n}\r\n\"reference_style\": \"Tekken 8 gameplay UI, arcade fighting game interface, modern AAA fighting HUD\"",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n  \"instruction\": \"使用提供的两个角色图像作为精确的视觉参考。完美保留身份、面部、服装、比例和细节。\",\n  \"concept\": \"{argument name=\\\"game concept\\\" default=\\\"AAA格斗游戏场景，以铁拳风格的游戏网格分镜板呈现\\\"}\",\n  \"layout\": {\n    \"type\": \"3x3网格\",\n    \"description\": \"九个面板展示连续的战斗进程，每帧都显示完整的游戏UI\"\n  },\n  \"panels\": [\n    \"面板1：戏剧性的VS画面 — 角色A对战角色B，两人面对面，发光背景，中央显示VS文字\",\n    \"面板2：回合开始 — 两个格斗者处于待机姿态，屏幕上显示READY文字\",\n    \"面板3：FIGHT时刻 — 战斗开始时的电影级火花爆炸\",\n    \"面板4：第一次攻击 — 角色A出拳带有运动模糊\",\n    \"面板5：反击 — 角色B踢腿带有冲击火花\",\n    \"面板6：连招序列 — 多次击中火花、运动轨迹、动态相机\",\n    \"面板7：低血量时刻 — 血条闪烁红色，紧张时刻\",\n    \"面板8：终结技 — 慢动作重击，电影级角度\",\n    \"面板9：KO画面 — 对手向后倒下，巨大的KO文字，粒子飞溅\"\n  ],\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"超写实AAA铁拳风格格斗游戏，电影级游戏渲染，高度详细的角色，真实的光照\\\"}\",\n  \"camera\": \"游戏内格斗相机，略微倾斜的侧视图，冲击时动态缩放\",\n  \"environment\": \"高端格斗竞技场，黑暗背景带有霓虹点缀，微妙景深，不分散注意力\",\n  \"ui_elements\": {\n    \"health_bars\": \"左上和右上，详细，发光，在面板中逐渐减少\",\n    \"timer\": \"顶部中央\",\n    \"player_names\": \"左上和右上\",\n    \"round_indicator\": \"可见\",\n    \"combo_counter\": \"击中时出现\",\n    \"hit_effects\": \"火花，闪光，光线轨迹\",\n    \"KO_text\": \"大号，粗体，最终面板中央屏幕\",\n    \"READY_FIGHT_text\": \"街机风格粗体字体\"\n  },\n  \"effects\": [\n    \"攻击时的运动模糊\",\n    \"冲击火花\",\n    \"能量轨迹\",\n    \"相机震动效果\",\n    \"终结击中的慢动作感\",\n    \"击中时的屏幕发光\"\n  ],\n  \"color_grading\": \"{argument name=\\\"color grading\\\" default=\\\"高对比度，街机电影感，鲜艳的高光，深邃的阴影\\\"}\",\n  \"output\": \"干净的3x3网格，完美对齐的面板，完整UI可见，无标志，无水印\"\n}\n\"reference_style\": \"铁拳8游戏UI，街机格斗游戏界面，现代AAA格斗HUD\"",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:35:22.352Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "A highly structured prompt for creating a 3x3 storyboard grid of a fighting game, maintaining consistent characters and full game UI elements.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高度结构化的提示，用于创建格斗游戏的3x3故事板网格，保持角色一致性和完整的游戏UI元素。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:35:24.898Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,6 +170,7 @@
       "comic",
       "story",
       "漫画",
+      "分镜",
       "故事"
     ],
     "classifiedAt": "2026-05-06T11:03:21.563Z"

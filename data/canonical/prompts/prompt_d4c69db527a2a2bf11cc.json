@@ -6,7 +6,14 @@
       "value": "Create a high-end fitness boxing poster in a 3-panel collage layout.\nTop panel:\nA strong athletic woman boxer wearing a red boxing outfit (sports bra, shorts, boxing gloves, high socks, boxing shoes) leaning confidently against a worn heavy punching bag. Studio background with large bold red typography behind her (word like “FOCUS” or “IMPACT” in oversized distressed font). Clean minimal lighting, editorial fitness campaign style.\nBottom left panel:\nClose-up portrait of the same woman (shoulders and face). Slight sweat, sharp jawline, focused expression looking sideways. Boxing gloves visible near frame. Background includes large faded typography partially visible.\nBottom right panel:\nFull-body action pose of the woman throwing a punch at the punching bag. Dynamic stance, strong posture, gloves in motion. Same studio setup and typography in background (different word like “STRENGTH” or “DISCIPLINE”).\nOverall style:\npremium fitness brand campaign, dramatic studio lighting, soft shadows, high contrast, ultra realistic, sharp details, minimal color palette (red, white, neutral tones), clean composition, cinematic photography, 4k quality.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端健身拳击海报，采用三面板拼贴布局。\n\n顶部面板：\n一位强壮的运动型女拳击手身穿红色拳击服（运动内衣、短裤、拳击手套、高筒袜、拳击鞋），自信地倚靠在一个磨损的重沙袋上。工作室背景中有大号粗体红色文字在她身后（如\"专注\"或\"冲击\"等字样，采用超大 distressed 字体）。简洁的极简照明，编辑式健身广告风格。\n\n左下方面板：\n同一位女性的特写肖像（肩膀和面部）。轻微出汗，清晰的下颌线，专注的表情侧视。拳击手套在画面边缘可见。背景中有部分可见的大号褪色文字。\n\n右下方面板：\n女性向沙袋出拳的全身动作姿势。动态站姿，强健的姿态，手套在运动中。相同的工作室设置和背景文字（不同的词如\"力量\"或\"纪律\"）。\n\n整体风格：\n高端健身品牌广告，戏剧性工作室照明，柔和阴影，高对比度，超写实，锐利细节，极简色彩调色板（红色、白色、中性色调），简洁构图，电影摄影风格，4K质量。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:57.043Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Fitness Boxing Campaign Collage Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "健身拳击活动拼贴海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:59.543Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -20,7 +20,14 @@
       "value": "全自动咖啡机产品展示",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Fully Automatic Coffee Machine Product Showcase",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:58:54.106Z"
+      }
+    }
   },
   "description": {
     "original": null,

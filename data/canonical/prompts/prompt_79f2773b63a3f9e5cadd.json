@@ -6,7 +6,14 @@
       "value": "A bright anime-style fantasy travel scene in front of Niseko View Plaza in Hokkaido, with a clear blue sky, scattered white clouds, and a huge snow-capped mountain rising in the background. The setting is a roadside plaza parking area with a modern black-and-wood station building on the left, visible Japanese signage reading \"道の駅 ニセコビュープラザ\" and \"Niseko View Plaza,\" a vertical banner reading \"ようこそ ニセコへ,\" a tall food sign reading \"名物 じゃがいも,\" and a dark wayfinding sign on the right reading \"ニセコ Niseko\" with 4 listed icons and labels: \"名産品 Local Products,\" \"農産物直売所 Farmer's Market,\" \"レストラン Restaurant,\" and \"情報コーナー Information.\" In the center, a glamorous fox-eared anime girl sits sideways atop a giant iridescent translucent soap bubble, smiling and gesturing upward with one hand. She has {argument name=\"hair color\" default=\"shimmering pastel silver-lilac\"} very long wavy hair, large fluffy fox ears, and a huge fluffy fox tail with rainbow-reflective highlights. Her outfit is an elaborate sparkling translucent-white and pale blue dress with holographic sheen, layered sleeves, gemstone accents, ribbons, and glossy lace-up ankle boots with bows, giving her a magical bubble-fox idol appearance. Around her float multiple smaller soap bubbles, catching rainbow light. Three fox-girl friends gather around meeting her at the plaza: 1 dark-haired fox-eared girl in a navy jacket with a Niseko patch, holding a vanilla soft-serve ice cream and looking toward the center; 1 khaki-clad fox-eared girl in an outdoor jacket and a dark cap with \"HOTEL\" lettering, holding a grilled corn cob; and 1 white-haired fox-eared girl in a shiny pearly hooded jacket and beret, holding a takeaway coffee cup and wearing a black backpack. Emphasize a cheerful reunion mood, travel photography composition blended with polished anime illustration, detailed environmental signage, reflective bubble surfaces, soft sunlight, crisp mountain air, and high-detail painterly rendering.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "北海道二世谷展望广场前的明亮动漫风格奇幻旅行场景，有清澈的蓝天、散落的白云，以及远处耸立的巨大雪山。场景是一个路边广场停车场，左侧有一座现代黑木车站建筑，可见日文招牌写着\"道の駅 ニセコビュープラザ\"和\"Niseko View Plaza\"，一条垂直横幅写着\"ようこそ ニセコへ\"，一个高大的食物招牌写着\"名物 じゃがいも\"，右侧还有一个深色的指路牌写着\"ニセコ Niseko\"，列有4个图标和标签：\"名産品 Local Products\"、\"農産物直売所 Farmer's Market\"、\"レストラン Restaurant\"和\"情報コーナー Information\"。\n\n中心位置，一个华丽的狐狸耳动漫女孩侧坐在巨大的彩虹半透明肥皂泡上，微笑着一只手向上指着。她有{argument name=\"hair color\" default=\"shimmering pastel silver-lilac\"}非常长的波浪长发，蓬松的狐狸耳朵，以及带有彩虹反光高光的大蓬松狐狸尾巴。她的服装是一件精致的闪亮半透明白色和淡蓝色连衣裙，具有全息光泽，分层袖子，宝石装饰，丝带，以及带有蝴蝶结的光亮系带踝靴，赋予她一种神奇的泡泡狐狸偶像形象。周围漂浮着多个较小的肥皂泡，捕捉彩虹光芒。\n\n三个狐狸耳朋友在广场上与她相聚：1个深色头发的狐狸耳女孩，穿着带有二世谷徽章的海军蓝夹克，拿着香草软冰淇淋，望向中心；1个卡其色打扮的狐狸耳女孩，穿着户外夹克和带有\"HOTEL\"字样的深色帽子，拿着烤玉米棒；1个白发的狐狸耳女孩，穿着闪亮的珍珠色连帽夹克和贝雷帽，拿着外卖咖啡杯，背着黑色背包。\n\n强调欢乐重逢的氛围，旅行摄影构图与精致的动漫插画相结合，详细的环境标识，反光的泡泡表面，柔和的阳光，清新的山间空气，以及高细节的绘画渲染风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:42:45.010Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a detailed anime travel illustration of fox girls reuniting at Niseko View Plaza with iridescent soap bubbles and a dramatic mountain backdrop, ideal for scenic character art.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "详细的动漫旅行插画，描绘狐狸女孩在二世谷观景台重聚，带有彩虹色的肥皂泡和戏剧性的山脉背景，适合风景人物艺术。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:42:51.051Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -101,19 +115,19 @@
   ],
   "categories": [
     {
-      "id": "ui-social-media",
-      "value": "UI & Social Media",
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "ui-social-media-zh-cn",
-      "value": "UI 与社交媒体",
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "ui-social-media"
+      "translationOf": "poster-illustration"
     }
   ],
   "sources": [
@@ -154,14 +168,14 @@
   "updatedAt": "2026-05-06T11:02:37.122Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "poster-illustration",
     "source": "rule",
     "confidence": 0.9,
     "matchedBy": [
-      "ui",
-      "social",
-      "社交"
+      "illustration",
+      "anime",
+      "插画"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.566Z"
+    "classifiedAt": "2026-05-06T11:41:23.660Z"
   }
 }

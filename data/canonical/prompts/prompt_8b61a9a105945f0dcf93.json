@@ -21,7 +21,14 @@
       "value": "Blonde Maid in Warm Cafe",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "金发女仆在温暖的咖啡馆",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:48.586Z"
+      }
+    }
   },
   "description": {
     "original": null,

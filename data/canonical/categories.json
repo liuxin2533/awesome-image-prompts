@@ -1,12 +1,20 @@
 {
   "schemaVersion": "2026-05-04",
-  "generatedAt": "2026-05-06T11:19:16.392Z",
+  "generatedAt": "2026-05-06T13:43:25.438Z",
   "categories": [
     {
       "id": "product-marketing-zh-cn",
       "value": "产品与营销",
       "language": "zh-CN",
       "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "manual",
       "taxonomy": "canonical",
       "translationOf": "product-marketing"
     },
@@ -19,10 +27,26 @@
       "translationOf": "poster-illustration"
     },
     {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    },
+    {
       "id": "architecture-interior-zh-cn",
       "value": "建筑与空间",
       "language": "zh-CN",
       "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "architecture-interior"
+    },
+    {
+      "id": "architecture-interior-zh-cn",
+      "value": "建筑与空间",
+      "language": "zh-CN",
+      "source": "manual",
       "taxonomy": "canonical",
       "translationOf": "architecture-interior"
     },
@@ -35,10 +59,26 @@
       "translationOf": "character-design"
     },
     {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    },
+    {
       "id": "comic-story-zh-cn",
       "value": "漫画与叙事",
       "language": "zh-CN",
       "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "comic-story"
+    },
+    {
+      "id": "comic-story-zh-cn",
+      "value": "漫画与叙事",
+      "language": "zh-CN",
+      "source": "manual",
       "taxonomy": "canonical",
       "translationOf": "comic-story"
     },
@@ -51,12 +91,44 @@
       "translationOf": "brand-logo"
     },
     {
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "brand-logo"
+    },
+    {
       "id": "photography-portrait-zh-cn",
       "value": "摄影与人像",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
       "translationOf": "photography-portrait"
+    },
+    {
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "photography-portrait"
+    },
+    {
+      "id": "video-animation-collage-zh-cn",
+      "value": "视频、动画与拼贴",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "video-animation-collage"
+    },
+    {
+      "id": "general-zh-cn",
+      "value": "通用",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "general"
     },
     {
       "id": "infographic-education-zh-cn",
@@ -67,10 +139,33 @@
       "translationOf": "infographic-education"
     },
     {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    },
+    {
+      "id": "game-entertainment-zh-cn",
+      "value": "游戏与娱乐",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "game-entertainment"
+    },
+    {
       "id": "architecture-interior",
       "value": "Architecture & Interior",
       "language": "en",
       "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "architecture-interior",
+      "value": "Architecture & Interior",
+      "language": "en",
+      "source": "manual",
       "taxonomy": "canonical"
     },
     {
@@ -81,10 +176,24 @@
       "taxonomy": "canonical"
     },
     {
+      "id": "brand-logo",
+      "value": "Brand & Logo",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
       "id": "character-design",
       "value": "Character Design",
       "language": "en",
       "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "manual",
       "taxonomy": "canonical"
     },
     {
@@ -95,10 +204,38 @@
       "taxonomy": "canonical"
     },
     {
+      "id": "comic-story",
+      "value": "Comic & Story",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "game-entertainment",
+      "value": "Game & Entertainment",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "general",
+      "value": "General",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
       "id": "infographic-education",
       "value": "Infographic & Education",
       "language": "en",
       "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "manual",
       "taxonomy": "canonical"
     },
     {
@@ -109,10 +246,24 @@
       "taxonomy": "canonical"
     },
     {
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
       "id": "poster-illustration",
       "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "manual",
       "taxonomy": "canonical"
     },
     {
@@ -123,10 +274,24 @@
       "taxonomy": "canonical"
     },
     {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
       "id": "ui-social-media",
       "value": "UI & Social Media",
       "language": "en",
       "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
+      "language": "en",
+      "source": "manual",
       "taxonomy": "canonical"
     },
     {
@@ -136,6 +301,21 @@
       "source": "derived",
       "taxonomy": "canonical",
       "translationOf": "ui-social-media"
+    },
+    {
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "ui-social-media"
+    },
+    {
+      "id": "video-animation-collage",
+      "value": "Video, Animation & Collage",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
     }
   ]
 }

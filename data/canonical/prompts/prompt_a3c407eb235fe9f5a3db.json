@@ -21,7 +21,14 @@
       "value": "Dreamy Oriental female portrait prompt",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "梦幻的东方女性肖像提示词",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:31.876Z"
+      }
+    }
   },
   "description": {
     "original": null,

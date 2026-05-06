@@ -94,7 +94,14 @@
       "value": "Add more story background to increase the meme quality, such as the historical moment, platform behavior, or the punchline you want the post to land.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "添加更多故事背景以提高模因质量，例如历史时刻、平台行为或您希望帖子传达的笑点。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:31.001Z"
+      }
+    }
   },
   "sourceCategories": [
     {

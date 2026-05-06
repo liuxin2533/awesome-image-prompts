@@ -21,7 +21,14 @@
       "value": "Luxury Studio Outfit Transformation",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "奢华工作室服装变换",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:44.038Z"
+      }
+    }
   },
   "description": {
     "original": null,

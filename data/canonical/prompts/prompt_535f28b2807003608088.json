@@ -43,7 +43,23 @@
       "sourceKey": "freestylefly"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": "character-design",
+      "value": "Character Design",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "character-design-zh-cn",
+      "value": "角色设计",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "character-design"
+    }
+  ],
   "sources": [
     {
       "sourceKey": "freestylefly",
@@ -78,11 +94,11 @@
   ],
   "updatedAt": "2026-05-06T11:02:37.354Z",
   "classification": {
-    "status": "needs_review",
-    "categoryId": null,
-    "source": "none",
-    "confidence": 0,
-    "reason": "no_rule_match",
-    "classifiedAt": "2026-05-06T11:03:21.586Z"
+    "status": "classified",
+    "categoryId": "character-design",
+    "source": "manual",
+    "confidence": 1,
+    "matchedBy": [],
+    "classifiedAt": "2026-05-06T13:43:25.436Z"
   }
 }

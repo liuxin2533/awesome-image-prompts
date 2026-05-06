@@ -21,7 +21,14 @@
       "value": "CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "舒缓绿茶电影套件正面展示，打开的盒子展示柔和的鼠尾草色...",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:26.253Z"
+      }
+    }
   },
   "description": {
     "original": null,

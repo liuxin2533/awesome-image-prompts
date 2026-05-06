@@ -6,7 +6,14 @@
       "value": "A side-by-side comparison graphic on a black background demonstrating a camera-angle change in the same restaurant scene. At the top, large white sans-serif text reads: \"Show me the POV from someone standing behind the bar looking out over this crowded restaurant. Change NOTHING in the scene other than the pov\". Below, place 2 stacked rectangular photos centered vertically: the top image labeled \"Source\" in large white text on the left, and the bottom image labeled \"Output\" in large white text on the left. The top photo shows a warmly lit, upscale, crowded restaurant interior seen from the dining room side, facing a tall back bar filled with many illuminated liquor bottles on wall-to-wall shelves, with bartenders and guests in front, amber lighting, globe pendant lights, wood ceiling, beige columns, and tightly packed seated diners in the foreground. The bottom photo shows the exact same restaurant, same crowd density, same warm lighting, same decor, same bar shelving, same globe pendant lights, and same overall composition elements, but now from the point of view of someone standing behind the bar and looking outward across the crowded restaurant; the foreground includes the bar counter with glassware, metal bar tools, bottles, and a point-of-sale screen visible at the lower left, while guests and staff fill the middle ground and the dining room extends into the background. Preserve the sense that only the camera position changed between the 2 images, with no other scene alterations.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "黑色背景上的并排比较图，展示同一餐厅场景中的相机角度变化。顶部有大型白色无衬线文字，内容为：\"向我展示站在吧台后面俯瞰这家拥挤餐厅的POV。除了视点外，不要对场景做任何改变\"。下方垂直居中放置两个堆叠的矩形照片：顶部照片左侧有大型白色文字标记为\"源图像\"，底部照片左侧有大型白色文字标记为\"输出图像\"。顶部照片展示温暖照明的、高档的、拥挤的餐厅内部，从用餐室一侧拍摄，面对一个高大的后吧台，吧台上满墙架子上摆放着许多照明的烈酒瓶，前面有调酒师和客人，琥珀色照明，球形吊灯，木质天花板，米色柱子，以及前景中紧密排列的坐着用餐的客人。底部照片展示完全相同的餐厅，相同的拥挤程度，相同的温暖照明，相同的装饰，相同的吧台货架，相同的球形吊灯，以及相同的整体构图元素，但现在是从站在吧台后面并向外俯瞰拥挤餐厅的某人的视角；前景包括吧台，上面有玻璃器皿、金属酒吧工具、瓶子，以及左下角可见的销售点屏幕，而客人和员工填满了中景，餐厅延伸至背景。保持两个图像之间只有相机位置改变，没有其他场景变更的感觉。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:22.687Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Restaurant POV Change Comparison",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "餐厅视角变化对比",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:38.681Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -81,15 +95,13 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.8,
     "matchedBy": [
-      "ui",
-      "social",
-      "youtube",
-      "社交"
+      "photo",
+      "camera"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.556Z"
+    "classifiedAt": "2026-05-06T11:41:23.605Z"
   }
 }

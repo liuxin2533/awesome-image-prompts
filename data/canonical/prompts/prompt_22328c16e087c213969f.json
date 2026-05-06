@@ -6,7 +6,14 @@
       "value": "Create a soft, elegant Japanese lifestyle magazine editorial page in a warm botanical watercolor style, formatted as a full-page A4 portrait layout with a cream paper background, thin beige border, muted sage-green accents, and a refined nature-themed design. The page is a single cohesive magazine spread design with 6 distinct content sections: 1 large main illustration panel on the left, 1 tall title-and-article column on the upper right, 3 stacked informational point boxes on the mid-to-lower right, 2 small photo-card style image panels along the lower left, 1 circular quote badge near the lower left of the main panel, and 1 summary box at the lower right. The theme is elephant appreciation day in Japan. At the top left, place small editorial header text reading \"LIFESTYLE / FEATURE / TOPIC\" with a short Japanese subtitle beneath it. Across the upper right, add the large date heading \"4.28 EVENT\" and the main Japanese headline \"象の日特集\" in an elegant serif style, with a short subheading line beneath it and a tiny elephant icon. Below that, set 3 short Japanese body paragraphs in a clean magazine column, explaining elephant day. The main illustration panel shows a gentle elephant standing on the left, rendered in delicate watercolor with realistic wrinkles, large ears, soft ivory-gray skin, and a lowered trunk reaching toward a small child standing beside it. The child is an androgynous anime-style boy with messy wavy dark purple-black hair, pale skin, large eyes, a black graphic T-shirt with a purple emblem, loose brown knee-length cargo shorts, and bare feet, standing casually with one hand in a pocket while touching the elephant’s trunk with the other. Behind them is a sunny zoo walkway with a wooden fence, soft green trees, dappled light, and leafy branches hanging from above. Near the elephant, include a small wooden sign reading \"Elephant 4.28\". Add a circular text badge in Japanese near the lower left of the main image. On the lower left area, place exactly 2 small bordered snapshot-style panels with taped-corner scrapbook presentation: the first labeled \"Feeding Time\" showing the child in side profile offering leaves to the elephant’s trunk across a fence; the second labeled \"Peaceful Time\" showing the child seated on a wooden bench in profile with elephants in the background, in a calm reflective scene. Each small panel has a short Japanese caption underneath. On the right side, stack exactly 3 informational boxes labeled \"POINT 01\", \"POINT 02\", and \"POINT 03\" in olive green circles, each with a simple line icon and Japanese text: box 1 features an elephant icon and discusses memory, box 2 features a trunk or elephant-face icon and discusses delicacy despite size, box 3 features a zoo building icon and discusses what can be learned at the zoo. At the bottom right, add 1 bordered summary box with a ribbon-like header reading \"まとめ\", a small elephant silhouette, and 2 short Japanese summary paragraphs. Along the bottom margin, include the page number \"068\", the date \"APRIL 2025\", and a row of small walking elephant silhouettes. Add subtle botanical flourishes, leaves, and light decorative strokes throughout. Overall mood: gentle, educational, heartwarming, airy, natural, child-friendly, and sophisticated, like a premium seasonal magazine feature.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个柔和、优雅的日本生活方式杂志编辑页面，采用温暖的植物水彩风格，格式为全页A4纵向布局，配有米色纸张背景、细米色边框、柔和的鼠绿色点缀和精致的自然主题设计。该页面是一个完整的杂志跨页设计，包含6个不同的内容区域：左侧1个大型主插图面板，右上角1个高大的标题和文章栏，中右部分3个堆叠的信息要点框，左下角2张小型照片卡风格图像面板，主面板左下角1个圆形引语徽章，以及右下角1个摘要框。主题是日本的\"大象欣赏日\"。在左上角放置小编辑标题文本，内容为\"生活方式 / 专题 / 主题\"，下方附有简短的日文副标题。在右上角添加大日期标题\"4.28 活动\"和主要的日文标题\"象の日特集\"，采用优雅的衬线字体，下方有一条简短的副标题行和小象图标。在下方设置3段简短的日文正文段落，采用清晰的杂志栏格式，解释大象日。主插图面板左侧展示一头温和的大象，采用精致的水彩渲染，具有真实的皱纹、大耳朵、柔和的象牙灰色皮肤，以及放下的象鼻，伸向站在旁边的小孩子。这个孩子是一个雌雄难辨的动漫风格男孩，有着凌乱波浪状的深紫黑色头发、苍白的皮肤、大眼睛、一件带有紫色标志的黑色图形T恤、宽松的棕色及膝工装短裤和赤脚，随意地站着，一只手插在口袋里，另一只手触摸着大象的象鼻。他们身后是一个阳光明媚的动物园小径，有木栅栏、柔和的绿色树木、斑驳的光线和从上方垂下的茂密树枝。在大象附近，包括一个小木牌，上面写着\"Elephant 4.28\"。在主图像的左下角添加一个圆形的日文徽章。在左下区域，放置恰好2个带边框的快照风格面板，采用带胶角剪贴簿展示方式：第一个标记为\"喂食时间\"，展示孩子的侧面轮廓，隔着栅栏向大象的象鼻递送树叶；第二个标记为\"平静时光\"，展示孩子坐在木凳上的侧面轮廓，背景中有大象，呈现一个平静沉思的场景。每个小面板下方都有简短的日文说明。在右侧，堆叠恰好3个信息框，标记为\"要点 01\"、\"要点 02\"和\"要点 03\"，采用橄榄绿色圆形，每个都有简单的线条图标和日文文本：框1有大象图标，讨论记忆；框2有象鼻或大象面部图标，讨论尽管体型庞大但很精致；框3有动物园建筑图标，讨论在动物园可以学到什么。在右下角，添加1个带边框的摘要框，有带状标题\"まとめ\"（总结），一个小象轮廓和2段简短的日文摘要段落。在页边底部，包括页码\"068\"、日期\"2025年4月\"和一行行走的小象轮廓。在整个设计中添加微妙的植物装饰、叶子和轻柔的装饰笔触。整体氛围：温和、教育性、温暖、轻盈、自然、适合儿童且精致，就像高级季节性杂志专题。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:59:48.712Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a polished Japanese editorial-style magazine page about Elephant Day, ideal for seasonal feature graphics, lifestyle spreads, or educational zoo-themed art.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一个精美的日本编辑风格杂志页面，关于大象日，适合季节性特色图形、生活方式版面或教育性动物园主题艺术。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T12:59:19.723Z"
+      }
+    }
   },
   "sourceCategories": [
     {

@@ -6,7 +6,14 @@
       "value": "90s + point-and-shoot camera quality",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "90年代 + 傻瓜相机画质",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:47.083Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "90s Point-and-Shoot Aesthetic",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "90年代傻瓜相机美学",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:48.039Z"
+      }
+    }
   },
   "description": {
     "original": null,

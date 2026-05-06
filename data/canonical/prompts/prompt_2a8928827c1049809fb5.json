@@ -6,7 +6,14 @@
       "value": "Ultra-clean automotive poster featuring the exact same car as the photo that will be provided later. The AI must replicate the car from the uploaded photo with identical body shape, proportions, stance, color, trims, wheels, and all visible exterior details.\r\nThe car is presented in a front three-quarter angle facing right, matching the perspective of the original reference layout, but now depicted in a subtle {argument name=\"action\" default=\"drifting action\"}. The drift is expressed through realistic weight transfer, slight body lift, controlled smoke plumes from the rear tires, and faint curved tire marks behind the vehicle, without distorting the original car’s geometry.\r\nHeadlights follow the exact style from the reference photo of the car, with optional warm fog lights glowing if the provided car has them. All decals, emblems, plates, and window tints must match the car from the uploaded photo.\r\nThe car drifts on a glossy white reflective studio-like floor that maintains soft reflections and realistic shadows, enhanced with light drift skid reflections and directional smudges.\r\nBackground remains a clean white-to-light-gray gradient with a giant semi-transparent bold typography of the car model name (auto-extracted from the uploaded photo) vertically dominating the background.\r\nAt the very top: clean branding text “{argument name=\"brand name\" default=\"CAR COMPANY NAME\"}” (or the brand detected from the uploaded car photo). Under it, spaced-out stylized tracking text containing the same brand and model name.\r\nBelow the car: centered title of the exact model name from the uploaded photo.\r\nUnder that, a short descriptive paragraph about the car’s character (efficiency, style, reliability).\r\nBottom section shows a clean grid layout of specifications. If real specs are known from the detected car model, generate accurate values; if not, generate placeholders in the same layout style (4 columns: horsepower, 0–100 km/h, top speed, engine displacement/fuel type).\r\nEntire poster is minimalist, editorial, high-key studio lighting with ultra-sharp reflections, crisp shadows, modern typography, and 4K believability, blending clean design with dynamic drifting energy, Ratio 9:16",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超洁净汽车海报，展示与稍后将提供的照片中完全相同的汽车。AI必须复制上传照片中的汽车，具有相同的车身形状、比例、姿态、颜色、装饰、轮毂和所有可见的外部细节。\n汽车以右侧前45度角展示，匹配原始参考布局的视角，但现在以微妙的{argument name=\"action\" default=\"drifting action\"}（漂移动作）呈现。漂移通过真实的重量转移、轻微的车身抬升、后轮控制的烟雾羽流和车辆后方微弱的弯曲轮胎痕迹来表达，同时不扭曲原始汽车的几何形状。\n前大灯遵循汽车参考照片的确切样式，如果提供的汽车有雾灯，则可选地发出温暖的雾灯光芒。所有贴纸、徽章、牌照和车窗色调必须与上传照片中的汽车相匹配。\n汽车在光滑的白色反射式工作室地板上漂移，保持柔和的反射和真实的阴影，增强有轻微的漂移滑痕反射和方向性污迹。\n背景保持洁净的白到浅灰渐变，带有巨大的半透明粗体汽车型号名称（从上传的照片中自动提取）垂直主导背景。\n在最顶部：洁净的品牌文本\"{argument name=\"brand name\" default=\"CAR COMPANY NAME}\"（或从上传的汽车照片中检测到的品牌）。在其下方，是间隔开来的风格化追踪文本，包含相同的品牌和型号名称。\n汽车下方：来自上传照片的确切型号名称的居中标题。\n在其下方，是一段关于汽车特点（效率、风格、可靠性）的简短描述性段落。\n底部部分显示规格的洁净网格布局。如果从检测到的汽车型号中知道真实规格，则生成准确值；否则，以相同的布局样式生成占位符（4列：马力，0-100公里/小时，最高速度，发动机排量/燃料类型）。\n整个海报是极简主义的、编辑风格的、高键工作室照明，具有超锐利的反射、清晰的阴影、现代字体和4K可信度，将洁净设计与动态漂移能量融为一体，比例9:16",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:25.718Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A prompt for transforming a car photo into a professional minimalist advertising poster with drifting effects and technical specifications.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于将汽车照片转换为具有漂移效果和技术规格的专业极简主义广告海报的提示词",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:27.795Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -183,10 +197,11 @@
     "status": "classified",
     "categoryId": "infographic-education",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "infographic",
-      "信息图"
+      "信息图",
+      "技术"
     ],
     "classifiedAt": "2026-05-06T11:03:21.564Z"
   }

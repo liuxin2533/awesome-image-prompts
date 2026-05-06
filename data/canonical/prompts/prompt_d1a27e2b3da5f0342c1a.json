@@ -6,7 +6,14 @@
       "value": "A cute anime-style {argument name=\"character type\" default=\"Japanese schoolgirl\"} drawn as a hand-made oil pastel illustration on textured paper, bust-up portrait, centered composition. She has {argument name=\"hair color\" default=\"dark brown\"} hair in 2 low twin ponytails with soft waves and a center part, small dark hair ties, and visible ears. Her face is mostly hidden by a large vertical skin-toned rectangular censor block placed over the center of the face from forehead to chin, leaving only the hair, ears, jawline edges, and a little neck visible. She wears a light beige school uniform jacket over a white frilled blouse with lace-like ruffles at the collar and cuffs, accented by a deep red ribbon bow at the neck. Her right hand is raised in a small clenched-fist pose near her chin, creating a shy, adorable, cheering gesture. Background is fully filled with rough diagonal pink pastel scribbles over warm off-white paper. Emphasize thick waxy oil pastel texture, visible grain of paper, soft blending, broken color strokes, sketch-like outlines, charming imperfect handmade crayon drawing quality, gentle warm lighting, nostalgic and extremely cute mood.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个可爱的动漫风格{argument name=\"character type\" default=\"Japanese schoolgirl\"}，以手工油画棒插画形式绘制在纹理纸上，半身肖像，居中构图。她有{argument name=\"hair color\" default=\"dark brown\"}头发，梳成两个低位双马尾，带有柔和的波浪和中分，配有深色小发圈，耳朵可见。她的脸大部分被一个垂直的肤色矩形遮挡块遮住，该遮挡块从额头到下巴覆盖在脸部中央，只露出头发、耳朵、下颌边缘和一点颈部。她穿着浅米色校服外套，内搭白色荷叶边衬衫，领口和袖口有蕾丝般的褶边，颈部点缀着深红色丝带蝴蝶结。她的右手举到下巴附近，握成小拳头，做出一个害羞、可爱、加油的手势。背景完全被温暖的米白色纸上的粗斜粉色蜡笔涂鸦填满。强调厚重的蜡质油画棒质感，可见的纸张纹理，柔和的混合，断开的笔触，素描般的轮廓，迷人的不完美手工蜡笔绘画质感，温暖柔和的光线，怀旧且极其可爱的氛围。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:49.217Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a nostalgic, adorable anime schoolgirl bust portrait in an oil pastel crayon style, useful for creating soft handmade character art with a playful censored-face composition.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个怀旧的、可爱的动漫女生半身肖像，采用油画蜡笔风格，有助于创作柔软的手工角色艺术，带有俏皮的打码脸部构图。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:40.530Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,10 +170,11 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "illustration",
-      "anime"
+      "anime",
+      "插画"
     ],
     "classifiedAt": "2026-05-06T11:03:21.570Z"
   }

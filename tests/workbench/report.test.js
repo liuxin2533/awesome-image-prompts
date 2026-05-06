@@ -43,6 +43,22 @@ test('summarizeReport groups severities, codes, translation languages, and asset
         resolutionCommand: 'pnpm assets:mirror -- --missing'
       },
       {
+        severity: 'warning',
+        code: 'unclassified_category',
+        message: 'Prompt needs category review.',
+        promptId: 'prompt_e',
+        fieldPath: 'classification.categoryId',
+        resolutionCommand: 'pnpm classify -- --prompt-id prompt_e --category <category-id>'
+      },
+      {
+        severity: 'warning',
+        code: 'unclassified_category',
+        message: 'Prompt needs category review.',
+        promptId: 'prompt_f',
+        fieldPath: 'classification.categoryId',
+        resolutionCommand: 'pnpm classify -- --prompt-id prompt_f --category <category-id>'
+      },
+      {
         severity: 'error',
         code: 'invalid_prompt',
         message: 'Prompt is invalid.',
@@ -51,19 +67,31 @@ test('summarizeReport groups severities, codes, translation languages, and asset
     ]
   });
 
-  assert.deepEqual(summary.summary, { error: 1, warning: 4, info: 0 });
+  assert.deepEqual(summary.summary, { error: 1, warning: 6, info: 0 });
   assert.equal(summary.grouped.byCode.missing_translation, 3);
   assert.equal(summary.grouped.byCode.asset_not_cached, 1);
+  assert.equal(summary.grouped.byCode.unclassified_category, 2);
   assert.equal(summary.grouped.byResolutionCommand['pnpm translate -- --missing --lang zh-CN'], 2);
+  assert.equal(summary.grouped.byResolutionAction.translate, 3);
+  assert.equal(summary.grouped.byResolutionAction.classify, 2);
   assert.equal(summary.grouped.translationByLanguage['zh-CN'], 2);
   assert.equal(summary.grouped.translationByLanguage.en, 1);
   assert.equal(summary.grouped.translationByField.title, 1);
   assert.equal(summary.grouped.translationByField.category, 1);
   assert.equal(summary.grouped.translationByField.promptText, 1);
   assert.equal(summary.grouped.assetIssueCount, 1);
-  assert.deepEqual(summary.filters.codes, ['asset_not_cached', 'invalid_prompt', 'missing_translation']);
+  assert.deepEqual(summary.filters.codes, ['asset_not_cached', 'invalid_prompt', 'missing_translation', 'unclassified_category']);
   assert.deepEqual(summary.filters.severities, ['error', 'warning']);
-  assert.equal(summary.issues.length, 5);
+  assert.deepEqual(summary.filters.resolutionActions, [
+    { value: 'classify', label: '人工归类', count: 2 },
+    { value: 'manual', label: '人工处理', count: 1 },
+    { value: 'mirror-assets', label: '镜像资源', count: 1 },
+    { value: 'translate', label: '补齐翻译', count: 3 }
+  ]);
+  assert.equal(summary.filters.resolutionCommands.filter(command => command.includes('--prompt-id')).length, 2);
+  assert.equal(summary.issues.length, 7);
+  assert.equal(summary.issues[4].resolutionAction, 'classify');
+  assert.equal(summary.issues[4].resolutionActionLabel, '人工归类');
 });
 
 test('readReport includes latest extraction run summary for the workbench dashboard', () => {

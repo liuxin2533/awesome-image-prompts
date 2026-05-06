@@ -21,7 +21,14 @@
       "value": "Luxury Miniature Dubai City Model",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "奢华微缩迪拜城市模型",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:36.917Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "A dreamy minimalist square image of a single iridescent soap bubble floating in the center against a deep blue soft-focus background, with bright natural sunlight pouring from the upper left and creating delicate lens flare, circular bokeh, and glowing highlights. The main bubble is sharply rendered with rainbow reflections and a tiny star-like sparkle on its lower right edge, while 6 additional out-of-focus bubbles appear around the frame: 1 large partial bubble at the lower left corner, 1 small bubble near the upper center, 1 faint bubble at the left middle, and 3 soft glowing bubbles clustered along the lower middle to lower right area. Across the center, overlay large handwritten Japanese brush-style text in white that reads {argument name=\"headline text\" default=\"はじける泡。\"}, with an emotional hand-drawn ink feel, slightly uneven strokes, and natural organic spacing. The overall mood is poetic, airy, luminous, and nostalgic, with shallow depth of field, premium photography aesthetics, clean composition, and strong contrast between the crisp central bubble and the blurred dreamy background.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个梦幻的极简主义方形图像，中心漂浮着一个彩虹色的肥皂泡，背景是深蓝色柔焦，明亮的自然阳光从左上方倾泻而下，创造出精致的镜头光晕、圆形虚化和发光高光。主泡泡被清晰渲染，带有彩虹色反射和右下角边缘的一个微小星状闪光，同时有6个额外的失焦泡泡出现在画面周围：左下角有一个大的部分泡泡，上中心附近有一个小泡泡，左中有一个微弱的泡泡，以及3个柔和发光的泡泡聚集在中下部到右下区域。在中心上方，叠加大型手写日式毛笔风格白色文字，内容为{argument name=\"headline text\" default=\"はじける泡。\"}，带有情感化的手绘墨水感，笔画略微不均匀，以及自然的有机间距。整体氛围是诗意的、轻盈的、明亮的和怀旧的，具有浅景深、高级摄影美学、干净的构图，以及清晰的中心泡泡与模糊梦幻背景之间的强烈对比。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:44:21.380Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a poetic bubble photograph with glowing bokeh and expressive handwritten Japanese text, suitable for emotional social media visuals or atmospheric cover art.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个充满诗意的气泡照片，带有发光的散景和富有表现力的手写日文文字，适合情感化的社交媒体视觉或氛围感封面艺术。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:44:24.084Z"
+      }
+    }
   },
   "sourceCategories": [
     {

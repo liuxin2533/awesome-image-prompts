@@ -6,7 +6,14 @@
       "value": "{\"type\":\"educational infographic\",\"subject\":\"periodic table of the elements in Japanese\",\"style\":\"clean flat textbook poster, crisp vector lines, white background, black text, minimalist scientific layout\",\"language\":\"Japanese\",\"canvas\":{\"orientation\":\"landscape\",\"aspect_ratio\":\"16:9\",\"background\":\"white\",\"margin\":\"generous outer whitespace\"},\"table\":{\"grid\":\"standard 18-column periodic table\",\"cell_style\":{\"border\":\"thin dark gray outline\",\"corner_style\":\"square\",\"fill\":\"pastel by block\",\"number_position\":\"top-left\",\"symbol_position\":\"large centered uppercase Latin letters\",\"name_position\":\"small Japanese text near bottom\"},\"color_coding\":{\"s_block\":\"pale blue\",\"d_block\":\"pale cream yellow\",\"p_block\":\"pale mint green\",\"f_block\":\"pale lavender\"},\"sections\":[{\"title\":\"main periodic table\",\"position\":\"upper center\",\"count\":90,\"labels\":[\"H\",\"He\",\"Li\",\"Be\",\"B\",\"C\",\"N\",\"O\",\"F\",\"Ne\",\"Na\",\"Mg\",\"Al\",\"Si\",\"P\",\"S\",\"Cl\",\"Ar\",\"K\",\"Ca\",\"Sc\",\"Ti\",\"V\",\"Cr\",\"Mn\",\"Fe\",\"Co\",\"Ni\",\"Cu\",\"Zn\",\"Ga\",\"Ge\",\"As\",\"Se\",\"Br\",\"Kr\",\"Rb\",\"Sr\",\"Y\",\"Zr\",\"Nb\",\"Mo\",\"Tc\",\"Ru\",\"Rh\",\"Pd\",\"Ag\",\"Cd\",\"In\",\"Sn\",\"Sb\",\"Te\",\"I\",\"Xe\",\"Cs\",\"Ba\",\"La\",\"Hf\",\"Ta\",\"W\",\"Re\",\"Os\",\"Ir\",\"Pt\",\"Au\",\"Hg\",\"Tl\",\"Pb\",\"Bi\",\"Po\",\"At\",\"Rn\",\"Fr\",\"Ra\",\"Ac\",\"Rf\",\"Db\",\"Sg\",\"Bh\",\"Hs\",\"Mt\",\"Ds\",\"Rg\",\"Cn\",\"Nh\",\"Fl\",\"Mc\",\"Lv\",\"Ts\",\"Og\"]},{\"title\":\"lanthanides row\",\"position\":\"bottom left below main table\",\"count\":14,\"labels\":[\"Ce\",\"Pr\",\"Nd\",\"Pm\",\"Sm\",\"Eu\",\"Gd\",\"Tb\",\"Dy\",\"Ho\",\"Er\",\"Tm\",\"Yb\",\"Lu\"]},{\"title\":\"actinides row\",\"position\":\"bottom left under lanthanides\",\"count\":14,\"labels\":[\"Th\",\"Pa\",\"U\",\"Np\",\"Pu\",\"Am\",\"Cm\",\"Bk\",\"Cf\",\"Es\",\"Fm\",\"Md\",\"No\",\"Lr\"]}],\"highlighted_special_positions\":{\"hydrogen\":\"top-left isolated blue cell\",\"helium\":\"top-right isolated blue cell\",\"lanthanum\":\"in main table after Ba\",\"actinium\":\"in main table after Ra\"},\"content_requirements\":{\"each_cell_contains\":[\"atomic number\",\"chemical symbol\",\"Japanese element name\"],\"examples\":[{\"symbol\":\"H\",\"name\":\"水素\",\"number\":1},{\"symbol\":\"He\",\"name\":\"ヘリウム\",\"number\":2},{\"symbol\":\"Fe\",\"name\":\"鉄\",\"number\":26},{\"symbol\":\"Au\",\"name\":\"金\",\"number\":79},{\"symbol\":\"Og\",\"name\":\"オガネソン\",\"number\":118}]},\"customization\":{\"headline\":\"none\",\"legend\":\"none visible\",\"title\":\"none visible on image\"},\"quality\":\"high-resolution, perfectly aligned cells, legible Japanese typography, accurate modern element list up to 118\"}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"教育信息图\",\"subject\":\"日语元素周期表\",\"style\":\"简洁的平面教科书海报，清晰的矢量线条，白色背景，黑色文字，极简科学布局\",\"language\":\"日语\",\"canvas\":{\"orientation\":\"横向\",\"aspect_ratio\":\"16:9\",\"background\":\"白色\",\"margin\":\"充足的外部空白\"},\"table\":{\"grid\":\"标准18列周期表\",\"cell_style\":{\"border\":\"细深灰色轮廓\",\"corner_style\":\"方形\",\"fill\":\"按区块使用柔和色彩\",\"number_position\":\"左上角\",\"symbol_position\":\"大号居中拉丁字母大写\",\"name_position\":\"底部附近的小号日语文字\"},\"color_coding\":{\"s_block\":\"淡蓝色\",\"d_block\":\"淡奶油黄色\",\"p_block\":\"淡薄荷绿色\",\"f_block\":\"淡薰衣草色\"},\"sections\":[{\"title\":\"主周期表\",\"position\":\"上方中央\",\"count\":90,\"labels\":[\"H\",\"He\",\"Li\",\"Be\",\"B\",\"C\",\"N\",\"O\",\"F\",\"Ne\",\"Na\",\"Mg\",\"Al\",\"Si\",\"P\",\"S\",\"Cl\",\"Ar\",\"K\",\"Ca\",\"Sc\",\"Ti\",\"V\",\"Cr\",\"Mn\",\"Fe\",\"Co\",\"Ni\",\"Cu\",\"Zn\",\"Ga\",\"Ge\",\"As\",\"Se\",\"Br\",\"Kr\",\"Rb\",\"Sr\",\"Y\",\"Zr\",\"Nb\",\"Mo\",\"Tc\",\"Ru\",\"Rh\",\"Pd\",\"Ag\",\"Cd\",\"In\",\"Sn\",\"Sb\",\"Te\",\"I\",\"Xe\",\"Cs\",\"Ba\",\"La\",\"Hf\",\"Ta\",\"W\",\"Re\",\"Os\",\"Ir\",\"Pt\",\"Au\",\"Hg\",\"Tl\",\"Pb\",\"Bi\",\"Po\",\"At\",\"Rn\",\"Fr\",\"Ra\",\"Ac\",\"Rf\",\"Db\",\"Sg\",\"Bh\",\"Hs\",\"Mt\",\"Ds\",\"Rg\",\"Cn\",\"Nh\",\"Fl\",\"Mc\",\"Lv\",\"Ts\",\"Og\"]},{\"title\":\"镧系元素行\",\"position\":\"主周期表下方左侧\",\"count\":14,\"labels\":[\"Ce\",\"Pr\",\"Nd\",\"Pm\",\"Sm\",\"Eu\",\"Gd\",\"Tb\",\"Dy\",\"Ho\",\"Er\",\"Tm\",\"Yb\",\"Lu\"]},{\"title\":\"锕系元素行\",\"position\":\"镧系元素下方左侧\",\"count\":14,\"labels\":[\"Th\",\"Pa\",\"U\",\"Np\",\"Pu\",\"Am\",\"Cm\",\"Bk\",\"Cf\",\"Es\",\"Fm\",\"Md\",\"No\",\"Lr\"]}],\"highlighted_special_positions\":{\"hydrogen\":\"左上角独立的蓝色单元格\",\"helium\":\"右上角独立的蓝色单元格\",\"lanthanum\":\"主周期表中位于Ba之后\",\"actinium\":\"主周期表中位于Ra之后\"},\"content_requirements\":{\"each_cell_contains\":[\"原子序数\",\"化学符号\",\"日语元素名称\"],\"examples\":[{\"symbol\":\"H\",\"name\":\"水素\",\"number\":1},{\"symbol\":\"He\",\"name\":\"ヘリウム\",\"number\":2},{\"symbol\":\"Fe\",\"name\":\"鉄\",\"number\":26},{\"symbol\":\"Au\",\"name\":\"金\",\"number\":79},{\"symbol\":\"Og\",\"name\":\"オガネソン\",\"number\":118}]},\"customization\":{\"headline\":\"无\",\"legend\":\"无可见图例\",\"title\":\"图像上无可见标题\"},\"quality\":\"高分辨率，完美对齐的单元格，清晰的日语排版，准确的现代元素列表（最多118个）\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:36:13.733Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A clean educational poster showing the full periodic table in Japanese with pastel color coding by block, suitable for textbooks, classroom visuals, and science reference graphics.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张干净的教育海报，展示完整的日语元素周期表，按区块使用柔和的色彩编码，适合教科书、教室视觉和科学参考图形。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:36:10.379Z"
+      }
+    }
   },
   "sourceCategories": [
     {

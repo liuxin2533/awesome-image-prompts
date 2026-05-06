@@ -21,7 +21,14 @@
       "value": "Old Delhi Sweet Shop Storefront Documentary Photo",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "老德里甜品店店面纪实照片",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:20.344Z"
+      }
+    }
   },
   "description": {
     "original": null,

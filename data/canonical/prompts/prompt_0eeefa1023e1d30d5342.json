@@ -6,7 +6,14 @@
       "value": "Use the uploaded portrait only as a face reference. Keep the person's facial identity, face shape, eyes, nose, lips, and skin tone. Do not copy the original hairstyle, clothing, background, or lighting.\n\nCreate a cinematic stormy seaside portrait, vertical 2:3. Subject slightly right of frame, body turned away, head turned back, clear side-profile / three-quarter face. Very long, messy, windblown light pastel pink hair, black sleeveless or thin-strap dress.\n\nBackground: dark ocean, dramatic cloudy sky, distant horizon, many flying seagulls, including one large foreground seagull in the upper left. Strong cinematic lighting, bright rim light on the pale pink hair, refined high contrast, warm light breaking through clouds, subtle red ember-like particles, slight film grain, realistic photography, premium editorial quality, high visual impact.\n\nNegative Prompt:\nfrontal face, wrong identity, copied hairstyle, braids, dark pink hair, red hair, magenta hair, short hair, bad anatomy, deformed face, bad hands, extra fingers, awkward pose, flat lighting, blurry face, low quality, anime, cartoon, CGI, malformed birds, duplicated birds, text, logo, watermark",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "仅将上传的肖像用作面部参考。保留人物的面部特征、脸型、眼睛、鼻子、嘴唇和肤色。不要复制原始发型、服装、背景或灯光。\n\n创建一个电影感的暴风雨海边肖像，垂直比例2:3。主体位于画面右侧，身体转向一侧，头部转向后方，清晰展现侧面/四分之三面。非常长、凌乱、被风吹拂的浅粉色头发，黑色无袖或细肩带连衣裙。\n\n背景：深色海洋，戏剧性的多云天空，遥远的地平线，许多飞翔的海鸥，包括左上角一只大的前景海鸥。强烈的电影感灯光，浅粉色头发上有明亮的轮廓光，精致的高对比度，温暖的阳光穿透云层，微妙的红色余烬般粒子，轻微的胶片颗粒感，真实摄影，高级编辑品质，高视觉冲击力。\n\n负面提示：\n正面脸，错误身份，复制的发型，辫子，深粉色头发，红色头发，洋红色头发，短发，糟糕的解剖结构，变形的脸，糟糕的手，多余的手指，尴尬的姿势，平面照明，模糊的脸，低质量，动漫，卡通，CGI，畸形的鸟，重复的鸟，文字，标志，水印",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:19.782Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Cinematic Stormy Seaside Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影感暴风雨海边肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:12.572Z"
+      }
+    }
   },
   "description": {
     "original": null,

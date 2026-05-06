@@ -21,7 +21,14 @@
       "value": "Based on the video content and this current frame, use GPT to generate a YouT...",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "基于视频内容和当前帧，使用GPT生成一个YouT...",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:08.819Z"
+      }
+    }
   },
   "description": {
     "original": null,

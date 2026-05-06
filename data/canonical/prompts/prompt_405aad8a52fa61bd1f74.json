@@ -6,7 +6,14 @@
       "value": "A realistic organic selfie of a {argument name=\"subject age\" default=\"middle-aged\"} woman sitting on a house porch during golden hour, photographed at arm’s length with a casual smartphone front camera. She has {argument name=\"hair color\" default=\"auburn brown\"} shoulder-length softly wavy hair with volume and slightly tousled texture, warm sunlit skin, and a natural unpolished everyday appearance. She wears a simple {argument name=\"top color\" default=\"black\"} tank top with bare shoulders visible. The composition is a close chest-up portrait, centered but slightly off-kilter like a real handheld selfie, with one arm partially visible in the foreground. The lighting is low-angle warm evening sunlight casting soft highlights and gentle shadows across the face, chest, and arms. The background shows an outdoor residential porch with white siding on the left, a pale vertical porch column on the right, and a hanging basket or wall planter filled with small pink and purple flowers and green foliage. The image should feel candid, authentic, and minimally processed, with realistic skin texture, natural flyaway hairs, slight asymmetry, and subtle smartphone lens distortion, avoiding glamour retouching, beauty filters, or overly polished AI aesthetics.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个真实的有机自拍，拍摄于黄金时段，一位{argument name=\"subject age\" default=\"middle-aged\"}女性坐在房屋门廊上，用智能手机前置摄像头以手臂长度拍摄。她有{argument name=\"hair color\" default=\"auburn brown\"}齐肩的柔软波浪卷发，有体积感和略微凌乱的纹理，被阳光晒暖的皮肤，以及自然未经修饰的日常外观。她穿着一件简单的{argument name=\"top color\" default=\"black\"}背心，露出裸露的肩膀。构图是近距离的胸部以上肖像，居中但略微倾斜，就像真实的手持自拍，前景中有一只手臂部分可见。光线是低角度的温暖傍晚阳光，在面部、胸部和手臂上投射出柔和的高光和柔和的阴影。背景显示户外住宅门廊，左侧有白色壁板，右侧有浅色垂直门廊柱，以及一个悬挂的篮子或壁挂式种植箱，里面装有小粉色和紫色花朵以及绿色叶丛。图像应该感觉自然、真实且经过最少处理，具有真实的皮肤纹理、自然的飞发、轻微的不对称性和细微的智能手机镜头失真，避免魅力修饰、美颜滤镜或过度修饰的AI美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:58.605Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a candid, natural-looking smartphone selfie on a sunlit porch, useful for creating authentic organic portrait photos that do not look overly polished.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一个在阳光照射的门廊上的自然、随意的智能手机自拍，可用于创建看起来真实自然的有机人像照片，而不是过度修饰的照片。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:02.080Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,11 +170,12 @@
     "status": "classified",
     "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "人像"
     ],
     "classifiedAt": "2026-05-06T11:03:21.565Z"
   }

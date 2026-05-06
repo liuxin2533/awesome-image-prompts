@@ -6,7 +6,14 @@
       "value": "GPT Image 2 + Kling = 🔥 This was done for Tokyo. \n\n[VAR_CITY] = \"Tokyo, Japan\"     [NODE 1: BASE_TOPOLOGY] Generate a complex, self-intersecting 3D endless loop (e.g., a thick Trefoil Knot or Gordian Knot). Material_Output: Raw, unfinished layered birch plywood. Visible wood grain.  [NODE 2: INSTANCER_LOGIC] AI_INFERENCE_TRIGGER: Analyze [VAR_CITY]. Extract its iconic architectural style, specific landmarks, and road infrastructure.  Action: Instance these urban elements directly onto the surface normals of the [BASE_TOPOLOGY].  [NODE 3: GRAVITY_WARP] The gravity vector is strictly relative to the surface of the knot. Buildings must project outward from the wood, regardless of whether the surface is facing up, down, or sideways. The roads must follow the curvature perfectly. Tiny metallic cars dot the highways.  [RENDER_ENGINE] Execute Tree. Output as a physical macro-photography studio shot. The object sits on a blank museum pedestal. Soft, diffuse top-lighting. Shallow depth of field to emphasize the miniature scale.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GPT Image 2 + Kling = 🔥 这是为东京制作的。\n\n[VAR_CITY] = \"东京，日本\"     [NODE 1: BASE_TOPOLOGY] 生成一个复杂的、自相交的3D无限循环（例如，一个厚的三叶结或戈尔迪结）。Material_Output: 原始、未完成的层压桦木胶合板。可见的木纹。  [NODE 2: INSTANCER_LOGIC] AI_INFERENCE_TRIGGER: 分析[VAR_CITY]。提取其标志性建筑风格、具体地标和道路基础设施。  操作：将这些城市元素直接实例化到[BASE_TOPOLOGY]的表面法线上。  [NODE 3: GRAVITY_WARP] 重力向量严格相对于结的表面。建筑物必须从木材向外投射，无论表面是朝上、朝下还是朝侧面。道路必须完美地跟随曲率。微小的金属汽车点缀在高速公路上。  [RENDER_ENGINE] 执行树。输出为物理微距摄影工作室拍摄。物体放置在空白的博物馆底座上。柔和、漫射的顶部照明。浅景深以强调微型比例。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:17.623Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Miniature City Knot Sculpture",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "微型城市结雕塑",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:14.275Z"
+      }
+    }
   },
   "description": {
     "original": null,

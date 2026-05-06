@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Elegant Cosmetic Poster Prompt",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 优雅化妆品海报提示词",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:58.964Z"
+      }
+    }
   },
   "description": {
     "original": null,

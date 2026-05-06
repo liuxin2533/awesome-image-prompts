@@ -6,7 +6,14 @@
       "value": "A world-class luxury advertising campaign poster, 4:5 ratio, for [BRAND/PRODUCT], shot in a high-end photography studio, [COLOR] dramatic lighting with vivid color gels casting bold shadows, single hero product floating center frame with hyper-reflective surface catching light streaks, cinematic lens flare, deep rich background with gradient bloom, chrome and glass material feel, oversized bold editorial typography with the brand name, razor-sharp tagline in elegant thin font, extreme detail and texture on the product, smoke or liquid elements subtly in background, feels like Apple x Nike x Lamborghini had a campaign, shot on Hasselblad, photorealistic, magazine cover quality",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "世界级豪华广告活动海报，4:5比例，为[BRAND/PRODUCT]拍摄，在高端摄影棚中，[COLOR]戏剧性灯光，鲜艳的彩色凝胶投射出大胆的阴影，单个主角产品悬浮在中心框架，具有超反射表面捕捉光线条纹，电影镜头光晕，深沉丰富的背景与渐变辉光，铬和玻璃材质感，超大粗体编辑排版与品牌名称，优雅细体字的锐利标语，产品上的极致细节和纹理，背景中微妙地有烟雾或液体元素，感觉像是Apple x Nike x Lamborghini联合推出的广告活动，使用Hasselblad拍摄，照片级真实感，杂志封面质量",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:03.530Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Luxury Brand Ad Campaign Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "奢侈品牌广告活动海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:05.876Z"
+      }
+    }
   },
   "description": {
     "original": null,

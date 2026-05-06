@@ -6,7 +6,14 @@
       "value": "原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "The original text is not disclosed, the case objective is to generate a high-completion personal homepage visual design image.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:58:10.534Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "个人网页视觉设计",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Personal Webpage Visual Design",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:58:12.296Z"
+      }
+    }
   },
   "description": {
     "original": null,

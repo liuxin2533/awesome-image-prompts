@@ -21,7 +21,14 @@
       "value": "Anime Campers in a Winter Tent",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫露营者在冬季帐篷中",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:26.776Z"
+      }
+    }
   },
   "description": {
     "original": null,

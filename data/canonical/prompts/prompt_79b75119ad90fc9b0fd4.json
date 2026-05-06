@@ -21,7 +21,14 @@
       "value": "Dreamy Backlit Editorial Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "梦幻背光编辑肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:46.076Z"
+      }
+    }
   },
   "description": {
     "original": null,

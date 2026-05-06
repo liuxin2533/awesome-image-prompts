@@ -6,7 +6,14 @@
       "value": "Mini \"chibi 3D\" versions of the same person appear around the original photo — sitting, climbing, playing, interacting with objects — with realistic shadows and depth. Keep base image unchanged. Add soft handwritten text: \"Little versions of me… living my quiet moments.\" Include tiny props text like \"You got this ♡\". Cinematic, cozy, viral aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "迷你\"chibi 3D\"版本的同一个人出现在原始照片周围 — 坐着、攀爬、玩耍、与物体互动 — 带有真实的阴影和深度。保持基础图像不变。添加柔和的手写文字：\"我的小版本...过着我的安静时刻。\"包含微小的道具文字如\"你可以的 ♡\"。电影感、舒适、病毒式美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:40.106Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Chibi 3D Mini Me Photo Effect",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Q版3D迷你形象照片效果",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:27:44.211Z"
+      }
+    }
   },
   "description": {
     "original": null,

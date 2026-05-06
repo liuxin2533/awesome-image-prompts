@@ -20,7 +20,14 @@
       "value": "樱花树下害羞双马尾少女",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Shy girl with twin tails under cherry blossom tree",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:55:31.087Z"
+      }
+    }
   },
   "description": {
     "original": null,

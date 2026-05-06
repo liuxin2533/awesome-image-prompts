@@ -6,7 +6,14 @@
       "value": "<instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: \"$lesser known's famous architecture\" (it's texture, material and color) > Anchor 2: \"$lesser known's famous fashion \" (it's texture, material and color) > Anchor 3: \"$lesser known's famous food \" (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Field: promptText.translations.en\n\n<instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: \"$lesser known's famous architecture\" (it's texture, material and color) > Anchor 2: \"$lesser known's famous fashion \" (it's texture, material and color) > Anchor 3: \"$lesser known's famous food \" (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:44.292Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "四国文化锚点服装设计宫格",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Four-Culture Anchor Fashion Design Grid",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:42.910Z"
+      }
+    }
   },
   "description": {
     "original": null,

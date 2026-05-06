@@ -21,7 +21,14 @@
       "value": "Young Woman in Sequin Dress on Stairs",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "年轻女子穿着亮片裙在楼梯上",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:19:01.352Z"
+      }
+    }
   },
   "description": {
     "original": null,

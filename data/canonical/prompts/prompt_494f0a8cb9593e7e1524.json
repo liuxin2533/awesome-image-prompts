@@ -94,7 +94,14 @@
       "value": "Adding style cues such as `in Wang Xizhi style`, `in Yan Zhenqing style`, or `with stronger emotional expression` improves the result.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "添加风格提示，如`在王羲之风格`、`在颜真卿风格`或`更强的情感表达`，可以改善结果。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:39.340Z"
+      }
+    }
   },
   "sourceCategories": [
     {

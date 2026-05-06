@@ -36,6 +36,12 @@
         "language": "pt",
         "value": "Crie uma cena de rua medieval de fantasia sombria cinematográfica no estilo de arte conceitual de jogo 3D ultrarrealista, widescreen 16:9. Em primeiro plano, mostre dois aventureiros élficos adultos caminhando lado a lado em direção ao espectador por uma estrada de paralelepípedos lamacenta em uma vila. A personagem à esquerda é uma elfa de pele clara com longos cabelos trançados {argument name=\"left character hair color\" default=\"loiro acinzentado\"}, orelhas pontudas, vestes de druida verde-oliva em camadas, cintos de couro, bolsas, amuletos de metal pendentes, colares, tiras de tecido rasgado, detalhes de folhas e penas, e tatuagens mágicas brilhantes em forma de videira branca espiralando pelos dois antebraços. A personagem à direita é uma elfa de pele mais escura com longos e grossos cabelos com dreadlocks {argument name=\"right character hair color\" default=\"castanho escuro\"}, orelhas pontudas, uma roupa de patrulheira de couro verde e marrom, manto de pele nos ombros, ornamentos de penas, faixas nos braços, cintos, correntes, talismãs e uma postura confiante de guerreira. Ambos os rostos estão intencionalmente ocultos por blocos de censura quadrados opacos {argument name=\"face covering color\" default=\"castanho escuro\"}, centralizados sobre seus rostos. Defina o fundo em uma vila de mercado medieval ricamente detalhada com casas de madeira e palha, feixes de ervas secas pendurados na vitrine do lado direito, barris, cestas, barracas de madeira, habitantes distantes e um grande castelo de pedra com torres e ameias surgindo ao fundo. Use {argument name=\"lighting mood\" default=\"luz solar dourada quente de fim de tarde\"}, sombras dramáticas, neblina volumétrica, profundidade de campo rasa, texturas realistas de tecido e couro, alto detalhe, atmosfera de fantasia melancólica, composição cinematográfica, qualidade Unreal Engine, sem texto, sem logotipos.",
         "source": "upstream"
+      },
+      "en": {
+        "language": "en",
+        "value": "Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game concept art style, widescreen 16:9. In the foreground, show two adult elven adventurers walking side by side toward the viewer through a muddy cobblestone village road. The left character is a pale-skinned elf woman with long messy {argument name=\"left character hair color\" default=\"ash blonde\"} braided hair, pointed ears, layered olive-green druid robes, leather belts, pouches, dangling metal charms, necklaces, torn fabric strips, leaf-and-feather details, and glowing white vine-like magical tattoos spiraling down both forearms. The right character is a darker-skinned elf woman with long thick {argument name=\"right character hair color\" default=\"dark brown\"} dreadlocked hair, pointed ears, a green-and-brown leather ranger outfit, fur shoulder mantle, feather ornaments, arm wraps, belts, chains, talismans, and a confident warrior posture. Both faces are intentionally hidden by plain opaque {argument name=\"face covering color\" default=\"dark brown\"} square censor blocks, centered over their faces. Set the background in a richly detailed medieval market village with timber-and-thatch houses, hanging bundles of dried herbs on the right-side shopfront, barrels, baskets, wooden stalls, distant townspeople, and a large stone castle with towers and battlements rising in the background. Use {argument name=\"lighting mood\" default=\"warm late-afternoon golden sunlight\"}, dramatic shadows, volumetric haze, shallow depth of field, realistic fabric and leather textures, high detail, moody fantasy atmosphere, cinematic composition, Unreal Engine quality, no text, no logos.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:56:18.224Z"
       }
     }
   },
@@ -75,6 +81,12 @@
         "language": "pt",
         "value": "Banda desenhada / Storyboard - Aventureiros Élficos Censurados em Vila Medieval",
         "source": "upstream"
+      },
+      "en": {
+        "language": "en",
+        "value": "Medieval Village Double Elf Adventurers",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:56:20.114Z"
       }
     }
   },

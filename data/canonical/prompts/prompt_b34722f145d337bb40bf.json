@@ -6,7 +6,14 @@
       "value": "Create a premium Korean palm reading guide image based on the uploaded palm photo.\r\n\r\nAll visible text in the final image must be Korean only. Use clean Korean sans-serif typography. The title must be exactly “손금 분석 가이드”.\r\n\r\nCreate a refined two-panel layout:\r\nLeft panel: place the uploaded real palm photo inside a clean rounded card. Preserve the original hand shape, palm lines, skin texture, and natural details. Do not distort or redraw the hand.\r\nRight panel: create a separate black-and-white palm contour interpretation diagram based on the same hand. Highlight the main palm lines with thin precise lines and label them in Korean.\r\n\r\nInclude Korean labels and sections:\r\n“손금 분석 가이드”, “전체 요약”, “생명선”, “두뇌선”, “감정선”, “운명선”, “재물선”, “태양선”, “결혼선”, “성격”, “직업운”, “재물운”, “연애운”, “조언”, “확인 불가”.\r\n\r\nAnalyze palm shape, finger proportions, life line, head line, heart line, fate line, wealth line, sun line, marriage line, line depth, length, direction, breaks, branches, and overlaps. If something is unclear, write “확인 불가”. Keep the Korean interpretation short, realistic, calm, and advisory.\r\n\r\nDesign style:\r\n1:1 square format, white background, black and warm dark gray text, thin hairline dividers, rounded cards, subtle shadows, large margins, generous negative space, precise grid, minimal line pictograms, luxury editorial report, high-end wellness analysis, elegant and expensive-looking.\r\n\r\nNo English text, no roman letters, no broken Korean, no random glyphs, no colorful decoration, no cartoon style, no occult symbols, no tarot imagery, no horror mood, no messy background, no watermark.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "根据上传的手掌照片创建优质的韩式手相指南图像。\n\n最终图像中的所有可见文本必须仅为韩文。使用简洁的韩文无衬线字体。标题必须完全为\"손금 분석 가이드\"。\n\n创建精致的双面板布局：\n左侧面板：将上传的真实手掌照片放入简洁的圆角卡片内。保持原始手形、掌纹、皮肤纹理和自然细节。不要扭曲或重绘手部。\n右侧面板：基于同一只手创建独立的黑白手掌轮廓解释图。用细密的线条突出主要掌纹，并用韩文标注。\n\n包含韩文标签和部分：\n\"손금 분석 가이드\", \"전체 요약\", \"생명선\", \"두뇌선\", \"감정선\", \"운명선\", \"재물선\", \"태양선\", \"결혼선\", \"성격\", \"직업운\", \"재물운\", \"연애운\", \"조언\", \"확인 불가\".\n\n分析手掌形状、手指比例、生命线、智慧线、感情线、命运线、财富线、太阳线、婚姻线、线条深度、长度、方向、断裂、分支和重叠。如果某些内容不明确，请写\"확인 불가\"。保持韩文解释简短、真实、平静和建议性。\n\n设计风格：\n1:1正方形格式，白色背景，黑色和暖深灰色文字，细线分隔符，圆角卡片，微妙阴影，大边距，充足的负空间，精确网格，简约线条图标，豪华编辑报告，高端健康分析，优雅且昂贵的外观。\n\n无英文文本，无罗马字母，无破损韩文，无随机字形，无彩色装饰，无卡通风格，无神秘符号，无塔罗图像，无恐怖氛围，无杂乱背景，无水印。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:50:10.677Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A highly detailed instruction set for analyzing a hand photo to generate a luxury-style palm reading report in Korean, featuring a two-panel layout with real and diagrammatic views.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一套用于分析手部照片以生成韩式奢华风格手相报告的详细指令集，采用双面板布局，包含真实视图和图示视图。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:50:14.844Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -121,11 +135,12 @@
     "status": "classified",
     "categoryId": "infographic-education",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
       "infographic",
       "diagram",
-      "信息图"
+      "信息图",
+      "报告"
     ],
     "classifiedAt": "2026-05-06T11:03:21.568Z"
   }

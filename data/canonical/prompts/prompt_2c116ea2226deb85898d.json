@@ -20,7 +20,14 @@
       "value": "不知火舞的小红书主页",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Athena Asamiya's Xiaohongshu Profile",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:55:19.686Z"
+      }
+    }
   },
   "description": {
     "original": null,

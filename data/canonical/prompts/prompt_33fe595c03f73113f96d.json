@@ -6,7 +6,14 @@
       "value": "A warm, shallow-depth-of-field autumn photograph of multiple fallen maple leaves scattered across dark asphalt pavement in bright golden sunlight. The leaves are mostly yellow, orange, and amber, with one prominent vivid orange leaf in the left foreground and several yellow leaves stretching diagonally into the distance. The camera is low to the ground, close-up, with crisp focus on the central foreground leaves and soft bokeh blur in the background and extreme foreground. Across the middle of the image, overlay large delicate handwritten Japanese text in white, thin brush-pen style, slightly irregular and emotional, reading {argument name=\"overlay text\" default=\"今日も、寒いね。\"}. Natural outdoor lighting, cozy seasonal mood, realistic textures, high contrast between sunlit leaves and rough pavement, square composition, poetic social-media aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张温暖、浅景深的秋日照片，多片枫叶散落在深色沥青路面上，沐浴在明亮的金色阳光下。叶子主要是黄色、橙色和琥珀色，左前景中有一片醒目的鲜艳橙色叶子，几片黄色叶子斜向延伸至远方。相机靠近地面，特写镜头，中央前景叶子清晰对焦，背景和极前景有柔和的散景模糊。图像中部叠加着精致的白色手写日文文字，采用细毛笔风格，略不规则且富有情感，内容为 {argument name=\"overlay text\" default=\"今日も、寒いね。\"}. 自然户外光线，舒适的季节氛围，逼真的纹理，阳光照射的叶子与粗糙路面之间的高对比度，方形构图，诗意社交媒体美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:02.082Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a cozy autumn close-up photo of fallen maple leaves on pavement with expressive white handwritten Japanese text, ideal for seasonal quote posts or poetic social media visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成了一张温馨的秋天特写照片，照片上是落在人行道上的枫叶，上面有表现力强的白色手写日文文字，非常适合季节性引用帖子或富有诗意的社交媒体视觉效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:00.205Z"
+      }
+    }
   },
   "sourceCategories": [
     {

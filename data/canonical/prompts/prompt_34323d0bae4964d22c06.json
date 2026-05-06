@@ -6,7 +6,14 @@
       "value": "A cinematic vertical photo of a hand holding up a large balloon wine glass filled with a sparkling golden-yellow citrus cocktail in a lush indoor greenhouse bar. The drink is backlit by warm late-afternoon sunlight, making it glow translucent amber. Inside the glass there is 1 visible citrus wedge, and at the rim there is 1 fresh mint garnish cluster. The hand enters from the lower left, delicately gripping the stem, wearing 1 chunky translucent amber bracelet. The setting is dense with tropical greenery, hanging ferns, and vine-covered walls, with a bright greenhouse roof structure visible overhead and 2 warm exposed hanging bulbs softly glowing in the background. Use shallow depth of field with creamy bokeh, strong sun rays filtering through leaves, soft haze, and rich green-and-gold color contrast. Add a blurred foreground leaf or plant along the right edge to frame the composition. The lower background should suggest a busy café or cocktail lounge with indistinct people, but keep them heavily out of focus. Photorealistic, elegant lifestyle photography, moody yet sun-drenched, shot from a low angle looking upward at the raised glass, high detail on condensation, glass reflections, and the luminous drink.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张电影感的垂直照片，展示一只手举着一个大气球形葡萄酒杯，杯中装满了闪亮的金黄色柑橘鸡尾酒，背景是茂密的室内温室酒吧。饮料被温暖的午后阳光照亮，呈现出半透明的琥珀色光泽。杯内有1片可见的柑橘角，杯沿上有1簇新鲜薄荷装饰。手从左下方进入，优雅地握住杯柄，戴着1个厚重的半透明琥珀色手镯。环境布满热带植物、悬挂的蕨类植物和藤蔓覆盖的墙壁，上方可见明亮的温室屋顶结构，背景中有2个温暖的悬挂灯泡发出柔和的光芒。使用浅景深，奶油般的散景效果，强烈的阳光穿过树叶，柔和的薄雾，以及丰富的绿色和金色色彩对比。在右侧边缘添加一片模糊的前景叶子或植物来构图。背景下方应暗示一个繁忙的咖啡馆或鸡尾酒 lounge，有模糊不清的人群，但要保持它们严重失焦。照片风格为写实、优雅的生活方式摄影，氛围感强烈且阳光充足，从低角度向上拍摄举起的酒杯，对冷凝水、玻璃反射和发光饮料的高细节呈现。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:05:33.738Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Golden Cocktail in Greenhouse Bar",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "金色鸡尾酒在温室酒吧",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:24.098Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -31,19 +45,19 @@
   ],
   "categories": [
     {
-      "id": "ui-social-media",
-      "value": "UI & Social Media",
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "ui-social-media-zh-cn",
-      "value": "UI 与社交媒体",
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "ui-social-media"
+      "translationOf": "photography-portrait"
     }
   ],
   "sources": [
@@ -81,14 +95,15 @@
   "updatedAt": "2026-05-06T11:02:37.354Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
-      "ui",
-      "social",
-      "mockup"
+      "photography",
+      "photo",
+      "摄影",
+      "写实"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.553Z"
+    "classifiedAt": "2026-05-06T11:41:23.603Z"
   }
 }

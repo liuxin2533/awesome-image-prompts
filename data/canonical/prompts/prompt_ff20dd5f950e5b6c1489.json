@@ -36,6 +36,12 @@
         "language": "pt",
         "value": "{\n  \"type\": \"infográfico de mapa ilustrado\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"ilustração desenhada à mão em aquarela e nanquim sobre pergaminho vintage\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"Chengdu\\\"} {argument name=\\\"map title\\\" default=\\\"Mapa Gastronômico para Exploradores\\\"}\",\n    \"mascot\": \"pimenta vermelha de desenho animado usando óculos escuros e fazendo sinal de positivo\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"videira de folhas verdes e pimentas vermelhas\\\"}\",\n  \"layout\": {\n    \"background\": \"papel pergaminho bege texturizado com estradas amarelas, rios azuis e áreas de parque verdes\",\n    \"sections\": [\n      {\n        \"title\": \"pontos turísticos\",\n        \"count\": 6,\n        \"illustrations\": [\"pavilhão tradicional\", \"mosteiro tradicional\", \"arranha-céu moderno com panda escalando\", \"torre de TV alta\", \"portão tradicional\", \"edifícios industriais\"],\n        \"labels\": [\"Parque do Povo\", \"Mosteiro Wenshu\", \"IFS\", \"Torre de TV 339\", \"Kuanzhai Alley\", \"Dongjiao Memory\"]\n      },\n      {\n        \"title\": \"locais de comida\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"dumplings no óleo de pimenta\", \"espetinhos na panela\", \"bolinhos de arroz glutinoso\", \"bolo de ovo assado\", \"hotpot de nove grelhas\", \"macarrão de batata-doce\", \"espetinhos frios\", \"prato misto apimentado\", \"xícara de chá com tampa\", \"sobremesa de geleia de gelo\", \"cabeças de coelho apimentadas\"],\n        \"labels\": [\"1 Chen Mapo Tofu\", \"2 Zhong Dumplings\", \"3 Chunxi Road\", \"4 Kuanzhai Alley · San Da Pao\", \"5 Jianshe Road · Ye Popo Egg Cake\", \"6 Yulin Road · Xiaolongkan Hotpot\", \"7 Xiangxiang Alley · Feichang Fen\", \"8 Wuhouci Street · Boboji\", \"9 Dongjiao Memory · Maojiao Hula\", \"10 Parque do Povo · Hemin Tea House\", \"11 Rua Antiga Jinli · Bingfen\", \"12 Shuangliu Laoma Rabbit Head\"]\n      },\n      {\n        \"title\": \"legenda\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"items\": [\"ponto vermelho\", \"casa verde\", \"árvore verde\", \"linha azul\", \"linha dupla amarela\"],\n        \"labels\": [\"Locais de comida\", \"Pontos turísticos\", \"Parques e áreas verdes\", \"Rios e lagos\", \"Vias principais\"]\n      }\n    ],\n    \"centerpiece\": \"panda gigante sentado comendo bambu\",\n    \"bottom_right_extras\": [\"rosa dos ventos vintage com N, S, L, O\", \"texto de aviso 'Dica: Cuidado com a pimenta, proteja seu estômago~' com um ícone de pimenta vermelha\"]\n  }\n}",
         "source": "upstream"
+      },
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"illustrated map infographic\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"watercolor and ink hand-drawn illustration on vintage parchment\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"Chengdu\\\"} {argument name=\\\"map title\\\" default=\\\"Foodie's Walking Map\\\"}\",\n    \"mascot\": \"cartoon red chili pepper wearing sunglasses and giving a thumbs up\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"vine of green leaves and red chili peppers\\\"}\",\n  \"layout\": {\n    \"background\": \"textured beige parchment paper with yellow roads, blue rivers, and green park areas\",\n    \"sections\": [\n      {\n        \"title\": \"landmarks\",\n        \"count\": 6,\n        \"illustrations\": [\"traditional pavilion\", \"traditional monastery\", \"modern skyscraper with climbing panda\", \"tall TV tower\", \"traditional gate\", \"industrial buildings\"],\n        \"labels\": [\"People's Park\", \"Wenshu Monastery\", \"IFS\", \"339 TV Tower\", \"Kuanzhai Alley\", \"Eastern Suburb Memory\"]\n      },\n      {\n        \"title\": \"food_spots\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"dumplings in chili oil\", \"skewers in pot\", \"sticky rice balls\", \"egg baking cake\", \"nine-grid hotpot\", \"sweet potato noodles\", \"cold skewers\", \"spicy mixed dish\", \"covered tea bowl\", \"ice jelly dessert\", \"spicy rabbit heads\"],\n        \"labels\": [\"1 Chen Mapo Tofu\", \"2 Zhong Dumplings\", \"3 Chunxi Road\", \"4 Kuanzhai Alley·San Da Pao\", \"5 Jianshe Road·Ye Po Po Egg Cake\", \"6 Yulin Road·Xiaolongkan Hotpot\", \"7 Xiangxiang Alley·Intestine Noodles\", \"8 Wuhou Temple Street·Bobo Chicken\", \"9 Eastern Suburb Memory·Maojiao Huola\", \"10 People's Park·Heming Teahouse\", \"11 Jinli Ancient Street·Bingfen\", \"12 Shuangliu Rabbit Heads\"]\n      },\n      {\n        \"title\": \"Legend\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"items\": [\"red dot\", \"green house\", \"green tree\", \"blue line\", \"yellow double line\"],\n        \"labels\": [\"Food Spots\", \"Landmarks\", \"Parks and Green Spaces\", \"Rivers and Lakes\", \"Main Roads\"]\n      }\n    ],\n    \"centerpiece\": \"giant panda sitting and eating bamboo\",\n    \"bottom_right_extras\": [\"vintage compass rose with N, S, E, W\", \"disclaimer text 'Friendly Reminder: Be careful with spicy food, protect your stomach~' with a red chili pepper icon\"]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:42:21.505Z"
       }
     }
   },
@@ -75,6 +81,12 @@
         "language": "pt",
         "value": "Mapa Ilustrado de Gastronomia da Cidade",
         "source": "upstream"
+      },
+      "en": {
+        "language": "en",
+        "value": "Infographic visualization design",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:42:23.287Z"
       }
     }
   },
@@ -163,12 +175,11 @@
     "status": "classified",
     "categoryId": "infographic-education",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.9,
     "matchedBy": [
       "infographic",
       "map",
-      "信息图",
-      "可视化"
+      "信息图"
     ],
     "classifiedAt": "2026-05-06T11:03:21.578Z"
   }

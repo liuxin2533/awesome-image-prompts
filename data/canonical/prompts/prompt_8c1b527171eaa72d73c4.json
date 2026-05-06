@@ -21,7 +21,14 @@
       "value": "Japanese Classroom Long Hair Snapshot",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本教室长发快照",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:50.216Z"
+      }
+    }
   },
   "description": {
     "original": null,

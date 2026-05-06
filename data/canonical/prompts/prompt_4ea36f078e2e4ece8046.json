@@ -1,0 +1,160 @@
+{
+  "id": "prompt_4ea36f078e2e4ece8046",
+  "promptText": {
+    "original": {
+      "language": "de",
+      "value": "「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」",
+      "source": "upstream"
+    },
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "看着这张海报，请自己想象并为我制作一个预告片视频。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:23.795Z"
+      },
+      "en": {
+        "language": "en",
+        "value": "\"Look at this poster, imagine your own version, and create a trailer video.\"",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:18.206Z"
+      }
+    }
+  },
+  "title": {
+    "original": {
+      "language": "de",
+      "value": "Poster-zu-Trailer-Konzept",
+      "source": "upstream"
+    },
+    "translations": {
+      "es": {
+        "language": "es",
+        "value": "Concepto de Tráiler a Partir de Póster",
+        "source": "upstream"
+      },
+      "fr": {
+        "language": "fr",
+        "value": "Concept de Bande-Annonce à Partir d'Affiche",
+        "source": "upstream"
+      },
+      "ja": {
+        "language": "ja",
+        "value": "ポスターからトレーラー映像コンセプト",
+        "source": "upstream"
+      },
+      "ko": {
+        "language": "ko",
+        "value": "포스터에서 트레일러 컨셉",
+        "source": "upstream"
+      },
+      "pt": {
+        "language": "pt",
+        "value": "Conceito de Trailer a Partir de Pôster",
+        "source": "upstream"
+      },
+      "ru": {
+        "language": "ru",
+        "value": "Концепт трейлера по постеру",
+        "source": "upstream"
+      },
+      "tr": {
+        "language": "tr",
+        "value": "Posterden Fragman Konsepti",
+        "source": "upstream"
+      },
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "海报到预告片概念",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:23.372Z"
+      },
+      "en": {
+        "language": "en",
+        "value": "Poster to Trailer Concept",
+        "source": "ai",
+        "translatedAt": "2026-05-05T15:14:21.316Z"
+      }
+    }
+  },
+  "description": {
+    "original": null,
+    "translations": {}
+  },
+  "categories": [
+    {
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
+      "language": "en",
+      "source": "derived",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
+      "language": "zh-CN",
+      "source": "derived",
+      "taxonomy": "canonical",
+      "translationOf": "poster-illustration"
+    }
+  ],
+  "sources": [
+    {
+      "sourceKey": "evolink",
+      "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "url": "https://x.com/os_shim/status/2047130379409400148",
+      "originalId": "case-71",
+      "authors": [
+        {
+          "name": "os_shim",
+          "url": "https://x.com/os_shim"
+        }
+      ],
+      "locations": [
+        {
+          "file": "README:de",
+          "line": 8966
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset_54edc064c07227e8",
+      "role": "output",
+      "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case115/output.jpg",
+      "upstreamPath": "images/case_case115/output.jpg",
+      "localPath": "public/assets/prompt_4ea36f078e2e4ece8046/1004a194b409.jpg",
+      "alt": "Output image",
+      "status": "pending"
+    }
+  ],
+  "sourceCategories": [
+    {
+      "id": "comparison-community-examples",
+      "value": "Comparison & Community Examples",
+      "language": "en",
+      "source": "upstream",
+      "sourceKey": "evolink"
+    },
+    {
+      "id": "comparison-community-examples-zh-cn-2f33c7f4",
+      "value": "对比与社区示例",
+      "language": "zh-CN",
+      "source": "ai",
+      "translationOf": "comparison-community-examples",
+      "translatedAt": "2026-05-05T14:16:24.720Z"
+    }
+  ],
+  "classification": {
+    "status": "classified",
+    "categoryId": "poster-illustration",
+    "source": "rule",
+    "confidence": 0.8,
+    "matchedBy": [
+      "poster",
+      "海报"
+    ],
+    "classifiedAt": "2026-05-06T11:41:23.667Z"
+  }
+}

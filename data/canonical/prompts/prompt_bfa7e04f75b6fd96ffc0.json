@@ -6,7 +6,14 @@
       "value": "A wide anime banner illustration of {argument name=\"character name\" default=\"Sayori\"} in a bright dreamy classroom, rendered in a polished, high-end visual novel style with soft painterly lighting, warm pastel colors, and sparkling atmosphere. Show a cheerful teenage schoolgirl with short fluffy coral-pink hair, messy bob layers, and a large red bow on the right side of her head, wearing a Japanese school uniform with a light brown blazer, white shirt, red ribbon tie, brown sweater vest, and pleated navy skirt. She stands slightly left of center with arms open wide in an inviting, joyful pose, as if welcoming the viewer, with dynamic perspective and gentle motion in her hair and clothes. Her face is intentionally obscured by a flat rectangular skin-tone censor block. Behind her, tall classroom windows reveal a vivid blue sky with soft white clouds and warm sunlight streaming in. The right half of the image features a large decorative handwritten script reading {argument name=\"headline text\" default=\"Sayori\"}, cream-white lettering with a soft orange-gold outline and glow, integrated into a scrapbook-like wall background. Surround the scene with hanging photo prints clipped to string, including sky photos and a sunflower photo, plus hand-drawn doodles of clouds, stars, hearts, and a sun. Add blue and yellow paper stars, ribbons, floating confetti, a blue paper airplane, notebook pages, a spiral sketchbook, and scattered stationery elements. Place sunflowers prominently in the foreground and edges, with warm golden bokeh and soft depth of field. Make the composition energetic, cute, nostalgic, and emotionally uplifting, like a premium anime-themed YouTube banner or character tribute header, ultra-detailed, clean, stylish, luminous, and impact-focused.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "宽幅动漫横幅插画，展示{argument name=\"character name\" default=\"Sayori\"}在明亮梦幻的教室中，采用精致的高端视觉小说风格渲染，带有柔和的绘画感光线、温暖的粉彩色调和闪烁的氛围。展示一个快乐的少女学生，有着短而蓬松的珊瑚粉色头发，凌乱的波波头层次，以及头右侧的大红色蝴蝶结，穿着日本校服，包括浅棕色西装外套、白色衬衫、红色丝带领带、棕色毛衣背心和海军蓝百褶裙。她站在中心偏左的位置，双臂张开，做出邀请性的、快乐的姿势，仿佛在欢迎观众，头发和衣服带有动态透视和柔和的动作。她的脸被一个扁平的矩形肤色遮挡块有意遮挡。在她身后，高大的教室窗户展现出鲜艳的蓝色天空，点缀着柔软的白云，温暖的阳光照射进来。图像的右半部分有一个装饰性的大号手写脚本，内容为{argument name=\"headline text\" default=\"Sayori\"}，奶油白色的字母，带有柔和的橙金色轮廓和光晕，融入类似剪贴簿的墙壁背景。用悬挂在绳子上的照片打印件环绕场景，包括天空照片和向日葵照片，加上手绘的云朵、星星、爱心和太阳涂鸦。添加蓝色和黄色纸星星、丝带、漂浮的彩纸屑、蓝色纸飞机、笔记本页面、螺旋素描本和散落的文具元素。在前景和边缘显著放置向日葵，带有温暖的金色散景和柔和的景深。使构图充满活力、可爱、怀旧和情感振奋，就像优质的动漫主题YouTube横幅或角色致敬标题，超详细、干净、时尚、明亮且注重冲击力。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:31:03.109Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Dreamy Anime Sayori Banner",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "梦幻的动漫早见横幅",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:31:06.601Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -87,8 +101,7 @@
       "ui",
       "social",
       "mockup",
-      "youtube",
-      "thumbnail"
+      "youtube"
     ],
     "classifiedAt": "2026-05-06T11:03:21.600Z"
   }

@@ -21,7 +21,14 @@
       "value": "Urban Turn-Back Street Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "都市回头街景肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:21:51.010Z"
+      }
+    }
   },
   "description": {
     "original": null,

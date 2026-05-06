@@ -6,7 +6,14 @@
       "value": "Today's Portrait by gpt image 2 ---prompt--- Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, slight overexposure highlights, low contrast, muted faded colors, subtle grain a stunning beautiful young woman with subtle sensual presence, natural body line, effortless charm wearing a slightly oversized white shirt loosely unbuttoned at the collar, paired with high-waisted shorts; shirt softly moving in the wind, occasionally slipping off one shoulder holding a cold glass bottle drink with condensation, one hand lifting it near her neck or cheek, fingers lightly touching the surface subject sitting or leaning on rooftop edge, body relaxed but with slight weight shift, one hand supporting behind, torso subtly opening, one knee bent and the other leg softly extended hair gently blown by summer wind, loose strands across face expression calm and distant, lips slightly parted, looking toward camera or slightly away open sky, minimal environment, a light plastic bag resting beside her moving slightly with the wind imperfect composition, quiet isolated mood, nostalgic and reflective, “memory-like realism”, subtle sensuality through natural gesture --2:3",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "今日肖像 - gpt image 2 ---提示--- 日本胶片美学，屋顶夏日场景，柔和自然阳光，轻微过曝高光，低对比度，柔和褪色色彩，微妙颗粒感，一位美丽动人的年轻女子，带有微妙的性感气质，自然身体线条，轻松魅力，穿着略微宽松的白色衬衫，领口松散解开，搭配高腰短裤；衬衫随风轻柔飘动，偶尔滑落一边肩膀，手持一瓶带冷凝水的冷饮玻璃瓶，一只手将其举近颈部或脸颊，手指轻触瓶身主体坐在或靠在屋顶边缘，身体放松但略有重心转移，一只手在后支撑，躯干微妙敞开，一条腿弯曲，另一条腿轻轻伸展头发被夏日轻柔吹拂，散落的发丝拂过面部表情平静而疏离，嘴唇微张，望向相机或略微望向开阔天空，极简环境，一个轻质塑料袋放在旁边，随风轻微移动不完美的构图，安静孤寂的氛围，怀旧而沉思，\"记忆般的现实主义\"，通过自然姿态展现微妙的性感 --2:3",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:10:40.858Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Japanese Negative Film Rooftop Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日式负片屋顶人像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:10:47.248Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。\n\n背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Two thousand five hundred years ago, Plato, Socrates, Aristotle were sitting on the streets of Athens chatting, which gave birth to the source of world civilization history.\n\nThe background can include their conversation content, following the timeline direction, overlapping with the city scenery of ancient Greek Athens.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:14.609Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "古希腊三哲时间轴城市图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Ancient Greece Three Great Philosophers Timeline City Chart",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:13.306Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -29,7 +43,23 @@
       "sourceKey": "freestylefly"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": "infographic-education",
+      "value": "Infographic & Education",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "infographic-education-zh-cn",
+      "value": "信息图与教育",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "infographic-education"
+    }
+  ],
   "sources": [
     {
       "sourceKey": "freestylefly",
@@ -64,11 +94,11 @@
   ],
   "updatedAt": "2026-05-06T11:06:41.867Z",
   "classification": {
-    "status": "needs_review",
-    "categoryId": null,
-    "source": "none",
-    "confidence": 0,
-    "reason": "no_rule_match",
-    "classifiedAt": "2026-05-06T11:06:54.901Z"
+    "status": "classified",
+    "categoryId": "infographic-education",
+    "source": "manual",
+    "confidence": 1,
+    "matchedBy": [],
+    "classifiedAt": "2026-05-06T13:43:25.436Z"
   }
 }

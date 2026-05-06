@@ -6,7 +6,14 @@
       "value": "A luxurious editorial product photograph of a single perfume bottle nestled into dense, plush faux fur in rich golden caramel and honey-brown tones. Center the composition on one clear oval glass bottle filled with warm amber liquid, with a glossy rounded black cap and a clean white rectangular label. The label text should read {argument name=\"brand name\" default=\"BYREDO\"} at the top, {argument name=\"product name\" default=\"BAL D’AFRIQUE\"} large in the middle, and {argument name=\"product type\" default=\"EAU DE PARFUM\"} in small text near the bottom. Shoot it as a close-up still life with soft studio lighting, subtle highlights on the glass and cap, gentle shadows in the folds of the fur, and a warm cinematic color palette. The bottle should sit slightly embedded in the fur so the surrounding texture frames it from all sides, creating a premium fashion editorial mood, minimal composition, shallow depth of field, crisp focus on the label, and a high-end beauty campaign aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张奢华的编辑产品照片，展示一个香水瓶 nestled 在密集、蓬松的仿皮草中，色调为丰富的焦糖金色和蜂蜜棕色。构图中心是一个清澈的椭圆形玻璃瓶，装有温暖的琥珀色液体，配有光泽的圆形黑色瓶盖和简洁的白色矩形标签。标签文本应在顶部显示 {argument name=\"brand name\" default=\"BYREDO\"}，中间大字显示 {argument name=\"product name\" default=\"BAL D'AFRIQUE\"}，底部小字显示 {argument name=\"product type\" default=\"EAU DE PARFUM\"}。以特写静物的形式拍摄，使用柔和的影棚灯光，玻璃和瓶盖上有微妙的高光，皮草褶皱中有柔和的阴影，以及温暖的电影色调。瓶子应略微嵌入皮草中，使周围的纹理从各个角度框住它，营造高级时尚编辑的氛围，简约构图，浅景深，标签清晰对焦，以及高端美容活动的美学风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:28:42.285Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Editorial Perfume Bottle in Golden Fur",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "金色皮毛中的香水瓶",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:28:45.986Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -82,14 +96,9 @@
     "status": "classified",
     "categoryId": "product-marketing",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.7,
     "matchedBy": [
-      "product",
-      "e-commerce",
-      "产品",
-      "营销",
-      "电商",
-      "主图"
+      "product"
     ],
     "classifiedAt": "2026-05-06T11:03:21.599Z"
   }

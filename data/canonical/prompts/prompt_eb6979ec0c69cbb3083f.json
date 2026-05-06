@@ -6,7 +6,14 @@
       "value": "create a hyper-realistic 3D render of a transparent {argument name=\"platform\" default=\"twitter\"} profile card, designed like a futuristic glass ID badge held gently between two fingers. The card should be rectangular with rounded corners, made of clear glossy glass or acrylic, with glowing neon edges in {argument name=\"glow colors\" default=\"pink, purple, and orange gradient\"} inspired by the twitter color palette. Display the following profile information based on the screenshot image attached of my profile on the card using modern, minimal sans-serif typography.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个超逼真的3D渲染图，展示一个透明的{argument name=\"platform\" default=\"twitter\"}个人资料卡片，设计成未来主义玻璃ID徽章的样子，被两根手指轻轻夹住。卡片应为矩形，带圆角，由透明光滑的玻璃或亚克力制成，边缘有发光的霓虹灯效果，颜色为{argument name=\"glow colors\" default=\"pink, purple, and orange gradient\"}，灵感来自Twitter的调色板。使用现代简约的无衬线字体，根据附件中我的个人资料截图，在卡片上显示以下个人资料信息。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:25.289Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A prompt for creating a futuristic 3D render of a transparent social media profile card designed as a glowing glass ID badge.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于创建未来主义3D渲染的提示，内容是一个透明的社交媒体个人资料卡，设计为发光的玻璃ID徽章。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:58:20.369Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -101,19 +115,19 @@
   ],
   "categories": [
     {
-      "id": "character-design",
-      "value": "Character Design",
+      "id": "ui-social-media",
+      "value": "UI & Social Media",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "character-design-zh-cn",
-      "value": "角色设计",
+      "id": "ui-social-media-zh-cn",
+      "value": "UI 与社交媒体",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "character-design"
+      "translationOf": "ui-social-media"
     }
   ],
   "sources": [
@@ -154,13 +168,13 @@
   "updatedAt": "2026-05-06T11:02:37.121Z",
   "classification": {
     "status": "classified",
-    "categoryId": "character-design",
+    "categoryId": "ui-social-media",
     "source": "rule",
     "confidence": 0.8,
     "matchedBy": [
-      "card",
-      "profile"
+      "social",
+      "社交"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.570Z"
+    "classifiedAt": "2026-05-06T11:41:23.665Z"
   }
 }

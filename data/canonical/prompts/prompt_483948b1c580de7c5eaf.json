@@ -21,7 +21,14 @@
       "value": "Lavender AI Girl in Memory Space",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "薰衣草AI女孩在记忆空间中",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:00.733Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "Create a bold YouTube-style gaming thumbnail collage on a dark navy patterned background, using two stacked rounded-rectangle image panels. The top panel shows a high-angle 3D game-like scene inside a circular enclosure of tall bright blue sharpened wooden palisade spikes tied with tan rope, with vivid green grass, a small crop field with rows of sprouting orange plants on the right, and warm firelight near the upper right; in the center stand two real-looking people viewed from above, a man in a light gray T-shirt on the left and a woman in a pale pink T-shirt on the right, both looking upward, with intentionally blurred/featureless faces, and large bold white 3D sans-serif text across the bottom reading {argument name=\"main title text\" default=\"GPT 2\"}. The bottom panel is a wider rounded thumbnail frame split visually between a bright grassy game area on the left and the same blue palisade enclosure on the right; include exactly 2 large text elements at the upper left, {argument name=\"day label\" default=\"DAY\"} in red block letters with black shadow and {argument name=\"number label\" default=\"500\"} in white block letters with black shadow. In the bottom panel, place exactly 1 cartoon deer creature on the left, brown with exaggerated huge white eyes, antlers, open smiling mouth, raised arm, and a red arrow pointing down toward it. On the right of the bottom panel, show the same two real-looking people from above, the woman wearing a bright hot pink shirt and white shoes, the man wearing a bright yellow shirt and dark shoes, both with blurred/featureless faces, standing inside the blue spike fence on bluish ground. Use saturated colors, strong contrast, glossy 3D game-rendered environment, photorealistic people composited into the scene, dramatic thumbnail lighting, thick shadows, clean sharp details, and a viral gaming challenge thumbnail composition. The image contains exactly 2 panels: top panel with the title text and two people, bottom panel with the day counter, red arrow, one deer creature, and two people.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个大胆的YouTube风格游戏缩略图拼贴，使用深海军蓝图案背景，采用两个堆叠的圆角矩形图像面板。顶部面板展示一个高角度3D游戏场景，位于一个圆形围栏内，围栏由高耸的亮蓝色尖削木栅栏组成，用棕绳捆绑，有鲜绿的草地，右侧有一小块农田，种植着成排的橙色幼苗，右上角有温暖的火光；场景中央从上方俯视站着两个逼真的人物，左侧是穿浅灰色T恤的男子，右侧是穿淡粉色T恤的女子，两人都向上看，面部故意模糊/无特征，底部有大号粗体白色3D无衬线文字，内容为{argument name=\"main title text\" default=\"GPT 2\"}。底部面板是一个更宽的圆角缩略图框架，视觉上分为左侧明亮的草地游戏区域和右侧相同的蓝色栅栏围栏；在左上角包含恰好2个大号文本元素，{argument name=\"day label\" default=\"DAY\"}使用红色块状字母配黑色阴影，{argument name=\"number label\" default=\"500\"}使用白色块状字母配黑色阴影。在底部面板左侧放置恰好1个卡通鹿生物，棕色，有夸张的大白眼睛、鹿角、张开微笑的嘴巴、抬高的手臂，以及一个指向它的红色箭头。在底部面板右侧，从上方展示相同的两个逼真人物，女子穿着亮粉色衬衫和白鞋，男子穿着亮黄色衬衫和深色鞋，两人面部模糊/无特征，站在蓝色尖刺围栏内的蓝灰色地面上。使用饱和色彩、强烈对比、光泽3D游戏渲染环境、将逼真人物合成到场景中、戏剧性缩略图照明、厚重的阴影、清晰锐利的细节，以及病毒式游戏挑战缩略图构图。图像包含恰好2个面板：顶部面板带有标题文字和两个人物，底部面板带有日期计数器、红色箭头、一个鹿生物和两个人物。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:09:22.505Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "Generates a colorful viral gaming thumbnail collage with two people in a blue-spiked arena, bold challenge text, and a cartoon deer target.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个色彩鲜艳的病毒式游戏缩略图拼贴，包含两个在蓝色尖刺竞技场中的人物，粗体的挑战文字，以及一个卡通鹿目标。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:09:14.457Z"
+      }
+    }
   },
   "sourceCategories": [
     {

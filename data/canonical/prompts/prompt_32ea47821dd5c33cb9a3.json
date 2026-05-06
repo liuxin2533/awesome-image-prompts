@@ -94,7 +94,14 @@
       "value": "Reference images for the prescription layout, handwriting, or stamp style can produce much better results.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "处方布局、笔迹或印章样式的参考图像可以产生更好的结果。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:39.146Z"
+      }
+    }
   },
   "sourceCategories": [
     {

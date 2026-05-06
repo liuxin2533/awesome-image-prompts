@@ -6,7 +6,14 @@
       "value": "Using the provided reference image as the base for the man, transform it into a realistic casual smartphone photo collage showing him as if he has a girlfriend. Keep his identity, hairstyle, age, white sweatshirt, and candid non-model look consistent, but place him together with a young woman across 16 square snapshots arranged in a 4x4 grid with thin white borders. Add exactly 1 recurring female companion with long dark hair, styled like a real person rather than a glam model, and vary her outfits subtly across the collage, including a cream knit cardigan, a dark top, and a muted blue top. Make the photos feel like authentic couple memories shot on a phone: close mirror selfie together, dark blurry selfie, indoor peace-sign selfie, night street selfie, motion-blur closeup, outdoor daytime shot under a tree, indoor shoulder-leaning shot, another blurry affectionate shot, seated restaurant shot with glasses on the table, warm night bokeh shot, rooftop or balcony mirror selfie with city lights, nighttime urban walking shot, cozy leaning-together shot, shoulder-around pose, close side-by-side portrait, and another intimate close crop. Mix indoor home scenes, nighttime city scenes, one daytime outdoor scene, and one restaurant setting. Use imperfect framing, slight blur, flash, grain, and spontaneous candid composition so it feels like a real person's saved couple photo dump, not a polished campaign.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用提供的参考图像作为男性的基础，将其转换为真实的休闲智能手机照片拼贴，展示他似乎有女朋友的样子。保持他的身份、发型、年龄、白色运动衫和非模特般的自然外观一致，但将他与一位年轻女性一起放置在16个方形快照中，排列成4x4网格，带有细白色边框。添加一个固定的女性伴侣，有深色长发，造型像真人而非魅力模特，并在拼贴中微妙地变换她的服装，包括米色针织开衫、深色上衣和柔和的蓝色上衣。让照片感觉像是手机拍摄的真实的情侣回忆：一起的近距离镜子自拍、黑暗模糊的自拍、室内比耶自拍、夜晚街道自拍、动态模糊特写、白天户外树下的拍摄、室内倚肩拍摄、另一张模糊的亲密照片、坐在餐厅的照片，桌上有眼镜、温暖的夜晚虚化照片、带有城市灯光的屋顶或阳台镜子自拍、夜晚城市行走拍摄、舒适的依偎拍摄、肩臂环绕姿势、并排近距离肖像、另一张亲密的特写镜头。混合室内家庭场景、夜晚城市场景、一个白天户外场景和一个餐厅环境。使用不完美的构图、轻微模糊、闪光、颗粒和自发的抓拍构图，使其感觉像是真人保存的情侣照片转储，而不是精修的广告活动。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:16.982Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt turns a single personal reference photo into a believable 16-image smartphone collage of candid couple memories, useful for 'what if' lifestyle edits and fake relationship photo dumps.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示词将一张个人参考照片转换为一个可信的16张智能手机拼贴画，包含自然抓拍的情侣回忆，适用于\"如果\"生活方式编辑和虚假关系照片集。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:04.947Z"
+      }
+    }
   },
   "sourceCategories": [
     {

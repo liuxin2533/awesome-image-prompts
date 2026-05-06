@@ -88,7 +88,7 @@ test('workbench server saves AI config and rejects unsupported actions', async (
     const rejected = await fetch(`${baseUrl}/api/actions/translate`, {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ language: 'fr' })
+      body: JSON.stringify({ language: 'xx' })
     });
     assert.equal(rejected.status, 400);
 
@@ -101,6 +101,49 @@ test('workbench server saves AI config and rejects unsupported actions', async (
     const action = await accepted.json();
     assert.equal(action.type, 'translate');
     assert.equal(action.args.includes('en'), true);
+  });
+});
+
+test('workbench server exposes current and latest action records for refreshed pages', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'workbench-server-current-action-'));
+  let release;
+  const runner = createActionRunner({
+    projectRoot,
+    runCommand: async (_commandSpec, onLog) => {
+      onLog('[批次 1/2] 开始 20 项（任务 1-20/40）');
+      await new Promise(resolve => {
+        release = resolve;
+      });
+      onLog('[批次 1/2] 完成 20 项，累计 20/40');
+      return { exitCode: 0 };
+    }
+  });
+
+  await withServer({ projectRoot, runner }, async baseUrl => {
+    const accepted = await fetch(`${baseUrl}/api/actions/workflow`, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({})
+    });
+    assert.equal(accepted.status, 202);
+    const action = await accepted.json();
+
+    const current = await (await fetch(`${baseUrl}/api/actions/current`)).json();
+    assert.equal(current.id, action.id);
+    assert.equal(current.status, 'running');
+    assert.equal(current.logs.includes('[批次 1/2] 开始 20 项（任务 1-20/40）'), true);
+
+    release();
+    const finished = await runner.wait(action.id);
+    assert.equal(finished.status, 'succeeded');
+
+    const currentAfterFinish = await (await fetch(`${baseUrl}/api/actions/current`)).json();
+    assert.equal(currentAfterFinish, null);
+
+    const latest = await (await fetch(`${baseUrl}/api/actions/latest`)).json();
+    assert.equal(latest.id, action.id);
+    assert.equal(latest.status, 'succeeded');
+    assert.equal(latest.logs.includes('[批次 1/2] 完成 20 项，累计 20/40'), true);
   });
 });
 

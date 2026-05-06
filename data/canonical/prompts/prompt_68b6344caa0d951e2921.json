@@ -6,7 +6,14 @@
       "value": "A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen, high contrast, dramatic tech-news style. Use a dark futuristic control-room background filled with 3 glowing holographic dashboard screens and blue cyber interface elements around the edges. On the left and center, place a luminous circular hub labeled “AI” in bright blue, with 3 directional glowing energy arrows branching outward to competing platforms: “Google” on the left in a blue electric region, “Claude” on the upper right in a gold electric region, and “OpenAI” at the bottom center in a magenta-purple electric region. Add a subtle world-map or territory-battle visualization effect under each brand region, like illuminated digital land masses or influence zones. On the right side, show a young Japanese-looking woman from waist up, facing forward, wearing a long straight split-color wig with pastel pink on one side and pastel blue on the other, a plain white T-shirt with the printed text “OKIHIRO AI Creative”, and a light pink skirt. She raises one index finger beside her face in a presenter pose. Her face is fully obscured by a large soft-edged rectangular blur block. Across the top, add huge distressed white Japanese headline text: {argument name=\"headline text\" default=\"AI戦国時代\"}. Beneath it, add a second line in bold gold Japanese text: {argument name=\"subheadline text\" default=\"性能だけの話じゃない\"}. Across the bottom, place a wide black banner with massive bold gold Japanese text: {argument name=\"bottom text\" default=\"空気を取った側が勝つ\"}. Make the typography oversized, gritty, and attention-grabbing, with slight glow and drop shadow. Use a color palette of black, electric blue, gold, magenta, and neon white, with intense contrast and thumbnail readability.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个关于AI竞争时代的醒目日本YouTube缩略图，16:9宽屏，高对比度，戏剧性的科技新闻风格。使用黑暗的未来派控制室背景，填充3个发光的全息仪表盘屏幕和边缘的蓝色赛博界面元素。在左侧和中央放置一个明亮的圆形枢纽，标记为\"AI\"，使用明亮的蓝色，有3个方向性的发光能量箭头向外分支到竞争平台：\"Google\"在左侧的蓝色电力区域，\"Claude\"在右上角的金色电力区域，\"OpenAI\"在底部中心的紫红色电力区域。在每个品牌区域下方添加微妙的世界地图或领土战斗可视化效果，如发光的数字大陆或影响区域。在右侧，展示一个从腰部以上的年轻日本女性，面向前方，穿着一条直长的双色假发，一侧是粉彩色，另一侧是粉蓝色，一件印有\"OKIHIRO AI Creative\"文字的纯白色T恤，和一条浅粉色裙子。她以主持人的姿势将一根食指举在脸旁。她的脸被一个大的软边矩形模糊块完全遮挡。在顶部添加巨大的白色日本头条文本：{argument name=\"headline text\" default=\"AI戦国時代\"}。在它下方，添加第二行粗体金色日本文本：{argument name=\"subheadline text\" default=\"性能だけの話じゃない\"}。在底部放置一个宽大的黑色横幅，上面有巨大的粗体金色日本文本：{argument name=\"bottom text\" default=\"空気を取った側が勝つ\"}。使排版超大，粗糙，且引人注目，带有轻微的发光和阴影。使用黑色、电蓝色、金色、洋红色和霓虹白色的调色板，具有强烈的对比度和缩略图可读性。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:40.240Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Japanese AI Battle YouTube Thumbnail",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本AI战斗YouTube缩略图",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:25:27.833Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -82,15 +96,11 @@
     "status": "classified",
     "categoryId": "ui-social-media",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.9,
     "matchedBy": [
-      "ui",
       "interface",
-      "social",
       "youtube",
-      "thumbnail",
-      "界面",
-      "社交"
+      "thumbnail"
     ],
     "classifiedAt": "2026-05-06T11:03:21.589Z"
   }

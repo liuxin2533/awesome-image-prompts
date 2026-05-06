@@ -21,7 +21,14 @@
       "value": "Multi-Concept Battle Poster Set",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "多概念战斗海报集",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:21:53.548Z"
+      }
+    }
   },
   "description": {
     "original": null,

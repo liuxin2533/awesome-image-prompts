@@ -21,7 +21,14 @@
       "value": "品牌视觉识别图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Brand Visual Identity Diagram",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:58:07.441Z"
+      }
+    }
   },
   "description": {
     "original": null,

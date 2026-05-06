@@ -6,7 +6,14 @@
       "value": "A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled \"LUXEVEIL Skin Science – Radiance Nourishing Body Lotion\" in cream/beige with a polished gold pump top, placed on a circular platform. Tiny figurine construction workers dressed in yellow coveralls and white hard hats swarm around the bottle climbing scaffolding, painting the bottle with rollers, operating a tower crane, working near industrial tanks and pipework, and unloading a miniature flatbed truck. The scene includes metal scaffolding structures, industrial silos, orange traffic cones, wooden barricades, and storage barrels. The overall color palette is warm beige, cream, gold, and mustard yellow. Studio photography style with soft diffused lighting, no shadows, clean beige background. The concept metaphorically shows workers \"crafting\" or \"building\" the perfect lotion. Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 8K resolution, photorealistic CGI render.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个超写实的微型场景产品广告，展示一个超大号的奢华护肤泵瓶，标签为\"LUXEVEIL Skin Science – Radiance Nourishing Body Lotion\"，颜色为奶油色/米色，带有抛光金色泵头，放置在圆形平台上。小型建筑工人玩偶身穿黄色连体工装和白色安全帽，蜂拥在瓶子周围，攀爬脚手架，用滚筒给瓶子刷漆，操作塔吊，在工业罐和管道附近工作，并卸载一辆微型平板卡车。场景包括金属脚手架结构、工业筒仓、橙色交通锥、木制路障和存储桶。整体色调为暖米色、奶油色、金色和芥末黄色。摄影棚风格，带有柔和的漫射光，无阴影，干净的米色背景。概念隐喻性地展示了工人\"制作\"或\"构建\"完美的乳液。移轴微型美学，超精细细节，商业产品摄影，8K分辨率，照片级真实感CGI渲染。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:45.915Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "E-commerce Main Image - Miniature Diorama Skincare Advertisement",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 微型场景模型护肤品广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:39.702Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -81,16 +95,13 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "product-marketing",
+    "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.8,
     "matchedBy": [
-      "product",
-      "e-commerce",
-      "产品",
-      "电商",
-      "主图"
+      "poster",
+      "illustration"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.555Z"
+    "classifiedAt": "2026-05-06T11:41:23.604Z"
   }
 }

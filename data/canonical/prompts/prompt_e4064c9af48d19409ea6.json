@@ -21,7 +21,14 @@
       "value": "Portrait of a Gentle Woman with Glasses",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "戴眼镜的淑女肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:20.585Z"
+      }
+    }
   },
   "description": {
     "original": null,

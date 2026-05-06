@@ -6,7 +6,14 @@
       "value": "A heartwarming stylized 3D animated forest village scene at golden hour, showing 2 adorable insect characters meeting on a cobblestone path between tiny mushroom-roof cottages. In the left foreground, a cute {argument name=\"main insect type\" default=\"ladybug\"} crouches low with an oversized glossy black head, huge expressive brown eyes, a small smiling mouth, short antennae with rounded tips, and a tiny {argument name=\"accessory color\" default=\"red\"} bow near one antenna. Its shell is bright {argument name=\"shell color\" default=\"red\"} with distinct black spots, and its body is dark charcoal black with soft rounded limbs. In the right midground, a cheerful small {argument name=\"second insect type\" default=\"bee\"} hovers slightly above the ground facing the larger insect, with a similarly oversized head, big sparkling eyes, delicate translucent wings, tiny antennae, and little forelegs lifted as if speaking excitedly. The setting is an enchanted bug-sized woodland hamlet with 3 visible cottages, rounded wooden doors, curved stone walls, moss, vines, flowers, and leafy plants framing the path. Warm cinematic sunlight filters through the trees from the upper right, creating glowing rim light, soft bokeh, and floating firefly-like particles. Use a shallow depth of field, low camera angle at insect eye level, rich autumn-green and golden tones, highly detailed textures, soft global illumination, whimsical family-film mood, Pixar-like stylized realism, and a subtle dreamy double-exposure feel with faint overlapping light or ghosted highlights in parts of the frame.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "温馨的风格化3D动画森林村庄场景，黄金时刻，展示两个可爱的昆虫角色在铺着鹅卵石的小径上相遇，小径两侧是带有蘑菇屋顶的小屋。在左前景，一只可爱的{argument name=\"main insect type\" default=\"ladybug\"}蹲伏着，有着过亮的黑色大头、巨大的富有表现力的棕色眼睛、微笑的小嘴巴、短而圆的天线末端，以及一个靠近一根天线的微小{argument name=\"accessory color\" default=\"red\"}蝴蝶结。它的壳是明亮的{argument name=\"shell color\" default=\"red\"}，带有明显的黑色斑点，身体是深炭黑色，有着柔软圆润的肢体。在右中景，一只快乐的小{argument name=\"second insect type\" default=\"bee\"}略微悬在地面上方，面向较大的昆虫，有着同样过大的头、闪闪发光的大眼睛、精致的半透明翅膀、微小的天线，以及抬起的小前腿，仿佛在兴奋地说话。场景是一个迷人的虫子大小的林地村庄，有3座可见的小屋、圆形木门、弯曲的石墙、苔藓、藤蔓、花朵和绿叶植物环绕着小径。温暖的电影感阳光从右上方的树木间穿过，形成发光的轮廓光、柔和的散景和漂浮的萤火虫般的粒子。使用浅景深、昆虫眼平视角的低角度相机、丰富的秋绿色和金色调、高度精细的纹理、柔和的全局照明、奇幻的家庭电影氛围、皮克斯式的风格化现实主义，以及微妙的梦幻双重曝光感，画面中有微弱的重叠光线或幽灵般的亮点。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:50:31.093Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a cinematic 3D animated-style image of two cute insects meeting in an enchanted woodland village, ideal for storybook art or family-friendly fantasy illustrations.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个电影风格的3D动画风格图像，描绘两只可爱的昆虫在魔法森林村庄相遇，适合童话书艺术或家庭友好的奇幻插画。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:50:37.394Z"
+      }
+    }
   },
   "sourceCategories": [
     {

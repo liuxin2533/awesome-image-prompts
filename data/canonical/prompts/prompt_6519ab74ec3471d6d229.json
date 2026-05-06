@@ -6,7 +6,14 @@
       "value": "A surreal high-fashion editorial photograph on an empty roadside in a bleak Icelandic-looking landscape under a flat gray overcast sky. Center the composition on a small brutalist concrete bus stop shelter with stained weathered walls and a simple bench inside, and place 1 slender adult man inside the shelter wearing a tailored black suit, black shirt, and black shoes, standing casually and looking to the side. Draped over the entire bus stop is 1 enormous oversized puffer jacket in vivid burnt orange, inflated and tent-like, forming a monumental sculptural canopy over the shelter; the collar gapes open above the roof, the sleeves slump down on both sides to the wet pavement, and the glossy quilted nylon shows realistic wrinkles, puffed chambers, seams, snaps, and fashion-product detail. The road in the foreground is dark and rain-slick, with subtle reflections and a cold damp atmosphere. In the background, show low barren hills with traces of snow and a remote windswept shoreline feel. Shoot it like a luxury magazine fashion campaign with cinematic realism, centered framing, muted natural light, strong contrast between the monochrome environment and the orange coat, minimal color palette, slightly monumental scale distortion, and crisp editorial photography detail.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超现实主义高级时尚编辑摄影，拍摄于冰岛风格荒凉景观的空旷路边，天空是平坦的灰色阴云。构图中心是一个小型粗野主义混凝土公交站亭，墙壁有污渍且风化，里面有一张简单的长凳。站亭内有1位瘦高成年男性，穿着定制黑色西装、黑色衬衫和黑色鞋子，随意站立并侧视。整个公交站亭上覆盖着1件巨大的超大号橙色羽绒服，充气呈帐篷状，在站亭上方形成一座宏伟的雕塑式顶篷；衣领在屋顶上方敞开，袖子垂落在两侧湿滑的人行道上，光滑的绗缝尼龙面料展现出逼真的褶皱、充气腔、接缝、按扣和时尚产品细节。前景中的道路黑暗且湿滑，带有微妙的反光和寒冷潮湿的氛围。背景展示低矮贫瘠的山丘，有雪痕，营造出偏远多风的海岸线感觉。像拍摄奢侈杂志时尚活动一样拍摄，具有电影般的现实主义效果，居中构图，柔和的自然光线，单色环境与橙色外套之间的强烈对比，极简的调色板，略微夸张的纪念碑式比例扭曲，以及清晰锐利的编辑摄影细节。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:40.358Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A cinematic fashion editorial image of a man in a concrete bus stop sheltered by a giant orange puffer jacket, ideal for luxury campaign or conceptual style imagery.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个电影感时尚编辑图像，一个男人站在混凝土公交站亭里，被一个巨大的橙色羽绒服所庇护，适合奢华广告活动或概念风格图像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:41.819Z"
+      }
+    }
   },
   "sourceCategories": [
     {

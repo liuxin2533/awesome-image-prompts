@@ -20,7 +20,14 @@
       "value": "Celebrity Car Endorsement Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "名人汽车代言海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:40.535Z"
+      }
+    }
   },
   "description": {
     "original": null,

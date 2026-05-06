@@ -123,6 +123,7 @@ function emitMissingTranslationIssues(prompt, targetLanguages, report) {
       for (const item of items || []) {
         if (!item?.value || item.language === target) continue;
         if (item.translationOf) continue;
+        if (item.taxonomy === 'canonical') continue;
         const exists = (items || []).some(candidate => candidate.language === target && candidate.translationOf === item.id);
         if (exists) continue;
         report.warn({

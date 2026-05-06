@@ -21,7 +21,14 @@
       "value": "Cozy Catgirl Pajama Night Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "温馨的猫娘睡衣夜晚肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:35.124Z"
+      }
+    }
   },
   "description": {
     "original": null,

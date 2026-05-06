@@ -6,7 +6,14 @@
       "value": "A candid smartphone photo of a young East Asian woman seated at a small round table inside a busy old-fashioned Taiwanese breakfast shop. She is the main subject, framed from mid-thigh upward, facing the camera in a casual seated pose. Her face is intentionally obscured with a soft rectangular blur. She has straight shoulder-length black hair with a center part, small gold hoop earrings, and a delicate gold necklace with a tiny heart pendant. She wears a fitted white spaghetti-strap tank top and high-waisted blue denim cutoff shorts with light distressing. In one hand she holds a piece of fried cruller near her mouth, and in the other hand she holds another broken piece over the table. On the table are 4 visible food and drink items: a plate with fried cruller pieces, a wrapped scallion pancake with black sesame seeds, a white foam takeout tray containing 2 pancakes including one covered with dark soy-based sauce and chopped scallions, and a large takeaway cup of soy milk with a red straw and red Chinese logo. The restaurant interior is compact and brightly lit with fluorescent ceiling lights, terrazzo-style flooring, and tightly packed diners in the background. Behind her are large windows and wall signage with bold red traditional Chinese characters, including breakfast items such as soy milk, youtiao, rice rolls, shaobing, and egg pancake. There are several seated customers eating, staff working behind a metal counter, a small wall-mounted television showing a female news anchor, and a hanging menu board with red Chinese text and prices. Realistic photography, natural indoor lighting, shallow depth of field, lively local atmosphere, slight wide-angle phone camera perspective, documentary food-travel aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张年轻的东亚女性在繁忙的老式台湾早餐店小圆桌旁坐着的智能手机抓拍照片。她是主要拍摄对象，从大腿中部向上取景，以随意的坐姿面向相机。她的脸被柔和的矩形模糊故意遮挡。她留着齐肩直黑发，中分发型，戴着小巧的金色圆环耳环，戴有一条带有小心形吊坠的精致金项链。她穿着合身的白色细肩带背心和腰部高的蓝色牛仔短裤，带有轻微的做旧效果。一只手拿着一根油条靠近嘴边，另一只手拿着另一块断开的油条放在桌上。桌上有4种可见的食物和饮料：一盘装有油条碎片的盘子，一个包裹着黑芝麻的葱油饼，一个白色泡沫外卖托盘，里面有两张煎饼，其中一张覆盖着深色酱油和切碎的葱花，还有一个装满豆浆的大外卖杯，配有红色吸管和红色中文字标。餐厅内部紧凑明亮，装有荧光天花板灯，水磨石风格地板，背景中有密集的用餐者。她身后是大窗户和带有粗体红色中文字的墙标，包括早餐项目如豆浆、油条、米卷、烧饼和鸡蛋煎饼。有几位正在用餐的顾客，工作人员在金属柜台后工作，墙上挂着一个小电视，正在播放一位女主播的新闻，还有一个挂着红色中文文字和价格的悬挂菜单板。写实摄影，自然室内光线，浅景深，活跃的当地氛围，轻微广角手机相机视角，纪录片式美食旅行美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:19.261Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a realistic candid photo of a woman eating traditional breakfast foods inside a bustling Taiwanese diner, ideal for lifestyle, food-travel, or street photography visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成了一张女性在熙熙攘攘的台湾小餐馆内食用传统早餐食品的真实抓拍照片，适合生活方式、美食旅行或街头摄影视觉效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:23.041Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -161,7 +175,9 @@
       "photography",
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "摄影",
+      "写实"
     ],
     "classifiedAt": "2026-05-06T11:03:21.565Z"
   }

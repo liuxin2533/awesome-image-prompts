@@ -6,7 +6,14 @@
       "value": "A cinematic night street portrait of a young woman standing in a bustling city illuminated by neon lights. She has long slightly messy dark hair with soft bangs, wearing a {argument name=\"clothing\" default=\"black leather jacket\"}. She turns her head toward the camera with a calm, slightly intense expression. The scene is lit with contrasting {argument name=\"lighting colors\" default=\"red and blue neon lighting\"} casting dramatic highlights on her face and hair. Background filled with soft bokeh from streetlights, cars, and neon signs, creating a {argument name=\"setting style\" default=\"Tokyo cyberpunk vibe\"}. Shallow depth of field, 85mm lens look, ultra-realistic skin texture, cinematic color grading, moody atmosphere, high detail, 8K, professional photography.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影感的夜晚街头人像，一位年轻女子站在霓虹灯照亮的热闹城市中。她有着略凌乱的长黑发和柔软的刘海，穿着一件{argument name=\"clothing\" default=\"黑色皮夹克\"}。她转向镜头，表情平静而略带 intensity。场景被对比强烈的{argument name=\"lighting colors\" default=\"红色和蓝色霓虹灯光\"}照亮，在她脸上和头发上投射出戏剧性的高光。背景中充满了来自路灯、汽车和霓虹灯的柔和散景，营造出{argument name=\"setting style\" default=\"东京赛博朋克氛围\"}。浅景深，85mm镜头效果，超逼真的皮肤质感，电影感色彩分级，忧郁的氛围，高细节，8K，专业摄影。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:48:32.158Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A cinematic night portrait prompt featuring neon lighting and Tokyo cyberpunk aesthetics.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个具有霓虹灯光和东京赛博朋克美学的电影级夜间肖像提示。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:48:35.405Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -161,7 +175,9 @@
       "photography",
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "摄影",
+      "人像"
     ],
     "classifiedAt": "2026-05-06T11:03:21.568Z"
   }

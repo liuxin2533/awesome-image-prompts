@@ -6,7 +6,14 @@
       "value": "Inspired by Tsingtao (China beer)🍺\n\n“Inspired by this product, design a set of cool-style women's clothing”",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "\"Inspired by Tsingtao (China beer)🍺\n\n\"Inspired by this product, design a set of cool-style women's clothing\"\"",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:15.753Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "青岛啤酒灵感女装系列",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Tsingtao Beer Inspiration Women's Fashion Collection",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:54:17.135Z"
+      }
+    }
   },
   "description": {
     "original": null,

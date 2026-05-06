@@ -21,7 +21,14 @@
       "value": "Sam Altman Skatepark Snapshot",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "Sam Altman 滑板公园 快照",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:23:40.921Z"
+      }
+    }
   },
   "description": {
     "original": null,

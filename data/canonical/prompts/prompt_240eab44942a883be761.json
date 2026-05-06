@@ -6,7 +6,14 @@
       "value": "{ \r\n  \"scene_type\": \"smartphone fashion portrait series\",\r\n  \"composition\": {\r\n    \"layout\": \"4-photo grid collage\",\r\n    \"camera\": \"smartphone photography\",\r\n    \"framing\": [\r\n      \"full body standing\",\r\n      \"crouching pose\",\r\n      \"casual seated pose\",\r\n      \"upper body portrait\"\r\n    ],\r\n    \"angle\": \"eye-level, natural perspective\",\r\n    \"aspect_ratio\": \"1:1 collage\"\r\n  },\r\n  \"subject\": {\r\n    \"gender\": \"{argument name=\"gender\" default=\"female\"}\",\r\n    \"age\": \"{argument name=\"age\" default=\"early 20s\"}\",\r\n    \"aesthetic\": \"extremely beautiful, sensual, candid\",\r\n    \"appearance\": {\r\n      \"skin_tone\": \"smooth light complexion\",\r\n      \"face\": \"soft feminine features, natural symmetry, bright smile\",\r\n      \"expression\": \"playful, warm, confident, subtly sensual\",\r\n      \"eyes\": \"expressive, gentle gaze\",\r\n      \"hair\": {\r\n        \"color\": \"{argument name=\"hair color\" default=\"deep black\"}\",\r\n        \"style\": \"long, loose waves\",\r\n        \"texture\": \"soft, natural shine\"\r\n      },\r\n      \"makeup\": \"natural glam, dewy skin, soft blush, subtle lip tint\"\r\n    },\r\n    \"outfit\": {\r\n      \"top\": \"white fitted sleeveless crop top\",\r\n      \"bottom\": \"loose straight-leg blue jeans\",\r\n      \"shoes\": \"casual white sneakers\",\r\n      \"style\": \"minimal, effortless, modern casual\"\r\n    },\r\n    \"pose_style\": \"relaxed, candid, playful fashion poses\",\r\n    \"body_language\": \"confident yet soft, natural movements, gentle sensual elegance\"\r\n  },\r\n  \"environment\": {\r\n    \"location\": \"minimal studio backdrop\",\r\n    \"background\": \"clean light gray seamless wall\",\r\n    \"floor\": \"neutral studio floor\",\r\n    \"lighting\": {\r\n      \"type\": \"soft diffused studio lighting\",\r\n      \"tone\": \"neutral\",\r\n      \"shadows\": \"soft and natural\",\r\n      \"highlights\": \"subtle skin glow\"\r\n    }\r\n  },\r\n  \"style\": {\r\n    \"photography_type\": \"smartphone editorial fashion\",\r\n    \"visual_tone\": \"minimalist, airy, modern\",\r\n    \"mood\": \"candid, sensual elegance, fresh and confident\",\r\n    \"color_palette\": \"white, denim blue, soft gray\",\r\n    \"contrast\": \"low to medium\",\r\n    \"grain\": \"very light natural grain\"\r\n  },\r\n  \"rendering\": {\r\n    \"realism\": \"ultra-realistic\",\r\n    \"detail_level\": \"high skin and fabric texture detail\",\r\n    \"sharpness\": \"high\",\r\n    \"depth_of_field\": \"natural\",\r\n    \"post_processing\": \"minimal, clean, slightly soft finish\"\r\n  },\r\n  \"atmosphere\": \"modern, youthful, effortless beauty, subtle sensual charm\"\r\n}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"scene_type\": \"智能手机时尚人像系列\",\n  \"composition\": {\n    \"layout\": \"4张照片网格拼贴\",\n    \"camera\": \"智能手机摄影\",\n    \"framing\": [\n      \"全身站立\",\n      \"蹲姿\",\n      \"休闲坐姿\",\n      \"上半身肖像\"\n    ],\n    \"angle\": \"眼平视角，自然透视\",\n    \"aspect_ratio\": \"1:1拼贴\"\n  },\n  \"subject\": {\n    \"gender\": \"{argument name=\"gender\" default=\"女性\"}\",\n    \"age\": \"{argument name=\"age\" default=\"二十出头\"}\",\n    \"aesthetic\": \"极其美丽，性感，自然\",\n    \"appearance\": {\n      \"skin_tone\": \"光滑浅色肤色\",\n      \"face\": \"柔和的女性特征，自然对称，明亮的笑容\",\n      \"expression\": \"俏皮，温暖，自信，微妙的性感\",\n      \"eyes\": \"富有表现力，温柔的目光\",\n      \"hair\": {\n        \"color\": \"{argument name=\"hair color\" default=\"深黑色\"}\",\n        \"style\": \"长，松散的波浪\",\n        \"texture\": \"柔软，自然光泽\"\n      },\n      \"makeup\": \"自然魅力，水润肌肤，柔和腮红，微妙唇色\"\n    },\n    \"outfit\": {\n      \"top\": \"白色修身无袖短上衣\",\n      \"bottom\": \"宽松直筒蓝色牛仔裤\",\n      \"shoes\": \"休闲白色运动鞋\",\n      \"style\": \"简约，轻松，现代休闲\"\n    },\n    \"pose_style\": \"放松，自然，俏皮的时尚姿势\",\n    \"body_language\": \"自信而柔和，自然动作，温柔的性感优雅\"\n  },\n  \"environment\": {\n    \"location\": \"极简工作室背景\",\n    \"background\": \"干净的浅灰色无缝墙\",\n    \"floor\": \"中性工作室地板\",\n    \"lighting\": {\n      \"type\": \"柔和的漫射工作室灯光\",\n      \"tone\": \"中性\",\n      \"shadows\": \"柔和自然\",\n      \"highlights\": \"微妙的肌肤光泽\"\n    }\n  },\n  \"style\": {\n    \"photography_type\": \"智能手机时尚编辑\",\n    \"visual_tone\": \"极简，空灵，现代\",\n    \"mood\": \"自然，性感优雅，清新自信\",\n    \"color_palette\": \"白色，牛仔蓝，柔和灰色\",\n    \"contrast\": \"低到中等\",\n    \"grain\": \"非常轻微的自然颗粒\"\n  },\n  \"rendering\": {\n    \"realism\": \"超写实\",\n    \"detail_level\": \"高肌肤和织物纹理细节\",\n    \"sharpness\": \"高\",\n    \"depth_of_field\": \"自然\",\n    \"post_processing\": \"极简，干净，略微柔和的完成效果\"\n  },\n  \"atmosphere\": \"现代，年轻，轻松的美，微妙的性感魅力\"\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:38:01.598Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A structured JSON prompt for a 4-photo collage of a casual fashion photoshoot with detailed subject and lighting parameters.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个用于4张照片拼贴的JSON结构化提示，包含休闲时尚摄影的详细主体和灯光参数。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:37:27.506Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -161,7 +175,10 @@
       "photography",
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "摄影",
+      "人像",
+      "写实"
     ],
     "classifiedAt": "2026-05-06T11:03:21.564Z"
   }

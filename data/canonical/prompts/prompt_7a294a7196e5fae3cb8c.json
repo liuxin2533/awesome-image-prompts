@@ -6,7 +6,14 @@
       "value": "A realistic organic smartphone selfie of a {argument name=\"subject age\" default=\"middle-aged\"} woman sitting outdoors on a porch or patio in warm late-afternoon golden-hour sunlight, framed from the chest up in a casual slightly imperfect front-facing composition. She has shoulder-length softly wavy auburn hair with a center part, natural texture, and a few loose flyaways, light skin with visible freckles and real skin texture on the chest and neck, and an everyday relaxed presence. She wears a light gray open-front cardigan over a pale lace-trim camisole. The setting shows a white exterior door and wall behind her, with a dark blue fabric-covered chair or cushion visible on the left side and strong sun casting soft warm highlights and natural shadows across her clothing and skin. The image should feel unfiltered, candid, and convincingly real rather than polished: subtle asymmetry, normal phone camera perspective, slightly tight crop, authentic household background, natural color, gentle contrast, and documentary-level photographic realism.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张真实的有机智能手机自拍，拍摄的是一位{argument name=\"subject age\" default=\"middle-aged\"}女性，她坐在户外门廊或露台上，在温暖的傍晚黄金时刻阳光下，构图从胸部以上，采用随意且略有不完美的正面构图。她有齐肩长度的柔软波浪状赤褐色头发，中间分缝，自然纹理，几缕松散的发丝，浅色皮肤上有可见的雀斑，胸部和颈部有真实的皮肤纹理，以及日常放松的神态。她穿着浅灰色开襟毛衣，里面是淡色蕾丝边背心。背景显示她身后有一扇白色外门和墙壁，左侧可见深蓝色布面椅子或靠垫，强烈的阳光在她衣物和皮肤上投下柔和的温暖高光和自然阴影。图像应该感觉未经滤镜、自然真实且令人信服，而非精致：微妙的非对称性，普通手机相机视角，略微紧凑的裁剪，真实的家庭背景，自然色彩，柔和对比度，以及纪录片级别的摄影真实感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:43:01.403Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A natural-looking casual selfie prompt for generating an authentic organic smartphone portrait with warm sunlight and everyday realism.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个看起来自然的休闲自拍提示，用于生成具有温暖阳光和日常真实感的真实有机智能手机肖像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:43:03.795Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,11 +170,12 @@
     "status": "classified",
     "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "摄影"
     ],
     "classifiedAt": "2026-05-06T11:03:21.567Z"
   }

@@ -21,7 +21,14 @@
       "value": "Magical Seed Packet Diorama",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "魔法种子包微缩景观",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:00.647Z"
+      }
+    }
   },
   "description": {
     "original": null,

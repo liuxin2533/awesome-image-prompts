@@ -6,7 +6,14 @@
       "value": "{\"type\":\"four-panel educational science concept poster\",\"style\":\"cinematic 3D infographic illustration, premium educational poster, highly detailed floating diorama islands, realistic materials, soft studio lighting, clean modern typography, subtle scientific HUD icons and callout lines\",\"theme\":\"Science as conceptual entities\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"background\":\"split into 4 equal quadrants with different gradient color atmospheres\"},\"layout\":{\"grid\":\"2x2\",\"sections\":[{\"title\":\"ASTRONOMY\",\"subtitle\":\"Exploring the Universe\",\"position\":\"top-left\",\"count\":4,\"labels\":[\"title\",\"subtitle\",\"3 callout icons with labels\",\"central observatory diorama\"],\"background\":\"deep midnight blue sky with stars and a visible Milky Way band\",\"subject\":\"a large white observatory dome with an open slit and telescope inside, placed on a circular floating rocky island with a winding path, small trees, shrubs, rocks, and a lit entrance door\",\"callouts\":[\"TELESCOPES\",\"GALAXIES\",\"STARS\"]},{\"title\":\"BIOLOGY\",\"subtitle\":\"The Science of Life\",\"position\":\"top-right\",\"count\":5,\"labels\":[\"title\",\"subtitle\",\"3 callout icons with labels\",\"central microscope diorama\"],\"background\":\"clear cool blue gradient\",\"subject\":\"a cream-colored binocular microscope on a circular floating island covered with moss, grass, ferns, small plants, flowers, and rocks, with a small translucent bubble showing green cell-like organisms near the upper left of the microscope\",\"callouts\":[\"CELLS\",\"DNA\",\"ECOSYSTEMS\"]},{\"title\":\"CHEMISTRY\",\"subtitle\":\"Matter and Its Transformations\",\"position\":\"bottom-left\",\"count\":5,\"labels\":[\"title\",\"subtitle\",\"3 callout icons with labels\",\"central laboratory glassware diorama\"],\"background\":\"green to teal gradient\",\"subject\":\"a circular floating platform displaying chemistry lab equipment including tall flasks, beakers, test tubes, round-bottom flasks, retort stands, and a ball-and-stick molecular model, with colorful liquids in green, blue, amber, and red-orange\",\"callouts\":[\"ELEMENTS\",\"REACTIONS\",\"BONDS\"]},{\"title\":\"PHYSICS\",\"subtitle\":\"Understanding the Laws of Nature\",\"position\":\"bottom-right\",\"count\":5,\"labels\":[\"title\",\"subtitle\",\"3 callout icons with labels\",\"central Newton's cradle diorama\"],\"background\":\"warm beige to brown gradient\",\"subject\":\"a polished metal Newton's cradle on a circular floating wooden-and-metal platform, accompanied by 3 stacked books and an open notebook with visible pages\",\"callouts\":[\"MOTION\",\"ENERGY\",\"GRAVITY\"]}],\"dividers\":\"clean cross-shaped split between quadrants\"},\"objects\":{\"floating_platforms\":4,\"main_disciplines\":4,\"callout_label_count\":12},\"text_treatment\":{\"font\":\"bold geometric sans-serif uppercase for titles, smaller clean sans-serif for subtitles and callout descriptions\",\"title_color\":\"white\",\"callout_style\":\"thin white outline icons with fine connector lines and small explanatory text\"},\"quality\":\"ultra-detailed, polished, balanced composition, sharp focus, professional educational key visual\",\"customization\":{\"headline_theme\":\"{argument name=\\\"headline text\\\" default=\\\"Science\\\"}\",\"astronomy_title\":\"{argument name=\\\"astronomy title\\\" default=\\\"ASTRONOMY\\\"}\",\"biology_title\":\"{argument name=\\\"biology title\\\" default=\\\"BIOLOGY\\\"}\",\"chemistry_title\":\"{argument name=\\\"chemistry title\\\" default=\\\"CHEMISTRY\\\"}\",\"physics_title\":\"{argument name=\\\"physics title\\\" default=\\\"PHYSICS\\\"}\"}}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"四格教育科学概念海报\",\"style\":\"电影感3D信息图表插图，优质教育海报，高度详细的浮动立体模型岛，逼真材质，柔和影棚灯光，简洁现代排版，微妙的科学HUD图标和标注线\",\"theme\":\"作为概念实体的科学\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"background\":\"分成4个相等的象限，每个有不同的渐变色氛围\"},\"layout\":{\"grid\":\"2x2\",\"sections\":[{\"title\":\"天文学\",\"subtitle\":\"探索宇宙\",\"position\":\"top-left\",\"count\":4,\"labels\":[\"标题\",\"副标题\",\"3个带标签的标注图标\",\"中央天文台立体模型\"],\"background\":\"深午夜蓝色天空，有星星和可见的银河带\",\"subject\":\"一个大型白色天文台穹顶，有开口缝隙和内部望远镜，放置在一个圆形的浮动岩石岛上，岛上有蜿蜒小径、小树、灌木、岩石和一盏亮着的入口门灯\",\"callouts\":[\"望远镜\",\"星系\",\"恒星\"]},{\"title\":\"生物学\",\"subtitle\":\"生命科学\",\"position\":\"top-right\",\"count\":5,\"labels\":[\"标题\",\"副标题\",\"3个带标签的标注图标\",\"中央显微镜立体模型\"],\"background\":\"清澈的冷蓝色渐变\",\"subject\":\"一个奶油色双筒显微镜，放置在一个圆形的浮动岛上，岛上有苔藓、草、蕨类、小植物、花朵和岩石覆盖，显微镜左上方有一个小半透明气泡，显示类似绿色细胞的生物\",\"callouts\":[\"细胞\",\"DNA\",\"生态系统\"]},{\"title\":\"化学\",\"subtitle\":\"物质及其转化\",\"position\":\"bottom-left\",\"count\":5,\"labels\":[\"标题\",\"副标题\",\"3个带标签的标注图标\",\"中央实验室玻璃器皿立体模型\"],\"background\":\"绿色到青绿色渐变\",\"subject\":\"一个圆形浮动平台，展示化学实验室设备，包括高烧瓶、烧杯、试管、圆底烧瓶、支架和球棍分子模型，其中有绿色、蓝色、琥珀色和红橙色的彩色液体\",\"callouts\":[\"元素\",\"反应\",\"键\"]},{\"title\":\"物理学\",\"subtitle\":\"理解自然法则\",\"position\":\"bottom-right\",\"count\":5,\"labels\":[\"标题\",\"副标题\",\"3个带标签的标注图标\",\"中央牛顿摆立体模型\"],\"background\":\"暖米色到棕色渐变\",\"subject\":\"一个抛光金属牛顿摆，放置在圆形的木质和金属混合平台上，旁边有三本堆叠的书和一本打开的笔记本，可见书页\",\"callouts\":[\"运动\",\"能量\",\"重力\"]}],\"dividers\":\"象限之间有干净的十字形分割\"},\"objects\":{\"floating_platforms\":4,\"main_disciplines\":4,\"callout_label_count\":12},\"text_treatment\":{\"font\":\"标题使用粗体几何无衬线大写字母，副标题和标注描述使用较小的简洁无衬线字体\",\"title_color\":\"白色\",\"callout_style\":\"细白色轮廓图标，配有细连接线和小的解释性文本\"},\"quality\":\"超精细，精致，平衡构图，锐利焦点，专业教育关键视觉\",\"customization\":{\"headline_theme\":\"{argument name=\\\"headline text\\\" default=\\\"Science\\\"}\",\"astronomy_title\":\"{argument name=\\\"astronomy title\\\" default=\\\"ASTRONOMY\\\"}\",\"biology_title\":\"{argument name=\\\"biology title\\\" default=\\\"BIOLOGY\\\"}\",\"chemistry_title\":\"{argument name=\\\"chemistry title\\\" default=\\\"CHEMISTRY\\\"}\",\"physics_title\":\"{argument name=\\\"physics title\\\" default=\\\"PHYSICS\\\"}\"}}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:55:57.986Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A polished 3D educational infographic poster showing astronomy, biology, chemistry, and physics as separate floating dioramas, ideal for science concept art or academic visual design.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个精美的3D教育信息图表海报，展示天文学、生物学、化学和物理学作为独立的漂浮立体模型，适合科学概念艺术或学术视觉设计。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:55:55.414Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -66,19 +80,19 @@
   ],
   "categories": [
     {
-      "id": "infographic-education",
-      "value": "Infographic & Education",
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "infographic-education-zh-cn",
-      "value": "信息图与教育",
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "infographic-education"
+      "translationOf": "poster-illustration"
     }
   ],
   "sources": [
@@ -119,14 +133,14 @@
   "updatedAt": "2026-05-06T11:02:37.123Z",
   "classification": {
     "status": "classified",
-    "categoryId": "infographic-education",
+    "categoryId": "poster-illustration",
     "source": "rule",
     "confidence": 0.9,
     "matchedBy": [
-      "infographic",
-      "education",
-      "信息图"
+      "poster",
+      "illustration",
+      "海报"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.569Z"
+    "classifiedAt": "2026-05-06T11:41:23.663Z"
   }
 }

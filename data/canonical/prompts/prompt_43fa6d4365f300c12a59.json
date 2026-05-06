@@ -6,7 +6,14 @@
       "value": "GPT IMAGE 2 ON CHATGPT Prompt: Editorial portrait photography arranged in a 2x2 grid layout featuring the same man with round tortoiseshell glasses, natural look, light beard, soft neutral background. Top-left: front-facing portrait with direct eye contact, calm expression. Top-right: extreme macro close-up of eye behind glasses, ultra-detailed iris and skin texture. Bottom-left: slightly lower angle portrait, subtle expression, soft shadows. Bottom-right: side profile portrait, natural pose, looking away. Soft diffused natural lighting, warm neutral tones, shallow depth of field, ultra-realistic skin texture with visible pores and freckles, minimal retouching, 85mm lens, high-end editorial photography style, clean composition, 4K",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "GPT IMAGE 2 ON CHATGPT 提示词：编辑人像摄影，采用2x2网格布局，展示同一位佩戴圆形玳瑁眼镜的男士，自然外观，轻须，柔和的中性背景。左上：正面肖像，直接眼神接触，平静表情。右上：眼镜后眼睛的极端微距特写，超精细的虹膜和皮肤纹理。左下：略微低角度肖像，微妙表情，柔和阴影。右下：侧面轮廓肖像，自然姿势，目光移开。柔和的漫射自然光，温暖的中色调，浅景深，超逼真的皮肤纹理，可见毛孔和雀斑，最小修饰，85mm镜头，高端编辑摄影风格，简洁构图，4K",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:11:05.189Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "2x2 Editorial Portrait Grid",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "2×2 编辑肖像网格",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:11:12.360Z"
+      }
+    }
   },
   "description": {
     "original": null,

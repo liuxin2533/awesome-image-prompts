@@ -6,7 +6,14 @@
       "value": "Create a {argument name=\"grid layout\" default=\"4x3\"} borderless grid where each panel is an independent image of the {argument name=\"subject\" default=\"a young woman\"}. Maintain strong subject consistency across all panels, with consistent color and lighting. Depict {argument name=\"theme\" default=\"childhood memories\"} with a {argument name=\"mood\" default=\"warm, nostalgic\"} mood in {argument name=\"style\" default=\"nostalgic cinematic realism\"} style. No text. No gap.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个{argument name=\"grid layout\" default=\"4x3\"}无边框网格，其中每个面板都是{argument name=\"subject\" default=\"a young woman\"}的独立图像。在所有面板中保持主体一致性，颜色和光线一致。以{argument name=\"mood\" default=\"warm, nostalgic\"}的情绪描绘{argument name=\"theme\" default=\"childhood memories\"}，采用{argument name=\"style\" default=\"nostalgic cinematic realism\"}的风格。无文字。无间隙。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:29:59.957Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Multi-Panel Image Board Template",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "多面板图像板模板",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:49.671Z"
+      }
+    }
   },
   "description": {
     "original": null,

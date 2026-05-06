@@ -6,7 +6,14 @@
       "value": "A photorealistic video sequence captures a young boy with messy orange hair and thick-framed glasses, as seen in image_0.png, image_1.png, and other source frames. He is dressed in a black basketball jersey and matching shorts with purple and blue trim, featuring the text \"WIZZGEN 23\" on the front and \"CHICAGO 23\" on the back (image_4.png). The setting is an outdoor asphalt city basketball court with green trees and a visible basketball hoop. The action begins with the boy in a low stance, dribbling the ball between his legs (image_0.png through image_3.png), then transitions to him standing taller and performing crossovers (image_5.png through image_7.png), followed by him successfully spinning the ball on his finger (image_8.png), and finally posing with a peace sign while holding the ball (image_9.png). The lighting is soft daylight under an overcast sky.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一段逼真的视频序列捕捉了一个头发凌乱、戴着厚框眼镜的年轻男孩，如image_0.png、image_1.png和其他源帧所示。他身穿黑色篮球背心和相配的短裤，带有紫色和蓝色镶边，正面印有\"WIZZGEN 23\"字样，背面印有\"CHICAGO 23\"字样（image_4.png）。场景是一个室外沥青城市篮球场，有绿树和可见的篮球架。动作开始时，男孩处于低姿态，在双腿之间运球（image_0.png至image_3.png），然后过渡到他站得更直并做交叉运球（image_5.png至image_7.png），接着是他成功地将球在手指上旋转（image_8.png），最后他拿着球摆出和平手势的造型（image_9.png）。光线是阴天下的柔和日光。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:32.667Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Basketball Boy Motion Sequence",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "篮球男孩动作序列",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:16.455Z"
+      }
+    }
   },
   "description": {
     "original": null,

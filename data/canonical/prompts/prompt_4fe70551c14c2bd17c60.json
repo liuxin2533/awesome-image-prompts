@@ -6,7 +6,14 @@
       "value": "A high-end editorial product photograph of a single luxury perfume bottle centered in a warm earthy still-life scene. The product is a clear rectangular glass bottle filled with golden amber liquid, topped with a glossy rounded black cap, with a clean white front label that reads \"BYREDO\", \"BAL D’AFRIQUE\", and \"EAU DE PARFUM\". Place the bottle upright on 1 curved piece of pale weathered driftwood, surrounded by a dense carpet of 1 layer of rich green moss covering the foreground and lower frame. Use a minimal studio composition with the product isolated against a smooth warm brown-to-amber gradient background, softly illuminated like sunset light. Light the scene with dramatic directional warm light from the upper right, creating a bright glow on the background, a crisp highlight on the cap, soft reflections in the glass, and gentle shadows across the wood and moss. Keep the framing vertical, the bottle centered slightly low in the composition with generous negative space above, and the overall mood natural, luxurious, earthy, cinematic, and polished like a premium fragrance campaign shot.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张高端编辑产品摄影，展示一个奢华香水瓶，位于温暖朴素的静物场景中央。产品是一个清澈的矩形玻璃瓶，装满金色琥珀色液体，顶部有光泽的圆形黑色瓶盖，正面有白色标签，上面写着\"BYREDO\"、\"BAL D'AFRIQUE\"和\"EAU DE PARFUM\"。将瓶子直立放置在一块弯曲的浅色风化漂流木上，周围覆盖着一层茂密的深绿色苔藓地毯，覆盖前景和下半部分画面。使用极简的影棚构图，产品与平滑的暖棕色到琥珀色渐变背景分离，柔和照明如同日落光线。从右上角用戏剧性的方向性暖光照明场景，在背景上产生明亮的光晕，在瓶盖上形成鲜明的高光，玻璃中有柔和的反射，在木头和苔藓上投下柔和的阴影。保持垂直构图，瓶子在构图中略微居中偏下，上方有充足的负空间，整体氛围自然、奢华、质朴、电影感，并像高级香水广告拍摄一样精致。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:35.939Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Editorial Perfume Shot on Moss",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "杂志香水苔藓拍摄",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:34.063Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -81,16 +95,13 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "product-marketing",
+    "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.8,
     "matchedBy": [
-      "product",
-      "e-commerce",
-      "产品",
-      "电商",
-      "主图"
+      "poster",
+      "illustration"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.554Z"
+    "classifiedAt": "2026-05-06T11:41:23.604Z"
   }
 }

@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Luxury Perfume Ad on Marble Vanity",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 大理石梳妆台上的奢华香水广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:41.706Z"
+      }
+    }
   },
   "description": {
     "original": null,

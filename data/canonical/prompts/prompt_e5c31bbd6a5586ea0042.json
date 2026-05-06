@@ -21,7 +21,14 @@
       "value": "Anime Characters in Real Izakaya Photo",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫角色在真实居酒屋照片",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:22.760Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -42,9 +42,14 @@
             <select id="filter-code"></select>
           </label>
           <label>
-            处理命令
+            处理类型
             <select id="filter-resolution"></select>
           </label>
+
+          <h2>发布输出</h2>
+          <button data-action="catalog-export" type="button">导出最新 catalog</button>
+          <button data-action="readme-generate" type="button">生成 README 文件</button>
+          <button data-action="workflow" type="button">重跑发布流程</button>
 
           <h2>智谱 AI 配置</h2>
           <label>
@@ -94,12 +99,25 @@
             限制数量
             <input id="action-limit" type="number" min="1" step="1" placeholder="可选">
           </label>
-          <button data-action="translate" data-language="zh-CN" type="button">补齐 zh-CN 翻译</button>
-          <button data-action="translate" data-language="en" type="button">补齐 en 翻译</button>
-          <button data-action="mirror-assets" type="button">镜像缺失资源</button>
-          <button data-action="classify" type="button">重新归类</button>
-          <button data-action="refresh-report" type="button">刷新当前报告</button>
-          <button data-action="workflow" type="button">重跑发布流程</button>
+          <h2>打包翻译</h2>
+          <label>
+            目标语言
+            <select id="batch-translation-language"></select>
+          </label>
+          <label>
+            每批条数
+            <input id="batch-size" type="number" min="1" step="1" value="20">
+          </label>
+          <button data-action="translate" data-batch="translation" type="button">打包补齐所选语言</button>
+
+          <h2>快捷操作</h2>
+          <div class="quick-actions">
+            <button data-action="translate" data-language="zh-CN" type="button">补齐 zh-CN 翻译</button>
+            <button data-action="translate" data-language="en" type="button">补齐 en 翻译</button>
+            <button data-action="mirror-assets" type="button">镜像缺失资源</button>
+            <button data-action="classify" type="button">重新归类</button>
+            <button data-action="refresh-report" type="button">刷新当前报告</button>
+          </div>
 
           <h2>人工归类</h2>
           <label>
@@ -108,7 +126,7 @@
           </label>
 
           <h2>操作说明</h2>
-          <p class="muted">批量按钮会按当前队列执行白名单命令；单条按钮只修正该行对应的 prompt 字段、资源或分类。</p>
+          <p class="muted">批量按钮会按当前队列执行白名单命令；单条按钮只修正该行对应的 prompt 字段、资源或分类。发布输出只读取当前标准数据或当前 catalog，不会重新抓取上游。</p>
 
           <h2>问题详情</h2>
           <button id="fix-selected" type="button" disabled>修正所选问题</button>

@@ -6,7 +6,14 @@
       "value": "Enhance this iPhone photo with ChatGPT so it looks like a professional photographer and designer worked on it.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用ChatGPT增强这张iPhone照片，使其看起来像是专业摄影师和设计师处理过的。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:29.653Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Pro Instagram Photo Enhancement",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "专业Instagram照片增强",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:31.817Z"
+      }
+    }
   },
   "description": {
     "original": {
@@ -22,7 +36,14 @@
       "value": "Reconstructed from the post text, which compares an iPhone photo with a ChatGPT-enhanced result.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "从帖子文本重建，该文本比较了iPhone照片与ChatGPT增强后的结果。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:35.476Z"
+      }
+    }
   },
   "sourceCategories": [
     {

@@ -6,7 +6,14 @@
       "value": "A highly realistic low-angle shot of a confident young woman with long, vibrant red hair, holding a watermelon juice can close to the camera in a dramatic perspective. The can appears large in the foreground due to forced perspective, with sharp focus on the product. The woman has fair skin, natural makeup, and a subtle confident expression, looking slightly down toward the camera.\n\nShe is wearing a fitted blue sleeveless crop top and light gray sweatpants. Her posture is relaxed yet bold, with one arm extended forward holding the can.\n\nThe background is a smooth, colorful gradient blending blue, orange, and red tones, creating a vibrant summer aesthetic. Bright natural sunlight illuminates the scene with soft shadows and high contrast, giving a clean commercial photography look.\n\nThe juice can design features a watermelon theme with red and green colors, minimal modern typography, and realistic texture details like condensation droplets.\n\nUltra-detailed, photorealistic, 8K resolution, sharp focus, shallow depth of field, professional product photography, vibrant colors, cinematic lighting.\n\nAdd text: \"Your name\" in small clean white font at the upper right corner.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个极具真实感的低角度拍摄，画面中是一位自信的年轻女子，拥有鲜艳的红色长发，手持西瓜汁罐，以戏剧性的视角靠近镜头。由于强制透视效果，罐子在前景中显得很大，产品清晰对焦。这位女子肤色白皙，妆容自然，表情自信而微妙，略微低头看向镜头。\n\n她穿着一件合身的蓝色无袖露脐上衣和浅灰色运动裤。她的姿势放松而大胆，一只手臂向前伸直，拿着罐子。\n\n背景是一个平滑的彩色渐变，融合了蓝色、橙色和红色调，营造出充满活力的夏日美感。明亮的自然阳光照亮了整个场景，带有柔和的阴影和高对比度，呈现出干净的商业摄影效果。\n\n果汁罐的设计采用西瓜主题，红绿配色，简约现代的字体，以及真实的纹理细节，如冷凝水滴。\n\n超详细，照片般逼真，8K分辨率，清晰对焦，浅景深，专业产品摄影，鲜艳色彩，电影级照明。\n\n在右上角添加小而整洁的白色字体文字：\"Your name\"。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:28:56.693Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Product Photography Juice Ad",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "产品摄影果汁广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:28:58.621Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -20,7 +20,14 @@
       "value": "黑神话潘金莲绝美游戏封面",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Black Myth Pan Jinlian stunning game cover",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:03:02.198Z"
+      }
+    }
   },
   "description": {
     "original": null,

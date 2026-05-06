@@ -59,6 +59,7 @@ function taxonomyTranslationTasks(prompt, language, fields) {
     for (const item of prompt[fieldName] || []) {
       if (!item.value || item.language === language) continue;
       if (item.translationOf) continue;
+      if (item.taxonomy === 'canonical') continue;
       const exists = (prompt[fieldName] || []).some(candidate =>
         candidate.language === language && candidate.translationOf === item.id
       );
@@ -168,6 +169,59 @@ async function translateWithRetry(task, provider, options) {
   throw lastError;
 }
 
+async function translateBatchWithRetry(items, provider, options) {
+  let lastError = null;
+
+  for (let attempt = 0; attempt <= options.retries; attempt++) {
+    try {
+      return await provider({ items });
+    } catch (error) {
+      lastError = error;
+      if (attempt >= options.retries || !shouldRetryTranslation(error)) break;
+      await options.sleep(options.retryBaseDelayMs * (2 ** attempt));
+    }
+  }
+
+  throw lastError;
+}
+
+function extractJsonPayload(value) {
+  const text = String(value || '').trim();
+  const fenceMatch = text.match(/^```(?:json)?\s*([\s\S]*?)\s*```$/i);
+  if (fenceMatch) return fenceMatch[1].trim();
+
+  const arrayStart = text.indexOf('[');
+  const arrayEnd = text.lastIndexOf(']');
+  if (arrayStart >= 0 && arrayEnd > arrayStart) return text.slice(arrayStart, arrayEnd + 1);
+
+  const objectStart = text.indexOf('{');
+  const objectEnd = text.lastIndexOf('}');
+  if (objectStart >= 0 && objectEnd > objectStart) return text.slice(objectStart, objectEnd + 1);
+
+  return text;
+}
+
+function normalizeBatchTranslationResponse(response) {
+  const payload = typeof response === 'string' ? JSON.parse(extractJsonPayload(response)) : response;
+  const items = Array.isArray(payload)
+    ? payload
+    : payload?.translations || payload?.results || payload?.items;
+
+  if (!Array.isArray(items)) {
+    throw new Error('Batch translation response must be a JSON array.');
+  }
+
+  return items.map(item => {
+    const id = item?.id;
+    const text = item?.text ?? item?.translation ?? item?.value;
+    if (!id) throw new Error('Batch translation item is missing id.');
+    if (typeof text !== 'string' || !text.trim()) {
+      throw new Error(`Batch translation item ${id} is missing text.`);
+    }
+    return { id: String(id), text };
+  });
+}
+
 function createZhipuProvider(options = {}) {
   const env = options.env || process.env;
   const fetchImpl = options.fetch || fetch;
@@ -218,6 +272,93 @@ function createZhipuProvider(options = {}) {
   };
 }
 
+function createZhipuBatchProvider(options = {}) {
+  const env = options.env || process.env;
+  const fetchImpl = options.fetch || fetch;
+  const apiKey = options.apiKey || env.ZHIPUAI_API_KEY || env.AI_TRANSLATION_API_KEY;
+  const model = options.model || env.ZHIPUAI_MODEL || env.AI_TRANSLATION_MODEL || 'glm-4.5-flash';
+  const baseUrl = (options.baseUrl || env.ZHIPUAI_BASE_URL || env.AI_TRANSLATION_BASE_URL || 'https://open.bigmodel.cn/api/paas/v4').replace(/\/$/, '');
+
+  if (!apiKey) {
+    throw new Error('Missing ZHIPUAI_API_KEY or AI_TRANSLATION_API_KEY for translation.');
+  }
+
+  return async function zhipuBatchProvider(request) {
+    const items = (request.items || []).map(item => ({
+      id: item.id,
+      sourceLanguage: item.sourceLanguage,
+      targetLanguage: item.targetLanguage,
+      fieldPath: item.fieldPath,
+      text: item.text
+    }));
+
+    const response = await fetchImpl(`${baseUrl}/chat/completions`, {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+        authorization: `Bearer ${apiKey}`
+      },
+      body: JSON.stringify({
+        model,
+        temperature: 0.2,
+        stream: false,
+        messages: [
+          {
+            role: 'system',
+            content: [
+              'You translate image generation prompt datasets in batches.',
+              'Preserve placeholders, JSON shape, markdown punctuation, parameter names, and quoted literals.',
+              'Return only JSON: an array of objects with id and text. Keep every id unchanged.'
+            ].join(' ')
+          },
+          {
+            role: 'user',
+            content: [
+              'Translate each item to its targetLanguage.',
+              'Return every item exactly once as [{"id":"...","text":"..."}].',
+              '',
+              JSON.stringify(items, null, 2)
+            ].join('\n')
+          }
+        ]
+      })
+    });
+
+    if (!response.ok) {
+      const error = new Error(`Translation API failed with ${response.status}: ${await response.text()}`);
+      error.status = response.status;
+      throw error;
+    }
+
+    const data = await response.json();
+    return normalizeBatchTranslationResponse(data.choices?.[0]?.message?.content || '');
+  };
+}
+
+function chunkItems(items, size) {
+  const chunks = [];
+  for (let index = 0; index < items.length; index += size) {
+    chunks.push(items.slice(index, index + size));
+  }
+  return chunks;
+}
+
+function batchTaskId(index) {
+  return `task_${String(index + 1).padStart(6, '0')}`;
+}
+
+function batchRequestItem(entry) {
+  const task = entry.task;
+  return {
+    id: entry.id,
+    promptId: task.prompt.id,
+    fieldPath: task.fieldPath,
+    sourceLanguage: task.sourceLanguage,
+    targetLanguage: task.targetLanguage,
+    text: task.text
+  };
+}
+
 async function translateMissing(options = {}) {
   const projectRoot = options.projectRoot || defaultProjectRoot();
   const datasetPath = path.join(projectRoot, 'data', 'canonical', 'prompts.json');
@@ -227,15 +368,20 @@ async function translateMissing(options = {}) {
   const report = options.report || new Report();
   const limit = Number.isFinite(options.limit) ? options.limit : Infinity;
   const dryRun = Boolean(options.dryRun);
-  if (!dryRun && !options.provider) loadProjectEnv(projectRoot);
+  const batchSize = parsePositiveInteger(options.batchSize, 1);
+  const useBatch = batchSize > 1 && (dryRun || options.batchProvider || !options.provider);
+  if (!dryRun && ((useBatch && !options.batchProvider) || (!useBatch && !options.provider))) {
+    loadProjectEnv(projectRoot);
+  }
   const env = options.env || process.env;
-  const usesRealProvider = !dryRun && !options.provider;
+  const usesRealProvider = !dryRun && ((useBatch && !options.batchProvider) || (!useBatch && !options.provider));
   const delayMs = parseNonNegativeInteger(options.delayMs ?? env.TRANSLATION_DELAY_MS, usesRealProvider ? DEFAULT_REAL_PROVIDER_DELAY_MS : 0);
   const retries = parseNonNegativeInteger(options.retries ?? env.TRANSLATION_RETRIES, usesRealProvider ? DEFAULT_REAL_PROVIDER_RETRIES : 0);
   const retryBaseDelayMs = parseNonNegativeInteger(options.retryBaseDelayMs ?? env.TRANSLATION_RETRY_BASE_DELAY_MS, DEFAULT_RETRY_BASE_DELAY_MS);
   const concurrency = parsePositiveInteger(options.concurrency ?? env.TRANSLATION_CONCURRENCY, usesRealProvider ? DEFAULT_REAL_PROVIDER_CONCURRENCY : 1);
   const sleep = options.sleep || defaultSleep;
-  const provider = options.provider || (dryRun ? async () => '' : createZhipuProvider(options.providerOptions));
+  const provider = useBatch ? null : (options.provider || (dryRun ? async () => '' : createZhipuProvider(options.providerOptions)));
+  const batchProvider = useBatch ? (options.batchProvider || (dryRun ? async () => [] : createZhipuBatchProvider(options.providerOptions))) : null;
   const onProgress = typeof options.onProgress === 'function' ? options.onProgress : () => {};
 
   const tasks = buildTasks(dataset, languages, fields, {
@@ -244,16 +390,38 @@ async function translateMissing(options = {}) {
   }).slice(0, limit);
   let translatedCount = 0;
   let failedCount = 0;
+  let batchCount = 0;
   let nextTaskIndex = 0;
 
-  async function runTask(task, index) {
-    const progress = {
+  function taskProgress(task, index) {
+    return {
       index: index + 1,
       total: tasks.length,
       promptId: task.prompt.id,
       fieldPath: task.fieldPath,
       targetLanguage: task.targetLanguage
     };
+  }
+
+  function batchProgress(entries, batchIndex, batchTotal) {
+    const languages = Array.from(new Set(entries.map(entry => entry.task.targetLanguage))).join(',');
+    const firstIndex = entries[0]?.index ?? 0;
+    const lastIndex = entries[entries.length - 1]?.index ?? firstIndex;
+    return {
+      batchIndex: batchIndex + 1,
+      batchTotal,
+      batchSize: entries.length,
+      taskStartIndex: firstIndex + 1,
+      taskEndIndex: lastIndex + 1,
+      total: tasks.length,
+      targetLanguage: languages,
+      translatedCount,
+      failedCount
+    };
+  }
+
+  async function runTask(task, index) {
+    const progress = taskProgress(task, index);
     onProgress({ type: 'start', ...progress, translatedCount, failedCount });
 
     try {
@@ -277,6 +445,52 @@ async function translateMissing(options = {}) {
     }
   }
 
+  async function runBatch(entries, batchIndex, batchTotal) {
+    batchCount++;
+    const batch = batchProgress(entries, batchIndex, batchTotal);
+    onProgress({ type: 'batch-start', ...batch });
+
+    for (const entry of entries) {
+      onProgress({ type: 'start', ...taskProgress(entry.task, entry.index), translatedCount, failedCount });
+    }
+
+    try {
+      if (!dryRun) {
+        const requestItems = entries.map(batchRequestItem);
+        const translatedItems = normalizeBatchTranslationResponse(await translateBatchWithRetry(requestItems, batchProvider, { retries, retryBaseDelayMs, sleep }));
+        const translatedById = new Map(translatedItems.map(item => [item.id, item.text]));
+        const missing = requestItems.filter(item => !String(translatedById.get(item.id) || '').trim());
+        if (missing.length) {
+          throw new Error(`Batch translation response missing ${missing.length} item(s).`);
+        }
+
+        for (const entry of entries) {
+          if (applyTranslation(entry.task, translatedById.get(entry.id))) translatedCount++;
+        }
+        const lastIndex = entries[entries.length - 1]?.index ?? tasks.length - 1;
+        if (delayMs > 0 && lastIndex < tasks.length - 1) await sleep(delayMs);
+      }
+
+      for (const entry of entries) {
+        onProgress({ type: 'success', ...taskProgress(entry.task, entry.index), translatedCount, failedCount });
+      }
+      onProgress({ type: 'batch-success', ...batchProgress(entries, batchIndex, batchTotal) });
+    } catch (error) {
+      failedCount += entries.length;
+      const languages = Array.from(new Set(entries.map(entry => entry.task.targetLanguage))).join(',');
+      report.warn({
+        code: 'translation_batch_failed',
+        message: `Translation batch ${batchIndex + 1} failed for ${entries.length} item(s): ${error.message}`,
+        suggestedAction: 'Check translation provider credentials, rate limits, response JSON, or retry this batch.',
+        resolutionCommand: `pnpm translate -- --missing --lang ${languages}`
+      });
+      for (const entry of entries) {
+        onProgress({ type: 'failure', ...taskProgress(entry.task, entry.index), translatedCount, failedCount, error: error.message });
+      }
+      onProgress({ type: 'batch-failure', ...batchProgress(entries, batchIndex, batchTotal), error: error.message });
+    }
+  }
+
   async function runWorker() {
     while (nextTaskIndex < tasks.length) {
       const index = nextTaskIndex++;
@@ -284,12 +498,20 @@ async function translateMissing(options = {}) {
     }
   }
 
-  await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, runWorker));
+  if (useBatch) {
+    const entries = tasks.map((task, index) => ({ id: batchTaskId(index), task, index }));
+    const batches = chunkItems(entries, batchSize);
+    for (let index = 0; index < batches.length; index++) {
+      await runBatch(batches[index], index, batches.length);
+    }
+  } else {
+    await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, runWorker));
+  }
 
   report.info({
     code: 'translation_completed',
-    message: `Translated ${translatedCount} item(s); ${failedCount} failed; ${tasks.length} task(s) considered.`,
-    suggestedAction: failedCount ? 'Review translation_failed warnings.' : 'Run validate to refresh the report.'
+    message: `Translated ${translatedCount} item(s); ${failedCount} failed; ${tasks.length} task(s) considered; ${batchCount} batch(es).`,
+    suggestedAction: failedCount ? 'Review translation warnings.' : 'Run validate to refresh the report.'
   });
 
   if (!dryRun && !options.dataset) {
@@ -302,7 +524,7 @@ async function translateMissing(options = {}) {
     throw error;
   }
 
-  return { dataset, report, taskCount: tasks.length, translatedCount, failedCount };
+  return { dataset, report, taskCount: tasks.length, translatedCount, failedCount, batchCount };
 }
 
 function parseArgs(argv) {
@@ -319,6 +541,7 @@ function parseArgs(argv) {
     retries: undefined,
     retryBaseDelayMs: undefined,
     concurrency: undefined,
+    batchSize: undefined,
     refreshReport: false,
     targetLanguages: []
   };
@@ -350,6 +573,8 @@ function parseArgs(argv) {
       args.retryBaseDelayMs = Number(rest[++i]);
     } else if (arg === '--concurrency') {
       args.concurrency = Number(rest[++i]);
+    } else if (arg === '--batch-size') {
+      args.batchSize = Number(rest[++i]);
     } else if (arg === '--prompt-id') {
       args.promptId = rest[++i];
     } else if (arg === '--field-path') {
@@ -367,7 +592,8 @@ function parseArgs(argv) {
 async function main(argv = process.argv.slice(2)) {
   const args = parseArgs(argv);
   const result = await translateMissing(args);
-  console.log(`Translation tasks: ${result.taskCount}; translated: ${result.translatedCount}; failed: ${result.failedCount}.`);
+  const batchSummary = result.batchCount ? `; batches: ${result.batchCount}` : '';
+  console.log(`Translation tasks: ${result.taskCount}${batchSummary}; translated: ${result.translatedCount}; failed: ${result.failedCount}.`);
   if (args.refreshReport) {
     const refreshed = refreshCurrentReport({ projectRoot: args.projectRoot, targetLanguages: args.targetLanguages });
     const summary = refreshed.report.toJSON().summary;
@@ -387,6 +613,7 @@ module.exports = {
   FIELD_NAMES,
   buildTasks,
   translateMissing,
+  createZhipuBatchProvider,
   createZhipuProvider,
   parseArgs,
   main

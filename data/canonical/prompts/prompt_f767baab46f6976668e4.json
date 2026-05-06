@@ -6,7 +6,14 @@
       "value": "Create a photorealistic lifestyle image of a cute compact hatchback car in {argument name=\"car color\" default=\"pale mint green\"} parked in a seaside parking lot on a bright sunny day. The car is shown in full side view, facing right, with the front passenger door open to reveal a warm beige leather interior with wood-toned trim and a rounded modern dashboard. A young blonde woman stands casually in front of the open door, one hand on her hip, wearing a light mint cardigan over a short white floral summer romper and brown sandals; her face is softly anonymized and featureless. The setting is a clean asphalt coastal parking area with white painted parking lines, several other parked cars in the background, tropical plants and palms at the edges, and a vivid turquoise ocean beyond the road. Add distant green mountains and small islands across the horizon under a clear pale blue sky with a few soft clouds. Use a cheerful, cute, aspirational travel aesthetic, realistic reflections on the glossy car paint, crisp daylight shadows, wide-angle composition, high detail, natural colors, and the feeling of wanting a beloved custom-colored car for a beach trip.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个逼真的生活方式图像，一辆可爱的紧凑型掀背车，颜色为{argument name=\"car color\" default=\"淡薄荷绿}\"，停在海边停车场的一个阳光明媚的日子里。汽车以完整的侧面视图展示，面向右侧，前乘客门打开，露出温暖的米色皮革内饰，带有木色调装饰和圆形的现代仪表盘。一位年轻的金发女子随意地站在打开的车门前，一只手放在臀部，穿着淡薄荷色开衫，搭配白色花卉夏季短款连体衣和棕色凉鞋；她的脸被柔和地匿名化，没有特征。场景是一个干净的海边沥青停车场，有白色画线的停车位，背景中有几辆其他停放的汽车，边缘有热带植物和棕榈树，道路外是一片生动的绿松石色海洋。在地平线远处添加绿色的山脉和小岛屿，天空是清澈的淡蓝色，有几朵柔软的云朵。使用欢快、可爱、有抱负的旅行美学，光滑车漆上的逼真反射，清晰的日光阴影，广角构图，高细节，自然色彩，以及想要一辆心爱的定制颜色汽车去海滩旅行的感觉。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:10:19.143Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A photorealistic seaside lifestyle scene featuring a cute pale mint compact car with an open door and a summer-dressed woman, useful for custom car concept visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个逼真的海边生活方式场景，展示了一辆可爱的淡薄荷色小型敞篷车，车门打开，车旁有一位穿着夏日服装的女性，适用于定制汽车概念视觉设计。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:10:09.398Z"
+      }
+    }
   },
   "sourceCategories": [
     {

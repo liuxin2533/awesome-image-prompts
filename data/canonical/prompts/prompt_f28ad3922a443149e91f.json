@@ -6,7 +6,14 @@
       "value": "{\"type\":\"Chinese zodiac-style character infographic poster\",\"subject\":\"twelve zodiac character list, water signs edition\",\"language\":\"Traditional Chinese\",\"format\":\"vertical poster\",\"style\":{\"overall\":\"elegant anime-inspired character catalog with editorial infographic layout\",\"rendering\":\"soft polished digital illustration, pastel gradients, delicate sparkles, ornamental border design\",\"mood\":\"dreamy, celestial, refined, feminine, aquatic\"},\"canvas\":{\"aspect_ratio\":\"2:3\",\"background\":\"very light pearl white with pale blue-lavender tint, subtle texture, thin decorative frame with filigree corners and tiny stars\"},\"header\":{\"title\":\"{argument name=\\\"headline text\\\" default=\\\"十二星座角色清單|水象星座\\\"}\",\"subtitle\":\"感受・直覺・共鳴\",\"icons\":[\"small stars\",\"water droplet emblem in top right\",\"curled cloud-like line art in top left\"]},\"layout\":{\"sections_count\":3,\"sections\":[{\"title\":\"巨蟹座 Cancer\",\"position\":\"top panel\",\"theme_color\":\"powder blue\",\"zodiac_symbol\":\"Cancer glyph inside circle at left\",\"constellation\":\"Cancer constellation at upper right\",\"count\":6,\"labels\":[\"元素:水\",\"概念:情感守護者,把人放在心上\",\"性格:溫柔、敏感、顧家\",\"行動原則:先確認感受,再保護重要的人\",\"戀愛傾向:慢慢靠近,越熟越黏\",\"人際怪癖:嘴上說沒事,實際會記很久\"],\"character\":{\"identity\":\"same young woman model reimagined as zodiac character\",\"pose\":\"half-body portrait, facing forward, arms gently wrapped around a large seashell pillow\",\"hair\":\"long dark hair in a low ponytail\",\"outfit\":\"light blue celestial slip dress with lace trim and sheer cardigan embroidered with stars and moons\",\"accessories\":\"minimal jewelry\",\"background\":\"soft blue night sky with crescent moon, seashell, sparkling stars, stylized ocean wave and tiny water droplets\"}},{\"title\":\"天蠍座 Scorpio\",\"position\":\"middle panel\",\"theme_color\":\"deep violet\",\"zodiac_symbol\":\"Scorpio glyph inside circle at left\",\"constellation\":\"Scorpio constellation at upper right\",\"count\":6,\"labels\":[\"元素:水\",\"概念:深海偵察者,情緒有深度\",\"性格:專注、神秘、意志強\",\"行動原則:先觀察,再一擊到位\",\"戀愛傾向:愛得深,重忠誠與獨占感\",\"人際怪癖:越在乎越不說,會偷偷試探\"],\"character\":{\"identity\":\"same young woman model reimagined as zodiac character\",\"pose\":\"half-body portrait, one hand near chin in a composed, enigmatic gesture\",\"hair\":\"long dark ponytail\",\"outfit\":\"black semi-sheer dress with gothic details and a dark plum off-shoulder shawl\",\"accessories\":\"dangling earrings and layered necklace\",\"background\":\"dark purple celestial sea scene with crescent moon, bubbles, stars, and curling misty water shapes\"}},{\"title\":\"雙魚座 Pisces\",\"position\":\"bottom panel\",\"theme_color\":\"lavender\",\"zodiac_symbol\":\"Pisces glyph inside circle at left\",\"constellation\":\"Pisces constellation at upper right\",\"count\":6,\"labels\":[\"元素:水\",\"概念:夢境共感者,靠直覺導航\",\"性格:浪漫、柔軟、有想像力\",\"行動原則:先感受,再順流找答案\",\"戀愛傾向:容易心動,渴望靈魂陪伴\",\"人際怪癖:常把別人的情緒也一起感受\"],\"character\":{\"identity\":\"same young woman model reimagined as zodiac character\",\"pose\":\"half-body portrait, one hand lifted as if balancing floating bubbles, other hand resting lightly at chest\",\"hair\":\"long dark ponytail with a pale flower hair ornament\",\"outfit\":\"translucent lavender fantasy dress with soft draped sleeves and shimmering fabric\",\"accessories\":\"delicate earrings and necklace\",\"background\":\"pale lilac underwater-celestial blend with bubbles, sparkles, and flowing translucent wave forms\"}}],\"dividers\":\"three horizontal framed panels with thin ornamental borders\"},\"footer\":{\"center_icon\":\"small blue seashell emblem\",\"decorations\":[\"tiny stars\",\"fine scrollwork\"]},\"constraints\":[\"all three zodiac entries must use the same woman as the base character with different styling, clothing, pose, and mood\",\"text should be clean, editorial, and readable\",\"each panel should clearly separate illustration area on the left and text block on the right\",\"maintain cohesive water-element theme across all 3 signs\",\"do not include the other nine zodiac signs in this image\"]}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"type\": \"中國生肖風格角色資訊海報\",\n  \"subject\": \"十二生肖角色列表，水象星座版\",\n  \"language\": \"Traditional Chinese\",\n  \"format\": \"垂直海報\",\n  \"style\": {\n    \"overall\": \"優雅的動漫風格角色目錄，編輯式資訊圖佈局\",\n    \"rendering\": \"柔和的精緻數位插畫，粉彩漸層，精緻閃光，裝飾性邊框設計\",\n    \"mood\": \"夢幻的，天體的，優雅的，女性化的，水元素的\"\n  },\n  \"canvas\": {\n    \"aspect_ratio\": \"2:3\",\n    \"background\": \"非常淺的珍珠白帶淡藍紫色调，微妙的質感，帶有精細角落裝飾和小星星的細緻裝飾框\"\n  },\n  \"header\": {\n    \"title\": \"{argument name=\\\"headline text\\\" default=\\\"十二星座角色清單|水象星座\\\"}\",\n    \"subtitle\": \"感受・直覺・共鳴\",\n    \"icons\": [\"小星星\", \"右上角的水滴徽章\", \"左上角的雲狀線條藝術\"]\n  },\n  \"layout\": {\n    \"sections_count\": 3,\n    \"sections\": [\n      {\n        \"title\": \"巨蟹座 Cancer\",\n        \"position\": \"頂部面板\",\n        \"theme_color\": \"淺藍色\",\n        \"zodiac_symbol\": \"左側圓圈內的巨蟹座符號\",\n        \"constellation\": \"右上角的巨蟹座星座\",\n        \"count\": 6,\n        \"labels\": [\n          \"元素:水\",\n          \"概念:情感守護者,把人放在心上\",\n          \"性格:溫柔、敏感、顧家\",\n          \"行動原則:先確認感受,再保護重要的人\",\n          \"戀愛傾向:慢慢靠近,越熟越黏\",\n          \"人際怪癖:嘴上說沒事,實際會記很久\"\n        ],\n        \"character\": {\n          \"identity\": \"同一年輕女性模特兒重新想像為生肖角色\",\n          \"pose\": \"半身肖像，面向前方，手臂輕柔地環繞著一個大型貝殼枕頭\",\n          \"hair\": \"長黑髮低馬尾\",\n          \"outfit\": \"淺藍色天體吊帶裙，帶蕾絲修飾和繡有星星月亮的薄開襟毛衣\",\n          \"accessories\": \"極簡珠寶\",\n          \"background\": \"柔和的藍色夜空，新月，貝殼，閃爍的星星，風格化的海浪和小水滴\"\n        }\n      },\n      {\n        \"title\": \"天蠍座 Scorpio\",\n        \"position\": \"中間面板\",\n        \"theme_color\": \"深紫色\",\n        \"zodiac_symbol\": \"左側圓圈內的天蠍座符號\",\n        \"constellation\": \"右上角的天蠍座星座\",\n        \"count\": 6,\n        \"labels\": [\n          \"元素:水\",\n          \"概念:深海偵察者,情緒有深度\",\n          \"性格:專注、神秘、意志強\",\n          \"行動原則:先觀察,再一擊到位\",\n          \"戀愛傾向:愛得深,重忠誠與獨占感\",\n          \"人際怪癖:越在乎越不說,會偷偷試探\"\n        ],\n        \"character\": {\n          \"identity\": \"同一年輕女性模特兒重新想像為生肖角色\",\n          \"pose\": \"半身肖像，一手靠近下巴，姿態沉著神秘\",\n          \"hair\": \"長黑馬尾\",\n          \"outfit\": \"黑色半透明連衣裙，帶哥德式細節和深紫色露肩披肩\",\n          \"accessories\": \"懸垂耳環和層層項鍊\",\n          \"background\": \"深紫色天體海景，新月，氣泡，星星，和捲曲的霧狀水形\"\n        }\n      },\n      {\n        \"title\": \"雙魚座 Pisces\",\n        \"position\": \"底部面板\",\n        \"theme_color\": \"薰衣草色\",\n        \"zodiac_symbol\": \"左側圓圈內的雙魚座符號\",\n        \"constellation\": \"右上角的雙魚座星座\",\n        \"count\": 6,\n        \"labels\": [\n          \"元素:水\",\n          \"概念:夢境共感者,靠直覺導航\",\n          \"性格:浪漫、柔軟、有想像力\",\n          \"行動原則:先感受,再順流找答案\",\n          \"戀愛傾向:容易心動,渴望靈魂陪伴\",\n          \"人際怪癖:常把別人的情緒也一起感受\"\n        ],\n        \"character\": {\n          \"identity\": \"同一年輕女性模特兒重新想像為生肖角色\",\n          \"pose\": \"半身肖像，一手舉起似在平衡漂浮的氣泡，另一手輕輕放在胸前\",\n          \"hair\": \"長黑馬尾，帶淺色花朵髮飾\",\n          \"outfit\": \"半透明的薰衣草色幻想連衣裙，帶柔軟垂袖和閃爍的布料\",\n          \"accessories\": \"精緻的耳環和項鍊\",\n          \"background\": \"淡紫色的水下天體融合，帶氣泡，閃光，和流動的半透明波浪形狀\"\n        }\n      }\n    ],\n    \"dividers\": \"三個帶細緻裝飾邊框的水平框架面板\"\n  },\n  \"footer\": {\n    \"center_icon\": \"小藍色貝殼徽章\",\n    \"decorations\": [\"小星星\", \"精緻的卷曲花紋\"]\n  },\n  \"constraints\": [\n    \"所有三個生肖條目必須使用同一女性作為基礎角色，但風格、服裝、姿態和情緒不同\",\n    \"文字應清晰、編輯風格、易讀\",\n    \"每個面板應明確分隔左側插畫區域和右側文字區塊\",\n    \"在三個星座中保持一致的水元素主題\",\n    \"不要在此圖像中包含其他九個星座\"\n  ]\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:35:48.752Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Water Signs Zodiac Character Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "水象星座性格海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:33:40.324Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -83,11 +97,12 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
       "poster",
       "illustration",
-      "anime"
+      "anime",
+      "海报"
     ],
     "classifiedAt": "2026-05-06T11:03:21.562Z"
   }

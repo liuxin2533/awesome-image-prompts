@@ -20,7 +20,14 @@
       "value": "真实动漫画面快照",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Realistic anime scene snapshot",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:59:53.162Z"
+      }
+    }
   },
   "description": {
     "original": null,

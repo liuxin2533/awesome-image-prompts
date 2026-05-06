@@ -51,6 +51,18 @@ const DEFAULT_CATEGORY_RULES = {
       keywords: ['comic', 'story', 'manga', '漫画', '分镜', '故事']
     },
     {
+      id: 'game-entertainment',
+      title: { en: 'Game & Entertainment', 'zh-CN': '游戏与娱乐' },
+      keywords: ['game', 'gameplay', 'gaming', 'league of legends', 'gta', 'minecraft', 'rust', 'hitman', 'among us', 'counter-strike', 'terraria', 'pixel art', 'black myth', 'wukong', '游戏', '娱乐', '英雄联盟', '黑神话', '悟空', '我的世界', '像素风'],
+      aliases: ['Game & Entertainment', '游戏与娱乐', '遊戲與娛樂', 'ゲーム・エンターテインメント', '게임과 엔터테인먼트', 'Jeu et divertissement', 'Spiele und Unterhaltung', 'Juegos y entretenimiento']
+    },
+    {
+      id: 'video-animation-collage',
+      title: { en: 'Video, Animation & Collage', 'zh-CN': '视频、动画与拼贴' },
+      keywords: ['movie collage', 'film collage', 'animation collage', 'collage', '拼贴'],
+      aliases: ['Video, Animation & Collage', '视频、动画与拼贴', '影片、動畫與拼貼', '動画・アニメーション・コラージュ', '영상, 애니메이션, 콜라주', 'Vidéo, animation et collage', 'Video, Animation und Collage', 'Video, animación y collage']
+    },
+    {
       id: 'architecture-interior',
       title: { en: 'Architecture & Interior', 'zh-CN': '建筑与空间' },
       keywords: ['architecture', 'interior', 'building', 'room', '建筑', '室内', '空间']
@@ -367,13 +379,6 @@ async function main(argv = process.argv.slice(2)) {
   console.log(`Classification: ${result.classifiedCount} classified, ${result.needsReviewCount} need review.`);
 }
 
-if (require.main === module) {
-  main().catch(error => {
-    console.error(error.stack || error.message);
-    process.exit(1);
-  });
-}
-
 module.exports = {
   DEFAULT_CATEGORY_RULES,
   assignPromptCategory,
@@ -386,3 +391,10 @@ module.exports = {
   readCategoryRules,
   writeCategoryRules
 };
+
+if (require.main === module) {
+  main().catch(error => {
+    console.error(error.stack || error.message);
+    process.exit(1);
+  });
+}

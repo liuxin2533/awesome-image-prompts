@@ -21,7 +21,14 @@
       "value": "Streetwear Sneaker Poster Ad",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "街头运动鞋海报广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:30.137Z"
+      }
+    }
   },
   "description": {
     "original": null,

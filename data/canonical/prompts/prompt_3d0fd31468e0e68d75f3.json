@@ -6,7 +6,14 @@
       "value": "A sleek {argument name=\"product color\" default=\"white\"} {argument name=\"product\" default=\"sunscreen lotion tube\"} stands upright on a {argument name=\"setting\" default=\"sunlit rock by the sea\"}. Light reflects off the gentle blue waves behind it, while fine droplets sparkle on the surface of the tube. The background sky fades into soft cyan, creating a clean and luxurious summer aesthetic. Simple composition, minimalist tone, bright daylight photography, ultra-sharp details, high-definition realism, stock photo quality.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个光滑的 {argument name=\"product color\" default=\"白色\"} {argument name=\"product\" default=\"防晒乳液管\"} 竖立在一个 {argument name=\"setting\" default=\"阳光照耀的海边岩石\"} 上。光线从它身后轻柔的蓝色波浪上反射，细小的水珠在管表面闪烁。背景天空渐变为柔和的青色，营造出干净而奢华的夏日美学。简单的构图，极简的色调，明亮的日光摄影，超精细的细节，高清晰度的现实主义， stock photo 质量。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:33.624Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A minimalist, high-definition stock photo prompt for luxury skincare branding set against a coastal backdrop.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个极简风格的高清库存照片提示，用于奢侈护肤品品牌，背景设在海边。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:39:35.751Z"
+      }
+    }
   },
   "sourceCategories": [
     {

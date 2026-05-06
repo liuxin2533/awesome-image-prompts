@@ -6,7 +6,14 @@
       "value": "这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "This is a real menu from Indian cuisine. Based on this, regenerate an engaging and mouth-watering descriptive image with text descriptions. First, use English text that is easily identifiable (for small mobile screens). This is beef roast.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:55:59.217Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "印度餐厅菜单改造宣传图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Indian Restaurant Menu Renovation Promotional Image",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:55:58.620Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -29,7 +43,23 @@
       "sourceKey": "freestylefly"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": "product-marketing",
+      "value": "Product & Marketing",
+      "language": "en",
+      "source": "manual",
+      "taxonomy": "canonical"
+    },
+    {
+      "id": "product-marketing-zh-cn",
+      "value": "产品与营销",
+      "language": "zh-CN",
+      "source": "manual",
+      "taxonomy": "canonical",
+      "translationOf": "product-marketing"
+    }
+  ],
   "sources": [
     {
       "sourceKey": "freestylefly",
@@ -64,11 +94,11 @@
   ],
   "updatedAt": "2026-05-06T11:06:41.866Z",
   "classification": {
-    "status": "needs_review",
-    "categoryId": null,
-    "source": "none",
-    "confidence": 0,
-    "reason": "no_rule_match",
-    "classifiedAt": "2026-05-06T11:06:54.908Z"
+    "status": "classified",
+    "categoryId": "product-marketing",
+    "source": "manual",
+    "confidence": 1,
+    "matchedBy": [],
+    "classifiedAt": "2026-05-06T13:43:25.436Z"
   }
 }

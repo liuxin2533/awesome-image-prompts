@@ -6,7 +6,14 @@
       "value": "A lively hand-drawn fashion portrait in a changed illustration style, made to look like a signed fan-art sketch drawn with markers on a square white shikishi board with a thin gold border. Show a stylish young woman from about the waist up, leaning slightly forward with one elbow resting up near her face in a casual, friendly pose. Her face area is covered by a simple rectangular censor block in a muted beige tone. She has shoulder-length medium brown hair with warm highlights, soft volume, side-swept bangs, and flipped-out ends. Render the art with expressive black ink outlines, visible marker strokes, watercolor-like blending, sketchy hatching, and an energetic, vivid handmade feel. She wears a fitted dark gray ribbed long-sleeve knit top with subtle puffed shoulders, layered delicate gold necklaces, a dangling pearl earring, a beige crossbody bag strap running diagonally across her chest, and a light beige skirt or dress visible at the waist. Leave plenty of clean white background around the figure. Add 2 small sparkle doodles on the left side. Add handwritten Japanese thank-you messages and signature-style black ink writing around the portrait: at upper right write {argument name=\"top message\" default=\"ありがとう！\"} with an underline and a small heart, beneath it place a large stylized autograph reading {argument name=\"signature name\" default=\"Yui\"} with a smiling face mark and a heart, at lower left write {argument name=\"side message\" default=\"いつも応援してくれてありがとう♡\"}, and at lower right write the date {argument name=\"date\" default=\"2024.5.20\"} with another heart. The overall image should feel warm, personal, lively, and like a celebratory signed illustration on a square autograph board.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一幅充满活力的手绘时尚肖像，采用变化的插画风格，看起来像是用马克笔在带有细金边的方形白色色板上签名的粉丝艺术素描。展示一位时尚的年轻女性，从腰部以上，身体微微前倾，一只手肘撑在脸附近，呈现休闲友好的姿势。她的脸部区域被一个简单的矩形遮挡块覆盖，颜色为柔和的米色调。她有及肩的中等棕色头发，带有温暖的挑染，蓬松柔软的质感，侧分刘海，以及向外翻翘的发梢。用富有表现力的黑色墨线轮廓、可见的马克笔笔触、水彩般的混合效果、素描式的阴影线，以及充满活力、生动的手工感来渲染这幅作品。她穿着一件合身的深灰色针织长袖上衣，带有微妙的泡泡袖，叠戴精致的黄金项链，垂坠的珍珠耳环，一条米色斜挎包带斜跨过胸部，腰部可见一条浅米色裙子或连衣裙。在人物周围留出充足的纯白色背景。在左侧添加2个小的闪光涂鸦。在肖像周围添加手写的日语感谢信息和签名风格的黑色墨水书写：在右上角写下{argument name=\"top message\" default=\"ありがとう！\"}，并加上下划线和一个小心形；在其下方放置一个大型风格化的签名，内容为{argument name=\"signature name\" default=\"Yui\"}，带有笑脸标记和心形；在左下角写下{argument name=\"side message\" default=\"いつも応援してくれてありがとう♡\"}；在右下角写下日期{argument name=\"date\" default=\"2024.5.20\"}，并加上另一个心形。整体图像应感觉温暖、个性化、充满活力，就像在方形签名板上庆祝性的签名插画。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:37:23.912Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "This generates a lively signed marker-style portrait on a square shikishi board, useful for fan-art autographs, commemorative illustration posts, and personalized thank-you visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这生成一个生动的签名马克笔风格肖像，位于方形色板上，适用于粉丝艺术签名、纪念性插图发布和个性化感谢视觉。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:37:21.264Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -121,9 +135,10 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 0.7,
+    "confidence": 0.8,
     "matchedBy": [
-      "illustration"
+      "illustration",
+      "插画"
     ],
     "classifiedAt": "2026-05-06T11:03:21.564Z"
   }

@@ -21,7 +21,14 @@
       "value": "CCD flash beauty portrait template",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "CCD闪光美容人像模板",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:24.266Z"
+      }
+    }
   },
   "description": {
     "original": null,

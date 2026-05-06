@@ -6,7 +6,14 @@
       "value": "high contrast street silhouette, strong directional sunlight from doorway, deep shadow foreground, bright overexposed exterior, {argument name=\"action\" default=\"subject walking through doorway\"}, full body silhouette, clear outline, minimal detail, cinematic composition, urban street photography style --2:3",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高对比度街道剪影，来自门口的强烈定向阳光，深色阴影前景，明亮过曝的外部，{argument name=\"action\" default=\"subject walking through doorway\"}，全身剪影，清晰轮廓，最小细节，电影构图，都市街头摄影风格 --2:3",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:54:27.166Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A prompt for street photography focusing on silhouettes, strong directional sunlight, and cinematic urban composition.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个专注于剪影、强烈方向性阳光和电影感城市构图的街头摄影提示。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:54:30.416Z"
+      }
+    }
   },
   "sourceCategories": [
     {

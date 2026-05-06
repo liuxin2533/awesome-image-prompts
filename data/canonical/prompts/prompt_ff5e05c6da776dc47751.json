@@ -6,7 +6,14 @@
       "value": "infográfico ASCII DENGUE",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "ASCII 登革热信息图",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:17.172Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "ASCII dengue infographic",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "ASCII登革热信息图",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:20.235Z"
+      }
+    }
   },
   "description": {
     "original": null,

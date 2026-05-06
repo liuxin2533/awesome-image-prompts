@@ -20,7 +20,14 @@
       "value": "烬甲猎鹰者与燃翼神禽",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Ash Armor Falconer and Burning Wing Divine Bird",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:01:01.237Z"
+      }
+    }
   },
   "description": {
     "original": null,

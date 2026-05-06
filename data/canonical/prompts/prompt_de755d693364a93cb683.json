@@ -20,7 +20,14 @@
       "value": "国风工笔八仙长卷插画",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Chinese Gongbi Style Eight Immortals Long Scroll Illustration",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:10:12.524Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "A striking black and white close-up portrait of a {argument name=\"subject description\" default=\"handsome young Asian man\"} with {argument name=\"hair style\" default=\"messy wet hair sticking to his forehead\"}. His face and neck are glistening, covered in highly detailed {argument name=\"skin texture detail\" default=\"water droplets and sweat\"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name=\"background\" default=\"pitch-black background\"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "A striking black and white close-up portrait of a {argument name=\"subject description\" default=\"handsome young Asian man\"} with {argument name=\"hair style\" default=\"messy wet hair sticking to his forehead\"}. His face and neck are glistening, covered in highly detailed {argument name=\"skin texture detail\" default=\"water droplets and sweat\"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name=\"background\" default=\"pitch-black background\"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:09:59.117Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "人像写实摄影图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Realistic portrait photography image",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:10:01.268Z"
+      }
+    }
   },
   "description": {
     "original": null,

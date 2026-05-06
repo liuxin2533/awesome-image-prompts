@@ -6,7 +6,14 @@
       "value": "A surreal medium-format portrait of a woman standing on a narrow garden path surrounded by extremely dense foliage, photographed in a dreamlike false-color film look. She wears a plain bright saturated {argument name=\"shirt color\" default=\"red\"} crew-neck T-shirt and dark black fitted pants, with shoulder-length dark hair that is slightly tousled and parted off-center. Her pose is relaxed and natural, arms hanging loosely at her sides, body facing the camera with a subtle turn, framed from about mid-thigh upward. The setting is an overgrown botanical garden packed with ferns, ivy, shrubs, and flowering plants on both sides of the path; all vegetation is dramatically color-shifted from green into vivid magenta, lavender, pink, and deep purple, creating an unnatural LomoChrome Purple XR aesthetic. Keep the subject's shirt intensely saturated and realistic against the transformed environment for strong visual contrast. Use soft overcast daylight, shallow to moderate depth of field, and medium format rendering with a {argument name=\"camera\" default=\"Mamiya RB67\"} feel, shot with a {argument name=\"lens\" default=\"90mm lens\"} at {argument name=\"aperture\" default=\"f/5.6\"}. Include organic film grain, slight edge halation, gentle vignette, soft bloom in highlights, and subtle vintage film border edges. Composition should be vertical in a {argument name=\"aspect ratio\" default=\"6:7\"} frame, with the subject centered slightly left of the path, foreground and background foliage softly blurred while remaining lush and detailed, producing an eerie, romantic, otherworldly portrait.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "超现实的中画幅肖像，一位女子站在狭窄的小径上，被极其茂密的植被包围，以梦幻般的伪彩色电影风格拍摄。她穿着一件纯色鲜艳饱和的{argument name=\"shirt color\" default=\"red\"}圆领T恤和深黑色修身裤，及肩的深色头发略微凌乱，中分。她的姿势放松自然，手臂松散地垂在身体两侧，身体略微转向相机，从大腿中部向上构图。场景是一个杂草丛生的植物园，小径两侧长满了蕨类植物、常春藤、灌木和开花植物；所有植被的颜色从绿色戏剧性地转变为鲜艳的洋红色、薰衣草色、粉色和深紫色，创造出一种不自然的LomoChrome Purple XR美学效果。让主体的衬衫保持高度饱和和真实，与变换的环境形成强烈的视觉对比。使用柔和的阴天光线，浅至中等景深，以及带有{argument name=\"camera\" default=\"Mamiya RB67\"}感觉的中画幅渲染，使用{argument name=\"lens\" default=\"90mm镜头\"}在{argument name=\"aperture\" default=\"f/5.6\"}拍摄。包含有机胶片颗粒，轻微的边缘光晕，柔和的暗角，高光处的柔和辉光，以及微妙的复古胶片边缘。构图应在{argument name=\"aspect ratio\" default=\"6:7\"}的垂直框架内，主体位于小径中心略微偏左的位置，前景和背景的植被柔和模糊，同时保持茂密和细节，产生一种诡异、浪漫、超凡脱俗的肖像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:36.841Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a surreal medium-format portrait of a woman in a vivid red shirt standing in a lush garden transformed into magenta and purple false-color film tones, ideal for cinematic editorial or experimental photography.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一幅超现实的中画幅肖像，描绘一个穿着鲜艳红色衬衫的女性站在一个茂盛的花园里，花园转变为洋红色和紫色的伪彩色电影色调，非常适合电影编辑或实验摄影。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:32.644Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -170,7 +184,8 @@
       "photography",
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "摄影"
     ],
     "classifiedAt": "2026-05-06T11:03:21.566Z"
   }

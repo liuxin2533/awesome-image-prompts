@@ -21,7 +21,14 @@
       "value": "Japanese Chinese Food Delivery Flyer",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本中餐外卖传单",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:33.082Z"
+      }
+    }
   },
   "description": {
     "original": null,

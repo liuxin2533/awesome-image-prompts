@@ -6,7 +6,14 @@
       "value": "A black-and-white manga page spread with 5 panels on a clean white background and thin black gutters, drawn in highly detailed modern seinen/shoujo hybrid line art with soft screentones, reflective highlights, and a quiet melancholic mood. The setting is a nighttime music studio classroom with large windows showing a city skyline full of lit buildings against a dark sky. Main subject: a slender high school girl with very long straight light hair and blunt bangs, delicate features, and a serious introspective expression, wearing a Japanese school uniform consisting of a white button-up shirt, loosened striped ribbon tie, and plaid skirt, seated and playing a solid-body electric guitar that resembles a Stratocaster. In the large upper-left panel, show her in three-quarter view holding the guitar across her lap, left hand on the fretboard and right hand near the pickups, surrounded by studio equipment including 1 drum kit in the back left, 2 stacked guitar amplifiers on the right, and a wall sign reading \"Beat Box\" near the door. In the narrow upper-right panel, show a close-up of the guitar neck and her fretting hand, with the small vertical Japanese sound effect text \"トン…\". In the tall middle-right panel, show a close side-profile close-up of the girl looking down at the instrument with a pensive, almost disappointed expression, with the night city lights blurred through the window behind her. In the lower-left panel, show 1 teenage boy in a school blazer and loosened tie, seated indoors and turned slightly to the side; his face is obscured by a large soft gray rectangular censor block, and beside him is 1 vertical speech balloon containing the Japanese text \"……やっぱり違う\". In the lower-right panel, show a closer view of the same boy from the chest up against a soft bokeh screentone background; his face is again obscured by a large gray censor block. Add printed page numbers centered at the bottom margins: \"5\" under the left page and \"6\" under the right page. Emphasize a subtle narrative theme of realizing that the sound feels wrong, as if this is a continuation page from a dramatic school-band manga. Keep everything monochrome, polished, cinematic, and emotionally restrained.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "黑白漫画跨页，5个面板，干净的白色背景，细黑分隔线，以高度精细的现代少年/少女混合线条艺术绘制，带有柔和的网点、反光高光和安静的忧郁氛围。场景是夜晚的音乐工作室教室，有大窗户可以看到城市天际线，建筑物灯火通明，映衬在黑暗的天空中。主要人物：一个苗条的高中女生，留着非常长的直发和齐刘海，精致的面容，严肃沉思的表情，穿着日本校服，包括白色衬衫、松开的条纹领带和格子裙，坐着弹奏一把类似Stratocaster的实心电吉他。在左上角的大面板中，以四分之三视角展示她抱着吉他放在腿上，左手在指板上，右手靠近拾音器，周围是工作室设备，包括左后方的一个架子鼓，右侧的两个堆叠的吉他放大器，以及门附近的墙上写着\"Beat Box\"的标志。在右上角的窄面板中，展示吉他颈部和她按弦手的特写，带有小的垂直日本拟声文字\"トン…\"。在右侧中间的高面板中，展示女孩的侧面特写，她低头看着乐器，表情沉思，几乎有些失望，她身后的窗户中模糊可见夜晚的城市灯光。在左下方面板中，展示一个穿着学校西装外套和松开领带的青少年男孩，室内坐着，身体略微侧向；他的脸被一个大的柔软灰色矩形审查块遮挡，他旁边有一个垂直的对话框，包含日文文本\"……やっぱり違う\"。在右下方面板中，展示同一个男孩从胸部以上的更近视角，背景是柔和的散景网点；他的脸再次被一个大的灰色审查块遮挡。在底部边缘中央添加印刷页码：左页下方为\"5\"，右页下方为\"6\"。强调一个微妙的叙事主题，意识到声音感觉不对，仿佛这是戏剧性校园乐队漫画的延续页面。保持所有内容为单色、精致、电影感，且情感内敛。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:54:55.152Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a detailed black-and-white manga page of a high school girl playing electric guitar in a night studio, ideal for dramatic AI manga storytelling scenes.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个详细的黑白漫画页面，描绘了一个高中女生在夜间工作室弹奏电吉他的场景，非常适合用于戏剧性的AI漫画叙事场景。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:54:59.277Z"
+      }
+    }
   },
   "sourceCategories": [
     {

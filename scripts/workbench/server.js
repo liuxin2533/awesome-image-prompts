@@ -103,6 +103,14 @@ function createWorkbenchServer(options = {}) {
         return sendJson(response, 202, record);
       }
 
+      if (request.method === 'GET' && url.pathname === '/api/actions/current') {
+        return sendJson(response, 200, runner.current());
+      }
+
+      if (request.method === 'GET' && url.pathname === '/api/actions/latest') {
+        return sendJson(response, 200, runner.latest ? runner.latest() : runner.current());
+      }
+
       if (request.method === 'GET' && url.pathname.startsWith('/api/actions/')) {
         const id = url.pathname.slice('/api/actions/'.length);
         const record = runner.get(id);

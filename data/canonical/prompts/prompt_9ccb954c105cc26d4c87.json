@@ -21,7 +21,14 @@
       "value": "3D Cartoon Character Render",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "3D卡通角色渲染",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:17.215Z"
+      }
+    }
   },
   "description": {
     "original": null,

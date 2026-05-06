@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T11:10:22.516Z",
+  "generatedAt": "2026-05-06T15:44:53.726Z",
   "languages": [
     "en",
     "zh-CN"
@@ -36,11 +36,14 @@
       "Brand & Logo",
       "Character Design",
       "Comic & Story",
+      "Game & Entertainment",
+      "General",
       "Infographic & Education",
       "Photography & Portrait",
       "Poster & Illustration",
       "Product & Marketing",
-      "UI & Social Media"
+      "UI & Social Media",
+      "Video, Animation & Collage"
     ],
     "zh-CN": [
       "产品与营销",
@@ -50,7 +53,10 @@
       "漫画与叙事",
       "品牌与标志",
       "摄影与人像",
+      "视频、动画与拼贴",
+      "通用",
       "信息图与教育",
+      "游戏与娱乐",
       "UI 与社交媒体"
     ]
   },
@@ -351,6 +357,7 @@
       "mikko_20100518",
       "min heo",
       "Mira",
+      "mirai_ai2050",
       "miratechtool",
       "mirochill",
       "Miz",
@@ -385,6 +392,7 @@
       "op7418",
       "opc_8838",
       "OpenNana",
+      "os_shim",
       "overseas58",
       "panchaaan_2",
       "Panda20230902",
@@ -924,6 +932,7 @@
       "mikko_20100518",
       "min heo",
       "Mira",
+      "mirai_ai2050",
       "miratechtool",
       "mirochill",
       "Miz",
@@ -958,6 +967,7 @@
       "op7418",
       "opc_8838",
       "OpenNana",
+      "os_shim",
       "overseas58",
       "panchaaan_2",
       "Panda20230902",

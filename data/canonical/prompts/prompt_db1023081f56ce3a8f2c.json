@@ -6,7 +6,14 @@
       "value": "{\r\n  \"type\": \"2-page manga spread\",\r\n  \"style\": \"monochrome anime manga, screentones\",\r\n  \"theme\": \"{argument name=\\\"main action\\\" default=\\\"fantasy mage developing a video game\\\"}\",\r\n  \"character\": \"{argument name=\\\"character appearance\\\" default=\\\"anime girl with blonde hair, tiara, cape, white dress, thigh-highs\\\"}\",\r\n  \"layout\": {\r\n    \"left_page\": {\r\n      \"panel_count\": 11,\r\n      \"rows\": [\r\n        {\"panels\": 1, \"action\": \"Determined at dual-monitor desk, speech bubble: '新作ゲーム、絶対完成させる！'\"},\r\n        {\"panels\": 3, \"action\": \"Typing, drawing on tablet, testing with controller\"},\r\n        {\"panels\": 3, \"action\": \"Shocked at ERROR screen, depressed, determined again\"},\r\n        {\"panels\": 4, \"action\": \"Exhausted, sudden realization, furious typing, monitor showing 'Build succeeded!'\"}\r\n      ]\r\n    },\r\n    \"right_page\": {\r\n      \"panel_count\": 2,\r\n      \"panels\": [\r\n        {\"type\": \"large splash\", \"action\": \"Casting magic from a glowing circle at a code-error monster labeled '{argument name=\\\"error text\\\" default=\\\"NullReferenceException\\\"}'. Speech bubble: '{argument name=\\\"spell text\\\" default=\\\"デバッグ魔法!!\\\"}'\"},\r\n        {\"type\": \"bottom banner\", \"action\": \"Cheering in front of RPG title screen. Speech bubble: '{argument name=\\\"success text\\\" default=\\\"やったー！\\\"}'\"}\r\n      ]\r\n    }\r\n  }\r\n}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "{\n  \"type\": \"2-page manga spread\",\n  \"style\": \"monochrome anime manga, screentones\",\n  \"theme\": \"{argument name=\\\"main action\\\" default=\\\"fantasy mage developing a video game\\\"}\",\n  \"character\": \"{argument name=\\\"character appearance\\\" default=\\\"anime girl with blonde hair, tiara, cape, white dress, thigh-highs\\\"}\",\n  \"layout\": {\n    \"left_page\": {\n      \"panel_count\": 11,\n      \"rows\": [\n        {\"panels\": 1, \"action\": \"Determined at dual-monitor desk, speech bubble: '新作ゲーム、絶対完成させる！'\"},\n        {\"panels\": 3, \"action\": \"Typing, drawing on tablet, testing with controller\"},\n        {\"panels\": 3, \"action\": \"Shocked at ERROR screen, depressed, determined again\"},\n        {\"panels\": 4, \"action\": \"Exhausted, sudden realization, furious typing, monitor showing 'Build succeeded!'\"}\n      ]\n    },\n    \"right_page\": {\n      \"panel_count\": 2,\n      \"panels\": [\n        {\"type\": \"large splash\", \"action\": \"Casting magic from a glowing circle at a code-error monster labeled '{argument name=\\\"error text\\\" default=\\\"NullReferenceException\\\"}'. Speech bubble: '{argument name=\\\"spell text\\\" default=\\\"デバッグ魔法!!\\\"}'\"},\n        {\"type\": \"bottom banner\", \"action\": \"Cheering in front of RPG title screen. Speech bubble: '{argument name=\\\"success text\\\" default=\\\"やったー！\\\"}'\"}\n      ]\n    }\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:09:39.197Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "主题海报版式设计",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Themed Poster Layout Design",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:09:41.940Z"
+      }
+    }
   },
   "description": {
     "original": null,

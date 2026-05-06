@@ -21,7 +21,14 @@
       "value": "Dark Gatorade-Style Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "暗色Gatorade风格肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:18.413Z"
+      }
+    }
   },
   "description": {
     "original": null,

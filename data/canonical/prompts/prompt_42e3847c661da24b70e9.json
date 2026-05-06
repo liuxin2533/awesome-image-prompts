@@ -21,7 +21,14 @@
       "value": "Damaged Vintage Mother and Child Photo",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "损坏的复古母子照片",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:24:50.908Z"
+      }
+    }
   },
   "description": {
     "original": null,

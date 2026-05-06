@@ -21,7 +21,14 @@
       "value": "Anime Friends Eating Soba",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫朋友吃荞麦面",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:53.293Z"
+      }
+    }
   },
   "description": {
     "original": null,

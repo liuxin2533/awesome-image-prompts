@@ -6,7 +6,14 @@
       "value": "{\"type\":\"vintage zodiac character infographic poster\",\"theme\":\"earth signs only\",\"language\":\"Traditional Chinese\",\"style\":{\"overall\":\"elegant editorial infographic with soft anime-inspired live-action portrait compositing\",\"palette\":\"warm beige, cream, taupe, olive-gray, muted brown, antique gold\",\"mood\":\"stable, refined, calm, practical\",\"texture\":\"aged paper background with subtle speckles and thin ornamental borders\",\"rendering\":\"clean high-resolution print poster, soft lighting, delicate botanical and celestial line art\"},\"poster\":{\"orientation\":\"vertical\",\"aspect_ratio\":\"3:4\",\"title\":\"十二星座角色清單|土象星座\",\"subtitle\":\"穩定・務實・沉著\",\"decorations\":[\"ornamental corner filigree\",\"small gold sparkles\",\"botanical branches\",\"mountain illustrations\",\"thin panel dividers\"],\"sections_count\":3},\"layout\":{\"sections\":[{\"title\":\"金牛座 Taurus\",\"position\":\"top\",\"count\":1,\"labels\":[\"元素:土\",\"概念:感官收藏家,穩穩生活\",\"性格:務實、耐心、重享受\",\"行動原則:先確認值得,再長線投入\",\"戀愛傾向:慢熱但專情,重安全感\",\"人際怪癖:對喜歡的人會默默餵食\"]},{\"title\":\"處女座 Virgo\",\"position\":\"middle\",\"count\":1,\"labels\":[\"元素:土\",\"概念:秩序管理者,細節控場\",\"性格:理性、細膩、可靠\",\"行動原則:先整理,再精準出手\",\"戀愛傾向:用照顧和實際行動表達喜歡\",\"人際怪癖:嘴上挑剔,心裡其實很在乎\"]},{\"title\":\"摩羯座 Capricorn\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"元素:土\",\"概念:登峰實幹家,目標導向\",\"性格:穩重、自律、有責任感\",\"行動原則:先規劃,再穩定推進\",\"戀愛傾向:慢熟務實,願意長期承諾\",\"人際怪癖:關心常包裝成提醒與安排\"]}],\"centerpiece\":\"three stacked horizontal character cards, each with a portrait on the left and text profile on the right\"},\"character\":{\"identity\":\"the same young East Asian woman appears in all 3 sections\",\"age\":\"early 20s\",\"hair\":\"long dark brown to black hair in a low ponytail with side part\",\"face\":\"soft feminine features, natural makeup, calm expression\",\"customization\":\"keep the same base character across all zodiac entries, differentiated by wardrobe, pose, props, and themed background motifs\"},\"cards\":[{\"sign\":\"Taurus\",\"symbol\":\"♉\",\"portrait\":{\"pose\":\"waist-up, slightly turned, holding a ceramic mug with both hands\",\"outfit\":\"cream knit sleeveless top under a soft sage-gray cardigan with delicate floral embroidery\",\"expression\":\"gentle, relaxed, nurturing\",\"props_count\":1,\"props\":[\"mug\"]},\"background\":\"large pale circular halo, floral branch illustration, soft botanical motifs, small mountain drawing in upper right\",\"visual_concept\":\"comfort, sensuality, domestic calm, slow living\"},{\"sign\":\"Virgo\",\"symbol\":\"♍\",\"portrait\":{\"pose\":\"waist-up, one hand holding a pen near the chin, the other arm holding an open notebook or planner\",\"outfit\":\"light cream blouse with a bow tie collar under a pale sage vest with gold buttons\",\"expression\":\"thoughtful, analytical, composed\",\"props_count\":2,\"props\":[\"pen\",\"notebook\"]},\"background\":\"fine geometric diagram lines, botanical sprigs, diamond emblem with leaf motif\",\"visual_concept\":\"order, precision, intelligence, organization\"},{\"sign\":\"Capricorn\",\"symbol\":\"♑\",\"portrait\":{\"pose\":\"waist-up, arms crossed, confident upright stance\",\"outfit\":\"charcoal tailored blazer over a dark vest and crisp white shirt, small round lapel pin\",\"expression\":\"serious, disciplined, self-assured\",\"props_count\":0,\"props\":[]},\"background\":\"dramatic layered mountain landscape in sepia tones with subtle star-like sparkles\",\"visual_concept\":\"ambition, endurance, authority, climbing toward goals\"}],\"typography\":{\"title_font\":\"classic high-contrast serif Chinese type\",\"sign_name_font\":\"large bold Chinese serif with elegant italic Latin zodiac name\",\"body_font\":\"clean readable Chinese print font\",\"icon_style\":\"filled circular brown icons next to each bullet line\"},\"composition\":{\"margin\":\"generous cream margins\",\"panel_style\":\"rounded rectangular panels with thin gold-brown borders\",\"spacing\":\"even vertical stacking with narrow separators\",\"text_alignment\":\"left-aligned profile bullets on the right side of each card\"}}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"復占星象角色資訊海報\",\"theme\":\"僅限土象星座\",\"language\":\"繁體中文\",\"style\":{\"overall\":\"優雅編輯資訊圖表，帶有柔和動漫啟發的真人肖像合成\",\"palette\":\"溫暖米色、奶油色、灰褐色、橄欖灰、柔和棕色、古金色\",\"mood\":\"穩定、優雅、平靜、務實\",\"texture\":\"有細微斑點和薄裝飾邊框的舊紙背景\",\"rendering\":\"清晰高解析度印刷海報，柔和照明，精緻的植物和天體線條藝術\"},\"poster\":{\"orientation\":\"垂直\",\"aspect_ratio\":\"3:4\",\"title\":\"十二星座角色清單|土象星座\",\"subtitle\":\"穩定・務實・沉著\",\"decorations\":[\"裝飾性角落花紋\",\"小金色閃光\",\"植物枝條\",\"山脈插圖\",\"薄面板分隔線\"],\"sections_count\":3},\"layout\":{\"sections\":[{\"title\":\"金牛座 Taurus\",\"position\":\"top\",\"count\":1,\"labels\":[\"元素:土\",\"概念:感官收藏家,穩穩生活\",\"性格:務實、耐心、重享受\",\"行動原則:先確認值得,再長線投入\",\"戀愛傾向:慢熱但專情,重安全感\",\"人際怪癖:對喜歡的人會默默餵食\"]},{\"title\":\"處女座 Virgo\",\"position\":\"middle\",\"count\":1,\"labels\":[\"元素:土\",\"概念:秩序管理者,細節控場\",\"性格:理性、細膩、可靠\",\"行動原則:先整理,再精準出手\",\"戀愛傾向:用照顧和實際行動表達喜歡\",\"人際怪癖:嘴上挑剔,心裡其實很在乎\"]},{\"title\":\"摩羯座 Capricorn\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"元素:土\",\"概念:登峰實幹家,目標導向\",\"性格:穩重、自律、有責任感\",\"行動原則:先規劃,再穩定推進\",\"戀愛傾向:慢熟務實,願意長期承諾\",\"人際怪癖:關心常包裝成提醒與安排\"]}],\"centerpiece\":\"三張水平堆疊的角色卡片，每張左側有肖像，右側有文字簡介\"},\"character\":{\"identity\":\"同一個年輕東亞女性出現在所有3個部分\",\"age\":\"20多歲\",\"hair\":\"深棕色至黑色長髮，低馬尾，側分\",\"face\":\"柔和的女性特徵，自然妝容，平靜的表情\",\"customization\":\"在所有星座條目中保持相同的基礎角色，透過服裝、姿勢、道具和主題背景圖案進行區分\"},\"cards\":[{\"sign\":\"金牛座\",\"symbol\":\"♉\",\"portrait\":{\"pose\":\"腰部以上，略微轉身，雙手手持陶瓷杯\",\"outfit\":\"奶油色無袖針織衫下穿著柔和灰綠色開襟毛衣，帶有精緻的花卉刺繡\",\"expression\":\"溫柔、放鬆、滋養\",\"props_count\":1,\"props\":[\"杯子\"]},\"background\":\"大型淡色圓形光環，花卉枝條插圖，柔和的植物圖案，右上角有小山脈圖\",\"visual_concept\":\"舒適、感性、家庭平靜、慢生活\"},{\"sign\":\"處女座\",\"symbol\":\"♍\",\"portrait\":{\"pose\":\"腰部以上，一手持筆靠近下巴，另一手持打開的筆記本或計劃書\",\"outfit\":\"淺奶油色襯衫，領帶結領口，下穿著淺灰綠色背心，帶有金色鈕扣\",\"expression\":\"深思、分析、沉著\",\"props_count\":2,\"props\":[\"筆\",\"筆記本\"]},\"background\":\"精緻的幾何圖表線條，植物嫩枝，帶有葉片圖案的鑽石徽章\",\"visual_concept\":\"秩序、精確、智慧、組織\"},{\"sign\":\"摩羯座\",\"symbol\":\"♑\",\"portrait\":{\"pose\":\"腰部以上，手臂交叉，自信的站姿\",\"outfit\":\"炭灰色定制西裝外套，內搭深色背心和挺括的白色襯衫，小圓形領針\",\"expression\":\"嚴肅、自律、自信\",\"props_count\":0,\"props\":[]},\"background\":\"在棕褐色調中的戲劇性層疊山脈景觀，帶有微妙的星狀閃光\",\"visual_concept\":\"雄心、耐力、權威、朝目標攀登\"}],\"typography\":{\"title_font\":\"經典高對比襯線中文字體\",\"sign_name_font\":\"大膽的中文襯線字體，搭配優雅的斜體拉丁星座名稱\",\"body_font\":\"清晰易讀的中文印刷字體\",\"icon_style\":\"每個項目符號旁邊的填充圓形棕色圖標\"},\"composition\":{\"margin\":\"寬鬆的奶油色邊距\",\"panel_style\":\"帶有薄金棕色邊框的圓角矩形面板\",\"spacing\":\"帶有窄分隔符的均勻垂直堆疊\",\"text_alignment\":\"每張卡片右側的左對齊簡介項目符號\"}}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:46.058Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Earth Signs Zodiac Character Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "土象星座性格海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:28:21.345Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -31,19 +45,19 @@
   ],
   "categories": [
     {
-      "id": "character-design",
-      "value": "Character Design",
+      "id": "poster-illustration",
+      "value": "Poster & Illustration",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "character-design-zh-cn",
-      "value": "角色设计",
+      "id": "poster-illustration-zh-cn",
+      "value": "海报与插画",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "character-design"
+      "translationOf": "poster-illustration"
     }
   ],
   "sources": [
@@ -80,15 +94,15 @@
   "updatedAt": "2026-05-06T11:02:37.354Z",
   "classification": {
     "status": "classified",
-    "categoryId": "character-design",
+    "categoryId": "poster-illustration",
     "source": "rule",
     "confidence": 1,
     "matchedBy": [
-      "character",
-      "card",
-      "profile",
-      "角色"
+      "poster",
+      "illustration",
+      "anime",
+      "海报"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.597Z"
+    "classifiedAt": "2026-05-06T11:41:23.642Z"
   }
 }

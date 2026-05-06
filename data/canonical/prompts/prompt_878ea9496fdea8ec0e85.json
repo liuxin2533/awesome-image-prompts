@@ -94,12 +94,12 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "character-design",
     "source": "rule",
     "confidence": 0.7,
     "matchedBy": [
-      "ui"
+      "character"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.592Z"
+    "classifiedAt": "2026-05-06T11:41:23.639Z"
   }
 }

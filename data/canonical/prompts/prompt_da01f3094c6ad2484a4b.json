@@ -21,7 +21,14 @@
       "value": "Cyberpunk Sci-Fi Side Profile Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "赛博朋克科幻侧面肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:43.204Z"
+      }
+    }
   },
   "description": {
     "original": null,

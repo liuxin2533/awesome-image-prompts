@@ -6,7 +6,14 @@
       "value": "A candid street-side cafe photo of a young East Asian woman seated at a small round table inside a modest Taiwanese breakfast shop, shot in bright natural daylight with realistic smartphone-camera styling. She has long dark brown to black wavy hair draped over her shoulders and back, a slim curvy figure, and wears a fitted white ribbed scoop-neck crop tank top and light gray drawstring sweatpants, plus a very delicate necklace. She is sitting slightly leaned forward toward the camera, with one hand holding a Taiwanese rice roll wrapped in clear plastic close to her mouth as if about to take a bite. Her face is intentionally obscured by a large rectangular blur block centered over the face. On the table in the lower left foreground is 1 large plastic takeaway cup with a sealed lid and straw, filled with a light beige milk tea or soy milk drink, printed with cute cartoon characters and small Chinese text. Also on the table is 1 white paper food bag with orange printing. The setting is a real casual breakfast shop interior: at the far left is a window opening to the street with daylight, leafy shadows, parked scooters, and a white car visible outside; on the left wall is 1 vertical vintage menu sign with multicolored Chinese characters listing breakfast items and drinks; along the top background is 1 wide horizontal menu board filled with many rows of blue and red Chinese text and prices; in the back right is an open stainless-steel kitchen counter area with 1 blurred worker standing behind it and additional Chinese signage on the metal fixtures. Composition is medium shot, centered on the seated woman, with soft natural shadows, slightly warm tones, realistic skin texture, everyday documentary atmosphere, and an authentic Taiwanese local eatery aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张在街边咖啡馆拍摄的抓拍照片，照片中是一位年轻的东亚女子，坐在一家朴实无华的台湾早餐店的小圆桌旁。照片在明亮的自然光下拍摄，具有真实的智能手机相机风格。她有着深棕色至黑色的长波浪发，垂在肩膀和背上，身材苗条曲线优美，穿着一件合身的白色针织露肩背心和浅灰色抽绳运动裤，还戴着一条非常精致的项链。她身体微微前倾朝向相机，一只手拿着一个用透明塑料包装的台湾米卷，靠近嘴巴，仿佛正要咬一口。她的脸被一个位于脸部中央的大矩形模糊块有意遮挡。在左下前方的桌子上，有1个带密封盖和吸管的大号塑料外卖杯，里面装着浅棕色的奶茶或豆奶饮料，杯子上印有可爱的卡通图案和小中文文字。桌上还有1个带有橙色印刷的白色食品袋。背景是一家休闲早餐店的真实内部场景：最左边是一扇通向街道的窗户，可以看到日光、树叶阴影、停放的摩托车和一辆白色汽车；左墙上挂着1个垂直的复古菜单招牌，用多种颜色的中文字列出早餐项目和饮料；顶部背景是1个宽大的水平菜单板，上面填满了许多行蓝色和红色的中文文字和价格；右后方是一个开放的不锈钢厨房柜台区域，后面站着1个模糊的工作人员，金属器具上还有额外的中文标识。构图为中景，以坐着的女子为中心，具有柔和的自然阴影、略微温暖的色调、真实的皮肤纹理、日常纪录片氛围和正宗的台湾当地餐厅美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:39.492Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "This generates a realistic candid photo of a woman eating in a Taiwanese breakfast shop, useful for lifestyle, cafe, or street-photography-style scenes.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这生成了一张真实的台湾早餐店女性用餐抓拍照片，适用于生活方式、咖啡馆或街头摄影风格的场景。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:25.593Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -126,7 +140,8 @@
       "photography",
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "摄影"
     ],
     "classifiedAt": "2026-05-06T11:03:21.566Z"
   }

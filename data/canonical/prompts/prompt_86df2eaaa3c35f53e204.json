@@ -6,7 +6,14 @@
       "value": "A beautiful woman looking at her phone on the subway; a candid photo.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个美丽的女人在地铁上看手机；一张抓拍的照片。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:14.104Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Subway Candid Photo",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "地铁抓拍照片",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:26:16.929Z"
+      }
+    }
   },
   "description": {
     "original": null,

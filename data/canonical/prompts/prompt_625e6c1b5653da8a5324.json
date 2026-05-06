@@ -6,7 +6,14 @@
       "value": "生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演上传图片中的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Generate a vertical mobile screenshot-style image with an overall aspect ratio close to 9:16. Slightly above the center of the frame is a real-life coser playing the anime character from the uploaded image. The character should be in a realistic style but with slightly anime-like facial features, delicate skin, and slightly larger eyes, looking gently at the camera. They should be seated in an indoor leisure setting, such as a café or in front of a bar counter, with background props appropriate to the scene. Add a mobile system status bar UI at the very top of the image, including time, battery, signal, and network icons, making the entire image look like a phone screenshot. At the bottom of the image, overlay a wide semi-transparent galgame-style dialogue box. On the left side of the dialogue box, place an anime or chibi avatar corresponding to the character in the image. On the right side, format text with the character's name in a larger font on the first line, followed by one to two lines of gentle and healing-style simplified Chinese dialogue suitable for this character's personality, which you should create automatically. Below the dialogue box, add an operation bar imitating galgame UI. The overall style should be high-definition, rich in detail, with soft lighting, and naturally blending anime and real-life photography.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:57:08.217Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "应用界面样机图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Application Interface Mockup",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:57:10.829Z"
+      }
+    }
   },
   "description": {
     "original": null,

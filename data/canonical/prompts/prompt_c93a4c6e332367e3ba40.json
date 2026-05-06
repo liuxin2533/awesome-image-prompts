@@ -6,7 +6,14 @@
       "value": "- Cinematic golden hour street portrait of a young woman in side profile, walking through a busy city crowd, soft wind blowing through her long light-brown hair, individual strands glowing in backlight, warm sunlight flaring through her hair creating a natural halo effect, dreamy atmosphere, shallow depth of field, strong subject separation, background filled with softly blurred pedestrians and urban motion bokeh.\n\nShe has delicate facial features, natural skin texture, subtle makeup, calm introspective expression, slightly parted lips, looking off-frame. Wearing a minimal outfit (dark neutral tones), possibly a light jacket, modern casual style.\n\nLighting is rich golden hour sunlight, strong backlighting with lens flare, cinematic highlights, warm orange and amber tones, high dynamic range, soft shadows, volumetric light rays passing through hair and environment.\n\nShot on a telephoto lens (85mm–135mm look), f/1.8 aperture, ultra-realistic, high detail, film still quality, natural color grading, slight film grain, soft bloom, editorial photography style, Vogue aesthetic.\n\nComposition: rule of thirds, subject slightly off-center, crowd motion blur behind her, dynamic yet intimate framing.\n\nMood: nostalgic, dreamy, romantic, fleeting moment, poetic realism.\n\nStyle keywords: cinematic, photorealistic, golden hour glow, bokeh, volumetric lighting, shallow depth of field, editorial portrait, soft focus highlights, warm tones, natural skin texture\n\nNegative prompt: low quality, overexposed face, harsh shadows, distorted facial features, extra limbs, blur on subject, noise, oversharpening, artificial skin, cartoonish look\nGenerate image using uploaded image as reference",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电影感黄金时段街头侧颜肖像，一位年轻女子穿过繁忙的城市人群，微风轻拂她浅棕色长发，发丝在逆光中闪耀，温暖的阳光穿过她的头发形成自然的光晕效果，梦幻氛围，浅景深，主体分离强烈，背景充满柔和模糊的行人和城市运动虚化。\n\n她拥有精致的面部特征，自然的肌肤质感，淡雅的妆容，平静沉思的表情，嘴唇微张，目光望向画面外。穿着简约的服装（深色中性色调），可能是一件轻便的外套，现代休闲风格。\n\n照明是丰富的黄金时段阳光，强烈的逆光带有镜头光晕，电影感高光，温暖的橙色调和琥珀色调，高动态范围，柔和的阴影，体积光线穿过头发和环境。\n\n使用长焦镜头拍摄（85mm-135mm效果），f/1.8光圈，超写实，高细节，电影剧照质感，自然色彩分级，轻微胶片颗粒，柔和辉光，编辑摄影风格，Vogue美学。\n\n构图：三分法，主体略微偏离中心，身后人群运动模糊，动感而亲密的构图。\n\n氛围：怀旧，梦幻，浪漫，转瞬即逝的瞬间，诗意现实主义。\n\n风格关键词：电影感，照片级真实，黄金时段光晕，虚化，体积光，浅景深，编辑肖像，柔焦高光，暖色调，自然肌肤质感\n\n负面提示：低质量，面部过曝，生硬的阴影，扭曲的面部特征，多余的肢体，主体模糊，噪点，过度锐化，人工皮肤，卡通外观\n\n使用上传的图像作为参考生成图像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:16.413Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Golden Hour Street Side-Profile Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "黄金时刻街道侧面肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:32:22.140Z"
+      }
+    }
   },
   "description": {
     "original": null,

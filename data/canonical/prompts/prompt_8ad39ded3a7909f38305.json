@@ -21,7 +21,14 @@
       "value": "Gothic Android Warrior Cathedral Key Art",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "哥特式安卓战士大教堂关键艺术",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:17:49.521Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -21,7 +21,14 @@
       "value": "Anime Girl and Man Date Photo Collage",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫女孩和男人约会照片拼贴",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:19:35.279Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "Using REFERENCE_0, extract only the outfit and turn it into a clean fashion magazine product showcase on a light warm-beige background. Remove the person entirely and display the clothing as separate laid-flat items: 1 cropped short-sleeve top centered near the top and 1 pair of shorts centered below it. Preserve the vivid multicolor art print from the reference, but present the garments neatly, as if for an editorial catalog page, with soft studio shadows. Add 1 circular fabric-detail inset at the lower left showing a close-up of the print. Add elegant editorial typography and thin callout lines, with 4 text blocks total: a large headline block at upper left reading “COLORFUL ART SET UP” with small Japanese copy above and below, 1 right-side block labeled “TOPS” with Japanese description, 1 lower-right block labeled “BOTTOMS” with Japanese description, and 1 lower-left block labeled “FABRIC” with short Japanese description. Keep the overall look refined, minimal, premium, and like a clothing introduction page in a magazine.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "使用 REFERENCE_0，仅提取服装，并将其转换为在浅暖米色背景上的干净时尚杂志产品展示。完全移除人物，将服装作为平铺的独立物品展示：1件短袖上衣居中放置在顶部附近，1条短裤居中放置在其下方。保留参考图像中的鲜艳多彩艺术印花，但整齐地展示服装，如同编辑目录页面，带有柔和的影棚阴影。在左下角添加1个圆形织物细节插图，展示印花的特写。添加优雅的编辑排版和细指示线，总共4个文本块：左上角的大标题块，上方和下方有小型日文文字，内容为\"COLORFUL ART SET UP\"；右侧标记为\"TOPS\"的块，带有日文描述；右下角标记为\"BOTTOMS\"的块，带有日文描述；左下角标记为\"FABRIC\"的块，带有简短的日文描述。保持整体外观精致、简约、高级，如同杂志中的服装介绍页面。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:57:42.508Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt turns a reference outfit photo into a polished magazine-style apparel layout for product presentation and catalog mockups.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示将参考服装照片转变为精美的杂志风格服装布局，用于产品展示和目录样机。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:57:41.390Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -169,6 +183,7 @@
     "matchedBy": [
       "product",
       "e-commerce",
+      "产品",
       "电商",
       "主图"
     ],

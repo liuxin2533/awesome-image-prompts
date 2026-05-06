@@ -6,7 +6,14 @@
       "value": "symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "对称设计，两只优雅的蓝孔雀，带有精致的羽毛图案，周围环绕着蓝色花卉元素，精致的复古植物装饰，柔和的米色背景，丰富的海军蓝和天蓝色细节的古典花卉装饰风格，装饰艺术插图 --ar 3:2",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:19.860Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Peacock Botanical Vintage Symmetrical Art Print",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "孔雀植物复古对称艺术版画",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:16:16.789Z"
+      }
+    }
   },
   "description": {
     "original": null,

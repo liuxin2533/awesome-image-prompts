@@ -94,7 +94,14 @@
       "value": "This is mainly a stress test for dense Chinese text rendering. For production use, provide the exact content or upload a source image such as a real menu or document photo.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这主要是密集中文文本渲染的压力测试。用于生产环境时，请提供确切内容或上传源图像，如真实菜单或文档照片。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:36.521Z"
+      }
+    }
   },
   "sourceCategories": [
     {

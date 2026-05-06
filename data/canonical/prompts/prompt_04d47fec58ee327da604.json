@@ -6,7 +6,14 @@
       "value": "A high-fashion studio portrait of a young woman reclining sideways on the floor against a seamless light gray background, cropped from about the hat down to the hands, with the face intentionally obscured by a soft rectangular blur. She wears an elegant white dress with sheer ruched fabric, sculpted floral appliqués along both shoulder straps and the bodice, and a fitted, ethereal silhouette. Her hair is {argument name=\"hair color\" default=\"dark brown to black\"} and styled in 2 long bubble braids, one on each side, each tied off with multiple white bands creating rounded segments. She wears a dramatic white fascinator hat tilted to one side, made of layered mesh, netting, ribbon loops, lace trim, and several airy feather sprays. Pose her leaning on one forearm with the other hand extended near the lower edge of the frame, torso angled diagonally for a refined editorial composition. Use soft diffused studio lighting, smooth skin tones, minimal shadows, luxury bridal-fashion styling, monochrome white wardrobe accents, and a clean polished magazine aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张高级时尚工作室肖像照，展示一位年轻女子侧身躺在地板上，背景是无缝的浅灰色，画面从帽子下方裁剪到手部，面部被一个柔和的矩形模糊效果有意遮挡。她穿着一件优雅的白色连衣裙，采用透明褶皱面料，双肩带和胸饰处有立体花卉装饰，剪裁合身，轮廓空灵。她的头发是{argument name=\"hair color\" default=\"dark brown to black\"}，梳成两个长长的泡泡辫，每边一个，用多个白色发带扎成圆形段。她戴着一顶引人注目的白色头饰，偏向一侧，由多层网纱、网状织物、丝带环、蕾丝装饰和几蓬轻盈的羽毛组成。姿势设计为她靠在前臂上，另一只手伸向画面底部边缘，躯干呈对角线角度，形成精致的编辑构图。使用柔和的漫射工作室灯光，平滑的肤色，最少的阴影，奢华婚纱时尚风格，单色白色服装点缀，以及干净精致的杂志美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:35:46.328Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a refined studio fashion portrait of a reclining woman in a white embellished dress and fascinator, ideal for bridal editorial or couture beauty imagery.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成了一位身着白色装饰性礼服和头饰的斜倚女性的精致工作室时尚肖像，适合婚纱编辑或高级美容形象。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:35:50.332Z"
+      }
+    }
   },
   "sourceCategories": [
     {

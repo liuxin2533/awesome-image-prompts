@@ -6,7 +6,14 @@
       "value": "A visual design proposal board for a dessert brand in a {argument name=\"brand style\" default=\"youthful IP style\"}, with a horizontal layout and clear modular structure. The main visual features a {argument name=\"main character\" default=\"cartoon IP (cake elf/dessert character)\"} in the center. The right side shows the character with various expressions and actions, the left side shows store interior design (ins-style with soft lighting), and the bottom features brand collateral: boxes, cups, stickers, bags, and merchandise. Color palette: {argument name=\"color scheme\" default=\"cream white, pink, light brown, and soft tones\"}. Style: flat illustration combined with light 3D and a soft, cute texture.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个甜品品牌的视觉设计提案板，采用{argument name=\"brand style\" default=\"youthful IP style\"}风格，水平布局，模块结构清晰。主视觉中心是一个{argument name=\"main character\" default=\"cartoon IP (cake elf/dessert character)\"}。右侧展示角色各种表情和动作，左侧展示店铺室内设计（ins风格，柔和灯光），底部展示品牌周边：盒子、杯子、贴纸、袋子和商品。色彩方案：{argument name=\"color scheme\" default=\"cream white, pink, light brown, and soft tones\"}。风格：扁平插画结合轻度3D效果，柔软可爱的质感。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:22.644Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A comprehensive prompt for a branding proposal board, featuring character design, store interior concepts, and packaging materials in a soft, 3D-illustrated style.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个全面的品牌提案板提示，包含角色设计、商店内部概念和包装材料，采用柔和的3D插画风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:40:19.949Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -187,6 +201,7 @@
     "matchedBy": [
       "product",
       "marketing",
+      "商品",
       "产品",
       "营销"
     ],

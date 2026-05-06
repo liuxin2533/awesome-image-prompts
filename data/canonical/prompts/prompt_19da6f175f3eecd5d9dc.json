@@ -21,7 +21,14 @@
       "value": "Soft Black Mist Idol Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "柔和的黑色迷雾偶像肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:21:43.358Z"
+      }
+    }
   },
   "description": {
     "original": null,

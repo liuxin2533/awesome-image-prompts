@@ -6,7 +6,14 @@
       "value": "A Pixar-style 3D character portrait of a {argument name=\"subject description\" default=\"young person with delicate skin, large and agile blue eyes, soft facial features, and transparent round-frame glasses\"}. Featuring a {argument name=\"hair style\" default=\"modern short hairstyle\"}, wearing a {argument name=\"clothing\" default=\"simple hoodie\"}, with the head slightly tilted and a warm, friendly smile. The scene is minimalist and clean, with an {argument name=\"background color\" default=\"orange-pink gradient background\"}, soft studio lighting, distinct rim lighting, cinematic depth of field, ultra-fine details, 8K resolution, and Octane rendering effect.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "皮克斯风格的3D角色肖像，{argument name=\"subject description\" default=\"皮肤细腻的年轻人，大而敏捷的蓝色眼睛，柔和的面部特征，透明的圆形眼镜\"}。拥有{argument name=\"hair style\" default=\"现代短发发型\"}，穿着{argument name=\"clothing\" default=\"简单的连帽衫\"}，头部略微倾斜，带着温暖友好的微笑。场景简约干净，背景是{argument name=\"background color\" default=\"橙粉渐变背景\"}，柔和的影棚灯光，明显的轮廓光，电影般的景深，超精细细节，8K分辨率，以及Octane渲染效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:32.714Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A high-resolution, cinema-quality prompt for creating a cute 3D character portrait in the style of Pixar, featuring soft lighting and a gradient background.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个高分辨率、电影质量的提示词，用于创建一个可爱的皮克斯风格3D角色肖像，具有柔和的光线和渐变背景。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:35.014Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,10 +170,11 @@
     "status": "classified",
     "categoryId": "character-design",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "character",
-      "profile"
+      "profile",
+      "角色"
     ],
     "classifiedAt": "2026-05-06T11:03:21.570Z"
   }

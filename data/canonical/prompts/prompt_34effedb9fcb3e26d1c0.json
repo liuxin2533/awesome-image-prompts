@@ -21,7 +21,14 @@
       "value": "E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "电商主图 - 环保T恤可种植标签广告",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:15:27.047Z"
+      }
+    }
   },
   "description": {
     "original": null,

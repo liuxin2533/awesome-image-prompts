@@ -6,7 +6,14 @@
       "value": "A candid smartphone photo of a young East Asian woman sitting at a small table inside a casual Taiwanese breakfast shop, medium shot in vertical 9:16 composition. She has shoulder-length straight dark brown to black hair with a side part and is wearing a fitted ribbed camisole in {argument name=\"top color\" default=\"light gray\"}, high-waisted light blue denim shorts, and a loose sheer white cardigan slipping off both shoulders. She is seated on a black chair and holding a foil-wrapped breakfast rice roll or sandwich with both hands close to her mouth as if about to take a bite. Her body is angled slightly to the right, with a relaxed, natural pose and a soft lifestyle-photo aesthetic. Place a large rectangular blur censor block over her face, centered and covering the entire face area. On the table in the lower left foreground, include 1 large takeaway cup with a plastic lid and 1 red straw. In the background, show the open storefront interior of a traditional breakfast stall with stainless steel counters, a glass warming display, condiment bottles, 1 worker behind the counter, 1 wall fan, and overhead menu boards with red and blue Chinese characters and prices. Also include a glass door on the left with Chinese signage and hours posted. Lighting should be natural daylight, slightly soft, with realistic skin tones, casual street-photo realism, shallow depth but still readable background details, authentic urban Taiwan eatery atmosphere.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张年轻东亚女子在一家休闲台湾早餐店的小桌旁坐着的自然智能手机照片，垂直9:16构图中景。她有齐肩直发，深棕色至黑色，侧分，穿着一件{argument name=\"top color\" default=\"light gray\"}修身针织背心，高腰浅蓝色牛仔短裤，以及一件宽松的白色薄开衫，双肩滑落。她坐在黑色椅子上，双手拿着一个铝箔包装的早餐饭团或三明治，靠近嘴巴，仿佛正要咬一口。她的身体略微向右倾斜，姿势放松自然，具有柔和的生活照片美学。在她的脸上放置一个大的矩形模糊审查块，居中并覆盖整个面部区域。在左下前景的桌子上，包括1个带塑料盖的大号外带杯和1根红色吸管。在背景中，展示传统早餐摊位的开放式店面内部，有不锈钢柜台、玻璃保温展示柜、调味品瓶、1名柜台后的工作人员、1台壁扇，以及带有红色和蓝色中文字和价格的上方菜单板。左侧还要包括一扇带有中文招牌和营业时间的玻璃门。照明应为自然日光，略微柔和，具有真实的肤色，随意的街头照片写实风格，浅景深但仍可读的背景细节，真实的台湾城市餐厅氛围。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:15.552Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a realistic vertical lifestyle photo of a woman eating at a Taiwanese breakfast shop, useful for casual social-media or street-photography style imagery.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成了一张真实的垂直生活方式照片，内容是一位女性在台湾早餐店用餐，适合用于休闲社交媒体或街头摄影风格的图像。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:20.224Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -101,19 +115,19 @@
   ],
   "categories": [
     {
-      "id": "ui-social-media",
-      "value": "UI & Social Media",
+      "id": "photography-portrait",
+      "value": "Photography & Portrait",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "ui-social-media-zh-cn",
-      "value": "UI 与社交媒体",
+      "id": "photography-portrait-zh-cn",
+      "value": "摄影与人像",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "ui-social-media"
+      "translationOf": "photography-portrait"
     }
   ],
   "sources": [
@@ -154,14 +168,16 @@
   "updatedAt": "2026-05-06T11:02:37.122Z",
   "classification": {
     "status": "classified",
-    "categoryId": "ui-social-media",
+    "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
-      "ui",
-      "social",
-      "社交"
+      "photography",
+      "portrait",
+      "photo",
+      "摄影",
+      "写实"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.566Z"
+    "classifiedAt": "2026-05-06T11:41:23.659Z"
   }
 }

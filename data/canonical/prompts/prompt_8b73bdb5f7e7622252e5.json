@@ -6,7 +6,14 @@
       "value": "A candid nighttime balcony selfie of a young woman shot from a slightly high handheld phone angle, with the face mostly obscured by shadow and framing, emphasizing the outfit and mood rather than facial detail. She has {argument name=\"hair color\" default=\"dark brown\"} long loose wavy hair falling over both shoulders, medium tan skin, and wears 2 delicate gold necklaces, one a thin chain and one with a small cross pendant, plus a subtle bracelet on the wrist visible near the bottom edge. Her outfit is a fitted white sleeveless cropped tank top and {argument name=\"bottoms\" default=\"light blue low-rise denim jeans\"}, revealing the midriff. The pose is relaxed and slightly leaning, one arm extended to hold the phone, with a casual going-out aesthetic. Set the scene on a modern apartment balcony at night with a glass railing and a blurred distant city skyline filled with small bokeh lights. Use dim ambient lighting with a direct phone flash that illuminates the torso and hair, creating strong contrast, soft grain, slight motion blur, and an authentic late-night social-media selfie look. Vertical smartphone composition, close crop from upper chest to hips, realistic photography, moody, intimate, unpolished, natural proportions.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个年轻女子在夜晚阳台上的自然自拍，从略高的手持手机角度拍摄，脸部大多被阴影和构图遮挡，强调服装和氛围而非面部细节。她有{argument name=\"hair color\" default=\"dark brown\"}长长的松散波浪长发垂落在双肩，中等肤色，戴着2条精致的黄金项链，一条是细链，一条带有小十字架吊坠，手腕上还戴着一条在底部边缘可见的精致手链。她的服装是一件合身的白色无袖露脐短款上衣和{argument name=\"bottoms\" default=\"light blue low-rise denim jeans\"}，露出腰部。姿势放松且略微倾斜，一只手臂伸出来拿着手机，具有休闲外出风格。场景设置在夜晚的现代公寓阳台上，有玻璃栏杆和模糊的远处城市天际线，布满小光斑。使用昏暗的环境光线，配合直接的手机闪光灯照亮躯干和头发，形成强烈对比，柔和的颗粒感，轻微的运动模糊，以及真实的深夜社交媒体自拍效果。垂直智能手机构图，从胸部上部到臀部近距离裁剪，写实摄影，情绪化，亲密，未经修饰，自然比例。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:45:04.991Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a realistic late-night balcony selfie with flash, ideal for casual social-media style portrait photography.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个带有闪光灯的真实深夜阳台自拍，适合休闲社交媒体风格的肖像摄影。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:45:07.459Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,11 +170,13 @@
     "status": "classified",
     "categoryId": "photography-portrait",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
       "photography",
       "portrait",
-      "photo"
+      "photo",
+      "摄影",
+      "写实"
     ],
     "classifiedAt": "2026-05-06T11:03:21.567Z"
   }

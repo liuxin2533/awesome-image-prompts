@@ -6,7 +6,14 @@
       "value": "A character promotional poster titled “INPUT NAME,” designed in a unified vertical key visual composition (9:16). The upper half features the most recognizable element of the character as a dominant oversized visual silhouette. The middle to lower section contains the full character as a secondary subject. Inside the large silhouette and around the character, use a double-exposure and collage-style narrative composition with scenes, symbolic imagery, supporting elements, and environmental details blended into mist, ink wash, and negative space. The left and right sides include complementary secondary elements to create narrative tension and spatial variation. A continuous flowing visual line runs from top to bottom, connecting the main character, internal collage, and the large upper silhouette. Preserve large areas of negative space with ink diffusion, soft blurring, and fragmented transitions inspired by Eastern aesthetics. The style is cohesive, refined, restrained, and poster-worthy.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个角色宣传海报，标题为\"输入名称\"，采用统一的垂直主视觉构图（9:16）。上半部分展示角色最具辨识度的元素，作为主导性的超大视觉剪影。中下部分包含完整的角色作为次要主体。在大剪影内部和角色周围，使用双重曝光和拼贴风格的叙事构图，将场景、象征性图像、辅助元素和环境细节融入雾气、水墨和负空间中。左右两侧包含互补的次要元素，以创造叙事张力和空间变化。一条连续的流动视觉线从上到下延伸，连接主角色、内部拼贴和上方的大剪影。保留大面积的负空间，采用水墨扩散、柔和模糊和碎片化过渡，灵感来自东方美学。风格统一、精致、克制，具有海报品质。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:43.450Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Character key visual poster with silhouette collage",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "角色主视觉海报与剪影拼贴",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:14:47.146Z"
+      }
+    }
   },
   "description": {
     "original": null,

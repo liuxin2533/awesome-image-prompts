@@ -6,7 +6,14 @@
       "value": "{\n  \"type\": \"brand identity and merchandise design board\",\n  \"theme\": {\n    \"color_palette\": \"{argument name=\\\"theme color\\\" default=\\\"pastel pink\\\"} and white\",\n    \"motif\": \"{argument name=\\\"motif\\\" default=\\\"cherry blossoms\\\"} and pink hearts\"\n  },\n  \"character\": {\n    \"description\": \"anime girl with short brown bob hair, pink eyes, wearing a white hoodie, gentle smile\"\n  },\n  \"branding\": {\n    \"main_logo\": \"{argument name=\\\"character name\\\" default=\\\"癒音ちー\\\"}\",\n    \"sub_logo\": \"{argument name=\\\"character subtext\\\" default=\\\"ゆおんちー\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"type\": \"header banner\",\n        \"position\": \"top\",\n        \"elements\": [\"large main logo\", \"sub logo\", \"cherry blossom graphics\", \"character portrait on the right\"]\n      },\n      {\n        \"type\": \"product packaging\",\n        \"position\": \"middle left\",\n        \"elements\": [\"1 square box with heart-shaped transparent window showing pink heart candies\", \"character illustration on box\", \"2 individual candy wrappers\", \"5 scattered heart candies\"]\n      },\n      {\n        \"type\": \"promotional poster\",\n        \"position\": \"middle right\",\n        \"elements\": [\"character portrait\", \"heart-shaped candy bowl\", \"main logo\", \"text '4.26 NEW OPEN'\", \"text '{argument name=\\\"social handle\\\" default=\\\"@yuonchii\\\"}'\"]\n      },\n      {\n        \"type\": \"horizontal web banner\",\n        \"position\": \"lower middle\",\n        \"elements\": [\"main logo\", \"cherry blossoms\", \"character portrait on the right\"]\n      },\n      {\n        \"type\": \"social media profile mockup\",\n        \"position\": \"bottom left\",\n        \"elements\": [\"header image with logo\", \"1 circular profile picture\", \"handle '{argument name=\\\"social handle\\\" default=\\\"@yuonchii\\\"}'\", \"1 follow button\", \"mock bio text\"]\n      },\n      {\n        \"type\": \"merchandise collection\",\n        \"position\": \"bottom right\",\n        \"count\": 9,\n        \"items\": [\"1 white t-shirt with logo\", \"1 white mug with character\", \"4 round pin badges\", \"1 acrylic keychain\", \"2 candy packets\"]\n      }\n    ]\n  }\n}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\n  \"type\": \"品牌标识和商品设计板\",\n  \"theme\": {\n    \"color_palette\": \"{argument name=\\\"主题色\\\" default=\\\"粉彩色\\\"} 和白色\",\n    \"motif\": \"{argument name=\\\"图案\\\" default=\\\"樱花\\\"} 和粉色爱心\"\n  },\n  \"character\": {\n    \"description\": \"棕色短波波头的动漫女孩，粉色眼睛，穿着白色连帽衫，温柔微笑\"\n  },\n  \"branding\": {\n    \"main_logo\": \"{argument name=\\\"角色名\\\" default=\\\"癒音ちー\\\"}\",\n    \"sub_logo\": \"{argument name=\\\"角色副标题\\\" default=\\\"ゆおんちー\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"type\": \"横幅标题\",\n        \"position\": \"顶部\",\n        \"elements\": [\"大型主标志\", \"副标志\", \"樱花图形\", \"右侧角色肖像\"]\n      },\n      {\n        \"type\": \"产品包装\",\n        \"position\": \"中左\",\n        \"elements\": [\"1个带心形透明窗口的方形盒子，展示粉色爱心糖果\", \"盒子上的角色插图\", \"2个单独的糖果包装\", \"5个散落的爱心糖果\"]\n      },\n      {\n        \"type\": \"宣传海报\",\n        \"position\": \"中右\",\n        \"elements\": [\"角色肖像\", \"心形糖果碗\", \"主标志\", \"文字 '4.26 新开业'\", \"文字 '{argument name=\\\"社交账号\\\" default=\\\"@yuonchii\\\"}'\"]\n      },\n      {\n        \"type\": \"水平网页横幅\",\n        \"position\": \"中下\",\n        \"elements\": [\"主标志\", \"樱花\", \"右侧角色肖像\"]\n      },\n      {\n        \"type\": \"社交媒体资料模拟\",\n        \"position\": \"左下\",\n        \"elements\": [\"带标志的头部图片\", \"1个圆形个人资料图片\", \"账号 '{argument name=\\\"社交账号\\\" default=\\\"@yuonchii\\\"}'\", \"1个关注按钮\", \"模拟的简介文字\"]\n      },\n      {\n        \"type\": \"商品系列\",\n        \"position\": \"右下\",\n        \"count\": 9,\n        \"items\": [\"1个带标志的白色T恤\", \"1个带角色的白色马克杯\", \"4个圆形徽章\", \"1个亚克力钥匙扣\", \"2个糖果包装\"]\n      }\n    ]\n  }\n}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:29:51.370Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Anime Character Brand Identity & Merch Board",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫角色品牌标识与商品展板",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:39.678Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -31,19 +45,19 @@
   ],
   "categories": [
     {
-      "id": "poster-illustration",
-      "value": "Poster & Illustration",
+      "id": "brand-logo",
+      "value": "Brand & Logo",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "poster-illustration-zh-cn",
-      "value": "海报与插画",
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "poster-illustration"
+      "translationOf": "brand-logo"
     }
   ],
   "sources": [
@@ -81,14 +95,16 @@
   "updatedAt": "2026-05-06T11:06:39.680Z",
   "classification": {
     "status": "classified",
-    "categoryId": "poster-illustration",
+    "categoryId": "brand-logo",
     "source": "rule",
-    "confidence": 0.9,
+    "confidence": 1,
     "matchedBy": [
-      "poster",
-      "illustration",
-      "anime"
+      "brand",
+      "logo",
+      "identity",
+      "品牌",
+      "标志"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.560Z"
+    "classifiedAt": "2026-05-06T11:41:23.608Z"
   }
 }

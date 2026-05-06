@@ -6,7 +6,14 @@
       "value": "{\"type\":\"9-panel anime comic strip\",\"style\":\"dynamic manga-inspired anime illustration with warm cinematic lighting, painterly detail, bold motion lines, expressive poses, and white caption boxes with thick black outlines\",\"subject\":{\"character\":\"{argument name=\\\"character name\\\" default=\\\"Honey Chan\\\"}\",\"appearance\":{\"gender_presentation\":\"cute schoolgirl\",\"hair_color\":\"{argument name=\\\"hair color\\\" default=\\\"golden blonde\\\"}\",\"hair_style\":\"long messy twin-tail style with large fluffy strands and animal-like ear accessories on top, floral hair ornament on one side\",\"expression_range\":\"sleepy, panicked, determined, triumphant, embarrassed\"},\"outfit\":{\"top\":\"white sailor-style school blouse with black collar and gold trim\",\"neckwear\":\"large gold bow\",\"skirt\":\"black pleated skirt with gold trim\",\"bag\":\"dark brown school satchel with floral accents\"}},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"panels\":[{\"number\":1,\"scene\":\"messy bedroom in morning light\",\"action\":\"the girl wakes up yawning and rubbing one eye in bed\",\"props_count\":4,\"props\":[\"digital alarm clock reading 7:45 AM\",\"small honey jar labeled HONEY\",\"bed\",\"window with warm sunlight\"],\"caption\":\"HONEY CHAN WAKES UP LATE...\"},{\"number\":2,\"scene\":\"bathroom interior\",\"action\":\"she rushes while brushing her hair in front of a mirror, panicking about the time\",\"props_count\":3,\"props\":[\"hairbrush\",\"bathroom sink area\",\"mirror\"],\"caption\":\"OH NO! I'M SO LATE!\"},{\"number\":3,\"scene\":\"front doorway of the house\",\"action\":\"she bursts out of the door at full speed with her school bag swinging behind her\",\"props_count\":2,\"props\":[\"open doorway\",\"school bag\"],\"caption\":\"QUICK! GOTTA GO!\"},{\"number\":4,\"scene\":\"street or sidewalk with speed-line background\",\"action\":\"she sprints with exaggerated anime speed, one shoe flying off behind her\",\"props_count\":2,\"props\":[\"dust cloud trail\",\"flying shoe\"],\"caption\":\"SUPER SPEED... ACTIVATED!\"},{\"number\":5,\"scene\":\"same outdoor path with intense motion blur\",\"action\":\"she rides a skateboard low to the ground, leaning hard into the motion as if launching forward\",\"props_count\":2,\"props\":[\"skateboard\",\"dust trail\"],\"caption\":\"WHY WALK WHEN I CAN FLY?!\"},{\"number\":6,\"scene\":\"city street beside a yellow school bus\",\"action\":\"she vaults high while grabbing a pole or signpost, soaring above the bus with musical-note energy\",\"props_count\":3,\"props\":[\"yellow school bus with SCHOOL BUS sign\",\"vertical pole\",\"music notes\"],\"caption\":\"BEAT THE TRAFFIC LIKE A BOSS!\"},{\"number\":7,\"scene\":\"school gate courtyard\",\"action\":\"she lands at the entrance with arms spread wide, smiling in relief\",\"props_count\":3,\"props\":[\"open school gates\",\"school building in background\",\"courtyard path\"],\"caption\":\"MADE IT... JUST IN TIME!\"},{\"number\":8,\"scene\":\"close-up at school entrance\",\"action\":\"she pauses with an awkward, nervous grin after the rush\",\"props_count\":1,\"props\":[\"sweat-drop comedic expression detail\"],\"caption\":\"UH... HEHE... 😅\"},{\"number\":9,\"scene\":\"classroom door or school entrance door\",\"action\":\"a strict female teacher blocks her from entering while the girl stands off to the side in defeat\",\"props_count\":2,\"props\":[\"door sign reading LATE STUDENTS NOT ALLOWED IN CLASS.\",\"teacher in dark blazer with arms crossed and raised hand\"],\"caption\":\"SORRY, HONEY CHAN. YOU'RE LATE. YOU CAN'T COME IN.\"}]},\"composition\":{\"panel_numbers\":\"white numbered circles at the top-left of each panel, numbered 1 through 9\",\"text_style\":\"all captions in uppercase comic lettering inside white rectangular boxes near the bottom of each panel\",\"camera_variety\":\"mix of medium shots, action angles, wide shots, and one close-up\",\"color_palette\":\"golden morning tones, warm browns, bright sky blues, and black-and-gold school uniform accents\"}}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"9格动漫漫画条\",\"style\":\"动态漫画风格动漫插画，带有温暖的影院灯光，绘画般的细节，粗犷的运动线条，富有表现力的姿势，以及带有粗黑边框的白色标题框\",\"subject\":{\"character\":\"{argument name=\\\"character name\\\" default=\\\"Honey Chan\\\"}\",\"appearance\":{\"gender_presentation\":\"可爱的女学生\",\"hair_color\":\"{argument name=\\\"hair color\\\" default=\\\"golden blonde\\\"}\",\"hair_style\":\"长而凌乱的双马尾发型，带有大而蓬松的发束，顶部有动物耳朵般的配饰，一侧有花卉发饰\",\"expression_range\":\"困倦、惊慌、坚定、胜利、尴尬\"},\"outfit\":{\"top\":\"白色水手风格校服衬衫，黑色衣领和金色镶边\",\"neckwear\":\"大金色蝴蝶结\",\"skirt\":\"黑色褶裙，带有金色镶边\",\"bag\":\"深棕色书包，带有花卉装饰\"}},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"panels\":[{\"number\":1,\"scene\":\"凌乱的卧室，晨光\",\"action\":\"女孩在床上醒来，打着哈欠揉着一只眼睛\",\"props_count\":4,\"props\":[\"显示7:45 AM的数字闹钟\",\"标有HONEY的小蜂蜜罐\",\"床\",\"带有温暖阳光的窗户\"],\"caption\":\"蜂蜜酱迟到了...\"},{\"number\":2,\"scene\":\"浴室内部\",\"action\":\"她在镜子前匆忙地梳着头发，为时间感到恐慌\",\"props_count\":3,\"props\":[\"发刷\",\"洗手盆区域\",\"镜子\"],\"caption\":\"哦不！我太迟了！\"},{\"number\":3,\"scene\":\"房屋的前门\",\"action\":\"她全速冲出大门，书包在她身后摆动\",\"props_count\":2,\"props\":[\"敞开的门\",\"书包\"],\"caption\":\"快点！得走了！\"},{\"number\":4,\"scene\":\"带有速度线背景的街道或人行道\",\"action\":\"她以夸张的动漫速度冲刺，一只鞋子飞向身后\",\"props_count\":2,\"props\":[\"尘云轨迹\",\"飞舞的鞋子\"],\"caption\":\"超级速度...激活！\"},{\"number\":5,\"scene\":\"同一户外路径，强烈的动态模糊\",\"action\":\"她低低地滑着滑板，用力倾斜，仿佛向前发射\",\"props_count\":2,\"props\":[\"滑板\",\"尘土轨迹\"],\"caption\":\"既然我能飞，为什么还要走路？！\"},{\"number\":6,\"scene\":\"黄色校车旁的城市街道\",\"action\":\"她抓住杆子或标志杆高高跃起，带着音符能量飞越校车\",\"props_count\":3,\"props\":[\"带有校车标志的黄色校车\",\"垂直杆\",\"音符\"],\"caption\":\"像老板一样击败交通！\"},{\"number\":7,\"scene\":\"校门庭院\",\"action\":\"她在入口处落地，双臂张开，欣慰地微笑\",\"props_count\":3,\"props\":[\"敞开的校门\",\"背景中的校舍\",\"庭院小径\"],\"caption\":\"赶上了...刚好及时！\"},{\"number\":8,\"scene\":\"校入口特写\",\"action\":\"她停下脚步，尴尬而紧张地咧嘴笑\",\"props_count\":1,\"props\":[\"汗滴喜剧表情细节\"],\"caption\":\"呃...呵呵... 😅\"},{\"number\":9,\"scene\":\"教室门或校入口门\",\"action\":\"一位严厉的女老师阻止她进入，女孩则站在一旁，显得很沮丧\",\"props_count\":2,\"props\":[\"门牌上写着：迟到的学生不得进入教室。\",\"穿着深色西装外套的老师，双臂交叉，举起手\"],\"caption\":\"对不起，蜂蜜酱。你迟到了。你不能进来。\"}]},\"composition\":{\"panel_numbers\":\"每个面板左上角的白色数字圆圈，编号1到9\",\"text_style\":\"所有标题都在每个面板底部的白色矩形框内，使用大写漫画字体\",\"camera_variety\":\"中景、动作角度、远景和一次特写的混合\",\"color_palette\":\"金色晨光色调，温暖的棕色，明亮的蓝天色调，以及黑金校服装饰\"}}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:55:51.548Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a 9-panel anime comic about a frantic schoolgirl racing to school and failing to beat the late policy, ideal for humorous storyboard or manga-style scenes.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个9格动漫漫画，内容是一个慌乱的女学生拼命赶往学校但未能赶上迟到政策，非常适合幽默的分镜或漫画风格场景。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:55:16.560Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -157,6 +171,7 @@
       "story",
       "manga",
       "漫画",
+      "分镜",
       "故事"
     ],
     "classifiedAt": "2026-05-06T11:03:21.569Z"

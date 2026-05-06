@@ -21,7 +21,14 @@
       "value": "Cyberpunk Fashion Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "赛博朋克时尚肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:13:45.577Z"
+      }
+    }
   },
   "description": {
     "original": null,

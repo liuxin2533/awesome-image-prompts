@@ -21,7 +21,14 @@
       "value": "建筑空间场景图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Architectural space scene",
+        "source": "ai",
+        "translatedAt": "2026-05-06T13:04:00.988Z"
+      }
+    }
   },
   "description": {
     "original": null,

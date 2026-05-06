@@ -6,7 +6,14 @@
       "value": "A stunning black and white studio portrait of {argument name=\"subject\" default=\"uploaded person\"}. Eye-level medium shot, framed from the waist up. The subject is standing with his arms casually but firmly crossed over his chest. He is looking downward and slightly off-camera to the left with a calm, contemplative posture. He is wearing a {argument name=\"outfit\" default=\"dark, heavy-textured waffle-knit long-sleeve sweater\"} and a delicate silver chain necklace with a small pendant. He is wearing a classic analog watch with a light dial and leather strap on the lower arm. The background is a {argument name=\"background style\" default=\"stark, graphic vertical split: pure white on the left half and pure deep black on the right half\"}. High-end commercial photography, monochrome masterpiece. Soft but dramatic directional studio lighting originating from the left, highlighting the textures of the clothing and skin while casting natural, smooth shadows on the right side. Crisp focus, hyper-realistic,8k resolution, cinematic composition. ar 4:5",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张令人惊叹的黑白工作室肖像，拍摄对象为{argument name=\"subject\" default=\"uploaded person\"}。眼部中景，从腰部以上取景。拍摄对象站立，双臂随意但坚定地交叉在胸前。他低头，目光略微偏离镜头向左，保持平静沉思的姿态。他穿着一件{argument name=\"outfit\" default=\"dark, heavy-textured waffle-knit long-sleeve sweater\"}和一条精致的银链项链，项链上带有小吊坠。他在前臂佩戴一块经典模拟手表，表盘浅色，配有皮革表带。背景为{argument name=\"background style\" default=\"stark, graphic vertical split: pure white on the left half and pure deep black on the right half\"}。高端商业摄影，单色杰作。柔和但富有戏剧性的定向工作室灯光来自左侧，突出服装和皮肤的纹理，同时在右侧投下自然、平滑的阴影。清晰对焦，超写实，8K分辨率，电影构图。ar 4:5",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:49:49.192Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "A high-end commercial photography prompt for a monochrome portrait with a distinctive split-background and dramatic studio lighting.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "高端商业摄影提示词，用于黑白肖像，具有独特的分割背景和戏剧性的影棚灯光",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:49:51.878Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -161,7 +175,9 @@
       "photography",
       "portrait",
       "photo",
-      "camera"
+      "camera",
+      "摄影",
+      "写实"
     ],
     "classifiedAt": "2026-05-06T11:03:21.568Z"
   }

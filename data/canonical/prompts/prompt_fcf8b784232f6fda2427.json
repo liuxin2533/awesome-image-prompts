@@ -6,7 +6,14 @@
       "value": "A full-body fantasy anime-style illustration of a glamorous young idol-like woman performing on an ornate gilded stage inside a grand baroque palace hall. She stands in a dramatic low-angle pose on a carved gold balcony or platform, one leg forward and slightly crossed, with her left arm thrust toward the viewer in strong foreshortening and her other hand resting lightly at her chest. She has a slim, elegant build, very long flowing dark brown hair streaming in the air, and a decorative floral and ribbon headpiece. Her expression should feel confident, theatrical, and captivating. She wears an elaborate frilled performance dress in {argument name=\"dress colors\" default=\"royal blue, crimson red, white, and gold\"}: a fitted corset bodice with gold trim and red front panel, white lace bust and sleeves, layered short ruffled skirt, and large swirling overskirts and cape-like fabric panels edged with gold embroidery that billow dramatically around her. Add ornate ankle accessories with matching ribbon flowers, white heeled shoes or short boots, and luxurious detailed fabric textures. The setting is a richly decorated interior with 1 large glowing gothic arched window on the left, 1 heavy dark red velvet curtain framing the top and left side, 1 large classical oil painting in an ornate frame on the right wall, 1 tall carved column behind her, 1 abundant arrangement of roses and pale flowers at the lower left, and 1 gilded balustrade across the foreground. Warm golden backlight streams through the stained-glass-like window, creating a luminous halo, soft haze, rim light on her hair and costume, and deep cinematic shadows. A few rose petals drift in the air. Highly detailed, ultra-polished, romantic, majestic, dynamic composition, rich textures, painterly anime illustration with realistic lighting and luxurious fantasy idol aesthetics.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个全身的幻想动漫风格插画，描绘了一位魅力四射的年轻偶像般的女演员在宏伟的巴洛克宫殿大厅内一个华丽的镀金舞台上表演。她站在一个雕刻着黄金图案的阳台或平台上，采用戏剧性的低角度姿势，一条腿向前略微交叉，左臂强烈缩短透视伸向观众，另一只手轻放在胸前。她拥有纤细优雅的身材，非常长的深棕色飘逸长发在空中飞扬，戴着装饰性的花卉和丝带头饰。她的表情应该充满自信、戏剧性和吸引力。她穿着一件精致的褶边表演裙，颜色为 {argument name=\"dress colors\" default=\"royal blue, crimson red, white, and gold\"}：一件合身的紧身胸衣，带有金色装饰和红色前襟，白色蕾丝胸罩和袖子，层叠的短褶皱裙摆，以及带有金色刺绣边缘的大型旋转式过膝裙和披风式面料面板，在周围戏剧性地飘动。添加了带有匹配丝带花朵的精致脚踝饰品，白色高跟鞋或短靴，以及奢华的精细面料纹理。场景是一个装饰丰富的室内，左侧有1个发光的大型哥特式拱形窗户，顶部和左侧有1个沉重的深红色天鹅绒窗帘，右侧墙壁上有1个带有精致画框的大型古典油画，身后有1个高大的雕刻柱，左下角有1个丰富的玫瑰和浅色花束，前景中有1个镀金栏杆。温暖的金色背光穿过类似彩色玻璃的窗户，创造出发光的光晕、柔和的薄雾、头发和服装的轮廓光，以及深沉的电影感阴影。几片玫瑰花瓣在空中飘落。高度详细、超精致、浪漫、宏伟、动态构图，丰富的纹理，具有真实照明的绘画性动漫插画，以及奢华的幻想偶像美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:19.469Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -83,7 +90,14 @@
       "value": "This prompt generates a dramatic full-body anime-style heroine in an ornate palace interior, ideal for high-end fantasy illustration, character key art, or elegant AI art showcases.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一个华丽的全身动漫风格女英雄，装饰华丽的宫殿内部，适合高端幻想插画、角色关键艺术或优雅的AI艺术展示。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:59:17.959Z"
+      }
+    }
   },
   "sourceCategories": [
     {

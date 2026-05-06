@@ -6,7 +6,14 @@
       "value": "A polished anime-style illustration of a young shrine maiden named {argument name=\"character name\" default=\"音慰\"} standing inside a traditional Japanese shrine amulet office, shown from about thigh-up behind a wooden counter. She has long, straight {argument name=\"hair color\" default=\"black\"} hair with a center part and soft shine, pale skin, and a calm, gentle presence. Her face is centered and front-facing, but the facial area is obscured by a rectangular blur block. She wears a crisp white kimono-style top with wide sleeves and a deep red hakama tied in a large bow at the waist, conveying a classic miko outfit. Both hands are presenting a white embroidered omamori charm toward the viewer, holding it carefully at chest level; the charm has a gold cord knot at the top and the vertical kanji text \"御守\" on the front. In the foreground on the counter is a wooden display tray containing exactly 10 visible omamori charms in multiple colors: white, pink, red, purple, and gold-patterned variants, each with decorative cords and gold or white embroidery. To the right on the counter are 3 neat stacks of paper shrine talismans or packets, each labeled in Japanese; the rightmost stack is tied with a red-and-gold mizuhiki cord. On the left side of the counter is a small wooden price sign reading \"初穂料 800円\". The shrine interior is warmly lit with natural sunlight entering from a large wooden-framed window on the left, creating a serene, clean atmosphere. Through the window, a red railing and softly blurred shrine grounds and greenery are visible. In the background are wooden shelves and traditional decor, plus a vertical hanging sign with Japanese text reading \"御守 御札\" and smaller text \"各種祈願承ります\". The composition is centered on the miko and the offered charm, with soft depth of field, delicate fabric folds, realistic hands, refined linework, and a high-quality modern anime rendering style that emphasizes the subject more than the environment.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "精致的动漫风格插画，描绘了一位名叫{argument name=\"character name\" default=\"音慰\"}的年轻巫女站在传统日本神社护身符办公室内，从大腿上方视角展示，她站在一个木质柜台后面。她有长长的、直的{argument name=\"hair color\" default=\"black\"}头发，中间分缝，带有柔和的光泽，皮肤白皙，气质平静而温柔。她的脸部居中且正面朝前，但面部区域被一个矩形模糊块遮挡。她穿着一件挺括的白色和服式上衣，带有宽袖，下身是深红色的袴，在腰间系成一个大蝴蝶结，呈现出典型的巫女装扮。双手向观众展示一个白色刺绣的御守护身符，小心地持于胸前；护身符顶部有金色绳结，正面有垂直的汉字\"御守\"。柜台前景处有一个木质展示盘，里面恰好有10个可见的御守护身符，有多种颜色：白色、粉色、红色、紫色和金色图案款式，每个都有装饰性绳结和金色或白色刺绣。柜台右侧有3整齐堆叠的纸质神社护身符或小包，每个都有日文标签；最右侧的一堆用红金色水引绳系着。柜台左侧有一个小型木质价格牌，写着\"初穂料 800円\"。神社内部温暖明亮，自然阳光从左侧的大型木框窗户照入，营造出宁静、洁净的氛围。透过窗户，可以看到红色的栏杆和柔和模糊的神社场地及绿色植物。背景处有木质货架和传统装饰，还有一个垂直悬挂的招牌，上面有日文\"御守 御札\"和较小的文字\"各種祈願承ります\"。构图以巫女和展示的护身符为中心，具有柔和的景深、精致的织物褶皱、逼真的手部、精细的线条，以及高质量的现代动漫渲染风格，强调主体而非环境。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:30.554Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a clean anime-style shrine scene featuring a miko presenting an omamori at a shrine counter, ideal for character art with culturally detailed background props.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "此提示生成一个干净的动漫风格神社场景，描绘了一位巫女在神社柜台前奉上御守，非常适合具有文化细节背景道具的角色艺术。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:56:22.525Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -156,10 +170,11 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 0.9,
     "matchedBy": [
       "illustration",
-      "anime"
+      "anime",
+      "插画"
     ],
     "classifiedAt": "2026-05-06T11:03:21.569Z"
   }

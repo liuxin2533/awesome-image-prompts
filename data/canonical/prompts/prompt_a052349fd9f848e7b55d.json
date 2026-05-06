@@ -6,7 +6,14 @@
       "value": "A warm, cozy Japanese home evening scene photographed in a natural lifestyle style. In the foreground, a right hand holds up a tall clear pint glass of golden beer with a thick creamy white foam head, positioned slightly right of center as if making a solo toast. In the softly blurred background, a small clay pot of oden simmers on a portable tabletop gas stove, with clearly visible ingredients including 1 shiitake mushroom, 2 round white items, several tofu pieces, and other assorted simmered items in broth. The setting is a tatami room with warm ambient indoor lighting, shallow depth of field, and a relaxed intimate atmosphere. Overlay large white handwritten Japanese text across the image reading {argument name=\"message text\" default=\"今日も\\nおつかれさま。\"}, in an emotional hand-drawn marker style with uneven strokes, casual spacing, and a personal note-like feel. Emphasize comforting colors, soft bokeh, realistic skin tones, and the contrast between the crisp beer glass and the gently out-of-focus hot pot behind it.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个温馨舒适的日本家庭夜晚场景，以自然生活方式风格拍摄。前景中，一只右手举着一个高高的透明品脱玻璃杯，里面装着金色的啤酒，带有厚厚的白色奶油泡沫头，位置稍微偏右，仿佛在独自举杯祝酒。在柔和模糊的背景中，一个小砂锅的关东煮在便携式桌面燃气炉上慢慢炖煮，清晰可见的配料包括1个香菇、2个圆形白色物品、几块豆腐以及其他各种在汤中炖煮的食材。场景是一个榻榻米房间，有温暖的室内环境光，浅景深，以及一个放松亲密的氛围。在图像上覆盖大型的白色手写日文文字，内容为{argument name=\"message text\" default=\"今日も\\nおつかれさま。\"}，采用情感化的手绘马克笔风格，笔画不均匀，间距随意，并有个人笔记般的感觉。强调舒适的色彩，柔和的散景，逼真的肤色，以及清晰的啤酒玻璃杯与后面略微失焦的热锅之间的对比。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:47:54.689Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A warm Japanese home-style evening photo with a hand holding beer in front of simmering oden, ideal for comforting social posts or handwritten-message lifestyle visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个温馨的日式家庭晚餐照片，一只手拿着啤酒放在炖煮的关东煮前面，适合用于温馨的社交媒体帖子或手写信息生活方式的视觉效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:47:58.409Z"
+      }
+    }
   },
   "sourceCategories": [
     {

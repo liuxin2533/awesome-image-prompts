@@ -6,7 +6,14 @@
       "value": "{\"type\":\"comparison graphic\",\"style\":\"anime cinematic demonstration image on a black presentation background\",\"canvas\":{\"aspect_ratio\":\"4:3\",\"background\":\"solid black\"},\"text_elements\":[{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"Move the camera POV to be at ground level in the crowd.\\\"}\",\"position\":\"top center\",\"style\":\"large white sans-serif\"},{\"text\":\"Source\",\"position\":\"left of upper image\",\"style\":\"large white sans-serif\"},{\"text\":\"Output\",\"position\":\"left of lower image\",\"style\":\"large white sans-serif\"}],\"layout\":{\"sections\":[{\"title\":\"Source\",\"position\":\"upper center\",\"count\":1,\"labels\":[\"overhead crowd scene\"]},{\"title\":\"Output\",\"position\":\"lower center\",\"count\":1,\"labels\":[\"ground-level crowd POV scene\"]}],\"image_frames\":2},\"images\":[{\"role\":\"source image\",\"composition\":\"busy top-down view of a densely packed historical street crowd, seen from above\",\"scene\":\"a chaotic crowd gathered around a wagon and a horse-drawn carriage, people pressed shoulder to shoulder, many wearing caps and muted early-20th-century or old-European clothing, bundles and sacks visible, one brown horse at the right edge, wooden wagon wheel and cart structure partially visible\",\"camera\":\"high overhead bird's-eye angle looking down into the crowd\",\"lighting\":\"soft daylight\",\"color_palette\":\"muted earthy browns, dusty blues, beige, olive, warm gray\",\"rendering\":\"hand-painted anime film still, detailed crowd illustration, slightly soft shading\"},{\"role\":\"output image\",\"composition\":\"the same crowded historical street reimagined from inside the mass of people at near-ground height\",\"scene\":\"view from within the crowd beside a carriage wheel, bodies filling the foreground and midground, a person in dark maroon clothing bent forward at left, a crouched figure in green near the bottom center, a woman in a light blue dress at right-center turning back, tightly packed figures, horse and cart implied nearby, dramatic sense of compression and closeness\",\"camera\":\"very low ground-level POV from inside the crowd, upward and forward through people, emphasizing complex occlusion and depth\",\"lighting\":\"soft daylight with warm cinematic shadows\",\"color_palette\":\"muted earthy browns, dusty blues, beige, olive, warm gray\",\"rendering\":\"hand-painted anime film still, cinematic perspective shift, detailed character crowding, soft painterly shading\"}],\"overall_goal\":\"show a before-and-after camera angle transformation of the same anime crowd scene, with the output moving from an overhead view to a low immersive POV inside the crowd\"}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"比较图形\",\"style\":\"黑色演示背景上的动漫电影演示图像\",\"canvas\":{\"aspect_ratio\":\"4:3\",\"background\":\"纯黑色\"},\"text_elements\":[{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"将相机视角移动到人群中的地面高度。\\\"}\",\"position\":\"顶部中央\",\"style\":\"大型白色无衬线字体\"},{\"text\":\"源图像\",\"position\":\"上图像左侧\",\"style\":\"大型白色无衬线字体\"},{\"text\":\"输出图像\",\"position\":\"下图像左侧\",\"style\":\"大型白色无衬线字体\"}],\"layout\":{\"sections\":[{\"title\":\"源图像\",\"position\":\"上部中央\",\"count\":1,\"labels\":[\"俯瞰人群场景\"]},{\"title\":\"输出图像\",\"position\":\"下部中央\",\"count\":1,\"labels\":[\"地面高度人群视角场景\"]}],\"image_frames\":2},\"images\":[{\"role\":\"源图像\",\"composition\":\"从上方俯瞰的繁忙历史街道人群密集俯视图\",\"scene\":\"混乱的人群聚集在马车和四轮马车周围，人们肩并肩挤在一起，许多人戴着帽子，穿着暗淡的20世纪初或旧欧洲服装，可见包裹和袋子，右侧边缘有一匹棕色马，部分可见的木制车轮和马车结构\",\"camera\":\"高空的鸟瞰角度，俯瞰人群\",\"lighting\":\"柔和的日光\",\"color_palette\":\"暗淡的土棕色、尘蓝色、米色、橄榄色、暖灰色\",\"rendering\":\"手绘动漫电影剧照，详细的人群插图，轻微柔和的阴影\"},{\"role\":\"输出图像\",\"composition\":\"从接近地面高度的人群内部重新构想的同一拥挤历史街道\",\"scene\":\"从马车轮旁的人群内部视角，身体填满前景和中景，左侧有一个穿着深栗色衣服的人向前弯腰，底部中心附近有一个蹲着的绿色身影，右侧中心有一个穿浅蓝色连衣裙的女人转身回头，人物紧密拥挤，附近暗示有马和车，强烈的压缩和亲近感\",\"camera\":\"从人群内部的极低地面视角，向上和向前穿过人群，强调复杂的遮挡和深度\",\"lighting\":\"柔和的日光，带有温暖的电影阴影\",\"color_palette\":\"暗淡的土棕色、尘蓝色、米色、橄榄色、暖灰色\",\"rendering\":\"手绘动漫电影剧照，电影视角转变，详细的人物拥挤，柔和的绘画阴影\"}],\"overall_goal\":\"展示同一动漫人群场景的前后相机角度转变，输出从俯视图移动到人群内部的低沉浸式视角\"}",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:29:46.232Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Anime Crowd POV Comparison",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫人群视角对比",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:29:51.743Z"
+      }
+    }
   },
   "description": {
     "original": null,

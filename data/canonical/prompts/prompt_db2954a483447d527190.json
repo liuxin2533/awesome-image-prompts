@@ -94,7 +94,14 @@
       "value": "1.5 is absolute slop, wrong style, not a screenshot, looking like some fake gta game slop, wrong UI, just everything is bad. 2 just looks like it is supposed to look.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "1.5完全是垃圾，风格错误，不是截图，看起来像某个假的GTA游戏垃圾，UI错误，一切都糟糕。2看起来就是它应该看起来的样子。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:33:41.259Z"
+      }
+    }
   },
   "sourceCategories": [
     {

@@ -6,7 +6,14 @@
       "value": "GPT Image 2 on ChatGPT Prompt: Create a bold street-fashion poster featuring a handsome man with short black hair, and a fearless expression. Dress him in a glossy emerald satin bomber jacket and black pants. Place him in front of a distressed concrete wall with emerald, black, and white layered textures. Use dramatic editorial lighting, crisp contrast, and a premium urban mood. Add bold uppercase typography with a clean modern poster style.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个大胆的街头时尚海报，展示一位英俊的短发男子，表情无畏。为他穿上光泽的翠绿缎面飞行夹克和黑色裤子。将他放置在一面磨损的水泥墙前，墙面有翠绿、黑色和白色的分层纹理。使用戏剧性的编辑灯光，清晰的对比度和高级的城市氛围。添加大写粗体字体，采用简洁现代的海报风格。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:13:14.061Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Emerald Street Fashion Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "翠绿街头时尚海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:13:19.637Z"
+      }
+    }
   },
   "description": {
     "original": null,

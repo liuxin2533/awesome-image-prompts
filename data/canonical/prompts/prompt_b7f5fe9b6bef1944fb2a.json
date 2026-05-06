@@ -21,7 +21,14 @@
       "value": "Luxury Lifestyle Mustang Shot",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "奢华生活方式野马照片",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:18:42.357Z"
+      }
+    }
   },
   "description": {
     "original": null,

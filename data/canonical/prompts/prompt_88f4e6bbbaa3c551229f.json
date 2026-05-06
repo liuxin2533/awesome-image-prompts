@@ -6,7 +6,14 @@
       "value": "{\"type\":\"cinematic tokusatsu storyboard contact sheet\",\"genre\":\"superheroine in peril\",\"style\":\"live-action Japanese tokusatsu stills, gritty practical-effects look, dark industrial warehouse atmosphere, realistic costumes and creature suit, dramatic low-key lighting, smoke, sparks, filmic contrast\",\"subject\":{\"heroine\":{\"role\":\"female superheroine\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"Torako\\\"}\",\"appearance\":\"young Japanese woman with a straight dark bob haircut\",\"costume\":\"white glossy bodysuit with black organic chest pattern, white gloves, white boots, battle-damaged and scorched with black burn marks on the shoulders, sleeves, and torso\"},\"villain\":{\"role\":\"monster attacker\",\"appearance\":\"bulky humanoid creature in a green reptilian or plant-like suit with ridged texture, tentacled facial area, and rounded purple shoulder growths\"}},\"environment\":{\"location\":\"dim warehouse or factory interior\",\"details\":[\"concrete floor\",\"metal barrels\",\"dark corrugated walls\",\"industrial pipes\",\"single bright overhead lamp\",\"haze and smoke\"]},\"layout\":{\"format\":\"3x3 storyboard grid\",\"panel_count\":9,\"numbered_panels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\"],\"border\":\"thin white dividers between panels\"},\"panels\":[{\"panel\":\"1\",\"shot\":\"medium wide shot\",\"action\":\"the heroine is on her hands and knees on the floor, weakened and struggling to rise, head lowered\"},{\"panel\":\"2\",\"shot\":\"over-the-shoulder shot from behind the heroine\",\"action\":\"she looks forward at the monster standing several meters away in the warehouse\"},{\"panel\":\"3\",\"shot\":\"medium shot\",\"action\":\"the monster looms directly behind the heroine as she crawls forward, creating a stalking ambush composition\"},{\"panel\":\"4\",\"shot\":\"tight medium shot\",\"action\":\"the monster presses a glowing green hand or energy source against the heroine's upper chest at close range\",\"effects\":[\"green light bloom\",\"threatening physical contact\"]},{\"panel\":\"5\",\"shot\":\"dramatic impact close-up\",\"action\":\"a bright energy blast detonates from the heroine's chest\",\"effects\":[\"intense white-green flash\",\"flying sparks\",\"smoke burst\",\"torso arched backward\",\"arms spread in shock\"]},{\"panel\":\"6\",\"shot\":\"close-up\",\"action\":\"the heroine recoils amid dense smoke and lingering sparks after the blast\"},{\"panel\":\"7\",\"shot\":\"wide low-angle shot\",\"action\":\"the heroine collapses back onto hands and knees, steam or smoke rising from her damaged suit\"},{\"panel\":\"8\",\"shot\":\"low front angle\",\"action\":\"she crawls weakly toward camera while the monster stands behind her, dominant and advancing\"},{\"panel\":\"9\",\"shot\":\"close-up portrait\",\"action\":\"exhausted heroine lifts her face slightly near the monster's leg, conveying pain and defeat\"}],\"cinematography\":{\"camera\":\"mostly low and medium angles, storyboard-style coverage with varied shot distance\",\"lighting\":\"moody overhead practical light with hard highlights on the white suit and deep shadows\",\"mood\":\"tense, dangerous, helpless, dramatic\"},\"negative_prompt\":[\"anime style\",\"cartoon rendering\",\"clean pristine costume\",\"bright daylight\",\"multiple heroines\",\"weapons\",\"blood gore\",\"text captions besides panel numbers\",\"comedic expression\"]}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"电影特摄分镜样片\",\"genre\":\"陷入困境的女超级英雄\",\"style\":\"日本特摄实拍剧照，粗糙的实物特效外观，黑暗的工业仓库氛围，真实的服装和生物服装，戏剧性的低调照明，烟雾，火花，电影对比度\",\"subject\":{\"heroine\":{\"role\":\"女性超级英雄\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"Torako\\\"}\",\"appearance\":\"留着黑色齐肩直发年轻的日本女性\",\"costume\":\"带有黑色有机胸部图案的白色光泽紧身衣，白色手套，白色靴子，肩膀、袖子和躯干上有黑色烧伤痕迹，战斗受损和烧焦\"},\"villain\":{\"role\":\"怪物攻击者\",\"appearance\":\"穿着绿色爬行或植物状服装的庞大人形生物，具有纹理表面，触须面部区域，以及圆形的紫色肩部生长物\"}},\"environment\":{\"location\":\"昏暗的仓库或工厂内部\",\"details\":[\"混凝土地面\",\"金属桶\",\"暗波纹墙\",\"工业管道\",\"单个明亮的顶灯\",\"薄雾和烟雾\"]},\"layout\":{\"format\":\"3x3分镜网格\",\"panel_count\":9,\"numbered_panels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\"],\"border\":\"面板之间的细白色分隔线\"},\"panels\":[{\"panel\":\"1\",\"shot\":\"中远景\",\"action\":\"女主角双手和膝盖着地，虚弱地挣扎着站起来，头低垂\"},{\"panel\":\"2\",\"shot\":\"从女主角身后肩上视角拍摄\",\"action\":\"她向前看着站在仓库远处几米外的怪物\"},{\"panel\":\"3\",\"shot\":\"中景\",\"action\":\"当女主角向前爬行时，怪物直接在她身后隐现，形成潜伏伏击构图\"},{\"panel\":\"4\",\"shot\":\"紧密中景\",\"action\":\"怪物近距离将发光的绿色手或能量源压在女主角的胸部上方\",\"effects\":[\"绿色光晕\",\"威胁性的身体接触\"]},{\"panel\":\"5\",\"shot\":\"戏剧性冲击特写\",\"action\":\"明亮的能量爆炸从女主角的胸部爆发\",\"effects\":[\"强烈的白绿闪光\",\"飞溅的火花\",\"烟雾爆发\",\"躯干向后弯曲\",\"手臂震惊地张开\"]},{\"panel\":\"6\",\"shot\":\"特写\",\"action\":\"爆炸后，女主角在浓密的烟雾和残留的火花中退缩\"},{\"panel\":\"7\",\"shot\":\"广角低角度拍摄\",\"action\":\"女主角倒退到双手和膝盖着地的姿势，蒸汽或烟雾从她受损的服装中升起\"},{\"panel\":\"8\",\"shot\":\"低正面角度\",\"action\":\"她虚弱地向相机爬行，而怪物站在她身后，占主导地位并前进\"},{\"panel\":\"9\",\"shot\":\"特写肖像\",\"action\":\"精疲力竭的女主角稍微抬起脸靠近怪物的腿，传达痛苦和失败\"}],\"cinematography\":{\"camera\":\"主要是低角度和中角度，分镜风格的覆盖，具有不同的拍摄距离\",\"lighting\":\"情绪化的顶部实用照明，白色服装上有强烈的亮点和深阴影\",\"mood\":\"紧张、危险、无助、戏剧性\"},\"negative_prompt\":[\"动漫风格\",\"卡通渲染\",\"干净完美的服装\",\"明亮的日光\",\"多个女主角\",\"武器\",\"血腥\",\"除面板编号外的文字标题\",\"喜剧表情\"]}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:44:48.376Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -48,7 +55,14 @@
       "value": "Generates a 9-panel live-action tokusatsu-style storyboard sheet of a damaged superheroine being attacked by a reptilian monster in a dark industrial warehouse.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "生成一个9格真人特摄风格的故事板，内容是一名受伤的女超级英雄在黑暗的工业仓库中被爬行类怪物攻击。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:44:52.870Z"
+      }
+    }
   },
   "sourceCategories": [
     {
@@ -121,6 +135,7 @@
       "comic",
       "story",
       "漫画",
+      "分镜",
       "故事"
     ],
     "classifiedAt": "2026-05-06T11:03:21.567Z"

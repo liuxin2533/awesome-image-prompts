@@ -6,7 +6,14 @@
       "value": "I want to see what you really look like.\nDraw a snapshot of your everyday life as if it were accidentally taken on an iPhone.\nMake it feel like a very ordinary, imperfect candid shot.\nThe photo should have slight motion blur, with uneven, natural lighting.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "I want to see what you really look like.\nDraw a snapshot of your everyday life as if it were accidentally taken on an iPhone.\nMake it feel like a very ordinary, imperfect candid shot.\nThe photo should have slight motion blur, with uneven, natural lighting.",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:56:01.519Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "AI 日常生活 iPhone 抓拍",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "AI Daily Life iPhone Snapshot",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:56:01.518Z"
+      }
+    }
   },
   "description": {
     "original": null,

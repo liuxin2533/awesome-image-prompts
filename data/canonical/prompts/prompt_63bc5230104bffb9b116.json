@@ -6,7 +6,14 @@
       "value": "一、品牌基础设定\n品牌名称：[请填写，例如：PRIME STEAK / OCEAN PRIME]\n品牌标语：[请填写，例如：Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered]\n主色调：[请填写，例如：黑金 / 深红+金 / 深蓝+银]\n字体风格：\n标题：[请填写，例如：金色衬线体，大写，奢华感]\n正文：[请填写，例如：细衬线体/无衬线体]\n二、核心视觉元素\n台面材质：[请填写，例如：大理石/黑色石板]\n背景调性：[请填写，例如：深色渐变/暗调餐厅环境]\n光线风格：[请填写，例如：聚光/侧光/顶部照明]\n三、主产品定义（必填）\n产品名称/类型：[请填写，例如：和牛牛排 / 帝王蟹 / 北极甜虾]\n产品数量/摆放：[请填写，例如：1份单品 / 3块整齐摆放]\n呈现方式：[请填写，例如：切片展示 / 带骨展示 / 原壳展示]\n产品特色/质感提示：[请填写，例如：肉质纹理清晰、多汁感 / 光泽晶亮 / 肉眼可见油花]",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "I. Brand Basic Settings\nBrand Name: [Please fill in, for example: PRIME STEAK / OCEAN PRIME]\nBrand Slogan: [Please fill in, for example: Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered]\nMain Color: [Please fill in, for example: Black Gold / Deep Red + Gold / Deep Blue + Silver]\nFont Style:\nTitle: [Please fill in, for example: Gold Serif, Uppercase, Luxurious Feel]\nBody Text: [Please fill in, for example: Thin Serif/Sans Serif]\nII. Core Visual Elements\nSurface Material: [Please fill in, for example: Marble/Black Slate]\nBackground Tone: [Please fill in, for example: Dark Gradient/Dim Restaurant Environment]\nLighting Style: [Please fill in, for example: Spotlight/Side Light/Top Lighting]\nIII. Main Product Definition (Required)\nProduct Name/Type: [Please fill in, for example: Wagyu Steak / King Crab / Arctic Sweet Shrimp]\nProduct Quantity/Arrangement: [Please fill in, for example: 1 single item / 3 pieces neatly arranged]\nPresentation Method: [Please fill in, for example: Sliced Display / Bone-in Display / Shell-on Display]\nProduct Features/Texture Hints: [Please fill in, for example: Clear meat texture, juicy feel / Glossy shine / Visible marbling]",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:57:25.290Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "高端肉类海鲜品牌英雄图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "High-end meat and seafood brand hero image",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:57:27.467Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a dense futuristic city at night, viewed from a slightly elevated angle. The main subject is a petite young witch girl with pale skin, short icy blue bobbed hair, pointed elf-like ears, and glowing red eyes, wearing a sly confident smile. She raises a black wand overhead in her right hand, with a dangling orb charm at the tip glowing faintly purple and red. Her oversized crooked witch hat is black with purple lining and covered in stitched patches, warning labels, straps, and white graphics including a large “404” and a skull emblem. She wears a black and purple techwear outfit: oversized hooded jacket with many straps and tags, black crop top with “404” on the chest, layered belts, short bottoms, fishnet on one leg, black lace-up combat boots, chokers, and metallic accessories. Several hanging straps and tags visibly read words like “WITCH 404,” “404,” and glitch-themed markings. Beneath and beside her, a large glowing violet magic circle mixed with hacker interface aesthetics is projected on the rooftop floor, filled with occult rings, sigils, a central skull symbol, and scattered neon system text such as error-code fragments, creating a fusion of sorcery and digital corruption. Emerging from the circle is 1 large armored summoned figure: a black futuristic demon-knight or robotic familiar with jagged reflective armor, a narrow purple-lit visor, and a heavy weapon held in one hand, partially dissolving into purple energy shards and smoke. The background shows a sprawling rainy megacity of apartment towers and industrial rooftops, packed with windows, balconies, cables, signs, and haze. On a nearby building wall is a giant vertical graffiti-style sign with 3 readable elements: “404”, “Witch”, and “ERROR NOT FOUND”, plus a smaller “E404”. Additional purple neon glitch text and symbols are scattered across rooftops and in the air. Use a dark palette of black, indigo, and deep violet with sharp magenta-purple highlights, cinematic contrast, reflective wet surfaces, dense detail, and a high-end polished illustration style. The mood is occult, edgy, stylish, and dangerous, combining urban fantasy, hacker aesthetics, and magical summoning.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一位戏剧性的动漫风格赛博女巫站在夜晚密集的未来主义城市上方的黑暗屋顶上，视角略微抬高。主要人物是一位娇小的年轻女巫，皮肤苍白，留着冰蓝色短波波头，有精灵般的尖耳朵，眼睛是发光的红色，带着狡黠自信的微笑。她右手举着一把黑色魔杖高高举起，顶端悬挂着一个球状护符，发出微弱的紫色和红色光芒。她那顶 oversized 的歪斜女巫帽是黑色的，有紫色内衬，上面布满了缝补的补丁、警告标签、带子和白色图形，包括一个大的\"404\"和一个骷髅标志。她穿着黑色和紫色的科技风服装： oversized 的带帽夹克，有许多带子和标签，胸前印有\"404\"的黑色短款上衣，分层腰带，短款下装，一条腿上有渔网袜，黑色系带战斗靴，项圈和金属配饰。几个悬挂的带子和标签上明显写着\"WITCH 404\"、\"404\"和故障主题的标记。在她下方和旁边，屋顶地面上投射出一个大型发光的紫色魔法圆圈，融合了黑客界面的美学，充满了神秘学环、符文、中心的骷髅符号和分散的霓虹系统文本，如错误代码片段，形成了魔法与数字腐败的融合。从圆圈中浮现出一个大型装甲召唤生物：一个黑色未来主义恶魔骑士或机器人随从，有锯齿状的反射装甲，狭窄的紫色照明面罩，一只手握着重型武器，部分溶解成紫色能量碎片和烟雾。背景展示了一个广阔的雨中超级城市，有公寓塔楼和工业屋顶，挤满了窗户、阳台、电缆、标志和薄雾。附近一栋建筑的墙上有一个巨大的垂直涂鸦风格标志，包含3个可读元素：\"404\"、\"Witch\"和\"ERROR NOT FOUND\"，还有一个较小的\"E404\"。额外的紫色霓虹故障文本和符号散落在屋顶和空中。使用黑色、靛蓝和深紫色的暗色调，带有鲜明的品红-紫色高光，电影般的对比度，反射的湿表面，密集的细节，以及高端的精美插画风格。氛围是神秘的、前卫的、时尚的、危险的，结合了都市奇幻、黑客美学和魔法召唤。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:12.854Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Cyberpunk 404 Witch Summoning",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "赛博朋克 404 女巫召唤",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:20:15.831Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -88,10 +102,7 @@
       "ui",
       "interface",
       "social",
-      "mockup",
-      "youtube",
-      "界面",
-      "社交"
+      "mockup"
     ],
     "classifiedAt": "2026-05-06T11:03:21.562Z"
   }

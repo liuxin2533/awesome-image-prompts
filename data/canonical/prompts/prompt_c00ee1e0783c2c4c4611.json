@@ -6,7 +6,14 @@
       "value": "{\"type\":\"character design mechanics sheet\",\"style\":\"cute storybook concept art, polished digital illustration mixed with rough pencil ideation, clean light gray paper background, soft shadows, subtle sparkles on successful transformations\",\"subject\":{\"species\":\"small fluffy horned monster\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"orange fluffy monster\\\"}\",\"appearance\":{\"body\":\"round and squat, very fluffy fur, tiny arms and legs, cream claws and toenails\",\"fur_color\":\"{argument name=\\\"fur color\\\" default=\\\"bright orange\\\"}\",\"horns\":\"2 short curved beige horns\",\"face\":\"large black oval eyes, wide mouth with small fangs, expressive eyebrows\",\"top_opening\":\"large hollow opening on top of head like a container or pot\"},\"core_mechanic\":\"items imagined in a thought bubble can appear out of the opening on the character's head, then the character grabs or presents the item\"},\"layout\":{\"format\":\"wide horizontal character mechanic explainer sheet\",\"sections\":[{\"title\":\"left character poses\",\"position\":\"left column\",\"count\":3,\"labels\":[\"thinking neutral standing pose\",\"excited jump with both arms raised\",\"surprised running pose with cake flying out\"]},{\"title\":\"top row examples\",\"position\":\"upper right grid\",\"count\":2,\"labels\":[\"cake to cake manifestation\",\"balloon to balloon manifestation\"]},{\"title\":\"middle row examples\",\"position\":\"center right grid\",\"count\":2,\"labels\":[\"potted plant to potted plant manifestation\",\"gift box to gift box manifestation\"]},{\"title\":\"bottom row examples\",\"position\":\"lower right grid\",\"count\":2,\"labels\":[\"fish to fish manifestation\",\"candy to candy manifestation\"]},{\"title\":\"bottom sketch sequence strip\",\"position\":\"bottom band\",\"count\":4,\"labels\":[\"cake transformation sequence\",\"turnaround rotation arrows\",\"plant and balloon rough concepts\",\"gift and excited expression rough concepts\"]}],\"grid_examples_total\":6,\"thought_bubbles_total\":8,\"manifested_object_types_total\":6},\"objects\":{\"manifested_items\":[{\"item\":\"slice of strawberry cake\",\"count\":2},{\"item\":\"red balloon\",\"count\":2},{\"item\":\"small potted sprout plant\",\"count\":2},{\"item\":\"wrapped present box with ribbon\",\"count\":2},{\"item\":\"orange fish\",\"count\":2},{\"item\":\"purple wrapped candy\",\"count\":2}],\"rough_outline_placeholders_in_grid\":6},\"composition\":\"large full-color character poses stacked on the left, six boxed example panels arranged in 3 rows by 2 columns on the right, and a long row of rough monochrome concept sketches along the bottom\",\"rendering\":{\"linework\":\"inked outlines with visible sketch underdrawing in some areas\",\"color\":\"warm orange character against neutral gray background with colorful props\",\"mood\":\"playful, inventive, character design presentation for explaining an ability visually\"}}",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "{\"type\":\"角色设计机制表\",\"style\":\"可爱的童话书概念艺术，精细的数字插画与粗糙的铅笔构思混合，干净的浅灰色纸张背景，柔和的阴影，成功转变时的微妙闪光\",\"subject\":{\"species\":\"小型毛茸茸的有角怪物\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"orange fluffy monster\\\"}\",\"appearance\":{\"body\":\"圆而矮胖，非常毛茸茸的皮毛，小巧的手臂和腿，奶油色的爪子和指甲\",\"fur_color\":\"{argument name=\\\"fur color\\\" default=\\\"bright orange\\\"}\",\"horns\":\"2个短而弯曲的米色角\",\"face\":\"大的黑色椭圆形眼睛，宽嘴巴和小尖牙，富有表现力的眉毛\",\"top_opening\":\"头顶上的大型空心开口，像容器或锅一样\"},\"core_mechanic\":\"在思想气泡中想象的物品可以从角色头顶的开口中出现，然后角色抓住或展示该物品\"},\"layout\":{\"format\":\"宽幅水平角色机制说明表\",\"sections\":[{\"title\":\"左侧角色姿势\",\"position\":\"左侧列\",\"count\":3,\"labels\":[\"思考的中性站立姿势\",\"双臂高举的兴奋跳跃\",\"惊讶的跑步姿势，蛋糕飞出\"]},{\"title\":\"顶部行示例\",\"position\":\"右上网格\",\"count\":2,\"labels\":[\"蛋糕到蛋糕的显现\",\"气球到气球的显现\"]},{\"title\":\"中间行示例\",\"position\":\"中间右网格\",\"count\":2,\"labels\":[\"盆栽植物到盆栽植物的显现\",\"礼品盒到礼品盒的显现\"]},{\"title\":\"底部行示例\",\"position\":\"右下网格\",\"count\":2,\"labels\":[\"鱼到鱼的显现\",\"糖果到糖果的显现\"]},{\"title\":\"底部草图序列条\",\"position\":\"底部带\",\"count\":4,\"labels\":[\"蛋糕转变序列\",\"转身旋转箭头\",\"植物和气球的概念草图\",\"礼品和兴奋表情的概念草图\"]}],\"grid_examples_total\":6,\"thought_bubbles_total\":8,\"manifested_object_types_total\":6},\"objects\":{\"manifested_items\":[{\"item\":\"草莓蛋糕片\",\"count\":2},{\"item\":\"红色气球\",\"count\":2},{\"item\":\"小型盆栽幼苗植物\",\"count\":2},{\"item\":\"带丝带的包装礼品盒\",\"count\":2},{\"item\":\"橙色鱼\",\"count\":2},{\"item\":\"紫色包装糖果\",\"count\":2}],\"rough_outline_placeholders_in_grid\":6},\"composition\":\"左侧堆叠的大型全彩角色姿势，右侧6个框式示例面板排列成3行2列，底部是一行长幅的单色概念草图\",\"rendering\":{\"linework\":\"墨线轮廓，某些区域有可见的草图底层\",\"color\":\"温暖的橙色角色配以中性灰色背景和多彩道具\",\"mood\":\"有趣，创新，用于视觉解释能力的角色设计展示\"}}",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:54:15.107Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -48,7 +55,14 @@
       "value": "A wide character design presentation sheet showing a fluffy horned monster and six visual examples of its item-summoning head-opening mechanic, useful for concept art and character ability explanation.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张宽幅角色设计展示表，展示了一只毛茸茸的有角怪物及其六种视觉示例，展示了其物品召唤头部开启机制，适用于概念艺术和角色能力说明。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:54:19.776Z"
+      }
+    }
   },
   "sourceCategories": [
     {

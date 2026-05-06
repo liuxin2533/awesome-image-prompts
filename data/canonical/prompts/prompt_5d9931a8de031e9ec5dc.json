@@ -6,7 +6,14 @@
       "value": "A whimsical anime fairytale illustration of {argument name=\"character name\" default=\"Rapunzel\"} leaning out from a high stone tower window, viewed from outside at a slightly elevated angle. She wears a soft lavender medieval-inspired princess dress with puff sleeves, white lace trim, and a fitted bodice, plus a pink-and-white bunny ear headband. Her extremely long {argument name=\"hair color\" default=\"dark brown\"} hair is styled into a single enormous thick braid that spills over the windowsill and drops straight down the full height of the image. A small fluffy white rabbit sits on her right shoulder, adding a cute fantasy touch. The tower is pale beige stone with a rounded balcony-like window ledge, an arched opening, deep purple interior curtains, and green ivy climbing around the walls and window frame. In the background, show a bright sunlit storybook landscape with a vivid blue sky, scattered white clouds, rolling green hills, a winding river, a stone bridge with 3 arches, and a distant European-style town with a castle or cathedral. The mood is triumphant, charming, and magical, like a polished high-end fantasy anime key visual. Detailed painterly rendering, soft natural daylight, clean linework, gentle atmospheric perspective, lush foliage, elegant composition, vertical format.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个充满幻想的动漫童话插画，描绘了{argument name=\"character name\" default=\"Rapunzel\"}从高石塔的窗户探出身子，从外部以略微仰视的角度观看。她穿着柔和的薰衣草色中世纪风格公主裙，带有泡泡袖、白色蕾丝装饰和修身紧身胸衣，还戴着粉白相间的兔子耳朵发带。她极长的{argument name=\"hair color\" default=\"dark brown\"}头发被编成一根巨大的粗辫子，从窗台上垂下，贯穿整个图像的高度。一只毛茸茸的小白兔坐在她的右肩上，增添了可爱的奇幻元素。塔楼是浅米色石头，带有圆形阳台式窗台、拱形开口、深紫色内部窗帘，以及攀爬在墙壁和窗框上的绿色常春藤。背景中，展示一个阳光明媚的童话故事景观，有鲜艳的蓝色天空、散落的白云、起伏的绿色山丘、蜿蜒的河流、一座有三个拱门石桥，以及远处带有城堡或大教堂的欧式小镇。氛围是胜利的、迷人的和魔幻的，就像精致的高端奇幻动漫主视觉图。细腻的绘画风格，柔和的自然日光，干净的线条，温和的大气透视，茂盛的植被，优雅的构图，垂直格式。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:24.935Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -48,7 +55,14 @@
       "value": "A polished fantasy anime illustration of a Rapunzel-like princess with an extremely long braid leaning from an ivy-covered tower above a scenic river valley, ideal for fairytale-themed character art or storybook visuals.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一幅精美的奇幻动漫插画，描绘了一位类似乐佩公主的角色，她有着极长的辫子，从藤蔓覆盖的塔楼探出，俯瞰着风景如画的河谷，非常适合童话主题的角色艺术或故事书视觉效果。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:41:25.807Z"
+      }
+    }
   },
   "sourceCategories": [
     {

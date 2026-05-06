@@ -21,7 +21,14 @@
       "value": "Soft Black Mist Editorial Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "柔和黑色雾气编辑肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:23:43.721Z"
+      }
+    }
   },
   "description": {
     "original": null,

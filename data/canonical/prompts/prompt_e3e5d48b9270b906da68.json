@@ -6,7 +6,14 @@
       "value": "GPT Image 2 on ChatGPT\n\nA studio-style close-up editorial portrait of a person with strong, well-defined facial features and slightly imperfect, natural skin texture. The subject wears a black tailored turtleneck with sharp, clean lines, layered under a high-collared black jacket in a minimalist contemporary fashion style.The subject wears semi-transparent orange acetate sunglasses — rectangular frames with softly rounded edges, glossy finish, and amber gradient lenses — serving as the only colored element in the image.Color concept: selective color photography — monochrome black-and-white image with only the sunglasses in vivid orange.\nMood is calm and confident, serious expression, direct gaze into the camera.\nLighting is soft frontal studio light with gentle shadows, even skin tones, cinematic contrast, and visible natural skin texture. Shot on a professional portrait camera, f/2.0, ISO 100, 1/125s. High resolution, ultra-sharp focus on the face.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "```json\n{\n  \"promptText\": {\n    \"translations\": {\n      \"zh-CN\": \"ChatGPT 上的 GPT Image 2\\n\\n一张工作室风格的近距离编辑肖像，人物面部轮廓分明，具有强健而清晰的面部特征，皮肤纹理自然且略有瑕疵。人物穿着黑色修身高领毛衣，线条锐利整洁，外搭一件高领黑色夹克，采用极简现代时尚风格。\\n\\n人物佩戴半透明橙色醋酸纤维太阳镜——矩形镜框，边缘柔和圆润，具有光泽表面和琥珀色渐变镜片——作为图像中唯一的彩色元素。\\n\\n色彩概念：选择性色彩摄影——黑白单色图像，只有太阳镜呈现鲜艳的橙色。\\n\\n氛围平静自信，表情严肃，直视镜头。\\n\\n光线为柔和的前置工作室灯光，带有柔和的阴影，肤色均匀，电影般的对比度，可见的自然皮肤纹理。使用专业人像相机拍摄，f/2.0，ISO 100，1/125s。高分辨率，面部超锐利对焦。\"\n    }\n  }\n}\n```",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:33.158Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Selective-Color Editorial Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "选择性色彩编辑肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:35:27.848Z"
+      }
+    }
   },
   "description": {
     "original": null,

@@ -6,7 +6,14 @@
       "value": "GPT Image 2 on ChatGPT App Create a hyper-realistic vertical commercial food photography poster for a premium [PRODUCT TYPE], designed in a refined luxury advertisement style, 2:3 aspect ratio. Place [MAIN PRODUCT] as the central hero subject, positioned [COMPOSITION / ANGLE], with premium realistic details such as [TEXTURE DETAILS], [SURFACE FINISH], and [FOOD-SPECIFIC FEATURES]. Surround the product with [FLOATING INGREDIENTS / MOTION ELEMENTS], arranged dynamically but cleanly to create movement, depth, and visual balance. Add [LIQUID / SPLASH / DRIP / POWDER EFFECT] interacting with the product in a natural high-speed freeze-frame style, showing realistic viscosity, droplets, suspended particles, soft shadows, and crisp highlights. Use a [BACKGROUND STYLE] with a cohesive color palette of [COLOR PALETTE], keeping the composition clean, appetizing, and premium. Lighting should be [LIGHTING STYLE], emphasizing gloss, creaminess, texture, and material contrast. Include [TYPOGRAPHY / BRANDING DETAILS] if required, placed with elegant spacing and modern commercial balance. Ultra-detailed textures, photorealistic rendering, high-end dessert or beverage advertisement aesthetic, sharp focus on the hero product, slight depth falloff on outer elements, clean studio composition, luxurious, fresh, indulgent, 8K resolution. Cheat Sheet [PRODUCT TYPE]: matcha drink, ice cream bar, pistachio cone, dessert poster [MAIN PRODUCT]: cup, bar, cone, packaged dessert [COMPOSITION / ANGLE]: overhead flat-lay, centered vertical, mid-air diagonal [TEXTURE DETAILS]: crumbs, powder, nuts, cream ridges, ice cubes [SURFACE FINISH]: glossy chocolate, matte powder, creamy swirl, transparent plastic [FLOATING INGREDIENTS]: almonds, tea leaves, pistachios, cherry pieces [MOTION EFFECT]: splash, drip, swirl, powder burst, frozen particles [BACKGROUND STYLE]: soft gradient, textured powder surface, clean studio backdrop [COLOR PALETTE]: matcha green, chocolate brown, cherry pink, pistachio sage [TYPOGRAPHY]: brand name, product title, tagline, offer badge, CTA button",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "ChatGPT 应用上的 GPT Image 2 创建一个高端 [PRODUCT TYPE] 的超写实垂直商业美食摄影海报，采用精致奢华的广告风格，2:3 宽高比。将 [MAIN PRODUCT] 作为中心主角，以 [COMPOSITION / ANGLE] 的方式放置，具有精致的写实细节，如 [TEXTURE DETAILS]、[SURFACE FINISH] 和 [FOOD-SPECIFIC FEATURES]。在产品周围放置 [FLOATING INGREDIENTS / MOTION ELEMENTS]，动态但整洁地排列，以创造运动感、深度和视觉平衡。添加 [LIQUID / SPLASH / DRIP / POWDER EFFECT] 与产品自然互动，采用自然高速定格风格，展示真实的粘度、液滴、悬浮颗粒、柔和阴影和清晰高光。使用 [BACKGROUND STYLE]，配合 [COLOR PALETTE] 的协调色彩方案，保持构图简洁、诱人且高端。光照应为 [LIGHTING STYLE]，强调光泽、奶油感、纹理和材质对比。如需要，包含 [TYPOGRAPHY / BRANDING DETAILS]，以优雅的间距和现代商业平衡放置。超精细纹理，照片级真实渲染，高端甜点或饮料广告美学，主角产品清晰对焦，外部元素轻微深度衰减，干净的影棚构图，奢华、新鲜、诱人，8K 分辨率。\n\n速查表 [PRODUCT TYPE]：抹茶饮料、冰淇淋棒、开心果蛋筒、甜点海报 [MAIN PRODUCT]：杯子、棒、蛋筒、包装甜点 [COMPOSITION / ANGLE]：俯拍平铺、垂直居中、空中对角线 [TEXTURE DETAILS]：碎屑、粉末、坚果、奶油纹路、冰块 [SURFACE FINISH]：光泽巧克力、哑光粉末、奶油漩涡、透明塑料 [FLOATING INGREDIENTS]：杏仁、茶叶、开心果、樱桃片 [MOTION EFFECT]：飞溅、滴落、漩涡、粉末爆发、冻结颗粒 [BACKGROUND STYLE]：柔和渐变、纹理粉末表面、干净影棚背景 [COLOR PALETTE]：抹茶绿、巧克力棕、樱桃粉、开心果鼠尾草绿 [TYPOGRAPHY]：品牌名称、产品标题、标语、优惠徽章、CTA 按钮",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:12:48.013Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Luxury Food Poster Template",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "豪华食品海报模板",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:12:50.180Z"
+      }
+    }
   },
   "description": {
     "original": null,

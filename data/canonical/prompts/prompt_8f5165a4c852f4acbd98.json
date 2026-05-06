@@ -6,7 +6,14 @@
       "value": "PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard over the past few days Prompt : A premium sports fashion campaign featuring a confident athletic woman wearing a red and white retro roller skating outfit, styled in a minimal studio environment with bold red and beige tones. Top frame: full-body shot of the model sitting casually on a concrete ledge, wearing white roller skates with red wheels, one leg extended and the other bent, looking sideways with a strong editorial pose. Background features large bold typography reading “FREEDOM” in oversized letters. Bottom left frame: close-up portrait of the model with glowing skin, slicked-back hair, and sharp lighting emphasizing facial structure. Minimal text “OWN YOUR PACE” placed beside her. Bottom right frame: dynamic action pose of the model skating low to the ground, hand reaching forward, showcasing motion and strength. Background includes minimal graphic lines and text “BALANCE FLOW FREEDOM”. Style: high-end commercial photography, sharp details, cinematic lighting, glossy skin highlights, strong shadows, ultra-clean composition, brand campaign aesthetic, Nike/Adidas inspired, 1:1 layout, grid collage format, editorial typography, bold color blocking, 4K resolution.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "PixPretty @PixPrettyAI with GPT Image 2 在过去几天里一直在默默树立新标准 提示：一场高级运动时尚活动，展示一位自信的健美女性穿着红色和白色复古轮滑服，在简约的工作室环境中设计，采用大胆的红色和米色调。顶部框架：模特坐在混凝土边缘的全身照，穿着带有红色轮子的白色轮滑鞋，一条腿伸直，另一条腿弯曲，侧身凝视，具有强烈的编辑姿态。背景有大型粗体排版，以超大字母显示\"FREEDOM\"。左下框架：模特的特写肖像，皮肤发光，头发向后梳，锐利的灯光强调面部结构。旁边放置了简约的文字\"OWN YOUR PACE\"。右下框架：模特低滑地面的动态动作姿势，手向前伸展，展示运动和力量。背景包含简约的图形线条和文字\"BALANCE FLOW FREEDOM\"。风格：高端商业摄影，锐利细节，电影感灯光，光泽皮肤高光，强烈阴影，超干净构图，品牌活动美学，耐克/阿迪达斯风格，1:1布局，网格拼贴格式，编辑排版，大胆色彩块，4K分辨率。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:13:04.752Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Retro Roller Skating Campaign",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "复古轮滑活动",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:13:08.325Z"
+      }
+    }
   },
   "description": {
     "original": null,

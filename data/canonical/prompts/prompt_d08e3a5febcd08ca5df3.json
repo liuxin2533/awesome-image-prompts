@@ -14,7 +14,14 @@
       "value": "Japanese Onsen Ryokan Portrait",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "日本温泉旅馆肖像",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:23:30.659Z"
+      }
+    }
   },
   "description": {
     "original": null,

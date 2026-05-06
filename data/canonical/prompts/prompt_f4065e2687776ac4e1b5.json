@@ -6,7 +6,14 @@
       "value": "Create a hyper-realistic fashion poster for “SPLASH” featuring the same girl from the reference image (keep her face 100% identical). She is sitting confidently on a glossy, liquid-style 3D SPLASH logo with water splash effects. One leg relaxed, one bent, strong editorial pose.\nBackground has massive bold “SPLASH” text filling the frame, partially behind her. Add small tagline: “Own Your Style.”\nOutfit: modern black street-fashion (blazer, fitted top, trousers, sneakers).\nLighting: cinematic studio, soft key light + rim light, reflective highlights on liquid logo.\nStyle: luxury brand campaign (Zara / H&M), clean glossy environment.\nCamera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "为\"SPLASH\"创建超写实时尚海报，使用参考图像中的同一位女孩（保持她的面部100%相同）。她自信地坐在一个光滑的液体风格3D SPLASH标志上，带有水花效果。一条腿放松，一条腿弯曲，强力的编辑姿势。\n背景有巨大的粗体\"SPLASH\"文字填满画面，部分位于她身后。添加小标语：\"Own Your Style.\"\n服装：现代黑色街头时尚（西装外套，修身上衣，裤子，运动鞋）。\n灯光：电影工作室，柔光主灯+轮廓光，液体标志上有反射高光。\n风格：奢侈品牌活动（Zara / H&M），干净光滑的环境。\n相机：85mm镜头，浅景深，8K，超详细，照片级真实。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:22:28.466Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "SPLASH Fashion Brand Hyper-Realistic Campaign Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "SPLASH 时尚品牌超写实活动海报",
+        "source": "ai",
+        "translatedAt": "2026-05-05T14:22:31.410Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -31,19 +45,19 @@
   ],
   "categories": [
     {
-      "id": "photography-portrait",
-      "value": "Photography & Portrait",
+      "id": "brand-logo",
+      "value": "Brand & Logo",
       "language": "en",
       "source": "derived",
       "taxonomy": "canonical"
     },
     {
-      "id": "photography-portrait-zh-cn",
-      "value": "摄影与人像",
+      "id": "brand-logo-zh-cn",
+      "value": "品牌与标志",
       "language": "zh-CN",
       "source": "derived",
       "taxonomy": "canonical",
-      "translationOf": "photography-portrait"
+      "translationOf": "brand-logo"
     }
   ],
   "sources": [
@@ -80,13 +94,15 @@
   "updatedAt": "2026-05-06T11:06:54.957Z",
   "classification": {
     "status": "classified",
-    "categoryId": "photography-portrait",
+    "categoryId": "brand-logo",
     "source": "rule",
-    "confidence": 0.8,
+    "confidence": 1,
     "matchedBy": [
-      "photo",
-      "camera"
+      "brand",
+      "logo",
+      "品牌",
+      "标志"
     ],
-    "classifiedAt": "2026-05-06T11:03:21.608Z"
+    "classifiedAt": "2026-05-06T11:41:23.654Z"
   }
 }

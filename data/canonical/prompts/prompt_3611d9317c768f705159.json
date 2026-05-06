@@ -6,7 +6,14 @@
       "value": "A cinematic anime movie poster for a fictional film titled {argument name=\"headline text\" default=\"EL VIAJE DE LA LUNA DE PLATA\"}, in polished modern Japanese animation style with a natural, less over-detailed look. Center a teenage anime girl from mid-thigh up, facing forward, with a short silver bob haircut, pale skin, a black choker, small black geometric earrings, a white tank top, and a dark navy oversized zip hoodie with two yellow stripes running down the sleeves. She has a backpack strap over one shoulder and both hands tucked casually into the hoodie pockets. Her face is obscured by a flat rectangular censor block in a muted beige tone, covering the entire face area. Place her in a dramatic twilight coastal city setting that blends travel, nostalgia, and fantasy: on the left, a lit train platform with a commuter train approaching, its destination sign showing Japanese characters; behind it, a glowing city skyline with a ferris wheel. In the distance and lower left, layered mountains and a winding illuminated valley road. On the right, a cliffside coast at sunset with the sea reflecting warm light, a crescent moon in the sky, several flying seabirds, and a curving highway descending along the hillside. Also on the right, include a wooden signpost with exactly 3 directional signs labeled \"NUEVOS CAMINOS\", \"VIEJOS RECUERDOS\", and \"SIN LÍMITES\". At the top center, add the Spanish tagline {argument name=\"tagline text\" default=\"CADA DESTINO CAMBIA SU HISTORIA\"} in elegant serif capitals. On the upper left, create an awards column in gold typography with laurel wreaths and exactly 4 award blocks: one text block reading \"GANADORA DE MÚLTIPLES PREMIOS\" with 5 gold stars beneath it, then three laurel award sections reading \"MEJOR PELÍCULA ANIMADA / FESTIVAL INTERNACIONAL DE ANIMACIÓN / 2024\", \"PREMIO DEL PÚBLICO / FESTIVAL INTERNACIONAL DE CINE / 2024\", and \"MEJOR BANDA SONORA ORIGINAL / ACADEMIA DE CINE ANIMADO / 2024\". Place the film title large across the lower center in luminous ornate serif lettering with a magical glow and sweeping flourishes, layered partly over the character. Beneath it, add the Spanish quote {argument name=\"quote\" default=\"A veces, para encontrarte... tienes que perderte en el mundo.\"}. Below that, add \"UNA PELÍCULA DE ESTUDIO LUMINARIA\" in small caps. At the bottom, add the release line {argument name=\"release text\" default=\"PRÓXIMAMENTE EN CINES\"} in large gold serif capitals, plus tiny production logos and credits along the footer, including a small studio emblem on the left. Rich blue, violet, and warm sunset orange palette, glossy poster lighting, romantic adventure mood, balanced composition, highly polished theatrical key art, vertical one-sheet film poster.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一部虚构电影的电影动漫海报，片名为 {argument name=\"headline text\" default=\"EL VIAJE DE LA LUNA DE PLATA\"}，采用精致现代的日本动画风格，外观自然，不过度细节。画面中央是一个从大腿中部以上的青少年动漫女孩，面向前方，留着银色短发，皮肤苍白，戴着黑色项圈，佩戴小巧的黑色几何形状耳环，身穿白色背心，穿着深蓝色超大号拉链连帽衫，袖子上两条黄色条纹。她一只肩膀上背着背包带，双手随意插在连帽衫口袋里。她的脸被一个平坦的矩形审查块遮挡，呈柔和的米色调，覆盖整个面部区域。将她放置在一个融合了旅行、怀旧和幻想的戏剧性黄昏沿海城市场景中：左侧是一个照亮的火车站台，一辆通勤列车正在驶来，目的地牌显示日文字符；后方是发光的城市天际线和摩天轮。远处和左下方是层叠的山脉和蜿蜒的发光山谷道路。右侧是日落时分的悬崖海岸，海面反射温暖的光线，天空中有新月，几只飞行的海鸟，以及沿着山坡蜿蜒下降的弯曲高速公路。右侧还应包括一个木制指示牌，上面正好有3个方向标志，分别标有\"NUEVOS CAMINOS\"、\"VIEJOS RECUERDOS\"和\"SIN LÍMITES\"。顶部中央，添加西班牙语标语 {argument name=\"tagline text\" default=\"CADA DESTINO CAMBIA SU HISTORIA\"}，使用优雅的衬线大写字母。左上方，创建一个金色字体的获奖栏，配有月桂花环，正好有4个获奖区块：一个文本区块写着\"GANADORA DE MÚLTIPLES PREMIOS\"，下方有5颗金星；然后是三个月桂花奖区块，分别写着\"MEJOR PELÍCULA ANIMADA / FESTIVAL INTERNACIONAL DE ANIMACIÓN / 2024\"、\"PREMIO DEL PÚBLICO / FESTIVAL INTERNACIONAL DE CINE / 2024\"和\"MEJOR BANDA SONORA ORIGINAL / ACADEMIA DE CINE ANIMADO / 2024\"。将电影标题以发光的华丽衬线字母放置在下方中央，带有神奇的光芒和流畅的装饰，部分叠加在角色上。下方添加西班牙语引言 {argument name=\"quote\" default=\"A veces, para encontrarte... tienes que perderte en el mundo.\"}。再下方，以小型大写字母添加\"UNA PELÍCULA DE ESTUDIO LUMINARIA\"。底部，添加发行行 {argument name=\"release text\" default=\"PRÓXIMAMENTE EN CINES\"}，使用大型金色衬线大写字母，并在页脚添加微小的制作标志和字幕，包括左侧的小型工作室标志。丰富的蓝色、紫色和温暖日落橙色调，光泽海报照明，浪漫冒险氛围，平衡构图，高度精炼的戏剧性关键艺术，垂直单张电影海报。",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:02.884Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -14,7 +21,14 @@
       "value": "Anime Fantasy Travel Movie Poster",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "动漫奇幻旅行电影海报",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:16:06.690Z"
+      }
+    }
   },
   "description": {
     "original": null,
@@ -83,14 +97,11 @@
     "status": "classified",
     "categoryId": "poster-illustration",
     "source": "rule",
-    "confidence": 1,
+    "confidence": 0.9,
     "matchedBy": [
       "poster",
       "anime",
-      "movie poster",
-      "海报",
-      "插画",
-      "电影海报"
+      "movie poster"
     ],
     "classifiedAt": "2026-05-06T11:03:21.553Z"
   }

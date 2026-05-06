@@ -6,7 +6,14 @@
       "value": "A realistic overhead photo of a childlike crayon drawing on a slightly wrinkled white sheet of paper placed on a wooden tabletop. The drawing shows a simple portrait of {argument name=\"character\" default=\"Donald Trump\"} in a naive elementary-school style, with messy yellow crayon hair, peach-colored skin, large ears, a blue suit jacket, white shirt collar, and a red necktie. The face is front-facing and fills most of the page, with one raised hand on the left side of the paper making a rude gesture with the middle finger extended. The linework is uneven black pencil or crayon outline, and the coloring is rough, scribbly, and intentionally clumsy, with visible childlike strokes that go outside the lines. On the right side of the page, there is vertical handwritten Japanese text in black that reads {argument name=\"side text\" default=\"とらんぷさん\"}. The composition is a candid smartphone snapshot, not a clean scan, showing the entire sheet of paper, slight perspective distortion, soft indoor lighting, and the texture of the wooden surface around the page. Emphasize the authentic handmade crayon texture, awkward proportions, and convincing “bad but charming” children’s artwork aesthetic.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一张放在木质桌面上的略微褶皱的白纸上的儿童蜡笔画的真实俯拍照片。这幅画以天真的小学风格展示了{argument name=\"character\" default=\"Donald Trump\"}的简单肖像，有凌乱的黄色蜡笔头发，桃色的皮肤，大耳朵，蓝色西装外套，白色衬衫领带和红色领带。脸部是正面的，占据了页面的大部分，左侧有一只举起的手，伸出中指做出粗鲁的手势。线条是不均匀的黑色铅笔或蜡笔轮廓，着色粗糙、潦草且故意笨拙，有可见的儿童笔触超出线条。页面的右侧有垂直的黑色手写日文文本，内容为{argument name=\"side text\" default=\"とらんぷさん\"}。构图是一张随意的智能手机快照，而不是干净的扫描，显示了整张纸，轻微的透视失真，柔和的室内光线，以及页面周围木质表面的纹理。强调真实的手工蜡笔质感，笨拙的比例，以及令人信服的\"虽拙但迷人\"的儿童艺术美学。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:36:26.946Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -88,7 +95,14 @@
       "value": "This prompt generates a realistic photo of a messy children's crayon drawing on paper, useful for recreating handmade naive artwork with a humorous school-project feel.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "这个提示生成一张纸上凌乱的儿童蜡笔画的逼真照片，可用于重现具有幽默学校项目感的手工朴素艺术作品。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:36:30.869Z"
+      }
+    }
   },
   "sourceCategories": [
     {

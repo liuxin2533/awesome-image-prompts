@@ -21,7 +21,14 @@
       "value": "社媒界面截图",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "en": {
+        "language": "en",
+        "value": "Social media interface screenshot",
+        "source": "ai",
+        "translatedAt": "2026-05-06T12:57:29.423Z"
+      }
+    }
   },
   "description": {
     "original": null,

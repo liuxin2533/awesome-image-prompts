@@ -6,7 +6,14 @@
       "value": "Create a polished vertical real-estate promotional flyer in a clean, modern social-media ad style, 4:5 poster composition. Use a bright daytime outdoor theme with a pale blue sky, soft clouds, and leafy green tree branches framing the top left and top right corners. The layout should feel like a premium property investment advertisement with bold typography, glossy marketing design, and a teal, red, white, and gray color palette. At the upper left, place a small uppercase headline reading {argument name=\"headline text\" default=\"LIVE BETTER. INVEST SMARTER.\"}. Directly below it, add a very large stacked main headline: {argument name=\"main headline line 1\" default=\"OWN YOUR\"} in deep teal and {argument name=\"main headline line 2\" default=\"DREAM HOME\"} in vivid red, using a bold condensed sans-serif font. Beneath that, add a teal ribbon banner with white uppercase text reading {argument name=\"tagline text\" default=\"LUXURY LIVING. LASTING VALUE.\"}. Under the tagline, show exactly 3 circular feature icons arranged horizontally with thin vertical separators between them: a shield icon with the caption \"SECURE YOUR FUTURE\", a rising bar-chart icon with the caption \"HIGH VALUE INVESTMENT\", and a house icon with the caption \"MODERN & ELEGANT\". In the middle left and lower center, feature a large photorealistic contemporary luxury house with 2 stories, white and gray exterior walls, black trim, large glass windows, a balcony, landscaped shrubs, and a paved driveway, shown from a front three-quarter angle. On the right side, place a waist-up adult Black man in a green knit sweater, facing forward and pointing directly at the viewer with an assertive sales-poster pose; his body overlaps the house and extends into the foreground. Near his lower torso, add a glossy red circular badge with a slight 3D effect containing large white uppercase text {argument name=\"callout text\" default=\"BUY NOW!\"}, and attach a small dark teal angled banner across its bottom edge reading \"LIMITED UNITS AVAILABLE!\". Across the bottom, create a dark teal panel containing exactly 3 rounded rectangular property cards with white borders and equal spacing. Card 1 should show a row of modern townhouses and the label \"MODERN TERRACES\"; beneath it place exactly 2 small features: \"Spacious Rooms\" and \"24/7 Security\". Card 2 should show a luxury villa with a pool and the label \"LUXURY VILLAS\"; beneath it place exactly 2 small features: \"Premium Amenities\" and \"Prime Locations\". Card 3 should show a detached upscale modern home and the label \"EXCLUSIVE HOMES\"; beneath it place exactly 2 small features: \"Registered Title\" and \"Trusted Developer\". At the very bottom, include one large empty white rounded rectangle spanning most of the width as a placeholder area for contact details or footer information. Make the overall image crisp, high-contrast, commercial, aspirational, and professionally designed like a premium real-estate marketing poster.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "创建一个精致的不动产宣传传单，采用干净、现代的社交媒体广告风格，4:5海报构图。使用明亮的白天户外主题，搭配淡蓝色天空、柔软的云朵，以及顶部左右两侧由绿叶树枝构成的框架。布局应感觉像高端房产投资广告，采用粗体排版、光泽营销设计，以及蓝绿色、红色、白色和灰色的配色方案。在左上方放置一个小型大写标题，内容为 {argument name=\"headline text\" default=\"LIVE BETTER. INVEST SMARTER.\"}。在正下方，添加一个非常大的分层主标题：{argument name=\"main headline line 1\" default=\"OWN YOUR\"}使用深蓝绿色，{argument name=\"main headline line 2\" default=\"DREAM HOME\"}使用鲜艳红色，采用粗体无衬线字体。在其下方，添加一个蓝绿色丝带横幅，上面有大写白色文字，内容为 {argument name=\"tagline text\" default=\"LUXURY LIVING. LASTING VALUE.\"}。在标语下方，显示恰好3个水平排列的圆形功能图标，图标之间有细垂直分隔线：一个带有\"保障您的未来\"字样的盾牌图标，一个带有\"高价值投资\"字样的上升条形图图标，以及一个带有\"现代与优雅\"字样的房屋图标。在中左和下中位置，展示一个大型写实当代豪华住宅，两层楼，白色和灰色外墙，黑色装饰条，大型玻璃窗户，阳台，景观灌木和铺砌的车道，从前四分之三角度展示。在右侧放置一个腰部以上的成年黑人男子，穿着绿色针织毛衣，面向前方，以自信的销售海报姿势直接指向观众；他的身体与房屋重叠并延伸到前景。在他的下躯附近，添加一个带有轻微3D效果的光泽红色圆形徽章，包含大写白色文字 {argument name=\"callout text\" default=\"BUY NOW!\"}，并在其底部边缘附加一个小型深蓝绿色倾斜横幅，上面写着\"限量单位可供！\"。在底部创建一个深蓝绿色面板，包含恰好3个带白色边框的圆角矩形房产卡片，间距相等。卡片1应展示一排现代联排别墅，并标注\"现代露台\"；在其下方放置恰好2个小特点：\"宽敞房间\"和\"24小时安保\"。卡片2应展示一个带游泳池的豪华别墅，并标注\"豪华别墅\"；在其下方放置恰好2个小特点：\"高端设施\"和\"黄金地段\"。卡片3应展示一个独立的现代高端住宅，并标注\"专属住宅\"；在其下方放置恰好2个小特点：\"注册产权\"和\"可靠开发商\"。在最底部，包含一个跨越大部分宽度的空白白色圆角矩形，作为联系信息或页脚信息的占位区域。使整体图像清晰、高对比度、商业化、富有吸引力，并像高端房地产营销海报一样专业设计。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:36:58.284Z"
+      }
+    }
   },
   "title": {
     "original": {
@@ -53,7 +60,14 @@
       "value": "A bold vertical real-estate ad poster promoting luxury homes and property investment, ideal for social media marketing or sales flyers.",
       "source": "upstream"
     },
-    "translations": {}
+    "translations": {
+      "zh-CN": {
+        "language": "zh-CN",
+        "value": "一个大胆的垂直房地产广告海报，推广豪华住宅和房地产投资，适合社交媒体营销或销售传单。",
+        "source": "ai",
+        "translatedAt": "2026-05-05T13:36:37.911Z"
+      }
+    }
   },
   "sourceCategories": [
     {
