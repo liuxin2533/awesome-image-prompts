@@ -12,6 +12,8 @@ const {
   runPackageScriptInProcess
 } = require('../../scripts/workbench/actions');
 
+const ALL_PUBLIC_LANGUAGES = 'de,en,es,fr,hi,it,ja,ko,pt,ru,th,tr,vi,zh-CN,zh-TW';
+
 function writeJson(filePath, data) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, 'utf-8');
@@ -71,15 +73,15 @@ test('buildActionCommand only creates whitelisted maintenance commands', () => {
   });
   assert.deepEqual(buildActionCommand('catalog-export', {}, options), {
     command: 'pnpm',
-    args: ['catalog:export', '--', '--languages', 'en,zh-CN']
+    args: ['catalog:export', '--', '--languages', ALL_PUBLIC_LANGUAGES]
   });
   assert.deepEqual(buildActionCommand('readme-generate', {}, options), {
     command: 'pnpm',
-    args: ['readme:generate', '--', '--languages', 'en,zh-CN']
+    args: ['readme:generate', '--', '--languages', ALL_PUBLIC_LANGUAGES]
   });
   assert.deepEqual(buildActionCommand('workflow', {}, options), {
     command: 'pnpm',
-    args: ['workflow', '--', '--mode', 'local', '--target-languages', 'en,zh-CN', '--catalog-languages', 'en,zh-CN', '--strict']
+    args: ['workflow', '--', '--mode', 'local', '--target-languages', 'en,zh-CN', '--catalog-languages', ALL_PUBLIC_LANGUAGES, '--strict']
   });
   assert.deepEqual(buildActionCommand('classify', {}, options), {
     command: 'pnpm',

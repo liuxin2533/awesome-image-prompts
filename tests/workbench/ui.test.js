@@ -13,8 +13,8 @@ test('workbench static UI explains operations in Chinese while keeping warning a
   assert.match(html, /提示词目录工作台/);
   assert.match(html, /修正所选问题/);
   assert.match(html, /刷新当前报告/);
-  assert.match(html, /导出最新 catalog/);
-  assert.match(html, /生成 README 文件/);
+  assert.match(html, /导出全语言 catalog/);
+  assert.match(html, /生成全语言 README/);
   assert.match(html, /catalog-export/);
   assert.match(html, /readme-generate/);
   assert.match(html, /重新归类/);

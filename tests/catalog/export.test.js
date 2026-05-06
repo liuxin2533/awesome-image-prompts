@@ -12,6 +12,8 @@ const {
   selectLocalizedTaxonomy
 } = require('../../scripts/catalog/export');
 
+const ALL_PUBLIC_LANGUAGES = ['de', 'en', 'es', 'fr', 'hi', 'it', 'ja', 'ko', 'pt', 'ru', 'th', 'tr', 'vi', 'zh-CN', 'zh-TW'];
+
 function writeJson(filePath, data) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, 'utf-8');
@@ -194,6 +196,30 @@ test('resolveAssetUrl uses cached local assets only after they are mirrored', ()
 test('catalog export parseArgs accepts comma or whitespace separated language lists', () => {
   assert.deepEqual(parseArgs(['--languages', 'en zh-CN', '--default-language', 'en']).languages, ['en', 'zh-CN']);
   assert.deepEqual(parseArgs(['--languages', 'en,zh-CN,ja']).languages, ['en', 'zh-CN', 'ja']);
+});
+
+test('catalog export expands all languages and keeps prompt fallback metadata', async () => {
+  const projectRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'catalog-all-languages-'));
+  writeJson(path.join(projectRoot, 'data/canonical/prompts.json'), sampleDataset());
+
+  assert.deepEqual(parseArgs(['--languages', 'all']).languages, ALL_PUBLIC_LANGUAGES);
+
+  const result = await exportCatalogData({
+    projectRoot,
+    languages: 'all',
+    defaultLanguage: 'en'
+  });
+
+  assert.deepEqual(result.manifest.languages, ALL_PUBLIC_LANGUAGES);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/catalog/prompts.ja.json')), true);
+  assert.equal(fs.existsSync(path.join(projectRoot, 'data/catalog/search.ru.json')), true);
+
+  const jaPrompts = readJson(path.join(projectRoot, 'data/catalog/prompts.ja.json'));
+  assert.equal(jaPrompts.prompts[0].title, 'Glass Lemon Poster');
+  assert.equal(jaPrompts.prompts[0].promptText, 'Create a glossy lemon drink poster.');
+  assert.equal(jaPrompts.prompts[0].localization.promptText.language, 'en');
+  assert.equal(jaPrompts.prompts[0].localization.promptText.isFallback, true);
+  assert.equal(jaPrompts.prompts[0].hasPromptTextTranslation, false);
 });
 
 test('exportCatalogData writes localized datasets, search indexes, and taxonomy', async () => {

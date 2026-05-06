@@ -4,87 +4,275 @@
 
 本文档包含归入此分类的全部提示词。如需可视化浏览和快速复制，可以打开 [gptimages.dev](https://gptimages.dev)。
 
-- 提示词总数: 44
-- 生成时间: 2026-05-05T17:36:14.729Z
+- 提示词总数: 75
+- 生成时间: 2026-05-06T16:38:27.182Z
 
 ## 提示词
 
-<a id="prompt-3e2ed7769ec74ba503d7"></a>
+<a id="prompt-1db2818a899782279354"></a>
 
-### 1. 信息图 / 教育视觉图 - Minimalist facial beauty report
+### 1. 信息图 / 教育视觉图 - 日本市场概况 Slides
 
-<img src="https://cms-assets.youmind.com/media/1777367278815_6bvtbg_HG6lzruaUAAqP7L.jpg" alt="信息图 / 教育视觉图 - Minimalist facial beauty report" width="480">
+<img src="https://cms-assets.youmind.com/media/1777971087956_4x8w0g_HGtRO8naoAAmqkW.jpg" alt="信息图 / 教育视觉图 - 日本市场概况 Slides" width="480">
 
-一个用于生成清洁、高端面部美容分析报告的专业提示，包含数据驱动的洞察和简约布局。
+生成一张精美的日本咨询风格 Slides，包含市场增长柱状图、竞争定位矩阵、洞察框以及页脚导航。
 
-- **分类:** 信息图
-- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/so_ainsight/status/2048757283384172848)
-
-**提示词:**
-
-```text
-基于这张照片，创建一个简洁、简约且奢华的面部美容报告。使用基于 {argument name="color scheme" default="black on white"} 的设计，融入细线条、圆角卡片和奢华美学。包含简单的面部轮廓插图，坦率的吸引力分析（对称性、比例、骨骼结构、皮肤质量等），清晰的评分，优势，改进领域，以及易于实施的护理和风格改进建议。内容应基于数据，视觉上精致，不过分奉承。
-```
-
-<a id="prompt-861badf02060bfb2401c"></a>
-
-### 2. 信息图 / 教育视觉图 - LEGO Parts List Inventory Page
-
-<img src="https://cms-assets.youmind.com/media/1777367352159_t6ogew_HG7_HKsaMAAhw7P.jpg" alt="信息图 / 教育视觉图 - LEGO Parts List Inventory Page" width="480">
-
-这个提示生成一个干净的乐高风格零件清单表，包含BrickLink ID，对说明书、搭建指南或可打印的自定义套装文档很有用。
-
-- **分类:** 信息图
-- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/ecommartinez/status/2048855384111427765#reversed-1)
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/houyaji/status/2051201015710687698#reversed-0)
 
 **提示词:**
 
 ```text
-{"type":"LEGO零件清单信息图表页面","subject":"用于定制乐高搭建的干净印刷库存表","style":"极简主义手册图形，纯白背景，清晰的黑体无衬线字体，细微的浅灰色行分隔线，编辑布局","page":{"orientation":"纵向","background":"白色","margin":"宽大"},"header":{"icon_count":2,"icons":["左上角的小纸板箱表情符号/图标","节标题前的小棕色方形色标图标"],"title":"零件清单（含LEGO / BrickLink ID）","section_title":"{argument name=\"section title\" default=\"基础与地面\"}"},"table":{"columns":["零件","描述","颜色","数量"],"row_count":8,"rows":[{"Part":"3811","Description":"12×12平板","Color":"棕褐色","Qty":"1"},{"Part":"3024","Description":"1×1平板","Color":"深绿色","Qty":"12"},{"Part":"3023","Description":"1×2平板","Color":"深绿色","Qty":"10"},{"Part":"3022","Description":"2×2平板","Color":"深褐色","Qty":"8"},{"Part":"3068b","Description":"2×2瓦片","Color":"浅蓝灰色","Qty":"6"},{"Part":"3070b","Description":"1×1瓦片","Color":"浅蓝灰色","Qty":"10"},{"Part":"4073","Description":"圆形1×1平板","Color":"绿色","Qty":"8"},{"Part":"6064","Description":"植物叶子 6×5","Color":"绿色","Qty":"2"}]},"customization":{"title":"{argument name=\"headline text\" default=\"零件清单（含LEGO / BrickLink ID）\"}","section":"{argument name=\"section title\" default=\"基础与地面\"}","accent_color":"{argument name=\"accent color\" default=\"棕色\"}","page_style":"{argument name=\"document style\" default=\"乐高手册库存表\"}"},"composition":"标题左上对齐，节标签直接在下方，下方居中放置大型4列表格，行间距均匀，除数量列外在右视觉上窄，所有文本左对齐","quality":"高分辨率打印就绪模型，清晰的矢量式文本渲染"}
+{"type":"企业咨询演示 Slides","language":"日语，配有少量英语副标题","format":"16:9 宽屏 Slides，干净的白色背景，海军蓝与宝蓝色商务风格","title":"{argument name=\"main title\" default=\"市场结构与增长空间\"}","subtitle":"Market Landscape","top_right_label":"机密 | 样本","page_number":"02","theme":{"primary_color":"深海军蓝","accent_color":"宝蓝色","secondary_color":"淡蓝色","lines":"细海军蓝分割线","typography":"现代无衬线字体，粗体日语标题，克制的咨询演示文稿风格"},"layout":{"top":{"position":"左上角","content":"大号粗体日语标题，下方配有较小的英语副标题；右上角为机密标签"},"key_message_banner":{"position":"标题下方全宽","background":"极淡蓝色矩形","text":"{argument name=\"key message\" default=\"示唆：市场增长空间巨大，但竞争核心已从“获客量”转向“客户体验”\"}","style":"居中粗体海军蓝日语文本"},"main_content":{"columns":2,"divider":"列间细垂直灰线","left_section":{"title":"市场规模趋势","type":"柱状图","position":"左半部分","chart_details":{"badge":"CAGR 8%","y_axis_label":"(万亿日元)","y_axis_range":"0.0 到 3.0","gridlines":"浅灰色虚线水平网格线","bar_count":5,"bars":[{"year":"2022","value_label":"1.8 万亿日元"},{"year":"2023","value_label":"1.9 万亿日元"},{"year":"2024","value_label":"2.1 万亿日元"},{"year":"2025E","value_label":"2.3 万亿日元"},{"year":"2026E","value_label":"2.5 万亿日元"}],"bar_style":"实心宝蓝色垂直柱"},"note_box":{"count":2,"bullets":["市场持续扩大，但获客竞争日益激烈","高附加值类别的增长带动了整体市场提升"],"style":"带海军蓝左侧强调线的白色边框框"}},"right_section":{"title":"竞争定位","type":"2x2 定位矩阵","position":"右半部分","matrix_details":{"x_axis":"价格竞争力","x_axis_left":"低","x_axis_right":"高","y_axis":"客户体验","y_axis_bottom":"低","y_axis_top":"高","axis_arrows":"指向右侧和上方的黑色箭头","crosshair":"浅灰色虚线垂直和水平中线","bubble_count":4,"bubbles":[{"label":"竞品 A","position":"左上","style":"淡蓝色圆圈"},{"label":"自社","position":"右上","style":"深宝蓝色圆圈，白色文字"},{"label":"竞品 C","position":"左下","style":"极淡蓝色圆圈"},{"label":"竞品 B","position":"右下","style":"极淡蓝色圆圈"}]},"note_box":{"text":"{argument name=\"right insight text\" default=\"胜算：非价格诉求，而是 UX、CRM 及配送质量的一体化改善\"}","style":"带海军蓝左侧强调线的白色边框框"}}},"bottom_navigation":{"position":"底部居中","tab_count":3,"tabs":["市场增长","竞争格局转变","高端化"],"style":"三个海军蓝细边框矩形标签，均匀分布"}},"composition":"精确的 Slides 网格，宽裕的页边距，分隔页眉/内容/页脚的水平海军蓝线，精致的战略咨询 PowerPoint 美学，无照片或插图，清晰的矢量图形"}
 ```
 
-<a id="prompt-ef8ce802d12b8dbd538e"></a>
+<a id="prompt-266811467840d21b7b4b"></a>
 
-### 3. 信息图 / 教育视觉图 - 3D Exploded Assembly Drawing
+### 2. 信息图 / 教育视觉图 - 漫画风格品牌形象信息图
 
-<img src="https://cms-assets.youmind.com/media/1777367268325_td7g6d_HG7r8UsawAAzN86.jpg" alt="信息图 / 教育视觉图 - 3D Exploded Assembly Drawing" width="480">
+<img src="https://cms-assets.youmind.com/media/1777971019409_hnyskv_HHfhKxxaYAA0tBI.jpg" alt="信息图 / 教育视觉图 - 漫画风格品牌形象信息图" width="480">
 
-用于生成任何主题的详细技术3D爆炸视图图的提示。
+一个高度详细的提示词，旨在将品牌 Logo 转化为拟人化的漫画风格角色，并通过多面板布局展示各种场景与特征。
 
-- **分类:** 信息图
-- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/Ankit_patel211/status/2048834306379075759)
+- **分类:** 品牌与标志
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/you1873118/status/2051355742150762898)
 
 **提示词:**
 
 ```text
-创建一个3D超高详细分解装配图 {argument name="subject" default="[subject or object]"}
+使用上传的 Logo，创作一张高度详细的漫画风格信息图海报：
+
+标题：“品牌给人的感觉”
+目标：将品牌转化为一个“活生生的个体”，并直观地展示它如何行动、说话以及与世界互动。
+融合：品牌策略 + 角色设计 + 漫画叙事
+
+核心规则：所有内容必须源自 Logo 本身（颜色、风格、基调、个性）。禁止使用通用的个性描述。
+
+结构：{argument name="layout" default="竖版 4:5 海报"}，信息密集的多面板布局，{argument name="style" default="漫画与信息图混合风格"}。
+
+主角：创建一个代表品牌拟人化的核心角色。服装、姿态和表情必须反映品牌形象。
+面板：6–8 个漫画面板，展示在客户互动、应对竞争或社交媒体表现等场景下的行为。
+特征：使用图标的模块化部分，展示语气风格、能量水平和沟通方式。
+做与不做：关于品牌一致行为与不一致行为的视觉指南。
+最终效果：应看起来像一张值得收藏的拟人化品牌策略项目，而非平庸或通用的设计。
 ```
 
-<a id="prompt-03eded6bdca064268996"></a>
+<a id="prompt-342148aaa138449450fd"></a>
 
-### 4. 手机爆炸拆解图
+### 3. 信息图 / 教育视觉图 - 日本摩托车文化年表
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg" alt="手机爆炸拆解图" width="480">
+<img src="https://cms-assets.youmind.com/media/1777971083278_xu2ml7_HHeUA-ba8AAH-WZ.jpg" alt="信息图 / 教育视觉图 - 日本摩托车文化年表" width="480">
 
-- **分类:** 手机爆炸拆解图
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-361)
+生成一张详尽的日本摩托车信息图表年表，对比 Honda、Yamaha、Suzuki 和 Kawasaki 的主要车型，并展示视觉定制文化趋势。
+
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/369nsm/status/2051270914009092518#reversed-3)
 
 **提示词:**
 
 ```text
-Create a 3D Insane detailed exploded assembly drawing of [subject or object]
+{"type":"日本摩托车信息图表海报","language":"中文","canvas":"横向 4:3 教育图表，采用简洁的白色背景、红色网格线、醒目的红色标题栏、小型摩托车插图以及详尽的中文注释","headline":"{argument name=\"headline text\" default=\"④ 日本摩托车制造商、名车与外观定制文化年表\"}","subtitle":"名车与制造商重大事件（上段）及外观定制与改装文化（下段）年表对比","layout":{"top_timeline":{"position":"上部三分之二","description":"对比 4 家日本摩托车制造商的矩阵，横跨 8 个年代，每个单元格显示年份、车型名称及小型侧视图摩托车插图","columns_count":8,"columns":["1950 年","1960 年","1970 年","1980 年","1990 年","2000 年","2010 年","2020 年"],"rows_count":4,"rows":[{"maker":"HONDA","logo_style":"红色之翼标志及 HONDA 文字","entries_count":8,"entries":["1958 Super Cub C100","1969 Monkey Z50M","1971 CB400T Hawk II","1981 CBX400F","1992 Monkey R","2008 Monkey/Cub 趣味化表现","2010 定制风格小型摩托车插图","2021 CT125 Hunter Cub"]},{"maker":"YAMAHA","logo_style":"蓝色音叉标志及 YAMAHA 文字","entries_count":7,"entries":["1968 Mate","1974 DT250","1980 XJ400","1983 RZ250 (4L3)","1995 Majesty 125","2005 Majesty (SG20J)","2023 XSR125"]},{"maker":"SUZUKI","logo_style":"红色 S 标志及 SUZUKI 文字","entries_count":8,"entries":["1971 VanVan 90","1976 GS400","1982 GSX400E","1985 RG250Γ","2000 Skywave（初代）","2017 SV650X","2023 GSX-S125","空置/间隔单元格以保持网格对齐"]},{"maker":"Kawasaki","logo_style":"绿色 Kawasaki 标志及文字","entries_count":8,"entries":["1969 500SS","1976 KH400","1981 Z400FX","1983 GPz400F","1998 W650","2003 Estrella","2022 250RS/250TR 系列（新古典谱系）","空置/间隔单元格以保持网格对齐"]}]},"bottom_culture_timeline":{"position":"下部三分之一","section_title":"外观定制与改装文化流变（下段）","description":"7 行横向文化类别，左侧带有浅色类别标签，粉色箭头表示大致流行时期","rows_count":7,"rows":[{"label":"暴走族/族车文化","icon":"小型激进摩托车标志","timeline":"1970 年代起形成 → 1980 年代全盛 → 1990 年代减少 → 2000 年代向旧车会转型"},{"label":"旧车会文化","icon":"旭日风格图标","timeline":"1980 年代后期起旧车暴走族化 → 1990 年代大规模集体骑行可视化 → 2000 年代演变为活动与聚会"},{"label":"Chopper/Bobber","icon":"Chopper 摩托车剪影","timeline":"1960 年代起美式风格流入 → 1970 年代 Chopper 倾向 → 1990 年代 Bobber 重新评价 → 2000 年代成为定制主流"},{"label":"美式/巡航车","icon":"巡航摩托车剪影","timeline":"1980 年代起 DragStar 等登场 → 1990 年代美式机车热潮 → 2000 年代定制化深入"},{"label":"大踏板定制","icon":"大型踏板摩托车剪影","timeline":"2000 年代大踏板热潮 → 2000 年代中期音响、电镀、空力套件 → 2010 年代奢华化与多样化"},{"label":"Cub 定制/迷你摩托车定制","icon":"绿色小型摩托车剪影","timeline":"1990 年代 Cub/Monkey 系定制 → 2000 年代 4-Mini 定制活动增加 → 2010 年代向露营与户外风格转变"},{"label":"新古典/复古","icon":"红色头盔图标","timeline":"2000 年代 SR/W/Estrella 人气 → 2010 年代复古与新古典流行"}]},"right_sidebar":{"position":"右侧边缘","title":"冷知识与杂学","style":"带有红色圆点、虚线分隔符及 8 个小型摩托车或标志插图的垂直列","facts_count":8,"facts":["Cub 于 1958 年问世。","实用型 Cub 后来演变为趣味车型。","暴走族人数在 1982 年达到顶峰。","族车具有极强的外观符号性。","旧车会是旧款二轮车的集体文化。","Z2/CB 系是旧车文化的核心。","大踏板在 2000 年代兴起。","TW 系是街头外观文化。"]},"footer":{"legend_count":2,"legend":["黑/灰色＝名车与重大事件（制造商主要事件与名车）","红/粉色＝文化与定制的扩展（大致时期）"],"note":"※年代划分仅供参考。"}},"visual_style":{"typography":"加粗日系无衬线字体，红色标题，紧凑的黑色标签，清晰的图表层级","colors":"以红色和白色为主，搭配粉色箭头，浅米色/粉色/绿色/淡紫色类别条，制造商标志采用品牌色","illustration_style":"小型清晰的半写实侧视图摩托车插图，带有阴影，色彩与时代各异，强调信息图表的清晰度而非写实感","rendering":"高分辨率可打印海报，文字清晰易读，网格对齐整齐，教育杂志风格"}}
 ```
 
-<a id="prompt-0723d4ac8c12572d0293"></a>
+<a id="prompt-3ebf4ece16bf69b8b69c"></a>
 
-### 5. 手绘城市美食地图
+### 4. 信息图 / 教育视觉图 - 日式 AI 手相鉴定证书
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case18.jpg" alt="手绘城市美食地图" width="480">
+<img src="https://cms-assets.youmind.com/media/1777971080026_8mgh67_HHgeNPNbwAAlSlM.jpg" alt="信息图 / 教育视觉图 - 日式 AI 手相鉴定证书" width="480">
+
+生成一份精美的日式手相报告布局，包含手部图示、掌纹解读、优势、注意事项、生活倾向及建议。
+
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/ChatgptAIskill/status/2051422854269530228#reversed-1)
+
+**提示词:**
+
+```text
+{"type":"华丽的日式手相鉴定证书信息图","language":"日语","format":"单页垂直 A4 报告","style":"简洁优雅的占卜报告，白色羊皮纸背景，带有花卉边角的细金装饰边框，柔和的米色与金色分隔线，精致的衬线日文字体，柔和的强调色，优化的 GPT Image 2 布局，日文文字清晰易读","headline":"{argument name=\"headline text\" default=\"AI 手相鉴定书\"}","subtitle":"{argument name=\"subtitle text\" default=\"刻在你掌心的命运讯息\"}","date_badge":{"position":"右上角","shape":"金色月桂花环圆圈","text":"鉴定日期\n今日\n（拍摄日期）"},"main_layout":{"top_left_section":{"title":"左手","position":"左上","content":"金色轮廓的开掌极简线条画，掌纹以淡淡的柔和色彩绘制，带有小星星图标和植物叶片装饰","side_notes_count":2,"side_notes":["先天才能","内在与潜能"]},"top_right_section":{"title":"主要掌纹解读","position":"右上","count":5,"items":[{"label":"感情线","color":"粉色","description":"较长且平缓弯曲，性格深情且富有同情心。拥有能够体贴他人感受的温柔。"},{"label":"头脑线","color":"蓝色","description":"相对笔直且长，拥有逻辑性和现实性的思考方式。有计划性，能冷静判断事物。"},{"label":"生命线","color":"绿色","description":"长而清晰，体力与生命力稳定。具有坚韧不拔、勇于面对困难的力量。"},{"label":"命运线","color":"紫色","description":"在手掌中央隐约延伸的线条。属于靠自己开辟道路的类型，努力将转化为未来的成功。"},{"label":"太阳线","color":"橙色","description":"在无名指下方隐约可见的线条。拥有容易获得认可、人气与评价的运势。"}]}},"middle_sections":{"count":2,"sections":[{"title":"3 大优势","position":"中左","items_count":3,"items":[{"icon":"圆圈金星","label":"努力且坚韧","text":"有朝着目标不断积累、坚持到底的能力。"},{"icon":"圆圈金心","label":"同理心与共情力","text":"拥有能够理解他人感受并提供支持的温柔。"},{"icon":"圆圈金山","label":"现实判断力","text":"具备冷静分析事物并做出最佳选择的能力。"}]},{"title":"3 点注意事项","position":"中右","items_count":3,"items":[{"icon":"圆圈灰云","label":"容易想太多","text":"有时会过于谨慎，导致决策时间过长。"},{"icon":"圆圈灰水滴","label":"容易追求完美","text":"理想较高，有对自己过于严苛的倾向。"},{"icon":"圆圈灰新月","label":"容易勉强自己","text":"责任感强，有时会因承担过多而感到疲惫。"}]}]},"lower_tendency_cards":{"count":3,"cards":[{"title":"恋爱倾向","icon":"粉色爱心","border_color":"柔粉色","text":"专一且诚实的爱情类型。珍视对方，建立安心平稳的关系。通过积累信任，培养出长久深厚的羁绊。"},{"title":"工作倾向","icon":"蓝色公文包","border_color":"柔蓝色","text":"有计划性且责任感强，一旦被委以重任便能发挥实力。在支持、协调或发挥专业性的领域容易获得成功。属于脚踏实地的实务派。"},{"title":"金钱倾向","icon":"绿色钱袋","border_color":"柔绿色","text":"擅长稳健管理金钱的类型。比起一夜暴富，通过点滴积累更能获得稳定。知识与 技能 是提升收入的关键。"}]},"bottom_advice_section":{"title":"开运建议","position":"底部全宽","left_panel":{"icon":"金色三叶草","text":"珍惜自己的节奏，不慌不忙地一步步前进是开运的秘诀。通过积累小小的成功体验，自信心与运势会不断提升。有意识地创造放松时间，调整身心平衡。"},"mini_tips_count":3,"mini_tips":[{"icon":"太阳","title":"沐浴晨光，调整节奏","text":"运气的流动会变得更加顺畅。"},{"icon":"花朵","title":"感受自然与绿意","text":"心灵得到治愈，能量随之提升。"},{"icon":"笔记本与铅笔","title":"写下目标与梦想","text":"整理思绪，提升行动力与运势。"}]},"footer":"AI 鉴定书","composition_notes":"使用对称网格布局，卡片分隔清晰，留白充裕，使用细金线和微小的闪光装饰，确保日文文字高度可读。整体氛围应显得高级、柔和、神秘，并适合在社交媒体上分享。","customization_subject":"将证书设计为针对 {argument name=\"reading subject\" default=\"一位冷静、勤奋且富有同理心与现实判断力的人\"} 生成。"}
+```
+
+<a id="prompt-9d118ce9893cf33b77d9"></a>
+
+### 5. 信息图 / 教育视觉图 - 日本 AI 商业信息图
+
+<img src="https://cms-assets.youmind.com/media/1777971062502_g3roc8_HHdTX03awAAF22n.jpg" alt="信息图 / 教育视觉图 - 日本 AI 商业信息图" width="480">
+
+生成一张简洁的四步日本风格信息图，解释如何将 AI 创意与实际业务流程相结合。
+
+- **分类:** 角色设计
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/makio_study/status/2051200314251071628#reversed-0)
+
+**提示词:**
+
+```text
+{"type":"简洁的日本商业信息图海报","format":"垂直 A4 页面，白色背景，黑色圆角外边框","style":"友好的扁平化线条插图，以青色和珊瑚色为点缀，柔和的圆角矩形，手绘商业草图风格，黑色日文哥特体标题，细青色分割线，带有小闪光和植物图标","language":"日语","headline":"{argument name=\"headline text\" default=\"将 AI 连接到现实商业中\"}","subtitle":"{argument name=\"subtitle text\" default=\"AI 应用的 4 个话题\"}","layout":{"top":"大型居中标题，带有装饰性小闪光，副标题位于虚线水平线之间，配有青色和粉色圆点","main_grid":"四个等大的圆角卡片，排列成 2x2 网格，通过青色箭头图标连接，展示从 1 到 2，再到 3，最后到 4 的流程","bottom_banner":"圆角总结条，左侧带有灯泡图标，中间为日文结束语，右侧为两个友好的人物形象"},"sections":[{"number":"1","position":"左上","title":"{argument name=\"section 1 title\" default=\"从小处着手\"}","main_illustration":"身穿青色连帽衫的年轻人坐在桌前使用笔记本电脑，旁边手机显示可爱的 AI 机器人聊天界面，带有三个人的对话气泡，以及购物篮、步行者、聊天信息、植物和马克杯的小图标","description":"用 AI 解决身边的问题，并通过 MVP 观察反馈","bullet_count":3,"bullets":["发现身边的困扰","小规模制作并立即尝试","根据使用者的反馈进行改进"]},{"number":"2","position":"右上","title":"{argument name=\"section 2 title\" default=\"看清幻想\"}","main_illustration":"一个人在粉色创意云中看着手机，云中包含汽车、电话、包和气泡；第二个人在思考并记录在打开的笔记本中，墙上挂着饼图和上升的柱状图，配有植物、马克杯、放大镜图标","description":"AI 副业不是魔法，业务本质优先","bullet_count":3,"bullets":["不被甜言蜜语或短期热潮所迷惑","将价值提供和收益设计放在首位","建立可持续的机制"]},{"number":"3","position":"左下","title":"{argument name=\"section 3 title\" default=\"扩展创作\"}","main_illustration":"设计师坐在数位板前，面对显示图像编辑界面的桌面显示器，左侧有垂直工具图标，圆形气泡中有小型 AI 机器人助手，配有平板电脑、触控笔、笔筒、网络灯泡图标","description":"Adobe 与 Claude 的联动改变了设计流程","bullet_count":3,"bullets":["AI 辅助创意构思和元素生成","通过 Photoshop 和 Illustrator 高效编辑","让人的创造力进一步加速"]},{"number":"4","position":"右下","title":"{argument name=\"section 4 title\" default=\"输出到现实\"}","main_illustration":"桌面显示器显示 3D 立方体建模软件，通过虚线青色线条连接到正在打印小型可爱机器人模型的 3D 打印机，对话气泡中有几何晶体，地面上有完成的机器人吉祥物","description":"AI 的 3D 数据通过打印机化为实体","bullet_count":3,"bullets":["将数字创意转化为 3D 数据","通过打印机进行原型制作和产品化","将创意转化为现实价值"]}],"bottom_summary":{"icon":"淡粉色圆圈中的灯泡","text":"从小处尝试，看清现实，扩展创造，并将其成型。\n这就是将 AI 连接到商业的最快途径。","characters":"两个微笑的年轻人，一个身穿青色连帽衫指向前方，另一个女性身穿粉色上衣，带有小闪光标记"},"visual_requirements":"使用 4 张编号主题卡片，每张卡片包含 3 个要点，日文文本必须清晰易读，保持宽裕的页边距，圆角设计，青色卡片边框，第 2 和第 4 部分使用珊瑚色圆点，第 1 和第 3 部分使用青色圆点，避免写实风格。"}
+```
+
+<a id="prompt-a438e843db59ff34fd8a"></a>
+
+### 6. 信息图 / 教育视觉图 - 神秘的 AI 日本面相占卜报告
+
+<img src="https://cms-assets.youmind.com/media/1777971079045_c5jn4g_HHgeNP4aQAAkZnw.jpg" alt="信息图 / 教育视觉图 - 神秘的 AI 日本面相占卜报告" width="480">
+
+生成一份华丽的日本占卜鉴定书，包含天体肖像、月光金配色布局以及多个可读的报告板块。
+
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/ChatgptAIskill/status/2051422854269530228#reversed-0)
+
+**提示词:**
+
+```text
+{"type":"华丽的 AI 日本面相占卜海报","format":"单页竖版 A4 风格鉴定书","style":"神秘天体奢华风，深靛蓝与紫色夜空，古董金字体与边框，优雅的日式编辑排版，高度清晰的日语文本，对称构图，柔和发光效果，高级占卜证书美学","palette":{"background":"带有星云纹理的深紫色星空","accents":"金属金线条与文字","glow":"暖奶油色月光与薰衣草色高光"},"main_text":{"headline":"{argument name=\"headline text\" default=\"AI 面相鉴定书\"}","subtitle":"～解读你的本质与光芒～","footer_wish":"愿你的未来如星光般璀璨。","bottom_right_label":"AI 鉴定书"},"central_visual":{"subject":"女性侧脸黑色剪影，面向左侧，发型为松散的卷发盘发，无面部细节","background_object":"头部后方有巨大的发光满月，如同光环，带有圆形占星参考线与光芒","mood":"平静、灵性、精致、内省"},"decorative_elements":{"count":"9 组主要装饰元素","items":["带有华丽花丝边角的细双金边框","左上方悬挂着带有垂坠星链的新月","右上方明亮的星爆","散布在紫色天空中的繁星","标题上下方的金色装饰线条","月亮周围的中心占星圆形图表线","底部地平线，带有山脉以及水面上发光的月亮或太阳","左下角的紫色水晶簇与叶片","下部面板中心的小型新月与星星装饰"]},"layout":{"sections":[{"title":"鉴定日期","position":"中心肖像左侧","count":1,"content":"{argument name=\"reading date\" default=\"2026 年 5 月 5 日\"}","style":"带有白色日期文字的小型金色边框标签"},{"title":"综合寄语","position":"中心肖像右侧","count":1,"content":"你是一位兼具温柔与坚定内核的人，拥有吸引他人的魅力。善用直觉与行动力，你定能开辟出理想的未来。"},{"title":"性格本质","position":"肖像下方中部","count":1,"content":"你拥有感受力丰富且充满慈悲的心。具备出色的观察力，能敏锐地察觉周围的变化。同时，你也有着重视自我信念的坚定内核。"},{"title":"三大优势","position":"第一行左下卡片","count":3,"labels":["共情能力强，能建立值得信赖的人际关系","直觉与洞察力出众，能把握机遇","具备能持续努力的毅力与责任感"],"style":"带有星星符号的金色轮廓矩形卡片"},{"title":"三大注意事项","position":"第一行中下卡片","count":3,"labels":["过于顾虑他人容易感到疲惫","容易因追求完美而给自己施加压力","有时会因思考过多而导致决策迟缓"],"style":"带有星星符号的金色轮廓矩形卡片"},{"title":"恋爱倾向","position":"第一行右下卡片","count":1,"content":"属于重视专一且诚挚爱情的类型。对他人的思念深切，有时会因付出过多而感到疲惫。与能提供安全感的人在一起，能建立起平静而深厚的羁绊。","icon":"金色爱心"},{"title":"工作倾向","position":"底部左侧宽卡片","count":1,"content":"在从事服务他人、支持或协调类的工作中能发挥实力。在需要运用感性与创意的领域也具备天赋。脚踏实地积累，终将获得巨大成就。","icon":"金色新月"},{"title":"开运建议","position":"底部右侧宽卡片","count":3,"labels":["留出属于自己的时间，让心灵重置","相信直觉，积少成多的行动即是开运之道","薰衣草与月光石能为你带来好运"],"style":"带有星星符号的金色轮廓矩形卡片"}]},"composition_notes":"保持标题居中且醒目，肖像与月亮作为视觉中心，确保所有日语文本清晰、平衡且易读。使用细金线和华丽边框分隔板块，避免杂乱。整体效果应呈现为一份由 AI 生成的、精致且适合分享的占卜鉴定报告。","customization":{"face reading theme":"{argument name=\"fortune theme\" default=\"面相占卜\"}","overall message":"{argument name=\"overall message\" default=\"你是一位兼具温柔与坚定内核的人，拥有吸引他人的魅力。\"}"}}
+```
+
+<a id="prompt-de42b351099b9c2114ee"></a>
+
+### 7. 信息图 / 教育视觉图 - 日语阅读教学信息图
+
+<img src="https://cms-assets.youmind.com/media/1777971071623_0889wc_HHejl2QawAAckky.jpg" alt="信息图 / 教育视觉图 - 日语阅读教学信息图" width="480">
+
+将手写的日语教学笔记转换为结构化的信息图，以便与教育工作者分享课程设计理念。
+
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/masa_kiiiii/status/2051288032276607293#reversed-2)
+
+**提示词:**
+
+```text
+以 REFERENCE_0 和 REFERENCE_1 作为杂乱的手写学习笔记来源，将其内容转换为简洁的垂直日语教学信息图，方便与教师快速分享。保留关于叙事文本阅读课程设计的核心主题，但以视觉化方式组织内容，而非简单复制笔记页面。创建一个精致的白色背景布局，搭配海军蓝章节标题、圆角卡片、简洁的扁平化图标、箭头、复选标记和颜色编码框。添加主标题 {argument name="headline text" default="読む力を育てる授業デザイン"} 和副标题 {argument name="subtitle text" default="〜描写を根拠に、ズレを起点として、解釈を深める授業〜"}。将信息图分为 7 个编号部分以及一个最终总结栏：1) 课程基本结构，分为四个步骤：事实（描写）→ 解釈 → 意味づけ → 自分の言葉；2) 学习深度的三个阶段，标注为：低：表面的理解，中：解释的形成，高：意义的重构；3) 问题设计，包含好问题的条件、问题流程及具体示例提示；4) 提升对话质量的要点，包含两张对比卡片：NG（不佳）和 目指す対話（目标对话），以及关键词标签：比较、关联、再解释；5) 教师最重要的角色，重点在于让“ズレ”（认知偏差/差异）可视化，包含具体行动和 NG 行动的卡片；6) 评估与观察，包含两张卡片：見るポイント（观察要点）和 方法；7) 课程改进的元视角，展示为五个相连的卡片：与前一教材的连接、提高对语言的敏感度、利用最初的“ズレ”、创造“共识的共享”、回顾学习。最后以醒目的总结陈述 {argument name="summary statement" default="描写を根拠に、ズレを起点として、解釈を深める授業"} 和三项检查清单结束：基于根据进行阅读、通过对话扩展思维、用自己的语言赋予意义。使最终结果看起来像专业设计的日语教学讲义，而非笔记照片。
+```
+
+<a id="prompt-ff17e1d962746175f411"></a>
+
+### 8. 信息图 / 教育视觉图 - 幻灯片设计：反面教材与正面案例对比图
+
+<img src="https://cms-assets.youmind.com/media/1777971089954_3rw1ha_HHd4t7-asAA93q_.jpg" alt="信息图 / 教育视觉图 - 幻灯片设计：反面教材与正面案例对比图" width="480">
+
+生成一张日语对比幻灯片，展示如何将 AI 生成的文本简化为一个清晰的信息点，从而使演示文稿更易于理解。
+
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/kemu_aii/status/2051240911896723848#reversed-0)
+
+**提示词:**
+
+```text
+{"type":"简洁的日语演示文稿信息图，对比糟糕与优秀的幻灯片设计","format":"16:9 宽屏幻灯片，白色背景，极简企业风格","headline":"{argument name=\"headline text\" default=\"同样的内容，呈现方式大不同\"}","subtitle":"{argument name=\"subtitle text\" default=\"不要直接将 AI 生成的文本放入幻灯片，先进行人工精简\"}","layout":{"top":"居中大号加粗黑色日语标题，下方居中较小的灰色副标题","comparison_panels":[{"title":"反面案例","position":"左半部分","style":"密集的黑白灰单色方框幻灯片，包含许多微小部分，刻意显得杂乱且难以阅读","main_heading":"AI 应用的关键点","section_count":9,"sections":[{"label":"AI 应用的优势","description":"带有微小蓝色柱状图图标的小列表"},{"label":"可应用领域（示例）","description":"一排密集的胶囊标签，如：企划、市场、销售、客户、开发、设计、人事、法务、分析等"},{"label":"主要 AI 技术","description":"带有小型大脑图标的紧凑型项目符号列表"},{"label":"导入步骤","description":"6 个步骤的垂直数字列表：1 明确目的，2 整理课题，3 工具选型，4 小范围试用，5 效果验证，6 改善与扩大"},{"label":"应用创意（示例）","description":"密集的用例项目符号列表"},{"label":"应用流程（概要）","description":"由箭头连接 5 个图标的水平流程图：输入、AI 处理与生成、输出、应用与改善"},{"label":"成功要点","description":"包含 5 个简短条目的核对清单"},{"label":"注意事项与风险","description":"警告三角形和风险项目符号列表"},{"label":"推荐工具（示例）","description":"包含 ChatGPT、Gemini、Claude、Copilot、Notion AI、Canva AI、Perplexity 等多个工具的小按钮"}],"bottom_note":"总结：AI 并非万能，但正确使用可带来巨大成果。从小处着手，在学习中不断扩大规模是成功的关键。"},{"title":"正面案例","position":"右半部分","style":"简洁宽敞的白色卡片，带有细蓝色边框和蓝色标题标签","main_message":"{argument name=\"main message\" default=\"1 张幻灯片 = 1 个核心信息\"}","sub_message":"{argument name=\"sub message\" default=\"2 秒内传达到位\"}","visual_flow":{"count":3,"items":[{"label":"精简","icon":"浅蓝色圆圈中的剪刀"},{"label":"整理","icon":"中蓝色圆圈中的闪光"},{"label":"传达","icon":"深蓝色圆圈中的扩音器"}],"connectors":"三个图标之间有两个粗蓝色箭头"}}]},"colors":{"primary_blue":"#0057d8","light_blue":"#d6ebff","black":"#111111","gray":"#555555"},"typography":"粗体现代日语无衬线字体，强烈的层级感，右侧极具可读性，左侧刻意显得冗余","composition":"清晰的并排对比：左侧为杂乱的反面案例，右侧为简化的正面案例，留白充足，矢量图形清晰"}
+```
+
+<a id="prompt-a14e1cc7fb8ff16f8c69"></a>
+
+### 9. 时尚服装系列信息图
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg" alt="时尚服装系列信息图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/cellinlab/status/2049073530738754042)
+
+**提示词:**
+
+```text
+{
+  "image_type": "商业时尚信息图",
+  "subject": {
+    "model": "年轻亚洲女性，拥有优雅的面容和深色头发，松松地挽成发髻",
+    "attire": "缎面中长款连衣裙，细肩带，垂坠式U型领口",
+    "fit": "紧身/修身款式，侧面有褶皱设计，腿部有细微开衩"
+  },
+  "layout_structure": {
+    "composition": "多版面编辑布局",
+    "header": "粗衬线字体标题，显示'服装系列'",
+    "main_feature": "大型居中肖像，模特为年轻亚洲女性，穿着酒红色缎面连衣裙",
+    "secondary_panels": [
+      "服装特点网格，配有极简图标",
+      "服装指南侧边栏，详细说明领口、袖型和长度",
+      "色彩系列行，展示黑色、祖母绿、海军蓝、香槟色和皇家蓝色的连衣裙",
+      "服装风格指南页脚，模特出现在各种氛围浓郁的晚间场景中"
+    ]
+  },
+  "aesthetic_style": {
+    "color_palette": "深色宝石色调（酒红色、祖母绿、海军蓝、皇家蓝）与香槟色和黑色形成对比，背景为温暖的奶油色或米色",
+    "lighting": "柔和的影棚灯光，在缎面织物纹理上呈现出优雅的高光",
+    "vibe": "奢华、永恒且精致的商业广告风格"
+  },
+  "typography": {
+    "primary": "经典衬线字体用于标题",
+    "secondary": "简洁的无衬线字体用于正文和技术细节"
+  }
+}
+```
+
+<a id="prompt-22c1b920832dadafff57"></a>
+
+### 10. 亲子沟通障碍信息图
+
+- **分类:** 信息图与教育
+- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/sarinaashapi/status/2048307780864606708)
+
+**提示词:**
+
+```text
+{"type":"日式信息图表","style":"简单易懂的扁平矢量图，干净的白色背景，圆角浅灰色外框，柔和的极简调色板，演示幻灯片设计，清晰的层次结构，充足的留白，现代无衬线日文字体","canvas":{"aspect_ratio":"16:9"},"headline":{"text":"{argument name=\"headline text\" default=\"亲子间的分歧源于是否有记录\"}","position":"顶部居中","size":"大号粗体黑色"},"layout":{"structure":"标题下方两个并排的圆角面板","sections":[{"title":"没有记录时(产生分歧)","position":"左侧","count":8,"header_color":"柔和蓝灰色","panel_border":"浅灰色","labels":["父母的记忆","孩子的记忆","那时候不是已经决定了吗","我还在思考中","分歧越来越大","志愿学校频繁变化","理由是\"总觉得\"","说的话不一致","关系变得紧张","希望看到现实","希望好好决定","插手过多会导致关系恶化"],"contents":{"top_left":{"type":"带思考气泡的父母图标","icon_color":"蓝色","caption":"父母的记忆","bubble_text":"那时候\n不是已经决定了吗"},"top_right":{"type":"带思考气泡的孩子图标","icon_color":"粉色","caption":"孩子的记忆","bubble_text":"我还在思考中"},"center":{"type":"水平双向箭头","color":"蓝灰色"},"bottom_center":{"type":"向下箭头指向爆炸形状","color":"浅灰色","burst_text":"分歧\n越来越大"},"bottom_left":{"type":"圆角注释框","bullet_count":4,"bullets":["志愿学校频繁变化","理由是\"总觉得\"","说的话不一致","关系变得紧张"]},"bottom_right":{"type":"圆角注释框","bullet_count":3,"bullets":["希望看到现实","希望好好决定","插手过多会导致关系恶化"]}}},{"title":"有记录时(不易产生分歧)","position":"右侧","count":7,"header_color":"芥末黄色","panel_border":"浅黄色","labels":["父母的认知","孩子的认知","记录"],"contents":{"top_left":{"type":"带包含文档符号的思考气泡的父母图标","icon_color":"蓝色","caption":"父母的认知"},"top_right":{"type":"带包含文档符号的思考气泡的孩子图标","icon_color":"粉色","caption":"孩子的认知"},"center":{"type":"水平双向箭头","color":"芥末黄色"},"bottom_center":{"type":"带文档符号的圆形记录图标","outline_color":"芥末黄色","text":"记录"},"bottom_left_connector":{"type":"从父母到记录的曲线箭头","color":"蓝色"},"bottom_right_connector":{"type":"从孩子到记录的曲线箭头","color":"粉色"}}}],"spacing":"平衡，对称"},"visual_language":{"icons":"通用人像图标和简单文档线条图标","emphasis":"对比左侧面板的误解与右侧面板的共享记录","mood":"教育性，平静，实用"},"text_language":"日语","render_quality":"清晰的矢量边缘，适合社交媒体教育帖子的信息图表"}
+```
+
+<a id="prompt-963342595f4a201b2b05"></a>
+
+### 11. 城市美食地图
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case110/output.jpg" alt="城市美食地图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/mm_zzm44854/status/2045861258520568230)
+
+**提示词:**
+
+```text
+{
+  "type": "插图式地图信息图",
+  "style": "{argument name=\"art style\" default=\"复古羊皮纸上的水彩和墨水手绘插图\"}",
+  "title_section": {
+    "text": "{argument name=\"city name\" default=\"成都\"} {argument name=\"map title\" default=\"吃货暴走地图\"}",
+    "mascot": "戴着太阳镜并竖起大拇指的卡通红辣椒"
+  },
+  "border": "{argument name=\"border decoration\" default=\"绿叶和红辣椒的藤蔓\"}",
+  "layout": {
+    "background": "纹理米色羊皮纸，有黄色道路、蓝色河流和绿色公园区域",
+    "sections": [
+      {
+        "title": "地标",
+        "count": 6,
+        "illustrations": ["传统亭子", "传统寺庙", "有攀爬熊猫的现代摩天大楼", "高电视塔", "传统门楼", "工业建筑"],
+        "labels": ["人民公园", "文殊院", "IFS", "339电视塔", "宽窄巷子", "东郊记忆"]
+      },
+      {
+        "title": "美食地点",
+        "count": 12,
+        "illustrations": ["麻婆豆腐", "红油饺子", "锅串串", "糯米团子", "蛋烘糕", "九宫格火锅", "甜水面", "冷锅串串", "麻辣拌", "盖碗茶", "冰粉", "兔头"],
+        "labels": ["1 陈麻婆豆腐", "2 钟水饺", "3 春熙路", "4 宽窄巷子·三大炮", "5 建设路·叶婆婆蛋烘糕", "6 玉林路·小龙坎火锅", "7 香香巷·肥肠粉", "8 武侯祠大街·钵钵鸡", "9 东郊记忆·冒椒火辣", "10 人民公园·鹤鸣茶社", "11 锦里古街·冰粉", "12 双流老妈兔头"]
+      },
+      {
+        "title": "图例",
+        "position": "右下角",
+        "count": 5,
+        "items": ["红点", "绿色房屋", "绿色树木", "蓝色线条", "黄色双线"],
+        "labels": ["美食地点", "地标景点", "公园绿地", "河流湖泊", "主要道路"]
+      }
+    ],
+    "centerpiece": "坐着吃竹子的大熊猫",
+    "bottom_right_extras": ["带有N、S、E、W的复古指南针", "免责声明文本'温馨提示:吃辣需谨慎,肠胃要保护~'，配有红辣椒图标"]
+  }
+}
+```
+
+<a id="prompt-ff20dd5f950e5b6c1489"></a>
+
+### 12. 手绘城市美食地图
+
+<img src="https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg" alt="手绘城市美食地图" width="480">
 
 生成一张手绘水彩风格的旅游地图，包含编号的当地特色美食、地标建筑及图例。
 
-- **分类:** 信息图可视化设计, 城市美食插图地图
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-18)
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/mm_zzm44854/status/2045861258520568230#reversed-1)
 
 **提示词:**
 
@@ -126,13 +314,126 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 }
 ```
 
+<a id="prompt-034b6a009f1f0e9ec37e"></a>
+
+### 13. 发型比较分析
+
+<img src="https://pbs.twimg.com/media/HGnE60casAAcDLF?format=jpg&amp;name=large" alt="发型比较分析" width="480">
+
+原帖提示说该提示在回复中；此提示是根据可见输出和推文上下文重建的。
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/garenaguinaldox/status/2047384051322081738)
+
+**提示词:**
+
+```text
+使用这张图片创建一个发型分析图表。并排展示发型对比，突出显示哪些发型最适合该人物。以视觉效果为主，只使用简短标签，并包含关于发型的详细信息。
+```
+
+<a id="prompt-03eded6bdca064268996"></a>
+
+### 14. 手机爆炸拆解图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg" alt="手机爆炸拆解图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-361)
+
+**提示词:**
+
+```text
+Create a 3D Insane detailed exploded assembly drawing of [subject or object]
+```
+
+<a id="prompt-0723d4ac8c12572d0293"></a>
+
+### 15. 信息图可视化设计
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case18.jpg" alt="信息图可视化设计" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-18)
+
+**提示词:**
+
+```text
+{
+  "type": "illustrated map infographic",
+  "style": "{argument name=\"art style\" default=\"watercolor and ink hand-drawn illustration on vintage parchment\"}",
+  "title_section": {
+    "text": "{argument name=\"city name\" default=\"成都\"} {argument name=\"map title\" default=\"吃货暴走地图\"}",
+    "mascot": "cartoon red chili pepper wearing sunglasses and giving a thumbs up"
+  },
+  "border": "{argument name=\"border decoration\" default=\"vine of green leaves and red chili peppers\"}",
+  "layout": {
+    "background": "textured beige parchment paper with yellow roads, blue rivers, and green park areas",
+    "sections": [
+      {
+        "title": "landmarks",
+        "count": 6,
+        "illustrations": ["traditional pavilion", "traditional monastery", "modern skyscraper with climbing panda", "tall TV tower", "traditional gate", "industrial buildings"],
+        "labels": ["人民公园", "文殊院", "IFS", "339电视塔", "宽窄巷子", "东郊记忆"]
+      },
+      {
+        "title": "food_spots",
+        "count": 12,
+        "illustrations": ["mapo tofu", "dumplings in chili oil", "skewers in pot", "sticky rice balls", "egg baking cake", "nine-grid hotpot", "sweet potato noodles", "cold skewers", "spicy mixed dish", "covered tea bowl", "ice jelly dessert", "spicy rabbit heads"],
+        "labels": ["1 陈麻婆豆腐", "2 钟水饺", "3 春熙路", "4 宽窄巷子·三大炮", "5 建设路·叶婆婆蛋烘糕", "6 玉林路·小龙坎火锅", "7 香香巷·肥肠粉", "8 武侯祠大街·钵钵鸡", "9 东郊记忆·冒椒火辣", "10 人民公园·鹤鸣茶社", "11 锦里古街·冰粉", "12 双流老妈兔头"]
+      },
+      {
+        "title": "图例",
+        "position": "bottom-right",
+        "count": 5,
+        "items": ["red dot", "green house", "green tree", "blue line", "yellow double line"],
+        "labels": ["美食地点", "地标景点", "公园绿地", "河流湖泊", "主要道路"]
+      }
+    ],
+    "centerpiece": "giant panda sitting and eating bamboo",
+    "bottom_right_extras": ["vintage compass rose with N, S, E, W", "disclaimer text '温馨提示：吃辣需谨慎，肠胃要保护~' with a red chili pepper icon"]
+  }
+}
+```
+
+<a id="prompt-095da2060bda9a9a7d82"></a>
+
+### 16. 三甲医院真实门诊处方笺
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case201.jpg" alt="三甲医院真实门诊处方笺" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-201)
+
+**提示词:**
+
+```text
+一张三甲医院的门诊处方笺，医生潦草的手写字，包含真实合理的 诊断、药品名、剂量，右下角有医生签名和科室章。
+```
+
+<a id="prompt-0bbe7ba5ffaa2f697f9b"></a>
+
+### 17. 古希腊三哲时间轴城市图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case375.jpg" alt="古希腊三哲时间轴城市图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-375)
+
+**提示词:**
+
+```text
+二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。
+
+背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。
+```
+
 <a id="prompt-109b11f6713742227150"></a>
 
-### 6. 信息图可视化设计
+### 18. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case67.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-67)
 
 **提示词:**
@@ -176,11 +477,11 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 
 <a id="prompt-172c97d2cb834c02a96c"></a>
 
-### 7. 关键人物关系图谱
+### 19. 关键人物关系图谱
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case241.jpg" alt="关键人物关系图谱" width="480">
 
-- **分类:** 关键人物关系图谱
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-241)
 
 **提示词:**
@@ -191,11 +492,11 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 
 <a id="prompt-18ed91172bdc24cc76ff"></a>
 
-### 8. 信息图可视化设计
+### 20. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case82.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-82)
 
 **提示词:**
@@ -248,11 +549,11 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 
 <a id="prompt-2cec2bf05920583b3c4d"></a>
 
-### 9. 信息图可视化设计
+### 21. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case112.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-112)
 
 **提示词:**
@@ -263,11 +564,11 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 
 <a id="prompt-3289a1a721a10494e192"></a>
 
-### 10. 零食品牌技术分解图
+### 22. 零食品牌技术分解图
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case310.jpg" alt="零食品牌技术分解图" width="480">
 
-- **分类:** 零食品牌技术分解图
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-310)
 
 **提示词:**
@@ -294,13 +595,203 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 输出：1080×1080，超清晰，社交媒体动态优化，无水印。
 ```
 
+<a id="prompt-340549b2cc6eaee8ec15"></a>
+
+### 23. 编辑此图片，使总金额更改为244.5泰铢。您可以更改...
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case66/output.jpg" alt="编辑此图片，使总金额更改为244.5泰铢。您可以更改..." width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/elliscrosby/status/2047211507596071235)
+
+**提示词:**
+
+```text
+编辑此图像，使总金额变为244.5泰铢。您可以改变每堆硬币的数量，直到达到目标总额。
+```
+
+<a id="prompt-3ac0939738ffdcb1ce93"></a>
+
+### 24. 品牌人格漫画信息图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case379.jpg" alt="品牌人格漫画信息图" width="480">
+
+- **分类:** 品牌与标志
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-379)
+
+**提示词:**
+
+```text
+Using the uploaded logo, create a highly detailed, comic-style infographic poster:
+
+“What This Brand Feels Like”
+
+GOAL:
+Turn the brand into a living personality and visually explain how it behaves, speaks, and interacts with the world.
+This must feel like a mix of: brand strategy + character design + comic storytelling.
+
+---
+
+CORE RULE:
+Everything must come from the logo:
+- colors
+- style
+- tone
+- personality
+
+No generic personality traits.
+
+---
+
+MAIN STRUCTURE:
+Vertical 4:5 poster
+Dense layout with multiple panels
+Comic + infographic hybrid
+
+---
+
+TOP SECTION:
+- Brand name
+- Short personality statement (max 6 words)
+Example: “Quiet confidence with sharp edges”
+
+---
+
+MAIN CHARACTER (VERY IMPORTANT):
+Create a central character representing the brand:
+- humanized version of the brand
+- outfit reflects brand style
+- posture + expression reflect personality
+
+---
+
+AROUND THE CHARACTER:
+Create 6–8 comic panels showing how the brand behaves in different situations.
+
+---
+
+SCENARIO IDEAS:
+- Talking to customers
+- Handling competition
+- Selling a product
+- Social media presence
+- Reacting to criticism
+- Daily “brand life” moment
+
+---
+
+FOR EACH PANEL:
+Include:
+- short caption (max 6 words)
+- speech bubble or internal thought
+- clear visual action
+
+---
+
+TONE EXAMPLES:
+Luxury brand: calm, confident, minimal speech
+Playful brand: loud, chaotic, expressive
+Tech brand: precise, logical, clean
+
+---
+
+PERSONALITY TRAITS SECTION:
+Add small labeled blocks:
+- Voice tone (e.g. calm, bold, playful)
+- Energy level (low / medium / high)
+- Social behavior (introvert / extrovert)
+- Communication style
+
+Use:
+- icons
+- short labels
+
+---
+
+DO / DON’T SECTION:
+Add a split block:
+DO:
+- how the brand should act
+DON’T:
+- what breaks the identity
+
+Keep:
+- very short phrases
+
+---
+
+VISUAL ELEMENTS:
+- speech bubbles
+- icons
+- arrows
+- small reactions
+- exaggerated comic expressions
+
+---
+
+STYLE:
+- comic + editorial hybrid
+- slightly exaggerated but still premium
+- expressive but not childish
+
+---
+
+COLOR:
+- strictly based on logo palette
+- use color to reinforce personality
+
+---
+
+DEPTH:
+- 20–40 visual elements
+- multiple small panels
+- layered composition
+
+---
+
+IMPORTANT RULES:
+- must feel alive
+- must feel specific
+- no generic marketing words
+- no empty areas
+- keep text short but impactful
+
+---
+
+FINAL FEEL:
+Like:
+- a brand strategy turned into a character
+- a visual storytelling board
+- something people save and study
+
+NOT:
+- flat
+- generic
+- minimal
+```
+
+<a id="prompt-42f4184676faa39d9756"></a>
+
+### 25. 复古传统老黄历二零二六年四月十八
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case295.jpg" alt="复古传统老黄历二零二六年四月十八" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-295)
+
+**提示词:**
+
+```text
+生成一张2026年4月18日的老黄历
+```
+
 <a id="prompt-4427c1ad5a1a9a3100be"></a>
 
-### 11. 天坛古建拆解全图
+### 26. 天坛古建拆解全图
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case211.jpg" alt="天坛古建拆解全图" width="480">
 
-- **分类:** 天坛古建拆解全图
+- **分类:** 建筑与空间
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-211)
 
 **提示词:**
@@ -311,11 +802,11 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 
 <a id="prompt-49e5be3252883812c292"></a>
 
-### 12. 信息图可视化设计
+### 27. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case66.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-66)
 
 **提示词:**
@@ -401,11 +892,11 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 
 <a id="prompt-53f8a3a774198179bb7f"></a>
 
-### 13. 信息图可视化设计
+### 28. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case68.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-68)
 
 **提示词:**
@@ -453,13 +944,30 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 }
 ```
 
+<a id="prompt-589ca87594027d0cf57b"></a>
+
+### 29. 100个元素场景清单
+
+<img src="https://pbs.twimg.com/media/HGbftRuacAAKgJB?format=jpg&amp;name=large" alt="100个元素场景清单" width="480">
+
+我要求ChatGPT Image v2创建一个包含100个元素的场景。它不仅创建了一个包含100个物品的场景，还在图像中列出了这些物品！
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/umesh_ai/status/2046569229189849228)
+
+**提示词:**
+
+```text
+创建一个包含100个元素的场景，并在图像中列出这100个元素。
+```
+
 <a id="prompt-594bbf183e6516e7eb77"></a>
 
-### 14. 信息图可视化设计
+### 30. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case83.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-83)
 
 **提示词:**
@@ -501,43 +1009,28 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 }
 ```
 
-<a id="prompt-5c80f33af4ccd60eed93"></a>
+<a id="prompt-608df0d4ae3b0448e7a7"></a>
 
-### 15. 博物馆级中文拆解信息图鉴
+### 31. 萌系大模型训练图解
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case296.jpg" alt="博物馆级中文拆解信息图鉴" width="480">
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case210.jpg" alt="萌系大模型训练图解" width="480">
 
-- **分类:** 博物馆级中文拆解信息图鉴
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-296)
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-210)
 
 **提示词:**
 
 ```text
-请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
-
-要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
-
-整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
-
-版式固定为：
-- 顶部：中文主标题 + 副标题 + 导语
-- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
-- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
-- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
-- 底部：穿着顺序 / 构成流程图 + 核心特征总结
-
-若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
-
-避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
+可爱地解释一下大语言模型训练过程
 ```
 
 <a id="prompt-60c46e352e11a1a1a923"></a>
 
-### 16. 信息图可视化设计
+### 32. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case70.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-70)
 
 **提示词:**
@@ -624,43 +1117,147 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 }
 ```
 
-<a id="prompt-7fca47ff30867a025358"></a>
+<a id="prompt-6a66822cf953b9ae9cef"></a>
 
-### 17. 蒸汽朋克射手座解剖图谱
+### 33. 手写食谱变身杂志级跨页
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case179.jpg" alt="蒸汽朋克射手座解剖图谱" width="480">
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case297.jpg" alt="手写食谱变身杂志级跨页" width="480">
 
-- **分类:** 蒸汽朋克射手座解剖图谱
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-179)
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-297)
 
 **提示词:**
 
 ```text
-（Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。
+手写食谱 → 专业食谱页面 上传一份凌乱的手写家庭食谱；模型会搜索准确的现代计量/营养信息，然后生成一份精致的杂志风格双页跨页，包含分步平铺图、完美的食材标签和卡路里分解。
+
+[INSERT_RECIPE_LINK]
 ```
 
-<a id="prompt-81f9751b520f667be71e"></a>
+<a id="prompt-6a73076afe6f29f1a863"></a>
 
-### 18. AI 眼镜爆炸拆解图
+### 34. 聚焦人工智能的校园日报
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case333.png" alt="AI 眼镜爆炸拆解图" width="480">
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case293.jpg" alt="聚焦人工智能的校园日报" width="480">
 
-- **分类:** AI 眼镜爆炸拆解图
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-333)
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-293)
 
 **提示词:**
 
 ```text
-生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
+生成一张校园日报，主题AI教育
+```
+
+<a id="prompt-7bff03b18c7decb68dc4"></a>
+
+### 35. 冠状病毒尺度缩放科学信息图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case380.jpg" alt="冠状病毒尺度缩放科学信息图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-380)
+
+**提示词:**
+
+```text
+instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>
+```
+
+<a id="prompt-7d8fb7b94d1b8a8e86b7"></a>
+
+### 36. 烬甲猎鹰者与燃翼神禽
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case329.jpg" alt="烬甲猎鹰者与燃翼神禽" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-329)
+
+**提示词:**
+
+```text
+一幅充满奇幻色彩的电影场景：一位英姿飒爽的女战士兼猎鹰师，身着饱经战火洗礼、饰以闪耀余烬纹理的皮甲，漫步于幽暗迷雾笼罩的森林之中。她高举手臂，指挥着一头巨大的凤凰与雄鹰的混合体，这头猛禽双翼燃烧，羽毛燃焰，尖端喷吐着火焰。它周身散发着橙红色的熔岩光芒，火星和余烬飞溅。女战士梳着辫子，皮肤上沾满了灰烬，神情坚定，手中拿着绳索和工具袋。画面细节丰富，羽毛纹理逼真，火焰物理效果自然，光照效果极具戏剧性，运用了体积雾、浅景深等技术，营造出史诗般的奇幻氛围，色彩调校极具电影质感，背景阴郁深沉，分辨率高达8K，呈现出概念艺术的精髓，并采用了虚幻引擎的渲染效果。
+```
+
+<a id="prompt-7f04a6fb9ddccdb22b60"></a>
+
+### 37. POLO衫颜色对比分析
+
+<img src="https://pbs.twimg.com/media/HGnE60ebYAAgm08?format=jpg&amp;name=large" alt="POLO衫颜色对比分析" width="480">
+
+原帖提示说该提示在回复中；此提示是根据可见输出和推文上下文重建的。
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/garenaguinaldox/status/2047384051322081738)
+
+**提示词:**
+
+```text
+使用这张图片进行个人色彩分析。使用Polo服装颜色对比来突出显示哪些颜色最适合该主体。以视觉效果为主，附带解释和建议。
+```
+
+<a id="prompt-7ff4654aa203b07ef3e1"></a>
+
+### 38. 信息图可视化设计
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case23.jpg" alt="信息图可视化设计" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-23)
+
+**提示词:**
+
+```text
+{
+  "type": "evolutionary timeline infographic",
+  "instruction": "Using REFERENCE_0 as a structural base, transform the flat vector design into a highly realistic 3D infographic. Replace the smooth ramps with distinct stone steps and upgrade all organisms to photorealistic 3D models.",
+  "style": {
+    "background": "{argument name=\"background style\" default=\"vintage textured parchment paper\"}",
+    "staircase": "{argument name=\"staircase material\" default=\"realistic textured stone blocks\"}",
+    "subjects": "{argument name=\"organism style\" default=\"highly detailed photorealistic 3D renders\"}"
+  },
+  "layout": {
+    "main_title": "{argument name=\"main title\" default=\"人类演化\"}",
+    "sections": [
+      {
+        "position": "left sidebar",
+        "count": 8,
+        "labels": ["L0: 单细胞生命", "L1: 多细胞生物", "L2: 动物界", "L3: 脊索动物", "L4: 上陆革命", "L5: 哺乳纲", "L6: 人科演化", "L7: 智人纪元"]
+      },
+      {
+        "position": "top right",
+        "title": "获得的功能 / 失去的功能",
+        "description": "Legend with plus and minus icons"
+      },
+      {
+        "position": "bottom center",
+        "title": "演化关键里程碑",
+        "count": 6,
+        "description": "Timeline with a silhouette graphic of 6 figures showing ape-to-human evolution"
+      }
+    ],
+    "centerpiece": {
+      "description": "Winding stone staircase with 25 numbered steps featuring specific organisms.",
+      "count": 25,
+      "notable_elements": [
+        "Step 07: Jellyfish",
+        "Step 09: Ammonite",
+        "Step 10: Trilobite",
+        "Step 24: Walking human",
+        "Step 25: {argument name=\"future evolution concept\" default=\"glowing cosmic silhouette with a question mark\"}"
+      ]
+    }
+  }
+}
 ```
 
 <a id="prompt-85e78248c48804b9a886"></a>
 
-### 19. 信息图可视化设计
+### 39. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case171.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-171)
 
 **提示词:**
@@ -669,69 +1266,43 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 创建一个包含 10x10 网格的图像，每个对象名称都以字母 a 开头。
 ```
 
-<a id="prompt-8e4b293a9e4338d4f9b5"></a>
+<a id="prompt-8c482dd43da152af44d0"></a>
 
-### 20. 信息图可视化设计
+### 40. 字母 A 物品网格
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case51.jpg" alt="信息图可视化设计" width="480">
+<img src="https://pbs.twimg.com/media/HGaqAFba0AES6z_?format=jpg&amp;name=large" alt="字母 A 物品网格" width="480">
 
-- **分类:** 信息图可视化设计
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-51)
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/umesh_ai/status/2046510988367945983)
 
 **提示词:**
 
 ```text
-{
-  "type": "7-day fashion lookbook infographic",
-  "header": {
-    "title": "{argument name=\"main title\" default=\"一周穿搭指南\"}",
-    "subtitle": "{argument name=\"style keywords\" default=\"温柔 | 靓丽 | 优雅\"}",
-    "slogan_cn": "优雅不设限，自信每一天",
-    "slogan_en": "{argument name=\"english slogan\" default=\"ELEGANCE HAS NO LIMIT, BE CONFIDENT EVERY DAY\"}"
-  },
-  "subject": "{argument name=\"subject description\" default=\"young elegant Asian woman\"}",
-  "layout": {
-    "columns": 7,
-    "column_elements": [
-      "day_header",
-      "main_portrait",
-      "4_detail_thumbnails",
-      "outfit_specs",
-      "keywords_colors",
-      "3_color_swatches",
-      "star_ratings",
-      "fabric_price",
-      "4_season_icons"
-    ],
-    "days": [
-      { "day": "周一 (MONDAY)", "outfit": "beige blazer suit", "scene": "场景：重要会议 / 正式商务" },
-      { "day": "周二 (TUESDAY)", "outfit": "pink blazer suit", "scene": "场景：日常通勤" },
-      { "day": "周三 (WEDNESDAY)", "outfit": "cream knit cardigan set", "scene": "场景：生活休闲" },
-      { "day": "周四 (THURSDAY)", "outfit": "champagne slip dress", "scene": "场景：外出私会" },
-      { "day": "周五 (FRIDAY)", "outfit": "blue knit top, white skirt", "scene": "场景：休闲社交" },
-      { "day": "周六 (SATURDAY)", "outfit": "white sports bra, purple leggings", "scene": "场景：运动休闲" },
-      { "day": "周日 (SUNDAY)", "outfit": "beige lounge knitwear", "scene": "场景：居家 / 约会" }
-    ]
-  },
-  "footer": {
-    "tips": "{argument name=\"footer tips\" default=\"Tips: 根据天气与场合灵活调整，配饰是提升整体造型的关键；保持自信与舒适，才是穿搭的最终目的。\"}",
-    "legend": [
-      "春: 春季适用",
-      "夏: 夏季适用",
-      "秋: 秋季适用",
-      "冬: 冬季适用"
-    ]
-  }
-}
+创建一张 10x10 网格图，里面的物品名称都以字母 A 开头
+```
+
+<a id="prompt-917df6ff31541b29e6da"></a>
+
+### 41. 综合应用场景图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case108.jpg" alt="综合应用场景图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-108)
+
+**提示词:**
+
+```text
+{argument name="subject" default="A beautiful internet celebrity"} is live-streaming a {argument name="activity" default="game"}.
 ```
 
 <a id="prompt-91c7e96d3cbe2aa1824b"></a>
 
-### 21. 信息图可视化设计
+### 42. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case13.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-13)
 
 **提示词:**
@@ -742,11 +1313,11 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 <a id="prompt-9362a5502faa5b48530d"></a>
 
-### 22. 信息图可视化设计
+### 43. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case65.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-65)
 
 **提示词:**
@@ -774,116 +1345,28 @@ Right: `60+ Spiritual Cultivation`: looking lightly at gain/loss; `35-55 Conduct
 Bottom Summary: `The balance between being in the world and being out of the world is high-level life wisdom.`
 ```
 
-<a id="prompt-9c734ff52a305db02534"></a>
+<a id="prompt-9bdb04c0446fa62deb52"></a>
 
-### 23. 一张中文健身信息图
+### 44. 100 个科技主题网格
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case183.jpg" alt="一张中文健身信息图" width="480">
+<img src="https://pbs.twimg.com/media/HGaW8ECaEAAq-LZ?format=jpg&amp;name=large" alt="100 个科技主题网格" width="480">
 
-- **分类:** 一张中文健身信息图
-- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-183)
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/chetaslua/status/2046489044243403029)
 
 **提示词:**
 
 ```text
-请生成一张中文健身信息图，主题为：【xxx】。
-
-要求这张图既专业又实用，适合普通成年人作为训练参考。默认对象为无严重伤病的健康成年人；如果没有额外说明，默认训练目标为“增肌 + 基础力量提升”，默认训练水平为“新手到中级之间”，默认训练场景为“普通健身房”，默认单次训练时长控制在 40–60 分钟内。
-
-请根据【训练主题】自动判断输出类型：
-
-1）如果【训练主题】是某个肌群或身体部位（例如：胸肌、背阔肌、肱二头肌、腹肌、肩部、腿部等），请输出一张“该部位训练计划信息图”。
-2）如果【训练主题】是某个动作或技能目标（例如：引体向上、俯卧撑、双杠臂屈伸、深蹲等），请输出一张“动作解锁 / 进阶训练计划信息图”。
-
-整张图请采用清晰、现代、专业、易读的中文信息图风格，竖版排版，视觉简洁，重点突出，适合社交媒体分享或训练参考卡片。不要写成长篇大论，每个模块用简洁短句呈现，数字信息要醒目。
-
-这张信息图必须包含以下内容：
-
-【A. 标题区】
-- 主标题：直接写【训练主题】训练计划 / 解锁计划
-- 副标题：自动补充适用人群、目标、训练场景、建议时长
-例如：适合新手 / 增肌导向 / 健身房版 / 45分钟
-
-【B. 训练目标区】
-用简洁语言说明：
-- 这次训练主要针对什么
-- 主要目标是什么（增肌 / 力量 / 技能解锁 / 核心控制等）
-- 本次训练的重点刺激或能力提升方向
-
-【C. 热身区】
-给出 2–4 个热身建议，简洁列出即可，例如：
-- 动态活动
-- 目标肌群激活
-- 轻重量预热组
-每项可附一句说明
-
-【D. 主训练区】
-这是核心部分，请列出 4–6 个主要训练动作。
-每个动作都要包含以下信息：
-- 动作名称
-- 训练作用 / 针对部位
-- 组数 × 次数（或时间）
-- RIR 建议
-- 每组间休息时间
-- 动作关键要点（1–2 条）
-- 常见错误（1 条即可）
-
-请确保动作安排合理：
-- 先复合动作，后孤立动作
-- 整体训练量适中
-- 新手不要安排过度极限训练
-- 主动作通常建议 RIR 1–3
-- 孤立动作可建议 RIR 0–2
-- 如果是腹肌或核心类动作，可用“秒数 / 次数”形式
-- 如果是技能类动作，请优先安排“前置能力动作 + 过渡动作 + 目标动作尝试”
-
-【E. 进阶 / 解锁逻辑区】
-根据主题自动生成：
-- 如果是肌群训练：写“如何渐进超负荷”，例如达到次数上限后再加重量、优先保证动作标准等
-- 如果是动作解锁：写“分阶段进阶路径”，例如从悬垂、肩胛引体、离心训练、弹力带辅助，到标准动作完成
-
-【F. 替代动作区】
-请给出 2–3 个替代动作，适用于以下情况：
-- 没有器械
-- 家庭训练
-- 当前能力不足
-- 某些动作做不了
-
-【G. 执行提醒区】
-请给出 4–6 条简洁提醒，例如：
-- 动作标准优先于重量
-- 不要每组都练到力竭
-- 同肌群建议间隔 48–72 小时
-- 疼痛不等于正常发力
-- 睡眠不足时可适当减少训练量
-
-【H. 恢复建议区】
-简洁说明：
-- 训练后恢复重点
-- 蛋白质 / 睡眠 / 恢复间隔建议
-- 1 句风险提醒（如有明显疼痛应停止并评估）
-
-【I. 视觉设计要求】
-- 整体为单页中文信息图
-- 竖版排版
-- 风格现代、清爽、专业、健身感强
-- 使用模块化卡片布局
-- 重点数字（组数、次数、RIR、休息）要醒目
-- 可加入简洁的人体肌群图标、哑铃、杠铃、引体向上等小图标
-- 颜色保持高级、干净、有运动感
-- 中文文字必须清晰、准确、易读
-- 避免过多装饰，强调实用性与执行性
-
-请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。
+创建一个 10 × 10 网格，展示 100 个代表近期技术进展的不同主题。采用真实、精致的编辑插画风格。每个主题占据自己的方格，并在下方附上简短清晰的标签。保持白色背景上的网格整齐。让每个主题在视觉上都不同，并确保每个标签拼写正确。使用这些行主题：第 1 行：AI 模型与智能体；第 2 行：机器人；第 3 行：半导体与算力；第 4 行：网络与智能设备；第 5 行：生物科技与健康科技；第 6 行：能源与电力系统；第 7 行：交通与自动驾驶；第 8 行：航天与航空航天；第 9 行：制造与材料；第 10 行：气候与环境技术。把每个格子表现为真实的小场景、产品级物件、实验室仪器、机器人、芯片、载具或设备，清楚传达该主题。整体风格保持统一、现代、真实且具有视觉冲击力。
 ```
 
 <a id="prompt-9dac7a63ae8de453ede8"></a>
 
-### 24. RAG 技术详解图
+### 45. RAG 技术详解图
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case334.png" alt="RAG 技术详解图" width="480">
 
-- **分类:** RAG 技术详解图
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-334)
 
 **提示词:**
@@ -892,13 +1375,28 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 帮我生成一张 RAG 技术的详细讲解图
 ```
 
+<a id="prompt-9f981035481833f20b1e"></a>
+
+### 46. 明洞旅游区域地图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case369.jpg" alt="明洞旅游区域地图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-369)
+
+**提示词:**
+
+```text
+[エリア]の観光エリアマップを画像で作成して
+```
+
 <a id="prompt-a51584f34d9c29b86070"></a>
 
-### 25. 关系图谱信息图
+### 47. 关系图谱信息图
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case71.jpg" alt="关系图谱信息图" width="480">
 
-- **分类:** 关系图谱信息图
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-71)
 
 **提示词:**
@@ -995,11 +1493,11 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 <a id="prompt-a7af65b632694c554eba"></a>
 
-### 26. AP Calculus 学习表信息图
+### 48. AP Calculus 学习表信息图
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case341.jpg" alt="AP Calculus 学习表信息图" width="480">
 
-- **分类:** AP Calculus 学习表信息图
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-341)
 
 **提示词:**
@@ -1010,11 +1508,11 @@ Please create a mathematical visualization infographic about "[math concept / to
 
 <a id="prompt-a8bbb9f813545a9d6ffa"></a>
 
-### 27. 信息图可视化设计
+### 49. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case64.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-64)
 
 **提示词:**
@@ -1023,13 +1521,28 @@ Please create a mathematical visualization infographic about "[math concept / to
 {"type":"infographic poster","style":"cute flat vector illustration, cozy, warm, soft shading, {argument name=\"color palette\" default=\"pastel Morandi colors, soft pinks, purples, and warm tones\"}","character":"{argument name=\"character description\" default=\"young woman with shoulder-length brown hair wearing a pinkish-purple shirt\"}","layout":{"structure":"4 rows, 3 columns. Top row is a merged header. Rows 2-4 contain 9 individual panels.","header":{"title":"{argument name=\"main title\" default=\"情绪不好了？\"}","subtitle":"{argument name=\"subtitle\" default=\"8个让你瞬间变好的方法\"}","sub_subtitle":"写给焦虑的你，快来看看","visual":"character hugging herself, surrounded by yellow sparkles and hearts"},"grid_panels":[{"id":1,"title":"1. 深呼吸","text":"调节神经，缓解紧张情绪。","visual":"character with eyes closed, smiling, surrounded by clouds"},{"id":2,"title":"2. 去户外散步","text":"接触自然，让心静下来。","visual":"character walking outdoors among green trees and bushes"},{"id":3,"title":"3. 写情绪日记","text":"把烦恼写下，大脑会更轻松。","visual":"character sitting at a desk writing in a notebook with a pen, floating hearts"},{"id":4,"title":"4. 抱抱自己","text":"给予自己温暖和安慰。","visual":"character hugging herself with eyes closed, floating hearts"},{"id":5,"title":"5. 听听音乐","text":"让舒缓的旋律治愈心灵。","visual":"character wearing large white headphones, eyes closed, floating colorful music notes"},{"id":6,"title":"6. 找人倾诉","text":"分享你的烦恼，让压力释放。","visual":"character holding a smartphone, talking to another similar-looking girl, floating hearts"},{"id":7,"title":"7. 看看天空","text":"感受天空的辽阔，让心情变好。","visual":"character looking up at a blue sky with white clouds and sparkles"},{"id":8,"title":"8. 冥想","text":"专注于呼吸，找回内心的宁静。","visual":"an open notebook, a pen, and a pink flower on a desk"},{"id":9,"title":"none","text":"{argument name=\"footer text\" default=\"转发收藏，每天都要关爱自己！\"}","visual":"character sitting cross-legged in a meditation pose, eyes closed, with a glowing halo behind her head"}]}}
 ```
 
+<a id="prompt-a96338746f35209f39ed"></a>
+
+### 50. 高考试卷复刻
+
+<img src="https://pbs.twimg.com/media/HGMr98EaYAA_DsG?format=jpg&amp;name=large" alt="高考试卷复刻" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/MrLarus/status/2046627021674168640)
+
+**提示词:**
+
+```text
+生成一张 2026 年 [科目名称] 高考试卷图像
+```
+
 <a id="prompt-a9a6d2ff0c2b9de26e77"></a>
 
-### 28. 信息图可视化设计
+### 51. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case88.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-88)
 
 **提示词:**
@@ -1091,11 +1604,11 @@ Naturally add the author signature in the bottom corner: @a9quant
 
 <a id="prompt-b0c09c1bd7cbf1b65f2f"></a>
 
-### 29. 绘制金瓶梅知识图谱
+### 52. 绘制金瓶梅知识图谱
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case214.jpg" alt="绘制金瓶梅知识图谱" width="480">
 
-- **分类:** 绘制金瓶梅知识图谱
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-214)
 
 **提示词:**
@@ -1164,15 +1677,30 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 主题内容：潘金莲
 ```
 
+<a id="prompt-b3ae3108b96f45393cd0"></a>
+
+### 53. 世界时间模拟时钟墙
+
+<img src="https://pbs.twimg.com/media/HGYD-Y4bMAA0KxJ?format=jpg&amp;name=large" alt="世界时间模拟时钟墙" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/Angaisb_/status/2046666389734179018)
+
+**提示词:**
+
+```text
+现在洛杉矶是上午 10 点，丹佛是上午 11 点，芝加哥是中午 12 点，纽约是下午 1 点，伦敦是下午 6 点，东京是凌晨 2 点。请渲染一面挂着不同模拟时钟的墙，每个时钟都显示其城市的正确时间，并在时钟下方标注城市名称。
+```
+
 <a id="prompt-b86a025959e1cd201c95"></a>
 
-### 30. 混合风格的桃太郎讲解 Slides
+### 54. 混合风格的桃太郎讲解 Slides
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case19.jpg" alt="混合风格的桃太郎讲解 Slides" width="480">
 
 一个融合了 Irasutoya 插图简约温馨的美学风格与日本政府 Slides 高信息密度特征的提示词。
 
-- **分类:** 信息图可视化设计, 桃太郎解释性幻灯片混合风格
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-19)
 
 **提示词:**
@@ -1183,11 +1711,11 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 <a id="prompt-bce858ec6a43bb2811f3"></a>
 
-### 31. 关系图谱信息图
+### 55. 关系图谱信息图
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case74.jpg" alt="关系图谱信息图" width="480">
 
-- **分类:** 关系图谱信息图
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-74)
 
 **提示词:**
@@ -1213,13 +1741,41 @@ Light-colored clean background, soft color palette, light shadows, exquisite sma
 Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
 ```
 
+<a id="prompt-bd4609c98d56708e5d6f"></a>
+
+### 56. 咖啡旅程信息图
+
+<img src="https://github.com/user-attachments/assets/ac0ed885-5b27-46d5-a163-f9e3c15dca3b" alt="咖啡旅程信息图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
+
+**提示词:**
+
+```text
+创建一张中文信息图海报，主题为“ 一杯咖啡 如何来到你手里 ”。使用高级信息设计风格，兼顾科普清晰度和商业展示感。版面应包含流程方向、箭头、数据框、图标、简洁插图和模块化卡片。配色采用咖啡棕、奶白、墨黑和铜色点缀。
+
+信息图必须包含：
+- 01 种植：海拔 1200-2200m，适宜温度 18-24C，采摘季节 11 月至 3 月
+- 02 处理：日晒、水洗、蜜处理
+- 03 烘焙：浅烘 = 更明亮，中烘 = 更均衡，深烘 = 更浓郁
+- 04 研磨：手冲 = 粗磨，意式 = 细磨，冷萃 = 中粗磨
+- 05 萃取：粉水比、水温和时间都会影响风味
+- 风味关键词：花香 / 柑橘 / 坚果 / 焦糖 / 巧克力 / 烟熏
+
+使用以下精确小字：
+"适合用于咖啡入门科普与门店展示"
+
+构图需要平衡文字与视觉，同时保持设计优雅。重点关注长信息图的处理、数字信息、温度、编号分区、简洁描述、斜杠分隔的风味词，以及模块化排版。最终效果应像高级展示板，而不是课堂幻灯片。
+```
+
 <a id="prompt-bd830fcf15c522bdb73c"></a>
 
-### 32. 景德镇青花瓷全景解说图谱
+### 57. 景德镇青花瓷全景解说图谱
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case248.jpg" alt="景德镇青花瓷全景解说图谱" width="480">
 
-- **分类:** 景德镇青花瓷全景解说图谱
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-248)
 
 **提示词:**
@@ -1228,13 +1784,45 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析
 ```
 
+<a id="prompt-bda0153409f32312e36e"></a>
+
+### 58. Codex 黑板文章可视化
+
+<img src="https://pbs.twimg.com/media/HGecW48bsAAncRT?format=jpg&amp;name=large" alt="Codex 黑板文章可视化" width="480">
+
+推文文本是唯一可见的类似提示的指令；结果是黑板风格的长篇文档可视化。
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/gabrielchua/status/2046778728748048886)
+
+**提示词:**
+
+```text
+一幅画胜过千言万语。GPT Image 2 创造它们。
+```
+
+<a id="prompt-c6fdd09400be51657da2"></a>
+
+### 59. 三日旅行指南卡片
+
+<img src="https://pbs.twimg.com/media/HGa2KbFXMAAv9Wh?format=jpg&amp;name=large" alt="三日旅行指南卡片" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/MrLarus/status/2046627021674168640)
+
+**提示词:**
+
+```text
+为 [城市] 生成一张三天旅行指南图像
+```
+
 <a id="prompt-c9e977302e4668864724"></a>
 
-### 33. 绘制科学百科知识图谱
+### 60. 绘制科学百科知识图谱
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case218.jpg" alt="绘制科学百科知识图谱" width="480">
 
-- **分类:** 绘制科学百科知识图谱
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-218)
 
 **提示词:**
@@ -1297,11 +1885,11 @@ C. 植物类
 
 <a id="prompt-d1edee749ff85f9e72fa"></a>
 
-### 34. 信息图可视化设计
+### 61. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case102.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-102)
 
 **提示词:**
@@ -1312,11 +1900,11 @@ Search the web for {argument name="performance description" default="this week�
 
 <a id="prompt-d299054bd0faa987861a"></a>
 
-### 35. 信息图可视化设计
+### 62. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case72.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-72)
 
 **提示词:**
@@ -1354,11 +1942,11 @@ Search the web for {argument name="performance description" default="this week�
 
 <a id="prompt-d365bafd87789b2607ab"></a>
 
-### 36. 研究LIME药物设计并制作一个详细的关于它的信息图表
+### 63. 研究LIME药物设计并制作一个详细的关于它的信息图表
 
 <img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case83/output.jpg" alt="研究LIME药物设计并制作一个详细的关于它的信息图表" width="480">
 
-- **分类:** 比较与社区示例
+- **分类:** 信息图与教育
 - **来源:** [EvoLinkAI/awesome-gpt-image-2-prompts](https://x.com/WillSpagnoli/status/2047172976463040851)
 
 **提示词:**
@@ -1369,11 +1957,11 @@ Search the web for {argument name="performance description" default="this week�
 
 <a id="prompt-d7fff21551be410d47a5"></a>
 
-### 37. 信息图可视化设计
+### 64. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case14.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-14)
 
 **提示词:**
@@ -1384,11 +1972,11 @@ Search the web for {argument name="performance description" default="this week�
 
 <a id="prompt-dbfd8f0919949f6cb90c"></a>
 
-### 38. 关系图谱信息图
+### 65. 关系图谱信息图
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case84.jpg" alt="关系图谱信息图" width="480">
 
-- **分类:** 关系图谱信息图
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-84)
 
 **提示词:**
@@ -1415,13 +2003,28 @@ The final product should satisfy:
 - Avoids a cheap flowchart feel, messy piling, and information overload.
 ```
 
+<a id="prompt-e5904f104c99dc7b64b5"></a>
+
+### 66. 言叶之庭春雨绿意单日历
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case251.jpg" alt="言叶之庭春雨绿意单日历" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-251)
+
+**提示词:**
+
+```text
+生成一张言叶之庭2026年4月19日单日日历
+```
+
 <a id="prompt-e5a05d4d8a07c6c2c3d7"></a>
 
-### 39. 信息图可视化设计
+### 67. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case1.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-1)
 
 **提示词:**
@@ -1432,11 +2035,11 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 <a id="prompt-e6e43a3687e3772cc4c4"></a>
 
-### 40. 信息图可视化设计
+### 68. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case73.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-73)
 
 **提示词:**
@@ -1499,11 +2102,11 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 <a id="prompt-ed41438a5e0a1e658085"></a>
 
-### 41. 信息图可视化设计
+### 69. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case55.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-55)
 
 **提示词:**
@@ -1512,13 +2115,28 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 Help me create a detailed production flowchart for the dish {argument name="dish name" default="Fried Pork with Chili"}, in a realistic style, suitable for Xiaohongshu image-text proportions.
 ```
 
+<a id="prompt-eed497e62d26cd66fe59"></a>
+
+### 70. 个人色彩分析图
+
+<img src="https://pbs.twimg.com/media/HGc_ayZXsAAd7Ur?format=jpg&amp;name=large" alt="个人色彩分析图" width="480">
+
+- **分类:** 信息图与教育
+- **来源:** [ZeroLu/awesome-gpt-image](https://x.com/AngryTomtweets/status/2046674296559313170)
+
+**提示词:**
+
+```text
+使用这张肖像，创建一个以图表为主的个人色彩分析。通过视觉对比展示哪些服装颜色适合该主体。保持文本简洁，避免使用段落。
+```
+
 <a id="prompt-efa7d86df851921bfb61"></a>
 
-### 42. 长发造型分析信息图
+### 71. 长发造型分析信息图
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case360.jpg" alt="长发造型分析信息图" width="480">
 
-- **分类:** 长发造型分析信息图
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-360)
 
 **提示词:**
@@ -1571,11 +2189,11 @@ High resolution, 4K
 
 <a id="prompt-f382c76c6d719c63b15d"></a>
 
-### 43. 人教版三年级语文课本内页
+### 72. 人教版三年级语文课本内页
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case303.jpg" alt="人教版三年级语文课本内页" width="480">
 
-- **分类:** 人教版三年级语文课本内页
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-303)
 
 **提示词:**
@@ -1586,11 +2204,11 @@ High resolution, 4K
 
 <a id="prompt-f88b7e499941ce7926d8"></a>
 
-### 44. 信息图可视化设计
+### 73. 信息图可视化设计
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case270.jpg" alt="信息图可视化设计" width="480">
 
-- **分类:** 信息图可视化设计
+- **分类:** 信息图与教育
 - **来源:** [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2#case-270)
 
 **提示词:**
@@ -1604,4 +2222,38 @@ High resolution, 4K
 ・アスペクト比16：9 　←
 
 高解像度、プロのコンセプトアートスタイル
+```
+
+<a id="prompt-3e2ed7769ec74ba503d7"></a>
+
+### 74. 信息图 / 教育视觉图 - Minimalist facial beauty report
+
+<img src="https://cms-assets.youmind.com/media/1777367278815_6bvtbg_HG6lzruaUAAqP7L.jpg" alt="信息图 / 教育视觉图 - Minimalist facial beauty report" width="480">
+
+一个用于生成清洁、高端面部美容分析报告的专业提示，包含数据驱动的洞察和简约布局。
+
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/so_ainsight/status/2048757283384172848)
+
+**提示词:**
+
+```text
+基于这张照片，创建一个简洁、简约且奢华的面部美容报告。使用基于 {argument name="color scheme" default="black on white"} 的设计，融入细线条、圆角卡片和奢华美学。包含简单的面部轮廓插图，坦率的吸引力分析（对称性、比例、骨骼结构、皮肤质量等），清晰的评分，优势，改进领域，以及易于实施的护理和风格改进建议。内容应基于数据，视觉上精致，不过分奉承。
+```
+
+<a id="prompt-ef8ce802d12b8dbd538e"></a>
+
+### 75. 信息图 / 教育视觉图 - 3D Exploded Assembly Drawing
+
+<img src="https://cms-assets.youmind.com/media/1777367268325_td7g6d_HG7r8UsawAAzN86.jpg" alt="信息图 / 教育视觉图 - 3D Exploded Assembly Drawing" width="480">
+
+用于生成任何主题的详细技术3D爆炸视图图的提示。
+
+- **分类:** 信息图与教育
+- **来源:** [YouMind-OpenLab/awesome-gpt-image-2](https://x.com/Ankit_patel211/status/2048834306379075759)
+
+**提示词:**
+
+```text
+创建一个3D超高详细分解装配图 {argument name="subject" default="[subject or object]"}
 ```

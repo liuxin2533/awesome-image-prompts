@@ -2,10 +2,12 @@ const { spawn } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 const { defaultProjectRoot } = require('./config');
+const { PUBLIC_LANGUAGES, languageCsv } = require('../i18n/languages');
 
 const TRANSLATION_LANGUAGES = ['de', 'en', 'es', 'fr', 'hi', 'it', 'ja', 'ko', 'pt', 'ru', 'th', 'tr', 'vi', 'zh-CN', 'zh-TW'];
 const SUPPORTED_TRANSLATION_LANGUAGES = new Set(TRANSLATION_LANGUAGES);
 const WORKBENCH_REPORT_LANGUAGES = ['en', 'zh-CN'];
+const WORKBENCH_PUBLIC_LANGUAGES = PUBLIC_LANGUAGES;
 const WORKBENCH_TRANSLATION_CONCURRENCY = 2;
 
 function reportLanguageArgs(extraLanguages = []) {
@@ -109,11 +111,11 @@ function buildActionCommand(type, body = {}, options = {}) {
   }
 
   if (type === 'catalog-export') {
-    return createPackageScriptCommand(['catalog:export', '--', '--languages', WORKBENCH_REPORT_LANGUAGES.join(',')], options);
+    return createPackageScriptCommand(['catalog:export', '--', '--languages', languageCsv(WORKBENCH_PUBLIC_LANGUAGES)], options);
   }
 
   if (type === 'readme-generate') {
-    return createPackageScriptCommand(['readme:generate', '--', '--languages', WORKBENCH_REPORT_LANGUAGES.join(',')], options);
+    return createPackageScriptCommand(['readme:generate', '--', '--languages', languageCsv(WORKBENCH_PUBLIC_LANGUAGES)], options);
   }
 
   if (type === 'workflow') {
@@ -125,7 +127,7 @@ function buildActionCommand(type, body = {}, options = {}) {
       '--target-languages',
       'en,zh-CN',
       '--catalog-languages',
-      'en,zh-CN',
+      languageCsv(WORKBENCH_PUBLIC_LANGUAGES),
       '--strict'
     ], options);
   }

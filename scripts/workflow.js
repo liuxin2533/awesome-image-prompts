@@ -7,15 +7,14 @@ const { translateMissing } = require('./ingestion/translation');
 const { mirrorMissingAssets } = require('./ingestion/assets');
 const { exportCatalogData } = require('./catalog/export');
 const { generateReadmes } = require('./readme/generate');
+const { parseLanguageList } = require('./i18n/languages');
 
 function projectRoot() {
   return path.join(__dirname, '..');
 }
 
 function parseList(value, fallback = []) {
-  if (Array.isArray(value)) return value.map(item => String(item).trim()).filter(Boolean);
-  if (!value) return fallback;
-  return String(value).split(/[,\s]+/).map(item => item.trim()).filter(Boolean);
+  return parseLanguageList(value, fallback);
 }
 
 function envFlag(name, fallback = false) {

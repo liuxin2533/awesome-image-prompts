@@ -4,9 +4,10 @@ const path = require('path');
 
 const { ensureDir, readCanonicalDataset, writeJson } = require('../ingestion/core/persist');
 const { uniqueBy } = require('../ingestion/core/text');
+const { PUBLIC_LANGUAGES, parseLanguageList } = require('../i18n/languages');
 const { collectionForPrompt } = require('./collections');
 
-const DEFAULT_CATALOG_LANGUAGES = ['en', 'zh-CN'];
+const DEFAULT_CATALOG_LANGUAGES = PUBLIC_LANGUAGES;
 
 function compact(items) {
   return (items || []).filter(item => item !== null && item !== undefined && item !== '');
@@ -24,9 +25,7 @@ function cleanGeneratedValue(value) {
 }
 
 function parseList(value, fallback = []) {
-  if (Array.isArray(value)) return value.map(item => String(item).trim()).filter(Boolean);
-  if (!value) return fallback;
-  return String(value).split(/[,\s]+/).map(item => item.trim()).filter(Boolean);
+  return parseLanguageList(value, fallback);
 }
 
 function languageFallbacks(language, fallbackLanguages = ['en']) {
@@ -301,11 +300,14 @@ async function exportCatalogData(options = {}) {
   const canonicalFile = options.canonicalFile || path.join(projectRoot, 'data/canonical/prompts.json');
   const outputDir = options.outputDir || path.join(projectRoot, 'data/catalog');
   const dataset = options.dataset || readCanonicalDataset(canonicalFile);
-  const languages = unique([
-    options.defaultLanguage || 'en',
-    ...parseList(options.languages, parseList(process.env.CATALOG_LANGUAGES || process.env.SITE_LANGUAGES, DEFAULT_CATALOG_LANGUAGES))
-  ]);
-  const defaultLanguage = options.defaultLanguage || languages[0] || 'en';
+  const defaultLanguage = options.defaultLanguage || process.env.DEFAULT_LANGUAGE || 'en';
+  const requestedLanguages = parseList(
+    options.languages,
+    parseList(process.env.CATALOG_LANGUAGES || process.env.SITE_LANGUAGES, DEFAULT_CATALOG_LANGUAGES)
+  );
+  const languages = requestedLanguages.includes(defaultLanguage)
+    ? requestedLanguages
+    : unique([defaultLanguage, ...requestedLanguages]);
   const catalogDatasets = {};
   const assetBaseUrl = options.assetBaseUrl || process.env.PUBLIC_ASSET_BASE_URL || process.env.ASSET_BASE_URL || '';
 
